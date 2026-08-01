@@ -276,6 +276,21 @@ const App = {
   platInfo(id) { return this.catalog.platforms.find(p => p.id === id); },
   logo(platform) { return `assets/logos/${platform}.svg`; },
 
+  // Per le testate giornalistiche mostriamo il loro logo vero (favicon del sito)
+  // invece dell'icona generica delle notizie, che a piccole dimensioni si
+  // confondeva con quella di Reddit.
+  itemLogoHtml(item, size) {
+    const style = size ? ` style="width:${size}px;height:${size}px"` : '';
+    if (item.platform === 'rss' && item.url) {
+      try {
+        const origin = new URL(item.url).origin;
+        return `<img src="${this.esc(origin)}/favicon.ico" alt="${this.esc(item.source)}"${style}
+                     loading="lazy" onerror="this.onerror=null;this.src='assets/logos/rss.svg'">`;
+      } catch { /* url non valido: si usa l'icona generica */ }
+    }
+    return `<img src="${this.logo(item.platform)}" alt="${this.esc(item.platform)}"${style} loading="lazy">`;
+  },
+
   allItems() {
     return Store.get().topics.flatMap(t => this.feeds[t] || []);
   },
@@ -305,7 +320,7 @@ const App = {
         <span class="hero-badge">✦ ${I18N.t('home.hero.badge')}</span>
         <h2 class="hero-title">${this.esc(item.title)}</h2>
         <div class="hero-meta">
-          <img src="${this.logo(item.platform)}" alt="">
+          ${this.itemLogoHtml(item, 18)}
           <span>${this.esc(item.source)} · ${I18N.timeAgo(item.date)}</span>
         </div>
         <span class="hero-cta">${item.videoId ? '▶' : '📖'} ${cta}</span>
@@ -628,7 +643,7 @@ const App = {
       card.innerHTML = `
         <div class="card-thumb">
           ${thumb}
-          <span class="pbadge"><img src="${this.logo(item.platform)}" alt="${this.esc(item.platform)}"></span>
+          <span class="pbadge">${this.itemLogoHtml(item)}</span>
           ${item.videoId ? '<span class="play">▶</span>' : ''}
           ${this.isNew(item) ? `<span class="newbadge">${I18N.t('badge.new')}</span>` : ''}
         </div>
@@ -714,7 +729,7 @@ const App = {
         <div class="vtitle">${this.esc(item.title)}</div>
         ${item.summary ? `<div class="vsummary">${this.esc(item.summary)}</div>` : ''}
         <div class="card-meta">
-          <img src="${this.logo(item.platform)}" alt="" style="width:14px;height:14px">
+          ${this.itemLogoHtml(item, 14)}
           <span class="src">${this.esc(item.source)}</span> · ${I18N.timeAgo(item.date)}
           ${this.saveBtnHtml(item)}
         </div>
@@ -1071,7 +1086,9 @@ const App = {
     // gruppi: prima gli interessi (⭐), poi le piattaforme (con logo)
     const groups = new Map();
     for (const i of this.notifItems) {
-      const key = i._interest ? `⭐ ${i._interest}` : `p:${i.platform}`;
+      // le testate si raggruppano per nome (ANSA, Corriere...), i social per piattaforma
+      const key = i._interest ? `⭐ ${i._interest}`
+        : i.platform === 'rss' ? `s:${i.sourceId}` : `p:${i.platform}`;
       if (!groups.has(key)) groups.set(key, []);
       groups.get(key).push(i);
     }
@@ -1083,6 +1100,9 @@ const App = {
         const p = this.platInfo(pid);
         h.innerHTML = `<img src="${this.logo(pid)}" alt="">
           ${this.esc(p?.name || pid)} — ${items.length} ${I18N.t('notif.new')}`;
+      } else if (key.startsWith('s:')) {
+        h.innerHTML = `${this.itemLogoHtml(items[0], 18)}
+          ${this.esc(items[0].source)} — ${items.length} ${I18N.t('notif.new')}`;
       } else {
         h.textContent = `${key} — ${items.length} ${I18N.t('notif.new')}`;
       }
