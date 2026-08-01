@@ -27,6 +27,41 @@ const App = {
     mastodon: 'https://mastodon.uno/auth/sign_out'
   },
 
+  // Link diretti all'argomento su ogni piattaforma social: aprono la pagina
+  // dell'hashtag/ricerca sulla piattaforma, nella stessa scheda (indietro torna qui).
+  TOPIC_URLS: {
+    instagram: t => `https://www.instagram.com/explore/tags/${t.replace(/[^\p{L}\p{N}]/gu, '')}/`,
+    facebook: t => `https://www.facebook.com/hashtag/${t.replace(/[^\p{L}\p{N}]/gu, '')}`,
+    x: t => `https://x.com/search?q=${encodeURIComponent('#' + t.replace(/\s+/g, ''))}&src=typed_query`,
+    tiktok: t => `https://www.tiktok.com/tag/${t.replace(/[^\p{L}\p{N}]/gu, '')}`,
+    youtube: t => `https://www.youtube.com/results?search_query=${encodeURIComponent(t)}`,
+    reddit: t => `https://www.reddit.com/search/?q=${encodeURIComponent(t)}`,
+    telegram: t => `https://t.me/s/${t.replace(/[^\p{L}\p{N}]/gu, '')}`,
+    bluesky: t => `https://bsky.app/search?q=${encodeURIComponent(t)}`,
+    mastodon: t => `https://mastodon.uno/tags/${t.replace(/[^\p{L}\p{N}]/gu, '')}`
+  },
+
+  // barra "vedi questo argomento su..." con le piattaforme nell'ordine scelto dall'utente
+  socialBarFor(topic) {
+    const bar = document.createElement('div');
+    bar.className = 'social-bar';
+    bar.innerHTML = `<span class="sb-title">${I18N.t('topic.seeon')}</span>`;
+    for (const key of this.getPlatformOrder()) {
+      const fn = this.TOPIC_URLS[key];
+      if (!fn) continue;
+      const p = this.platInfo(key);
+      const a = document.createElement('a');
+      a.className = 'sb-link';
+      a.href = fn(topic);
+      a.rel = 'noopener';
+      a.title = `${p?.name || key}: #${topic}`;
+      a.innerHTML = `<img src="${this.logo(key)}" alt="${this.esc(p?.name || key)}">`;
+      a.onclick = e => { e.preventDefault(); this.markConnected(key); this.leaveTo(fn(topic)); };
+      bar.appendChild(a);
+    }
+    return bar;
+  },
+
   // URL di ricerca per gli interessi ("AS Roma" → profili da collegare)
   SEARCH_URLS: {
     youtube: q => `https://www.youtube.com/results?search_query=${q}`,
@@ -207,18 +242,24 @@ const App = {
   },
 
   async fetchBluesky(src) {
-    let url;
-    if (src.kind === 'search') {
-      // la ricerca vive su api.bsky.app (public.api non la espone)
-      url = `https://api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=${encodeURIComponent(src.q)}` +
-            `&limit=15&sort=latest&lang=${I18N.lang}`;
-    } else if (src.kind === 'feed') {
-      url = `https://public.api.bsky.app/xrpc/app.bsky.feed.getFeed?feed=${encodeURIComponent(src.feed)}&limit=20`;
-    } else return [];
+    if (src.kind === 'feed') {
+      const url = `https://public.api.bsky.app/xrpc/app.bsky.feed.getFeed?feed=${encodeURIComponent(src.feed)}&limit=20`;
+      const data = await (await fetch(url)).json();
+      return (data.feed || []).map(f => this.bskyItem(f.post, src)).filter(Boolean);
+    }
+    if (src.kind !== 'search') return [];
 
-    const data = await (await fetch(url)).json();
-    const posts = src.kind === 'search' ? (data.posts || []) : (data.feed || []).map(f => f.post);
-    return posts.map(p => this.bskyItem(p, src)).filter(Boolean);
+    // la ricerca vive su api.bsky.app (public.api non la espone).
+    // Prima nella lingua dell'utente; se non trova nulla, senza filtro di lingua
+    // (utile per argomenti internazionali come Apple o Formula 1).
+    const base = 'https://api.bsky.app/xrpc/app.bsky.feed.searchPosts?limit=15&sort=latest&q=' +
+                 encodeURIComponent(src.q);
+    for (const url of [`${base}&lang=${I18N.lang}`, base]) {
+      const data = await (await fetch(url)).json();
+      const items = (data.posts || []).map(p => this.bskyItem(p, src)).filter(Boolean);
+      if (items.length) return items;
+    }
+    return [];
   },
 
   async fetchMastodon(src) {
@@ -891,6 +932,8 @@ const App = {
     this.rebuildFeeds();
     const list = document.getElementById('catFeed');
     list.innerHTML = '';
+    // link all'argomento su Instagram, Facebook, X, TikTok e le altre
+    list.appendChild(this.socialBarFor(info?.tag || cat));
     const items = this.scored(this.feeds[cat] || []);
     if (!items.length) {
       list.innerHTML = `<div class="empty-state"><span class="big">🛰️</span>${I18N.t('feed.empty')}</div>`;
@@ -1148,6 +1191,7 @@ const App = {
     await this.ensureAllFeeds();
     const items = this.scored(this.interestMatches(name));
     list.innerHTML = '';
+    list.appendChild(this.socialBarFor(name));
 
     // scorciatoia ai profili social da collegare per questo interesse
     const explore = document.createElement('button');

@@ -283,6 +283,24 @@ h1, h2, h3 { font-weight: 700; }
 .savebtn.on { filter: none; background: rgba(56,189,248,0.16); }
 .post-stats .savebtn { margin-left: auto; }
 
+/* ─── barra "vedi questo argomento su..." ─── */
+.social-bar {
+  display: flex; align-items: center; gap: 7px; flex-wrap: wrap;
+  background: var(--card); border: 1px solid rgba(255,255,255,0.07);
+  border-radius: 14px; padding: 9px 12px; margin-bottom: 4px;
+}
+.social-bar .sb-title {
+  font-size: 11.5px; color: var(--muted); font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.6px; margin-right: 2px;
+}
+.social-bar .sb-link {
+  width: 34px; height: 34px; border-radius: 9px; display: flex;
+  align-items: center; justify-content: center; background: rgba(255,255,255,0.06);
+  transition: transform 0.12s, background 0.15s;
+}
+.social-bar .sb-link img { width: 22px; height: 22px; }
+.social-bar .sb-link:hover { transform: scale(1.12); background: rgba(255,255,255,0.16); }
+
 /* ─── contenuti social incorporati ─── */
 .embed-list { display: flex; flex-direction: column; gap: 14px; margin-top: 12px; }
 .embed-card {
