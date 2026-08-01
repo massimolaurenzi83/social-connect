@@ -7,6 +7,32 @@ const App = {
   feeds: {},        // categoria -> [items]
   notifItems: [],
   currentView: 'home',
+  editingPlatforms: false,
+  selectedPlatform: null,
+
+  // URL di logout noti (fallback: home della piattaforma)
+  LOGOUT_URLS: {
+    youtube: 'https://www.youtube.com/logout',
+    x: 'https://x.com/logout',
+    instagram: 'https://www.instagram.com/accounts/logout/',
+    tiktok: 'https://www.tiktok.com/logout',
+    reddit: 'https://www.reddit.com/logout',
+    facebook: 'https://www.facebook.com/settings?tab=security',
+    bluesky: 'https://bsky.app/settings',
+    mastodon: 'https://mastodon.uno/auth/sign_out'
+  },
+
+  // URL di ricerca per gli interessi ("AS Roma" → profili da collegare)
+  SEARCH_URLS: {
+    youtube: q => `https://www.youtube.com/results?search_query=${q}`,
+    instagram: q => `https://www.instagram.com/explore/search/keyword/?q=${q}`,
+    x: q => `https://x.com/search?q=${q}&f=user`,
+    tiktok: q => `https://www.tiktok.com/search/user?q=${q}`,
+    facebook: q => `https://www.facebook.com/search/pages?q=${q}`,
+    reddit: q => `https://www.reddit.com/search/?q=${q}&type=sr`,
+    bluesky: q => `https://bsky.app/search?q=${q}`,
+    telegram: q => `https://t.me/s/${q.replace(/\s+/g, '')}`
+  },
 
   // ─────────────────────────── avvio ───────────────────────────
   async init() {
@@ -32,21 +58,88 @@ const App = {
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('sw.js').catch(() => {});
     }
+
+    // dashboard dinamica: refresh automatico ogni 3 minuti (quando la scheda è visibile)
+    this.REFRESH_MS = 3 * 60 * 1000;
+    this._lastAuto = Date.now();
+    setInterval(() => {
+      if (document.visibilityState === 'visible' && Store.get().onboarded) {
+        this._lastAuto = Date.now();
+        this.refresh();
+      }
+    }, this.REFRESH_MS);
+    // tornando sull'app dopo un po', aggiorna subito
+    document.addEventListener('visibilitychange', () => {
+      if (document.visibilityState === 'visible' && Store.get().onboarded &&
+          Date.now() - this._lastAuto > this.REFRESH_MS) {
+        this._lastAuto = Date.now();
+        this.refresh();
+      }
+    });
   },
 
   // ─────────────────────── caricamento feed ───────────────────────
   async loadFeeds() {
-    const topics = Store.get().topics;
-    const jobs = topics.map(async cat => {
-      if (cat === 'social') return this.loadSocialLive();
+    const prefs = Store.get();
+    // con interessi attivi carichiamo tutte le categorie, per cercare ovunque
+    const cats = prefs.interests.length
+      ? this.catalog.categories.map(c => c.id)
+      : prefs.topics;
+    const needSocial = cats.includes('social') || prefs.interests.length > 0;
+
+    const jobs = cats.filter(c => c !== 'social').map(async cat => {
       try {
         const res = await fetch(`data/feeds/${cat}.json`, { cache: 'no-cache' });
         const data = await res.json();
         this.feeds[cat] = data.items || [];
-      } catch { this.feeds[cat] = []; }
+      } catch { this.feeds[cat] = this.feeds[cat] || []; }
     });
+    if (needSocial) jobs.push(this.loadSocialLive());
     await Promise.allSettled(jobs);
     this.computeNotifications();
+    this.stampUpdated();
+    this.maybeSystemNotify();
+  },
+
+  isNew(item) {
+    return new Date(item.date).getTime() > (Store.get().lastRead || 0);
+  },
+
+  // notifica di sistema reale quando arrivano novità (se l'utente l'ha attivata)
+  async maybeSystemNotify() {
+    const prefs = Store.get();
+    if (!prefs.sysNotif || !('Notification' in window) || Notification.permission !== 'granted') return;
+    const fresh = this.notifItems.filter(i => new Date(i.date).getTime() > (prefs.lastNotified || 0));
+    if (!fresh.length) return;
+    Store.set({ lastNotified: Date.now() });
+    const title = 'Social Connect';
+    const body = `${fresh.length} ${I18N.t('sysnotif.body')}\n${(fresh[0].title || '').slice(0, 90)}`;
+    try {
+      const reg = await navigator.serviceWorker?.getRegistration();
+      if (reg?.showNotification) {
+        reg.showNotification(title, { body, icon: 'assets/icon.svg', badge: 'assets/icon.svg', tag: 'sc-news' });
+      } else {
+        new Notification(title, { body, icon: 'assets/icon.svg' });
+      }
+    } catch { /* notifiche non disponibili */ }
+  },
+
+  async refresh() {
+    const btn = document.getElementById('btnRefresh');
+    btn.classList.add('spin');
+    try {
+      await this.loadFeeds();
+      this.renderAll();
+    } finally {
+      btn.classList.remove('spin');
+    }
+  },
+
+  stampUpdated() {
+    const el = document.getElementById('updatedNote');
+    const t = new Date().toLocaleTimeString(I18N.lang === 'it' ? 'it-IT' : 'en-GB',
+      { hour: '2-digit', minute: '2-digit' });
+    el.textContent = `${I18N.t('home.updated')} · ${t}`;
   },
 
   // Bluesky + Mastodon vengono letti in diretta dal browser (API pubbliche con CORS)
@@ -101,6 +194,52 @@ const App = {
     this.feeds.social = items;
   },
 
+  // ──────────────── priorità piattaforme (ordine tile) ────────────────
+  getPlatformOrder() {
+    const saved = Store.get().platformOrder;
+    const all = this.catalog.platforms.map(p => p.id);
+    // ordine salvato + eventuali piattaforme nuove in coda
+    return [...saved.filter(id => all.includes(id)), ...all.filter(id => !saved.includes(id))];
+  },
+
+  platformRank(id) {
+    const i = this.getPlatformOrder().indexOf(id);
+    return i < 0 ? this.catalog.platforms.length : i;
+  },
+
+  // ─────────── profilo dinamico: impara da ciò che l'utente apre ───────────
+  trackAffinity(item) {
+    const a = structuredClone(Store.get().affinity || { platforms: {}, sources: {}, categories: {} });
+    a.platforms[item.platform] = (a.platforms[item.platform] || 0) + 1;
+    if (item.sourceId) a.sources[item.sourceId] = (a.sources[item.sourceId] || 0) + 1;
+    if (item.category) a.categories[item.category] = (a.categories[item.category] || 0) + 1;
+    Store.set({ affinity: a });
+  },
+
+  // punteggio dinamico: recenza + ordine piattaforme scelto dall'utente
+  // + app connesse + affinità con fonti/categorie/piattaforme già visitate
+  itemScore(item) {
+    const prefs = Store.get();
+    const a = prefs.affinity || {};
+    const ageHours = (Date.now() - new Date(item.date).getTime()) / 3600000;
+    let bonus = 0;
+    bonus += Math.log2(1 + (a.platforms?.[item.platform] || 0)) * 1.2;
+    bonus += Math.log2(1 + (a.sources?.[item.sourceId] || 0)) * 1.6;
+    bonus += Math.log2(1 + (a.categories?.[item.category] || 0)) * 0.8;
+    if ((prefs.connected || {})[item.platform]) bonus += 2;
+    return ageHours + this.platformRank(item.platform) * 1.5 - bonus;
+  },
+
+  // categorie ordinate per interesse dimostrato (click precedenti)
+  topicsByAffinity() {
+    const a = Store.get().affinity?.categories || {};
+    return [...Store.get().topics].sort((x, y) => (a[y] || 0) - (a[x] || 0));
+  },
+
+  scored(items) {
+    return [...items].sort((a, b) => this.itemScore(a) - this.itemScore(b));
+  },
+
   // ─────────────────────────── rendering ───────────────────────────
   renderAll() {
     this.renderHero();
@@ -125,12 +264,20 @@ const App = {
   allItems() {
     return Store.get().topics.flatMap(t => this.feeds[t] || []);
   },
+  everyLoadedItem() {
+    const seen = new Set();
+    const out = [];
+    for (const arr of Object.values(this.feeds)) {
+      for (const i of arr) if (!seen.has(i.id)) { seen.add(i.id); out.push(i); }
+    }
+    return out;
+  },
 
   renderHero() {
     const el = document.getElementById('hero');
-    const candidates = this.allItems()
-      .filter(i => i.image && i.platform !== 'bluesky' && i.platform !== 'mastodon')
-      .sort((a, b) => new Date(b.date) - new Date(a.date));
+    const candidates = this.scored(
+      this.allItems().filter(i => i.image && i.platform !== 'bluesky' && i.platform !== 'mastodon')
+    );
     const item = candidates[0];
     el.classList.remove('skeleton');
     if (!item) { el.hidden = true; return; }
@@ -151,28 +298,224 @@ const App = {
     el.onclick = () => this.openItem(item);
   },
 
+  // ──────────── riga piattaforme: ordine, stato connesso, drag ────────────
   renderPlatformRow() {
     const row = document.getElementById('platformRow');
     row.innerHTML = '';
-    for (const p of this.catalog.platforms) {
-      if (p.id === 'rss') continue;
+    const connected = Store.get().connected || {};
+    for (const id of this.getPlatformOrder()) {
+      const p = this.platInfo(id);
+      if (!p || p.id === 'rss') continue;
       const a = document.createElement('a');
-      a.className = 'ptile';
+      a.className = 'ptile' + (connected[p.id] ? ' connected' : '');
+      a.dataset.pid = p.id;
       a.href = p.url;
       a.target = '_blank';
       a.rel = 'noopener';
+      a.draggable = false;
       a.title = `${p.name} — ${I18N.t(p.level === 1 ? 'platform.level1' : 'platform.level3')}`;
-      a.innerHTML = `<img src="${this.logo(p.id)}" alt="${this.esc(p.name)}">
+      a.innerHTML = `<img src="${this.logo(p.id)}" alt="${this.esc(p.name)}" draggable="false">
+                     <span class="dot"></span>
                      <span class="lvl">${p.level === 1 ? '◉' : '↗'}</span>`;
+      a.addEventListener('click', e => {
+        if (this.editingPlatforms) {
+          e.preventDefault();
+          this.selectTileForMove(a, row);
+          return;
+        }
+        this.markConnected(p.id);
+      });
       row.appendChild(a);
+    }
+    row.classList.toggle('editing', this.editingPlatforms);
+    this.enablePlatformDrag(row);
+    this.paintSelection(row);
+
+    const btn = document.getElementById('btnEditPlatforms');
+    btn.textContent = I18N.t(this.editingPlatforms ? 'home.done' : 'home.edit');
+    document.querySelector('.hint').hidden = !this.editingPlatforms;
+  },
+
+  // primo accesso: la tile viene marcata come "connesso" (la sessione resta nel browser)
+  markConnected(platformId) {
+    const connected = { ...(Store.get().connected || {}) };
+    if (!connected[platformId]) {
+      connected[platformId] = Date.now();
+      Store.set({ connected });
+      this.renderPlatformRow();
+      this.renderAccounts();
     }
   },
 
+  disconnect(platformId) {
+    const connected = { ...(Store.get().connected || {}) };
+    delete connected[platformId];
+    Store.set({ connected });
+    this.renderPlatformRow();
+    this.renderAccounts();
+    // apre la pagina di logout ufficiale della piattaforma
+    const url = this.LOGOUT_URLS[platformId] || this.platInfo(platformId)?.url;
+    if (url) window.open(url, '_blank', 'noopener');
+  },
+
+  // Click su un logo = lo seleziono; click su un altro logo = ci sposto il
+  // selezionato (prima o dopo, secondo la direzione). Il trascinamento resta
+  // disponibile come scorciatoia: parte solo dopo 8px di movimento, così il
+  // click semplice continua a funzionare.
+  selectTileForMove(tile, row) {
+    const pid = tile.dataset.pid;
+    if (this.selectedPlatform === pid) {
+      this.selectedPlatform = null;          // secondo click: deseleziona
+    } else if (this.selectedPlatform) {
+      this.moveSelectedTo(pid, row);
+      return;
+    } else {
+      this.selectedPlatform = pid;
+    }
+    this.paintSelection(row);
+  },
+
+  moveSelectedTo(targetPid, row) {
+    const order = [...row.querySelectorAll('.ptile')].map(t => t.dataset.pid);
+    const from = order.indexOf(this.selectedPlatform);
+    const to = order.indexOf(targetPid);
+    if (from < 0 || to < 0) return;
+    order.splice(from, 1);
+    order.splice(to, 0, this.selectedPlatform);
+    this.applyOrder(order);
+  },
+
+  // ◀ / ▶ : sposta di una posizione il logo selezionato
+  nudgeSelected(delta) {
+    if (!this.selectedPlatform) return;
+    const row = document.getElementById('platformRow');
+    const order = [...row.querySelectorAll('.ptile')].map(t => t.dataset.pid);
+    const from = order.indexOf(this.selectedPlatform);
+    const to = from + delta;
+    if (from < 0 || to < 0 || to >= order.length) return;
+    order.splice(from, 1);
+    order.splice(to, 0, this.selectedPlatform);
+    this.applyOrder(order);
+  },
+
+  applyOrder(visibleOrder) {
+    const rest = this.getPlatformOrder().filter(id => !visibleOrder.includes(id));
+    Store.set({ platformOrder: [...visibleOrder, ...rest] });
+    this.renderPlatformRow();
+    this.renderRows();
+    this.renderHero();
+  },
+
+  paintSelection(row) {
+    row.querySelectorAll('.ptile').forEach(t => {
+      t.classList.toggle('selected', t.dataset.pid === this.selectedPlatform);
+    });
+    const bar = document.getElementById('sortBar');
+    bar.hidden = !this.editingPlatforms;
+    if (!this.editingPlatforms) return;
+    const p = this.selectedPlatform ? this.platInfo(this.selectedPlatform) : null;
+    bar.querySelector('.sb-label').innerHTML = p
+      ? `<img src="${this.logo(p.id)}" alt=""> <b>${this.esc(p.name)}</b>`
+      : I18N.t('sort.select');
+    bar.querySelectorAll('button').forEach(b => { b.disabled = !p; });
+  },
+
+  enablePlatformDrag(row) {
+    let dragEl = null, startX = 0, moved = false;
+    row.querySelectorAll('.ptile').forEach(tile => {
+      tile.addEventListener('pointerdown', e => {
+        if (!this.editingPlatforms) return;
+        dragEl = tile; startX = e.clientX; moved = false;
+      });
+      tile.addEventListener('pointermove', e => {
+        if (!dragEl || dragEl !== tile) return;
+        if (!moved) {
+          if (Math.abs(e.clientX - startX) < 8) return;   // sotto soglia: è un click
+          moved = true;
+          tile.classList.add('dragging');
+          try { tile.setPointerCapture(e.pointerId); } catch {}
+        }
+        e.preventDefault();
+        const others = [...row.querySelectorAll('.ptile:not(.dragging)')];
+        const after = others.find(t => {
+          const r = t.getBoundingClientRect();
+          return e.clientX < r.left + r.width / 2;
+        });
+        if (after) row.insertBefore(dragEl, after);
+        else row.appendChild(dragEl);
+      });
+      const end = e => {
+        if (!dragEl || dragEl !== tile) return;
+        const wasDrag = moved;
+        tile.classList.remove('dragging');
+        dragEl = null; moved = false;
+        if (wasDrag) {
+          e.preventDefault();
+          this.selectedPlatform = tile.dataset.pid;
+          this.applyOrder([...row.querySelectorAll('.ptile')].map(t => t.dataset.pid));
+        }
+      };
+      tile.addEventListener('pointerup', end);
+      tile.addEventListener('pointercancel', end);
+    });
+  },
+
+  toggleEditPlatforms() {
+    this.editingPlatforms = !this.editingPlatforms;
+    if (!this.editingPlatforms) this.selectedPlatform = null;
+    this.renderPlatformRow();
+  },
+
+  // ─────────────── righe home: interessi prima, poi argomenti ───────────────
   renderRows() {
     const wrap = document.getElementById('rows');
     wrap.innerHTML = '';
-    for (const cat of Store.get().topics) {
-      const items = (this.feeds[cat] || []).slice(0, 16);
+
+    // riga "Novità per te": tutto ciò che è nuovo secondo le preferenze
+    // (argomenti seguiti + interessi), ordinato per priorità piattaforme
+    const newSeen = new Set();
+    const newItems = this.scored([
+      ...this.allItems().filter(i => this.isNew(i)),
+      ...Store.get().interests.flatMap(n => this.interestMatches(n).filter(i => this.isNew(i)))
+    ].filter(i => !newSeen.has(i.id) && newSeen.add(i.id))).slice(0, 16);
+    if (newItems.length) {
+      const h3 = document.createElement('h3');
+      h3.className = 'row-title';
+      h3.innerHTML = `<span class="cat-ico">🆕</span> ${I18N.t('home.newrow')}
+                      <button class="see-all">${I18N.t('nav.notifications')} →</button>`;
+      h3.querySelector('.see-all').onclick = () => this.switchView('notifications');
+      const row = document.createElement('div');
+      row.className = 'hrow';
+      for (const item of newItems) row.appendChild(this.cardFor(item));
+      wrap.appendChild(h3);
+      wrap.appendChild(row);
+    }
+
+    // righe degli interessi (⭐)
+    for (const name of Store.get().interests) {
+      const items = this.scored(this.interestMatches(name)).slice(0, 16);
+      const h3 = document.createElement('h3');
+      h3.className = 'row-title';
+      h3.innerHTML = `<span class="cat-ico">⭐</span> ${this.esc(name)}
+                      <button class="see-all">${I18N.t('interests.explore').split(' ')[0]} →</button>`;
+      h3.querySelector('.see-all').onclick = () => this.openInterest(name);
+      wrap.appendChild(h3);
+      if (items.length) {
+        const row = document.createElement('div');
+        row.className = 'hrow';
+        for (const item of items) row.appendChild(this.cardFor(item));
+        wrap.appendChild(row);
+      } else {
+        const p = document.createElement('p');
+        p.className = 'hint';
+        p.textContent = `0 ${I18N.t('interests.matched')}`;
+        wrap.appendChild(p);
+      }
+    }
+
+    // righe degli argomenti, ordinate per interesse dimostrato
+    for (const cat of this.topicsByAffinity()) {
+      const items = this.scored(this.feeds[cat] || []).slice(0, 16);
       if (!items.length) continue;
       const info = this.catInfo(cat);
       const h3 = document.createElement('h3');
@@ -199,6 +542,7 @@ const App = {
           <div><div class="ph-name">${this.esc(item.author)}</div>
           <div class="ph-handle">${this.esc(item.handle)} · ${I18N.timeAgo(item.date)}</div></div>
           <img src="${this.logo(item.platform)}" alt="" style="width:20px;height:20px;margin-left:auto">
+          ${this.isNew(item) ? `<span class="newbadge">${I18N.t('badge.new')}</span>` : ''}
         </div>
         ${item.image ? `<div class="card-thumb"><img src="${this.esc(item.image)}" alt="" loading="lazy"></div>` : ''}
         <div class="post-text">${this.esc(item.title)}</div>
@@ -212,6 +556,7 @@ const App = {
           ${thumb}
           <span class="pbadge"><img src="${this.logo(item.platform)}" alt="${this.esc(item.platform)}"></span>
           ${item.videoId ? '<span class="play">▶</span>' : ''}
+          ${this.isNew(item) ? `<span class="newbadge">${I18N.t('badge.new')}</span>` : ''}
         </div>
         <div class="card-body">
           <div class="card-title">${this.esc(item.title)}</div>
@@ -252,7 +597,7 @@ const App = {
     document.getElementById('catTitle').textContent = `${info?.icon || ''} ${I18N.t('cat.' + cat)}`;
     const list = document.getElementById('catFeed');
     list.innerHTML = '';
-    const items = this.feeds[cat] || [];
+    const items = this.scored(this.feeds[cat] || []);
     if (!items.length) {
       list.innerHTML = `<div class="empty-state"><span class="big">🛰️</span>${I18N.t('feed.empty')}</div>`;
     }
@@ -267,7 +612,7 @@ const App = {
       ? `<img src="${this.esc(item.image)}" alt="" loading="lazy">`
       : `<div class="thumb-fallback">${this.catInfo(item.category)?.icon || '📄'}</div>`;
     el.innerHTML = `
-      <div class="vthumb">${thumb}</div>
+      <div class="vthumb">${thumb}${this.isNew(item) ? `<span class="newbadge">${I18N.t('badge.new')}</span>` : ''}</div>
       <div class="vbody">
         ${isNew ? '<span class="notif-new-dot"></span>' : ''}
         <div class="vtitle">${this.esc(item.title)}</div>
@@ -281,13 +626,131 @@ const App = {
     return el;
   },
 
+  // ─────────────────────────── interessi ───────────────────────────
+  interestMatches(name) {
+    const q = name.toLowerCase();
+    return this.everyLoadedItem().filter(i =>
+      (i.title || '').toLowerCase().includes(q) ||
+      (i.summary || '').toLowerCase().includes(q));
+  },
+
+  addInterest(name) {
+    name = name.trim();
+    if (!name) return;
+    const interests = Store.get().interests;
+    if (interests.length >= Store.MAX_INTERESTS) {
+      alert(I18N.t('interests.limit'));
+      return;
+    }
+    if (interests.some(i => i.toLowerCase() === name.toLowerCase())) return;
+    Store.set({ interests: [...interests, name] });
+    this.renderInterests();
+    // servono tutte le categorie per cercare ovunque
+    this.loadFeeds().then(() => {
+      this.renderAll();
+      this.openInterest(name);
+    });
+  },
+
+  removeInterest(name) {
+    Store.set({ interests: Store.get().interests.filter(i => i !== name) });
+    this.renderInterests();
+    this.computeNotifications();
+    this.renderRows();
+  },
+
+  renderInterests() {
+    const list = document.getElementById('interestList');
+    list.innerHTML = '';
+    for (const name of Store.get().interests) {
+      const ch = document.createElement('button');
+      ch.className = 'chip sel';
+      ch.innerHTML = `⭐ ${this.esc(name)}<span class="x">✕</span>`;
+      ch.title = name;
+      ch.onclick = e => {
+        if (e.target.classList.contains('x')) this.removeInterest(name);
+        else this.openInterest(name);
+      };
+      list.appendChild(ch);
+    }
+  },
+
+  // esplora un interesse: profili da collegare + ricerche sulle piattaforme
+  async openInterest(name) {
+    const modal = document.getElementById('interestModal');
+    const box = document.getElementById('interestContent');
+    const q = encodeURIComponent(name);
+    const matched = this.interestMatches(name).length;
+
+    const searchGrid = Object.entries(this.SEARCH_URLS).map(([pid, fn]) => `
+      <a href="${this.esc(fn(q))}" target="_blank" rel="noopener">
+        <img src="${this.logo(pid)}" alt="">${this.esc(this.platInfo(pid)?.name || pid)}
+      </a>`).join('');
+
+    box.innerHTML = `
+      <h2 class="pa-title">⭐ ${I18N.t('interests.explore')} «${this.esc(name)}»</h2>
+      <p class="int-matched">📥 ${matched} ${I18N.t('interests.matched')}</p>
+      <div class="int-section">${I18N.t('interests.bsky')}</div>
+      <div id="bskyProfiles"><p class="muted">${I18N.t('interests.bsky.loading')}</p></div>
+      <div class="int-section">${I18N.t('interests.search')}</div>
+      <div class="search-grid">${searchGrid}</div>`;
+    modal.hidden = false;
+    document.body.style.overflow = 'hidden';
+
+    // ricerca profili Bluesky in diretta (API pubblica)
+    const target = box.querySelector('#bskyProfiles');
+    try {
+      const res = await fetch(`https://public.api.bsky.app/xrpc/app.bsky.actor.searchActors?q=${q}&limit=6`);
+      const data = await res.json();
+      const actors = data.actors || [];
+      if (!actors.length) {
+        target.innerHTML = `<p class="muted">${I18N.t('interests.none')}</p>`;
+      } else {
+        target.innerHTML = actors.map(a => `
+          <a class="profile-row" href="https://bsky.app/profile/${this.esc(a.handle)}" target="_blank" rel="noopener">
+            <img class="avatar" src="${this.esc(a.avatar || 'assets/logos/bluesky.svg')}" alt="" loading="lazy">
+            <div>
+              <div class="pr-name">${this.esc(a.displayName || a.handle)}</div>
+              <div class="pr-handle">@${this.esc(a.handle)}</div>
+              ${a.description ? `<div class="pr-desc">${this.esc(a.description)}</div>` : ''}
+            </div>
+            <span class="go">${I18N.t('feed.follow')} ↗</span>
+          </a>`).join('');
+      }
+    } catch {
+      target.innerHTML = `<p class="muted">${I18N.t('interests.none')}</p>`;
+    }
+  },
+
+  closeInterest() {
+    document.getElementById('interestModal').hidden = true;
+    document.body.style.overflow = '';
+  },
+
   // ─────────────────────────── notifiche ───────────────────────────
   computeNotifications() {
-    const lastRead = Store.get().lastRead || 0;
-    this.notifItems = this.allItems()
-      .filter(i => new Date(i.date).getTime() > lastRead)
-      .sort((a, b) => new Date(b.date) - new Date(a.date))
-      .slice(0, 60);
+    const prefs = Store.get();
+    const lastRead = prefs.lastRead || 0;
+    const isNew = i => new Date(i.date).getTime() > lastRead;
+
+    const seen = new Set();
+    const out = [];
+
+    // prima gli interessi (priorità massima)
+    for (const name of prefs.interests) {
+      for (const i of this.interestMatches(name).filter(isNew)) {
+        if (!seen.has(i.id)) { seen.add(i.id); out.push({ ...i, _interest: name }); }
+      }
+    }
+    // poi le novità degli argomenti seguiti
+    for (const i of this.allItems().filter(isNew)) {
+      if (!seen.has(i.id)) { seen.add(i.id); out.push(i); }
+    }
+
+    // priorità: interessi, poi punteggio dinamico (app collegate, ordine tile, affinità)
+    out.sort((a, b) =>
+      (b._interest ? 1 : 0) - (a._interest ? 1 : 0) || this.itemScore(a) - this.itemScore(b));
+    this.notifItems = out.slice(0, 80);
     this.updateBadges();
   },
 
@@ -307,23 +770,37 @@ const App = {
       list.innerHTML = `<div class="empty-state"><span class="big">🔔</span>${I18N.t('notif.empty')}</div>`;
       return;
     }
-    // raggruppa per fonte
-    const bySource = {};
-    for (const i of this.notifItems) (bySource[i.source] ??= []).push(i);
-    for (const [source, items] of Object.entries(bySource)) {
+    // gruppi: prima gli interessi (⭐), poi le piattaforme (con logo)
+    const groups = new Map();
+    for (const i of this.notifItems) {
+      const key = i._interest ? `⭐ ${i._interest}` : `p:${i.platform}`;
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key).push(i);
+    }
+    for (const [key, items] of groups) {
       const h = document.createElement('div');
       h.className = 'notif-day';
-      h.textContent = `${source} — ${items.length} ${I18N.t('notif.new')}`;
+      if (key.startsWith('p:')) {
+        const pid = key.slice(2);
+        const p = this.platInfo(pid);
+        h.innerHTML = `<img src="${this.logo(pid)}" alt="">
+          ${this.esc(p?.name || pid)} — ${items.length} ${I18N.t('notif.new')}`;
+      } else {
+        h.textContent = `${key} — ${items.length} ${I18N.t('notif.new')}`;
+      }
       list.appendChild(h);
-      for (const item of items.slice(0, 5)) list.appendChild(this.vitemFor(item, true));
+      for (const item of items.slice(0, 6)) list.appendChild(this.vitemFor(item, true));
     }
   },
 
-  // ─────────────────────────── player ───────────────────────────
+  // ─────────────────────────── apertura contenuti ───────────────────────────
+  // Video YouTube: player interno. Tutto il resto: si va dritti alla pagina
+  // dell'informazione nella stessa scheda — il tasto indietro riporta all'app.
   openItem(item) {
-    const modal = document.getElementById('playerModal');
-    const box = document.getElementById('playerContent');
+    this.trackAffinity(item);
     if (item.videoId) {
+      const modal = document.getElementById('playerModal');
+      const box = document.getElementById('playerContent');
       box.innerHTML = `
         <div class="player-video">
           <iframe src="https://www.youtube-nocookie.com/embed/${this.esc(item.videoId)}?autoplay=1&rel=0"
@@ -337,23 +814,12 @@ const App = {
             <a class="btn btn-ghost" href="${this.esc(item.url)}" target="_blank" rel="noopener">${I18N.t('player.opennative')} ↗</a>
           </div>
         </div>`;
-    } else {
-      box.innerHTML = `
-        <div class="player-article">
-          ${item.image ? `<img class="pa-img" src="${this.esc(item.image)}" alt="">` : ''}
-          <div class="pa-body">
-            <div class="pa-meta"><img src="${this.logo(item.platform)}" alt="">
-              <span>${this.esc(item.author || item.source)} · ${I18N.timeAgo(item.date)}</span></div>
-            <h2 class="pa-title">${this.esc(item.title)}</h2>
-            ${item.summary ? `<p class="pa-summary">${this.esc(item.summary)}</p>` : ''}
-            <div class="pa-actions">
-              <a class="btn btn-primary" href="${this.esc(item.url)}" target="_blank" rel="noopener">${I18N.t('player.openoriginal')} ↗</a>
-            </div>
-          </div>
-        </div>`;
+      modal.hidden = false;
+      document.body.style.overflow = 'hidden';
+      return;
     }
-    modal.hidden = false;
-    document.body.style.overflow = 'hidden';
+    if (item.platform !== 'rss') this.markConnected(item.platform);
+    window.location.href = item.url;
   },
 
   closePlayer() {
@@ -405,6 +871,7 @@ const App = {
         this.renderSettings();
         this.renderAll();
         this.renderPlatformRow();
+        this.stampUpdated();
       };
     });
 
@@ -427,23 +894,71 @@ const App = {
       topicsEl.appendChild(ch);
     }
 
+    // interessi
+    this.renderInterests();
+    const input = document.getElementById('interestInput');
+    input.placeholder = I18N.t('interests.placeholder');
+    document.getElementById('btnAddInterest').onclick = () => {
+      this.addInterest(input.value);
+      input.value = '';
+    };
+    input.onkeydown = e => {
+      if (e.key === 'Enter') { this.addInterest(input.value); input.value = ''; }
+    };
+
+    // notifiche di sistema
+    this.renderSysNotifButton();
+
     // blocco biometrico
     this.renderLockButton();
 
-    // account collegati (roadmap)
-    const acc = document.getElementById('accountsList');
-    acc.innerHTML = '';
-    for (const p of this.catalog.platforms.filter(p => p.level === 1 && p.id !== 'rss')) {
-      const d = document.createElement('div');
-      d.className = 'acc';
-      d.innerHTML = `<img src="${this.logo(p.id)}" alt=""> ${p.name}
-                     <span class="soon">${I18N.t('settings.accounts.soon')}</span>`;
-      acc.appendChild(d);
-    }
+    // account (stato connesso + logout)
+    this.renderAccounts();
 
     document.getElementById('btnReset').onclick = () => {
       Store.set({ onboarded: false });
       this.showOnboarding();
+    };
+  },
+
+  renderAccounts() {
+    const acc = document.getElementById('accountsList');
+    acc.innerHTML = '';
+    const connected = Store.get().connected || {};
+    for (const p of this.catalog.platforms.filter(p => p.id !== 'rss')) {
+      const isOn = !!connected[p.id];
+      const d = document.createElement('div');
+      d.className = 'acc';
+      d.innerHTML = `
+        <img src="${this.logo(p.id)}" alt=""> ${this.esc(p.name)}
+        <span class="acc-state${isOn ? ' on' : ''}">${isOn ? '● ' + I18N.t('accounts.connected') : I18N.t('accounts.notconnected')}</span>
+        ${isOn ? `<button class="btn-mini">${I18N.t('accounts.logout')}</button>` : ''}`;
+      const btn = d.querySelector('.btn-mini');
+      if (btn) btn.onclick = () => this.disconnect(p.id);
+      acc.appendChild(d);
+    }
+  },
+
+  renderSysNotifButton() {
+    const btn = document.getElementById('btnSysNotif');
+    const msg = document.getElementById('sysNotifMsg');
+    if (!('Notification' in window)) { btn.disabled = true; return; }
+    const on = Store.get().sysNotif && Notification.permission === 'granted';
+    btn.textContent = I18N.t(on ? 'settings.sysnotif.disable' : 'settings.sysnotif.enable');
+    btn.onclick = async () => {
+      msg.hidden = true;
+      if (on) {
+        Store.set({ sysNotif: false });
+      } else {
+        const perm = await Notification.requestPermission();
+        if (perm === 'granted') {
+          Store.set({ sysNotif: true, lastNotified: Date.now() });
+        } else {
+          msg.hidden = false;
+          msg.textContent = I18N.t('settings.sysnotif.denied');
+        }
+      }
+      this.renderSysNotifButton();
     };
   },
 
@@ -528,12 +1043,23 @@ const App = {
     document.getElementById('playerModal').addEventListener('click', e => {
       if (e.target.id === 'playerModal') this.closePlayer();
     });
+    document.getElementById('btnCloseInterest').onclick = () => this.closeInterest();
+    document.getElementById('interestModal').addEventListener('click', e => {
+      if (e.target.id === 'interestModal') this.closeInterest();
+    });
+    document.getElementById('btnRefresh').onclick = () => this.refresh();
+    document.getElementById('btnRefresh').title = I18N.t('refresh.title');
+    document.getElementById('btnEditPlatforms').onclick = () => this.toggleEditPlatforms();
+    document.getElementById('btnMoveBefore').onclick = () => this.nudgeSelected(-1);
+    document.getElementById('btnMoveAfter').onclick = () => this.nudgeSelected(1);
     document.getElementById('btnMarkRead').onclick = () => {
       Store.set({ lastRead: Date.now() });
       this.computeNotifications();
       this.renderNotifications();
     };
-    document.addEventListener('keydown', e => { if (e.key === 'Escape') this.closePlayer(); });
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape') { this.closePlayer(); this.closeInterest(); }
+    });
   },
 
   switchView(view) {

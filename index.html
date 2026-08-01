@@ -47,7 +47,8 @@
     <button class="tab" data-view="categories" data-i18n="nav.categories"></button>
     <button class="tab" data-view="notifications"><span data-i18n="nav.notifications"></span><span class="badge" id="notifBadgeTop" hidden></span></button>
   </nav>
-  <button class="iconbtn" data-view="settings" aria-label="Impostazioni">⚙️</button>
+  <button class="iconbtn" id="btnRefresh" aria-label="Aggiorna">🔄</button>
+  <button class="iconbtn gear" data-view="settings" aria-label="Impostazioni">⚙️</button>
 </header>
 
 <main id="main">
@@ -55,8 +56,17 @@
   <!-- ═══ HOME ═══ -->
   <section id="view-home" class="view">
     <div id="hero" class="hero skeleton"></div>
-    <h3 class="row-title" data-i18n="home.platforms"></h3>
+    <h3 class="row-title"><span data-i18n="home.platforms"></span>
+      <button id="btnEditPlatforms" class="see-all"></button>
+    </h3>
     <div id="platformRow" class="platform-row"></div>
+    <div id="sortBar" class="sortbar" hidden>
+      <button id="btnMoveBefore" class="btn-move" data-i18n="sort.before"></button>
+      <span class="sb-label"></span>
+      <button id="btnMoveAfter" class="btn-move" data-i18n="sort.after"></button>
+    </div>
+    <p class="hint" data-i18n="home.platforms.hint" hidden></p>
+    <p class="updated-note" id="updatedNote"></p>
     <div id="rows"></div>
   </section>
 
@@ -102,6 +112,23 @@
     </div>
 
     <div class="card">
+      <h3 data-i18n="interests.title"></h3>
+      <p class="muted" data-i18n="interests.desc"></p>
+      <div class="interest-input">
+        <input id="interestInput" type="text" maxlength="40">
+        <button id="btnAddInterest" class="btn btn-primary" data-i18n="interests.add"></button>
+      </div>
+      <div id="interestList" class="chip-row"></div>
+    </div>
+
+    <div class="card">
+      <h3 data-i18n="settings.sysnotif"></h3>
+      <p class="muted" data-i18n="settings.sysnotif.desc"></p>
+      <button id="btnSysNotif" class="btn btn-primary"></button>
+      <p id="sysNotifMsg" class="muted small" hidden></p>
+    </div>
+
+    <div class="card">
       <h3 data-i18n="settings.applock"></h3>
       <p class="muted" data-i18n="settings.applock.desc"></p>
       <button id="btnAppLock" class="btn btn-primary"></button>
@@ -135,6 +162,14 @@
   <div class="player-box">
     <button class="iconbtn player-close" id="btnClosePlayer">✕</button>
     <div id="playerContent"></div>
+  </div>
+</div>
+
+<!-- ═══ Esplora interesse (profili da collegare) ═══ -->
+<div id="interestModal" class="overlay" hidden>
+  <div class="player-box">
+    <button class="iconbtn player-close" id="btnCloseInterest">✕</button>
+    <div id="interestContent" class="pa-body"></div>
   </div>
 </div>
 

@@ -1,7 +1,7 @@
 // Social Connect — service worker
 // Shell dell'app in cache (uso offline); feed sempre freschi quando c'è rete.
 
-const CACHE = 'socialconnect-v1';
+const CACHE = 'socialconnect-v2';
 const SHELL = [
   '.', 'index.html', 'css/style.css',
   'js/app.js', 'js/i18n.js', 'js/store.js',
