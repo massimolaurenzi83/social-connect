@@ -4,7 +4,9 @@
 
 const App = {
   catalog: null,
-  feeds: {},        // categoria -> [items]
+  feeds: {},        // categoria -> [items] (statici + social uniti)
+  staticFeeds: {},  // categoria -> [items] da data/feeds (testate, YouTube)
+  liveFeeds: {},    // categoria -> [items] social letti in diretta
   notifItems: [],
   currentView: 'home',
   editingPlatforms: false,
@@ -90,20 +92,33 @@ const App = {
     const cats = prefs.interests.length
       ? this.catalog.categories.map(c => c.id)
       : prefs.topics;
-    const needSocial = cats.includes('social') || prefs.interests.length > 0;
 
-    const jobs = cats.filter(c => c !== 'social').map(async cat => {
-      try {
-        const res = await fetch(`data/feeds/${cat}.json`, { cache: 'no-cache' });
-        const data = await res.json();
-        this.feeds[cat] = data.items || [];
-      } catch { this.feeds[cat] = this.feeds[cat] || []; }
-    });
-    if (needSocial) jobs.push(this.loadSocialLive());
-    await Promise.allSettled(jobs);
+    // 1) contenuti statici (testate e YouTube, aggregati da GitHub Actions)
+    await Promise.allSettled(cats.map(cat => this.loadStatic(cat)));
+    // 2) contenuti social in diretta, solo per gli argomenti seguiti (niente sprechi)
+    await this.loadSocialLive(prefs.topics);
+
+    this.rebuildFeeds();
     this.computeNotifications();
     this.stampUpdated();
     this.maybeSystemNotify();
+  },
+
+  async loadStatic(cat) {
+    if (cat === 'social') return;
+    try {
+      const res = await fetch(`data/feeds/${cat}.json`, { cache: 'no-cache' });
+      const data = await res.json();
+      this.staticFeeds[cat] = data.items || [];
+    } catch { this.staticFeeds[cat] = this.staticFeeds[cat] || []; }
+  },
+
+  // unisce contenuti statici e social in un unico feed per categoria
+  rebuildFeeds() {
+    const cats = new Set([...Object.keys(this.staticFeeds), ...Object.keys(this.liveFeeds)]);
+    for (const cat of cats) {
+      this.feeds[cat] = [...(this.staticFeeds[cat] || []), ...(this.liveFeeds[cat] || [])];
+    }
   },
 
   isNew(item) {
@@ -147,56 +162,87 @@ const App = {
     el.textContent = `${I18N.t('home.updated')} · ${t}`;
   },
 
-  // Bluesky + Mastodon vengono letti in diretta dal browser (API pubbliche con CORS)
-  async loadSocialLive() {
-    const items = [];
-    const bskySrc = this.catalog.sources.find(s => s.platform === 'bluesky');
-    const mastoSrc = this.catalog.sources.find(s => s.platform === 'mastodon');
+  // ─────────── contenuti social in diretta, per categoria ───────────
+  // Bluesky (ricerca pubblica) e Mastodon (timeline per hashtag) sono le sole
+  // piattaforme social che permettono la lettura senza autenticazione.
+  // Reddit, Instagram, Facebook, X e TikTok non espongono elenchi leggibili.
+  async loadSocialLive(cats) {
+    const wanted = this.catalog.sources.filter(s =>
+      s.live && (!cats || cats.includes(s.category)));
+    if (!wanted.length) return;
 
-    const jobs = [];
-    if (bskySrc) jobs.push((async () => {
-      const url = `https://public.api.bsky.app/xrpc/app.bsky.feed.getFeed?feed=${encodeURIComponent(bskySrc.feed)}&limit=20`;
-      const data = await (await fetch(url)).json();
-      for (const f of data.feed || []) {
-        const p = f.post;
-        if (!p?.record?.text) continue;
-        items.push({
-          id: 'bsky:' + p.uri, sourceId: bskySrc.id, source: 'Bluesky',
-          platform: 'bluesky', category: 'social',
-          title: p.record.text,
-          url: `https://bsky.app/profile/${p.author.handle}/post/${p.uri.split('/').pop()}`,
-          image: p.embed?.images?.[0]?.thumb || null,
-          author: p.author.displayName || p.author.handle,
-          handle: '@' + p.author.handle,
-          avatar: p.author.avatar || null,
-          likes: p.likeCount || 0, reposts: p.repostCount || 0,
-          date: p.record.createdAt
-        });
-      }
-    })());
-    if (mastoSrc) jobs.push((async () => {
-      const url = `https://${mastoSrc.instance}/api/v1/timelines/public?local=true&limit=20`;
-      const data = await (await fetch(url)).json();
-      for (const s of data) {
-        const text = this.stripHtml(s.content);
-        if (!text) continue;
-        items.push({
-          id: 'masto:' + s.id, sourceId: mastoSrc.id, source: 'Mastodon',
-          platform: 'mastodon', category: 'social',
-          title: text, url: s.url,
-          image: s.media_attachments?.find(m => m.type === 'image')?.preview_url || null,
-          author: s.account.display_name || s.account.acct,
-          handle: '@' + s.account.acct,
-          avatar: s.account.avatar || null,
-          likes: s.favourites_count || 0, reposts: s.reblogs_count || 0,
-          date: s.created_at
-        });
-      }
-    })());
+    const results = await Promise.allSettled(wanted.map(s => this.fetchLiveSource(s)));
+    const byCat = {};
+    results.forEach((r, i) => {
+      if (r.status !== 'fulfilled') return;
+      const cat = wanted[i].category;
+      (byCat[cat] ??= []).push(...r.value);
+    });
+    for (const [cat, items] of Object.entries(byCat)) {
+      items.sort((a, b) => new Date(b.date) - new Date(a.date));
+      this.liveFeeds[cat] = items;
+    }
+  },
 
-    await Promise.allSettled(jobs);
-    items.sort((a, b) => new Date(b.date) - new Date(a.date));
-    this.feeds.social = items;
+  async fetchLiveSource(src) {
+    if (src.platform === 'bluesky') return this.fetchBluesky(src);
+    if (src.platform === 'mastodon') return this.fetchMastodon(src);
+    return [];
+  },
+
+  bskyItem(p, src) {
+    if (!p?.record?.text) return null;
+    return {
+      id: 'bsky:' + p.uri, sourceId: src.id, source: 'Bluesky',
+      platform: 'bluesky', category: src.category,
+      title: p.record.text,
+      url: `https://bsky.app/profile/${p.author.handle}/post/${p.uri.split('/').pop()}`,
+      image: p.embed?.images?.[0]?.thumb || null,
+      author: p.author.displayName || p.author.handle,
+      handle: '@' + p.author.handle,
+      avatar: p.author.avatar || null,
+      likes: p.likeCount || 0, reposts: p.repostCount || 0,
+      date: p.record.createdAt
+    };
+  },
+
+  async fetchBluesky(src) {
+    let url;
+    if (src.kind === 'search') {
+      // la ricerca vive su api.bsky.app (public.api non la espone)
+      url = `https://api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=${encodeURIComponent(src.q)}` +
+            `&limit=15&sort=latest&lang=${I18N.lang}`;
+    } else if (src.kind === 'feed') {
+      url = `https://public.api.bsky.app/xrpc/app.bsky.feed.getFeed?feed=${encodeURIComponent(src.feed)}&limit=20`;
+    } else return [];
+
+    const data = await (await fetch(url)).json();
+    const posts = src.kind === 'search' ? (data.posts || []) : (data.feed || []).map(f => f.post);
+    return posts.map(p => this.bskyItem(p, src)).filter(Boolean);
+  },
+
+  async fetchMastodon(src) {
+    const base = `https://${src.instance}/api/v1/timelines/`;
+    const url = src.kind === 'tag'
+      ? `${base}tag/${encodeURIComponent(src.tag)}?limit=15`
+      : `${base}public?local=true&limit=20`;
+    const data = await (await fetch(url)).json();
+    if (!Array.isArray(data)) return [];
+    return data.map(s => {
+      const text = this.stripHtml(s.content);
+      if (!text) return null;
+      return {
+        id: 'masto:' + s.id, sourceId: src.id, source: 'Mastodon',
+        platform: 'mastodon', category: src.category,
+        title: text, url: s.url,
+        image: s.media_attachments?.find(m => m.type === 'image')?.preview_url || null,
+        author: s.account.display_name || s.account.acct,
+        handle: '@' + s.account.acct,
+        avatar: s.account.avatar || null,
+        likes: s.favourites_count || 0, reposts: s.reblogs_count || 0,
+        date: s.created_at
+      };
+    }).filter(Boolean);
   },
 
   // ──────────────── priorità piattaforme (ordine tile) ────────────────
@@ -832,17 +878,17 @@ const App = {
   },
 
   async openCategory(cat) {
-    if (!this.feeds[cat]) {
-      if (cat === 'social') await this.loadSocialLive();
-      else {
-        try {
-          const data = await (await fetch(`data/feeds/${cat}.json`, { cache: 'no-cache' })).json();
-          this.feeds[cat] = data.items || [];
-        } catch { this.feeds[cat] = []; }
-      }
-    }
+    // apre subito con ciò che c'è, poi completa con statici + social della categoria
     const info = this.catInfo(cat);
     document.getElementById('catTitle').textContent = `${info?.icon || ''} ${I18N.t('cat.' + cat)}`;
+    this.switchView('category');
+    if (!this.feeds[cat]?.length) {
+      document.getElementById('catFeed').innerHTML =
+        `<p class="hint">${I18N.t('interests.bsky.loading')}</p>`;
+    }
+    if (!this.staticFeeds[cat]) await this.loadStatic(cat);
+    if (!this.liveFeeds[cat]) await this.loadSocialLive([cat]);
+    this.rebuildFeeds();
     const list = document.getElementById('catFeed');
     list.innerHTML = '';
     const items = this.scored(this.feeds[cat] || []);
@@ -850,7 +896,6 @@ const App = {
       list.innerHTML = `<div class="empty-state"><span class="big">🛰️</span>${I18N.t('feed.empty')}</div>`;
     }
     for (const item of items) list.appendChild(this.vitemFor(item));
-    this.switchView('category');
   },
 
   vitemFor(item, isNew = false) {
@@ -953,14 +998,9 @@ const App = {
   // ─────────────────────── ricerca globale ───────────────────────
   // garantisce che tutte le categorie siano caricate, per cercare davvero ovunque
   async ensureAllFeeds() {
-    const missing = this.catalog.categories.map(c => c.id).filter(c => !this.feeds[c]);
-    await Promise.allSettled(missing.map(async cat => {
-      if (cat === 'social') return this.loadSocialLive();
-      try {
-        const data = await (await fetch(`data/feeds/${cat}.json`, { cache: 'no-cache' })).json();
-        this.feeds[cat] = data.items || [];
-      } catch { this.feeds[cat] = []; }
-    }));
+    const all = this.catalog.categories.map(c => c.id);
+    await Promise.allSettled(all.filter(c => !this.staticFeeds[c]).map(c => this.loadStatic(c)));
+    this.rebuildFeeds();
   },
 
   runSearch(q) {
