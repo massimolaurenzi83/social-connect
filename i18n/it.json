@@ -1,0 +1,75 @@
+{
+  "app.name": "Social Connect",
+  "app.tagline": "Tutti i tuoi contenuti, in un posto solo",
+
+  "nav.home": "Home",
+  "nav.categories": "Categorie",
+  "nav.notifications": "Notifiche",
+  "nav.settings": "Impostazioni",
+
+  "onboarding.welcome": "Benvenuto su Social Connect",
+  "onboarding.subtitle": "Scegli gli argomenti che ti interessano: il tuo feed sarà pronto in un attimo. Nessun account richiesto.",
+  "onboarding.pick": "Scegli almeno 2 argomenti",
+  "onboarding.start": "Crea il mio feed",
+  "onboarding.selected": "selezionati",
+
+  "home.hero.badge": "In evidenza",
+  "home.platforms": "Le tue piattaforme",
+  "home.open": "Apri",
+  "home.readmore": "Leggi",
+  "home.watch": "Guarda",
+  "home.viewpost": "Vedi post",
+  "home.trysaying": "Scorri le categorie",
+
+  "cat.notizie": "Notizie Italia",
+  "cat.sport": "Sport",
+  "cat.tecnologia": "Tecnologia",
+  "cat.scienza": "Scienza",
+  "cat.intrattenimento": "Intrattenimento",
+  "cat.gaming": "Gaming",
+  "cat.economia": "Economia",
+  "cat.social": "Dal social web",
+
+  "notif.title": "Centro notifiche",
+  "notif.empty": "Nessuna novità per ora. Torna più tardi!",
+  "notif.new": "nuovi contenuti",
+  "notif.markread": "Segna tutto come letto",
+  "notif.from": "da",
+
+  "settings.title": "Impostazioni",
+  "settings.language": "Lingua",
+  "settings.topics": "I tuoi argomenti",
+  "settings.sources": "Fonti seguite",
+  "settings.applock": "Blocco app con biometria",
+  "settings.applock.desc": "Proteggi l'accesso con impronta o volto (passkey del dispositivo)",
+  "settings.applock.enable": "Attiva blocco biometrico",
+  "settings.applock.disable": "Disattiva blocco",
+  "settings.applock.unsupported": "Il tuo browser non supporta l'autenticazione biometrica (WebAuthn)",
+  "settings.accounts": "Account collegati",
+  "settings.accounts.desc": "Il collegamento degli account personali (YouTube, Reddit...) arriverà in un prossimo aggiornamento. I tuoi feed personali appariranno qui.",
+  "settings.accounts.soon": "In arrivo",
+  "settings.reset": "Ripeti configurazione iniziale",
+  "settings.about": "Social Connect — versione MVP. Contenuti forniti dalle rispettive fonti e piattaforme. I marchi appartengono ai rispettivi proprietari.",
+
+  "lock.title": "Social Connect è bloccata",
+  "lock.subtitle": "Usa la tua impronta o il tuo volto per continuare",
+  "lock.unlock": "Sblocca",
+  "lock.error": "Autenticazione non riuscita. Riprova.",
+
+  "feed.updated": "Aggiornato",
+  "feed.offline": "Sei offline: contenuti dall'ultimo aggiornamento",
+  "feed.empty": "Nessun contenuto in questa categoria. Prova ad aggiungere fonti dalle impostazioni.",
+  "feed.follow": "Segui",
+  "feed.following": "Seguita",
+
+  "player.openoriginal": "Apri l'originale",
+  "player.opennative": "Apri nell'app",
+
+  "platform.level1": "Feed integrato",
+  "platform.level3": "Apre l'app ufficiale",
+
+  "time.now": "adesso",
+  "time.min": "min fa",
+  "time.hours": "h fa",
+  "time.days": "g fa"
+}

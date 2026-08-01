@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "updated": "2026-08-01",
+  "categories": [
+    { "id": "notizie", "icon": "📰", "color": "#e05a33" },
+    { "id": "sport", "icon": "⚽", "color": "#2ea84f" },
+    { "id": "tecnologia", "icon": "💻", "color": "#3d7bfa" },
+    { "id": "scienza", "icon": "🔬", "color": "#9b59d0" },
+    { "id": "intrattenimento", "icon": "🎬", "color": "#e0a72e" },
+    { "id": "gaming", "icon": "🎮", "color": "#d0356b" },
+    { "id": "economia", "icon": "📈", "color": "#1fa3a3" },
+    { "id": "social", "icon": "💬", "color": "#5865f2" }
+  ],
+  "sources": [
+    { "id": "ansa", "name": "ANSA", "platform": "rss", "category": "notizie", "url": "https://www.ansa.it/sito/ansait_rss.xml", "home": "https://www.ansa.it" },
+    { "id": "open", "name": "Open", "platform": "rss", "category": "notizie", "url": "https://www.open.online/feed/", "home": "https://www.open.online" },
+    { "id": "repubblica", "name": "la Repubblica", "platform": "rss", "category": "notizie", "url": "https://www.repubblica.it/rss/homepage/rss2.0.xml", "home": "https://www.repubblica.it" },
+    { "id": "corriere", "name": "Corriere della Sera", "platform": "rss", "category": "notizie", "url": "https://xml2.corriereobjects.it/rss/homepage.xml", "home": "https://www.corriere.it" },
+    { "id": "breakingitaly", "name": "Breaking Italy", "platform": "youtube", "category": "notizie", "handle": "@breakingitaly", "home": "https://www.youtube.com/@breakingitaly" },
+
+    { "id": "gazzetta", "name": "La Gazzetta dello Sport", "platform": "rss", "category": "sport", "url": "https://www.gazzetta.it/rss/home.xml", "home": "https://www.gazzetta.it" },
+    { "id": "ansa-sport", "name": "ANSA Sport", "platform": "rss", "category": "sport", "url": "https://www.ansa.it/sito/notizie/sport/sport_rss.xml", "home": "https://www.ansa.it/sito/notizie/sport/" },
+    { "id": "corrieresport", "name": "Corriere dello Sport", "platform": "rss", "category": "sport", "url": "https://www.corrieredellosport.it/rss/calcio", "home": "https://www.corrieredellosport.it" },
+
+    { "id": "hdblog", "name": "HDblog", "platform": "rss", "category": "tecnologia", "url": "https://www.hdblog.it/feed/", "home": "https://www.hdblog.it" },
+    { "id": "wired-it", "name": "Wired Italia", "platform": "rss", "category": "tecnologia", "url": "https://www.wired.it/feed/rss", "home": "https://www.wired.it" },
+    { "id": "tomshw", "name": "Tom's Hardware", "platform": "rss", "category": "tecnologia", "url": "https://www.tomshw.it/feed/", "home": "https://www.tomshw.it" },
+    { "id": "montemagno", "name": "Marco Montemagno", "platform": "youtube", "category": "tecnologia", "handle": "@marcomontemagno", "channelId": "UCetdXbZA2XFp5Z2EmoF6eiQ", "home": "https://www.youtube.com/@marcomontemagno" },
+
+    { "id": "geopop", "name": "Geopop", "platform": "youtube", "category": "scienza", "handle": "@geopop", "channelId": "UCx7EWheHmjCW3vX8K2d09vg", "home": "https://www.youtube.com/@geopop" },
+    { "id": "media-inaf", "name": "MEDIA INAF", "platform": "rss", "category": "scienza", "url": "https://www.media.inaf.it/feed/", "home": "https://www.media.inaf.it" },
+    { "id": "focus", "name": "Focus", "platform": "rss", "category": "scienza", "url": "https://www.focus.it/rss", "home": "https://www.focus.it" },
+
+    { "id": "badtaste", "name": "BadTaste", "platform": "rss", "category": "intrattenimento", "url": "https://www.badtaste.it/feed/", "home": "https://www.badtaste.it" },
+    { "id": "ansa-cultura", "name": "ANSA Cultura", "platform": "rss", "category": "intrattenimento", "url": "https://www.ansa.it/sito/notizie/cultura/cultura_rss.xml", "home": "https://www.ansa.it/sito/notizie/cultura/" },
+
+    { "id": "multiplayer", "name": "Multiplayer.it", "platform": "rss", "category": "gaming", "url": "https://multiplayer.it/feed/rss/news/", "home": "https://multiplayer.it" },
+    { "id": "everyeye", "name": "Everyeye", "platform": "rss", "category": "gaming", "url": "https://www.everyeye.it/feed_news_rss.asp", "home": "https://www.everyeye.it" },
+    { "id": "spaziogames", "name": "SpazioGames", "platform": "rss", "category": "gaming", "url": "https://www.spaziogames.it/feed", "home": "https://www.spaziogames.it" },
+    { "id": "sabaku", "name": "Sabaku no Maiku", "platform": "youtube", "category": "gaming", "handle": "@SabakunoMaiku", "channelId": "UCuKweXt85_48rxbd94Un3oQ", "home": "https://www.youtube.com/@SabakunoMaiku" },
+
+    { "id": "sole24ore", "name": "Il Sole 24 Ore", "platform": "rss", "category": "economia", "url": "https://www.ilsole24ore.com/rss/economia.xml", "home": "https://www.ilsole24ore.com" },
+    { "id": "ansa-economia", "name": "ANSA Economia", "platform": "rss", "category": "economia", "url": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml", "home": "https://www.ansa.it/sito/notizie/economia/" },
+    { "id": "money-it", "name": "Money.it", "platform": "rss", "category": "economia", "url": "https://www.money.it/spip.php?page=backend", "home": "https://www.money.it" },
+    { "id": "wallstreetitalia", "name": "Wall Street Italia", "platform": "rss", "category": "economia", "url": "https://www.wallstreetitalia.com/feed/", "home": "https://www.wallstreetitalia.com" },
+
+    { "id": "bsky-hot", "name": "Bluesky — In tendenza", "platform": "bluesky", "category": "social", "feed": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.feed.generator/whats-hot", "home": "https://bsky.app", "live": true },
+    { "id": "mastodon-uno", "name": "Mastodon Italia", "platform": "mastodon", "category": "social", "instance": "mastodon.uno", "home": "https://mastodon.uno", "live": true }
+  ],
+  "platforms": [
+    { "id": "youtube", "name": "YouTube", "level": 1, "url": "https://www.youtube.com", "color": "#ff0000" },
+    { "id": "reddit", "name": "Reddit", "level": 3, "url": "https://www.reddit.com", "color": "#ff4500" },
+    { "id": "bluesky", "name": "Bluesky", "level": 1, "url": "https://bsky.app", "color": "#0285ff" },
+    { "id": "mastodon", "name": "Mastodon", "level": 1, "url": "https://mastodon.uno", "color": "#6364ff" },
+    { "id": "telegram", "name": "Telegram", "level": 3, "url": "https://web.telegram.org", "color": "#26a5e4" },
+    { "id": "instagram", "name": "Instagram", "level": 3, "url": "https://www.instagram.com", "color": "#e1306c" },
+    { "id": "facebook", "name": "Facebook", "level": 3, "url": "https://www.facebook.com", "color": "#1877f2" },
+    { "id": "x", "name": "X", "level": 3, "url": "https://x.com", "color": "#111111" },
+    { "id": "tiktok", "name": "TikTok", "level": 3, "url": "https://www.tiktok.com", "color": "#0f0f0f" },
+    { "id": "whatsapp", "name": "WhatsApp", "level": 3, "url": "https://web.whatsapp.com", "color": "#25d366" },
+    { "id": "rss", "name": "News", "level": 1, "url": "", "color": "#f26522" }
+  ]
+}

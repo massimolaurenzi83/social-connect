@@ -1,0 +1,75 @@
+{
+  "app.name": "Social Connect",
+  "app.tagline": "All your content, in one place",
+
+  "nav.home": "Home",
+  "nav.categories": "Categories",
+  "nav.notifications": "Notifications",
+  "nav.settings": "Settings",
+
+  "onboarding.welcome": "Welcome to Social Connect",
+  "onboarding.subtitle": "Pick the topics you care about: your feed will be ready in seconds. No account required.",
+  "onboarding.pick": "Pick at least 2 topics",
+  "onboarding.start": "Build my feed",
+  "onboarding.selected": "selected",
+
+  "home.hero.badge": "Featured",
+  "home.platforms": "Your platforms",
+  "home.open": "Open",
+  "home.readmore": "Read",
+  "home.watch": "Watch",
+  "home.viewpost": "View post",
+  "home.trysaying": "Browse the categories",
+
+  "cat.notizie": "Italian News",
+  "cat.sport": "Sports",
+  "cat.tecnologia": "Technology",
+  "cat.scienza": "Science",
+  "cat.intrattenimento": "Entertainment",
+  "cat.gaming": "Gaming",
+  "cat.economia": "Business",
+  "cat.social": "From the social web",
+
+  "notif.title": "Notification center",
+  "notif.empty": "Nothing new for now. Check back later!",
+  "notif.new": "new items",
+  "notif.markread": "Mark all as read",
+  "notif.from": "from",
+
+  "settings.title": "Settings",
+  "settings.language": "Language",
+  "settings.topics": "Your topics",
+  "settings.sources": "Followed sources",
+  "settings.applock": "Biometric app lock",
+  "settings.applock.desc": "Protect access with fingerprint or face (device passkey)",
+  "settings.applock.enable": "Enable biometric lock",
+  "settings.applock.disable": "Disable lock",
+  "settings.applock.unsupported": "Your browser does not support biometric authentication (WebAuthn)",
+  "settings.accounts": "Connected accounts",
+  "settings.accounts.desc": "Connecting your personal accounts (YouTube, Reddit...) is coming in a future update. Your personal feeds will appear here.",
+  "settings.accounts.soon": "Coming soon",
+  "settings.reset": "Repeat initial setup",
+  "settings.about": "Social Connect — MVP version. Content is provided by the respective sources and platforms. Trademarks belong to their respective owners.",
+
+  "lock.title": "Social Connect is locked",
+  "lock.subtitle": "Use your fingerprint or face to continue",
+  "lock.unlock": "Unlock",
+  "lock.error": "Authentication failed. Try again.",
+
+  "feed.updated": "Updated",
+  "feed.offline": "You are offline: showing last update",
+  "feed.empty": "No content in this category. Try adding sources from settings.",
+  "feed.follow": "Follow",
+  "feed.following": "Following",
+
+  "player.openoriginal": "Open original",
+  "player.opennative": "Open in app",
+
+  "platform.level1": "Integrated feed",
+  "platform.level3": "Opens the official app",
+
+  "time.now": "now",
+  "time.min": "min ago",
+  "time.hours": "h ago",
+  "time.days": "d ago"
+}

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0e1018">
+<meta name="description" content="Social Connect — tutti i tuoi contenuti e le tue piattaforme in un posto solo.">
+<title>Social Connect</title>
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icon.svg">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ═══ Blocco biometrico ═══ -->
+<div id="lockScreen" class="overlay" hidden>
+  <div class="lock-box">
+    <img src="assets/icon.svg" alt="" class="lock-icon">
+    <h2 data-i18n="lock.title"></h2>
+    <p data-i18n="lock.subtitle"></p>
+    <button id="btnUnlock" class="btn btn-primary" data-i18n="lock.unlock"></button>
+    <p id="lockError" class="lock-error" hidden data-i18n="lock.error"></p>
+  </div>
+</div>
+
+<!-- ═══ Onboarding ═══ -->
+<div id="onboarding" class="overlay" hidden>
+  <div class="onboarding-box">
+    <img src="assets/icon.svg" alt="" class="onb-logo">
+    <h1 data-i18n="onboarding.welcome"></h1>
+    <p class="onb-sub" data-i18n="onboarding.subtitle"></p>
+    <p class="onb-pick"><span data-i18n="onboarding.pick"></span> · <b id="onbCount">0</b> <span data-i18n="onboarding.selected"></span></p>
+    <div id="onbTopics" class="topic-grid"></div>
+    <button id="btnOnbStart" class="btn btn-primary btn-lg" disabled data-i18n="onboarding.start"></button>
+  </div>
+</div>
+
+<!-- ═══ Header ═══ -->
+<header class="topbar">
+  <div class="brand">
+    <img src="assets/icon.svg" alt="Social Connect">
+    <span data-i18n="app.name"></span>
+  </div>
+  <nav class="tabs" id="desktopTabs">
+    <button class="tab active" data-view="home" data-i18n="nav.home"></button>
+    <button class="tab" data-view="categories" data-i18n="nav.categories"></button>
+    <button class="tab" data-view="notifications"><span data-i18n="nav.notifications"></span><span class="badge" id="notifBadgeTop" hidden></span></button>
+  </nav>
+  <button class="iconbtn" data-view="settings" aria-label="Impostazioni">⚙️</button>
+</header>
+
+<main id="main">
+
+  <!-- ═══ HOME ═══ -->
+  <section id="view-home" class="view">
+    <div id="hero" class="hero skeleton"></div>
+    <h3 class="row-title" data-i18n="home.platforms"></h3>
+    <div id="platformRow" class="platform-row"></div>
+    <div id="rows"></div>
+  </section>
+
+  <!-- ═══ CATEGORIE ═══ -->
+  <section id="view-categories" class="view" hidden>
+    <h2 class="page-title" data-i18n="nav.categories"></h2>
+    <div id="catGrid" class="cat-grid"></div>
+  </section>
+
+  <!-- ═══ DETTAGLIO CATEGORIA ═══ -->
+  <section id="view-category" class="view" hidden>
+    <div class="cat-head">
+      <button class="iconbtn" id="btnBackCat">←</button>
+      <h2 id="catTitle" class="page-title"></h2>
+    </div>
+    <div id="catFeed" class="vfeed"></div>
+  </section>
+
+  <!-- ═══ NOTIFICHE ═══ -->
+  <section id="view-notifications" class="view" hidden>
+    <div class="cat-head space-between">
+      <h2 class="page-title" data-i18n="notif.title"></h2>
+      <button id="btnMarkRead" class="btn btn-ghost" data-i18n="notif.markread"></button>
+    </div>
+    <div id="notifList" class="vfeed"></div>
+  </section>
+
+  <!-- ═══ IMPOSTAZIONI ═══ -->
+  <section id="view-settings" class="view" hidden>
+    <h2 class="page-title" data-i18n="settings.title"></h2>
+
+    <div class="card">
+      <h3 data-i18n="settings.language"></h3>
+      <div class="chip-row">
+        <button class="chip lang-chip" data-lang="it">🇮🇹 Italiano</button>
+        <button class="chip lang-chip" data-lang="en">🇬🇧 English</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3 data-i18n="settings.topics"></h3>
+      <div id="setTopics" class="chip-row"></div>
+    </div>
+
+    <div class="card">
+      <h3 data-i18n="settings.applock"></h3>
+      <p class="muted" data-i18n="settings.applock.desc"></p>
+      <button id="btnAppLock" class="btn btn-primary"></button>
+      <p id="applockMsg" class="muted small" hidden></p>
+    </div>
+
+    <div class="card">
+      <h3 data-i18n="settings.accounts"></h3>
+      <p class="muted" data-i18n="settings.accounts.desc"></p>
+      <div id="accountsList" class="accounts-list"></div>
+    </div>
+
+    <div class="card">
+      <button id="btnReset" class="btn btn-ghost" data-i18n="settings.reset"></button>
+    </div>
+
+    <p class="muted small about" data-i18n="settings.about"></p>
+  </section>
+</main>
+
+<!-- ═══ Bottom nav (mobile) ═══ -->
+<nav class="bottomnav">
+  <button class="bnav active" data-view="home"><span class="bico">🏠</span><span data-i18n="nav.home"></span></button>
+  <button class="bnav" data-view="categories"><span class="bico">🗂️</span><span data-i18n="nav.categories"></span></button>
+  <button class="bnav" data-view="notifications"><span class="bico">🔔</span><span data-i18n="nav.notifications"></span><span class="badge" id="notifBadge" hidden></span></button>
+  <button class="bnav" data-view="settings"><span class="bico">⚙️</span><span data-i18n="nav.settings"></span></button>
+</nav>
+
+<!-- ═══ Player / viewer ═══ -->
+<div id="playerModal" class="overlay" hidden>
+  <div class="player-box">
+    <button class="iconbtn player-close" id="btnClosePlayer">✕</button>
+    <div id="playerContent"></div>
+  </div>
+</div>
+
+<script src="js/i18n.js"></script>
+<script src="js/store.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

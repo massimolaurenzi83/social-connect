@@ -1,0 +1,39 @@
+# Aggiorna i feed aggregati ogni 30 minuti e li pubblica nel repository.
+# GitHub Pages (se attivo sul branch main) servirà automaticamente i dati freschi.
+
+name: Aggrega feed
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "data/catalog.json"
+      - "tools/aggregate.ps1"
+
+permissions:
+  contents: write
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Esegui aggregatore
+        shell: pwsh
+        run: ./tools/aggregate.ps1
+
+      - name: Commit dei feed aggiornati
+        run: |
+          git config user.name "social-connect-bot"
+          git config user.email "actions@github.com"
+          git add data/feeds data/channels.json
+          if git diff --cached --quiet; then
+            echo "Nessun aggiornamento."
+          else
+            git commit -m "chore: aggiornamento feed automatico"
+            git push
+          fi
