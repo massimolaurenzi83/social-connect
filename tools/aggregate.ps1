@@ -48,6 +48,16 @@ function Parse-Date($value) {
     }
 }
 
+# ID stabile e ripetibile: GetHashCode() cambia a ogni processo in .NET Core,
+# quindi gli id degli articoli cambiavano a ogni run (falsi "nuovi contenuti"
+# e commit inutili). Con MD5 dell'URL l'id resta sempre lo stesso.
+function Get-StableId([string]$text) {
+    $md5 = [System.Security.Cryptography.MD5]::Create()
+    $bytes = $md5.ComputeHash([System.Text.Encoding]::UTF8.GetBytes($text))
+    $md5.Dispose()
+    return ([System.BitConverter]::ToString($bytes) -replace '-', '').Substring(0, 12).ToLower()
+}
+
 function First-ImageFromHtml([string]$html) {
     if (-not $html) { return $null }
     if ($html -match '<img[^>]+src="(http[^"]+)"') { return $Matches[1] }
@@ -87,7 +97,7 @@ function Parse-Rss([xml]$xml, $source) {
         $dateRaw = if ($n.pubDate) { [string]$n.pubDate } elseif ($n.published) { [string]$n.published } elseif ($n.updated) { [string]$n.updated } else { $null }
 
         $items += [ordered]@{
-            id       = $source.id + ':' + [Math]::Abs($link.GetHashCode())
+            id       = $source.id + ':' + (Get-StableId $link)
             sourceId = $source.id
             source   = $source.name
             platform = $source.platform
@@ -198,17 +208,37 @@ foreach ($source in $catalog.sources) {
     }
 }
 
+$written = 0; $unchanged = 0
 foreach ($cat in $byCategory.Keys) {
-    $sorted = $byCategory[$cat] | Sort-Object { $_.date } -Descending | Select-Object -First $maxPerCategory
+    $sorted = @($byCategory[$cat] | Sort-Object { $_.date } -Descending | Select-Object -First $maxPerCategory)
+    $file = Join-Path $outDir "$cat.json"
+
+    # Firma del contenuto: se le notizie sono le stesse non riscriviamo il file,
+    # così il ciclo ogni 5 minuti non genera commit a vuoto.
+    $newSig = ($sorted | ForEach-Object { "$($_.id)|$($_.date)|$($_.title)" }) -join "`n"
+    $oldSig = $null
+    if (Test-Path $file) {
+        try {
+            $old = Get-Content $file -Raw -Encoding UTF8 | ConvertFrom-Json
+            $oldSig = ($old.items | ForEach-Object { "$($_.id)|$($_.date)|$($_.title)" }) -join "`n"
+        } catch { }
+    }
+    if ($newSig -eq $oldSig) {
+        $unchanged++
+        Write-Host ("=    {0,-16} invariato" -f $cat)
+        continue
+    }
+
     $payload = [ordered]@{
         category = $cat
         updated  = (Get-Date).ToUniversalTime().ToString('o')
-        items    = @($sorted)
+        items    = $sorted
     }
-    $file = Join-Path $outDir "$cat.json"
     [System.IO.File]::WriteAllText($file, ($payload | ConvertTo-Json -Depth 8), [System.Text.UTF8Encoding]::new($false))
-    Write-Host ("Scritto {0} ({1} elementi)" -f $file, @($sorted).Count)
+    $written++
+    Write-Host ("NEW  {0,-16} {1} elementi" -f $cat, $sorted.Count)
 }
+Write-Host "Categorie aggiornate: $written | invariate: $unchanged"
 
 if ($channelCache.Count -gt 0) {
     [System.IO.File]::WriteAllText($channelCacheFile, ([PSCustomObject]$channelCache | ConvertTo-Json), [System.Text.UTF8Encoding]::new($false))

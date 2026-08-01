@@ -1,11 +1,13 @@
-# Aggiorna i feed aggregati ogni 30 minuti e li pubblica nel repository.
-# GitHub Pages (se attivo sul branch main) servirà automaticamente i dati freschi.
+# Aggiorna i feed aggregati ogni 5 minuti e li pubblica nel repository.
+# GitHub Pages (attivo sul branch main) serve automaticamente i dati freschi.
+# Nota: 5 minuti è l'intervallo minimo consentito da GitHub Actions; nei momenti
+# di carico elevato l'esecuzione può slittare di qualche minuto.
 
 name: Aggrega feed
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -15,6 +17,11 @@ on:
 
 permissions:
   contents: write
+
+# con esecuzioni così frequenti evitiamo che due run si pestino i piedi
+concurrency:
+  group: aggrega-feed
+  cancel-in-progress: false
 
 jobs:
   aggregate:
@@ -32,8 +39,13 @@ jobs:
           git config user.email "actions@github.com"
           git add data/feeds data/channels.json
           if git diff --cached --quiet; then
-            echo "Nessun aggiornamento."
-          else
-            git commit -m "chore: aggiornamento feed automatico"
-            git push
+            echo "Nessuna novita: niente commit."
+            exit 0
           fi
+          git commit -m "chore: aggiornamento feed automatico"
+          # se nel frattempo è arrivato un altro commit, riallinea e riprova
+          for i in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase --autostash origin main || exit 1
+          done
+          exit 1
