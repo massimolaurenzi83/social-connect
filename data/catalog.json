@@ -17,18 +17,25 @@
     { "id": "repubblica", "name": "la Repubblica", "platform": "rss", "category": "notizie", "url": "https://www.repubblica.it/rss/homepage/rss2.0.xml", "home": "https://www.repubblica.it" },
     { "id": "corriere", "name": "Corriere della Sera", "platform": "rss", "category": "notizie", "url": "https://xml2.corriereobjects.it/rss/homepage.xml", "home": "https://www.corriere.it" },
     { "id": "breakingitaly", "name": "Breaking Italy", "platform": "youtube", "category": "notizie", "handle": "@breakingitaly", "home": "https://www.youtube.com/@breakingitaly" },
+    { "id": "skytg24", "name": "Sky TG24", "platform": "youtube", "category": "notizie", "handle": "@skytg24", "channelId": "UCz6E3lF72mb6uoJ-mOlNo2A", "home": "https://www.youtube.com/@skytg24" },
+    { "id": "repubblica-yt", "name": "la Repubblica TV", "platform": "youtube", "category": "notizie", "handle": "@larepubblica", "channelId": "UCdO19jgxeqoFX5RCVbDuwzA", "home": "https://www.youtube.com/@larepubblica" },
 
     { "id": "gazzetta", "name": "La Gazzetta dello Sport", "platform": "rss", "category": "sport", "url": "https://www.gazzetta.it/rss/home.xml", "home": "https://www.gazzetta.it" },
     { "id": "ansa-sport", "name": "ANSA Sport", "platform": "rss", "category": "sport", "url": "https://www.ansa.it/sito/notizie/sport/sport_rss.xml", "home": "https://www.ansa.it/sito/notizie/sport/" },
     { "id": "corrieresport", "name": "Corriere dello Sport", "platform": "rss", "category": "sport", "url": "https://www.corrieredellosport.it/rss/calcio", "home": "https://www.corrieredellosport.it" },
+    { "id": "skysport-yt", "name": "Sky Sport", "platform": "youtube", "category": "sport", "handle": "@SkySport", "channelId": "UCAvNr5DMVncoJnJAotXOjOQ", "home": "https://www.youtube.com/@SkySport" },
+    { "id": "cronachespogliatoio", "name": "Cronache di Spogliatoio", "platform": "youtube", "category": "sport", "handle": "@cronachedispogliatoio", "channelId": "UCfmCGVXfpAMSi4PP8kqWlbA", "home": "https://www.youtube.com/@cronachedispogliatoio" },
 
     { "id": "hdblog", "name": "HDblog", "platform": "rss", "category": "tecnologia", "url": "https://www.hdblog.it/feed/", "home": "https://www.hdblog.it" },
     { "id": "wired-it", "name": "Wired Italia", "platform": "rss", "category": "tecnologia", "url": "https://www.wired.it/feed/rss", "home": "https://www.wired.it" },
     { "id": "tomshw", "name": "Tom's Hardware", "platform": "rss", "category": "tecnologia", "url": "https://www.tomshw.it/feed/", "home": "https://www.tomshw.it" },
     { "id": "montemagno", "name": "Marco Montemagno", "platform": "youtube", "category": "tecnologia", "handle": "@marcomontemagno", "channelId": "UCetdXbZA2XFp5Z2EmoF6eiQ", "home": "https://www.youtube.com/@marcomontemagno" },
+    { "id": "techprincess", "name": "Techprincess", "platform": "youtube", "category": "tecnologia", "handle": "@Techprincess", "channelId": "UCs_ouz-Hdk1vQRofWi3JkDg", "home": "https://www.youtube.com/@Techprincess" },
 
     { "id": "geopop", "name": "Geopop", "platform": "youtube", "category": "scienza", "handle": "@geopop", "channelId": "UCx7EWheHmjCW3vX8K2d09vg", "home": "https://www.youtube.com/@geopop", "tile": true },
     { "id": "media-inaf", "name": "MEDIA INAF", "platform": "rss", "category": "scienza", "url": "https://www.media.inaf.it/feed/", "home": "https://www.media.inaf.it" },
+    { "id": "barbascura", "name": "Barbascura X", "platform": "youtube", "category": "scienza", "handle": "@BarbascuraX", "channelId": "UCH-y44M0pvwaZx2rTq0rJoQ", "home": "https://www.youtube.com/@BarbascuraX" },
+    { "id": "curiuss", "name": "CURIUSS", "platform": "youtube", "category": "scienza", "handle": "@Curiuss", "channelId": "UC5fmXZRQS-6xa2kCbCQds8g", "home": "https://www.youtube.com/@Curiuss" },
     { "id": "focus", "name": "Focus", "platform": "rss", "category": "scienza", "url": "https://www.focus.it/rss", "home": "https://www.focus.it" },
 
     { "id": "badtaste", "name": "BadTaste", "platform": "rss", "category": "intrattenimento", "url": "https://www.badtaste.it/feed/", "home": "https://www.badtaste.it" },
@@ -38,10 +45,12 @@
     { "id": "everyeye", "name": "Everyeye", "platform": "rss", "category": "gaming", "url": "https://www.everyeye.it/feed_news_rss.asp", "home": "https://www.everyeye.it" },
     { "id": "spaziogames", "name": "SpazioGames", "platform": "rss", "category": "gaming", "url": "https://www.spaziogames.it/feed", "home": "https://www.spaziogames.it" },
     { "id": "sabaku", "name": "Sabaku no Maiku", "platform": "youtube", "category": "gaming", "handle": "@SabakunoMaiku", "channelId": "UCuKweXt85_48rxbd94Un3oQ", "home": "https://www.youtube.com/@SabakunoMaiku" },
+    { "id": "yotobi", "name": "Yotobi", "platform": "youtube", "category": "gaming", "handle": "@yotobi", "channelId": "UCIPsK5xspHC3-ZFNPTx2X_w", "home": "https://www.youtube.com/@yotobi" },
 
     { "id": "sole24ore", "name": "Il Sole 24 Ore", "platform": "rss", "category": "economia", "url": "https://www.ilsole24ore.com/rss/economia.xml", "home": "https://www.ilsole24ore.com" },
     { "id": "ansa-economia", "name": "ANSA Economia", "platform": "rss", "category": "economia", "url": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml", "home": "https://www.ansa.it/sito/notizie/economia/" },
     { "id": "money-it", "name": "Money.it", "platform": "rss", "category": "economia", "url": "https://www.money.it/spip.php?page=backend", "home": "https://www.money.it" },
+    { "id": "money-yt", "name": "Money.it TV", "platform": "youtube", "category": "economia", "handle": "@moneyit", "channelId": "UCYZpcYxa-2fXWg-jNJOL8Ww", "home": "https://www.youtube.com/@moneyit" },
     { "id": "wallstreetitalia", "name": "Wall Street Italia", "platform": "rss", "category": "economia", "url": "https://www.wallstreetitalia.com/feed/", "home": "https://www.wallstreetitalia.com" },
 
     { "id": "bsky-hot", "name": "Bluesky — In tendenza", "platform": "bluesky", "category": "social", "feed": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.feed.generator/whats-hot", "home": "https://bsky.app", "live": true },

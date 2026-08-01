@@ -10,6 +10,9 @@ const App = {
   editingPlatforms: false,
   selectedPlatform: null,
 
+  // piattaforme che aprono una vista interna con i contenuti incorporati
+  EMBEDDABLE: ['facebook', 'x', 'tiktok', 'instagram'],
+
   // URL di logout noti (fallback: home della piattaforma)
   LOGOUT_URLS: {
     youtube: 'https://www.youtube.com/logout',
@@ -359,7 +362,9 @@ const App = {
         e.preventDefault();
         if (this.editingPlatforms) { this.selectTileForMove(a, row); return; }
         if (t.kind === 'source') { this.openSource(t.sourceId); return; }
-        // stessa scheda: il tasto indietro (o la gesture) riporta a Social Connect
+        // piattaforme con contenuti incorporabili: restano dentro l'app
+        if (this.EMBEDDABLE.includes(key)) { this.openPlatformView(key); return; }
+        // le altre: stessa scheda, il tasto indietro riporta a Social Connect
         this.markConnected(key);
         this.leaveTo(t.url);
       });
@@ -399,6 +404,138 @@ const App = {
     if (saved.scroll) {
       requestAnimationFrame(() => window.scrollTo({ top: saved.scroll }));
     }
+  },
+
+  // ═══════════ contenuti social incorporati (Facebook, X, TikTok) ═══════════
+  // Riconosce cosa ha incollato l'utente e decide come mostrarlo.
+  parseSocialUrl(raw) {
+    let url;
+    try { url = new URL(raw.trim().startsWith('http') ? raw.trim() : 'https://' + raw.trim()); }
+    catch { return null; }
+    const host = url.hostname.replace(/^www\./, '').toLowerCase();
+    const parts = url.pathname.split('/').filter(Boolean);
+
+    if (host.endsWith('facebook.com')) {
+      if (parts[0] === 'plugins') return null;
+      return { platform: 'facebook', kind: 'page', url: url.href,
+               name: decodeURIComponent(parts[0] || 'Facebook') };
+    }
+    if (host === 'x.com' || host === 'twitter.com') {
+      const i = parts.indexOf('status');
+      if (i > 0 && parts[i + 1]) {
+        return { platform: 'x', kind: 'post', id: parts[i + 1].split('?')[0],
+                 url: url.href, name: '@' + parts[0] };
+      }
+      return { platform: 'x', kind: 'profile', url: url.href, name: '@' + (parts[0] || 'X') };
+    }
+    if (host.endsWith('tiktok.com')) {
+      const i = parts.indexOf('video');
+      if (i >= 0 && parts[i + 1]) {
+        return { platform: 'tiktok', kind: 'video', id: parts[i + 1].split('?')[0],
+                 url: url.href, name: parts[0] || 'TikTok' };
+      }
+      return { platform: 'tiktok', kind: 'profile', url: url.href, name: parts[0] || 'TikTok' };
+    }
+    if (host.endsWith('instagram.com')) {
+      const kind = (parts[0] === 'p' || parts[0] === 'reel') ? 'post' : 'profile';
+      return { platform: 'instagram', kind, url: url.href,
+               name: kind === 'profile' ? '@' + (parts[0] || 'instagram') : 'Post Instagram' };
+    }
+    return null;
+  },
+
+  addSocialPage(raw, expectPlatform) {
+    const msg = document.getElementById('platMsg');
+    const parsed = this.parseSocialUrl(raw);
+    msg.hidden = false;
+    if (!parsed) { msg.textContent = I18N.t('plat.badurl'); return; }
+    const pages = Store.get().socialPages;
+    if (pages.some(p => p.url === parsed.url)) { msg.textContent = I18N.t('plat.already'); return; }
+    Store.set({ socialPages: [{ ...parsed, added: Date.now() }, ...pages] });
+    msg.hidden = true;
+    document.getElementById('platInput').value = '';
+    // se il link è di un'altra piattaforma, ci portiamo direttamente lì
+    if (expectPlatform && parsed.platform !== expectPlatform) {
+      this.openPlatformView(parsed.platform);
+      return;
+    }
+    this.renderPlatformContent(parsed.platform);
+  },
+
+  removeSocialPage(url, pid) {
+    Store.set({ socialPages: Store.get().socialPages.filter(p => p.url !== url) });
+    this.renderPlatformContent(pid);
+  },
+
+  // Apre la vista con i contenuti incorporati della piattaforma
+  openPlatformView(pid) {
+    const p = this.platInfo(pid);
+    document.getElementById('platTitle').innerHTML =
+      `<img src="${this.logo(pid)}" alt="" style="width:26px;height:26px;vertical-align:-5px;border-radius:6px"> ${this.esc(p?.name || pid)}`;
+    document.getElementById('platHint').textContent = I18N.t('plat.hint.' + pid);
+    document.getElementById('platInput').placeholder = I18N.t('plat.ph.' + pid);
+    document.getElementById('platMsg').hidden = true;
+    const openBtn = document.getElementById('btnOpenPlatform');
+    openBtn.textContent = `${I18N.t('home.open')} ${p?.name || pid} ↗`;
+    openBtn.onclick = () => { this.markConnected(pid); this.leaveTo(p.url); };
+    document.getElementById('btnAddPage').onclick = () =>
+      this.addSocialPage(document.getElementById('platInput').value, pid);
+    document.getElementById('platInput').onkeydown = e => {
+      if (e.key === 'Enter') this.addSocialPage(e.target.value, pid);
+    };
+    this.renderPlatformContent(pid);
+    this.switchView('platform');
+  },
+
+  renderPlatformContent(pid) {
+    const box = document.getElementById('platContent');
+    box.innerHTML = '';
+    const pages = Store.get().socialPages.filter(p => p.platform === pid);
+    if (!pages.length) {
+      box.innerHTML = `<div class="empty-state"><span class="big">➕</span>${I18N.t('plat.empty')}</div>`;
+      return;
+    }
+    for (const p of pages) box.appendChild(this.embedCard(p, pid));
+  },
+
+  embedCard(p, pid) {
+    const wrap = document.createElement('div');
+    wrap.className = 'embed-card';
+    const head = `<div class="embed-head">
+        <img src="${this.logo(p.platform)}" alt="">
+        <span class="eh-name">${this.esc(p.name)}</span>
+        <span class="eh-kind">${I18N.t('plat.kind.' + p.kind)}</span>
+        <button class="btn-mini eh-del">✕</button>
+      </div>`;
+
+    let body = '';
+    if (p.platform === 'facebook' && p.kind === 'page') {
+      const src = 'https://www.facebook.com/plugins/page.php?href=' + encodeURIComponent(p.url) +
+        '&tabs=timeline&width=500&height=620&small_header=false&adapt_container_width=true' +
+        '&hide_cover=false&show_facepile=false';
+      body = `<iframe class="embed-frame fb" src="${this.esc(src)}" scrolling="no"
+                loading="lazy" allow="encrypted-media" title="${this.esc(p.name)}"></iframe>`;
+    } else if (p.platform === 'x' && p.kind === 'post') {
+      body = `<iframe class="embed-frame tw" loading="lazy"
+                src="https://platform.twitter.com/embed/Tweet.html?id=${this.esc(p.id)}&theme=dark"
+                title="post X"></iframe>`;
+    } else if (p.platform === 'tiktok' && p.kind === 'video') {
+      body = `<iframe class="embed-frame tt" loading="lazy"
+                src="https://www.tiktok.com/embed/v2/${this.esc(p.id)}"
+                allow="encrypted-media; fullscreen" title="video TikTok"></iframe>`;
+    } else {
+      // Instagram e profili: nessun incorporamento consentito dalla piattaforma
+      body = `<div class="embed-link">
+          <p class="muted small">${I18N.t('plat.noembed')}</p>
+          <button class="btn btn-primary embed-open">${I18N.t('home.open')} ↗</button>
+        </div>`;
+    }
+
+    wrap.innerHTML = head + body;
+    wrap.querySelector('.eh-del').onclick = () => this.removeSocialPage(p.url, pid);
+    const openBtn = wrap.querySelector('.embed-open');
+    if (openBtn) openBtn.onclick = () => { this.markConnected(p.platform); this.leaveTo(p.url); };
+    return wrap;
   },
 
   // feed di una singola fonte in evidenza (tile tipo Geopop)
@@ -1342,6 +1479,7 @@ const App = {
       b.addEventListener('click', () => this.switchView(b.dataset.view));
     });
     document.getElementById('btnBackCat').onclick = () => this.switchView('categories');
+    document.getElementById('btnBackPlat').onclick = () => this.switchView('home');
     document.getElementById('btnClosePlayer').onclick = () => this.closePlayer();
     document.getElementById('playerModal').addEventListener('click', e => {
       if (e.target.id === 'playerModal') this.closePlayer();
@@ -1393,7 +1531,7 @@ const App = {
 
   switchView(view) {
     this.currentView = view;
-    for (const v of ['home', 'categories', 'category', 'search', 'saved', 'notifications', 'settings']) {
+    for (const v of ['home', 'categories', 'category', 'platform', 'search', 'saved', 'notifications', 'settings']) {
       document.getElementById('view-' + v).hidden = v !== view;
     }
     const navTarget = view === 'category' ? 'categories' : view;

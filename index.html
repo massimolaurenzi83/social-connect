@@ -87,6 +87,22 @@
     <div id="catFeed" class="vfeed"></div>
   </section>
 
+  <!-- ═══ CONTENUTI DI UNA PIATTAFORMA (pagine/post incorporati) ═══ -->
+  <section id="view-platform" class="view" hidden>
+    <div class="cat-head">
+      <button class="iconbtn" id="btnBackPlat">←</button>
+      <h2 id="platTitle" class="page-title"></h2>
+    </div>
+    <p class="hint" id="platHint"></p>
+    <div class="interest-input">
+      <input id="platInput" type="text" autocomplete="off">
+      <button id="btnAddPage" class="btn btn-primary" data-i18n="interests.add"></button>
+    </div>
+    <p id="platMsg" class="hint" hidden></p>
+    <div id="platContent" class="embed-list"></div>
+    <button id="btnOpenPlatform" class="btn btn-ghost open-plat"></button>
+  </section>
+
   <!-- ═══ RICERCA GLOBALE ═══ -->
   <section id="view-search" class="view" hidden>
     <h2 class="page-title" data-i18n="search.title"></h2>
