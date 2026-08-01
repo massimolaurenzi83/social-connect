@@ -72,6 +72,8 @@
   "settings.title": "Impostazioni",
   "settings.language": "Lingua",
   "settings.topics": "I tuoi argomenti",
+  "settings.topics.desc": "Categorie e interessi personali: tutti compaiono come righe nella dashboard. Tocca ✕ su un interesse per rimuoverlo.",
+  "interests.hint": "Gli interessi si comportano come argomenti: riga in dashboard, notifiche dedicate e feed proprio.",
   "settings.sources": "Fonti seguite",
   "settings.applock": "Blocco app con biometria",
   "settings.applock.desc": "Proteggi l'accesso con impronta o volto (passkey del dispositivo)",
@@ -114,7 +116,8 @@
   "player.opennative": "Apri nell'app",
 
   "platform.level1": "Feed integrato",
-  "platform.level3": "Apre l'app ufficiale",
+  "platform.level3": "Si apre nella stessa scheda: torna indietro per rientrare",
+  "platform.source": "Fonte in evidenza: apre il suo feed nell'app",
 
   "time.now": "adesso",
   "time.min": "min fa",

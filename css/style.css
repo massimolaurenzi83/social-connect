@@ -95,21 +95,30 @@ h1, h2, h3 { font-weight: 700; }
 .skeleton { background: linear-gradient(100deg, var(--card) 40%, var(--card-2) 50%, var(--card) 60%); background-size: 200% 100%; animation: sk 1.4s infinite; }
 @keyframes sk { to { background-position: -200% 0; } }
 
-/* ─── Riga piattaforme ─── */
+/* ─── Griglia piattaforme: tutte visibili, nessuno scorrimento ─── */
 .platform-row {
-  display: flex; gap: 12px; overflow-x: auto; padding: 4px 2px 10px;
-  scrollbar-width: none;
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 6px; padding: 4px 0 10px;
 }
-.platform-row::-webkit-scrollbar { display: none; }
 .ptile {
-  flex: 0 0 auto; width: 96px; height: 64px; border-radius: 12px;
-  display: flex; align-items: center; justify-content: center;
-  background: var(--card);
+  aspect-ratio: 1.12; border-radius: 11px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 3px; background: var(--card);
   border: 1px solid rgba(255,255,255,0.07);
   transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
-  position: relative;
+  position: relative; text-decoration: none; color: var(--text);
+  min-width: 0; overflow: hidden;
 }
-.ptile img { width: 38px; height: 38px; }
+.ptile img { width: 27px; height: 27px; }
+/* tile di una fonte (es. Geopop): nome + logo della piattaforma */
+.ptile.source img { width: 14px; height: 14px; }
+.ptile .stile-name {
+  font-size: 8.5px; font-weight: 700; text-align: center; line-height: 1.1;
+  max-width: 100%; padding: 0 2px;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.ptile .lvl { bottom: 3px; right: 4px; }
 .ptile:hover, .ptile:focus-visible {
   transform: scale(1.08);
   border-color: #fff;
@@ -375,7 +384,19 @@ h1, h2, h3 { font-weight: 700; }
 }
 .interest-input input:focus { border-color: var(--accent); }
 .interest-input .btn { margin-top: 0; }
-.chip .x { margin-left: 6px; opacity: 0.7; }
+.chip .x {
+  margin-left: 7px; opacity: 0.65; font-weight: 700;
+  padding: 2px 4px; border-radius: 6px;
+}
+.chip .x:hover { opacity: 1; background: rgba(255,255,255,0.16); }
+.chip.interest { border-color: #e0a72e; background: rgba(224,167,46,0.14); color: #f0c665; }
+.chip.interest em { font-style: normal; opacity: 0.7; font-size: 11px; margin-left: 4px; }
+.cat-card.interest .x {
+  position: absolute; top: 8px; right: 10px; font-size: 13px; opacity: 0.6;
+  padding: 3px 6px; border-radius: 8px; z-index: 2;
+}
+.cat-card.interest .x:hover { opacity: 1; background: rgba(255,255,255,0.18); }
+.explore-btn { align-self: flex-start; margin-bottom: 4px; }
 .profile-row {
   display: flex; align-items: center; gap: 10px; padding: 9px 0;
   border-bottom: 1px solid rgba(255,255,255,0.06); text-decoration: none; color: var(--text);
@@ -467,8 +488,11 @@ h1, h2, h3 { font-weight: 700; }
   .card-item { width: 270px; }
   .cat-grid { grid-template-columns: repeat(4, 1fr); }
   .topic-grid { grid-template-columns: repeat(4, 1fr); }
-  .ptile { width: 116px; height: 74px; }
-  .ptile img { width: 44px; height: 44px; }
+  .platform-row { grid-template-columns: repeat(auto-fit, minmax(104px, 1fr)); gap: 12px; }
+  .ptile { aspect-ratio: auto; height: 74px; }
+  .ptile img { width: 40px; height: 40px; }
+  .ptile.source img { width: 20px; height: 20px; }
+  .ptile .stile-name { font-size: 12px; }
   .page-title { font-size: 26px; }
   .row-title { font-size: 18px; }
 }

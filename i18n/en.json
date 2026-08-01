@@ -72,6 +72,8 @@
   "settings.title": "Settings",
   "settings.language": "Language",
   "settings.topics": "Your topics",
+  "settings.topics.desc": "Categories and personal interests: they all appear as rows in the dashboard. Tap ✕ on an interest to remove it.",
+  "interests.hint": "Interests behave like topics: dashboard row, dedicated notifications and their own feed.",
   "settings.sources": "Followed sources",
   "settings.applock": "Biometric app lock",
   "settings.applock.desc": "Protect access with fingerprint or face (device passkey)",
@@ -114,7 +116,8 @@
   "player.opennative": "Open in app",
 
   "platform.level1": "Integrated feed",
-  "platform.level3": "Opens the official app",
+  "platform.level3": "Opens in the same tab: press back to return",
+  "platform.source": "Featured source: opens its feed in the app",
 
   "time.now": "now",
   "time.min": "min ago",

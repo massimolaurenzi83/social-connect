@@ -27,7 +27,7 @@
     { "id": "tomshw", "name": "Tom's Hardware", "platform": "rss", "category": "tecnologia", "url": "https://www.tomshw.it/feed/", "home": "https://www.tomshw.it" },
     { "id": "montemagno", "name": "Marco Montemagno", "platform": "youtube", "category": "tecnologia", "handle": "@marcomontemagno", "channelId": "UCetdXbZA2XFp5Z2EmoF6eiQ", "home": "https://www.youtube.com/@marcomontemagno" },
 
-    { "id": "geopop", "name": "Geopop", "platform": "youtube", "category": "scienza", "handle": "@geopop", "channelId": "UCx7EWheHmjCW3vX8K2d09vg", "home": "https://www.youtube.com/@geopop" },
+    { "id": "geopop", "name": "Geopop", "platform": "youtube", "category": "scienza", "handle": "@geopop", "channelId": "UCx7EWheHmjCW3vX8K2d09vg", "home": "https://www.youtube.com/@geopop", "tile": true },
     { "id": "media-inaf", "name": "MEDIA INAF", "platform": "rss", "category": "scienza", "url": "https://www.media.inaf.it/feed/", "home": "https://www.media.inaf.it" },
     { "id": "focus", "name": "Focus", "platform": "rss", "category": "scienza", "url": "https://www.focus.it/rss", "home": "https://www.focus.it" },
 

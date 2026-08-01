@@ -54,6 +54,7 @@ const App = {
     } else {
       await this.loadFeeds();
       this.renderAll();
+      this.restoreReturnState();
     }
 
     if ('serviceWorker' in navigator) {
@@ -196,10 +197,23 @@ const App = {
   },
 
   // ──────────────── priorità piattaforme (ordine tile) ────────────────
+  // Le tile sono di due tipi: piattaforme (YouTube, Instagram...) e fonti in
+  // evidenza (es. Geopop), che aprono il loro feed dentro l'app.
+  allTiles() {
+    const plats = this.catalog.platforms
+      .filter(p => p.id !== 'rss')
+      .map(p => ({ key: p.id, kind: 'platform', name: p.name, url: p.url, level: p.level, logo: p.id }));
+    const srcs = this.catalog.sources
+      .filter(s => s.tile)
+      .map(s => ({ key: 'src:' + s.id, kind: 'source', name: s.name, url: s.home,
+                   logo: s.platform, sourceId: s.id }));
+    return [...plats, ...srcs];
+  },
+
   getPlatformOrder() {
     const saved = Store.get().platformOrder;
-    const all = this.catalog.platforms.map(p => p.id);
-    // ordine salvato + eventuali piattaforme nuove in coda
+    const all = this.allTiles().map(t => t.key);
+    // ordine salvato + eventuali tile nuove in coda
     return [...saved.filter(id => all.includes(id)), ...all.filter(id => !saved.includes(id))];
   },
 
@@ -304,27 +318,35 @@ const App = {
     const row = document.getElementById('platformRow');
     row.innerHTML = '';
     const connected = Store.get().connected || {};
-    for (const id of this.getPlatformOrder()) {
-      const p = this.platInfo(id);
-      if (!p || p.id === 'rss') continue;
+    const byKey = new Map(this.allTiles().map(t => [t.key, t]));
+    for (const key of this.getPlatformOrder()) {
+      const t = byKey.get(key);
+      if (!t) continue;
       const a = document.createElement('a');
-      a.className = 'ptile' + (connected[p.id] ? ' connected' : '');
-      a.dataset.pid = p.id;
-      a.href = p.url;
-      a.target = '_blank';
+      a.className = 'ptile' + (t.kind === 'source' ? ' source' : '') +
+                    (connected[key] ? ' connected' : '');
+      a.dataset.pid = key;
+      a.href = t.url;
       a.rel = 'noopener';
       a.draggable = false;
-      a.title = `${p.name} — ${I18N.t(p.level === 1 ? 'platform.level1' : 'platform.level3')}`;
-      a.innerHTML = `<img src="${this.logo(p.id)}" alt="${this.esc(p.name)}" draggable="false">
-                     <span class="dot"></span>
-                     <span class="lvl">${p.level === 1 ? '◉' : '↗'}</span>`;
+      if (t.kind === 'source') {
+        a.title = `${t.name} — ${I18N.t('platform.source')}`;
+        a.innerHTML = `<img src="${this.logo(t.logo)}" alt="" draggable="false">
+                       <span class="stile-name">${this.esc(t.name)}</span>
+                       <span class="lvl">◉</span>`;
+      } else {
+        a.title = `${t.name} — ${I18N.t(t.level === 1 ? 'platform.level1' : 'platform.level3')}`;
+        a.innerHTML = `<img src="${this.logo(t.logo)}" alt="${this.esc(t.name)}" draggable="false">
+                       <span class="dot"></span>
+                       <span class="lvl">${t.level === 1 ? '◉' : '↗'}</span>`;
+      }
       a.addEventListener('click', e => {
-        if (this.editingPlatforms) {
-          e.preventDefault();
-          this.selectTileForMove(a, row);
-          return;
-        }
-        this.markConnected(p.id);
+        e.preventDefault();
+        if (this.editingPlatforms) { this.selectTileForMove(a, row); return; }
+        if (t.kind === 'source') { this.openSource(t.sourceId); return; }
+        // stessa scheda: il tasto indietro (o la gesture) riporta a Social Connect
+        this.markConnected(key);
+        this.leaveTo(t.url);
       });
       row.appendChild(a);
     }
@@ -335,6 +357,50 @@ const App = {
     const btn = document.getElementById('btnEditPlatforms');
     btn.textContent = I18N.t(this.editingPlatforms ? 'home.done' : 'home.edit');
     document.querySelector('.hint').hidden = !this.editingPlatforms;
+  },
+
+  // Esce verso un sito esterno nella STESSA scheda, memorizzando dove eravamo:
+  // premendo indietro (o con la gesture) si torna esattamente a questo punto.
+  leaveTo(url) {
+    try {
+      sessionStorage.setItem('sc.return', JSON.stringify({
+        view: this.currentView, scroll: window.scrollY, t: Date.now()
+      }));
+    } catch { /* sessionStorage non disponibile */ }
+    window.location.href = url;
+  },
+
+  // al rientro nell'app ripristina vista e posizione di scorrimento
+  restoreReturnState() {
+    let saved = null;
+    try {
+      saved = JSON.parse(sessionStorage.getItem('sc.return') || 'null');
+      sessionStorage.removeItem('sc.return');
+    } catch { return; }
+    if (!saved || Date.now() - saved.t > 6 * 3600 * 1000) return;
+    if (saved.view && saved.view !== 'home' && saved.view !== 'category') {
+      this.switchView(saved.view);
+    }
+    if (saved.scroll) {
+      requestAnimationFrame(() => window.scrollTo({ top: saved.scroll }));
+    }
+  },
+
+  // feed di una singola fonte in evidenza (tile tipo Geopop)
+  async openSource(sourceId) {
+    const src = this.catalog.sources.find(s => s.id === sourceId);
+    if (!src) return;
+    document.getElementById('catTitle').textContent = src.name;
+    const list = document.getElementById('catFeed');
+    list.innerHTML = `<p class="hint">${I18N.t('interests.bsky.loading')}</p>`;
+    this.switchView('category');
+    await this.ensureAllFeeds();
+    const items = this.scored(this.everyLoadedItem().filter(i => i.sourceId === sourceId));
+    list.innerHTML = '';
+    if (!items.length) {
+      list.innerHTML = `<div class="empty-state"><span class="big">🛰️</span>${I18N.t('feed.empty')}</div>`;
+    }
+    for (const item of items) list.appendChild(this.vitemFor(item));
   },
 
   // primo accesso: la tile viene marcata come "connesso" (la sessione resta nel browser)
@@ -422,28 +488,34 @@ const App = {
   },
 
   enablePlatformDrag(row) {
-    let dragEl = null, startX = 0, moved = false;
+    let dragEl = null, startX = 0, startY = 0, moved = false;
     row.querySelectorAll('.ptile').forEach(tile => {
       tile.addEventListener('pointerdown', e => {
         if (!this.editingPlatforms) return;
-        dragEl = tile; startX = e.clientX; moved = false;
+        dragEl = tile; startX = e.clientX; startY = e.clientY; moved = false;
       });
       tile.addEventListener('pointermove', e => {
         if (!dragEl || dragEl !== tile) return;
         if (!moved) {
-          if (Math.abs(e.clientX - startX) < 8) return;   // sotto soglia: è un click
+          const far = Math.hypot(e.clientX - startX, e.clientY - startY) >= 8;
+          if (!far) return;                               // sotto soglia: è un click
           moved = true;
           tile.classList.add('dragging');
           try { tile.setPointerCapture(e.pointerId); } catch {}
         }
         e.preventDefault();
+        // griglia su più righe: si cerca la tile più vicina al puntatore
         const others = [...row.querySelectorAll('.ptile:not(.dragging)')];
-        const after = others.find(t => {
+        let best = null, bestDist = Infinity, before = true;
+        for (const t of others) {
           const r = t.getBoundingClientRect();
-          return e.clientX < r.left + r.width / 2;
-        });
-        if (after) row.insertBefore(dragEl, after);
-        else row.appendChild(dragEl);
+          const cx = r.left + r.width / 2, cy = r.top + r.height / 2;
+          const d = Math.hypot(e.clientX - cx, e.clientY - cy);
+          if (d < bestDist) { bestDist = d; best = t; before = e.clientX < cx; }
+        }
+        if (!best) return;
+        if (before) row.insertBefore(dragEl, best);
+        else best.after(dragEl);
       });
       const end = e => {
         if (!dragEl || dragEl !== tile) return;
@@ -574,6 +646,26 @@ const App = {
   renderCategories() {
     const grid = document.getElementById('catGrid');
     grid.innerHTML = '';
+
+    // gli interessi compaiono come argomenti anche qui, in testa
+    for (const name of Store.get().interests) {
+      const n = this.interestMatches(name).length;
+      const b = document.createElement('button');
+      b.className = 'cat-card interest';
+      b.style.setProperty('--cc', '#e0a72e');
+      b.innerHTML = `<span class="ico">⭐</span>
+                     <span class="name">${this.esc(name)}</span>
+                     <span class="cnt">${n} ${I18N.t('interests.matched')}</span>
+                     <span class="x" title="${I18N.t('saved.remove')}">✕</span>`;
+      b.onclick = e => {
+        if (e.target.classList.contains('x')) {
+          this.removeInterest(name);
+          this.renderCategories();
+        } else this.openInterestFeed(name);
+      };
+      grid.appendChild(b);
+    }
+
     for (const c of this.catalog.categories) {
       const nSources = this.catalog.sources.filter(s => s.category === c.id).length;
       const b = document.createElement('button');
@@ -773,11 +865,16 @@ const App = {
   },
 
   // ─────────────────────────── interessi ───────────────────────────
+  // Cerca per parole, non per stringa esatta: "AS Roma" trova anche
+  // "Roma-Lazio" o "la Roma vince" (le parole corte come "as" si ignorano).
   interestMatches(name) {
-    const q = name.toLowerCase();
-    return this.everyLoadedItem().filter(i =>
-      (i.title || '').toLowerCase().includes(q) ||
-      (i.summary || '').toLowerCase().includes(q));
+    const words = name.toLowerCase().split(/[^\p{L}\p{N}]+/u).filter(w => w.length >= 3);
+    const needles = words.length ? words : [name.toLowerCase().trim()].filter(Boolean);
+    if (!needles.length) return [];
+    return this.everyLoadedItem().filter(i => {
+      const hay = `${i.title || ''} ${i.summary || ''} ${i.source || ''} ${i.author || ''}`.toLowerCase();
+      return needles.every(w => hay.includes(w));
+    });
   },
 
   addInterest(name) {
@@ -790,35 +887,90 @@ const App = {
     }
     if (interests.some(i => i.toLowerCase() === name.toLowerCase())) return;
     Store.set({ interests: [...interests, name] });
-    this.renderInterests();
     // servono tutte le categorie per cercare ovunque
     this.loadFeeds().then(() => {
       this.renderAll();
-      this.openInterest(name);
+      this.renderTopicsRow();
+      this.openInterestFeed(name);   // porta subito alle notizie dell'interesse
     });
   },
 
   removeInterest(name) {
     Store.set({ interests: Store.get().interests.filter(i => i !== name) });
-    this.renderInterests();
+    this.renderTopicsRow();
     this.computeNotifications();
     this.renderRows();
+    this.renderCategories();
   },
 
-  renderInterests() {
-    const list = document.getElementById('interestList');
-    list.innerHTML = '';
-    for (const name of Store.get().interests) {
+  // Argomenti e interessi convivono nella stessa lista: gli interessi si
+  // comportano come argomenti (riga in home, notifiche, feed proprio) e si
+  // rimuovono con la ✕.
+  renderTopicsRow() {
+    const row = document.getElementById('setTopics');
+    row.innerHTML = '';
+    const topics = new Set(Store.get().topics);
+
+    for (const c of this.catalog.categories) {
       const ch = document.createElement('button');
-      ch.className = 'chip sel';
-      ch.innerHTML = `⭐ ${this.esc(name)}<span class="x">✕</span>`;
+      ch.className = 'chip' + (topics.has(c.id) ? ' sel' : '');
+      ch.textContent = `${c.icon} ${I18N.t('cat.' + c.id)}`;
+      ch.onclick = async () => {
+        topics.has(c.id) ? topics.delete(c.id) : topics.add(c.id);
+        if (topics.size < 2) { topics.add(c.id); return; }
+        Store.set({ topics: [...topics] });
+        ch.classList.toggle('sel');
+        await this.loadFeeds();
+        this.renderAll();
+      };
+      row.appendChild(ch);
+    }
+
+    for (const name of Store.get().interests) {
+      const n = this.interestMatches(name).length;
+      const ch = document.createElement('button');
+      ch.className = 'chip sel interest';
+      ch.innerHTML = `⭐ ${this.esc(name)}${n ? ` <em>${n}</em>` : ''}<span class="x">✕</span>`;
       ch.title = name;
       ch.onclick = e => {
         if (e.target.classList.contains('x')) this.removeInterest(name);
-        else this.openInterest(name);
+        else this.openInterestFeed(name);
       };
-      list.appendChild(ch);
+      row.appendChild(ch);
     }
+
+    const hint = document.getElementById('interestHint');
+    const left = Store.MAX_INTERESTS - Store.get().interests.length;
+    hint.textContent = `${Store.get().interests.length}/${Store.MAX_INTERESTS} · ${I18N.t('interests.hint')}`;
+    hint.hidden = left < 0;
+  },
+
+  renderInterests() { this.renderTopicsRow(); },
+
+  // feed di un interesse: si legge come una categoria (es. Scienza)
+  async openInterestFeed(name) {
+    document.getElementById('catTitle').textContent = `⭐ ${name}`;
+    const list = document.getElementById('catFeed');
+    list.innerHTML = `<p class="hint">${I18N.t('interests.bsky.loading')}</p>`;
+    this.switchView('category');
+    await this.ensureAllFeeds();
+    const items = this.scored(this.interestMatches(name));
+    list.innerHTML = '';
+
+    // scorciatoia ai profili social da collegare per questo interesse
+    const explore = document.createElement('button');
+    explore.className = 'btn btn-ghost explore-btn';
+    explore.textContent = `🔗 ${I18N.t('interests.explore')} «${name}»`;
+    explore.onclick = () => this.openInterest(name);
+    list.appendChild(explore);
+
+    if (!items.length) {
+      const p = document.createElement('div');
+      p.className = 'empty-state';
+      p.innerHTML = `<span class="big">⭐</span>0 ${I18N.t('interests.matched')}`;
+      list.appendChild(p);
+    }
+    for (const item of items) list.appendChild(this.vitemFor(item));
   },
 
   // esplora un interesse: profili da collegare + ricerche sulle piattaforme
@@ -957,15 +1109,19 @@ const App = {
             <span>${this.esc(item.source)} · ${I18N.timeAgo(item.date)}</span></div>
           <h2 class="pa-title">${this.esc(item.title)}</h2>
           <div class="pa-actions">
-            <a class="btn btn-ghost" href="${this.esc(item.url)}" target="_blank" rel="noopener">${I18N.t('player.opennative')} ↗</a>
+            <button class="btn btn-ghost" id="btnOpenNative">${I18N.t('player.opennative')}</button>
           </div>
         </div>`;
+      box.querySelector('#btnOpenNative').onclick = () => {
+        this.closePlayer();
+        this.leaveTo(item.url);
+      };
       modal.hidden = false;
       document.body.style.overflow = 'hidden';
       return;
     }
     if (item.platform !== 'rss') this.markConnected(item.platform);
-    window.location.href = item.url;
+    this.leaveTo(item.url);
   },
 
   closePlayer() {
@@ -1021,27 +1177,8 @@ const App = {
       };
     });
 
-    // argomenti
-    const topicsEl = document.getElementById('setTopics');
-    topicsEl.innerHTML = '';
-    const topics = new Set(Store.get().topics);
-    for (const c of this.catalog.categories) {
-      const ch = document.createElement('button');
-      ch.className = 'chip' + (topics.has(c.id) ? ' sel' : '');
-      ch.textContent = `${c.icon} ${I18N.t('cat.' + c.id)}`;
-      ch.onclick = async () => {
-        topics.has(c.id) ? topics.delete(c.id) : topics.add(c.id);
-        if (topics.size < 2) { topics.add(c.id); return; }
-        Store.set({ topics: [...topics] });
-        ch.classList.toggle('sel');
-        await this.loadFeeds();
-        this.renderAll();
-      };
-      topicsEl.appendChild(ch);
-    }
-
-    // interessi
-    this.renderInterests();
+    // argomenti + interessi nella stessa lista
+    this.renderTopicsRow();
     const input = document.getElementById('interestInput');
     input.placeholder = I18N.t('interests.placeholder');
     document.getElementById('btnAddInterest').onclick = () => {
