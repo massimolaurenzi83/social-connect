@@ -6,6 +6,22 @@
   "nav.categories": "Categories",
   "nav.notifications": "Notifications",
   "nav.settings": "Settings",
+  "nav.search": "Search",
+  "nav.saved": "Saved",
+
+  "search.title": "Search your content",
+  "search.placeholder": "Search news, videos and posts...",
+  "search.hint": "Type at least 2 characters to search all your sources",
+  "search.results": "results for",
+  "search.empty": "No results. Try another word.",
+  "search.recent": "Recent searches",
+
+  "saved.title": "Saved for later",
+  "saved.offline": "Your reading list: stays available even without a connection.",
+  "saved.empty": "Nothing saved yet. Tap 🔖 on any item to add it here.",
+  "saved.clear": "Clear list",
+  "saved.add": "Save for later",
+  "saved.remove": "Remove from saved",
 
   "onboarding.welcome": "Welcome to Social Connect",
   "onboarding.subtitle": "Pick the topics you care about: your feed will be ready in seconds. No account required.",

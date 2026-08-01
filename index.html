@@ -45,6 +45,8 @@
   <nav class="tabs" id="desktopTabs">
     <button class="tab active" data-view="home" data-i18n="nav.home"></button>
     <button class="tab" data-view="categories" data-i18n="nav.categories"></button>
+    <button class="tab" data-view="search" data-i18n="nav.search"></button>
+    <button class="tab" data-view="saved"><span data-i18n="nav.saved"></span><span class="badge count" id="savedBadgeTop" hidden></span></button>
     <button class="tab" data-view="notifications"><span data-i18n="nav.notifications"></span><span class="badge" id="notifBadgeTop" hidden></span></button>
   </nav>
   <button class="iconbtn" id="btnRefresh" aria-label="Aggiorna">🔄</button>
@@ -83,6 +85,29 @@
       <h2 id="catTitle" class="page-title"></h2>
     </div>
     <div id="catFeed" class="vfeed"></div>
+  </section>
+
+  <!-- ═══ RICERCA GLOBALE ═══ -->
+  <section id="view-search" class="view" hidden>
+    <h2 class="page-title" data-i18n="search.title"></h2>
+    <div class="searchbar">
+      <span class="s-ico">🔍</span>
+      <input id="searchInput" type="search" autocomplete="off">
+      <button id="btnClearSearch" class="s-clear" hidden>✕</button>
+    </div>
+    <div id="searchRecent" class="chip-row"></div>
+    <p id="searchCount" class="hint"></p>
+    <div id="searchResults" class="vfeed"></div>
+  </section>
+
+  <!-- ═══ SALVATI ═══ -->
+  <section id="view-saved" class="view" hidden>
+    <div class="cat-head space-between">
+      <h2 class="page-title" data-i18n="saved.title"></h2>
+      <button id="btnClearSaved" class="btn btn-ghost" data-i18n="saved.clear"></button>
+    </div>
+    <p class="hint" data-i18n="saved.offline"></p>
+    <div id="savedList" class="vfeed"></div>
   </section>
 
   <!-- ═══ NOTIFICHE ═══ -->
@@ -153,8 +178,9 @@
 <nav class="bottomnav">
   <button class="bnav active" data-view="home"><span class="bico">🏠</span><span data-i18n="nav.home"></span></button>
   <button class="bnav" data-view="categories"><span class="bico">🗂️</span><span data-i18n="nav.categories"></span></button>
+  <button class="bnav" data-view="search"><span class="bico">🔍</span><span data-i18n="nav.search"></span></button>
+  <button class="bnav" data-view="saved"><span class="bico">🔖</span><span data-i18n="nav.saved"></span><span class="badge count" id="savedBadge" hidden></span></button>
   <button class="bnav" data-view="notifications"><span class="bico">🔔</span><span data-i18n="nav.notifications"></span><span class="badge" id="notifBadge" hidden></span></button>
-  <button class="bnav" data-view="settings"><span class="bico">⚙️</span><span data-i18n="nav.settings"></span></button>
 </nav>
 
 <!-- ═══ Player / viewer ═══ -->

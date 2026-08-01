@@ -1,7 +1,8 @@
 // Social Connect — service worker
 // Shell dell'app in cache (uso offline); feed sempre freschi quando c'è rete.
 
-const CACHE = 'socialconnect-v2';
+const CACHE = 'socialconnect-v3';
+const SAVED_CACHE = 'socialconnect-saved';   // immagini dei contenuti salvati (offline)
 const SHELL = [
   '.', 'index.html', 'css/style.css',
   'js/app.js', 'js/i18n.js', 'js/store.js',
@@ -21,7 +22,10 @@ self.addEventListener('install', e => {
 
 self.addEventListener('activate', e => {
   e.waitUntil(
-    caches.keys().then(keys => Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k))))
+    caches.keys()
+      .then(keys => Promise.all(keys
+        .filter(k => k !== CACHE && k !== SAVED_CACHE)
+        .map(k => caches.delete(k))))
       .then(() => self.clients.claim())
   );
 });
@@ -30,7 +34,8 @@ self.addEventListener('fetch', e => {
   const url = new URL(e.request.url);
   if (e.request.method !== 'GET') return;
 
-  // Feed e API esterne: prima la rete, fallback alla cache (offline)
+  // Feed e API esterne: prima la rete, fallback alla cache (offline: anche le
+  // immagini dei contenuti salvati, conservate in SAVED_CACHE)
   const isData = url.origin === location.origin && url.pathname.includes('/data/feeds/');
   const isExternal = url.origin !== location.origin;
   if (isData || isExternal) {
@@ -43,19 +48,23 @@ self.addEventListener('fetch', e => {
           }
           return res;
         })
-        .catch(() => caches.match(e.request))
+        .catch(() => caches.match(e.request, { ignoreVary: true }))
     );
     return;
   }
 
-  // Shell: prima la cache, poi la rete
+  // Shell: prima la rete (così gli aggiornamenti dell'app arrivano subito),
+  // con la cache come rete di sicurezza quando si è offline.
   e.respondWith(
-    caches.match(e.request).then(hit => hit || fetch(e.request).then(res => {
-      if (res.ok) {
-        const copy = res.clone();
-        caches.open(CACHE).then(c => c.put(e.request, copy));
-      }
-      return res;
-    }))
+    fetch(e.request)
+      .then(res => {
+        if (res.ok) {
+          const copy = res.clone();
+          caches.open(CACHE).then(c => c.put(e.request, copy));
+        }
+        return res;
+      })
+      .catch(() => caches.match(e.request, { ignoreVary: true })
+        .then(hit => hit || caches.match('index.html')))
   );
 });

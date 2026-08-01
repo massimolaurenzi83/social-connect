@@ -15,6 +15,8 @@ const Store = {
     connected: {},       // piattaforme con login effettuato: { id: timestamp }
     sysNotif: false,     // notifiche di sistema attive
     lastNotified: 0,     // timestamp ultima notifica di sistema inviata
+    saved: [],           // "salva per dopo": copie complete degli item (leggibili offline)
+    recentSearches: [],  // ultime ricerche (max 6)
     affinity: {          // profilo dinamico: click su contenuti visitati
       platforms: {},     // { youtube: n... }
       sources: {},       // { ansa: n... }

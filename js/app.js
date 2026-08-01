@@ -47,6 +47,7 @@ const App = {
     this.bindNav();
     this.renderPlatformRow();
     this.renderSettings();
+    this.updateSavedBadges();
 
     if (!prefs.onboarded) {
       this.showOnboarding();
@@ -546,7 +547,8 @@ const App = {
         </div>
         ${item.image ? `<div class="card-thumb"><img src="${this.esc(item.image)}" alt="" loading="lazy"></div>` : ''}
         <div class="post-text">${this.esc(item.title)}</div>
-        <div class="post-stats"><span>❤️ ${item.likes}</span><span>🔁 ${item.reposts}</span></div>`;
+        <div class="post-stats"><span>❤️ ${item.likes}</span><span>🔁 ${item.reposts}</span>
+          ${this.saveBtnHtml(item)}</div>`;
     } else {
       const thumb = item.image
         ? `<img src="${this.esc(item.image)}" alt="" loading="lazy">`
@@ -560,10 +562,12 @@ const App = {
         </div>
         <div class="card-body">
           <div class="card-title">${this.esc(item.title)}</div>
-          <div class="card-meta"><span class="src">${this.esc(item.source)}</span> · ${I18N.timeAgo(item.date)}</div>
+          <div class="card-meta"><span class="src">${this.esc(item.source)}</span> · ${I18N.timeAgo(item.date)}
+            ${this.saveBtnHtml(item)}</div>
         </div>`;
     }
     card.onclick = () => this.openItem(item);
+    this.bindSaveBtn(card, item);
     return card;
   },
 
@@ -620,10 +624,152 @@ const App = {
         <div class="card-meta">
           <img src="${this.logo(item.platform)}" alt="" style="width:14px;height:14px">
           <span class="src">${this.esc(item.source)}</span> · ${I18N.timeAgo(item.date)}
+          ${this.saveBtnHtml(item)}
         </div>
       </div>`;
     el.onclick = () => this.openItem(item);
+    this.bindSaveBtn(el, item);
     return el;
+  },
+
+  // ────────────────────── salva per dopo (offline) ──────────────────────
+  isSaved(id) {
+    return Store.get().saved.some(s => s.id === id);
+  },
+
+  toggleSaved(item) {
+    const saved = Store.get().saved;
+    if (this.isSaved(item.id)) {
+      Store.set({ saved: saved.filter(s => s.id !== item.id) });
+    } else {
+      // salviamo una copia completa: la lista resta leggibile offline
+      Store.set({ saved: [{ ...item, _savedAt: Date.now() }, ...saved].slice(0, 300) });
+      this.cacheImageOffline(item.image);
+    }
+    this.updateSavedBadges();
+    this.refreshSaveButtons(item.id);
+    if (this.currentView === 'saved') this.renderSaved();
+  },
+
+  // mette in cache la miniatura, così la lista salvata si vede anche offline
+  async cacheImageOffline(url) {
+    if (!url || !('caches' in window)) return;
+    try {
+      const c = await caches.open('socialconnect-saved');
+      await c.add(new Request(url, { mode: 'no-cors' }));
+    } catch { /* immagine non memorizzabile */ }
+  },
+
+  saveBtnHtml(item) {
+    const on = this.isSaved(item.id);
+    return `<span class="savebtn${on ? ' on' : ''}" data-save="${this.esc(item.id)}"
+                  role="button" tabindex="0"
+                  title="${I18N.t(on ? 'saved.remove' : 'saved.add')}">${on ? '🔖' : '🏷️'}</span>`;
+  },
+
+  // aggancia il click al segnalibro senza far scattare l'apertura del contenuto
+  bindSaveBtn(root, item) {
+    const b = root.querySelector('.savebtn');
+    if (!b) return;
+    const handler = e => { e.stopPropagation(); e.preventDefault(); this.toggleSaved(item); };
+    b.addEventListener('click', handler);
+    b.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') handler(e); });
+  },
+
+  refreshSaveButtons(id) {
+    const on = this.isSaved(id);
+    document.querySelectorAll(`.savebtn[data-save="${CSS.escape(id)}"]`).forEach(b => {
+      b.classList.toggle('on', on);
+      b.textContent = on ? '🔖' : '🏷️';
+      b.title = I18N.t(on ? 'saved.remove' : 'saved.add');
+    });
+  },
+
+  updateSavedBadges() {
+    const n = Store.get().saved.length;
+    for (const id of ['savedBadge', 'savedBadgeTop']) {
+      const b = document.getElementById(id);
+      if (!b) continue;
+      b.hidden = n === 0;
+      b.textContent = n > 99 ? '99+' : n;
+    }
+  },
+
+  renderSaved() {
+    const list = document.getElementById('savedList');
+    list.innerHTML = '';
+    const saved = Store.get().saved;
+    if (!saved.length) {
+      list.innerHTML = `<div class="empty-state"><span class="big">🔖</span>${I18N.t('saved.empty')}</div>`;
+      return;
+    }
+    for (const item of saved) list.appendChild(this.vitemFor(item));
+  },
+
+  // ─────────────────────── ricerca globale ───────────────────────
+  // garantisce che tutte le categorie siano caricate, per cercare davvero ovunque
+  async ensureAllFeeds() {
+    const missing = this.catalog.categories.map(c => c.id).filter(c => !this.feeds[c]);
+    await Promise.allSettled(missing.map(async cat => {
+      if (cat === 'social') return this.loadSocialLive();
+      try {
+        const data = await (await fetch(`data/feeds/${cat}.json`, { cache: 'no-cache' })).json();
+        this.feeds[cat] = data.items || [];
+      } catch { this.feeds[cat] = []; }
+    }));
+  },
+
+  runSearch(q) {
+    const results = document.getElementById('searchResults');
+    const count = document.getElementById('searchCount');
+    document.getElementById('btnClearSearch').hidden = !q;
+    if (q.trim().length < 2) {
+      results.innerHTML = '';
+      count.textContent = I18N.t('search.hint');
+      this.renderRecentSearches();
+      return;
+    }
+    const needle = q.trim().toLowerCase();
+    const hits = this.scored(this.everyLoadedItem().filter(i =>
+      (i.title || '').toLowerCase().includes(needle) ||
+      (i.summary || '').toLowerCase().includes(needle) ||
+      (i.source || '').toLowerCase().includes(needle) ||
+      (i.author || '').toLowerCase().includes(needle)
+    )).slice(0, 60);
+
+    count.textContent = `${hits.length} ${I18N.t('search.results')} «${q.trim()}»`;
+    results.innerHTML = '';
+    if (!hits.length) {
+      results.innerHTML = `<div class="empty-state"><span class="big">🔍</span>${I18N.t('search.empty')}</div>`;
+      return;
+    }
+    for (const item of hits) results.appendChild(this.vitemFor(item));
+  },
+
+  rememberSearch(q) {
+    q = q.trim();
+    if (q.length < 2) return;
+    const prev = Store.get().recentSearches.filter(s => s.toLowerCase() !== q.toLowerCase());
+    Store.set({ recentSearches: [q, ...prev].slice(0, 6) });
+    this.renderRecentSearches();
+  },
+
+  renderRecentSearches() {
+    const box = document.getElementById('searchRecent');
+    const recent = Store.get().recentSearches;
+    box.innerHTML = '';
+    if (!recent.length) return;
+    for (const q of recent) {
+      const ch = document.createElement('button');
+      ch.className = 'chip';
+      ch.textContent = `🕘 ${q}`;
+      ch.onclick = () => {
+        const input = document.getElementById('searchInput');
+        input.value = q;
+        this.runSearch(q);
+      };
+      box.appendChild(ch);
+    }
   },
 
   // ─────────────────────────── interessi ───────────────────────────
@@ -1052,6 +1198,32 @@ const App = {
     document.getElementById('btnEditPlatforms').onclick = () => this.toggleEditPlatforms();
     document.getElementById('btnMoveBefore').onclick = () => this.nudgeSelected(-1);
     document.getElementById('btnMoveAfter').onclick = () => this.nudgeSelected(1);
+    // ricerca globale
+    const sInput = document.getElementById('searchInput');
+    sInput.placeholder = I18N.t('search.placeholder');
+    let debounce;
+    sInput.addEventListener('input', () => {
+      clearTimeout(debounce);
+      debounce = setTimeout(() => this.runSearch(sInput.value), 180);
+    });
+    sInput.addEventListener('change', () => this.rememberSearch(sInput.value));
+    sInput.addEventListener('keydown', e => {
+      if (e.key === 'Enter') { this.runSearch(sInput.value); this.rememberSearch(sInput.value); sInput.blur(); }
+    });
+    document.getElementById('btnClearSearch').onclick = () => {
+      sInput.value = ''; this.runSearch(''); sInput.focus();
+    };
+
+    // salvati
+    document.getElementById('btnClearSaved').onclick = () => {
+      Store.set({ saved: [] });
+      this.updateSavedBadges();
+      this.renderSaved();
+      document.querySelectorAll('.savebtn.on').forEach(b => {
+        b.classList.remove('on'); b.textContent = '🏷️';
+      });
+    };
+
     document.getElementById('btnMarkRead').onclick = () => {
       Store.set({ lastRead: Date.now() });
       this.computeNotifications();
@@ -1064,7 +1236,7 @@ const App = {
 
   switchView(view) {
     this.currentView = view;
-    for (const v of ['home', 'categories', 'category', 'notifications', 'settings']) {
+    for (const v of ['home', 'categories', 'category', 'search', 'saved', 'notifications', 'settings']) {
       document.getElementById('view-' + v).hidden = v !== view;
     }
     const navTarget = view === 'category' ? 'categories' : view;
@@ -1072,6 +1244,15 @@ const App = {
       b.classList.toggle('active', b.dataset.view === navTarget);
     });
     if (view === 'notifications') this.renderNotifications();
+    if (view === 'saved') this.renderSaved();
+    if (view === 'search') {
+      const input = document.getElementById('searchInput');
+      this.renderRecentSearches();
+      this.runSearch(input.value);
+      // carica tutte le categorie per cercare davvero in ogni fonte
+      this.ensureAllFeeds().then(() => this.runSearch(input.value));
+      setTimeout(() => input.focus(), 60);
+    }
     window.scrollTo({ top: 0 });
   }
 };
