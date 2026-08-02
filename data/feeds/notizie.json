@@ -1,18 +1,78 @@
 {
   "category": "notizie",
-  "updated": "2026-08-02T20:03:20.4245624Z",
+  "updated": "2026-08-02T23:40:02.5781565Z",
   "items": [
     {
-      "id": "ansa:4752e9400395",
+      "id": "ansa:e3abd2035c82",
       "sourceId": "ansa",
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Tragedia sulla Terni-Rieti, sei morti e 26 feriti in uno scontro",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/scontro-sulla-terni-rieti-6-morti-e-27-feriti_da5389c8-2c54-4e56-8709-29f126de7e09.html",
+      "title": "Trump annuncia 'la ripresa dei negoziati con l'Iran, anche sul nucleare'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/03/trump-con-liran-ce-laccordo-su-hormuz-ce-ne-sara-uno-sul-nucleare_9627b960-bbbb-43e9-891a-e77a10e8b09e.html",
+      "image": null,
+      "summary": "'Intesa su Hormuz'. Stop ai raid 'dopo colloqui con Arabia, Emirati, Qatar e Teheran'",
+      "date": "2026-08-02T23:00:33.0000000Z"
+    },
+    {
+      "id": "repubblica:cc83f9328533",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Bin Salman ferma i raid Usa. Trump: “Oggi nuovi colloqui”",
+      "url": "https://www.repubblica.it/esteri/2026/08/03/news/bin_salman_ferma_raid_usa_iran_hormuz_mai_piu_libero-425508503/",
+      "image": null,
+      "summary": "Telefonata del principe saudita alla Casa Bianca: “Compiere ogni sforzo per la tregua”. L’Iran: mai più Hormuz libero",
+      "date": "2026-08-02T23:00:00.0000000Z"
+    },
+    {
+      "id": "ansa:b03337acda0b",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Tragedia sulla Terni-Rieti, sei morti e 34 feriti in uno scontro",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/tragedia-sulla-terni-rieti-sei-morti-e-34-feriti-in-uno-scontro_da5389c8-2c54-4e56-8709-29f126de7e09.html",
       "image": null,
       "summary": "L'impatto tra un bus e un camper. Presidente dell'Umbria: 'Scenario di guerra'",
-      "date": "2026-08-02T19:39:39.0000000Z"
+      "date": "2026-08-02T22:51:22.0000000Z"
+    },
+    {
+      "id": "ansa:1fc008dcb508",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Europei di nuoto: strepitosa Chiara Pellecani, doppietta d'oro",
+      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/02/europei-di-nuoto-due-ori-dellitalia-nei-tuffi-con-chiara-pellacani_1b37155f-6804-4605-8291-f05f327e673d.html",
+      "image": null,
+      "summary": "A poche ore di distanza, prima nel trampolino da 1 metro e poi nel sincro misto da 3 metri",
+      "date": "2026-08-02T21:52:57.0000000Z"
+    },
+    {
+      "id": "open:ad0f7e49b4b4",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "«Ha usato l’AI». Il caso del libro conteso da 14 editori e poi bloccato: così l’autore ha perso 2 milioni di dollari",
+      "url": "https://www.open.online/2026/08/02/libro-conteso-editori-autore-ai/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/libro-ai-.jpg",
+      "summary": "Sembrava la favola editoriale perfetta per lo studente Jerry Falade, ma l'agenzia ha deciso di bloccare tutto dopo le perplessità dei revisori su stile e ritmo del testo L'articolo «Ha usato l’AI». Il caso del libro c...",
+      "date": "2026-08-02T20:04:31.0000000Z"
+    },
+    {
+      "id": "repubblica:3f0db85b2ff4",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Attacco a Mosca, l’ambasciata russa: “Gli ucraini volevano intimidire gli italiani”. Tajani: “Balla”",
+      "url": "https://www.repubblica.it/esteri/2026/08/02/news/attentato_mosca_ambasciata_russa_ucraini_volevano_intimidire_italiani_tajani_balla-425508457/",
+      "image": null,
+      "summary": "Il ministro degli Esteri smonta la versione del Cremlino sull’attentato nel ristorante italiano in Russia: “Perché mai dovrebbero farlo se siamo al fianco di Kiev?”",
+      "date": "2026-08-02T19:38:12.0000000Z"
     },
     {
       "id": "open:217020f25e4a",
@@ -51,18 +111,6 @@
       "date": "2026-08-02T19:17:55.0000000Z"
     },
     {
-      "id": "ansa:fa8916873481",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Show di Vox a Ceuta, 'militarizzare la frontiera e chiuderla per sempre'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/02/show-di-vox-a-ceuta-militarizzare-la-frontiera-e-chiuderla-per-sempre_d1104ddc-8a3d-4ad7-8767-7faf168ecaba.html",
-      "image": null,
-      "summary": "Abascal nell'exclave: 'Ancora migliaia di invasori'. Madrid rafforza i respingimenti",
-      "date": "2026-08-02T18:48:20.0000000Z"
-    },
-    {
       "id": "ansa:0acf112a3b1f",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -73,18 +121,6 @@
       "image": null,
       "summary": "Proposta dell'Italia per centri in Paesi sicuri. Il Papa: 'Trovare soluzioni di giustizia'",
       "date": "2026-08-02T18:46:24.0000000Z"
-    },
-    {
-      "id": "ansa:636e1151751a",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Bin Salman convince Trump, annullato l'attacco all'Iran",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/02/bin-salman-convince-trump-annullato-lattacco-alliran_9627b960-bbbb-43e9-891a-e77a10e8b09e.html",
-      "image": null,
-      "summary": "Il leader saudita vuole la de-escalation. Ma Teheran nega gli accordi: 'Hormuz resta chiuso'",
-      "date": "2026-08-02T18:29:11.0000000Z"
     },
     {
       "id": "open:a3214867b1fb",
@@ -104,10 +140,10 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Pellacani e Santoro sul tetto d’Europa: medaglia d’oro dal trampolino 3 metri sincro misto",
+      "title": "Pellacani, due ori in una notte. Trionfa nel sincro con Santoro e poi nel trampolino 1 metro",
       "url": "https://www.repubblica.it/sport/vari/2026/08/02/news/pellacani_santoro_oro_europei_tuffi-425508306/",
       "image": null,
-      "summary": "Un anno dopo il trionfo ai Mondiali arriva il titolo continentale",
+      "summary": "Un anno dopo il successo ai Mondiali arriva il titolo continentale nel misto. A seguire la vittoria nella gara individuale",
       "date": "2026-08-02T18:05:26.0000000Z"
     },
     {
@@ -243,18 +279,6 @@
       "date": "2026-08-02T16:18:06.0000000Z"
     },
     {
-      "id": "repubblica:1593d012bedb",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Le navi fantasma su cui viaggia il petrolio russo: rotte, mercati e perché le sanzioni Ue non bastano",
-      "url": "https://www.repubblica.it/esteri/2026/08/02/news/navi_flotta_ombra_petrolio_russo_rotte_mercati_perche_sanzioni_ue_non_bastano-425508127/",
-      "image": null,
-      "summary": "Per gli analisti internazionali sono più di 1500, nel mirino dell’Unione Europea ce ne sono 673 tra cui la Toa Payoh, abbordata dalla Marina italiana al largo di Pantelleria",
-      "date": "2026-08-02T16:10:07.0000000Z"
-    },
-    {
       "id": "open:216c74e186d9",
       "sourceId": "open",
       "source": "Open",
@@ -272,10 +296,10 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Sei morti e 30 feriti nello schianto tra Terni e Rieti: coinvolti pullman, camper e tre auto",
+      "title": "Sei morti e 34 feriti nello schianto tra Terni e Rieti: coinvolti pullman, camper e tre auto",
       "url": "https://roma.repubblica.it/cronaca/2026/08/02/news/rieti_tragedia_incidente_colli_velino_piediluco_cinque_morti-425508084/",
       "image": null,
-      "summary": "I feriti sono 30, di cui quattro gravi. L’incidente è avvenuto sulla statale Ternana nel tratto compreso tra lo svincolo di Colli sul Velino e quello di Piediluco",
+      "summary": "I feriti sono 34, di cui quattro gravi. L’incidente è avvenuto sulla statale Ternana nel tratto compreso tra lo svincolo di Colli sul Velino e quello di Piediluco",
       "date": "2026-08-02T15:35:00.0000000Z"
     },
     {
@@ -284,10 +308,10 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Lo vede con la ex, lo scambia per un rivale e lo uccide investendolo: arrestato a Somma Lombardo",
+      "title": "Lo vede con la ex e lo scambia per un rivale, lo investe e uccide: Federico Venco muore a 36 anni",
       "url": "https://milano.repubblica.it/cronaca/2026/08/02/news/somma_lombarda_investe_rivale_uccide_errore-425508081/",
       "image": null,
-      "summary": "La vittima era in realtà uno sconosciuto che si era fermato ad aiutare la donna",
+      "summary": "La tragedia a Somma Lombardo, in provincia di Varese. La vittima era in realtà uno sconosciuto che si era fermato ad aiutare la donna in difficoltà",
       "date": "2026-08-02T15:31:20.0000000Z"
     },
     {
@@ -353,18 +377,6 @@
       "summary": "",
       "videoId": "cVDAbvsYviw",
       "date": "2026-08-02T13:45:33.0000000Z"
-    },
-    {
-      "id": "repubblica:7f199a04dfa7",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Strage Bologna, Meloni e il comunicato quasi identico a quello del 2025: ecco gli stralci in comune",
-      "url": "https://bologna.repubblica.it/cronaca/2026/08/02/news/strage_bologna_giorgia_meloni_comunicato_fotocopia_anno_scorso-425508019/",
-      "image": null,
-      "summary": "La presidente del consiglio ha firmato una nota di cordoglio, sul sito di Palazzo Chigi, usando parole e frasi già utilizzate un anno fa",
-      "date": "2026-08-02T13:43:29.0000000Z"
     },
     {
       "id": "open:fe5c5072d7b9",
@@ -504,18 +516,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/Modena-30enne-ucciso-a-coltellate-dopo-una-lite-in-casa-fermato-un-uomo-scaled.jpg",
       "summary": "Per l'omicidio i carabinieri hanno individuato un sospettato, ma restano ancora da chiarire i motivi che hanno portato all'aggressione L'articolo Modena, 30enne ucciso a coltellate dopo una lite in casa: fermato un uo...",
       "date": "2026-08-02T11:55:25.0000000Z"
-    },
-    {
-      "id": "open:effce9934ac9",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Il manager di Deloitte Paolo Gianturco, il figlio 18enne, la famiglia Angelucci: chi sono i 7 italiani morti nell’incidente aereo in Perù – Il video",
-      "url": "https://www.open.online/2026/08/02/chi-sono-sette-italiani-morti-incidente-aereo-peru/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/peru-chi-sono-7-italiani-morti-manager-deloitte-paolo-gianturco-scaled.jpg",
-      "summary": "Il tragico schianto aereo non ha lasciato superstiti: tra i 13 deceduti ci sono due famiglie di Monza e Seregno. A bordo anche quattro turisti stranieri e i due piloti L'articolo Il manager di Deloitte Paolo Gianturco...",
-      "date": "2026-08-02T11:24:00.0000000Z"
     },
     {
       "id": "skytg24:FWGGUag7kFQ",
