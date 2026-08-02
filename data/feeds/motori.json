@@ -1,17 +1,29 @@
 {
   "category": "motori",
-  "updated": "2026-08-02T15:47:05.1651359Z",
+  "updated": "2026-08-02T20:03:20.4215741Z",
   "items": [
+    {
+      "id": "motor1:a586a17a8fca",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ecco il più sportivo fra i camper van Laika, stile tutto italiano",
+      "url": "https://it.motor1.com/news/803470/laika-ecovip-evoluzione-camper-van/",
+      "image": "https://cdn.motor1.com/images/mgl/G3QPPV/s3/laika-ecovip-evoluzione-2026.jpg",
+      "summary": "Design ispirato al motorsport, ricca dotazione di serie e fino a 5 posti letto: debutta il nuovo Laika Ecovip Evoluzione",
+      "date": "2026-08-02T15:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:88d16e0cca27",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
       "platform": "rss",
       "category": "motori",
-      "title": "Supercharger Tesla per le aziende: bastano 150.000 euro per mettersi nel business della ricarica?",
+      "title": "Supercharger Tesla: con 150.000 euro ti metti nel business della ricarica?",
       "url": "https://www.vaielettrico.it/supercharger-tesla-per-le-aziende-bastano-150-000-euro-per-mettersi-nel-business-della-ricarica/",
       "image": null,
-      "summary": "Con il programma “Supercharger for Business”, Tesla consente ad aziende, hotel, centri commerciali e gestori di parcheggi di… L'articolo Supercharger Tesla per le aziende: bastano 150.000 euro per mettersi nel busines...",
+      "summary": "Con il programma “Supercharger for Business”, Tesla consente ad aziende, hotel, centri commerciali e gestori di parcheggi di… L'articolo Supercharger Tesla: con 150.000 euro ti metti nel business della ricarica? provi...",
       "date": "2026-08-02T14:33:53.0000000Z"
     },
     {
@@ -99,18 +111,6 @@
       "date": "2026-08-02T06:30:17.0000000Z"
     },
     {
-      "id": "motor1:0af90040394d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La spider italiana nata per conquistare gli Stati Uniti",
-      "url": "https://it.motor1.com/news/803362/fiat-124-sport-spider-storia-foto/",
-      "image": "https://cdn.motor1.com/images/mgl/0egx39/s3/60-jahre-fiat-sport-spider.jpg",
-      "summary": "Classe 1966, la Fiat 124 Sport Spider unì stile Pininfarina, motori brillanti e successo negli USA, diventando un'icona",
-      "date": "2026-08-02T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:6a992ace1a10",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -120,6 +120,18 @@
       "url": "https://insideevs.it/news/802944/auto-elettriche-spider-cabrio-in-vendita-2026/",
       "image": "https://cdn.motor1.com/images/mgl/lE7BGN/s3/mg-cyberster-convertible-ev-3.jpg",
       "summary": "L'offerta è ancora limitata, ma ci sono già modelli per ogni fascia di prezzo. Tra quelle attese anche l'erede della BMW Z4",
+      "date": "2026-08-02T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:0af90040394d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La spider italiana nata per conquistare gli Stati Uniti",
+      "url": "https://it.motor1.com/news/803362/fiat-124-sport-spider-storia-foto/",
+      "image": "https://cdn.motor1.com/images/mgl/0egx39/s3/60-jahre-fiat-sport-spider.jpg",
+      "summary": "Classe 1966, la Fiat 124 Sport Spider unì stile Pininfarina, motori brillanti e successo negli USA, diventando un'icona",
       "date": "2026-08-02T05:00:00.0000000Z"
     },
     {
@@ -219,18 +231,6 @@
       "date": "2026-08-01T06:30:42.0000000Z"
     },
     {
-      "id": "motor1:f21380b86f4e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Corvette che sfidò Shelby Cobra vale fino a 13 milioni",
-      "url": "https://it.motor1.com/news/801887/corvette-grand-sport-1963-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/g4OwW4/s3/la-corvette-grand-sport-del-1963.jpg",
-      "summary": "La Grand Sport del 1963 fu progettata per competere ai massimi livelli e oggi rappresenta uno dei modelli più ricercati",
-      "date": "2026-08-01T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:3210e07c733e",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -240,6 +240,18 @@
       "url": "https://insideevs.it/news/803338/auto-800v-ricarica-velocita/",
       "image": "https://cdn.motor1.com/images/mgl/wl8m0Q/s3/perche-le-auto-a-800-v-possono-ricaricare-a-velocita-diverse.jpg",
       "summary": "Stessa architettura, risultati differenti: ecco i fattori che influenzano davvero il tempo necessario per passare dal 10 all'80%",
+      "date": "2026-08-01T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:f21380b86f4e",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Corvette che sfidò Shelby Cobra vale fino a 13 milioni",
+      "url": "https://it.motor1.com/news/801887/corvette-grand-sport-1963-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/g4OwW4/s3/la-corvette-grand-sport-del-1963.jpg",
+      "summary": "La Grand Sport del 1963 fu progettata per competere ai massimi livelli e oggi rappresenta uno dei modelli più ricercati",
       "date": "2026-08-01T05:00:00.0000000Z"
     },
     {
@@ -327,18 +339,6 @@
       "date": "2026-07-31T15:00:25.0000000Z"
     },
     {
-      "id": "insideevs:7e9a79aac0b8",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "C'è una nuova colonnina di ricarica cinese da 1.500 kW",
-      "url": "https://insideevs.it/news/803322/dongfeng-colonnina-ricarica-1500-kw/",
-      "image": "https://cdn.motor1.com/images/mgl/BXZzJm/s3/voyah-ev-charging.jpg",
-      "summary": "Dopo BYD, anche Dongfeng presenta un'infrastruttura per auto elettriche da 1,5 MW di potenza",
-      "date": "2026-07-31T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:ceac4c9c8345",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -348,6 +348,18 @@
       "url": "https://it.motor1.com/reviews/801867/subaru-uncharted-prova-fuoristrada-video/",
       "image": "https://cdn.motor1.com/images/mgl/E6NZ9q/s3/subaru-uncharted-2026-quello-che-sa-fare-vi-sorprendera.jpg",
       "summary": "La trazione integrale Subaru sarà così efficace anche su questa elettrica? Ecco come va in offroad e su strada la versione da 343 CV",
+      "date": "2026-07-31T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:7e9a79aac0b8",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "C'è una nuova colonnina di ricarica cinese da 1.500 kW",
+      "url": "https://insideevs.it/news/803322/dongfeng-colonnina-ricarica-1500-kw/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZzJm/s3/voyah-ev-charging.jpg",
+      "summary": "Dopo BYD, anche Dongfeng presenta un'infrastruttura per auto elettriche da 1,5 MW di potenza",
       "date": "2026-07-31T15:00:00.0000000Z"
     },
     {
@@ -423,18 +435,6 @@
       "date": "2026-07-31T11:30:00.0000000Z"
     },
     {
-      "id": "motor1:3814e9835e8d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Maybach S680, la prova dell'auto che ti fa sentire un vero \"cattivo\"",
-      "url": "https://it.motor1.com/reviews/803243/maybach-classe-s-2026-recensione/",
-      "image": "https://cdn.motor1.com/images/mgl/9m8nry/s3/mercedes-maybach-s680.jpg",
-      "summary": "Tutto il gusto di guidare il puro lusso per le strade della California con un pizzico di \"arroganza\"",
-      "date": "2026-07-31T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:f67140f141ce",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -447,6 +447,18 @@
       "date": "2026-07-31T11:00:00.0000000Z"
     },
     {
+      "id": "motor1:3814e9835e8d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Maybach S680, la prova dell'auto che ti fa sentire un vero \"cattivo\"",
+      "url": "https://it.motor1.com/reviews/803243/maybach-classe-s-2026-recensione/",
+      "image": "https://cdn.motor1.com/images/mgl/9m8nry/s3/mercedes-maybach-s680.jpg",
+      "summary": "Tutto il gusto di guidare il puro lusso per le strade della California con un pizzico di \"arroganza\"",
+      "date": "2026-07-31T11:00:00.0000000Z"
+    },
+    {
       "id": "insideevs:725c62b8a9fa",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -456,18 +468,6 @@
       "url": "https://insideevs.it/news/803316/autorizzazione-robotaxi-zoox-amazon/",
       "image": "https://cdn.motor1.com/images/mgl/KbY4L0/s3/amazon-zoox-robotaxi-plant5.jpg",
       "summary": "La controllata Zoox è la prima società autorizzata a operare con veicoli elettrici a guida autonoma costruiti ad hoc",
-      "date": "2026-07-31T10:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:3495ffc0a18f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quindi in Italia si può circolare con targa estera?",
-      "url": "https://it.motor1.com/features/803328/circolazione-auto-targa-estera-italia-legge/",
-      "image": "https://cdn.motor1.com/images/mgl/XBzgPl/s3/targa-straniera-auto-italia-regole.jpg",
-      "summary": "Di base no, ma non mancano le eccezioni, da registrare al REVE. Ecco tutto quello che c'è da sapere",
       "date": "2026-07-31T10:00:00.0000000Z"
     },
     {
