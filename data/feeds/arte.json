@@ -1,18 +1,66 @@
 {
   "category": "arte",
-  "updated": "2026-08-02T11:45:39.5867908Z",
+  "updated": "2026-08-02T15:47:05.0714860Z",
   "items": [
     {
-      "id": "artribune:26b2a5e900a7",
+      "id": "elledecor:9ee9b4444845",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Questa casa a schiera dell’Ottocento ritrova luce e spazio tra arredi vintage e dettagli su misura",
+      "url": "https://www.elledecor.com/it/case/a71915299/casa-a-schiera-bellissima/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/33d0afc0-56c3-4617-b17c-8504549ca0ea.jpg",
+      "summary": "La cucina sale al piano nobile e una nuova scala sinuosa attraversa interni luminosi, arredati con mogano, acciaio spazzolato, tessuti preziosi e pezzi Art Déco",
+      "date": "2026-08-02T14:30:00.0000000Z"
+    },
+    {
+      "id": "artribune:cb0558bdee32",
       "sourceId": "artribune",
       "source": "Artribune",
       "platform": "rss",
       "category": "arte",
-      "title": "Il nuovo Museo Giansone a Sant’Ambrogio di Torino riporta d’attualità lo scultore che ispirò il libro La donna della domenica",
-      "url": "https://www.artribune.com/arte-contemporanea-2/2026/08/museo-giansone-artista-cinema-libri/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/07/ladonnadella-domenica.jpg",
-      "summary": "Dedicato allo scultore Mario Giansone il nuovo museo racconta la storia dell’artista che ispirò il libro de La donna della domenica di Fruttero e Lucentini L’articolo \" Il nuovo Museo Giansone a Sant’Ambrogio di Torin...",
-      "date": "2026-08-02T11:00:00.0000000Z"
+      "title": "“Sono fuggita in California per diventare me stessa”. Intervista a Christina Schlesinger delle Guerrilla Girls",
+      "url": "https://www.artribune.com/arte-contemporanea-2/2026/08/christina-schlesinger-guerrilla-girls-intervista/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/screenshot-2026-07-30-alle-123727.png",
+      "summary": "Da Womanhouse alle Guerrilla Girls, il racconto di un'artista che ha attraversato il femminismo americano senza mai smettere di cercare la propria libertà L’articolo \" “Sono fuggita in California per diventare me stes...",
+      "date": "2026-08-02T14:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:2c5c015ade0c",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "La fede nuziale di Carolyn Bessette Kennedy si ispira al serpente a sonagli e al suo simbolismo",
+      "url": "https://www.elledecor.com/it/lifestyle/a71915779/fede-nuziale-carolyn-bessette-kennedy/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/52f944cc-26c0-42ce-9c07-a623014de097.jpeg",
+      "summary": "L’anello d’oro creato per le nozze del 1996 nacque dal calco di una costola trovata sull’isola scelta dalla coppia per il matrimonio",
+      "date": "2026-08-02T13:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:221b781d9881",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "A Napoli c’è un luna park urbano che parla di cultura, sostenibilità e innovazione",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/08/pessoa-luna-park-napoli-estate-2026/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/pessoa-luna-park.jpg",
+      "summary": "Pessoa Luna Park che fino al 4 ottobre 2026 trasforma il Fossato di Castel Sant’Elmo a Napoli in un laboratorio a cielo aperto dedicato alla cultura contemporanea L’articolo \" A Napoli c’è un luna park urbano che parl...",
+      "date": "2026-08-02T13:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:79e64df7ac65",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il ruolo culturale dei grandi festival europei. Una riflessione a partire dal cambio-direttore a Salisburgo",
+      "url": "https://www.artribune.com/arti-performative/2026/08/direzione-festival-di-salisburgo/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/hires-grossesfestspielhausauditoriumcmarcoborrelli-scaled.jpg",
+      "summary": "L'uscita di Markus Hinterhäuser dal Festival di Salisburgo riapre una domanda che riguarda tutte le grandi istituzioni culturali: sono ancora laboratori di sperimentazione o stanno diventando macchine della reputazion...",
+      "date": "2026-08-02T12:00:00.0000000Z"
     },
     {
       "id": "artribune:8a09234d0c4a",
@@ -24,6 +72,18 @@
       "url": "https://www.artribune.com/arti-visive/archeologia-arte-antica/2026/08/antiquarium-celio-roma-cantiere-foto/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/20260720100509-scaled.jpg",
       "summary": "Abbandonato dal 1939 a pochi metri dal Colosseo, lo storico Antiquarium Comunale del Celio sta finalmente rinascendo. Il cantiere è ormai in fase avanzata: siamo andati a vedere cosa sta succedendo e soprattutto cosa ...",
+      "date": "2026-08-02T11:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:26b2a5e900a7",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il nuovo Museo Giansone a Sant’Ambrogio di Torino riporta d’attualità lo scultore che ispirò il libro La donna della domenica",
+      "url": "https://www.artribune.com/arte-contemporanea-2/2026/08/museo-giansone-artista-cinema-libri/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/ladonnadella-domenica.jpg",
+      "summary": "Dedicato allo scultore Mario Giansone il nuovo museo racconta la storia dell’artista che ispirò il libro de La donna della domenica di Fruttero e Lucentini L’articolo \" Il nuovo Museo Giansone a Sant’Ambrogio di Torin...",
       "date": "2026-08-02T11:00:00.0000000Z"
     },
     {
@@ -63,18 +123,6 @@
       "date": "2026-08-02T09:00:00.0000000Z"
     },
     {
-      "id": "artribune:5a1bd9ff477e",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "I premi delle fiere Frieze a Seoul e a Londra puntano su partecipazione e valore del gioco dell’arte contemporanea",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/08/premi-fiere-frieze-a-seoul-londra-2026/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/1theo-triantafyllidis-feral-metaverse-spider-2026-digital-installation-render-courtesy-the-artist-038-the-breeder-scaled.jpg",
-      "summary": "Gli artisti vincitori dei Frieze Artist Award si preparano a portare in fiera opere e installazioni site-specific. A Londra c’è un'enorme scultura a forma di ragno su cui arrampicarsi L’articolo \" I premi delle fiere ...",
-      "date": "2026-08-02T07:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:10a7bcb6a65f",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -84,6 +132,18 @@
       "url": "https://www.elledecor.com/it/viaggi/a73263015/la-citta-con-piu-grattacieli-al-mondo/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/5363c4a9-b537-4589-b4ae-99e79434d507.jpeg",
       "summary": "Da Chicago, dove il grattacielo nacque come soluzione tecnica, a Hong Kong, che ne conta 569 oltre i 150 metri e li ha trasformati in quartieri, stazioni, case e paesaggio",
+      "date": "2026-08-02T07:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:5a1bd9ff477e",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "I premi delle fiere Frieze a Seoul e a Londra puntano su partecipazione e valore del gioco dell’arte contemporanea",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/08/premi-fiere-frieze-a-seoul-londra-2026/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/1theo-triantafyllidis-feral-metaverse-spider-2026-digital-installation-render-courtesy-the-artist-038-the-breeder-scaled.jpg",
+      "summary": "Gli artisti vincitori dei Frieze Artist Award si preparano a portare in fiera opere e installazioni site-specific. A Londra c’è un'enorme scultura a forma di ragno su cui arrampicarsi L’articolo \" I premi delle fiere ...",
       "date": "2026-08-02T07:00:00.0000000Z"
     },
     {
@@ -147,18 +207,6 @@
       "date": "2026-08-01T18:30:00.0000000Z"
     },
     {
-      "id": "artribune:360b6209e7d7",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "100 anni dalla nascita del grande artista Vincenzo Agnetti in una mostra in Puglia",
-      "url": "https://www.artribune.com/arte-contemporanea-2/2026/08/vincenzo-agnetti-mostra-centenario/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/07/ba261296-1.jpg",
-      "summary": "La mostra, fino al 27 settembre alla Fondazione Pascali di Polignano, si focalizza sui primi anni Settanta. In particolare sul 1973, anno in cui Agnetti vince il Premio Pascali, istituito dai genitori dell’artista pug...",
-      "date": "2026-08-01T17:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:be260bcf1555",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -169,30 +217,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/2f4d051a-7d9a-44ca-8034-f49047c44029.jpg",
       "summary": "Humbert & Poyet trasformano un interno aperto sui tetti in una casa elegante e conviviale, costruita attraverso materiali preziosi, arredi su misura e pezzi raccolti nel tempo",
       "date": "2026-08-01T14:30:00.0000000Z"
-    },
-    {
-      "id": "artribune:36b974554bb2",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "L’artista Luca Vitone e il suo viaggio in barca verso Sant’Elena: il diario di bordo",
-      "url": "https://www.artribune.com/arte-contemporanea-2/2026/08/viaggio-luca-vitone-pro-tempore-mare-diario/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/07/img7274-scaled.jpeg",
-      "summary": "L’artista, nato a Genova nel 1964, è in viaggio via mare dopo aver salpato nel mese di aprile 2026 dall’Isola d’Elba, luogo di residenza obbligata di Napoleone Bonaparte. Approderà infine all’isola di Sant’Elena, ulti...",
-      "date": "2026-08-01T14:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:daa80ccdcce3",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Guida ai festival culturali in Italia di inizio agosto 2026: Piedicavallo, L’Angelo e la luna, FestiValle, Crivu, Cilentart, TolfArte, Pietrasanta è Ceramica",
-      "url": "https://www.artribune.com/arti-performative/musica/2026/08/guida-festival-culturali-italia-inizio-agosto-2026/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/5-alba-tempio-della-concordia-1200x800-1.jpg",
-      "summary": "Dalla musica classica e sperimentale al circo contemporaneo, passando per letteratura, poesia, cinema, enogastronomia e tradizioni religiose fino agli incontri fatti di arrampicate e alla tecnica della ceramica, c’è t...",
-      "date": "2026-08-01T13:00:00.0000000Z"
     },
     {
       "id": "elledecor:4bd5ba5c61af",
@@ -241,30 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/f326c151-19c5-42b2-9d25-ddffcfc991bf.jpg",
       "summary": "Lo studio Margine trasforma un appartamento segnato da decenni di stratificazioni in uno spazio aperto attraversato dal rosa, dal giallo ocra, dal verde e dall’azzurro",
       "date": "2026-08-01T06:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:075387f744d5",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "L'Antico Egitto ha tramandato 3 (semplici) trucchi per rinfrescare la casa nei periodi più caldi",
-      "url": "https://www.elledecor.com/it/lifestyle/a71915337/antico-egitto-3-trucchi-per-rinfrescare-casa/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/19-692dbae7c4313.jpg",
-      "summary": "Un lenzuolo inumidito e il principio naturale dell’evaporazione trasformano il letto in un rifugio più fresco durante le notti estive",
-      "date": "2026-08-01T05:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:e86cc1a2f094",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Viaggio ai confini del mondo: dalla Cina al Laos, seguendo il profilo di un corso d'acqua",
-      "url": "https://www.elledecor.com/it/viaggi/a73258634/viaggio-dalla-cina-al-laos-mekong/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/a21e7f0f-07c0-495e-acf3-344704bd0b5f.jpeg",
-      "summary": "Questo itinerario è pensato così: è un seguire l’acqua, non gli Stati; è un abbandonarsi a un ritmo che non è quello della cronologia, ma della geografia profonda",
-      "date": "2026-07-31T18:30:00.0000000Z"
     }
   ]
 }
