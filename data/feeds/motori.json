@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-08-02T07:38:36.2801910Z",
+  "updated": "2026-08-02T11:45:39.5987129Z",
   "items": [
+    {
+      "id": "motor1:1fea19f2e1b7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ford F-150 Raptor R, il super pick-up da 720 CV messo alla prova",
+      "url": "https://it.motor1.com/reviews/800904/ford-f-150-raptor-r-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo9WOo/s3/ford-f-150-raptor-r-la-ferrari-dei-pick-up.jpg",
+      "summary": "Mastodontico, rumoroso e preparato per andare ovunque. Come va l'immenso Raptor R col V8 da 720 CV sulle strade italiane",
+      "date": "2026-08-02T10:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:400f580ae721",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Flotte aziendali/Anche nei costi vince l’elettrica: 170 euro di risparmio al mese",
+      "url": "https://www.vaielettrico.it/flotte-aziendali-anche-nei-costi-vince-lelettrica-170-euro-di-risparmio-al-mese/",
+      "image": null,
+      "summary": "Per le aziende italiane l’auto elettrica non è più soltanto una scelta ambientale, ma sempre più una questione… L'articolo Flotte aziendali/Anche nei costi vince l’elettrica: 170 euro di risparmio al mese proviene da ...",
+      "date": "2026-08-02T09:51:09.0000000Z"
+    },
+    {
+      "id": "vaielettrico:a3e4bdb83e64",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Germania: incentivi fino al 90% per elettrificare le barche fluviali",
+      "url": "https://www.vaielettrico.it/germania-incentivi-fino-al-90-per-elettrificare-le-barche-fluviali/",
+      "image": null,
+      "summary": "Porti tedeschi e barche fluviali da decarbonizzare. Se l’Italia si è limitata a 3 milioni per i fuoribordo… L'articolo Germania: incentivi fino al 90% per elettrificare le barche fluviali proviene da Vaielettrico .",
+      "date": "2026-08-02T08:28:39.0000000Z"
+    },
     {
       "id": "hdmotori:12af0871d45b",
       "sourceId": "hdmotori",
@@ -15,18 +51,6 @@
       "date": "2026-08-02T06:30:17.0000000Z"
     },
     {
-      "id": "motor1:0af90040394d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La spider italiana nata per conquistare gli Stati Uniti",
-      "url": "https://it.motor1.com/news/803362/fiat-124-sport-spider-storia-foto/",
-      "image": "https://cdn.motor1.com/images/mgl/0egx39/s3/60-jahre-fiat-sport-spider.jpg",
-      "summary": "Classe 1966, la Fiat 124 Sport Spider unì stile Pininfarina, motori brillanti e successo negli USA, diventando un'icona",
-      "date": "2026-08-02T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:6a992ace1a10",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -36,6 +60,18 @@
       "url": "https://insideevs.it/news/802944/auto-elettriche-spider-cabrio-in-vendita-2026/",
       "image": "https://cdn.motor1.com/images/mgl/lE7BGN/s3/mg-cyberster-convertible-ev-3.jpg",
       "summary": "L'offerta è ancora limitata, ma ci sono già modelli per ogni fascia di prezzo. Tra quelle attese anche l'erede della BMW Z4",
+      "date": "2026-08-02T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:0af90040394d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La spider italiana nata per conquistare gli Stati Uniti",
+      "url": "https://it.motor1.com/news/803362/fiat-124-sport-spider-storia-foto/",
+      "image": "https://cdn.motor1.com/images/mgl/0egx39/s3/60-jahre-fiat-sport-spider.jpg",
+      "summary": "Classe 1966, la Fiat 124 Sport Spider unì stile Pininfarina, motori brillanti e successo negli USA, diventando un'icona",
       "date": "2026-08-02T05:00:00.0000000Z"
     },
     {
@@ -159,18 +195,6 @@
       "date": "2026-08-01T06:30:42.0000000Z"
     },
     {
-      "id": "insideevs:3210e07c733e",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché le auto a 800 V possono ricaricare a velocità diverse",
-      "url": "https://insideevs.it/news/803338/auto-800v-ricarica-velocita/",
-      "image": "https://cdn.motor1.com/images/mgl/wl8m0Q/s3/perche-le-auto-a-800-v-possono-ricaricare-a-velocita-diverse.jpg",
-      "summary": "Stessa architettura, risultati differenti: ecco i fattori che influenzano davvero il tempo necessario per passare dal 10 all'80%",
-      "date": "2026-08-01T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:f21380b86f4e",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -180,6 +204,18 @@
       "url": "https://it.motor1.com/news/801887/corvette-grand-sport-1963-storia/",
       "image": "https://cdn.motor1.com/images/mgl/g4OwW4/s3/la-corvette-grand-sport-del-1963.jpg",
       "summary": "La Grand Sport del 1963 fu progettata per competere ai massimi livelli e oggi rappresenta uno dei modelli più ricercati",
+      "date": "2026-08-01T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:3210e07c733e",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché le auto a 800 V possono ricaricare a velocità diverse",
+      "url": "https://insideevs.it/news/803338/auto-800v-ricarica-velocita/",
+      "image": "https://cdn.motor1.com/images/mgl/wl8m0Q/s3/perche-le-auto-a-800-v-possono-ricaricare-a-velocita-diverse.jpg",
+      "summary": "Stessa architettura, risultati differenti: ecco i fattori che influenzano davvero il tempo necessario per passare dal 10 all'80%",
       "date": "2026-08-01T05:00:00.0000000Z"
     },
     {
@@ -219,18 +255,6 @@
       "date": "2026-07-31T17:00:58.0000000Z"
     },
     {
-      "id": "vaielettrico:1d20dd335bf1",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Idroelettrico, estate nera/Da giugno ad agosto sempre peggio: bacini vuoti",
-      "url": "https://www.vaielettrico.it/idroelettrico-estate-nera-acqua-finita-da-giugno-ad-agosto-sempre-peggio/",
-      "image": null,
-      "summary": "La crisi idrica continua a mettere sotto pressione l’idroelettrico, mentre la mancanza di piogge e la scarsità di… L'articolo Idroelettrico, estate nera/Da giugno ad agosto sempre peggio: bacini vuoti proviene da Vaie...",
-      "date": "2026-07-31T16:36:06.0000000Z"
-    },
-    {
       "id": "motor1:79a8304bf7e4",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -241,18 +265,6 @@
       "image": "https://cdn.motor1.com/images/mgl/G3Qwyb/s3/dieselgate-fumo-di-londra.jpg",
       "summary": "Transport for London cita Stellantis, BMW, Nissan e JLR: chiede 1 miliardo di sterline per presunte irregolarità sulle emissioni diesel",
       "date": "2026-07-31T16:15:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:72d3b9b8a147",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Powy accelera: 35 nuovi punti di ricarica a Bolzano e nei centri commerciali IGD",
-      "url": "https://www.vaielettrico.it/powy-accelera-35-nuovi-punti-di-ricarica-a-bolzano-e-nei-centri-commerciali-igd/",
-      "image": null,
-      "summary": "Powy continua ad ampliare la propria rete di ricarica pubblica in Italia su due fronti. Da una parte… L'articolo Powy accelera: 35 nuovi punti di ricarica a Bolzano e nei centri commerciali IGD proviene da Vaielettrico .",
-      "date": "2026-07-31T16:04:47.0000000Z"
     },
     {
       "id": "hdmotori:d1ef202af275",
@@ -303,18 +315,6 @@
       "date": "2026-07-31T15:00:25.0000000Z"
     },
     {
-      "id": "insideevs:7e9a79aac0b8",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "C'è una nuova colonnina di ricarica cinese da 1.500 kW",
-      "url": "https://insideevs.it/news/803322/dongfeng-colonnina-ricarica-1500-kw/",
-      "image": "https://cdn.motor1.com/images/mgl/BXZzJm/s3/voyah-ev-charging.jpg",
-      "summary": "Dopo BYD, anche Dongfeng presenta un'infrastruttura per auto elettriche da 1,5 MW di potenza",
-      "date": "2026-07-31T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:ceac4c9c8345",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -324,6 +324,18 @@
       "url": "https://it.motor1.com/reviews/801867/subaru-uncharted-prova-fuoristrada-video/",
       "image": "https://cdn.motor1.com/images/mgl/E6NZ9q/s3/subaru-uncharted-2026-quello-che-sa-fare-vi-sorprendera.jpg",
       "summary": "La trazione integrale Subaru sarà così efficace anche su questa elettrica? Ecco come va in offroad e su strada la versione da 343 CV",
+      "date": "2026-07-31T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:7e9a79aac0b8",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "C'è una nuova colonnina di ricarica cinese da 1.500 kW",
+      "url": "https://insideevs.it/news/803322/dongfeng-colonnina-ricarica-1500-kw/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZzJm/s3/voyah-ev-charging.jpg",
+      "summary": "Dopo BYD, anche Dongfeng presenta un'infrastruttura per auto elettriche da 1,5 MW di potenza",
       "date": "2026-07-31T15:00:00.0000000Z"
     },
     {
@@ -363,18 +375,6 @@
       "date": "2026-07-31T13:00:14.0000000Z"
     },
     {
-      "id": "insideevs:de0a5d733799",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Così il fornitore di Stellantis vuole produrre più batterie solide",
-      "url": "https://insideevs.it/news/803210/factorial-energy-sk-on-batterie-stato-solido-stellantis/",
-      "image": "https://cdn.motor1.com/images/mgl/2NOypx/s3/factorial-energy-solid-state-battery-cell.jpg",
-      "summary": "Factorial Energy si allea con SK On per risolvere i problemi legati alla produzione di massa delle celle allo stato solido",
-      "date": "2026-07-31T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:0f2257056e08",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -384,6 +384,18 @@
       "url": "https://it.motor1.com/news/803343/camper-malibu-relax-letto-novita/",
       "image": "https://cdn.motor1.com/images/mgl/BXZzRA/s3/malibu-relax-640-le-xr.jpg",
       "summary": "Malibù Relax 640 LE XR: letti singoli regolabili in altezza, fino a 1,45 metri di spazio di carico in altezza e tante altre novità",
+      "date": "2026-07-31T13:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:de0a5d733799",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Così il fornitore di Stellantis vuole produrre più batterie solide",
+      "url": "https://insideevs.it/news/803210/factorial-energy-sk-on-batterie-stato-solido-stellantis/",
+      "image": "https://cdn.motor1.com/images/mgl/2NOypx/s3/factorial-energy-solid-state-battery-cell.jpg",
+      "summary": "Factorial Energy si allea con SK On per risolvere i problemi legati alla produzione di massa delle celle allo stato solido",
       "date": "2026-07-31T13:00:00.0000000Z"
     },
     {
@@ -435,18 +447,6 @@
       "date": "2026-07-31T11:00:00.0000000Z"
     },
     {
-      "id": "motor1:3495ffc0a18f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quindi in Italia si può circolare con targa estera?",
-      "url": "https://it.motor1.com/features/803328/circolazione-auto-targa-estera-italia-legge/",
-      "image": "https://cdn.motor1.com/images/mgl/XBzgPl/s3/targa-straniera-auto-italia-regole.jpg",
-      "summary": "Di base no, ma non mancano le eccezioni, da registrare al REVE. Ecco tutto quello che c'è da sapere",
-      "date": "2026-07-31T10:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:725c62b8a9fa",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -459,16 +459,16 @@
       "date": "2026-07-31T10:00:00.0000000Z"
     },
     {
-      "id": "motor1:15b28b589822",
+      "id": "motor1:3495ffc0a18f",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Auto connesse: mercato da 3,7 miliardi ma filiera indietro",
-      "url": "https://it.motor1.com/news/803325/veicoli-connessi-italia-2025-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/jlWGGN/s3/la-connettivita-va-avanti-ma-il-mercato-resta-indietro.jpg",
-      "summary": "Il mercato dei veicoli connessi in Italia vale 3,7 miliardi, ma solo il 14% delle aziende ha completato la svolta software-driven",
-      "date": "2026-07-31T09:00:00.0000000Z"
+      "title": "Quindi in Italia si può circolare con targa estera?",
+      "url": "https://it.motor1.com/features/803328/circolazione-auto-targa-estera-italia-legge/",
+      "image": "https://cdn.motor1.com/images/mgl/XBzgPl/s3/targa-straniera-auto-italia-regole.jpg",
+      "summary": "Di base no, ma non mancano le eccezioni, da registrare al REVE. Ecco tutto quello che c'è da sapere",
+      "date": "2026-07-31T10:00:00.0000000Z"
     },
     {
       "id": "insideevs:f7a54724d4bd",
