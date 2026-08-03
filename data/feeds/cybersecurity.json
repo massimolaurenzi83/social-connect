@@ -1,7 +1,79 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-02T23:40:02.6140928Z",
+  "updated": "2026-08-03T12:40:05.8583494Z",
   "items": [
+    {
+      "id": "cybersecurity360:5da78840b120",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Falla in Outlook: apri un’e-mail e ti infettano, non servono più link o allegati",
+      "url": "https://www.cybersecurity360.it/news/falla-in-outlook-apri-une-mail-e-ti-infettano-non-servono-piu-link-o-allegati/",
+      "image": null,
+      "summary": "Il gruppo criminale filorusso TA488 sfrutta la CVE-2026-42897, falla XSS in Outlook Web Access, con un exploit half-click: basta aprire l'email per installare OWAReaper, una backdoor che sopravvive a reset password e ...",
+      "date": "2026-08-03T11:54:07.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:9e5f5f72fc6f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "NordVPN, la promozione per avere la VPN e una eSIM Saily: come funziona e quanto costa",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/nordvpn-vpn-con-esim-saily-fino-a-10-gb/",
+      "image": null,
+      "summary": "L'offerta estiva di NordVPN abbina fino al 73% di sconto sui piani biennali a un voucher Saily con eSIM gratuita fino a 10 GB. La promozione include anche garanzia di rimborso di 30 giorni e, nei piani superiori, stru...",
+      "date": "2026-08-03T10:59:42.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:3c4b7b5e0f04",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "CISO tra svalutazione del mercato e realismo industriale",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/ciso-tra-svalutazione-del-mercato-e-realismo-industriale/",
+      "image": null,
+      "summary": "Un'indagine sulle pesanti pressioni strutturali che gravano oggi sulla figura professionale del CISO, analizzando la stagnazione del mercato del lavoro, le sfide del realismo industriale e le promesse economiche dell'...",
+      "date": "2026-08-03T10:28:09.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:4c31515778c4",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Ionos, hosting gratis per un anno: fino a 120 euro di sconto sul piano Plus",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/hosting-gratis-ionos-1-anno-120-euro-sconto/",
+      "image": null,
+      "summary": "L'offerta Ionos consente di ottenere un anno di hosting gratis con uno sconto complessivo di 120 euro sul piano Plus. La promozione include dominio, certificato SSL Wildcard, caselle e-mail, assistenza italiana 24/7 e...",
+      "date": "2026-08-03T10:21:58.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:995afc9bae20",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "E-mail aziendali: la sanzione privacy a Piaggio fissa nuovi limiti alla raccolta dei dati",
+      "url": "https://www.cybersecurity360.it/news/e-mail-aziendali-la-sanzione-privacy-a-piaggio-fissa-nuovi-limiti-alla-raccolta-dei-dati/",
+      "image": null,
+      "summary": "L’Autorità Garante per la protezione dei dati, nella nota del 29 luglio 2026, ha reso noto di aver irrogato una sanzione di 460 mila euro alla Piaggio per raccolta sistematica delle e-mail dei dipendenti. Vediamo megl...",
+      "date": "2026-08-03T09:43:51.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:16def7149165",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Gestire la NIS2 come sistema: perché la documentazione deve essere coerente e integrata",
+      "url": "https://www.cybersecurity360.it/legal/gestire-la-nis2-come-sistema-perche-la-documentazione-deve-essere-coerente-e-integrata/",
+      "image": null,
+      "summary": "La conformità alla direttiva NIS2 non può essere affrontata come una semplice produzione di documenti separati. Policy, inventari, piani, registri e procedure devono diventare parti coerenti di un modello unico di gov...",
+      "date": "2026-08-03T08:58:27.0000000Z"
+    },
     {
       "id": "cybersecurity360:c02aaddd0a68",
       "sourceId": "cybersecurity360",
@@ -49,78 +121,6 @@
       "image": null,
       "summary": "In ambito adeguamento della normativa italiana all’AI Act, il Garante Privacy scende in campo per disciplinare l’uso dei sistemi di intelligenza artificiale da parte delle Forze di polizia, stabilendo limiti, presuppo...",
       "date": "2026-07-31T11:44:23.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:80404f23f9b4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Agenti AI che attaccano: la lezione dai casi Anthropic e OpenAI",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/agenti-ai-che-attaccano-la-lezione-dai-casi-anthropic-e-openai/",
-      "image": null,
-      "summary": "Anche Anthropic riporta un caso di un'agente AI che fa attacchi cyber non richiesti. Si aggiunge al pericoloso precedente OpenAI-Hugging Face, che è il primo esempio di attacchi AI autonomi senza (anzi contro) la volo...",
-      "date": "2026-07-31T10:07:07.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d3601985a86f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Progettazione del cablaggio strutturato: la spina dorsale fisica del data center",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/progettazione-del-cablaggio-strutturato-la-spina-dorsale-fisica-del-data-center/",
-      "image": null,
-      "summary": "Perché il modo in cui vengono posati i cavi in fibra e di rame e come vengono disposti i rack incide sulla stabilità e sulla sicurezza di un data center L'articolo Progettazione del cablaggio strutturato: la spina dor...",
-      "date": "2026-07-31T10:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:6a6050a532fc",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il ruolo del CISO tra lo scetticismo del Board e la rivoluzione dell’IA",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/il-ruolo-del-ciso-tra-lo-scetticismo-del-board-e-la-rivoluzione-dellia/",
-      "image": null,
-      "summary": "Un'analisi approfondita sulle complesse dinamiche comunicative tra la figura del CISO e i consigli di amministrazione aziendali, esaminando l'impatto dirompente dell'intelligenza artificiale e la gestione strategica d...",
-      "date": "2026-07-31T09:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:59f7fb607951",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "NordPass Premium con uno sconto del 50%: quanto costa il password manager per le aziende",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/nordpass-premium-gestore-password-sconto-50-per-cento/",
-      "image": null,
-      "summary": "La promozione su NordPass Business combina uno sconto strutturale fino al 40% con un'ulteriore riduzione del 50% tramite il codice NPSUMMER50. L'iniziativa è valida fino al 31 agosto 2026 e interessa i piani Business ...",
-      "date": "2026-07-31T07:04:37.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:622b44806e1a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Proton Drive, archiviazione cloud da 200 GB a 1 euro: come funziona l’offerta e cosa include",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/archiviazione-cloud-con-proton-drive-200-gb-a-1-euro/",
-      "image": null,
-      "summary": "L'offerta speciale di Proton Drive consente di attivare 200 GB di archiviazione cloud crittografata end-to-end a 1 euro per il primo mese. Il piano include Proton Docs e Proton Sheets, con rinnovo successivo a 4,99 eu...",
-      "date": "2026-07-31T07:04:26.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:975dec2cd627",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il jailbreak universale alla vigilia dell’AI Act: ecco l’impatto nella sicurezza aziendale",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/il-jailbreak-universale-alla-vigilia-dellai-act-ecco-limpatto-nella-sicurezza-aziendale/",
-      "image": null,
-      "summary": "Il prossimo 2 agosto si applicherà l'articolo 55 dell'AI Act, che impone ai fornitori di modelli general purpose, a rischio sistemico, obblighi stringenti di red teaming, gestione degli incidenti e resilienza. Tra riv...",
-      "date": "2026-07-31T07:00:00.0000000Z"
     }
   ]
 }

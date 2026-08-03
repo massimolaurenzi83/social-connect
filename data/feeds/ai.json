@@ -1,7 +1,55 @@
 {
   "category": "ai",
-  "updated": "2026-08-02T23:40:02.6011745Z",
+  "updated": "2026-08-03T12:40:05.8468049Z",
   "items": [
+    {
+      "id": "ai4business:58d8700be7c9",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AI Act: l’AI nelle risorse umane entra nell’era della responsabilità",
+      "url": "https://www.ai4business.it/normative/ai-act-lai-nelle-risorse-umane-entra-nellera-della-responsabilita/",
+      "image": null,
+      "summary": "Recruiting, valutazione delle performance, monitoraggio, retribuzioni e percorsi di carriera rientrano tra gli ambiti ad alto rischio individuati dall’AI Act. Le imprese devono costruire una governance trasversale, do...",
+      "date": "2026-08-03T11:22:00.0000000Z"
+    },
+    {
+      "id": "ai4business:cbbda4639a28",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AI Act e contratti: come cambia la responsabilità del deployer",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-act-e-contratti-come-cambia-la-responsabilita-del-deployer/",
+      "image": null,
+      "summary": "Il deployer professionale non esaurisce la propria responsabilità nel rispetto dell’AI Act: due diligence sul provider, controllo degli input, sorveglianza umana, trasparenza verso il cliente e conservazione delle pro...",
+      "date": "2026-08-03T09:10:23.0000000Z"
+    },
+    {
+      "id": "ai4business:f26e5aa3f80a",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AI Act, le norme sulla trasparenza inciampano nei limiti tecnici",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-act-la-trasparenza-inciampa-nei-limiti-tecnici/",
+      "image": null,
+      "summary": "Dal 2 agosto 2026 l’AI Act impone etichette e marcature ai contenuti generati dall’intelligenza artificiale. Gli studi pubblicati su arXiv mostrano però che watermark, metadati e rilevatori restano fragili, poco inter...",
+      "date": "2026-08-03T08:41:54.0000000Z"
+    },
+    {
+      "id": "ai4business:8d9d397302cc",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AI per le imprese: dai Mondiali di calcio, tre lezioni concrete",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-per-le-imprese-dai-mondiali-di-calcio-tre-lezioni-concrete/",
+      "image": null,
+      "summary": "I Mondiali da poco conclusi rappresentano un caso di studio interessante per il mondo aziendale: una dimostrazione pratica che offre lezioni concrete su cosa significhi “portare l’AI oltre la sperimentazione nelle imp...",
+      "date": "2026-08-03T07:00:00.0000000Z"
+    },
     {
       "id": "ai4business:1576e9258c0c",
       "sourceId": "ai4business",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "OpenAI ha ridotto dell'80% il prezzo di GPT-5.6 Luna e del 20% quello di Terra, lasciando Sol invariato. Il margine arriva dallo stack di inferenza, dove Sol ha riscritto in autonomia i kernel di produzione. Sulle tab...",
       "date": "2026-07-31T09:15:30.0000000Z"
-    },
-    {
-      "id": "ai4business:7aaff8727f67",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "IBM, “quantum advantage”: che significa e perché conta per l’AI",
-      "url": "https://www.ai4business.it/quantum-computing/ibm-quantum-advantage-che-significa-e-perche-conta-per-lai/",
-      "image": null,
-      "summary": "I BM presenta tre esperimenti nei quali i processori quantistici avrebbero superato i migliori metodi classici, producendo risultati verificabili e affidabili. Non è la prima azienda a rivendicare il quantum advantage...",
-      "date": "2026-07-31T08:11:09.0000000Z"
-    },
-    {
-      "id": "ai4business:7cc104a8d86d",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Big tech dell’AI: i ricavi crescono, ma il mercato chiede prove",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/economia-dellai-i-ricavi-crescono-ma-il-mercato-chiede-prove/",
-      "image": null,
-      "summary": "Le ultime trimestrali di Meta e Microsoft mostrano che Wall Street non sta abbandonando l’AI: punisce il capex senza ritorni visibili e premia chi trasforma infrastruttura, cloud e prodotti in ricavi misurabili L'arti...",
-      "date": "2026-07-31T07:43:14.0000000Z"
-    },
-    {
-      "id": "ai4business:adbc8f2d13a0",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Maniscalco (Algorithmiq): “Così abbiamo collaborato con IBM per raggiungere il vantaggio quantistico”",
-      "url": "https://www.ai4business.it/quantum-computing/maniscalco-algorithmiq-cosi-abbiamo-collaborato-con-ibm-per-raggiungere-il-vantaggio-quantistico/",
-      "image": null,
-      "summary": "IBM annuncia di avere tagliato il traguardo del Quantum advantage, insieme a tre partner tecnologici e scientifici: uno è Algorithmiq, l’azienda hi-tech con sede a Milano, guidata dalla co-fondatrice e Ceo Sabrina Man...",
-      "date": "2026-07-30T16:53:06.0000000Z"
-    },
-    {
-      "id": "ai4business:829ec43fdd75",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Con GPT-5.6 OpenAI riduce i costi dell’AI, ecco come",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/con-gpt-5-6-openai-riduce-i-costi-dellai-ecco-come/",
-      "image": null,
-      "summary": "L'azienda di ChatGPT punta sull’efficienza per ridurre il costo economico e infrastrutturale dell’intelligenza artificiale. La famiglia GPT-5.6 combina modelli differenziati, ottimizzazione dei chip, caching e automaz...",
-      "date": "2026-07-30T16:07:13.0000000Z"
     },
     {
       "id": "guerredirete:9bacc1d67bb3",
