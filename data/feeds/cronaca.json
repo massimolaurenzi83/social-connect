@@ -1,7 +1,31 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-03T19:00:18.8877894Z",
+  "updated": "2026-08-03T22:39:12.5038040Z",
   "items": [
+    {
+      "id": "ansa-cronaca:63f0c1a3026c",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "#AccadeOggi",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+      "image": null,
+      "summary": "I principali avvenimenti previsti per la giornata",
+      "date": "2026-08-03T20:40:48.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:fe6074b07e59",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Campi Flegrei, accertamenti dei pm sulla messa in sicurezza dei costoni",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/campi-flegrei-accertamenti-della-procura-sulla-messa-in-sicurezza-dei-costoni_3ac4a2e6-0865-44ec-80a1-1bb021467773.html",
+      "image": null,
+      "summary": "Fascicolo per ora senza indagati. Proteste per la visita di Giuli",
+      "date": "2026-08-03T19:44:49.0000000Z"
+    },
     {
       "id": "ansa-cronaca:53b9070e2157",
       "sourceId": "ansa-cronaca",
@@ -12,7 +36,7 @@
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/fake-il-video-sullincidente-aereo-in-peru-non-ce-coerenza-con-i-rottami_7680f2c9-0822-4321-bf88-6231b988118c.html",
       "image": null,
       "summary": "Giorni per identificare le vittime, al lavoro otto esperti in inchiesta in tre fasi",
-      "date": "2026-08-03T17:57:03.0000000Z"
+      "date": "2026-08-03T19:27:23.0000000Z"
     },
     {
       "id": "ansa-cronaca:2c9f7807bc17",
@@ -37,30 +61,6 @@
       "image": null,
       "summary": "La tragedia nel Vicentino, il giovane avrebbe avuto un malore",
       "date": "2026-08-03T17:18:55.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:fe6074b07e59",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Accertamenti dei pm su messa in sicurezza costoni Campi Flegrei",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/campi-flegrei-accertamenti-della-procura-sulla-messa-in-sicurezza-dei-costoni_3ac4a2e6-0865-44ec-80a1-1bb021467773.html",
-      "image": null,
-      "summary": "Fascicolo per ora senza indagati. Proteste per la visita di Giuli",
-      "date": "2026-08-03T17:14:29.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:63f0c1a3026c",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "#AccadeOggi",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-      "image": null,
-      "summary": "I principali avvenimenti previsti per la giornata",
-      "date": "2026-08-03T16:38:02.0000000Z"
     },
     {
       "id": "ansa-cronaca:d4d0a0330240",
