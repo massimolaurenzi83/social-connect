@@ -1,7 +1,67 @@
 {
   "category": "motori",
-  "updated": "2026-08-03T22:39:12.4987428Z",
+  "updated": "2026-08-04T08:09:47.3473226Z",
   "items": [
+    {
+      "id": "motor1:e3af60a95921",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ecco cosa c'è sotto alla nuova Mitsubishi Pajero",
+      "url": "https://it.motor1.com/news/803654/mitsubishi-pajero-2026-foto-teaser/",
+      "image": "https://cdn.motor1.com/images/mgl/E6NyVo/s3/il-nuovo-teaser-della-mitsubishi-pajero.jpg",
+      "summary": "Attesa per fine 2026, la nuova Pajero torna a mostrarsi. Avrà il telaio a longheroni e la trazione integrale intelligente",
+      "date": "2026-08-04T07:52:49.0000000Z"
+    },
+    {
+      "id": "insideevs:cfe3d5ef6534",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Con la Rivian R2 si drifta come Chris Harris finché le gomme non esplodono",
+      "url": "https://insideevs.it/news/803655/rivian-r2-drift-video-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/KbgzqN/s3/2027-rivian-r2-first-drive-on--and-off-road.jpg",
+      "summary": "Potreste non aspettarti che un SUV elettrico derapi come una BMW M3 vecchia scuola, ma la R2 è sorprendentemente capace.",
+      "date": "2026-08-04T07:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:0f8d3baa6715",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il SUV cinese che spacca il mercato: 20.000 prenotazioni in 7 minuti",
+      "url": "https://www.hdmotori.it/suv-cinese-mercato-20-000-prenotazioni-7-minuti/",
+      "image": null,
+      "summary": "Il nuovo SUV full electric di Xpeng sta volando in Cina e minaccia il car market europeo, dove arriverà a 35.600 euro. The post Il SUV cinese che spacca il mercato: 20.000 prenotazioni in 7 minuti appeared first on HD...",
+      "date": "2026-08-04T07:00:32.0000000Z"
+    },
+    {
+      "id": "motor1:62bd50a80514",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BYD Dolphin G, gli interni del nuovo crossover ibrido",
+      "url": "https://it.motor1.com/news/802225/byd-dolphin-g-interni-bagagliaio/",
+      "image": "https://cdn.motor1.com/images/mgl/vx8Mw6/s3/byd-dolphin-g-interni-e-bagagliaio.jpg",
+      "summary": "Saliamo a bordo del nuovo modello della Casa cinese, curato nella tecnologia molto spazioso",
+      "date": "2026-08-04T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:a146b80ae66c",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes GLA vs Audi Q4 e-tron, duello tra SUV tedeschi alla spina",
+      "url": "https://insideevs.it/news/803330/mercedes-gla-vs-audi-q4-e-tron/",
+      "image": "https://cdn.motor1.com/images/mgl/P3B6vW/s3/mercedes-vs-audi.jpg",
+      "summary": "La nuova generazione della GLA è solo elettrica (per ora) e se la vede con la Q4 e-tron, anch'essa aggiornata in tanti aspetti",
+      "date": "2026-08-04T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:27746c3be293",
       "sourceId": "vaielettrico",
@@ -231,18 +291,6 @@
       "date": "2026-08-03T12:57:53.0000000Z"
     },
     {
-      "id": "hdmotori:e2c7b0bb61ab",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La prima cabrio italo-indiana, gli studenti IED disegnano capolavori",
-      "url": "https://www.hdmotori.it/prima-cabrio-italo-indiana-ied/",
-      "image": null,
-      "summary": "In un mercato delle quattro ruote sempre più omologato è emerso un progetto speciale, disegnato dagli studenti dello IED. The post La prima cabrio italo-indiana, gli studenti IED disegnano capolavori appeared first on...",
-      "date": "2026-08-03T12:00:00.0000000Z"
-    },
-    {
       "id": "motor1:606765f4d3d3",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -252,6 +300,18 @@
       "url": "https://it.motor1.com/news/803517/sunlight-cliff-602x-camper-2026/",
       "image": "https://cdn.motor1.com/images/mgl/g4OvWo/s3/sunlight-cliff-602-x-2026.jpg",
       "summary": "Sunlight Cliff 602 X 2026 offre letti singoli ribaltabili, doccia esterna e tanto spazio di stivaggio per bici e attrezzature sportive",
+      "date": "2026-08-03T12:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:e2c7b0bb61ab",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La prima cabrio italo-indiana, gli studenti IED disegnano capolavori",
+      "url": "https://www.hdmotori.it/prima-cabrio-italo-indiana-ied/",
+      "image": null,
+      "summary": "In un mercato delle quattro ruote sempre più omologato è emerso un progetto speciale, disegnato dagli studenti dello IED. The post La prima cabrio italo-indiana, gli studenti IED disegnano capolavori appeared first on...",
       "date": "2026-08-03T12:00:00.0000000Z"
     },
     {
@@ -363,18 +423,6 @@
       "date": "2026-08-03T10:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:2ee254e2f738",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Patente, perché Sinner viene sempre bocciato? Svelato il vero problema",
-      "url": "https://www.hdmotori.it/patente-moto-sinner-problema/",
-      "image": null,
-      "summary": "Jannik Sinner è stabilmente al comando del Ranking ATP come numero 1 al mondo, ma ha un serio grattacapo a superare l’esame della patente di moto. The post Patente, perché Sinner viene sempre bocciato? Svelato il vero...",
-      "date": "2026-08-03T09:30:02.0000000Z"
-    },
-    {
       "id": "insideevs:491a3a631bbd",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -387,18 +435,6 @@
       "date": "2026-08-03T09:15:00.0000000Z"
     },
     {
-      "id": "motor1:2517ed86259c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Benetton Rugby e Subaru insieme per quattro stagioni",
-      "url": "https://it.motor1.com/news/803518/subaru-sponsor-benetton-rugby/",
-      "image": "https://cdn.motor1.com/images/mgl/ojJem2/s3/subaru-sponsor-benetton-rugby.jpg",
-      "summary": "Accordo fino al 2029 tra il costruttore giapponese e il club trevigiano con il supporto della rete Carraro nel Nord-Est.",
-      "date": "2026-08-03T09:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:5c07f81581f7",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -409,18 +445,6 @@
       "image": null,
       "summary": "Anche la Thailandia vuole seguire l’esempio di numerosi Paesi al mondo – dalla Polonia al vicino San Marino… L'articolo Anche in Thailandia targhe speciali per le BEV, e in Italia? proviene da Vaielettrico .",
       "date": "2026-08-03T08:35:08.0000000Z"
-    },
-    {
-      "id": "motor1:8771b548f755",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "All'asta la Cizeta-Moroder di...Giorgio Moroder",
-      "url": "https://it.motor1.com/news/803505/cizeta-moroder-1988-asta-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/pbJqYJ/s3/cizeta-moroder-v16t-telaio-001-1988.jpg",
-      "summary": "Torna all'asta la V16T con telaio 001, l'esemplare più esclusivo tra i nove realizzati. Ha un 6.0 aspirato da 540 CV",
-      "date": "2026-08-03T08:30:00.0000000Z"
     },
     {
       "id": "insideevs:68144ff7f125",
@@ -505,30 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/wl8m0Q/s3/perche-le-auto-a-800-v-possono-ricaricare-a-velocita-diverse.jpg",
       "summary": "Stessa architettura, risultati differenti: ecco i fattori che influenzano davvero il tempo necessario per passare dal 10 all'80%",
       "date": "2026-08-01T05:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:36c9c45b2c94",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Polonia costruisce una mega batteria da 800 MWh",
-      "url": "https://insideevs.it/news/803395/polonia-mega-batteria-800-mwh/",
-      "image": "https://cdn.motor1.com/images/mgl/jlWyYR/s3/la-polonia-costruisce-una-mega-batteria-da-800-mwh.jpg",
-      "summary": "Inaugurato uno dei più grandi sistemi di accumulo europei: 200 MW di potenza per rendere più stabile la rete elettrica",
-      "date": "2026-07-31T15:22:27.0000000Z"
-    },
-    {
-      "id": "insideevs:7e9a79aac0b8",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "C'è una nuova colonnina di ricarica cinese da 1.500 kW",
-      "url": "https://insideevs.it/news/803322/dongfeng-colonnina-ricarica-1500-kw/",
-      "image": "https://cdn.motor1.com/images/mgl/BXZzJm/s3/voyah-ev-charging.jpg",
-      "summary": "Dopo BYD, anche Dongfeng presenta un'infrastruttura per auto elettriche da 1,5 MW di potenza",
-      "date": "2026-07-31T15:00:00.0000000Z"
     }
   ]
 }
