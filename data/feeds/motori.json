@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-04T16:24:53.6357571Z",
+  "updated": "2026-08-04T20:59:24.0525940Z",
   "items": [
+    {
+      "id": "motor1:969ae19b1ee8",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Accise gasolio, nuovo taglio fino al 25 agosto",
+      "url": "https://it.motor1.com/news/803764/accise-gasolio-proroga-sconto/",
+      "image": "https://cdn.motor1.com/images/mgl/0egZZp/s3/taglio-accise-gasolio-agosto-2026.jpg",
+      "summary": "Il Cdm ha approvato un nuovo taglio di 17 centesimi sulle accise del gasolio, in vigore fino al 25 agosto",
+      "date": "2026-08-04T17:22:47.0000000Z"
+    },
+    {
+      "id": "motor1:46a206a60281",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La rivoluzione delle auto sportive passa dal software nascosto",
+      "url": "https://it.motor1.com/news/803755/hispano-suiza-carmen-sagrera-foto/",
+      "image": "https://cdn.motor1.com/images/mgl/L3yNOm/s3/hispano-suiza-carmen-sagrera.jpg",
+      "summary": "La Hispano Suiza Carmen Sagrera utilizza un’elettronica sofisticata per trasformare migliaia di dati in una guida più intuitiva",
+      "date": "2026-08-04T16:30:00.0000000Z"
+    },
     {
       "id": "vaielettrico:df547998e40b",
       "sourceId": "vaielettrico",
@@ -171,18 +195,6 @@
       "date": "2026-08-04T13:30:00.0000000Z"
     },
     {
-      "id": "hdmotori:672bf86b294a",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La mobilità in Italia nel 2026: più spostamenti ma distanze più brevi",
-      "url": "https://www.hdmotori.it/mobilita-italia-2026/",
-      "image": null,
-      "summary": "Gli italiani si muovono ogni giorno di più, privilegiando tragitti locali e rinnovando gradualmente il parco auto verso motorizzazioni meno inquinanti. The post La mobilità in Italia nel 2026: più spostamenti ma dista...",
-      "date": "2026-08-04T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:ae9c1347ae74",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -204,6 +216,18 @@
       "url": "https://it.motor1.com/news/803715/mercedes-cla-45-amg-record-nurburgring-2026/",
       "image": "https://cdn.motor1.com/images/mgl/9m81wm/s3/la-mercedes-amg-cla-45-4matic-record-al-nurburgring.jpg",
       "summary": "Quello per le berline 4 porte più veloci al Nurburgring, con un tempo di 7:32.070 per percorrere i 20 km circa del Nordschleife",
+      "date": "2026-08-04T13:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:672bf86b294a",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La mobilità in Italia nel 2026: più spostamenti ma distanze più brevi",
+      "url": "https://www.hdmotori.it/mobilita-italia-2026/",
+      "image": null,
+      "summary": "Gli italiani si muovono ogni giorno di più, privilegiando tragitti locali e rinnovando gradualmente il parco auto verso motorizzazioni meno inquinanti. The post La mobilità in Italia nel 2026: più spostamenti ma dista...",
       "date": "2026-08-04T13:00:00.0000000Z"
     },
     {
@@ -255,18 +279,6 @@
       "date": "2026-08-04T11:00:06.0000000Z"
     },
     {
-      "id": "insideevs:e8176295a167",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa batteria è grande come 3 Tesla Powerwall e si installa in 1 ora",
-      "url": "https://insideevs.it/news/803668/sistema-accumulo-gigante-casa-power-core/",
-      "image": "https://cdn.motor1.com/images/mgl/L3yN1L/s3/base-power-core.jpg",
-      "summary": "Si chiama Base Core e ha una capacità di 39,3 kWh. Può alimentare una casa per 36 ore e funziona anche come centrale diffusa",
-      "date": "2026-08-04T11:00:00.0000000Z"
-    },
-    {
       "id": "motor1:230a7a253a6f",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -276,6 +288,18 @@
       "url": "https://it.motor1.com/news/803690/auto-diesel-auto-elettriche-vendite-italia-luglio-2026/",
       "image": "https://cdn.motor1.com/images/mgl/KbgqGR/s3/vendite-auto-diesel-vs-auto-elettriche.jpg",
       "summary": "In Italia le auto elettriche vendono più del diesel, insidiato anche dal GPL. È il momento dei saluti?",
+      "date": "2026-08-04T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:e8176295a167",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa batteria è grande come 3 Tesla Powerwall e si installa in 1 ora",
+      "url": "https://insideevs.it/news/803668/sistema-accumulo-gigante-casa-power-core/",
+      "image": "https://cdn.motor1.com/images/mgl/L3yN1L/s3/base-power-core.jpg",
+      "summary": "Si chiama Base Core e ha una capacità di 39,3 kWh. Può alimentare una casa per 36 ore e funziona anche come centrale diffusa",
       "date": "2026-08-04T11:00:00.0000000Z"
     },
     {
@@ -361,30 +385,6 @@
       "image": "https://cdn.motor1.com/images/mgl/Oo9WRX/s3/smart-5-premium-awd-2027.jpg",
       "summary": "La smart #5 Pro a 400 volt è sparita dal configuratore e, adesso, sono presenti solo versioni a 800 volt. E arriva la Black Edition",
       "date": "2026-08-04T09:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:d8c64ef9be97",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Meno sicure e più economiche: per gli USA queste sono le Freedom Car",
-      "url": "https://it.motor1.com/news/803673/freedom-car-proposta-stati-uniti/",
-      "image": "https://cdn.motor1.com/images/mgl/YAgLkw/s3/donald-trump.jpg",
-      "summary": "La proposta arriva dalla Casa Bianca: togliere l'obbligo degli ADAS dalle nuove auto, per tagliare i costi e salvare la privacy",
-      "date": "2026-08-04T08:42:45.0000000Z"
-    },
-    {
-      "id": "motor1:e3af60a95921",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ecco cosa c'è sotto alla nuova Mitsubishi Pajero",
-      "url": "https://it.motor1.com/news/803654/mitsubishi-pajero-2026-foto-teaser/",
-      "image": "https://cdn.motor1.com/images/mgl/E6NyVo/s3/il-nuovo-teaser-della-mitsubishi-pajero.jpg",
-      "summary": "Attesa per fine 2026, la nuova Pajero torna a mostrarsi. Avrà il telaio a longheroni e la trazione integrale intelligente",
-      "date": "2026-08-04T07:52:49.0000000Z"
     },
     {
       "id": "insideevs:cfe3d5ef6534",
