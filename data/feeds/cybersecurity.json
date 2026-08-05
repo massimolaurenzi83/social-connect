@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-05T06:16:00.5746902Z",
+  "updated": "2026-08-05T12:30:14.8047828Z",
   "items": [
+    {
+      "id": "cybersecurity360:9cc392e218ef",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "NIS2 e fornitori ICT: criteri per valutare criticità, dipendenze e responsabilità nella supply chain",
+      "url": "https://www.cybersecurity360.it/legal/nis2-e-fornitori-ict-criteri-per-valutare-criticita-dipendenze-e-responsabilita-nella-supply-chain/",
+      "image": null,
+      "summary": "La gestione dei fornitori non può essere ridotta a un elenco anagrafico o contrattuale. In ottica NIS2, la criticità di un fornitore dipende dagli asset che gestisce, dai servizi IT che supporta, dagli accessi di cui ...",
+      "date": "2026-08-05T11:38:42.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:9ee17dbb684d",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Express VPN, fino all’80% di sconto sui piani da 28 mesi: cosa include l’offerta",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/express-vpn-28-mesi-10-dispositivi-sconto-80-per-cento/",
+      "image": null,
+      "summary": "L'offerta ExpressVPN garantisce uno sconto fino all'80% sul piano Base e include quattro mesi aggiuntivi rispetto ai due anni di abbonamento. I piani prevedono fino a 14 dispositivi simultanei, servizi aggiuntivi come...",
+      "date": "2026-08-05T10:07:14.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:0fa01c283b07",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "La sfida della sovranità digitale fra cyber security e geopolitica",
+      "url": "https://www.cybersecurity360.it/outlook/la-sfida-della-sovranita-digitale-fra-cyber-security-e-geopolitica/",
+      "image": null,
+      "summary": "Perché l'Europa non può più permettersi una sovranità di facciata. Il libro \"Guerra profonda\" e un avvocato ci aiutano a comprendere gli attori e gli obiettivi di questa nuova trasformazione digitale L'articolo La sfi...",
+      "date": "2026-08-05T07:30:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:6bec5b348662",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Il gruppo criminale filorusso TA488 sfrutta la CVE-2026-42897, falla XSS in Outlook Web Access, con un exploit half-click: basta aprire l'email per installare OWAReaper, una backdoor che sopravvive a reset password e ...",
       "date": "2026-08-03T11:54:07.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:9e5f5f72fc6f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "NordVPN, la promozione per avere la VPN e una eSIM Saily: come funziona e quanto costa",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/nordvpn-vpn-con-esim-saily-fino-a-10-gb/",
-      "image": null,
-      "summary": "L'offerta estiva di NordVPN abbina fino al 73% di sconto sui piani biennali a un voucher Saily con eSIM gratuita fino a 10 GB. La promozione include anche garanzia di rimborso di 30 giorni e, nei piani superiori, stru...",
-      "date": "2026-08-03T10:59:42.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3c4b7b5e0f04",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "CISO tra svalutazione del mercato e realismo industriale",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/ciso-tra-svalutazione-del-mercato-e-realismo-industriale/",
-      "image": null,
-      "summary": "Un'indagine sulle pesanti pressioni strutturali che gravano oggi sulla figura professionale del CISO, analizzando la stagnazione del mercato del lavoro, le sfide del realismo industriale e le promesse economiche dell'...",
-      "date": "2026-08-03T10:28:09.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:4c31515778c4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Ionos, hosting gratis per un anno: fino a 120 euro di sconto sul piano Plus",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/hosting-gratis-ionos-1-anno-120-euro-sconto/",
-      "image": null,
-      "summary": "L'offerta Ionos consente di ottenere un anno di hosting gratis con uno sconto complessivo di 120 euro sul piano Plus. La promozione include dominio, certificato SSL Wildcard, caselle e-mail, assistenza italiana 24/7 e...",
-      "date": "2026-08-03T10:21:58.0000000Z"
     }
   ]
 }

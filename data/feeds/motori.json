@@ -1,7 +1,223 @@
 {
   "category": "motori",
-  "updated": "2026-08-05T06:16:00.5491211Z",
+  "updated": "2026-08-05T12:30:14.7324741Z",
   "items": [
+    {
+      "id": "hdmotori:b6f7cb7d4b6e",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Carburante annacquato: aumentano i guasti ai motori",
+      "url": "https://www.hdmotori.it/carburante-annacquato-guasti-motori/",
+      "image": null,
+      "summary": "Il mistero dei carburanti sporchi ha portato all’intervento delle Fiamme gialle nei laboratori chimici dell’Agenzia delle Dogane e dei Monopoli. The post Carburante annacquato: aumentano i guasti ai motori appeared fi...",
+      "date": "2026-08-05T12:00:02.0000000Z"
+    },
+    {
+      "id": "motor1:a213a51bb809",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Ferrari meno potente è anche la più divertente?",
+      "url": "https://it.motor1.com/reviews/803509/ferrari-amalfi-spider-2026-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/Qe7Eb3/s3/photo-cover-ferrari-amalfi-spider-2026.jpg",
+      "summary": "La Amalfi ora diventa Spider, per godersi ancora di più il motore V8 solo termico e la trazione posteriore",
+      "date": "2026-08-05T12:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:021ab4b67bbe",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I prezzi della Cupra Raval",
+      "url": "https://it.motor1.com/news/803844/cupra-raval-prezzo-allestimenti-motori/",
+      "image": "https://cdn.motor1.com/images/mgl/9m8ypl/s3/cupra-raval-2026.jpg",
+      "summary": "Aprono gli ordini per la Cupra Raval, la piccola elettrica della Casa spagnola. Si parte da 31.950 euro",
+      "date": "2026-08-05T11:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:d8cbaad80ab9",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Bollo auto: in Sicilia arriva la rottamazione senza sanzioni né interessi",
+      "url": "https://www.hdmotori.it/bollo-auto-sicilia-rottamazione/",
+      "image": null,
+      "summary": "La regione ha approvato la misura per regolarizzare i debiti entro il 31 ottobre: ecco come funziona la rottamazione dei tributi regionali arretrati. The post Bollo auto: in Sicilia arriva la rottamazione senza sanzio...",
+      "date": "2026-08-05T11:00:15.0000000Z"
+    },
+    {
+      "id": "insideevs:36cc833c5b07",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Non solo batterie: il calore può accumulare energia come il litio",
+      "url": "https://insideevs.it/news/803730/exergia-stoccaggio-termico-storage-mobilita/",
+      "image": "https://cdn.motor1.com/images/mgl/ZnzB0r/s3/non-solo-batterie-il-calore-puo-accumulare-energia-come-il-litio.jpg",
+      "summary": "Materiali che immagazzinano calore, analisi dell'efficienza e impatto ambientale: così cambia il futuro dello storage energetico",
+      "date": "2026-08-05T11:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:1235457eb7b3",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Smart aggiorna la gamma e introduce la Black Collection",
+      "url": "https://www.hdmotori.it/smart-aggiorna-gamma-black-collection/",
+      "image": null,
+      "summary": "Trazione integrale per smart #5 Premium e look Total Black per #1, #3 e #5: ecco le novità del Model Year, i prezzi degli aggiornamenti e le date di lancio. The post Smart aggiorna la gamma e introduce la Black Collec...",
+      "date": "2026-08-05T10:00:53.0000000Z"
+    },
+    {
+      "id": "insideevs:65198468f509",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "A cosa serve questo veicolo elettrico range extender senza conducente?",
+      "url": "https://insideevs.it/news/803659/veicolo-elettrico-guida-autonoma-esercito-usa/",
+      "image": "https://cdn.motor1.com/images/mgl/mMzLqB/s3/harbinger-praesidia.jpg",
+      "summary": "Sviluppato da American Rheinmetall su piattaforma Harbinger, sarà utilizzato dall'esercito USA: i dettagli",
+      "date": "2026-08-05T10:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:6d3c6944e22b",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le nuove Porsche 718 sono confermate. Ancora una volta",
+      "url": "https://it.motor1.com/news/803832/nuove-porsche-718-2026-conferma-leiters/",
+      "image": "https://cdn.motor1.com/images/mgl/0eO0Aj/s3/porsche-718-ev-rendering.jpg",
+      "summary": "Il ceo Michael Leiters afferma che le Boxster e Cayman elettriche, il cui lancio è stato ritardato, sono in fase di sviluppo",
+      "date": "2026-08-05T10:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:e15158b7d382",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Lamborghini Revuelto Miura 60° Homage: 99 esemplari da sogno",
+      "url": "https://www.hdmotori.it/lamborghini-revuelto-miura-60-homage/",
+      "image": null,
+      "summary": "Il marchio del Toro omaggia la sua prima supercar della storia con una edizione limitata di 99 unità della Revuelto. The post Lamborghini Revuelto Miura 60° Homage: 99 esemplari da sogno appeared first on HDmotori.it .",
+      "date": "2026-08-05T09:30:37.0000000Z"
+    },
+    {
+      "id": "motor1:0bc83ea0dc15",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova BMW Serie 3 Touring è quasi pronta",
+      "url": "https://it.motor1.com/news/803821/bmw-i3-touring-foto-spia/",
+      "image": "https://cdn.motor1.com/images/mgl/RqkJ9r/s3/bmw-i3-2026.jpg",
+      "summary": "La i3 con carrozzeria station wagon arriverà nella seconda metà del 2027 con autonomie superiori a 750 km",
+      "date": "2026-08-05T09:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:ef7f4a26d17c",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Vergilius Plus: ecco dove è attivo il nuovo temutissimo autovelox",
+      "url": "https://www.hdmotori.it/vergilius-plus-autovelox-dove-attivo/",
+      "image": null,
+      "summary": "Si chiama Vergilius Plus e rappresenta la novità per quanto riguarda la sicurezza stradale. Ecco dove è attivo il nuovo sistema che rileva la velocità media e istantanea ed effettua controlli sul veicolo. The post Ver...",
+      "date": "2026-08-05T09:00:18.0000000Z"
+    },
+    {
+      "id": "hdmotori:eccc3151d16a",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Carburanti: prorogato fino al 25 agosto lo sconto accise sul gasolio",
+      "url": "https://www.hdmotori.it/carburanti-25-agosto-sconto-accise-gasolio/",
+      "image": null,
+      "summary": "Il Governo approva una nuova misura da 245 milioni di euro che rimarrà in vigore fino al 25 agosto, ma solo sul gasolio. The post Carburanti: prorogato fino al 25 agosto lo sconto accise sul gasolio appeared first on ...",
+      "date": "2026-08-05T08:30:08.0000000Z"
+    },
+    {
+      "id": "motor1:8d6e2897bc31",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Cristiano Ronaldo mostra la sua incredibile collezione di supercar",
+      "url": "https://it.motor1.com/news/803822/cristiano-ronaldo-supercar-garage-foto/",
+      "image": "https://cdn.motor1.com/images/mgl/jlWyo6/s3/cristiano-ronaldo-garage-supercar.jpg",
+      "summary": "Con un post su Instagram CR7 mostra alcune delle sue supercar, tra Ferrari, Bugatti e McLaren",
+      "date": "2026-08-05T08:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:d232c140bbce",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Autovelox, il poliziotto-cespuglio non perdona: pioggia di multe",
+      "url": "https://www.hdmotori.it/autovelox-poliziotto-cespuglio-multe/",
+      "image": null,
+      "summary": "La trovata è stata escogitata dal dipartimento di Polizia di Dunellen negli Usa. Un poliziotto ha ideato un posto di blocco alternativo. The post Autovelox, il poliziotto-cespuglio non perdona: pioggia di multe appear...",
+      "date": "2026-08-05T08:00:09.0000000Z"
+    },
+    {
+      "id": "motor1:839303dec9e0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le prossime Toyota saranno ancora più efficienti: ecco perché",
+      "url": "https://it.motor1.com/news/803809/toyota-nuove-batterie-motore-ibrido/",
+      "image": "https://cdn.motor1.com/images/mgl/KbMyVq/s3/toyota-hybrid-synergy-drive.jpg",
+      "summary": "Nel 2027 arriveranno le nuove batterie per i modelli ibridi. La Casa studia anche le batterie allo stato solido per le elettriche",
+      "date": "2026-08-05T07:30:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:b1f666b92889",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "E-bus flash: a Lodi 100 milioni, poi Bari, Gorizia, Varese ed Abruzzo",
+      "url": "https://www.vaielettrico.it/e-bus-flash-a-lodi-100-milioni-poi-bari-gorizia-varese-ed-abruzzo/",
+      "image": null,
+      "summary": "Finiti i fondi del Pnrr – che hanno avuto un ruolo decisivo nell’affermazione dell’elettrico nel trasporto pubblico –… L'articolo E-bus flash: a Lodi 100 milioni, poi Bari, Gorizia, Varese ed Abruzzo proviene da Vaiel...",
+      "date": "2026-08-05T07:28:43.0000000Z"
+    },
+    {
+      "id": "vaielettrico:5899ee00b5c0",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Feralpi Group: il 56% dell’acciaio è solare, nuovo PPA con Enfinity Global",
+      "url": "https://www.vaielettrico.it/feralpi-group-il-56-dellacciaio-e-solare-nuovo-ppa-con-enfinity-global/",
+      "image": null,
+      "summary": "Anche l’acciaio si può produrre con le rinnovabili. Succede al Feralpi Group, tra i maggiori produttori europei, che… L'articolo Feralpi Group: il 56% dell’acciaio è solare, nuovo PPA con Enfinity Global proviene da V...",
+      "date": "2026-08-05T07:23:49.0000000Z"
+    },
+    {
+      "id": "insideevs:c540e9ecec29",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le Filippine sfidano Thailandia e Cina sulle auto elettriche",
+      "url": "https://insideevs.it/news/803726/piano-evis-60-miliardi-ev/",
+      "image": "https://cdn.motor1.com/images/mgl/L3yNl3/s3/le-filippine-sfidano-thailandia-e-cina-sulle-auto-elettriche.jpg",
+      "summary": "Un maxi piano da circa 852 milioni di euro vuole trasformare il Paese in un nuovo polo produttivo EV nel Sud-est asiatico",
+      "date": "2026-08-05T07:00:00.0000000Z"
+    },
     {
       "id": "motor1:d0265b45e5b0",
       "sourceId": "motor1",
@@ -27,18 +243,6 @@
       "date": "2026-08-05T05:37:18.0000000Z"
     },
     {
-      "id": "insideevs:689570844356",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto elettriche, la svolta arriva dai catodi al litio-manganese",
-      "url": "https://insideevs.it/news/803729/batterie-ev-longeve-catodi-litio/",
-      "image": "https://cdn.motor1.com/images/mgl/6Z87le/s3/auto-elettriche-la-svolta-arriva-dai-catodi-al-litio-manganese.jpg",
-      "summary": "Lo studio di Seoul National University e LG Energy Solution apre la strada a batterie più leggere, longeve ed efficienti",
-      "date": "2026-08-05T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:65b531443d5a",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -48,6 +252,18 @@
       "url": "https://it.motor1.com/reviews/802545/dacia-sandero-benzina-2026-consumi/",
       "image": "https://cdn.motor1.com/images/mgl/MkgXvE/s3/dacia-sandero-benzina-2026-la-prova-consumi.jpg",
       "summary": "Una delle auto più economiche e più vendute, la Dacia Sandero Streetway è semplice, pratica e razionale. Fuori città consuma anche poco",
+      "date": "2026-08-05T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:689570844356",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto elettriche, la svolta arriva dai catodi al litio-manganese",
+      "url": "https://insideevs.it/news/803729/batterie-ev-longeve-catodi-litio/",
+      "image": "https://cdn.motor1.com/images/mgl/6Z87le/s3/auto-elettriche-la-svolta-arriva-dai-catodi-al-litio-manganese.jpg",
+      "summary": "Lo studio di Seoul National University e LG Energy Solution apre la strada a batterie più leggere, longeve ed efficienti",
       "date": "2026-08-05T05:00:00.0000000Z"
     },
     {
@@ -183,18 +399,6 @@
       "date": "2026-08-04T14:30:17.0000000Z"
     },
     {
-      "id": "hdmotori:f7a734719fbb",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Un po’ Ferrari, un po’ Lamborghini, all’asta la supercar di Giorgio Moroder",
-      "url": "https://www.hdmotori.it/asta-supercar-cizeta-moroder/",
-      "image": null,
-      "summary": "L’unità più esclusiva tra le nove prodotte da Cizeta torna all’asta. Il punto di forza? Un 6.0 aspirato da 540 CV. The post Un po’ Ferrari, un po’ Lamborghini, all’asta la supercar di Giorgio Moroder appeared first on...",
-      "date": "2026-08-04T14:00:28.0000000Z"
-    },
-    {
       "id": "insideevs:ad66f37b8af6",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -205,66 +409,6 @@
       "image": "https://cdn.motor1.com/images/mgl/W8KRwq/s3/jcb-hydromax.jpg",
       "summary": "Il progetto JCB Hydromax combina due motori termici a idrogeno da 800 hp e mira a superare il primato Dieselmax",
       "date": "2026-08-04T14:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:7e3125261094",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Come Pininfarina trasforma gli interni di lusso",
-      "url": "https://it.motor1.com/news/803683/pininfarina-exclua-interni-lusso/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak38GW/s3/exclua-sceglie-pininfarina-per-firmare-gli-interni-delle-sue-auto.jpg",
-      "summary": "La partnership punta a creare veicoli personalizzati con comfort da prima classe, privacy e dettagli studiati attorno al cliente",
-      "date": "2026-08-04T14:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:8b75503a3243",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ferrari, 10 nuove Purosangue su misura per la collezione American Grand Tour",
-      "url": "https://www.hdmotori.it/ferrari-10-nuove-purosangue-collezione-american-grand-tour/",
-      "image": null,
-      "summary": "In uno dei mercati più floridi al mondo, la Casa modenese ha svelato 10 SUV Purosangue, impreziosite da elementi unici. The post Ferrari, 10 nuove Purosangue su misura per la collezione American Grand Tour appeared fi...",
-      "date": "2026-08-04T13:30:40.0000000Z"
-    },
-    {
-      "id": "motor1:2d112b505d24",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova smart 2 posti è fatta così",
-      "url": "https://it.motor1.com/news/803719/smart-2-anticipazioni-murales-informazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/Oo9YnL/s3/la-smart-2-a-berlino.jpg",
-      "summary": "La smart #2 sta per arrivare e per il lancio è nata una speciale campagna marketing",
-      "date": "2026-08-04T13:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:b73acb6eb398",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Mercedes CLA AMG ha già fatto un record",
-      "url": "https://it.motor1.com/news/803715/mercedes-cla-45-amg-record-nurburgring-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/9m81wm/s3/la-mercedes-amg-cla-45-4matic-record-al-nurburgring.jpg",
-      "summary": "Quello per le berline 4 porte più veloci al Nurburgring, con un tempo di 7:32.070 per percorrere i 20 km circa del Nordschleife",
-      "date": "2026-08-04T13:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:672bf86b294a",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La mobilità in Italia nel 2026: più spostamenti ma distanze più brevi",
-      "url": "https://www.hdmotori.it/mobilita-italia-2026/",
-      "image": null,
-      "summary": "Gli italiani si muovono ogni giorno di più, privilegiando tragitti locali e rinnovando gradualmente il parco auto verso motorizzazioni meno inquinanti. The post La mobilità in Italia nel 2026: più spostamenti ma dista...",
-      "date": "2026-08-04T13:00:00.0000000Z"
     },
     {
       "id": "insideevs:ae9c1347ae74",
@@ -279,54 +423,6 @@
       "date": "2026-08-04T13:00:00.0000000Z"
     },
     {
-      "id": "motor1:b974c39ccdec",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Bertone trasforma l’Atelier: qui nasceranno le Runabout",
-      "url": "https://it.motor1.com/news/803678/bertone-atelier-roquebrune-carrozzeria/",
-      "image": "https://cdn.motor1.com/images/mgl/3WEPzR/s3/il-polo-bertone-di-roquebrune-sur-argens.jpg",
-      "summary": "Nel polo Bertone di Roquebrune-sur-Argens arrivano officina, verniciatura e selleria per gestire in casa le fuoriserie Runabout e le future serie limitate",
-      "date": "2026-08-04T12:30:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:d0a7a14f217c",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Stellantis, il piano per Cassino: due nuove Maserati dal 2028",
-      "url": "https://www.hdmotori.it/stellantis-cassino-nuovi-modelli-maserati/",
-      "image": null,
-      "summary": "Piano Stellantis a Cassino: in arrivo due nuove Maserati tra il 2028 e il 2029. Nessuna vendita del sito, si valuta un partner di minoranza per la produzione. The post Stellantis, il piano per Cassino: due nuove Maser...",
-      "date": "2026-08-04T12:00:57.0000000Z"
-    },
-    {
-      "id": "motor1:107a79fceb54",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ecco Vergilius Plus, dove è e come funziona il nuovo tutor",
-      "url": "https://it.motor1.com/news/803699/vergilius-plus-tutor-informazioni-velocita/",
-      "image": "https://cdn.motor1.com/images/mgl/lEGwBW/s3/vergilius-plus.jpg",
-      "summary": "Il sistema Vergilius Plus copre 36 tratte per circa 211 km, gestito dalla Polizia Stradale con telecamere dedicate al traffico veicolare",
-      "date": "2026-08-04T11:30:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:47d70a713ecf",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Potente, analogica e senza schermi: ecco la nuova Hennessey Blackbird",
-      "url": "https://www.hdmotori.it/nuova-hennessey-blackbird/",
-      "image": null,
-      "summary": "Il costruttore artigianale di supercar Hennessey ha presentato il suo nuovo gioiello realizzato su misura: la Blackbird. The post Potente, analogica e senza schermi: ecco la nuova Hennessey Blackbird appeared first on...",
-      "date": "2026-08-04T11:00:06.0000000Z"
-    },
-    {
       "id": "insideevs:e8176295a167",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -337,30 +433,6 @@
       "image": "https://cdn.motor1.com/images/mgl/L3yN1L/s3/base-power-core.jpg",
       "summary": "Si chiama Base Core e ha una capacità di 39,3 kWh. Può alimentare una casa per 36 ore e funziona anche come centrale diffusa",
       "date": "2026-08-04T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:230a7a253a6f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il declino del diesel e il sorpasso dell'elettrico",
-      "url": "https://it.motor1.com/news/803690/auto-diesel-auto-elettriche-vendite-italia-luglio-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/KbgqGR/s3/vendite-auto-diesel-vs-auto-elettriche.jpg",
-      "summary": "In Italia le auto elettriche vendono più del diesel, insidiato anche dal GPL. È il momento dei saluti?",
-      "date": "2026-08-04T11:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:2fda0548c3df",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova AC Cobra GT Coupé con V8 da 730 CV: puristi in estasi",
-      "url": "https://www.hdmotori.it/nuova-ac-cobra-gt-coupe-v8-730-cv/",
-      "image": null,
-      "summary": "Chi non ha mai sognato di calarsi nel piccolo abitacolo di una Cobra GT. Uno dei modelli più iconici della cultura americana è tornato. The post La nuova AC Cobra GT Coupé con V8 da 730 CV: puristi in estasi appeared ...",
-      "date": "2026-08-04T10:00:18.0000000Z"
     },
     {
       "id": "vaielettrico:d909a477a3dd",
@@ -385,18 +457,6 @@
       "image": null,
       "summary": "Nuova tariffa Ewiva: è già in vigore con agosto un prezzo di 0,80 €/kWh, se paghi con carta… L'articolo Nuova tariffa Ewiva: 0,80 se paghi con credit card proviene da Vaielettrico .",
       "date": "2026-08-04T09:24:48.0000000Z"
-    },
-    {
-      "id": "hdmotori:1fdb3efac6c5",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mercato moto 2026: gli scooter spingono le immatricolazioni a luglio",
-      "url": "https://www.hdmotori.it/mercato-moto-2026-luglio/",
-      "image": null,
-      "summary": "C’è un’Italia che corre in scooter per evitare il traffico cittadino e un’altra che, sull’acquisto della moto nuova, tira momentaneamente il freno a mano. È questa la fotografia scattata da Confindustria ANCMA attrave...",
-      "date": "2026-08-04T09:00:26.0000000Z"
     },
     {
       "id": "insideevs:077247c637d8",
@@ -447,30 +507,6 @@
       "date": "2026-08-03T19:15:51.0000000Z"
     },
     {
-      "id": "insideevs:69bfca75143e",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le auto elettriche più vendute in Italia a luglio 2026",
-      "url": "https://insideevs.it/news/803603/classifica-vendite-auto-elettriche-italia-luglio-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/Qe7Ey8/s3/auto-elettriche-piu-vendute-italia-luglio-2026-classifica.jpg",
-      "summary": "La BYD Dolphin Surf supera la Leapmotor T03, che rimane saldamente in testa nella classifica dell'anno",
-      "date": "2026-08-03T16:31:20.0000000Z"
-    },
-    {
-      "id": "insideevs:8a2ae2b8a733",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "I miei genitori sono passati all'auto elettrica e non ero d'accordo",
-      "url": "https://insideevs.it/news/803512/genitori-passati-auto-elettrica-racconto/",
-      "image": "https://cdn.motor1.com/images/mgl/NGPX1y/s3/ioniq-6-nc-trip-owner.jpg",
-      "summary": "Entrambi pensionati e residenti nella North Carolina, non hanno avuto alcun problema: il racconto",
-      "date": "2026-08-03T15:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:447c73ad22a2",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -493,42 +529,6 @@
       "image": null,
       "summary": "Rivian torna a dare segnali di vivacità in un mercato dell’auto elettrica statunitense depresso per la fine di… L'articolo Rivian rialza le stime dopo il debutto della R2: ricavi in crescita e perdite in calo proviene...",
       "date": "2026-08-03T14:05:42.0000000Z"
-    },
-    {
-      "id": "vaielettrico:23b10c85c40d",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Accordo tra Allego e Atlante per l’estate: sconti fino al 28% in Italia",
-      "url": "https://www.vaielettrico.it/tariffe-atlante/",
-      "image": null,
-      "summary": "Chi viaggia in auto elettrica quest’estate potrà spendere meno per la ricarica anche in Italia. Allego e… L'articolo Accordo tra Allego e Atlante per l’estate: sconti fino al 28% in Italia proviene da Vaielettrico .",
-      "date": "2026-08-03T13:39:24.0000000Z"
-    },
-    {
-      "id": "vaielettrico:2ae1eef8839f",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vacanza a Olomouc, via Austria: “Ricariche libere e poco costose”",
-      "url": "https://www.vaielettrico.it/vacanza-a-olomouc-con-ricariche-ok-libere-e-poco-costose/",
-      "image": null,
-      "summary": "Vacanza a Olomouc, Repubblica Ceca, con ricariche senza problemi. Marco racconta il viaggio con la Opel Corsa-e: colonnnine… L'articolo Vacanza a Olomouc, via Austria: “Ricariche libere e poco costose” proviene da Vai...",
-      "date": "2026-08-03T13:39:16.0000000Z"
-    },
-    {
-      "id": "insideevs:c5a35b5c8e1e",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Sono Motors insolvente: ora è fallita anche l’attività solare",
-      "url": "https://insideevs.it/news/803562/sono-motors-fallimento-attivita-solare/",
-      "image": "https://cdn.motor1.com/images/mgl/P3ojlG/s3/sono-sion-serienversion.jpg",
-      "summary": "Dopo la fine della Sion, ora termina anche l'attività nel solare. Il marchio Sono Solar e la tecnologia sono in vendita.",
-      "date": "2026-08-03T13:30:00.0000000Z"
     }
   ]
 }
