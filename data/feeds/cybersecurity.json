@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-05T12:30:14.8047828Z",
+  "updated": "2026-08-05T18:10:51.4268533Z",
   "items": [
+    {
+      "id": "cybersecurity360:cc6ee42d8d75",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Sovranità digitale e AI: le sfide per la leadership IT",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/sovranita-digitale-e-ai-le-sfide-per-la-leadership-it/",
+      "image": null,
+      "summary": "Un’analisi approfondita affronta il tema della sovranità digitale e dell’impatto dell’intelligenza artificiale sulle organizzazioni aziendali, mettendo a confronto la sensibilità dei professionisti e le reali strategi...",
+      "date": "2026-08-05T15:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:8e90c71a9761",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Supply chain software: Amazon conferma una campagna d’attacco che l’Italia ha già intercettato",
+      "url": "https://www.cybersecurity360.it/news/supply-chain-software-amazon-conferma-una-campagna-dattacco-che-litalia-ha-gia-intercettato/",
+      "image": null,
+      "summary": "In due episodi Amazon ha analizzato gli attaccanti far leva su tecniche di ingegneria sociale per conquistare la fiducia degli amministratori dei pacchetti e ottenere così i privilegi. Ecco come gruppi legati alla Cor...",
+      "date": "2026-08-05T14:23:06.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:1e239af828a1",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Un dato anonimo per chi? Le nuove linee guida EDPB cambiano prospettiva",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/un-dato-anonimo-per-chi-le-nuove-linee-guida-edpb-cambiano-prospettiva/",
+      "image": null,
+      "summary": "Le nuove linee guida EDPB superano la visione tradizionale dell'anonimizzazione: un dato può essere anonimo per alcuni soggetti ma non per altri. Per i titolari del trattamento cambia il modo di valutare rischio, acco...",
+      "date": "2026-08-05T12:58:16.0000000Z"
+    },
     {
       "id": "cybersecurity360:9cc392e218ef",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "L’inventario degli asset non dovrebbe essere una semplice lista tecnica di server, applicazioni, dispositivi e servizi cloud. In ottica NIS2, deve diventare una mappa ragionata di ciò che sostiene le attività dell’org...",
       "date": "2026-08-04T08:51:40.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:8851eacaa9d8",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Categorizzazione NIS 2: da adempimento a strumento di governo della sicurezza",
-      "url": "https://www.cybersecurity360.it/legal/categorizzazione-nis-2-da-adempimento-a-strumento-di-governo-della-sicurezza/",
-      "image": null,
-      "summary": "La categorizzazione NIS2, che non è finita il 30 giugno, entra in una nuova fase: infatti apre il percorso, ma non lo conclude. Ecco perché il valore del lavoro svolto non dipenderà dalla qualità formale di ciò che è ...",
-      "date": "2026-08-04T07:29:34.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:b60471f6a514",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Hacker Iran contro 30 aziende idriche Usa: la lezione per le infrastrutture critiche",
-      "url": "https://www.cybersecurity360.it/news/hacker-iran-contro-30-aziende-idriche-usa-la-lezione-del-minnesota-per-le-infrastrutture-critiche/",
-      "image": null,
-      "summary": "CyberAv3ngers, il collettivo di hacker iraniani, avrebbe colpito 30 aziende idriche del Minnesota e del Michigan, mettendo offline le infrastrutture critiche di almeno 7 Stati federali. Ecco perché il sospetto è cadut...",
-      "date": "2026-08-03T13:52:09.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:5da78840b120",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Falla in Outlook: apri un’e-mail e ti infettano, non servono più link o allegati",
-      "url": "https://www.cybersecurity360.it/news/falla-in-outlook-apri-une-mail-e-ti-infettano-non-servono-piu-link-o-allegati/",
-      "image": null,
-      "summary": "Il gruppo criminale filorusso TA488 sfrutta la CVE-2026-42897, falla XSS in Outlook Web Access, con un exploit half-click: basta aprire l'email per installare OWAReaper, una backdoor che sopravvive a reset password e ...",
-      "date": "2026-08-03T11:54:07.0000000Z"
     }
   ]
 }

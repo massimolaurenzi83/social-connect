@@ -1,7 +1,19 @@
 {
   "category": "spazio",
-  "updated": "2026-08-05T12:30:14.7831221Z",
+  "updated": "2026-08-05T18:10:51.4640087Z",
   "items": [
+    {
+      "id": "astronautinews:1d100bedab38",
+      "sourceId": "astronautinews",
+      "source": "AstronautiNEWS",
+      "platform": "rss",
+      "category": "spazio",
+      "title": "Il terremoto in Venezuela visto da Sentinel-1",
+      "url": "https://www.astronautinews.it/2026/08/il-terremoto-in-venezuela-visto-da-sentinel-1/",
+      "image": "https://www.astronautinews.it/wp-content/uploads/2011/12/sentinel-1.jpg",
+      "summary": "A poco più di un mese dai due catastrofici terremoti che hanno colpito la parte settentrionale del Venezuela lo scorso 24 giugno 2026, i dati raccolti dai satelliti europei hanno evidenziato come lo spostamento del te...",
+      "date": "2026-08-05T13:00:00.0000000Z"
+    },
     {
       "id": "astronautinews:48de002bef34",
       "sourceId": "astronautinews",
@@ -133,18 +145,6 @@
       "image": "https://www.astronautinews.it/wp-content/uploads/2026/06/Ariane-64-P160C-2026.jpeg",
       "summary": "È stata lanciata oggi, alle 14:21 italiane, dallo spazioporto di Kourou nella Guyana francese, la missione VA269, ottava per il lanciatore europeo Ariane 6 che per la terza volta era spinto da quattro booster laterali...",
       "date": "2026-06-17T19:40:45.0000000Z"
-    },
-    {
-      "id": "astronautinews:68e39a8a3557",
-      "sourceId": "astronautinews",
-      "source": "AstronautiNEWS",
-      "platform": "rss",
-      "category": "spazio",
-      "title": "La missione Proba-3 è pronta a tornare al lavoro",
-      "url": "https://www.astronautinews.it/2026/06/la-missione-proba-3-e-pronta-a-tornare-al-lavoro/",
-      "image": "https://www.astronautinews.it/wp-content/uploads/2026/03/Proba-3_stack_on_the_way_to_orbit-scaled.jpg",
-      "summary": "L'unità satellitare Coronograph della missione dell'Agenzia spaziale europea (ESA) Proba-3 e il suo principale strumento scientifico, ovvero il coronografo ASPIICS (Association of Spacecraft for Polarimetry and Imagin...",
-      "date": "2026-06-15T18:00:00.0000000Z"
     }
   ]
 }
