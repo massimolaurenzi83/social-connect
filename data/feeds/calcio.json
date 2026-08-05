@@ -1,42 +1,210 @@
 {
   "category": "calcio",
-  "updated": "2026-08-05T18:10:51.3991333Z",
+  "updated": "2026-08-05T22:21:30.3473496Z",
   "items": [
+    {
+      "id": "fcinternews:225b70a0b428",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Derby, tutto risaputo. Mercato, quale è la priorità?",
+      "url": "https://www.fcinternews.it/editoriale/derby-risaputo-mercato-priorita-1015337",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c7/c70fc92fb79b00863993430fca1b5fb5-22299-oooz0000.jpeg",
+      "summary": "Il derby di Perth, sospeso tra il passato già scritto della scorsa stagione e il futuro imperscrutabile di quella che verrà, ha detto quello che già si sapeva del presente di Inter e Milan.",
+      "date": "2026-08-05T22:00:11.0000000Z"
+    },
+    {
+      "id": "fcinternews:10e9adaf759a",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Dall'Arabia - Diaby, l'Al-Ittihad temporeggia in vista dei preliminari di Champions asiatica",
+      "url": "https://www.fcinternews.it/mercato/arabia-diaby-al-ittihad-temporeggia-vista-preliminari-champions-asiatica-1015361",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f1/f156c2debaafc3a2c31d79db6893dbf2-62572-280o107o989o816z0890.jpeg",
+      "summary": "Tra i nomi che l'Inter segue per l'out di destra c'è anche quello di Moussa Diaby.",
+      "date": "2026-08-05T21:51:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:d4bef8f1e999",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Politano: \"La passione che i tifosi mettono a Napoli la vedo in poche città\"",
+      "url": "https://www.fcinternews.it/ex-nerazzurri/politano-la-passione-tifosi-mettono-napoli-vedo-poche-citta-1015360",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/0d/0d1dc45f9feba1fc595c095fd8ba8532-08353-oooz0000.jpeg",
+      "summary": "Matteo Politano, esterno offensivo del Napoli, ha parlato ai microfoni di Sky Sport dopo l'amichevole giocata quest'oggi.",
+      "date": "2026-08-05T21:37:20.0000000Z"
+    },
+    {
+      "id": "fcinternews:c4ef9c68ec11",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Lecco, Valente dopo il ko con l'Inter U23: \"Bisogna evitare certi errori\"",
+      "url": "https://www.fcinternews.it/inter-u23/lecco-valente-ko-inter-u23-bisogna-evitare-errori-1015359",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8a/8a77210d79d69832ceb3b75041ff4e77-72838-oooz0000.jpeg",
+      "summary": "Valente, tecnico del Lecco, si è soffermato sulla pesante sconfitta della sua squadra in amichevole contro l'Inter U23.",
+      "date": "2026-08-05T21:23:25.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:a2841ad76320",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Darmian nel mirino del Sassuolo, possibile colpo a zero per la difesa",
+      "url": "https://www.calciomercato.it/2026/08/05/darmian-nel-mirino-del-sassuolo-possibile-colpo-a-zero-per-la-difesa/",
+      "image": null,
+      "summary": "L'articolo Darmian nel mirino del Sassuolo, possibile colpo a zero per la difesa proviene da CalcioMercato.it .",
+      "date": "2026-08-05T21:19:41.0000000Z"
+    },
+    {
+      "id": "fcinternews:cb71f3bcda64",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Dall'Olanda - Perisic, il PSV alza il muro: richiesti diversi milioni di euro",
+      "url": "https://www.fcinternews.it/focus/olanda-perisic-psv-alza-muro-richiesti-diversi-euro-1015358",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b8/b88f5d5d1259f6b0f33d2746b59b2e50-20409-oooz0000.jpeg",
+      "summary": "Ivan Perisic da settimane si offre all'Inter. Oggi è arrivata un'ulteriore conferma: il giocatore vorrebbe tornare a giocare per i nerazzurri, come già era emerso nel mercato invernale.",
+      "date": "2026-08-05T21:09:01.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:2094ebdc6d5d",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "La Juve Women avanza in Champions, Carbonell e Capeta stendono il Torreense: ecco chi sfida",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/08/05-150367483/la_juve_women_avanza_in_champions_carbonell_e_capeta_stendono_il_torreense_ecco_chi_sfida/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/05/205828024-6fd11555-9a52-45a1-8c07-dd883bcbdb3f.jpg",
+      "summary": "Le bianconere si aggiudicano la semifinale del mini tournament superando per 2-1 le portoghesi a Biella: ora l'ultimo atto",
+      "date": "2026-08-05T21:00:29.0000000Z"
+    },
+    {
+      "id": "fcinternews:a10acf39bf1a",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Sassuolo, si cerca un rinforzo d'esperienza: mirino su Matteo Darmian",
+      "url": "https://www.fcinternews.it/ex-nerazzurri/sassuolo-cerca-rinforzo-esperienza-mirino-matteo-darmian-1015357",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c0/c04e2871b08898c6ac4d49eef1adfc3b-02251-590o0o1614o1024z0c9c.jpeg",
+      "summary": "Il Sassuolo cerca due profili per rinforzare la difesa. Anzitutto un terzino sinistro: per questo profilo il favorito è Rafa Obrador.",
+      "date": "2026-08-05T20:55:54.0000000Z"
+    },
+    {
+      "id": "fcinternews:3f63d5856aa6",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Milan, nota stampa dopo il funerale di Baresi: \"Un tributo senza confini\"",
+      "url": "https://www.fcinternews.it/il-resto-della-a/milan-nota-stampa-funerale-baresi-un-tributo-confini-1015356",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fc/fc12427e243a3992a095ec18d28557ab-44105-oooz0000.jpeg",
+      "summary": "Il Milan, attraverso un comunicato stampa, ha voluto ringraziare il mondo del calcio per la vicinanza dopo il lutto che ha toccato il club e la famiglia rossonera, con la scomparsa di Baresi: \"A nome della famiglia Ba...",
+      "date": "2026-08-05T20:41:34.0000000Z"
+    },
+    {
+      "id": "fcinternews:468d8feae800",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Juve, Bremer commenta la prova odierna e ora pensa all'Inter",
+      "url": "https://www.fcinternews.it/l-avversario/juve-bremer-commenta-prova-odierna-pensa-inter-1015354",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/4b/4bd86af4d47e33185113686b98bf0cf3-05854-oooz0000.jpeg",
+      "summary": "“Buon test di squadra e primi minuti in campo”, ha scritto brevemente sui social Gleison Bremer, difensore della Juventus. Un messaggio semplice ma chiaro, accolto con enorme entusiasmo da migliaia di sostenitori juve...",
+      "date": "2026-08-05T20:27:10.0000000Z"
+    },
+    {
+      "id": "fcinternews:e9ca6170d234",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Eterno Dzeko, molti compagni hanno sponsorizzato il suo rinnovo",
+      "url": "https://www.fcinternews.it/ex-nerazzurri/eterno-dzeko-compagni-sponsorizzato-rinnovo-1015316",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fa/fafe9656d54582312ec6afc598bd899b-31165-oooz0000.jpeg",
+      "summary": "Un campione intramontabile, ma soprattutto un uomo che si fa apprezzare anche fuori dal campo. Edin Dzeko ha rinnovato per un altro anno con lo Schalke 04, proseguendo così a 40 anni la sua carriera sul rettangolo di ...",
+      "date": "2026-08-05T20:13:35.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:0fc6efd89bdd",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "La Juve cambia rotta: la strategia per Zirkzee | CM",
+      "url": "https://www.calciomercato.it/2026/08/05/la-juve-cambia-rotta-la-strategia-per-zirkzee-cm/",
+      "image": null,
+      "summary": "L'articolo La Juve cambia rotta: la strategia per Zirkzee | CM proviene da CalcioMercato.it .",
+      "date": "2026-08-05T20:11:25.0000000Z"
+    },
+    {
+      "id": "fcinternews:3f7a7c72fcf1",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Vado sconfitto 3-1 dal Torino prima della gara con l'Inter U23",
+      "url": "https://www.fcinternews.it/l-avversario/vado-sconfitto-3-1-torino-gara-inter-u23-1015350",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/2a/2ab28a5f82fafdd756a850b64e5c2f2f-11889-1032o120o1764o852z0eb8.jpeg",
+      "summary": "Amichevole di lusso per il Vado, primo avversario ufficiale della nuova stagione dell'Inter U23. I liguri hanno sfidato oggi al Filadelfia il nuovo Torino di Ignazio Abate.",
+      "date": "2026-08-05T19:59:31.0000000Z"
+    },
+    {
+      "id": "fcinternews:3e892048b8cf",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Caso Esposito, il DG del Cagliari: \"Non una bella immagine per il mondo del calcio\"",
+      "url": "https://www.fcinternews.it/ex-nerazzurri/esposito-dg-cagliari-non-bella-immagine-calcio-1015352",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e0/e07e36f84b781bdb3e938738de5c1128-79982-oooz0000.jpeg",
+      "summary": "Stefano Melis, direttore generale del Cagliari, ha parlato anche del caso Seba Esposito: \"Questo è uno di quei casi che non dà una bella immagine al mondo del calcio e che senza dubbio fa un po’ disinnamorare i tifosi...",
+      "date": "2026-08-05T19:44:43.0000000Z"
+    },
+    {
+      "id": "fcinternews:e396d2ff9b19",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Dall'Argentina - Romero, l'Atletico studia la prima offerta agli Spurs",
+      "url": "https://www.fcinternews.it/copertina/argentina-romero-atletico-studia-offerta-spurs-1015353",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/28/289524f5c4c2093895fcd5969fc4266a-18895-oooz0000.jpeg",
+      "summary": "L'Atlético Madrid vuole premere sull'acceleratore per Romero.",
+      "date": "2026-08-05T19:28:45.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:7cc178fd6ae4",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Il Napoli prova a beffare la Juve nella corsa al portiere, i dettagli",
+      "url": "https://www.calciomercato.it/2026/08/05/il-napoli-prova-a-beffare-la-juve-nella-corsa-al-portiere-i-dettagli/",
+      "image": null,
+      "summary": "L'articolo Il Napoli prova a beffare la Juve nella corsa al portiere, i dettagli proviene da CalcioMercato.it .",
+      "date": "2026-08-05T18:50:32.0000000Z"
+    },
     {
       "id": "tuttosport-calcio:3146c9674876",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
       "platform": "rss",
       "category": "calcio",
-      "title": "<p>Doppiette Ratkov e Zaccagni: poker della Lazio all&#39;Ostiamare di De Rossi</p>",
+      "title": "<p>Napoli, vittoria di prestigio per Allegri: Politano e Lucca stendono l&#39;Osasuna.&nbsp;Esordio Adzic col Sassuolo</p>",
       "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/08/05-150364409/doppiette_ratkov_e_zaccagni_poker_della_lazio_all_ostiamare_di_de_rossi/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/05/175247874-5dfee80e-c70e-42a9-81ba-5832a8c0d6fd.jpg",
-      "summary": "Ottimi segnali per Rino Gattuso nell'amichevole contro la squadra di cui è proprietario e presidente l'ex centrocampista giallorosso",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/05/184644113-a4ac28c7-e0f7-480b-acdf-466a785a13e0.jpg",
+      "summary": "Agli spagnoli non basta la rete dell'ex Crotone e Samp Budimir. Poker Lazio all'Ostiamare di De Rossi: doppiette di Ratkov e Zaccagni. Aquilano ko contro il Celta Vigo",
       "date": "2026-08-05T18:07:43.0000000Z"
-    },
-    {
-      "id": "fcinternews:ae05a2cd5e5e",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Thuram, l'Inter sempre in testa: tv accesa sul derby di Perth. E Pavard...",
-      "url": "https://www.fcinternews.it/focus/thuram-inter-testa-tv-accesa-derby-perth-pavard-1015347",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/2d/2d00cbd857daf67861d2dfcb68621532-83936-oooz0000.jpeg",
-      "summary": "Attualmente in vacanza dopo aver concluso la stagione lo scorso 18 luglio, ultima gara al Mondiale della sua Francia, Marcus Thuram non ha smesso di pensare all'Inter.",
-      "date": "2026-08-05T18:00:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:8551f985c531",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "FIFA, il progetto FFE fallisce: il comunicato della European Leagues",
-      "url": "https://www.fcinternews.it/news/fifa-progetto-ffe-fallisce-comunicato-european-leagues-1015332",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/75/7549efe4bd43ecd73117145c48584d64-48983-563o335o2099o1871z1304.jpeg",
-      "summary": "La European Leagues ha recentemente diramato un comunicato in merito alla decisione da parte della FIFA di tornare sui propri passi e accantonare il progetto FFE, attraverso il quale sarebbero state vendute parti dell...",
-      "date": "2026-08-05T17:45:00.0000000Z"
     },
     {
       "id": "tuttosport-calcio:af217ae44364",
@@ -63,18 +231,6 @@
       "date": "2026-08-05T17:34:45.0000000Z"
     },
     {
-      "id": "fcinternews:8d41da46eb76",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "La UEFA cambia: la soglia delle squalifiche si alza da 3 a 4 ammonizioni",
-      "url": "https://www.fcinternews.it/news/uefa-cambia-squalifica-ammonizioni-1015345",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8e/8e0a25e2bfefeb1c9755601e978cf4b3-05151-469o72o1409o1012z0b92.jpeg",
-      "summary": "Cambia il regolamento sulle squalifiche nelle Coppe europee dalla stagione 2026-27.",
-      "date": "2026-08-05T17:30:44.0000000Z"
-    },
-    {
       "id": "calciomercato-it:681bfdb454fc",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -87,18 +243,6 @@
       "date": "2026-08-05T17:21:02.0000000Z"
     },
     {
-      "id": "fcinternews:ee4025718d0b",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Derby, Modric scherza con Calhanoglu per il nuovo taglio di capelli",
-      "url": "https://www.fcinternews.it/news/milan-inter-siparietto-calhanoglu-modric-ma-capelli-1015343",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ec/ecc9775c10e688a7a0ac3188d07f9cf1-26195-oooz0000.jpeg",
-      "summary": "Simpatico siparietto al termine della sfida amichevole tra Inter e Milan. Durante i consueti saluti tra giocatori a fine partita, l'interista Hakan Calhanoglu e il milanista Luka Modric hanno avuto modo di scambiare q...",
-      "date": "2026-08-05T17:16:00.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:4e486bb5bc79",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -109,42 +253,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/08/05/171045451-2ea95a01-d1f0-4719-8037-ab59583e6401.jpg",
       "summary": "Il procuratore del portiere ha fatto chiarezza sul futuro dell'argentino: \"Normale che ci sia interesse, ma...\"",
       "date": "2026-08-05T17:11:31.0000000Z"
-    },
-    {
-      "id": "fcinternews:fcf0558cb6b0",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "La Roma chiude per Molina dopo aver scartato un obiettivo interista",
-      "url": "https://www.fcinternews.it/news/roma-chiude-molina-scartato-obbiettivo-interista-1015344",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/bf/bfb7268493fd43122cfa09a7400dd707-77895-883o34o2248o1399z11d4.jpeg",
-      "summary": "La Roma avrà il proprio titolare per la fascia destra.",
-      "date": "2026-08-05T17:02:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:7a57132c8748",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Figo contro Infantino: \"Ci ha mentito e ci ha ingannati. Si dimetta!\"",
-      "url": "https://www.fcinternews.it/news/figo-infantino-ci-mentito-ingannati-dimetta-1015339",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/af/afcfb2d121db25e37c894a0594bb1cfe-26279-719o35o2051o1367z104c.jpeg",
-      "summary": "Attacco diretto e inequivocabile di Luis Figo a Gianni Infantino. L'ex calciatore dell'Inter ha infatti usato parole al veleno contro il presidente della FIFA attraverso un post su X.",
-      "date": "2026-08-05T16:48:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:bad26144bd39",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Cancelo resta al Barcellona? Romano: \"Fiducia massima dei catalani\"",
-      "url": "https://www.fcinternews.it/ex-nerazzurri/cancelo-resta-barcellona-romano-fiducia-massima-catalani-1015326",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/21/2147fbfecb1cf24c7a7e21318203d734-64733-553o168o1505o1119z0d11.jpeg",
-      "summary": "La fiducia è massima in seno alla dirigenza del Barcellona rispetto alla felice conclusione dell'affare João Cancelo entro la fine della corrente sessione estiva di calciomercato.",
-      "date": "2026-08-05T16:34:13.0000000Z"
     },
     {
       "id": "calciomercato-it:4ebaeec3dd3e",
@@ -195,42 +303,6 @@
       "date": "2026-08-05T16:22:47.0000000Z"
     },
     {
-      "id": "fcinternews:cc64a658eea7",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Bisseck tranquillizza tutti sui social: \"Sono vivo, grazie per i messaggi\"",
-      "url": "https://www.fcinternews.it/focus/bisseck-tranquillizza-social-sono-vivo-messaggi-1015342",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/03/03f6a9ae4acfc904744c35f777046b7f-66829-oooz0000.jpeg",
-      "summary": "Ci pensa direttamente Yann Bisseck a tranquillizzare i tifosi dell'Inter. Il centrale tedesco era infatti uscito dal campo dolorante a seguito di un forte colpo alla testa subito durante un contrasto con il rossonero ...",
-      "date": "2026-08-05T16:20:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:2ea6d49a93ac",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Calhanoglu: \"Il rigore non c'era, l'hanno visto tutti. Stones? Benvenuto\"",
-      "url": "https://www.fcinternews.it/copertina/calhanoglu-rigore-iniziare-stones-benvenuto-1015340",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8e/8e37ce0fda2daaf6288e3c829edddebc-20371-oooz0000.jpeg",
-      "summary": "Hakan Calhanoglu ha fatto vedere buoni spunti nella seconda parte del derby di Perth tra Milan e Inter, quando è entrato in campo per disputare i primi minuti della sua pre-season: \"Stiamo lavorando molto duramente, s...",
-      "date": "2026-08-05T16:14:20.0000000Z"
-    },
-    {
-      "id": "fcinternews:e4ac258ba83e",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Chivu: \"Buoni segnali da Pavard? Si sta impegnando al massimo come gli altri\"",
-      "url": "https://www.fcinternews.it/in-primo-piano/chivu-buoni-segnali-pavard-impegnando-massimo-1015341",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a9/a96d0ddec86f2157bb35796bd5e3fd41-68446-oooz0000.jpeg",
-      "summary": "Dopo aver offerto le sue sensazioni a caldo a Inter TV, Cristian Chivu si è soffermato anche con Sky Sport per parlare del derby pareggiato contro il Milan, a Perth: \"E' un'amichevole, una partita d'agosto, nella qual...",
-      "date": "2026-08-05T16:00:57.0000000Z"
-    },
-    {
       "id": "calciomercato-it:83a2e239a2f8",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -241,18 +313,6 @@
       "image": null,
       "summary": "L'articolo Leao-Milan, annuncio bomba in queste ore: cosa cambia proviene da CalcioMercato.it .",
       "date": "2026-08-05T15:46:34.0000000Z"
-    },
-    {
-      "id": "fcinternews:8e6ee8a296ba",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Milan, minuti nel derby per Modric: \"Penso sia stata una bella partita\"",
-      "url": "https://www.fcinternews.it/l-avversario/milan-minuti-derby-modric-penso-bella-partita-1015338",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e2/e24401c389fc89a53b75f9eeac65f1d3-00456-oooz0000.jpeg",
-      "summary": "Entrato in campo dopo l'ora di gioco del derby di Perth tra Inter e Milan, terminato 1-1, Luka Modric si dice soddisfatto per i primi minuti disputati nella pre-season con la maglia dei rossoneri: \"È stato bello gioca...",
-      "date": "2026-08-05T15:45:07.0000000Z"
     },
     {
       "id": "tuttosport-calcio:81e3a2300e5f",
@@ -277,18 +337,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/08/05/151635485-e6d0461a-9221-47bd-950a-ca6d2711593d.jpg",
       "summary": "Il tecnico nerazzurro analizza il derby disputato a Perth: \"In questo momento non ci interessano molto i risultati\"",
       "date": "2026-08-05T15:32:35.0000000Z"
-    },
-    {
-      "id": "fcinternews:0849eea62732",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Matthaus: \"Bisseck interessante per il Bayern, ma ha rinnovato con l'Inter\"",
-      "url": "https://www.fcinternews.it/news/matthaus-bisseck-interessante-bayern-rinnovato-inter-1015331",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/2e/2ea181bfc2847f1a4d440d23b5899bbe-24389-566o36o1506o975z0c0b.jpeg",
-      "summary": "Il Bayern Monaco può, di fatto, depennare i nomi di Yann Bisseck e Josko Gvardiol dalla lista dei difensori che sarebbero stati perfetti per rinforzare la difesa di Vincent Kompany, per caratteristiche, in caso di par...",
-      "date": "2026-08-05T15:31:57.0000000Z"
     },
     {
       "id": "tuttosport-calcio:d677ea59ea9c",
@@ -363,18 +411,6 @@
       "date": "2026-08-05T13:12:35.0000000Z"
     },
     {
-      "id": "tuttosport-calcio:cf3fa0abdfb7",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>Zola entra nel Club Italia, Malag&ograve;: &quot;Coordiner&agrave; i progetti dei giovani&quot;</p>",
-      "url": "https://www.tuttosport.com/news/calcio/italia/2026/08/05-150352039/zola_entra_nel_club_italia_malag_coordiner_i_progetti_dei_giovani/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/05/122615479-0aa6e77f-d9c4-445c-84df-63709a8dc7dc.jpg",
-      "summary": "Il presidente della FIGC ha annunciato un nuovo ingresso nel team della Nazionale e che ruolo andrà a coprire",
-      "date": "2026-08-05T12:32:07.0000000Z"
-    },
-    {
       "id": "calciomercato-it:a1078e69a6ba",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -397,42 +433,6 @@
       "image": null,
       "summary": "L'articolo Issa Doumbia è il nuovo gioiello della Nazionale italiana, che rimpianto per la Serie A proviene da CalcioMercato.it .",
       "date": "2026-08-05T09:14:27.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:7bfacb6b82cd",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Roma, accordo raggiunto per Molina: tutte le cifre dell’operazione",
-      "url": "https://www.calciomercato.it/2026/08/05/roma-accordo-raggiunto-per-molina-tutte-le-cifre-delloperazione/",
-      "image": null,
-      "summary": "L'articolo Roma, accordo raggiunto per Molina: tutte le cifre dell’operazione proviene da CalcioMercato.it .",
-      "date": "2026-08-05T08:38:38.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:35d724913bc8",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Reijnders nel mirino del Nottingham Forest, arriva il sì dell’olandese",
-      "url": "https://www.calciomercato.it/2026/08/05/reijnders-nel-mirino-del-nottingham-forest-arriva-il-si-dellolandese/",
-      "image": null,
-      "summary": "L'articolo Reijnders nel mirino del Nottingham Forest, arriva il sì dell’olandese proviene da CalcioMercato.it .",
-      "date": "2026-08-05T08:00:18.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:6c821dcda3ce",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Ruggeri nel mirino dell’Aston Villa, si complica la situazione per il Milan",
-      "url": "https://www.calciomercato.it/2026/08/05/ruggeri-nel-mirino-dellaston-villa-si-complica-la-situazione-per-il-milan/",
-      "image": null,
-      "summary": "L'articolo Ruggeri nel mirino dell’Aston Villa, si complica la situazione per il Milan proviene da CalcioMercato.it .",
-      "date": "2026-08-05T06:49:53.0000000Z"
     }
   ]
 }

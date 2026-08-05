@@ -1,19 +1,7 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-05T18:10:51.4268533Z",
+  "updated": "2026-08-05T22:21:30.2971306Z",
   "items": [
-    {
-      "id": "cybersecurity360:cc6ee42d8d75",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sovranità digitale e AI: le sfide per la leadership IT",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/sovranita-digitale-e-ai-le-sfide-per-la-leadership-it/",
-      "image": null,
-      "summary": "Un’analisi approfondita affronta il tema della sovranità digitale e dell’impatto dell’intelligenza artificiale sulle organizzazioni aziendali, mettendo a confronto la sensibilità dei professionisti e le reali strategi...",
-      "date": "2026-08-05T15:00:00.0000000Z"
-    },
     {
       "id": "cybersecurity360:8e90c71a9761",
       "sourceId": "cybersecurity360",
@@ -121,6 +109,18 @@
       "image": null,
       "summary": "L’inventario degli asset non dovrebbe essere una semplice lista tecnica di server, applicazioni, dispositivi e servizi cloud. In ottica NIS2, deve diventare una mappa ragionata di ciò che sostiene le attività dell’org...",
       "date": "2026-08-04T08:51:40.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:8851eacaa9d8",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Categorizzazione NIS 2: da adempimento a strumento di governo della sicurezza",
+      "url": "https://www.cybersecurity360.it/legal/categorizzazione-nis-2-da-adempimento-a-strumento-di-governo-della-sicurezza/",
+      "image": null,
+      "summary": "La categorizzazione NIS2, che non è finita il 30 giugno, entra in una nuova fase: infatti apre il percorso, ma non lo conclude. Ecco perché il valore del lavoro svolto non dipenderà dalla qualità formale di ciò che è ...",
+      "date": "2026-08-04T07:29:34.0000000Z"
     }
   ]
 }
