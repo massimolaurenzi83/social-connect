@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-08-04T20:59:24.0525940Z",
+  "updated": "2026-08-05T06:16:00.5491211Z",
   "items": [
+    {
+      "id": "motor1:d0265b45e5b0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Secondo Mercedes si è andati oltre eliminando i pulsanti in auto",
+      "url": "https://it.motor1.com/news/803731/mercedes-troppi-pulsanti-auto/",
+      "image": "https://cdn.motor1.com/images/mgl/VzeowB/s3/mercedes-eqs-hyperscreen.jpg",
+      "summary": "L'amministratore delegato dell'azienda ha detto che sta reintroducendo \"i pulsanti più sensati\".",
+      "date": "2026-08-05T06:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:5d6a5336a69c",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nio inaugura la 4000ª stazione di battery swap. E la tecnologia si evolve.",
+      "url": "https://www.vaielettrico.it/nio-inaugura-la-4000a-stazione-di-battery-swap-e-la-tecnologia-si-evolve/",
+      "image": null,
+      "summary": "Il prossimo 7 agosto Nio inaugurerà in Cina la sua 4.000ª stazione di battery swap, introducendo la quinta… L'articolo Nio inaugura la 4000ª stazione di battery swap. E la tecnologia si evolve. proviene da Vaielettrico .",
+      "date": "2026-08-05T05:37:18.0000000Z"
+    },
+    {
+      "id": "insideevs:689570844356",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto elettriche, la svolta arriva dai catodi al litio-manganese",
+      "url": "https://insideevs.it/news/803729/batterie-ev-longeve-catodi-litio/",
+      "image": "https://cdn.motor1.com/images/mgl/6Z87le/s3/auto-elettriche-la-svolta-arriva-dai-catodi-al-litio-manganese.jpg",
+      "summary": "Lo studio di Seoul National University e LG Energy Solution apre la strada a batterie più leggere, longeve ed efficienti",
+      "date": "2026-08-05T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:65b531443d5a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dacia Sandero benzina (2026), la prova dei consumi reali",
+      "url": "https://it.motor1.com/reviews/802545/dacia-sandero-benzina-2026-consumi/",
+      "image": "https://cdn.motor1.com/images/mgl/MkgXvE/s3/dacia-sandero-benzina-2026-la-prova-consumi.jpg",
+      "summary": "Una delle auto più economiche e più vendute, la Dacia Sandero Streetway è semplice, pratica e razionale. Fuori città consuma anche poco",
+      "date": "2026-08-05T05:00:00.0000000Z"
+    },
     {
       "id": "motor1:969ae19b1ee8",
       "sourceId": "motor1",
@@ -51,18 +99,6 @@
       "date": "2026-08-04T16:00:43.0000000Z"
     },
     {
-      "id": "motor1:b92c2d0998ee",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le novità per la gamma smart",
-      "url": "https://it.motor1.com/news/803736/smart-novita-2026-gamma/",
-      "image": "https://cdn.motor1.com/images/mgl/E6NylN/s3/692502-colorstudio_pro-2b-20black-20collection-20family_02.png-4e9143-large-1785837313.jpg",
-      "summary": "Per tutta la gamma disponibile anche la trazione integrale per le versioni Premium e arriva la Black Collection dedicata agli allestimenti Pro+",
-      "date": "2026-08-04T16:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:10ba11796b0d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -72,6 +108,18 @@
       "url": "https://insideevs.it/news/803718/ewiva-ricarica-contactless-tariffa/",
       "image": "https://cdn.motor1.com/images/mgl/7ZEkyp/s3/upload-ewiva-1-1785849297910-7h5cra.jpg",
       "summary": "La rete Ewiva introduce una tariffa unica per i pagamenti contactless, valida in tutte le stazioni abilitate con potenze fino a 400 kW",
+      "date": "2026-08-04T16:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:b92c2d0998ee",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le novità per la gamma smart",
+      "url": "https://it.motor1.com/news/803736/smart-novita-2026-gamma/",
+      "image": "https://cdn.motor1.com/images/mgl/E6NylN/s3/692502-colorstudio_pro-2b-20black-20collection-20family_02.png-4e9143-large-1785837313.jpg",
+      "summary": "Per tutta la gamma disponibile anche la trazione integrale per le versioni Premium e arriva la Black Collection dedicata agli allestimenti Pro+",
       "date": "2026-08-04T16:00:00.0000000Z"
     },
     {
@@ -87,18 +135,6 @@
       "date": "2026-08-04T15:00:11.0000000Z"
     },
     {
-      "id": "motor1:a2882218ab1a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Come e quanto cambia la nuova Mercedes GLA rispetto alla vecchia",
-      "url": "https://it.motor1.com/news/803538/mercedes-gla-2026-vs-mercedes-gla-vecchia/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZwG1X/s3/mercedes-gla-nuova-contro-vecchia.jpg",
-      "summary": "La nuova Mercedes GLA cambia tutto, fuori e dentro. Vediamo come e quanto rispetto alla vecchia generazione",
-      "date": "2026-08-04T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:e1096c322591",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -108,6 +144,18 @@
       "url": "https://insideevs.it/news/803568/inconvenienti-problemi-ricarica-viaggio-autostrada/",
       "image": "https://cdn.motor1.com/images/mgl/y2lj1l/s3/le-code-in-ingresso-all-area-di-servizio.jpg",
       "summary": "Durante il periodo estivo ricaricare in autostrada richiede qualche accortezza e un po' di fortuna",
+      "date": "2026-08-04T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:a2882218ab1a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come e quanto cambia la nuova Mercedes GLA rispetto alla vecchia",
+      "url": "https://it.motor1.com/news/803538/mercedes-gla-2026-vs-mercedes-gla-vecchia/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZwG1X/s3/mercedes-gla-nuova-contro-vecchia.jpg",
+      "summary": "La nuova Mercedes GLA cambia tutto, fuori e dentro. Vediamo come e quanto rispetto alla vecchia generazione",
       "date": "2026-08-04T15:00:00.0000000Z"
     },
     {
@@ -195,18 +243,6 @@
       "date": "2026-08-04T13:30:00.0000000Z"
     },
     {
-      "id": "insideevs:ae9c1347ae74",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Tesla Cybertruck sarà il più grande flop dell'auto? L'analisi",
-      "url": "https://insideevs.it/news/803676/tesla-cybertruck-ford-edsel/",
-      "image": "https://cdn.motor1.com/images/mgl/W8qbN3/s3/tesla-cybertruck-long-range.jpg",
-      "summary": "Gli esperti di Bloomberg paragonano il pickup elettrico a uno sfortunato modello degli anni '50",
-      "date": "2026-08-04T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:b73acb6eb398",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -228,6 +264,18 @@
       "url": "https://www.hdmotori.it/mobilita-italia-2026/",
       "image": null,
       "summary": "Gli italiani si muovono ogni giorno di più, privilegiando tragitti locali e rinnovando gradualmente il parco auto verso motorizzazioni meno inquinanti. The post La mobilità in Italia nel 2026: più spostamenti ma dista...",
+      "date": "2026-08-04T13:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ae9c1347ae74",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Tesla Cybertruck sarà il più grande flop dell'auto? L'analisi",
+      "url": "https://insideevs.it/news/803676/tesla-cybertruck-ford-edsel/",
+      "image": "https://cdn.motor1.com/images/mgl/W8qbN3/s3/tesla-cybertruck-long-range.jpg",
+      "summary": "Gli esperti di Bloomberg paragonano il pickup elettrico a uno sfortunato modello degli anni '50",
       "date": "2026-08-04T13:00:00.0000000Z"
     },
     {
@@ -279,18 +327,6 @@
       "date": "2026-08-04T11:00:06.0000000Z"
     },
     {
-      "id": "motor1:230a7a253a6f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il declino del diesel e il sorpasso dell'elettrico",
-      "url": "https://it.motor1.com/news/803690/auto-diesel-auto-elettriche-vendite-italia-luglio-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/KbgqGR/s3/vendite-auto-diesel-vs-auto-elettriche.jpg",
-      "summary": "In Italia le auto elettriche vendono più del diesel, insidiato anche dal GPL. È il momento dei saluti?",
-      "date": "2026-08-04T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:e8176295a167",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -303,16 +339,16 @@
       "date": "2026-08-04T11:00:00.0000000Z"
     },
     {
-      "id": "motor1:83571b1199cb",
+      "id": "motor1:230a7a253a6f",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Come è fatta la nuova piccola di Leapmotor",
-      "url": "https://it.motor1.com/news/803696/leapmotor-b03-debutto-cina-informazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/eo7xZW/s3/leapmotor-b03-le-prime-foto.jpg",
-      "summary": "Presentata in Cina la Leapmotor B03 (si chiamerà A05 nel mercato interno, piccola elettrica lunga 4,17 metri",
-      "date": "2026-08-04T10:40:40.0000000Z"
+      "title": "Il declino del diesel e il sorpasso dell'elettrico",
+      "url": "https://it.motor1.com/news/803690/auto-diesel-auto-elettriche-vendite-italia-luglio-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/KbgqGR/s3/vendite-auto-diesel-vs-auto-elettriche.jpg",
+      "summary": "In Italia le auto elettriche vendono più del diesel, insidiato anche dal GPL. È il momento dei saluti?",
+      "date": "2026-08-04T11:00:00.0000000Z"
     },
     {
       "id": "hdmotori:2fda0548c3df",
@@ -325,18 +361,6 @@
       "image": null,
       "summary": "Chi non ha mai sognato di calarsi nel piccolo abitacolo di una Cobra GT. Uno dei modelli più iconici della cultura americana è tornato. The post La nuova AC Cobra GT Coupé con V8 da 730 CV: puristi in estasi appeared ...",
       "date": "2026-08-04T10:00:18.0000000Z"
-    },
-    {
-      "id": "motor1:88599a1d35c0",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Queste speciali Ferrari Purosangue non sono per \"noi\"",
-      "url": "https://it.motor1.com/news/803672/ferrari-purosangue-american-collection/",
-      "image": "https://cdn.motor1.com/images/mgl/8A3Orq/s3/ferrari-purosangue-american-grand-tour-atelier-collection.jpg",
-      "summary": "Ferrari presenta una collezione di 10 Purosangue destinate unicamente agli USA. Ecco come sono fatte",
-      "date": "2026-08-04T10:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:d909a477a3dd",
@@ -505,30 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/P3ojlG/s3/sono-sion-serienversion.jpg",
       "summary": "Dopo la fine della Sion, ora termina anche l'attività nel solare. Il marchio Sono Solar e la tecnologia sono in vendita.",
       "date": "2026-08-03T13:30:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:bd05ce7b79d3",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Dalla Cina nuove regole sullo stato di salute delle batterie",
-      "url": "https://www.vaielettrico.it/dalla-cina-nuove-regole-sullo-stato-di-salute-delle-batterie/",
-      "image": null,
-      "summary": "La Cina introduce un nuovo standard nazionale per aumentare la trasparenza sullo stato di salute delle batterie per… L'articolo Dalla Cina nuove regole sullo stato di salute delle batterie proviene da Vaielettrico .",
-      "date": "2026-08-03T12:57:53.0000000Z"
-    },
-    {
-      "id": "insideevs:c86be9b5dee9",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Come i prezzi del petrolio stanno spingendo l'auto elettrica",
-      "url": "https://insideevs.it/news/803502/prezzi-petrolio-vendite-auto-elettriche/",
-      "image": "https://cdn.motor1.com/images/mgl/zxJZgq/s3/byd-explorer-car-carrier-cargo-ship.jpg",
-      "summary": "Lo shock petrolifero innescato dalla guerra in Iran dà il boom alle vendite di BEV e PHEV: i numeri dello studio",
-      "date": "2026-08-03T11:00:00.0000000Z"
     }
   ]
 }
