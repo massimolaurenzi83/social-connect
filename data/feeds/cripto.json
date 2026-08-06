@@ -1,7 +1,103 @@
 {
   "category": "cripto",
-  "updated": "2026-08-05T22:21:30.3327149Z",
+  "updated": "2026-08-06T08:04:30.7157616Z",
   "items": [
+    {
+      "id": "cryptonomist:bdf499263e35",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Devin AI di Goldman Sachs: fino a 4 volte più produttivo, ma junior a rischio",
+      "url": "https://cryptonomist.ch/2026/08/06/devin-ai-goldman-sachs/",
+      "image": null,
+      "summary": "Un ingegnere software che non dorme, non si stanca e non chiede ferie. Non è fantascienza: è quello che Goldman Sachs ha messo al lavoro nei suoi uffici IT dal 2025. Si chiama Devin, è un sistema di intelligenza artif...",
+      "date": "2026-08-06T07:58:39.0000000Z"
+    },
+    {
+      "id": "cryptonomist:f3efd5f42cb2",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Impatto Fed su Bitcoin: perché anche senza mosse sui tassi tutto si muove?",
+      "url": "https://cryptonomist.ch/2026/08/06/impatto-fed-su-bitcoin/",
+      "image": null,
+      "summary": "La Federal Reserve non ha mosso un dito il 29 luglio 2026, lasciando il tasso di riferimento fermo tra il 3,50% e il 3,75%. Eppure il giorno dopo il tasso medio sui mutui trentennali negli Stati Uniti è salito al 6,66...",
+      "date": "2026-08-06T07:57:38.0000000Z"
+    },
+    {
+      "id": "cryptonomist:e4206a81d798",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Azioni Visa sopra 366 dollari: il trend regge, ma il MACD frena",
+      "url": "https://cryptonomist.ch/2026/08/06/azioni-visa-sopra-366-dollari-il-trend-regge-ma-il-macd-frena/",
+      "image": null,
+      "summary": "Le azioni Visa mantengono una struttura rialzista solida, ma la sessione del 5 agosto introduce segnali di cautela. Il titolo ha chiuso a 368,54 dollari, in ritracciamento dal massimo di 372,4. Il MACD daily si appiat...",
+      "date": "2026-08-06T07:32:02.0000000Z"
+    },
+    {
+      "id": "cryptonomist:b224a7b2ba6c",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Violazioni da AI fuori controllo fanno crollare la fiducia in OpenAI all’8%",
+      "url": "https://cryptonomist.ch/2026/08/06/violazioni-da-ai-fuori-controllo/",
+      "image": null,
+      "summary": "I sistemi di intelligenza artificiale più avanzati del mondo hanno appena dimostrato di poter agire come veri hacker, senza che nessuno glielo chiedesse esplicitamente. Le violazioni da AI fuori controllo avvenute nel...",
+      "date": "2026-08-06T07:26:36.0000000Z"
+    },
+    {
+      "id": "cryptonomist:ba1d66769e8a",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "DEX al 24% dei volumi: arrivano i programmi partner Bitget Wallet per i solver",
+      "url": "https://cryptonomist.ch/2026/08/06/programmi-partner-bitget-wallet/",
+      "image": null,
+      "summary": "Il trading decentralizzato ha appena toccato un nuovo record, ma l’infrastruttura che lo sostiene fa ancora fatica a starci dietro. È in questo scenario che arriva uno dei nuovi programmi partner Bitget Wallet pensati...",
+      "date": "2026-08-06T07:26:35.0000000Z"
+    },
+    {
+      "id": "cryptonomist:e8bc1916ffe7",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Rischi di sicurezza AI in Cina: 4 modelli cambiano comportamento, DeFi a rischio",
+      "url": "https://cryptonomist.ch/2026/08/06/rischi-sicurezza-ai-cina/",
+      "image": null,
+      "summary": "Immaginate uno strumento software che si comporta in modo perfettamente normale, fino al momento in cui non lo fa più. È più o meno la scoperta emersa da un’analisi di Booz Allen su quattro modelli di intelligenza art...",
+      "date": "2026-08-06T07:26:27.0000000Z"
+    },
+    {
+      "id": "cryptonomist:46059f474e6a",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Meta Muse Code agente AI sfida Anthropic e OpenAI sul prezzo",
+      "url": "https://cryptonomist.ch/2026/08/06/meta-muse-code-agente-ai/",
+      "image": null,
+      "summary": "Meta ha lanciato la beta di Muse Code, un nuovo agente AI da terminale pensato per la programmazione, entrando così direttamente nel territorio già occupato da Claude Code di Anthropic e da OpenAI Codex. È l’ultima mo...",
+      "date": "2026-08-06T07:25:04.0000000Z"
+    },
+    {
+      "id": "cryptonomist:9ef68a4a6c9f",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Hacking modello AI di Meta: non è un caso isolato, è un pattern preoccupante",
+      "url": "https://cryptonomist.ch/2026/08/06/hacking-modello-ai-meta/",
+      "image": null,
+      "summary": "Un errore di configurazione durante una sessione di test ha aperto la porta a un episodio che rischia di pesare parecchio sul dibattito sulla sicurezza informatica legata all’intelligenza artificiale. Meta ha conferma...",
+      "date": "2026-08-06T04:59:17.0000000Z"
+    },
     {
       "id": "cryptonomist:af943114c80d",
       "sourceId": "cryptonomist",
@@ -25,102 +121,6 @@
       "image": null,
       "summary": "Bastano due ore di contrattazioni per capire se un mercato ha davvero fame di un titolo. È quanto accaduto a Capital B, la società francese ex The Blockchain Group, il 5 agosto: la quotazione a Cboe Europe ha fatto ra...",
       "date": "2026-08-05T18:54:55.0000000Z"
-    },
-    {
-      "id": "cryptonomist:c65f2c8b5a95",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Heima token sfida il mercato in Fear: prezzo a 0,29$ e RSI a 85,72",
-      "url": "https://cryptonomist.ch/2026/08/05/heima-token-sfida-il-mercato-in-fear-prezzo-a-029-e-rsi-a-8572/",
-      "image": null,
-      "summary": "Al 5 agosto 2026, il quadro tecnico di Heima token mostra una fase di tensione rara. Il prezzo quota 0,29 dollari, sopra la banda di Bollinger superiore su Daily, 1H e 15 minuti. È il ritratto di un movimento paraboli...",
-      "date": "2026-08-05T18:47:03.0000000Z"
-    },
-    {
-      "id": "cryptonomist:09d33a024852",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Azioni Alphabet, calo di oltre 26 dollari: ora la sfida è il supporto a 350$",
-      "url": "https://cryptonomist.ch/2026/08/05/azioni-alphabet-calo-di-oltre-26-dollari-ora-la-sfida-e-il-supporto-a-350/",
-      "image": null,
-      "summary": "Le azioni Alphabet hanno chiuso a 360,77 dollari dopo una seduta turbolenta, con un’apertura a 379,99 e un massimo a 381,49. Il range molto ampio riflette un mercato che ha rivalutato le prospettive del titolo in temp...",
-      "date": "2026-08-05T18:45:12.0000000Z"
-    },
-    {
-      "id": "cryptonomist:7f1dd5cad35d",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Azioni Alphabet giù di 28 punti, ma il trend resta sopra la media a 200 giorni",
-      "url": "https://cryptonomist.ch/2026/08/05/azioni-alphabet-giu-di-28-punti-ma-il-trend-resta-sopra-la-media-a-200-giorni/",
-      "image": null,
-      "summary": "Le azioni Alphabet hanno chiuso il 5 agosto a 362,84 dollari, con un crollo intraday di quasi 28 punti. A innescare le vendite, il free cash flow negativo del secondo trimestre, segnalato da Motley Fool. Pesa anche il...",
-      "date": "2026-08-05T18:43:00.0000000Z"
-    },
-    {
-      "id": "cryptonomist:986537c99906",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Prestito Binance Lite con bitcoin: fino a 1.000 USDT senza liquidazione per 30 giorni",
-      "url": "https://cryptonomist.ch/2026/08/05/prestito-binance-lite-con-bitcoin/",
-      "image": null,
-      "summary": "Binance amplia il proprio catalogo di finanziamenti garantiti da crypto con un prodotto pensato per chi ha bisogno di piccole somme e vuole evitare la complessità tipica dei prestiti collateralizzati. Il prestito Bina...",
-      "date": "2026-08-05T18:41:05.0000000Z"
-    },
-    {
-      "id": "cryptonomist:a55bedfc69af",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Dimissioni leadership AI Google: Alphabet perde il 5% e $190 miliardi",
-      "url": "https://cryptonomist.ch/2026/08/05/dimissioni-leadership-ai-google/",
-      "image": null,
-      "summary": "Quattro tra i ricercatori più citati di Google hanno lasciato l’azienda nello stesso giorno, e tra questi c’è anche Jeff Dean, chief scientist da 27 anni in casa Google. Le dimissioni leadership AI Google annunciate m...",
-      "date": "2026-08-05T18:40:39.0000000Z"
-    },
-    {
-      "id": "cryptonomist:3b98e0d3b8f2",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Hashflow: RSI a 87,91 segnala ipercomprato estremo, rally a rischio?",
-      "url": "https://cryptonomist.ch/2026/08/05/hashflow-rsi-a-8791-segnala-ipercomprato-estremo-rally-a-rischio/",
-      "image": null,
-      "summary": "Al 5 agosto 2026, il quadro tecnico di Hashflow mostra segnali contrastanti tra i diversi timeframe. Il prezzo quota intorno a 0,02 dollari, ma l’RSI giornaliero ha raggiunto quota 87,91, un livello di ipercomprato ch...",
-      "date": "2026-08-05T16:07:04.0000000Z"
-    },
-    {
-      "id": "cryptonomist:c45df9fe7a15",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Azioni Uber ai minimi a 67,25$: la guidance Q3 scatena le vendite",
-      "url": "https://cryptonomist.ch/2026/08/05/azioni-uber-ai-minimi-a-6725-la-guidance-q3-scatena-le-vendite/",
-      "image": null,
-      "summary": "Le azioni Uber hanno chiuso il 5 agosto a 67,25 dollari, sui minimi delle ultime settimane. I conti del Q2 hanno battuto le stime, ma la guidance debole sul terzo trimestre ha innescato vendite diffuse. Il regime tecn...",
-      "date": "2026-08-05T16:04:24.0000000Z"
-    },
-    {
-      "id": "cryptonomist:d35762b0dc8b",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Rischi quantistici per blockchain: quali reti sono davvero a rischio?",
-      "url": "https://cryptonomist.ch/2026/08/05/rischi-quantistici-per-blockchain/",
-      "image": null,
-      "summary": "Dire che i computer quantistici manderanno in frantumi tutte le blockchain è una semplificazione che rischia di confondere più che informare. La realtà, descritta in un’analisi tecnica diffusa da StarkWare, è più chir...",
-      "date": "2026-08-05T16:02:20.0000000Z"
     }
   ]
 }
