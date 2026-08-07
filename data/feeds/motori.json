@@ -1,7 +1,67 @@
 {
   "category": "motori",
-  "updated": "2026-08-07T09:40:51.0228838Z",
+  "updated": "2026-08-07T12:03:33.1725716Z",
   "items": [
+    {
+      "id": "hdmotori:4aad3dd86497",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Sinner, a Monte Carlo la sua Ferrari non è passata inosservata",
+      "url": "https://www.hdmotori.it/sinner-monte-carlo-ferrari/",
+      "image": null,
+      "summary": "Jannik Sinner è stato pizzicato nel Principato di Monaco accanto alla sua nuova Ferrari da mezzo milione di euro. The post Sinner, a Monte Carlo la sua Ferrari non è passata inosservata appeared first on HDmotori.it .",
+      "date": "2026-08-07T12:00:31.0000000Z"
+    },
+    {
+      "id": "motor1:468af67fd0a7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "È arrivato il momento di far pagare il bollo anche alle auto elettriche?",
+      "url": "https://it.motor1.com/news/802988/bollo-auto-elettriche-idea-europa/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4R0k/s3/bollo-auto-elettrica-italia-proposta.jpg",
+      "summary": "E non solo: parcheggi, assicurazioni e via dicendo. Il tempo delle agevolazioni è finito?",
+      "date": "2026-08-07T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:8901a815fa5c",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il litio metallico può dare più autonomia alle auto elettriche",
+      "url": "https://insideevs.it/news/804158/batterie-litio-metallico-stress-meccanico/",
+      "image": "https://cdn.motor1.com/images/mgl/Qe70N8/s3/il-litio-metallico-puo-dare-piu-autonomia-alle-auto-elettriche.jpg",
+      "summary": "La tecnologia promette pacchi batteria più piccoli e leggeri, ma serve ancora risolvere il problema dei dendriti e degli stress interni",
+      "date": "2026-08-07T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:fb087ad00a1e",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "New York punta forte sulle auto elettriche: 600 colonnine in più",
+      "url": "https://insideevs.it/news/804146/york-accelera-ricarica-ev-bordo/",
+      "image": "https://cdn.motor1.com/images/mgl/8A3Mzv/s3/le-colonnine-della-rete-plugnyc.jpg",
+      "summary": "La rete pubblica di ricarica passerà da 88 a quasi 700 punti. Le nuove prese saranno installate lungo le strade nei prossimi tre anni",
+      "date": "2026-08-07T10:30:00.0000000Z"
+    },
+    {
+      "id": "motor1:737810336e45",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Gli interni del nuovo SUV Bentley, con i comandi fisici",
+      "url": "https://it.motor1.com/news/804145/bentley-torcal-curation-engine-ambienti/",
+      "image": "https://cdn.motor1.com/images/mgl/6Z8M6r/s3/gli-interni-della-bentley-torcal.jpg",
+      "summary": "Sulla Bentley Torcal il Curation Engine coordina luce, suono, aria e informazioni in quattro modalità pensate per comfort, guida, relax e benessere.",
+      "date": "2026-08-07T10:15:00.0000000Z"
+    },
     {
       "id": "hdmotori:c8a814b3bdac",
       "sourceId": "hdmotori",
@@ -195,18 +255,6 @@
       "date": "2026-08-06T16:00:49.0000000Z"
     },
     {
-      "id": "insideevs:c29b6af5ebb5",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Rivian R2 è un successo: arriva il secondo turno produttivo",
-      "url": "https://insideevs.it/news/804002/rivian-r2-linea-assemblaggio/",
-      "image": "https://cdn.motor1.com/images/mgl/3WEpNx/s3/rivian-r2-factory-assembly.jpg",
-      "summary": "Il SUV elettrico ha conquistato il mercato USA e spinge l'azienda ad ampliare la capacità produttiva già nel 2026",
-      "date": "2026-08-06T16:00:00.0000000Z"
-    },
-    {
       "id": "motor1:0c3f613e8e37",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -216,6 +264,18 @@
       "url": "https://it.motor1.com/news/803971/laika-ecovip-performance-2026/",
       "image": "https://cdn.motor1.com/images/mgl/rKJ0B9/s3/laika-ecovip-performance-2026.jpg",
       "summary": "Nel Laika EcoVip Performance, dotazioni premium, bagno Vario e comfort di alto livello. I biglietti da visita per un camper \"vip\"",
+      "date": "2026-08-06T16:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:c29b6af5ebb5",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Rivian R2 è un successo: arriva il secondo turno produttivo",
+      "url": "https://insideevs.it/news/804002/rivian-r2-linea-assemblaggio/",
+      "image": "https://cdn.motor1.com/images/mgl/3WEpNx/s3/rivian-r2-factory-assembly.jpg",
+      "summary": "Il SUV elettrico ha conquistato il mercato USA e spinge l'azienda ad ampliare la capacità produttiva già nel 2026",
       "date": "2026-08-06T16:00:00.0000000Z"
     },
     {
@@ -327,30 +387,6 @@
       "date": "2026-08-06T14:30:00.0000000Z"
     },
     {
-      "id": "hdmotori:70b7c1a7ffe2",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "GR86 2027, arriva un ricco aggiornamento: tutte le novità",
-      "url": "https://www.hdmotori.it/gr86-2027-aggiornamento-novita/",
-      "image": null,
-      "summary": "La Casa delle Tre ellissi ha svelato una evoluzione della pepata coupé. Scopriamo le caratteristiche della nuova GR86. The post GR86 2027, arriva un ricco aggiornamento: tutte le novità appeared first on HDmotori.it .",
-      "date": "2026-08-06T14:00:33.0000000Z"
-    },
-    {
-      "id": "motor1:4874f2f810e3",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La distanza di sicurezza non esiste: come evitare il tamponamento",
-      "url": "https://it.motor1.com/features/803963/distanza-sicurezza-codice-strada-italia/",
-      "image": "https://cdn.motor1.com/images/mgl/Kbg91R/s3/distanza-di-sicurezza.jpg",
-      "summary": "Nel Codice della Strada la distanza di sicurezza non è un numero fisso ma uno spazio variabile legato a velocità, fondo stradale e traffico.",
-      "date": "2026-08-06T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:7a5d3f404948",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -373,18 +409,6 @@
       "image": null,
       "summary": "Servono ricariche al Santuario di San Gabriele dell’Addolorata, in Abruzzo. Ecco l’appello alle autorità locali, inviato in copia… L'articolo Servono ricariche al Santuario di San Gabriele proviene da Vaielettrico .",
       "date": "2026-08-06T13:35:24.0000000Z"
-    },
-    {
-      "id": "motor1:b198f7b5229f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa nuova Nissan potrebbe arrivare in Europa",
-      "url": "https://it.motor1.com/news/803999/nissan-nx7-cina-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZwMKM/s3/nissan-nx7-il-modello-per-la-cina.jpg",
-      "summary": "Nissan mostra le prime foto della NX7, SUV sviluppato con Dongfeng per la Cina. Ma potrebbe arrivare pure da noi",
-      "date": "2026-08-06T13:07:29.0000000Z"
     },
     {
       "id": "insideevs:1d8b3885be7e",
@@ -481,30 +505,6 @@
       "image": null,
       "summary": "Drivalia ha ottenuto un finanziamento da 48 milioni di euro dalla Banca Europea per gli Investimenti (BEI) che… L'articolo Drivalia: dalla BEI un prestito per l’acquisto di 2.900 elettriche per la sua flotta proviene ...",
       "date": "2026-08-06T07:17:51.0000000Z"
-    },
-    {
-      "id": "insideevs:4e926f54b505",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il primo camion elettrico con batterie al sodio debutta in miniera",
-      "url": "https://insideevs.it/news/803880/camion-elettrico-sodio-debutto/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4MNE/s3/il-primo-camion-elettrico-con-batterie-al-sodio-debutta-in-miniera.jpg",
-      "summary": "Il nuovo mezzo promette ricarica completa in 25 minuti, oltre 8.000 cicli e migliori prestazioni rispetto al litio",
-      "date": "2026-08-06T07:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:f15827db7bf7",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'Europa vuole battere tutti sulle batterie LFP con l'AI",
-      "url": "https://insideevs.it/news/803831/intelligenza-artificiale-produzione-batterie-lfp-europa/",
-      "image": "https://cdn.motor1.com/images/mgl/G3WvVE/s3/il-centro-bmw-dove-nascono-le-batterie-cilindriche-gen6.jpg",
-      "summary": "Un progetto tedesco usa l'intelligenza artificiale per produrre batterie dalle prestazioni migliori e in modo più efficiente",
-      "date": "2026-08-06T05:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:6d8e153cbf4f",

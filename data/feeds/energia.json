@@ -1,6 +1,6 @@
 {
   "category": "energia",
-  "updated": "2026-08-07T09:40:51.1348099Z",
+  "updated": "2026-08-07T12:03:33.1743633Z",
   "items": [
     {
       "id": "qualenergia:6901aa8a8a32",
@@ -99,6 +99,18 @@
       "date": "2026-08-06T22:25:00.0000000Z"
     },
     {
+      "id": "qualenergia:f2bd1831def2",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Mercati locali flessibilità: le nuove aste e i risultati ottenuti",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/mercati-locali-flessibilita-nuove-aste-risultati-ottenuti/",
+      "image": null,
+      "summary": "Si terrà martedì 25 agosto la nuova asta per il mercato locale a termine della flessibilità (MLT-Flex) gestito dal Gme, facendo seguito alla richiesta di attivazione da parte di Unareti, società del Gruppo A2A che si ...",
+      "date": "2026-08-06T13:45:45.0000000Z"
+    },
+    {
       "id": "qualenergia:3a0ad028a1f2",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Nessuno stop generalizzato agli incentivi per stufe, caminetti, termocamini e caldaie a biomassa legnosa. Il quadro normativo introdotto dal D.Lgs. 9 gennaio 2026, n. 5, che recepisce la Direttiva RED III, modifica e ...",
       "date": "2026-08-06T09:45:23.0000000Z"
-    },
-    {
-      "id": "qualenergia:ffa79dd69aea",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Nel Piano ripristino natura le compensazioni ecologiche per le rinnovabili",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/piano-ripristino-natura-compensazioni-ecologiche-tinnovabili/",
-      "image": null,
-      "summary": "La bozza di Piano nazionale sul ripristino della natura (Pnr) introduce misure compensative all’installazione di rinnovabili che sono state criticate da Anci, l’Associazione Nazionale Comuni Italiani (bozza disponibil...",
-      "date": "2026-08-06T08:30:28.0000000Z"
     }
   ]
 }
