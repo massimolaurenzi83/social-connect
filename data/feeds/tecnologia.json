@@ -1,7 +1,19 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-07T20:10:48.4673410Z",
+  "updated": "2026-08-07T22:11:16.5148089Z",
   "items": [
+    {
+      "id": "tomshw:646587f6581b",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Corsair Commander Core XT gestisce 6 ventole e 264 LED, ora al 49% in meno",
+      "url": "https://www.tomshw.it/offerte/corsair-commander-core-xt-gestisce-6-ventole-e-264-led-ora-al-49-in-meno",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106402/tomshw-offer-670836.png",
+      "summary": "Corsair iCUE Commander Core XT costa 34,90€ su Amazon, anziché 68,90€, con uno sconto del 49%. Riunisce in un unico controller la gestione di sei ventole PWM, dell’illuminazione RGB e della temperatur...",
+      "date": "2026-08-07T20:03:24.0000000Z"
+    },
     {
       "id": "tomshw:5ccca639e094",
       "sourceId": "tomshw",
@@ -280,15 +292,15 @@
       "date": "2026-08-07T13:17:00.0000000Z"
     },
     {
-      "id": "tomshw:30aad39ca541",
+      "id": "tomshw:aad47a430e7d",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Claude Code è il più caro e il migliore, ma ne vale la pena?",
-      "url": "https://www.tomshw.it/business/claude-code-e-il-piu-caro-e-il-migliore-ma-ne-vale-la-pena",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106308/02-claude-code-cover.jpg",
-      "summary": "Composio ha messo alla prova quattro strutture per agenti AI, Claude Code, Codex, OpenCode e Oh My Pi, facendo eseguire a tutti lo stesso modello su 30 compiti reali: gestire email su Gmail, aprire pu...",
+      "title": "AMD verso chip AI 48 volte più veloci di NVIDIA",
+      "url": "https://www.tomshw.it/business/amd-verso-chip-ai-48-volte-piu-veloci-di-nvidia",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106311/06-amd-taalas-cover.jpg",
+      "summary": "AMD ha acquisito Taalas, startup canadese fondata nel 2023 e con sede a Toronto, che incide i pesi del modello direttamente nel silicio, invece di caricarli ogni volta in memoria HBM come fanno le GPU...",
       "date": "2026-08-07T13:05:06.0000000Z"
     },
     {
@@ -301,18 +313,6 @@
       "url": "https://www.tomshw.it/business/prevedere-un-ciclone-senza-sapere-come-questa-ia-open-source-e-disponibile-per-tutti",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/106310/05-weathernext-cover.jpg",
       "summary": "Google DeepMind ha pubblicato su Nature i risultati di WeatherNext, il modello che prevede traiettoria, intensità e struttura dei venti di un ciclone tropicale con un giorno di anticipo in più rispett...",
-      "date": "2026-08-07T13:05:06.0000000Z"
-    },
-    {
-      "id": "tomshw:aad47a430e7d",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "AMD verso chip AI 48 volte più veloci di NVIDIA",
-      "url": "https://www.tomshw.it/business/amd-verso-chip-ai-48-volte-piu-veloci-di-nvidia",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106311/06-amd-taalas-cover.jpg",
-      "summary": "AMD ha acquisito Taalas, startup canadese fondata nel 2023 e con sede a Toronto, che incide i pesi del modello direttamente nel silicio, invece di caricarli ogni volta in memoria HBM come fanno le GPU...",
       "date": "2026-08-07T13:05:06.0000000Z"
     },
     {
