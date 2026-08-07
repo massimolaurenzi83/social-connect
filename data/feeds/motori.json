@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-07T01:45:09.5398070Z",
+  "updated": "2026-08-07T06:02:22.8113288Z",
   "items": [
+    {
+      "id": "insideevs:f07867360d95",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'AI passa dalla fabbrica al laboratorio delle batterie elettriche",
+      "url": "https://insideevs.it/news/803882/lytematch-lyteguide-ai-elettroliti-sviluppo/",
+      "image": "https://cdn.motor1.com/images/mgl/qkY9kL/s3/l-ai-passa-dalla-fabbrica-al-laboratorio-delle-batterie-elettriche.jpg",
+      "summary": "Dopo i progetti per la produzione, arrivano software che accelerano anche la ricerca su elettroliti e materiali per le celle",
+      "date": "2026-08-07T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:0266d813daf4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché le auto moderne restano più fresche anche sotto il sole",
+      "url": "https://it.motor1.com/news/803550/design-auto-anti-calore/",
+      "image": "https://cdn.motor1.com/images/mgl/pbJqLW/s3/quando-il-design-prova-a-battere-il-caldo.jpg",
+      "summary": "Non basta il climatizzatore: vi racconto come forme, colori e materiali aiutano le auto moderne a restare più vivibili sotto il sole",
+      "date": "2026-08-07T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:1ba56febfd86",
       "sourceId": "vaielettrico",
@@ -195,18 +219,6 @@
       "date": "2026-08-06T14:00:33.0000000Z"
     },
     {
-      "id": "motor1:4874f2f810e3",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La distanza di sicurezza non esiste: come evitare il tamponamento",
-      "url": "https://it.motor1.com/features/803963/distanza-sicurezza-codice-strada-italia/",
-      "image": "https://cdn.motor1.com/images/mgl/Kbg91R/s3/distanza-di-sicurezza.jpg",
-      "summary": "Nel Codice della Strada la distanza di sicurezza non è un numero fisso ma uno spazio variabile legato a velocità, fondo stradale e traffico.",
-      "date": "2026-08-06T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:7a5d3f404948",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -216,6 +228,18 @@
       "url": "https://insideevs.it/news/804041/caldo-estremo-nucleare-europeo-va/",
       "image": "https://cdn.motor1.com/images/mgl/9m8Mpm/s3/il-danubio-ai-minimi-mette-in-ginocchio-il-nucleare-europeo-3.jpg",
       "summary": "Ondate di calore e siccità riducono la produzione delle centrali sul Danubio, stressando la rete elettrica europea",
+      "date": "2026-08-06T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:4874f2f810e3",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La distanza di sicurezza non esiste: come evitare il tamponamento",
+      "url": "https://it.motor1.com/features/803963/distanza-sicurezza-codice-strada-italia/",
+      "image": "https://cdn.motor1.com/images/mgl/Kbg91R/s3/distanza-di-sicurezza.jpg",
+      "summary": "Nel Codice della Strada la distanza di sicurezza non è un numero fisso ma uno spazio variabile legato a velocità, fondo stradale e traffico.",
       "date": "2026-08-06T14:00:00.0000000Z"
     },
     {
@@ -315,18 +339,6 @@
       "date": "2026-08-06T11:00:55.0000000Z"
     },
     {
-      "id": "motor1:3676d828d2f0",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova BMW Serie 1 avrà la trazione posteriore e sarà così",
-      "url": "https://it.motor1.com/news/802151/bmw-serie-1-2028-render/",
-      "image": "https://cdn.motor1.com/images/mgl/pbJvzo/s3/bmw-serie-1-2028-il-render-di-motor1.com.jpg",
-      "summary": "La nuova generazione dovrebbe debuttare nel 2028. Design ispirato alle Neue Klasse e piattaforma elettrica",
-      "date": "2026-08-06T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:d18e682fd4f2",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -336,6 +348,18 @@
       "url": "https://insideevs.it/news/803981/contatto-aria-materie-prime-catodi/",
       "image": "https://cdn.motor1.com/images/mgl/bgBRvl/s3/tesla-gigafactory-texas-dove-nascono-le-batterie-4680.jpg",
       "summary": "Se le materie prime dei catodi entrano a contatto con l'ossigeno le prestazioni decadono al doppio della velocità",
+      "date": "2026-08-06T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:3676d828d2f0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova BMW Serie 1 avrà la trazione posteriore e sarà così",
+      "url": "https://it.motor1.com/news/802151/bmw-serie-1-2028-render/",
+      "image": "https://cdn.motor1.com/images/mgl/pbJvzo/s3/bmw-serie-1-2028-il-render-di-motor1.com.jpg",
+      "summary": "La nuova generazione dovrebbe debuttare nel 2028. Design ispirato alle Neue Klasse e piattaforma elettrica",
       "date": "2026-08-06T11:00:00.0000000Z"
     },
     {
@@ -372,18 +396,6 @@
       "url": "https://insideevs.it/news/803982/grafite-maxi-acquisizione-novita/",
       "image": "https://cdn.motor1.com/images/mgl/Znz3yz/s3/la-guerra-delle-batterie-passa-anche-dalle-miniere-di-grafite.jpg",
       "summary": "Global Battery Materials compra Lomiko Metals e mette le mani su uno dei principali progetti dedicati alla grafite per batterie",
-      "date": "2026-08-06T09:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:9aa425ec9643",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Ram Rumble Bee sale a 900 CV con un kit speciale (in garanzia)",
-      "url": "https://it.motor1.com/news/803967/ram-rumble-bee-direct-connection/",
-      "image": "https://cdn.motor1.com/images/mgl/Kbg9nQ/s3/2027-ram-1500-rumble-bee-392-with-direct-connection-parts.jpg",
-      "summary": "Grazie al kit Direct Connection aumenta la potenza complessiva e arrivano nuovi scarichi e un assetto ribassato",
       "date": "2026-08-06T09:30:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/jl0Vyg/s3/hyundai-ioniq-6-n.jpg",
       "summary": "Arriva in concessionaria la Ioniq 6 N con cambio simulato, 0-100 km/h in 3,2 secondi e tanto altro. Ecco i prezzi",
       "date": "2026-08-05T13:30:00.0000000Z"
-    },
-    {
-      "id": "insideevs:9b73bf2fb629",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il nuovo camper elettrico Nissan ha 657 km di autonomia",
-      "url": "https://insideevs.it/news/803816/nissan-interstar-e-relax-camper-informazioni-autonomia/",
-      "image": "https://cdn.motor1.com/images/mgl/6Z87wZ/s3/nissan-interstar-e-relax.jpg",
-      "summary": "Ospita quattro persone, ha cucina, frigorifero e vuole offrire tanto Relax",
-      "date": "2026-08-05T12:30:00.0000000Z"
     }
   ]
 }
