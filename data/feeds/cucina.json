@@ -1,7 +1,19 @@
 {
   "category": "cucina",
-  "updated": "2026-08-07T15:14:54.7509636Z",
+  "updated": "2026-08-07T18:07:17.6414963Z",
   "items": [
+    {
+      "id": "giallozafferano:8d8b43f05082",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Carpaccio di melone",
+      "url": "https://ricette.giallozafferano.it/Carpaccio-di-melone.html",
+      "image": "https://www.giallozafferano.it/images/365-36542/Carpaccio-di-melone_1200x800.jpg",
+      "summary": "Il carpaccio di melone è un antipasto estivo fresco, leggero e originale: una ricetta semplice da preparare ma capace di sorprendere per il suo gusto equilibrato. Protagonista è il melone cantalupo, dolce e succoso, t...",
+      "date": "2026-08-07T14:22:00.0000000Z"
+    },
     {
       "id": "dissapore:1928d1fd0449",
       "sourceId": "dissapore",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/365-36505/Pasta-ceci-e-zucchine_1200x800.jpg",
       "summary": "La pasta ceci e zucchine è una variante di stagione della classica pasta e ceci, arricchita con verdure fresche e un tocco gourmet! Le zucchine incontrano i legumi in un primo piatto leggero e nutriente , che si prepa...",
       "date": "2026-07-31T09:32:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:85b0dc1bbdfa",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Insalata eoliana",
-      "url": "https://ricette.giallozafferano.it/Insalata-eoliana.html",
-      "image": "https://www.giallozafferano.it/images/365-36506/Insalata-eoliana_1200x800.jpg",
-      "summary": "L' insalata eoliana racchiude in un unico piatto i profumi e i sapori autentici delle Isole Eolie, l'arcipelago siciliano patrimonio UNESCO che affascina per i suoi paesaggi vulcanici e la sua straordinaria tradizione...",
-      "date": "2026-07-31T09:28:00.0000000Z"
     }
   ]
 }
