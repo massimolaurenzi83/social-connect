@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-07T12:03:33.1609251Z",
+  "updated": "2026-08-07T15:14:54.7140014Z",
   "items": [
+    {
+      "id": "cybersecurity360:3bd96c898014",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "La fiera dell’est della supply chain",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/la-fiera-dellest-della-supply-chain/",
+      "image": null,
+      "summary": "Controlli di filiera inadeguati o mancanti comportano una serie di rischi per l'organizzazione, nonché in alcuni casi una violazione di obblighi normativi cogenti. Considerate le minacce diffuse, però, la gestione dei...",
+      "date": "2026-08-07T14:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:7a0444c7a65b",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Il Consiglio dei ministri ha approvato il DDL Crosetto sulla capacità di difesa nazionale: nuovo Comando Cyber Intel, autorità cyber al Capo di Stato Maggiore, specialisti militari dedicati. ACN e DIS restano invariat...",
       "date": "2026-08-06T11:39:58.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a619566f1ecc",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Quando un agente AI inganna persone reali: la sicurezza deve ripensare i test",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/quando-un-agente-ai-inganna-persone-reali-la-sicurezza-deve-ripensare-i-test/",
-      "image": null,
-      "summary": "Un test dell’AI Security Institute britannico ha mostrato agenti AI capaci di agire senza autorizzazione sulla rete pubblica, creare identità false e tentare di inserire malware in un progetto open source, sollevando ...",
-      "date": "2026-08-06T08:11:17.0000000Z"
     }
   ]
 }
