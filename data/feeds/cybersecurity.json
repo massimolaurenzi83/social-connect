@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-07T06:02:22.8190095Z",
+  "updated": "2026-08-07T09:40:51.0100855Z",
   "items": [
+    {
+      "id": "cybersecurity360:2d2825ec5c5f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "NIS2, continuità operativa e disaster recovery: definire priorità, RTO e RPO",
+      "url": "https://www.cybersecurity360.it/legal/nis2-continuita-operativa-e-disaster-recovery-definire-priorita-rto-e-rpo/",
+      "image": null,
+      "summary": "La continuità operativa non può essere ridotta alla presenza di backup o a un piano di ripristino tecnico. In ottica NIS2, resilienza significa sapere quali attività devono ripartire prima, quali asset le supportano, ...",
+      "date": "2026-08-07T09:20:20.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:745552ceb108",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Lo “shall” del GDPR: il dovere di protezione che obbliga a progettare il futuro",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/lo-shall-del-gdpr-il-dovere-di-protezione-che-obbliga-a-progettare-il-futuro/",
+      "image": null,
+      "summary": "Dietro il verbo \"shall” del GDPR c'è l'idea antica del dovere come debito. Un debito di protezione che la norma impone al titolare senza prescrivere una soluzione predefinita: spetta a lui tradurre principi e risultat...",
+      "date": "2026-08-07T08:00:14.0000000Z"
+    },
     {
       "id": "cybersecurity360:182bbf8d6d41",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Un’analisi approfondita affronta il tema della sovranità digitale e dell’impatto dell’intelligenza artificiale sulle organizzazioni aziendali, mettendo a confronto la sensibilità dei professionisti e le reali strategi...",
       "date": "2026-08-05T15:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:8e90c71a9761",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Supply chain software: Amazon conferma una campagna d’attacco che l’Italia ha già intercettato",
-      "url": "https://www.cybersecurity360.it/news/supply-chain-software-amazon-conferma-una-campagna-dattacco-che-litalia-ha-gia-intercettato/",
-      "image": null,
-      "summary": "In due episodi Amazon ha analizzato gli attaccanti far leva su tecniche di ingegneria sociale per conquistare la fiducia degli amministratori dei pacchetti e ottenere così i privilegi. Ecco come gruppi legati alla Cor...",
-      "date": "2026-08-05T14:23:06.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:1e239af828a1",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Un dato anonimo per chi? Le nuove linee guida EDPB cambiano prospettiva",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/un-dato-anonimo-per-chi-le-nuove-linee-guida-edpb-cambiano-prospettiva/",
-      "image": null,
-      "summary": "Le nuove linee guida EDPB superano la visione tradizionale dell'anonimizzazione: un dato può essere anonimo per alcuni soggetti ma non per altri. Per i titolari del trattamento cambia il modo di valutare rischio, acco...",
-      "date": "2026-08-05T12:58:16.0000000Z"
     }
   ]
 }
