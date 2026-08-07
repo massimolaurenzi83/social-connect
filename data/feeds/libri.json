@@ -1,7 +1,31 @@
 {
   "category": "libri",
-  "updated": "2026-08-06T08:04:30.7495153Z",
+  "updated": "2026-08-07T01:45:09.4973374Z",
   "items": [
+    {
+      "id": "illibraio:cdfa030f5a4a",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "Perché “L’ultima estate in città” è un libro indimenticabile",
+      "url": "https://www.illibraio.it/news/dautore/lultima-estate-in-citta-1503240/",
+      "image": null,
+      "summary": "Ilaria Gaspari racconta un libro di culto, \"L’ultima estate in città\" di Gianfranco Calligarich. Un esordio del 1973, dalla lunga storia editoriale, ambientato tra Roma, il suo litorale e Milano. \"Un romanzo che somig...",
+      "date": "2026-08-06T01:44:34.0000000Z"
+    },
+    {
+      "id": "illibraio:c8e3d2d226e2",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "L’uomo, l’automazione, il Cheddar: dentro l’universo di Wallace e Gromit",
+      "url": "https://www.illibraio.it/news/dautore/wallace-e-gromit-1498203/",
+      "image": null,
+      "summary": "Non bisogna fare l’errore di considerarli solo film per bambini, limitandosi alla superficie comica: Wallace & Gromit, nati dalla fantasia del premiatissimo Nick Park, sono suna delle coppie più riuscite e longeve nel...",
+      "date": "2026-08-06T00:51:11.0000000Z"
+    },
     {
       "id": "illibraio:f19e3f59b8ba",
       "sourceId": "illibraio",
@@ -85,30 +109,6 @@
       "image": null,
       "summary": "Due giorni dedicati al romance in un villaggio a pochi minuti da Venezia, tra incontri, firmacopie, talk ed emozioni da condividere. A settembre arriva il primo \"Romance Village\" d’Italia - I particolari e le autrici ...",
       "date": "2026-08-04T00:42:21.0000000Z"
-    },
-    {
-      "id": "illibraio:c5c80c1c2d5b",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Questo piccolo grande dolore: libri per quando finisce un amore",
-      "url": "https://www.illibraio.it/news/narrativa/libri-fine-di-un-amore-1497772/",
-      "image": null,
-      "summary": "La fine di un amore è un'esperienza che non si riesce mai del tutto ad anticipare, o comunque ad affrontare senza che il mondo perda per qualche tempo i suoi colori. Per attraversare in maniera meno solitaria le varie...",
-      "date": "2026-08-03T01:16:00.0000000Z"
-    },
-    {
-      "id": "illibraio:d01359d5ab53",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Rileggere “Acciaio” di Silvia Avallone oltre 15 anni dopo: è davvero cambiato qualcosa?",
-      "url": "https://www.illibraio.it/news/dautore/acciaio-silvia-avallone-1499797/",
-      "image": null,
-      "summary": "Rileggere \"Acciaio\", il longseller di Silvia Avallone, dopo più di 15 anni dalla sua pubblicazione, mette di fronte a interrogativi sempre attuali e ancora irrisolti: le morti sul lavoro, la realtà operaia, i giovani ...",
-      "date": "2026-08-02T01:18:06.0000000Z"
     }
   ]
 }

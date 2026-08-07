@@ -1,7 +1,19 @@
 {
   "category": "aviazione",
-  "updated": "2026-08-05T12:30:14.7346933Z",
+  "updated": "2026-08-07T01:45:09.5152958Z",
   "items": [
+    {
+      "id": "aviationreport:1f90e4b3aa3b",
+      "sourceId": "aviationreport",
+      "source": "Aviation Report",
+      "platform": "rss",
+      "category": "aviazione",
+      "title": "Primo volo dell’NH90 SWR3 con il Software Release 3",
+      "url": "https://www.aviation-report.com/primo-volo-nh90-swr3-con-il-software-release-3/",
+      "image": null,
+      "summary": "NHIndustries (NHI), insieme alla NATO Helicopter Management Agency (NAHEMA), ha annunciato il completamento con successo del primo volo della configurazione NH90 SWR3 Software Release 3, soprannominata anche ‘Block 1’...",
+      "date": "2026-08-05T14:47:10.0000000Z"
+    },
     {
       "id": "aviationreport:933955bafad8",
       "sourceId": "aviationreport",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "La Civil Aviation Authority di Singapore (CAAS) ha assegnato a Thales un importante contratto per sviluppare un nuovo Sistema di Gestione del Traffico Aereo NexGen e i radar di controllo, segnando un passo decisivo ve...",
       "date": "2026-07-30T14:46:05.0000000Z"
-    },
-    {
-      "id": "aviationreport:fce43960cc13",
-      "sourceId": "aviationreport",
-      "source": "Aviation Report",
-      "platform": "rss",
-      "category": "aviazione",
-      "title": "1 nuovo aereo, 40 posti di lavoro e 6 nuove rotte: Wizz Air investe ancora in Italia",
-      "url": "https://www.aviation-report.com/1-nuovo-aereo-40-posti-di-lavoro-e-6-nuove-rotte-wizz-air-investe-ancora-in-italia/",
-      "image": null,
-      "summary": "Wizz Air, seconda compagnia aerea per quota di mercato in Italia, annuncia una nuova fase di sviluppo nel paese con l’apertura di sei nuove rotte da Milano Malpensa, Venezia Marco Polo, Roma Fiumicino e Napoli Capodic...",
-      "date": "2026-07-30T14:26:47.0000000Z"
     }
   ]
 }
