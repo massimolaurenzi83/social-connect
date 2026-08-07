@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-07T22:11:16.5112113Z",
+  "updated": "2026-08-07T23:53:21.2987990Z",
   "items": [
+    {
+      "id": "motor1:b5fc176a59cc",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mazda CX-5 (2026), perché comprarla e perché no",
+      "url": "https://it.motor1.com/reviews/803093/mazda-cx-5-2026-recensione/",
+      "image": "https://cdn.motor1.com/images/mgl/8A3LrP/s3/mazda-cx-5-2026-perche-comprarla-e-perche-no.jpg",
+      "summary": "È comoda, fatta bene, offre tanto spazio e la dotazione tecnologica è di ottimo livello. È ibrida, ma non brilla in prestazioni",
+      "date": "2026-08-07T23:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:6e23042266d1",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Stop alle carrozze trainate da animali, arrivano quelle elettriche",
+      "url": "https://www.vaielettrico.it/stop-alle-carrozze-trainate-da-animali-arrivano-quelle-elettriche/",
+      "image": null,
+      "summary": "A Palermo stop alle carrozze trainate da animali e via alla sostituzione con mezzi di propulsione elettrica. La… L'articolo Stop alle carrozze trainate da animali, arrivano quelle elettriche proviene da Vaielettrico .",
+      "date": "2026-08-07T22:21:57.0000000Z"
+    },
     {
       "id": "vaielettrico:e4db7966aa8b",
       "sourceId": "vaielettrico",
@@ -351,18 +375,6 @@
       "date": "2026-08-07T09:00:00.0000000Z"
     },
     {
-      "id": "motor1:212e934eb04e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La verniciatura di questa Porsche ha richiesto 300 ore di lavoro",
-      "url": "https://it.motor1.com/news/804119/porsche-911-turbo-s-australia-one-off/",
-      "image": "https://cdn.motor1.com/images/mgl/qkY9y1/s3/porsche-911-turbo-s-one-off-australia.jpg",
-      "summary": "La 911 Turbo S \"Land Down Under\" Edition è una one-off per festeggiare i 75 anni di Porsche in Australia. Ed è spettacolare",
-      "date": "2026-08-07T08:30:00.0000000Z"
-    },
-    {
       "id": "insideevs:bc5187ca7bdd",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -505,18 +517,6 @@
       "image": null,
       "summary": "Mentre in Italia l’elettrico latita, in Danimarca vola. A luglio le auto a batteria hanno rappresentato l’80,2% delle… L'articolo La Danimarca tallona la Norvegia: a luglio il 97% dei privati ha scelto l’elettrico pro...",
       "date": "2026-08-06T08:28:16.0000000Z"
-    },
-    {
-      "id": "vaielettrico:4842388594b4",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Deloitte: l’Europa perde miliardi per la dipendenza dalle batterie cinesi",
-      "url": "https://www.vaielettrico.it/deloitte-leuropa-perde-miliardi-per-la-dipendenza-dalle-batterie-cinesi/",
-      "image": null,
-      "summary": "La corsa europea alle batterie per auto elettriche continua a scontrarsi con la supremazia asiatica. Secondo un nuovo… L'articolo Deloitte: l’Europa perde miliardi per la dipendenza dalle batterie cinesi proviene da V...",
-      "date": "2026-08-06T08:21:11.0000000Z"
     },
     {
       "id": "motor1:e8e0a7de4fbb",
