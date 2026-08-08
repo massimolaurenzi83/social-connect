@@ -1,17 +1,89 @@
 {
   "category": "notizie",
-  "updated": "2026-08-08T04:18:54.7193105Z",
+  "updated": "2026-08-08T06:27:11.0994563Z",
   "items": [
     {
-      "id": "repubblica:58a426e5ffbd",
+      "id": "open:f856338af36b",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Malore in vacanza a Riccione: Patrizia Reggiani ricoverata in terapia intensiva",
+      "url": "https://www.open.online/2026/08/08/malore-riccione-patrizia-reggiani-ricoverata-terapia-intensiva/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/patrizia-reggiani.jpg",
+      "summary": "Si sarebbe sentita male mentre si trovava sulla terrazza della sua stanza in un hotel 4 stelle della riviera. A far scattare i soccorsi la sua assistente L'articolo Malore in vacanza a Riccione: Patrizia Reggiani rico...",
+      "date": "2026-08-08T06:21:24.0000000Z"
+    },
+    {
+      "id": "open:b09483eac11e",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Crans-Montana, alcuni fratelli delle vittime esclusi dal processo. E per i Moretti si rischia una videochiamata al posto dell’obbligo di firma",
+      "url": "https://www.open.online/2026/08/08/crans-montana-fratelli-vittime-esclusi-processo-moretti-videochiamata-obbligo-firma/",
+      "image": "https://static.open.online/wp-content/uploads/2026/04/jacques-jessica-moretti-italia-parte-civile-processo-crans-montana.jpg",
+      "summary": "Il caso di Camilla, sorella di Chiara Costanzo, sedicenne morta nel rogo. Il padre delle due ragazze: «Hanno trattato i nostri figli in maniera diversa, facendoli sentire di serie B» L'articolo Crans-Montana, alcuni f...",
+      "date": "2026-08-08T06:06:04.0000000Z"
+    },
+    {
+      "id": "open:e5166f6dcabd",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "I comuni incassano milioni tra multe e autovelox, ma pochi, con quei soldi, rinnovano strade e segnaletica",
+      "url": "https://www.open.online/2026/08/08/comuni-multe-autovelox-investimento-strade-segnaletica/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/multe-autovelox.jpg",
+      "summary": "Il focus di Libero, che cita il caso romano sollevato da Il Post: davanti a oltre 152 milioni di euro incassati, si arriva al 36,71% dei lavori programmati L'articolo I comuni incassano milioni tra multe e autovelox, ...",
+      "date": "2026-08-08T05:31:37.0000000Z"
+    },
+    {
+      "id": "open:c2d5b69a940f",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Impiantano l’embrione alla donna sbagliata: stop alla Pma al San Raffaele di Milano",
+      "url": "https://www.open.online/2026/08/08/impianto-embrione-sbagliato-donna-pma-san-raffaele-stop/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/san-raffaele-milano-pma.jpg",
+      "summary": "L'errore che parte dalla sequenza delle pazienti, la discordanza non rilevata in sala operatoria e infine il check ulteriore di una delle biologhe che svela il pasticcio. Cosa è andato storto nella struttura d'eccelle...",
+      "date": "2026-08-08T05:30:51.0000000Z"
+    },
+    {
+      "id": "ansa:4481c527ba19",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Raid russi su Kiev, tre morti tra cui un bambino vicino alla capitale",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/08/raid-russi-su-kiev-tre-morti-tra-cui-un-bambino-vicino-alla_48161d1d-b93c-48fd-9541-a10adc6ded1e.html",
+      "image": null,
+      "summary": "Due ondate di attacchi, esplosioni avvertite anche a Dnipro",
+      "date": "2026-08-08T05:21:10.0000000Z"
+    },
+    {
+      "id": "open:78997bd41c68",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Crisi di Ceuta, è scontro aperto con la Spagna. Passa la linea della premier Meloni: a muso duro con Sanchez. Ma si temono le ritorsioni",
+      "url": "https://www.open.online/2026/08/08/crisi-ceuta-italia-spagna-meloni-sanchez-controlli-schengen-aggiornamenti/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/meloni-spagna-ceuta-sanchez.jpg",
+      "summary": "Secondo Repubblica Tajani voleva mediare con Madrid, Salvini e Piantedosi no. I timori nell'esecutivo: e se i controlli alla frontiera valgono per tutti gli italiani? L'articolo Crisi di Ceuta, è scontro aperto con la...",
+      "date": "2026-08-08T05:02:09.0000000Z"
+    },
+    {
+      "id": "repubblica:d9edca10be3c",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "L’estate di Jovanotti: “Tra queste tragedie c’è bisogno di festa”",
-      "url": "https://www.repubblica.it/spettacoli/musica/2026/08/08/news/l_estate_di_jovanotti_tra_queste_tragedie_c_e_bisogno_di_festa-425518351/",
+      "title": "Vince Tempera: “Il mio primo incontro con Francesco Guccini in una stalla. Ci chiamava Coniglietti”",
+      "url": "https://www.repubblica.it/spettacoli/musica/2026/08/08/news/vince_tempera_i_miei_sessant_anni_con_francesco_un_epoca_e_finita_ma_i_giovani_lo_amano-425518300/",
       "image": null,
-      "summary": "Ospiti d’eccezione e i classici in scaletta per la prima tappa del “Jova Summer Party”, il tour estivo dell’artista: “Polemiche sulle location? Aspetto il toto indignati”",
+      "summary": "Dal primo incontro nel 1968 tra maiali e galline con i Nomadi alla folla del concerto in Piazza Maggiore a Bologna, fino all’ultima telefonata: “Siamo stati amici leali!”",
       "date": "2026-08-08T03:00:00.0000000Z"
     },
     {
@@ -27,18 +99,6 @@
       "date": "2026-08-08T03:00:00.0000000Z"
     },
     {
-      "id": "repubblica:d9edca10be3c",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Vince Tempera: “Il mio primo incontro con Francesco Guccini in una stalla. Ci chiamava Coniglietti”",
-      "url": "https://www.repubblica.it/spettacoli/musica/2026/08/08/news/vince_tempera_i_miei_sessant_anni_con_francesco_un_epoca_e_finita_ma_i_giovani_lo_amano-425518300/",
-      "image": null,
-      "summary": "Dal primo incontro nel 1968 tra maiali e galline con i Nomadi alla folla del concerto in Piazza Maggiore a Bologna, fino all’ultima telefonata: “Siamo stati amici leali!”",
-      "date": "2026-08-08T03:00:00.0000000Z"
-    },
-    {
       "id": "repubblica:86d947c3c477",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -48,6 +108,18 @@
       "url": "https://www.repubblica.it/spettacoli/musica/2026/08/08/news/francesco_guccini_ragazzi_canzoni_generazioni-425518199/",
       "image": null,
       "summary": "Il ventenne non legge nei versi di Guccini l’album dei ricordi dei padri: modella i propri, impara a nominarli. Scrive il suo romanzo di formazione mentre lo vive",
+      "date": "2026-08-08T03:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:58a426e5ffbd",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "L’estate di Jovanotti: “Tra queste tragedie c’è bisogno di festa”",
+      "url": "https://www.repubblica.it/spettacoli/musica/2026/08/08/news/l_estate_di_jovanotti_tra_queste_tragedie_c_e_bisogno_di_festa-425518351/",
+      "image": null,
+      "summary": "Ospiti d’eccezione e i classici in scaletta per la prima tappa del “Jova Summer Party”, il tour estivo dell’artista: “Polemiche sulle location? Aspetto il toto indignati”",
       "date": "2026-08-08T03:00:00.0000000Z"
     },
     {
@@ -75,30 +147,6 @@
       "date": "2026-08-07T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:1681ab795460",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Tutti i dubbi di Bruxelles sui controlli italiani: “Non sono giustificati”",
-      "url": "https://www.repubblica.it/esteri/2026/08/08/news/dubbi_bruxelles_ue_su_controlli_italiani_schengen_spagna_non_giustificati-425518210/",
-      "image": null,
-      "summary": "La Ue esamina il ripristino delle frontiere deciso da Roma: in via informale ha fatto sapere che è eccessivo rispetto alla crisi di Ceuta",
-      "date": "2026-08-07T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:5592beaeeccf",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Spagna, la ministra Rego: “La vostra premier calpesta le regole per compiacere Trump”",
-      "url": "https://www.repubblica.it/esteri/2026/08/08/news/spagna_ministra_infanzia_rego_meloni_ridicola_vuole_riavvicinarsi_a_trump_non_puo_calpestare_regole-425518134/",
-      "image": null,
-      "summary": "La guida del dicastero della Gioventù e dell’Infanzia: “L’estrema destra internazionale è perfettamente coordinata, utilizza ogni crisi per erodere i diritti”",
-      "date": "2026-08-07T23:00:00.0000000Z"
-    },
-    {
       "id": "repubblica:07cfcdb4398a",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -111,15 +159,15 @@
       "date": "2026-08-07T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:51cd32b2d993",
+      "id": "repubblica:f6540eba719f",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Il Serenissimo Contin ai servizi sociali: “Indipendenza veneta tradita dalla Lega, serve un leader”",
-      "url": "https://www.repubblica.it/cronaca/2026/08/08/news/flavio_contin_serenissimo_condanna_intervista-425517969/",
+      "title": "“Bonvi e Francesco, uno scherzo continuo: nulla è sicuro di quel che raccontavano”",
+      "url": "https://bologna.repubblica.it/cronaca/2026/08/08/news/bonvi_guccini_amicizia_sofia_bonvicini-425518364/",
       "image": null,
-      "summary": "Flavio Contin, condannato all’età di 83 anni, per aver assaltato il campanile di San Marco nel 1997: “Sono l’ultimo dei rivoluzionari di San Marco, pacifista e indipendentista”",
+      "summary": "Sofia Bonvicini, figlia del fumettista morto nel 1995, racconta il legame nato da ragazzini e la passione per i mondi immaginari",
       "date": "2026-08-07T23:00:00.0000000Z"
     },
     {
@@ -135,15 +183,39 @@
       "date": "2026-08-07T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:f6540eba719f",
+      "id": "repubblica:51cd32b2d993",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "“Bonvi e Francesco, uno scherzo continuo: nulla è sicuro di quel che raccontavano”",
-      "url": "https://bologna.repubblica.it/cronaca/2026/08/08/news/bonvi_guccini_amicizia_sofia_bonvicini-425518364/",
+      "title": "Il Serenissimo Contin ai servizi sociali: “Indipendenza veneta tradita dalla Lega, serve un leader”",
+      "url": "https://www.repubblica.it/cronaca/2026/08/08/news/flavio_contin_serenissimo_condanna_intervista-425517969/",
       "image": null,
-      "summary": "Sofia Bonvicini, figlia del fumettista morto nel 1995, racconta il legame nato da ragazzini e la passione per i mondi immaginari",
+      "summary": "Flavio Contin, condannato all’età di 83 anni, per aver assaltato il campanile di San Marco nel 1997: “Sono l’ultimo dei rivoluzionari di San Marco, pacifista e indipendentista”",
+      "date": "2026-08-07T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:5592beaeeccf",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Spagna, la ministra Rego: “La vostra premier calpesta le regole per compiacere Trump”",
+      "url": "https://www.repubblica.it/esteri/2026/08/08/news/spagna_ministra_infanzia_rego_meloni_ridicola_vuole_riavvicinarsi_a_trump_non_puo_calpestare_regole-425518134/",
+      "image": null,
+      "summary": "La guida del dicastero della Gioventù e dell’Infanzia: “L’estrema destra internazionale è perfettamente coordinata, utilizza ogni crisi per erodere i diritti”",
+      "date": "2026-08-07T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:1681ab795460",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Tutti i dubbi di Bruxelles sui controlli italiani: “Non sono giustificati”",
+      "url": "https://www.repubblica.it/esteri/2026/08/08/news/dubbi_bruxelles_ue_su_controlli_italiani_schengen_spagna_non_giustificati-425518210/",
+      "image": null,
+      "summary": "La Ue esamina il ripristino delle frontiere deciso da Roma: in via informale ha fatto sapere che è eccessivo rispetto alla crisi di Ceuta",
       "date": "2026-08-07T23:00:00.0000000Z"
     },
     {
@@ -181,18 +253,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/controllo-frontiere-spagna-italia-come-funziona.jpeg",
       "summary": "Tensione tra Roma e Madrid sui controlli ai valichi aerei e marittimi: cosa cambia davvero per i viaggiatori sia spagnoli che italiani L'articolo Controlli alle frontiere tra Italia e Spagna dopo la crisi migratoria a...",
       "date": "2026-08-07T20:46:02.0000000Z"
-    },
-    {
-      "id": "ansa:2008bc2c42f9",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Zelensky risponde a Trump: 'Ci faremo i missili da soli'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/07/-zelensky-risponde-a-trump-ci-faremo-i-missili-da-soli_545f27b3-629f-4993-b336-60c8f849d3ce.html",
-      "image": null,
-      "summary": "Il tycoon aveva ribadito: 'I Patriot ci servono'. Kiev accelera sul progetto Freya",
-      "date": "2026-08-07T20:24:45.0000000Z"
     },
     {
       "id": "ansa:55f1e2516c5b",
@@ -267,6 +327,18 @@
       "date": "2026-08-07T18:43:02.0000000Z"
     },
     {
+      "id": "ansa:45248cac5b5c",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il governo ricorda Marcinelle, 'non c'è spazio per chi sfrutta i lavoratori'",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/08/07/lue-ricorda-marcinelle-l8-agosto-sara-la-giornata-per-le-vittime-sul-lavoro_5769013a-61df-4679-ad69-48119de1862d.html",
+      "image": null,
+      "summary": "L'evento di Fdi per il 70/o della tragedia, 'orgogliosi che diventi giornata europea'",
+      "date": "2026-08-07T18:32:55.0000000Z"
+    },
+    {
       "id": "open:6a57806d25aa",
       "sourceId": "open",
       "source": "Open",
@@ -277,18 +349,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/nicola-musiani-ucciso-4-giovani-fermati.jpeg",
       "summary": "La svolta delle indagini sul 54enne ucciso nella notte tra il 18 e il 19 luglio a Pinarella di Cervia, sul litorale ravennate. Decisive le immagini delle telecamere di sorveglianza e le testimonianze L'articolo Nicola...",
       "date": "2026-08-07T18:00:09.0000000Z"
-    },
-    {
-      "id": "ansa:289d830f611e",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Cappellari: 'Ho inventato l'attentato, mi scuso con tutti'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/cappellari-mi-sono-inventato-lattentato-mi-scuso-con-tutti_491cc14f-6a44-4ffb-b22b-b8496aed6852.html",
-      "image": null,
-      "summary": "Il cronista veneto sentito due ore consegna al pm una lunga lettera",
-      "date": "2026-08-07T17:29:18.0000000Z"
     },
     {
       "id": "skytg24:7SWSg1nwlPI",
@@ -316,18 +376,6 @@
       "date": "2026-08-07T17:21:26.0000000Z"
     },
     {
-      "id": "open:ea6f0e404987",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Accordo tra Dolomiti Superski e l’Antitrust, previsti rimborsi per gli skipass acquistati: chi ne ha diritto e quando fare domanda",
-      "url": "https://www.open.online/2026/08/07/dolomiti-superski-rimborsi-skipass-antitrust-come-richiederli/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/skipass-rimborsi-sconti.jpeg",
-      "summary": "Chiusa l'indagine sulle regole di concorrenza con un piano da 30 milioni. Chi ha acquistato uno skipass tra il 2022 e il 2025 potrà chiedere un rimborso o un voucher. Ecco come fare L'articolo Accordo tra Dolomiti Sup...",
-      "date": "2026-08-07T17:17:45.0000000Z"
-    },
-    {
       "id": "ansa:1531521698c8",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -350,18 +398,6 @@
       "image": null,
       "summary": "Siglato a Gedda da Erdogan, Bin Salman e Sharif. 'Un attacco a uno Stato come un attacco a tutti': un modello che richiama alla mente l'art. 5 della Nato",
       "date": "2026-08-07T16:55:12.0000000Z"
-    },
-    {
-      "id": "open:5b405e7c796f",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Mai così calda l’acqua del mare, il Mediterraneo tocca i 33 gradi: «Così aumentano i fenomeni atmosferici violenti»",
-      "url": "https://www.open.online/2026/08/07/caldo-record-mar-mediterraneo-temperatura-33-gradi-fenomeni-estremi-autunno/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/mar-mediterraneo-33-gradi.jpeg",
-      "summary": "Il caldo anomalo dei mari potrebbe contribuire, con l’arrivo dell’autunno, a intensificare fenomeni meteorologici estremi, favoriti da un’atmosfera più instabile: «Si tratta di energia accumulate che rischia di esplod...",
-      "date": "2026-08-07T16:36:57.0000000Z"
     },
     {
       "id": "skytg24:8jLAnDPV2wo",
@@ -440,42 +476,6 @@
       "summary": "",
       "videoId": "XXMi7ezwjfc",
       "date": "2026-08-07T16:01:08.0000000Z"
-    },
-    {
-      "id": "open:86dd0d33dc57",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "«Mi sono inventato tutto». La lettera di Cappellari, il giovane cronista del falso attentato: «Sento il dovere di chiedere scusa»",
-      "url": "https://www.open.online/2026/08/07/adriano-cappellari-falso-attentato-enego-lettera-scuse/",
-      "image": "https://static.open.online/wp-content/uploads/2026/07/patriciello-cappellari_ottimizzato.jpg",
-      "summary": "Interrogatorio di due ore per il ventenne accusato di simulazione e truffa. La lettera consegnata alla Pm: «Ho tradito la fiducia di tutti» L'articolo «Mi sono inventato tutto». La lettera di Cappellari, il giovane cr...",
-      "date": "2026-08-07T15:55:04.0000000Z"
-    },
-    {
-      "id": "open:5da9c692256c",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Parla la mamma del 15enne italiano finito in carcere a Malta. «È sempre più abbattuto. Mi ha detto: mamma, la mia vita ormai è finita»",
-      "url": "https://www.open.online/2026/08/07/15enne-italiano-carcere-malta-madre-intervista-condizioni/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/carcere.jpg",
-      "summary": "Il ragazzo è detenuto dal 25 maggio e deve rispondere di nove accuse. La famiglia denuncia le condizioni in cella e racconta lo stato d'animo del 15enne nei giorni precedenti all'arresto L'articolo Parla la mamma del ...",
-      "date": "2026-08-07T15:03:03.0000000Z"
-    },
-    {
-      "id": "open:7e362bb2a05a",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Meloni frena Sanchez: «L’Italia non accetta ultimatum o imposizioni. Non rivediamo nulla»",
-      "url": "https://www.open.online/2026/08/07/meloni-sanchez-schengen-nota-palazzo-chigi-ferragosto/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/meloni-madrid.jpg",
-      "summary": "La dura nota di Palazzo Chigi rilanciata anche sui social contro il governo di Madrid: «Solo quando si avrà la certezza che non vi saranno rischi di sicurezza e di terrorismo per l’Italia, che non vi sia una nuova ond...",
-      "date": "2026-08-07T14:46:05.0000000Z"
     },
     {
       "id": "skytg24:4RpPxuLosIA",
@@ -579,17 +579,16 @@
       "date": "2026-08-06T18:29:28.0000000Z"
     },
     {
-      "id": "breakingitaly:Lpl639Y14dk",
-      "sourceId": "breakingitaly",
-      "source": "Breaking Italy",
-      "platform": "youtube",
+      "id": "ansa:58414ff21453",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
       "category": "notizie",
-      "title": "In Italia la dieta mediterranea non esiste più",
-      "url": "https://www.youtube.com/watch?v=Lpl639Y14dk",
-      "image": "https://i.ytimg.com/vi/Lpl639Y14dk/hqdefault.jpg",
+      "title": "Caridi, 'Occupazione ai massimi, disoccupazione ai minimi storici'",
+      "url": "https://www.ansa.it/native/ansacom/2026/08/06/caridi-occupazione-ai-massimi-disoccupazione-ai-minimi-storici_67d61d3f-faad-40df-9d93-2876976c581f.html",
+      "image": null,
       "summary": "",
-      "videoId": "Lpl639Y14dk",
-      "date": "2026-08-06T16:00:22.0000000Z"
+      "date": "2026-08-06T07:03:00.0000000Z"
     }
   ]
 }

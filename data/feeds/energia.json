@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-08T04:18:54.6908912Z",
+  "updated": "2026-08-08T06:27:11.0705904Z",
   "items": [
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
+      "date": "2026-08-08T05:15:00.0000000Z"
+    },
     {
       "id": "qualenergia:6901aa8a8a32",
       "sourceId": "qualenergia",
@@ -61,18 +73,6 @@
       "image": null,
       "summary": "Aprirà a settembre lo sportello della Regione Emilia-Romagna dedicato al sostegno di progetti di trasferimento tecnologico per portare i risultati della ricerca verso applicazioni industriali, anche in ambito energeti...",
       "date": "2026-08-07T06:55:29.0000000Z"
-    },
-    {
-      "id": "qualenergia:c806b8589e7b",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "INFODATA ENERGIA",
-      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
-      "image": null,
-      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
-      "date": "2026-08-07T05:15:00.0000000Z"
     },
     {
       "id": "qualenergia:5cc1e82b9558",
