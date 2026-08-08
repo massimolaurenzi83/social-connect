@@ -1,7 +1,43 @@
 {
   "category": "arte",
-  "updated": "2026-08-08T06:27:11.1014135Z",
+  "updated": "2026-08-08T08:23:49.9285683Z",
   "items": [
+    {
+      "id": "artribune:6cc3a4de88ed",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "A Parigi gli artisti della Collezione Pinault si confrontano con luce e ombra in una grande mostra",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/08/mostra-clairobscur-bourse-de-commerce-parigi/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/333399-fujiko-nakaya-cloud-07156-2026jpg.webp",
+      "summary": "Visitabile fino al 24 agosto 2026 alla Bourse de Commerce, la mostra “Clair-obscur” fa dialogare luci e ombre. Artisti internazionali di diverse generazioni interpretano questo contrasto sul piano della forma e del si...",
+      "date": "2026-08-08T08:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:6c52d7e01171",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il mobile IKEA più venduto di sempre è una libreria che compare in una casa ogni cinque secondi",
+      "url": "https://www.elledecor.com/it/design/a73278051/il-mobile-ikea-piu-venduto-di-sempre/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/6fdfe5a2-fd6d-41f7-a2b1-5dfad0e198d1.jpeg",
+      "summary": "Dal primo schizzo sul retro di un tovagliolo a 140 milioni di esemplari, BILLY ha trasformato il pacco piatto in una piccola infrastruttura dell’abitare",
+      "date": "2026-08-08T07:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:4a4a8406189f",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "In Abruzzo l’arte contemporanea è ambasciatrice dei diritti umani. Arriva Progetto Genesi",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/08/progetto-genesi-fondazione-malvina-menegaz-castelbasso/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/pascale-marthine-tayoutotem-cristalhr-scaled-e1785833824231.jpg",
+      "summary": "La quarta edizione di “Progetto Genesi” è a Castelbasso, in provincia di Teramo, fino al 31 agosto, con una selezione di opere della collezione, affiancate da nuove acquisizioni internazionali L’articolo \" In Abruzzo ...",
+      "date": "2026-08-08T07:00:00.0000000Z"
+    },
     {
       "id": "elledecor:647016675be2",
       "sourceId": "elledecor",
@@ -135,18 +171,6 @@
       "date": "2026-08-07T12:00:00.0000000Z"
     },
     {
-      "id": "elledecor:859209f92d26",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Addio a Carlo Borlenghi, il fotografo che ci ha insegnato a guardare (e amare) la vela",
-      "url": "https://www.elledecor.com/it/people/a73367963/carlo-borlenghi-morto/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/0888efec-263e-42b0-961f-6226d9d9be35.jpg",
-      "summary": "Per oltre quarant'anni ha raccontato il mare con immagini diventate iconiche, seguendo America's Cup, Whitbread, Volvo Ocean Race, Luna Rossa e i più grandi navigatori",
-      "date": "2026-08-07T11:00:00.0000000Z"
-    },
-    {
       "id": "artribune:1eeb11be472e",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -156,6 +180,18 @@
       "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/08/cy-twombly-mostra-sperlonga-galerie-karsten-greve-parigi/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/a-tale-of-two-cities-property-from-the-estate-of-howard-karshan-9-cy-twombly-sperlonga-drawing.jpg",
       "summary": "Si tratta di circa trenta lavori risalenti al 1959 che occupano un posto particolare all'interno della produzione del grande Cy Twombly. Saranno in mostra alla Galerie Karsten Greve di Parigi dal 12 settembre 2026 L’a...",
+      "date": "2026-08-07T11:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:859209f92d26",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Addio a Carlo Borlenghi, il fotografo che ci ha insegnato a guardare (e amare) la vela",
+      "url": "https://www.elledecor.com/it/people/a73367963/carlo-borlenghi-morto/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/0888efec-263e-42b0-961f-6226d9d9be35.jpg",
+      "summary": "Per oltre quarant'anni ha raccontato il mare con immagini diventate iconiche, seguendo America's Cup, Whitbread, Volvo Ocean Race, Luna Rossa e i più grandi navigatori",
       "date": "2026-08-07T11:00:00.0000000Z"
     },
     {
@@ -181,30 +217,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/ambrosiana-9-658fc8a737fa9.jpg",
       "summary": "Un regalo (culturale) per tutti i milanesi rimasti in città",
       "date": "2026-08-07T10:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:939dc66d5bab",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Importante mostra a New York sulla scultura in bronzo a Siena durante il Rinascimento. In arrivo alla Frick Collection",
-      "url": "https://www.artribune.com/arti-visive/archeologia-arte-antica/2026/08/frick-collection-new-york-mostra-scultura-bronzo-siena/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/frick-collection-bronzi-di-siena.png",
-      "summary": "Aperta dal 15 ottobre 2026 al 18 gennaio 2027, la mostra riunirà per la prima volta in un unico luogo una quarantina di capolavori rinascimentali L’articolo \" Importante mostra a New York sulla scultura in bronzo a Si...",
-      "date": "2026-08-07T09:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:0a7cc3c37a26",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "A Milano c’è un nuovo curioso museo dove i nostri cinque sensi vengono ingannati",
-      "url": "https://www.artribune.com/turismo/2026/08/museum-of-senses-milano/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/dsc046621.jpg",
-      "summary": "Si chiama Museum of Senses e tra stanze interattive, quiz e soprese ci fa capire come la nostra percezione del mondo possa essere messa in crisi facilmente. E c’è anche un percorso ad hoc per l’estate L’articolo \" A M...",
-      "date": "2026-08-07T08:00:00.0000000Z"
     },
     {
       "id": "elledecor:d311c9c0a94c",
@@ -253,18 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/7bc32377-d55e-49e5-872d-5d4f54c30f27.jpg",
       "summary": "In occasione di Concéntrico, CENTRAL e il fotografo Maxime Delvaux trasformano il sagrato di un luogo di culto in una spiaggia urbana",
       "date": "2026-08-06T18:30:00.0000000Z"
-    },
-    {
-      "id": "elledecor:b8e2b2565567",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "La casa organica di Paolo Portoghesi disegna una spirale da abitare tra le colline romane",
-      "url": "https://www.elledecor.com/it/case/a73270345/casa-organica-paolo-portoghesi-roma/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/c9a2bd31-59a1-40e3-b52f-c5511d715fab.jpg",
-      "summary": "Progettata con Giovanna Massobrio nel 1972, Casa Corrias intreccia curve, percorsi e grandi aperture nel paesaggio del Parco di Veio",
-      "date": "2026-08-06T14:30:00.0000000Z"
     }
   ]
 }

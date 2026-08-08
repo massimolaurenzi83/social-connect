@@ -1,6 +1,6 @@
 {
   "category": "energia",
-  "updated": "2026-08-08T06:27:11.0705904Z",
+  "updated": "2026-08-08T08:23:49.9299421Z",
   "items": [
     {
       "id": "qualenergia:c806b8589e7b",
@@ -13,6 +13,18 @@
       "image": null,
       "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
       "date": "2026-08-08T05:15:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
+      "date": "2026-08-07T22:25:00.0000000Z"
     },
     {
       "id": "qualenergia:6901aa8a8a32",
@@ -85,18 +97,6 @@
       "image": null,
       "summary": "Un gruppo di ricercatori della Tsinghua University ha pubblicato una ricerca in cui si chiede come potrà la Cina rispettare le previsioni di uscita dal carbone con un sistema economico e normativo che continua a favor...",
       "date": "2026-08-07T05:00:02.0000000Z"
-    },
-    {
-      "id": "qualenergia:28c24aba79dc",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "BANDI E APPALTI",
-      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
-      "image": null,
-      "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
-      "date": "2026-08-06T22:25:00.0000000Z"
     },
     {
       "id": "qualenergia:f2bd1831def2",
