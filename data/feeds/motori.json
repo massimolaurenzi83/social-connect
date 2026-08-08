@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-08T10:06:21.4902219Z",
+  "updated": "2026-08-08T11:44:44.4583380Z",
   "items": [
+    {
+      "id": "motor1:1b0ed14eb611",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Letto king size o una lounge? Sunlight stupisce con i suoi camper",
+      "url": "https://it.motor1.com/news/803986/sunlight-unltd-t-7033p-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo9WKY/s3/sunlight-unltd-teilintegrierte-2026.jpg",
+      "summary": "Sunlight UNLTD: T 7033P è il fiore all’occhiello della nuova serie. Zona lounge abitativa invece del letto posteriore, bagno XXL e look sportivo Ford",
+      "date": "2026-08-08T11:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:378c628c511e",
       "sourceId": "hdmotori",
@@ -20,10 +32,10 @@
       "source": "HDmotori",
       "platform": "rss",
       "category": "motori",
-      "title": "DKW NZ 350-1: una storica moto della Grande Guerra è “riemersa” dal Danubio",
+      "title": "DKW NZ 350-1: una moto della Seconda Guerra Mondiale è “riemersa” dal Danubio",
       "url": "https://www.hdmotori.it/ritrovamento-moto-seconda-guerra-danubio/",
       "image": null,
-      "summary": "La secca record del Danubio fa riaffiorare a Budapest una rara moto DKW del 1944 e un arsenale di bombe. Il ritrovamento storico dopo ben 80 anni. The post DKW NZ 350-1: una storica moto della Grande Guerra è “riemers...",
+      "summary": "La secca record del Danubio fa riaffiorare a Budapest una rara moto DKW del 1944 e un arsenale di bombe. Il ritrovamento storico dopo ben 80 anni. The post DKW NZ 350-1: una moto della Seconda Guerra Mondiale è “rieme...",
       "date": "2026-08-08T09:00:23.0000000Z"
     },
     {
@@ -339,18 +351,6 @@
       "date": "2026-08-07T12:00:00.0000000Z"
     },
     {
-      "id": "motor1:468af67fd0a7",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "È arrivato il momento di far pagare il bollo anche alle auto elettriche?",
-      "url": "https://it.motor1.com/news/802988/bollo-auto-elettriche-idea-europa/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4R0k/s3/bollo-auto-elettrica-italia-proposta.jpg",
-      "summary": "E non solo: parcheggi, assicurazioni e via dicendo. Il tempo delle agevolazioni è finito?",
-      "date": "2026-08-07T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:8901a815fa5c",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -360,6 +360,18 @@
       "url": "https://insideevs.it/news/804158/batterie-litio-metallico-stress-meccanico/",
       "image": "https://cdn.motor1.com/images/mgl/Qe70N8/s3/il-litio-metallico-puo-dare-piu-autonomia-alle-auto-elettriche.jpg",
       "summary": "La tecnologia promette pacchi batteria più piccoli e leggeri, ma serve ancora risolvere il problema dei dendriti e degli stress interni",
+      "date": "2026-08-07T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:468af67fd0a7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "È arrivato il momento di far pagare il bollo anche alle auto elettriche?",
+      "url": "https://it.motor1.com/news/802988/bollo-auto-elettriche-idea-europa/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4R0k/s3/bollo-auto-elettrica-italia-proposta.jpg",
+      "summary": "E non solo: parcheggi, assicurazioni e via dicendo. Il tempo delle agevolazioni è finito?",
       "date": "2026-08-07T11:00:00.0000000Z"
     },
     {
@@ -373,18 +385,6 @@
       "image": "https://cdn.motor1.com/images/mgl/8A3Mzv/s3/le-colonnine-della-rete-plugnyc.jpg",
       "summary": "La rete pubblica di ricarica passerà da 88 a quasi 700 punti. Le nuove prese saranno installate lungo le strade nei prossimi tre anni",
       "date": "2026-08-07T10:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:737810336e45",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Gli interni del nuovo SUV Bentley, con i comandi fisici",
-      "url": "https://it.motor1.com/news/804145/bentley-torcal-curation-engine-ambienti/",
-      "image": "https://cdn.motor1.com/images/mgl/6Z8M6r/s3/gli-interni-della-bentley-torcal.jpg",
-      "summary": "Sulla Bentley Torcal il Curation Engine coordina luce, suono, aria e informazioni in quattro modalità pensate per comfort, guida, relax e benessere.",
-      "date": "2026-08-07T10:15:00.0000000Z"
     },
     {
       "id": "insideevs:0768a1b4313c",
