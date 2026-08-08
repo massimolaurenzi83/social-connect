@@ -1,7 +1,31 @@
 {
   "category": "cripto",
-  "updated": "2026-08-08T19:19:55.4190409Z",
+  "updated": "2026-08-08T21:01:15.3149065Z",
   "items": [
+    {
+      "id": "cryptonomist:8373bab593d3",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Artificial Superintelligence Alliance: FET a 0,14$ tra supporto 0,13 e resistenza 0,15",
+      "url": "https://cryptonomist.ch/2026/08/08/artificial-superintelligence-alliance-fet-a-014-tra-supporto-013-e-resistenza-015/",
+      "image": null,
+      "summary": "All’8 agosto 2026, il token FET di Artificial Superintelligence Alliance quota 0,14 dollari contro medie mobili tutte posizionate sopra, con la EMA200 daily a 0,20. È la configurazione tipica di un asset che ha perso ...",
+      "date": "2026-08-08T20:24:18.0000000Z"
+    },
+    {
+      "id": "cryptonomist:62041d51b6a5",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "OpenAI acquisisce NextSlide: il team entra dritto in ChatGPT",
+      "url": "https://cryptonomist.ch/2026/08/08/openai-acquisisce-nextslide/",
+      "image": null,
+      "summary": "OpenAI acquisisce NextSlide, una piccola startup nata poco più di un anno fa che aveva costruito uno strumento capace di trasformare appunti, documenti e ricerche in presentazioni pronte all’uso. L’operazione, annunci...",
+      "date": "2026-08-08T20:14:57.0000000Z"
+    },
     {
       "id": "cryptonomist:6f57624fbff3",
       "sourceId": "cryptonomist",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "di Luciano Quarta – The Crypto Lawyer C’è un rischio, nella finanza digitale, che non assomiglia a nessun altro: è certo che accadrà, ma nessuno sa quando. È la minaccia quantistica alla crittografia. Il giorno in cui...",
       "date": "2026-08-08T06:00:00.0000000Z"
-    },
-    {
-      "id": "cryptonomist:7cde29593660",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "XRP a 1,02 dollari: sotto 1,01 rischio estensione, sopra 1,03 la svolta",
-      "url": "https://cryptonomist.ch/2026/08/08/xrp-a-102-dollari-sotto-101-rischio-estensione-sopra-103-la-svolta/",
-      "image": null,
-      "summary": "L’8 agosto 2026 il prezzo di XRP quota a 1,02 dollari, schiacciato sotto le principali medie mobili. Il trend dominante resta ribassista, ma la compressione sul grafico a 15 minuti segnala che un movimento deciso è or...",
-      "date": "2026-08-08T00:51:16.0000000Z"
-    },
-    {
-      "id": "cryptonomist:f380fd543bf4",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Vulnerabilità BTCPay Server sfruttata: nodi Lightning svuotati prima della patch",
-      "url": "https://cryptonomist.ch/2026/08/08/vulnerabilita-btcpay-server/",
-      "image": null,
-      "summary": "Un bug rimasto invisibile a decine di controlli di sicurezza ha permesso a degli attaccanti di prosciugare nodi Lightning appartenenti a utenti di BTCPay Server, costringendo il progetto a correre contro il tempo per ...",
-      "date": "2026-08-08T00:48:16.0000000Z"
     }
   ]
 }
