@@ -1,7 +1,67 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-09T04:49:49.1532287Z",
+  "updated": "2026-08-09T07:59:16.8299143Z",
   "items": [
+    {
+      "id": "hdblog:e9129e70434d",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Samsung Galaxy A18: i benchmark svelano una scheda tecnica senza sorprese",
+      "url": "https://www.hdblog.it/smartphone/articoli/n666753/samsung-galaxy-a18-4g-lte-specifiche-benchmark/",
+      "image": null,
+      "summary": "Il modello LTE si è fatto vedere su Geekbench: cosa sappiamo.",
+      "date": "2026-08-09T07:35:00.0000000Z"
+    },
+    {
+      "id": "hdblog:d7c4ce1c9b5f",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Nuovi droni marziani: scoveranno ghiaccio utile per la colonizzazione",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n666757/nasa-skyfall-antenna-radar-marte/",
+      "image": null,
+      "summary": "La NASA testa un'antenna in tessuto per cercare ghiaccio nel sottosuolo marziano.",
+      "date": "2026-08-09T07:05:00.0000000Z"
+    },
+    {
+      "id": "hdblog:3b0bad927027",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Vuoi evitare la multa del Tutor? Questi &ldquo;trucchi&rdquo; non servono a nulla",
+      "url": "https://www.hdmotori.it/vuoi-evitare-la-multa-del-tutor-questi-trucchi-non-servono-a-nulla/",
+      "image": null,
+      "summary": "C’è chi pensa che basti rallentare, chi crede che le auto con targa straniera siano invisibili e chi è convinto che con la pioggia il Tutor non funzioni. Ma quante di queste...",
+      "date": "2026-08-09T07:00:52.0000000Z"
+    },
+    {
+      "id": "hdblog:3a07e90db020",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Dall&rsquo;Italia a Capo Nord su un&rsquo;Ape camperizzata: l&rsquo;incredibile impresa di Francesco",
+      "url": "https://www.hdmotori.it/italia-capo-nord-ape-camperizzata/",
+      "image": null,
+      "summary": "Un viaggio di oltre 4.500 chilometri a bordo di un’Ape con cellula abitativa stampata in 3D, sfidando venti fino a 90 km/h. Obiettivo raccogliere fondi per una fondazione.",
+      "date": "2026-08-09T06:30:41.0000000Z"
+    },
+    {
+      "id": "hdblog:a09ff48d4552",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Sony torna indietro di sei anni: le cuffie più amate potrebbero rinascere",
+      "url": "https://www.hdblog.it/indossabili/articoli/n666756/sony-wh-1000xm4c-rumor/",
+      "image": null,
+      "summary": "Sony potrebbe rilanciare le WH-1000XM4 con poche modifiche e un prezzo più basso.",
+      "date": "2026-08-09T06:25:00.0000000Z"
+    },
     {
       "id": "tomshw:e1ce918a2596",
       "sourceId": "tomshw",
@@ -75,6 +135,30 @@
       "date": "2026-08-08T16:25:04.0000000Z"
     },
     {
+      "id": "tomshw:6f2bd5ea656a",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Linux, cinque kernel LTS da aggiornare subito: ecco perché",
+      "url": "https://www.tomshw.it/hardware/linux-cinque-kernel-lts-da-aggiornare-il-backport-safe-ret-era-errato",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106348/news-flash-670442.png",
+      "summary": "Un backport errato, distribuito appena il giorno precedente, ha richiesto una nuova tornata di aggiornamenti per cinque rami long-term del kernel Linux. Le versioni 6.12.102, 6.6.150, 6.1.182, 5.15.21...",
+      "date": "2026-08-08T16:23:05.0000000Z"
+    },
+    {
+      "id": "tomshw:ef9afe4fb10f",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "MDA Space: ricavi +34%, portafoglio ordini a 4 miliardi di dollari canadesi",
+      "url": "https://www.tomshw.it/business/mda-space-ricavi-34-portafoglio-ordini-a-4-miliardi-di-dollari-canadesi",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106404/mda-space-ricavi-34-portafoglio-ordini-a-4-miliardi-di-dollari-canadesi.png",
+      "summary": "MDA Space ha chiuso il secondo trimestre 2026 con ricavi per 498,6 milioni di dollari canadesi, quasi il 34% in più rispetto allo stesso periodo dell’anno precedente. La crescita ha interessato tutte...",
+      "date": "2026-08-08T16:22:03.0000000Z"
+    },
+    {
       "id": "tomshw:70e9a5e6eb00",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -109,18 +193,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/106421/tomshw-offer-671383.png",
       "summary": "Il piano cottura a induzione Hisense da 60 cm costa 199€ su Amazon, invece di 344€, con uno sconto del 42%. È il minimo storico per un modello a quattro zone capace di arrivare a 7.200W e di adattarsi...",
       "date": "2026-08-08T16:03:27.0000000Z"
-    },
-    {
-      "id": "tomshw:4f6fc52c6d77",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Braun Serie 9 Pro+ al 40% in meno, da prendere per le barbe difficili",
-      "url": "https://www.tomshw.it/offerte/braun-serie-9-pro-al-40-in-meno-da-prendere-per-le-barbe-difficili",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106420/tomshw-offer-671373.png",
-      "summary": "Il Braun Serie 9 Pro+ 9660ccps costa 379,99€ su Amazon, invece di 629,99€, grazie a uno sconto del 40%. È il minimo storico per un sistema di rasatura premium completo di stazione SmartCare 6in1. Bra...",
-      "date": "2026-08-08T15:35:09.0000000Z"
     },
     {
       "id": "hdblog:2416cebd4977",
@@ -195,78 +267,6 @@
       "date": "2026-08-08T14:10:00.0000000Z"
     },
     {
-      "id": "tomshw:edde8c2e218b",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Philips Multigroom Serie 9000 a 102,99€, un kit per barba, capelli e corpo",
-      "url": "https://www.tomshw.it/offerte/philips-multigroom-serie-9000-a-10299eur-un-kit-per-barba-capelli-e-corpo",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106419/tomshw-offer-671348.png",
-      "summary": "Philips Multigroom Serie 9000 costa 102,99€ su Amazon, invece di 149,99€, con uno sconto del 31%. Il kit MG9561/30 riunisce gli strumenti per regolare barba, capelli e peli del corpo, aggiungendo un’i...",
-      "date": "2026-08-08T14:03:16.0000000Z"
-    },
-    {
-      "id": "hdblog:5be0da815ebf",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Pilota di F1 derubato sul lago di Como: &ldquo;Mi hanno portato via tutto&rdquo;",
-      "url": "https://www.hdmotori.it/pilota-f1-derubato-lago-di-como/",
-      "image": null,
-      "summary": "L’ennesimo episodio spiacevole è avvenuto a un pilota di F1 sul lago di Como. Protagonista Franco Colapinto, driver dell’Alpine.",
-      "date": "2026-08-08T14:00:56.0000000Z"
-    },
-    {
-      "id": "hdblog:88c37d23659f",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Smartphone da meno di 250? Il Motorola Edge 60 in sconto su Amazon è il modello giusto",
-      "url": "https://www.hdblog.it/smartphone/offerte/n666737/motorola-edge-60-offerta-amazon-agosto-26/",
-      "image": null,
-      "summary": "Il Motorola Edge 60 è in offerta su Amazon ed è ora disponibile in sconto con un prezzo ottimo: è la scelta giusta a meno di 250 euro.",
-      "date": "2026-08-08T14:00:00.0000000Z"
-    },
-    {
-      "id": "hdblog:3ee5242e7418",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Case del futuro, in Iran ci sono già quelle super fresche grazie al tetto a ciotola",
-      "url": "https://www.hdblog.it/home/articoli/n666674/case-futuro-iran-fresche-tetto-a-ciotola/",
-      "image": null,
-      "summary": "Un po' strane a vedersi, ma efficienti",
-      "date": "2026-08-08T13:55:00.0000000Z"
-    },
-    {
-      "id": "hdblog:240260a944af",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "iPhone 17: Apple potrebbe aumentare i prezzi tra pochi giorni",
-      "url": "https://www.hdblog.it/smartphone/articoli/n666735/apple-iphone-17-aumento-prezzi-agosto-italia/",
-      "image": null,
-      "summary": "Rumor clamoroso dalla Cina.",
-      "date": "2026-08-08T13:45:00.0000000Z"
-    },
-    {
-      "id": "tomshw:f5ac26107bb4",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Sony BRAVIA Theatre Bar 9 a 976,73€, cinema in casa senza casse ovunque",
-      "url": "https://www.tomshw.it/offerte/sony-bravia-theatre-bar-9-a-97673eur-cinema-in-casa-senza-casse-ovunque",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106418/tomshw-offer-671338.png",
-      "summary": "Sony BRAVIA Theatre Bar 9 costa 976,73€ su Amazon, passando dai 1.199€ di listino al prezzo attuale con uno sconto del 19%. Riunisce 13 speaker e tecnologie audio spaziali in una singola barra, evitan...",
-      "date": "2026-08-08T13:32:34.0000000Z"
-    },
-    {
       "id": "dday:ad9ad6bcf30b",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -277,18 +277,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-08T13:15:00.0000000Z"
-    },
-    {
-      "id": "hdblog:6468073389b5",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Dialoghi più chiari in TV: le regolazioni che fanno la differenza",
-      "url": "https://www.hdblog.it/tv/articoli/n666348/dialoghi-piu-chiari-voce-tv-impostazioni-come-fare/",
-      "image": null,
-      "summary": "Alcuni trucchi per esaltare le voci.",
-      "date": "2026-08-08T12:55:00.0000000Z"
     },
     {
       "id": "dday:8f1d4df4bef9",
@@ -313,6 +301,18 @@
       "image": null,
       "summary": "",
       "date": "2026-08-08T08:05:00.0000000Z"
+    },
+    {
+      "id": "tomshw:4f34e7ac731b",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Pebble, il ritorno: alla fine lo smartwatch open ce l'ha fatta",
+      "url": "https://www.tomshw.it/smartphone/pebble-e-tornato-davvero-oltre-23000-time-2-prodotti-e-consegne-in-93-paesi",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106409/Pebble-Time-2-2120x848-jpg.webp",
+      "summary": "Pebble è tornato davvero. Il 14 luglio 2026 l’azienda ha confermato di avere prodotto oltre 23.000 Pebble Time 2 dall’avvio della produzione di massa, avvenuto il 24 marzo, e di ave...",
+      "date": "2026-08-08T07:20:02.0000000Z"
     },
     {
       "id": "dday:8b9cbbd2d1b5",
