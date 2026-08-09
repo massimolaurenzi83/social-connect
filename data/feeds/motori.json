@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-09T10:06:32.2585194Z",
+  "updated": "2026-08-09T11:50:29.7584631Z",
   "items": [
+    {
+      "id": "motor1:840b8a257b99",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Adria Twin (2026): il campervan di culto completamente nuovo",
+      "url": "https://it.motor1.com/news/804194/nuovo-adria-twin-campervan-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak3MBN/s3/adria-twin-supreme-640-slb-2026.jpg",
+      "summary": "Più luce, nuovo abitacolo, tecnologia moderna e la nuova White Edition 2",
+      "date": "2026-08-09T11:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:42c670adda68",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Daniele: “22.000 km in Tesla Model Y: la mia verità sui lunghi viaggi”",
+      "url": "https://www.vaielettrico.it/daniele-22-000-km-in-tesla-model-y-rwd-la-mia-verita-sui-lunghi-viaggi/",
+      "image": null,
+      "summary": "Daniele viaggia in Tesla Model Y da poco più di 10 mesi ma ha già percorso 22.000 km… L'articolo Daniele: “22.000 km in Tesla Model Y: la mia verità sui lunghi viaggi” proviene da Vaielettrico .",
+      "date": "2026-08-09T08:31:46.0000000Z"
+    },
     {
       "id": "hdmotori:2d2187a87066",
       "sourceId": "hdmotori",
@@ -303,18 +327,6 @@
       "date": "2026-08-07T16:10:21.0000000Z"
     },
     {
-      "id": "vaielettrico:fa2167d3360c",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le ricariche meno care? Con il roaming giusto…",
-      "url": "https://www.vaielettrico.it/le-ricariche-meno-care-con-il-roaming-giusto/",
-      "image": null,
-      "summary": "Le ricariche meno care? Adiconsum e TariffEV hanno aggiornato il rilevamento mensile con luglio 2026. Ecco dove si… L'articolo Le ricariche meno care? Con il roaming giusto… proviene da Vaielettrico .",
-      "date": "2026-08-07T15:35:37.0000000Z"
-    },
-    {
       "id": "motor1:6800fb22c0e8",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -409,18 +421,6 @@
       "image": "https://cdn.motor1.com/images/mgl/ojjOp2/s3/aston-martin-new-logo.jpg",
       "summary": "Aston Martin vende il 50,1% dei suoi diritti d'immagine (non legati al marchio di automobili). Ecco la situazione",
       "date": "2026-08-07T12:32:02.0000000Z"
-    },
-    {
-      "id": "motor1:54725fdb2c94",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Per le nuove Peugeot GTi forse si tornerà alla benzina",
-      "url": "https://it.motor1.com/news/804149/peugeot-gti-ibride-anticipazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/Mkg7Lw/s3/peugeot-208-gti.jpg",
-      "summary": "Dopo il lancio della E-208 GTi elettrica, la Casa francese non esclude l'arrivo di modelli sportivi con motore ibrido",
-      "date": "2026-08-07T12:00:00.0000000Z"
     },
     {
       "id": "insideevs:8901a815fa5c",
