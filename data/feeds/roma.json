@@ -1,15 +1,39 @@
 {
   "category": "roma",
-  "updated": "2026-08-09T17:19:21.4638200Z",
+  "updated": "2026-08-09T19:22:42.0947491Z",
   "items": [
     {
-      "id": "romatoday:fd19bc157596",
+      "id": "romatoday:f475fd63183a",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Tor Bella Monaca: un acquario per nascondere la cocaina da spacciare",
+      "url": "https://www.romatoday.it/cronaca/cocaina-acquario-pesci-tor-bella-monaca.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/32332774579677/aquario-pesci-foto-yosuke-ota-unsplash.jpg",
+      "summary": "Il pusher è scappato sulle scale del palazzo dove è stato raggiunto e bloccato",
+      "date": "2026-08-09T17:54:00.0000000Z"
+    },
+    {
+      "id": "romatoday:468223791f79",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Si perdono nel bosco a Cervara di Roma: ritrovati due 64enni",
+      "url": "https://www.romatoday.it/cronaca/dispersi-bosco-cervara-di-roma-9-agosto-2026.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/64315057018358/bosco-cervara-di-roma.jpg",
+      "summary": "Le ricerche per recuperare i due, un uomo e una donna, sono iniziate alle 16.30 di domenica 9 agosto. Sono stati individuati circa un’ora e mezzo dopo",
+      "date": "2026-08-09T17:28:00.0000000Z"
+    },
+    {
+      "id": "romatoday:dad4fe95a851",
       "sourceId": "romatoday",
       "source": "RomaToday",
       "platform": "rss",
       "category": "roma",
       "title": "Nuove rotatorie sulla via Braccianese: in consegna ad Anas l'ultima area per i lavori",
-      "url": "https://www.romatoday.it/politica/nuove-rotatorie-sulla-via-braccianese-in-consegna-ad-anas-l-ultima-area-per-i-lavori.html",
+      "url": "https://www.romatoday.it/politica/nuove-rotatorie-via-braccianese-consegnata-ultima-area.html",
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/37308072409735/via-braccianese-2.jpg",
       "summary": "Il 24 agosto l'ultima area per la realizzazione delle due rotatorie di via Braccianese sarà consegnata ad Anas, che nel frattempo ha già avviato i lavori",
       "date": "2026-08-09T16:29:00.0000000Z"
@@ -121,30 +145,6 @@
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/40107707845266/massimiliano-cencelli.jpg",
       "summary": "Ex dirigente della Democrazia Cristiana il suo nome è indissolubilmente legato all’espressione “manuale Cencelli”. Aveva 90 anni",
       "date": "2026-08-09T11:12:44.0000000Z"
-    },
-    {
-      "id": "romatoday:d3b428672b7e",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Raccordo anulare, donna in coma in ospedale dopo incidente con la moto. L'appello della sorella: \"Cerchiamo testimoni\"",
-      "url": "https://www.romatoday.it/cronaca/incidente-stradale/raccordo-anulare-5-agosto-2026-appello-testimoni.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/14530916563810/ospedale-sant-andrea-roma.jpg",
-      "summary": "La 38enne, madre di due bambini piccoli, si trova ricoverata in pericolo di vita all'ospedale Sant'Andrea dallo scorso 5 di agosto",
-      "date": "2026-08-09T10:51:45.0000000Z"
-    },
-    {
-      "id": "romatoday:0429951ffbaa",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Incendio in autostrada: veicolo in fiamme. Code e disagi",
-      "url": "https://www.romatoday.it/cronaca/incendio-autostrada-9-agosto-2026.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/44319304747713/traffico-a1-incendio-auto-2.jpg",
-      "summary": "La vettura ha preso fuoco mentre viaggiava sulla diramazione Roma Sud in direzione del Grande raccordo anulare",
-      "date": "2026-08-09T10:10:53.0000000Z"
     },
     {
       "id": "roma-repubblica:cfc7e14763b5",
