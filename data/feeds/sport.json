@@ -1,7 +1,19 @@
 {
   "category": "sport",
-  "updated": "2026-08-09T00:04:59.6525296Z",
+  "updated": "2026-08-09T04:49:49.2157516Z",
   "items": [
+    {
+      "id": "ansa-sport:ab8277353303",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Tennis, n.1 al mondo Sabalenka sconfitta da Alexandrova a Toronto",
+      "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/tennis-n.1-al-mondo-sabalenka-sconfitta-da-alexandrova-a-toronto_dc08966d-063a-4e6d-80af-9d4f61649ea3.html",
+      "image": null,
+      "summary": "La russa, testa di serie numero 16, si qualifica ai quarti",
+      "date": "2026-08-09T02:01:19.0000000Z"
+    },
     {
       "id": "skysport-yt:0Kv3zNuC2vA",
       "sourceId": "skysport-yt",
@@ -63,18 +75,6 @@
       "image": null,
       "summary": "Ritiro chiuso con il 3-0 degli inglesi. Pellegrini rinnova: 'La storia continua'",
       "date": "2026-08-08T22:29:02.0000000Z"
-    },
-    {
-      "id": "ansa-sport:65c6e54dbea4",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Prove tecniche di Serie A, all'Inter il derby d'Italia estivo",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/08/il-derby-ditalia-e-dellinter-juve-battuta-2-1-a-perth_a9398958-89e9-48a8-8635-62da802c65c7.html",
-      "image": null,
-      "summary": "La Juve battuta a Perth 2-1, in gol Dimarco e Diouf. Esordi per Kolo Muani e Alajbegovic",
-      "date": "2026-08-08T22:28:49.0000000Z"
     },
     {
       "id": "ansa-sport:0901e5d2c4af",
