@@ -1,7 +1,127 @@
 {
   "category": "motori",
-  "updated": "2026-08-10T10:03:56.8998856Z",
+  "updated": "2026-08-10T12:36:27.2219873Z",
   "items": [
+    {
+      "id": "motor1:853042cf15ec",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il nuovo SUV di Mercedes-AMG prende forma",
+      "url": "https://it.motor1.com/news/804317/mercedes-amg-suv-teaser/",
+      "image": "https://cdn.motor1.com/images/mgl/Mkg7yE/s3/mercedes-amg-gt-suv-teaserbild.jpg",
+      "summary": "Si avvicina il debutto del nuovo SUV sportivo di Affalterbach. Dovrebbe riprendere tanti aspetti dell'AMG GT Coupé 4",
+      "date": "2026-08-10T12:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:1475a93c43df",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "FAW: i pionieri dell’auto cinese arrivano in Italia, la gamma proposta",
+      "url": "https://www.hdmotori.it/faw-bestune-italia-models-china-car-company/",
+      "image": null,
+      "summary": "Il colosso cinese FAW sbarca in Italia con China Car Company. In arrivo i modelli T77, T90, B70S e la JoyEE 08 PHEV, in attesa dell'elettrica Joy EE04 nel 2027. The post FAW: i pionieri dell’auto cinese arrivano in It...",
+      "date": "2026-08-10T12:00:17.0000000Z"
+    },
+    {
+      "id": "motor1:80801a14057c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Stellantis ha risolto il problema del turbo lag",
+      "url": "https://it.motor1.com/news/804341/eboost-air-stellantis-turbo-lag/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo9ObL/s3/jeep-grand-cherokee-prototype-with-srt-eboost-air-e-compressor.jpg",
+      "summary": "SRRT presente l'e-compressore eBoost Air, per ora solo un concept, ma potrebbe arrivare su futuri modelli di produzione",
+      "date": "2026-08-10T12:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ce9e4e2df94f",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Quanto è migliorato il Tesla FSD? Il test in un video",
+      "url": "https://insideevs.it/news/804331/tesla-fsd-confronto-versioni-video/",
+      "image": "https://cdn.motor1.com/images/mgl/jlWvr6/s3/tesla-fsd-reaction-test-hero.jpg",
+      "summary": "Uno YouTuber confronta le versioni della guida autonoma sfruttando un pedone-manichino. Intanto l'Ue valuta l'approvazione del sistema",
+      "date": "2026-08-10T12:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:e8571248b348",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Smart #2 è tornata, svelate le prime immagini dell’erede della Fortwo",
+      "url": "https://www.hdmotori.it/smart-2-immagini-erede-fortwo/",
+      "image": null,
+      "summary": "Sta per sbarcare sul mercato il modello definitivo della nuova Smart due posti che rivoluzionerà il mercato. The post La Smart #2 è tornata, svelate le prime immagini dell’erede della Fortwo appeared first on HDmotori...",
+      "date": "2026-08-10T11:00:18.0000000Z"
+    },
+    {
+      "id": "motor1:74a2f0c26d2d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mitsubishi Grandis (2026), la prova del nuovo SUV mild hybrid",
+      "url": "https://it.motor1.com/reviews/804330/mitsubishi-grandis-2026-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/G3QMqx/s3/mitsubishi-grandis-2026-la-prova.jpg",
+      "summary": "Discreta, ma affidabile: la giapponese convince nel test come SUV compatto spazioso dal prezzo equo",
+      "date": "2026-08-10T11:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:f5b103ad81e4",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Suzuki Jimny diventa una supercar: assetto ribassato e look anni ‘70",
+      "url": "https://www.hdmotori.it/suzuki-jimny-supercar-assetto-ribassato/",
+      "image": null,
+      "summary": "Una rappresentazione grafica ha svelato le linee di una versione coupé della Suzuki Jimny. Il DNA 4x4 ha lasciato spazio a una estetica estrema. The post La Suzuki Jimny diventa una supercar: assetto ribassato e look ...",
+      "date": "2026-08-10T10:30:07.0000000Z"
+    },
+    {
+      "id": "motor1:64950a98b401",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Bollo auto: dal 2028 cambia quando si paga il primo bollo",
+      "url": "https://it.motor1.com/news/804338/bollo-auto-nuove-regole-cambia/",
+      "image": "https://cdn.motor1.com/images/mgl/QRYzO/s3/bollo-e-superbollo-auto-come-si-calcola-dove-si-paga.jpg",
+      "summary": "Dal 2027 il bollo auto si allinea a scadenze nazionali, con primo pagamento dopo l’immatricolazione e norme aggiornate per noleggio e flotte.",
+      "date": "2026-08-10T10:30:00.0000000Z"
+    },
+    {
+      "id": "insideevs:8dfc20f842f6",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Aumenta l'autonomia dell'auto elettrica montando ruote più piccole",
+      "url": "https://insideevs.it/news/804324/hyundai-ioniq-5-n-autonomia-pneumatici/",
+      "image": "https://cdn.motor1.com/images/mgl/JONPoX/s3/ioniq-5-n-new-wheels.jpg",
+      "summary": "Questo YouTuber ha sperimentato il cambio di cerchi e pneumatici sulla sua Hyundai Ioniq 5 N",
+      "date": "2026-08-10T10:20:52.0000000Z"
+    },
+    {
+      "id": "vaielettrico:61d15df338fb",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Zero Motorcycles, bonus fino a 500 euro per chi ha appena preso la patente",
+      "url": "https://www.vaielettrico.it/zero-motorcycles-bonus-fino-a-500-euro-per-chi-ha-appena-preso-la-patente/",
+      "image": null,
+      "summary": "Zero Motorcycles introduce in Italia un cashback dedicato ai neopatentati: 500 euro sull’acquisto di S, DS, SR/F e… L'articolo Zero Motorcycles, bonus fino a 500 euro per chi ha appena preso la patente proviene da Vai...",
+      "date": "2026-08-10T10:10:24.0000000Z"
+    },
     {
       "id": "motor1:6315b10f550b",
       "sourceId": "motor1",
@@ -135,18 +255,6 @@
       "date": "2026-08-10T06:00:00.0000000Z"
     },
     {
-      "id": "motor1:1dbef6e1910b",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Audi Q9 vs Mercedes GLS, duello tra titani (di lusso) tedeschi",
-      "url": "https://it.motor1.com/news/803351/audi-q9-vs-mercedes-gls-2026-confronto/",
-      "image": "https://cdn.motor1.com/images/mgl/6Z8MQN/s3/audi-q9-vs-mercedes-gls-duello-tra-titani-di-lusso-tedeschi.jpg",
-      "summary": "Mastodontici, (anche) diesel e generosi come qualità dei rivestimenti e tecnologia. Ecco i SUV top di gamma di Audi e Mercedes",
-      "date": "2026-08-10T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:a581953ff9bb",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -156,6 +264,18 @@
       "url": "https://insideevs.it/news/803989/nastri-psa-batterie-ev-impatto/",
       "image": "https://cdn.motor1.com/images/mgl/Ak3MQW/s3/questo-piccolo-componente-puo-abbassare-il-costo-delle-batterie.jpg",
       "summary": "I nastri PSA aiutano le fabbriche a ridurre scarti e tempi, rendendo più efficienti i pacchi batteria elettrici",
+      "date": "2026-08-10T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:1dbef6e1910b",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Audi Q9 vs Mercedes GLS, duello tra titani (di lusso) tedeschi",
+      "url": "https://it.motor1.com/news/803351/audi-q9-vs-mercedes-gls-2026-confronto/",
+      "image": "https://cdn.motor1.com/images/mgl/6Z8MQN/s3/audi-q9-vs-mercedes-gls-duello-tra-titani-di-lusso-tedeschi.jpg",
+      "summary": "Mastodontici, (anche) diesel e generosi come qualità dei rivestimenti e tecnologia. Ecco i SUV top di gamma di Audi e Mercedes",
       "date": "2026-08-10T05:00:00.0000000Z"
     },
     {
@@ -255,18 +375,6 @@
       "date": "2026-08-09T06:30:41.0000000Z"
     },
     {
-      "id": "motor1:f31b05f526d1",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Cosa si prova oggi a guidare una Mini One del 2002",
-      "url": "https://it.motor1.com/news/803514/mini-one-2002-test-drive/",
-      "image": "https://cdn.motor1.com/images/mgl/YAzyQy/s3/mini-one-2002.jpg",
-      "summary": "La prima Mini dell'era BMW compie 25 anni e regala ancora un certo Go-Kart-Feeling",
-      "date": "2026-08-09T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:03c7f6218b49",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -276,6 +384,18 @@
       "url": "https://insideevs.it/news/804059/batterie-zinco-acquose-corrosione-aiuta/",
       "image": "https://cdn.motor1.com/images/mgl/zxJ2J7/s3/perche-le-batterie-allo-zinco-si-rovinano-e-come-evitarlo.jpg",
       "summary": "Il controllo dell'interfaccia zinco-elettrolita riduce corrosione spontanea, dendriti e degrado durante lo stand-by",
+      "date": "2026-08-09T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:f31b05f526d1",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Cosa si prova oggi a guidare una Mini One del 2002",
+      "url": "https://it.motor1.com/news/803514/mini-one-2002-test-drive/",
+      "image": "https://cdn.motor1.com/images/mgl/YAzyQy/s3/mini-one-2002.jpg",
+      "summary": "La prima Mini dell'era BMW compie 25 anni e regala ancora un certo Go-Kart-Feeling",
       "date": "2026-08-09T05:00:00.0000000Z"
     },
     {
@@ -315,18 +435,6 @@
       "date": "2026-08-08T16:07:51.0000000Z"
     },
     {
-      "id": "vaielettrico:7f822cf4b09c",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Incendi auto elettriche/Cosa ne sanno le case (e cosa fanno)?",
-      "url": "https://www.vaielettrico.it/incendi-auto-elettriche-cosa-ne-sanno-le-case-e-cosa-fanno/",
-      "image": null,
-      "summary": "Un lettore chiede un approfondimento sugli incendi delle auto elettriche e, soprattutto, di capire cosa fanno le case… L'articolo Incendi auto elettriche/Cosa ne sanno le case (e cosa fanno)? proviene da Vaielettrico .",
-      "date": "2026-08-08T15:41:55.0000000Z"
-    },
-    {
       "id": "hdmotori:7fab5f2dbe30",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -339,66 +447,6 @@
       "date": "2026-08-08T14:30:46.0000000Z"
     },
     {
-      "id": "hdmotori:5be0da815ebf",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Pilota di F1 derubato sul lago di Como: “Mi hanno portato via tutto”",
-      "url": "https://www.hdmotori.it/pilota-f1-derubato-lago-di-como/",
-      "image": null,
-      "summary": "L’ennesimo episodio spiacevole è avvenuto a un pilota di F1 sul lago di Como. Protagonista Franco Colapinto, driver dell’Alpine. The post Pilota di F1 derubato sul lago di Como: “Mi hanno portato via tutto” appeared f...",
-      "date": "2026-08-08T14:00:56.0000000Z"
-    },
-    {
-      "id": "motor1:1b0ed14eb611",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Letto king size o una lounge? Sunlight stupisce con i suoi camper",
-      "url": "https://it.motor1.com/news/803986/sunlight-unltd-t-7033p-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/Oo9WKY/s3/sunlight-unltd-teilintegrierte-2026.jpg",
-      "summary": "Sunlight UNLTD: T 7033P è il fiore all’occhiello della nuova serie. Zona lounge abitativa invece del letto posteriore, bagno XXL e look sportivo Ford",
-      "date": "2026-08-08T11:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:378c628c511e",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Stellantis richiama 20.000 auto: un guasto al servosterzo potrebbe provocare un incendio",
-      "url": "https://www.hdmotori.it/stellantis-richiama-20-000-auto-un-guasto-al-servosterzo-potrebbe-provocare-un-incendio/",
-      "image": null,
-      "summary": "Nuovo richiamo per quasi 20.000 vetture Stellantis in Francia. Nel mirino quattro modelli di Citroën, Fiat e Opel: un problema al cablaggio della direzione assistita potrebbe causare un corto circuito, con il rischio ...",
-      "date": "2026-08-08T09:25:34.0000000Z"
-    },
-    {
-      "id": "hdmotori:8c7d929fbdc0",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "DKW NZ 350-1: una moto della Seconda Guerra Mondiale è “riemersa” dal Danubio",
-      "url": "https://www.hdmotori.it/ritrovamento-moto-seconda-guerra-danubio/",
-      "image": null,
-      "summary": "La secca record del Danubio fa riaffiorare a Budapest una rara moto DKW del 1944 e un arsenale di bombe. Il ritrovamento storico dopo ben 80 anni. The post DKW NZ 350-1: una moto della Seconda Guerra Mondiale è “rieme...",
-      "date": "2026-08-08T09:00:23.0000000Z"
-    },
-    {
-      "id": "motor1:c4e7b5091140",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Murciélago definitiva esiste: è una SV con cambio manuale",
-      "url": "https://it.motor1.com/news/803701/lamborghini-murcielago-sv-manuale/",
-      "image": "https://cdn.motor1.com/images/mgl/8A3OBP/s3/lamborghini-murcielago-lp-670-4-sv-2010.jpg",
-      "summary": "L'ultima evoluzione della supercar di Sant'Agata Bolognese unisce V12 aspirato, leggerezza e una rarissima trasmissione a sei marce",
-      "date": "2026-08-08T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:6222952099d5",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -409,30 +457,6 @@
       "image": "https://cdn.motor1.com/images/mgl/G3QMv1/s3/bmw-clemson-deep-orange-17.jpg",
       "summary": "Il prototipo Deep Orange 17 è stato progettato per gli spostamenti urbani e riesce a generare più energia di quella consumata",
       "date": "2026-08-08T05:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:b5fc176a59cc",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mazda CX-5 (2026), perché comprarla e perché no",
-      "url": "https://it.motor1.com/reviews/803093/mazda-cx-5-2026-recensione/",
-      "image": "https://cdn.motor1.com/images/mgl/8A3LrP/s3/mazda-cx-5-2026-perche-comprarla-e-perche-no.jpg",
-      "summary": "È comoda, fatta bene, offre tanto spazio e la dotazione tecnologica è di ottimo livello. È ibrida, ma non brilla in prestazioni",
-      "date": "2026-08-07T23:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:6800fb22c0e8",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Elogio della follia: 600 furibondi cavalli messi alla prova",
-      "url": "https://it.motor1.com/reviews/804159/donkervoort-p24-rs-prova-recensione/",
-      "image": "https://cdn.motor1.com/images/mgl/eo7r1P/s3/donkervoort-p24-rs.jpg",
-      "summary": "La prova della Donkervoort P24 RS: 600 cavalli, cambio manuale, trazione posteriore e appena 771 kg da spostare",
-      "date": "2026-08-07T15:30:00.0000000Z"
     },
     {
       "id": "insideevs:5aa1b2fc2bc8",
@@ -505,30 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/P3B1VG/s3/volkswagen-punta-sui-chip-sic-per-le-auto-elettriche-cinesi.jpg",
       "summary": "La casa tedesca collabora con la cinese Leadrive per sviluppare moduli di potenza al carburo di silicio",
       "date": "2026-08-07T07:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:f07867360d95",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'AI passa dalla fabbrica al laboratorio delle batterie elettriche",
-      "url": "https://insideevs.it/news/803882/lytematch-lyteguide-ai-elettroliti-sviluppo/",
-      "image": "https://cdn.motor1.com/images/mgl/qkY9kL/s3/l-ai-passa-dalla-fabbrica-al-laboratorio-delle-batterie-elettriche.jpg",
-      "summary": "Dopo i progetti per la produzione, arrivano software che accelerano anche la ricerca su elettroliti e materiali per le celle",
-      "date": "2026-08-07T05:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:c29b6af5ebb5",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Rivian R2 è un successo: arriva il secondo turno produttivo",
-      "url": "https://insideevs.it/news/804002/rivian-r2-linea-assemblaggio/",
-      "image": "https://cdn.motor1.com/images/mgl/3WEpNx/s3/rivian-r2-factory-assembly.jpg",
-      "summary": "Il SUV elettrico ha conquistato il mercato USA e spinge l'azienda ad ampliare la capacità produttiva già nel 2026",
-      "date": "2026-08-06T16:00:00.0000000Z"
     }
   ]
 }
