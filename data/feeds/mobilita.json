@@ -1,7 +1,31 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-10T12:36:27.2091132Z",
+  "updated": "2026-08-10T15:46:15.7584518Z",
   "items": [
+    {
+      "id": "ferrovie:d752737c4bef",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Frecciarossa, la storia del brand che ha cambiato volto all’Alta Velocità italiana",
+      "url": "https://www.ferrovie.info/rubriche/approfondimenti/frecciarossa-la-storia-del-brand-che-ha-cambiato-volto-allalta-velocita-italiana.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10490/DSC_09611280.jpg",
+      "summary": "Quando nacque, il Frecciarossa era il nome dei treni più veloci di Trenitalia. Oggi è diventato qualcosa di molto diverso: un grande marchio commerciale capace di comprendere treni tecnicamente differenti. La storia d...",
+      "date": "2026-08-10T14:36:27.0000000Z"
+    },
+    {
+      "id": "ferrovie:c94c4f25a5c3",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Sassuolo, le stazioni Terminal e Radici verso un nuovo hub intermodale",
+      "url": "https://www.ferrovie.info/treni-reali/sassuolo-le-stazioni-terminal-e-radici-verso-un-nuovo-hub-intermodale.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10529/E483_024_DPO.jpg",
+      "summary": "Le stazioni ferroviarie di Sassuolo-Modena (Terminal) e Sassuolo-Reggio Emilia (Radici) verso una nuova fase di riqualificazione, con l'obiettivo di diventare un sistema integrato di mobilità e rigenerazione urbana al...",
+      "date": "2026-08-10T14:03:12.0000000Z"
+    },
     {
       "id": "ferrovie:f1bb5ba0c59d",
       "sourceId": "ferrovie",
@@ -121,30 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1850107.JPG",
       "summary": "Il Gruppo FS accelera la propria espansione internazionale con un investimento da due miliardi di euro per una nuova flotta di treni ad Alta Velocità destinata a Trenitalia France. Trenitalia France, società controlla...",
       "date": "2026-08-07T13:23:05.0000000Z"
-    },
-    {
-      "id": "ferrovie:8ace92b8bf38",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Arezzo-Stia, dal 10 agosto riprende il servizio ferroviario sull’intera linea",
-      "url": "https://www.ferrovie.info/treni-reali/arezzo-stia-dal-10-agosto-riprende-il-servizio-ferroviario-sullintera-linea.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10529/ETT23_28129.JPG",
-      "summary": "Conclusi gli interventi di potenziamento dell'infrastruttura tra Arezzo e Rassina: da lunedì 10 agosto i treni torneranno a circolare sull'intera linea Arezzo-Stia. Da lunedì 10 agosto riprenderà regolarmente il servi...",
-      "date": "2026-08-07T13:17:18.0000000Z"
-    },
-    {
-      "id": "ferrovie:59d4a1fd7557",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Arenaways, consegnata la TRAXX 483 003 con la nuova livrea per il Milano-Bruxelles",
-      "url": "https://www.ferrovie.info/treni-reali/arenaways-consegnata-la-traxx-483-003-con-la-nuova-livrea-per-il-milano-bruxelles.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10054/normal_438_arenaways_traxx_0954.jpeg",
-      "summary": "Dopo le anticipazioni dei giorni scorsi, la prima locomotiva con la nuova immagine coordinata di Arenaways è ora realtà. È stata infatti consegnata oggi la TRAXX 483 003 , prima locomotiva dell'operatore piemontese a ...",
-      "date": "2026-08-07T10:16:24.0000000Z"
     }
   ]
 }
