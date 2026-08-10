@@ -1,7 +1,43 @@
 {
   "category": "notizie",
-  "updated": "2026-08-10T21:24:29.3908418Z",
+  "updated": "2026-08-10T23:20:43.1401684Z",
   "items": [
+    {
+      "id": "repubblica:6d5609ddb5a7",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Trump e la democrazia: la vignetta di Ellekappa",
+      "url": "https://www.repubblica.it/esteri/2026/08/11/news/trump_e_la_democrazia_la_vignetta_di_ellekappa-425522560/",
+      "image": null,
+      "summary": "",
+      "date": "2026-08-10T22:00:00.0000000Z"
+    },
+    {
+      "id": "ansa:1d49a0e2d5fc",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Violento terremoto in Colombia: oltre 120 morti, in tanti sotto le macerie",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/10/violento-terremoto-in-colombia-oltre-110-morti-e-tanti-sotto-le-macerie_87375249-7b89-4a33-9034-6079ea32e17e.html",
+      "image": null,
+      "summary": "Scossa di 7.4 nel nordovest durata 4 minuti. Cali la più colpita, paura a Bogotà",
+      "date": "2026-08-10T21:46:16.0000000Z"
+    },
+    {
+      "id": "ansa:de5ff0698723",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Europei di atletica: doppietta azzurra nel lancio del peso, oro Fabbri e argento Weir",
+      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/10/europei-di-atletica-doppietta-azzurra-nel-lancio-del-peso-oro-fabbri_b7fb1ade-197a-4d44-b690-e82fab08fa63.html",
+      "image": null,
+      "summary": "Furlani si fa male: 'Stagione finita'. Sorpresa Inzoli nel lungo",
+      "date": "2026-08-10T21:25:47.0000000Z"
+    },
     {
       "id": "open:7a4dd065c6b7",
       "sourceId": "open",
@@ -87,18 +123,6 @@
       "date": "2026-08-10T19:26:58.0000000Z"
     },
     {
-      "id": "ansa:1d49a0e2d5fc",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Violento terremoto in Colombia: oltre 110 morti, in tanti sotto le macerie",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/10/violento-terremoto-in-colombia-oltre-110-morti-e-tanti-sotto-le-macerie_87375249-7b89-4a33-9034-6079ea32e17e.html",
-      "image": null,
-      "summary": "Scossa di 7.4 nel nordovest durata 4 minuti. Cali la più colpita, paura a Bogotà",
-      "date": "2026-08-10T19:26:53.0000000Z"
-    },
-    {
       "id": "open:a4ceb3b6cd58",
       "sourceId": "open",
       "source": "Open",
@@ -109,18 +133,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/padre-figlia-mare.jpg",
       "summary": "L'Iss torna a chiarire quali siano i reali rischi, dopo l'allarme esploso anche quest'anno sui social per i primi casi sospetti. I consigli degli esperti su cosa va sempre evitato prima di fare il bagno L'articolo Il ...",
       "date": "2026-08-10T19:18:49.0000000Z"
-    },
-    {
-      "id": "ansa:6b927dfe5ed4",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Europei di nuoto: l'Italia sorride, Razzetti è d'argento",
-      "url": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/10/europei-di-nuoto-razzetti-argento-nei-400-misti_a1d63a4c-2410-4fea-8594-ca5f76136ba0.html",
-      "image": null,
-      "summary": "Qualificati in finale tutti i big azzurri, il ligure secondo nei 400 misti",
-      "date": "2026-08-10T18:49:48.0000000Z"
     },
     {
       "id": "open:90a125608144",
@@ -241,6 +253,18 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/alberto-razzetti.jpeg",
       "summary": "Subito una medaglia azzurra nel primo giorno di gare nella piscina di Parigi. Il secondo posto dietro al russo Borodin. In vasca anche le staffette della 4x200 L'articolo Europei di nuoto, argento per Alberto Razzetti...",
       "date": "2026-08-10T17:50:28.0000000Z"
+    },
+    {
+      "id": "repubblica:939187b3be7d",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Multa da 5 milioni per A2A. L’Arera: “Ha manipolato il mercato elettrico”",
+      "url": "https://www.repubblica.it/economia/2026/08/10/news/multa_5_milioni_a2a_arera_mercato_elettrico-425522308/",
+      "image": null,
+      "summary": "La multiutility lombarda presenterà ricorso al Tar, convinta che il provvedimento si basi su un’interpretazione parziale della norma",
+      "date": "2026-08-10T17:47:22.0000000Z"
     },
     {
       "id": "open:2a745ba88982",
@@ -467,7 +491,7 @@
       "title": "Fabbri trionfa, con Weir è doppietta nel peso. Dosso settima: Europei di atletica in diretta",
       "url": "https://www.repubblica.it/sport/vari/2026/08/10/diretta/europei_atletica_2026_dosso_fabbri_oggi-425522157/",
       "image": null,
-      "summary": "Il fiorentino domina la finale con 22.31 davanti all’azzurro di origine sudafricana. La velocista chiude settima nella finale dei 100 vinta dalla britannica Hunt. Nuovo problema muscolare per il campione del mondo del...",
+      "summary": "Il fiorentino domina la finale con 22.31 davanti all’azzurro di origine sudafricana: “Sono felicissimo, volevo questo oro”. La velocista chiude settima nella finale dei 100 vinta dalla britannica Hunt: “Mi do un due”....",
       "date": "2026-08-10T16:25:41.0000000Z"
     },
     {
@@ -542,30 +566,6 @@
       "image": null,
       "summary": "La rivolta durante il direttivo di venerdì scorso: “I voti dimostrano che la tua credibilità è venuta meno”. Ai dirigenti era stato dato l’ordine di non parlare del processo andato in scena",
       "date": "2026-08-10T14:19:05.0000000Z"
-    },
-    {
-      "id": "repubblica:fda358450c0d",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Jeff Bezos punta la Premier League: vicino l'acquisto del 30% del Liverpool per 2 miliardi",
-      "url": "https://www.repubblica.it/economia/2026/08/10/news/jeff_bezos_compra_liverpool_2_miliardi-425521862/",
-      "image": null,
-      "summary": "L’investimento attraverso un consorzio guidato da Amit Bhatia, genero del miliardario dell’acciaio Lakshmi Mittal. All’interno anche il co-fondatore di Facebook Eduardo Saverin",
-      "date": "2026-08-10T13:52:13.0000000Z"
-    },
-    {
-      "id": "repubblica:81145c29f8de",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Terremoto 7.4 in Colombia. L’annuncio del presidente de la Espriella: “Almeno 111 morti”",
-      "url": "https://www.repubblica.it/esteri/2026/08/10/news/terremoto_colombia_choco_san_jose_palmar-425521782/",
-      "image": null,
-      "summary": "Dichiarato lo stato di calamità nazionale. Epicentro nei pressi di San José del Palmar, nel nord-ovest, ma la scossa è stata avvertita in gran parte del Paese e oltre, fino a Panama. Almeno sei aeroporti danneggiati, ...",
-      "date": "2026-08-10T13:05:08.0000000Z"
     },
     {
       "id": "ansa:7e2e7136b12b",
