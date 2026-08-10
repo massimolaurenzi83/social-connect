@@ -1,7 +1,67 @@
 {
   "category": "motori",
-  "updated": "2026-08-10T15:46:15.7743951Z",
+  "updated": "2026-08-10T18:37:32.9874042Z",
   "items": [
+    {
+      "id": "hdmotori:e112bf403362",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Suzuki GSX-R 600 e 750 (2027): torna il mito, anche in versione 40° Anniversario",
+      "url": "https://www.hdmotori.it/nuove-suzuki-gsx-r-600-750-2027/",
+      "image": null,
+      "summary": "Suzuki svela la gamma GSX-R 600 e 750 Model Year 2027, grafica iconica, nuove colorazioni e le esclusive versioni 40th Anniversary Edition The post Suzuki GSX-R 600 e 750 (2027): torna il mito, anche in versione 40° A...",
+      "date": "2026-08-10T17:30:43.0000000Z"
+    },
+    {
+      "id": "hdmotori:7c124c56842c",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "F1, una cena stellata mentre percorri il circuito di Monza? Il costo vi stupirà",
+      "url": "https://www.hdmotori.it/f1-cena-stellata-circuito-monza-costo/",
+      "image": null,
+      "summary": "Liberty Media per accrescere il fatturato del circus della F1 ha lanciato l’iniziativa \"The Out Lap\", prevista anche sull’iconico tracciato brianzolo. The post F1, una cena stellata mentre percorri il circuito di Monz...",
+      "date": "2026-08-10T17:00:27.0000000Z"
+    },
+    {
+      "id": "vaielettrico:ae97719c494d",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Incendi e BMS: qualche anno dopo ho capito cosa accadde alla mia Kona",
+      "url": "https://www.vaielettrico.it/incendi-e-bms-qualche-anno-dopo-ho-capito-cosa-accadde-alla-mia-kona/",
+      "image": null,
+      "summary": "Il tema è il rischio di incendi nelle auto elettriche; l’autore è il nostro super ingegner Ivone Benfatto. Chiamato… L'articolo Incendi e BMS: qualche anno dopo ho capito cosa accadde alla mia Kona proviene da Vaielet...",
+      "date": "2026-08-10T16:44:21.0000000Z"
+    },
+    {
+      "id": "motor1:032d86df8eee",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ci sono 3 Aston Martin speciali pronte per Pebble Beach",
+      "url": "https://it.motor1.com/news/804391/aston-martin-speciali-monterey-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZwMjq/s3/aston-martin-auf-der-monterey-car-week.jpg",
+      "summary": "I britannici celebrano 75 anni di Pebble Beach con tre esclusive DB12 S; inoltre, a Monterey è parcheggiata una Vanquish 25 in edizione limitata",
+      "date": "2026-08-10T16:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:dde7f8b44d55",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Range Rover, nessun limite di prezzo per i modelli su misura SV",
+      "url": "https://www.hdmotori.it/range-rover-prezzi-modelli-sv/",
+      "image": null,
+      "summary": "Per il marchio britannico \"il cielo è il limite\", ma tutto questo lusso a ruote alte sta sfuggendo di mano. La SV Asilomar Edition è diventata la Range Rover di serie più costosa di sempre. The post Range Rover, nessu...",
+      "date": "2026-08-10T16:00:30.0000000Z"
+    },
     {
       "id": "hdmotori:921f7443526c",
       "sourceId": "hdmotori",
@@ -231,18 +291,6 @@
       "date": "2026-08-10T12:00:17.0000000Z"
     },
     {
-      "id": "insideevs:ce9e4e2df94f",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quanto è migliorato il Tesla FSD? Il test in un video",
-      "url": "https://insideevs.it/news/804331/tesla-fsd-confronto-versioni-video/",
-      "image": "https://cdn.motor1.com/images/mgl/jlWvr6/s3/tesla-fsd-reaction-test-hero.jpg",
-      "summary": "Uno YouTuber confronta le versioni della guida autonoma sfruttando un pedone-manichino. Intanto l'Ue valuta l'approvazione del sistema",
-      "date": "2026-08-10T12:00:00.0000000Z"
-    },
-    {
       "id": "motor1:80801a14057c",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -252,6 +300,18 @@
       "url": "https://it.motor1.com/news/804341/eboost-air-stellantis-turbo-lag/",
       "image": "https://cdn.motor1.com/images/mgl/Oo9ObL/s3/jeep-grand-cherokee-prototype-with-srt-eboost-air-e-compressor.jpg",
       "summary": "SRRT presente l'e-compressore eBoost Air, per ora solo un concept, ma potrebbe arrivare su futuri modelli di produzione",
+      "date": "2026-08-10T12:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ce9e4e2df94f",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Quanto è migliorato il Tesla FSD? Il test in un video",
+      "url": "https://insideevs.it/news/804331/tesla-fsd-confronto-versioni-video/",
+      "image": "https://cdn.motor1.com/images/mgl/jlWvr6/s3/tesla-fsd-reaction-test-hero.jpg",
+      "summary": "Uno YouTuber confronta le versioni della guida autonoma sfruttando un pedone-manichino. Intanto l'Ue valuta l'approvazione del sistema",
       "date": "2026-08-10T12:00:00.0000000Z"
     },
     {
@@ -296,7 +356,7 @@
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Bollo auto: dal 2028 cambia quando si paga il primo bollo",
+      "title": "Come cambierà il bollo auto",
       "url": "https://it.motor1.com/news/804338/bollo-auto-nuove-regole-cambia/",
       "image": "https://cdn.motor1.com/images/mgl/QRYzO/s3/bollo-e-superbollo-auto-come-si-calcola-dove-si-paga.jpg",
       "summary": "Dal 2027 il bollo auto si allinea a scadenze nazionali, con primo pagamento dopo l’immatricolazione e norme aggiornate per noleggio e flotte.",
@@ -351,30 +411,6 @@
       "date": "2026-08-10T09:37:21.0000000Z"
     },
     {
-      "id": "hdmotori:52d4122d1988",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Porsche omaggia l’Australia con la one-off 911 Turbo S Land Down Under",
-      "url": "https://www.hdmotori.it/porsche-one-off-911-turbo-s-land-down-under-australia/",
-      "image": null,
-      "summary": "Per celebrare i 75 anni in Australia Porsche ha creato una livrea speciale che cambia tonalità sotto la luce per la 911 Turbo S. The post Porsche omaggia l’Australia con la one-off 911 Turbo S Land Down Under appeared...",
-      "date": "2026-08-10T09:30:41.0000000Z"
-    },
-    {
-      "id": "hdmotori:b91c83c1b5dd",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "KTM sconti estivi: vantaggi fino a 1.000 euro su Duke e Adventure",
-      "url": "https://www.hdmotori.it/offerte-promozioni-ktm-estate-2026/",
-      "image": null,
-      "summary": "Promozioni KTM attive fino al 30 settembre: vantaggi esclusivi su Duke, Adventure, Supermoto ed Enduro. Tech Pack gratis su 990 e 1390 Duke. The post KTM sconti estivi: vantaggi fino a 1.000 euro su Duke e Adventure a...",
-      "date": "2026-08-10T09:00:57.0000000Z"
-    },
-    {
       "id": "motor1:63b8686d27b1",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -397,18 +433,6 @@
       "image": "https://cdn.motor1.com/images/mgl/JONPMM/s3/byd-ti-7.jpg",
       "summary": "BYD Ti 7: sette posti, 402 CV plug-in hybrid e look da Defender con 119 km di autonomia elettrica",
       "date": "2026-08-10T08:22:31.0000000Z"
-    },
-    {
-      "id": "hdmotori:f8d506f9fd79",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tre Ciao in regalo ai ragazzini che vendevano limonate: dopo il richiamo arriva la solidarietà",
-      "url": "https://www.hdmotori.it/ciao-regalo-ragazzini-limonate/",
-      "image": null,
-      "summary": "Tre adolescenti friulani avevano allestito un banchetto di limonate e dolci per comprarsi un ciclomotore. Ora avranno in regalo tre Piaggio Ciao. The post Tre Ciao in regalo ai ragazzini che vendevano limonate: dopo i...",
-      "date": "2026-08-10T08:00:24.0000000Z"
     },
     {
       "id": "vaielettrico:ebf41d1649d6",
@@ -435,18 +459,6 @@
       "date": "2026-08-10T07:10:32.0000000Z"
     },
     {
-      "id": "motor1:e4b24ee8563c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La supercar americana col V8 Corvette che sfida il mondo",
-      "url": "https://it.motor1.com/news/804306/peregryn-gt-r-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/P3B1qK/s3/peregryn-gt-r-ultima-rs-front.jpg",
-      "summary": "La Peregryn GT-R passa alla produzione americana con motore V8 GM LS o LT fino a 710 CV",
-      "date": "2026-08-10T07:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:a581953ff9bb",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -457,18 +469,6 @@
       "image": "https://cdn.motor1.com/images/mgl/Ak3MQW/s3/questo-piccolo-componente-puo-abbassare-il-costo-delle-batterie.jpg",
       "summary": "I nastri PSA aiutano le fabbriche a ridurre scarti e tempi, rendendo più efficienti i pacchi batteria elettrici",
       "date": "2026-08-10T05:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:ec6dc36cf9b2",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Colonnine nei monumenti, arrivano 14 milioni. Fast per i pullman turistici",
-      "url": "https://www.vaielettrico.it/colonnine-nei-monumenti-arrivano-14-milioni-fast-per-i-pullman-turistici/",
-      "image": null,
-      "summary": "Le colonnine funzionano nei luoghi che attirano molti visitatori e che richiedono un tempo di permanenza sufficiente per… L'articolo Colonnine nei monumenti, arrivano 14 milioni. Fast per i pullman turistici proviene ...",
-      "date": "2026-08-09T15:50:50.0000000Z"
     },
     {
       "id": "insideevs:03c7f6218b49",
