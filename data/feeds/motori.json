@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-09T23:58:59.9956766Z",
+  "updated": "2026-08-10T05:12:38.6921533Z",
   "items": [
+    {
+      "id": "insideevs:a581953ff9bb",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questo piccolo componente può abbassare il costo delle batterie",
+      "url": "https://insideevs.it/news/803989/nastri-psa-batterie-ev-impatto/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak3MQW/s3/questo-piccolo-componente-puo-abbassare-il-costo-delle-batterie.jpg",
+      "summary": "I nastri PSA aiutano le fabbriche a ridurre scarti e tempi, rendendo più efficienti i pacchi batteria elettrici",
+      "date": "2026-08-10T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:1dbef6e1910b",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Audi Q9 vs Mercedes GLS, duello tra titani (di lusso) tedeschi",
+      "url": "https://it.motor1.com/news/803351/audi-q9-vs-mercedes-gls-2026-confronto/",
+      "image": "https://cdn.motor1.com/images/mgl/6Z8MQN/s3/audi-q9-vs-mercedes-gls-duello-tra-titani-di-lusso-tedeschi.jpg",
+      "summary": "Mastodontici, (anche) diesel e generosi come qualità dei rivestimenti e tecnologia. Ecco i SUV top di gamma di Audi e Mercedes",
+      "date": "2026-08-10T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:ec6dc36cf9b2",
       "sourceId": "vaielettrico",
@@ -411,18 +435,6 @@
       "date": "2026-08-07T13:22:12.0000000Z"
     },
     {
-      "id": "motor1:c0b587b25bac",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Aston Martin vende il nome \"Aston Martin\"",
-      "url": "https://it.motor1.com/news/804166/aston-martin-vende-nome/",
-      "image": "https://cdn.motor1.com/images/mgl/ojjOp2/s3/aston-martin-new-logo.jpg",
-      "summary": "Aston Martin vende il 50,1% dei suoi diritti d'immagine (non legati al marchio di automobili). Ecco la situazione",
-      "date": "2026-08-07T12:32:02.0000000Z"
-    },
-    {
       "id": "insideevs:8901a815fa5c",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/W8KxMO/s3/byd-7-brevetti-sulle-batterie-solide-cosa-cambia-dal-2027.jpg",
       "summary": "Le nuove celle promettono più energia e sicurezza, ma la produzione di massa resta ancora lontana",
       "date": "2026-08-06T15:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:7a5d3f404948",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Danubio ai minimi mette in ginocchio il nucleare europeo",
-      "url": "https://insideevs.it/news/804041/caldo-estremo-nucleare-europeo-va/",
-      "image": "https://cdn.motor1.com/images/mgl/9m8Mpm/s3/il-danubio-ai-minimi-mette-in-ginocchio-il-nucleare-europeo-3.jpg",
-      "summary": "Ondate di calore e siccità riducono la produzione delle centrali sul Danubio, stressando la rete elettrica europea",
-      "date": "2026-08-06T14:00:00.0000000Z"
     },
     {
       "id": "motor1:e8e0a7de4fbb",
