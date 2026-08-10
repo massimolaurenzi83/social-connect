@@ -1,18 +1,162 @@
 {
   "category": "notizie",
-  "updated": "2026-08-10T18:37:32.9783531Z",
+  "updated": "2026-08-10T21:24:29.3908418Z",
   "items": [
     {
-      "id": "ansa:49a00b7c3108",
+      "id": "open:7a4dd065c6b7",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Truffa Crédit Agricole: come hanno fatto a colpire le vittime, come evitarla e la gara tra i truffatori a chi spillava di più",
+      "url": "https://www.open.online/2026/08/10/truffa-credit-agricole-come-ha-funzionato/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/truffa-informatica.jpg",
+      "summary": "Centinaia di persone sono state convinte da dei truffatori, che impersonavano Crédit Agricole, a rivelare le loro credenziali bancarie portando a furti e frodi L'articolo Truffa Crédit Agricole: come hanno fatto a col...",
+      "date": "2026-08-10T20:55:46.0000000Z"
+    },
+    {
+      "id": "open:453f9e02de86",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Europei di atletica, doppietta azzurra nel lancio del peso: oro di Fabbri, argento di Weir",
+      "url": "https://www.open.online/2026/08/10/europei-atletica-azzurri-gare-10-ago/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/fabbri-weir.jpg",
+      "summary": "Trionfo azzurro nel peso a Birmingham: Fabbri difende il titolo, Weir strappa un posto sul podio accanto lui L'articolo Europei di atletica, doppietta azzurra nel lancio del peso: oro di Fabbri, argento di Weir provie...",
+      "date": "2026-08-10T20:45:59.0000000Z"
+    },
+    {
+      "id": "open:4f64bb0a6acd",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Shakira e il dolore per la sua Colombia dopo il terremoto, il messaggio sui social: «A chi vive questa angoscia»",
+      "url": "https://www.open.online/2026/08/10/shakira-terremoto-colombia-messaggio-social/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/shakira.jpg",
+      "summary": "È in momenti come questi che «noi colombiano sappiamo come unirci e sostenerci a vicenda», scrive Shakira su X dopo il terribile terremoto che ha colpito la regione di Chocò provocando decine di vittime. Sui social la...",
+      "date": "2026-08-10T20:24:59.0000000Z"
+    },
+    {
+      "id": "open:525e7b2bcbc1",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Terremoto in Colombia, almeno 100 vittime e decine di feriti. Bambini sotto le macerie di un ospedale, la stima Usa sui morti – La diretta",
+      "url": "https://www.open.online/2026/08/10/terremoto-colombia-10-agosto-danni-feriti-cosa-sta-succedendo-video/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/colombia-terremoto-macerie-111morti.jpg",
+      "summary": "Si scava tra le macerie alla ricerca dei dispersi. 1.575 abitazioni colpite, 37 abitazioni completamente distrutte, 61 edifici crollati. Finora sono cinque gli aeroporti costretti a chiudere in attesa di una stima dei...",
+      "date": "2026-08-10T20:04:00.0000000Z"
+    },
+    {
+      "id": "repubblica:9da87faf0bf9",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Ceccon e il mistero del costume sbagliato: “Me l’hanno portato a dieci minuti dalla gara”",
+      "url": "https://www.repubblica.it/sport/vari/2026/08/10/news/ceccon_costume_sbagliato-425522566/",
+      "image": null,
+      "summary": "La piccola disavventura del nuotatore azzurro, che nel pomeriggio ha conquistato l’accesso alle finali degli Europei",
+      "date": "2026-08-10T20:03:11.0000000Z"
+    },
+    {
+      "id": "open:0f842e07a304",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Come ha fatto una Panda a scontrarsi con un jet privato, il giallo della frenata e il “tamponamento” sulla pista di Linate: cosa è successo",
+      "url": "https://www.open.online/2026/08/10/incidente-linate-panda-jet-privato-cosa-successo/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/panda-contro-jet-privato.jpg",
+      "summary": "Una Panda di servizio contro un jet in fase di rullaggio. Pochi secondi senza alcuna frenata e poi l'impatto nell'area dei voli privati: il particolare sinistro sull'asfalto dello scalo milanese che ha bloccato comunq...",
+      "date": "2026-08-10T19:43:41.0000000Z"
+    },
+    {
+      "id": "repubblica:dfd9fb5b9e5a",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Usa, allarme degli ex 007: “C’è una deriva autoritaria, Trump ha troppo potere”",
+      "url": "https://www.repubblica.it/esteri/2026/08/10/news/usa_allarme_ex_007_deriva_autoritaria_trump_troppo_potere-425522521/",
+      "image": null,
+      "summary": "Il monito di The Steady State, gruppo di oltre 400 ex agenti dell’intelligence: “Culto della personalità ed erosione dei contrappesi, la democrazia è a rischio”",
+      "date": "2026-08-10T19:26:58.0000000Z"
+    },
+    {
+      "id": "ansa:1d49a0e2d5fc",
       "sourceId": "ansa",
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Violento terremoto in Colombia, decine di morti e tanti sotto le macerie",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/10/terremoto-in-colombia-il-bilancio-sale-o-oltre-70-morti_87375249-7b89-4a33-9034-6079ea32e17e.html",
+      "title": "Violento terremoto in Colombia: oltre 110 morti, in tanti sotto le macerie",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/10/violento-terremoto-in-colombia-oltre-110-morti-e-tanti-sotto-le-macerie_87375249-7b89-4a33-9034-6079ea32e17e.html",
       "image": null,
       "summary": "Scossa di 7.4 nel nordovest durata 4 minuti. Cali la più colpita, paura a Bogotà",
-      "date": "2026-08-10T18:31:53.0000000Z"
+      "date": "2026-08-10T19:26:53.0000000Z"
+    },
+    {
+      "id": "open:a4ceb3b6cd58",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il batterio “mangiacarne” nel mare di Messina, come ridurre il pericolo: cosa dice l’Istituto superiore di sanità e chi rischia di più",
+      "url": "https://www.open.online/2026/08/10/batterio-mangiacarne-consigli-iss-rischi/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/padre-figlia-mare.jpg",
+      "summary": "L'Iss torna a chiarire quali siano i reali rischi, dopo l'allarme esploso anche quest'anno sui social per i primi casi sospetti. I consigli degli esperti su cosa va sempre evitato prima di fare il bagno L'articolo Il ...",
+      "date": "2026-08-10T19:18:49.0000000Z"
+    },
+    {
+      "id": "ansa:6b927dfe5ed4",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Europei di nuoto: l'Italia sorride, Razzetti è d'argento",
+      "url": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/10/europei-di-nuoto-razzetti-argento-nei-400-misti_a1d63a4c-2410-4fea-8594-ca5f76136ba0.html",
+      "image": null,
+      "summary": "Qualificati in finale tutti i big azzurri, il ligure secondo nei 400 misti",
+      "date": "2026-08-10T18:49:48.0000000Z"
+    },
+    {
+      "id": "open:90a125608144",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Spin Time, 120 persone ricollocate. Ma cresce la protesta per le strutture lontane: «Non vogliamo lasciare il quartiere»",
+      "url": "https://www.open.online/2026/08/10/spin-time-120-ricollocati-protesta-cambio-quartiere/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/spin-time-ricollocamenti-persone-evacuate.jpg",
+      "summary": "Dopo l’ordinanza del Comune sono iniziati i trasferimenti, ma 150 persone rifiutano di abbandonare il presidio. Intanto arriva la solidarietà del regista Ken Loach con una lettera L'articolo Spin Time, 120 persone ric...",
+      "date": "2026-08-10T18:43:26.0000000Z"
+    },
+    {
+      "id": "open:b92fd9ac6aa5",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Attentato a Ranucci, il factotum di Lavitola dopo il mandato d’arresto: «Perché non torno in Italia». La versione di Tavares sui problemi di salute",
+      "url": "https://www.open.online/2026/08/10/attentato-ranucci-tavares-mandato-arresto-problemi-salute/",
+      "image": "https://static.open.online/wp-content/uploads/2026/07/gomes-clesio-tavares.jpg",
+      "summary": "L'uomo è considerato il braccio destro di Valter Lavitola, finito in carcere come mandante per la bomba davanti alla casa del giornalista Rai. L'uomo ha deciso di rimanere in Africa: al Tg1 spiega che è un suggeriment...",
+      "date": "2026-08-10T18:37:23.0000000Z"
+    },
+    {
+      "id": "ansa:32531ab15eca",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Terremoto in Colombia, il racconto dei minuti di terrore: 'Un boato spaventoso, poi l'inferno'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/10/il-racconto-dei-minuti-di-terrore-un-boato-spaventoso-poi-linferno_6272678d-b55e-459b-b495-1f0cb11c564f.html",
+      "image": null,
+      "summary": "Le testimonianze dopo la scossa: 'Siamo abituati ai sisma ma questo è durato un'eternità'",
+      "date": "2026-08-10T18:36:08.0000000Z"
     },
     {
       "id": "ansa:5147696f912c",
@@ -75,16 +219,16 @@
       "date": "2026-08-10T18:07:09.0000000Z"
     },
     {
-      "id": "open:525e7b2bcbc1",
-      "sourceId": "open",
-      "source": "Open",
+      "id": "repubblica:027a3387f732",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Terremoto in Colombia, a Cali bambini sotto le macerie di un ospedale. Scossa di magnitudo 7.4: almeno 70 morti e diversi feriti – La diretta",
-      "url": "https://www.open.online/2026/08/10/terremoto-colombia-10-agosto-danni-feriti-cosa-sta-succedendo-video/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/terremoto-colombia.jpg",
-      "summary": "La scossa quando nella regione di Chocò erano le 7.34. Ancora da definire il numero dei dispersi, ma i danni agli edifici sono stati segnalati in diverse parti della Colmbia, coltre che in Venezuela, Panama ed Ecuador...",
-      "date": "2026-08-10T17:59:40.0000000Z"
+      "title": "Ciclista ucciso in Salento, l’investitore si costituisce: “Pensavo fosse un animale o una pietra”",
+      "url": "https://bari.repubblica.it/cronaca/2026/08/10/news/ciclista_ucciso_salento_investitore_si_costituisce_pensavo_fosse_animale_o_pietra-425522329/",
+      "image": null,
+      "summary": "Il presunto investitore sarebbe un automobilista 22enne di Ugento, al momento denunciato in stato di libertà per omicidio stradale. La famiglia dell’ingegnere travolto e ucciso, Danilo Congedi, 28 anni, aveva denuncia...",
+      "date": "2026-08-10T18:03:00.0000000Z"
     },
     {
       "id": "open:203a6446fc97",
@@ -99,30 +243,6 @@
       "date": "2026-08-10T17:50:28.0000000Z"
     },
     {
-      "id": "repubblica:939187b3be7d",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Multa da 5 milioni per A2A. L’Arera: “Ha manipolato il mercato elettrico”",
-      "url": "https://www.repubblica.it/economia/2026/08/10/news/multa_5_milioni_a2a_arera_mercato_elettrico-425522308/",
-      "image": null,
-      "summary": "La multiutility lombarda presenterà ricorso al Tar, convinta che il provvedimento si basi su un’interpretazione parziale della norma",
-      "date": "2026-08-10T17:47:22.0000000Z"
-    },
-    {
-      "id": "ansa:6b927dfe5ed4",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Europei di nuoto, Razzetti argento nei 400 misti",
-      "url": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/10/europei-di-nuoto-razzetti-argento-nei-400-misti_a1d63a4c-2410-4fea-8594-ca5f76136ba0.html",
-      "image": null,
-      "summary": "Prima medaglia azzurra in vasca. Borodin secondo e Litchfield terzo",
-      "date": "2026-08-10T17:47:10.0000000Z"
-    },
-    {
       "id": "open:2a745ba88982",
       "sourceId": "open",
       "source": "Open",
@@ -133,18 +253,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/renzi-vannacci.jpg",
       "summary": "È polemica con l'eurodeputato eletto con la Lega per l'uso della parola «rastrellare», quando ha annunciato il candidato sindaco di Milano e i suoi piani per la sicurezza. L'attacco del leader di Italia Viva e la repl...",
       "date": "2026-08-10T17:46:59.0000000Z"
-    },
-    {
-      "id": "ansa:32531ab15eca",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Terremoto in Colombia, il racconto dei minuti di terrore: 'Un boato spaventoso, poi l'inferno'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/10/il-racconto-dei-minuti-di-terrore-un-boato-spaventoso-poi-linferno_6272678d-b55e-459b-b495-1f0cb11c564f.html",
-      "image": null,
-      "summary": "Le testimonianze dopo la scossa: 'Siamo abituati ai sisma ma questo è durato un'eternità'",
-      "date": "2026-08-10T17:46:14.0000000Z"
     },
     {
       "id": "skytg24:SaPfjZ-OvhE",
@@ -288,18 +396,6 @@
       "date": "2026-08-10T17:22:13.0000000Z"
     },
     {
-      "id": "open:f8a8554ca2ae",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Brad Pitt torna a bere, perché ha ripreso dopo 7 anni da sobrio: «Ho imparato a non esagerare»",
-      "url": "https://www.open.online/2026/08/10/brad-pitt-fine-sobrieta-torna-bere-moderazione/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/brad-pitt-alcolismo-dipendenza.jpg",
-      "summary": "Nel 2017 aveva raccontato di non ricordare un solo giorno, da quando aveva lasciato il college, senza aver bevuto, fumato marijuana o fatto uso di «qualcos'altro». Poi il percorso di recupero e sette anni di sobrietà ...",
-      "date": "2026-08-10T17:20:31.0000000Z"
-    },
-    {
       "id": "skytg24:a17vzEHMsOQ",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -323,18 +419,6 @@
       "image": null,
       "summary": "Tre sentenze del tribunale di Palermo annullano l’esame sommario delle richieste d’asilo di tre migranti egiziani a cui era stata negata la protezione: “Non basta che vengano da Paesi sicuri, necessaria la valutazione...",
       "date": "2026-08-10T16:51:44.0000000Z"
-    },
-    {
-      "id": "open:9a79000c7aac",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Terremoto in Colombia, l’appello del medico dopo il crollo: «Tanti pazienti intrappolati: chi può ci aiuti» – Il video",
-      "url": "https://www.open.online/2026/08/10/colombia-crolla-ala-ospedale-cali-medico-richiesta-aiuto-video/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/medico-colombia-ospedale-crollato.jpg",
-      "summary": "Il dottor Juan Gallego ha lanciato una richiesta d'aiuto disperata, dopo che un'ala della struttura è crollata per il sisma di magnitudo 7.4. La corsa contro il tempo per salvare i molti pazienti ancora sotto le macer...",
-      "date": "2026-08-10T16:45:58.0000000Z"
     },
     {
       "id": "repubblica:3b4e28a49080",
@@ -375,40 +459,16 @@
       "date": "2026-08-10T16:29:57.0000000Z"
     },
     {
-      "id": "open:95e69547f52c",
-      "sourceId": "open",
-      "source": "Open",
+      "id": "repubblica:35248d43e29e",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Lavitola, i sopralluoghi a casa di Ranucci prima dell’attentato e quei messaggi anche nei giorni della bomba: «Milioni di italiani ti vogliono alla guida del paese» – Le carte",
-      "url": "https://www.open.online/2026/08/10/lavitola-arrestato-attentato-ranucci-movente-politica-ordinanza/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/gomes-ranucci-lavotila.jpg",
-      "summary": "La gip di Roma scagiona il conduttore di Report: «Ranucci depistato da Lavitola, non sapeva che fosse lui il mandante» L'articolo Lavitola, i sopralluoghi a casa di Ranucci prima dell’attentato e quei messaggi anche n...",
-      "date": "2026-08-10T16:17:12.0000000Z"
-    },
-    {
-      "id": "open:552db422a1fd",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Ceuta messa a ferro e fuoco dai migranti? Il video viene dal Marocco, a 300 km di distanza",
-      "url": "https://www.open.online/2026/08/10/video-incendi-ceuta-beni-ansar-marocco-fact-check/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/ceuta-disordini-melilla-video-fact-checking.jpg",
-      "summary": "La geolocalizzazione fotogramma per fotogramma porta invece a una piazza di Nador, in Marocco L'articolo Ceuta messa a ferro e fuoco dai migranti? Il video viene dal Marocco, a 300 km di distanza proviene da Open .",
-      "date": "2026-08-10T16:12:28.0000000Z"
-    },
-    {
-      "id": "open:608f0c544ef2",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Ai funerali di Beatrice anche la madre e il padre, i timori sulla folla alla cerimonia. Il gip sentirà anche le sorelline",
-      "url": "https://www.open.online/2026/08/10/beatrice-bordighera-funerali-misure-sicurezza/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/beatrice-bordighera-madre.jpg",
-      "summary": "La prefettura di Imperia prevede una massiccia partecipazione alle esequie, soprattutto per il grande impatto mediatico del caso della piccola morta nella casa materna a Bordighera. I timori legati anche alla partecip...",
-      "date": "2026-08-10T16:12:15.0000000Z"
+      "title": "Fabbri trionfa, con Weir è doppietta nel peso. Dosso settima: Europei di atletica in diretta",
+      "url": "https://www.repubblica.it/sport/vari/2026/08/10/diretta/europei_atletica_2026_dosso_fabbri_oggi-425522157/",
+      "image": null,
+      "summary": "Il fiorentino domina la finale con 22.31 davanti all’azzurro di origine sudafricana. La velocista chiude settima nella finale dei 100 vinta dalla britannica Hunt. Nuovo problema muscolare per il campione del mondo del...",
+      "date": "2026-08-10T16:25:41.0000000Z"
     },
     {
       "id": "repubblica:5d8b41df1810",
@@ -416,10 +476,10 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Razzetti d’argento. Ora le staffette. Ceccon e Curtis in finale. Gli Europei di nuoto in diretta",
+      "title": "Razzetti d’argento. Ceccon, Curtis e Martinenghi in finale. Gli Europei di nuoto in diretta",
       "url": "https://www.repubblica.it/sport/vari/2026/08/10/diretta/europei_nuoto_diretta_finali-425522146/",
       "image": null,
-      "summary": "Bene anche Martinenghi, che domina le semifinali dei 100 rana. Si qualifica anche Cerasuolo",
+      "summary": "Si qualifica anche Cerasuolo. Non arrivano medaglie dalle staffette",
       "date": "2026-08-10T16:03:05.0000000Z"
     },
     {
@@ -436,18 +496,6 @@
       "date": "2026-08-10T16:00:09.0000000Z"
     },
     {
-      "id": "open:49e32a730f41",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Lavitola arrestato per la bomba a Ranucci,  caccia al factotum Tavares – Il video",
-      "url": "https://www.open.online/2026/08/10/valter-lavitola-arresto-attentato-ranucci-mandante/",
-      "image": "https://static.open.online/wp-content/uploads/2026/07/ranucci-lavitola.jpeg",
-      "summary": "L'ex direttore dell'Avanti in custodia cautelare in carcere. I legami con gli autori materiali, i pedinamenti e il suo braccio destro ora latitante L'articolo Lavitola arrestato per la bomba a Ranucci, caccia al facto...",
-      "date": "2026-08-10T15:33:59.0000000Z"
-    },
-    {
       "id": "repubblica:655ca428b0ac",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -458,18 +506,6 @@
       "image": null,
       "summary": "È quanto emerge dall’ordinanza che ha portato all’arresto dell’imprenditore per la bomba contro il conduttore di Report. Emerge che l’ex direttore dell’Avanti voleva trasformare il giornalista in un bersaglio per aume...",
       "date": "2026-08-10T15:17:18.0000000Z"
-    },
-    {
-      "id": "open:50f7eddda6de",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Catania, adesca un 13enne e abusa di lui: arrestato un 36enne. Le frasi sul calcio per convincerlo a salire in auto e i precedenti",
-      "url": "https://www.open.online/2026/08/10/catania-violenza-sessuale-13enne-arrestato-uomo-frasi-calcio/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/GOLF_2026081016132254_5d04d72e8ff8958c027ad7da81801546_ottimizzato.jpg",
-      "summary": "L'uomo aveva precedenti per reati sessuali contro minori. Pochi giorni dopo un altro episodio con lo stesso modus operandi ha fatto scattare una seconda denuncia L'articolo Catania, adesca un 13enne e abusa di lui: ar...",
-      "date": "2026-08-10T15:13:49.0000000Z"
     },
     {
       "id": "ansa:3956e000183d",
@@ -525,47 +561,11 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Terremoto 7.4 in Colombia: “Almeno 80 morti”. Bambini sotto le macerie a Cali",
+      "title": "Terremoto 7.4 in Colombia. L’annuncio del presidente de la Espriella: “Almeno 111 morti”",
       "url": "https://www.repubblica.it/esteri/2026/08/10/news/terremoto_colombia_choco_san_jose_palmar-425521782/",
       "image": null,
       "summary": "Dichiarato lo stato di calamità nazionale. Epicentro nei pressi di San José del Palmar, nel nord-ovest, ma la scossa è stata avvertita in gran parte del Paese e oltre, fino a Panama. Almeno sei aeroporti danneggiati, ...",
       "date": "2026-08-10T13:05:08.0000000Z"
-    },
-    {
-      "id": "repubblica:e6c3febe744b",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La mossa “artica” della Cina per aggirare Hormuz: riattivata la via della Seta Polare",
-      "url": "https://www.repubblica.it/esteri/2026/08/10/news/cina_rotta_artica_via_seta_polare_stretto_hormuz-425521723/",
-      "image": null,
-      "summary": "Con la nuova rotta per portare le merci in Europa, Pechino riduce i tempi di navigazione evitando i punti più caldi del traffico marittimo mondiale del momento",
-      "date": "2026-08-10T12:33:49.0000000Z"
-    },
-    {
-      "id": "repubblica:0a6581aedcd8",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Il privilegio di non dover vincere",
-      "url": "https://www.repubblica.it/politica/rubriche/spin-off/2026/08/10/news/il_privilegio_di_non_dover_vincere_elezioni_politiche-425521716/",
-      "image": null,
-      "summary": "Nel 2027 assisteremo a una sfida doppia: quella classica tra il centrodestra e il centrosinistra e quella delle forze fuori dai due poli. Vannacci, Calenda, Di Battista: l’obiettivo è impedire il raggiungimento del pr...",
-      "date": "2026-08-10T12:28:53.0000000Z"
-    },
-    {
-      "id": "repubblica:b0e56ba806cd",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Le ong tedesche: “Le vite umane non sono merce di scambio tra governi. Soccorrere è un dovere”",
-      "url": "https://www.repubblica.it/cronaca/2026/08/10/news/ong_germania_meloni_migranti-425521676/",
-      "image": null,
-      "summary": "Flore Murard di Sos Humanity replica alle accuse del Viminale alle organizzazioni umanitarie tedesche e annuncia: “A giorni raddoppieremo le nostre navi nel Mediterraneo”",
-      "date": "2026-08-10T11:48:10.0000000Z"
     },
     {
       "id": "ansa:7e2e7136b12b",

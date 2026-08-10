@@ -1,7 +1,19 @@
 {
   "category": "aviazione",
-  "updated": "2026-08-10T18:37:33.0015512Z",
+  "updated": "2026-08-10T21:24:29.3752473Z",
   "items": [
+    {
+      "id": "aviationreport:77a6831de5c8",
+      "sourceId": "aviationreport",
+      "source": "Aviation Report",
+      "platform": "rss",
+      "category": "aviazione",
+      "title": "VENOM Autonomy Flying Testbed: i test di volo autonomo della DARPA sugli F-16 dell’USAF",
+      "url": "https://www.aviation-report.com/venom-autonomy-flying-testbed-i-test-di-volo-autonomo-della-darpa-sugli-f-16-usaf/",
+      "image": null,
+      "summary": "Il programma VENOM Autonomy Flying Testbed rappresenta un passo concreto nello sviluppo di capacità autonome per il combattimento aereo. Nato dalla collaborazione tra la U.S. Air Force e la Defense Advanced Research P...",
+      "date": "2026-08-10T20:05:15.0000000Z"
+    },
     {
       "id": "aviationreport:5a4db0bb7a27",
       "sourceId": "aviationreport",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "C-2 Greyhound: l’ultimo volo a Pensacola chiude l’era COD della US Navy, tra passaggio al CMV-22B Osprey e arrivo al museo nel 2027. L'articolo C-2A Greyhound: ultimo volo per il COD della US Navy proviene da Aviation...",
       "date": "2026-07-31T22:02:04.0000000Z"
-    },
-    {
-      "id": "aviationreport:2b8979f8ee46",
-      "sourceId": "aviationreport",
-      "source": "Aviation Report",
-      "platform": "rss",
-      "category": "aviazione",
-      "title": "Airbus consegna alla Francia il primo NH90 per operazioni speciali",
-      "url": "https://www.aviation-report.com/airbus-consegna-alla-francia-primo-nh90-per-operazioni-speciali/",
-      "image": null,
-      "summary": "Airbus Helicopters ha consegnato ufficialmente il primo NH90 Standard 2 alla Direzione Generale degli Armamenti francese (DGA). Questa nuova variante dell’NH90 TTH è stata progettata specificamente per le operazioni s...",
-      "date": "2026-07-31T15:35:50.0000000Z"
     }
   ]
 }
