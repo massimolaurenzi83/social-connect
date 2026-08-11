@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-11T04:08:44.2132598Z",
+  "updated": "2026-08-11T08:15:24.5899727Z",
   "items": [
+    {
+      "id": "cybersecurity360:1baf27651c16",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Gestione dei rischi NIS 2: la scelta del metodo determina la qualità del sistema",
+      "url": "https://www.cybersecurity360.it/legal/gestione-dei-rischi-nis-2-la-scelta-del-metodo-determina-la-qualita-del-sistema/",
+      "image": null,
+      "summary": "La scelta del metodo non è una decisione tecnica di secondo piano, ma stabilisce il modo in cui l’organizzazione comprenderà i propri rischi, selezionerà le misure e dimostrerà la coerenza del proprio sistema. Ecco pe...",
+      "date": "2026-08-11T07:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:ace02218901b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Sicurezza delle reti e Wi-Fi pubblici: la cifratura del traffico è diventata la prima linea di difesa per la privacy",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/cifratura-wifi-privacy-servizio-vpn-protezione-dati/",
+      "image": null,
+      "summary": "Risparmio fino a 60% per l’offerta Avast dedicata a sicurezza e privacy online. SecureLine VPN protegge le connessioni Wi-Fi, cifra il traffico e consente di navigare con maggiore riservatezza. Le formule arrivano fin...",
+      "date": "2026-08-11T04:45:12.0000000Z"
+    },
     {
       "id": "cybersecurity360:d623cabf8d5a",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "L'offerta Norton Small Business consente di risparmiare fino a 70 euro sul primo anno rispetto al prezzo di rinnovo. Il piano protegge fino a 20 dispositivi e include antivirus, backup nel cloud, Password Manager, mon...",
       "date": "2026-08-07T10:00:46.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2d2825ec5c5f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "NIS2, continuità operativa e disaster recovery: definire priorità, RTO e RPO",
-      "url": "https://www.cybersecurity360.it/legal/nis2-continuita-operativa-e-disaster-recovery-definire-priorita-rto-e-rpo/",
-      "image": null,
-      "summary": "La continuità operativa non può essere ridotta alla presenza di backup o a un piano di ripristino tecnico. In ottica NIS2, resilienza significa sapere quali attività devono ripartire prima, quali asset le supportano, ...",
-      "date": "2026-08-07T09:20:20.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:745552ceb108",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Lo “shall” del GDPR: il dovere di protezione che obbliga a progettare il futuro",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/lo-shall-del-gdpr-il-dovere-di-protezione-che-obbliga-a-progettare-il-futuro/",
-      "image": null,
-      "summary": "Dietro il verbo \"shall” del GDPR c'è l'idea antica del dovere come debito. Un debito di protezione che la norma impone al titolare senza prescrivere una soluzione predefinita: spetta a lui tradurre principi e risultat...",
-      "date": "2026-08-07T08:00:14.0000000Z"
     }
   ]
 }

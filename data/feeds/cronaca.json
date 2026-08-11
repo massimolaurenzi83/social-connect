@@ -1,7 +1,79 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-11T04:08:44.2118249Z",
+  "updated": "2026-08-11T08:15:24.5637504Z",
   "items": [
+    {
+      "id": "ansa-cronaca:bcdc20d4d0ef",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Febbre del Nilo, salgono a 12 i casi di persone contagiate in Sardegna",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/febbre-del-nilo-salgono-a-12-i-casi-di-persone-contagiate-in-sardegna_278434d0-b69e-4ac1-82dc-fae05ab92976.html",
+      "image": null,
+      "summary": "Tutti nell'Oristanese, due ultrasettantenni e un ultracinquantenne in osservazione",
+      "date": "2026-08-11T08:06:14.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:abcb124c37bd",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Nube vulcanica sull'Etna, sospesi gli atterraggi a Catania fino alle 19",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/nube-vulcanica-sulletna-sospesi-atterraggi-a-catania-fino-alle-19_787bd872-42c8-41b0-ace2-6f10bc7311fd.html",
+      "image": null,
+      "summary": "Sac a passeggeri, verificare lo stato del volo con la compagnia aerea",
+      "date": "2026-08-11T07:42:19.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:69eb7d0d4426",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Prosegue l'incendio nell'Alessandrino, potenziate le squadre",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/prosegue-lincendio-nellalessandrino-potenziate-le-squadre_87cb35aa-e3eb-490f-b9fd-ead6f564790c.html",
+      "image": null,
+      "summary": "Inviate tutte le autobotti della provincia, chieste quelle da Asti e Genova",
+      "date": "2026-08-11T07:35:55.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:70783e5cb39c",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Scoperta in Friuli carrozzeria abusiva auto di lusso, sequestro da 1 milione",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/scoperta-in-friuli-carrozzeria-abusiva-auto-di-lusso-sequestro-da-1-milione_ee88b70c-e0ac-4b7c-b766-e94529702ad7.html",
+      "image": null,
+      "summary": "Controllata anche concessionaria collegata, portati via i 29 veicoli",
+      "date": "2026-08-11T07:30:41.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:50f5bd61bd3d",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Nuova bocca eruttiva sull'Etna, si è aperta nella Valle del Bove",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/nuova-bocca-eruttiva-sulletna-si-e-aperta-nella-valle-del-bove_c73fee70-35a7-471f-9fb7-f81b2008e7fd.html",
+      "image": null,
+      "summary": "Forte attività esplosiva con emissione di cenere al cratere Voragine",
+      "date": "2026-08-11T06:06:55.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:2b856c8be1b4",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Definì 'maiali' agenti del caso Aldrovandi, assolto Chef Rubio",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/defini-maiali-agenti-del-caso-aldrovandi-assolto-chef-rubio_ce8a0cea-cd3f-4b82-a03b-76e80640c555.html",
+      "image": null,
+      "summary": "La Cassazione nella sentenza: 'Non si riferiva alla categoria, frase polemica ricorrente'",
+      "date": "2026-08-11T05:50:31.0000000Z"
+    },
     {
       "id": "ansa-cronaca:f53b6db6b3ab",
       "sourceId": "ansa-cronaca",
@@ -73,78 +145,6 @@
       "image": null,
       "summary": "Indagini carabinieri e ispettori Azienda sanitaria, si indaga sulla sua posizione",
       "date": "2026-08-10T16:24:56.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:a8597ce2420e",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Emissione cenere Etna, atterraggi e decolli sospesi a Catania fino alle 6 di domani",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/emissione-cenere-etna-atterraggi-e-decolli-sospesi-a-catania-fino-alle-6-di-domani_c9b18894-2cf9-4f08-9509-e475a84538d7.html",
-      "image": null,
-      "summary": "Decisione della Sac dopo la chiusura di due settori aerei",
-      "date": "2026-08-10T16:20:30.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:9cefbdf923b5",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Etna paralizza aeroporto di Catania, presa d'assalto da curiosi",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/etna-paralizza-aeroporto-di-catania-presa-dassalto-da-curiosi_067bbcec-4134-4584-8419-cddbc4cc3128.html",
-      "image": null,
-      "summary": "Escursioni improvvisati sui sentieri del vulcano, soccorsi nella notte",
-      "date": "2026-08-10T15:42:33.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:2518c469f8dc",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Gip, 'da Lavitola attentato per accrescere popolarità di Ranucci'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/gip-da-lavitola-attentato-per-accrescere-popolarita-di-ranucci_a5996b88-deaf-4675-ba30-fc61525faa2b.html",
-      "image": null,
-      "summary": "L'arrestato voleva \"accelerare i suoi progetti in ambito politico\"",
-      "date": "2026-08-10T15:26:28.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:b67bbc9d80a2",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Spin Time, 120 persone ospitate in alloggi, alcuni rifiutano 'troppo lontani'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/spin-time-120-persone-ospitate-in-alloggi-alcuni-rifiutano-troppo-lontani_a8c67697-8c50-4dbc-b6b0-9362e7d40047.html",
-      "image": null,
-      "summary": "Gli attivisti, 'tre strutture sono fuori dal Raccordo. Circa 150 ancora in strada'",
-      "date": "2026-08-10T15:23:00.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:a60193a7a760",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "La madre del regista morto: 'Aveva la boa, siamo annichiliti'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/la-madre-del-regista-morto-aveva-la-boa-siamo-annichiliti_71fa3a28-f8b7-450e-8d96-38d3a8fa0a7b.html",
-      "image": null,
-      "summary": "Sub 29enne ucciso dalle eliche. Disposta l'autopsia, indagata coppia di turisti",
-      "date": "2026-08-10T15:21:41.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:3adb8159e47c",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Abusa di due hostess a bordo di uno yacht, arrestato skipper spagnolo",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/abusa-di-due-hostess-a-bordo-di-uno-yacht-arrestato-skipper-spagnolo_6fe6b739-0a40-4f24-86c2-4233ea05af41.html",
-      "image": null,
-      "summary": "L'uomo è stato fermato dalla polizia all'aeroporto di Genova",
-      "date": "2026-08-10T14:45:35.0000000Z"
     }
   ]
 }

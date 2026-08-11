@@ -1,7 +1,55 @@
 {
   "category": "arte",
-  "updated": "2026-08-11T04:08:44.2394039Z",
+  "updated": "2026-08-11T08:15:24.5451632Z",
   "items": [
+    {
+      "id": "artribune:7ed5e669a077",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il museo d’arte italiana di New York dedica una mostra all’artista Bruna Esposito. Le immagini",
+      "url": "https://www.artribune.com/arti-visive/2026/08/mostra-bruna-esposito-magazzino-italian-art-new-york/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/0259a4-ph-marco-anelli-tommaso-sacconi-scaled.jpg",
+      "summary": "Si intitola “Bruna Esposito: In Light of Facts” la mostra ospitata nel Robert Olnick Pavilion di Magazzino Italian Art, a New York, fino al 1° febbraio 2027. Per approfondire il progetto espositivo abbiamo rivolto alc...",
+      "date": "2026-08-11T07:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:12cafa58b728",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Qual è la città più grande del mondo? La risposta cambia a seconda di come la si misura",
+      "url": "https://www.elledecor.com/it/viaggi/a73391980/qual-e-la-citta-piu-grande-del-mondo/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/0c31021c-9a07-4d79-b4fb-0306cce09118.jpeg",
+      "summary": "Popolazione, confini amministrativi, estensione urbana: tre criteri diversi, tre città diverse in cima alla classifica",
+      "date": "2026-08-11T07:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:e15e488c7bf3",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Una casa incornicia il paesaggio boschivo nelle sue finestre rispondendo alla grazia della natura",
+      "url": "https://www.elledecor.com/it/case/a73323474/casa-nel-bosco/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/50d22fe3-9502-48b1-a542-0a41c7adcecf.jpg",
+      "summary": "CENT 15 firma un'abitazione sostenibile in Francia che cerca un dialogo profondo e strutturale con tutto ciò che la circonda",
+      "date": "2026-08-11T06:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:8efd6aaf68bb",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "I mercatini vintage per gli appassionati di second hand nelle 11 città più amate dai designer",
+      "url": "https://www.elledecor.com/it/viaggi/a73357413/mercatini-vintage-bellissimi-nel-mondo/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/19f2731f-09bc-401e-8641-1a4c27497eb9.jpeg",
+      "summary": "Da Anversa a Hudson, i professionisti del settore rivelano gli indirizzi che tornano a visitare a ogni viaggio, tra bancarelle di strada e magazzini fuori città",
+      "date": "2026-08-11T05:00:00.0000000Z"
+    },
     {
       "id": "artribune:e3188efdad37",
       "sourceId": "artribune",
@@ -63,18 +111,6 @@
       "date": "2026-08-10T14:30:00.0000000Z"
     },
     {
-      "id": "artribune:f2df9b171ecb",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Natale è lontano ma a Napoli tre artisti reinterpretano la tradizione del presepe in una mostra. L’intervista",
-      "url": "https://www.artribune.com/arti-visive/2026/08/intervista-samuele-piazza-mostra-madre-napoli/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/dsc9059-scaled.jpg",
-      "summary": "Il curatore Samuele Piazza ci racconta “Living Collapse”, mostra con Andrea Bolognino, Effe Minelli e Raffaela Naldi Rossano, visitabile fino al 5 ottobre al Museo Madre, con cui ha vinto la I edizione del Premio nato...",
-      "date": "2026-08-10T14:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:c348898cd81d",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -84,6 +120,18 @@
       "url": "https://www.elledecor.com/it/viaggi/a73382353/citta-vuota-agosto/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/d3d0ee87-5214-4a87-8a15-51e42e57abe4.jpeg",
       "summary": "Dove sono tutti quelli che dicono che la città vuota, in estate, sia bellissima?",
+      "date": "2026-08-10T14:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:f2df9b171ecb",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Natale è lontano ma a Napoli tre artisti reinterpretano la tradizione del presepe in una mostra. L’intervista",
+      "url": "https://www.artribune.com/arti-visive/2026/08/intervista-samuele-piazza-mostra-madre-napoli/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/dsc9059-scaled.jpg",
+      "summary": "Il curatore Samuele Piazza ci racconta “Living Collapse”, mostra con Andrea Bolognino, Effe Minelli e Raffaela Naldi Rossano, visitabile fino al 5 ottobre al Museo Madre, con cui ha vinto la I edizione del Premio nato...",
       "date": "2026-08-10T14:00:00.0000000Z"
     },
     {
@@ -111,18 +159,6 @@
       "date": "2026-08-10T12:00:00.0000000Z"
     },
     {
-      "id": "elledecor:7315d5b9f70b",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Homo Faber torna a Venezia con \"An Island of Light\", e San Giorgio Maggiore diventa un'isola di luce",
-      "url": "https://www.elledecor.com/it/design/a73332170/homo-faber-venezia-2026/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/081ff245-c346-4fce-b468-a61313a1b3ab.png",
-      "summary": "15 ambienti espositivi, laboratori aperti al pubblico e oltre 100 opere che raccontano il presente dell'artigianato contemporaneo nella nuova edizione curata da Es Devlin",
-      "date": "2026-08-10T11:00:00.0000000Z"
-    },
-    {
       "id": "artribune:a9b337572c56",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -132,6 +168,18 @@
       "url": "https://www.artribune.com/arti-performative/teatro-danza/2026/08/teatro-city-milano-prima-edizione-2026/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/teatro-carcano.jpg",
       "summary": "Dal 15 al 18 ottobre 2026 Teatro City Milano metterà in relazione teatri e sale della città. Aperte fino al 10 settembre le candidature per costruire un calendario di spettacoli, festival, laboratori e iniziative per ...",
+      "date": "2026-08-10T11:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:7315d5b9f70b",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Homo Faber torna a Venezia con \"An Island of Light\", e San Giorgio Maggiore diventa un'isola di luce",
+      "url": "https://www.elledecor.com/it/design/a73332170/homo-faber-venezia-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/081ff245-c346-4fce-b468-a61313a1b3ab.png",
+      "summary": "15 ambienti espositivi, laboratori aperti al pubblico e oltre 100 opere che raccontano il presente dell'artigianato contemporaneo nella nuova edizione curata da Es Devlin",
       "date": "2026-08-10T11:00:00.0000000Z"
     },
     {
@@ -183,18 +231,6 @@
       "date": "2026-08-10T07:00:00.0000000Z"
     },
     {
-      "id": "artribune:4bd02ffcad28",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Lavorare nell’arte e cultura: opportunità da Villa Romana, Studio Marangoni, Sineglossa, Isola di Stavoli, ISIA di Urbino",
-      "url": "https://www.artribune.com/jobs/2026/08/lavoro-arte-cultura-inizio-agosto-2026/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/1-villa-romana-firenze-foto-oknostudio-1200x801-2.jpg",
-      "summary": "Direzione museale, comunicazione visiva, produzione culturale, editoria, arti visive, performative e multimediali, sono gli ambiti di interesse dei bandi, delle offerte di lavoro e delle opportunità in senso più ampio...",
-      "date": "2026-08-10T07:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:09c8d71780a2",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -229,42 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/75413f8f-d6c9-4c20-bed7-c7d040962f0e.jpeg",
       "summary": "Caprini & Pellerin reinterpretano la dimora trasformata da Heydar Ghiaï-Chamlou, riportando in primo piano il carattere sensuale dell’architettura mediterranea",
       "date": "2026-08-09T14:30:00.0000000Z"
-    },
-    {
-      "id": "elledecor:a8c08aec666e",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Perché Carlo III ha scelto di vivere a Clarence House, invece che a Buckingham Palace?",
-      "url": "https://www.elledecor.com/it/lifestyle/a73307778/carlo-iii-lascia-buckingham-palace/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/e597ed2c-cacd-4cec-ada1-6285352a230c.jpeg",
-      "summary": "Dopo la ristrutturazione da 369 milioni di sterline, il palazzo londinese perderà i suoi residenti permanenti per diventare il cuore cerimoniale della monarchia e aprire sempre più spazi al pubblico",
-      "date": "2026-08-09T13:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:81b187311203",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "L'agenda delle mostre da vedere nella settimana dal 9 al 15 agosto",
-      "url": "https://www.elledecor.com/it/arte/a73365052/mostre-da-vedere-dal-9-al-15-agosto/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/f86d385a-358c-48f0-8dcb-05facc69f4d0.jpg",
-      "summary": "Pittura, scultura, fotografia, opere di land art e installazioni site specific: gli appuntamenti in musei, nuovi spazi espositivi ma anche in contesti paesaggistici unici, immersi nella natura",
-      "date": "2026-08-09T12:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:ec39c4332a3b",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Magnetica Pantelleria è il festival multidisciplinare cucito su misura della Perla Nera del Mediterraneo",
-      "url": "https://www.elledecor.com/it/lifestyle/a73353693/magnetica-pantelleria/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/58ec69c6-94f6-4aa5-b682-6c0050a14eeb.jpg",
-      "summary": "La kermesse al suo secondo appuntamento porta sull'isola un'esperienza culturale in una cornice artistica da calamita: La Collina di Loredana",
-      "date": "2026-08-09T11:00:00.0000000Z"
     }
   ]
 }

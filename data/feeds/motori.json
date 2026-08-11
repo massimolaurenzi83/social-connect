@@ -1,7 +1,79 @@
 {
   "category": "motori",
-  "updated": "2026-08-11T04:08:44.1741586Z",
+  "updated": "2026-08-11T08:15:24.5394404Z",
   "items": [
+    {
+      "id": "motor1:b47357c7fb25",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Maserati pensa al ritorno del V8",
+      "url": "https://it.motor1.com/news/804436/maserati-v8-motore-ritorno/",
+      "image": "https://cdn.motor1.com/images/mgl/9m8MAm/s3/maserati-v8.jpg",
+      "summary": "Il Tridente ragiona sulla fattibilità tecnica di un otto cilindri per i suoi modelli. Il vero ritorno, però, non è vicino",
+      "date": "2026-08-11T07:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:8d1c74d57714",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Caterham Seven Miami: 12 esemplari così non si erano mai visti",
+      "url": "https://www.hdmotori.it/caterham-seven-miami-12-esemplari/",
+      "image": null,
+      "summary": "Due Caterham Seven Miami hanno illuminato la Monterey Car Week. L’edizione speciale dedicata alla città americana è ricca di dettagli spettacolari. The post Caterham Seven Miami: 12 esemplari così non si erano mai vis...",
+      "date": "2026-08-11T07:00:10.0000000Z"
+    },
+    {
+      "id": "insideevs:82198d180398",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'auto da record che brucia idrogeno arriva a 592 km/h",
+      "url": "https://insideevs.it/news/804361/jcb-hydromax-record-592-kmh/",
+      "image": "https://cdn.motor1.com/images/mgl/P3B1KG/s3/jcb-hydromax-a-bonneville-nel-2026.jpg",
+      "summary": "Lo streamliner a idrogeno JCB Hydromax stabilisce un record di classe SCTA oltre i 592 km/h. Presto il tentativo di record mondiale FIA",
+      "date": "2026-08-11T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:d8e596b8df18",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa è la Mitsubishi più strana che vedrete oggi",
+      "url": "https://it.motor1.com/news/804371/mitsubishi-flyin-pug-asta-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KxEO/s3/mitsubishi-flying-pug.jpg",
+      "summary": "Si chiama Mitsubishi Flying Pug, è stata prodotta a fine anni '90 e si prepara ad andare all'asta",
+      "date": "2026-08-11T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:03cd3cc9457c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Com'è fatta dentro la nuova Mercedes GLA",
+      "url": "https://it.motor1.com/news/803319/nuova-mercedes-gla-2026-interni-bagagliaio/",
+      "image": "https://cdn.motor1.com/images/mgl/xq3xj6/s3/nuova-mercedes-gla-interni-e-bagagliaio.jpg",
+      "summary": "Schermi in abbondanza, un tetto panoramico \"stellato\" e abitabilità migliorata. Saliamo a bordo della nuova GLA",
+      "date": "2026-08-11T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:4565e3d83503",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen ID. Cross vs Ford Puma Gen-E, confronto tra SUV compatti",
+      "url": "https://insideevs.it/news/803371/volkswagen-id-cross-vs-ford-puma-gen-e-confronto/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZMp4/s3/ford-puma-vs-wv-id.-cross.jpg",
+      "summary": "Personali nelle linee, spaziosi e con un'autonomia più che sufficiente anche per uscire dalla città. Ecco ID. Cross e Puma Gen-E",
+      "date": "2026-08-11T05:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:e112bf403362",
       "sourceId": "hdmotori",
@@ -243,18 +315,6 @@
       "date": "2026-08-10T13:00:25.0000000Z"
     },
     {
-      "id": "insideevs:daff26101944",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le 6 auto elettriche cinesi che comprerei dopo averne provate 25",
-      "url": "https://insideevs.it/news/804314/quali-auto-elettriche-cinese-comprerei/",
-      "image": "https://cdn.motor1.com/images/mgl/P3JPB4/s3/zeekr-mix.jpg",
-      "summary": "Sono le Zeekr Mix, BYD Seagul, Xiaomi SU7 e YU7, Geely EX5 e Nio Firefly: ecco perché",
-      "date": "2026-08-10T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:10c2940589d4",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -264,6 +324,18 @@
       "url": "https://it.motor1.com/features/804350/nuovo-codice-strada-2026-novita-proposte/",
       "image": "https://cdn.motor1.com/images/mgl/kERqX/s3/segnalare_controlli_polizia_denuncia_favoreggiamento_19083.jpg",
       "summary": "Patente a 17 anni, casco obbligatorio sulle bici elettriche veloci e multe progressive ridisegnano regole, controlli e responsabilità di chi guida",
+      "date": "2026-08-10T13:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:daff26101944",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le 6 auto elettriche cinesi che comprerei dopo averne provate 25",
+      "url": "https://insideevs.it/news/804314/quali-auto-elettriche-cinese-comprerei/",
+      "image": "https://cdn.motor1.com/images/mgl/P3JPB4/s3/zeekr-mix.jpg",
+      "summary": "Sono le Zeekr Mix, BYD Seagul, Xiaomi SU7 e YU7, Geely EX5 e Nio Firefly: ecco perché",
       "date": "2026-08-10T13:00:00.0000000Z"
     },
     {
@@ -291,18 +363,6 @@
       "date": "2026-08-10T12:00:17.0000000Z"
     },
     {
-      "id": "motor1:80801a14057c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Stellantis ha risolto il problema del turbo lag",
-      "url": "https://it.motor1.com/news/804341/eboost-air-stellantis-turbo-lag/",
-      "image": "https://cdn.motor1.com/images/mgl/Oo9ObL/s3/jeep-grand-cherokee-prototype-with-srt-eboost-air-e-compressor.jpg",
-      "summary": "SRRT presente l'e-compressore eBoost Air, per ora solo un concept, ma potrebbe arrivare su futuri modelli di produzione",
-      "date": "2026-08-10T12:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:ce9e4e2df94f",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -312,6 +372,18 @@
       "url": "https://insideevs.it/news/804331/tesla-fsd-confronto-versioni-video/",
       "image": "https://cdn.motor1.com/images/mgl/jlWvr6/s3/tesla-fsd-reaction-test-hero.jpg",
       "summary": "Uno YouTuber confronta le versioni della guida autonoma sfruttando un pedone-manichino. Intanto l'Ue valuta l'approvazione del sistema",
+      "date": "2026-08-10T12:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:80801a14057c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Stellantis ha risolto il problema del turbo lag",
+      "url": "https://it.motor1.com/news/804341/eboost-air-stellantis-turbo-lag/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo9ObL/s3/jeep-grand-cherokee-prototype-with-srt-eboost-air-e-compressor.jpg",
+      "summary": "SRRT presente l'e-compressore eBoost Air, per ora solo un concept, ma potrebbe arrivare su futuri modelli di produzione",
       "date": "2026-08-10T12:00:00.0000000Z"
     },
     {
@@ -337,18 +409,6 @@
       "image": "https://cdn.motor1.com/images/mgl/G3QMqx/s3/mitsubishi-grandis-2026-la-prova.jpg",
       "summary": "Discreta, ma affidabile: la giapponese convince nel test come SUV compatto spazioso dal prezzo equo",
       "date": "2026-08-10T11:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:f5b103ad81e4",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Suzuki Jimny diventa una supercar: assetto ribassato e look anni ‘70",
-      "url": "https://www.hdmotori.it/suzuki-jimny-supercar-assetto-ribassato/",
-      "image": null,
-      "summary": "Una rappresentazione grafica ha svelato le linee di una versione coupé della Suzuki Jimny. Il DNA 4x4 ha lasciato spazio a una estetica estrema. The post La Suzuki Jimny diventa una supercar: assetto ribassato e look ...",
-      "date": "2026-08-10T10:30:07.0000000Z"
     },
     {
       "id": "motor1:64950a98b401",
@@ -387,18 +447,6 @@
       "date": "2026-08-10T10:10:24.0000000Z"
     },
     {
-      "id": "motor1:6315b10f550b",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Ford Mustang a 4 porte potrebbe arrivare davvero",
-      "url": "https://it.motor1.com/news/804327/ford-mustang-4-porte-anticipazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/0e7y63/s3/2024-ford-mustang-dark-horse-first-drive-review.jpg",
-      "summary": "Dagli USA tornano insistenti le voci su una Mustang berlina. Potrebbe chiamarsi \"Mach-4\" e sarebbe già stata mostrata alle concessionarie",
-      "date": "2026-08-10T10:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:f5ee0e4c56dc",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -409,30 +457,6 @@
       "image": null,
       "summary": "Dopo i record dei precedenti mesi, a luglio il mercato delle due ruote elettriche rallenta ma si mantiene… L'articolo Mercato due ruote: luglio rallenta, ma l’elettrico resta in crescita del +20% proviene da Vaielettr...",
       "date": "2026-08-10T09:37:21.0000000Z"
-    },
-    {
-      "id": "motor1:63b8686d27b1",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ecco la piccola di smart erede della fortwo",
-      "url": "https://it.motor1.com/news/804332/smart-2-foto-dimensioni-autonomia--anteprima/",
-      "image": "https://cdn.motor1.com/images/mgl/Qe7049/s3/smart-2.jpg",
-      "summary": "Sul sito del ministero cinese della tecnologia arrivano le prime foto della smart #2",
-      "date": "2026-08-10T09:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:c61c6b6c4f92",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il SUV da 402 CV di BYD con look da fuoristrada arriva in Europa",
-      "url": "https://it.motor1.com/news/804318/byd-ti-7-suv-fuoristrada-europa/",
-      "image": "https://cdn.motor1.com/images/mgl/JONPMM/s3/byd-ti-7.jpg",
-      "summary": "BYD Ti 7: sette posti, 402 CV plug-in hybrid e look da Defender con 119 km di autonomia elettrica",
-      "date": "2026-08-10T08:22:31.0000000Z"
     },
     {
       "id": "vaielettrico:ebf41d1649d6",
@@ -505,30 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/koKjzN/s3/la-schermata-della-nuova-piattaforma-unica-nazionale-per-la-ricarica.jpg",
       "summary": "L'infrastruttura nazionale cresce velocemente. Una piattaforma del ministero dà tutte le info utili per viaggiare senza brutte sorprese",
       "date": "2026-08-07T15:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:8a89b87f2c87",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "CATL e BYD hanno in mano metà delle batterie per auto elettriche",
-      "url": "https://insideevs.it/news/804176/catl-byd-mercato-globale-batterie/",
-      "image": "https://cdn.motor1.com/images/mgl/XBz8y2/s3/catl-e-byd-hanno-in-mano-meta-delle-batterie-per-auto-elettriche.jpg",
-      "summary": "I dati SNE Research mostrano un mercato in crescita ma sempre più concentrato nelle mani dei grandi gruppi cinesi",
-      "date": "2026-08-07T13:22:12.0000000Z"
-    },
-    {
-      "id": "insideevs:8901a815fa5c",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il litio metallico può dare più autonomia alle auto elettriche",
-      "url": "https://insideevs.it/news/804158/batterie-litio-metallico-stress-meccanico/",
-      "image": "https://cdn.motor1.com/images/mgl/Qe70N8/s3/il-litio-metallico-puo-dare-piu-autonomia-alle-auto-elettriche.jpg",
-      "summary": "La tecnologia promette pacchi batteria più piccoli e leggeri, ma serve ancora risolvere il problema dei dendriti e degli stress interni",
-      "date": "2026-08-07T11:00:00.0000000Z"
     }
   ]
 }
