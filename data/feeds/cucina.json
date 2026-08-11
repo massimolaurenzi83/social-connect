@@ -1,7 +1,31 @@
 {
   "category": "cucina",
-  "updated": "2026-08-11T08:15:24.5370820Z",
+  "updated": "2026-08-11T11:10:10.8262875Z",
   "items": [
+    {
+      "id": "dissapore:7ce9972fe898",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Il dissing dell’estate è quello sul polpo crudo",
+      "url": "https://www.dissapore.com/notizie/il-dissing-dellestate-e-quello-sul-polpo-crudo/",
+      "image": null,
+      "summary": "Matteo Bassetti pubblica un contenuto social sulla pericolosità della moda estiva di mangiare il polpo crudo, e i Pugliesi non la prendono bene. L'articolo Il dissing dell’estate è quello sul polpo crudo proviene da D...",
+      "date": "2026-08-11T09:50:13.0000000Z"
+    },
+    {
+      "id": "giallozafferano:26ae7b5b15b6",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Focaccia al pesto e stracchino",
+      "url": "https://ricette.giallozafferano.it/Focaccia-al-pesto-e-stracchino.html",
+      "image": "https://www.giallozafferano.it/images/365-36540/Focaccia-al-pesto-e-stracchino_1200x800.jpg",
+      "summary": "La focaccia al pesto e stracchino è uno di quei lievitati soffici e saporiti, perfetti quando vuoi portare in tavola qualcosa dal gusto semplice ma davvero sfizioso. Noi di GialloZafferano abbiamo un debole per la foc...",
+      "date": "2026-08-11T09:38:00.0000000Z"
+    },
     {
       "id": "dissapore:dd537f6c3d51",
       "sourceId": "dissapore",
@@ -159,18 +183,6 @@
       "date": "2026-08-06T15:17:00.0000000Z"
     },
     {
-      "id": "dissapore:24ed0a3d2652",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "No, la Coca-Cola non è nata a Firenze",
-      "url": "https://www.dissapore.com/notizie/no-la-coca-cola-non-e-nata-a-firenze/",
-      "image": null,
-      "summary": "L'ipotesi aveva fatto il giro del mondo, ma a contraddirla è un dettaglio telefonico. L'articolo No, la Coca-Cola non è nata a Firenze proviene da Dissapore .",
-      "date": "2026-08-06T13:24:05.0000000Z"
-    },
-    {
       "id": "giallozafferano:0250a4dfe3b4",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/364-36486/Crostata-ai-mirtilli-con-crema-al-formaggio_1200x800.jpg",
       "summary": "La crostata ai mirtilli con crema al formaggio è molto più di un semplice dolce casalingo: la sua presentazione elegante e il gusto equilibrato la rendono all’altezza di una vera torta da pasticceria! La friabile base...",
       "date": "2026-07-31T13:20:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:fb8f60cb9718",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Pasta ceci e zucchine",
-      "url": "https://ricette.giallozafferano.it/Pasta-ceci-e-zucchine.html",
-      "image": "https://www.giallozafferano.it/images/365-36505/Pasta-ceci-e-zucchine_1200x800.jpg",
-      "summary": "La pasta ceci e zucchine è una variante di stagione della classica pasta e ceci, arricchita con verdure fresche e un tocco gourmet! Le zucchine incontrano i legumi in un primo piatto leggero e nutriente , che si prepa...",
-      "date": "2026-07-31T09:32:00.0000000Z"
     }
   ]
 }
