@@ -1,18 +1,66 @@
 {
   "category": "arte",
-  "updated": "2026-08-11T11:10:10.8018902Z",
+  "updated": "2026-08-11T14:46:30.4040537Z",
   "items": [
     {
-      "id": "artribune:d2d06d438887",
+      "id": "elledecor:87cf17c9832c",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Questo attico total white unisce il calore del legno alle icone del design con la città sullo sfondo",
+      "url": "https://www.elledecor.com/it/case/a73344584/attico-total-white-bellissimo/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5640f14e-be85-44a2-afd9-f52fc0e947ab.jpg",
+      "summary": "A Madrid, lo studio Gaztelu Arquitectura ha ripensato un attico d'epoca riportando alla luce l'altezza nascosta dei soffitti e trasformando la cucina nel cuore pulsante della casa",
+      "date": "2026-08-11T14:30:00.0000000Z"
+    },
+    {
+      "id": "elledecor:e7da92bb4283",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "La padella in metallo che dura per sempre (e che non fa attaccare i cibi)",
+      "url": "https://www.elledecor.com/it/lifestyle/a73317693/everpan-padella-metallo-antiaderente/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f21e9c64-9c0d-4933-92e2-f78f57c3f507.jpeg",
+      "summary": "Everpan unisce i vantaggi dei modelli in acciaio con quelli antiaderenti, senza uso di sostanze chimiche",
+      "date": "2026-08-11T14:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:aa53f938776b",
       "sourceId": "artribune",
       "source": "Artribune",
       "platform": "rss",
       "category": "arte",
-      "title": "Storia di Pavana, il paese di Francesco Guccini che sta in Toscana ma dove si parla bolognese",
-      "url": "https://www.artribune.com/turismo/2026/08/pavana-guccini-appennino-tosco-emiliano/",
-      "image": "https://www.youtube.com/embed/TFCpY8UPotQ",
-      "summary": "Nel cuore dell’Appennino tosco-emiliano Pavana prende forma tra castagneti e strade di montagna. Un luogo lontano dal caos metropolitano dove il celebre cantautore italiano ha trovato una delle sue radici più profonde...",
-      "date": "2026-08-11T11:00:00.0000000Z"
+      "title": "A Roma la mostra sulle “Metamorfosi” cambia faccia alla Galleria Borghese (sì, ma in peggio)",
+      "url": "https://www.artribune.com/arti-visive/arte-moderna/2026/08/mostra-metamorfosi-galleria-borghese-roma/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/11-metamorfosi-ovidio-e-le-arti-installation-view-ph-a-novelli-l-galleria-borghese-roma-2-scaled.jpg",
+      "summary": "Fino al 20 settembre 2026 la Galleria Borghese ospita una mostra dedicata alle “Metamorfosi” di Ovidio. Ma tra l’allestimento invasivo, le opere della collezione sacrificate e dialoghi tra epoche non sempre riusciti, ...",
+      "date": "2026-08-11T14:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:887551a9f6b6",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Come far (ri)fiorire le petunie in estate e mantenerle rigogliose fino all’autunno",
+      "url": "https://www.elledecor.com/it/lifestyle/a73332220/consigli-per-curare-petunie-in-estate/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2dd24dd2-d7d3-4ed0-9dd5-e553649a6f28.jpeg",
+      "summary": "Con concimazioni regolari, la giusta esposizione al sole e qualche potatura mirata ai fusti più lunghi, queste piante tornano a riempirsi di fiori fino all'autunno",
+      "date": "2026-08-11T13:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:bf950ac0ac3c",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "A Bologna grazie ad una mostra si rivive l’ultimo storico tour dei Queen. L’intervista al fotografo",
+      "url": "https://www.artribune.com/arti-performative/musica/2026/08/intervista-torleif-svensson-queen-bologna/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/01queenthelasttourlefotodi-torleifsvenssondalmagictourdel1986-scaled.jpg",
+      "summary": "Il fotografo Torleif Svensson ci ha raccontato i suoi scatti del 1986, durante l’ultima tournée dei Queen con Freddie Mercury. Fotografie e memorabilia saranno esposti fino all’11 ottobre 2026 al Museo internazionale ...",
+      "date": "2026-08-11T12:00:00.0000000Z"
     },
     {
       "id": "elledecor:2721684a5fa8",
@@ -24,6 +72,18 @@
       "url": "https://www.elledecor.com/it/people/a73299153/cosa-rende-davvero-vincente-una-barca/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/ec2b5c67-1deb-43e3-a24f-f521e4b46bfa.jpeg",
       "summary": "Uno dei velisti italiani più importanti di sempre ci accompagna dentro il mondo della progettazione nautica, tra foil, tecnologia, design e lavoro di squadra",
+      "date": "2026-08-11T11:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:d2d06d438887",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Storia di Pavana, il paese di Francesco Guccini che sta in Toscana ma dove si parla bolognese",
+      "url": "https://www.artribune.com/turismo/2026/08/pavana-guccini-appennino-tosco-emiliano/",
+      "image": "https://www.youtube.com/embed/TFCpY8UPotQ",
+      "summary": "Nel cuore dell’Appennino tosco-emiliano Pavana prende forma tra castagneti e strade di montagna. Un luogo lontano dal caos metropolitano dove il celebre cantautore italiano ha trovato una delle sue radici più profonde...",
       "date": "2026-08-11T11:00:00.0000000Z"
     },
     {
@@ -159,18 +219,6 @@
       "date": "2026-08-10T17:00:00.0000000Z"
     },
     {
-      "id": "artribune:0c774312e4e7",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Gli incendi in Sicilia minacciano l’installazione fotografica sugli incendi in Sicilia. Tutta la storia",
-      "url": "https://www.artribune.com/arti-visive/fotografia/2026/08/gibellina-installazione-fotografica-stefano-cerio-incendio/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/screenshot-2026-08-10-alle-105444.png",
-      "summary": "La serie fotografica di Stefano Cerio, che ricorda gli incendi del Mediterraneo, è stata sfiorata dalle stesse fiamme che tormentano l'isola. Un memento sull'aggravarsi del cambiamento climatico L’articolo \" Gli incen...",
-      "date": "2026-08-10T15:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:55602ef5c5b2",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -181,18 +229,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/441ed018-304c-4521-9f36-49580261e28b.jpeg",
       "summary": "Murales dipinti a mano entrano nel progetto d’interni e accompagnano ogni stanza con immagini nate dai ricordi della proprietaria",
       "date": "2026-08-10T14:30:00.0000000Z"
-    },
-    {
-      "id": "artribune:f2df9b171ecb",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Natale è lontano ma a Napoli tre artisti reinterpretano la tradizione del presepe in una mostra. L’intervista",
-      "url": "https://www.artribune.com/arti-visive/2026/08/intervista-samuele-piazza-mostra-madre-napoli/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/dsc9059-scaled.jpg",
-      "summary": "Il curatore Samuele Piazza ci racconta “Living Collapse”, mostra con Andrea Bolognino, Effe Minelli e Raffaela Naldi Rossano, visitabile fino al 5 ottobre al Museo Madre, con cui ha vinto la I edizione del Premio nato...",
-      "date": "2026-08-10T14:00:00.0000000Z"
     },
     {
       "id": "elledecor:c348898cd81d",
@@ -229,42 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/081ff245-c346-4fce-b468-a61313a1b3ab.png",
       "summary": "15 ambienti espositivi, laboratori aperti al pubblico e oltre 100 opere che raccontano il presente dell'artigianato contemporaneo nella nuova edizione curata da Es Devlin",
       "date": "2026-08-10T11:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:9e6d2768e82a",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "La storia del borgo di Campolo cucito sul bordo dell'Appennino bolognese e rinato per \"fare scuola\"",
-      "url": "https://www.elledecor.com/it/viaggi/a73334675/storia-borgo-di-campolo-appennino-bolognese/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/486d09eb-4d2a-4e48-9339-2b96b02af6a9.jpg",
-      "summary": "Da Campolo l’arte fa Scola: il gioco di parole tra il vicino borgo di La Scola e il “fare scuola” diventa il claim di un progetto che mette la cultura al centro della rigenerazione della località",
-      "date": "2026-08-10T10:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:857ba245066d",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "La piazza più piccola del mondo è in Italia e due città si contendono il record al centimetro",
-      "url": "https://www.elledecor.com/it/viaggi/a73386298/la-piazza-piu-piccola-del-mondo/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/9ac0c316-5fee-47fb-8583-c595619263eb.jpeg",
-      "summary": "Torino e Santa Maria a Monte rivendicano lo stesso primato con due piazze minuscole e due idee molto diverse di spazio urbano",
-      "date": "2026-08-10T07:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:09c8d71780a2",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Una casa sulla spiaggia di Levanto, in Liguria, è un progetto architettonico fra legno e mare",
-      "url": "https://www.elledecor.com/it/case/a73327057/casa-sulla-spiaggia-di-levanto-in-liguria/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/429ae8a6-74b2-4c17-b4b1-e0981e1c24da.jpeg",
-      "summary": "Surf House è un'abitazione di una famiglia americana, che lo studio llabb ha reinventato con falegnamerie su misura e rimandi al mare",
-      "date": "2026-08-10T06:00:00.0000000Z"
     }
   ]
 }

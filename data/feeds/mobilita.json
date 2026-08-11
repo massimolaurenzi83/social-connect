@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-11T11:10:10.7917415Z",
+  "updated": "2026-08-11T14:46:30.4723309Z",
   "items": [
+    {
+      "id": "ferrovie:faaef5db6e3b",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Deutsche Bahn, bonus dei dirigenti legati agli obiettivi sulla puntualità: la stretta del ministro dei Trasporti tedesco",
+      "url": "https://www.ferrovie.info/treni-reali/deutsche-bahn-bonus-dei-dirigenti-legati-agli-obiettivi-sulla-puntualita-la-stretta-del-ministro-dei-trasporti-tedesco.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10002/G12_3562.jpg",
+      "summary": "Il ministro Steffen Bilger annuncia un maggiore collegamento tra retribuzioni variabili del management e risultati dell’operatore ferroviario. La puntualità resta uno dei principali obiettivi del piano di rilancio. De...",
+      "date": "2026-08-11T12:25:19.0000000Z"
+    },
     {
       "id": "ferrovie:5cb72f5563eb",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10002/453_1509.jpg",
       "summary": "Dal 10 al 28 agosto RFI sarà impegnata con oltre 110 tecnici nei cantieri tra Chiusi e Orvieto e sulla linea convenzionale. Previsti modifiche agli orari e allungamenti dei tempi di percorrenza Prosegue il programma d...",
       "date": "2026-08-10T07:50:45.0000000Z"
-    },
-    {
-      "id": "ferrovie:06e1ce60aafe",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Trenitalia, verifiche straordinarie sulle bombole dell’impianto estinguente delle E.464",
-      "url": "https://www.ferrovie.info/treni-reali/trenitalia-verifiche-straordinarie-sulle-bombole-dellimpianto-estinguente-delle-e-464.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10799/normal_E_464_699_Trenitalia_Regionale_6500.jpg",
-      "summary": "Trenitalia avvia ulteriori verifiche sulle bombole degli impianti estinguenti delle locomotive E.464 dopo l’evento dello scorso 18 luglio. Si è svolto il 6 agosto un incontro di aggiornamento tra le Segreterie Naziona...",
-      "date": "2026-08-09T13:45:40.0000000Z"
     }
   ]
 }
