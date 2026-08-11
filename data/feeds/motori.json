@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-11T20:27:50.4388639Z",
+  "updated": "2026-08-11T22:29:11.6773079Z",
   "items": [
+    {
+      "id": "motor1:4edd2f3474a0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuova Audi Q7, la prova col 3.0 V6 TDI da 299 CV",
+      "url": "https://it.motor1.com/reviews/801387/audi-q7-2026-prova-recensione/",
+      "image": "https://cdn.motor1.com/images/mgl/9m8MMG/s3/audi-q7-2026-prova-recensione.jpg",
+      "summary": "Rinnovata da cima a fondo, la Q7 è - per ora - solo diesel. Brillante e dinamica, è digitalizzata e spaziosa",
+      "date": "2026-08-11T22:01:00.0000000Z"
+    },
     {
       "id": "hdmotori:0e533c0096eb",
       "sourceId": "hdmotori",
@@ -171,18 +183,6 @@
       "date": "2026-08-11T14:00:35.0000000Z"
     },
     {
-      "id": "motor1:8ba28ec61c91",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Pirelli fa le \"gomme\" per Luna Rossa",
-      "url": "https://it.motor1.com/news/804479/pirelli-luna-rossa-foiling-coppa-america/",
-      "image": "https://cdn.motor1.com/images/mgl/vx8114/s3/luna-rossa.jpg",
-      "summary": "Il marchio Pirelli arriva su foil e timone degli AC40 e AC75 di Luna Rossa, con materiali sviluppati dai pneumatici ad alte prestazioni.",
-      "date": "2026-08-11T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:3cd3c21f11e0",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -192,6 +192,18 @@
       "url": "https://insideevs.it/news/804486/avatr-07l-crossover-elettrico-955/",
       "image": "https://cdn.motor1.com/images/mgl/9m8MMg/s3/avatr-07l.jpg",
       "summary": "Nel mercato EV cinese l’Avatr 07L offre tre versioni fino a 955 CV, batteria CATL da 89,33 kWh e autonomia dichiarata di 725 km CLTC.",
+      "date": "2026-08-11T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:8ba28ec61c91",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Pirelli fa le \"gomme\" per Luna Rossa",
+      "url": "https://it.motor1.com/news/804479/pirelli-luna-rossa-foiling-coppa-america/",
+      "image": "https://cdn.motor1.com/images/mgl/vx8114/s3/luna-rossa.jpg",
+      "summary": "Il marchio Pirelli arriva su foil e timone degli AC40 e AC75 di Luna Rossa, con materiali sviluppati dai pneumatici ad alte prestazioni.",
       "date": "2026-08-11T14:00:00.0000000Z"
     },
     {
@@ -361,18 +373,6 @@
       "image": null,
       "summary": "Sull’ecobonus dedicato ai veicoli commerciali leggeri l’interesse dei lettori resta alto. Il fatto che 40 milioni siano stati… L'articolo Ecobonus furgoni, perché non salvare le domande non finanziate? proviene da Vai...",
       "date": "2026-08-11T08:26:13.0000000Z"
-    },
-    {
-      "id": "motor1:b47357c7fb25",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Maserati pensa al ritorno del V8",
-      "url": "https://it.motor1.com/news/804436/maserati-v8-motore-ritorno/",
-      "image": "https://cdn.motor1.com/images/mgl/9m8MAm/s3/maserati-v8.jpg",
-      "summary": "Il Tridente ragiona sulla fattibilità tecnica di un otto cilindri per i suoi modelli. Il vero ritorno, però, non è vicino",
-      "date": "2026-08-11T07:30:00.0000000Z"
     },
     {
       "id": "insideevs:82198d180398",
