@@ -1,7 +1,31 @@
 {
   "category": "notizie",
-  "updated": "2026-08-12T21:27:00.3761203Z",
+  "updated": "2026-08-12T23:27:06.8356763Z",
   "items": [
+    {
+      "id": "repubblica:2fde1ec19e57",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Piantedosi e i confini: la vignetta di Ellekappa",
+      "url": "https://www.repubblica.it/politica/2026/08/13/news/piantedosi_e_i_confini_la_vignetta_di_ellekappa-425526090/",
+      "image": null,
+      "summary": "",
+      "date": "2026-08-12T22:01:00.0000000Z"
+    },
+    {
+      "id": "repubblica:51f7b668ea42",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Kvara e Doué, festa del Psg: l’Aston Villa battuto 2-1. La Supercoppa parla ancora francese",
+      "url": "https://www.repubblica.it/sport/calcio/2026/08/12/news/psg_aston_villa_supercoppa_gol-425526323/",
+      "image": null,
+      "summary": "Altra conferma per la squadra di Luis Enrique dopo il bis in Champions League. Non basta una prova convincente degli inglesi, trascinati dal giovanissimo Madjo",
+      "date": "2026-08-12T21:41:05.0000000Z"
+    },
     {
       "id": "open:b89eb8b3e3d3",
       "sourceId": "open",
@@ -25,18 +49,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/anne-hathaway-gravidanza-finta.jpg",
       "summary": "L'attrice 43enne replica con ironia alle accuse di chi sosteneva che la sua gravidanza mostrata sul red carpet fosse posticcia: «Capelli finti, pancione vero» L'articolo Anne Hathaway incinta del terzo figlio, le accu...",
       "date": "2026-08-12T20:53:50.0000000Z"
-    },
-    {
-      "id": "ansa:4b97c09d921b",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Europei di atletica: Fantini argento nel martello, quinta medaglia dell'Italia",
-      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/12/europei-di-atletica-sara-fantini-conquista-largento-nel-martello_05cc9bf7-fdc7-4fa9-8d27-21efda72a3a6.html",
-      "image": null,
-      "summary": "\"Ci ho provato fino alla fine\". Diaz, Biasuzzi e Della Valle in finale nel triplo",
-      "date": "2026-08-12T20:41:29.0000000Z"
     },
     {
       "id": "open:7824e363d83b",
@@ -217,6 +229,18 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/zucchero-fornaciari.jpg",
       "summary": "Il bluesman dal Festival della Cultura di Alassio precisa: «Non ho nulla contro di lui, ma a me cosa me ne frega di chi fa il direttore artistico?» L'articolo «Che mi frega di chi fa il direttore artistico?», Zucchero...",
       "date": "2026-08-12T18:41:25.0000000Z"
+    },
+    {
+      "id": "ansa:726fbc7f09d7",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Trovano 86mila euro in un mobile in strada, il denaro viene diviso con l'erede",
+      "url": "https://www.ansa.it/emiliaromagna/notizie/2026/08/12/trovano-86mila-euro-in-un-mobile-in-strada-denaro-diviso-con-lerede_53f6e08d-44b8-4cfa-a5bb-85d752a95f51.html",
+      "image": null,
+      "summary": "La somma era stata consegnata all'ufficio oggetti smarriti del Comune di Bologna",
+      "date": "2026-08-12T18:39:38.0000000Z"
     },
     {
       "id": "repubblica:dbaeed3cf814",
@@ -516,30 +540,6 @@
       "image": null,
       "summary": "Il faccendiere interrogato a Rebibbia: “L'ho fatto per proteggere Sigfrido. Così ha ottenuto una scorta più forte, ma nessun movente politico”",
       "date": "2026-08-12T14:05:16.0000000Z"
-    },
-    {
-      "id": "repubblica:685a0b6d38ba",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Ranucci: “Da Moro a Falcone zittita la voce che spaventa”. FdI: “Ignobile”. Salvini: la Rai sospenda",
-      "url": "https://www.repubblica.it/politica/2026/08/12/news/caso_ranucci_lavitola_post_falcone_borsellino-425525393/",
-      "image": null,
-      "summary": "Il post del giornalista sui social. Proseguono le riunioni del Comitato etico della Rai sul caso che deve esprimere un parere sulla vicenda che riguarda anche la futura conduzione di Report. Lavitola interrogato a Reb...",
-      "date": "2026-08-12T13:56:27.0000000Z"
-    },
-    {
-      "id": "repubblica:88a55ab0d5de",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Cina, è morto l’ex premier Zhu Rongji: portò il Paese nel club delle superpotenze",
-      "url": "https://www.repubblica.it/esteri/2026/08/12/news/cina_zhu_rongji_morto_ex_premier-425525360/",
-      "image": null,
-      "summary": "Deceduto per malattia all’età di 98 anni, ha guidato il Paese dal 1998 al 2003 distinguendosi per la sua lotta alla corruzione",
-      "date": "2026-08-12T13:36:34.0000000Z"
     },
     {
       "id": "skytg24:nPmSeGcWvBA",

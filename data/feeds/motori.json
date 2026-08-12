@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-12T21:27:00.3582318Z",
+  "updated": "2026-08-12T23:27:06.8004949Z",
   "items": [
+    {
+      "id": "vaielettrico:ff3692c72165",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "GM cede a Samsung tutta la gigafactory di batterie in Indiana: dalle auto ai Bess?",
+      "url": "https://www.vaielettrico.it/gm-cede-a-samsung-tutta-la-gigafactory-di-batterie-in-indiana-dalle-auto-ai-bess/",
+      "image": null,
+      "summary": "General Motors cede a Samsung SDI la quota della joint venture che sta costruendo una fabbrica di batterie… L'articolo GM cede a Samsung tutta la gigafactory di batterie in Indiana: dalle auto ai Bess? proviene da Vai...",
+      "date": "2026-08-12T22:17:54.0000000Z"
+    },
     {
       "id": "hdmotori:81bfa9b2635d",
       "sourceId": "hdmotori",
@@ -171,18 +183,6 @@
       "date": "2026-08-12T14:00:24.0000000Z"
     },
     {
-      "id": "motor1:4c1fc7079cea",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Comprereste una Toyota Land Cruiser con 1.000.000 di km?",
-      "url": "https://it.motor1.com/news/804650/toyota-land-cruiser-milione-km-asta/",
-      "image": "https://cdn.motor1.com/images/mgl/nAlpqx/s3/toyota-land-cruiser-milione-chilometri.jpg",
-      "summary": "Appartiene a un automobilista australiano e andrà all'asta con prezzo base di circa 20.000 euro",
-      "date": "2026-08-12T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:8e1019baead4",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -192,6 +192,18 @@
       "url": "https://insideevs.it/news/804669/genesis-gv90-dati-suv-elettrico/",
       "image": "https://cdn.motor1.com/images/mgl/mMzpqe/s3/genesis-neolun-concept.jpg",
       "summary": "Nuove indiscrezioni svelano Genesis GV90: 666 CV, batteria da 115 kWh, quasi 5,3 metri di lunghezza e autonomia vicina ai 480 km",
+      "date": "2026-08-12T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:4c1fc7079cea",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Comprereste una Toyota Land Cruiser con 1.000.000 di km?",
+      "url": "https://it.motor1.com/news/804650/toyota-land-cruiser-milione-km-asta/",
+      "image": "https://cdn.motor1.com/images/mgl/nAlpqx/s3/toyota-land-cruiser-milione-chilometri.jpg",
+      "summary": "Appartiene a un automobilista australiano e andrà all'asta con prezzo base di circa 20.000 euro",
       "date": "2026-08-12T14:00:00.0000000Z"
     },
     {
@@ -207,18 +219,6 @@
       "date": "2026-08-12T13:00:37.0000000Z"
     },
     {
-      "id": "motor1:59b019c8defb",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Monterey Car Week parla anche italiano. Grazie a Bentley",
-      "url": "https://it.motor1.com/news/804632/stazione-remota-monterey-2026-bentley/",
-      "image": "https://cdn.motor1.com/images/mgl/bgPp1r/s3/bentley-alla-monterey-car-week-2026.jpg",
-      "summary": "Nasce Stazione Remota, evento ideato dalla Casa inglese in collaborazione con BorromeodeSilva e Tutto Bene",
-      "date": "2026-08-12T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:28d2e9a03b44",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -231,16 +231,16 @@
       "date": "2026-08-12T13:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:a29ff865d7af",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "motor1:59b019c8defb",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Armani, il suo yacht è in Toscana: quanto vale l’imbarcazione di 65 metri",
-      "url": "https://www.hdmotori.it/armani-yacht-toscana-valore/",
-      "image": null,
-      "summary": "Il superyacht Main di Giorgio Armani è arrivato a Porto Santo Stefano: lungo 65 metri, vale 65 milioni di dollari e ospita 14 persone The post Armani, il suo yacht è in Toscana: quanto vale l’imbarcazione di 65 metri ...",
-      "date": "2026-08-12T12:00:00.0000000Z"
+      "title": "La Monterey Car Week parla anche italiano. Grazie a Bentley",
+      "url": "https://it.motor1.com/news/804632/stazione-remota-monterey-2026-bentley/",
+      "image": "https://cdn.motor1.com/images/mgl/bgPp1r/s3/bentley-alla-monterey-car-week-2026.jpg",
+      "summary": "Nasce Stazione Remota, evento ideato dalla Casa inglese in collaborazione con BorromeodeSilva e Tutto Bene",
+      "date": "2026-08-12T13:00:00.0000000Z"
     },
     {
       "id": "motor1:a55a816458dc",
@@ -267,16 +267,16 @@
       "date": "2026-08-12T12:00:00.0000000Z"
     },
     {
-      "id": "insideevs:ca31bf523223",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
+      "id": "hdmotori:a29ff865d7af",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
       "platform": "rss",
       "category": "motori",
-      "title": "Porsche si allea con Xpeng per evitare le multe CO2 della UE",
-      "url": "https://insideevs.it/news/804607/porsche-xpeng-multe-co2-ue/",
-      "image": "https://cdn.motor1.com/images/mgl/mMzYZo/s3/porsche-cayenne-s-coupe-electric-2026-das-exterieur.jpg",
-      "summary": "Porsche esce dal pool emissioni del Gruppo Volkswagen e si unisce a Xpeng, mentre il gruppo cerca di evitare pesanti sanzioni europee",
-      "date": "2026-08-12T11:00:00.0000000Z"
+      "title": "Armani, il suo yacht è in Toscana: quanto vale l’imbarcazione di 65 metri",
+      "url": "https://www.hdmotori.it/armani-yacht-toscana-valore/",
+      "image": null,
+      "summary": "Il superyacht Main di Giorgio Armani è arrivato a Porto Santo Stefano: lungo 65 metri, vale 65 milioni di dollari e ospita 14 persone The post Armani, il suo yacht è in Toscana: quanto vale l’imbarcazione di 65 metri ...",
+      "date": "2026-08-12T12:00:00.0000000Z"
     },
     {
       "id": "motor1:fb8e4bad6938",
@@ -288,6 +288,18 @@
       "url": "https://it.motor1.com/reviews/804346/toyota-rav4-full-hybrid-2026-consumi/",
       "image": "https://cdn.motor1.com/images/mgl/E6NMZR/s3/toyota-rav4-full-hybrid-2026-la-prova-consumi.jpg",
       "summary": "La RAV4 è un'istituzione tra i SUV e la sesta generazione del 2026 non si smentisce: buona efficienza, tanto spazio e ottime dotazioni",
+      "date": "2026-08-12T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ca31bf523223",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Porsche si allea con Xpeng per evitare le multe CO2 della UE",
+      "url": "https://insideevs.it/news/804607/porsche-xpeng-multe-co2-ue/",
+      "image": "https://cdn.motor1.com/images/mgl/mMzYZo/s3/porsche-cayenne-s-coupe-electric-2026-das-exterieur.jpg",
+      "summary": "Porsche esce dal pool emissioni del Gruppo Volkswagen e si unisce a Xpeng, mentre il gruppo cerca di evitare pesanti sanzioni europee",
       "date": "2026-08-12T11:00:00.0000000Z"
     },
     {
@@ -303,18 +315,6 @@
       "date": "2026-08-12T10:30:00.0000000Z"
     },
     {
-      "id": "motor1:00024bf809c5",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Mercedes di LeBron James è fatta così",
-      "url": "https://it.motor1.com/news/804597/mercedes-maybach-lebron-james/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak3626/s3/mercedes-maybach-s-680-created-by-lebron-james.jpg",
-      "summary": "La Mercedes-Maybach S 680 personalizzata da \"King James\" è la punta dell'iceberg delle Stelle esposte a Monterey",
-      "date": "2026-08-12T09:30:00.0000000Z"
-    },
-    {
       "id": "insideevs:d594acf5ff94",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -324,6 +324,18 @@
       "url": "https://insideevs.it/news/804601/batterie-stato-solido-auto-elettriche-catl-2027/",
       "image": "https://cdn.motor1.com/images/mgl/P3BbQ2/s3/batteria-catl.jpg",
       "summary": "Il gigante cinese degli accumulatori per auto elettriche avvierà la produzione pilota su piccola scala l'anno prossimo",
+      "date": "2026-08-12T09:30:00.0000000Z"
+    },
+    {
+      "id": "motor1:00024bf809c5",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Mercedes di LeBron James è fatta così",
+      "url": "https://it.motor1.com/news/804597/mercedes-maybach-lebron-james/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak3626/s3/mercedes-maybach-s-680-created-by-lebron-james.jpg",
+      "summary": "La Mercedes-Maybach S 680 personalizzata da \"King James\" è la punta dell'iceberg delle Stelle esposte a Monterey",
       "date": "2026-08-12T09:30:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": null,
       "summary": "Il co-CEO di Waymo Dmitri Dolgov riapre il confronto sulla tecnologia necessaria per arrivare alla guida autonoma. Senza… L'articolo Guida autonoma, Waymo: “Ecco perché la visione artificiale da sola non basta” provie...",
       "date": "2026-08-10T15:29:08.0000000Z"
-    },
-    {
-      "id": "vaielettrico:5a2d0d621a4d",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "EREV, il motore termico è una “coperta di Linus” per chi sceglie l’auto elettrica?",
-      "url": "https://www.vaielettrico.it/erev-il-motore-termico-e-una-coperta-di-linus-per-chi-sceglie-lauto-elettrica/",
-      "image": null,
-      "summary": "Il range extender è sempre più l’ultima pezza contro l’ansia da ricarica. In Cina molti automobilisti lo accendono… L'articolo EREV, il motore termico è una “coperta di Linus” per chi sceglie l’auto elettrica? provien...",
-      "date": "2026-08-10T15:14:12.0000000Z"
     }
   ]
 }
