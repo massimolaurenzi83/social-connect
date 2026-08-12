@@ -1,7 +1,31 @@
 {
   "category": "arte",
-  "updated": "2026-08-12T18:40:52.5150005Z",
+  "updated": "2026-08-12T21:27:00.3350272Z",
   "items": [
+    {
+      "id": "artribune:318470b8f36f",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Le immagini delle scoperte sui fondali dell’Isola d’Elba: relitti e reperti",
+      "url": "https://www.artribune.com/arti-visive/archeologia-arte-antica/2026/08/scoperte-archeologiche-isola-delba/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/archeologia-elba-2026-8-scaled.jpg",
+      "summary": "Un dolium riconducibile alle rotte commerciali del vino e un possibile relitto, ancora tutto da studiare: ecco le nuove scoperte che raccontano la lunga storia sommersa del Tirreno L’articolo \" Le immagini delle scope...",
+      "date": "2026-08-12T21:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:76331b250699",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "La storia di un disco nato tra i boschi della Sila in Calabria. Un video la racconta",
+      "url": "https://www.artribune.com/arti-performative/musica/2026/08/video-disco-edoardo-petracci-calabria/",
+      "image": "https://www.youtube.com/embed/DxYYn5-rrgA",
+      "summary": "Un vecchio casolare di campagna, macchine a nastro, contrabbasso e pianoforte. È nato tra le montagne calabresi della Sila l’album d’esordio di Edoardo Petracci, intitolato “By This Window”. Un disco in presa diretta ...",
+      "date": "2026-08-12T20:00:00.0000000Z"
+    },
     {
       "id": "artribune:2857b89820c5",
       "sourceId": "artribune",
@@ -51,18 +75,6 @@
       "date": "2026-08-12T14:00:00.0000000Z"
     },
     {
-      "id": "elledecor:1b8ef58f623f",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "La Biennale Manifesta 16 Ruhr trasforma 12 chiese tedesche in luoghi dedicati all'arte contemporanea",
-      "url": "https://www.elledecor.com/it/arte/a73348207/la-biennale-manifesta-16-ruhr-trasforma-12-chiese-tedesche-in-luoghi-dedicati-allarte-contemporanea/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/eab05fa0-062a-4253-9899-3debe2670b45.jpg",
-      "summary": "Fra progetti partecipativi e interventi architettonici, la kermesse vuole ritrovare una dimensione collettiva",
-      "date": "2026-08-12T12:00:00.0000000Z"
-    },
-    {
       "id": "artribune:a19abc9bc9a8",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -75,16 +87,16 @@
       "date": "2026-08-12T12:00:00.0000000Z"
     },
     {
-      "id": "elledecor:1acb68f19cae",
+      "id": "elledecor:1b8ef58f623f",
       "sourceId": "elledecor",
       "source": "Elle Decor",
       "platform": "rss",
       "category": "arte",
-      "title": "Cartolina da Monte-Carlo: itinerario fra terra e mare per una guida tascabile prêt-à-porter",
-      "url": "https://www.elledecor.com/it/viaggi/a73306931/guida-vacanza-monte-carlo/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/68604ea0-94be-4ace-adac-5dd7d5623b01.jpeg",
-      "summary": "Il quartiere più celebre del suo stesso Principato è un in continuo rinnovamento e non pecca di incoerenza con il suo stile inconfondibilmente lussuoso",
-      "date": "2026-08-12T11:00:00.0000000Z"
+      "title": "La Biennale Manifesta 16 Ruhr trasforma 12 chiese tedesche in luoghi dedicati all'arte contemporanea",
+      "url": "https://www.elledecor.com/it/arte/a73348207/la-biennale-manifesta-16-ruhr-trasforma-12-chiese-tedesche-in-luoghi-dedicati-allarte-contemporanea/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/eab05fa0-062a-4253-9899-3debe2670b45.jpg",
+      "summary": "Fra progetti partecipativi e interventi architettonici, la kermesse vuole ritrovare una dimensione collettiva",
+      "date": "2026-08-12T12:00:00.0000000Z"
     },
     {
       "id": "artribune:8b5d5951c5ce",
@@ -96,6 +108,18 @@
       "url": "https://www.artribune.com/professioni-e-professionisti/2026/08/morto-christian-bernard-direttore-mamco-ginevra/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/christian-bernard-photo-valmav.png",
       "summary": "Critico, curatore, direttore di istituzioni, editore e poeta, Bernard ha attraversato alcune delle stagioni più importanti della cultura contemporanea francese e svizzera L’articolo \" È morto a 76 anni Christian Berna...",
+      "date": "2026-08-12T11:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:1acb68f19cae",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Cartolina da Monte-Carlo: itinerario fra terra e mare per una guida tascabile prêt-à-porter",
+      "url": "https://www.elledecor.com/it/viaggi/a73306931/guida-vacanza-monte-carlo/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/68604ea0-94be-4ace-adac-5dd7d5623b01.jpeg",
+      "summary": "Il quartiere più celebre del suo stesso Principato è un in continuo rinnovamento e non pecca di incoerenza con il suo stile inconfondibilmente lussuoso",
       "date": "2026-08-12T11:00:00.0000000Z"
     },
     {
@@ -193,30 +217,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/d58fd4f4-390b-475d-b30b-ed21f31a461e.jpeg",
       "summary": "Una potatura eseguita nel momento giusto mantiene la chioma compatta e prepara una crescita più vigorosa nella prossima stagione",
       "date": "2026-08-12T05:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:2f0de563ce71",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "A settembre in Spagna apre Faro Santander, il nuovo centro culturale progettato da David Chipperfield",
-      "url": "https://www.artribune.com/dal-mondo/2026/08/faro-santander-nuovo-centro-culturale-david-chipperfield/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/faro-santander-view-over-the-city-credit-juan-barajaedited-scaled.jpg",
-      "summary": "Nel capoluogo della Cantabria, in Spagna, apre l’8 settembre 2026, lo spazio che ospiterà le collezioni bancarie e della messicana Collezione Gelman L’articolo \" A settembre in Spagna apre Faro Santander, il nuovo cen...",
-      "date": "2026-08-11T21:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:482b7e363fe5",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "È morta a Pescara Marcella Russo, da decenni nel mondo dell’arte con tanti ruoli",
-      "url": "https://www.artribune.com/professioni-e-professionisti/2026/08/morta-art-producer-marcella-russo/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/russo4.avif",
-      "summary": "Pugliese di nascita e residente a Pescara, era nel mondo dell’arte contemporanea da oltre trent’anni. Era tra i fondatori della manifestazione FUORI USO di Pescara e dal 2018 dirigeva RP Press L’articolo \" È morta a P...",
-      "date": "2026-08-11T18:00:00.0000000Z"
     },
     {
       "id": "elledecor:87cf17c9832c",
