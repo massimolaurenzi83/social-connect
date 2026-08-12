@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-12T05:13:34.0714735Z",
+  "updated": "2026-08-12T09:43:29.4523730Z",
   "items": [
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
+      "date": "2026-08-12T05:15:00.0000000Z"
+    },
     {
       "id": "qualenergia:28c24aba79dc",
       "sourceId": "qualenergia",
@@ -13,30 +25,6 @@
       "image": null,
       "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
       "date": "2026-08-11T22:25:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:c806b8589e7b",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "INFODATA ENERGIA",
-      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
-      "image": null,
-      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
-      "date": "2026-08-11T05:15:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:692a5a876f83",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "“Cambia Energia”, i podcast di QualEnergia.it",
-      "url": "https://www.qualenergia.it/articoli/cambia-energia-podcast/",
-      "image": null,
-      "summary": "Cambia Energia è il podcast di QualEnergia.it che racconta, con parole semplici, soluzioni e tecnologie per consumare meno energia, ridurre l’uso del gas e rendere più efficienti case, condomìni, attività professional...",
-      "date": "2026-08-07T11:00:49.0000000Z"
     },
     {
       "id": "qualenergia:6901aa8a8a32",
@@ -73,6 +61,18 @@
       "image": null,
       "summary": "QualEnergia.it ha attivato da oltre un anno la rubrica “La formazione energetica in Italia”, uno spazio dedicato a raccogliere, valorizzare e rendere più accessibile l’offerta formativa nei settori delle fonti rinnova...",
       "date": "2026-08-07T07:15:20.0000000Z"
+    },
+    {
+      "id": "qualenergia:692a5a876f83",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "“Cambia Energia”, i podcast di QualEnergia.it",
+      "url": "https://www.qualenergia.it/articoli/cambia-energia-podcast/",
+      "image": null,
+      "summary": "Cambia Energia è il podcast di QualEnergia.it che racconta, con parole semplici, soluzioni e tecnologie per consumare meno energia, ridurre l’uso del gas e rendere più efficienti case, condomìni, attività professional...",
+      "date": "2026-08-07T07:00:49.0000000Z"
     },
     {
       "id": "qualenergia:a91aefcc6c89",

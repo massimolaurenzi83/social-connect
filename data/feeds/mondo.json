@@ -1,7 +1,91 @@
 {
   "category": "mondo",
-  "updated": "2026-08-12T05:13:34.0789786Z",
+  "updated": "2026-08-12T09:43:29.4661145Z",
   "items": [
+    {
+      "id": "ansa-mondo:36e6883ca705",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Sfida serrata alle primarie dem in Wisconsin, battuta Hong",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/sfida-serrata-alle-primarie-dem-in-wisconsin-battuta-hong_cfa5ee3d-c1d9-4c6c-a855-a1826ed42900.html",
+      "image": null,
+      "summary": "Il moderato Crowley ha vinto su socialista per nomination alla carica di governatore",
+      "date": "2026-08-12T09:34:20.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:4c35eda1ac02",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "La ministra della Difesa di Madrid a Ceuta",
+      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/12/la-ministra-della-difesa-di-madrid-a-ceuta_2f09b035-49d3-4674-9eb7-c50e72f3469f.html",
+      "image": null,
+      "summary": "Robles vede Vivas, è il terzo ministro spagnolo nell'exclave in pochi giorni",
+      "date": "2026-08-12T09:27:22.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:e4c66bc2c08d",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "La Colombia attiva i canali diplomatici per gli aiuti umanitari",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/la-colombia-attiva-i-canali-diplomatici-per-gli-aiuti-umanitari_7b27194c-94db-4e36-8ea6-065daf551274.html",
+      "image": null,
+      "summary": "Saranno ricevuti in base alle priorità per le aree colpite dal sisma",
+      "date": "2026-08-12T09:18:32.0000000Z"
+    },
+    {
+      "id": "internazionale:95815227e187",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Un gelato di troppo",
+      "url": "https://www.internazionale.it/notizie/inna-hartwich/2026/08/12/polonia-scuola-gelati",
+      "image": "https://media.internazionale.it/images/2026/08/11/356071-hd.jpg",
+      "summary": "Da molti anni una gelateria nel sud della Polonia offre gelati gratis agli alunni con i voti più alti. La garante per l’infanzia ha criticato l’iniziativa, suscitando un acceso dibattito nel paese su pari opportunità,...",
+      "date": "2026-08-12T08:58:06.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:47742ed5a103",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Putin, 'risponderemo ai sequestri di nostre navi da parte degli europei'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/12/putin-risponderemo-ai-sequestri-di-nostre-navi-da-parte-degli-europei_de0b6d8e-46d0-459b-af4f-48ea716745f1.html",
+      "image": null,
+      "summary": "'In qualsiasi mare sia ritenuto opportuno'",
+      "date": "2026-08-12T08:30:40.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:2fbd843df9af",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Il terremoto in Colombia ha paralizzato le esportazioni di caffè",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/il-terremoto-in-colombia-ha-paralizzato-le-esportazioni-di-caffe_ddfc2e3b-6982-4525-a6a1-5cd4b780a48c.html",
+      "image": null,
+      "summary": "Tir bloccati dalle frane lungo le strade per il porto di Buenaventura",
+      "date": "2026-08-12T07:29:06.0000000Z"
+    },
+    {
+      "id": "internazionale:ec8a74703547",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Il ruolo dei social media nella crisi di Ceuta",
+      "url": "https://www.internazionale.it/notizie/annalisa-camilli/2026/08/12/ceuta-social-network-guerra-ibrida",
+      "image": "https://media.internazionale.it/images/2026/08/11/356060-hd.jpg",
+      "summary": "Emerge sempre più chiaramente la responsabilità delle piattaforme che hanno diffuso false notizie su una delle frontiere più militarizzate del mondo Leggi",
+      "date": "2026-08-12T07:16:53.0000000Z"
+    },
     {
       "id": "ansa-mondo:3f4e8674489d",
       "sourceId": "ansa-mondo",
@@ -20,10 +104,10 @@
       "source": "Internazionale",
       "platform": "rss",
       "category": "mondo",
-      "title": "Benjamin Netanyahu è bloccato tra due fuochi",
+      "title": "Perché Netanyahu ha rifiutato l’accordo su Gaza firmato con Hamas",
       "url": "https://www.internazionale.it/notizie/emma-graham-harrison/2026/08/12/benjamin-netanyahu-e-bloccato-tra-due-fuochi",
       "image": "https://media.internazionale.it/images/2026/08/11/356070-hd.jpg",
-      "summary": "Il primo ministro israeliano ha rifiutato il piano di pace a Gaza proposto da Donald Trump accontentando l’ala più estremista del suo governo. Ma la pazienza degli Stati Uniti potrebbe essere arrivata al limite Leggi",
+      "summary": "Il primo ministro israeliano ha rifiutato il piano di pace proposto da Donald Trump accontentando l’ala più estremista del suo governo. Ma la pazienza degli Stati Uniti potrebbe essere arrivata al limite Leggi",
       "date": "2026-08-12T04:30:02.0000000Z"
     },
     {
@@ -99,66 +183,6 @@
       "date": "2026-08-11T19:35:02.0000000Z"
     },
     {
-      "id": "ansa-mondo:4edd12c30ae1",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Terremoto in Colombia, estratta viva dalle macerie dopo 30 ore",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/terremoto-in-colombia-estratta-viva-dalle-macerie-dopo-30-ore_f74ba32c-4d2d-4147-9a4b-07f84208b3e7.html",
-      "image": null,
-      "summary": "Giubilo a Cali per il difficile salvataggio di una donna",
-      "date": "2026-08-11T19:03:36.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:5c6fde79b205",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Yemen, 'sale a sei morti il bilancio dei raid nel Mar Rosso attribuito agli Houthi'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/yemen-sale-a-sei-morti-il-bilancio-dei-raid-nel-mar-rosso_2709b957-28f3-4427-a834-f1bb8096b28b.html",
-      "image": null,
-      "summary": "'Si tratta di 4 marinai e di due militari della Marina yemenita intervenuta poco dopo'",
-      "date": "2026-08-11T17:31:35.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:57b54eb9ebd2",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Il bilancio delle vittime del terremoto in Colombia sale a 240",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/11/il-bilancio-delle-vittime-del-terremoto-in-colombia-sale-a-240_4ebbbe23-f5ef-47a2-9eca-d2a9ccb948ee.html",
-      "image": null,
-      "summary": "Lo hanno annunciato le autorità locali",
-      "date": "2026-08-11T17:29:12.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:b4f3f182e442",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Dbeibah incontra il ministro turco Fidan, 'rafforzare cooperazione Libia-Turchia'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/11/dbeibah-incontra-il-ministro-turco-fidan-rafforzare-cooperazione-libia-turchia_dc341d7a-7519-4ce6-b96d-d85df43cb831.html",
-      "image": null,
-      "summary": "Previsti colloqui delle autorità turche anche con Bengasi",
-      "date": "2026-08-11T16:59:14.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:72719603c6c3",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Gli Usa annunciano un nuovo round di negoziati tra Israele e Libano a Roma",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/11/gli-usa-annunciano-un-nuovo-round-di-negoziati-tra-israele-e-libano-a-roma_7a22301a-18cc-45bb-b62f-614223302484.html",
-      "image": null,
-      "summary": "A inizio settembre",
-      "date": "2026-08-11T16:38:06.0000000Z"
-    },
-    {
       "id": "internazionale:40a0fda09d4e",
       "sourceId": "internazionale",
       "source": "Internazionale",
@@ -203,7 +227,7 @@
       "title": "La Colombia fa i conti con un terremoto devastante",
       "url": "https://www.internazionale.it/notizie/2026/08/11/colombia-terremoto",
       "image": "https://media.internazionale.it/images/2026/08/11/356064-hd.jpg",
-      "summary": "È stato proclamato lo stato di emergenza dopo che un terremoto di magnitudo 7,4 ha colpito la parte occidentale del paese, causando più di 130 morti Leggi",
+      "summary": "È stato proclamato lo stato di emergenza dopo che un terremoto di magnitudo 7,4 ha colpito la parte occidentale del paese, causando più di duecento morti Leggi",
       "date": "2026-08-11T09:34:12.0000000Z"
     },
     {
