@@ -1,7 +1,32 @@
 {
   "category": "scienza",
-  "updated": "2026-08-12T12:06:56.8490401Z",
+  "updated": "2026-08-12T15:32:39.5252872Z",
   "items": [
+    {
+      "id": "media-inaf:9b07a19aa641",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "La playlist dell’eclissi",
+      "url": "https://www.media.inaf.it/2026/08/12/playlist-eclissi-2026/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/08/ecl_partita-150x150.jpg",
+      "summary": "Come prepararsi all’imminente eclissi totale di Sole, se non con una playlist di canzoni a tema? Sono la colonna sonora di una passeggiata sul lungomare di La Coruña, da cui questa sera seguiremo il fenomeno. Trovate ...",
+      "date": "2026-08-12T12:54:31.0000000Z"
+    },
+    {
+      "id": "geopop:7CUTjOwAU4w",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Non guardare mai il sole ad occhio nudo, si potrebbero avere danni alla retina, anche permanenti!",
+      "url": "https://www.youtube.com/watch?v=7CUTjOwAU4w",
+      "image": "https://i.ytimg.com/vi/7CUTjOwAU4w/hqdefault.jpg",
+      "summary": "",
+      "videoId": "7CUTjOwAU4w",
+      "date": "2026-08-12T12:45:06.0000000Z"
+    },
     {
       "id": "geopop:AaLS8phTq6k",
       "sourceId": "geopop",
@@ -276,31 +301,6 @@
       "summary": "",
       "videoId": "o47-tXGxpv8",
       "date": "2026-08-05T16:30:23.0000000Z"
-    },
-    {
-      "id": "media-inaf:0e350b392a89",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Scovata materia ordinaria mancante all’appello",
-      "url": "https://www.media.inaf.it/2026/08/05/scovata-materia-ordinaria-mancante/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/08/galaxy-150x150.jpg",
-      "summary": "Lo studio, condotto da ricercatori di diversi istituti nell’ambito della collaborazione Chime e pubblicato a luglio su Physical Review Letters, ha individuato la posizione di un’enorme quantità di materia ordinaria fi...",
-      "date": "2026-08-05T06:00:18.0000000Z"
-    },
-    {
-      "id": "geopop:9d6MlDf4B08",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "È vero che i bambini bilingui parlano più tardi?",
-      "url": "https://www.youtube.com/watch?v=9d6MlDf4B08",
-      "image": "https://i.ytimg.com/vi/9d6MlDf4B08/hqdefault.jpg",
-      "summary": "",
-      "videoId": "9d6MlDf4B08",
-      "date": "2026-08-05T05:00:03.0000000Z"
     },
     {
       "id": "curiuss:xcCTQ5260HQ",

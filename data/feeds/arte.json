@@ -1,18 +1,30 @@
 {
   "category": "arte",
-  "updated": "2026-08-12T12:06:56.8245314Z",
+  "updated": "2026-08-12T15:32:39.4901840Z",
   "items": [
     {
-      "id": "artribune:a19abc9bc9a8",
-      "sourceId": "artribune",
-      "source": "Artribune",
+      "id": "elledecor:57736253e073",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
       "platform": "rss",
       "category": "arte",
-      "title": "L’Arabia Saudita si sta comprando l’industria dei videogiochi. Ecco come",
-      "url": "https://www.artribune.com/attualita/2026/08/arabia-saudita-videogiochi/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/metal-slug-2-snk-1998.jpg",
-      "summary": "Con l’acquisizione monstre dell’azienda videoludica Electronic Arts, l’Arabia Saudita continua la sua campagna acquisti nel mondo dei videogame. Si può parlare di gameswashing? L’articolo \" L’Arabia Saudita si sta com...",
-      "date": "2026-08-12T12:00:00.0000000Z"
+      "title": "Questo castello è oggi la casa di due raffinati collezionisti e di 1100 opere tra arte e design",
+      "url": "https://www.elledecor.com/it/case/a73344679/castello-casa-collezionisti-arte/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/edc050112beauchemin02-66f44d1fe1405.jpg",
+      "summary": "Una residenza estiva reale del 1864 diventa una casa personale, dove sedie Wassily, tavoli Luigi XVI e oltre mille opere costruiscono stanze intime e vissute",
+      "date": "2026-08-12T14:30:00.0000000Z"
+    },
+    {
+      "id": "elledecor:365929b97949",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "L'evoluzione degli ascensori fra nuovi progetti d'interni e ingegneria d'avanguardia",
+      "url": "https://www.elledecor.com/it/tech/novita/a73304696/ascensore-design/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/0bad8995-db50-4671-8708-3117482cc41a.jpeg",
+      "summary": "Da semplice vano funzionale a protagonista dell'architettura contemporanea, l'evoluzione dell'ascensore passa tra materiali nobili, tecnologia invisibile e nuovo comfort dell’abitare",
+      "date": "2026-08-12T14:00:00.0000000Z"
     },
     {
       "id": "elledecor:1b8ef58f623f",
@@ -27,16 +39,16 @@
       "date": "2026-08-12T12:00:00.0000000Z"
     },
     {
-      "id": "elledecor:1acb68f19cae",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
+      "id": "artribune:a19abc9bc9a8",
+      "sourceId": "artribune",
+      "source": "Artribune",
       "platform": "rss",
       "category": "arte",
-      "title": "Cartolina da Monte-Carlo: itinerario fra terra e mare per una guida tascabile prêt-à-porter",
-      "url": "https://www.elledecor.com/it/viaggi/a73306931/guida-vacanza-monte-carlo/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/68604ea0-94be-4ace-adac-5dd7d5623b01.jpeg",
-      "summary": "Il quartiere più celebre del suo stesso Principato è un in continuo rinnovamento e non pecca di incoerenza con il suo stile inconfondibilmente lussuoso",
-      "date": "2026-08-12T11:00:00.0000000Z"
+      "title": "L’Arabia Saudita si sta comprando l’industria dei videogiochi. Ecco come",
+      "url": "https://www.artribune.com/attualita/2026/08/arabia-saudita-videogiochi/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/metal-slug-2-snk-1998.jpg",
+      "summary": "Con l’acquisizione monstre dell’azienda videoludica Electronic Arts, l’Arabia Saudita continua la sua campagna acquisti nel mondo dei videogame. Si può parlare di gameswashing? L’articolo \" L’Arabia Saudita si sta com...",
+      "date": "2026-08-12T12:00:00.0000000Z"
     },
     {
       "id": "artribune:8b5d5951c5ce",
@@ -48,6 +60,18 @@
       "url": "https://www.artribune.com/professioni-e-professionisti/2026/08/morto-christian-bernard-direttore-mamco-ginevra/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/christian-bernard-photo-valmav.png",
       "summary": "Critico, curatore, direttore di istituzioni, editore e poeta, Bernard ha attraversato alcune delle stagioni più importanti della cultura contemporanea francese e svizzera L’articolo \" È morto a 76 anni Christian Berna...",
+      "date": "2026-08-12T11:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:1acb68f19cae",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Cartolina da Monte-Carlo: itinerario fra terra e mare per una guida tascabile prêt-à-porter",
+      "url": "https://www.elledecor.com/it/viaggi/a73306931/guida-vacanza-monte-carlo/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/68604ea0-94be-4ace-adac-5dd7d5623b01.jpeg",
+      "summary": "Il quartiere più celebre del suo stesso Principato è un in continuo rinnovamento e non pecca di incoerenza con il suo stile inconfondibilmente lussuoso",
       "date": "2026-08-12T11:00:00.0000000Z"
     },
     {
@@ -99,18 +123,6 @@
       "date": "2026-08-12T08:00:00.0000000Z"
     },
     {
-      "id": "elledecor:3ca2e1d7a7c5",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "La città con più canali navigabili al mondo ha 640 km d'acqua scavati tra case e giardini",
-      "url": "https://www.elledecor.com/it/viaggi/a73392635/la-citta-con-piu-canali-navigabili-al-mondo/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/96630eb4-e5b6-4bd9-8503-2a90ae8aeb72.jpeg",
-      "summary": "Cape Coral nasce negli Anni 50 da una gigantesca lottizzazione della Florida e oggi possiede una rete di canali più estesa di quella di qualsiasi altra città",
-      "date": "2026-08-12T07:00:00.0000000Z"
-    },
-    {
       "id": "artribune:59c6636813dd",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -120,6 +132,18 @@
       "url": "https://www.artribune.com/arti-performative/2026/08/festival-culturali-italia-fine-agosto-2026/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/1-valdifassa-passosanpellegrino-colmargheritadanielelira40612-1b.jpg",
       "summary": "Dalla musica in alta quota alla fotografia contemporanea e alla sostenibilità dell’entroterra passando per il cinema d’animazione fino ai boat party e alla solitudine, c’è tutta una serie di rassegne pronte a partire....",
+      "date": "2026-08-12T07:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:3ca2e1d7a7c5",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "La città con più canali navigabili al mondo ha 640 km d'acqua scavati tra case e giardini",
+      "url": "https://www.elledecor.com/it/viaggi/a73392635/la-citta-con-piu-canali-navigabili-al-mondo/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/96630eb4-e5b6-4bd9-8503-2a90ae8aeb72.jpeg",
+      "summary": "Cape Coral nasce negli Anni 50 da una gigantesca lottizzazione della Florida e oggi possiede una rete di canali più estesa di quella di qualsiasi altra città",
       "date": "2026-08-12T07:00:00.0000000Z"
     },
     {
@@ -195,18 +219,6 @@
       "date": "2026-08-11T14:30:00.0000000Z"
     },
     {
-      "id": "artribune:aa53f938776b",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "A Roma la mostra sulle “Metamorfosi” cambia faccia alla Galleria Borghese (sì, ma in peggio)",
-      "url": "https://www.artribune.com/arti-visive/arte-moderna/2026/08/mostra-metamorfosi-galleria-borghese-roma/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/11-metamorfosi-ovidio-e-le-arti-installation-view-ph-a-novelli-l-galleria-borghese-roma-2-scaled.jpg",
-      "summary": "Fino al 20 settembre 2026 la Galleria Borghese ospita una mostra dedicata alle “Metamorfosi” di Ovidio. Ma tra l’allestimento invasivo, le opere della collezione sacrificate e dialoghi tra epoche non sempre riusciti, ...",
-      "date": "2026-08-11T14:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:e7da92bb4283",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -216,6 +228,18 @@
       "url": "https://www.elledecor.com/it/lifestyle/a73317693/everpan-padella-metallo-antiaderente/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/f21e9c64-9c0d-4933-92e2-f78f57c3f507.jpeg",
       "summary": "Everpan unisce i vantaggi dei modelli in acciaio con quelli antiaderenti, senza uso di sostanze chimiche",
+      "date": "2026-08-11T14:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:aa53f938776b",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "A Roma la mostra sulle “Metamorfosi” cambia faccia alla Galleria Borghese (sì, ma in peggio)",
+      "url": "https://www.artribune.com/arti-visive/arte-moderna/2026/08/mostra-metamorfosi-galleria-borghese-roma/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/11-metamorfosi-ovidio-e-le-arti-installation-view-ph-a-novelli-l-galleria-borghese-roma-2-scaled.jpg",
+      "summary": "Fino al 20 settembre 2026 la Galleria Borghese ospita una mostra dedicata alle “Metamorfosi” di Ovidio. Ma tra l’allestimento invasivo, le opere della collezione sacrificate e dialoghi tra epoche non sempre riusciti, ...",
       "date": "2026-08-11T14:00:00.0000000Z"
     },
     {
@@ -241,30 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/ec2b5c67-1deb-43e3-a24f-f521e4b46bfa.jpeg",
       "summary": "Uno dei velisti italiani più importanti di sempre ci accompagna dentro il mondo della progettazione nautica, tra foil, tecnologia, design e lavoro di squadra",
       "date": "2026-08-11T11:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:b7570556256c",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Questa architettura tessile costruisce una casa nomade senza muri intorno al vuoto e all’incontro",
-      "url": "https://www.elledecor.com/it/architettura/a73319165/architettura-nomade/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/afca5cf0-64ae-4b37-a493-60474f6ce103.jpg",
-      "summary": "Con BAYN, presentata a Concéntrico 2026, Faris Alosaimi unisce l’archetipo del cortile e quello della tenda in uno spazio aperto, nomade e capace di cambiare insieme al paesaggio",
-      "date": "2026-08-11T10:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:12cafa58b728",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Qual è la città più grande del mondo? La risposta cambia a seconda di come la si misura",
-      "url": "https://www.elledecor.com/it/viaggi/a73391980/qual-e-la-citta-piu-grande-del-mondo/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/0c31021c-9a07-4d79-b4fb-0306cce09118.jpeg",
-      "summary": "Popolazione, confini amministrativi, estensione urbana: tre criteri diversi, tre città diverse in cima alla classifica",
-      "date": "2026-08-11T07:00:00.0000000Z"
     }
   ]
 }

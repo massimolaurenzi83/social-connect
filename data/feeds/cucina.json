@@ -1,7 +1,31 @@
 {
   "category": "cucina",
-  "updated": "2026-08-12T12:06:56.8436478Z",
+  "updated": "2026-08-12T15:32:39.4759520Z",
   "items": [
+    {
+      "id": "dissapore:3bf314090546",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "La raccolta notturna è la nuova normalità dell’agricoltura",
+      "url": "https://www.dissapore.com/notizie/la-raccolta-notturna-e-la-nuova-normalita-dellagricoltura/",
+      "image": null,
+      "summary": "Le temperature estreme rendono il lavoro nei campi impossibile negli orari canonici, e l'agricoltura sta cambiando di conseguenza. L'articolo La raccolta notturna è la nuova normalità dell’agricoltura proviene da Diss...",
+      "date": "2026-08-12T14:00:16.0000000Z"
+    },
+    {
+      "id": "giallozafferano:a775e69bfe6c",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Alici in tortiera",
+      "url": "https://ricette.giallozafferano.it/Alici-in-tortiera.html",
+      "image": "https://www.giallozafferano.it/images/365-36541/Alici-in-tortiera_1200x800.jpg",
+      "summary": "Le alici in tortiera sono un secondo piatto di pesce semplice e gustoso, perfetto per portare in tavola tutto il sapore del pesce azzurro. In questa ricetta le alici vengono disposte a raggiera e arricchite con una pa...",
+      "date": "2026-08-12T13:09:00.0000000Z"
+    },
     {
       "id": "dissapore:7f64265effbf",
       "sourceId": "dissapore",
@@ -159,18 +183,6 @@
       "date": "2026-08-07T14:22:00.0000000Z"
     },
     {
-      "id": "dissapore:1928d1fd0449",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Gli occhiali Meta non piacciono ai ristoratori inglesi, che sono i primi a vietarli",
-      "url": "https://www.dissapore.com/notizie/gli-occhiali-meta-non-piacciono-ai-ristoratori-inglesi-che-sono-i-primi-a-vietarli/",
-      "image": null,
-      "summary": "Gli occhiali Meta sono paragonabili a degli smartphone o pongono questioni di violazione della privacy? Molti ristoratori inglesi si stanno ponendo la questione. L'articolo Gli occhiali Meta non piacciono ai ristorato...",
-      "date": "2026-08-07T14:01:19.0000000Z"
-    },
-    {
       "id": "giallozafferano:f0ef358aa517",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/364-36476/Torta-di-frutta-secca-con-crema-al-limone_1200x800.jpg",
       "summary": "Se siete alla ricerca di un dessert elegante e sorprendente, la torta di frutta secca con crema al limone è la ricetta che fa per voi. Due basi croccanti realizzate con un mix di frutta secca, miele e burro di mandorl...",
       "date": "2026-07-31T13:38:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:48f20699372f",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Crostata ai mirtilli con crema al formaggio",
-      "url": "https://ricette.giallozafferano.it/Crostata-ai-mirtilli-con-crema-al-formaggio.html",
-      "image": "https://www.giallozafferano.it/images/364-36486/Crostata-ai-mirtilli-con-crema-al-formaggio_1200x800.jpg",
-      "summary": "La crostata ai mirtilli con crema al formaggio è molto più di un semplice dolce casalingo: la sua presentazione elegante e il gusto equilibrato la rendono all’altezza di una vera torta da pasticceria! La friabile base...",
-      "date": "2026-07-31T13:20:00.0000000Z"
     }
   ]
 }
