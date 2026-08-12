@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-11T22:29:11.6773079Z",
+  "updated": "2026-08-12T05:13:34.0337915Z",
   "items": [
+    {
+      "id": "insideevs:364388d048ba",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Così le auto elettriche cinesi potranno entrare negli Stati Uniti",
+      "url": "https://insideevs.it/news/804363/auto-elettriche-cinesi-vendute-usa/",
+      "image": "https://cdn.motor1.com/images/mgl/jlWEpR/s3/xpeng-p7-2026---dinamica.jpg",
+      "summary": "Uno storico accordo tra Canada e Cina consente l'importazione di migliaia di vetture all'anno. Alcune potrebbero finire negli USA",
+      "date": "2026-08-12T05:00:00.0000000Z"
+    },
     {
       "id": "motor1:4edd2f3474a0",
       "sourceId": "motor1",
@@ -123,18 +135,6 @@
       "date": "2026-08-11T15:00:35.0000000Z"
     },
     {
-      "id": "motor1:a2fc7b19a9b0",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tutti i Gruppi auto e i loro brand",
-      "url": "https://it.motor1.com/news/804372/gruppi-auto-brand-appartenenza/",
-      "image": "https://cdn.motor1.com/images/mgl/nAln0k/s3/which-automakers-own-which-brand.jpg",
-      "summary": "Da Toyota a Ferrari, ecco com’è davvero organizzata l’industria automobilistica globale.",
-      "date": "2026-08-11T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:0f5137b46d88",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -144,6 +144,18 @@
       "url": "https://insideevs.it/news/804458/perdita-energia-auto-elettrica-ricarica-ac/",
       "image": "https://cdn.motor1.com/images/mgl/Znz3z2/s3/ladeslot-eines-mini-beim-ac-laden.jpg",
       "summary": "La tedesca ADAC testa le Mercedes CLA, Volkswagen ID.7, Volvo EX30, Renault 5 e Tesla Model Y: i risultati",
+      "date": "2026-08-11T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:a2fc7b19a9b0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tutti i Gruppi auto e i loro brand",
+      "url": "https://it.motor1.com/news/804372/gruppi-auto-brand-appartenenza/",
+      "image": "https://cdn.motor1.com/images/mgl/nAln0k/s3/which-automakers-own-which-brand.jpg",
+      "summary": "Da Toyota a Ferrari, ecco com’è davvero organizzata l’industria automobilistica globale.",
       "date": "2026-08-11T15:00:00.0000000Z"
     },
     {
@@ -183,18 +195,6 @@
       "date": "2026-08-11T14:00:35.0000000Z"
     },
     {
-      "id": "insideevs:3cd3c21f11e0",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Avatr 07L: SUV elettrico da 955 CV a soli 34.000 euro",
-      "url": "https://insideevs.it/news/804486/avatr-07l-crossover-elettrico-955/",
-      "image": "https://cdn.motor1.com/images/mgl/9m8MMg/s3/avatr-07l.jpg",
-      "summary": "Nel mercato EV cinese l’Avatr 07L offre tre versioni fino a 955 CV, batteria CATL da 89,33 kWh e autonomia dichiarata di 725 km CLTC.",
-      "date": "2026-08-11T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:8ba28ec61c91",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -204,6 +204,18 @@
       "url": "https://it.motor1.com/news/804479/pirelli-luna-rossa-foiling-coppa-america/",
       "image": "https://cdn.motor1.com/images/mgl/vx8114/s3/luna-rossa.jpg",
       "summary": "Il marchio Pirelli arriva su foil e timone degli AC40 e AC75 di Luna Rossa, con materiali sviluppati dai pneumatici ad alte prestazioni.",
+      "date": "2026-08-11T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:3cd3c21f11e0",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Avatr 07L: SUV elettrico da 955 CV a soli 34.000 euro",
+      "url": "https://insideevs.it/news/804486/avatr-07l-crossover-elettrico-955/",
+      "image": "https://cdn.motor1.com/images/mgl/9m8MMg/s3/avatr-07l.jpg",
+      "summary": "Nel mercato EV cinese l’Avatr 07L offre tre versioni fino a 955 CV, batteria CATL da 89,33 kWh e autonomia dichiarata di 725 km CLTC.",
       "date": "2026-08-11T14:00:00.0000000Z"
     },
     {
@@ -243,18 +255,6 @@
       "date": "2026-08-11T13:00:13.0000000Z"
     },
     {
-      "id": "motor1:d7c0c2425384",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Per sapere che problemi all'auto basta chiederlo direttamente a lei",
-      "url": "https://it.motor1.com/news/804470/ford-assistente-ia-diagnostica-auto/",
-      "image": "https://cdn.motor1.com/images/mgl/wl80N6/s3/ford-ai-assistant.jpg",
-      "summary": "I proprietari possono fare domande all'intelligenza artificiale su alcune funzionalità o su come risolvere problemi",
-      "date": "2026-08-11T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:1cc888199cca",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -264,6 +264,18 @@
       "url": "https://insideevs.it/news/804481/mclaren-p1-batteria-capacita-tripla/",
       "image": "https://cdn.motor1.com/images/mgl/pbJPqJ/s3/v-engineering-battery-upgrade-for-the-mclaren-p1.jpg",
       "summary": "L'auto che ha dato il via alla mania delle hypercar ibride plug-in ha una nuova tecnologia delle batterie che la mantiene attuale",
+      "date": "2026-08-11T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:d7c0c2425384",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Per sapere che problemi all'auto basta chiederlo direttamente a lei",
+      "url": "https://it.motor1.com/news/804470/ford-assistente-ia-diagnostica-auto/",
+      "image": "https://cdn.motor1.com/images/mgl/wl80N6/s3/ford-ai-assistant.jpg",
+      "summary": "I proprietari possono fare domande all'intelligenza artificiale su alcune funzionalità o su come risolvere problemi",
       "date": "2026-08-11T13:00:00.0000000Z"
     },
     {
@@ -356,7 +368,7 @@
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Ford potrebbe produrre un SUV ibrido economico",
+      "title": "Il nuovo SUV di Ford potrebbe essere così",
       "url": "https://it.motor1.com/news/804452/ford-suv-ibrido-economico-anticipazioni/",
       "image": "https://cdn.motor1.com/images/mgl/RqYGox/s3/2025-ford-bronco-sport-sasquatch-first-drive.jpg",
       "summary": "Secondo rumors Ford lo avrebbe mostrato ai concessionari americani. Arriverà nel 2028 e avrà l'aspetto di un Escape di prima generazione.",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/E6NMzw/s3/collage.jpg",
       "summary": "La Tesla Model Y guida la classifica mondiale nel primo semestre del 2026. I modelli europei non entrano nella Top 20",
       "date": "2026-08-10T14:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:daff26101944",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le 6 auto elettriche cinesi che comprerei dopo averne provate 25",
-      "url": "https://insideevs.it/news/804314/quali-auto-elettriche-cinese-comprerei/",
-      "image": "https://cdn.motor1.com/images/mgl/P3JPB4/s3/zeekr-mix.jpg",
-      "summary": "Sono le Zeekr Mix, BYD Seagul, Xiaomi SU7 e YU7, Geely EX5 e Nio Firefly: ecco perché",
-      "date": "2026-08-10T13:00:00.0000000Z"
     },
     {
       "id": "motor1:21f00ee9a8ab",
