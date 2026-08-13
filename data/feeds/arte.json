@@ -1,7 +1,31 @@
 {
   "category": "arte",
-  "updated": "2026-08-13T18:42:15.4252658Z",
+  "updated": "2026-08-13T21:29:24.5637631Z",
   "items": [
+    {
+      "id": "artribune:1f5e3747d324",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "A Venezia c’è l’unico aeroporto antico d’Italia. Ora festeggia 100 anni",
+      "url": "https://www.artribune.com/progettazione/2026/08/mostra-centenario-aeroporto-nicelli-venezia/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/100-nicelli-aereo-junker-in-decollo-dal-lido-archivio-junkers.png",
+      "summary": "Dal primo aeroporto civile italiano alla stagione dei grandi voli internazionali, il Nicelli del Lido racconta un secolo di aviazione veneziana. Il centenario si celebra con una mostra in dodici fotogrammi, tra pionie...",
+      "date": "2026-08-13T21:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:0bd7c2caf76a",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Tony. Al cinema il documentario sul giovane Anthony Bourdain (quando non era ancora un mito della cucina)",
+      "url": "https://www.artribune.com/arti-performative/cinema/2026/08/documentario-anthony-bourdain-tony-diario-giovane-cuoco/",
+      "image": "https://www.youtube.com/embed/YOspkwoNT50",
+      "summary": "Il film di Matt Johnson, nelle sale italiane dal 27 agosto, evita il biopic celebrativo per raccontare un Anthony Bourdain diciannovenne. Un percorso di formazione tra bugie, cucine di provincia e il difficile apprend...",
+      "date": "2026-08-13T20:00:00.0000000Z"
+    },
     {
       "id": "artribune:5930e09b5fe9",
       "sourceId": "artribune",
@@ -27,18 +51,6 @@
       "date": "2026-08-13T14:30:00.0000000Z"
     },
     {
-      "id": "elledecor:ccedcd2d52bb",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Nike ha presentato una ciabatta tech che migliora il recupero dopo l'allenamento",
-      "url": "https://www.elledecor.com/it/tech/novita/a73327731/nike-ciabatta-tech/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/98efd44a-f804-4308-9586-22c2a346800e.jpeg",
-      "summary": "Hyperslide abbina riscaldamento e vibrazioni per ottimizzare l'assorbimento del carico di lavoro sportivo",
-      "date": "2026-08-13T14:00:00.0000000Z"
-    },
-    {
       "id": "artribune:5ab9606ba4eb",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -51,16 +63,16 @@
       "date": "2026-08-13T14:00:00.0000000Z"
     },
     {
-      "id": "elledecor:e44d3d3253c2",
+      "id": "elledecor:ccedcd2d52bb",
       "sourceId": "elledecor",
       "source": "Elle Decor",
       "platform": "rss",
       "category": "arte",
-      "title": "Tutto sulle trombe degli angeli, le piante che profumano i giardini con i loro grandi fiori penduli",
-      "url": "https://www.elledecor.com/it/lifestyle/a73326854/come-curare-trombe-degli-angeli/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/bf5d577b-120b-4c1d-bae8-da1368aa23b0.jpg",
-      "summary": "Dall'esposizione alla potatura, la guida completa alle Brugmansia con i consigli di Sole Gastini, giovane vivaista e collezionista di ibridi rari",
-      "date": "2026-08-13T13:00:00.0000000Z"
+      "title": "Nike ha presentato una ciabatta tech che migliora il recupero dopo l'allenamento",
+      "url": "https://www.elledecor.com/it/tech/novita/a73327731/nike-ciabatta-tech/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/98efd44a-f804-4308-9586-22c2a346800e.jpeg",
+      "summary": "Hyperslide abbina riscaldamento e vibrazioni per ottimizzare l'assorbimento del carico di lavoro sportivo",
+      "date": "2026-08-13T14:00:00.0000000Z"
     },
     {
       "id": "artribune:eba71226e539",
@@ -72,6 +84,18 @@
       "url": "https://www.artribune.com/dal-mondo/2026/08/elvira-dyangani-ose-direttrice-artistica-zeitz-mocaa-citta-del-capo/",
       "image": "https://www.artribune.com/wp-content/uploads/2021/01/Think-Tank.jpg",
       "summary": "Succede alla compianta Koyo Kouoh (la curatrice della Biennale d’Arte, morta prima dell’inaugurazione della Biennale stessa) la nuova curatrice spagnola Elvira Dyangani Ose, che prenderà il timone dello Zeitz Museum o...",
+      "date": "2026-08-13T13:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:e44d3d3253c2",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Tutto sulle trombe degli angeli, le piante che profumano i giardini con i loro grandi fiori penduli",
+      "url": "https://www.elledecor.com/it/lifestyle/a73326854/come-curare-trombe-degli-angeli/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/bf5d577b-120b-4c1d-bae8-da1368aa23b0.jpg",
+      "summary": "Dall'esposizione alla potatura, la guida completa alle Brugmansia con i consigli di Sole Gastini, giovane vivaista e collezionista di ibridi rari",
       "date": "2026-08-13T13:00:00.0000000Z"
     },
     {
@@ -205,30 +229,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/b6e47cb2-820e-4b52-8a8e-2fa5a2d34498.jpeg",
       "summary": "Designer ed esperti del settore indicano i pezzi d’epoca su cui si concentrerà l’attenzione di collezionisti e appassionati nei prossimi mesi",
       "date": "2026-08-13T05:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:318470b8f36f",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Le immagini delle scoperte sui fondali dell’Isola d’Elba: relitti e reperti",
-      "url": "https://www.artribune.com/arti-visive/archeologia-arte-antica/2026/08/scoperte-archeologiche-isola-delba/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/archeologia-elba-2026-8-scaled.jpg",
-      "summary": "Un dolium riconducibile alle rotte commerciali del vino e un possibile relitto, ancora tutto da studiare: ecco le nuove scoperte che raccontano la lunga storia sommersa del Tirreno L’articolo \" Le immagini delle scope...",
-      "date": "2026-08-12T21:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:76331b250699",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "La storia di un disco nato tra i boschi della Sila in Calabria. Un video la racconta",
-      "url": "https://www.artribune.com/arti-performative/musica/2026/08/video-disco-edoardo-petracci-calabria/",
-      "image": "https://www.youtube.com/embed/DxYYn5-rrgA",
-      "summary": "Un vecchio casolare di campagna, macchine a nastro, contrabbasso e pianoforte. È nato tra le montagne calabresi della Sila l’album d’esordio di Edoardo Petracci, intitolato “By This Window”. Un disco in presa diretta ...",
-      "date": "2026-08-12T20:00:00.0000000Z"
     },
     {
       "id": "elledecor:57736253e073",
