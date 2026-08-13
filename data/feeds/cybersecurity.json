@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-13T12:07:49.6248465Z",
+  "updated": "2026-08-13T15:35:36.5407177Z",
   "items": [
+    {
+      "id": "cybersecurity360:8f4c8679be7a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "GPT-5.6-Cyber trova zero-day e sviluppa exploit: la cyber difesa cambia passo",
+      "url": "https://www.cybersecurity360.it/news/gpt-5-6-cyber-trova-zero-day-e-sviluppa-exploit-la-cyber-difesa-cambia-passo/",
+      "image": null,
+      "summary": "Il nuovo modello specializzato di OpenAI, GPT-5.6-Cyber completa il 95% delle richieste cyber avanzate e ha già individuato vulnerabilità reali. Ma capacità offensive così elevate impongono nuovi controlli: accesso ri...",
+      "date": "2026-08-13T13:53:08.0000000Z"
+    },
     {
       "id": "cybersecurity360:cb27b232348c",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Il Patch Tuesday di agosto 2026 interviene per correggere 421 vulnerabilità tra cui una zero-day nel driver WinSock già sfruttata da Lazarus e quattro RCE unauthenticated con CVSS 9.8. E conferma che con l’adozione l'...",
       "date": "2026-08-12T08:28:22.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d75ff7c407c7",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Mythos e Chronos, la corsa contro il tempo di Anthropic e le domande senza risposta",
-      "url": "https://www.cybersecurity360.it/outlook/mythos-e-chronos/",
-      "image": null,
-      "summary": "Un modello troppo capace per essere rilasciato al pubblico. Questo è Mythos, del quale si sa quel poco che basta per alimentare dubbi, legati anche alla corsa contro il tempo di Anthropic per sbarcare in borsa. Anche ...",
-      "date": "2026-08-12T08:00:00.0000000Z"
     }
   ]
 }

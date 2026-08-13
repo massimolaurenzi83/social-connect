@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-08-13T12:07:49.6545900Z",
+  "updated": "2026-08-13T15:35:36.4974546Z",
   "items": [
+    {
+      "id": "media-inaf:6b31f00b5316",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Entanglement verde",
+      "url": "https://www.media.inaf.it/2026/08/13/entanglement-con-luce-solare/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/08/cover-solar-entanglement-150x150.jpg",
+      "summary": "Per la prima volta sono stati prodotti fotoni entangled attraverso la luce solare. La ricerca, guidata dall’Università di Ottawa (Canada) e dal Max Planck Institute for the Science of Light (Germania) è stata pubblica...",
+      "date": "2026-08-13T13:39:53.0000000Z"
+    },
     {
       "id": "geopop:xuZEjm5nJ48",
       "sourceId": "geopop",
@@ -276,18 +288,6 @@
       "summary": "",
       "videoId": "ym_XvH4WQRI",
       "date": "2026-08-06T16:30:06.0000000Z"
-    },
-    {
-      "id": "media-inaf:8335b7ecc065",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "L’appetito sorprendente delle stelle morte",
-      "url": "https://www.media.inaf.it/2026/08/06/inquinamento-nane-bianche/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/08/dead-stars-may-have-surprisingly-healthy-appetites-white_dwarf_pollution_illustration-150x150.jpg",
-      "summary": "Le nane bianche hanno più volte dimostrato il loro potenziale nell'aiutarci a comprendere come i sistemi planetari, incluso il Sistema solare, prendono forma ed evolvono. Ora, una nuova ricerca in uscita su ApJ mostra...",
-      "date": "2026-08-06T09:36:08.0000000Z"
     },
     {
       "id": "geopop:SXIq2wI1eb4",
