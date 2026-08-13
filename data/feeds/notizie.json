@@ -1,6 +1,6 @@
 {
   "category": "notizie",
-  "updated": "2026-08-13T21:29:24.4575177Z",
+  "updated": "2026-08-13T23:33:38.7441657Z",
   "items": [
     {
       "id": "repubblica:e6efaea138f3",
@@ -15,16 +15,40 @@
       "date": "2026-08-13T23:00:00.0000000Z"
     },
     {
-      "id": "ansa:04d503aa3272",
+      "id": "repubblica:201aa292a848",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Caso Lavitola, la vignetta di Ellekappa",
+      "url": "https://www.repubblica.it/politica/2026/08/14/news/caso_lavitola_la_vignetta_di_ellekappa-425527938/",
+      "image": null,
+      "summary": "",
+      "date": "2026-08-13T22:01:00.0000000Z"
+    },
+    {
+      "id": "ansa:16b24cdc565c",
       "sourceId": "ansa",
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Europei atletica: Dariya Derkach vince la medaglia d'oro nel salto trilplo",
-      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/13/europei-atletica-dariya-derkach-vince-la-medaglia-doro-nel-salto-trilplo_cd6b53b1-5e66-473c-a5b0-d57e0c4bd20a.html",
+      "title": "Sara Curtis e Dariya Derkach, Italia d'oro agli Europei di nuoto e atletica",
+      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/13/sara-curtis-e-dariya-derkach-italia-doro-agli-europei-di-nuoto-e-atletica_0d478d2f-e9b4-493d-a164-9ed18ea11cc0.html",
       "image": null,
-      "summary": "Chiude dodicesima l'altra azzurra Erika Saraceni. Coiro in finale negli 800 femminili. Desalu e Dezza in finale nei 200. Pernici quinto negli 800",
-      "date": "2026-08-13T20:58:08.0000000Z"
+      "summary": "La giovane piemontese stabilisce anche il record del mondo dei 50 dorso",
+      "date": "2026-08-13T22:00:30.0000000Z"
+    },
+    {
+      "id": "ansa:663a7a4a2452",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Balzo dell'8% dei consumi elettrici, a luglio è nuovo record",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/08/13/balzo-dell8-dei-consumi-elettrici-a-luglio-e-nuovo-record_ef3ca3ee-9835-4f45-b5ba-8a7cfd08f491.html",
+      "image": null,
+      "summary": ">>>ANSA/Balzo dell'8% dei consumi elettrici, a luglio è nuovo record Terna, col caldo eccezionale toccato il picco annuale. Vola il fotovoltaico",
+      "date": "2026-08-13T21:24:20.0000000Z"
     },
     {
       "id": "open:6eb7bd2cdea4",
@@ -47,7 +71,7 @@
       "title": "Navi Ong tedesche nel Mediterraneo: 73 migranti in viaggio verso Ravenna. Lo spettro delle “compensazioni” con Berlino",
       "url": "https://www.open.online/2026/08/13/navi-ong-tedesche-migranti-asilo-piantedosi-germania/",
       "image": "https://static.open.online/wp-content/uploads/2026/08/salvataggio-in-mare-di-naufraghi-ONG-tedesca-scaled.jpg",
-      "summary": "In arrivo il 18 agosto a Ravenna 73 migranti a bordo dalla nave ong tedesca Humanity 1: uno sbarco che potrebbe accendere ulteriormente la tensione tra Italia e Germania L'articolo Navi Ong tedesche nel Mediterraneo: ...",
+      "summary": "In arrivo il 18 agosto a Ravenna 73 migranti a bordo della nave ong tedesca Humanity 1: uno sbarco che potrebbe accendere ulteriormente la tensione tra Italia e Germania L'articolo Navi Ong tedesche nel Mediterraneo: ...",
       "date": "2026-08-13T20:49:58.0000000Z"
     },
     {
@@ -63,6 +87,18 @@
       "date": "2026-08-13T20:43:03.0000000Z"
     },
     {
+      "id": "ansa:df0a83da4d74",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Esalazioni da un depuratore, morti un operaio e un soccorritore",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/esalazioni-da-un-depuratore-morti-un-operaio-e-un-soccorritore_fe212b0c-7c45-435f-8fe9-4fa861c6cfce.html",
+      "image": null,
+      "summary": "L'operatore del 118 era all'esterno e si sarebbe sentito male",
+      "date": "2026-08-13T20:30:27.0000000Z"
+    },
+    {
       "id": "open:af89883bfa25",
       "sourceId": "open",
       "source": "Open",
@@ -73,18 +109,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/daryia-derkach-europei-atletica.jpeg",
       "summary": "Sesta medaglia per l'Italia in questi campionati europei. Decisiva la misura a 14,60 nel quarto salto L'articolo Europei di atletica, nuova medaglia per l’Italia: arriva l’oro nel salto triplo con Derkach proviene da ...",
       "date": "2026-08-13T20:29:19.0000000Z"
-    },
-    {
-      "id": "ansa:5fa606b71acb",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Crans-Montana, dimessa anche l'ultima paziente ricoverata a Milano",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/crans-montana-dimessa-anche-lultima-paziente-ricoverata-a-milano_a4b082b3-804c-418a-b5c4-75584c85db1a.html",
-      "image": null,
-      "summary": "Francesca torna a casa. Bertolaso: 'Missione compiuta'",
-      "date": "2026-08-13T20:28:35.0000000Z"
     },
     {
       "id": "ansa:a24fa28e61e6",
@@ -111,18 +135,6 @@
       "date": "2026-08-13T20:26:50.0000000Z"
     },
     {
-      "id": "ansa:992728f73b3f",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La grigliata, la lite e le coltellate: un 18enne ucciso a Trani",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/la-grigliata-la-lite-e-le-coltellate-un-18enne-ucciso-a-trani_bcb72b07-ffe0-42d3-b36e-b05af291a9be.html",
-      "image": null,
-      "summary": "Confessa un 17enne: 'Non volevo'. Il legale: 'È stato un raid'",
-      "date": "2026-08-13T20:26:01.0000000Z"
-    },
-    {
       "id": "open:e3cb3721be70",
       "sourceId": "open",
       "source": "Open",
@@ -143,7 +155,7 @@
       "title": "Ryanair, finestrino distrutto dai detriti del motore: si ipotizza la frattura della pala",
       "url": "https://www.repubblica.it/economia/2026/08/13/news/ryanair_finestrino_motore_avaria_indagine-425527948/",
       "image": null,
-      "summary": "Rapporto preliminare sull’avaria al volo da Salonicco a Memmingen che stava costando la vita a un passeggero, risucchiato fuori dall’oblò che ha ceduto. Il Boeing 737 rispettava le scadenze fissate dalle autorità per ...",
+      "summary": "Rapporto preliminare sull’avaria al volo da Salonicco a Memmingen che stava costando la vita a un passeggero, risucchiato fuori dall’oblò in frantumi. Il Boeing 737 rispettava le scadenze fissate dalle autorità per gl...",
       "date": "2026-08-13T19:43:44.0000000Z"
     },
     {
@@ -467,18 +479,6 @@
       "image": null,
       "summary": "Oltre 1.500 soldati sono stati mandati nel Michoacán dal governo di Claudia Sheinbaum per garantire la sicurezza degli ispettori statunitensi che verificano la qualità dei frutti",
       "date": "2026-08-13T15:32:59.0000000Z"
-    },
-    {
-      "id": "repubblica:4b514e0a216f",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Dimessa anche Francesca, ora tutti i feriti di Crans-Montana sono a casa: “Un sogno che si avvera”",
-      "url": "https://milano.repubblica.it/cronaca/2026/08/13/news/crans_montana_dimessa_francesca_nota_tutti_feriti_casa_niguarda_bertolaso-425527446/",
-      "image": null,
-      "summary": "La studentessa del liceo Virgilio, che ha compiuto 17 anni al Niguarda, era la più grave di tutti, con ustioni sul 70% del corpo. A dare l’annuncio è stato l’assessore al Welfare Guido Bertolaso",
-      "date": "2026-08-13T15:28:08.0000000Z"
     },
     {
       "id": "repubblica:35262fbf73bb",
