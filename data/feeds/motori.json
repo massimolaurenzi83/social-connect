@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-12T23:27:06.8004949Z",
+  "updated": "2026-08-13T05:25:02.2460466Z",
   "items": [
+    {
+      "id": "motor1:ada92d9501c5",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le station wagon stanno morendo?",
+      "url": "https://it.motor1.com/news/804393/station-wagon-fine-segmento-analisi/",
+      "image": "https://cdn.motor1.com/images/mgl/P3B11L/s3/addio-station-wagon.jpg",
+      "summary": "Stati Uniti ed Europa stanno abbandonando le station, la Cina prova a riportarle in auge. Ma riusciranno a tornare di moda?",
+      "date": "2026-08-13T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:858f9ff05bd9",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Smonta le batterie BYD e CATL: ecco le differenze",
+      "url": "https://insideevs.it/news/804603/smontaggio-batterie-byd-catl-differenze/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak36m6/s3/smontano-le-batterie-byd-e-catl-ecco-le-differenze.jpg",
+      "summary": "Le celle BYD hanno più densità energetica e non solo: i risultati del test indipendente",
+      "date": "2026-08-13T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:ff3692c72165",
       "sourceId": "vaielettrico",
@@ -135,18 +159,6 @@
       "date": "2026-08-12T15:00:55.0000000Z"
     },
     {
-      "id": "motor1:bafff73eec4e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Monterey Car Week 2026: tutte le novità",
-      "url": "https://it.motor1.com/news/804672/monterey-car-week-2026-auto-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak3MxO/s3/monterey-car-week-2026-preview.jpg",
-      "summary": "Dalle hypercar da milioni di dollari ai misteriosi nuovi concept, questi sono i debutti più importanti in arrivo a Monterey 2026",
-      "date": "2026-08-12T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:c7cf7ea79fb0",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -156,6 +168,18 @@
       "url": "https://insideevs.it/features/804576/ev-auto-benzina-mito/",
       "image": "https://cdn.motor1.com/images/mgl/Znz3pr/s3/fossil-fuel-powering-an-ev.jpg",
       "summary": "Gli scettici dicono che ricaricare con reti elettriche alimentate da combustibili fossili sia dannoso quanto bruciare benzina. Sbagliato",
+      "date": "2026-08-12T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:bafff73eec4e",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Monterey Car Week 2026: tutte le novità",
+      "url": "https://it.motor1.com/news/804672/monterey-car-week-2026-auto-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak3MxO/s3/monterey-car-week-2026-preview.jpg",
+      "summary": "Dalle hypercar da milioni di dollari ai misteriosi nuovi concept, questi sono i debutti più importanti in arrivo a Monterey 2026",
       "date": "2026-08-12T15:00:00.0000000Z"
     },
     {
@@ -243,15 +267,15 @@
       "date": "2026-08-12T13:00:00.0000000Z"
     },
     {
-      "id": "motor1:a55a816458dc",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
+      "id": "hdmotori:a29ff865d7af",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
       "platform": "rss",
       "category": "motori",
-      "title": "I primi indizi sulla nuova Porsche Macan. A benzina",
-      "url": "https://it.motor1.com/news/804619/nuova-porsche-macan-benzina-foto-spia/",
-      "image": "https://cdn.motor1.com/images/mgl/koGQkB/s3/2026-porsche-macan-gts.jpg",
-      "summary": "Avvistata una strana Audi Q5 con passaruota maggiorati. E' il primo indizio sull'erede della Macan (termica)?",
+      "title": "Armani, il suo yacht è in Toscana: quanto vale l’imbarcazione di 65 metri",
+      "url": "https://www.hdmotori.it/armani-yacht-toscana-valore/",
+      "image": null,
+      "summary": "Il superyacht Main di Giorgio Armani è arrivato a Porto Santo Stefano: lungo 65 metri, vale 65 milioni di dollari e ospita 14 persone The post Armani, il suo yacht è in Toscana: quanto vale l’imbarcazione di 65 metri ...",
       "date": "2026-08-12T12:00:00.0000000Z"
     },
     {
@@ -267,28 +291,16 @@
       "date": "2026-08-12T12:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:a29ff865d7af",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Armani, il suo yacht è in Toscana: quanto vale l’imbarcazione di 65 metri",
-      "url": "https://www.hdmotori.it/armani-yacht-toscana-valore/",
-      "image": null,
-      "summary": "Il superyacht Main di Giorgio Armani è arrivato a Porto Santo Stefano: lungo 65 metri, vale 65 milioni di dollari e ospita 14 persone The post Armani, il suo yacht è in Toscana: quanto vale l’imbarcazione di 65 metri ...",
-      "date": "2026-08-12T12:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:fb8e4bad6938",
+      "id": "motor1:a55a816458dc",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Toyota RAV4 full hybrid (2026), la prova dei consumi reali",
-      "url": "https://it.motor1.com/reviews/804346/toyota-rav4-full-hybrid-2026-consumi/",
-      "image": "https://cdn.motor1.com/images/mgl/E6NMZR/s3/toyota-rav4-full-hybrid-2026-la-prova-consumi.jpg",
-      "summary": "La RAV4 è un'istituzione tra i SUV e la sesta generazione del 2026 non si smentisce: buona efficienza, tanto spazio e ottime dotazioni",
-      "date": "2026-08-12T11:00:00.0000000Z"
+      "title": "I primi indizi sulla nuova Porsche Macan. A benzina",
+      "url": "https://it.motor1.com/news/804619/nuova-porsche-macan-benzina-foto-spia/",
+      "image": "https://cdn.motor1.com/images/mgl/koGQkB/s3/2026-porsche-macan-gts.jpg",
+      "summary": "Avvistata una strana Audi Q5 con passaruota maggiorati. E' il primo indizio sull'erede della Macan (termica)?",
+      "date": "2026-08-12T12:00:00.0000000Z"
     },
     {
       "id": "insideevs:ca31bf523223",
@@ -300,6 +312,18 @@
       "url": "https://insideevs.it/news/804607/porsche-xpeng-multe-co2-ue/",
       "image": "https://cdn.motor1.com/images/mgl/mMzYZo/s3/porsche-cayenne-s-coupe-electric-2026-das-exterieur.jpg",
       "summary": "Porsche esce dal pool emissioni del Gruppo Volkswagen e si unisce a Xpeng, mentre il gruppo cerca di evitare pesanti sanzioni europee",
+      "date": "2026-08-12T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:fb8e4bad6938",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Toyota RAV4 full hybrid (2026), la prova dei consumi reali",
+      "url": "https://it.motor1.com/reviews/804346/toyota-rav4-full-hybrid-2026-consumi/",
+      "image": "https://cdn.motor1.com/images/mgl/E6NMZR/s3/toyota-rav4-full-hybrid-2026-la-prova-consumi.jpg",
+      "summary": "La RAV4 è un'istituzione tra i SUV e la sesta generazione del 2026 non si smentisce: buona efficienza, tanto spazio e ottime dotazioni",
       "date": "2026-08-12T11:00:00.0000000Z"
     },
     {
@@ -315,18 +339,6 @@
       "date": "2026-08-12T10:30:00.0000000Z"
     },
     {
-      "id": "insideevs:d594acf5ff94",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "CATL accelera sulle batterie allo stato solido: arrivano nel 2027",
-      "url": "https://insideevs.it/news/804601/batterie-stato-solido-auto-elettriche-catl-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/P3BbQ2/s3/batteria-catl.jpg",
-      "summary": "Il gigante cinese degli accumulatori per auto elettriche avvierà la produzione pilota su piccola scala l'anno prossimo",
-      "date": "2026-08-12T09:30:00.0000000Z"
-    },
-    {
       "id": "motor1:00024bf809c5",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -336,6 +348,18 @@
       "url": "https://it.motor1.com/news/804597/mercedes-maybach-lebron-james/",
       "image": "https://cdn.motor1.com/images/mgl/Ak3626/s3/mercedes-maybach-s-680-created-by-lebron-james.jpg",
       "summary": "La Mercedes-Maybach S 680 personalizzata da \"King James\" è la punta dell'iceberg delle Stelle esposte a Monterey",
+      "date": "2026-08-12T09:30:00.0000000Z"
+    },
+    {
+      "id": "insideevs:d594acf5ff94",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "CATL accelera sulle batterie allo stato solido: arrivano nel 2027",
+      "url": "https://insideevs.it/news/804601/batterie-stato-solido-auto-elettriche-catl-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/P3BbQ2/s3/batteria-catl.jpg",
+      "summary": "Il gigante cinese degli accumulatori per auto elettriche avvierà la produzione pilota su piccola scala l'anno prossimo",
       "date": "2026-08-12T09:30:00.0000000Z"
     },
     {
@@ -411,18 +435,6 @@
       "date": "2026-08-12T06:17:48.0000000Z"
     },
     {
-      "id": "motor1:4964a189c814",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Leggerissima e con cambio manuale, la Caterham non smette di stupire",
-      "url": "https://it.motor1.com/news/804471/caterham-seven-miami-monterey-2026-vendita/",
-      "image": "https://cdn.motor1.com/images/mgl/jlWvyl/s3/caterham-seven-miami-special-edition.jpg",
-      "summary": "Caterham porta alla Monterey Car Week la Seven Miami Edition. Due di questi esemplari sono venduti tramite Bonhams",
-      "date": "2026-08-12T06:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:364388d048ba",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -481,18 +493,6 @@
       "image": "https://cdn.motor1.com/images/mgl/9m8MMg/s3/avatr-07l.jpg",
       "summary": "Nel mercato EV cinese l’Avatr 07L offre tre versioni fino a 955 CV, batteria CATL da 89,33 kWh e autonomia dichiarata di 725 km CLTC.",
       "date": "2026-08-11T14:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:bb48320880ec",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla Roadster: \"Molto presto\" dopo anni di rinvii, ma quando?",
-      "url": "https://insideevs.it/news/804503/tesla-roadster-annuncio-presto-senza-data/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak3MMx/s3/tesla-roadster-prototipo-2017.jpg",
-      "summary": "Tra promesse ripetute e rinvii continui, Tesla Roadster resta un progetto senza calendario certo di produzione o consegne",
-      "date": "2026-08-11T13:37:32.0000000Z"
     },
     {
       "id": "vaielettrico:30a4129829b4",

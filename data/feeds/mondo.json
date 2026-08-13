@@ -1,7 +1,103 @@
 {
   "category": "mondo",
-  "updated": "2026-08-12T23:27:06.7938181Z",
+  "updated": "2026-08-13T05:25:02.2077583Z",
   "items": [
+    {
+      "id": "ansa-mondo:143d254f7944",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "La storica casa di Allende a Santiago del Cile diventa un ufficio",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/la-storica-casa-di-allende-a-santiago-del-cile-diventa-un-ufficio_50b608ea-6bfc-4c3c-b8b8-c73abdebf4a1.html",
+      "image": null,
+      "summary": "Venduta per un milione di dollari dopo il fallito tentativo di trasformarla in museo",
+      "date": "2026-08-13T04:38:06.0000000Z"
+    },
+    {
+      "id": "internazionale:5fe574bf3eda",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Il governo ungherese usa le armi di Orbán contro di lui",
+      "url": "https://www.internazionale.it/notizie/2026/08/13/ungheria-andras-baka-presidente-orban",
+      "image": "https://media.internazionale.it/images/2026/08/12/356131-hd.jpg",
+      "summary": "L’11 agosto il parlamento del paese ha eletto il giurista András Baka come nuovo presidente ricorrendo a una forzatura costituzionale Leggi",
+      "date": "2026-08-13T04:30:01.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:7c693dd18651",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Costa Rica vara un nuovo piano d'azione per i senzatetto",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/costa-rica-vara-un-nuovo-piano-dazione-per-i-senzatetto_33941ed9-2efe-4d19-9f05-8b5ec997e4d6.html",
+      "image": null,
+      "summary": "In strada oltre 7.000 persone, Fernández critica l'ente per le dipendenze",
+      "date": "2026-08-13T03:40:19.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:0c979ab95507",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Messico da record ai Giochi centramericani, in arrivo più fondi per gli atleti",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/messico-da-record-ai-giochi-centramericani-in-arrivo-piu-fondi-per-gli-atleti_687a1f04-a1a3-482c-b9bc-014615181c60.html",
+      "image": null,
+      "summary": "Con 407 medaglie cambiano i premi e aumentano le borse di studio",
+      "date": "2026-08-13T02:50:16.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:a0077adf91da",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Italia-Messico, scambi oltre i 6 miliardi nel primo semestre",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/italia-messico-scambi-oltre-i-6-miliardi-nel-primo-semestre_6c339909-ede4-4e9c-b7e2-ea0c1d9fc82d.html",
+      "image": null,
+      "summary": "Il volume d'affari cresce del 13% trainato dagli acquisti del Paese latinoamericano",
+      "date": "2026-08-13T01:08:18.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:117b57cc3ddc",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Venezuela, governo e opposizione chiudono il primo ciclo di dialogo",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/venezuela-governo-e-opposizione-chiudono-il-primo-ciclo-di-dialogo_7cfbe9f5-d0be-406e-8b32-600178608ea3.html",
+      "image": null,
+      "summary": "Accordo su aiuti per il terremoto e riforma della giustizia, compresa la Corte suprema",
+      "date": "2026-08-13T00:31:35.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:0853b3205864",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Argentina, sequestrati i beni di Cristina Kirchner nel caso Vialidad",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/argentina-sequestrati-i-beni-di-cristina-kirchner-nel-caso-vialidad_027d71bd-91a5-4d7f-88eb-1b457fade461.html",
+      "image": null,
+      "summary": "La misura riguarda immobili, veicoli e quote societarie per 398,2 milioni di euro",
+      "date": "2026-08-13T00:00:30.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:663b068b94fa",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Colombia, de la Espriella lancia il 'Fondo Milagro' per convogliare risorse post sisma",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/13/colombia-de-la-espriella-lancia-il-fondo-milagro-per-convogliare-risorse-post-sisma_aa016760-c60e-4a81-b74a-11c42e1100d8.html",
+      "image": null,
+      "summary": "Obiettivo la ricostruzione di ospedali, scuole, abitazioni, strade e aeroporti",
+      "date": "2026-08-12T23:33:09.0000000Z"
+    },
     {
       "id": "ansa-mondo:43796db404d2",
       "sourceId": "ansa-mondo",
@@ -61,90 +157,6 @@
       "image": null,
       "summary": "'Per dedicare più tempo alla sua famiglia e ai suoi splendidi figli piccoli'",
       "date": "2026-08-12T20:01:49.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:143d254f7944",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "La storica casa di Allende a Santiago del Cile diventa un ufficio",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/la-storica-casa-di-allende-a-santiago-del-cile-diventa-un-ufficio_50b608ea-6bfc-4c3c-b8b8-c73abdebf4a1.html",
-      "image": null,
-      "summary": "Venduta per un milione di dollari dopo il fallito tentativo di trasformarla in museo",
-      "date": "2026-08-12T19:55:23.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:1b58656d820d",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Venezuela, la polizia blocca la protesta sindacale davanti all'hotel del negoziato",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/venezuela-la-polizia-blocca-la-protesta-sindacale-davanti-allhotel-del-negoziato_06c8d86b-1572-423b-b181-7b3f6990683f.html",
-      "image": null,
-      "summary": "Manifestanti chiedono elezioni presidenziali entro l'anno e liberazione detenuti politici",
-      "date": "2026-08-12T19:46:08.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:57fc87638a25",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Versione inedita del videogame Super Mario scoperta in un negozio in Wisconsin",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/versione-inedita-del-videogame-super-mario-scoperta-in-un-negozio-in-wisconsin_0a585dbf-294b-4854-8236-46842d296fab.html",
-      "image": null,
-      "summary": "Si tratta di 97 copie stampate nel 1993, ancora sigillate e destinate alla distruzione",
-      "date": "2026-08-12T18:56:12.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:a75d66db639e",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Caldo estremo in Gb, Burnham riunisce il comitato Cobra e vieta i barbecue",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/12/caldo-estremo-in-gb-burnham-riunisce-il-comitato-cobra-e-vieta-i-barbecue_8cdd6c90-602d-42cb-8339-fc203cb3625d.html",
-      "image": null,
-      "summary": "Meeting d'emergenza su incendi e su effetti cambiamento climatico su salute e sicurezza",
-      "date": "2026-08-12T17:40:40.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:d72583e310d3",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Migranti dello Zimbabwe in Sudafrica vittime di reclutamento russo",
-      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/08/12/migranti-dello-zimbabwe-in-sudafrica-vittime-di-reclutamento-russo_f512cf44-8237-46c4-bfc3-855c1e6824b6.html",
-      "image": null,
-      "summary": "Promesse di lavoro per attirare giovani verso il fronte ucraino",
-      "date": "2026-08-12T17:10:31.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:48ffc24965f3",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Diaz-Canel, 'salvare la rivoluzione è la maggiore sfida della nostra generazione'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/12/diaz-canel-salvare-la-rivoluzione-e-la-maggiore-sfida-della-nostra-generazione_acb855eb-ce6d-4efb-aaba-d1ecd713884d.html",
-      "image": null,
-      "summary": "Il presidente di Cuba ha dato un discorso alla conferenza sui 100 anni di Fidel Castro",
-      "date": "2026-08-12T16:00:06.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:081e5aab667b",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Trump denunciato per la vendita dei post su Truth",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/12/trump-denunciato-per-la-vendita-dei-post-su-truth_7bf41caa-4291-4cc6-91ec-85079cdb9ee6.html",
-      "image": null,
-      "summary": "'Sistema corrotto e incostituzionale'",
-      "date": "2026-08-12T15:45:42.0000000Z"
     },
     {
       "id": "internazionale:077bb12ed431",
@@ -265,18 +277,6 @@
       "image": "https://media.internazionale.it/images/2026/08/10/356014-hd.jpg",
       "summary": "Il gruppo di fotografi e reporter sudafricani neri conosciuti come Drum boys da decenni continua a esercitare il suo fascino su giornalisti e scrittori di oggi Leggi",
       "date": "2026-08-11T07:10:02.0000000Z"
-    },
-    {
-      "id": "internazionale:e0d1ad68b196",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Giorgia Meloni parla d’immigrazione per nascondere la sua crisi",
-      "url": "https://www.internazionale.it/notizie/lorena-pacho/2026/08/11/giorgia-meloni-ceuta-immigrazione",
-      "image": "https://media.internazionale.it/images/2026/08/10/356017-hd.jpg",
-      "summary": "Per contrastare la perdita di consensi, la presidente del consiglio italiana è tornata a parlare di politiche migratorie, sfruttando la crisi di Ceuta Leggi",
-      "date": "2026-08-11T04:32:02.0000000Z"
     }
   ]
 }
