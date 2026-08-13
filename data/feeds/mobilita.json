@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-13T15:35:36.6009284Z",
+  "updated": "2026-08-13T18:42:15.3867466Z",
   "items": [
+    {
+      "id": "ferrovie:be2ab45be994",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Roma, fermati nel deposito della Metro B con 32 bombolette spray: tre giovani denunciati",
+      "url": "https://www.ferrovie.info/cronaca/roma-fermati-nel-deposito-della-metro-b-con-32-bombolette-spray-tre-giovani-denunciati.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10635/metromare_7341_15.jpg",
+      "summary": "I tre, un minorenne italiano e due cittadini spagnoli di 18 e 19 anni, sono stati intercettati dai Carabinieri mentre tentavano di entrare nell’area ferroviaria all’Eur Torrino. Tre giovani sono stati fermati dai Cara...",
+      "date": "2026-08-13T15:51:16.0000000Z"
+    },
     {
       "id": "ferrovie:e42b858944d5",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10816/et421_liguria_202303.jpeg",
       "summary": "Laghi, parchi divertimento, borghi e viaggi panoramici: con le “Gite in treno” Trenord propone itinerari che uniscono il viaggio ferroviario a esperienze di visita, divertimento, sport, arte e cultura in Lombardia. L’...",
       "date": "2026-08-12T07:03:57.0000000Z"
-    },
-    {
-      "id": "ferrovie:3e9e22e10f9a",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Rail Cargo Hungaria, trasporto merci garantito durante le restrizioni energetiche",
-      "url": "https://www.ferrovie.info/treni-reali/rail-cargo-hungaria-trasporto-merci-garantito-durante-le-restrizioni-energetiche.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/obb_barbabietola.jpg",
-      "summary": "Rail Cargo Hungaria ha garantito la continuità dei principali trasporti ferroviari merci anche durante le restrizioni temporanee alla circolazione dei treni elettrici imposte in Ungheria a causa dell'emergenza energet...",
-      "date": "2026-08-12T06:56:34.0000000Z"
     }
   ]
 }

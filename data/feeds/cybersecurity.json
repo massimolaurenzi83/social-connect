@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-13T15:35:36.5407177Z",
+  "updated": "2026-08-13T18:42:15.4038899Z",
   "items": [
+    {
+      "id": "cybersecurity360:5eb584be0122",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Hack back, Trump rompe il tabù: i privati entrano nella cyber offensiva, ecco i rischi",
+      "url": "https://www.cybersecurity360.it/news/memorandum-trump-aziende-usa-possono-fare-cyber-attacchi/",
+      "image": null,
+      "summary": "Trump firma un memorandum che consente alle aziende statunitensi di sferrare attacchi informatici. La nuova direttiva autorizza le aziende a condurre operazioni sotto la direzione del governo. Il confronto fra lo scen...",
+      "date": "2026-08-13T15:41:16.0000000Z"
+    },
     {
       "id": "cybersecurity360:8f4c8679be7a",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "NordVPN propone un'offerta valida fino al 9 settembre 2026 con sconti fino al 73% sui piani biennali e un voucher Saily fino a 10 GB. Il vantaggio massimo raggiunge 463,20 euro sul piano Ultimate Max, mentre la promoz...",
       "date": "2026-08-12T08:40:19.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3887eb1c866c",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Patch Tuesday agosto 2026: un driver Windows, il gruppo Lazarus e 400 vulnerabilità sullo sfondo",
-      "url": "https://www.cybersecurity360.it/news/patch-tuesday-agosto-2026-un-driver-windows-il-gruppo-lazarus-e-400-vulnerabilita-sullo-sfondo/",
-      "image": null,
-      "summary": "Il Patch Tuesday di agosto 2026 interviene per correggere 421 vulnerabilità tra cui una zero-day nel driver WinSock già sfruttata da Lazarus e quattro RCE unauthenticated con CVSS 9.8. E conferma che con l’adozione l'...",
-      "date": "2026-08-12T08:28:22.0000000Z"
     }
   ]
 }

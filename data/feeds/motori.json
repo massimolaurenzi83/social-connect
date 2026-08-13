@@ -1,7 +1,67 @@
 {
   "category": "motori",
-  "updated": "2026-08-13T15:35:36.5758609Z",
+  "updated": "2026-08-13T18:42:15.3634260Z",
   "items": [
+    {
+      "id": "motor1:3e6789673349",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Koenigsegg da gara ritorna in 70 esemplari da 1.600 CV",
+      "url": "https://it.motor1.com/news/804854/koenigsegg-ccgt1-motore-prestazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4XRg/s3/koenigsegg-ccgt1.jpg",
+      "summary": "La Casa svedese presenta la CCGT1, hypercar con motore V8 biturbo, un sofisticato cambio e aerodinamica folle",
+      "date": "2026-08-13T17:39:46.0000000Z"
+    },
+    {
+      "id": "hdmotori:a48642db0c77",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Chevrolet al capolinea in Cina: GM ritira il marchio e punta tutto sull’export",
+      "url": "https://www.hdmotori.it/chevrolet-addio-cina-gm-stop-vendite/",
+      "image": null,
+      "summary": "General Motors stoppa le vendite Chevrolet in Cina dopo il crollo dei volumi. Resta la produzione per l’export, mentre l’elettrico punterà su Buick e Cadillac The post Chevrolet al capolinea in Cina: GM ritira il marc...",
+      "date": "2026-08-13T17:00:29.0000000Z"
+    },
+    {
+      "id": "hdmotori:8b3288a7fa39",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen punta alla Cina, sbuca il nuovo SUV ID. Era 5X",
+      "url": "https://www.hdmotori.it/volkswagen-nuovo-suv-id-era-5x-cina/",
+      "image": null,
+      "summary": "Il Gruppo Volkswagen ha un estremo bisogno di tornare competitivo in Cina. In una fase delicata ha svelato la ID. Era 5X The post Volkswagen punta alla Cina, sbuca il nuovo SUV ID. Era 5X appeared first on HDmotori.it .",
+      "date": "2026-08-13T16:30:03.0000000Z"
+    },
+    {
+      "id": "hdmotori:8909e2a2e1d3",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "AION UT, la compatta cinese disegnata a Milano: ecco cosa sappiamo",
+      "url": "https://www.hdmotori.it/aion-ut-la-compatta-cinese-disegnata-a-milano-ecco-cosa-sappiamo/",
+      "image": null,
+      "summary": "Dalla Cina sta per sbarcare in Europa una moderna utilitaria 100% elettrica con una linea piacevole e un strategia d’attacco The post AION UT, la compatta cinese disegnata a Milano: ecco cosa sappiamo appeared first o...",
+      "date": "2026-08-13T16:00:24.0000000Z"
+    },
+    {
+      "id": "motor1:1e547348e345",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dove si rubano più auto in Italia",
+      "url": "https://it.motor1.com/news/804831/furti-auto-italia-2026-classifica/",
+      "image": "https://cdn.motor1.com/images/mgl/6Z8yJN/s3/ogni-giorno-oltre-285-auto-rubate-in-italia-lallarme.jpg",
+      "summary": "Campania, Lazio e Sicilia concentrano il maggior numero di denunce, l’Italia che figura al quarto posto in Europa per frequenza dei furti",
+      "date": "2026-08-13T16:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:eb62206f8c0a",
       "sourceId": "hdmotori",
@@ -99,18 +159,6 @@
       "date": "2026-08-13T14:00:37.0000000Z"
     },
     {
-      "id": "insideevs:605782b1fcc4",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le strane microcar elettriche francesi rétro dallo stile Anni '30",
-      "url": "https://insideevs.it/news/804810/auto-elettriche-retro-francesi/",
-      "image": "https://cdn.motor1.com/images/mgl/nAlp3o/s3/devinci-db718-eugenie.jpg",
-      "summary": "Nata in Francia, Devinci Cars costruisce roadster elettrici rétro in piccola serie: alluminio, legno, pelle e guida all’aria aperta.",
-      "date": "2026-08-13T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:591f9ed2fe39",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -120,6 +168,18 @@
       "url": "https://it.motor1.com/news/804804/honda-vendita-auto-motorsport/",
       "image": "https://cdn.motor1.com/images/mgl/JON40X/s3/hrc-heritage-racing-program.jpg",
       "summary": "Nasce l'HRC Heritage Racing Program, che permette di acquistare Honda del motorsport perfettamente restaurate e funzionanti",
+      "date": "2026-08-13T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:605782b1fcc4",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le strane microcar elettriche francesi rétro dallo stile Anni '30",
+      "url": "https://insideevs.it/news/804810/auto-elettriche-retro-francesi/",
+      "image": "https://cdn.motor1.com/images/mgl/nAlp3o/s3/devinci-db718-eugenie.jpg",
+      "summary": "Nata in Francia, Devinci Cars costruisce roadster elettrici rétro in piccola serie: alluminio, legno, pelle e guida all’aria aperta.",
       "date": "2026-08-13T14:00:00.0000000Z"
     },
     {
@@ -219,18 +279,6 @@
       "date": "2026-08-13T12:00:18.0000000Z"
     },
     {
-      "id": "insideevs:4285b1e505af",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Una Tesla con 125.000 km e un passato oscuro: come sta la batteria?",
-      "url": "https://insideevs.it/news/804795/tesla-batteria-125000-km/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak36GP/s3/model-3-degradation.jpg",
-      "summary": "Le sue abitudini di ricarica passate sono un mistero. Un test della batteria ha dato un buon risultato, anche se non eccezionale",
-      "date": "2026-08-13T12:00:00.0000000Z"
-    },
-    {
       "id": "motor1:0cfff4b2f07b",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -240,6 +288,18 @@
       "url": "https://it.motor1.com/news/804771/porsche-911-singer-louis-vuitton/",
       "image": "https://cdn.motor1.com/images/mgl/Oo9pAR/s3/singer-porsche-911-reimagined-by-louis-vuitton.jpg",
       "summary": "Le 911 generazione 964 trasformate da Singer ricevono accessori e personalizzazioni Louis Vuitton in una serie esclusiva",
+      "date": "2026-08-13T12:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:4285b1e505af",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Una Tesla con 125.000 km e un passato oscuro: come sta la batteria?",
+      "url": "https://insideevs.it/news/804795/tesla-batteria-125000-km/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak36GP/s3/model-3-degradation.jpg",
+      "summary": "Le sue abitudini di ricarica passate sono un mistero. Un test della batteria ha dato un buon risultato, anche se non eccezionale",
       "date": "2026-08-13T12:00:00.0000000Z"
     },
     {
@@ -291,18 +351,6 @@
       "date": "2026-08-13T10:30:07.0000000Z"
     },
     {
-      "id": "hdmotori:5a9834cdb2d1",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Strofinare un limone sul parabrezza: tutti i rischi del “rimedio” contro gli insetti",
-      "url": "https://www.hdmotori.it/strofinare-limone-parabrezza-rischi/",
-      "image": null,
-      "summary": "Vedere chiaro alla guida è fondamentale per la sicurezza, ma il rimedio fai-da-te del limone sul parabrezza può essere rischioso. Facciamo chiarezza. The post Strofinare un limone sul parabrezza: tutti i rischi del “r...",
-      "date": "2026-08-13T10:00:02.0000000Z"
-    },
-    {
       "id": "motor1:c2807005db57",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -325,30 +373,6 @@
       "image": "https://cdn.motor1.com/images/mgl/9me0WX/s3/un-gruppo-di-tesla-prima-della-consegna.jpg",
       "summary": "A luglio 2026 le immatricolazioni europee di veicoli elettrici accelerano. Il Vecchio Continente fa da traino a livello globale",
       "date": "2026-08-13T09:30:38.0000000Z"
-    },
-    {
-      "id": "hdmotori:be8f2545fbe7",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Pirelli e Luna Rossa: la tecnologia dei pneumatici dalla strada al mare",
-      "url": "https://www.hdmotori.it/pirelli-luna-rossa-tecnologia-pneumatici/",
-      "image": null,
-      "summary": "Il produttore di pneumatici italiano amplia la partnership per la 38ª America's Cup, applicando il know-how automobilistico sui foil delle imbarcazioni del team Luna Rossa. The post Pirelli e Luna Rossa: la tecnologia...",
-      "date": "2026-08-13T09:00:08.0000000Z"
-    },
-    {
-      "id": "hdmotori:52e3cc9c3589",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Agricoltore distrugge 200 metri di asfalto con l’aratro: «È roba mia». Arrestato",
-      "url": "https://www.hdmotori.it/agricoltore-distrugge-strada-asfalto/",
-      "image": null,
-      "summary": "In Polonia un agricoltore distrugge la strada nuova col trattore per una lite di vicinato. Il Comune smentisce la proprietà privata e il mezzo era senza assicurazione. The post Agricoltore distrugge 200 metri di asfal...",
-      "date": "2026-08-13T08:00:58.0000000Z"
     },
     {
       "id": "motor1:4e9c449df5f7",
@@ -375,18 +399,6 @@
       "date": "2026-08-13T08:00:00.0000000Z"
     },
     {
-      "id": "motor1:80e6977159ba",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il salone dell'auto \"open air\" è sempre più popolare",
-      "url": "https://it.motor1.com/news/803650/salone-auto-diffuso-aperto-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/qkYNLL/s3/salone-di-torino-2025.jpg",
-      "summary": "Non solo il Salone Auto Torino: negli ultimi anni il salone \"diffuso\" è diventato un nuovo modo di avvicinare le persone ai nuovi modelli",
-      "date": "2026-08-13T07:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:3d87433747c8",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -396,6 +408,18 @@
       "url": "https://insideevs.it/news/804680/new-york-colonnine-lampioni/",
       "image": "https://cdn.motor1.com/images/mgl/6Z8yNE/s3/voltpost-lamppost-ev-chargers-in-larchmont-new-york.jpg",
       "summary": "La startup Voltpost vuole espandere i suoi caricabatterie per lampioni in Connecticut e California",
+      "date": "2026-08-13T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:80e6977159ba",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il salone dell'auto \"open air\" è sempre più popolare",
+      "url": "https://it.motor1.com/news/803650/salone-auto-diffuso-aperto-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/qkYNLL/s3/salone-di-torino-2025.jpg",
+      "summary": "Non solo il Salone Auto Torino: negli ultimi anni il salone \"diffuso\" è diventato un nuovo modo di avvicinare le persone ai nuovi modelli",
       "date": "2026-08-13T07:00:00.0000000Z"
     },
     {
@@ -411,18 +435,6 @@
       "date": "2026-08-13T06:19:32.0000000Z"
     },
     {
-      "id": "motor1:b87ca1293352",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La cucina gonfiabile per il Volkswagen California",
-      "url": "https://it.motor1.com/news/804694/volkswagen-california-cucina-gonfiabile/",
-      "image": "https://cdn.motor1.com/images/mgl/RqkWW9/s3/vw-california-beach-stuff-bubble-und-vw-id.california-teaser.jpg",
-      "summary": "E non solo, i nuovi accessori per il camper tedesco",
-      "date": "2026-08-13T06:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:858f9ff05bd9",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -432,18 +444,6 @@
       "url": "https://insideevs.it/news/804603/smontaggio-batterie-byd-catl-differenze/",
       "image": "https://cdn.motor1.com/images/mgl/Ak36m6/s3/smontano-le-batterie-byd-e-catl-ecco-le-differenze.jpg",
       "summary": "Le celle BYD hanno più densità energetica e non solo: i risultati del test indipendente",
-      "date": "2026-08-13T05:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:ada92d9501c5",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le station wagon stanno morendo?",
-      "url": "https://it.motor1.com/news/804393/station-wagon-fine-segmento-analisi/",
-      "image": "https://cdn.motor1.com/images/mgl/P3B11L/s3/addio-station-wagon.jpg",
-      "summary": "Stati Uniti ed Europa stanno abbandonando le station, la Cina prova a riportarle in auge. Ma riusciranno a tornare di moda?",
       "date": "2026-08-13T05:00:00.0000000Z"
     },
     {
