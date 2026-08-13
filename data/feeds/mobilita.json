@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-13T09:44:34.3096859Z",
+  "updated": "2026-08-13T12:07:49.6562523Z",
   "items": [
+    {
+      "id": "ferrovie:90c9c4eb015e",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Coradia Stream in Italia, guida pratica alle diverse versioni",
+      "url": "https://www.ferrovie.info/rubriche/approfondimenti/coradia-stream-in-italia-guida-pratica-alle-diverse-versioni.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10529/image00046.jpg",
+      "summary": "Il Coradia Stream è una piattaforma modulare di Alstom, non un unico modello. In Italia è stato realizzato con diverse composizioni, velocità, sistemi di alimentazione e allestimenti, tanto da generare numerose classi...",
+      "date": "2026-08-13T10:20:58.0000000Z"
+    },
     {
       "id": "ferrovie:3268a45aa4ec",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10001/obb_barbabietola.jpg",
       "summary": "Rail Cargo Hungaria ha garantito la continuità dei principali trasporti ferroviari merci anche durante le restrizioni temporanee alla circolazione dei treni elettrici imposte in Ungheria a causa dell'emergenza energet...",
       "date": "2026-08-12T06:56:34.0000000Z"
-    },
-    {
-      "id": "ferrovie:5cb72f5563eb",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "European Loc Pool ordina altre 20 EuroDual a Stadler e porta la flotta a 144 locomotive",
-      "url": "https://www.ferrovie.info/treni-reali/european-loc-pool-ordina-altre-20-eurodual-a-stadler-e-porta-la-flotta-a-144-locomotive.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/eurodual_elp.jpg",
-      "summary": "European Loc Pool rafforza la propria flotta con un nuovo ordine di locomotive ibride EuroDual destinate al trasporto ferroviario merci europeo. La società ha firmato con Stadler Valencia un contratto per 20 nuove Eur...",
-      "date": "2026-08-11T10:31:39.0000000Z"
     }
   ]
 }

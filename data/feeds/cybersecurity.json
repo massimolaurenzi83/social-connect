@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-13T09:44:34.2589538Z",
+  "updated": "2026-08-13T12:07:49.6248465Z",
   "items": [
+    {
+      "id": "cybersecurity360:cb27b232348c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "FIRST e incident response: la resilienza cyber si costruisce facendo rete",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/first-e-incident-response-la-resilienza-cyber-si-costruisce-facendo-rete/",
+      "image": null,
+      "summary": "Contro minacce globali e supply chain interconnesse, nessuna organizzazione può gestire gli incidenti in isolamento. FIRST mette in rete oltre 800 team di incident response nel mondo, creando un ecosistema di fiducia ...",
+      "date": "2026-08-13T10:42:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:49b4197f0ee1",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Un modello troppo capace per essere rilasciato al pubblico. Questo è Mythos, del quale si sa quel poco che basta per alimentare dubbi, legati anche alla corsa contro il tempo di Anthropic per sbarcare in borsa. Anche ...",
       "date": "2026-08-12T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ed2121058881",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "NIS2, ACN chiarisce come funzionerà la vigilanza: ora bisogna dimostrare la compliance",
-      "url": "https://www.cybersecurity360.it/news/nis2-acn-chiarisce-come-funzionera-la-vigilanza-ora-bisogna-dimostrare-la-compliance/",
-      "image": null,
-      "summary": "Le nuove FAQ di ACN chiariscono come funzioneranno monitoraggio e vigilanza NIS2. Per le imprese non basterà avere procedure e documenti: serviranno evidenze capaci di dimostrare l'effettiva applicazione delle misure ...",
-      "date": "2026-08-12T07:11:56.0000000Z"
     }
   ]
 }
