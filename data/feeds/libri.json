@@ -1,7 +1,19 @@
 {
   "category": "libri",
-  "updated": "2026-08-13T05:25:02.2343837Z",
+  "updated": "2026-08-13T09:44:34.2694014Z",
   "items": [
+    {
+      "id": "illibraio:be441da5b758",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "Le indagini della grafologa Bea Navarra nei gialli di Nunzia Scalzo",
+      "url": "https://www.illibraio.it/news/narrativa/bea-navarra-gialli-nunzia-scalzo-1502198/",
+      "image": null,
+      "summary": "Dalla Sicilia una nuova protagonista del noir italiano, la grafologa Bea Navarra, nata dalla fantasia di Nunzia Scalzo, che dopo \"La regola dell’ortica\" è tornata con \"Il ragno nella tela\" Leggi l'articolo completo Le...",
+      "date": "2026-08-13T00:40:31.0000000Z"
+    },
     {
       "id": "illibraio:a54cc6fcaba9",
       "sourceId": "illibraio",
@@ -97,18 +109,6 @@
       "image": null,
       "summary": "Non bisogna fare l’errore di considerarli solo film \"per bambini\", limitandosi alla superficie comica: Wallace & Gromit, nati dalla fantasia del premiatissimo Nick Park, sono suna delle coppie più riuscite e longeve n...",
       "date": "2026-08-07T06:17:11.0000000Z"
-    },
-    {
-      "id": "illibraio:95e7d8bf44c1",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Addio a Francesco Guccini, cantautore senza tempo (e apprezzato scrittore)",
-      "url": "https://www.illibraio.it/news/storie/addio-francesco-guccini-1505425/",
-      "image": null,
-      "summary": "Francesco Guccini, venuto a mancare a 86 anni nella sua Pavana, non è stato solo uno dei cantautori più grandi di sempre (\"Auschwitz\", \"La locomotiva\", \"L’avvelenata\", \"Eskimo\"...), ma anche un prolifico e apprezzato ...",
-      "date": "2026-08-07T05:45:57.0000000Z"
     }
   ]
 }

@@ -1,7 +1,67 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-13T05:25:02.2153331Z",
+  "updated": "2026-08-13T09:44:34.2589538Z",
   "items": [
+    {
+      "id": "cybersecurity360:49b4197f0ee1",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Trasparenza VPN e giurisdizione: la sfida di Proton tra codice Open Source e audit pubblici",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/proton-vpn-open-source-audit-no-log/",
+      "image": null,
+      "summary": "Proton VPN propone il piano Plus con uno sconto del 70% sul biennale, a 2,99 euro al mese. L'offerta include oltre 20.000 server in più di 140 Paesi, protezione per 10 dispositivi, streaming, P2P, ad-blocker e anti-ma...",
+      "date": "2026-08-13T09:25:49.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:eb85f1d1a72c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Smishing INPS, l’AI entra nella catena d’attacco per rendere la truffa più credibile",
+      "url": "https://www.cybersecurity360.it/news/smishing-inps-lai-entra-nella-catena-dattacco-per-rendere-la-truffa-piu-credibile/",
+      "image": null,
+      "summary": "Il CERT-AgID ha scoperto scopre una campagna di smishing a tema INPS che integra l'intelligenza artificiale per analizzare i documenti caricati dalle vittime. L'AI filtra i dati sottratti e rafforza la credibilità del...",
+      "date": "2026-08-13T09:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:e5ffb598bd73",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Identificazione biometrica in tempo reale: la sfida è impedire che l’eccezione diventi la regola",
+      "url": "https://www.cybersecurity360.it/legal/identificazione-biometrica-in-tempo-reale-la-sfida-e-impedire-che-leccezione-diventi-la-regola/",
+      "image": null,
+      "summary": "L'Italia apre all'uso dell'identificazione biometrica remota in tempo reale da parte delle forze di polizia nei casi ammessi dall'AI Act. Autorizzazioni, controllo umano e valutazioni d'impatto dovranno trasformare le...",
+      "date": "2026-08-13T08:32:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:6f3a8d675893",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Agenti AI contro Taiwan: la guerra cyber entra nell’era degli attacchi autonomi",
+      "url": "https://www.cybersecurity360.it/news/agenti-ai-contro-taiwan-la-guerra-cyber-entra-nellera-degli-attacchi-autonomi/",
+      "image": null,
+      "summary": "Gli Agenti AI hanno attaccato Taiwan, mettendo in luce come l’intelligenza artificiale stia trasformando la guerra cibernetica. Ecco come l'attacco autonomo end-to-end ha operato in parallelo, adattando ricognizione e...",
+      "date": "2026-08-13T07:04:51.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:4d38a1c585da",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Internal Auditing e AI: la Cognitive Governance protegge l’autonomia del giudizio",
+      "url": "https://www.cybersecurity360.it/legal/internal-auditing-e-ai-la-cognitive-governance-protegge-lautonomia-del-giudizio/",
+      "image": null,
+      "summary": "Quando l'AI entra nei processi decisionali, la sfida non è solo governare gli algoritmi, ma preservare autonomia, capacità critica e responsabilità. Cognitive Governance e Decision Assurance offrono all'Internal Audit...",
+      "date": "2026-08-13T07:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:56f425f878be",
       "sourceId": "cybersecurity360",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "Le nuove FAQ di ACN chiariscono come funzioneranno monitoraggio e vigilanza NIS2. Per le imprese non basterà avere procedure e documenti: serviranno evidenze capaci di dimostrare l'effettiva applicazione delle misure ...",
       "date": "2026-08-12T07:11:56.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d07c5c374649",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "6G, infrastruttura di sorveglianza pervasiva: rischi cyber, minaccia cinese e Golden power",
-      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/6g-infrastruttura-di-sorveglianza-pervasiva-rischi-cyber-minaccia-cinese-e-golden-power/",
-      "image": null,
-      "summary": "Integrated Sensing and Communication (ISAC), consenso informato e resilienza delle reti mobili di sesta generazione: un'analisi tecnico-scientifica del 6G come infrastruttura di sorveglianza pervasiva L'articolo 6G, i...",
-      "date": "2026-08-12T06:30:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:7b92b7922254",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Attacco hacker a Levi’s: il dipendente non è l’anello debole, va ripensata la sicurezza",
-      "url": "https://www.cybersecurity360.it/news/attacco-hacker-a-levis-il-dipendente-non-e-lanello-debole-va-ripensata-la-sicurezza/",
-      "image": null,
-      "summary": "Tre dipendenti colpiti con tecniche di social engineering sono bastati agli attaccanti per accedere ai sistemi Levi's ed esfiltrare dati aziendali. Il caso dimostra perché la formazione non basta: la sicurezza deve pa...",
-      "date": "2026-08-11T13:26:38.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:280276624ef6",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cost of a Data Breach 2026: l’AI fa esplodere costi e velocità degli attacchi",
-      "url": "https://www.cybersecurity360.it/news/cost-of-a-data-breach-2026-lai-fa-esplodere-costi-e-velocita-degli-attacchi/",
-      "image": null,
-      "summary": "Il report IBM 2026 fotografa una cyber security a due velocità: violazioni a quota 4,99 milioni di dollari (3,55 milioni in Italia), attacchi AI-driven +56% e modelli di AI aziendali sotto attacco. Ecco i numeri chiav...",
-      "date": "2026-08-11T13:13:42.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:1835af60dbf3",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Network Security Policy Management (NSPM): colmare il gap tra normativa UE e adozione in azienda",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/network-security-policy-management-nspm-colmare-il-gap-tra-normativa-ue-e-adozione-in-azienda/",
-      "image": null,
-      "summary": "Normative come NIS2 e DORA stanno innalzando gli standard in termini di resilienza, responsabilità e governance operativa, imponendo alle organizzazioni di dimostrare l'esistenza dei controlli di sicurezza e l'efficac...",
-      "date": "2026-08-11T09:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:46b284d1a9d8",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Input validation: perché la sicurezza applicativa comincia dai dati che lasciamo entrare",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/input-validation-perche-la-sicurezza-applicativa-comincia-dai-dati-che-lasciamo-entrare/",
-      "image": null,
-      "summary": "Ogni dato proveniente dall'esterno può diventare un vettore di attacco. Per questo l'input validation non dovrebbe essere un controllo aggiunto a valle, ma un requisito di progettazione: un approccio multilivello che ...",
-      "date": "2026-08-11T08:00:00.0000000Z"
     }
   ]
 }

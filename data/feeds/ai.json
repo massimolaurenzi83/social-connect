@@ -1,7 +1,19 @@
 {
   "category": "ai",
-  "updated": "2026-08-13T05:25:02.2617391Z",
+  "updated": "2026-08-13T09:44:34.2681387Z",
   "items": [
+    {
+      "id": "ai4business:882df5b006c3",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Architettura dell’AI multi-agente aziendale",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/architettura-dellai-multi-agente-aziendale/",
+      "image": null,
+      "summary": "Un'analisi tecnica e strategica rivela perché l'AI multi-agente richiede un'infrastruttura cognitiva comune, superando i limiti della semplice connettività per risolvere i problemi di coordinamento e amnesia aziendale...",
+      "date": "2026-08-13T07:00:00.0000000Z"
+    },
     {
       "id": "ai4business:b36260c982a5",
       "sourceId": "ai4business",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Claude Cowork come agente desktop su Mac e Windows, gli add-in Microsoft 365 generalmente disponibili da maggio 2026, l'estensione per Chrome che naviga il web per conto dell'utente. Ecco i prodotti dove Claude esegue...",
       "date": "2026-08-07T15:21:39.0000000Z"
-    },
-    {
-      "id": "ai4business:1287be917949",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Incidente cyber con Hugging Face, parla OpenAI: ecco come è andata",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/incidente-cyber-con-hugging-face-parla-openai-ecco-come-e-andata/",
-      "image": null,
-      "summary": "L’incidente che ha coinvolto OpenAI e Hugging Face durante un test sugli agenti AI viene ora ricostruito nei dettagli. Le nuove informazioni chiariscono come sono stati sfruttati accessi, credenziali e vulnerabilità e...",
-      "date": "2026-08-07T15:03:16.0000000Z"
     }
   ]
 }
