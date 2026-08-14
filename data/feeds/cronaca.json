@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-14T20:06:04.5596506Z",
+  "updated": "2026-08-14T21:03:22.0962775Z",
   "items": [
+    {
+      "id": "ansa-cronaca:d00451276780",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Meccanico morto nel Reggino, 'officina non coinvolta nell'incidente'",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/meccanico-morto-nel-reggino-officina-non-coinvolta-nellincidente_b512b4ed-5f73-47b1-99da-7a27a36171e1.html",
+      "image": null,
+      "summary": "Fratello del titolare: \"Non era dipendente. Siamo chiusi perché in ferie da una settimana\"",
+      "date": "2026-08-14T20:23:58.0000000Z"
+    },
     {
       "id": "ansa-cronaca:18bbdf158dc9",
       "sourceId": "ansa-cronaca",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "L'azienda sanitaria \"esprime vicinanza ai familiari in questo momento di profondo dolore\"",
       "date": "2026-08-14T16:50:19.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:f66f9ea1af54",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Incendio alle porte di Como, sotto controllo dopo 30 ore",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/incendio-alle-porte-di-como-sotto-controllo-dopo-30-ore_8f1ca1c5-78b0-480a-a05f-d98c276a515e.html",
-      "image": null,
-      "summary": "Cinquanta sfollati, all'opera anche i Canadair. Allerta alta per il vento",
-      "date": "2026-08-14T16:43:08.0000000Z"
     }
   ]
 }

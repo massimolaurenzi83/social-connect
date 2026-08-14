@@ -1,18 +1,90 @@
 {
   "category": "calcio",
-  "updated": "2026-08-14T20:06:04.6024769Z",
+  "updated": "2026-08-14T21:03:22.1013894Z",
   "items": [
+    {
+      "id": "tuttosport-calcio:023f948a3724",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "<p>Monza, tris all&#39;Avellino in Coppa Italia: doppietta di Varela e qualificazione ai sedicesimi</p>",
+      "url": "https://www.tuttosport.com/news/calcio/coppa-italia/2026/08/14-150548711/monza_tris_all_avellino_in_coppa_italia_doppietta_di_varela_e_qualificazione_ai_sedicesimi/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/14/204227852-7cc6103e-b27a-44a4-88ac-5e613719529b.jpg",
+      "summary": "La squadra di Juric vince 3-0 al Brianteo e passa il turno. A segno anche Forson",
+      "date": "2026-08-14T20:52:32.0000000Z"
+    },
+    {
+      "id": "fcinternews:bd3fd789ba87",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Coppa Italia - Cutrone ispira, Varela e Forson segnano: Monza-Avellino 3-0",
+      "url": "https://www.fcinternews.it/l-avversario/coppa-italia-cutrone-ispira-varela-forson-segnano-monza-avellino-1016032",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/73/73a04a0cbe234c524ab83f4f87ca4278-60030-554o168o1421o1036z0c6b.jpeg",
+      "summary": "Vittoria in scioltezza per il Monza di Ivan Juric che accede al secondo turno di Coppa Italia grazie all'agevole successo per 3-0 sull'Avellino e affronterà la vincente della gara tra Torino e Carrarese.",
+      "date": "2026-08-14T20:49:12.0000000Z"
+    },
+    {
+      "id": "fcinternews:85d3f667def9",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "UFFICIALE - Frattesi è della Lazio: trasferimento a titolo temporaneo",
+      "url": "https://www.fcinternews.it/in-primo-piano/ufficiale-frattesi-lazio-trasferimento-temporaneo-1016033",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/53/53a2b6337cc2c4a76f2167cbd35f4eac-20542-oooz0000.jpeg",
+      "summary": "Lazio e Inter comunicano ufficialmente la cessione a titolo temporaneo, con diritto di opzione per l’acquisto definitivo, dai nerazzuri ai biancocelesti di Davide Frattesi, centrocampista classe 1999, che lascia l'Int...",
+      "date": "2026-08-14T20:35:12.0000000Z"
+    },
     {
       "id": "fcinternews:df5085632d3f",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
-      "title": "LIVE - Vado-Inter U23, 1-1 all'intervallo: Marello rimette in equilibrio la gara",
+      "title": "LIVE - Vado-Inter U23, 1-1 al 90': il passaggio del turno si deciderà ai rigori",
       "url": "https://www.fcinternews.it/in-primo-piano/live-vado-inter-u23-formazioni-ufficiali-pronto-1016022",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c7/c7047d57e37690d921407620f3b11d62-19388-oooz0000.jpeg",
-      "summary": "VADO-INTER U23 1-1 Marcatore: Lionetti (18'), Marello (45') Primo tempo discreto per i nerazzurri, che vanno sotto al 18' per il gol di Lionetti e rispondono a fil di sirena, con il gol di Marello, subentrato a Milani.",
-      "date": "2026-08-14T19:58:01.0000000Z"
+      "summary": "VADO-INTER U23 1-2 Marcatore: Lionetti (18'), Marello (45') GOL DI MARELLO. Apre il piede mancino il friulano: Sala spiazzato, Inter avanti.",
+      "date": "2026-08-14T20:27:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:8ea3f0d6d79f",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Oro nei 10mila a Birmingham, Nadia Battocletti fa il bis. E con lei l'Inter",
+      "url": "https://www.fcinternews.it/focus/oro-10mila-birmingham-nadia-battocletti-bis-inter-1016031",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/26/26b6edc181cd08e8cade40774cbea96d-28584-588o37o1341o791z0ac5.jpeg",
+      "summary": "Sempre più regina del mezzofondo italiano e non solo: Nadia Battocletti concede il bis agli Europei di Birmingham prendendosi, dopo i 5mila metri, anche la medaglia d'oro nei 10mila metri diventando così l'atleta ital...",
+      "date": "2026-08-14T20:20:20.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:43b23fd9dcd9",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Immobile dice addio al calcio, l’annuncio del ritiro davanti ai compagni del Paris FC",
+      "url": "https://www.calciomercato.it/2026/08/14/immobile-dice-addio-al-calcio-lannuncio-del-ritiro-davanti-ai-compagni-del-paris-fc/",
+      "image": null,
+      "summary": "L'articolo Immobile dice addio al calcio, l’annuncio del ritiro davanti ai compagni del Paris FC proviene da CalcioMercato.it .",
+      "date": "2026-08-14T20:07:56.0000000Z"
+    },
+    {
+      "id": "fcinternews:a68583196ee4",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Catania, Cicerelli: \"Stiamo provando a dominare le partite, come oggi\"",
+      "url": "https://www.fcinternews.it/l-avversario/catania-cicerelli-stiamo-provando-dominare-partite-oggi-1016027",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8a/8aae115c521339a6ec2a1692bf0bba7d-04874-379o112o1090o823z0964.jpeg",
+      "summary": "Dopo il tecnico Emilio Longo, si è presentato a parlare nella sala stampa del Tardini anche Emanuele Cicerelli, capitano del Catania, che ha parlato dopo la partita persa in Coppa Italia contro il Parma.",
+      "date": "2026-08-14T20:06:17.0000000Z"
     },
     {
       "id": "tuttosport-calcio:0e1eca582941",
@@ -123,30 +195,6 @@
       "date": "2026-08-14T18:27:00.0000000Z"
     },
     {
-      "id": "fcinternews:c89198cc64b6",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Esposito e l'Inter, la volontà è di andare avanti. Ma non c'è alcuna fretta",
-      "url": "https://www.fcinternews.it/focus/esposito-inter-volonta-andare-avanti-fretta-1016021",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b9/b9c92d9dd1d45318b59c235e14583826-55099-oooz0000.jpeg",
-      "summary": "Continuano i discorsi tra l'Inter e Francesco Pio Esposito per il rinnovo di contratto del centravanti classe 2005.",
-      "date": "2026-08-14T18:13:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:aae569b42e1c",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Catania, fine della corsa in Coppa Italia: il Parma vince 2-0 e avanza",
-      "url": "https://www.fcinternews.it/l-avversario/coppa-italia-parma-catania-1016016",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6d/6d6bcfd30f0a060027c821338f174123-26696-863o143o1654o935z0e0b.jpeg",
-      "summary": "Una doppietta di Simone Lontani, talento del 2008 arrivato dal Milan, permette al Parma di avanzare al secondo turno di Coppa Italia superando il Catania per 2-0 al Tardini.",
-      "date": "2026-08-14T18:10:12.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:eef84ecb634a",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -171,18 +219,6 @@
       "date": "2026-08-14T18:04:09.0000000Z"
     },
     {
-      "id": "fcinternews:82a4d370e3fb",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "L'informazione di FcInterNews sempre con te: scarica la nostra app",
-      "url": "https://www.fcinternews.it/news/informazione-fcinternews-te-scarica-app-1013409",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/77/77fffd462fca02e66291eccbbebe1687-21747-oooz0000.jpeg",
-      "summary": "Sito, m-site, social,.",
-      "date": "2026-08-14T17:56:00.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:4399c51ab7fc",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -193,18 +229,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/08/14/174217460-1986cd99-76b5-4b77-a022-a0598a8a84c6.jpg",
       "summary": "I francesi hanno preso il portiere del Parma, però non hanno ancora deciso se vendere Chevalier che punta i piedi per restare. Così hanno rinviato a domenica le visite del giapponese, ma i bianconeri non possono aspet...",
       "date": "2026-08-14T17:52:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:b2454da3818b",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "VIDEO - Finito l'incontro Giuffredi-Inter: bocca cucita per l'agente all'uscita",
-      "url": "https://www.fcinternews.it/focus/finito-incontro-giuffredi-inter-bocca-cucita-agente-uscita-1016020",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/24/24d737172e72fb7c29d62dc04b4956b5-97689-oooz0000.jpeg",
-      "summary": "Sostanziale bocca cucita per Mario Giuffredi, agente di Pio Esposito, dopo l'incontro avvenuto quest'oggi con la dirigenza dell'Inter in Viale della Liberazione.",
-      "date": "2026-08-14T17:45:00.0000000Z"
     },
     {
       "id": "tuttosport-calcio:f68488256f77",
@@ -301,18 +325,6 @@
       "image": null,
       "summary": "L'articolo Inter, Frattesi vola a Roma dopo ore turbolente: lo aspetta la Lazio | CM proviene da CalcioMercato.it .",
       "date": "2026-08-14T14:56:13.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:ba0975796f9b",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "&quot;Mourinho sa come si vince, percepisco la fame&quot;:&nbsp;Real, Mbapp&eacute; incendia Madrid",
-      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/liga/real-madrid/2026/08/14-150539771/mourinho_sa_come_si_vince_percepisco_la_fame_real_mbapp_incendia_madrid/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/14/143734689-d3d6aded-b24c-4f44-afe1-0cf8bcb145f9.jpg",
-      "summary": "Il fuoriclasse francese è carico per la nuova stagione: \"Porteremo trofei\"",
-      "date": "2026-08-14T14:46:06.0000000Z"
     },
     {
       "id": "calciomercato-it:18e988b2e62a",
@@ -421,18 +433,6 @@
       "image": null,
       "summary": "L'articolo Spence nella notte sbarca a Milano: visite e firma con l’Inter | VIDEO CM proviene da CalcioMercato.it .",
       "date": "2026-08-13T23:12:01.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:86732f366999",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Nuno Tavares nel mirino del Milan, nuova idea per la fascia sinistra",
-      "url": "https://www.calciomercato.it/2026/08/13/nuno-tavares-nel-mirino-del-milan-nuova-idea-per-la-fascia-sinistra/",
-      "image": null,
-      "summary": "L'articolo Nuno Tavares nel mirino del Milan, nuova idea per la fascia sinistra proviene da CalcioMercato.it .",
-      "date": "2026-08-13T21:22:26.0000000Z"
     }
   ]
 }

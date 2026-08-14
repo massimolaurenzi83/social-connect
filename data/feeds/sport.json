@@ -1,18 +1,103 @@
 {
   "category": "sport",
-  "updated": "2026-08-14T20:06:04.5359787Z",
+  "updated": "2026-08-14T21:03:22.0608740Z",
   "items": [
     {
-      "id": "ansa-sport:29a9ff4995a5",
+      "id": "ansa-sport:191e3248721e",
       "sourceId": "ansa-sport",
       "source": "ANSA Sport",
       "platform": "rss",
       "category": "sport",
-      "title": "Europei atletica: Battocletti magico bis, dopo i 5000 vince l'oro anche nei 10000",
-      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-atletica-battocletti-magico-bis-dopo-i-5000-vince-loro-anche_c42e8413-4922-4bc9-b51c-bd24322d1e3b.html",
+      "title": "Europei atletica: Gianmarco Tamberi oro nel salto in alto e Matteo Sioli bronzo",
+      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-atletica-gianmarco-tamberi-oro-nel-salto-in-alto-e-matteo-sioli_8c9349bf-0a5b-474a-91a8-154b9b629c14.html",
+      "image": null,
+      "summary": "'Gimbo' salta a 2.32 mentre il milanese si ferma per infortunio a 2.27. Argento all'ucraino Doroshchuk",
+      "date": "2026-08-14T20:52:30.0000000Z"
+    },
+    {
+      "id": "ansa-sport:2820fda9a66f",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Zalewski affonda l'Athletic Bilbao, l'Atalanta vince il \"Bortolotti\"",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/zalewski-affonda-lathletic-bilbao-latalanta-vince-il-bortolotti_3216c2ea-2092-4953-afa1-8fb06f302ef1.html",
+      "image": null,
+      "summary": "Decisivo il polacco al 1' della ripresa. Qualche occasione sui due fronti",
+      "date": "2026-08-14T20:50:31.0000000Z"
+    },
+    {
+      "id": "ansa-sport:97f79d0edfeb",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Ufficiale Frattesi alla Lazio, ha firmato il contratto",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/ufficiale-frattesi-alla-lazio-ha-firmato-il-contratto_4d07c0ea-bff3-41a0-86cc-c9f0af236ab4.html",
+      "image": null,
+      "summary": "Il centrocampista arriva a titolo temporaneo con diritto di riscatto",
+      "date": "2026-08-14T20:43:15.0000000Z"
+    },
+    {
+      "id": "ansa-sport:4ae1624b6e15",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Europei atletica: bronzo Desalu nei 200 metri, oro al tedesco Ansah",
+      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-atletica-bronzo-desalu-nei-200-metri-oro-al-tedesco-ansah_de0e7a31-db84-4c34-843a-0ae7d9cd40d6.html",
+      "image": null,
+      "summary": "L'azzurro terzo dopo il fotofinish",
+      "date": "2026-08-14T20:33:57.0000000Z"
+    },
+    {
+      "id": "skysport-yt:VRoZmFP3IBU",
+      "sourceId": "skysport-yt",
+      "source": "Sky Sport",
+      "platform": "youtube",
+      "category": "sport",
+      "title": "Nadia Battocletti dopo l'oro nei 10.000 metri: \"Felice di far felici le persone\"",
+      "url": "https://www.youtube.com/watch?v=VRoZmFP3IBU",
+      "image": "https://i.ytimg.com/vi/VRoZmFP3IBU/hqdefault.jpg",
+      "summary": "",
+      "videoId": "VRoZmFP3IBU",
+      "date": "2026-08-14T20:18:47.0000000Z"
+    },
+    {
+      "id": "ansa-sport:1262efbd9eea",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Europei di atletica: Battocletti magico bis, dopo i 5000 vince l'oro anche nei 10000",
+      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-di-atletica-battocletti-magico-bis-dopo-i-5000-vince-loro-anche_c42e8413-4922-4bc9-b51c-bd24322d1e3b.html",
       "image": null,
       "summary": "La mezzofondista trentina si conferma campionessa dopo la vittoria nei 5000",
-      "date": "2026-08-14T19:57:47.0000000Z"
+      "date": "2026-08-14T20:09:02.0000000Z"
+    },
+    {
+      "id": "corrieresport:70f92e624f63",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Mbapp&eacute; esalta Mourinho: &quot;Sa vincere e dove sta andando, ogni giocatore sarebbe felice di averlo come allenatore&quot;",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/liga/real-madrid/2026/08/14-150547115/mbapp_esalta_mourinho_sa_vincere_e_dove_sta_andando_ogni_giocatore_sarebbe_felice_di_averlo_come_allenatore/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/14/195750998-367c4c3c-12fe-423e-8064-756e65cc4f0e.jpg",
+      "summary": "Il fuoriclasse francese scalpita in vista dell'inizio della stagione e applaude alla scelta del Real Madrid di affidare la panchina allo Special One",
+      "date": "2026-08-14T20:04:15.0000000Z"
+    },
+    {
+      "id": "ansa-sport:3e955411ec3d",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Cricket: ko anche Singapore nell'Icc World Cup Challenge, l'Italia conferma la vetta",
+      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/cricket-ko-anche-singapore-nellicc-world-cup-challenge-litalia-conferma-la-vetta_1f1dffc3-e504-46c9-9c84-bbb914e961f5.html",
+      "image": null,
+      "summary": "Gli azzurri vincono per 7 wickets e salgono a 22 punti, ora la sfida a Hong Kong",
+      "date": "2026-08-14T20:02:42.0000000Z"
     },
     {
       "id": "skysport-yt:f17NG-ydMh0",
@@ -152,42 +237,6 @@
       "date": "2026-08-14T19:02:45.0000000Z"
     },
     {
-      "id": "ansa-sport:46e462386b5f",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Immobile si ritira 'decisione non facile, ma è arrivato il momento'",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/immobile-si-ritira-decisione-non-facile-ma-e-arrivato-il-momento_89e77935-bc9a-437b-b529-5d8f285e410b.html",
-      "image": null,
-      "summary": "L'attaccante, ora al Paris FC chiude la carriera: oltre 650 partite e 320 gol",
-      "date": "2026-08-14T19:01:39.0000000Z"
-    },
-    {
-      "id": "ansa-sport:c2ddc831f585",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Calciomercato: Lucumì alla Juventus, Frattesi-Lazio stop e poi via libera",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/calciomercato-lucumi-alla-juventus-frattesi-lazio-stop-e-poi-via-libera_5de6f4ef-2c8a-41fe-86f7-44ed491e2591.html",
-      "image": null,
-      "summary": "Gattuso sogna Icardi, il Como punta su Delap. L'Arsenal dice no al Milan per Nwaneri",
-      "date": "2026-08-14T18:57:18.0000000Z"
-    },
-    {
-      "id": "ansa-sport:12ef072b5c9e",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Coppa Italia: Cagliari avanti, con l'Arezzo decide Deiola su rigore",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/14/coppa-italia-cagliari-avanti-con-larezzo-decide-deiola-su-rigore_1da03115-f70f-42ee-bbea-fa357182845a.html",
-      "image": null,
-      "summary": "Nella ripresa esordio in rossoblù di Maldini, toscani fuori a testa alta",
-      "date": "2026-08-14T18:44:26.0000000Z"
-    },
-    {
       "id": "corrieresport:e4c5ef0a3c79",
       "sourceId": "corrieresport",
       "source": "Corriere dello Sport",
@@ -212,18 +261,6 @@
       "date": "2026-08-14T18:32:10.0000000Z"
     },
     {
-      "id": "ansa-sport:03e52ad0ba82",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Europei nuoto: Italia di bronzo nella staffetta 4x100 sl mista",
-      "url": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/europei-nuoto-italia-di-bronzo-nella-staffetta-4x100-sl-mista_3d42840f-3df1-4897-91f5-aa4ec393416a.html",
-      "image": null,
-      "summary": "D'Ambrosio, Ceccon, Curtis e Menicucci dietro a Russia e Olanda",
-      "date": "2026-08-14T18:28:23.0000000Z"
-    },
-    {
       "id": "corrieresport:9ebd0c63278e",
       "sourceId": "corrieresport",
       "source": "Corriere dello Sport",
@@ -236,18 +273,6 @@
       "date": "2026-08-14T18:14:58.0000000Z"
     },
     {
-      "id": "ansa-sport:88895f36756e",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Europei nuoto: Ceccon settimo nei 50 dorso, oro al ceco Knedla",
-      "url": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/14/europei-nuoto-ceccon-settimo-nei-50-dorso-oro-al-ceco-knedla_096e7a55-ad92-4019-8b9a-ec38eba0dd3b.html",
-      "image": null,
-      "summary": "L'azzurro chiude in 24\"54. Argento e bronzo ai russi Kolesnikov e Samusenko",
-      "date": "2026-08-14T18:01:13.0000000Z"
-    },
-    {
       "id": "corrieresport:6890ad8fba07",
       "sourceId": "corrieresport",
       "source": "Corriere dello Sport",
@@ -256,7 +281,7 @@
       "title": "Monza-Avellino diretta: segui la partita di Coppa Italia oggi LIVE",
       "url": "https://www.corrieredellosport.it/news/calcio/coppa-italia/2026/08/14-150543176/monza-avellino_diretta_segui_la_partita_di_coppa_italia_oggi_live/",
       "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/14/193520527-66153a65-b0cf-48f7-8536-027e670009ba.jpg",
-      "summary": "La stagione di Juric e Nesta si apre con i 32esimi della coppa nazionale: aggiornamenti in tempo reale",
+      "summary": "I brianzoli debuttano al meglio contro la squadra di Nesta e si qualificano ai sedicesimi: aggiornamenti in tempo reale",
       "date": "2026-08-14T18:00:13.0000000Z"
     },
     {
@@ -370,18 +395,6 @@
       "date": "2026-08-14T13:21:22.0000000Z"
     },
     {
-      "id": "corrieresport:20daf37eb650",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Gattuso tra Coppa Italia e mercato: &quot;Importante partire bene. Frattesi? Adatto a questa Lazio. E Icardi...&quot;",
-      "url": "https://www.corrieredellosport.it/news/calcio/coppa-italia/2026/08/14-150537929/gattuso_tra_coppa_italia_e_mercato_importante_partire_bene_frattesi_adatto_a_questa_lazio_e_icardi_/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/14/125419159-2d22ef9b-46d4-40cf-9be2-d8f4de5de6a8.jpg",
-      "summary": "In attesa dei rinforzi, il tecnico ha parlato a due giorni dalla sfida contro il Mantova che segnerà il suo debutto ufficiale sulla panchina biancoceleste: i dettagli",
-      "date": "2026-08-14T13:04:01.0000000Z"
-    },
-    {
       "id": "skysport-yt:CLcY6327QyA",
       "sourceId": "skysport-yt",
       "source": "Sky Sport",
@@ -432,19 +445,6 @@
       "summary": "",
       "videoId": "EOdgi_OnBT8",
       "date": "2026-08-13T22:02:44.0000000Z"
-    },
-    {
-      "id": "skysport-yt:jesgOWPyZBU",
-      "sourceId": "skysport-yt",
-      "source": "Sky Sport",
-      "platform": "youtube",
-      "category": "sport",
-      "title": "Derkach dopo l'oro: \"Sono contenta, è davvero bellissimo\"",
-      "url": "https://www.youtube.com/watch?v=jesgOWPyZBU",
-      "image": "https://i.ytimg.com/vi/jesgOWPyZBU/hqdefault.jpg",
-      "summary": "",
-      "videoId": "jesgOWPyZBU",
-      "date": "2026-08-13T21:12:57.0000000Z"
     },
     {
       "id": "cronachespogliatoio:VJV-LOAsKtU",
