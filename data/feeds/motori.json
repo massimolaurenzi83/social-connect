@@ -1,7 +1,79 @@
 {
   "category": "motori",
-  "updated": "2026-08-14T09:33:57.4055804Z",
+  "updated": "2026-08-14T12:01:32.3036042Z",
   "items": [
+    {
+      "id": "motor1:9afcfab0e4e6",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Se una Bugatti Mistral non vi basta ci pensa Mansory",
+      "url": "https://it.motor1.com/news/804944/mansory-pebble-beach-bugatti-oneoff/",
+      "image": "https://cdn.motor1.com/images/mgl/9m8oN1/s3/due-bugatti-uniche-mansory-shock-a-pebble-beach-2026.jpg",
+      "summary": "Debutto al Pebble Beach Concours d'Elegance per MANSORY, che espone le one-off Vincerò su Bugatti Mistral e Vivere nel cuore della Monterey Car Week",
+      "date": "2026-08-14T12:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:8c892e1ce5e3",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuovo Codice della Strada, senza PEC niente revisione né targa",
+      "url": "https://www.hdmotori.it/nuovo-codice-della-strada-senza-pec-niente-revisione-targa/",
+      "image": null,
+      "summary": "Il nuovo Codice della strada propone il domicilio digitale obbligatorio per i proprietari di veicoli. Senza PEC potrebbero bloccarsi revisione e passaggio The post Nuovo Codice della Strada, senza PEC niente revisione...",
+      "date": "2026-08-14T11:00:15.0000000Z"
+    },
+    {
+      "id": "motor1:f74b250fb711",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché stanno tornando nomi storici per le nuove auto?",
+      "url": "https://it.motor1.com/news/804835/ritorno-nomi-storici-auto-mercato/",
+      "image": "https://cdn.motor1.com/images/mgl/6Z8ybE/s3/smart-2-citroen-2cv-audi-a2-e-tron.jpg",
+      "summary": "Dopo 500 e Renault 5, sono tanti altri i \"revival\" in arrivo, dall'Audi A2 e-tron fino alla 2CV",
+      "date": "2026-08-14T11:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:128b038b6c12",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Hai compiuto 70 anni? Addio patente! La proposta scioccante in UK",
+      "url": "https://www.hdmotori.it/addio-patente-70-anni-proposta-uk/",
+      "image": null,
+      "summary": "Nel Regno Unito, il nuovo governo di Andy Burnham, sta considerando la possibilità di revocare le patenti di guida ai conducenti di età superiore ai 70 anni The post Hai compiuto 70 anni? Addio patente! La proposta sc...",
+      "date": "2026-08-14T10:00:46.0000000Z"
+    },
+    {
+      "id": "motor1:fd39d2a5242e",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le nuove regole dell'Europa per l'auto sono in vigore",
+      "url": "https://it.motor1.com/news/804940/europa-auto-materiali-riciclati-regole/",
+      "image": "https://cdn.motor1.com/images/mgl/W81XjN/s3/auto-usate.jpg",
+      "summary": "Più materiali riciclati, economia circolare e non solo: ecco come l'Europa vuole ridisegnare l'auto",
+      "date": "2026-08-14T10:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:2b9ba0bf91ef",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Quest'auto cinese completa il giro di un tunnel come Schumacher",
+      "url": "https://insideevs.it/news/804911/voyah-passion-s-tunnel-video/",
+      "image": "https://cdn.motor1.com/images/mgl/y2lMNl/s3/la-voyha-passion-s-completa-il-giro-di-un-tunnel-come-schumacher.jpg",
+      "summary": "L'elettrica Voyah Passion S omaggia lo spot del 2010 con protagonista l'ex pilota di Formula 1: video",
+      "date": "2026-08-14T10:00:00.0000000Z"
+    },
     {
       "id": "motor1:5aae81bdc46f",
       "sourceId": "motor1",
@@ -92,7 +164,7 @@
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Ferrari CZ26: la SF90 trasformata in una one-off shock",
+      "title": "La nuova one-off da 1.000 CV di Ferrari",
       "url": "https://it.motor1.com/news/804899/ferrari-cz26-cambia-sf90-stradale/",
       "image": "https://cdn.motor1.com/images/mgl/7ZEJnp/s3/ferrari-cz26.jpg",
       "summary": "La CZ26 ridefinisce silhouette, aerodinamica e abitacolo della SF90 Stradale senza toccare a fondo la meccanica ibrida",
@@ -171,18 +243,6 @@
       "date": "2026-08-14T06:00:00.0000000Z"
     },
     {
-      "id": "insideevs:087a1295d695",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto elettriche: le vendite aumentano, ma nel mondo la situazione non è omogenea",
-      "url": "https://insideevs.it/news/804769/vendite-auto-elettriche-mondo-crescita-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/eozMrN/s3/la-tesla-model-y-standard-avvia-la-produzione-in-europa.jpg",
-      "summary": "L'Europa accelera, il Nord America invece è in contrazione. La Cina rialza la testa e il resto del mondo corre veloce",
-      "date": "2026-08-14T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:8e0cbd687b3c",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -192,6 +252,18 @@
       "url": "https://it.motor1.com/news/803543/design-auto-spider/",
       "image": "https://cdn.motor1.com/images/mgl/9m8LQ0/s3/auto-spider.jpg",
       "summary": "Togliere il tetto è una delle sfide più difficili del design: vi racconto perché spider, roadster e cabrio diventano vere icone",
+      "date": "2026-08-14T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:087a1295d695",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto elettriche: le vendite aumentano, ma nel mondo la situazione non è omogenea",
+      "url": "https://insideevs.it/news/804769/vendite-auto-elettriche-mondo-crescita-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/eozMrN/s3/la-tesla-model-y-standard-avvia-la-produzione-in-europa.jpg",
+      "summary": "L'Europa accelera, il Nord America invece è in contrazione. La Cina rialza la testa e il resto del mondo corre veloce",
       "date": "2026-08-14T05:00:00.0000000Z"
     },
     {
@@ -291,18 +363,6 @@
       "date": "2026-08-13T15:30:48.0000000Z"
     },
     {
-      "id": "motor1:3d59f72b1942",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Addio al papà della Toyota Prius",
-      "url": "https://it.motor1.com/news/804843/toyota-full-hybrid-morte-hiroshi-okuda/",
-      "image": "https://cdn.motor1.com/images/mgl/G3BpWq/s3/toyota-prius-1997---il-motore.jpg",
-      "summary": "Morto a 93 anni Hiroshi Okuda, ex presidente Toyota al quale si devono modelli di successo come Prius e il passaggio all'ibrido",
-      "date": "2026-08-13T15:30:00.0000000Z"
-    },
-    {
       "id": "hdmotori:db8e0730e97a",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -313,18 +373,6 @@
       "image": null,
       "summary": "Dopo Everllence, il colosso di Wolfsburg starebbe per cedere il controllo della storica società di ingegneria nel quadro di un piano di dismissioni e ristrutturazioni. The post Volkswagen continua a vendere: IAV potre...",
       "date": "2026-08-13T15:00:46.0000000Z"
-    },
-    {
-      "id": "motor1:ea785ef520e4",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La città è più facile con la microcar, la prova della Aixam eGTI",
-      "url": "https://it.motor1.com/reviews/804674/aixam-egti-prova-recensione-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/JON4n4/s3/aixam-egti-prova.jpg",
-      "summary": "Si guida con il patentino, raggiunge i 45 km/h e dichiara fino a 113 km di autonomia. Dentro sorprende la capacità di carico",
-      "date": "2026-08-13T15:00:00.0000000Z"
     },
     {
       "id": "insideevs:1f3d5fb13077",
@@ -339,18 +387,6 @@
       "date": "2026-08-13T15:00:00.0000000Z"
     },
     {
-      "id": "motor1:0a54dda51c4d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il design delle Bentley potrebbe cambiare, ecco perché",
-      "url": "https://it.motor1.com/news/804825/bentley-nuovo-designer-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/L3yRkW/s3/bentley-supersports-design-theme-by-mulliner-2026.jpg",
-      "summary": "Nuovo responsabile del design degli esterni di Bentley. Si tratta fi T.Jon Mayer, che prende il posto di Domen Rucigaj",
-      "date": "2026-08-13T14:30:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:1f1a9025edd7",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -361,18 +397,6 @@
       "image": null,
       "summary": "Batteria difettosa nella Leaf: che cosa posso fare? Ad avere problemi è un lettore sardo con una Nissan… L'articolo Batteria difettosa nella Leaf: che posso fare? proviene da Vaielettrico .",
       "date": "2026-08-13T14:21:56.0000000Z"
-    },
-    {
-      "id": "hdmotori:a9467ccad2fd",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nuovo record di velocità, un’auto a idrogeno vola a quasi 654 km/h | Video",
-      "url": "https://www.hdmotori.it/nuovo-record-velocita-auto-idrogeno-654-km-h/",
-      "image": null,
-      "summary": "Nuovo primato di velocità per un'auto a idrogeno. Andy Green ha sfiorato i 654 chilometri orari nel deserto dello Utah The post Nuovo record di velocità, un’auto a idrogeno vola a quasi 654 km/h | Video appeared first...",
-      "date": "2026-08-13T14:00:37.0000000Z"
     },
     {
       "id": "insideevs:605782b1fcc4",
@@ -397,18 +421,6 @@
       "image": null,
       "summary": "Consumi di energia record in luglio: +8,3%. È il dato mensile più alto di sempre: 32,5 TWh, con i… L'articolo Consumi di energia record in luglio: +8,3% proviene da Vaielettrico .",
       "date": "2026-08-13T13:47:46.0000000Z"
-    },
-    {
-      "id": "hdmotori:c574ac8737a2",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto a fine vita, cambiano le regole UE: cosa succede dal 2026 al 2036",
-      "url": "https://www.hdmotori.it/auto-fine-vita-regole-ue/",
-      "image": null,
-      "summary": "Nuove regole UE sulle auto a fine vita: più riciclo, passaporto digitale e stretta sulle esportazioni. Ecco cosa cambia e quando The post Auto a fine vita, cambiano le regole UE: cosa succede dal 2026 al 2036 appeared...",
-      "date": "2026-08-13T13:00:59.0000000Z"
     },
     {
       "id": "insideevs:0b3199407af8",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/6Z8yNE/s3/voltpost-lamppost-ev-chargers-in-larchmont-new-york.jpg",
       "summary": "La startup Voltpost vuole espandere i suoi caricabatterie per lampioni in Connecticut e California",
       "date": "2026-08-13T07:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:858f9ff05bd9",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Smonta le batterie BYD e CATL: ecco le differenze",
-      "url": "https://insideevs.it/news/804603/smontaggio-batterie-byd-catl-differenze/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak36m6/s3/smontano-le-batterie-byd-e-catl-ecco-le-differenze.jpg",
-      "summary": "Le celle BYD hanno più densità energetica e non solo: i risultati del test indipendente",
-      "date": "2026-08-13T05:00:00.0000000Z"
     }
   ]
 }
