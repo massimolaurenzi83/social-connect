@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-13T23:33:38.7751461Z",
+  "updated": "2026-08-14T05:21:48.9689632Z",
   "items": [
+    {
+      "id": "motor1:8e0cbd687b3c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché le spider sembrano sempre belle",
+      "url": "https://it.motor1.com/news/803543/design-auto-spider/",
+      "image": "https://cdn.motor1.com/images/mgl/9m8LQ0/s3/auto-spider.jpg",
+      "summary": "Togliere il tetto è una delle sfide più difficili del design: vi racconto perché spider, roadster e cabrio diventano vere icone",
+      "date": "2026-08-14T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:087a1295d695",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto elettriche: le vendite aumentano, ma nel mondo la situazione non è omogenea",
+      "url": "https://insideevs.it/news/804769/vendite-auto-elettriche-mondo-crescita-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/eozMrN/s3/la-tesla-model-y-standard-avvia-la-produzione-in-europa.jpg",
+      "summary": "L'Europa accelera, il Nord America invece è in contrazione. La Cina rialza la testa e il resto del mondo corre veloce",
+      "date": "2026-08-14T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:90aca5d5148a",
       "sourceId": "vaielettrico",
@@ -399,18 +423,6 @@
       "date": "2026-08-13T09:30:38.0000000Z"
     },
     {
-      "id": "motor1:4e9c449df5f7",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "McLaren lo fa davvero: torna il cambio manuale",
-      "url": "https://it.motor1.com/news/804764/mclaren-m6gt-restauro-cambio-manuale/",
-      "image": "https://cdn.motor1.com/images/mgl/koK2KP/s3/mclaren-m6gt-restoration.jpg",
-      "summary": "A Monterey, McLaren si prepara a svelare una nuova supercar con cambio manuale. Ma di cosa si tratta?",
-      "date": "2026-08-13T08:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:c6ba7cc1f8f9",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -423,6 +435,18 @@
       "date": "2026-08-13T08:00:00.0000000Z"
     },
     {
+      "id": "motor1:4e9c449df5f7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "McLaren lo fa davvero: torna il cambio manuale",
+      "url": "https://it.motor1.com/news/804764/mclaren-m6gt-restauro-cambio-manuale/",
+      "image": "https://cdn.motor1.com/images/mgl/koK2KP/s3/mclaren-m6gt-restoration.jpg",
+      "summary": "A Monterey, McLaren si prepara a svelare una nuova supercar con cambio manuale. Ma di cosa si tratta?",
+      "date": "2026-08-13T08:00:00.0000000Z"
+    },
+    {
       "id": "insideevs:3d87433747c8",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -432,18 +456,6 @@
       "url": "https://insideevs.it/news/804680/new-york-colonnine-lampioni/",
       "image": "https://cdn.motor1.com/images/mgl/6Z8yNE/s3/voltpost-lamppost-ev-chargers-in-larchmont-new-york.jpg",
       "summary": "La startup Voltpost vuole espandere i suoi caricabatterie per lampioni in Connecticut e California",
-      "date": "2026-08-13T07:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:80e6977159ba",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il salone dell'auto \"open air\" è sempre più popolare",
-      "url": "https://it.motor1.com/news/803650/salone-auto-diffuso-aperto-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/qkYNLL/s3/salone-di-torino-2025.jpg",
-      "summary": "Non solo il Salone Auto Torino: negli ultimi anni il salone \"diffuso\" è diventato un nuovo modo di avvicinare le persone ai nuovi modelli",
       "date": "2026-08-13T07:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/mMzpqe/s3/genesis-neolun-concept.jpg",
       "summary": "Nuove indiscrezioni svelano Genesis GV90: 666 CV, batteria da 115 kWh, quasi 5,3 metri di lunghezza e autonomia vicina ai 480 km",
       "date": "2026-08-12T14:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:28d2e9a03b44",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla richiama 20.349 auto: fari che 'accecano' in strada",
-      "url": "https://insideevs.it/news/804625/tesla-richiama-model-3-y/",
-      "image": "https://cdn.motor1.com/images/mgl/1Zwx1p/s3/tesla-model-y.jpg",
-      "summary": "Il richiamo 26V507 negli Stati Uniti coinvolge 18.735 Model Y e 1.614 Model 3, con intervento previsto da Tesla sui fari anabbaglianti",
-      "date": "2026-08-12T13:00:00.0000000Z"
     }
   ]
 }
