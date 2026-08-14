@@ -1,6 +1,6 @@
 {
   "category": "motori",
-  "updated": "2026-08-14T18:10:37.4399587Z",
+  "updated": "2026-08-14T20:06:04.5982999Z",
   "items": [
     {
       "id": "hdmotori:49b4cb312e76",
@@ -15,6 +15,18 @@
       "date": "2026-08-14T18:00:49.0000000Z"
     },
     {
+      "id": "motor1:a4b97431b862",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Lamborghini Revuelto SV: Super Veloce per davvero!",
+      "url": "https://it.motor1.com/news/804684/lamborghini-revuelto-sv-motore-prezzo/",
+      "image": "https://cdn.motor1.com/images/mgl/L3ypbm/s3/lamborghini-revuelto-sv.jpg",
+      "summary": "1.065 CV e un aerodinamica estrema, ecco la Revuelto di serie più potente di sempre, quella che i collezionisti già si stanno litigando...",
+      "date": "2026-08-14T18:00:00.0000000Z"
+    },
+    {
       "id": "hdmotori:578f5504aab3",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -27,6 +39,18 @@
       "date": "2026-08-14T17:00:01.0000000Z"
     },
     {
+      "id": "motor1:4b85ca0fd05f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché quella del limone sul parabrezza è una cosa da non fare",
+      "url": "https://it.motor1.com/features/805003/limone-parabrezza-auto-rischi-danni/",
+      "image": "https://cdn.motor1.com/images/mgl/wl8V84/s3/limone-parabrezza-auto.jpg",
+      "summary": "Tra acido citrico, guarnizioni stressate e vernice esposta, usare il limone sul parabrezza può creare danni all'auto",
+      "date": "2026-08-14T17:00:00.0000000Z"
+    },
+    {
       "id": "hdmotori:ad2846a31bfc",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -37,6 +61,18 @@
       "image": null,
       "summary": "Inghiottita dal terremoto dell'Irpinia nel 1980, una Mercedes 280 TE con soli 6.100 km riaffiora intonsa dopo 40 anni. Oggi vale oltre 130.000 dollari The post Questa Mercedes del ’79 era sepolta ad Avellino: oggi è u...",
       "date": "2026-08-14T16:00:40.0000000Z"
+    },
+    {
+      "id": "motor1:4a540f3e9622",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come cambiano le multe per i limiti di velocità nel nuovo codice della strada",
+      "url": "https://it.motor1.com/news/804989/nuovo-codice-strada-2026-limiti-velocita-multe/",
+      "image": "https://cdn.motor1.com/images/mgl/zz3e4/s3/limiti-di-velocita.jpg",
+      "summary": "5 o 10 euro per ogni km/h di sforamento per multe progressive, ecco la proposta per il nuovo codice della strada",
+      "date": "2026-08-14T16:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:ff98416dda0d",
@@ -207,6 +243,18 @@
       "date": "2026-08-14T12:00:28.0000000Z"
     },
     {
+      "id": "motor1:9afcfab0e4e6",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Se le Bugatti Mistral e Chiron non vi basta ci pensa Mansory",
+      "url": "https://it.motor1.com/news/804944/mansory-pebble-beach-bugatti-oneoff/",
+      "image": "https://cdn.motor1.com/images/mgl/9m8oN1/s3/due-bugatti-uniche-mansory-shock-a-pebble-beach-2026.jpg",
+      "summary": "Debutto al Pebble Beach Concours d'Elegance per MANSORY, che espone le one-off Vincerò su Bugatti Mistral e Vivere nel cuore della Monterey Car Week",
+      "date": "2026-08-14T12:00:00.0000000Z"
+    },
+    {
       "id": "insideevs:fd01a65679dd",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -216,18 +264,6 @@
       "url": "https://insideevs.it/news/804933/ricarica-ev-pubblica-usa-migliorano/",
       "image": "https://cdn.motor1.com/images/mgl/VzWknl/s3/colonnine-di-ricarica-pubblica-negli-usa.jpg",
       "summary": "Nel report JD Power 2026 la ricarica rapida DC negli Stati Uniti migliora per affidabilità, sicurezza, costi e pagamento",
-      "date": "2026-08-14T12:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:9afcfab0e4e6",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Se una Bugatti Mistral non vi basta ci pensa Mansory",
-      "url": "https://it.motor1.com/news/804944/mansory-pebble-beach-bugatti-oneoff/",
-      "image": "https://cdn.motor1.com/images/mgl/9m8oN1/s3/due-bugatti-uniche-mansory-shock-a-pebble-beach-2026.jpg",
-      "summary": "Debutto al Pebble Beach Concours d'Elegance per MANSORY, che espone le one-off Vincerò su Bugatti Mistral e Vivere nel cuore della Monterey Car Week",
       "date": "2026-08-14T12:00:00.0000000Z"
     },
     {
@@ -327,18 +363,6 @@
       "date": "2026-08-14T08:07:32.0000000Z"
     },
     {
-      "id": "motor1:031fab81bd51",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il futuro della Porsche Taycan è in bilico",
-      "url": "https://it.motor1.com/news/804906/porsche-taycan-fine-produzione/",
-      "image": "https://cdn.motor1.com/images/mgl/mM3eoA/s3/2025-porsche-taycan-gts.jpg",
-      "summary": "Vendite in calo per la berlina elettrica e la Casa potrebbe interromperne la produzione entro il 2030",
-      "date": "2026-08-14T07:54:03.0000000Z"
-    },
-    {
       "id": "vaielettrico:365e561fbadc",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -351,18 +375,6 @@
       "date": "2026-08-14T07:49:43.0000000Z"
     },
     {
-      "id": "motor1:14cef9380364",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova one-off da 1.000 CV di Ferrari",
-      "url": "https://it.motor1.com/news/804899/ferrari-cz26-cambia-sf90-stradale/",
-      "image": "https://cdn.motor1.com/images/mgl/7ZEJnp/s3/ferrari-cz26.jpg",
-      "summary": "La CZ26 ridefinisce silhouette, aerodinamica e abitacolo della SF90 Stradale senza toccare a fondo la meccanica ibrida",
-      "date": "2026-08-14T07:08:47.0000000Z"
-    },
-    {
       "id": "insideevs:c0133846a5c8",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -372,18 +384,6 @@
       "url": "https://insideevs.it/news/804827/catl-cella-350-wh-kg/",
       "image": "https://cdn.motor1.com/images/mgl/NGPp0G/s3/autoflight-v2000em-prosperity.jpg",
       "summary": "Per gli eVTOL passeggeri CATL propone una cella prismatica da 350 Wh/kg validata sulla non propagazione del thermal runaway",
-      "date": "2026-08-14T07:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:6210b380f01e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'app di Volvo che fa pagare meno di assicurazione",
-      "url": "https://it.motor1.com/news/804845/volvo-safety-app-sconto-assicurazione/",
-      "image": "https://cdn.motor1.com/images/mgl/koKXJP/s3/volvo-safety-coach.jpg",
-      "summary": "Volvo lancia Safety Coach, la nuova app dedicata alla sicurezza a bordo che fa ridurre il costo dell'assicurazione",
       "date": "2026-08-14T07:00:00.0000000Z"
     },
     {
