@@ -1,7 +1,19 @@
 {
   "category": "libri",
-  "updated": "2026-08-14T05:21:48.9517399Z",
+  "updated": "2026-08-14T09:33:57.4290348Z",
   "items": [
+    {
+      "id": "illibraio:c5d798299792",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "I neologismi inventati da Giacomo Leopardi che usiamo ancora oggi",
+      "url": "https://www.illibraio.it/news/scuola/neologismi-di-giacomo-leopardi-1497244/",
+      "image": null,
+      "summary": "Quando si nomina Giacomo Leopardi, il pensiero va spesso ai suoi celebri \"Canti\", alle \"Operette morali\" o alla sua definizione di \"natura matrigna\", anche se altrettanto affascinante - benché forse meno noto - è stat...",
+      "date": "2026-08-14T01:28:09.0000000Z"
+    },
     {
       "id": "illibraio:be441da5b758",
       "sourceId": "illibraio",
@@ -97,18 +109,6 @@
       "image": null,
       "summary": "\"Il significato di 'cosa' è più ampio di quello di 'oggetto'. Le cose rappresentano nodi di relazioni con la vita degli altri, anelli di continuità tra le generazioni, ponti che collegano storie individuali e colletti...",
       "date": "2026-08-08T00:09:43.0000000Z"
-    },
-    {
-      "id": "illibraio:c8e3d2d226e2",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "L’uomo, l’automazione, il Cheddar: l’universo di Wallace e Gromit",
-      "url": "https://www.illibraio.it/news/dautore/wallace-e-gromit-1498203/",
-      "image": null,
-      "summary": "Non bisogna fare l’errore di considerarli solo film \"per bambini\", limitandosi alla superficie comica: Wallace & Gromit, nati dalla fantasia del premiatissimo Nick Park, sono suna delle coppie più riuscite e longeve n...",
-      "date": "2026-08-07T06:17:11.0000000Z"
     }
   ]
 }

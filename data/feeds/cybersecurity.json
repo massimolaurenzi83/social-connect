@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-14T05:21:48.9547789Z",
+  "updated": "2026-08-14T09:33:57.4032080Z",
   "items": [
+    {
+      "id": "cybersecurity360:2d0ba7ea1595",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "L’evoluzione del SOC agentico",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/levoluzione-del-soc-agentico/",
+      "image": null,
+      "summary": "Un'analisi sulle vulnerabilità globali e sulle architetture di sicurezza dimostra come l'integrazione di grafi della conoscenza stia trasformando la risposta agli attacchi informatici, ridefinendo l'efficienza operati...",
+      "date": "2026-08-14T09:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:7acabd83b7f4",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Agenti AI militari e guerre diffuse: quando non sappiamo più chi ha deciso",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/agenti-ai-militari-e-guerre-diffuse-quando-non-sappiamo-piu-chi-ha-deciso/",
+      "image": null,
+      "summary": "Con gli agenti militari basati sull’intelligenza artificiale la catena di comando comincia ad assomigliare a una rete. Ecco i rischi legati ad agenti militari manipolati nelle guerre diffuse dove il vantaggio non appa...",
+      "date": "2026-08-14T08:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:5037e1aba420",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Le due responsabilità del GDPR: la promessa e il vincolo",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/le-due-responsabilita-del-gdpr-la-promessa-e-il-vincolo/",
+      "image": null,
+      "summary": "La responsabilità del GDPR ha due tempi e, in inglese, due nomi: responsibility, la promessa che guarda in avanti; liability, il vincolo che risponde all’indietro. Ecco la differenza fra responsabilità-promessa che gu...",
+      "date": "2026-08-14T07:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:1a81ccc489c1",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "L'Italia apre all'uso dell'identificazione biometrica remota in tempo reale da parte delle forze di polizia nei casi ammessi dall'AI Act. Autorizzazioni, controllo umano e valutazioni d'impatto dovranno trasformare le...",
       "date": "2026-08-13T08:32:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:6f3a8d675893",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Agenti AI contro Taiwan: la guerra cyber entra nell’era degli attacchi autonomi",
-      "url": "https://www.cybersecurity360.it/news/agenti-ai-contro-taiwan-la-guerra-cyber-entra-nellera-degli-attacchi-autonomi/",
-      "image": null,
-      "summary": "Gli Agenti AI hanno attaccato Taiwan, mettendo in luce come l’intelligenza artificiale stia trasformando la guerra cibernetica. Ecco come l'attacco autonomo end-to-end ha operato in parallelo, adattando ricognizione e...",
-      "date": "2026-08-13T07:04:51.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:4d38a1c585da",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Internal Auditing e AI: la Cognitive Governance protegge l’autonomia del giudizio",
-      "url": "https://www.cybersecurity360.it/legal/internal-auditing-e-ai-la-cognitive-governance-protegge-lautonomia-del-giudizio/",
-      "image": null,
-      "summary": "Quando l'AI entra nei processi decisionali, la sfida non è solo governare gli algoritmi, ma preservare autonomia, capacità critica e responsabilità. Cognitive Governance e Decision Assurance offrono all'Internal Audit...",
-      "date": "2026-08-13T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:56f425f878be",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Penetration test e AI: non serve un’AI più potente, ma un pentester più strategico",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/penetration-test-e-ai-non-serve-unai-piu-potente-ma-un-pentester-piu-strategico/",
-      "image": null,
-      "summary": "La competenza distintiva di un tester offensivo cambia ai tempi dell'intelligenza artificiale. Ecco come effettuare penetration test efficaci nell'era dell'AI L'articolo Penetration test e AI: non serve un’AI più pote...",
-      "date": "2026-08-12T09:00:00.0000000Z"
     }
   ]
 }
