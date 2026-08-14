@@ -1,7 +1,43 @@
 {
   "category": "cucina",
-  "updated": "2026-08-14T12:01:32.3469258Z",
+  "updated": "2026-08-14T15:11:48.4962553Z",
   "items": [
+    {
+      "id": "giallozafferano:633718283d9b",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Biscotti salati alle olive",
+      "url": "https://ricette.giallozafferano.it/Biscotti-salati-alle-olive.html",
+      "image": "https://www.giallozafferano.it/images/362-36263/Biscotti-salati-alle-olive_1200x800.jpg",
+      "summary": "I biscotti salati alle olive sono uno stuzzichino semplice e sfizioso, perfetto da servire all’ora dell’aperitivo o per arricchire buffet e antipasti fatti in casa. Friabili e fragranti, racchiudono tutto il gusto del...",
+      "date": "2026-08-14T13:49:00.0000000Z"
+    },
+    {
+      "id": "dissapore:230e2d76e96b",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "In Corea, gli appassionati si godono l’ultima carne di cane legale prima del divieto",
+      "url": "https://www.dissapore.com/notizie/in-corea-gli-appassionati-si-godono-lultima-carne-di-cane-legale-prima-del-divieto/",
+      "image": null,
+      "summary": "Lo stufato di cane è tradizionalmente mangiato nel periodo più caldo dell'estate, e questo sarà l'ultimo anno in cui sarà possibile assaggiarlo. Tra ristoratori e avventori coreani ci sono reazioni contrastanti. L'art...",
+      "date": "2026-08-14T13:27:21.0000000Z"
+    },
+    {
+      "id": "giallozafferano:036508a9a69b",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Dessert vaniglia, cocco e cioccolato",
+      "url": "https://ricette.giallozafferano.it/Dessert-vaniglia-cocco-e-cioccolato.html",
+      "image": "https://www.giallozafferano.it/images/365-36548/Dessert-vaniglia-cocco-e-cioccolato_1200x800.jpg",
+      "summary": "Il dessert vaniglia, cocco e cioccolato è un dolce senza cottura cremoso e scenografico, che riunisce la dolcezza della vaniglia, il gusto deciso del cioccolato fondente e il profumo del cocco. A renderlo particolare ...",
+      "date": "2026-08-14T13:20:00.0000000Z"
+    },
     {
       "id": "dissapore:a7f069569e57",
       "sourceId": "dissapore",
@@ -171,18 +207,6 @@
       "date": "2026-08-10T08:13:30.0000000Z"
     },
     {
-      "id": "dissapore:603d809b8816",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Le 14 migliori gelaterie delle Marche del 2026",
-      "url": "https://www.dissapore.com/locali/le-14-migliori-gelaterie-delle-marche-del-2026/",
-      "image": null,
-      "summary": "Il gelato imperdibile delle Marche, al mare Adriatico alle cime dell'Appennino, rigorosamente artigianale. Gli indirizzi da non perdere in tutta la Regione, testati e promossi dalla redazione di Dissapore. L'articolo ...",
-      "date": "2026-08-09T15:44:13.0000000Z"
-    },
-    {
       "id": "giallozafferano:8d8b43f05082",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -265,30 +289,6 @@
       "image": "https://www.giallozafferano.it/images/365-36504/Torta-salata-pomodorini-e-stracchino_1200x800.jpg",
       "summary": "Di torte salate noi di GialloZafferano ne abbiamo pubblicate tantissime, ma questa torta salata pomodorini e stracchino potrebbe diventare la vostra preferita. Vi basterà un rotolo di pasta sfoglia e pochi minuti di p...",
       "date": "2026-08-04T09:39:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:7e1df5b1f708",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Gelato su stecco allo yogurt greco",
-      "url": "https://ricette.giallozafferano.it/Gelato-su-stecco-allo-yogurt-greco.html",
-      "image": "https://www.giallozafferano.it/images/365-36510/Gelato-su-stecco-allo-yogurt-greco_1200x800.jpg",
-      "summary": "Il gelato è solo uno sfizio o può essere considerato una merenda nutriente? La ricetta del gelato su stecco allo yogurt greco preparata da Bianca in collaborazione con la nutrizionista Laura Crugnola in occasione di u...",
-      "date": "2026-08-04T09:30:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:6ba0db08a216",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Pasta fredda cremosa",
-      "url": "https://ricette.giallozafferano.it/Pasta-fredda-cremosa.html",
-      "image": "https://www.giallozafferano.it/images/365-36500/Pasta-fredda-cremosa_1200x800.jpg",
-      "summary": "Amanti della pasta, se siete alla ricerca del primo piatto ideale per contrastare il caldo, ecco per voi la pasta fredda cremosa ! Un tripudio di verdure, colori e profumi che si prepara utilizzando soltanto una padel...",
-      "date": "2026-08-03T13:43:00.0000000Z"
     }
   ]
 }
