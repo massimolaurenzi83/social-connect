@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-14T15:11:48.5522636Z",
+  "updated": "2026-08-14T18:10:37.4315576Z",
   "items": [
+    {
+      "id": "ferrovie:4e58a90b2e51",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "FS Logistix sperimenta l’HVO su treni e camion: emissioni di CO₂ ridotte fino al 90%",
+      "url": "https://www.ferrovie.info/treni-reali/fs-logistix-sperimenta-lhvo-su-treni-e-camion-emissioni-di-co2-ridotte-fino-al-90.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10044/normal_MIR_744_023_Torrile_S_Polo_2810129.JPG",
+      "summary": "Il biocarburante avanzato è già utilizzato da Mercitalia Rail e Mercitalia Shunting & Terminal. Nel 2025 consumati circa 19mila litri di HVO sulla flotta stradale. FS Logistix accelera sulla transizione energetica con...",
+      "date": "2026-08-14T15:26:55.0000000Z"
+    },
     {
       "id": "ferrovie:bc24e3df225b",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10130/IMG-20180920-WA0044_1.jpg",
       "summary": "Un presidio alla stazione di Ponte San Giovanni per richiamare l'attenzione sul problema delle aggressioni al personale del trasporto pubblico, ferroviario e su gomma. È l'iniziativa promossa da Fit Cisl Umbria e Fast...",
       "date": "2026-08-13T07:28:33.0000000Z"
-    },
-    {
-      "id": "ferrovie:aed2961fd8f8",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Trenitalia, 31 nuovi treni Regionale consegnati nel 2026: flotta rinnovata all’80% entro il 2027",
-      "url": "https://www.ferrovie.info/treni-reali/trenitalia-31-nuovi-treni-regionale-consegnati-nel-2026-flotta-rinnovata-all80-entro-il-2027.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/11219/normal_Trenitalia_Regionale_ETR_108_Alstom_coradia.jpeg",
-      "summary": "Prosegue il rinnovo della flotta del servizio Regionale di Trenitalia , brand del Gruppo FS, con 31 nuovi treni consegnati dall’inizio del 2026 a oggi . I nuovi convogli rappresentano un investimento complessivo di ci...",
-      "date": "2026-08-12T09:53:17.0000000Z"
     }
   ]
 }

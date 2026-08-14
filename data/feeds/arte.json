@@ -1,7 +1,19 @@
 {
   "category": "arte",
-  "updated": "2026-08-14T15:11:48.5128858Z",
+  "updated": "2026-08-14T18:10:37.4567311Z",
   "items": [
+    {
+      "id": "artribune:3480cc7da83b",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il Mediterraneo secondo Mimmo Jodice a Matera: queste fotografie hanno cambiato il nostro sguardo sull’antico",
+      "url": "https://www.artribune.com/arte-contemporanea-2/2026/08/jodice-mediterraneo-mostra-matera/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/mimmo-jodice-atleti-da-ercolano-museo-archeologico-nazionale-di-napoli-1986-c-mimmo-jodice-studio.jpg",
+      "summary": "Fino all'8 novembre 2026 Palazzo Lanfranchi a Matera ospita Mediterraneo, il ciclo che ha consacrato Mimmo Jodice sulla scena internazionale. Attraverso preziose stampe vintage realizzate dall'autore, la mostra invita...",
+      "date": "2026-08-14T17:00:00.0000000Z"
+    },
     {
       "id": "elledecor:5edf56327f2e",
       "sourceId": "elledecor",
@@ -63,18 +75,6 @@
       "date": "2026-08-14T13:00:00.0000000Z"
     },
     {
-      "id": "elledecor:ad6426a0b440",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Intervista ad Andrea Mastrovito, l'artista che ha completato la torre della Sagrada Familia di Gaudì",
-      "url": "https://www.elledecor.com/it/lifestyle/a73320778/intervista-ad-andrea-mastrovito-sagrada-familia-antoni-gaudi/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/3119d303-8ba1-4386-a6e9-79a366caecd4.png",
-      "summary": "La scultura Agnus Dei entra nella dimensione spirituale della Sagrada Família unendo alla tradizione cristiana il linguaggio artistico e contemporaneo nel segno della luce",
-      "date": "2026-08-14T11:00:00.0000000Z"
-    },
-    {
       "id": "artribune:1d0a73bac5c4",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -87,16 +87,16 @@
       "date": "2026-08-14T11:00:00.0000000Z"
     },
     {
-      "id": "elledecor:fbf0fe36731a",
+      "id": "elledecor:ad6426a0b440",
       "sourceId": "elledecor",
       "source": "Elle Decor",
       "platform": "rss",
       "category": "arte",
-      "title": "Il ristorante del week-end è una terrazza panoramica sui tetti di Roma nella cornice di un palazzo storico",
-      "url": "https://www.elledecor.com/it/viaggi/a73363162/terrazza-tetti-di-roma/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/18ac48e6-ec09-424e-b1ec-f6747cabf008.jpg",
-      "summary": "Quid è il nuovo progetto di Enrico Bartolini: interni contemporanei, una galleria d'arte e la cucina dello chef Juan Camilo Quintero",
-      "date": "2026-08-14T10:00:00.0000000Z"
+      "title": "Intervista ad Andrea Mastrovito, l'artista che ha completato la torre della Sagrada Familia di Gaudì",
+      "url": "https://www.elledecor.com/it/lifestyle/a73320778/intervista-ad-andrea-mastrovito-sagrada-familia-antoni-gaudi/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3119d303-8ba1-4386-a6e9-79a366caecd4.png",
+      "summary": "La scultura Agnus Dei entra nella dimensione spirituale della Sagrada Família unendo alla tradizione cristiana il linguaggio artistico e contemporaneo nel segno della luce",
+      "date": "2026-08-14T11:00:00.0000000Z"
     },
     {
       "id": "artribune:8c0edd91140b",
@@ -108,6 +108,18 @@
       "url": "https://www.artribune.com/arte-contemporanea-2/2026/08/biennale-2026-zig-zag/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/05/biennale-2026-padiglione-ph-irene-fanizza-72-scaled.jpg",
       "summary": "La sensazione che la visita a Venezia nei mesi della 61° Biennale lascia è quella di un imprevedibile percorso a zig zag nelle sensazioni e nelle immagini. Tra mostra internazionale, padiglioni e progetti in città L’a...",
+      "date": "2026-08-14T10:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:fbf0fe36731a",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il ristorante del week-end è una terrazza panoramica sui tetti di Roma nella cornice di un palazzo storico",
+      "url": "https://www.elledecor.com/it/viaggi/a73363162/terrazza-tetti-di-roma/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/18ac48e6-ec09-424e-b1ec-f6747cabf008.jpg",
+      "summary": "Quid è il nuovo progetto di Enrico Bartolini: interni contemporanei, una galleria d'arte e la cucina dello chef Juan Camilo Quintero",
       "date": "2026-08-14T10:00:00.0000000Z"
     },
     {
@@ -217,18 +229,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/b4ffc6c3-a14d-497c-b684-9f6a8e393b69.jpg",
       "summary": "Tom Kundig disegna una casa per le vacanze composta da volumi indipendenti, materiali essenziali e grandi aperture che portano il paesaggio dentro l’abitare",
       "date": "2026-08-13T14:30:00.0000000Z"
-    },
-    {
-      "id": "artribune:5ab9606ba4eb",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Il cinema e il nodo della nuova Agenzia: più governance non significa più autonomia",
-      "url": "https://www.artribune.com/arti-performative/cinema/2026/08/riforma-cinema-audiovisivo-politica/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/screenshot-2026-08-12-alle-222320.png",
-      "summary": "Una proposta di riforma ridisegna l’architettura pubblica del settore, ma rinvia a una delega larga parte delle scelte sostanziali. Il rischio è costruire un nuovo ente senza attribuirgli gli strumenti regolatori nece...",
-      "date": "2026-08-13T14:00:00.0000000Z"
     },
     {
       "id": "elledecor:ccedcd2d52bb",

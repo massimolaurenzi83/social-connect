@@ -1,7 +1,67 @@
 {
   "category": "android",
-  "updated": "2026-08-14T15:11:48.5174813Z",
+  "updated": "2026-08-14T18:10:37.4302447Z",
   "items": [
+    {
+      "id": "androidworld:b5314350f375",
+      "sourceId": "androidworld",
+      "source": "AndroidWorld",
+      "platform": "rss",
+      "category": "android",
+      "title": "iPhone X e MacBook Pro 2018 diventano obsoleti: sperate di non doverli riparare",
+      "url": "https://www.smartworld.it/news/iphone-x-macbook-pro-2018-obsoleti-stop-riparazioni-apple.html",
+      "image": "https://www.smartworld.it/images/2023/12/13/iphone-x-orig.jpg",
+      "summary": "Apple ha spostato iPhone X e MacBook Pro 15\" 2018 nella lista dei prodotti obsoleti: niente più riparazioni né ricambi ufficiali. L'articolo iPhone X e MacBook Pro 2018 diventano obsoleti: sperate di non doverli ripar...",
+      "date": "2026-08-14T15:53:00.0000000Z"
+    },
+    {
+      "id": "androidworld:a659d6ade40f",
+      "sourceId": "androidworld",
+      "source": "AndroidWorld",
+      "platform": "rss",
+      "category": "android",
+      "title": "Google Meet esce dal digitale: ora prende appunti anche per le riunioni in presenza, ma solo per pochi minuti",
+      "url": "https://www.smartworld.it/news/google-meet-take-notes-riunioni-presenza-come-funziona.html",
+      "image": "https://www.smartworld.it/images/2024/09/07/google-meet-update-ui-orig.png",
+      "summary": "Google Meet porta la funzione 'Prendi note' anche alle riunioni in presenza: Gemini trascrive, riassume e crea un Google Doc automaticamente. L'articolo Google Meet esce dal digitale: ora prende appunti anche per le r...",
+      "date": "2026-08-14T15:45:00.0000000Z"
+    },
+    {
+      "id": "androidworld:4ff7b98c9539",
+      "sourceId": "androidworld",
+      "source": "AndroidWorld",
+      "platform": "rss",
+      "category": "android",
+      "title": "Bug di Good Lock sui Galaxy: widget e cartelle spariscono dallo schermo",
+      "url": "https://www.smartworld.it/news/good-lock-bug-home-up-widget-spariscono-samsung-lavoro.html",
+      "image": "https://www.smartworld.it/images/2025/03/18/good-lock-orig.jpg",
+      "summary": "Un bug nel modulo Home Up di Good Lock sposta widget e cartelle sulla home dei Galaxy. Samsung ha confermato il problema e promesso un fix. L'articolo Bug di Good Lock sui Galaxy: widget e cartelle spariscono dallo sc...",
+      "date": "2026-08-14T15:37:00.0000000Z"
+    },
+    {
+      "id": "androidworld:c7ae62011558",
+      "sourceId": "androidworld",
+      "source": "AndroidWorld",
+      "platform": "rss",
+      "category": "android",
+      "title": "Samsung sfida Sony e Apple con le prime cuffie over-ear Galaxy: ecco cosa sappiamo",
+      "url": "https://www.smartworld.it/news/samsung-galaxy-h1-cuffie-over-ear-premium.html",
+      "image": "https://www.smartworld.it/images/2026/08/14/samsung-cuffie-render-orig.png",
+      "summary": "Samsung starebbe sviluppando le prime cuffie over-ear Galaxy con ANC, Bluetooth 6.0 e Galaxy AI. Lancio previsto per inizio 2027: ecco cosa sappiamo. L'articolo Samsung sfida Sony e Apple con le prime cuffie over-ear ...",
+      "date": "2026-08-14T15:29:00.0000000Z"
+    },
+    {
+      "id": "androidworld:f5a376b96993",
+      "sourceId": "androidworld",
+      "source": "AndroidWorld",
+      "platform": "rss",
+      "category": "android",
+      "title": "Gli orari di punta sono spariti da Google Maps su Android: bug o rimozione?",
+      "url": "https://www.smartworld.it/news/google-maps-orari-punta-spariti-android.html",
+      "image": "https://www.smartworld.it/images/2026/08/14/google-maps-bug-orari-di-punta-orig.png",
+      "summary": "Google Maps sta nascondendo i tempi di affluenza su Android per alcuni utenti: ecco cosa sappiamo e come aggirare il problema nel frattempo. L'articolo Gli orari di punta sono spariti da Google Maps su Android: bug o ...",
+      "date": "2026-08-14T15:28:00.0000000Z"
+    },
     {
       "id": "androidworld:b3d97534c134",
       "sourceId": "androidworld",
@@ -85,66 +145,6 @@
       "image": "https://www.smartworld.it/images/2026/08/14/rambler-gboard-orig.png",
       "summary": "Gboard Rambler impara il tuo slang mentre parli, funziona offline e ha un dizionario personale. Ma ci sono limiti di utilizzo misteriosi: cosa sappiamo. L'articolo Rambler su Gboard: la dettatura AI dei Pixel 11 impar...",
       "date": "2026-08-14T10:28:00.0000000Z"
-    },
-    {
-      "id": "androidworld:0f4f7be8df04",
-      "sourceId": "androidworld",
-      "source": "AndroidWorld",
-      "platform": "rss",
-      "category": "android",
-      "title": "Proton ha reso i porting nativi su Linux quasi inutili: ecco perché e cosa resta ancora irrisolto",
-      "url": "https://www.smartworld.it/news/proton-vs-porting-nativi-linux-perche-ha-vinto-compatibilita.html",
-      "image": "https://www.smartworld.it/images/2026/08/14/proton-orig.jpeg",
-      "summary": "Per anni i gamer Linux hanno chiesto porting nativi. Valve ha fatto qualcosa di meglio con Proton: ecco perché il layer di compatibilità ha vinto la partita. L'articolo Proton ha reso i porting nativi su Linux quasi i...",
-      "date": "2026-08-14T10:13:00.0000000Z"
-    },
-    {
-      "id": "androidworld:ccec17ee311d",
-      "sourceId": "androidworld",
-      "source": "AndroidWorld",
-      "platform": "rss",
-      "category": "android",
-      "title": "OpenAI Ultrafast: GPT-5 Sol fino a 14 volte più veloce grazie a Cerebras",
-      "url": "https://www.smartworld.it/news/openai-ultrafast-gpt-5-sol-750-token-al-secondo.html",
-      "image": "https://www.smartworld.it/images/2026/01/31/chatgpt-orig.png",
-      "summary": "OpenAI lancia Ultrafast, un livello di servizio che fa girare GPT-5.6 Sol fino a 14 volte più veloce grazie a Cerebras. Ecco come funziona e chi può accedervi. L'articolo OpenAI Ultrafast: GPT-5 Sol fino a 14 volte pi...",
-      "date": "2026-08-14T09:58:00.0000000Z"
-    },
-    {
-      "id": "androidworld:4b16ab8d22ca",
-      "sourceId": "androidworld",
-      "source": "AndroidWorld",
-      "platform": "rss",
-      "category": "android",
-      "title": "Gemini 3.7 Flash è ufficiale: costa la metà e migliora coding, agenti AI e sviluppo web",
-      "url": "https://www.smartworld.it/news/gemini-37-flash-prezzo-dimezzato-migliori-performance.html",
-      "image": "https://www.smartworld.it/images/2026/08/14/gemini-flash-3.7-orig.png",
-      "summary": "Google lancia Gemini 3.7 Flash: più intelligente del 3.6, costa la metà e migliora coding, agenti AI e sviluppo web. Ecco cosa cambia davvero. L'articolo Gemini 3.7 Flash è ufficiale: costa la metà e migliora coding, ...",
-      "date": "2026-08-14T09:52:00.0000000Z"
-    },
-    {
-      "id": "androidworld:e9f489f5965d",
-      "sourceId": "androidworld",
-      "source": "AndroidWorld",
-      "platform": "rss",
-      "category": "android",
-      "title": "Fairphone 6+: prezzo, uscita e cosa cambia davvero rispetto al modello base",
-      "url": "https://www.smartworld.it/news/fairphone-6-plus-prezzo-data-uscita-specifiche.html",
-      "image": "https://www.smartworld.it/images/2026/08/14/fairphone-6--orig.jpg",
-      "summary": "Fairphone 6+ in arrivo il 18 agosto: prezzo attorno ai 649-685€, 12 GB di RAM, Snapdragon 7s Gen 4 e una nuova colorazione Cobalt Blue. L'articolo Fairphone 6+: prezzo, uscita e cosa cambia davvero rispetto al modello...",
-      "date": "2026-08-14T09:38:00.0000000Z"
-    },
-    {
-      "id": "androidworld:dd676dd34525",
-      "sourceId": "androidworld",
-      "source": "AndroidWorld",
-      "platform": "rss",
-      "category": "android",
-      "title": "Instagram cambia font e in tanti leggono Instagzam: il redesign che non convince",
-      "url": "https://www.smartworld.it/news/instagram-cambia-wordmark-nuovo-font-divide-utenti.html",
-      "image": "https://www.smartworld.it/images/2026/08/14/instagram-nuovo-logo.jpg-orig.jpg",
-      "summary": "Instagram cambia il logo per la prima volta in 10 anni: addio al corsivo iconico, arriva un ibrido tra stampatello e corsivo che divide gli utenti. L'articolo Instagram cambia font e in tanti leggono Instagzam: il red...",
-      "date": "2026-08-14T09:16:00.0000000Z"
     }
   ]
 }
