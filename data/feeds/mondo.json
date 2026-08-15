@@ -1,7 +1,19 @@
 {
   "category": "mondo",
-  "updated": "2026-08-15T14:46:29.5890326Z",
+  "updated": "2026-08-15T15:41:11.0099192Z",
   "items": [
+    {
+      "id": "ansa-mondo:3bde8d8e8eae",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "De la Espriella ringrazia Netanyahu per gli aiuti alla Colombia dopo il terremoto",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/de-la-espriella-ringrazia-netanyahu-per-gli-aiuti-alla-colombia-dopo-il-terremoto_b52ff664-0a14-40d6-b1c3-6a41ac822aae.html",
+      "image": null,
+      "summary": "'Questo è un nuovo tempo per le relazioni tra Colombia e Israele'",
+      "date": "2026-08-15T15:30:59.0000000Z"
+    },
     {
       "id": "ansa-mondo:1ecbd6c0ba16",
       "sourceId": "ansa-mondo",
@@ -147,18 +159,6 @@
       "date": "2026-08-14T22:55:32.0000000Z"
     },
     {
-      "id": "ansa-mondo:e6394629c818",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Brasile, Lula resta avanti su Flávio Bolsonaro nei sondaggi ma il vantaggio si riduce",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/15/brasile-lula-resta-avanti-su-flavio-bolsonaro-nei-sondaggi-ma-il-vantaggio-si-riduce_6b4f10ab-fb41-42aa-8150-84952d0db968.html",
-      "image": null,
-      "summary": "Il presidente al 43% contro il 40% del rivale a eventuale ballottaggio",
-      "date": "2026-08-14T22:19:05.0000000Z"
-    },
-    {
       "id": "internazionale:9bfc453de348",
       "sourceId": "internazionale",
       "source": "Internazionale",
@@ -217,18 +217,6 @@
       "image": "https://media.internazionale.it/images/2026/08/12/356134-hd.jpg",
       "summary": "Mentre tagli i fondi alle agenzie umanitarie, il presidente degli Stati Uniti usa i soldi dei contribuenti per sostenere i centri studi europei che vogliono diffondere il trumpismo a livello globale Leggi",
       "date": "2026-08-14T03:25:03.0000000Z"
-    },
-    {
-      "id": "internazionale:fa58b55a1021",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Cosa emerge dalle primarie negli Stati Uniti",
-      "url": "https://www.internazionale.it/notizie/2026/08/13/primarie-stati-uniti-11-agosto-risultati",
-      "image": "https://media.internazionale.it/images/2026/08/13/356189-hd.jpg",
-      "summary": "Tra i democratici continua la crescita dei candidati progressisti, con qualche eccezione. Mentre il sostegno di Donald Trump è ancora importante per i candidati repubblicani Leggi",
-      "date": "2026-08-13T14:39:49.0000000Z"
     }
   ]
 }

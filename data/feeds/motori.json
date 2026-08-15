@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-15T14:46:29.5562641Z",
+  "updated": "2026-08-15T15:41:11.0210474Z",
   "items": [
+    {
+      "id": "hdmotori:94f417e5c279",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Oltre 2000 robotaxi arriveranno in Europa grazie a Uber e Pony AI",
+      "url": "https://www.hdmotori.it/oltre-2000-robotaxi-europa-uber-pony-ai/",
+      "image": null,
+      "summary": "La partnership punta a lanciare servizi di robotaxi con guida autonoma di Livello 4 a partire da Zagabria, grazie alla piattaforma globale di Uber e alla tecnologia di Pony AI. The post Oltre 2000 robotaxi arriveranno...",
+      "date": "2026-08-15T15:30:16.0000000Z"
+    },
+    {
+      "id": "insideevs:1ad380952855",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché in Cina nascono continuamente nuovi marchi automobilistici",
+      "url": "https://insideevs.it/news/804927/case-automobilistiche-cinesi-nuovi-brand/",
+      "image": "https://cdn.motor1.com/images/mgl/L3yZ7m/s3/chery-fulwin-t7.jpg",
+      "summary": "Chery, BYD, NIO, Changan, Great Wall: ogni gruppo da vita a una miriade di brand diversi. Invece da noi le Case sono legate ai nomi storici",
+      "date": "2026-08-15T15:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:c978e2be2644",
       "sourceId": "vaielettrico",
@@ -399,18 +423,6 @@
       "date": "2026-08-14T12:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:8c892e1ce5e3",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nuovo Codice della Strada, senza PEC niente revisione né targa",
-      "url": "https://www.hdmotori.it/nuovo-codice-della-strada-senza-pec-niente-revisione-targa/",
-      "image": null,
-      "summary": "Il nuovo Codice della strada propone il domicilio digitale obbligatorio per i proprietari di veicoli. Senza PEC potrebbero bloccarsi revisione e passaggio The post Nuovo Codice della Strada, senza PEC niente revisione...",
-      "date": "2026-08-14T11:00:15.0000000Z"
-    },
-    {
       "id": "insideevs:2b9ba0bf91ef",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/eo7pVM/s3/car-sharing.jpg",
       "summary": "Milano pubblica il nuovo bando per il car sharing free floating: più auto elettriche, periferie coperte e servizio attivo fino al 2030",
       "date": "2026-08-13T13:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:4285b1e505af",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Una Tesla con 125.000 km e un passato oscuro: come sta la batteria?",
-      "url": "https://insideevs.it/news/804795/tesla-batteria-125000-km/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak36GP/s3/model-3-degradation.jpg",
-      "summary": "Le sue abitudini di ricarica passate sono un mistero. Un test della batteria ha dato un buon risultato, anche se non eccezionale",
-      "date": "2026-08-13T12:00:00.0000000Z"
     },
     {
       "id": "motor1:bafff73eec4e",

@@ -1,7 +1,55 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-15T14:46:29.5535415Z",
+  "updated": "2026-08-15T15:41:10.9801879Z",
   "items": [
+    {
+      "id": "hdblog:7e2359415d09",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "SpaceX compra Cursor, startup di programmazione AI per 60 miliardi di dollari",
+      "url": "https://www.hdblog.it/business/articoli/n667347/spacex-acquisisce-cursor-60-miliardi-ai-coding/",
+      "image": null,
+      "summary": "Ora è ufficiale.",
+      "date": "2026-08-15T15:35:00.0000000Z"
+    },
+    {
+      "id": "hdblog:94f417e5c279",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Oltre 2000 robotaxi arriveranno in Europa grazie a Uber e Pony AI",
+      "url": "https://www.hdmotori.it/oltre-2000-robotaxi-europa-uber-pony-ai/",
+      "image": null,
+      "summary": "La partnership punta a lanciare servizi di robotaxi con guida autonoma di Livello 4 a partire da Zagabria, grazie alla piattaforma globale di Uber e alla tecnologia di Pony AI.",
+      "date": "2026-08-15T15:30:16.0000000Z"
+    },
+    {
+      "id": "hdblog:ca1117d4819f",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Su Gemini il watermark che contrassegna le creazioni AI ora diventa opzionale",
+      "url": "https://www.hdblog.it/google/articoli/n667346/gemini-watermark-invisibili-come-rimuovere-ai/",
+      "image": null,
+      "summary": "Ecco cosa cambia e come fare.",
+      "date": "2026-08-15T15:15:00.0000000Z"
+    },
+    {
+      "id": "hdblog:ddb395ce66b8",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Cina, il maglev raggiunge 800 km/h in appena 5,3 secondi",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n667274/cina-maglev-record-800-kmh/",
+      "image": null,
+      "summary": "Un veicolo maglev da 1,1 tonnellate ha raggiunto 800 km/h su una pista di appena 1 km.",
+      "date": "2026-08-15T14:55:00.0000000Z"
+    },
     {
       "id": "hdblog:a95acda38240",
       "sourceId": "hdblog",
@@ -147,30 +195,6 @@
       "date": "2026-08-15T11:25:00.0000000Z"
     },
     {
-      "id": "hdblog:24813863fc30",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Opel Corsa Hybrid a 99 euro al mese: la promozione",
-      "url": "https://www.hdmotori.it/opel-corsa-hybrid-a-99-euro-al-mese-la-promozione/",
-      "image": null,
-      "summary": "Opel Corsa Hybrid in offerta fino al 31 agosto: prezzo da 16.550 euro, 33 rate da 99 euro e prima rata a novembre 2026",
-      "date": "2026-08-15T11:00:41.0000000Z"
-    },
-    {
-      "id": "hdblog:55f674164460",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Huawei, il prossimo smartphone ha un design a passaporto ma non è pieghevole",
-      "url": "https://www.hdblog.it/smartphone/articoli/n667326/huawei-pura-x-passaporto-design-lancio-settembre/",
-      "image": null,
-      "summary": "Una sorta di Pura X Max che non si apre.",
-      "date": "2026-08-15T10:55:00.0000000Z"
-    },
-    {
       "id": "dday:fe51c5baf56c",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -195,30 +219,6 @@
       "date": "2026-08-15T10:33:01.0000000Z"
     },
     {
-      "id": "hdblog:16d168074d3c",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Android 17 QPR2 ti lascia scegliere il colore che vuoi per l'interfaccia",
-      "url": "https://www.hdblog.it/smartphone/articoli/n667329/android-17-qpr2-pixel-colori-dinamici-come-novita/",
-      "image": null,
-      "summary": "Questione di sfumature: ecco come Google potenzia i colori dinamici.",
-      "date": "2026-08-15T10:25:00.0000000Z"
-    },
-    {
-      "id": "hdblog:c7d1cd3631eb",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Microsoft Word 1.1a del 1990 torna a funzionare su Windows 11",
-      "url": "https://www.hdblog.it/microsoft/articoli/n667158/microsoft-word-11a-su-windows-11/",
-      "image": null,
-      "summary": "Il codice è stato adattato ai sistemi a 64 bit.",
-      "date": "2026-08-15T09:55:00.0000000Z"
-    },
-    {
       "id": "tomshw:432fff182bdf",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -229,18 +229,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/107709/tomshw-offer-800612.png",
       "summary": "Apple iPhone 17 Pro Max 512GB costa 1.579€ su Amazon anziché 1.739€, con uno sconto del 9% e 160€ che restano in tasca. È anche il minimo storico della configurazione Arancione cosmico, con molto spaz...",
       "date": "2026-08-15T09:06:20.0000000Z"
-    },
-    {
-      "id": "tomshw:f808fd51cd1d",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Il monitor ASUS ROG Strix da 31,5″ a 343,20€ regge gli FPS a 280 Hz",
-      "url": "https://www.tomshw.it/offerte/il-monitor-asus-rog-strix-da-315-a-34320eur-regge-gli-fps-a-280-hz",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107708/tomshw-offer-800572.png",
-      "summary": "ASUS ROG Strix XG32WCMS costa 343,20€ su Amazon, con uno sconto del 25% sui 459€ di listino. Il pannello curvo QHD da 31,5 pollici lavora a 280 Hz, una combinazione pensata per dare più spazio visivo...",
-      "date": "2026-08-15T08:34:08.0000000Z"
     },
     {
       "id": "dday:37d921c4d9e5",
@@ -435,6 +423,18 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/107080/SEAF-16x9-1920x1080-1-ae034fec9bc74edb18c6.jpg",
       "summary": "Le truppe della Super Terra possono ora combattere direttamente al fianco dei giocatori in Helldivers 2. Arrowhead Game Studios ha pubblicato il 12 agosto Devoid of Liberty 7.0.0, aggiornamento global...",
       "date": "2026-08-12T12:35:40.0000000Z"
+    },
+    {
+      "id": "tomshw:68436746170f",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Xodus: il Game Pass su Linux avanza, ma mancano ancora i giochi",
+      "url": "https://www.tomshw.it/videogioco/xodus-xbox-pc-game-pass-su-linux-download-si-avvio-no",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106797/news-flash-736319.png",
+      "summary": "Xodus riesce già ad autenticare un account Xbox, scaricare i pacchetti dei giochi per PC e acquisire le relative licenze. Il progetto open source ha quindi ricostruito una parte rilevante dell'infrast...",
+      "date": "2026-08-11T15:35:52.0000000Z"
     },
     {
       "id": "tomshw:56d4eb9ec88e",
