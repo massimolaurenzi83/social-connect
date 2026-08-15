@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-15T17:47:41.6904446Z",
+  "updated": "2026-08-15T19:00:44.2628302Z",
   "items": [
+    {
+      "id": "ansa-cronaca:6f0dc341ae99",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Cadavere trovato in strada allo Zen, la vittima colpita con un giravite",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/cadavere-trovato-in-strada-allo-zen-la-vittima-colpita-con-un-giravite_90651e74-2833-40c5-b899-1b0cb0f7311e.html",
+      "image": null,
+      "summary": "Un uomo ferito alla spalla e con una costola rotta si è presentato al pronto soccorso",
+      "date": "2026-08-15T18:30:10.0000000Z"
+    },
     {
       "id": "ansa-cronaca:5eba8b31565a",
       "sourceId": "ansa-cronaca",
@@ -12,7 +24,43 @@
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/tredici-bolognesi-bloccati-nellisola-di-flores-le-scosse-continuano_61f11190-139a-468f-b180-68a40bbfd96f.html",
       "image": null,
       "summary": "'Siamo tutti in allerta, stanotte la passeremo a controllare i siti'",
-      "date": "2026-08-15T17:08:19.0000000Z"
+      "date": "2026-08-15T18:23:38.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:423fbc0c3bf7",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Intossicati 50 giovani scout durante un campo in Friuli",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/intossicati-cinquanta-scout-minorenni-durante-un-campo-in-friuli_ed5038ee-62c7-46a1-a107-070762d5fd5d.html",
+      "image": null,
+      "summary": "Inviati soccorritori, numerosi mezzi sul posto",
+      "date": "2026-08-15T18:20:00.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:5bc3c874469d",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Palio di Siena, contrada dell'Oca vince la prova generale",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/palio-di-siena-contrada-delloca-vince-la-prova-generale_2f72cc6e-59a9-47e6-9c39-069fc8ec680f.html",
+      "image": null,
+      "summary": "Spago e il cavallo Diamante Sauro hanno preso il comando al terzo giro e l'hanno mantenuto",
+      "date": "2026-08-15T18:08:23.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:43cf026feb29",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Incendio a Como, sfollati rientrano nelle loro abitazioni",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/incendio-a-como-sfollati-rientrano-nelle-loro-abitazioni_2c1095d8-5a55-4b56-9745-76cc61336aed.html",
+      "image": null,
+      "summary": "I Vigili del fuoco rimangono per controllare eventuali focolai",
+      "date": "2026-08-15T17:57:58.0000000Z"
     },
     {
       "id": "ansa-cronaca:2f8803c6359e",
@@ -37,18 +85,6 @@
       "image": null,
       "summary": "I principali avvenimenti previsti per la giornata",
       "date": "2026-08-15T16:35:41.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:423fbc0c3bf7",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Intossicati cinquanta scout minorenni durante un campo in Friuli",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/intossicati-cinquanta-scout-minorenni-durante-un-campo-in-friuli_ed5038ee-62c7-46a1-a107-070762d5fd5d.html",
-      "image": null,
-      "summary": "Inviati soccorritori, numerosi mezzi sul posto",
-      "date": "2026-08-15T15:38:26.0000000Z"
     },
     {
       "id": "ansa-cronaca:9fd053189a2c",
@@ -99,18 +135,6 @@
       "date": "2026-08-15T13:49:26.0000000Z"
     },
     {
-      "id": "ansa-cronaca:d8a56701ec47",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Giovane ucciso a Trani, convalidato il fermo del 17enne",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/giovane-ucciso-a-trani-convalidato-il-fermo-del-17enne_545e8d3c-f245-4dbb-948a-ec3da2601de6.html",
-      "image": null,
-      "summary": "E' accusato di omicidio volontario, aggravato da premeditazione e futili motivi",
-      "date": "2026-08-15T13:39:52.0000000Z"
-    },
-    {
       "id": "ansa-cronaca:30f820e2c7c4",
       "sourceId": "ansa-cronaca",
       "source": "ANSA Cronaca",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Dopo essere spente, le fiamme si riaccendono per la forte siccità",
       "date": "2026-08-15T13:17:38.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:4e0ef4caf2fa",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Violenta una 17enne nel Materano, arrestato un 18enne",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/violenta-una-17enne-nel-materano-arrestato-un-18enne_6f61f265-6a53-466d-aad8-8e388d31a8bf.html",
-      "image": null,
-      "summary": "L'episodio vicino al lungomare di Metaponto. Il giovane rintracciato dai Carabinieri",
-      "date": "2026-08-15T13:16:18.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:a5c503890204",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Trattore si ribalta e lo schiaccia, 85enne morto nel Savonese",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/trattore-si-ribalta-e-lo-schiaccia-85enne-morto-nel-savonese_d7d8a6b9-fa52-43ec-853d-4a51a3c31ce8.html",
-      "image": null,
-      "summary": "Immediati ma inutili i soccorsi",
-      "date": "2026-08-15T12:35:47.0000000Z"
     }
   ]
 }
