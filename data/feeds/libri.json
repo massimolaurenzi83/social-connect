@@ -1,7 +1,19 @@
 {
   "category": "libri",
-  "updated": "2026-08-15T08:01:55.7608858Z",
+  "updated": "2026-08-15T09:04:15.3639309Z",
   "items": [
+    {
+      "id": "illibraio:c9149a195e37",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "In libreria un viaggio tra le curiosità e i segreti della cucina globale",
+      "url": "https://www.illibraio.it/news/saggistica/la-tavola-del-mondo-1502230/",
+      "image": null,
+      "summary": "Nel saggio “La tavola del mondo”, di cui proponiamo un estratto, gli storici Pierre Singaravélou e Sylvain Venayre conducono in un percorso alla scoperta di pietanze e bevande, raccontandocene la storia e la loro diff...",
+      "date": "2026-08-15T00:57:32.0000000Z"
+    },
     {
       "id": "illibraio:c5d798299792",
       "sourceId": "illibraio",
@@ -97,18 +109,6 @@
       "image": null,
       "summary": "Ripercorriamo la vita e i temi delle opere di Bertolt Brecht (10 febbraio 1898 - 14 agosto 1956), il drammaturgo tedesco che ha trasformato il palcoscenico in uno strumento di riflessione politica e sociale. Da \"L'ope...",
       "date": "2026-08-09T01:42:16.0000000Z"
-    },
-    {
-      "id": "illibraio:a4395c1cb518",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Libri che parlano di “cose” (e che raccolgono infinite vite)",
-      "url": "https://www.illibraio.it/news/narrativa/libri-che-parlano-di-cose-1501840/",
-      "image": null,
-      "summary": "\"Il significato di 'cosa' è più ampio di quello di 'oggetto'. Le cose rappresentano nodi di relazioni con la vita degli altri, anelli di continuità tra le generazioni, ponti che collegano storie individuali e colletti...",
-      "date": "2026-08-08T00:09:43.0000000Z"
     }
   ]
 }
