@@ -1,7 +1,19 @@
 {
   "category": "roma",
-  "updated": "2026-08-15T07:21:18.6135985Z",
+  "updated": "2026-08-15T08:01:55.7676261Z",
   "items": [
+    {
+      "id": "romatoday:de8d6634d83e",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Roma, è morta Carla Tatò. Addio alla storica attrice di teatro",
+      "url": "https://www.romatoday.it/cronaca/morta-carla-tato.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/50607231090640/carla-tato.jpg",
+      "summary": "A settembre è previsto a Roma un appuntamento pubblico dedicato alla sua memoria",
+      "date": "2026-08-15T07:51:01.0000000Z"
+    },
     {
       "id": "romatoday:e18d6ccb36d9",
       "sourceId": "romatoday",
@@ -133,18 +145,6 @@
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/22577964070377/piano-cento-citta-ago-2026-1.jpg",
       "summary": "I dati della municipalizzata nella prima metà del 2026",
       "date": "2026-08-14T19:00:00.0000000Z"
-    },
-    {
-      "id": "romatoday:a45a91f9f437",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Il municipio delle Torri cerca fondi per nuovi arredi urbani nei parchi",
-      "url": "https://www.romatoday.it/zone/torri/arredi-urbani-parchi-pubblici-municipio-torri.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/53301962684090/parco-via-capo-sottile-6-2.jpg",
-      "summary": "Secondo il consiglio, il problema si trascina da quando il processo di decentramento amministrativo ha trasferito ai municipi la competenza e la gestione dei parchi con superficie inferiore ai ventimila metri quadrati",
-      "date": "2026-08-14T18:13:00.0000000Z"
     },
     {
       "id": "roma-repubblica:cfc7e14763b5",
