@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-15T16:59:16.4514723Z",
+  "updated": "2026-08-15T17:47:41.6904446Z",
   "items": [
+    {
+      "id": "ansa-cronaca:5eba8b31565a",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Terremoto in Indonesia, tredici bolognesi bloccati nell'isola di Flores: 'Le scosse continuano'",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/tredici-bolognesi-bloccati-nellisola-di-flores-le-scosse-continuano_61f11190-139a-468f-b180-68a40bbfd96f.html",
+      "image": null,
+      "summary": "'Siamo tutti in allerta, stanotte la passeremo a controllare i siti'",
+      "date": "2026-08-15T17:08:19.0000000Z"
+    },
     {
       "id": "ansa-cronaca:2f8803c6359e",
       "sourceId": "ansa-cronaca",
@@ -49,18 +61,6 @@
       "image": null,
       "summary": "Quattrone, compagnie aeree devono riproteggere o sostenere e supportare i passeggeri",
       "date": "2026-08-15T15:37:16.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:5eba8b31565a",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Terremoto in Indonesia, tredici bolognesi bloccati nell'isola di Flores: 'Le scosse continuano'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/tredici-bolognesi-bloccati-nellisola-di-flores-le-scosse-continuano_61f11190-139a-468f-b180-68a40bbfd96f.html",
-      "image": null,
-      "summary": "'Siamo tutti in allerta, stanotte la passeremo a controllare i siti'",
-      "date": "2026-08-15T15:35:32.0000000Z"
     },
     {
       "id": "ansa-cronaca:6c8a2e5d482f",
