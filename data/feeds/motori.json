@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-15T10:52:33.3578817Z",
+  "updated": "2026-08-15T11:41:07.0565828Z",
   "items": [
+    {
+      "id": "hdmotori:24813863fc30",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Opel Corsa Hybrid a 99 euro al mese: la promozione",
+      "url": "https://www.hdmotori.it/opel-corsa-hybrid-a-99-euro-al-mese-la-promozione/",
+      "image": null,
+      "summary": "Opel Corsa Hybrid in offerta fino al 31 agosto: prezzo da 16.550 euro, 33 rate da 99 euro e prima rata a novembre 2026 The post Opel Corsa Hybrid a 99 euro al mese: la promozione appeared first on HDmotori.it .",
+      "date": "2026-08-15T11:00:41.0000000Z"
+    },
+    {
+      "id": "motor1:50800b4e19e7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Si dorme comodi e si può andare anche in fuoristrada",
+      "url": "https://it.motor1.com/news/804965/burnster-habiton-6-1-camper-mercedes/",
+      "image": "https://cdn.motor1.com/images/mgl/E6NMW3/s3/burstner-habiton-6.1-2026.jpg",
+      "summary": "Letto trasversale e, su richiesta, la trazione integrale per il nuovo Bürstner Habiton 6.1",
+      "date": "2026-08-15T11:00:00.0000000Z"
+    },
     {
       "id": "motor1:e42b25c061a4",
       "sourceId": "motor1",
@@ -39,18 +63,6 @@
       "date": "2026-08-15T05:00:48.0000000Z"
     },
     {
-      "id": "insideevs:8155a4beb5a2",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Diario di viaggio con la BMW iX3: 800 km e addio ansia da autonomia",
-      "url": "https://insideevs.it/news/804837/bmw-ix3-viaggio-800-km/",
-      "image": "https://cdn.motor1.com/images/mgl/pbJpMP/s3/bmw-ix3-romania-road-trip.jpg",
-      "summary": "Un mix di autostrade, strade di campagna e veloci percorsi di montagna mostra quanto siano semplici i lunghi viaggi col SUV elettrico",
-      "date": "2026-08-15T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:7cf3339a4311",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -60,6 +72,18 @@
       "url": "https://it.motor1.com/news/803361/abarth-1300-colani-storia-curiosita/",
       "image": "https://cdn.motor1.com/images/mgl/YAzypj/s3/abarth-1300-colani-1959.jpg",
       "summary": "Basata sulla Giulietta Spider, ecco la storia 1300 Berlinetta del 1959. Innovativa nell'aerodinamica, pesa solo 780 kg",
+      "date": "2026-08-15T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:8155a4beb5a2",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Diario di viaggio con la BMW iX3: 800 km e addio ansia da autonomia",
+      "url": "https://insideevs.it/news/804837/bmw-ix3-viaggio-800-km/",
+      "image": "https://cdn.motor1.com/images/mgl/pbJpMP/s3/bmw-ix3-romania-road-trip.jpg",
+      "summary": "Un mix di autostrade, strade di campagna e veloci percorsi di montagna mostra quanto siano semplici i lunghi viaggi col SUV elettrico",
       "date": "2026-08-15T05:00:00.0000000Z"
     },
     {
@@ -339,18 +363,6 @@
       "date": "2026-08-14T12:00:28.0000000Z"
     },
     {
-      "id": "motor1:9afcfab0e4e6",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Se le Bugatti Mistral e Chiron non vi bastano ci pensa Mansory",
-      "url": "https://it.motor1.com/news/804944/mansory-pebble-beach-bugatti-oneoff/",
-      "image": "https://cdn.motor1.com/images/mgl/9m8oN1/s3/due-bugatti-uniche-mansory-shock-a-pebble-beach-2026.jpg",
-      "summary": "Debutto al Pebble Beach Concours d'Elegance per MANSORY, che espone le one-off Vincerò su Bugatti Mistral e Vivere nel cuore della Monterey Car Week",
-      "date": "2026-08-14T12:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:fd01a65679dd",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -360,6 +372,18 @@
       "url": "https://insideevs.it/news/804933/ricarica-ev-pubblica-usa-migliorano/",
       "image": "https://cdn.motor1.com/images/mgl/VzWknl/s3/colonnine-di-ricarica-pubblica-negli-usa.jpg",
       "summary": "Nel report JD Power 2026 la ricarica rapida DC negli Stati Uniti migliora per affidabilità, sicurezza, costi e pagamento",
+      "date": "2026-08-14T12:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:9afcfab0e4e6",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Se le Bugatti Mistral e Chiron non vi bastano ci pensa Mansory",
+      "url": "https://it.motor1.com/news/804944/mansory-pebble-beach-bugatti-oneoff/",
+      "image": "https://cdn.motor1.com/images/mgl/9m8oN1/s3/due-bugatti-uniche-mansory-shock-a-pebble-beach-2026.jpg",
+      "summary": "Debutto al Pebble Beach Concours d'Elegance per MANSORY, che espone le one-off Vincerò su Bugatti Mistral e Vivere nel cuore della Monterey Car Week",
       "date": "2026-08-14T12:00:00.0000000Z"
     },
     {
@@ -373,30 +397,6 @@
       "image": null,
       "summary": "Il nuovo Codice della strada propone il domicilio digitale obbligatorio per i proprietari di veicoli. Senza PEC potrebbero bloccarsi revisione e passaggio The post Nuovo Codice della Strada, senza PEC niente revisione...",
       "date": "2026-08-14T11:00:15.0000000Z"
-    },
-    {
-      "id": "motor1:f74b250fb711",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché stanno tornando nomi storici per le nuove auto?",
-      "url": "https://it.motor1.com/news/804835/ritorno-nomi-storici-auto-mercato/",
-      "image": "https://cdn.motor1.com/images/mgl/6Z8ybE/s3/smart-2-citroen-2cv-audi-a2-e-tron.jpg",
-      "summary": "Dopo 500 e Renault 5, sono tanti altri i \"revival\" in arrivo, dall'Audi A2 e-tron fino alla 2CV",
-      "date": "2026-08-14T11:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:128b038b6c12",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Hai compiuto 70 anni? Addio patente! La proposta scioccante in UK",
-      "url": "https://www.hdmotori.it/addio-patente-70-anni-proposta-uk/",
-      "image": null,
-      "summary": "Nel Regno Unito, il nuovo governo di Andy Burnham, sta considerando la possibilità di revocare le patenti di guida ai conducenti di età superiore ai 70 anni The post Hai compiuto 70 anni? Addio patente! La proposta sc...",
-      "date": "2026-08-14T10:00:46.0000000Z"
     },
     {
       "id": "insideevs:2b9ba0bf91ef",
