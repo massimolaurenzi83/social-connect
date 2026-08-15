@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-15T21:41:21.9576926Z",
+  "updated": "2026-08-15T22:02:02.5329638Z",
   "items": [
+    {
+      "id": "ansa-cronaca:1dff386d329d",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Incendio nel Frusinate, vicino al santuario della Madonna della Guardia",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/incendio-nel-frusinate-vicino-al-santuario-della-madonna-della-guardia_99f165ee-6fc3-43b5-824c-7728b8bf5274.html",
+      "image": null,
+      "summary": "Il luogo frequentato per le messe domenicali. Chiusa la strada con San Giovanni Incarico",
+      "date": "2026-08-15T21:54:31.0000000Z"
+    },
     {
       "id": "ansa-cronaca:423fbc0c3bf7",
       "sourceId": "ansa-cronaca",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "La Sifas, la sospensione per ragioni di sicurezza",
       "date": "2026-08-15T14:36:03.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:e9caa6006e5b",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Estrema criticità per gli incendi in Carnia, informato Piantedosi",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/estrema-criticita-per-gli-incendi-in-carnia-informato-piantedosi_f62b6168-4e4a-4edc-808f-1c10d6e4dffd.html",
-      "image": null,
-      "summary": "Collegamento anche con Ciciliano. In cielo operano 4 velivoli",
-      "date": "2026-08-15T13:49:26.0000000Z"
     }
   ]
 }
