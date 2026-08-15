@@ -1,7 +1,19 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-15T11:41:07.0393189Z",
+  "updated": "2026-08-15T12:02:37.2325732Z",
   "items": [
+    {
+      "id": "hdblog:e51302a3a7cd",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "SpaceX studia i sistemi vitali per una presenza stabile sulla Luna",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n667187/spacex-base-lunare-riciclo-acqua/",
+      "image": null,
+      "summary": "SpaceX guarda oltre Starship e lavora sui sistemi necessari per vivere stabilmente sulla Luna",
+      "date": "2026-08-15T11:55:00.0000000Z"
+    },
     {
       "id": "hdblog:72831fa54e17",
       "sourceId": "hdblog",
@@ -181,18 +193,6 @@
       "image": null,
       "summary": "L'indizio arriva direttamente da Samsung.",
       "date": "2026-08-15T07:55:00.0000000Z"
-    },
-    {
-      "id": "hdblog:4307c06cdc02",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "PowerToys porta lAI dei Copilot+ PC direttamente sul desktop",
-      "url": "https://www.hdblog.it/windows/articoli/n667183/powertoys-ai-phi-silica-windows-11/",
-      "image": null,
-      "summary": "PowerToys integra Phi Silica per elaborare testi con lAI direttamente sul PC",
-      "date": "2026-08-15T07:25:00.0000000Z"
     },
     {
       "id": "tomshw:1c33c7213193",
@@ -425,6 +425,18 @@
       "date": "2026-08-11T16:12:14.0000000Z"
     },
     {
+      "id": "tomshw:56d4eb9ec88e",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Apollo divide l'AI: hardware in utile, software in perdita",
+      "url": "https://www.tomshw.it/business/apollo-hardware-ai-al-41-di-margine-modelli-e-app-al-59",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106830/2441875.jpg",
+      "summary": "Per ogni 41% di margine medio generato dai produttori di semiconduttori e attrezzature, il livello dell’intelligenza artificiale più vicino agli utenti registra un margine operativo medio del -59%. È...",
+      "date": "2026-08-11T13:56:26.0000000Z"
+    },
+    {
       "id": "tomshw:d5d8fa193c66",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -447,18 +459,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/106706/news-flash-735731.png",
       "summary": "I testi prodotti dai modelli supportati di Claude contengono un watermark statistico impercettibile, incorporato direttamente durante la generazione. Anthropic afferma che il segnale non altera signif...",
       "date": "2026-08-11T08:45:34.0000000Z"
-    },
-    {
-      "id": "tomshw:fb670ae198ff",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Se l'IA fa i compiti junior, chi formerà i futuri esperti?",
-      "url": "https://www.tomshw.it/hardware/ia-automatizzare-i-compiti-junior-potrebbe-lasciare-senza-esperti-chi-dovra-controllarla",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106528/news-flash-701880.png",
-      "summary": "Affidare all’intelligenza artificiale i compiti tradizionalmente svolti dai professionisti junior potrebbe eliminare una parte essenziale del percorso con cui si formano gli esperti. È il rischio desc...",
-      "date": "2026-08-10T12:50:29.0000000Z"
     },
     {
       "id": "techprincess:JU3sxCDrLSU",
