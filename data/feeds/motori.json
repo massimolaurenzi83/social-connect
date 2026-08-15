@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-08-15T04:52:19.9791067Z",
+  "updated": "2026-08-15T05:56:32.2321849Z",
   "items": [
+    {
+      "id": "vaielettrico:6409658e92ff",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen ID.Buzz diventa un camper in pochi minuti",
+      "url": "https://www.vaielettrico.it/volkswagen-id-buzz-diventa-un-camper-in-pochi-minuti/",
+      "image": null,
+      "summary": "Volkswagen si prepara a presentare il suo primo camper completamente elettrico basato sul minivan ID.Buzz. Il nuovo modello… L'articolo Volkswagen ID.Buzz diventa un camper in pochi minuti proviene da Vaielettrico .",
+      "date": "2026-08-15T05:00:48.0000000Z"
+    },
+    {
+      "id": "insideevs:8155a4beb5a2",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Diario di viaggio con la BMW iX3: 800 km e addio ansia da autonomia",
+      "url": "https://insideevs.it/news/804837/bmw-ix3-viaggio-800-km/",
+      "image": "https://cdn.motor1.com/images/mgl/pbJpMP/s3/bmw-ix3-romania-road-trip.jpg",
+      "summary": "Un mix di autostrade, strade di campagna e veloci percorsi di montagna mostra quanto siano semplici i lunghi viaggi col SUV elettrico",
+      "date": "2026-08-15T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:7cf3339a4311",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La sportiva Abarth-Alfa Romeo super aerodinamica",
+      "url": "https://it.motor1.com/news/803361/abarth-1300-colani-storia-curiosita/",
+      "image": "https://cdn.motor1.com/images/mgl/YAzypj/s3/abarth-1300-colani-1959.jpg",
+      "summary": "Basata sulla Giulietta Spider, ecco la storia 1300 Berlinetta del 1959. Innovativa nell'aerodinamica, pesa solo 780 kg",
+      "date": "2026-08-15T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:24673ba577fb",
       "sourceId": "vaielettrico",
@@ -13,6 +49,18 @@
       "image": null,
       "summary": "In Ungheria l’ondata di caldo e la siccità stanno mettendo sotto pressione la rete elettrica nazionale, spingendo diversi… L'articolo Rete in crisi in Ungheria: tagli alla ricarica nelle ore di picco proviene da Vaiel...",
       "date": "2026-08-15T04:49:06.0000000Z"
+    },
+    {
+      "id": "vaielettrico:631e053231cb",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La risposta di Ford a Slate: il nuovo pick-up elettrico Fanthom in vendita dal 2027",
+      "url": "https://www.vaielettrico.it/la-risposta-di-ford-a-slate-il-nuovo-pick-up-elettrico-fanthom-in-vendita-dal-2027/",
+      "image": null,
+      "summary": "Ford prepara il debutto del Fathom, nuovo pick-up elettrico di medie dimensioni che entrerà in produzione nel primo… L'articolo La risposta di Ford a Slate: il nuovo pick-up elettrico Fanthom in vendita dal 2027 provi...",
+      "date": "2026-08-15T00:15:07.0000000Z"
     },
     {
       "id": "motor1:8cac0a6512ce",
@@ -123,18 +171,6 @@
       "date": "2026-08-14T15:00:12.0000000Z"
     },
     {
-      "id": "motor1:57dc908b0870",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Ford Mustant Dark Horse SC perde il tetto, non i cavalli",
-      "url": "https://it.motor1.com/news/804983/ford-mustang-dark-horse-sc-convertible-informazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/JON4qQ/s3/ford-mustang-dark-horse-sc-convertible.jpg",
-      "summary": "La Ford Mustang Dark Horse SC Convertible abbina il motore da 5,2 litri da 795 cavalli a una capote in tela",
-      "date": "2026-08-14T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:8b1eab65260a",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -144,6 +180,18 @@
       "url": "https://insideevs.it/features/804981/tesla-model-s-usate-controlli/",
       "image": "https://cdn.motor1.com/images/mgl/7ZEJPV/s3/model-s-degradation.jpg",
       "summary": "Molte Model S con elevato chilometraggio conservano gran parte della capacità originale della batteria e sono molto economiche, ma...",
+      "date": "2026-08-14T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:57dc908b0870",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Ford Mustant Dark Horse SC perde il tetto, non i cavalli",
+      "url": "https://it.motor1.com/news/804983/ford-mustang-dark-horse-sc-convertible-informazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/JON4qQ/s3/ford-mustang-dark-horse-sc-convertible.jpg",
+      "summary": "La Ford Mustang Dark Horse SC Convertible abbina il motore da 5,2 litri da 795 cavalli a una capote in tela",
       "date": "2026-08-14T15:00:00.0000000Z"
     },
     {
@@ -267,18 +315,6 @@
       "date": "2026-08-14T12:00:28.0000000Z"
     },
     {
-      "id": "motor1:9afcfab0e4e6",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Se le Bugatti Mistral e Chiron non vi bastano ci pensa Mansory",
-      "url": "https://it.motor1.com/news/804944/mansory-pebble-beach-bugatti-oneoff/",
-      "image": "https://cdn.motor1.com/images/mgl/9m8oN1/s3/due-bugatti-uniche-mansory-shock-a-pebble-beach-2026.jpg",
-      "summary": "Debutto al Pebble Beach Concours d'Elegance per MANSORY, che espone le one-off Vincerò su Bugatti Mistral e Vivere nel cuore della Monterey Car Week",
-      "date": "2026-08-14T12:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:fd01a65679dd",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -288,6 +324,18 @@
       "url": "https://insideevs.it/news/804933/ricarica-ev-pubblica-usa-migliorano/",
       "image": "https://cdn.motor1.com/images/mgl/VzWknl/s3/colonnine-di-ricarica-pubblica-negli-usa.jpg",
       "summary": "Nel report JD Power 2026 la ricarica rapida DC negli Stati Uniti migliora per affidabilità, sicurezza, costi e pagamento",
+      "date": "2026-08-14T12:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:9afcfab0e4e6",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Se le Bugatti Mistral e Chiron non vi bastano ci pensa Mansory",
+      "url": "https://it.motor1.com/news/804944/mansory-pebble-beach-bugatti-oneoff/",
+      "image": "https://cdn.motor1.com/images/mgl/9m8oN1/s3/due-bugatti-uniche-mansory-shock-a-pebble-beach-2026.jpg",
+      "summary": "Debutto al Pebble Beach Concours d'Elegance per MANSORY, che espone le one-off Vincerò su Bugatti Mistral e Vivere nel cuore della Monterey Car Week",
       "date": "2026-08-14T12:00:00.0000000Z"
     },
     {
@@ -349,18 +397,6 @@
       "image": "https://cdn.motor1.com/images/mgl/W81XjN/s3/auto-usate.jpg",
       "summary": "Più materiali riciclati, economia circolare e non solo: ecco come l'Europa vuole ridisegnare l'auto",
       "date": "2026-08-14T10:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:5aae81bdc46f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Così la Porsche 911 ha ascoltato i clienti",
-      "url": "https://it.motor1.com/news/804926/porsche-carrera-s-cambio-manuale-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/P3BpX2/s3/2027-porsche-911-carrera-s-mt-package.jpg",
-      "summary": "Ma solo per gli Stati Uniti. Peccato, ma la 911 Carrera S con cambio manuale 6 marce rimane uno spettacol",
-      "date": "2026-08-14T09:30:00.0000000Z"
     },
     {
       "id": "insideevs:7ef69f7d759a",
@@ -435,30 +471,6 @@
       "date": "2026-08-14T05:00:00.0000000Z"
     },
     {
-      "id": "vaielettrico:90aca5d5148a",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "BMW studia il riciclo delle auto: ecco come recuperare il 51% dei materiali",
-      "url": "https://www.vaielettrico.it/bmw-studia-il-riciclo-delle-auto-ecco-come-recuperare-il-51-dei-materiali/",
-      "image": null,
-      "summary": "Con il progetto Car2Car BMW ha dimostrato che è possibile recuperare una quota molto più elevata dei componenti… L'articolo BMW studia il riciclo delle auto: ecco come recuperare il 51% dei materiali proviene da Vaiel...",
-      "date": "2026-08-13T22:48:09.0000000Z"
-    },
-    {
-      "id": "vaielettrico:02e20dfaa667",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Cina: cosa succede al mercato auto? Crescono solo le elettriche pure. Male termiche, plug-in ed EREV",
-      "url": "https://www.vaielettrico.it/cina-cosa-succede-al-mercato-auto-crescono-solo-le-elettriche-pure-male-termiche-plug-in-ed-erev/",
-      "image": null,
-      "summary": "Il mercato automobilistico cinese sta attraversando una trasformazione più profonda di quanto suggerisca il calo delle vendite complessive.… L'articolo Cina: cosa succede al mercato auto? Crescono solo le elettriche p...",
-      "date": "2026-08-13T22:38:49.0000000Z"
-    },
-    {
       "id": "insideevs:1f3d5fb13077",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/Ak36GP/s3/model-3-degradation.jpg",
       "summary": "Le sue abitudini di ricarica passate sono un mistero. Un test della batteria ha dato un buon risultato, anche se non eccezionale",
       "date": "2026-08-13T12:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:a2697fd7c755",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Regno Unito pronta ad abbassare l'obiettivo EV 2030?",
-      "url": "https://insideevs.it/news/804762/regole-ev-regno-unito-nuove/",
-      "image": "https://cdn.motor1.com/images/mgl/9m8Lv1/s3/auto-elettriche-in-ricarica-a-londra.jpg",
-      "summary": "Nel mandato ZEV britannico la soglia 2026 al 33% si scontra con vendite EV al 25,3% e nuova tassa eVED sui chilometri elettrici",
-      "date": "2026-08-13T11:00:00.0000000Z"
     },
     {
       "id": "motor1:bafff73eec4e",

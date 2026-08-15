@@ -1,7 +1,31 @@
 {
   "category": "arte",
-  "updated": "2026-08-15T04:52:19.9372195Z",
+  "updated": "2026-08-15T05:56:32.2298058Z",
   "items": [
+    {
+      "id": "elledecor:834074cf5051",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Le mostre aperte a Ferragosto in tutta Italia, da vedere prima che chiudano",
+      "url": "https://www.elledecor.com/it/arte/a73423466/mostre-aperte-ferragosto/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/cb7568d2-9f37-4c9b-94fe-769576934fbd.jpg",
+      "summary": "Pittura, fotografia, opere video e site-specific: gli appuntamenti imperdibili nei musei delle principali città italiane, tra arte contemporanea e capolavori del passato",
+      "date": "2026-08-15T05:30:00.0000000Z"
+    },
+    {
+      "id": "elledecor:48d193812440",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Le 7 regole degli esperti per riconoscere e comprare arredi vintage che valgono davvero",
+      "url": "https://www.elledecor.com/it/lifestyle/a73357446/regole-per-acquistare-arredi-vintage-di-valore/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/93e8d19a-4ca2-4027-9eed-4650130bb565.jpeg",
+      "summary": "Qualità dei materiali, firme, provenienza e dettagli costruttivi: cosa osservare per scegliere mobili e oggetti vintage destinati a durare",
+      "date": "2026-08-15T05:00:00.0000000Z"
+    },
     {
       "id": "artribune:41614d8bc65e",
       "sourceId": "artribune",
@@ -51,18 +75,6 @@
       "date": "2026-08-14T14:30:00.0000000Z"
     },
     {
-      "id": "artribune:412e7f2cd71f",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Una lista di classici libri d’arte da riscoprire sotto l’ombrellone a Ferragosto 2026",
-      "url": "https://www.artribune.com/editoria/2026/08/libri-classici-ferragosto-2026/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/screenshot-2026-08-14-102036.png",
-      "summary": "Una carrellata di classici e libri da riscoprire durante la settimana più calda dell’anno. Tra arte, moda e fotografia L’articolo \" Una lista di classici libri d’arte da riscoprire sotto l’ombrellone a Ferragosto 2026...",
-      "date": "2026-08-14T14:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:793e36ffe04b",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -72,6 +84,18 @@
       "url": "https://www.elledecor.com/it/design/a73297844/nuovi-tavolini-outdoor/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/a3f74391-1cdf-4c60-b721-85d75b1a0edd.jpg",
       "summary": "Confortevoli e patinati: piccoli capolavori di manifattura sfoggiano sfumature cromatiche ispirate alla natura",
+      "date": "2026-08-14T14:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:412e7f2cd71f",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Una lista di classici libri d’arte da riscoprire sotto l’ombrellone a Ferragosto 2026",
+      "url": "https://www.artribune.com/editoria/2026/08/libri-classici-ferragosto-2026/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/screenshot-2026-08-14-102036.png",
+      "summary": "Una carrellata di classici e libri da riscoprire durante la settimana più calda dell’anno. Tra arte, moda e fotografia L’articolo \" Una lista di classici libri d’arte da riscoprire sotto l’ombrellone a Ferragosto 2026...",
       "date": "2026-08-14T14:00:00.0000000Z"
     },
     {
@@ -241,30 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/98efd44a-f804-4308-9586-22c2a346800e.jpeg",
       "summary": "Hyperslide abbina riscaldamento e vibrazioni per ottimizzare l'assorbimento del carico di lavoro sportivo",
       "date": "2026-08-13T14:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:e44d3d3253c2",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Tutto sulle trombe degli angeli, le piante che profumano i giardini con i loro grandi fiori penduli",
-      "url": "https://www.elledecor.com/it/lifestyle/a73326854/come-curare-trombe-degli-angeli/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/bf5d577b-120b-4c1d-bae8-da1368aa23b0.jpg",
-      "summary": "Dall'esposizione alla potatura, la guida completa alle Brugmansia con i consigli di Sole Gastini, giovane vivaista e collezionista di ibridi rari",
-      "date": "2026-08-13T13:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:2d1f677f706b",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Una pista ciclabile lunga 2180km è un itinerario che attraversa 168 Comuni fra borghi e cittadine",
-      "url": "https://www.elledecor.com/it/lifestyle/a73333037/pista-ciclabile-lunghissima-2180km/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/e5793f44-30ca-4f03-a598-84ce4df86603.jpeg",
-      "summary": "Castilla-La Mancha rivoluziona il cicloturismo con un importante percorso pensato per decongestionare i flussi e proporre un nuovo modo di viaggiare",
-      "date": "2026-08-13T11:00:00.0000000Z"
     }
   ]
 }
