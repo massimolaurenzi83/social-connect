@@ -1,7 +1,19 @@
 {
   "category": "viaggi",
-  "updated": "2026-08-15T13:44:16.0977074Z",
+  "updated": "2026-08-15T14:46:29.5493470Z",
   "items": [
+    {
+      "id": "siviaggia:a180c562c22e",
+      "sourceId": "siviaggia",
+      "source": "SiViaggia",
+      "platform": "rss",
+      "category": "viaggi",
+      "title": "Incanto ad alta quota: viaggio straordinario al Lago Agnel, specchio selvaggio del Piemonte",
+      "url": "https://siviaggia.it/vacanze-natura/lago-agnel-piemonte/599198/",
+      "image": "https://siviaggia.it/wp-content/uploads/sites/2/2026/08/Lago-Agnel.jpg",
+      "summary": "Tra le alte montagne della Valle dell'Orco, un lago dalle acque intensamente blu racconta la storia dell'idroelettrico alpino e del cinema italiano",
+      "date": "2026-08-15T14:00:38.0000000Z"
+    },
     {
       "id": "siviaggia:c830a25151ff",
       "sourceId": "siviaggia",
@@ -133,18 +145,6 @@
       "image": "https://siviaggia.it/wp-content/uploads/sites/2/2026/08/vista-sul-Castello-di-Breno.jpg",
       "summary": "Tra storia medievale, resti archeologici e misteriose leggende, il Castello di Breno domina la Valle Camonica e racconta secoli di vicende affascinanti",
       "date": "2026-08-14T13:00:26.0000000Z"
-    },
-    {
-      "id": "siviaggia:eace1092a09a",
-      "sourceId": "siviaggia",
-      "source": "SiViaggia",
-      "platform": "rss",
-      "category": "viaggi",
-      "title": "Nelle terre di Montepulciano riaffiora un tesoro nascosto per millenni",
-      "url": "https://siviaggia.it/notizie/scoperto-frigidarium-fontegrande-montepulciano/599233/",
-      "image": "https://siviaggia.it/wp-content/uploads/sites/2/2026/08/Fontegrande.jpg",
-      "summary": "Un nuovo ambiente, forse un frigidarium, riemerge dal sito di Fontegrande, importante complesso termale romano che racconta la storia antica di Acquaviva",
-      "date": "2026-08-14T12:00:10.0000000Z"
     }
   ]
 }
