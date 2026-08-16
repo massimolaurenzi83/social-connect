@@ -1,7 +1,19 @@
 {
   "category": "libri",
-  "updated": "2026-08-16T07:48:26.5184708Z",
+  "updated": "2026-08-16T09:01:30.4062943Z",
   "items": [
+    {
+      "id": "illibraio:683bb6f35292",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "In Abruzzo con Natalia Ginzburg: quel confino si rivelò decisivo per la scrittrice",
+      "url": "https://www.illibraio.it/news/varia/in-abruzzo-con-natalia-ginzburg-1504163/",
+      "image": null,
+      "summary": "Ci sono luoghi che non si scelgono, ma che insegnano a scegliere. Quando Natalia Ginzburg arriva in Abruzzo, la sera del 13 ottobre del 1940, non sa ancora che quei luoghi diventeranno una soglia decisiva della sua vi...",
+      "date": "2026-08-16T00:01:06.0000000Z"
+    },
     {
       "id": "illibraio:c9149a195e37",
       "sourceId": "illibraio",
@@ -97,18 +109,6 @@
       "image": null,
       "summary": "Da \"Sulla brevità della vita\" di vecchio Seneca (\"per i fautori della mindfulness e del decluttering mentale\") a \"Le georgiche\" di Virgilio, passando per un \"romanzo deliziosamente piccante\" come \"Satyricon\" di Petron...",
       "date": "2026-08-10T01:01:36.0000000Z"
-    },
-    {
-      "id": "illibraio:7ca50fc653db",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Bertolt Brecht: vita, opere ed eredità di un teatro che non vuole lasciarci dormire",
-      "url": "https://www.illibraio.it/news/narrativa/bertolt-brecht-1500090/",
-      "image": null,
-      "summary": "Ripercorriamo la vita e i temi delle opere di Bertolt Brecht (10 febbraio 1898 - 14 agosto 1956), il drammaturgo tedesco che ha trasformato il palcoscenico in uno strumento di riflessione politica e sociale. Da \"L'ope...",
-      "date": "2026-08-09T01:42:16.0000000Z"
     }
   ]
 }
