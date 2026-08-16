@@ -1,7 +1,67 @@
 {
   "category": "notizie",
-  "updated": "2026-08-16T03:29:42.5883085Z",
+  "updated": "2026-08-16T05:04:56.2668438Z",
   "items": [
+    {
+      "id": "open:cf5da7c96dbc",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Sigfrido Ranucci candidato? La tentazione nel M5s, i dubbi nel Pd e gli attacchi per lasciare Report: «Se non la smettono, lo faccio»",
+      "url": "https://www.open.online/2026/08/16/sigfrido-ranucci-candidato-retroscena-m5s-pd-report/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/ranucci-conte-schlein.jpg",
+      "summary": "Il giornalista nega di avere progetti politici, impegnato com'è sulle nuove puntate di Report. Il retroscena sul nome che circola tra i partiti, chi lo vorrebbe in lista e il rischio che Lavitola parli ancora L'artico...",
+      "date": "2026-08-16T05:00:21.0000000Z"
+    },
+    {
+      "id": "ansa:b769045cb427",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Oltre 600 droni ucraini lanciati contro Mosca nella notte",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/16/oltre-600-droni-ucraini-lanciati-contro-mosca-nella-notte_11aaae52-1c29-461e-b386-8f7c58516060.html",
+      "image": null,
+      "summary": "Più di 200 sono stati abbattuti, gli altri hanno sorvolato la regione",
+      "date": "2026-08-16T04:31:26.0000000Z"
+    },
+    {
+      "id": "repubblica:5f7a4c9a258b",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Noleggio sociale dell’auto a 100 euro al mese, il modello sarà unico. L’Aci lavora al bando",
+      "url": "https://www.repubblica.it/economia/2026/08/16/news/noleggio_sociale_dell_auto_un_modello_unico_a_100_euro_al_mese_il_bando_dell_aci_in_primavera-425530869/",
+      "image": null,
+      "summary": "L’ente acquisterà 3mila vetture, con un plafond di 50 milioni di euro finanziato dal fondo automotive. Ecco i requisiti per accedere alla misura con possibilità di riscatto",
+      "date": "2026-08-16T03:00:06.0000000Z"
+    },
+    {
+      "id": "repubblica:801cdd97ca34",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La paradossale storia di Herdonia, la “Pompei di Puglia” chiusa a tempo indeterminato",
+      "url": "https://www.repubblica.it/venerdi/2026/08/16/news/herdonia_citta_romana_puglia-425526681/",
+      "image": null,
+      "summary": "L’antica città romana non è visitabile. Dal 2000 non si scava più e a farla da padrona è l’erba alta. Ma qualcosa si sta muovendo. Piano piano...",
+      "date": "2026-08-16T03:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:ea1074485520",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Carlo Conti: “Ricordo gli abbracci di Pippo. E quella volta che mi accolse in boxer”",
+      "url": "https://www.repubblica.it/spettacoli/tv-radio/2026/08/16/news/carlo_conti_ricordo_gli_abbracci_di_pippo_garbato_ed_elegante_e_stato_un_faro-425530719/",
+      "image": null,
+      "summary": "Il conduttore ricorda Baudo, scomparso il 16 agosto dello scorso anno: “Ha rappresentato la vera trasformazione del mestiere del presentatore”",
+      "date": "2026-08-16T03:00:00.0000000Z"
+    },
     {
       "id": "repubblica:e89be1d2043f",
       "sourceId": "repubblica",
@@ -13,30 +73,6 @@
       "image": null,
       "summary": "Studio Eurispes. Il progresso dei voli spaziali viaggia a ritmi molto superiori a quelli della normativa fiscale a tema: il rischio è quello di un’evasione generalizzata, a vantaggio della solita élite. Tra le ipotesi...",
       "date": "2026-08-15T23:00:16.0000000Z"
-    },
-    {
-      "id": "repubblica:acbf3bc15385",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Il compleanno di Sinner: per i 25 anni si regala un giorno di riposo",
-      "url": "https://www.repubblica.it/sport/dossier/us-open-tennis/2026/08/16/news/compleanno_sinner_come_sta-425530946/",
-      "image": null,
-      "summary": "Il campione azzurro anche per Ferragosto ha sostenuto terapie al J Medical, in attesa di definire con lo staff il programma per gli Us Open",
-      "date": "2026-08-15T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:042a130939be",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "I meteorologi: “In agosto Firenze più calda del Cairo di due gradi”",
-      "url": "https://firenze.repubblica.it/cronaca/2026/08/16/news/firenze_caldo_estate_cairo-425531022/",
-      "image": null,
-      "summary": "Nella città bollino rosso la media delle temperature massime ha superato quella della capitale dell’Egitto. La provocazione dei ricercatori (dati alla mano). E luglio mese record per tutta la Toscana",
-      "date": "2026-08-15T23:00:00.0000000Z"
     },
     {
       "id": "repubblica:163809dbd480",
@@ -99,28 +135,40 @@
       "date": "2026-08-15T23:00:00.0000000Z"
     },
     {
+      "id": "repubblica:042a130939be",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "I meteorologi: “In agosto Firenze più calda del Cairo di due gradi”",
+      "url": "https://firenze.repubblica.it/cronaca/2026/08/16/news/firenze_caldo_estate_cairo-425531022/",
+      "image": null,
+      "summary": "Nella città bollino rosso la media delle temperature massime ha superato quella della capitale dell’Egitto. La provocazione dei ricercatori (dati alla mano). E luglio mese record per tutta la Toscana",
+      "date": "2026-08-15T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:acbf3bc15385",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il compleanno di Sinner: per i 25 anni si regala un giorno di riposo",
+      "url": "https://www.repubblica.it/sport/dossier/us-open-tennis/2026/08/16/news/compleanno_sinner_come_sta-425530946/",
+      "image": null,
+      "summary": "Il campione azzurro anche per Ferragosto ha sostenuto terapie al J Medical, in attesa di definire con lo staff il programma per gli Us Open",
+      "date": "2026-08-15T23:00:00.0000000Z"
+    },
+    {
       "id": "repubblica:c5abb7cd01f2",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Guerra Ucraina - Russia, le news di oggi. Attacco con missili balistici a Kiev",
+      "title": "Guerra Ucraina - Russia, le news di oggi. Attacco con missili balistici a Kiev: una vittima e sette feriti",
       "url": "https://www.repubblica.it/esteri/2026/08/16/diretta/guerra_ucraina_russia_news_oggi-425531035/",
       "image": null,
       "summary": "Tutte le notizie in tempo reale dal fronte",
       "date": "2026-08-15T22:37:12.0000000Z"
-    },
-    {
-      "id": "repubblica:09286f954709",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Djokovic, clamoroso ko a Cincinnati. Sonego vince all'esordio contro Shang",
-      "url": "https://www.repubblica.it/sport/tennis/2026/08/16/news/djokovic_clamoroso_ko_a_cincinnati_sonego_vince_all_esordio_contro_shang-425531028/",
-      "image": null,
-      "summary": "Il serbo perde in tre set contro Tirante. L'azzurro vince al primo turno",
-      "date": "2026-08-15T22:18:15.0000000Z"
     },
     {
       "id": "ansa:3bae7d0da958",
@@ -133,30 +181,6 @@
       "image": null,
       "summary": "Momenti di tensione al confine ma il nuovo assalto all'exclave per ora è sventato",
       "date": "2026-08-15T22:01:51.0000000Z"
-    },
-    {
-      "id": "repubblica:6afe56bc0ee8",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Fantastico Diaz, oro e record italiano nel triplo. Dallavalle è bronzo, 7 medaglie in un giorno",
-      "url": "https://www.repubblica.it/sport/vari/2026/08/16/news/andy_diaz_andrea_dallavalle_medaglie_europei-425531017/",
-      "image": null,
-      "summary": "Andy domina saltando 18,15: è la quarta prestazione mondiale di sempre. Pichardo si arrende, sul podio anche Andrea. Dopo le cinque medaglie della marcia l’Italia stabilisce un record ed è in testa nel medagliere: 8 o...",
-      "date": "2026-08-15T22:01:00.0000000Z"
-    },
-    {
-      "id": "repubblica:1db31d4812b9",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Luca: “Ero ‘un bravo ragazzo’. Finché ho tradito mia moglie con una escort e me ne sono innamorato”",
-      "url": "https://d.repubblica.it/beauty/dossier/infedeli/2026/08/16/news/storia_vera_bravo_ragazzo_tradimento_con_una_escort-425528585/",
-      "image": null,
-      "summary": "“Luca ha evitato per anni ogni conflitto, pensando che essere un buon marito significasse sopportare, adattarsi. Ma le emozioni ignorate non scompaiono... Restano dentro di noi, spesso silenziose, finché trovano un mo...",
-      "date": "2026-08-15T22:00:00.0000000Z"
     },
     {
       "id": "ansa:9da325a21717",
@@ -362,30 +386,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/femminicidio-benevento.jpg",
       "summary": "L'uomo, 75 anni, è all'ospedale di Benevento. Ha agito contro la donna accoltellandola nella villetta di famiglia a Sant'Angelo a Cupolo L'articolo Anziano uccide la moglie nel beneventano e poi tenta di togliersi la ...",
       "date": "2026-08-15T15:45:24.0000000Z"
-    },
-    {
-      "id": "open:4088dff2f074",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Israele attacca il sud del Libano. Almeno 11 morti, è il più grave bilancio dall’accordo sulla fine delle ostilità",
-      "url": "https://www.open.online/2026/08/15/israele-libano-cisgiordania-aggiornamenti/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/israele-libano.jpg",
-      "summary": "Hezbollah promette vendetta ed esorta il parlamento libanese: «Basta ai negoziati con Tel Aviv sono umilianti» L'articolo Israele attacca il sud del Libano. Almeno 11 morti, è il più grave bilancio dall’accordo sulla ...",
-      "date": "2026-08-15T15:20:34.0000000Z"
-    },
-    {
-      "id": "ansa:09dbbc4ebc3d",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Teheran frena Trump: 'Hormuz non può essere conquistato con un tweet'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/15/teheran-frena-trump-hormuz-non-puo-essere-conquistato-con-un-tweet_396ec6b5-deaa-4f2c-b707-d7b6aa18c5a6.html",
-      "image": null,
-      "summary": "Il vice ministro degli Esteri iraniano Kazem Gharibabadi risponde, con un post su X, all'affermazione del presidente Usa",
-      "date": "2026-08-15T15:13:29.0000000Z"
     },
     {
       "id": "skytg24:V2lGINIQwXA",

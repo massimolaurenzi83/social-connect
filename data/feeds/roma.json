@@ -1,7 +1,19 @@
 {
   "category": "roma",
-  "updated": "2026-08-16T03:29:42.5299605Z",
+  "updated": "2026-08-16T05:04:56.2971747Z",
   "items": [
+    {
+      "id": "romatoday:10e47b4e3617",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Malattie, traumi, infarti. Quartiere per quartiere, dove si muore di più a Roma e per quali cause",
+      "url": "https://www.romatoday.it/dossier/sanita/di-cosa-si-muore-roma-cause.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/39483414903600/inquinamento-roma-3.jpeg",
+      "summary": "Il quadro è cambiato rispetto a dieci anni fa, con alcuni importanti passi in avanti sul fronte degli infarti. I tumori continuano a preoccupare e altre patologie conquistano sempre più terreno. La mappa completa",
+      "date": "2026-08-16T04:06:00.0000000Z"
+    },
     {
       "id": "romatoday:b594d18b2d1f",
       "sourceId": "romatoday",
@@ -133,18 +145,6 @@
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/27299524248533/polizia-in-metro-2.jpg",
       "summary": "Dalle mani che cercano spazio tra la folla ai portafogli abbandonati nel tentativo di alleggerire la fuga, fino ad un ombrello trasformato in un \"paravento\" improvvisato",
       "date": "2026-08-15T08:11:00.0000000Z"
-    },
-    {
-      "id": "romatoday:de8d6634d83e",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Roma, è morta Carla Tatò. Addio alla storica attrice di teatro",
-      "url": "https://www.romatoday.it/cronaca/morta-carla-tato.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/50607231090640/carla-tato.jpg",
-      "summary": "A settembre è previsto a Roma un appuntamento pubblico dedicato alla sua memoria",
-      "date": "2026-08-15T07:51:01.0000000Z"
     },
     {
       "id": "roma-repubblica:cfc7e14763b5",
