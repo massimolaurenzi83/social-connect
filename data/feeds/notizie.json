@@ -1,18 +1,30 @@
 {
   "category": "notizie",
-  "updated": "2026-08-16T05:04:56.2668438Z",
+  "updated": "2026-08-16T06:01:37.9111892Z",
   "items": [
     {
-      "id": "open:cf5da7c96dbc",
+      "id": "ansa:fddb8e2f6dc5",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Romania: drone abbattuto da un caccia spagnolo",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/16/romania-drone-abbattuto-da-un-caccia-spagnolo-_96359585-d9e6-4ce3-88ff-a0a24e780d2d.html",
+      "image": null,
+      "summary": "Proveniente dalla Moldavia, è stato intercettato da un F-18",
+      "date": "2026-08-16T05:43:30.0000000Z"
+    },
+    {
+      "id": "open:30f9211a2008",
       "sourceId": "open",
       "source": "Open",
       "platform": "rss",
       "category": "notizie",
-      "title": "Sigfrido Ranucci candidato? La tentazione nel M5s, i dubbi nel Pd e gli attacchi per lasciare Report: «Se non la smettono, lo faccio»",
-      "url": "https://www.open.online/2026/08/16/sigfrido-ranucci-candidato-retroscena-m5s-pd-report/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/ranucci-conte-schlein.jpg",
-      "summary": "Il giornalista nega di avere progetti politici, impegnato com'è sulle nuove puntate di Report. Il retroscena sul nome che circola tra i partiti, chi lo vorrebbe in lista e il rischio che Lavitola parli ancora L'artico...",
-      "date": "2026-08-16T05:00:21.0000000Z"
+      "title": "Missili russi contro Kiev, partono 600 droni ucraini su Mosca: distrutto un altro magazzino dell’ecommerce – La diretta",
+      "url": "https://www.open.online/2026/08/16/guerra-russia-ucaina-ultime-notizie-16-ago-diretta/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/russia-ucraina-attacchi-droni-missili.jpg",
+      "summary": "Dopo gli attacchi dell'ultima notte, a fuoco un importante magazzino del colosso russo Wildberries. In Romania intanto, un caccia spagnolo ha abbattuto un drone sospetto L'articolo Missili russi contro Kiev, partono 6...",
+      "date": "2026-08-16T05:35:22.0000000Z"
     },
     {
       "id": "ansa:b769045cb427",
@@ -24,7 +36,19 @@
       "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/16/oltre-600-droni-ucraini-lanciati-contro-mosca-nella-notte_11aaae52-1c29-461e-b386-8f7c58516060.html",
       "image": null,
       "summary": "Più di 200 sono stati abbattuti, gli altri hanno sorvolato la regione",
-      "date": "2026-08-16T04:31:26.0000000Z"
+      "date": "2026-08-16T05:00:56.0000000Z"
+    },
+    {
+      "id": "open:cf5da7c96dbc",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Sigfrido Ranucci candidato? La tentazione nel M5s, i dubbi nel Pd e gli attacchi per lasciare Report: «Se non la smettono, lo faccio»",
+      "url": "https://www.open.online/2026/08/16/sigfrido-ranucci-candidato-retroscena-m5s-pd-report/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/ranucci-conte-schlein.jpg",
+      "summary": "Il giornalista nega di avere progetti politici, impegnato com'è sulle nuove puntate di Report. Il retroscena sul nome che circola tra i partiti, chi lo vorrebbe in lista e il rischio che Lavitola parli ancora L'artico...",
+      "date": "2026-08-16T05:00:21.0000000Z"
     },
     {
       "id": "repubblica:5f7a4c9a258b",
@@ -200,7 +224,7 @@
       "source": "Open",
       "platform": "rss",
       "category": "notizie",
-      "title": "Europei di atletica, bis Italia nel salto triplo! Oro per Diaz con nuovo record italiano e bronzo per Dallavalle. Giù dal podio le 4×100 – La diretta",
+      "title": "Europei di atletica, bis Italia nel salto triplo! Oro per Diaz con nuovo record italiano e bronzo per Dallavalle. Giù dal podio le 4×100",
       "url": "https://www.open.online/2026/08/15/europei-atletica-15-ago-ultime-notizie-diretta/",
       "image": "https://static.open.online/wp-content/uploads/2026/08/andy-diaz-salto-triplo-europei-atletica.jpeg",
       "summary": "Gli azzurri dominano il medagliere a Birmingham, dopo l'en plein di podi nella marcia, tra cui spiccano gli ori di Massimo Stano e Sofia Forini. Delusione per il quinto posto di Palmisano L'articolo Europei di atletic...",
@@ -255,18 +279,6 @@
       "date": "2026-08-15T19:07:32.0000000Z"
     },
     {
-      "id": "ansa:6f0dc341ae99",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Cadavere trovato in strada allo Zen, la vittima colpita con un giravite",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/cadavere-trovato-in-strada-allo-zen-la-vittima-colpita-con-un-giravite_90651e74-2833-40c5-b899-1b0cb0f7311e.html",
-      "image": null,
-      "summary": "Un uomo ferito alla spalla e con una costola rotta si è presentato al pronto soccorso",
-      "date": "2026-08-15T18:30:10.0000000Z"
-    },
-    {
       "id": "open:c780a3f88fe0",
       "sourceId": "open",
       "source": "Open",
@@ -308,7 +320,7 @@
       "source": "Open",
       "platform": "rss",
       "category": "notizie",
-      "title": "Europei di nuoto, che Italia! Doppietta Martinenghi-Cerasuolo. Quinta medaglia per Sara Curtis, impresa per Anita Gastaldi – La diretta",
+      "title": "Europei di nuoto, che Italia! Doppietta Martinenghi-Cerasuolo. Quinta medaglia per Sara Curtis, impresa per Anita Gastaldi",
       "url": "https://www.open.online/2026/08/15/europei-nuoto-2026-parigi-risultati-gare-medagliere-diretta-15-agosto/",
       "image": "https://static.open.online/wp-content/uploads/2026/08/curtis-martinenghi-gastaldi.jpg",
       "summary": "L'Italia, che punta a difendere il primo posto nel medagliere, davanti alla Gran Bretagna. Quarto posto all'ultimo per Alberto Razzetti. Chiude il programma la staffetta 4x200 stile libero mista L'articolo Europei di ...",
@@ -374,18 +386,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/linguaglossa.jpg",
       "summary": "Trema la terra con magnitudo 3.9 a Linguaglossa. Per precauzione evacuati i ristoranti della zona, impegnati nel pranzo di Ferragosto L'articolo Scossa di terremoto nel Catanese: la strada si spacca per colpa dell’Etn...",
       "date": "2026-08-15T16:15:54.0000000Z"
-    },
-    {
-      "id": "open:1277e9f82861",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Anziano uccide la moglie nel beneventano e poi tenta di togliersi la vita",
-      "url": "https://www.open.online/2026/08/15/femminicidio-benevento-anziano-tentato-suciidio/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/femminicidio-benevento.jpg",
-      "summary": "L'uomo, 75 anni, è all'ospedale di Benevento. Ha agito contro la donna accoltellandola nella villetta di famiglia a Sant'Angelo a Cupolo L'articolo Anziano uccide la moglie nel beneventano e poi tenta di togliersi la ...",
-      "date": "2026-08-15T15:45:24.0000000Z"
     },
     {
       "id": "skytg24:V2lGINIQwXA",

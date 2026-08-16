@@ -1,7 +1,19 @@
 {
   "category": "roma",
-  "updated": "2026-08-16T05:04:56.2971747Z",
+  "updated": "2026-08-16T06:01:37.8902188Z",
   "items": [
+    {
+      "id": "romatoday:6bb302cee77a",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Il pasticcio del ponte D(imenticato). Ditta cacciata, lavori fermi e ambulanze bloccate",
+      "url": "https://www.romatoday.it/dossier/potere/ponte-d-ostia-pomezia-cosa-succede.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/12653363147297/ponte-d.jpeg",
+      "summary": "Il cantiere è abbandonato dopo la rescissione del contratto con chi doveva fare i lavori. Ora i residenti sono allarmati per i ritardi dei soccorsi, mentre si attende un nuovo affidamento a settembre",
+      "date": "2026-08-16T05:02:00.0000000Z"
+    },
     {
       "id": "romatoday:10e47b4e3617",
       "sourceId": "romatoday",
@@ -133,18 +145,6 @@
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/6951675521576/incidente-48.jpg",
       "summary": "L'impatto nel tratto che collega Roma con Tivoli e Guidonia. A trovare il centauro due poliziotti liberi dal servizio",
       "date": "2026-08-15T09:03:00.0000000Z"
-    },
-    {
-      "id": "romatoday:a00fb38bf66d",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Roma, 7 borseggiatori arrestati tra metro e bus: la mappa dei furti da Termini ai Fori Imperiali",
-      "url": "https://www.romatoday.it/cronaca/roma-7-borseggiatori-arrestati-metro-bus.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/27299524248533/polizia-in-metro-2.jpg",
-      "summary": "Dalle mani che cercano spazio tra la folla ai portafogli abbandonati nel tentativo di alleggerire la fuga, fino ad un ombrello trasformato in un \"paravento\" improvvisato",
-      "date": "2026-08-15T08:11:00.0000000Z"
     },
     {
       "id": "roma-repubblica:cfc7e14763b5",
