@@ -1,18 +1,54 @@
 {
   "category": "notizie",
-  "updated": "2026-08-16T22:52:43.8352797Z",
+  "updated": "2026-08-16T23:39:46.1866633Z",
   "items": [
     {
-      "id": "ansa:bcb08871c2aa",
+      "id": "repubblica:1eec2fefe0fe",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "ll cielo di Larissa Iapichino, l’acuto della 4x400. Italia regina d’Europa nell’atletica",
+      "url": "https://www.repubblica.it/sport/vari/2026/08/17/news/larissa_iapichino_oro_lungo_4x400_italia_regina_europa_atletica-425532145/",
+      "image": null,
+      "summary": "Larissa prima per un centimetro: “Ho vinto nella terra di mia madre”. L’ultimo oro è della staffetta al fotofinish sui britannici e vale il primato nel medagliere",
+      "date": "2026-08-16T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:f53efa948d53",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il tris tutto d’oro di Quadarella, beffe d’argento per Pilato e Ceccon",
+      "url": "https://www.repubblica.it/sport/vari/2026/08/17/news/quadarella_oro_pilato_e_ceccon_argento_nuoto_parigi_europei-425532140/",
+      "image": null,
+      "summary": "Dopo 800 e 1500, Simona vince i 400. Benny e Thomas battuti di un soffio nelle gare individuali, poi secondi anche nelle staffette",
+      "date": "2026-08-16T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:c69a8a596dfa",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Stefano Mei: “Nell’atletica siamo il Paese più forte”. Obiettivo portare i Mondiali 2029 a Roma",
+      "url": "https://www.repubblica.it/sport/vari/2026/08/17/news/stefano_mei_atletica_paese_piu_forte_mondiali_2029_roma-425532130/",
+      "image": null,
+      "summary": "Il bilancio della Fidal dopo un Europeo trionfale",
+      "date": "2026-08-16T23:00:00.0000000Z"
+    },
+    {
+      "id": "ansa:02491b0af51b",
       "sourceId": "ansa",
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Oro nella 4x400 e nel lungo con Iapichino, capolavoro degli azzurri campioni d'Europa",
-      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/16/oro-nella-4x400-e-nel-lungo-con-iapichino-capolavoro-degli-azzurri_c9866f9d-ce58-4315-bcce-98ae9a01c293.html",
+      "title": "Capolavoro Italia: oro di Iapichino e della 4x400, gli azzurri sono campioni d'Europa",
+      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/17/capolavoro-italia-oro-di-iapichino-e-della-4x400-gli-azzurri-sono-campioni_c9866f9d-ce58-4315-bcce-98ae9a01c293.html",
       "image": null,
-      "summary": "L'Italia batte nel finale i britannici padroni di casa e fa suo il medagliere",
-      "date": "2026-08-16T22:24:19.0000000Z"
+      "summary": "Decisiva la vittoria nella staffetta del miglio, battuti i britannici padroni di casa",
+      "date": "2026-08-16T22:57:34.0000000Z"
     },
     {
       "id": "ansa:3ffa4250f96e",
@@ -27,16 +63,16 @@
       "date": "2026-08-16T22:23:19.0000000Z"
     },
     {
-      "id": "repubblica:9d5a202f8a53",
+      "id": "repubblica:97fa2676043f",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Figuraccia Lazio, eliminata dalla Coppa Italia dal Mantova. Gattuso: “Un bel cazzotto in faccia”",
-      "url": "https://www.repubblica.it/sport/calcio/2026/08/17/news/lazio_figuraccia_coppa_italia_mantova-425532149/",
+      "title": "Barelli: “Il nostro nuoto un modello vincente. Curtis simbolo dei giovani italiani”",
+      "url": "https://www.repubblica.it/sport/vari/2026/08/17/news/barelli_nuoto_modello_vincente_curtis_simbolo-425532080/",
       "image": null,
-      "summary": "La finalista della scorsa edizione battuta 2-0 dai lombardi, che giocano in B, in uno stadio con soli cinquemila spettatori. L’ex ct: “Un ambiente difficile ma non vogliamo alibi”",
-      "date": "2026-08-16T22:00:24.0000000Z"
+      "summary": "Intervista al n.1 della Federazione: “Promuoviamo la cultura dell’acqua ma le piscine costano: fondamentale l’aiuto del governo”",
+      "date": "2026-08-16T22:02:00.0000000Z"
     },
     {
       "id": "open:b0ffdae8b8e0",
@@ -157,18 +193,6 @@
       "image": null,
       "summary": "Abbandonata davanti all'ospedale, aveva due figli. L'uomo stava per tornare in Albania",
       "date": "2026-08-16T17:40:43.0000000Z"
-    },
-    {
-      "id": "repubblica:955904debcab",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Iapichino e 4x400, ori meravigliosi, Italia prima nel medagliere: gli Europei di atletica in diretta",
-      "url": "https://www.repubblica.it/sport/vari/2026/08/16/diretta/europei_atletica_2026_medaglie_oggi_iapichino-425531746/",
-      "image": null,
-      "summary": "A Birmingham l’ultima giornata degli Europei di atletica, l’Italia applaude il primo grande successo all’aperto di Larissa e il trionfo della 4x400 maschile. Meloni: “Grazie per averci fatto emozionare. Siamo orgoglio...",
-      "date": "2026-08-16T17:15:02.0000000Z"
     },
     {
       "id": "skytg24:4c9F-Z-WvtY",
@@ -405,18 +429,6 @@
       "date": "2026-08-16T15:27:00.0000000Z"
     },
     {
-      "id": "repubblica:9878793ad2d6",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Europei di nuoto: Quadarella tutta d’oro. Per Pilato e Ceccon e le staffette sono d’argento",
-      "url": "https://www.repubblica.it/sport/vari/2026/08/16/diretta/europei_nuoto_2026_medaglie_oggi-425531609/",
-      "image": null,
-      "summary": "Si chiude la rassegna continentale di Parigi. In palio nove titoli",
-      "date": "2026-08-16T14:57:23.0000000Z"
-    },
-    {
       "id": "skytg24:OBVTbEEPC0U",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -516,18 +528,6 @@
       "image": null,
       "summary": "Oro, argento e bronzo. Dai tuffi alla vasca, i podi azzurri alla rassegna continentale di Parigi",
       "date": "2026-08-16T11:46:54.0000000Z"
-    },
-    {
-      "id": "repubblica:2d8c4de6cef3",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Barcellona, rissa fuori dal bar. In coma un italiano di 21 anni: “Discutevano sui mondiali”",
-      "url": "https://www.repubblica.it/cronaca/2026/08/16/news/italiani_aggrediti_barcellona_ragazzo_coma-425531398/",
-      "image": null,
-      "summary": "Aggredita una comitiva di ragazzi. Il trevigiano Nicola Maggiotto, colpito da un pugno alla testa, avrebbe subito lesioni cerebrali",
-      "date": "2026-08-16T11:05:01.0000000Z"
     },
     {
       "id": "skytg24:yS1UpgSyto8",
