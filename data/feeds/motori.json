@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-16T11:42:41.7517371Z",
+  "updated": "2026-08-16T13:22:29.6607547Z",
   "items": [
+    {
+      "id": "motor1:64a1917a8f47",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Spyker è tornata: debutta la C8 Preliator XXV da 789 CV",
+      "url": "https://it.motor1.com/news/805067/spyker-c8-preliator-xxv/",
+      "image": "https://cdn.motor1.com/images/mgl/1Zw0w7/s3/spyker-c8-preliator-xxv.jpg",
+      "summary": "La C8 Preliator XXV segna il ritorno di Spyker, rendendo omaggio al patrimonio aeronautico del marchio",
+      "date": "2026-08-16T13:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:70b7d19e5f21",
       "sourceId": "hdmotori",
@@ -387,18 +399,6 @@
       "date": "2026-08-14T15:00:12.0000000Z"
     },
     {
-      "id": "motor1:57dc908b0870",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Ford Mustant Dark Horse SC perde il tetto, non i cavalli",
-      "url": "https://it.motor1.com/news/804983/ford-mustang-dark-horse-sc-convertible-informazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/JON4qQ/s3/ford-mustang-dark-horse-sc-convertible.jpg",
-      "summary": "La Ford Mustang Dark Horse SC Convertible abbina il motore da 5,2 litri da 795 cavalli a una capote in tela",
-      "date": "2026-08-14T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:8b1eab65260a",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -408,6 +408,18 @@
       "url": "https://insideevs.it/features/804981/tesla-model-s-usate-controlli/",
       "image": "https://cdn.motor1.com/images/mgl/7ZEJPV/s3/model-s-degradation.jpg",
       "summary": "Molte Model S con elevato chilometraggio conservano gran parte della capacità originale della batteria e sono molto economiche, ma...",
+      "date": "2026-08-14T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:57dc908b0870",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Ford Mustant Dark Horse SC perde il tetto, non i cavalli",
+      "url": "https://it.motor1.com/news/804983/ford-mustang-dark-horse-sc-convertible-informazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/JON4qQ/s3/ford-mustang-dark-horse-sc-convertible.jpg",
+      "summary": "La Ford Mustang Dark Horse SC Convertible abbina il motore da 5,2 litri da 795 cavalli a una capote in tela",
       "date": "2026-08-14T15:00:00.0000000Z"
     },
     {
@@ -421,18 +433,6 @@
       "image": null,
       "summary": "Siete degli amanti del Motorsport e sognate di acquistare storiche vetture da corsa Honda? Ora è possibile The post Honda, in vendita le auto da corsa più iconiche: occasione imperdibile appeared first on HDmotori.it .",
       "date": "2026-08-14T14:30:25.0000000Z"
-    },
-    {
-      "id": "motor1:08be888c7b08",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché Volkswagen ha deciso di ridurre i propri modelli",
-      "url": "https://it.motor1.com/news/804952/volkswagen-riduzione-modelli-tecnologia/",
-      "image": "https://cdn.motor1.com/images/mgl/y2gJAk/s3/volkswagen-taigo-1.5-tsi-2022-im-test.jpg",
-      "summary": "Il taglio della gamma di modelli del 50 per cento è destinato a fare in modo che il gruppo diventi leader tecnologico",
-      "date": "2026-08-14T14:00:00.0000000Z"
     },
     {
       "id": "insideevs:f7099cca974b",

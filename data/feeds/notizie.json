@@ -1,18 +1,141 @@
 {
   "category": "notizie",
-  "updated": "2026-08-16T11:42:41.7661824Z",
+  "updated": "2026-08-16T13:22:29.6407750Z",
   "items": [
     {
-      "id": "ansa:04cb9bb03886",
+      "id": "skytg24:zqBT41me7wM",
+      "sourceId": "skytg24",
+      "source": "Sky TG24",
+      "platform": "youtube",
+      "category": "notizie",
+      "title": "Furto al MuMe, rubate opere di Antonello da Messina",
+      "url": "https://www.youtube.com/watch?v=zqBT41me7wM",
+      "image": "https://i.ytimg.com/vi/zqBT41me7wM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "zqBT41me7wM",
+      "date": "2026-08-16T13:14:55.0000000Z"
+    },
+    {
+      "id": "ansa:91a842cc4d13",
       "sourceId": "ansa",
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Europei di atletica: argento a Pietro Riva nella maratona",
-      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/16/europei-atletica-argento-a-pietro-riva-nella-maratona_e27d04ba-fb39-4c41-989b-48f7a7a0f449.html",
+      "title": "Italiani aggrediti a Barcellona, un 21enne è in coma farmacologico",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/italiani-aggrediti-a-barcellona-un-21enne-in-coma-farmacologico_485dcb93-9377-4e68-8525-c67b1595d987.html",
       "image": null,
-      "summary": "Argento delle azzurre nella classifica a squadre",
-      "date": "2026-08-16T11:12:20.0000000Z"
+      "summary": "Nove ragazzi assaliti all'esterno di un locale, lesioni cerebrali per un giovane trevigiano",
+      "date": "2026-08-16T13:11:54.0000000Z"
+    },
+    {
+      "id": "ansa:361538b871c6",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Donna uccisa nel Cosentino, il compagno rintracciato al porto di Bari",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/donna-uccisa-nel-cosentino-il-compagno-rintracciato-al-porto-di-bari_3aa78aae-54f2-4272-98b9-c08ad3e5c9b6.html",
+      "image": null,
+      "summary": "L'uomo sarà interrogato per chiarire la sua posizione",
+      "date": "2026-08-16T12:52:34.0000000Z"
+    },
+    {
+      "id": "skytg24:0s9PxNqt_-g",
+      "sourceId": "skytg24",
+      "source": "Sky TG24",
+      "platform": "youtube",
+      "category": "notizie",
+      "title": "Uragano Lala sfiora le Hawaii, piogge e blackout sull'isola",
+      "url": "https://www.youtube.com/watch?v=0s9PxNqt_-g",
+      "image": "https://i.ytimg.com/vi/0s9PxNqt_-g/hqdefault.jpg",
+      "summary": "",
+      "videoId": "0s9PxNqt_-g",
+      "date": "2026-08-16T12:48:35.0000000Z"
+    },
+    {
+      "id": "open:bf3cc879f251",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Axios: «Trump ha negoziato in segreto con i pasdaran». L’Iran mette una taglia sui soldati americani: «30mila dollari a chi li uccide»",
+      "url": "https://www.open.online/2026/08/16/usa-iran-libano-aggiornamenti-medio-oriente-16-agosto/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/usa-iran-libano-aggiornamenti-medio-oriente-16-agosto.jpg",
+      "summary": "Intanto Israele minaccia nuovi attacchi in Libano. Il ministro Katz: «Colpiremo con tutta la nostra forza» L'articolo Axios: «Trump ha negoziato in segreto con i pasdaran». L’Iran mette una taglia sui soldati american...",
+      "date": "2026-08-16T12:40:31.0000000Z"
+    },
+    {
+      "id": "repubblica:81031b905c82",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "“Chiediamo asilo, viva Sánchez”: la manifestazione dei giovani migranti in spiaggia a Ceuta",
+      "url": "https://www.repubblica.it/esteri/2026/08/16/news/chiediamo_asilo_viva_sanchez_manifestazione_spiaggia_ceuta_giovani_migranti_marocco-425531496/",
+      "image": null,
+      "summary": "I giovani rimasti nell’exclave spagnola che hanno organizzato una protesta pacifica chiedono di non essere rimpatriati in Marocco: “Anche noi abbiamo diritto a restare”",
+      "date": "2026-08-16T12:35:05.0000000Z"
+    },
+    {
+      "id": "repubblica:1d56baa98088",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Sofia Raffaeli argento al cerchio ai mondiali di ginnastica ritmica",
+      "url": "https://www.repubblica.it/sport/vari/2026/08/16/news/sofia_raffaeli_argento_cerchio_mondiali_ginnastica_ritmica-425531489/",
+      "image": null,
+      "summary": "L’azzurra, campionessa uscente nella specialità, chiude alle spalle dell’ucraina Onofriichuk",
+      "date": "2026-08-16T12:29:59.0000000Z"
+    },
+    {
+      "id": "ansa:f7f661ae4ed2",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "I legali di Valter Lavitola: 'Dopo l'attentato Ranucci avrebbe potuto capire il mandante'",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/i-legali-valter-lavitola-anche-ranucci-aveva-chiesto-di-aumentare-la-scorta_eec0a77e-e43b-4420-9f99-1cf6ffd88f13.html",
+      "image": null,
+      "summary": "Sarà presentata una nuova richiesta di riesame sulle misure cautelari",
+      "date": "2026-08-16T12:20:05.0000000Z"
+    },
+    {
+      "id": "ansa:7400b33a9935",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Furto al museo, rubate opere di Antonello da Messina. Indagini sul mercato nero dell'arte",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/furto-al-museo-rubate-opere-di-antonello-da-messina_d316b5fe-3a2d-489a-8f6a-544d5566e684.html",
+      "image": null,
+      "summary": "Il colpo nel capoluogo siciliano. Portate via quattro tavole, tre su cinque del Polittico. Aperta un'inchiesta. La direttrice: \"Siamo sconvolti, erano tra le opere più importanti\"",
+      "date": "2026-08-16T11:59:02.0000000Z"
+    },
+    {
+      "id": "open:be487ec12d94",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Giovani italiani aggrediti fuori da un bar a Barcellona: un 21enne finisce in coma farmacologico",
+      "url": "https://www.open.online/2026/08/16/aggressione-giovani-italiani-barcellona/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/aggressione-giovani-italiani-barcellona.jpg",
+      "summary": "La prognosi del 21enne Nicola Maggiotto è riservata. Ferito anche un amico che si trovava con lui L'articolo Giovani italiani aggrediti fuori da un bar a Barcellona: un 21enne finisce in coma farmacologico proviene da...",
+      "date": "2026-08-16T11:56:19.0000000Z"
+    },
+    {
+      "id": "skytg24:mE1FSEgF40M",
+      "sourceId": "skytg24",
+      "source": "Sky TG24",
+      "platform": "youtube",
+      "category": "notizie",
+      "title": "Stop allo sci estivo sul ghiacciaio dello Stelvio, Colucci (CNR): \"Conseguenze previste da decenni\"",
+      "url": "https://www.youtube.com/watch?v=mE1FSEgF40M",
+      "image": "https://i.ytimg.com/vi/mE1FSEgF40M/hqdefault.jpg",
+      "summary": "",
+      "videoId": "mE1FSEgF40M",
+      "date": "2026-08-16T11:48:57.0000000Z"
     },
     {
       "id": "ansa:b769045cb427",
@@ -52,18 +175,6 @@
       "date": "2026-08-16T11:03:06.0000000Z"
     },
     {
-      "id": "ansa:e78b8fa3724a",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Almeno 48 i morti per il sisma in Indonesia, i 13 italiani hanno lasciato l'isola",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/16/almeno-48-i-morti-per-il-sisma-in-indonesia-circa-5mila-persone-evacuate_c9f5b914-45e1-45c1-9e38-4fc3b5a499e1.html",
-      "image": null,
-      "summary": "In arrivo i primi aiuti per gli sfollati",
-      "date": "2026-08-16T11:02:12.0000000Z"
-    },
-    {
       "id": "open:72e1dd674e23",
       "sourceId": "open",
       "source": "Open",
@@ -100,18 +211,6 @@
       "date": "2026-08-16T10:45:55.0000000Z"
     },
     {
-      "id": "ansa:f7f661ae4ed2",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "I legali di Valter Lavitola: 'Anche Ranucci aveva chiesto di aumentare la scorta'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/i-legali-valter-lavitola-anche-ranucci-aveva-chiesto-di-aumentare-la-scorta_eec0a77e-e43b-4420-9f99-1cf6ffd88f13.html",
-      "image": null,
-      "summary": "Sarà presentata una nuova richiesta di riesame sulle misure cautelari",
-      "date": "2026-08-16T10:41:28.0000000Z"
-    },
-    {
       "id": "repubblica:e471c9e3672e",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -134,30 +233,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/auto-carabinieri.jpg",
       "summary": "L'uomo di 42 anni, cittadino albanese, stava per partire dal porto pugliese. Da ore era ricercato dai carabinieri, dopo il ritrovamento del cadavere della sua compagna la scorsa notte L'articolo Ornella Forastefano uc...",
       "date": "2026-08-16T10:16:01.0000000Z"
-    },
-    {
-      "id": "ansa:361538b871c6",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Donna uccisa nel Cosentino, il compagno rintracciato al porto di Bari",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/donna-uccisa-nel-cosentino-il-compagno-rintracciato-al-porto-di-bari_3aa78aae-54f2-4272-98b9-c08ad3e5c9b6.html",
-      "image": null,
-      "summary": "L'uomo sarà interrogato per chiarire la sua posizione",
-      "date": "2026-08-16T10:15:38.0000000Z"
-    },
-    {
-      "id": "ansa:7400b33a9935",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Furto al museo, rubate opere di Antonello da Messina. Indagini sul mercato nero dell'arte",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/furto-al-museo-rubate-opere-di-antonello-da-messina_d316b5fe-3a2d-489a-8f6a-544d5566e684.html",
-      "image": null,
-      "summary": "Il colpo nel capoluogo siciliano. Portate via quattro tavole, tre su cinque del Polittico. Aperta un'inchiesta. La direttrice: \"Siamo sconvolti, erano tra le opere più importanti\"",
-      "date": "2026-08-16T10:10:41.0000000Z"
     },
     {
       "id": "repubblica:0576b8e6ced6",
@@ -286,23 +361,23 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Ancora un femminicidio, donna uccisa nella notte nel cosentino: trovato a Bari il compagno",
+      "title": "Ancora un femminicidio, donna uccisa nella notte nel cosentino: trovato al porto di Bari il compagno",
       "url": "https://www.repubblica.it/cronaca/2026/08/16/news/femminicidio_donna_uccisa_cosentino-425531256/",
       "image": null,
       "summary": "La vittima picchiata selvaggiamente e abbandonata agonizzante davanti all’ingresso del pronto soccorso dell’ospedale Guido Chidichimo di Trebisacce",
       "date": "2026-08-16T09:17:43.0000000Z"
     },
     {
-      "id": "repubblica:5222fa576b58",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
+      "id": "ansa:9bd3a2c87287",
+      "sourceId": "ansa",
+      "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Ungheria, autobus si ribalta in autostrada e precipita in un fosso: 12 morti e decine di feriti",
-      "url": "https://www.repubblica.it/esteri/2026/08/16/news/ungheria_autobus_si_ribalta_autostrada_precipita_fosso_12_morti_decine_feriti-425531252/",
+      "title": "Dopo settimane di caldo, arrivano i primi temporali",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/dopo-settimane-di-caldo-arrivano-i-primi-temporali_4b75af74-fc23-4f1f-a498-a90254266237.html",
       "image": null,
-      "summary": "L’annuncio del primo ministro Magyar su Facebook: “Tragico incidente”. Potrebbe essere il più letale nel Paese dal 2003",
-      "date": "2026-08-16T09:16:35.0000000Z"
+      "summary": "Le previsioni de iLMeteo.it, la settimana prossima perturbazioni e temperature in calo",
+      "date": "2026-08-16T08:58:53.0000000Z"
     },
     {
       "id": "ansa:34738033380b",
@@ -327,18 +402,6 @@
       "image": null,
       "summary": "L’aggressione sarebbe avvenuta fuori dal locale, gli investigatori sentiranno i testimoni e analizzeranno le immagini delle telecamere di sorveglianza",
       "date": "2026-08-16T08:14:46.0000000Z"
-    },
-    {
-      "id": "repubblica:c23a75e5baa7",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Reggio Calabria, trovato morto in casa un uomo di 50 anni: tracce di sangue intorno al corpo",
-      "url": "https://www.repubblica.it/cronaca/2026/08/16/news/calabria_stignano_uomo_50_anni_morto-425531163/",
-      "image": null,
-      "summary": "E’ successo a Stignano. L’uomo era un operaio e aveva due figlie gemelle minorenni",
-      "date": "2026-08-16T08:14:22.0000000Z"
     },
     {
       "id": "open:751a8700b678",
@@ -428,30 +491,6 @@
       "date": "2026-08-16T06:14:41.0000000Z"
     },
     {
-      "id": "open:cf5da7c96dbc",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Sigfrido Ranucci candidato? La tentazione nel M5s, i dubbi nel Pd e gli attacchi per lasciare Report: «Se non la smettono, lo faccio»",
-      "url": "https://www.open.online/2026/08/16/sigfrido-ranucci-candidato-retroscena-m5s-pd-report/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/ranucci-conte-schlein.jpg",
-      "summary": "Il giornalista nega di avere progetti politici, impegnato com'è sulle nuove puntate di Report. Il retroscena sul nome che circola tra i partiti, chi lo vorrebbe in lista e il rischio che Lavitola parli ancora L'artico...",
-      "date": "2026-08-16T05:00:21.0000000Z"
-    },
-    {
-      "id": "open:a64fed231df1",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Europei di atletica, bis Italia nel salto triplo! Oro per Diaz con nuovo record italiano e bronzo per Dallavalle. Giù dal podio le 4×100",
-      "url": "https://www.open.online/2026/08/15/europei-atletica-15-ago-ultime-notizie-diretta/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/andy-diaz-salto-triplo-europei-atletica.jpeg",
-      "summary": "Gli azzurri dominano il medagliere a Birmingham, dopo l'en plein di podi nella marcia, tra cui spiccano gli ori di Massimo Stano e Sofia Forini. Delusione per il quinto posto di Palmisano L'articolo Europei di atletic...",
-      "date": "2026-08-15T20:59:41.0000000Z"
-    },
-    {
       "id": "skytg24:T-bgZJrfgFs",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -502,45 +541,6 @@
       "summary": "",
       "videoId": "aGP2We2gHWg",
       "date": "2026-08-15T14:19:30.0000000Z"
-    },
-    {
-      "id": "skytg24:3HIQfrIzNkE",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Hong Kong, i panda gemelli festeggiano due anni",
-      "url": "https://www.youtube.com/watch?v=3HIQfrIzNkE",
-      "image": "https://i.ytimg.com/vi/3HIQfrIzNkE/hqdefault.jpg",
-      "summary": "",
-      "videoId": "3HIQfrIzNkE",
-      "date": "2026-08-15T13:28:31.0000000Z"
-    },
-    {
-      "id": "skytg24:uxBbRoU0NLo",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "California, premiato il cane più brutto del mondo",
-      "url": "https://www.youtube.com/watch?v=uxBbRoU0NLo",
-      "image": "https://i.ytimg.com/vi/uxBbRoU0NLo/hqdefault.jpg",
-      "summary": "",
-      "videoId": "uxBbRoU0NLo",
-      "date": "2026-08-15T13:10:34.0000000Z"
-    },
-    {
-      "id": "skytg24:6NTBoAK56M0",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Giappone, premier Takaichi: mai più tragedia della guerra",
-      "url": "https://www.youtube.com/watch?v=6NTBoAK56M0",
-      "image": "https://i.ytimg.com/vi/6NTBoAK56M0/hqdefault.jpg",
-      "summary": "",
-      "videoId": "6NTBoAK56M0",
-      "date": "2026-08-15T12:28:59.0000000Z"
     },
     {
       "id": "ansa:b95ffa2e4b34",
