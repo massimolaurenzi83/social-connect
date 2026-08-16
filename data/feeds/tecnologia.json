@@ -1,7 +1,31 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-16T14:57:43.2721791Z",
+  "updated": "2026-08-16T15:50:44.7002510Z",
   "items": [
+    {
+      "id": "hdblog:0314b01fde10",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Chrome potrebbe cambiare le password compromesse al posto tuo con Gemini",
+      "url": "https://www.hdblog.it/google/articoli/n667370/chrome-gemini-cambia-password-automatico-ai-canary/",
+      "image": null,
+      "summary": "La novità si affaccia sul canale Canary.",
+      "date": "2026-08-16T15:05:00.0000000Z"
+    },
+    {
+      "id": "tomshw:0cb4a8f73869",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "LG StanbyME 2 a 839,99€, film e lavoro senza presa fino a 4 ore",
+      "url": "https://www.tomshw.it/offerte/lg-stanbyme-2-a-83999eur-film-e-lavoro-senza-presa-fino-a-4-ore",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107734/tomshw-offer-818161.png",
+      "summary": "LG StanbyME 2 costa 839,99€ su Amazon anziché 1199€, con uno sconto del 30%. Il touchscreen da 27 pollici, la batteria integrata e la base con rotelle permettono di portare intrattenimento e lavoro ne...",
+      "date": "2026-08-16T15:03:54.0000000Z"
+    },
     {
       "id": "tomshw:fadb2d549e5e",
       "sourceId": "tomshw",
@@ -112,18 +136,6 @@
       "date": "2026-08-16T10:55:00.0000000Z"
     },
     {
-      "id": "tomshw:fd9ee5c5245b",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Sony Alpha 6400 con 16-50 mm a 930,47€, pronta per scatti e vlog 4K",
-      "url": "https://www.tomshw.it/offerte/sony-alpha-6400-con-16-50-mm-a-93047eur-pronta-per-scatti-e-vlog-4k",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107729/tomshw-offer-817996.png",
-      "summary": "Sony Alpha 6400 con obiettivo 16-50 mm costa 930,47€ su Amazon: Amazon applica il 19% sul prezzo di listino di 1.149€. Autofocus rapido, video 4K HDR e zoom incluso compongono un kit pronto per viaggi...",
-      "date": "2026-08-16T10:03:39.0000000Z"
-    },
-    {
       "id": "hdblog:9ec72353b4b6",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -206,18 +218,6 @@
       "image": null,
       "summary": "Non sempre la protezione per lo schermo è la giusta opzione.",
       "date": "2026-08-16T07:55:00.0000000Z"
-    },
-    {
-      "id": "hdblog:3bd56b88a3f5",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Unitree sbarca in Borsa: la Cina punta tutto sui robot umanoidi",
-      "url": "https://www.hdblog.it/tecnologia/articoli/n667277/unitree-ipo-cina-robot-umanoidi/",
-      "image": null,
-      "summary": "Unitree arriva in Borsa mentre la Cina accelera sulla nuova industria dei robot umanoidi",
-      "date": "2026-08-16T07:25:00.0000000Z"
     },
     {
       "id": "techprincess:Jtw7_oPx7UM",
@@ -402,18 +402,6 @@
       "date": "2026-08-14T08:29:00.0000000Z"
     },
     {
-      "id": "tomshw:b1f6a61d77b4",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "The Hum: il misterioso ronzio a 50 Hz è un acufene?",
-      "url": "https://www.tomshw.it/scienze/the-hum-il-ronzio-a-50-hz-potrebbe-essere-un-acufene",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107495/the-hum-il-misterioso-ronzio-a-50-hz-e-un-acufene.png",
-      "summary": "Un ronzio persistente associato a una frequenza mediana di appena 50 Hz, ma senza una sensibilità uditiva fuori dal comune nella maggioranza dei casi. È il risultato centrale di uno studio sul fenomen...",
-      "date": "2026-08-13T16:08:03.0000000Z"
-    },
-    {
       "id": "tomshw:7606dc69a862",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -437,6 +425,18 @@
       "summary": "",
       "videoId": "Pi0RMRQOBCs",
       "date": "2026-08-12T18:50:03.0000000Z"
+    },
+    {
+      "id": "tomshw:4dbcd44f9fb8",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "HateAid contro Ray-Ban Meta: perché vuole fermarli",
+      "url": "https://www.tomshw.it/altro/ray-ban-meta-wayfarer-gen-2-hateaid-chiede-lo-stop-alle-vendite",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/92997/meta-ray-ban-display-scrittura-neurale-app.webp",
+      "summary": "I Ray-Ban Meta Wayfarer Gen 2, già disponibili sul mercato, sono al centro di una denuncia penale depositata in Germania contro i responsabili delle aziende coinvolte nella loro produzione e distribuz...",
+      "date": "2026-08-12T15:28:55.0000000Z"
     },
     {
       "id": "tomshw:d0107387d1f7",

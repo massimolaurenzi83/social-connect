@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-16T14:57:43.3112864Z",
+  "updated": "2026-08-16T15:50:44.7135573Z",
   "items": [
+    {
+      "id": "insideevs:876ba434ed60",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La ‘Roadster volante’ di Tesla potrebbe debuttare questo mese",
+      "url": "https://insideevs.it/news/804997/tesla-roadster-volante-debutto-strada/",
+      "image": "https://cdn.motor1.com/images/mgl/KbBQWl/s3/future-cars-tesla-roadster.jpg",
+      "summary": "Si prevede che la Roadster di seconda generazione riceverà propulsori sviluppati da SpaceX",
+      "date": "2026-08-16T15:00:00.0000000Z"
+    },
     {
       "id": "motor1:64a1917a8f47",
       "sourceId": "motor1",
@@ -243,18 +255,6 @@
       "date": "2026-08-15T05:00:48.0000000Z"
     },
     {
-      "id": "insideevs:8155a4beb5a2",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Diario di viaggio con la BMW iX3: 800 km e addio ansia da autonomia",
-      "url": "https://insideevs.it/news/804837/bmw-ix3-viaggio-800-km/",
-      "image": "https://cdn.motor1.com/images/mgl/pbJpMP/s3/bmw-ix3-romania-road-trip.jpg",
-      "summary": "Un mix di autostrade, strade di campagna e veloci percorsi di montagna mostra quanto siano semplici i lunghi viaggi col SUV elettrico",
-      "date": "2026-08-15T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:7cf3339a4311",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -264,6 +264,18 @@
       "url": "https://it.motor1.com/news/803361/abarth-1300-colani-storia-curiosita/",
       "image": "https://cdn.motor1.com/images/mgl/YAzypj/s3/abarth-1300-colani-1959.jpg",
       "summary": "Basata sulla Giulietta Spider, ecco la storia 1300 Berlinetta del 1959. Innovativa nell'aerodinamica, pesa solo 780 kg",
+      "date": "2026-08-15T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:8155a4beb5a2",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Diario di viaggio con la BMW iX3: 800 km e addio ansia da autonomia",
+      "url": "https://insideevs.it/news/804837/bmw-ix3-viaggio-800-km/",
+      "image": "https://cdn.motor1.com/images/mgl/pbJpMP/s3/bmw-ix3-romania-road-trip.jpg",
+      "summary": "Un mix di autostrade, strade di campagna e veloci percorsi di montagna mostra quanto siano semplici i lunghi viaggi col SUV elettrico",
       "date": "2026-08-15T05:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/BXZvXe/s3/ioniq-v---lancamento-no-fim-de-2026-3.jpg",
       "summary": "Berlina dalle linee filanti da 4,9 metri, sarà proposta in 2 varianti, con autonomie oltre i 600 km",
       "date": "2026-08-13T15:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:605782b1fcc4",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le strane microcar elettriche francesi rétro dallo stile Anni '30",
-      "url": "https://insideevs.it/news/804810/auto-elettriche-retro-francesi/",
-      "image": "https://cdn.motor1.com/images/mgl/nAlp3o/s3/devinci-db718-eugenie.jpg",
-      "summary": "Nata in Francia, Devinci Cars costruisce roadster elettrici rétro in piccola serie: alluminio, legno, pelle e guida all’aria aperta.",
-      "date": "2026-08-13T14:00:00.0000000Z"
     }
   ]
 }
