@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-16T09:01:30.4125978Z",
+  "updated": "2026-08-16T09:56:33.4749223Z",
   "items": [
+    {
+      "id": "hdmotori:99a61ef83ba5",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ferrari Luce, follia a Monterey: la prima elettrica di Maranello venduta a 40 milioni di dollari",
+      "url": "https://www.hdmotori.it/ferrari-luce-follia-a-monterey-la-prima-elettrica-di-maranello-viene-venduta-a-40-milioni-di-dollari/",
+      "image": null,
+      "summary": "Sembra incredibile, ma è successo davvero: la Luce \"Chassis 0\" è entrata nella storia con un prezzo da capogiro diventando la vettura nuova più costosa mai venduta all’incanto. E dietro alla cifra record c’è anche una...",
+      "date": "2026-08-16T09:07:57.0000000Z"
+    },
     {
       "id": "vaielettrico:a6088f38ba93",
       "sourceId": "vaielettrico",
@@ -39,18 +51,6 @@
       "date": "2026-08-16T06:30:42.0000000Z"
     },
     {
-      "id": "motor1:ad8db77aa639",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ho guidato due delle sportive più incredibili di Mercedes",
-      "url": "https://it.motor1.com/news/804807/mercedes-300-sls-mercedes-srl-stirling-moss-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/mMznoq/s3/mercedes-benz-classic-300-sls-und-slr-stirling-moss-im-fahrbericht.jpg",
-      "summary": "La prova più che speciale delle Mercedes 300 SLS ed SLR McLaren Stirling Moss: più di 50 anni di differenza ed emozioni indescrivibili",
-      "date": "2026-08-16T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:92b55d30d11d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -60,6 +60,18 @@
       "url": "https://insideevs.it/reviews/804896/geely-e2-prova-cina-video/",
       "image": "https://cdn.motor1.com/images/mgl/6Z8mZe/s3/geely-ex2-la-prova-in-cina.jpg",
       "summary": "Scopriamo da vicino la la Geely E2, l'elettrica best seller in Cina che arriva anche in Europa",
+      "date": "2026-08-16T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:ad8db77aa639",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ho guidato due delle sportive più incredibili di Mercedes",
+      "url": "https://it.motor1.com/news/804807/mercedes-300-sls-mercedes-srl-stirling-moss-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/mMznoq/s3/mercedes-benz-classic-300-sls-und-slr-stirling-moss-im-fahrbericht.jpg",
+      "summary": "La prova più che speciale delle Mercedes 300 SLS ed SLR McLaren Stirling Moss: più di 50 anni di differenza ed emozioni indescrivibili",
       "date": "2026-08-16T05:00:00.0000000Z"
     },
     {
@@ -195,18 +207,6 @@
       "date": "2026-08-15T05:00:48.0000000Z"
     },
     {
-      "id": "insideevs:8155a4beb5a2",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Diario di viaggio con la BMW iX3: 800 km e addio ansia da autonomia",
-      "url": "https://insideevs.it/news/804837/bmw-ix3-viaggio-800-km/",
-      "image": "https://cdn.motor1.com/images/mgl/pbJpMP/s3/bmw-ix3-romania-road-trip.jpg",
-      "summary": "Un mix di autostrade, strade di campagna e veloci percorsi di montagna mostra quanto siano semplici i lunghi viaggi col SUV elettrico",
-      "date": "2026-08-15T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:7cf3339a4311",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -216,6 +216,18 @@
       "url": "https://it.motor1.com/news/803361/abarth-1300-colani-storia-curiosita/",
       "image": "https://cdn.motor1.com/images/mgl/YAzypj/s3/abarth-1300-colani-1959.jpg",
       "summary": "Basata sulla Giulietta Spider, ecco la storia 1300 Berlinetta del 1959. Innovativa nell'aerodinamica, pesa solo 780 kg",
+      "date": "2026-08-15T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:8155a4beb5a2",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Diario di viaggio con la BMW iX3: 800 km e addio ansia da autonomia",
+      "url": "https://insideevs.it/news/804837/bmw-ix3-viaggio-800-km/",
+      "image": "https://cdn.motor1.com/images/mgl/pbJpMP/s3/bmw-ix3-romania-road-trip.jpg",
+      "summary": "Un mix di autostrade, strade di campagna e veloci percorsi di montagna mostra quanto siano semplici i lunghi viaggi col SUV elettrico",
       "date": "2026-08-15T05:00:00.0000000Z"
     },
     {
@@ -409,18 +421,6 @@
       "image": "https://cdn.motor1.com/images/mgl/y2gJAk/s3/volkswagen-taigo-1.5-tsi-2022-im-test.jpg",
       "summary": "Il taglio della gamma di modelli del 50 per cento è destinato a fare in modo che il gruppo diventi leader tecnologico",
       "date": "2026-08-14T14:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:78d7cfcdb879",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Fiat Topolino sbarca negli USA, ma c’è un problema “surreale”",
-      "url": "https://www.hdmotori.it/fiat-topolino-usa-problema-omologazione/",
-      "image": null,
-      "summary": "La microcar elettrica non rispetta i limiti LSV. Fiat offre un kit aggiornamento gratuito per sbloccare la velocità e guidare su strada The post Fiat Topolino sbarca negli USA, ma c’è un problema “surreale” appeared f...",
-      "date": "2026-08-14T13:00:26.0000000Z"
     },
     {
       "id": "insideevs:f7099cca974b",
