@@ -1,18 +1,18 @@
 {
   "category": "motori",
-  "updated": "2026-08-16T06:01:37.8976652Z",
+  "updated": "2026-08-16T07:48:26.5359905Z",
   "items": [
     {
-      "id": "insideevs:92b55d30d11d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
+      "id": "hdmotori:9babc7f38702",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
       "platform": "rss",
       "category": "motori",
-      "title": "Ho guidato l'auto più venduta in Cina e mi ha convinto [VIDEO]",
-      "url": "https://insideevs.it/reviews/804896/geely-e2-prova-cina-video/",
-      "image": "https://cdn.motor1.com/images/mgl/6Z8mZe/s3/geely-ex2-la-prova-in-cina.jpg",
-      "summary": "Scopriamo da vicino la la Geely E2, l'elettrica best seller in Cina che arriva anche in Europa",
-      "date": "2026-08-16T05:00:00.0000000Z"
+      "title": "Lamborghini Revuelto SV: 1.065 CV e record a Hockenheim",
+      "url": "https://www.hdmotori.it/lamborghini-revuelto-sv/",
+      "image": null,
+      "summary": "Presentata a The Quail 2026, la nuova Super Veloce ha 50 CV in più rispetto alla Revuelto standard e soluzioni derivate dal motorsport. Solo 1.963 esemplari. The post Lamborghini Revuelto SV: 1.065 CV e record a Hocke...",
+      "date": "2026-08-16T06:30:42.0000000Z"
     },
     {
       "id": "motor1:ad8db77aa639",
@@ -159,18 +159,6 @@
       "date": "2026-08-15T05:00:48.0000000Z"
     },
     {
-      "id": "motor1:7cf3339a4311",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La sportiva Abarth-Alfa Romeo super aerodinamica",
-      "url": "https://it.motor1.com/news/803361/abarth-1300-colani-storia-curiosita/",
-      "image": "https://cdn.motor1.com/images/mgl/YAzypj/s3/abarth-1300-colani-1959.jpg",
-      "summary": "Basata sulla Giulietta Spider, ecco la storia 1300 Berlinetta del 1959. Innovativa nell'aerodinamica, pesa solo 780 kg",
-      "date": "2026-08-15T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:8155a4beb5a2",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -180,6 +168,18 @@
       "url": "https://insideevs.it/news/804837/bmw-ix3-viaggio-800-km/",
       "image": "https://cdn.motor1.com/images/mgl/pbJpMP/s3/bmw-ix3-romania-road-trip.jpg",
       "summary": "Un mix di autostrade, strade di campagna e veloci percorsi di montagna mostra quanto siano semplici i lunghi viaggi col SUV elettrico",
+      "date": "2026-08-15T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:7cf3339a4311",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La sportiva Abarth-Alfa Romeo super aerodinamica",
+      "url": "https://it.motor1.com/news/803361/abarth-1300-colani-storia-curiosita/",
+      "image": "https://cdn.motor1.com/images/mgl/YAzypj/s3/abarth-1300-colani-1959.jpg",
+      "summary": "Basata sulla Giulietta Spider, ecco la storia 1300 Berlinetta del 1959. Innovativa nell'aerodinamica, pesa solo 780 kg",
       "date": "2026-08-15T05:00:00.0000000Z"
     },
     {
@@ -315,18 +315,6 @@
       "date": "2026-08-14T15:00:12.0000000Z"
     },
     {
-      "id": "insideevs:8b1eab65260a",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla Model S usate a prezzi stracciati: cosa sapere e cosa controllare",
-      "url": "https://insideevs.it/features/804981/tesla-model-s-usate-controlli/",
-      "image": "https://cdn.motor1.com/images/mgl/7ZEJPV/s3/model-s-degradation.jpg",
-      "summary": "Molte Model S con elevato chilometraggio conservano gran parte della capacità originale della batteria e sono molto economiche, ma...",
-      "date": "2026-08-14T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:57dc908b0870",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -336,6 +324,18 @@
       "url": "https://it.motor1.com/news/804983/ford-mustang-dark-horse-sc-convertible-informazioni/",
       "image": "https://cdn.motor1.com/images/mgl/JON4qQ/s3/ford-mustang-dark-horse-sc-convertible.jpg",
       "summary": "La Ford Mustang Dark Horse SC Convertible abbina il motore da 5,2 litri da 795 cavalli a una capote in tela",
+      "date": "2026-08-14T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:8b1eab65260a",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla Model S usate a prezzi stracciati: cosa sapere e cosa controllare",
+      "url": "https://insideevs.it/features/804981/tesla-model-s-usate-controlli/",
+      "image": "https://cdn.motor1.com/images/mgl/7ZEJPV/s3/model-s-degradation.jpg",
+      "summary": "Molte Model S con elevato chilometraggio conservano gran parte della capacità originale della batteria e sono molto economiche, ma...",
       "date": "2026-08-14T15:00:00.0000000Z"
     },
     {
@@ -423,18 +423,6 @@
       "date": "2026-08-14T12:40:48.0000000Z"
     },
     {
-      "id": "hdmotori:c4d62f9c724d",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Porsche Taycan, game over: vendite in calo e uscita di scena",
-      "url": "https://www.hdmotori.it/porsche-taycan-stop-produzione/",
-      "image": null,
-      "summary": "In un futuro sempre più incerto per l’industria dell’automotive 2.0, Porsche deve affrontare numeri a ribasso per la Taycan The post Porsche Taycan, game over: vendite in calo e uscita di scena appeared first on HDmot...",
-      "date": "2026-08-14T12:00:28.0000000Z"
-    },
-    {
       "id": "insideevs:fd01a65679dd",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,6 +505,18 @@
       "image": "https://cdn.motor1.com/images/mgl/nAlp3o/s3/devinci-db718-eugenie.jpg",
       "summary": "Nata in Francia, Devinci Cars costruisce roadster elettrici rétro in piccola serie: alluminio, legno, pelle e guida all’aria aperta.",
       "date": "2026-08-13T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:0b3199407af8",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuovo car sharing a Milano: elettriche gratis fino al 2030",
+      "url": "https://insideevs.it/news/804817/car-sharing-milano-elettriche-gratis-2030/",
+      "image": "https://cdn.motor1.com/images/mgl/eo7pVM/s3/car-sharing.jpg",
+      "summary": "Milano pubblica il nuovo bando per il car sharing free floating: più auto elettriche, periferie coperte e servizio attivo fino al 2030",
+      "date": "2026-08-13T13:00:00.0000000Z"
     },
     {
       "id": "motor1:bafff73eec4e",
