@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-16T16:55:08.1446793Z",
+  "updated": "2026-08-16T17:42:32.4820098Z",
   "items": [
+    {
+      "id": "ferrovie:2594d84516a2",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Coradia Stream, E.656 e grandi opere: le principali notizie ferroviarie della settimana",
+      "url": "https://www.ferrovie.info/treni-reali/coradia-stream-e-656-e-grandi-opere-le-principali-notizie-ferroviarie-della-settimana.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/11219/normal_Trenitalia_Regionale_ETR_108_Alstom_coradia.jpeg",
+      "summary": "Una settimana particolarmente ricca per il mondo ferroviario, con novità che spaziano dai nuovi treni regionali alla storia del materiale rotabile italiano, passando per importanti avanzamenti sulle grandi infrastrutt...",
+      "date": "2026-08-16T17:38:29.0000000Z"
+    },
     {
       "id": "ferrovie:7142b9cbc41c",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10001/BBT_mules_3252.jpg",
       "summary": "La TBM Wilma si avvicina al traguardo nella Galleria di Base del Brennero. Dopo il congiungimento delle gallerie di linea tra Italia e Austria, per la grande fresa restano ormai appena 100 metri di scavo. Il 28 luglio...",
       "date": "2026-08-13T07:42:05.0000000Z"
-    },
-    {
-      "id": "ferrovie:f934a095ef39",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Linea Genova - Acqui Terme, dal 18 agosto al 13 settembre stop ai treni per lavori RFI",
-      "url": "https://www.ferrovie.info/treni-reali/linea-genova-acqui-terme-dal-18-agosto-al-13-settembre-stop-ai-treni-per-lavori-rfi.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10608/E464_3802BCarrozze_MDVE-MDVC2BE464_141_1.JPG",
-      "summary": "Rete Ferroviaria Italiana concentra tra agosto e settembre un nuovo programma di interventi per la manutenzione straordinaria, il rinnovo e il potenziamento della linea Genova–Ovada–Acqui Terme/Alessandria. I lavori, ...",
-      "date": "2026-08-13T07:33:17.0000000Z"
     }
   ]
 }
