@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-16T09:56:33.4749223Z",
+  "updated": "2026-08-16T10:53:37.8320210Z",
   "items": [
+    {
+      "id": "motor1:1300c15bdd8a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Bentley Continental GT (W12, 2006), Perché Comprarla... Classic",
+      "url": "https://it.motor1.com/reviews/805064/bentley-continental-gt-w12-classic-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/rKJvy9/s3/bentley-continental-gt-w12-2006-perche-comprarla...-classic.jpg",
+      "summary": "La coupé anglo-tedesca che nei primi anni 2000 rivoluzionò il marchio Bentley: l’abbiamo provata col suo W12... Made in Volkswagen!",
+      "date": "2026-08-16T10:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:99a61ef83ba5",
       "sourceId": "hdmotori",
@@ -51,18 +63,6 @@
       "date": "2026-08-16T06:30:42.0000000Z"
     },
     {
-      "id": "insideevs:92b55d30d11d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ho guidato l'auto più venduta in Cina e mi ha convinto [VIDEO]",
-      "url": "https://insideevs.it/reviews/804896/geely-e2-prova-cina-video/",
-      "image": "https://cdn.motor1.com/images/mgl/6Z8mZe/s3/geely-ex2-la-prova-in-cina.jpg",
-      "summary": "Scopriamo da vicino la la Geely E2, l'elettrica best seller in Cina che arriva anche in Europa",
-      "date": "2026-08-16T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:ad8db77aa639",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -72,6 +72,18 @@
       "url": "https://it.motor1.com/news/804807/mercedes-300-sls-mercedes-srl-stirling-moss-prova/",
       "image": "https://cdn.motor1.com/images/mgl/mMznoq/s3/mercedes-benz-classic-300-sls-und-slr-stirling-moss-im-fahrbericht.jpg",
       "summary": "La prova più che speciale delle Mercedes 300 SLS ed SLR McLaren Stirling Moss: più di 50 anni di differenza ed emozioni indescrivibili",
+      "date": "2026-08-16T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:92b55d30d11d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ho guidato l'auto più venduta in Cina e mi ha convinto [VIDEO]",
+      "url": "https://insideevs.it/reviews/804896/geely-e2-prova-cina-video/",
+      "image": "https://cdn.motor1.com/images/mgl/6Z8mZe/s3/geely-ex2-la-prova-in-cina.jpg",
+      "summary": "Scopriamo da vicino la la Geely E2, l'elettrica best seller in Cina che arriva anche in Europa",
       "date": "2026-08-16T05:00:00.0000000Z"
     },
     {
@@ -207,18 +219,6 @@
       "date": "2026-08-15T05:00:48.0000000Z"
     },
     {
-      "id": "motor1:7cf3339a4311",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La sportiva Abarth-Alfa Romeo super aerodinamica",
-      "url": "https://it.motor1.com/news/803361/abarth-1300-colani-storia-curiosita/",
-      "image": "https://cdn.motor1.com/images/mgl/YAzypj/s3/abarth-1300-colani-1959.jpg",
-      "summary": "Basata sulla Giulietta Spider, ecco la storia 1300 Berlinetta del 1959. Innovativa nell'aerodinamica, pesa solo 780 kg",
-      "date": "2026-08-15T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:8155a4beb5a2",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -228,6 +228,18 @@
       "url": "https://insideevs.it/news/804837/bmw-ix3-viaggio-800-km/",
       "image": "https://cdn.motor1.com/images/mgl/pbJpMP/s3/bmw-ix3-romania-road-trip.jpg",
       "summary": "Un mix di autostrade, strade di campagna e veloci percorsi di montagna mostra quanto siano semplici i lunghi viaggi col SUV elettrico",
+      "date": "2026-08-15T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:7cf3339a4311",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La sportiva Abarth-Alfa Romeo super aerodinamica",
+      "url": "https://it.motor1.com/news/803361/abarth-1300-colani-storia-curiosita/",
+      "image": "https://cdn.motor1.com/images/mgl/YAzypj/s3/abarth-1300-colani-1959.jpg",
+      "summary": "Basata sulla Giulietta Spider, ecco la storia 1300 Berlinetta del 1959. Innovativa nell'aerodinamica, pesa solo 780 kg",
       "date": "2026-08-15T05:00:00.0000000Z"
     },
     {
@@ -363,18 +375,6 @@
       "date": "2026-08-14T15:00:12.0000000Z"
     },
     {
-      "id": "insideevs:8b1eab65260a",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla Model S usate a prezzi stracciati: cosa sapere e cosa controllare",
-      "url": "https://insideevs.it/features/804981/tesla-model-s-usate-controlli/",
-      "image": "https://cdn.motor1.com/images/mgl/7ZEJPV/s3/model-s-degradation.jpg",
-      "summary": "Molte Model S con elevato chilometraggio conservano gran parte della capacità originale della batteria e sono molto economiche, ma...",
-      "date": "2026-08-14T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:57dc908b0870",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -384,6 +384,18 @@
       "url": "https://it.motor1.com/news/804983/ford-mustang-dark-horse-sc-convertible-informazioni/",
       "image": "https://cdn.motor1.com/images/mgl/JON4qQ/s3/ford-mustang-dark-horse-sc-convertible.jpg",
       "summary": "La Ford Mustang Dark Horse SC Convertible abbina il motore da 5,2 litri da 795 cavalli a una capote in tela",
+      "date": "2026-08-14T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:8b1eab65260a",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla Model S usate a prezzi stracciati: cosa sapere e cosa controllare",
+      "url": "https://insideevs.it/features/804981/tesla-model-s-usate-controlli/",
+      "image": "https://cdn.motor1.com/images/mgl/7ZEJPV/s3/model-s-degradation.jpg",
+      "summary": "Molte Model S con elevato chilometraggio conservano gran parte della capacità originale della batteria e sono molto economiche, ma...",
       "date": "2026-08-14T15:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/nAlp3o/s3/devinci-db718-eugenie.jpg",
       "summary": "Nata in Francia, Devinci Cars costruisce roadster elettrici rétro in piccola serie: alluminio, legno, pelle e guida all’aria aperta.",
       "date": "2026-08-13T14:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:bafff73eec4e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Monterey Car Week 2026: tutte le novità",
-      "url": "https://it.motor1.com/news/804672/monterey-car-week-2026-auto-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak3MxO/s3/monterey-car-week-2026-preview.jpg",
-      "summary": "Dalle hypercar da milioni di dollari ai misteriosi nuovi concept, questi sono i debutti più importanti in arrivo a Monterey 2026",
-      "date": "2026-08-12T15:00:00.0000000Z"
     }
   ]
 }
