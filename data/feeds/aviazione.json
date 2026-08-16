@@ -1,7 +1,19 @@
 {
   "category": "aviazione",
-  "updated": "2026-08-16T15:50:44.7021862Z",
+  "updated": "2026-08-16T16:55:08.1564148Z",
   "items": [
+    {
+      "id": "aviationreport:52a7a0a7ccd4",
+      "sourceId": "aviationreport",
+      "source": "Aviation Report",
+      "platform": "rss",
+      "category": "aviazione",
+      "title": "MQ-25 Stingray: verso la produzione e integrazione nel Carrier Air Wing della US Navy",
+      "url": "https://www.aviation-report.com/mq-25-stingray-verso-produzione-e-integrazione-nel-carrier-air-wing-della-us-navy/",
+      "image": null,
+      "summary": "Il programma MQ-25 Stingray della US Navy rappresenta un passaggio strutturale nell’aviazione imbarcata. Il primo drone progettato specificamente per operare dalle portaerei, con missione primaria di rifornimento in v...",
+      "date": "2026-08-16T16:30:29.0000000Z"
+    },
     {
       "id": "aviationreport:f453961678c2",
       "sourceId": "aviationreport",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Il programma VENOM Autonomy Flying Testbed rappresenta un passo concreto nello sviluppo di capacità autonome per il combattimento aereo. Nato dalla collaborazione tra la U.S. Air Force e la Defense Advanced Research P...",
       "date": "2026-08-10T20:05:15.0000000Z"
-    },
-    {
-      "id": "aviationreport:5a4db0bb7a27",
-      "sourceId": "aviationreport",
-      "source": "Aviation Report",
-      "platform": "rss",
-      "category": "aviazione",
-      "title": "X-62 VISTA ha eseguito 27 intercettazioni controllate dall’intelligenza artificiale",
-      "url": "https://www.aviation-report.com/x-62-vista-ha-eseguito-27-intercettazioni-controllate-dall-intelligenza-artificiale/",
-      "image": null,
-      "summary": "In un passo fondamentale verso il futuro dell’autonomia aerea, Lockheed Martin Skunk Works, la US Air Force Test Pilot School (TPS) e partner industriali hanno dimostrato capacità di autonomia basata su sensori su un ...",
-      "date": "2026-08-10T14:03:45.0000000Z"
     }
   ]
 }
