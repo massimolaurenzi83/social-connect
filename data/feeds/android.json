@@ -1,7 +1,19 @@
 {
   "category": "android",
-  "updated": "2026-08-16T13:22:29.6895831Z",
+  "updated": "2026-08-16T14:03:34.4083696Z",
   "items": [
+    {
+      "id": "androidworld:05dde54dfebf",
+      "sourceId": "androidworld",
+      "source": "AndroidWorld",
+      "platform": "rss",
+      "category": "android",
+      "title": "Connessione lenta? Il problema potrebbe essere il cavo Ethernet (e non lo sai)",
+      "url": "https://www.smartworld.it/news/connessione-lenta-colpa-cavo-ethernet-come-verificarlo.html",
+      "image": "https://www.smartworld.it/images/2026/01/27/cavo-ethernet-orig.jpeg",
+      "summary": "La tua connessione Ethernet è bloccata a 100 Mbps invece di 1 Gbps? Il problema potrebbe essere il cavo, non il PC. Ecco come scoprirlo in un minuto. L'articolo Connessione lenta? Il problema potrebbe essere il cavo E...",
+      "date": "2026-08-16T13:58:00.0000000Z"
+    },
     {
       "id": "androidworld:f39c3c4be648",
       "sourceId": "androidworld",
@@ -34,7 +46,7 @@
       "category": "android",
       "title": "Apple vuole pagare gli editori per i contenuti usati da Siri: cifre da capogiro",
       "url": "https://www.smartworld.it/news/apple-paga-editori-contenuti-siri-ai.html",
-      "image": null,
+      "image": "https://www.smartworld.it/images/2026/06/25/apple-orig.png",
       "summary": "Apple vuole pagare gli editori per usare i loro contenuti in Siri AI, con compensi variabili legati all'utilizzo effettivo. Ecco come funziona. L'articolo Apple vuole pagare gli editori per i contenuti usati da Siri: ...",
       "date": "2026-08-15T05:29:00.0000000Z"
     },
@@ -133,18 +145,6 @@
       "image": "https://www.smartworld.it/images/2026/08/14/google-maps-bug-orari-di-punta-orig.png",
       "summary": "Google Maps sta nascondendo i tempi di affluenza su Android per alcuni utenti: ecco cosa sappiamo e come aggirare il problema nel frattempo. L'articolo Gli orari di punta sono spariti da Google Maps su Android: bug o ...",
       "date": "2026-08-14T15:28:00.0000000Z"
-    },
-    {
-      "id": "androidworld:b3d97534c134",
-      "sourceId": "androidworld",
-      "source": "AndroidWorld",
-      "platform": "rss",
-      "category": "android",
-      "title": "One UI 9 permette di disinstallare SwiftKey: addio al bloatware Microsoft sui Galaxy",
-      "url": "https://www.smartworld.it/news/swiftkey-disinstallare-galaxy-one-ui-9.html",
-      "image": "https://www.smartworld.it/wp-content/uploads/android/2014/07/swiftkey-final.jpg",
-      "summary": "Con One UI 9 i Galaxy possono finalmente disinstallare Microsoft SwiftKey: l'accordo tra Samsung e Microsoft sembra arrivato al capolinea. L'articolo One UI 9 permette di disinstallare SwiftKey: addio al bloatware Mic...",
-      "date": "2026-08-14T14:48:00.0000000Z"
     }
   ]
 }
