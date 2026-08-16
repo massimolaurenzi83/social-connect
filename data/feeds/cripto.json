@@ -1,7 +1,19 @@
 {
   "category": "cripto",
-  "updated": "2026-08-16T20:55:15.8041735Z",
+  "updated": "2026-08-16T21:40:36.8600438Z",
   "items": [
+    {
+      "id": "cryptonomist:16544a37af5a",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Stripe acquisisce OpenRouter per 7 miliardi: 5 volte il valore di maggio",
+      "url": "https://cryptonomist.ch/2026/08/16/stripe-acquisisce-openrouter/",
+      "image": null,
+      "summary": "Stripe ha chiuso un accordo per acquisire OpenRouter a un prezzo superiore ai 7 miliardi di dollari, secondo quanto riportato da Bloomberg. È la cifra più alta emersa finora nelle trattative tra le due società, di cui...",
+      "date": "2026-08-16T21:07:05.0000000Z"
+    },
     {
       "id": "cryptonomist:7b1e3c96d7d4",
       "sourceId": "cryptonomist",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "In Francia sono finiti online i dati di quasi 678.000 contribuenti, proprio mentre il paese fa i conti con un’ondata record di aggressioni violente contro chi possiede crypto. Non è un episodio isolato: è l’ultimo cap...",
       "date": "2026-08-16T12:13:20.0000000Z"
-    },
-    {
-      "id": "cryptonomist:eeb782fccf3a",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Vulnerabilità condivisione schermo macOS: hacker minano Monero con accesso root",
-      "url": "https://cryptonomist.ch/2026/08/16/vulnerabilita-condivisione-schermo-macos/",
-      "image": null,
-      "summary": "Una falla ad alta gravità nel sistema di condivisione schermo di macOS è già sotto attacco attivo, e le prime vittime hanno ritrovato sui propri Mac non un ladro di dati, ma un minatore di Monero installato con privil...",
-      "date": "2026-08-16T12:13:04.0000000Z"
     }
   ]
 }

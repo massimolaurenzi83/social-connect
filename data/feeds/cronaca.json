@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-16T20:55:15.8481043Z",
+  "updated": "2026-08-16T21:40:36.8811635Z",
   "items": [
+    {
+      "id": "ansa-cronaca:0b2602fdf17e",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Improvviso nubifragio nel Lecchese, ventenne muore nel lago",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/improvviso-nubifragio-nel-lecchese-ventenne-muore-nel-lago_da1d0a1d-30a0-4a92-80c7-1acb917571ab.html",
+      "image": null,
+      "summary": "Brusco peggioramento e bufera. Le acque improvvisamente agitate",
+      "date": "2026-08-16T21:11:15.0000000Z"
+    },
     {
       "id": "ansa-cronaca:823ed429bceb",
       "sourceId": "ansa-cronaca",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "I principali avvenimenti previsti per la giornata",
       "date": "2026-08-16T16:48:25.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:4156eb69c2aa",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Scivola sul sentiero e cade in un lago in Trentino, morta una donna",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/scivola-sul-sentiero-e-cade-in-un-lago-in-trentino-morta-una-donna_970b31ed-c160-45a1-bfeb-b44a36dd9e72.html",
-      "image": null,
-      "summary": "La 56enne stava risalendo il ripido pendio sul lago di Speccheri",
-      "date": "2026-08-16T16:36:17.0000000Z"
     }
   ]
 }
