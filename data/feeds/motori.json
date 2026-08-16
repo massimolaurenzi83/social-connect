@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-16T10:53:37.8320210Z",
+  "updated": "2026-08-16T11:42:41.7517371Z",
   "items": [
+    {
+      "id": "hdmotori:70b7d19e5f21",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il mistero dell’auto da record, la vettura all’asta non sarebbe quella di Talladega",
+      "url": "https://www.hdmotori.it/audi-5000-cs-mistero-auto-record-talladega/",
+      "image": null,
+      "summary": "L’Audi 5000 CS Quattro all’asta non è l’auto del record di Talladega: le differenze emerse e la nuova descrizione della vettura The post Il mistero dell’auto da record, la vettura all’asta non sarebbe quella di Tallad...",
+      "date": "2026-08-16T11:00:46.0000000Z"
+    },
     {
       "id": "motor1:1300c15bdd8a",
       "sourceId": "motor1",
@@ -63,18 +75,6 @@
       "date": "2026-08-16T06:30:42.0000000Z"
     },
     {
-      "id": "motor1:ad8db77aa639",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ho guidato due delle sportive più incredibili di Mercedes",
-      "url": "https://it.motor1.com/news/804807/mercedes-300-sls-mercedes-srl-stirling-moss-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/mMznoq/s3/mercedes-benz-classic-300-sls-und-slr-stirling-moss-im-fahrbericht.jpg",
-      "summary": "La prova più che speciale delle Mercedes 300 SLS ed SLR McLaren Stirling Moss: più di 50 anni di differenza ed emozioni indescrivibili",
-      "date": "2026-08-16T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:92b55d30d11d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -84,6 +84,18 @@
       "url": "https://insideevs.it/reviews/804896/geely-e2-prova-cina-video/",
       "image": "https://cdn.motor1.com/images/mgl/6Z8mZe/s3/geely-ex2-la-prova-in-cina.jpg",
       "summary": "Scopriamo da vicino la la Geely E2, l'elettrica best seller in Cina che arriva anche in Europa",
+      "date": "2026-08-16T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:ad8db77aa639",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ho guidato due delle sportive più incredibili di Mercedes",
+      "url": "https://it.motor1.com/news/804807/mercedes-300-sls-mercedes-srl-stirling-moss-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/mMznoq/s3/mercedes-benz-classic-300-sls-und-slr-stirling-moss-im-fahrbericht.jpg",
+      "summary": "La prova più che speciale delle Mercedes 300 SLS ed SLR McLaren Stirling Moss: più di 50 anni di differenza ed emozioni indescrivibili",
       "date": "2026-08-16T05:00:00.0000000Z"
     },
     {
@@ -409,18 +421,6 @@
       "image": null,
       "summary": "Siete degli amanti del Motorsport e sognate di acquistare storiche vetture da corsa Honda? Ora è possibile The post Honda, in vendita le auto da corsa più iconiche: occasione imperdibile appeared first on HDmotori.it .",
       "date": "2026-08-14T14:30:25.0000000Z"
-    },
-    {
-      "id": "hdmotori:7e957340d27c",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Koenigsegg CCGT1, la nuova definizione di hypercar: potenza indomabile",
-      "url": "https://www.hdmotori.it/koenigsegg-ccgt1-nuova-definizione-hypercar/",
-      "image": null,
-      "summary": "Koenigsegg produrrà 70 esemplari della CCGT1. Tutte le unità sono già andate vendute perché ci troviamo davanti a un capolavoro assoluto The post Koenigsegg CCGT1, la nuova definizione di hypercar: potenza indomabile ...",
-      "date": "2026-08-14T14:00:01.0000000Z"
     },
     {
       "id": "motor1:08be888c7b08",
