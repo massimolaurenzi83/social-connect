@@ -1,7 +1,31 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-17T18:03:17.2514454Z",
+  "updated": "2026-08-17T19:38:44.0727461Z",
   "items": [
+    {
+      "id": "hdblog:a6b42e6a1141",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Samsung aumenta la produzione di OLED: e la spinta arriva da Apple",
+      "url": "https://www.hdblog.it/smartphone/articoli/n667504/samsung-display-impianto-a7-oled-apple-pieghevoli/",
+      "image": null,
+      "summary": "L'idea è di rafforzare la produzione entro il 2028.",
+      "date": "2026-08-17T18:05:00.0000000Z"
+    },
+    {
+      "id": "tomshw:0196155700c7",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Lenovo Yoga Pro 27UD-10 a 1.115,26€, il QD-OLED 4K per chi crea",
+      "url": "https://www.tomshw.it/offerte/lenovo-yoga-pro-27ud-10-a-111526eur-il-qd-oled-4k-per-chi-crea",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107917/tomshw-offer-831285.png",
+      "summary": "Il Lenovo Yoga Pro 27UD-10 costa 1.115,26€ su Amazon, rispetto al prezzo di listino di 1.499€: lo sconto è del 26% e consente di risparmiare 383,74€. Il pannello QD-OLED e la connessione USB4 trasform...",
+      "date": "2026-08-17T18:03:26.0000000Z"
+    },
     {
       "id": "hdblog:aacd3cac74f0",
       "sourceId": "hdblog",
@@ -37,6 +61,18 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/107916/tomshw-offer-831279.png",
       "summary": "ASUS Prime AP201 costa 81,89€ su Amazon, con uno sconto del 18% sul listino di 99,90€. Il telaio da 33 litri permette di concentrare componenti ad alte prestazioni in una build MicroATX che occupa men...",
       "date": "2026-08-17T17:33:58.0000000Z"
+    },
+    {
+      "id": "hdblog:e0dc88d06924",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "La Duesenberg di Clark Gable regina di Pebble Beach, vince l&#039;edizione 2026",
+      "url": "https://www.hdmotori.it/duesenberg-clark-gable-pebble-beach-2026/",
+      "image": null,
+      "summary": "La Duesemberg SSJ Special Speedster dell’iconico attore americano ha conquistato il Best of Show alla 75ª edizione del Concorso d'Eleganza di Pebble Beach in California.",
+      "date": "2026-08-17T17:30:33.0000000Z"
     },
     {
       "id": "hdblog:402ee3f2bc26",
@@ -147,18 +183,6 @@
       "date": "2026-08-17T15:55:00.0000000Z"
     },
     {
-      "id": "hdblog:4942341a937b",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Pewex, la spesa si può pagare fino a 12 mesi: come funzionano le rate",
-      "url": "https://www.hdblog.it/home/articoli/n667484/pewex-spesa-a-rate-con-klarna-interessi/",
-      "image": null,
-      "summary": "La spesa al supermercato entra nel mondo del buy now, pay later: Pewex introduce Klarna, ma le dilazioni da 6 a 12 mesi sono finanziamenti che prevedono interessi",
-      "date": "2026-08-17T15:45:00.0000000Z"
-    },
-    {
       "id": "tomshw:29ab7da890ce",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -183,18 +207,6 @@
       "date": "2026-08-17T15:31:28.0000000Z"
     },
     {
-      "id": "hdblog:ff0ddf40d1ee",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Auto elettriche, polemica in Belgio: bandite dai parcheggi sopraelevati dei supermercati",
-      "url": "https://www.hdmotori.it/auto-elettriche-belgio-parcheggi-sopraelevati/",
-      "image": null,
-      "summary": "In Belgio le auto elettriche sono state messe al bando dai Carrefour. I motivi della misura eccezionale.",
-      "date": "2026-08-17T15:30:24.0000000Z"
-    },
-    {
       "id": "dday:203483cbb798",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -217,30 +229,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-17T14:58:00.0000000Z"
-    },
-    {
-      "id": "tomshw:59b8a0e8f26c",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Recensione Mortal Shell 2, più grande, grosso e cattivo?",
-      "url": "https://www.tomshw.it/videogioco/recensione-mortal-shell-2-piu-grande-grosso-e-cattivo",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107741/Mortal-Shell-2-(4).jpg",
-      "summary": "In questo caldo, caldissimo agosto che sta attanagliando la nostra penisola e buona parte del globo a provare a rinfrescarci un po’ è Cold Symmetry. Dopo averci regalato nel 2020 il buon...",
-      "date": "2026-08-17T14:49:30.0000000Z"
-    },
-    {
-      "id": "tomshw:e54061804afc",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Giochi PS solo digitali, continua la polemica sotto il nuovo video",
-      "url": "https://www.tomshw.it/videogioco/playstation-giochi-solo-digitali-dal-2028-protesta-sullo-spot-gta-vi",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107897/81a9c783e964f2a74ec46253e6d81a4f6bd84a3a-scaled.webp",
-      "summary": "Il nuovo spot globale It Happens on PS5, pubblicato da Sony Interactive Entertainment il 17 agosto 2026, ha trovato nei commenti una risposta molto diversa da quella cercata dalla campagna. Numerosi u...",
-      "date": "2026-08-17T14:44:50.0000000Z"
     },
     {
       "id": "dday:971821069f5f",
@@ -434,6 +422,18 @@
       "image": null,
       "summary": "",
       "date": "2026-08-17T07:44:00.0000000Z"
+    },
+    {
+      "id": "tomshw:4b4a0afbf166",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Return to Castle Wolfenstein ce l'ha fatta, torna in Germania (senza censure)",
+      "url": "https://www.tomshw.it/videogioco/return-to-castle-wolfenstein-torna-integrale-in-germania-ora-e-acquistabile-senza-censure",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107770/images-17.jpg",
+      "summary": "Dal 7 agosto 2026 i giocatori tedeschi possono acquistare regolarmente la versione PC internazionale, integrale e non censurata di Return to Castle Wolfenstein su Steam, GOG e Microsoft Store. L&rsquo...",
+      "date": "2026-08-17T07:22:24.0000000Z"
     },
     {
       "id": "techprincess:No3v7TcndVw",
