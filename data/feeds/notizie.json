@@ -1,7 +1,248 @@
 {
   "category": "notizie",
-  "updated": "2026-08-17T05:24:46.6389609Z",
+  "updated": "2026-08-17T08:04:51.9681759Z",
   "items": [
+    {
+      "id": "ansa:c405912cf098",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Morta l'attrice Hayden Panettiere, aveva 36 anni",
+      "url": "https://www.ansa.it/sito/notizie/cultura/2026/08/17/morta-lattrice-hayden-panettiere-aveva-36-anni_2e0132aa-a650-429e-850f-5a50d6b76625.html",
+      "image": null,
+      "summary": "Aveva partecipato alle serie tv \"Heroes\" e \"Nashville\"",
+      "date": "2026-08-17T07:55:52.0000000Z"
+    },
+    {
+      "id": "open:4506929dee87",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "L’amico di Nicola Maggiotto, in coma a Barcellona, e la rissa: «Quando hanno capito che eravamo italiani sono diventati più cattivi»",
+      "url": "https://www.open.online/2026/08/17/nicola-maggiotto-aggressione-barcellona-coma/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/Nicola-Maggiotto.jpg",
+      "summary": "Il 21enne ha ricevuto un pugno fuori da un locale della città spagnola. Giuseppe Siben, che era con lui quella sera, racconta l'aggressione: «Volevano continuare ad attaccarlo anche se era già a terra» L'articolo L’am...",
+      "date": "2026-08-17T07:52:10.0000000Z"
+    },
+    {
+      "id": "open:414d1f977d0b",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Etna, l’escursionista ucciso da un fulmine. Ancora limitati i voli a Catania",
+      "url": "https://www.open.online/2026/08/17/etna-escursionista-fulmine-voli-aeroporto-catania/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/etna-escursionista-fulmine.jpg",
+      "summary": "Era in zona vietata e voleva avvicinarsi alla vetta. L'osservatorio Ingv e il cratere Voragine L'articolo Etna, l’escursionista ucciso da un fulmine. Ancora limitati i voli a Catania proviene da Open .",
+      "date": "2026-08-17T07:41:45.0000000Z"
+    },
+    {
+      "id": "skytg24:1td4zRgbDds",
+      "sourceId": "skytg24",
+      "source": "Sky TG24",
+      "platform": "youtube",
+      "category": "notizie",
+      "title": "Pagine, la rassegna stampa del 17 agosto",
+      "url": "https://www.youtube.com/watch?v=1td4zRgbDds",
+      "image": "https://i.ytimg.com/vi/1td4zRgbDds/hqdefault.jpg",
+      "summary": "",
+      "videoId": "1td4zRgbDds",
+      "date": "2026-08-17T07:40:40.0000000Z"
+    },
+    {
+      "id": "repubblica:21619ecd72d7",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Turista americano muore colpito da un fulmine mentre scala l’Etna in una zona vietata",
+      "url": "https://palermo.repubblica.it/cronaca/2026/08/17/news/turista_americano_muore_colpito_da_un_fulmine_mentre_scala_l_etna_in_una_zona_vietata-425532452/",
+      "image": null,
+      "summary": "La vittima ha trent’anni. Soccorso in elicottero è arrivato in ospedale già in arresto cardiocircolatorio",
+      "date": "2026-08-17T07:34:50.0000000Z"
+    },
+    {
+      "id": "ansa:3ffa4250f96e",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Europei di nuoto:Chiude il triplete di Quadarella, una grande Italia saluta Parigi",
+      "url": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/17/europei-di-nuotochiude-il-triplete-di-quadarella-una-grande-italia-saluta-parigi_50bb406b-3051-4bc7-9439-d1187708e7a4.html",
+      "image": null,
+      "summary": "Gli azzurri chiudono con 43 medaglie complessive e sono secondi nel medagliere dietro alla Gran Bretagna per un solo oro",
+      "date": "2026-08-17T07:22:10.0000000Z"
+    },
+    {
+      "id": "ansa:4297401789b8",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Mosca: intercettati e abbattuti 205 droni ucraini",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/17/mosca-intercettati-e-abbattuti-205-droni-ucraini_5707ecd1-17fd-4aa8-b790-e0ed5c4eeebd.html",
+      "image": null,
+      "summary": "Nuovamente bombardati i porti ucraini di Odessa e Izmail. Sul Mar Nero e sul Danubio, lungo il confine con la Romania",
+      "date": "2026-08-17T07:18:20.0000000Z"
+    },
+    {
+      "id": "ansa:4510519c78c4",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "I 90 anni di Mogol, tra pensieri e parole ha rivoluzionato la canzone d'autore",
+      "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/12/i-90-anni-di-mogol-tra-pensieri-e-parole-ha-rivoluzionato-la-canzone-dautore_9ebe9ea6-7f73-400e-98a4-26b7c345bab3.html",
+      "image": null,
+      "summary": "Da Battisti a Bob Dylan e David Bowie, ha firmato quasi 1800 brani",
+      "date": "2026-08-17T07:06:15.0000000Z"
+    },
+    {
+      "id": "repubblica:111277c4b86e",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Influencer morsi dagli squali per il selfie perfetto, gli esperti: “Tre casi in meno di un anno”",
+      "url": "https://www.repubblica.it/esteri/2026/08/17/news/influencer_morse_squali_selfie_perfetto_tre_casi_2026_allarme_esperti_forte_rischio-425532389/",
+      "image": null,
+      "summary": "Gli scienziati: “Ogni settimana online centinaia di video di incontri ravvicinati, ma non sono animali da compagnia e il pericolo è alto”. Secondo il database che monitora le interazioni con esseri umani spesso sono p...",
+      "date": "2026-08-17T07:05:51.0000000Z"
+    },
+    {
+      "id": "open:bc0b9fce38ce",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La chat dei vannacciani, gli insulti antisemiti, il razzismo e la nostalgia di Hitler",
+      "url": "https://www.open.online/2026/08/17/roberto-vannacci-chat-lombardia-antisemitismo-razzismo/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/vannacci.jpg",
+      "summary": "Una risorsa online dei militanti dell'ex generale pubblica insulti agli arabi e frasi nostalgiche L'articolo La chat dei vannacciani, gli insulti antisemiti, il razzismo e la nostalgia di Hitler proviene da Open .",
+      "date": "2026-08-17T06:50:55.0000000Z"
+    },
+    {
+      "id": "open:54afc5346205",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Morta a 36 anni l’attrice Hayden Panettiere, addio alla star di Heroes e Nashville",
+      "url": "https://www.open.online/2026/08/17/hayden-panettiere-morta-attrice-heroes-nashville-cause/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/Hayden-Panettiere.jpg",
+      "summary": "La notizia è stata confermata dal padre dell'attrice. Al momento non sono state rese note le cause della morte, mentre è stata aperta un'indagine per chiarire le circostanze della morte. L'articolo Morta a 36 anni l’a...",
+      "date": "2026-08-17T06:46:04.0000000Z"
+    },
+    {
+      "id": "repubblica:e5bac215f24f",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Ocasio-Cortez e la corsa per il 2028: l'America è pronta per una presidente donna e socialista?",
+      "url": "https://www.repubblica.it/politica/rubriche/spin-off/2026/08/17/news/ocasio_cortez_presidenziali_usa_2028-425532337/",
+      "image": null,
+      "summary": "Per la media dei sondaggi di RealClearPolitics, al momento sarebbe in crescita al quarto posto, dietro a Harris, Newsom, Buttigieg. Eppure, da pochi giorni Polymarket, piattaforma di previsioni basata sulle scommesse,...",
+      "date": "2026-08-17T06:46:01.0000000Z"
+    },
+    {
+      "id": "ansa:7b975ffe9506",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "L'odore del papà aiuta lo sviluppo del cervello del neonato",
+      "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/08/17/lodore-del-papa-aiuta-lo-sviluppo-del-cervello-del-neonato-_bd317c7b-c0b4-4033-83cd-0ad0a42fc15b.html",
+      "image": null,
+      "summary": "Favorisce apprendimento e interazioni sociali",
+      "date": "2026-08-17T06:26:16.0000000Z"
+    },
+    {
+      "id": "repubblica:cf8fe5af2a44",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Lava e cenere dall’Etna, chiusi due settori dell’aeroporto di Catania, arrivi limitati a 5 ogni ora",
+      "url": "https://palermo.repubblica.it/cronaca/2026/08/17/news/lava_e_cenere_dall_etna_chiusi_due_settori_dell_aeroporto_di_catania_arrivi_limitati_a_5_ogni_ora-425532278/",
+      "image": null,
+      "summary": "La riduzione prevista fino alle ore 14. L’attività del vulcano riprende vigore, l’allerta ancora arancione ma aumenta la quantità di cenere in atmosfera. Nessun problema per le partenze",
+      "date": "2026-08-17T06:21:33.0000000Z"
+    },
+    {
+      "id": "ansa:2e0f6cd76f04",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il ritratto più fedele di Io, la luna più interna di Giove",
+      "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/17/il-ritratto-piu-fedele-di-io-la-luna-piu-interna-di-giove_1a042606-1a7c-48c0-b053-0f8b5b27ccdb.html",
+      "image": null,
+      "summary": "Dalla sonda Juno della Nasa. Rilevato calore sotto la superficie",
+      "date": "2026-08-17T06:02:10.0000000Z"
+    },
+    {
+      "id": "ansa:e7261142a514",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Medio Oriente, scade la tregua. L'Iran mette una 'taglia' sui soldati americani",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/16/medio-oriente-scade-la-tregua.-liran-mette-una-taglia-sui-soldati_07f02e43-d967-486e-a574-e24277166b0c.html",
+      "image": null,
+      "summary": "'30mila dollari a chi ne uccide o cattura uno'. Trump: 'Dichiarerò Hormuz territorio Usa'",
+      "date": "2026-08-17T05:59:44.0000000Z"
+    },
+    {
+      "id": "open:d503dcb327fb",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "L’indagine su Malagò in Figc: a rischio la nomina di Mancini in Nazionale?",
+      "url": "https://www.open.online/2026/08/17/indagine-coni-figc-malago-nomina-mancini/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/giovanni-malago-indagine-figc-coni-roberto-mancini-nazionale.jpg",
+      "summary": "Il Coni chiede alla Federcalcio di aprire un'indagine. Il rischio è la nullità di tutti gli atti del presidente L'articolo L’indagine su Malagò in Figc: a rischio la nomina di Mancini in Nazionale? proviene da Open .",
+      "date": "2026-08-17T05:41:30.0000000Z"
+    },
+    {
+      "id": "ansa:02491b0af51b",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Capolavoro Italia: oro di Iapichino e della 4x400, gli azzurri sono campioni d'Europa",
+      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/17/capolavoro-italia-oro-di-iapichino-e-della-4x400-gli-azzurri-sono-campioni_c9866f9d-ce58-4315-bcce-98ae9a01c293.html",
+      "image": null,
+      "summary": "Decisiva la vittoria nella staffetta del miglio, battuti i britannici padroni di casa",
+      "date": "2026-08-17T05:33:42.0000000Z"
+    },
+    {
+      "id": "repubblica:1cd715776b57",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Sfregio ad Antonello da Messina, rubati i capolavori dal museo. Poi i ladri si perdono due tavole",
+      "url": "https://palermo.repubblica.it/cronaca/2026/08/17/news/sfregio_antonello_da_messina_rubati_capolavori_museo_cronaca_notizie_fuga_complici_basista-425532241/",
+      "image": null,
+      "summary": "La direttrice del museo Marisa Mercurio: “Il personale di vigilanza sta in una stanza con i monitor. Abbiamo verificato che sabato sera erano tutti accesi e gli allarmi funzionanti",
+      "date": "2026-08-17T05:11:52.0000000Z"
+    },
+    {
+      "id": "repubblica:ce6967f9dddb",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il testimone: “Così ho visto le opere di Antonello abbandonate per strada”",
+      "url": "https://palermo.repubblica.it/cronaca/2026/08/17/news/furto_antonello_da_messina_testimone_opere_abbandonate-425531789/",
+      "image": null,
+      "summary": "Parla l’uomo che ha fotografato le parti del Polittico all’esterno del museo di Messina: “Con un’applicazione ho capito di cosa si trattava”",
+      "date": "2026-08-17T05:00:00.0000000Z"
+    },
     {
       "id": "open:6cda65dab24e",
       "sourceId": "open",
@@ -27,6 +268,18 @@
       "date": "2026-08-17T04:17:50.0000000Z"
     },
     {
+      "id": "repubblica:7eeec258e270",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Hayden Panettiere, morta la star di “Heroes” e “Scream”. Aveva 36 anni",
+      "url": "https://www.repubblica.it/spettacoli/2026/08/17/news/hayden_panettiere_morta_attrice_scream_heroes_36_anni-425532235/",
+      "image": null,
+      "summary": "Lavorava da quaando aveva 11 mesi partecipando a numerose soap e serie tv. La notizia è stata confermata da suo padre ma la causa del decesso non è stata ancora resa nota",
+      "date": "2026-08-17T03:56:43.0000000Z"
+    },
+    {
       "id": "open:929bdeb4fafd",
       "sourceId": "open",
       "source": "Open",
@@ -37,30 +290,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/report-rai-sospensione-sigfrido-ranucci-valter-lavitola.jpg",
       "summary": "Il rischio della scelta con le elezioni alle porte. Il casting per il successore. L'ipotesi di un passo di lato del conduttore. Le richieste sulla scorta in Commissione Antimafia. L'istanza al Riesame e la possibile d...",
       "date": "2026-08-17T03:50:50.0000000Z"
-    },
-    {
-      "id": "repubblica:0965522fc575",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Regno Unito sotto shock per la morte del prof Arday: “Perseguitato perché nero”",
-      "url": "https://www.repubblica.it/esteri/2026/08/17/news/cambridge_morte_di_arday_accuse_alla_destra_britannica_perseguitato_perche_nero-425531909/",
-      "image": null,
-      "summary": "Il docente di Cambridge forse suicida dopo le accuse di plagio da lui respinte. “Inchiesta sulla gogna della destra”",
-      "date": "2026-08-16T23:00:36.0000000Z"
-    },
-    {
-      "id": "repubblica:1ac157bb971f",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Per l’esplosione a Colleferro la pista del sabotaggio russo",
-      "url": "https://www.repubblica.it/esteri/2026/08/17/news/colleferro_esplosione_fabbrica_armi_pista_russa_ucraina-425532055/",
-      "image": null,
-      "summary": "Rogo alla fabbrica di armi, la procura indaga sui possibili collegamenti con un altro sito di munizioni saltato in aria in Bulgaria",
-      "date": "2026-08-16T23:00:36.0000000Z"
     },
     {
       "id": "repubblica:20150b47c4f2",
@@ -121,90 +350,6 @@
       "image": null,
       "summary": "Braccio di ferro su Hormuz. La Casa Bianca annuncia la stretta economica. Svelati contatti diretti Washington-pasdaran attraverso il curdo Barzani",
       "date": "2026-08-16T23:00:05.0000000Z"
-    },
-    {
-      "id": "repubblica:89d840190c4e",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Ghiacciai sciolti e centrali in tilt, viaggio nelle nostre vite sconvolte",
-      "url": "https://www.repubblica.it/cronaca/2026/08/17/news/ghiacciai_sciolti_centrali_tilt_viaggio_vite_sconvolte_clima-425532088/",
-      "image": null,
-      "summary": "Bollette, salute e attività all’aperto: la crisi climatica pesa sul quotidiano e cresce la percezione dell’emergenza",
-      "date": "2026-08-16T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:c2e23298eb8a",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Mauro Ceruti: “Il mondo intero sull’orlo dell’abisso, ma la politica è assente”",
-      "url": "https://www.repubblica.it/cronaca/2026/08/17/news/emergenza_climatica_intervista_mauro_ceruti_politica-425532036/",
-      "image": null,
-      "summary": "L’allarme sul clima del direttore del Centro sui Sistemi Complessi alla Iulm: “Se le destre negano, le sinistre non brillano”",
-      "date": "2026-08-16T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:c69a8a596dfa",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Stefano Mei: “Nell’atletica siamo il Paese più forte”. Obiettivo portare i Mondiali 2029 a Roma",
-      "url": "https://www.repubblica.it/sport/vari/2026/08/17/news/stefano_mei_atletica_paese_piu_forte_mondiali_2029_roma-425532130/",
-      "image": null,
-      "summary": "Il bilancio della Fidal dopo un Europeo trionfale",
-      "date": "2026-08-16T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:8847f8d03b06",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "È l’anno più torrido di sempre. L’allarme clima non finisce più",
-      "url": "https://www.repubblica.it/cronaca/2026/08/17/news/caldo_record_temperature_2026-425532133/",
-      "image": null,
-      "summary": "L’ondata di caldo sta per finire. Le temperature rientrano nella media, ma tutti i record sono già stati superati. E nel 2027, avvertono gli esperti, andrà ancora peggio. Colpa delle emissioni di gas serra",
-      "date": "2026-08-16T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:1eec2fefe0fe",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "ll cielo di Larissa Iapichino, l’acuto della 4x400. Italia regina d’Europa nell’atletica",
-      "url": "https://www.repubblica.it/sport/vari/2026/08/17/news/larissa_iapichino_oro_lungo_4x400_italia_regina_europa_atletica-425532145/",
-      "image": null,
-      "summary": "Larissa prima per un centimetro: “Ho vinto nella terra di mia madre”. L’ultimo oro è della staffetta al fotofinish sui britannici e vale il primato nel medagliere",
-      "date": "2026-08-16T23:00:00.0000000Z"
-    },
-    {
-      "id": "ansa:02491b0af51b",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Capolavoro Italia: oro di Iapichino e della 4x400, gli azzurri sono campioni d'Europa",
-      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/17/capolavoro-italia-oro-di-iapichino-e-della-4x400-gli-azzurri-sono-campioni_c9866f9d-ce58-4315-bcce-98ae9a01c293.html",
-      "image": null,
-      "summary": "Decisiva la vittoria nella staffetta del miglio, battuti i britannici padroni di casa",
-      "date": "2026-08-16T22:57:34.0000000Z"
-    },
-    {
-      "id": "ansa:3ffa4250f96e",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Europei di nuoto:Chiude il triplete di Quadarella, una grande Italia saluta Parigi",
-      "url": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/17/europei-di-nuotochiude-il-triplete-di-quadarella-una-grande-italia-saluta-parigi_50bb406b-3051-4bc7-9439-d1187708e7a4.html",
-      "image": null,
-      "summary": "Gli azzurri chiudono con 43 medaglie complessive e sono secondi nel medagliere dietro alla Gran Bretagna per un solo oro",
-      "date": "2026-08-16T22:23:19.0000000Z"
     },
     {
       "id": "open:b0ffdae8b8e0",
@@ -279,42 +424,6 @@
       "date": "2026-08-16T18:57:16.0000000Z"
     },
     {
-      "id": "open:21185c0a8503",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Etna in fermento: nuova attività esplosiva alla Voragine e tremore in forte risalita",
-      "url": "https://www.open.online/2026/08/16/etna-diretta-aggiornamento-eruzione-voragine-ingv/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/etna-.jpg",
-      "summary": "A confermare la fase di fermento del vulcano è il dato sismico. Cosa sta succedendo L'articolo Etna in fermento: nuova attività esplosiva alla Voragine e tremore in forte risalita proviene da Open .",
-      "date": "2026-08-16T17:57:31.0000000Z"
-    },
-    {
-      "id": "open:da45d9ac4f69",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Le lunghe file per i bomboloni (o meglio krapfen) mangiati in cima sulle Dolomiti",
-      "url": "https://www.open.online/2026/08/16/krapfen-val-di-fassa-bomboloni-dolomiti/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/krapfen-val-di-fassa-dolomiti-.jpeg",
-      "summary": "I dolci venduti al Friedrich August sul Col Rodella spopolano in rete. Tra la minaccia dell'overtourism, curiosi e una promozione partita dalle piattaforme social L'articolo Le lunghe file per i bomboloni (o meglio kr...",
-      "date": "2026-08-16T17:43:32.0000000Z"
-    },
-    {
-      "id": "ansa:361538b871c6",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Donna uccisa nel Cosentino, il compagno rintracciato al porto di Bari",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/donna-uccisa-nel-cosentino-il-compagno-rintracciato-al-porto-di-bari_3aa78aae-54f2-4272-98b9-c08ad3e5c9b6.html",
-      "image": null,
-      "summary": "Abbandonata davanti all'ospedale, aveva due figli. L'uomo stava per tornare in Albania",
-      "date": "2026-08-16T17:40:43.0000000Z"
-    },
-    {
       "id": "skytg24:4c9F-Z-WvtY",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -326,18 +435,6 @@
       "summary": "",
       "videoId": "4c9F-Z-WvtY",
       "date": "2026-08-16T17:14:08.0000000Z"
-    },
-    {
-      "id": "ansa:91a842cc4d13",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Aggredito fuori da un locale a Barcellona, in coma 21enne italiano",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/italiani-aggrediti-a-barcellona-un-21enne-in-coma-farmacologico_485dcb93-9377-4e68-8525-c67b1595d987.html",
-      "image": null,
-      "summary": "Lesioni cerebrali. Il padre: 'Un'infermiera mi ha chiesto se credo in Dio'",
-      "date": "2026-08-16T17:07:36.0000000Z"
     },
     {
       "id": "skytg24:RPeTS9ou7J0",
@@ -366,30 +463,6 @@
       "date": "2026-08-16T17:05:52.0000000Z"
     },
     {
-      "id": "ansa:f9e60701ff02",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Ucraina, pioggia di droni su Mosca. Uno russo abbattuto da un caccia Nato in Romania",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/16/ucraina-pioggia-di-droni-su-mosca.-uno-russo-abbattuto-da-un-caccia-nato-in-romania_11aaae52-1c29-461e-b386-8f7c58516060.html",
-      "image": null,
-      "summary": "Parigi, Londra e Berlino al lavoro per portare l'Europa al tavolo del negoziato",
-      "date": "2026-08-16T16:57:51.0000000Z"
-    },
-    {
-      "id": "open:2af4b6bdfa91",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Paura a Malpensa: bagagli in fiamme prima del decollo. Torna l’allarme per le batterie al litio in stiva – Il video",
-      "url": "https://www.open.online/2026/08/16/incendio-bagagli-malpensa-volo-british-airways-batterie-litio-video/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/incendio-bagagliaio-malpensa-litio.jpg",
-      "summary": "Tempestivo l'intervento dei vigili del Fuoco in pista. Se il rogo fosse scoppiato ad alta quota le conseguenze potevano esser più gravi L'articolo Paura a Malpensa: bagagli in fiamme prima del decollo. Torna l’allarme...",
-      "date": "2026-08-16T16:35:29.0000000Z"
-    },
-    {
       "id": "skytg24:BwUoDSy2NA8",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -416,18 +489,6 @@
       "date": "2026-08-16T16:11:45.0000000Z"
     },
     {
-      "id": "open:be487ec12d94",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Aggredito fuori da un bar a Barcellona finisce in coma: cosa è successo al 21enne Nicola Maggiotto",
-      "url": "https://www.open.online/2026/08/16/aggressione-giovani-italiani-barcellona/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/nicola-maggiotto.jpeg",
-      "summary": "Ferito anche un amico che si trovava con lui. Il caso seguito dalla Farnesina L'articolo Aggredito fuori da un bar a Barcellona finisce in coma: cosa è successo al 21enne Nicola Maggiotto proviene da Open .",
-      "date": "2026-08-16T16:07:39.0000000Z"
-    },
-    {
       "id": "skytg24:36OmIGNo0KA",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -441,16 +502,16 @@
       "date": "2026-08-16T16:07:01.0000000Z"
     },
     {
-      "id": "open:e8c41c17d4d9",
-      "sourceId": "open",
-      "source": "Open",
+      "id": "ansa:9751579b5638",
+      "sourceId": "ansa",
+      "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Dramma in autostrada a Voghera: guidano con il figlio morto in auto. «Pensavamo stesse dormendo»",
-      "url": "https://www.open.online/2026/08/16/dramma-a21-31enne-morto-auto/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/a21-31enne-morto.jpg",
-      "summary": "A perdere la vita un 31enne d'origine rumena. Il malore fatale non gli avrebbe permesso nemmeno di chiedere aiuto L'articolo Dramma in autostrada a Voghera: guidano con il figlio morto in auto. «Pensavamo stesse dorme...",
-      "date": "2026-08-16T16:01:41.0000000Z"
+      "title": "I latiao, i popolari bastoncini piccanti cinese, sono diventati snack trend",
+      "url": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/08/16/i-latiao-i-popolari-bastoncini-piccanti-cinese-sono-diventati-snack-trend_ec472407-58ff-41e7-9af9-0f5bb66fe7ea.html",
+      "image": null,
+      "summary": "In Cina fanno matrimoni a tema e all'estero sono nel fenomeno Chinamaxxing",
+      "date": "2026-08-16T15:09:00.0000000Z"
     },
     {
       "id": "skytg24:OBVTbEEPC0U",
@@ -528,67 +589,6 @@
       "summary": "",
       "videoId": "mE1FSEgF40M",
       "date": "2026-08-16T11:48:57.0000000Z"
-    },
-    {
-      "id": "skytg24:yS1UpgSyto8",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Afghanistan, i talebani celebrano 5 anni al potere",
-      "url": "https://www.youtube.com/watch?v=yS1UpgSyto8",
-      "image": "https://i.ytimg.com/vi/yS1UpgSyto8/hqdefault.jpg",
-      "summary": "",
-      "videoId": "yS1UpgSyto8",
-      "date": "2026-08-16T11:03:06.0000000Z"
-    },
-    {
-      "id": "ansa:b95ffa2e4b34",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Selena Gomez citata per frode da alcuni investitori nella sua startup Wondermind",
-      "url": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/08/14/selena-gomez-citata-per-frode-da-alcuni-investitori-nella-sua-startup_dfacdd95-c51c-4f3c-a24b-8e0745921444.html",
-      "image": null,
-      "summary": "Querelate anche la madre e l'ex socia Daniella Pierson, cofondatrici dell'azienda",
-      "date": "2026-08-14T18:22:14.0000000Z"
-    },
-    {
-      "id": "ansa:cbd7dfa40568",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Assoturismo, a Ferragosto l'afa premia la montagna, 1,6 milioni presenze nel weekend",
-      "url": "https://www.ansa.it/canale_viaggi/notizie/news/2026/08/14/assoturismo-a-ferragosto-lafa-premia-la-montagna-16-milioni-presenze-nel-weekend_369bf11a-5c1a-4075-9c15-3b30e12eccf6.html",
-      "image": null,
-      "summary": "Agosto si attesta come il mese più importante dell'anno per il turismo montano",
-      "date": "2026-08-14T17:30:27.0000000Z"
-    },
-    {
-      "id": "ansa:d87d0b9c19c0",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Da Spotify ad Anthropic, i big lavorano a etichettare l'IA",
-      "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/08/14/da-spotify-ad-anthropic-corsa-dei-big-a-etichettare-lia-per-rispettare-lue_5484a3db-fb83-4de9-8566-0a4d7d954668.html",
-      "image": null,
-      "summary": "Impegno da Google, Meta e OpenAI. E online già pronti strumenti che cancellano bollini",
-      "date": "2026-08-14T13:56:22.0000000Z"
-    },
-    {
-      "id": "ansa:a8f56aefab54",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Utenti iPhone possibili vittime di attacchi cyber, Apple manda avvisi in 110 Paesi",
-      "url": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/08/14/utenti-iphone-possibili-vittime-di-attacchi-cyber-apple-manda-avvisi-in-110_d1d1f892-45b8-4f32-b631-f321af6112ff.html",
-      "image": null,
-      "summary": "Le notifiche sulle schermate di blocco dei telefoni per segnalare minacce complesse",
-      "date": "2026-08-14T12:24:57.0000000Z"
     }
   ]
 }

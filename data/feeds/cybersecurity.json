@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-17T05:24:46.6653533Z",
+  "updated": "2026-08-17T08:04:51.9244477Z",
   "items": [
+    {
+      "id": "cybersecurity360:726297b0a058",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Software Bill of Materials per l’AI: la supply chain dell’intelligenza artificiale diventa verificabile",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/software-bill-of-materials-per-lai-la-supply-chain-dellintelligenza-artificiale-diventa-verificabile/",
+      "image": null,
+      "summary": "Il G7 definisce per la prima volta gli elementi minimi di un SBOM dedicato ai sistemi AI, estendendo l'inventario software a modelli, dataset, infrastrutture e proprietà di sicurezza. Una base comune per rendere la su...",
+      "date": "2026-08-17T07:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:8c0a61f7a381",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Contro minacce globali e supply chain interconnesse, nessuna organizzazione può gestire gli incidenti in isolamento. FIRST mette in rete oltre 800 team di incident response nel mondo, creando un ecosistema di fiducia ...",
       "date": "2026-08-13T10:42:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:49b4197f0ee1",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Trasparenza VPN e giurisdizione: la sfida di Proton tra codice Open Source e audit pubblici",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/proton-vpn-open-source-audit-no-log/",
-      "image": null,
-      "summary": "Proton VPN propone il piano Plus con uno sconto del 70% sul biennale, a 2,99 euro al mese. L'offerta include oltre 20.000 server in più di 140 Paesi, protezione per 10 dispositivi, streaming, P2P, ad-blocker e anti-ma...",
-      "date": "2026-08-13T09:25:49.0000000Z"
     }
   ]
 }
