@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-17T17:00:57.2006151Z",
+  "updated": "2026-08-17T18:03:17.2653688Z",
   "items": [
+    {
+      "id": "cybersecurity360:af207a96e2c2",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Attacchi informatici: le nuove strategie tra infiltrazione fisica e IA",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/attacchi-informatici-le-nuove-strategie-tra-infiltrazione-fisica-e-ia/",
+      "image": null,
+      "summary": "Un’analisi approfondita sulle nuove frontiere del crimine informatico mostra come le truffe e gli attacchi odierni uniscano infiltrazioni fisiche in ufficio, manipolazioni psicologiche tramite clonazione vocale e l'us...",
+      "date": "2026-08-17T10:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:b780d6af7544",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "La responsabilità del GDPR ha due tempi e, in inglese, due nomi: responsibility, la promessa che guarda in avanti; liability, il vincolo che risponde all’indietro. Ecco la differenza fra responsabilità-promessa che gu...",
       "date": "2026-08-14T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:1a81ccc489c1",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Attacchi ransomware alle aziende italiane oggi (in aggiornamento)",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/attacchi-ransomware-aziende-italiane-oggi/",
-      "image": null,
-      "summary": "Grazie a una dashboard costantemente aggiornata è possibile monitorare l'andamento delle rivendicazioni ransomware che impattano sulle vittime italiane. Ecco tutti gli attacchi ransomware che hanno colpito il nostro P...",
-      "date": "2026-08-13T20:20:33.0000000Z"
     }
   ]
 }
