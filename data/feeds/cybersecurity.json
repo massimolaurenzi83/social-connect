@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-17T08:04:51.9244477Z",
+  "updated": "2026-08-17T10:07:18.6866157Z",
   "items": [
+    {
+      "id": "cybersecurity360:b780d6af7544",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Dati personali al sicuro dall’IA delle Big Tech: come la crittografia end-to-end di Proton Drive protegge il cloud storage",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/proton-drive-cloud-storage-crittografia-end-to-end/",
+      "image": null,
+      "summary": "L’offerta speciale porta 200 GB di cloud crittografato end-to-end a 1 euro per il primo mese. Sono disponibili anche formule annuali e Proton Unlimited, con Drive, Docs, Sheets, Mail, VPN e Pass L'articolo Dati person...",
+      "date": "2026-08-17T09:33:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:1b75b81dca8a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Oltre l’antivirus: la suite Kaspersky Premium integra VPN illimitata, IA e identity protection senza impattare sulle prestazioni",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/kaspersky-premium-protezione-vpn-identity-protection/",
+      "image": null,
+      "summary": "Il piano Premium di Kaspersky parte da 29,99 euro per il primo anno e protegge fino a 20 dispositivi. Inclusi antivirus, VPN illimitata, protezione dell’identità, monitoraggio delle fughe di dati, assistenza tecnica e...",
+      "date": "2026-08-17T09:20:27.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:29cb52135cfa",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Identity Resilience: perché il backup di Active Directory non basta più nell’era del ransomware",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/identity-resilience-perche-il-backup-di-active-directory-non-basta-piu-nellera-del-ransomware/",
+      "image": null,
+      "summary": "La vera sfida non è salvare i dati, ma garantire un recupero rapido e sicuro delle identità dopo una compromissione. Ecco perché in uno scenario, la semplice disponibilità di un backup non è più sufficiente L'articolo...",
+      "date": "2026-08-17T09:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:726297b0a058",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Grazie a una dashboard costantemente aggiornata è possibile monitorare l'andamento delle rivendicazioni ransomware che impattano sulle vittime italiane. Ecco tutti gli attacchi ransomware che hanno colpito il nostro P...",
       "date": "2026-08-13T20:20:33.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:5eb584be0122",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Hack back, Trump rompe il tabù: i privati entrano nella cyber offensiva, ecco i rischi",
-      "url": "https://www.cybersecurity360.it/news/memorandum-trump-aziende-usa-possono-fare-cyber-attacchi/",
-      "image": null,
-      "summary": "Trump firma un memorandum che consente alle aziende statunitensi di sferrare attacchi informatici. La nuova direttiva autorizza le aziende a condurre operazioni sotto la direzione del governo. Il confronto fra lo scen...",
-      "date": "2026-08-13T15:41:16.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:8f4c8679be7a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "GPT-5.6-Cyber trova zero-day e sviluppa exploit: la cyber difesa cambia passo",
-      "url": "https://www.cybersecurity360.it/news/gpt-5-6-cyber-trova-zero-day-e-sviluppa-exploit-la-cyber-difesa-cambia-passo/",
-      "image": null,
-      "summary": "Il nuovo modello specializzato di OpenAI, GPT-5.6-Cyber completa il 95% delle richieste cyber avanzate e ha già individuato vulnerabilità reali. Ma capacità offensive così elevate impongono nuovi controlli: accesso ri...",
-      "date": "2026-08-13T13:53:08.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:cb27b232348c",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "FIRST e incident response: la resilienza cyber si costruisce facendo rete",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/first-e-incident-response-la-resilienza-cyber-si-costruisce-facendo-rete/",
-      "image": null,
-      "summary": "Contro minacce globali e supply chain interconnesse, nessuna organizzazione può gestire gli incidenti in isolamento. FIRST mette in rete oltre 800 team di incident response nel mondo, creando un ecosistema di fiducia ...",
-      "date": "2026-08-13T10:42:00.0000000Z"
     }
   ]
 }

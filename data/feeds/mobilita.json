@@ -1,7 +1,31 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-17T08:04:51.9015418Z",
+  "updated": "2026-08-17T10:07:18.7032016Z",
   "items": [
+    {
+      "id": "ferrovie:a40e9c83a46e",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Linea Monza - Lecco, stop ai treni tra Villasanta e Triuggio per un anno: lavori per Pedemontana",
+      "url": "https://www.ferrovie.info/treni-reali/linea-monza-lecco-stop-ai-treni-tra-villasanta-e-triuggio-per-un-anno-lavori-per-pedemontana.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10606/IMG_6794.jpg",
+      "summary": "RFI sospenderà la circolazione ferroviaria dal 7 settembre 2026 al 2 settembre 2027 per realizzare la variante plano-altimetrica legata al cantiere della Pedemontana Rete Ferroviaria Italiana (Gruppo FS) eseguirà impo...",
+      "date": "2026-08-17T09:31:11.0000000Z"
+    },
+    {
+      "id": "ferrovie:bb0981d182df",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Verona - Vicenza e Vicenza - Schio, riattivata la circolazione dopo i lavori: investiti 73,5 milioni",
+      "url": "https://www.ferrovie.info/treni-reali/verona-vicenza-e-vicenza-schio-riattivata-la-circolazione-dopo-i-lavori-investiti-73-5-milioni.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/11033/etr500_48.jpeg",
+      "summary": "RFI ha concluso l'interruzione programmata: completati interventi infrastrutturali e tecnologici legati anche alla nuova AV/AC Verona-Vicenza. È stata riattivata alle 5 di lunedì 17 agosto la circolazione ferroviaria ...",
+      "date": "2026-08-17T09:13:51.0000000Z"
+    },
     {
       "id": "ferrovie:3e7a05aa595a",
       "sourceId": "ferrovie",
@@ -87,18 +111,6 @@
       "date": "2026-08-14T08:33:42.0000000Z"
     },
     {
-      "id": "ferrovie:4be5287b88c4",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Ucraina, missile russo colpisce un treno passeggeri: morto il Personale di Macchina",
-      "url": "https://www.ferrovie.info/treni-reali/ucraina-missile-russo-colpisce-un-treno-passeggeri-morto-il-personale-di-macchina.html",
-      "image": "https://www.ferrovie.info/images/incidenti/bombardamento_treno_odessa_ucraina_4280.webp",
-      "summary": "Il convoglio è stato colpito nella regione di Odessa. Le Ferrovie Ucraine: “Tutte le circostanze sono attualmente oggetto di indagine”. La guerra in Ucraina continua a coinvolgere anche il trasporto ferroviario .",
-      "date": "2026-08-14T07:15:17.0000000Z"
-    },
-    {
       "id": "ferrovie:8cbb5664cc6f",
       "sourceId": "ferrovie",
       "source": "Ferrovie.info",
@@ -133,18 +145,6 @@
       "image": "https://www.ferrovie.info/images/incidenti/incidente_ferroviario_croazia_8_agosto_2026_1.webp",
       "summary": "Due distinti incidenti ferroviari hanno interessato l'Europa centrale nell'arco di pochi giorni, con conseguenze significative per i passeggeri e per la circolazione ferroviaria. Il primo episodio si è verificato l' 8...",
       "date": "2026-08-14T05:48:59.0000000Z"
-    },
-    {
-      "id": "ferrovie:90c9c4eb015e",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Coradia Stream in Italia, guida pratica alle diverse versioni",
-      "url": "https://www.ferrovie.info/rubriche/approfondimenti/coradia-stream-in-italia-guida-pratica-alle-diverse-versioni.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10529/image00046.jpg",
-      "summary": "Il Coradia Stream è una piattaforma modulare di Alstom, non un unico modello. In Italia è stato realizzato con diverse composizioni, velocità, sistemi di alimentazione e allestimenti, tanto da generare numerose classi...",
-      "date": "2026-08-13T10:20:58.0000000Z"
     }
   ]
 }

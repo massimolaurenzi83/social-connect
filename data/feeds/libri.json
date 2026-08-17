@@ -1,7 +1,19 @@
 {
   "category": "libri",
-  "updated": "2026-08-17T08:04:51.9756141Z",
+  "updated": "2026-08-17T10:07:18.7376342Z",
   "items": [
+    {
+      "id": "illibraio:8551e6c1413b",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "“Battiti”: libri che raccontano le emozioni forti dell’adolescenza",
+      "url": "https://www.illibraio.it/news/editoria/battiti-libri-emozioni-adolescenza-1504176/",
+      "image": null,
+      "summary": "Con Pelledoca editore una nuova collana di romanzi per ragazzi e ragazzi dai 12/13 anni, dedicata alle emozioni forti dell’adolescenza. A metà ottobre in libreria il debutto di \"Battiti\". Spazio a storie capaci di rac...",
+      "date": "2026-08-17T00:10:00.0000000Z"
+    },
     {
       "id": "illibraio:683bb6f35292",
       "sourceId": "illibraio",
@@ -97,18 +109,6 @@
       "image": null,
       "summary": "Nel 1972 viene pubblicato \"La donna della domenica\", un giallo letterario firmato dalla \"ditta\" composta da Carlo Fruttero (1926-2015, di cui ricorre il centenario dalla nascita) e Franco Lucentini (1920-2002), ambien...",
       "date": "2026-08-11T00:21:21.0000000Z"
-    },
-    {
-      "id": "illibraio:715ef0e4bec7",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Classici antichi da leggere: 5 consigli per l’estate (tra “mindfulness”, “fantasy”, pulp e commedia)",
-      "url": "https://www.illibraio.it/news/scuola/classici-antichi-da-leggere-in-estate-1502932/",
-      "image": null,
-      "summary": "Da \"Sulla brevità della vita\" di vecchio Seneca (\"per i fautori della mindfulness e del decluttering mentale\") a \"Le georgiche\" di Virgilio, passando per un \"romanzo deliziosamente piccante\" come \"Satyricon\" di Petron...",
-      "date": "2026-08-10T01:01:36.0000000Z"
     }
   ]
 }
