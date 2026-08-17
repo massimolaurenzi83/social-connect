@@ -1,7 +1,44 @@
 {
   "category": "sport",
-  "updated": "2026-08-17T20:57:40.2081948Z",
+  "updated": "2026-08-17T21:56:07.6646502Z",
   "items": [
+    {
+      "id": "ansa-sport:a9cd270aec0b",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Coppa Italia: il Palermo vince 2-0 contro il Lecce e passa ai sedicesimi",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/coppa-italia-il-palermo-vince-2-0-contro-il-lecce-e-passa-ai-sedicesimi_8f370f84-a403-4cf2-912e-cbf0b757b7b1.html",
+      "image": null,
+      "summary": "I rosanero superano il turno grazie ai gol di Vavassori e Pohjanpalo",
+      "date": "2026-08-17T21:32:00.0000000Z"
+    },
+    {
+      "id": "skysport-yt:rwWoSGqnoiQ",
+      "sourceId": "skysport-yt",
+      "source": "Sky Sport",
+      "platform": "youtube",
+      "category": "sport",
+      "title": "Milan-Diego Moreira, le cifre dell'operazione: 45 milioni di euro + massimo 20 di bonus",
+      "url": "https://www.youtube.com/watch?v=rwWoSGqnoiQ",
+      "image": "https://i.ytimg.com/vi/rwWoSGqnoiQ/hqdefault.jpg",
+      "summary": "",
+      "videoId": "rwWoSGqnoiQ",
+      "date": "2026-08-17T21:27:45.0000000Z"
+    },
+    {
+      "id": "ansa-sport:0f876c4e511a",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Lamour paga le critiche, via dalla Fifa il direttore operativo",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/lamour-paga-le-critiche-via-dalla-fifa-il-direttore-operativo_2faae313-04af-4695-8e0a-9272825a67ad.html",
+      "image": null,
+      "summary": "l dirigente francese si era esposto contro il piano di Infantino sui Mondiali",
+      "date": "2026-08-17T21:03:01.0000000Z"
+    },
     {
       "id": "ansa-sport:771c92aebdfd",
       "sourceId": "ansa-sport",
@@ -13,18 +50,6 @@
       "image": null,
       "summary": "Decidono le reti di Stuckler e di Berti nel finale, i liguri sbagliano un rigore",
       "date": "2026-08-17T20:49:46.0000000Z"
-    },
-    {
-      "id": "ansa-sport:22f02c74836a",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "La Fifa licenzia il direttore operativo Lamour, aveva criticato Infantino",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/la-fifa-licenzia-il-direttore-operativo-lamour-aveva-criticato-infantino_2faae313-04af-4695-8e0a-9272825a67ad.html",
-      "image": null,
-      "summary": "Il dirigente francese sul piano Mondiali: \"Mi ha ingannato\"",
-      "date": "2026-08-17T20:48:27.0000000Z"
     },
     {
       "id": "ansa-sport:b69fa941f199",
@@ -229,10 +254,10 @@
       "source": "Corriere dello Sport",
       "platform": "rss",
       "category": "sport",
-      "title": "Palermo-Lecce diretta: segui la partita di Coppa Italia oggi LIVE",
+      "title": "Palermo avanti in Coppa Italia, Lecce eliminato: Inzaghi batte Di Francesco grazie a Vavassori e Pohjanpalo",
       "url": "https://www.corrieredellosport.it/news/calcio/coppa-italia/2026/08/17-150611948/palermo-lecce_diretta_segui_la_partita_di_coppa_italia_oggi_live/",
       "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/17/205413733-137c8ba4-ad64-443e-938b-c28b79922d0d.jpg",
-      "summary": "Al Barbera si chiude il quadro dei trentaduesimi di finale, in campo le squadre di Inzaghi e Di Francesco: tutti gli aggiornamenti in tempo reale",
+      "summary": "Al Barbera si è chiuso il quadro dei trentaduesimi di finale, con la vittoria dei rosanero ai danni dei salentini",
       "date": "2026-08-17T18:30:00.0000000Z"
     },
     {
@@ -270,18 +295,6 @@
       "image": null,
       "summary": "Nerazzurri si qualificano dal dischetto dopo l'1-1 nei tempi regolamentari",
       "date": "2026-08-17T18:17:04.0000000Z"
-    },
-    {
-      "id": "ansa-sport:9d47fef35411",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Juve: Spalletti 'operazioni intelligenti, c'è ancora da fare'",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/17/juve-spalletti-operazioni-intelligenti-ce-ancora-da-fare_2591edbd-6ef6-4891-bd17-00136acb87ea.html",
-      "image": null,
-      "summary": "Tecnico bianconero, 'ci sono 5-6 squadre fortissime'",
-      "date": "2026-08-17T18:12:59.0000000Z"
     },
     {
       "id": "corrieresport:ec0b05bc7f12",
@@ -432,19 +445,6 @@
       "summary": "",
       "videoId": "cjFSS43BfYM",
       "date": "2026-08-16T22:03:59.0000000Z"
-    },
-    {
-      "id": "skysport-yt:Ut6U7MsYECs",
-      "sourceId": "skysport-yt",
-      "source": "Sky Sport",
-      "platform": "youtube",
-      "category": "sport",
-      "title": "Il salto da 7 metri vale la medaglia d’ORO a Birmingham per Larissa IAPICHINO! ❤️‍🔥💪",
-      "url": "https://www.youtube.com/watch?v=Ut6U7MsYECs",
-      "image": "https://i.ytimg.com/vi/Ut6U7MsYECs/hqdefault.jpg",
-      "summary": "",
-      "videoId": "Ut6U7MsYECs",
-      "date": "2026-08-16T22:02:31.0000000Z"
     },
     {
       "id": "cronachespogliatoio:VJV-LOAsKtU",
