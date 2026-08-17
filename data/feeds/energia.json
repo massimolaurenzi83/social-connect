@@ -1,6 +1,6 @@
 {
   "category": "energia",
-  "updated": "2026-08-17T10:07:18.7216913Z",
+  "updated": "2026-08-17T11:04:36.7386960Z",
   "items": [
     {
       "id": "qualenergia:c806b8589e7b",
@@ -15,6 +15,18 @@
       "date": "2026-08-17T05:15:00.0000000Z"
     },
     {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
+      "date": "2026-08-16T22:25:00.0000000Z"
+    },
+    {
       "id": "qualenergia:af9e17b11224",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -25,18 +37,6 @@
       "image": null,
       "summary": "Sani Zangrando Avvocati – www.sazalex.com The post Erika Mussetti e Mattia Farina first appeared on QualEnergia.it .",
       "date": "2026-08-14T04:00:23.0000000Z"
-    },
-    {
-      "id": "qualenergia:28c24aba79dc",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "BANDI E APPALTI",
-      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
-      "image": null,
-      "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
-      "date": "2026-08-13T22:25:00.0000000Z"
     },
     {
       "id": "qualenergia:6901aa8a8a32",

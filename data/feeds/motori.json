@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-17T10:07:18.7295312Z",
+  "updated": "2026-08-17T11:04:36.7545640Z",
   "items": [
+    {
+      "id": "insideevs:ae06647b12f7",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Tesla Model Y ha perso il 9% di batteria in 1 anno. Ma niente paura",
+      "url": "https://insideevs.it/news/805125/degrado-tesla-model-y-1-anno/",
+      "image": "https://cdn.motor1.com/images/mgl/3WEK6X/s3/model-y-degradation.jpg",
+      "summary": "Dopo 40.000 km, lo stato di salute e la capacità residua degli accumulatori è pari al 91%: ecco perché",
+      "date": "2026-08-17T11:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:4e058f23a912",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ducati, nuovo brevetto. E se la prima elettrica fosse una moto da Cross?",
+      "url": "https://www.vaielettrico.it/ducati-nuovo-brevetto-e-se-la-prima-elettrica-fosse-una-moto-da-cross/",
+      "image": null,
+      "summary": "Un nuovo brevetto Ducati descrive un motore elettrico capace di raggiungere i 18.500 giri/min e soprattutto particolarmente compatto.… L'articolo Ducati, nuovo brevetto. E se la prima elettrica fosse una moto da Cross...",
+      "date": "2026-08-17T10:15:46.0000000Z"
+    },
     {
       "id": "hdmotori:7a5c391fbf00",
       "sourceId": "hdmotori",
@@ -39,18 +63,6 @@
       "date": "2026-08-17T09:30:59.0000000Z"
     },
     {
-      "id": "insideevs:b75a36078a01",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ecco l'aereo elettrico più grande al mondo (e volare costa 5 dollari)",
-      "url": "https://insideevs.it/news/805114/aereo-elettrico-piu-grande-mondo/",
-      "image": "https://cdn.motor1.com/images/mgl/Kbgjmb/s3/heart-aerospace-x1-all-electric-aircraft.jpg",
-      "summary": "L'Heart X1 è salito fino a quota 335 metri e e il suo motore ha erogato oltre 1 MW di potenza",
-      "date": "2026-08-17T09:00:00.0000000Z"
-    },
-    {
       "id": "motor1:082192339080",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -60,6 +72,18 @@
       "url": "https://it.motor1.com/news/805113/land-rover-defender-dakar-2027/",
       "image": "https://cdn.motor1.com/images/mgl/nAlYNG/s3/defender-dakar.jpg",
       "summary": "Derivata direttamente dalla vettura che ha vinto la Dakar 2026, ha un V8 bitubo senza limitazioni e un assetto da corsa",
+      "date": "2026-08-17T09:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:b75a36078a01",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ecco l'aereo elettrico più grande al mondo (e volare costa 5 dollari)",
+      "url": "https://insideevs.it/news/805114/aereo-elettrico-piu-grande-mondo/",
+      "image": "https://cdn.motor1.com/images/mgl/Kbgjmb/s3/heart-aerospace-x1-all-electric-aircraft.jpg",
+      "summary": "L'Heart X1 è salito fino a quota 335 metri e e il suo motore ha erogato oltre 1 MW di potenza",
       "date": "2026-08-17T09:00:00.0000000Z"
     },
     {
@@ -159,18 +183,6 @@
       "date": "2026-08-17T06:00:00.0000000Z"
     },
     {
-      "id": "motor1:3ec996d4c8cb",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Opel Astra vs Volkswagen Golf, duello tra compatte razionali tedesche",
-      "url": "https://it.motor1.com/news/803419/opel-astra-vs-volkswagen-golf-confronto/",
-      "image": "https://cdn.motor1.com/images/mgl/jlWvER/s3/opel-astra-vs-volkswagen-golf-duello-tra-compatte-razionali-tedesche.jpg",
-      "summary": "Sobrie e disponibili con tante motorizzazioni diverse, ecco il confronto tra due icone delle compatte tedesche",
-      "date": "2026-08-17T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:7f7fe140f99e",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -180,6 +192,18 @@
       "url": "https://insideevs.it/features/804841/suv-grandi-elettrici-panoramica-2026/",
       "image": "https://cdn.motor1.com/images/mgl/YAzpRw/s3/collage-4-grosse-elektro-suvs.jpg",
       "summary": "Abbiamo aggiornato completamente la nostra lista dei colossi elettrici: ci sono anche la Skoda Peaq e la Mercedes GLC",
+      "date": "2026-08-17T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:3ec996d4c8cb",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Opel Astra vs Volkswagen Golf, duello tra compatte razionali tedesche",
+      "url": "https://it.motor1.com/news/803419/opel-astra-vs-volkswagen-golf-confronto/",
+      "image": "https://cdn.motor1.com/images/mgl/jlWvER/s3/opel-astra-vs-volkswagen-golf-duello-tra-compatte-razionali-tedesche.jpg",
+      "summary": "Sobrie e disponibili con tante motorizzazioni diverse, ecco il confronto tra due icone delle compatte tedesche",
       "date": "2026-08-17T05:00:00.0000000Z"
     },
     {
@@ -315,18 +339,6 @@
       "date": "2026-08-16T06:30:42.0000000Z"
     },
     {
-      "id": "motor1:ad8db77aa639",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ho guidato due delle sportive più incredibili di Mercedes",
-      "url": "https://it.motor1.com/news/804807/mercedes-300-sls-mercedes-srl-stirling-moss-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/mMznoq/s3/mercedes-benz-classic-300-sls-und-slr-stirling-moss-im-fahrbericht.jpg",
-      "summary": "La prova più che speciale delle Mercedes 300 SLS ed SLR McLaren Stirling Moss: più di 50 anni di differenza ed emozioni indescrivibili",
-      "date": "2026-08-16T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:92b55d30d11d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -336,6 +348,18 @@
       "url": "https://insideevs.it/reviews/804896/geely-e2-prova-cina-video/",
       "image": "https://cdn.motor1.com/images/mgl/6Z8mZe/s3/geely-ex2-la-prova-in-cina.jpg",
       "summary": "Scopriamo da vicino la la Geely E2, l'elettrica best seller in Cina che arriva anche in Europa",
+      "date": "2026-08-16T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:ad8db77aa639",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ho guidato due delle sportive più incredibili di Mercedes",
+      "url": "https://it.motor1.com/news/804807/mercedes-300-sls-mercedes-srl-stirling-moss-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/mMznoq/s3/mercedes-benz-classic-300-sls-und-slr-stirling-moss-im-fahrbericht.jpg",
+      "summary": "La prova più che speciale delle Mercedes 300 SLS ed SLR McLaren Stirling Moss: più di 50 anni di differenza ed emozioni indescrivibili",
       "date": "2026-08-16T05:00:00.0000000Z"
     },
     {
@@ -435,18 +459,6 @@
       "date": "2026-08-15T11:00:00.0000000Z"
     },
     {
-      "id": "vaielettrico:18f250ec6251",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "UK: caro benzina e clima estremo spingono le BEV. Ma Londra vuole frenare",
-      "url": "https://www.vaielettrico.it/uk-caro-benzina-e-clima-estremo-spingono-le-bev-ma-londra-vuole-frenare/",
-      "image": null,
-      "summary": "In UK si pensa di allentare gli obiettivi sulle auto elettriche proprio mentre il Paese affronta caro benzina,… L'articolo UK: caro benzina e clima estremo spingono le BEV. Ma Londra vuole frenare proviene da Vaielett...",
-      "date": "2026-08-15T07:20:12.0000000Z"
-    },
-    {
       "id": "insideevs:8155a4beb5a2",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/y2lMNl/s3/la-voyha-passion-s-completa-il-giro-di-un-tunnel-come-schumacher.jpg",
       "summary": "L'elettrica Voyah Passion S omaggia lo spot del 2010 con protagonista l'ex pilota di Formula 1: video",
       "date": "2026-08-14T10:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:7ef69f7d759a",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Lucid Gravity GT-S da 1.070 CV trasforma il SUV in un razzo",
-      "url": "https://insideevs.it/news/804904/lucid-gravity-gt-s/",
-      "image": "https://cdn.motor1.com/images/mgl/y2l0ob/s3/lucid-gravity-gt-s.jpg",
-      "summary": "Il veicolo elettrico americano offre tanta potenza e tre file di sedili al prezzo base di quasi 126.000 dollari",
-      "date": "2026-08-14T08:07:32.0000000Z"
     }
   ]
 }

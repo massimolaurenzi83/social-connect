@@ -1,7 +1,19 @@
 {
   "category": "f1",
-  "updated": "2026-08-17T10:07:18.6750661Z",
+  "updated": "2026-08-17T11:04:36.6851798Z",
   "items": [
+    {
+      "id": "formulapassion:09fff42006ce",
+      "sourceId": "formulapassion",
+      "source": "FormulaPassion",
+      "platform": "rss",
+      "category": "f1",
+      "title": "Al via alla produzione di IONIQ 3",
+      "url": "https://www.formulapassion.it/auto/auto-news/al-via-alla-produzione-di-ioniq-3",
+      "image": null,
+      "summary": "Prima vettura elettrica prodotta nello stabilimento di İzmit in Turchia",
+      "date": "2026-08-17T10:58:54.0000000Z"
+    },
     {
       "id": "formulapassion:90e8c874c026",
       "sourceId": "formulapassion",
@@ -12,7 +24,19 @@
       "url": "https://www.formulapassion.it/f1/f1-news/ferrari-1995-e-audi-tutti-i-punti-in-comune-secondo-mattia-binotto",
       "image": null,
       "summary": "Il team principal dei Quattro Anelli ha riconosciuto alcuni aspetti del team tedesco che possono essere paragonati alla stagione 1995 della Rossa",
-      "date": "2026-08-17T08:00:00.0000000Z"
+      "date": "2026-08-17T10:00:00.0000000Z"
+    },
+    {
+      "id": "formulapassion:90f679df7c4f",
+      "sourceId": "formulapassion",
+      "source": "FormulaPassion",
+      "platform": "rss",
+      "category": "f1",
+      "title": "Fondo, ali e FTM: ecco le modifiche aerodinamiche per il 2027",
+      "url": "https://www.formulapassion.it/f1/f1-analisi-tecnica/fondo-ali-ftm-ecco-modifiche-aerodinamiche-2027",
+      "image": null,
+      "summary": "Non solo power unit: i regolamenti per l’anno prossimo prevedono anche tante modifiche aerodinamiche. Ecco quali",
+      "date": "2026-08-17T09:00:00.0000000Z"
     },
     {
       "id": "formulapassion:9ea5185e7993",
@@ -27,18 +51,6 @@
       "date": "2026-08-17T08:00:00.0000000Z"
     },
     {
-      "id": "formulapassion:e71cf55c0bba",
-      "sourceId": "formulapassion",
-      "source": "FormulaPassion",
-      "platform": "rss",
-      "category": "f1",
-      "title": "Hakkinen e Coulthard: una rivalità interna senza tensioni",
-      "url": "https://www.formulapassion.it/f1/f1-news/hakkinen-coulthard-una-rivalita-interna-senza-tensioni-mclaren-contatto-gp-austria-1999",
-      "image": null,
-      "summary": "Il due volte iridato finlandese ha spiegato di non aver mai avuto attriti con il suo ex compagno di squadra, anche dopo contatti in pista",
-      "date": "2026-08-17T07:00:00.0000000Z"
-    },
-    {
       "id": "formulapassion:175b1719b8d9",
       "sourceId": "formulapassion",
       "source": "FormulaPassion",
@@ -51,28 +63,16 @@
       "date": "2026-08-17T07:00:00.0000000Z"
     },
     {
-      "id": "formulapassion:90f679df7c4f",
+      "id": "formulapassion:e71cf55c0bba",
       "sourceId": "formulapassion",
       "source": "FormulaPassion",
       "platform": "rss",
       "category": "f1",
-      "title": "Fondo, ali e FTM: ecco le modifiche aerodinamiche per il 2027",
-      "url": "https://www.formulapassion.it/f1/f1-analisi-tecnica/fondo-ali-ftm-ecco-modifiche-aerodinamiche-2027",
+      "title": "Hakkinen e Coulthard: una rivalità interna senza tensioni",
+      "url": "https://www.formulapassion.it/f1/f1-news/hakkinen-coulthard-una-rivalita-interna-senza-tensioni-mclaren-contatto-gp-austria-1999",
       "image": null,
-      "summary": "Non solo power unit: i regolamenti per l’anno prossimo prevedono anche tante modifiche aerodinamiche. Ecco quali",
-      "date": "2026-08-17T06:00:00.0000000Z"
-    },
-    {
-      "id": "formulapassion:88938b78fc70",
-      "sourceId": "formulapassion",
-      "source": "FormulaPassion",
-      "platform": "rss",
-      "category": "f1",
-      "title": "Sergio Perez e le ‘lezioni’ da Verstappen in Red Bull",
-      "url": "https://www.formulapassion.it/f1/f1-news/sergio-perez-le-lezioni-da-verstappen-in-red-bull-velocita-carisma-team-farsi-ascoltare",
-      "image": null,
-      "summary": "Il messicano della Cadillac ha indicato le maggiori qualità del suo ex compagno di squadra che lo hanno aiutato a crescere",
-      "date": "2026-08-17T06:00:00.0000000Z"
+      "summary": "Il due volte iridato finlandese ha spiegato di non aver mai avuto attriti con il suo ex compagno di squadra, anche dopo contatti in pista",
+      "date": "2026-08-17T07:00:00.0000000Z"
     },
     {
       "id": "formulapassion:8e67def00761",
@@ -111,6 +111,18 @@
       "date": "2026-08-17T06:00:00.0000000Z"
     },
     {
+      "id": "formulapassion:88938b78fc70",
+      "sourceId": "formulapassion",
+      "source": "FormulaPassion",
+      "platform": "rss",
+      "category": "f1",
+      "title": "Sergio Perez e le ‘lezioni’ da Verstappen in Red Bull",
+      "url": "https://www.formulapassion.it/f1/f1-news/sergio-perez-le-lezioni-da-verstappen-in-red-bull-velocita-carisma-team-farsi-ascoltare",
+      "image": null,
+      "summary": "Il messicano della Cadillac ha indicato le maggiori qualità del suo ex compagno di squadra che lo hanno aiutato a crescere",
+      "date": "2026-08-17T06:00:00.0000000Z"
+    },
+    {
       "id": "formulapassion:a846defc2a04",
       "sourceId": "formulapassion",
       "source": "FormulaPassion",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "A cinque giri dalla fine lo svedese ha preso il comando della gara, negando il sogno a Grosjean della prima vittoria nella categoria",
       "date": "2026-08-16T19:22:54.0000000Z"
-    },
-    {
-      "id": "formulapassion:ab8ca4ea0b68",
-      "sourceId": "formulapassion",
-      "source": "FormulaPassion",
-      "platform": "rss",
-      "category": "f1",
-      "title": "Albo d’oro del mondiale Piloti dopo il campionato 2025/2026",
-      "url": "https://www.formulapassion.it/formulae/formulae-risultati/albo-oro-del-mondiale-piloti-dopo-il-campionato-2025-2026",
-      "image": null,
-      "summary": "Tutti i campioni del mondo della serie 100% elettrica al termine della stagione 12",
-      "date": "2026-08-16T17:00:33.0000000Z"
     }
   ]
 }
