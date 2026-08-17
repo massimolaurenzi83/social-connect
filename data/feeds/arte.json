@@ -1,7 +1,19 @@
 {
   "category": "arte",
-  "updated": "2026-08-17T15:55:19.0828321Z",
+  "updated": "2026-08-17T17:00:57.1716164Z",
   "items": [
+    {
+      "id": "artribune:d7a033e41dd4",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "In una mostra a Genova il gioco del lotto incontra il cielo e le stelle",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/08/carsten-nicolai-pinksummer-genova/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/carsten-nicolai-atlas-borealis-pinksummer-2026-2webp.webp",
+      "summary": "È la mostra di Carsten Nicolai, visitabile fino al 15 settembre 2026 negli spazi della galleria Pinksummer. Nella nuova serie di lavori l’artista tedesco ha innestato il caso sull'ordine dell'atlante stellare L’artico...",
+      "date": "2026-08-17T17:00:00.0000000Z"
+    },
     {
       "id": "elledecor:a3e13ac4cf7f",
       "sourceId": "elledecor",
@@ -75,18 +87,6 @@
       "date": "2026-08-17T12:00:00.0000000Z"
     },
     {
-      "id": "elledecor:68ed3eb792b0",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Questo ristorante sul lago di Como vanta una tavola panoramica che si affaccia sul Lario",
-      "url": "https://www.elledecor.com/it/viaggi/a73355260/ristorante-sul-lago-di-como/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/a35c4ad7-3cdc-42cd-919f-0038160ffd33.jpg",
-      "summary": "Da Terrazza 241, sui tetti dell’hotel Hilton Lake Como, una tavola panoramica a pochi passi dal centro città è il place to be dell'estate lacustre",
-      "date": "2026-08-17T11:00:00.0000000Z"
-    },
-    {
       "id": "artribune:14a9a9510532",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -99,16 +99,16 @@
       "date": "2026-08-17T11:00:00.0000000Z"
     },
     {
-      "id": "artribune:0abf4922f7c5",
-      "sourceId": "artribune",
-      "source": "Artribune",
+      "id": "elledecor:68ed3eb792b0",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
       "platform": "rss",
       "category": "arte",
-      "title": "C’è un modo per raggiungere la vera gioia con le opere di Beethoven e Dante",
-      "url": "https://www.artribune.com/arti-performative/musica/2026/08/beethoven-dante-gioia/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/geminigeneratedimagemgromhmgromhmgro.png",
-      "summary": "La Nona Sinfonia di Beethoven e la Divina Commedia di Dante sono strade verso la gioia, che è condivisa e collettiva. Ecco come le due opere dialogano e ci ricordano qual è il valore dell’arte L’articolo \" C’è un modo...",
-      "date": "2026-08-17T10:00:00.0000000Z"
+      "title": "Questo ristorante sul lago di Como vanta una tavola panoramica che si affaccia sul Lario",
+      "url": "https://www.elledecor.com/it/viaggi/a73355260/ristorante-sul-lago-di-como/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a35c4ad7-3cdc-42cd-919f-0038160ffd33.jpg",
+      "summary": "Da Terrazza 241, sui tetti dell’hotel Hilton Lake Como, una tavola panoramica a pochi passi dal centro città è il place to be dell'estate lacustre",
+      "date": "2026-08-17T11:00:00.0000000Z"
     },
     {
       "id": "elledecor:bff429e4db1a",
@@ -120,6 +120,18 @@
       "url": "https://www.elledecor.com/it/architettura/a73445932/tashkent-architettura-modernista-unesco/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/547cf7df-5bfa-4a7b-9c91-8cc66afd059b.jpg",
       "summary": "Costruite tra gli Anni 60 e i primi 90, i 10 progetti raccontano una capitale dove il modernismo sovietico incontra il clima, le arti decorative e la cultura dell’Asia Centrale",
+      "date": "2026-08-17T10:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:0abf4922f7c5",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "C’è un modo per raggiungere la vera gioia con le opere di Beethoven e Dante",
+      "url": "https://www.artribune.com/arti-performative/musica/2026/08/beethoven-dante-gioia/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/geminigeneratedimagemgromhmgromhmgro.png",
+      "summary": "La Nona Sinfonia di Beethoven e la Divina Commedia di Dante sono strade verso la gioia, che è condivisa e collettiva. Ecco come le due opere dialogano e ci ricordano qual è il valore dell’arte L’articolo \" C’è un modo...",
       "date": "2026-08-17T10:00:00.0000000Z"
     },
     {
@@ -147,18 +159,6 @@
       "date": "2026-08-17T08:00:00.0000000Z"
     },
     {
-      "id": "elledecor:ae1ac745b6c5",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "La casa sull’albero più grande del mondo nasceva con 80 stanze, una chiesa e un campo da basket",
-      "url": "https://www.elledecor.com/it/case/a73443175/la-casa-sullalbero-piu-grande-del-mondo/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/955a8b45-82fb-446a-86bc-a8bb7b48f26f.jpeg",
-      "summary": "Alta quasi 30 metri e costruita attorno a sette querce, la Minister’s Treehouse era un piccolo mondo verticale tenuto insieme da 258 mila chiodi",
-      "date": "2026-08-17T07:00:00.0000000Z"
-    },
-    {
       "id": "artribune:91da03716c7d",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -168,6 +168,18 @@
       "url": "https://www.artribune.com/arti-visive/fotografia/2026/08/ottobre-2026-archivi-aperti-italia-appuntamenti/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/sandro-scalia03palermo-2018-1.jpg",
       "summary": "A metà ottobre torna“Archivi aperti”, durante il quale gli archivi fotografici pubblici e privati di 11 regioni aprono le proprie collezioni tra visite guidate, incontri tematici e laboratori didattici L’articolo \" A ...",
+      "date": "2026-08-17T07:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:ae1ac745b6c5",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "La casa sull’albero più grande del mondo nasceva con 80 stanze, una chiesa e un campo da basket",
+      "url": "https://www.elledecor.com/it/case/a73443175/la-casa-sullalbero-piu-grande-del-mondo/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/955a8b45-82fb-446a-86bc-a8bb7b48f26f.jpeg",
+      "summary": "Alta quasi 30 metri e costruita attorno a sette querce, la Minister’s Treehouse era un piccolo mondo verticale tenuto insieme da 258 mila chiodi",
       "date": "2026-08-17T07:00:00.0000000Z"
     },
     {
@@ -205,18 +217,6 @@
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/screenshot-2026-08-16-alle-205852.png",
       "summary": "Nel luglio 1974 un piccolo dipinto attribuito ad Antonello da Messina sparì dal Museo del Broletto insieme ad altre sette opere. Cinquantadue anni dopo, una fotografia scattata nel 1961 dall’Archivio SCALA continua a ...",
       "date": "2026-08-16T21:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:30d6e371c2f8",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Il nuovo film del grande regista Kore-eda racconta la perdita nell’era dell’intelligenza artificiale",
-      "url": "https://www.artribune.com/arti-performative/cinema/2026/08/fiml-sheep-box-kore-eda-intelligenza-artificiale-lutto-genitori/",
-      "image": "https://www.youtube.com/embed/j5mlc8TAPNw",
-      "summary": "Dopo il debutto in Concorso al Festival di Cannes 2026, il regista giapponese torna al cinema con “Sheep in the Box”, un'opera che affronta il lutto, la genitorialità e il rapporto con le nuove tecnologie L’articolo \"...",
-      "date": "2026-08-16T20:00:00.0000000Z"
     },
     {
       "id": "elledecor:7a366f07678b",
