@@ -1,7 +1,127 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-17T14:58:59.5577313Z",
+  "updated": "2026-08-17T15:55:19.0666695Z",
   "items": [
+    {
+      "id": "hdblog:4942341a937b",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Pewex, la spesa si può pagare fino a 12 mesi: come funzionano le rate",
+      "url": "https://www.hdblog.it/home/articoli/n667484/pewex-spesa-a-rate-con-klarna-interessi/",
+      "image": null,
+      "summary": "La spesa al supermercato entra nel mondo del buy now, pay later: Pewex introduce Klarna, ma le dilazioni da 6 a 12 mesi sono finanziamenti che prevedono interessi",
+      "date": "2026-08-17T15:45:00.0000000Z"
+    },
+    {
+      "id": "tomshw:29ab7da890ce",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "400€ in meno su LG OLED B6E 48″, un affare per film e gaming 4K",
+      "url": "https://www.tomshw.it/offerte/400eur-in-meno-su-lg-oled-b6e-48-un-affare-per-film-e-gaming-4k",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107909/tomshw-offer-831091.png",
+      "summary": "LG OLED AI B6E da 48 pollici è a 899€ su Amazon, invece di 1.299€, con uno sconto del 31% e 400€ risparmiati. Il pannello OLED e il gaming 4K fino a 120 fps ne fanno un televisore particolarmente vers...",
+      "date": "2026-08-17T15:33:53.0000000Z"
+    },
+    {
+      "id": "tomshw:2ec50bea8570",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "GitHub in tilt: download dei repository al 50% di errori",
+      "url": "https://www.tomshw.it/hardware/github-in-tilt-errori-quasi-al-50-nei-download-dei-repository",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107908/news-flash-831070.png",
+      "summary": "I download degli archivi e dei contenuti raw dei repository hanno registrato errori vicini al 50% durante una grave interruzione di GitHub. Il disservizio ha interessato contemporaneamente l’interfacc...",
+      "date": "2026-08-17T15:31:28.0000000Z"
+    },
+    {
+      "id": "hdblog:ff0ddf40d1ee",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Auto elettriche, polemica in Belgio: bandite dai parcheggi sopraelevati dei supermercati",
+      "url": "https://www.hdmotori.it/auto-elettriche-belgio-parcheggi-sopraelevati/",
+      "image": null,
+      "summary": "In Belgio le auto elettriche sono state messe al bando dai Carrefour. I motivi della misura eccezionale.",
+      "date": "2026-08-17T15:30:24.0000000Z"
+    },
+    {
+      "id": "dday:203483cbb798",
+      "sourceId": "dday",
+      "source": "DDay.it",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Qwen3.8 27B è davvero un modello locale così potente? Lo abbiamo provato su una scheda a migliaia di chilometri di distanza",
+      "url": "https://www.dday.it/redazione/58397/qwen38-27b-e-davvero-un-modello-locale-cosi-potente-lo-abbiamo-provato-su-una-scheda-a-migliaia-di-chilometri-di-distanza",
+      "image": null,
+      "summary": "",
+      "date": "2026-08-17T15:21:00.0000000Z"
+    },
+    {
+      "id": "hdblog:8b4adb84ea24",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Xiaomi lancia un acquario smart che pensa quasi a tutto, anche a nutrire i pesci",
+      "url": "https://www.hdblog.it/xiaomi/articoli/n667481/xiaomi-acquario-smart-smart-fish-tank-2-pro-prezzo/",
+      "image": null,
+      "summary": "Xiaomi presenta Mijia Smart Fish Tank 2 Pro, acquario intelligente con filtrazione multistrato, mangiatoia automatica, display LCD e controllo a distanza attraverso lapp Mi Home",
+      "date": "2026-08-17T15:20:00.0000000Z"
+    },
+    {
+      "id": "hdblog:5f8adff0e909",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Superman di Unitree: il nuovo robot straccia l'uomo in velocità e salto | Video",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n667467/unitree-superman-robot-umanoide-velocita/",
+      "image": null,
+      "summary": "Il nuovo umanoide Superman raggiunge 45,6 km/h e salta 2 metri da fermo.",
+      "date": "2026-08-17T15:10:00.0000000Z"
+    },
+    {
+      "id": "hdblog:c1a929125454",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Fotocamera ZEISS e super teleobiettivo: il vivo V70 5G è al minimo storico",
+      "url": "https://www.hdblog.it/smartphone/offerte/n667470/vivo-v70-5g-fotocamere-zeiss-sconto-amazon/",
+      "image": null,
+      "summary": "Prezzo più basso di sempre su Amazon per il vivo V70 5G da 256GB: fotocamera ZEISS da 50 MP, super teleobiettivo 3x, video 4K a 60 fps, display OLED 1.5K e batteria da 5400 mAh.",
+      "date": "2026-08-17T15:08:00.0000000Z"
+    },
+    {
+      "id": "hdblog:fafce12887d1",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "L&rsquo;auto più estrema al mondo si chiama Czinger 21C Spyder, 1.250 CV e un limite d&#039;altezza",
+      "url": "https://www.hdmotori.it/czinger-21c-spyder-1-250-cv/",
+      "image": null,
+      "summary": "Una meravigliosa creatura su quattro ruote ha fatto capolino al Monterey Car Week 2026. Tenetevi forte per le caratteristiche della Czinger 21C Spyder.",
+      "date": "2026-08-17T15:00:36.0000000Z"
+    },
+    {
+      "id": "dday:3821d26e8351",
+      "sourceId": "dday",
+      "source": "DDay.it",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Samsung a tutto Galaxy Fold: nel 2027 cinque nuovi modelli, due con schermo “wide” come lo Z Fold8",
+      "url": "https://www.dday.it/redazione/58396/samsung-a-tutto-galaxy-fold-nel-2027-cinque-nuovi-modelli-due-con-schermo-wide-come-lo-z-fold8",
+      "image": null,
+      "summary": "",
+      "date": "2026-08-17T14:58:00.0000000Z"
+    },
     {
       "id": "hdblog:691fd30dc5eb",
       "sourceId": "hdblog",
@@ -123,18 +243,6 @@
       "date": "2026-08-17T14:10:00.0000000Z"
     },
     {
-      "id": "hdblog:01a7571eb085",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Samsung Galaxy S26 FE si avvicina: tutto da ammirare nel video leak",
-      "url": "https://www.hdblog.it/smartphone/articoli/n667456/samsung-galaxy-s26-video-leak/",
-      "image": null,
-      "summary": "Sta per scattare l'ora di Samsung Galaxy S26 FE, che fa bella mostra di sé in un nuovo video leak.",
-      "date": "2026-08-17T14:05:00.0000000Z"
-    },
-    {
       "id": "tomshw:6c6501f759dd",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -159,18 +267,6 @@
       "date": "2026-08-17T14:03:18.0000000Z"
     },
     {
-      "id": "hdblog:e9e16e29c00d",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "McLaren svela la McL 6GT Concept: ritorno al passato con la tecnologia del futuro",
-      "url": "https://www.hdmotori.it/mclaren-mcl-6gt-concept/",
-      "image": null,
-      "summary": "Ispirata alla McLaren M6GT, la supercar originale di Bruce McLaren, la 6GT Concept ha fatto capolino alla Monterey Car Week del 2026.",
-      "date": "2026-08-17T14:00:12.0000000Z"
-    },
-    {
       "id": "tomshw:81c5ea19d774",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -183,18 +279,6 @@
       "date": "2026-08-17T13:58:27.0000000Z"
     },
     {
-      "id": "hdblog:24e83bb576c5",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Sam Altman contro l'università: dura troppo, bastano l'AI e una stanza",
-      "url": "https://www.hdblog.it/mercato/articoli/n667465/sam-altman-universita-troppo-lunga-ai-lavoro/",
-      "image": null,
-      "summary": "Le parole del CEO di OpenAI.",
-      "date": "2026-08-17T13:55:00.0000000Z"
-    },
-    {
       "id": "tomshw:f3ef93be99bd",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -205,18 +289,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/107888/windows-abbassa-di-nascosto-a-60-hz-i-monitor-ad-alto-refresh.png",
       "summary": "Windows può riportare automaticamente a 60 Hz un monitor configurato per funzionare a frequenze superiori, senza mostrare un avviso evidente all’utente. Il comportamento emerge dopo operazioni comuni...",
       "date": "2026-08-17T13:53:31.0000000Z"
-    },
-    {
-      "id": "hdblog:503918c63b03",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Riprese perfette con l'iPhone con il gimbal Insta360 Flow Pro scontato del 53%",
-      "url": "https://www.hdblog.it/hardware/offerte/n667464/gimbal-insta360-flow-pro-sconto-amazon/",
-      "image": null,
-      "summary": "Oltre il 50% di sconto sull'Insta360 Flow Pro, stabilizzatore a 3 assi con tracciamento panoramico a 360° e supporto Apple DockKit.",
-      "date": "2026-08-17T13:52:00.0000000Z"
     },
     {
       "id": "tomshw:8938e5961dc8",
@@ -243,18 +315,6 @@
       "date": "2026-08-17T13:45:00.0000000Z"
     },
     {
-      "id": "tomshw:19ab2e434a94",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Film sul soffitto con BenQ GV50 a 545,49€, mai costato così poco",
-      "url": "https://www.tomshw.it/offerte/film-sul-soffitto-con-benq-gv50-a-54549eur-mai-costato-cosi-poco",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107884/tomshw-offer-830817.png",
-      "summary": "BenQ GV50 è a 545,49€ su Amazon, il suo minimo storico, con uno sconto del 9% sul listino di 599€. La base orientabile permette di proiettare film e serie sul soffitto, una possibilità particolarmente...",
-      "date": "2026-08-17T13:34:29.0000000Z"
-    },
-    {
       "id": "techprincess:w7kgSHVm5HI",
       "sourceId": "techprincess",
       "source": "Techprincess",
@@ -266,30 +326,6 @@
       "summary": "",
       "videoId": "w7kgSHVm5HI",
       "date": "2026-08-17T13:15:32.0000000Z"
-    },
-    {
-      "id": "hdblog:f370f2d81193",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Honor Turbo 5G spunta a sorpresa prima del lancio: design e specifiche",
-      "url": "https://www.hdblog.it/smartphone/articoli/n667457/honor-turbo-5g-specifiche-batteria-design-lancio/",
-      "image": null,
-      "summary": "Vediamo cosa offre.",
-      "date": "2026-08-17T13:15:00.0000000Z"
-    },
-    {
-      "id": "tomshw:bb823ad72336",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Intel Arc Pro B70 costa sempre di più: rincari fino al 48%",
-      "url": "https://www.tomshw.it/hardware/intel-arc-pro-b70-rincara-del-48-in-appena-un-mese",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107879/intel-arc-pro-b70-rincara-del-48-in-appena-un-mese.png",
-      "summary": "La GPU professionale Intel Arc Pro B70 ha registrato negli ultimi giorni aumenti particolarmente bruschi nei principali mercati internazionali, arrivando a costare fino al 48% in più rispetto a meno d...",
-      "date": "2026-08-17T13:10:21.0000000Z"
     },
     {
       "id": "dday:838b493db804",
@@ -304,30 +340,6 @@
       "date": "2026-08-17T13:10:00.0000000Z"
     },
     {
-      "id": "tomshw:1ecbf6b841e8",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "I fondi cinesi tagliano NVIDIA e puntano su memoria e storage",
-      "url": "https://www.tomshw.it/hardware/i-fondi-cinesi-riducono-nvidia-e-puntano-su-memoria-e-storage",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107877/i-fondi-cinesi-riducono-nvidia-e-puntano-su-memoria-e-storage.png",
-      "summary": "I principali hedge fund cinesi hanno ricalibrato le proprie strategie internazionali, riducendo l’esposizione a NVIDIA e alle grandi società tecnologiche statunitensi per aumentare le posizioni nei pr...",
-      "date": "2026-08-17T13:01:10.0000000Z"
-    },
-    {
-      "id": "hdblog:12a072f0a682",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Brabus Bodo Cabriolet: 1.000 CV e 360 km/h a cielo aperto",
-      "url": "https://www.hdmotori.it/brabus-bodo-cabriolet/",
-      "image": null,
-      "summary": "Basata sull'Aston Martin Vanquish Volante, la nuova cabriolet di Brabus unisce l’artigianalità, le prestazioni del motore V12 biturbo e la tecnologia blockchain.",
-      "date": "2026-08-17T13:00:47.0000000Z"
-    },
-    {
       "id": "dday:f4dcd7e064c5",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -338,6 +350,18 @@
       "image": null,
       "summary": "",
       "date": "2026-08-17T12:40:00.0000000Z"
+    },
+    {
+      "id": "tomshw:69b16346c444",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Migliori eSIM da usare negli Stati Uniti (agosto 2026)",
+      "url": "https://www.tomshw.it/smartphone/migliori-esim-da-usare-negli-stati-uniti",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89682/migliori-esim-stati-uniti-copertina.jpg",
+      "summary": "Organizzare un viaggio negli Stati Uniti significa usare lo smartphone per quasi tutto: mappe, prenotazioni, ride sharing, pagamenti, traduzioni, check-in, messaggi e chiamate via app. Affidarsi al ro...",
+      "date": "2026-08-17T11:16:10.0000000Z"
     },
     {
       "id": "tomshw:80123adb5ec8",
@@ -422,30 +446,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-17T07:44:00.0000000Z"
-    },
-    {
-      "id": "dday:a915ea5bdd9f",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Mozilla ha integrato un ad-blocker in Firefox per iOS",
-      "url": "https://www.dday.it/redazione/58385/mozilla-ha-integrato-un-ad-blocker-in-firefox-per-ios",
-      "image": null,
-      "summary": "",
-      "date": "2026-08-17T07:39:00.0000000Z"
-    },
-    {
-      "id": "dday:7a7ce41b152e",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "La Lega Calcio toglie il segnale a Tring: la pay TV albanese costa meno di DAZN e non ha il geoblocking",
-      "url": "https://www.dday.it/redazione/58386/la-lega-calcio-toglie-il-segnale-a-tring-la-pay-tv-albanese-costa-meno-di-dazn-e-non-ha-il-geoblocking",
-      "image": null,
-      "summary": "",
-      "date": "2026-08-17T07:21:00.0000000Z"
     },
     {
       "id": "techprincess:No3v7TcndVw",
