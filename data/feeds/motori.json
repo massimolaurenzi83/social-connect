@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-08-17T11:57:32.7094228Z",
+  "updated": "2026-08-17T13:58:11.4951737Z",
   "items": [
+    {
+      "id": "motor1:eb128272ce9a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Porsche \"regala\" al Nurburgring una 911 GT3 molto speciale",
+      "url": "https://it.motor1.com/news/805152/porsche-911-gt3-nurburgring-edition/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak3egP/s3/porsche-911-gt3-100-jahre-nurburgring-edition-2026.jpg",
+      "summary": "La 100 Jahre Nurburgring è un'edizione limitata in 100 esemplari per i 100 anni del circuito tedesco. E ha una dotazione unica",
+      "date": "2026-08-17T13:24:13.0000000Z"
+    },
+    {
+      "id": "hdmotori:12a072f0a682",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Brabus Bodo Cabriolet: 1.000 CV e 360 km/h a cielo aperto",
+      "url": "https://www.hdmotori.it/brabus-bodo-cabriolet/",
+      "image": null,
+      "summary": "Basata sull'Aston Martin Vanquish Volante, la nuova cabriolet di Brabus unisce l’artigianalità, le prestazioni del motore V12 biturbo e la tecnologia blockchain. The post Brabus Bodo Cabriolet: 1.000 CV e 360 km/h a c...",
+      "date": "2026-08-17T13:00:47.0000000Z"
+    },
+    {
+      "id": "insideevs:57336a68abdd",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I camion a guida autonoma sono già in strada in California",
+      "url": "https://insideevs.it/news/805164/camion-guida-autonoma-california/",
+      "image": "https://cdn.motor1.com/images/mgl/9m8oGg/s3/kodiak-ai-truck.jpg",
+      "summary": "Il dipartimento dei trasporti della California ha rilasciato i primi permessi per testare su strada veicoli autonomi pesanti",
+      "date": "2026-08-17T13:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:650946cabc2d",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L’evoluzione dello stile Aston Martin: i segreti della special edition Valen",
+      "url": "https://www.hdmotori.it/stile-aston-martin-valen-segreti-special-edition/",
+      "image": null,
+      "summary": "L'Aston Martin con motore anteriore più potente nei 113 anni di storia dell'azienda ha assunto forme estreme. Scopriamo la Valen in tutta la sua bellezza. The post L’evoluzione dello stile Aston Martin: i segreti dell...",
+      "date": "2026-08-17T12:00:19.0000000Z"
+    },
     {
       "id": "motor1:05c9f8287381",
       "sourceId": "motor1",
@@ -75,18 +123,6 @@
       "date": "2026-08-17T09:30:59.0000000Z"
     },
     {
-      "id": "motor1:082192339080",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Land Rover Defender Dakar diventa di serie e ha 635 CV",
-      "url": "https://it.motor1.com/news/805113/land-rover-defender-dakar-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/nAlYNG/s3/defender-dakar.jpg",
-      "summary": "Derivata direttamente dalla vettura che ha vinto la Dakar 2026, ha un V8 bitubo senza limitazioni e un assetto da corsa",
-      "date": "2026-08-17T09:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:b75a36078a01",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -96,6 +132,18 @@
       "url": "https://insideevs.it/news/805114/aereo-elettrico-piu-grande-mondo/",
       "image": "https://cdn.motor1.com/images/mgl/Kbgjmb/s3/heart-aerospace-x1-all-electric-aircraft.jpg",
       "summary": "L'Heart X1 è salito fino a quota 335 metri e e il suo motore ha erogato oltre 1 MW di potenza",
+      "date": "2026-08-17T09:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:082192339080",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Land Rover Defender Dakar diventa di serie e ha 635 CV",
+      "url": "https://it.motor1.com/news/805113/land-rover-defender-dakar-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/nAlYNG/s3/defender-dakar.jpg",
+      "summary": "Derivata direttamente dalla vettura che ha vinto la Dakar 2026, ha un V8 bitubo senza limitazioni e un assetto da corsa",
       "date": "2026-08-17T09:00:00.0000000Z"
     },
     {
@@ -363,18 +411,6 @@
       "date": "2026-08-16T05:00:00.0000000Z"
     },
     {
-      "id": "motor1:ad8db77aa639",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ho guidato due delle sportive più incredibili di Mercedes",
-      "url": "https://it.motor1.com/news/804807/mercedes-300-sls-mercedes-srl-stirling-moss-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/mMznoq/s3/mercedes-benz-classic-300-sls-und-slr-stirling-moss-im-fahrbericht.jpg",
-      "summary": "La prova più che speciale delle Mercedes 300 SLS ed SLR McLaren Stirling Moss: più di 50 anni di differenza ed emozioni indescrivibili",
-      "date": "2026-08-16T05:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:90bf362a3eba",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -447,18 +483,6 @@
       "date": "2026-08-15T13:00:23.0000000Z"
     },
     {
-      "id": "hdmotori:24813863fc30",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Opel Corsa Hybrid a 99 euro al mese: la promozione",
-      "url": "https://www.hdmotori.it/opel-corsa-hybrid-a-99-euro-al-mese-la-promozione/",
-      "image": null,
-      "summary": "Opel Corsa Hybrid in offerta fino al 31 agosto: prezzo da 16.550 euro, 33 rate da 99 euro e prima rata a novembre 2026 The post Opel Corsa Hybrid a 99 euro al mese: la promozione appeared first on HDmotori.it .",
-      "date": "2026-08-15T11:00:41.0000000Z"
-    },
-    {
       "id": "insideevs:8155a4beb5a2",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -469,18 +493,6 @@
       "image": "https://cdn.motor1.com/images/mgl/pbJpMP/s3/bmw-ix3-romania-road-trip.jpg",
       "summary": "Un mix di autostrade, strade di campagna e veloci percorsi di montagna mostra quanto siano semplici i lunghi viaggi col SUV elettrico",
       "date": "2026-08-15T05:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:49b4cb312e76",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Zeekr 7X prende fuoco a Ningbo (Cina): cos’è successo?",
-      "url": "https://www.hdmotori.it/zeekr-7x-incendio-video-ningbo-cina/",
-      "image": null,
-      "summary": "Zeekr 7X prende fuoco vicino a una colonnina in Cina: le immagini del rogo diventano virali. La spiegazione della casa e i rischi post-incidente The post Zeekr 7X prende fuoco a Ningbo (Cina): cos’è successo? appeared...",
-      "date": "2026-08-14T18:00:49.0000000Z"
     },
     {
       "id": "insideevs:8b1eab65260a",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/VzWknl/s3/colonnine-di-ricarica-pubblica-negli-usa.jpg",
       "summary": "Nel report JD Power 2026 la ricarica rapida DC negli Stati Uniti migliora per affidabilità, sicurezza, costi e pagamento",
       "date": "2026-08-14T12:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:2b9ba0bf91ef",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quest'auto cinese completa il giro di un tunnel come Schumacher",
-      "url": "https://insideevs.it/news/804911/voyah-passion-s-tunnel-video/",
-      "image": "https://cdn.motor1.com/images/mgl/y2lMNl/s3/la-voyha-passion-s-completa-il-giro-di-un-tunnel-come-schumacher.jpg",
-      "summary": "L'elettrica Voyah Passion S omaggia lo spot del 2010 con protagonista l'ex pilota di Formula 1: video",
-      "date": "2026-08-14T10:00:00.0000000Z"
     }
   ]
 }

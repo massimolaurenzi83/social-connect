@@ -1,27 +1,231 @@
 {
   "category": "calcio",
-  "updated": "2026-08-17T11:57:32.6622685Z",
+  "updated": "2026-08-17T13:58:11.4775592Z",
   "items": [
     {
-      "id": "fcinternews:7942bea3cbaf",
+      "id": "tuttosport-calcio:5cdb610ec5c8",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Lega Serie B e Trenitalia insieme: Intercity diventa il Treno Ufficiale della Serie BKT",
+      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/08/17-150606627/lega_serie_b_e_trenitalia_insieme_intercity_diventa_il_treno_ufficiale_della_serie_bkt/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/17/135050733-c5ce25b3-6ac6-41bd-83b3-7d520caf7cb1.jpg",
+      "summary": "Siglata la partnership per le prossime tre stagioni: il calcio incontra la mobilità e i territori per accompagnare tifosi e appassionati",
+      "date": "2026-08-17T13:51:45.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:ea97e74cf245",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Diego Moreira-Milan: &egrave; fatta, Amorim sorride. Allo Strasburgo 48 milioni, la durata del nuovo contratto",
+      "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/08/17-150606361/diego_moreira-milan_fatta_amorim_sorride_allo_strasburgo_48_milioni_la_durata_del_nuovo_contratto/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/17/134606578-d06fe171-2943-4d4e-8c2b-999fae8d227f.jpg",
+      "summary": "I rossoneri chiudono per il belga classe 2004. Tutti i dettagli dell'accordo",
+      "date": "2026-08-17T13:47:08.0000000Z"
+    },
+    {
+      "id": "fcinternews:bbadee3b0976",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Roma, si torna al lavoro su Fofana. Luis Henrique ora è in stand-by",
+      "url": "https://www.fcinternews.it/mercato/roma-torna-lavoro-fofana-luis-henrique-stand-by-1016219",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/bd/bdaf4a4f61b847708f75451629c8f1ea-46505-oooz0000.jpeg",
+      "summary": "Con Rodrigo Mora ormai in dirittura d'arrivo, la Roma si concentra nuovamente sulla possibile acquisizione di Malick Fofana, l'esterno belga dell'Olympique Lione accostato nei giorni scorsi anche all'Inter.",
+      "date": "2026-08-17T13:44:10.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:4829dffbb199",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "La maglia di Del Piero, la &quot;fissa&quot; per Nedved e la fiducia Juve di Spalletti: Locatelli si racconta",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/08/17-150605988/la_maglia_di_del_piero_la_fissa_per_nedved_e_la_fiducia_juve_di_spalletti_locatelli_si_racconta/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/17/134047848-44dbb984-047d-496a-a2a3-44ebaccacb57.jpg",
+      "summary": "Il capitano bianconero ha fatto il punto sul rapporto con il tecnico e sul proprio cammino alla Continassa",
+      "date": "2026-08-17T13:41:00.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:16757a266a09",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Taylor vuole andare via, la richiesta della Lazio | CM",
+      "url": "https://www.calciomercato.it/2026/08/17/taylor-vuole-andare-via-la-richiesta-della-lazio-cm/",
+      "image": null,
+      "summary": "L'articolo Taylor vuole andare via, la richiesta della Lazio | CM proviene da CalcioMercato.it .",
+      "date": "2026-08-17T13:40:05.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:f66886a7b33c",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Futuro Rowe, colpo di scena: decisione definitiva del Bologna",
+      "url": "https://www.calciomercato.it/2026/08/17/futuro-rowe-colpo-di-scena-decisione-definitiva-del-bologna/",
+      "image": null,
+      "summary": "L'articolo Futuro Rowe, colpo di scena: decisione definitiva del Bologna proviene da CalcioMercato.it .",
+      "date": "2026-08-17T13:30:10.0000000Z"
+    },
+    {
+      "id": "fcinternews:043d48b21c21",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Nico Paz chiarisce: \"Volevo solo restare al Como, qui sono felice\"",
+      "url": "https://www.fcinternews.it/focus/nico-paz-volevo-restare-como-felice-1016216",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ad/ad9bb9faaa8453371bcbb7da2c1f8d6d-64426-399o0o1343o943z0a7d.jpeg",
+      "summary": "L'unica volontà di Nico Paz era quella di rimanere al Como e vivere una nuova stagione coi lariani.",
+      "date": "2026-08-17T13:30:00.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:e512f2ce7f67",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Juventus, Di Gregorio (non convocato) in partenza: ecco la nuova squadra | CM",
+      "url": "https://www.calciomercato.it/2026/08/17/juventus-di-gregorio-non-convocato-in-partenza-ecco-la-nuova-squadra-cm/",
+      "image": null,
+      "summary": "L'articolo Juventus, Di Gregorio (non convocato) in partenza: ecco la nuova squadra | CM proviene da CalcioMercato.it .",
+      "date": "2026-08-17T13:28:33.0000000Z"
+    },
+    {
+      "id": "fcinternews:a2aaf307703e",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Milan, Mario Gila: \"Ho voluto fortemente i rossoneri, per me un sogno\"",
+      "url": "https://www.fcinternews.it/news/milan-mario-gila-ho-voluto-fortemente-rossoneri-sogno-1016206",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b7/b7cb86b3c53b8d75668edeae8772fca6-73550-710o108o1457o854z0c39.jpeg",
+      "summary": "Nel corso di un'intervista rilasciata alla Gazzetta dello Sport, il nuovo difensore del Milan Mario Gila ha spiegato cosa rappresenta per lui la firma coi rossoneri: \"Arrivare qua per me significa realizzare un po’ un...",
+      "date": "2026-08-17T13:15:10.0000000Z"
+    },
+    {
+      "id": "fcinternews:307739bd5f3f",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Joao Cancelo-Barcellona, atto terzo: \"O giocavo qui o restavo fermo\"",
+      "url": "https://www.fcinternews.it/ex-nerazzurri/joao-cancelo-barcellona-atto-terzo-o-giocavo-restavo-fermo-1016212",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/68/686f7aef37cd24c462dbdfb746051afb-45058-oooz0000.jpeg",
+      "summary": "João Cancelo è arrivato a Barcellona, pronto ad iniziare la sua nuova avventura con la maglia blaugrana.",
+      "date": "2026-08-17T13:01:18.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:f6250e698840",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "<p>Diretta Juve, sfida con la Next Gen e festa tifosi allo Stadium: segui la giornata in tempo reale</p>",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/08/17-150604915/diretta_juve_sfida_con_la_next_gen_e_festa_tifosi_allo_stadium_segui_la_giornata_in_tempo_reale/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/17/124551507-c858f804-ccf4-4a48-a8b2-18e454736218.jpg",
+      "summary": "Formazioni, risultato, dichiarazioni: il mondo bianconero si ritrova nel tradizionale appuntamento prima dell'inizio ufficiale del campionato. Vivilo con noi",
+      "date": "2026-08-17T13:00:14.0000000Z"
+    },
+    {
+      "id": "fcinternews:27f8e26d213e",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Berenbruch brucia le tappe: il ragazzo è già arrivato ad Avellino",
+      "url": "https://www.fcinternews.it/focus/berenbruch-brucia-tappe-ragazzo-arrivato-avellino-1016211",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d6/d60ef5dbcc9c39156fecc8706bf5a4c9-48719-oooz0000.jpeg",
+      "summary": "In anticipo praticamente di 24 ore rispetto a quanto preventivato, Thomas Berenbruch è arrivato ad Avellino, pronto a cominciare la sua avventura con la maglia biancoverde della squadra di Alessandro Nesta facendo cap...",
+      "date": "2026-08-17T12:46:08.0000000Z"
+    },
+    {
+      "id": "fcinternews:49a84f50974b",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Khalaili subito via dal Palace? Goren: \"Ne parleremo al momento\"",
+      "url": "https://www.fcinternews.it/news/khalaili-via-palace-goren-ne-parleremo-momento-1016210",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f6/f65f42afca47165f88565a0bf1e652cc-82476-oooz0000.jpeg",
+      "summary": "Boaz Goren, agente di Anan Khalaili, nel corso dell'intervista rilasciata a 103 FM è stato interpellato anche sulla possibilità che il suo assistito possa lasciare in breve tempo il Crystal Palace, club dove si è acca...",
+      "date": "2026-08-17T12:32:14.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:23aa879a8144",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "<p>Da Licina a Corigliano il sogno dei talenti Juve: i convocati per la sfida alla prima squadra</p>",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/08/17-150605314/da_licina_a_corigliano_il_sogno_dei_talenti_juve_i_convocati_per_la_sfida_alla_prima_squadra/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/17/121818069-94296b4b-e927-4bf6-857c-7ecc95a3aeba.jpg",
+      "summary": "Next Gen, test con il gruppo di Spalletti all'Allianz Stadium: 27 ragazzi a disposizione di Brambilla",
+      "date": "2026-08-17T12:20:08.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:f129c1a92d83",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Inter, Luis Henrique dice sì alla Roma: trattativa caldissima",
+      "url": "https://www.calciomercato.it/2026/08/17/inter-luis-henrique-dice-si-alla-roma-trattativa-caldissima/",
+      "image": null,
+      "summary": "L'articolo Inter, Luis Henrique dice sì alla Roma: trattativa caldissima proviene da CalcioMercato.it .",
+      "date": "2026-08-17T12:19:28.0000000Z"
+    },
+    {
+      "id": "fcinternews:d8e1c46c11ed",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "L'ag. di Khalaili: \"Niente Inter? Abbiamo riso. Ma i nerazzurri erano al top\"",
+      "url": "https://www.fcinternews.it/in-primo-piano/ag-khalaili-niente-inter-riso-nerazzurri-top-1016209",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/2f/2fe9826b5d3aadd857f37b472ade4071-42988-oooz0000.jpeg",
+      "summary": "Dopo l'arrivo dell'ufficialità dell'accordo col Crystal Palace del suo assistito, Boaz Goren, agente di Anan Khalaili, ha rilasciato un'intervista ai microfoni dell'emittente israeliana 103 FM nella quale torna in pri...",
+      "date": "2026-08-17T12:17:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:f58ad3684634",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Coppa Italia Serie C: i rigori puniscono Inter, Juventus e Atalanta",
+      "url": "https://www.fcinternews.it/news/coppa-italia-serie-c-rigori-puniscono-inter-juventus-atalanta-1016195",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c7/c7047d57e37690d921407620f3b11d62-19388-oooz0000.jpeg",
+      "summary": "Non è una coppa peer le seconde squadre. In estrema sintesi, si può riassumere così l'esito del primo turno di Coppa Italia Serie C che ha visto l'eliminazione contemporanea di Inter, Juventus e Atalanta.",
+      "date": "2026-08-17T12:04:09.0000000Z"
+    },
+    {
+      "id": "fcinternews:40a59491c445",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "Sky - Thuram, allenamento in gruppo: è a disposizione per il Monza",
-      "url": "https://www.fcinternews.it/da-appiano/i-sky-i-thuram-allenamento-gruppo-disposizione-monza-1016208",
+      "url": "https://www.fcinternews.it/copertina/i-sky-i-thuram-allenamento-gruppo-disposizione-monza-1016208",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d7/d7c3e87abd8613b8c28c4dfbbe003bf2-13037-oooz0000.jpeg",
       "summary": "Come vi avevamo annunciato ieri, Marcus Thuram è tornato ad allenarsi coi compagni nella seduta di questa mattina alla Pinetina.",
       "date": "2026-08-17T11:50:15.0000000Z"
     },
     {
-      "id": "fcinternews:eaf298f143f5",
+      "id": "fcinternews:c82bed691fe0",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "Jones, tutto per l'Inter. E la distanza col Liverpool è ai minimi termini",
-      "url": "https://www.fcinternews.it/in-primo-piano/jones-inter-ormai-distanza-liverpool-termini-1016207",
+      "url": "https://www.fcinternews.it/focus/jones-inter-ormai-distanza-liverpool-termini-1016207",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f5/f58b491539cd257a506d82d811c93180-86225-oooz0000.jpeg",
       "summary": "Curtis Jones sta \"facendo tutto il possibile\" per completare il trasferimento dal Liverpool all'Inter prima della scadenza della sessione estiva di mercato tra due settimane.",
       "date": "2026-08-17T11:40:10.0000000Z"
@@ -87,18 +291,6 @@
       "date": "2026-08-17T11:15:00.0000000Z"
     },
     {
-      "id": "fcinternews:95cdfe060416",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Il Monza prova a rinforzarsi in vista dell'Inter: due discorsi con la Juventus",
-      "url": "https://www.fcinternews.it/l-avversario/monza-prova-rinforzarsi-vista-inter-discorsi-juventus-1016196",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ef/ef0ea10af978b6e73c2d64bbf7f75903-77973-397o132o1493o1228z0cb2.jpeg",
-      "summary": "Eliminato l'Avellino con un netto 3-0 in Coppa Italia, il Monza ha già la testa all'esordio in campionato contro l'Inter sabato 22 agosto al Meazza.",
-      "date": "2026-08-17T11:09:02.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:a8e570536fa0",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -111,30 +303,6 @@
       "date": "2026-08-17T11:00:00.0000000Z"
     },
     {
-      "id": "fcinternews:2d59c61d141b",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "UFFICIALE - Nuovo acquisto per la Juventus: Jhon Lucumì",
-      "url": "https://www.fcinternews.it/il-resto-del-mercato/ufficiale-acquisto-juventus-jhon-lucumi-1016192",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/34/349144c1ada06e9cb743c62f58b89350-44527-686o108o1506o927z0c9b.jpeg",
-      "summary": "Ancora un annuncio da parte della Juventus, che pur dovendo cedere diversi giocatori fuori dal progetto continua ad arricchire la propria rosa.",
-      "date": "2026-08-17T10:55:01.0000000Z"
-    },
-    {
-      "id": "fcinternews:327e3d613ddd",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Il Messaggero - Lazio-Mantova: 5,5 all'incolpevole Frattesi",
-      "url": "https://www.fcinternews.it/rassegna/i-il-messaggero-i-lazio-mantova-5-5-incolpevole-frattesi-1016185",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ca/ca5e5218119009cc73fda95dff717db3-87184-413o183o1308o1078z0ba6.jpeg",
-      "summary": "Nel disastro di ieri sera all'Olimpico contro il Mantova, che ha eliminato la Lazio dalla Coppa Italia battendola per 2-0, ha fatto il suo esordio ilanche il neo entrato Davide Frattesi, al 71' sostituendo Fisayo Dele...",
-      "date": "2026-08-17T10:46:29.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:66df78752c71",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -145,66 +313,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/08/17/060004871-c40a20a7-c89e-4585-aab9-067aab36cb30.jpg",
       "summary": "Battute finali del calciomercato, cosa può nascere sull'asse Torino-Milano sponda rossonera: i dettagli",
       "date": "2026-08-17T10:40:21.0000000Z"
-    },
-    {
-      "id": "fcinternews:36e0cd43adee",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Lazio, la Curva attacca: \"Benvenuto Frattesi, stic...i di Frattesi. L'obiettivo...\"",
-      "url": "https://www.fcinternews.it/copertina/lazio-curva-attacca-benvenuto-frattesi-stic-i-frattesi-obiettivo-1016204",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6a/6a85fa022076fad64b253011da951c04-57818-oooz0000.jpeg",
-      "summary": "Il clima intorno alla Lazio è sempre più incandescente.",
-      "date": "2026-08-17T10:38:10.0000000Z"
-    },
-    {
-      "id": "fcinternews:c5221d50db41",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "L'agente di Perisic: \"L'Inter? Non si muove nulla. Attendiamo\"",
-      "url": "https://www.fcinternews.it/focus/agente-perisic-l-inter-muove-nulla-attendiamo-1016202",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a5/a513db87e4c5e432a8cf0b181229d118-33612-oooz0000.jpeg",
-      "summary": "\"Al momento su questo fronte non si muove nulla. Attendiamo novità\".",
-      "date": "2026-08-17T10:27:11.0000000Z"
-    },
-    {
-      "id": "fcinternews:5149791f69f3",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "SM - Luis Henrique, c'è distanza tra Roma e Inter. Previsti nuovi contatti",
-      "url": "https://www.fcinternews.it/focus/i-sm-i-luis-henrique-distanza-roma-inter-previsti-contatti-1016201",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/18/18f73f285bffb8d9f36c5d6e6d0fc0e8-66890-oooz0000.jpeg",
-      "summary": "Situazione in divenire per l'operazione Luis Henrique-Roma.",
-      "date": "2026-08-17T10:14:13.0000000Z"
-    },
-    {
-      "id": "fcinternews:a0515ff705bd",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "VIDEO - La SETTIMANA di CURTIS JONES all'INTER. Lui legato a LUIS HENRIQUE? Ecco la verità",
-      "url": "https://www.fcinternews.it/in-primo-piano/calciomercato-inter-news-jones-luis-henrique-settimana-1016199",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/94/949fca707521ad57ce4961d0d1cbb401-80696-oooz0000.jpeg",
-      "summary": "Spazio al calciomercato nel video mattutino. Questa è la settimana di Inter-Monza ma non solo, può essere anche la settimana di Curtis Jones in nerazzurro.",
-      "date": "2026-08-17T10:00:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:a0dd7c58340f",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Chivu sorride: Spence si inserisce, Thuram recupera",
-      "url": "https://www.fcinternews.it/rassegna/chivu-sorride-spence-inserisce-thuram-recupera-1016191",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d7/d7c3e87abd8613b8c28c4dfbbe003bf2-13037-oooz0000.jpeg",
-      "summary": "Tra mercato e campo, la pre-season dell'Inter procede dritta verso sabato prossimo, giorno d'esordio in campionato al Meazza contro il Monza.",
-      "date": "2026-08-17T09:44:23.0000000Z"
     },
     {
       "id": "calciomercato-it:f3a99b43304a",
@@ -243,18 +351,6 @@
       "date": "2026-08-17T08:26:47.0000000Z"
     },
     {
-      "id": "tuttosport-calcio:29f80fe74d7a",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Vicario alla Juve, &egrave; fatta! Accordo col Tottenham, il portiere in arrivo a Torino: tutti i dettagli",
-      "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/08/17-150602448/vicario_alla_juve_fatta_accordo_col_tottenham_il_portiere_in_arrivo_a_torino_tutti_i_dettagli/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/17/082009652-6a743444-93fa-423e-aeee-2b8e21e095ae.jpg",
-      "summary": "Dopo la frenata sul Dibu Martinez i bianconeri chiudono per il secondo di Donnarumma in Nazionale: Spalletti ha il nuovo numero uno",
-      "date": "2026-08-17T08:20:25.0000000Z"
-    },
-    {
       "id": "calciomercato-it:567df7a9c429",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -279,30 +375,6 @@
       "date": "2026-08-17T07:44:45.0000000Z"
     },
     {
-      "id": "tuttosport-calcio:12ce46867c18",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Lucumi ufficiale: &quot;Forza Juve, ci vediamo allo Stadium&quot;. Quanto ha speso Carnevali, tutte le cifre",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/08/17-150601554/lucumi_ufficiale_forza_juve_ci_vediamo_allo_stadium_quanto_ha_speso_carnevali_tutte_le_cifre/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/17/072039940-78bc4b87-cf18-4df5-8539-367375534e0a.jpg",
-      "summary": "Il difensore colombiano nuovo pilastro della retroguardia bianconera: la durata del contratto e tutti i dettagli",
-      "date": "2026-08-17T07:32:19.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:15be56a7c77e",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Roma-Mora in chiusura, Napoli su Gabriel Jesus, Atalanta su un ex Juve. E Cabal...",
-      "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/08/17-150599990/roma-mora_in_chiusura_napoli_su_gabriel_jesus_atalanta_su_un_ex_juve_e_cabal_/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/17/065753513-c5296ab4-747c-4cf4-8609-1acdd2f49ab0.jpg",
-      "summary": "Accordo vicino con i giallorossi: al Porto andranno 25 milioni e il 50% sulla futura rivendita. Genoa e Lazio, idea Lucca se arriva il brasiliano da Allegri",
-      "date": "2026-08-17T07:00:33.0000000Z"
-    },
-    {
       "id": "calciomercato-it:1eed42b11403",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -313,30 +385,6 @@
       "image": null,
       "summary": "L'articolo Il Milan ci ripensa: Amorim blocca la cessione, Cissè resta in rossonero proviene da CalcioMercato.it .",
       "date": "2026-08-17T06:58:38.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:cb0c9feee530",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Calciomercato Inter: Bovio e Esposito blindati, Jones in arrivo e Chivu chiede la ciliegina...",
-      "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/08/17-150599731/calciomercato_inter_bovio_e_esposito_blindati_jones_in_arrivo_e_chivu_chiede_la_ciliegina_/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/17/064806656-5febbe8c-e604-46a0-9646-3fac1ac01981.jpg",
-      "summary": "Sostituiti tutti i giocatori partiti, ora Marotta e Ausilio allo sprint finale per regalare al tecnico altri due colpi e rafforzare l'obiettivo Scudetto",
-      "date": "2026-08-17T06:48:15.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:6e237af1c7c5",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Milan, Ramos e Gila non bastano. Cardinale in arrivo, al puzzle mercato mancano i pezzi grossi",
-      "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/08/17-150599638/milan_ramos_e_gila_non_bastano_cardinale_in_arrivo_al_puzzle_mercato_mancano_i_pezzi_grossi/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/17/063759404-899e40a5-2962-4616-98e2-a74085b4358f.jpg",
-      "summary": "Il patron a Milanello da metà settimana per incontrare il tecnico. Domenica invece sarà in tribuna a Torino. I nomi sul piatto",
-      "date": "2026-08-17T06:39:54.0000000Z"
     },
     {
       "id": "calciomercato-it:168e9c47696a",
@@ -385,54 +433,6 @@
       "image": null,
       "summary": "L'articolo Scambio Milan-Lazio, idea Tomori-Nuno Tavares proviene da CalcioMercato.it .",
       "date": "2026-08-16T20:11:21.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:bc7d10fe2f96",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Torriani vice Maignan, sorpasso su Terracciano nelle gerarchie | CM",
-      "url": "https://www.calciomercato.it/2026/08/16/torriani-vice-maignan-sorpasso-su-terracciano-nelle-gerarchie-cm/",
-      "image": null,
-      "summary": "L'articolo Torriani vice Maignan, sorpasso su Terracciano nelle gerarchie | CM proviene da CalcioMercato.it .",
-      "date": "2026-08-16T18:51:38.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:1d5c71a6a598",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Juventus, nuove voci su Elmas: la situazione",
-      "url": "https://www.calciomercato.it/2026/08/16/juventus-nuove-voci-su-elmas-la-situazione/",
-      "image": null,
-      "summary": "L'articolo Juventus, nuove voci su Elmas: la situazione proviene da CalcioMercato.it .",
-      "date": "2026-08-16T17:24:58.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:0f1d24e3c16b",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "La Juve non si arrende per il Dibu Martinez: cosa manca per il via libera | CM",
-      "url": "https://www.calciomercato.it/2026/08/16/la-juve-non-si-arrende-per-il-dibu-martinez-cosa-manca-per-il-via-libera-cm/",
-      "image": null,
-      "summary": "L'articolo La Juve non si arrende per il Dibu Martinez: cosa manca per il via libera | CM proviene da CalcioMercato.it .",
-      "date": "2026-08-16T17:23:19.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:803adceb4c19",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Atalanta, offerta dalla Premier per Bellanova: la destinazione",
-      "url": "https://www.calciomercato.it/2026/08/16/atalanta-offerta-dalla-premier-per-bellanova-la-destinazione/",
-      "image": null,
-      "summary": "L'articolo Atalanta, offerta dalla Premier per Bellanova: la destinazione proviene da CalcioMercato.it .",
-      "date": "2026-08-16T15:44:25.0000000Z"
     }
   ]
 }

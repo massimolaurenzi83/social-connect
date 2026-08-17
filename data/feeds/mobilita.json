@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-17T11:57:32.7006181Z",
+  "updated": "2026-08-17T13:58:11.4996808Z",
   "items": [
+    {
+      "id": "ferrovie:8aef8cc20dcd",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Novara - Biella, linea chiusa per i lavori di elettrificazione e SCMT",
+      "url": "https://www.ferrovie.info/treni-reali/novara-biella-linea-chiusa-per-i-lavori-di-elettrificazione-e-scmt.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10555/2018-10-25_01-04-01.jpg",
+      "summary": "Circolazione ferroviaria sospesa dal 22 al 30 agosto per consentire a RFI di completare gli interventi di potenziamento tecnologico e infrastrutturale. Proseguono i lavori di potenziamento infrastrutturale e tecnologi...",
+      "date": "2026-08-17T13:11:17.0000000Z"
+    },
     {
       "id": "ferrovie:a40e9c83a46e",
       "sourceId": "ferrovie",
@@ -97,18 +109,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10044/normal_MIR_744_023_Torrile_S_Polo_2810129.JPG",
       "summary": "Il biocarburante avanzato è già utilizzato da Mercitalia Rail e Mercitalia Shunting & Terminal. Nel 2025 consumati circa 19mila litri di HVO sulla flotta stradale. FS Logistix accelera sulla transizione energetica con...",
       "date": "2026-08-14T15:26:55.0000000Z"
-    },
-    {
-      "id": "ferrovie:bc24e3df225b",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Deutsche Bahn, bodycam per il personale delle stazioni contro le aggressioni",
-      "url": "https://www.ferrovie.info/treni-reali/deutsche-bahn-bodycam-per-il-personale-delle-stazioni-contro-le-aggressioni.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_Treno_ICE_L_DB_Sylt_7801.jpg",
-      "summary": "La Deutsche Bahn estende l'utilizzo delle bodycam al personale che opera nelle stazioni, con l'obiettivo di aumentare la sicurezza dei dipendenti e dei viaggiatori e prevenire le aggressioni. I primi dispositivi sono ...",
-      "date": "2026-08-14T08:33:42.0000000Z"
     },
     {
       "id": "ferrovie:8cbb5664cc6f",
