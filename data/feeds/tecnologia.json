@@ -1,18 +1,138 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-17T11:04:36.6833644Z",
+  "updated": "2026-08-17T11:57:32.7165485Z",
   "items": [
     {
-      "id": "tomshw:265e08fd1479",
+      "id": "hdblog:62cdc8ae8814",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Google potrebbe affidarsi ad AMD per sviluppare la TPU di decima generazione",
+      "url": "https://www.hdblog.it/hardware/articoli/n667450/google-amd-prossime-tpu-rumor/",
+      "image": null,
+      "summary": "Secondo SemiAnalysis, AMD potrebbe partecipare allo sviluppo delle future TPU di Google. Tra le ipotesi cè una maggiore integrazione tra acceleratori AI, core CPU e memoria HBM",
+      "date": "2026-08-17T11:45:00.0000000Z"
+    },
+    {
+      "id": "hdblog:52dcff0d2abf",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Samsung, ecco gli smartphone che tra pochi mesi non verranno più aggiornati",
+      "url": "https://www.hdblog.it/smartphone/articoli/n667424/smartphone-samsung-galaxy-stop-aggiornamenti/",
+      "image": null,
+      "summary": "Diversi smartphone Samsung Galaxy si stanno avvicinando alla fine del loro ciclo di vita.",
+      "date": "2026-08-17T11:35:00.0000000Z"
+    },
+    {
+      "id": "tomshw:f1afb890d45b",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "AliExpress svende i monitor: da 60€ e il migliore costa meno di 200€",
-      "url": "https://www.tomshw.it/hardware/aliexpress-svende-i-monitor-da-60eur-e-il-migliore-costa-meno-di-200eur",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107829/AliExpress-svende-i-monitor-da-60€-e-il-migliore-costa-meno-di-200€.png",
-      "summary": "Il Back to School di AliExpress è ufficialmente partito e, ancora una volta, il comparto hardware si conferma tra i più interessanti dell'intera promozione. Fino al 26 agosto sono infatt...",
-      "date": "2026-08-17T11:00:05.0000000Z"
+      "title": "Zoom ottico 10x per scatti lontani: OPPO Find X9 Ultra è al minimo di 1.459€",
+      "url": "https://www.tomshw.it/offerte/zoom-ottico-10x-per-scatti-lontani-oppo-find-x9-ultra-e-al-minimo-di-1459eur",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107851/tomshw-offer-830511.png",
+      "summary": "OPPO Find X9 Ultra costa 1.459€ su Amazon anziché 1.699€, con uno sconto del 14% e un risparmio immediato di 240€. È il minimo storico per uno smartphone costruito attorno alla fotografia a lunga dist...",
+      "date": "2026-08-17T11:33:47.0000000Z"
+    },
+    {
+      "id": "hdblog:d35819885e0e",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "OnePlus 16, grandi novità per il display grazie a una partnership con BOE",
+      "url": "https://www.hdblog.it/smartphone/articoli/n667451/oneplus-16-display-boe-x4-durata-consumi/",
+      "image": null,
+      "summary": "Super longevo, incredibilmente parco nei consumi... A quanto pare migliore anche dei substrati Samsung.",
+      "date": "2026-08-17T11:25:00.0000000Z"
+    },
+    {
+      "id": "tomshw:f94ba0e91d87",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Gli SSD entrano nei piani triennali delle PMI italiane: la carenza NAND non rientra prima del 2030",
+      "url": "https://www.tomshw.it/business/gli-ssd-entrano-nei-piani-triennali-delle-pmi-italiane-la-carenza-nand-non-rientra-prima-del-2030",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107813/forniture-ssd-da-rinegoziare-per-le-pmi-italiane-la-carenza-nand-puo-durare-fino-al-2030.png",
+      "summary": "La capacità produttiva di memoria NAND potrebbe impiegare fino a quattro anni per raggiungere la domanda, mantenendo sotto pressione prezzi e disponibilità degli SSD. Per PMI, cloud provider e respons...",
+      "date": "2026-08-17T11:20:34.0000000Z"
+    },
+    {
+      "id": "tomshw:d0f5859b1d56",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "OpenAI scioglie il team sui rischi estremi dell'AI",
+      "url": "https://www.tomshw.it/hardware/openai-avrebbe-sciolto-il-team-preparedness-sui-rischi-ai-estremi",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107850/news-flash-830479.png",
+      "summary": "Il team Preparedness di OpenAI, incaricato di valutare i rischi estremi legati ai modelli più avanzati, è stato sciolto alla fine di luglio 2026. Il Financial Times riferisce che le sue responsabilità...",
+      "date": "2026-08-17T11:19:05.0000000Z"
+    },
+    {
+      "id": "tomshw:a13bfe1a3a41",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Halo Campaign Evolved: no al PvP locale, il co-creatore non ci sta",
+      "url": "https://www.tomshw.it/videogioco/halo-campaign-evolved-senza-pvp-locale-il-co-creatore-lo-boccia",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104608/news-flash-615102.png",
+      "summary": "Per Marcus Lehto, lasciare il multiplayer competitivo fuori da Halo: Campaign Evolved è stato un «errore». Il co-creatore della serie e art director dell’originale Halo: Combat Evolved ha attribuito q...",
+      "date": "2026-08-17T11:17:11.0000000Z"
+    },
+    {
+      "id": "hdblog:b64045761c16",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Vivo Y31T in arrivo: economico ma con una batteria colossale",
+      "url": "https://www.hdblog.it/smartphone/articoli/n667448/vivo-y31t-prezzo-immagini-specifiche/",
+      "image": null,
+      "summary": "Un device che esiste in funzione della tecnologia di batterie Si-C.",
+      "date": "2026-08-17T11:15:00.0000000Z"
+    },
+    {
+      "id": "tomshw:9d91015a9101",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "AIAIAI cambia look: arrivano le edizioni firmate JJJJound",
+      "url": "https://www.tomshw.it/smartphone/jjjjound-ridisegna-cuffie-e-monitor-aiaiai-in-edizione-speciale",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107845/jjjjound-ridisegna-cuffie-e-monitor-aiaiai-in-edizione-speciale.png",
+      "summary": "Lo studio di design canadese JJJJound e il marchio audio di Copenhagen AIAIAI hanno annunciato una collezione speciale che ridisegna le cuffie Tracks e il monitor da studio UNIT-4. La collaborazione i...",
+      "date": "2026-08-17T11:03:23.0000000Z"
+    },
+    {
+      "id": "tomshw:0f4fd23e8447",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Apple punta a rilanciare HomePod con la nuova Siri AI",
+      "url": "https://www.tomshw.it/hardware/apple-punta-a-rilanciare-homepod-con-la-nuova-siri-ai",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107848/apple-punta-a-rilanciare-homepod-con-la-nuova-siri-ai.png",
+      "summary": "Apple starebbe preparando l'arrivo della nuova Siri basata sull'intelligenza artificiale su HomePod, trasformando lo speaker in un elemento più centrale della propria strategia per la casa connessa. I...",
+      "date": "2026-08-17T11:02:58.0000000Z"
+    },
+    {
+      "id": "tomshw:b24d4781c710",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Altar II comprime una tastiera meccanica in meno di 5 mm",
+      "url": "https://www.tomshw.it/hardware/altar-ii-comprime-una-tastiera-meccanica-in-meno-di-5-mm",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107847/altar-ii-comprime-una-tastiera-meccanica-in-meno-di-5-mm.png",
+      "summary": "Electronic Materials Office ha annunciato Altar II, una tastiera meccanica che concentra chassis, tasti ed elettronica in appena 4,75 mm di spessore. Il dato la colloca molto al di sotto delle comuni...",
+      "date": "2026-08-17T10:56:37.0000000Z"
     },
     {
       "id": "hdblog:a96b503cb653",
@@ -27,28 +147,16 @@
       "date": "2026-08-17T10:50:00.0000000Z"
     },
     {
-      "id": "tomshw:86fb30ffc2f7",
+      "id": "tomshw:f6b3a970765c",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Monitor Audio reinventa i diffusori Silver, i suoi più venduti",
-      "url": "https://www.tomshw.it/altro/monitor-audio-reinventa-i-diffusori-silver-i-suoi-piu-venduti",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107844/monitor-audio-reinventa-i-diffusori-silver-i-suoi-piu-venduti.png",
-      "summary": "Monitor Audio ha presentato la nuova Silver Series 8G, riprogettando integralmente la sua gamma di diffusori stereo più venduta. L’aggiornamento introduce driver evoluti, un tweeter modificato, una po...",
-      "date": "2026-08-17T10:48:50.0000000Z"
-    },
-    {
-      "id": "tomshw:c7caea3347f0",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "NASA lascia i comandi di Orion agli astronauti, senza radar",
-      "url": "https://www.tomshw.it/scienze/la-nasa-ha-affidato-orion-al-pilota-e-non-era-affatto-scontato",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107843/la-nasa-ha-affidato-orion-al-pilota-e-non-era-affatto-scontato.png",
-      "summary": "La NASA ha permesso al pilota Victor Glover di prendere il controllo diretto di Orion durante una delicata dimostrazione nello spazio. L’equipaggio di Artemis II ha guidato la capsula osservando un al...",
-      "date": "2026-08-17T10:47:44.0000000Z"
+      "title": "I prezzi delle DDR5 sono quasi quintuplicati",
+      "url": "https://www.tomshw.it/hardware/i-prezzi-delle-ddr5-sono-quasi-quintuplicati-in-germania",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107846/i-prezzi-delle-ddr5-sono-quasi-quintuplicati-in-germania.png",
+      "summary": "I prezzi medi dei kit DDR5 venduti in Germania hanno raggiunto il 486% del livello registrato nel luglio 2025. In altre parole, la memoria per i PC di nuova generazione costa ormai quasi 4,9 volte ris...",
+      "date": "2026-08-17T10:49:45.0000000Z"
     },
     {
       "id": "hdblog:6d51fe5fc0a6",
@@ -63,18 +171,6 @@
       "date": "2026-08-17T10:45:00.0000000Z"
     },
     {
-      "id": "tomshw:98079010dfd3",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "SpaceX lancia due Falcon 9 in 38 minuti, è un nuovo record",
-      "url": "https://www.tomshw.it/scienze/spacex-lancia-due-falcon-9-in-38-minuti-e-un-nuovo-record",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107838/spacex-lancia-due-falcon-9-in-38-minuti-e-un-nuovo-record.png",
-      "summary": "SpaceX ha lanciato due Falcon 9 a soli 38 minuti di distanza, stabilendo il più breve intervallo fra due voli orbitali della sua storia. I razzi sono partiti da coste opposte degli Stati Uniti, uno da...",
-      "date": "2026-08-17T10:43:59.0000000Z"
-    },
-    {
       "id": "dday:ba3a6766eac7",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -87,6 +183,18 @@
       "date": "2026-08-17T10:42:00.0000000Z"
     },
     {
+      "id": "tomshw:45da35901a3c",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Apple rivoluziona i consensi pubblicitari su iOS e iPadOS",
+      "url": "https://www.tomshw.it/smartphone/apple-uniformera-i-consensi-pubblicitari-su-iphone-e-ipad",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107841/news-flash-830385.png",
+      "summary": "I messaggi con cui le app chiedono di usare i dati per la pubblicità cambieranno su iPhone e iPad. Apple ha assunto impegni per rendere più uniformi il prompt riservato agli sviluppatori di terze part...",
+      "date": "2026-08-17T10:40:03.0000000Z"
+    },
+    {
       "id": "hdblog:b27f4a593bad",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -97,18 +205,6 @@
       "image": null,
       "summary": "Nuovi aumenti per alcuni clienti di rete fissa",
       "date": "2026-08-17T10:40:00.0000000Z"
-    },
-    {
-      "id": "tomshw:df6654255cef",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Windows 11 24H2 Home e Pro: ultimo update il 13 ottobre",
-      "url": "https://www.tomshw.it/hardware/windows-11-24h2-home-e-pro-ultimo-aggiornamento-il-13-ottobre",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107839/news-flash-830382.png",
-      "summary": "L’aggiornamento del 13 ottobre 2026 sarà l’ultimo per Windows 11 24H2 nelle edizioni Home e Pro e per Windows 10 Enterprise LTSB 2016. Dopo questa scadenza i sistemi interessati non riceveranno più i...",
-      "date": "2026-08-17T10:39:10.0000000Z"
     },
     {
       "id": "hdblog:dc76c348cf9e",
@@ -147,6 +243,18 @@
       "date": "2026-08-17T10:15:00.0000000Z"
     },
     {
+      "id": "tomshw:45c8ae92c525",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Alibaba abbandona il gaming e punta su AI, cloud ed e-commerce",
+      "url": "https://www.tomshw.it/videogioco/alibaba-cede-lingxi-games-e-punta-su-ai-cloud-ed-e-commerce",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107833/images-14.jpg",
+      "summary": "Alibaba Group ha concordato la cessione di Lingxi Games a Trustar Capital, ramo di private equity collegato a CITIC Capital. Il gruppo si prepara così a separarsi dall’unità che raccoglie le sue princ...",
+      "date": "2026-08-17T10:10:04.0000000Z"
+    },
+    {
       "id": "hdblog:7f0f27d3123b",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -171,6 +279,30 @@
       "date": "2026-08-17T10:06:00.0000000Z"
     },
     {
+      "id": "tomshw:67a234a9ee65",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Ketchup sperimentale proteico: la svolta è nelle microalghe",
+      "url": "https://www.tomshw.it/scienze/ketchup-sperimentale-con-chlorella-vulgaris-proteine-al-6-3",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107825/news-flash-830209.png",
+      "summary": "Portare le proteine del ketchup dall’1,6% al 6,3% è stato possibile aggiungendo il 13% di isolato proteico ricavato da Chlorella vulgaris. La formulazione sperimentale ha mostrato anche un aumento del...",
+      "date": "2026-08-17T10:05:04.0000000Z"
+    },
+    {
+      "id": "tomshw:8e43df9ccf0f",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Windows 11 dice addio a WMIC: script da aggiornare",
+      "url": "https://www.tomshw.it/hardware/windows-11-wmic-non-si-puo-piu-reinstallare-script-da-aggiornare",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107821/news-flash-830176.png",
+      "summary": "Su Windows 11 24H2 e 25H2, WMIC non può più essere reinstallato. Da agosto 2026 Microsoft ha eliminato anche il pacchetto Feature on Demand che consentiva di recuperare l'utilità da riga di comando, g...",
+      "date": "2026-08-17T10:05:04.0000000Z"
+    },
+    {
       "id": "hdblog:2f907e9e5e0c",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -181,126 +313,6 @@
       "image": null,
       "summary": "Il 54% degli italiani non conosce il ritiro Uno contro Zero. Ecco come smaltire correttamente power bank, smartwatch, spazzolini elettrici e altri piccoli dispositivi elettronici",
       "date": "2026-08-17T10:05:00.0000000Z"
-    },
-    {
-      "id": "tomshw:9002e7c0919a",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "249,67€ in meno sul Samsung Galaxy Watch Ultra 2025, sport senza telefono",
-      "url": "https://www.tomshw.it/offerte/24967eur-in-meno-sul-samsung-galaxy-watch-ultra-2025-sport-senza-telefono",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107830/tomshw-offer-830233.png",
-      "summary": "Samsung Galaxy Watch Ultra 2025 costa 449,33€ su Amazon, anziché 699€, con uno sconto del 36%. La versione Titanium Blue da 47 mm combina LTE, GPS a doppia frequenza e una struttura pensata per allena...",
-      "date": "2026-08-17T10:03:57.0000000Z"
-    },
-    {
-      "id": "hdblog:7a5c391fbf00",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Koenigsegg CCGT1: rispolverato il mito del 2007 con una belva da 1.600 CV",
-      "url": "https://www.hdmotori.it/nuova-koenigsegg-ccgt1-1600-cv/",
-      "image": null,
-      "summary": "Svelata la nuova Koenigsegg CCGT1: omaggio al mito del 2007 con V8 fino a 1.600 CV, aerodinamica da gara, cambio KSS e l'inedito Track Package ufficiale.",
-      "date": "2026-08-17T10:00:34.0000000Z"
-    },
-    {
-      "id": "hdblog:923c7107c697",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "RTX 2080 Ti con VRAM raddoppiata contro la crisi delle memorie?",
-      "url": "https://www.hdblog.it/hardware/articoli/n667433/nvidia-geforce-rtx-2080-ti-22-gb-vram-modifica/",
-      "image": null,
-      "summary": "500 dollari per GPU con 22 GB di GDDR6.",
-      "date": "2026-08-17T09:55:00.0000000Z"
-    },
-    {
-      "id": "tomshw:0347e661d530",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Bowers & Wilkins Px7 S3 a 285€: l’audio premium costa 144€ in meno",
-      "url": "https://www.tomshw.it/hardware/bowers-wilkins-px7-s3-a-285-euro-amazon-2026-08-17",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107776/bowers-wilkins-px7-s3-a-285-euro-amazon-2026-08-17-9mXP6uq6jhpr8v8rg128zbcy5Z.png",
-      "summary": "Le Bowers & Wilkins Px7 S3 sono cuffie over-ear wireless di fascia premium, costruite per chi cerca ascolto dettagliato, cancellazione attiva del rumore e comfort nelle sessioni prolungate. Su Amazon,...",
-      "date": "2026-08-17T09:53:38.0000000Z"
-    },
-    {
-      "id": "tomshw:024090a09471",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Perlegear PGMFK6 a 24€: la staffa TV orientabile che libera spazio",
-      "url": "https://www.tomshw.it/hardware/perlegear-pgmfk6-staffa-tv-a-24-euro-amazon-2026-08-17",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107775/perlegear-pgmfk6-staffa-tv-a-24-euro-amazon-2026-08-17-hr70QvC40ade61rohnu9iv57lf.png",
-      "summary": "La Perlegear PGMFK6 è una staffa da parete con braccio orientabile, compatibile con molti televisori da 26 a 65 pollici. Il prezzo aggiornato su Amazon è 23,99€, circa il 27% in meno rispetto ai 32,99...",
-      "date": "2026-08-17T09:53:25.0000000Z"
-    },
-    {
-      "id": "tomshw:1468110905c3",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Ultimate Ears WONDERBOOM 4 a 70€: lo speaker da viaggio che non teme l’acqua",
-      "url": "https://www.tomshw.it/hardware/ultimate-ears-wonderboom-4-a-70-euro-amazon-2026-08-17",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106438/ultimate-ears-wonderboom-4-a-70-euro-2026-08-10-4WMKEaQblfs9lmjdsd5bkRhWZN.png",
-      "summary": "Ultimate Ears WONDERBOOM 4 è uno speaker Bluetooth compatto progettato per diffondere il suono a 360 gradi e accompagnare attività in casa o all’aperto. Su Amazon, costa 69,99€ con uno sconto del 33%...",
-      "date": "2026-08-17T09:53:09.0000000Z"
-    },
-    {
-      "id": "tomshw:04399b0787ef",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "JBL Tune 770NC a 80€: cancellazione del rumore e 70 ore di autonomia",
-      "url": "https://www.tomshw.it/hardware/jbl-tune-770nc-a-80-euro-38-sconto-amazon-2026-08-17",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107773/jbl-tune-770nc-a-80-euro-38-sconto-amazon-2026-08-17-N00T2yv3mr1mrurmloc3F1AmPy.png",
-      "summary": "Le JBL Tune 770NC sono cuffie Bluetooth on-ear con cancellazione attiva del rumore, pensate per accompagnare ascolto, chiamate e spostamenti senza dipendere continuamente dalla presa di corrente. Su A...",
-      "date": "2026-08-17T09:52:54.0000000Z"
-    },
-    {
-      "id": "hdblog:7791c2e60694",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Shein verso la quotazione in borsa, ma il valore crolla da 98 a meno di 30 miliardi",
-      "url": "https://www.hdblog.it/mercato/articoli/n667431/shein-valutazione-borsa-in-calo/",
-      "image": null,
-      "summary": "Shein si prepara alla quotazione alla Borsa di Hong Kong con una valutazione stimata tra 25 e 28 miliardi di dollari, molto lontana dai 98,2 miliardi raggiunti nel 2022",
-      "date": "2026-08-17T09:45:00.0000000Z"
-    },
-    {
-      "id": "hdblog:9ac59fe05c27",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "HMD prepara 2760 Flip 4G: smartphone Android (Go) con corpo da feature phone",
-      "url": "https://www.hdblog.it/smartphone/articoli/n667429/hmd-2760-flip-4g-android-13-go/",
-      "image": null,
-      "summary": "L'erede spirituale del Nokia 2760 Flip ma con Android Go invece di KaiOS.",
-      "date": "2026-08-17T09:35:00.0000000Z"
-    },
-    {
-      "id": "tomshw:636b4e7ce85f",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Saber Interactive ammette l'uso dell'AI e si scusa con l'autrice",
-      "url": "https://www.tomshw.it/videogioco/saber-interactive-scuse-all-autrice-steam-dettaglia-l-uso-dell-ia",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107805/news-flash-830029.png",
-      "summary": "Le scuse sono arrivate in privato e, nella ricostruzione di Stella Sacco, senza alcuna riserva. La sceneggiatrice ha riferito che Matthew Karch, CEO di Saber Interactive, si è scusato per il modo in c...",
-      "date": "2026-08-17T09:30:04.0000000Z"
     },
     {
       "id": "dday:bad9b32b9927",
@@ -373,18 +385,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-17T07:21:00.0000000Z"
-    },
-    {
-      "id": "tomshw:67d2389a56a5",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Migliori cavi USB type-C per Android Auto (agosto 2026)",
-      "url": "https://www.tomshw.it/automotive/migliori-cavi-usb-android-auto",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89623/migliori-cavi-usb-c-android-auto-copertina.jpg",
-      "summary": "Un buon cavo USB-C per Android Auto non serve solo a ricaricare lo smartphone: deve mantenere stabile il flusso dati tra telefono e infotainment, evitare disconnessioni mentre si usa il navigatore e r...",
-      "date": "2026-08-17T06:38:31.0000000Z"
     },
     {
       "id": "techprincess:No3v7TcndVw",

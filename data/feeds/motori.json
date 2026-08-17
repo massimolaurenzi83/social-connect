@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-17T11:04:36.7545640Z",
+  "updated": "2026-08-17T11:57:32.7094228Z",
   "items": [
+    {
+      "id": "motor1:05c9f8287381",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Brabus senza tetto con 1.000 CV da 360 km/h",
+      "url": "https://it.motor1.com/news/805162/brabus-bodo-cabriolet-potenza-prezzo/",
+      "image": "https://cdn.motor1.com/images/mgl/nAlYPj/s3/brabus-bodo-cabriolet-silkstone-on-location.jpg",
+      "summary": "Ecco la Bodo Cabriolet, hyper-GT basata sulla Vanquish Volante con un 5.2 V8 spremuto al massimo. Costa oltre 1 milione di euro",
+      "date": "2026-08-17T11:06:19.0000000Z"
+    },
     {
       "id": "insideevs:ae06647b12f7",
       "sourceId": "insideevs",
@@ -183,18 +195,6 @@
       "date": "2026-08-17T06:00:00.0000000Z"
     },
     {
-      "id": "insideevs:7f7fe140f99e",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Panoramica 2026 dei grandi SUV elettrici dai 4,81 metri in su",
-      "url": "https://insideevs.it/features/804841/suv-grandi-elettrici-panoramica-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/YAzpRw/s3/collage-4-grosse-elektro-suvs.jpg",
-      "summary": "Abbiamo aggiornato completamente la nostra lista dei colossi elettrici: ci sono anche la Skoda Peaq e la Mercedes GLC",
-      "date": "2026-08-17T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:3ec996d4c8cb",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -204,6 +204,18 @@
       "url": "https://it.motor1.com/news/803419/opel-astra-vs-volkswagen-golf-confronto/",
       "image": "https://cdn.motor1.com/images/mgl/jlWvER/s3/opel-astra-vs-volkswagen-golf-duello-tra-compatte-razionali-tedesche.jpg",
       "summary": "Sobrie e disponibili con tante motorizzazioni diverse, ecco il confronto tra due icone delle compatte tedesche",
+      "date": "2026-08-17T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:7f7fe140f99e",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Panoramica 2026 dei grandi SUV elettrici dai 4,81 metri in su",
+      "url": "https://insideevs.it/features/804841/suv-grandi-elettrici-panoramica-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/YAzpRw/s3/collage-4-grosse-elektro-suvs.jpg",
+      "summary": "Abbiamo aggiornato completamente la nostra lista dei colossi elettrici: ci sono anche la Skoda Peaq e la Mercedes GLC",
       "date": "2026-08-17T05:00:00.0000000Z"
     },
     {
@@ -445,18 +457,6 @@
       "image": null,
       "summary": "Opel Corsa Hybrid in offerta fino al 31 agosto: prezzo da 16.550 euro, 33 rate da 99 euro e prima rata a novembre 2026 The post Opel Corsa Hybrid a 99 euro al mese: la promozione appeared first on HDmotori.it .",
       "date": "2026-08-15T11:00:41.0000000Z"
-    },
-    {
-      "id": "motor1:50800b4e19e7",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Si dorme comodi e si può andare anche in fuoristrada",
-      "url": "https://it.motor1.com/news/804965/burnster-habiton-6-1-camper-mercedes/",
-      "image": "https://cdn.motor1.com/images/mgl/E6NMW3/s3/burstner-habiton-6.1-2026.jpg",
-      "summary": "Letto trasversale e, su richiesta, la trazione integrale per il nuovo Bürstner Habiton 6.1",
-      "date": "2026-08-15T11:00:00.0000000Z"
     },
     {
       "id": "insideevs:8155a4beb5a2",
