@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-17T03:29:14.8944857Z",
+  "updated": "2026-08-17T05:24:46.6904997Z",
   "items": [
+    {
+      "id": "ansa-cronaca:19263d85b1d6",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Turisti spagnoli bloccati sui monti del Comasco, portati in salvo",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/turisti-spagnoli-bloccati-sui-monti-del-comasco-portati-in-salvo_f2cc3f5e-1a96-4b8e-8875-267dd9a287ac.html",
+      "image": null,
+      "summary": "Le operazioni di salvataggio difficili per forte vento e pioggia",
+      "date": "2026-08-17T05:11:59.0000000Z"
+    },
     {
       "id": "ansa-cronaca:63323e03c528",
       "sourceId": "ansa-cronaca",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Colpito a una gamba, era in ospedale per una visita. Dirottate altrove le emergenze",
       "date": "2026-08-16T17:01:52.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:77128b0ec3e4",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "#AccadeOggi",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-      "image": null,
-      "summary": "I principali avvenimenti previsti per la giornata",
-      "date": "2026-08-16T16:48:25.0000000Z"
     }
   ]
 }
