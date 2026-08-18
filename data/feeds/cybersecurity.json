@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-18T08:03:01.4517576Z",
+  "updated": "2026-08-18T09:54:42.7484964Z",
   "items": [
+    {
+      "id": "cybersecurity360:3cc775c201ed",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "La monetizzazione dei dati personali nell’era dei data broker: l’efficacia dei servizi automatizzati di cancellazione",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/rimozione-dati-personali-data-broker-privacy-web/",
+      "image": null,
+      "summary": "Il piano annuale Standard di Incogni scende a 5,99 euro al mese. Il servizio automatizza la richiesta di rimozione delle informazioni personali dai data broker e include controlli ricorrenti, report mensili e assisten...",
+      "date": "2026-08-18T09:40:28.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:59a652e4b116",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "La complessità è nemica della cyber security: la lezione del principio KISS",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/la-complessita-e-nemica-della-cyber-security-la-lezione-del-principio-kiss/",
+      "image": null,
+      "summary": "Ogni funzione, dipendenza e riga di codice aggiuntiva può ampliare la superficie di attacco. Dal principio KISS a DRY e YAGNI, progettare sistemi più semplici non è minimalismo fine a sé stesso: significa ridurre vuln...",
+      "date": "2026-08-18T08:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:746c3db17b70",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "L’offerta Norton 360 Deluxe porta a 34,99 euro il costo del primo anno per proteggere fino a 5 dispositivi. Il piano include VPN, antivirus, Password Manager, 50 GB di backup cloud, Protezione minori e Dark Web Monito...",
       "date": "2026-08-14T09:42:38.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2d0ba7ea1595",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "L’evoluzione del SOC agentico",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/levoluzione-del-soc-agentico/",
-      "image": null,
-      "summary": "Un'analisi sulle vulnerabilità globali e sulle architetture di sicurezza dimostra come l'integrazione di grafi della conoscenza stia trasformando la risposta agli attacchi informatici, ridefinendo l'efficienza operati...",
-      "date": "2026-08-14T09:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:7acabd83b7f4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Agenti AI militari e guerre diffuse: quando non sappiamo più chi ha deciso",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/agenti-ai-militari-e-guerre-diffuse-quando-non-sappiamo-piu-chi-ha-deciso/",
-      "image": null,
-      "summary": "Con gli agenti militari basati sull’intelligenza artificiale la catena di comando comincia ad assomigliare a una rete. Ecco i rischi legati ad agenti militari manipolati nelle guerre diffuse dove il vantaggio non appa...",
-      "date": "2026-08-14T08:00:00.0000000Z"
     }
   ]
 }

@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-08-18T08:03:01.4913029Z",
+  "updated": "2026-08-18T09:54:42.6769287Z",
   "items": [
+    {
+      "id": "hdmotori:b29fb4825295",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Porsche Flachbau RS: la 911 che riporta in vita la leggenda Moby Dick",
+      "url": "https://www.hdmotori.it/porsche-flachbau-rs-la-911-che-riporta-in-vita-la-leggenda-moby-dick/",
+      "image": null,
+      "summary": "Porsche ha svelato la Flachbau RS, un progetto unico ispirato a una delle auto da corsa più iconiche di sempre. La base è una 911 GT2 RS ma della vettura originale rimane ben poco.... The post Porsche Flachbau RS: la ...",
+      "date": "2026-08-18T09:30:14.0000000Z"
+    },
+    {
+      "id": "insideevs:c428087bb0b4",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Tesla Model Y non è un power bank: cosa puoi davvero alimentare",
+      "url": "https://insideevs.it/news/805281/tesla-model-y-ricarica-gadget/",
+      "image": "https://cdn.motor1.com/images/mgl/6Ze3lX/s3/2026-tesla-model-y-premium-rwd.jpg",
+      "summary": "Nel SUV elettrico Tesla Model Y la batteria alimenta solo prese 12 V e porte USB, senza funzione vehicle-to-load o prese 230 V integrate.",
+      "date": "2026-08-18T09:03:31.0000000Z"
+    },
+    {
+      "id": "hdmotori:02f7cd0a3aa4",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Carenza forniture olio motore, interessate anche Stellantis, Volkswagen e Toyota",
+      "url": "https://www.hdmotori.it/crisi-forniture-olio-motore-stellantis-volkswagen-toyota/",
+      "image": null,
+      "summary": "L’olio motore è al centro di una impasse allarmante. La chiusura dello Stretto di Hormuz sta avendo ripercussioni sui lubrificanti più noti sul mercato The post Carenza forniture olio motore, interessate anche Stellan...",
+      "date": "2026-08-18T09:00:20.0000000Z"
+    },
+    {
+      "id": "motor1:50cc212017cb",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova MINI potrebbe essere a trazione posteriore",
+      "url": "https://it.motor1.com/news/805268/nuova-mini-elettrica-prime-informazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/1Zw0LX/s3/2001-mini-cooper-s-r50-design-rendering.jpg",
+      "summary": "La prossima MINI Cooper potrebbe riprendere le proporzioni della R50 del 2001 con motori elettrici posteriori",
+      "date": "2026-08-18T09:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:03605a264bd0",
       "sourceId": "hdmotori",
@@ -63,18 +111,6 @@
       "date": "2026-08-18T06:30:33.0000000Z"
     },
     {
-      "id": "insideevs:5c90f9e40096",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Cupra Raval vs MINI Cooper, sfida tra hot hatch elettriche",
-      "url": "https://insideevs.it/news/803445/cupra-raval-vs-mini-cooper/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4X2K/s3/cupra-raval-vs-mini-confronto.jpg",
-      "summary": "Sfiziose nello stile e nella guida, ecco la spagnola e l'inglese a confronto punto per punto",
-      "date": "2026-08-18T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:4f6b4593e37c",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -84,6 +120,18 @@
       "url": "https://it.motor1.com/news/803337/audi-q9-2026-interni-bagagliaio/",
       "image": "https://cdn.motor1.com/images/mgl/1Zw8G7/s3/audi-q9-interni-e-bagagliaio.jpg",
       "summary": "Immenso, tecnologico e super confortevole: ecco l'abitacolo della Q9, il SUV di oltre 5,3 m di lunghezza",
+      "date": "2026-08-18T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:5c90f9e40096",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Cupra Raval vs MINI Cooper, sfida tra hot hatch elettriche",
+      "url": "https://insideevs.it/news/803445/cupra-raval-vs-mini-cooper/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4X2K/s3/cupra-raval-vs-mini-confronto.jpg",
+      "summary": "Sfiziose nello stile e nella guida, ecco la spagnola e l'inglese a confronto punto per punto",
       "date": "2026-08-18T05:00:00.0000000Z"
     },
     {
@@ -207,18 +255,6 @@
       "date": "2026-08-17T15:00:36.0000000Z"
     },
     {
-      "id": "insideevs:2364a28d4b67",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Freelander 8 da record: 10.000 ordini nelle prime 48 ore",
-      "url": "https://insideevs.it/news/805140/freelander-8-boom-preordini-cina/",
-      "image": "https://cdn.motor1.com/images/mgl/nAlWOR/s3/freelander-8-first-edition.jpg",
-      "summary": "Il nuovo SUV elettrico nato dalla joint venture tra Jaguar Land Rover e Chery è già un successo (in Cina)",
-      "date": "2026-08-17T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:71295ec6d0c4",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -231,16 +267,16 @@
       "date": "2026-08-17T15:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:f3aaf5c0bf53",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "insideevs:2364a28d4b67",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "È morto Alex Fiorio: addio a uno dei protagonisti della Lancia che fece la storia dei rally",
-      "url": "https://www.hdmotori.it/e-morto-alex-fiorio-addio-a-uno-dei-protagonisti-della-lancia-che-fece-la-storia-dei-rally/",
-      "image": null,
-      "summary": "Il mondo dei rally è in lutto. Alex Fiorio è morto a 61 anni dopo una lunga malattia. Pilota di punta negli anni d’oro della Lancia Delta, fu vicecampione del mondo nel 1989 The post È morto Alex Fiorio: addio a uno d...",
-      "date": "2026-08-17T14:47:04.0000000Z"
+      "title": "Freelander 8 da record: 10.000 ordini nelle prime 48 ore",
+      "url": "https://insideevs.it/news/805140/freelander-8-boom-preordini-cina/",
+      "image": "https://cdn.motor1.com/images/mgl/nAlWOR/s3/freelander-8-first-edition.jpg",
+      "summary": "Il nuovo SUV elettrico nato dalla joint venture tra Jaguar Land Rover e Chery è già un successo (in Cina)",
+      "date": "2026-08-17T15:00:00.0000000Z"
     },
     {
       "id": "motor1:6178a8705aad",
@@ -253,18 +289,6 @@
       "image": "https://cdn.motor1.com/images/mgl/RqkPLx/s3/ferrari-luce-leiloada-pela-rm-sotheby-s.jpg",
       "summary": "L’offerta record di 40 milioni di dollari per la Ferrari Luce Chassis 0 è del collezionista americano Herbie Wertheim",
       "date": "2026-08-17T14:18:21.0000000Z"
-    },
-    {
-      "id": "hdmotori:e9e16e29c00d",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "McLaren svela la McL 6GT Concept: ritorno al passato con la tecnologia del futuro",
-      "url": "https://www.hdmotori.it/mclaren-mcl-6gt-concept/",
-      "image": null,
-      "summary": "Ispirata alla McLaren M6GT, la supercar originale di Bruce McLaren, la 6GT Concept ha fatto capolino alla Monterey Car Week del 2026. The post McLaren svela la McL 6GT Concept: ritorno al passato con la tecnologia del...",
-      "date": "2026-08-17T14:00:12.0000000Z"
     },
     {
       "id": "insideevs:761209f44946",
@@ -351,18 +375,6 @@
       "date": "2026-08-17T10:00:00.0000000Z"
     },
     {
-      "id": "insideevs:b75a36078a01",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ecco l'aereo elettrico più grande al mondo (e volare costa 5 dollari)",
-      "url": "https://insideevs.it/news/805114/aereo-elettrico-piu-grande-mondo/",
-      "image": "https://cdn.motor1.com/images/mgl/Kbgjmb/s3/heart-aerospace-x1-all-electric-aircraft.jpg",
-      "summary": "L'Heart X1 è salito fino a quota 335 metri e e il suo motore ha erogato oltre 1 MW di potenza",
-      "date": "2026-08-17T09:00:00.0000000Z"
-    },
-    {
       "id": "motor1:082192339080",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -372,6 +384,18 @@
       "url": "https://it.motor1.com/news/805113/land-rover-defender-dakar-2027/",
       "image": "https://cdn.motor1.com/images/mgl/nAlYNG/s3/defender-dakar.jpg",
       "summary": "Derivata direttamente dalla vettura che ha vinto la Dakar 2026, ha un V8 bitubo senza limitazioni e un assetto da corsa",
+      "date": "2026-08-17T09:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:b75a36078a01",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ecco l'aereo elettrico più grande al mondo (e volare costa 5 dollari)",
+      "url": "https://insideevs.it/news/805114/aereo-elettrico-piu-grande-mondo/",
+      "image": "https://cdn.motor1.com/images/mgl/Kbgjmb/s3/heart-aerospace-x1-all-electric-aircraft.jpg",
+      "summary": "L'Heart X1 è salito fino a quota 335 metri e e il suo motore ha erogato oltre 1 MW di potenza",
       "date": "2026-08-17T09:00:00.0000000Z"
     },
     {
@@ -385,18 +409,6 @@
       "image": "https://cdn.motor1.com/images/mgl/E6NjJB/s3/ruf-ehra-19.jpg",
       "summary": "RUF colpisce ancora con una splendida nuova auto ad alte prestazioni",
       "date": "2026-08-17T08:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:d7c796a2e606",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La prima Ferrari Luce venduta a 40 milioni di dollari",
-      "url": "https://it.motor1.com/news/805111/ferrari-luce-asta-40-milioni/",
-      "image": "https://cdn.motor1.com/images/mgl/P3BeP4/s3/ferrari-luce-tailor-made-chassis-0.jpg",
-      "summary": "Asta da record a Monterey: l'esemplare \"Chassis 0\" personalizzato è stato venduto all'equivalente di oltre 34 milioni di euro",
-      "date": "2026-08-17T07:30:00.0000000Z"
     },
     {
       "id": "insideevs:6b961355e289",
@@ -517,18 +529,6 @@
       "image": null,
       "summary": "Cambiare presto un’auto a benzina o diesel con un’elettrica può ridurre le emissioni complessive di CO₂ più che… L'articolo Emissioni: conviene portare a fine vita un’auto termica? Uno studio dice che… proviene da Vai...",
       "date": "2026-08-16T04:03:13.0000000Z"
-    },
-    {
-      "id": "insideevs:1ad380952855",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché in Cina nascono continuamente nuovi marchi automobilistici",
-      "url": "https://insideevs.it/news/804927/case-automobilistiche-cinesi-nuovi-brand/",
-      "image": "https://cdn.motor1.com/images/mgl/L3yZ7m/s3/chery-fulwin-t7.jpg",
-      "summary": "Chery, BYD, NIO, Changan, Great Wall: ogni gruppo da vita a una miriade di brand diversi. Invece da noi le Case sono legate ai nomi storici",
-      "date": "2026-08-15T15:00:00.0000000Z"
     }
   ]
 }
