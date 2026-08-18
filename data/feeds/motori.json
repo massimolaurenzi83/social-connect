@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-08-18T20:02:58.0694008Z",
+  "updated": "2026-08-18T20:57:33.2881848Z",
   "items": [
+    {
+      "id": "vaielettrico:00b198039b4a",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Geely sceglie gli stabilimenti Volvo per la produzione europea delle sue auto",
+      "url": "https://www.vaielettrico.it/geely-sceglie-gli-stabilimenti-volvo-per-la-produzione-europea-delle-sue-auto/",
+      "image": null,
+      "summary": "Geely punta a produrre in Europa le proprie vetture di fascia alta a partire dal 2028, utilizzando gli… L'articolo Geely sceglie gli stabilimenti Volvo per la produzione europea delle sue auto proviene da Vaielettrico .",
+      "date": "2026-08-18T20:52:08.0000000Z"
+    },
+    {
+      "id": "vaielettrico:2478ae79ba38",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il primo volo dell’aereo elettrico più grande del mondo",
+      "url": "https://www.vaielettrico.it/il-primo-volo-dellaereo-elettrico-piu-grande-del-mondo/",
+      "image": null,
+      "summary": "Lo scorso 12 agosto il dimostratore Heart Aerospace X1 ha completato il primo volo a Plattsburgh, nello Stato… L'articolo Il primo volo dell’aereo elettrico più grande del mondo proviene da Vaielettrico .",
+      "date": "2026-08-18T20:45:31.0000000Z"
+    },
+    {
+      "id": "vaielettrico:efc5ce863b5f",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Freelander 8 di Jaguar Land Rover decolla in Cina: 10 mila ordini in 48 ore",
+      "url": "https://www.vaielettrico.it/il-freelander-8-di-jaguar-land-rover-decolla-in-cina-10-mila-ordini-in-48-ore/",
+      "image": null,
+      "summary": "Il nuovo Freelander 8, primo modello del marchio nato dalla collaborazione tra Jaguar Land Rover e Chery, ha… L'articolo Il Freelander 8 di Jaguar Land Rover decolla in Cina: 10 mila ordini in 48 ore proviene da Vaiel...",
+      "date": "2026-08-18T20:37:15.0000000Z"
+    },
+    {
+      "id": "vaielettrico:7f5f7d138a7f",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Kawasaki Corleo, il cavallo robot prende forma: ecco cosa può fare!",
+      "url": "https://www.vaielettrico.it/kawasaki-corleo-il-cavallo-robot-prende-forma-ecco-cosa-puo-fare/",
+      "image": null,
+      "summary": "Kawasaki continua a lavorare sul Corleo, il suo veicolo fuoristrada a quattro zampe. Un nuovo brevetto entra nei… L'articolo Kawasaki Corleo, il cavallo robot prende forma: ecco cosa può fare! proviene da Vaielettrico .",
+      "date": "2026-08-18T20:15:26.0000000Z"
+    },
     {
       "id": "hdmotori:7ee6d9acb60a",
       "sourceId": "hdmotori",
@@ -231,18 +279,6 @@
       "date": "2026-08-18T11:30:38.0000000Z"
     },
     {
-      "id": "motor1:e08af9263203",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Cosa significano tutti quei numeri e lettere sui tuoi pneumatici?",
-      "url": "https://it.motor1.com/features/805248/pneumatici-numeri-lettere-significato/",
-      "image": "https://cdn.motor1.com/images/mgl/Oo9VBL/s3/why-do-tires-have-those-numbers-on-them.jpg",
-      "summary": "Il misterioso codice sui tuoi pneumatici non è casuale; rivela segreti sull'età, la dimensione, le prestazioni e altro ancora",
-      "date": "2026-08-18T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:3aa7ca72a9dc",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -252,6 +288,18 @@
       "url": "https://insideevs.it/news/805264/auto-benzina-ev-clima/",
       "image": "https://cdn.motor1.com/images/mgl/Rqke0w/s3/rivian-r2-charging.jpg",
       "summary": "Un recente studio dice che sostituire un veicolo con motore a combustione interna con un nuovo veicolo elettrico sia meglio per il clima",
+      "date": "2026-08-18T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:e08af9263203",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Cosa significano tutti quei numeri e lettere sui tuoi pneumatici?",
+      "url": "https://it.motor1.com/features/805248/pneumatici-numeri-lettere-significato/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo9VBL/s3/why-do-tires-have-those-numbers-on-them.jpg",
+      "summary": "Il misterioso codice sui tuoi pneumatici non è casuale; rivela segreti sull'età, la dimensione, le prestazioni e altro ancora",
       "date": "2026-08-18T11:00:00.0000000Z"
     },
     {
@@ -469,54 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/9m8w20/s3/2026-fiat-topolino.jpg",
       "summary": "La minuscola biposto italiana può essere usata sulle strade pubbliche americane; prima ha solo bisogno di alcune modifiche",
       "date": "2026-08-17T07:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:0855bf6e7347",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il nuovo Voyah Passion S si presenta con un loop a 360°",
-      "url": "https://www.vaielettrico.it/il-nuovo-voyah-passion-s-si-presenta-con-un-loop-a-360/",
-      "image": null,
-      "summary": "Debutto spettacolare in Cina per la nuova Voyah Passion S. Il SUV elettrico premium di casa Dongfeng si… L'articolo Il nuovo Voyah Passion S si presenta con un loop a 360° proviene da Vaielettrico .",
-      "date": "2026-08-17T06:09:16.0000000Z"
-    },
-    {
-      "id": "vaielettrico:92742e82f891",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Come funzionano le batterie? Si capisce ai raggi X",
-      "url": "https://www.vaielettrico.it/come-funzionano-le-batterie-si-capisce-ai-raggi-x/",
-      "image": null,
-      "summary": "Un nuovo sistema a raggi X sviluppato dal Fraunhofer EMI permette di osservare in tempo reale i processi… L'articolo Come funzionano le batterie? Si capisce ai raggi X proviene da Vaielettrico .",
-      "date": "2026-08-16T20:42:45.0000000Z"
-    },
-    {
-      "id": "vaielettrico:532c7d9f8961",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Praga insiste e moltiplica la ricarica nei lampioni",
-      "url": "https://www.vaielettrico.it/praga-insiste-e-moltiplica-la-ricarica-nei-lampioni/",
-      "image": null,
-      "summary": "Praga continuerà fino al 2028 il programma che integra la modernizzazione dell’illuminazione pubblica con la preparazione di nuovi… L'articolo Praga insiste e moltiplica la ricarica nei lampioni proviene da Vaielettri...",
-      "date": "2026-08-16T20:32:59.0000000Z"
-    },
-    {
-      "id": "vaielettrico:297d3efb99e3",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "China Zorrilla, traghetto elettrico più grande del mondo, in viaggio da Tasmania a Sud America",
-      "url": "https://www.vaielettrico.it/china-zorrilla-traghetto-elettrico-piu-grande-del-mondo-in-viaggio-da-tasmania-a-sud-america/",
-      "image": null,
-      "summary": "China Zorrilla dopo il varo e dopo aver superato i test in mare sta viaggiando dalla Tasmania al… L'articolo China Zorrilla, traghetto elettrico più grande del mondo, in viaggio da Tasmania a Sud America proviene da V...",
-      "date": "2026-08-16T20:23:52.0000000Z"
     },
     {
       "id": "motor1:49930a3e661e",
