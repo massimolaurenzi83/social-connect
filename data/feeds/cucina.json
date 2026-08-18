@@ -1,7 +1,19 @@
 {
   "category": "cucina",
-  "updated": "2026-08-18T14:07:55.1765620Z",
+  "updated": "2026-08-18T15:52:13.7638133Z",
   "items": [
+    {
+      "id": "giallozafferano:e86dcd73c4a8",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Pollo allo zenzero",
+      "url": "https://ricette.giallozafferano.it/Pollo-allo-zenzero.html",
+      "image": "https://www.giallozafferano.it/images/364-36455/Pollo-allo-zenzero_1200x800.jpg",
+      "summary": "Il pollo allo zenzero è un secondo piatto facile e sfizioso, ispirato ai sapori della cucina asiatica. Zenzero fresco e salsa di soia insaporiscono il pollo , mentre il miele aggiunge una piacevole nota dolce che bila...",
+      "date": "2026-08-18T13:42:00.0000000Z"
+    },
     {
       "id": "dissapore:8b2e14710b2b",
       "sourceId": "dissapore",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/365-36530/Insalata-di-anguria-e-feta_1200x800.jpg",
       "summary": "L' insalata di anguria e feta è il piatto freddo dell’estate! Una ricetta velocissima, dissetante e dal contrasto di sapori unico: l’incontro tra la polpa dolce e succosa dell' anguria e il gusto sapido e leggermente ...",
       "date": "2026-08-05T10:01:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:20056c79264f",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Insalata di zucchine grigliate con pomodori, rucola e primosale",
-      "url": "https://ricette.giallozafferano.it/Insalata-di-zucchine-grigliate-con-pomodori-rucola-e-primosale.html",
-      "image": "https://www.giallozafferano.it/images/365-36516/Insalata-di-zucchine-grigliate-con-pomodori-rucola-e-primosale_1200x800.jpg",
-      "summary": "L' insalata di zucchine grigliate con pomodori, rucola e primosale è la ricetta perfetta per chi cerca una pietanza fresca, colorata e pronta nel giro di mezz’ora. Un piatto unico vegetariano sfizioso ed equilibrato, ...",
-      "date": "2026-08-04T12:49:00.0000000Z"
     }
   ]
 }

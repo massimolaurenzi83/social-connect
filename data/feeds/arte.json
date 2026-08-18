@@ -1,18 +1,18 @@
 {
   "category": "arte",
-  "updated": "2026-08-18T14:07:55.1254162Z",
+  "updated": "2026-08-18T15:52:13.7747726Z",
   "items": [
     {
-      "id": "artribune:c258f0178912",
-      "sourceId": "artribune",
-      "source": "Artribune",
+      "id": "elledecor:f6f75479128d",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
       "platform": "rss",
       "category": "arte",
-      "title": "La fotografa che torna nei luoghi feriti del Libano insieme alle donne che li abitano. Intervista a Rania Matar",
-      "url": "https://www.artribune.com/arti-visive/fotografia/2026/08/intervista-rania-matar-libro/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/20-rania-matar-perla-where-do-i-go-kfarmatta-lebanon-2021-courtesy-of-the-artist.jpg",
-      "summary": "È uscito nella primavera del 2026 ed è già stato ristampato. “Where Do I Go?” è il grande successo editoriale di Rania Matar che unisce le sue origini libanesi e le sue posizioni femministe. Ce lo ha raccontato in que...",
-      "date": "2026-08-18T14:00:00.0000000Z"
+      "title": "Questa casa di 316 mq racconta un abitare accogliente fatto di colori e dettagli inattesi",
+      "url": "https://www.elledecor.com/it/case/a73368268/casa-di-316-mq-bellissima/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/4c9ba3ca-c2dc-44ca-afb9-8ee9b6791727.jpg",
+      "summary": "Una casa Mid-Century nel New Jersey ritrova leggerezza con il progetto di Surrounded by Color, tra tonalità gioiose, arredi dalle linee pulite e soluzioni pensate per la vita di famiglia",
+      "date": "2026-08-18T14:30:00.0000000Z"
     },
     {
       "id": "elledecor:ea721bd6d37e",
@@ -24,6 +24,18 @@
       "url": "https://www.elledecor.com/it/barche-motori/barche/a73346429/70-anni-senza-transatlantico-andrea-doria/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/257d7d7b-c077-421f-8307-04b4d58d22a5.jpeg",
       "summary": "Considerata la nave più bella della sua epoca, rappresentò la rinascita dell'Italia del Dopoguerra attraverso un linguaggio progettuale che univa architettura navale, arte e innovazione",
+      "date": "2026-08-18T14:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:c258f0178912",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "La fotografa che torna nei luoghi feriti del Libano insieme alle donne che li abitano. Intervista a Rania Matar",
+      "url": "https://www.artribune.com/arti-visive/fotografia/2026/08/intervista-rania-matar-libro/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/20-rania-matar-perla-where-do-i-go-kfarmatta-lebanon-2021-courtesy-of-the-artist.jpg",
+      "summary": "È uscito nella primavera del 2026 ed è già stato ristampato. “Where Do I Go?” è il grande successo editoriale di Rania Matar che unisce le sue origini libanesi e le sue posizioni femministe. Ce lo ha raccontato in que...",
       "date": "2026-08-18T14:00:00.0000000Z"
     },
     {
@@ -159,18 +171,6 @@
       "date": "2026-08-18T10:16:00.0000000Z"
     },
     {
-      "id": "artribune:166a391c6ab1",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Tra Dioniso e Apollo. Piccolo esercizio di autodifesa per il lettore d’arte",
-      "url": "https://www.artribune.com/arte-contemporanea-2/2026/08/critica-arte-dioniso-apollo/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/caserta-reggia-15-4-05062.jpg",
-      "summary": "Chi stabilisce cos’è arte “davvero”? Vale di più la forma apollinea o la sostanza dionisiaca? Sono alcune delle domande che dovrebbe porsi ogni lettore di fronte alla critica. Qui ce le si fa con una particolare atten...",
-      "date": "2026-08-18T10:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:21d4c8f06967",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -180,6 +180,18 @@
       "url": "https://www.elledecor.com/it/architettura/a73454423/5-architetture-brutaliste-da-vedere-nelle-marche/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/678753fd-080e-45b4-9caa-5930a5fdd48f.jpg",
       "summary": "Da Ancona a Pesaro, un itinerario tra Sergio Lenci, Leonardo Ricci, Alfredo Lambertucci, Gruppo Marche e Carlo Aymonino attraversa una stagione straordinaria dell’architettura pubblica italiana",
+      "date": "2026-08-18T10:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:166a391c6ab1",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Tra Dioniso e Apollo. Piccolo esercizio di autodifesa per il lettore d’arte",
+      "url": "https://www.artribune.com/arte-contemporanea-2/2026/08/critica-arte-dioniso-apollo/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/caserta-reggia-15-4-05062.jpg",
+      "summary": "Chi stabilisce cos’è arte “davvero”? Vale di più la forma apollinea o la sostanza dionisiaca? Sono alcune delle domande che dovrebbe porsi ogni lettore di fronte alla critica. Qui ce le si fa con una particolare atten...",
       "date": "2026-08-18T10:00:00.0000000Z"
     },
     {
@@ -207,18 +219,6 @@
       "date": "2026-08-18T08:00:00.0000000Z"
     },
     {
-      "id": "elledecor:ee9a5db92395",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Il museo più visitato d’Italia è un palazzo che racchiude 7 km di arte, storia e potere",
-      "url": "https://www.elledecor.com/it/arte/a73453168/il-museo-piu-visitato-in-italia/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/ab60c232-4d82-47d4-9877-91b8e6262d7e.jpeg",
-      "summary": "Quasi sette milioni di visitatori attraversano ogni anno i Musei Vaticani, un palazzo-museo dove secoli di architettura, arte e storia continuano a sovrapporsi",
-      "date": "2026-08-18T07:00:00.0000000Z"
-    },
-    {
       "id": "artribune:13b15bf703e6",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -231,16 +231,16 @@
       "date": "2026-08-18T07:00:00.0000000Z"
     },
     {
-      "id": "elledecor:3334dc1fe0b3",
+      "id": "elledecor:ee9a5db92395",
       "sourceId": "elledecor",
       "source": "Elle Decor",
       "platform": "rss",
       "category": "arte",
-      "title": "Una clubhouse fantascientifica è una casa di famiglia con stanze ispirate liberamente a Star Trek",
-      "url": "https://www.elledecor.com/it/case/a73354156/casa-fantascientifica/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/5c55e5f5-8671-4909-8518-0fdb4dc1b5c0.jpg",
-      "summary": "Lo studio Christine Lin di Form + Field ha firmato il restyling di questa abitazione del futuro",
-      "date": "2026-08-18T06:00:00.0000000Z"
+      "title": "Il museo più visitato d’Italia è un palazzo che racchiude 7 km di arte, storia e potere",
+      "url": "https://www.elledecor.com/it/arte/a73453168/il-museo-piu-visitato-in-italia/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ab60c232-4d82-47d4-9877-91b8e6262d7e.jpeg",
+      "summary": "Quasi sette milioni di visitatori attraversano ogni anno i Musei Vaticani, un palazzo-museo dove secoli di architettura, arte e storia continuano a sovrapporsi",
+      "date": "2026-08-18T07:00:00.0000000Z"
     },
     {
       "id": "artribune:1c0c3087a76f",

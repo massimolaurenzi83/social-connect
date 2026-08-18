@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-18T14:07:55.1794352Z",
+  "updated": "2026-08-18T15:52:13.8171541Z",
   "items": [
+    {
+      "id": "ferrovie:7306d3fd18d0",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Linea Tarvisio - Udine, circolazione sospesa dal 22 agosto al 20 settembre",
+      "url": "https://www.ferrovie.info/treni-reali/linea-tarvisio-udine-circolazione-sospesa-dal-22-agosto-al-20-settembre.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10529/normal_blues_950.jpg",
+      "summary": "RFI eseguirà interventi di manutenzione sull’intera linea ferroviaria: previste modifiche agli orari, cancellazioni e servizi sostitutivi con autobus. La circolazione ferroviaria sarà sospesa sull’intera linea Tarvisi...",
+      "date": "2026-08-18T14:09:10.0000000Z"
+    },
     {
       "id": "ferrovie:ca2f44beeef0",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10044/normal_TTX_ETR350_006_Carpi_2810129.JPG",
       "summary": "RFI interviene sul ponte ferroviario con un cantiere fino al 29 agosto. Cambiano alcuni collegamenti regionali, nessuna ripercussione per Intercity e Frecce. Rete Ferroviaria Italiana avvierà martedì 18 agosto una nuo...",
       "date": "2026-08-17T06:55:09.0000000Z"
-    },
-    {
-      "id": "ferrovie:2594d84516a2",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Coradia Stream, E.656 e grandi opere: le principali notizie ferroviarie della settimana",
-      "url": "https://www.ferrovie.info/treni-reali/coradia-stream-e-656-e-grandi-opere-le-principali-notizie-ferroviarie-della-settimana.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/11219/normal_Trenitalia_Regionale_ETR_108_Alstom_coradia.jpeg",
-      "summary": "Una settimana particolarmente ricca per il mondo ferroviario, con novità che spaziano dai nuovi treni regionali alla storia del materiale rotabile italiano, passando per importanti avanzamenti sulle grandi infrastrutt...",
-      "date": "2026-08-16T17:38:29.0000000Z"
     }
   ]
 }
