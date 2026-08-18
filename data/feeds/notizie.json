@@ -1,18 +1,90 @@
 {
   "category": "notizie",
-  "updated": "2026-08-18T17:03:28.2323211Z",
+  "updated": "2026-08-18T18:02:00.7645583Z",
   "items": [
     {
-      "id": "ansa:01eea1726f7a",
+      "id": "open:c4b645a52d0b",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Nuovo scontro Usa-Iran su Hormuz, Trump: «Ora è un nostro territorio». Washington impone sanzioni contro la presidente della Cpi – La diretta",
+      "url": "https://www.open.online/2026/08/18/iran-usa-houthi-libano-aggiornamenti-18-agosto/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/diretta-usa-iran.jpg",
+      "summary": "Teheran ha fatto sapere che la rotta è chiusa e non verrà riaperta finché gli Stati Uniti non avrà revocato il blocco navale. Il presidente americano: «Non sono previsti colloqui con l'Iran, lo Stretto è aperto» L'art...",
+      "date": "2026-08-18T17:51:31.0000000Z"
+    },
+    {
+      "id": "ansa:5ccf8498bab7",
       "sourceId": "ansa",
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Il furto di opere Antonello da Messina, la banda avrebbe lasciato delle tracce",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/il-furto-di-opere-antonello-da-messina-in-arrivo-unazione-disciplinare-per-i-custodi_7d583cda-08d6-419c-b18f-f8c79dd6b776.html",
+      "title": "Emirati: 'L'Iran ha lanciato due missili balistici, finiti in mare'. Trump posta una cartina di Hormuz 'nuovo territorio Usa'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/18/gli-emirati-arabi-alla-popolazione-minaccia-missilistica-mettetevi-al-riparo.-trump_3ff1e586-8717-451b-9282-6fdf6565f7f6.html",
       "image": null,
-      "summary": "Gli investigatori stanno indagando a trecento sessanta gradi. In arrivo un'azione disciplinare per i custodi",
-      "date": "2026-08-18T16:57:59.0000000Z"
+      "summary": "Teheran: 'Lo Stretto rimarrà chiuso finchè gli Usa non rispetteranno i termini dell'accordo'. Coloni israeliani incendiano campi in Cisgiordania e irrompono a Beita. Numerosi gli attacchi notturni contro i palestinesi...",
+      "date": "2026-08-18T17:47:18.0000000Z"
+    },
+    {
+      "id": "open:c61c62832234",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Yael Trepy si è svegliato dal coma: migliorano le condizioni dell’attaccante del Cagliari ricoverato in terapia intensiva",
+      "url": "https://www.open.online/2026/08/18/yael-trepy-cagliari-risveglio-coma/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/trepy-risveglio-coma.jpg",
+      "summary": "Il francese classe 2006 aveva rischiato di annegare in una piscina. L'ultimo bollettino dei medici: «Ha mostrato una piena ripresa dello stato di coscienza» L'articolo Yael Trepy si è svegliato dal coma: migliorano le...",
+      "date": "2026-08-18T17:43:49.0000000Z"
+    },
+    {
+      "id": "ansa:860f434abaab",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Yael Trepy esce dal coma, 'nessun deficit neurologico'",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/trepy-si-risveglia-dal-coma-dopo-il-principio-di-annegamento_1571f98d-5c47-4694-9281-5c6a2a52121f.html",
+      "image": null,
+      "summary": "Dopo malore in piscina il giocatore del Cagliari estubato ma ancora in Terapia intensiva",
+      "date": "2026-08-18T17:38:28.0000000Z"
+    },
+    {
+      "id": "ansa:518341b65e3a",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Faduma ora si sente al sicuro, 'ho smesso di fuggire'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/18/la-ragazza-somala-allansa-sono-molto-felice-di-essere-al-sicuro_8aba0447-dd59-49dc-86bc-bea109587447.html",
+      "image": null,
+      "summary": "La 22enne somala all'ANSA in Germania: 'Ho paura di tornare in Italia, vorrei restare qui con i miei'",
+      "date": "2026-08-18T17:34:23.0000000Z"
+    },
+    {
+      "id": "ansa:8d52f11d5bd6",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Al via il maxi-processo a Meta, 29 Stati americani contro i social",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/08/18/tonfo-del-35-di-meta-a-wall-street-con-lavvio-del-processo-a-tutela_bf2a14ca-2446-404c-bb85-b3095fd6323b.html",
+      "image": null,
+      "summary": "Tonfo in Borsa (-3,5%). Procura attacca: 'Ha reso minori dipendenti e li ha sfruttati'",
+      "date": "2026-08-18T17:28:16.0000000Z"
+    },
+    {
+      "id": "ansa:0afe55012e0b",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Flessibilità Ue per il nucleare, non per le auto elettriche",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/08/18/con-la-clausola-di-salvaguardia-aiuti-alle-famiglie-per-acquisto-di-pompe-di-calore_5f6b1d6b-4a1f-4fbb-8ff6-41d960c4795e.html",
+      "image": null,
+      "summary": "Nella lista di Bruxelles colonnine e ristrutturazioni",
+      "date": "2026-08-18T17:21:26.0000000Z"
     },
     {
       "id": "ansa:c835e7b35203",
@@ -20,11 +92,36 @@
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Donna uccisa a coltellate vicino Roma, fermato il marito",
+      "title": "Donna uccisa a coltellate vicino Roma davanti a uno dei figli: fermato il marito",
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/donna-uccisa-a-coltellate-vicino-roma-fermato-il-marito_2fd50acc-3326-4b72-8a05-c99380460419.html",
       "image": null,
       "summary": "L'aggressione davanti ad uno dei figli",
-      "date": "2026-08-18T16:56:52.0000000Z"
+      "date": "2026-08-18T17:17:32.0000000Z"
+    },
+    {
+      "id": "open:c09cd6cdab5c",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Al via il processo che può cambiare per sempre Facebook e Instagram: cosa rischia l’azienda di Mark Zuckerberg",
+      "url": "https://www.open.online/2026/08/18/processo-meta-california-possibili-conseguenze/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/processo-meta-california-possibili-conseguenze.jpg",
+      "summary": "Tonfo di Meta a Wall Street poche ore prima delle arringhe iniziali. Una coalizione di 29 Stati Usa chiede danni per oltre 200 miliardi di dollari e modifiche sostanziali alle piattaforme L'articolo Al via il processo...",
+      "date": "2026-08-18T17:10:40.0000000Z"
+    },
+    {
+      "id": "skytg24:ZNIivUInFPs",
+      "sourceId": "skytg24",
+      "source": "Sky TG24",
+      "platform": "youtube",
+      "category": "notizie",
+      "title": "Nato, esercitazione militare in Romania per rafforzare la difesa",
+      "url": "https://www.youtube.com/watch?v=ZNIivUInFPs",
+      "image": "https://i.ytimg.com/vi/ZNIivUInFPs/hqdefault.jpg",
+      "summary": "",
+      "videoId": "ZNIivUInFPs",
+      "date": "2026-08-18T17:05:10.0000000Z"
     },
     {
       "id": "skytg24:RXzMxkTzLGQ",
@@ -40,28 +137,16 @@
       "date": "2026-08-18T16:53:44.0000000Z"
     },
     {
-      "id": "ansa:5ccf8498bab7",
-      "sourceId": "ansa",
-      "source": "ANSA",
+      "id": "repubblica:f02f3440d2ed",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Gli Emirati Arabi alla popolazione: 'Minaccia missilistica, mettetevi al riparo'. Trump posta una cartina di Hormuz 'nuovo territorio Usa'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/18/gli-emirati-arabi-alla-popolazione-minaccia-missilistica-mettetevi-al-riparo.-trump_3ff1e586-8717-451b-9282-6fdf6565f7f6.html",
+      "title": "Le denunce, il cappio, l’omicidio. La morte di Tania Terrin diventa un caso politico",
+      "url": "https://www.repubblica.it/cronaca/2026/08/18/news/tania_terrin_femminicidio_denunce_cappio_caso_politico-425534836/",
       "image": null,
-      "summary": "Teheran: 'Lo Stretto rimarrà chiuso finchè gli Usa non rispetteranno i termini dell'accordo'. Coloni israeliani incendiano campi in Cisgiordania e irrompono a Beita. Numerosi gli attacchi notturni contro i palestinesi...",
-      "date": "2026-08-18T16:53:17.0000000Z"
-    },
-    {
-      "id": "ansa:8d52f11d5bd6",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "I procuratori attaccano Meta, 'ha reso i minori dipendenti e li ha sfruttati'. Tonfo del 3,5% a Wall Street",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/08/18/tonfo-del-35-di-meta-a-wall-street-con-lavvio-del-processo-a-tutela_bf2a14ca-2446-404c-bb85-b3095fd6323b.html",
-      "image": null,
-      "summary": "La holding di Facebook e Instagram alla sbarra in California",
-      "date": "2026-08-18T16:41:54.0000000Z"
+      "summary": "Zaia chiede pene più severe, Schlein punta il dito sulla protezione mancata: il femminicidio di Tania Terrin, nonostante denunce e ammonimenti, riapre lo scontro sulla violenza di genere",
+      "date": "2026-08-18T16:45:30.0000000Z"
     },
     {
       "id": "open:4efe17e90bb1",
@@ -69,10 +154,10 @@
       "source": "Open",
       "platform": "rss",
       "category": "notizie",
-      "title": "Colleferro, uccide la compagna a coltellate: fermato dalla polizia dopo la chiamata della figlia",
+      "title": "Colleferro, uccide la moglie a coltellate: fermato dalla polizia dopo la chiamata della figlia",
       "url": "https://www.open.online/2026/08/18/colleferro-femminicidio-indagini/",
       "image": "https://static.open.online/wp-content/uploads/2026/06/auto-polizia_ottimizzato.jpg",
-      "summary": "I due, secondo quanto riferito da alcuni testimoni, litigavano spesso. La posizione dell'uomo è al vaglio degli inquirenti L'articolo Colleferro, uccide la compagna a coltellate: fermato dalla polizia dopo la chiamata...",
+      "summary": "L'aggressione sarebbe avvenuta davanti al figlio più piccolo. La procura indaga per femminicidio L'articolo Colleferro, uccide la moglie a coltellate: fermato dalla polizia dopo la chiamata della figlia proviene da Op...",
       "date": "2026-08-18T16:32:17.0000000Z"
     },
     {
@@ -145,10 +230,10 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Femminicidio a Colleferro, uomo uccide la compagna a coltellate: fermato dalla polizia",
+      "title": "Femminicidio a Colleferro, uccide la moglie davanti a due figli e poi confessa: “Sono stato io”",
       "url": "https://roma.repubblica.it/cronaca/2026/08/18/news/femminicidio_colleferro_uccide_compagna_coltellate-425534811/",
       "image": null,
-      "summary": "La posizione del fermato è al vaglio dei magistrati della procura di Velletri. A trovare il corpo della donna è stata la figlia",
+      "summary": "La posizione del fermato è al vaglio dei magistrati della procura di Velletri. La donna assassinata con tre coltellate alla gola in cucina",
       "date": "2026-08-18T16:10:44.0000000Z"
     },
     {
@@ -201,18 +286,6 @@
       "date": "2026-08-18T15:42:20.0000000Z"
     },
     {
-      "id": "ansa:40be57d9b70b",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "È morto Varenne, leggenda del trotto",
-      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/18/e-morto-varenne-leggenda-del-trotto_afc60a9c-6bb3-4dd0-af76-654f2f714a80.html",
-      "image": null,
-      "summary": "Il 'Capitano' aveva 31 anni, è stato il più grande di tutti i tempi",
-      "date": "2026-08-18T15:38:38.0000000Z"
-    },
-    {
       "id": "repubblica:b1a6b0fb5c56",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -261,30 +334,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/migranti-scaled.jpg",
       "summary": "La ragazza è in un rifugio ecclesiastico che ha annunciato di volerla proteggere almeno fino a quando Berlino non accoglierà la richiesta italiana di annullare il trasferimento. Parla la giovane: «Sono felice di esser...",
       "date": "2026-08-18T14:58:00.0000000Z"
-    },
-    {
-      "id": "open:c4b645a52d0b",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Iran: «Hormuz resta chiuso». La provocazione di Trump con la mappa dello Stretto: «Nuovo territorio Usa». La replica di Teheran – La diretta",
-      "url": "https://www.open.online/2026/08/18/iran-usa-houthi-libano-aggiornamenti-18-agosto/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/trump-rinvio-attacco-iran-mohammed-bin-salman.jpg",
-      "summary": "Teheran ha fatto sapere che la rotta non verrà riaperta finché Washington non avrà revocato il blocco navale. Il presidente americano: «Non sono previsti colloqui con l'Iran, lo Stretto è aperto» L'articolo Iran: «Hor...",
-      "date": "2026-08-18T14:25:00.0000000Z"
-    },
-    {
-      "id": "ansa:518341b65e3a",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La ragazza somala resta in Germania. Una chiesa evangelica in Baviera le dà asilo. 'Sono molto felice di essere al sicuro'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/18/la-ragazza-somala-allansa-sono-molto-felice-di-essere-al-sicuro_8aba0447-dd59-49dc-86bc-bea109587447.html",
-      "image": null,
-      "summary": "'Il tempo orribile della fuga è finito'. La 22enne riceverà asilo da una Chiesa evangelica in Baviera. La sua espulsione dalla Germania era stata annunciata per le 4.30 di domani mattina",
-      "date": "2026-08-18T14:10:41.0000000Z"
     },
     {
       "id": "repubblica:ad09afb4dfa5",
@@ -434,19 +483,6 @@
       "date": "2026-08-18T12:32:58.0000000Z"
     },
     {
-      "id": "skytg24:l1YFPv_0qWQ",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Cina, doppio arcobaleno sul deserto del Badain Jaran",
-      "url": "https://www.youtube.com/watch?v=l1YFPv_0qWQ",
-      "image": "https://i.ytimg.com/vi/l1YFPv_0qWQ/hqdefault.jpg",
-      "summary": "",
-      "videoId": "l1YFPv_0qWQ",
-      "date": "2026-08-18T12:23:59.0000000Z"
-    },
-    {
       "id": "repubblica:b98f76477b5d",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -476,23 +512,11 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Trepy, migliorano le condizioni ma resta in terapia intensiva: come sta l’attaccante del Cagliari",
+      "title": "Trepy si risveglia dal coma: “Non presenta deficit neurologici evidenti”",
       "url": "https://www.repubblica.it/sport/calcio/2026/08/18/news/trepy_come_sta_attaccante_cagliari-425534473/",
       "image": null,
-      "summary": "Progressi nella funzione respiratoria, la prognosi resta riservata. Il messaggio del tecnico Pisacane",
+      "summary": "Migliorano le condizioni dell’attaccante del Cagliari",
       "date": "2026-08-18T11:51:02.0000000Z"
-    },
-    {
-      "id": "open:ad21a5da30db",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Spari al pronto soccorso di Prato: diffuse le immagini dell’agente che apre il fuoco per fermare il detenuto",
-      "url": "https://www.open.online/2026/08/18/spari-pronto-soccorso-prato-agente-indagato-tentato-omicidio-video/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/prato-spari-pronto-soccorso.jpg",
-      "summary": "Il poliziotto è indagato per tentato omicidio. Solidarietà del sindacato Sappe e del vicepremier Salvini. Tutti gli aggiornamenti L'articolo Spari al pronto soccorso di Prato: diffuse le immagini dell’agente che apre ...",
-      "date": "2026-08-18T11:48:07.0000000Z"
     },
     {
       "id": "ansa:a6c5b4ffc314",
@@ -507,40 +531,16 @@
       "date": "2026-08-18T11:25:17.0000000Z"
     },
     {
-      "id": "open:869cef831320",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La rivelazione di Sharon Stone sul divorzio: «Mio marito si arrabbiò perché avevo due tumori e mi avrebbero asportato i seni»",
-      "url": "https://www.open.online/2026/08/18/sharon-stone-marito-tumori-asportazione-seni/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/sharon-stone-scaled.jpg",
-      "summary": "«Quella fu la fine del matrimonio. Tutto finì lì, in quella stanza con il medico. Per lui era finita, si capiva benissimo», ha raccontato l'attrice L'articolo La rivelazione di Sharon Stone sul divorzio: «Mio marito s...",
-      "date": "2026-08-18T11:14:14.0000000Z"
-    },
-    {
       "id": "repubblica:922b2b2e54f6",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Riapre il museo di Messina, procedimento disciplinare per i quattro custodi",
+      "title": "Riapre il museo di Messina, procedimento disciplinare per i 4 custodi: rischiano il licenziamento",
       "url": "https://palermo.repubblica.it/cronaca/2026/08/18/news/riapre_il_museo_di_messina_un_drappo_nero_copre_le_pareti_esposte_le_opere_rubate-425534358/",
       "image": null,
-      "summary": "La sanzione estrema prevede il licenziamento. I quattro custodi in ferie forzate. Schifani: “Disposta ispezione, non proteggeremo chi ha sbagliato. Incredibile che l’allarme non fosse collegato al 112”. Centinaia di p...",
+      "summary": "I quattro dipendenti in ferie forzate, gli investigatori avrebbero trovato delle tracce lasciate dalla banda. Schifani: “Disposta ispezione, non proteggeremo chi ha sbagliato. Incredibile che l’allarme non fosse colle...",
       "date": "2026-08-18T10:39:51.0000000Z"
-    },
-    {
-      "id": "repubblica:e790493f23bc",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "L’estate rallenta il passo ma non è finita. Allerta gialla per temporali in sette regioni",
-      "url": "https://www.repubblica.it/cronaca/2026/08/18/news/temporali_allerta_gialla_sette_regioni-425534266/",
-      "image": null,
-      "summary": "Dopo settimane di temperature estreme, l’aria più fresca attraversa la Penisola. Oggi l’instabilità si sposta verso Sud, mentre il resto del Paese torna a respirare. Le regioni attenzionate: Abruzzo, Basilicata, Calab...",
-      "date": "2026-08-18T09:51:34.0000000Z"
     },
     {
       "id": "ansa:89633df8c99c",
