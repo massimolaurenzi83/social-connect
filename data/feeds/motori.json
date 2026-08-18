@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-18T03:10:32.1803240Z",
+  "updated": "2026-08-18T05:04:19.1193286Z",
   "items": [
+    {
+      "id": "insideevs:5c90f9e40096",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Cupra Raval vs MINI Cooper, sfida tra hot hatch elettriche",
+      "url": "https://insideevs.it/news/803445/cupra-raval-vs-mini-cooper/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4X2K/s3/cupra-raval-vs-mini-confronto.jpg",
+      "summary": "Sfiziose nello stile e nella guida, ecco la spagnola e l'inglese a confronto punto per punto",
+      "date": "2026-08-18T05:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:6bf999acbeab",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mongeon (Vision Marine): la rete di ricarica c’è già. Serve solo usarla meglio",
+      "url": "https://www.vaielettrico.it/mongeon-vision-marine-la-rete-di-ricarica-ce-gia-serve-solo-usarla-meglio/",
+      "image": null,
+      "summary": "La rete di ricarica su strada ha una storia recente, nonostante uno sviluppo rapidissimo che ha portato a… L'articolo Mongeon (Vision Marine): la rete di ricarica c’è già. Serve solo usarla meglio proviene da Vaielett...",
+      "date": "2026-08-18T04:53:14.0000000Z"
+    },
     {
       "id": "hdmotori:e0dc88d06924",
       "sourceId": "hdmotori",
@@ -111,18 +135,6 @@
       "date": "2026-08-17T15:00:36.0000000Z"
     },
     {
-      "id": "motor1:71295ec6d0c4",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché la Stella di Mercedes ha tre punte?",
-      "url": "https://it.motor1.com/news/805170/mercedes-stella-tre-punte-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/40Y2NJ/s3/why-does-the-mercedes-benz-logo-have-three-points.jpg",
-      "summary": "L'iconica stella Mercedes-Benz ha una storia sorprendentemente strana e le sue tre punte sono più di una semplice scelta di design",
-      "date": "2026-08-17T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:2364a28d4b67",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -132,6 +144,18 @@
       "url": "https://insideevs.it/news/805140/freelander-8-boom-preordini-cina/",
       "image": "https://cdn.motor1.com/images/mgl/nAlWOR/s3/freelander-8-first-edition.jpg",
       "summary": "Il nuovo SUV elettrico nato dalla joint venture tra Jaguar Land Rover e Chery è già un successo (in Cina)",
+      "date": "2026-08-17T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:71295ec6d0c4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché la Stella di Mercedes ha tre punte?",
+      "url": "https://it.motor1.com/news/805170/mercedes-stella-tre-punte-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/40Y2NJ/s3/why-does-the-mercedes-benz-logo-have-three-points.jpg",
+      "summary": "L'iconica stella Mercedes-Benz ha una storia sorprendentemente strana e le sue tre punte sono più di una semplice scelta di design",
       "date": "2026-08-17T15:00:00.0000000Z"
     },
     {
@@ -483,18 +507,6 @@
       "date": "2026-08-16T04:03:13.0000000Z"
     },
     {
-      "id": "vaielettrico:d29a45bcf098",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Riparazione mirata delle batterie: ci pensa CATL",
-      "url": "https://www.vaielettrico.it/riparazione-mirata-delle-batterie-ci-pensa-catl/",
-      "image": null,
-      "summary": "Il colosso cinese punta a portare i centri di riparazione diretti “Ning Service” in 100 città nel mondo… L'articolo Riparazione mirata delle batterie: ci pensa CATL proviene da Vaielettrico .",
-      "date": "2026-08-16T03:51:18.0000000Z"
-    },
-    {
       "id": "insideevs:1ad380952855",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/pbJpMP/s3/bmw-ix3-romania-road-trip.jpg",
       "summary": "Un mix di autostrade, strade di campagna e veloci percorsi di montagna mostra quanto siano semplici i lunghi viaggi col SUV elettrico",
       "date": "2026-08-15T05:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:8b1eab65260a",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla Model S usate a prezzi stracciati: cosa sapere e cosa controllare",
-      "url": "https://insideevs.it/features/804981/tesla-model-s-usate-controlli/",
-      "image": "https://cdn.motor1.com/images/mgl/7ZEJPV/s3/model-s-degradation.jpg",
-      "summary": "Molte Model S con elevato chilometraggio conservano gran parte della capacità originale della batteria e sono molto economiche, ma...",
-      "date": "2026-08-14T15:00:00.0000000Z"
     }
   ]
 }

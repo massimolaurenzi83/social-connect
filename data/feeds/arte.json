@@ -1,7 +1,19 @@
 {
   "category": "arte",
-  "updated": "2026-08-18T03:10:32.1914366Z",
+  "updated": "2026-08-18T05:04:19.1550677Z",
   "items": [
+    {
+      "id": "elledecor:a14e59317872",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "La tendenza degli archi negli interni ha conquistato tutti, ma per i designer è ormai superata",
+      "url": "https://www.elledecor.com/it/case/a73366438/tendenza-archi-negli-interni/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/c76a3980-6a05-4e75-ba13-70e7ce4cc4b4.jpg",
+      "summary": "Nato come gesto architettonico raffinato, l'arco si è moltiplicato ovunque, dalle porte alle sedie da pranzo, fino a perdere il suo fascino originario",
+      "date": "2026-08-18T05:00:00.0000000Z"
+    },
     {
       "id": "artribune:1c0c3087a76f",
       "sourceId": "artribune",
@@ -99,18 +111,6 @@
       "date": "2026-08-17T12:00:00.0000000Z"
     },
     {
-      "id": "artribune:14a9a9510532",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Nuove manifatture e nuovi artigiani da scoprire a Palermo e dintorni in Sicilia",
-      "url": "https://www.artribune.com/progettazione/design/2026/08/guida-manifatture-siciliane-palermo/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/kimano-design-set-up-in-cavaph-chiara-pugliesi-scaled.jpg",
-      "summary": "Un breve itinerario per flâneur e designer nel capoluogo siciliano, che sempre di più consolida il ruolo di motore creativo dell’isola grazie a un vitalissimo ecosistema di accademie, atelier, botteghe, maestri artigi...",
-      "date": "2026-08-17T11:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:68ed3eb792b0",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -123,16 +123,16 @@
       "date": "2026-08-17T11:00:00.0000000Z"
     },
     {
-      "id": "elledecor:bff429e4db1a",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
+      "id": "artribune:14a9a9510532",
+      "sourceId": "artribune",
+      "source": "Artribune",
       "platform": "rss",
       "category": "arte",
-      "title": "L'architettura modernista di Tashkent entra nella lista del Patrimonio Mondiale UNESCO",
-      "url": "https://www.elledecor.com/it/architettura/a73445932/tashkent-architettura-modernista-unesco/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/547cf7df-5bfa-4a7b-9c91-8cc66afd059b.jpg",
-      "summary": "Costruite tra gli Anni 60 e i primi 90, i 10 progetti raccontano una capitale dove il modernismo sovietico incontra il clima, le arti decorative e la cultura dell’Asia Centrale",
-      "date": "2026-08-17T10:00:00.0000000Z"
+      "title": "Nuove manifatture e nuovi artigiani da scoprire a Palermo e dintorni in Sicilia",
+      "url": "https://www.artribune.com/progettazione/design/2026/08/guida-manifatture-siciliane-palermo/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/kimano-design-set-up-in-cavaph-chiara-pugliesi-scaled.jpg",
+      "summary": "Un breve itinerario per flâneur e designer nel capoluogo siciliano, che sempre di più consolida il ruolo di motore creativo dell’isola grazie a un vitalissimo ecosistema di accademie, atelier, botteghe, maestri artigi...",
+      "date": "2026-08-17T11:00:00.0000000Z"
     },
     {
       "id": "artribune:0abf4922f7c5",
@@ -144,6 +144,18 @@
       "url": "https://www.artribune.com/arti-performative/musica/2026/08/beethoven-dante-gioia/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/geminigeneratedimagemgromhmgromhmgro.png",
       "summary": "La Nona Sinfonia di Beethoven e la Divina Commedia di Dante sono strade verso la gioia, che è condivisa e collettiva. Ecco come le due opere dialogano e ci ricordano qual è il valore dell’arte L’articolo \" C’è un modo...",
+      "date": "2026-08-17T10:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:bff429e4db1a",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "L'architettura modernista di Tashkent entra nella lista del Patrimonio Mondiale UNESCO",
+      "url": "https://www.elledecor.com/it/architettura/a73445932/tashkent-architettura-modernista-unesco/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/547cf7df-5bfa-4a7b-9c91-8cc66afd059b.jpg",
+      "summary": "Costruite tra gli Anni 60 e i primi 90, i 10 progetti raccontano una capitale dove il modernismo sovietico incontra il clima, le arti decorative e la cultura dell’Asia Centrale",
       "date": "2026-08-17T10:00:00.0000000Z"
     },
     {
@@ -253,18 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/22490797-f17c-4dcc-a16f-419fe5221da5.jpeg",
       "summary": "Appunti di viaggio per ricercatori di arredi, oggetti e abiti vintage e pre-loved",
       "date": "2026-08-16T14:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:6fd929ee3a6e",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "10 piante perenni da piantare ad agosto per un giardino ricco di fiori fino all'autunno",
-      "url": "https://www.elledecor.com/it/lifestyle/g73366319/piante-perenni-da-piantare-ad-agosto/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/afc8dbe6-11b3-495c-a57c-a592c5deac02.jpeg",
-      "summary": "Dalle varietà più scenografiche alle grandi classiche, agosto è ancora il momento giusto per rinnovare bordure e aiuole e accompagnare il giardino verso la nuova stagione",
-      "date": "2026-08-16T13:00:00.0000000Z"
     }
   ]
 }
