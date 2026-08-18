@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-08-18T15:52:13.7788683Z",
+  "updated": "2026-08-18T17:03:28.2292688Z",
   "items": [
+    {
+      "id": "hdmotori:7ee6d9acb60a",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dall’Italia al Kazakistan in una FIAT Panda di quasi 30 anni: avventura epica",
+      "url": "https://www.hdmotori.it/italia-kazakistan-fiat-panda/",
+      "image": null,
+      "summary": "Due amici sono partiti per una Odissea moderna a bordo di una FIAT Panda del 1997. Hanno attraversato due continenti e tante peripezie The post Dall’Italia al Kazakistan in una FIAT Panda di quasi 30 anni: avventura e...",
+      "date": "2026-08-18T17:00:40.0000000Z"
+    },
+    {
+      "id": "hdmotori:4b4e388c5db8",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Freelander 8, oltre ogni più rosea previsione: 10.000 ordini in due giorni",
+      "url": "https://www.hdmotori.it/freelander-8-ordini-10000-48-ore/",
+      "image": null,
+      "summary": "Il nuovo Freelander 8 supera 10.000 preordini in Cina in 48 ore. Ha 829 CV, 300 km in elettrico e anticipa il lancio globale del marchio The post Freelander 8, oltre ogni più rosea previsione: 10.000 ordini in due gio...",
+      "date": "2026-08-18T16:00:35.0000000Z"
+    },
+    {
+      "id": "vaielettrico:799e08ff795b",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Kia EV6 GT (77 kWh) del 2023, con 34.000 km",
+      "url": "https://www.vaielettrico.it/kia-ev6-gt-77-kwh-del-2023-con-34-000-km/",
+      "image": null,
+      "summary": "Anno: Dicembre 2023 Km percorsi: 34.000 Stato Batteria: tagliando 2026 Regione: Piemonte Prezzo: 38.000 euro Kia EV6 GT… L'articolo Kia EV6 GT (77 kWh) del 2023, con 34.000 km proviene da Vaielettrico .",
+      "date": "2026-08-18T15:57:02.0000000Z"
+    },
     {
       "id": "motor1:4fd3e6218c7c",
       "sourceId": "motor1",
@@ -195,18 +231,6 @@
       "date": "2026-08-18T11:00:05.0000000Z"
     },
     {
-      "id": "insideevs:3aa7ca72a9dc",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Rottamare l’auto a benzina per un’EV aiuta il clima",
-      "url": "https://insideevs.it/news/805264/auto-benzina-ev-clima/",
-      "image": "https://cdn.motor1.com/images/mgl/Rqke0w/s3/rivian-r2-charging.jpg",
-      "summary": "Un recente studio dice che sostituire un veicolo con motore a combustione interna con un nuovo veicolo elettrico sia meglio per il clima",
-      "date": "2026-08-18T11:00:00.0000000Z"
-    },
-    {
       "id": "motor1:e08af9263203",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -219,28 +243,16 @@
       "date": "2026-08-18T11:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:c5d1b895b4af",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "insideevs:3aa7ca72a9dc",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Toyota Yaris invisibile alle telecamere: l’IA la vede, ma non la riconosce",
-      "url": "https://www.hdmotori.it/toyota-yaris-invisibile-alle-telecamere-lia-la-vede-ma-non-la-riconosce/",
-      "image": null,
-      "summary": "Ricoperta da uno speciale pattern generato dall’intelligenza artificiale l'auto è stata utilizzata al DEF CON di Las Vegas per mettere alla prova i sistemi di riconoscimento automatico: la telecamera continua a vedere...",
-      "date": "2026-08-18T10:30:54.0000000Z"
-    },
-    {
-      "id": "hdmotori:a2f0058f2396",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto elettriche, spunta un nuovo problema: colpa delle ricariche al mattino",
-      "url": "https://www.hdmotori.it/auto-elettriche-spunta-un-nuovo-problema-colpa-delle-ricariche-al-mattino/",
-      "image": null,
-      "summary": "Le auto elettriche hanno tante criticità, ma una in particolare rischia di cambiare gli scenari dei dipendenti che arrivano al lavoro con il bisogno di attaccare la spina alle colonnine The post Auto elettriche, spunt...",
-      "date": "2026-08-18T10:00:38.0000000Z"
+      "title": "Rottamare l’auto a benzina per un’EV aiuta il clima",
+      "url": "https://insideevs.it/news/805264/auto-benzina-ev-clima/",
+      "image": "https://cdn.motor1.com/images/mgl/Rqke0w/s3/rivian-r2-charging.jpg",
+      "summary": "Un recente studio dice che sostituire un veicolo con motore a combustione interna con un nuovo veicolo elettrico sia meglio per il clima",
+      "date": "2026-08-18T11:00:00.0000000Z"
     },
     {
       "id": "insideevs:c428087bb0b4",
@@ -505,18 +517,6 @@
       "image": null,
       "summary": "China Zorrilla dopo il varo e dopo aver superato i test in mare sta viaggiando dalla Tasmania al… L'articolo China Zorrilla, traghetto elettrico più grande del mondo, in viaggio da Tasmania a Sud America proviene da V...",
       "date": "2026-08-16T20:23:52.0000000Z"
-    },
-    {
-      "id": "vaielettrico:a6088f38ba93",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Scandalo incentivi in Germania: valgono anche per le top car",
-      "url": "https://www.vaielettrico.it/scandalo-incentivi-in-germania-valgono-anche-per-le-top-car/",
-      "image": null,
-      "summary": "Scandalo incentivi in Germania: valgono anche per le auto di lusso, nonostante fossero stati studiati per i ceti… L'articolo Scandalo incentivi in Germania: valgono anche per le top car proviene da Vaielettrico .",
-      "date": "2026-08-16T08:56:03.0000000Z"
     },
     {
       "id": "motor1:49930a3e661e",
