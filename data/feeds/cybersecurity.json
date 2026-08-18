@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-18T06:01:28.8534418Z",
+  "updated": "2026-08-18T08:03:01.4517576Z",
   "items": [
+    {
+      "id": "cybersecurity360:746c3db17b70",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Gestione dei rischi NIS 2: il modello ibrido che collega servizi, informazioni, tecnologie e scenari di rischio",
+      "url": "https://www.cybersecurity360.it/legal/gestione-dei-rischi-nis-2-il-modello-ibrido-che-collega-servizi-informazioni-tecnologie-e-scenari-di-rischio/",
+      "image": null,
+      "summary": "Ogni prospettiva descrive un livello di una catena d'attacco. Da sola, nessuna la descrive tutta. Ma il modello ibrido nasce dalla consapevolezza: non elimina i metodi esistenti, ma li collega. Ecco perché nella gesti...",
+      "date": "2026-08-18T07:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:af207a96e2c2",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Con gli agenti militari basati sull’intelligenza artificiale la catena di comando comincia ad assomigliare a una rete. Ecco i rischi legati ad agenti militari manipolati nelle guerre diffuse dove il vantaggio non appa...",
       "date": "2026-08-14T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:5037e1aba420",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Le due responsabilità del GDPR: la promessa e il vincolo",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/le-due-responsabilita-del-gdpr-la-promessa-e-il-vincolo/",
-      "image": null,
-      "summary": "La responsabilità del GDPR ha due tempi e, in inglese, due nomi: responsibility, la promessa che guarda in avanti; liability, il vincolo che risponde all’indietro. Ecco la differenza fra responsabilità-promessa che gu...",
-      "date": "2026-08-14T07:00:00.0000000Z"
     }
   ]
 }
