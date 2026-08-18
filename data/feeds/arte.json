@@ -1,7 +1,19 @@
 {
   "category": "arte",
-  "updated": "2026-08-18T05:04:19.1550677Z",
+  "updated": "2026-08-18T06:01:28.8577503Z",
   "items": [
+    {
+      "id": "elledecor:3334dc1fe0b3",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Una clubhouse fantascientifica è una casa di famiglia con stanze ispirate liberamente a Star Trek",
+      "url": "https://www.elledecor.com/it/case/a73354156/casa-fantascientifica/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5c55e5f5-8671-4909-8518-0fdb4dc1b5c0.jpg",
+      "summary": "Lo studio Christine Lin di Form + Field ha firmato il restyling di questa abitazione del futuro",
+      "date": "2026-08-18T06:00:00.0000000Z"
+    },
     {
       "id": "elledecor:a14e59317872",
       "sourceId": "elledecor",
@@ -111,18 +123,6 @@
       "date": "2026-08-17T12:00:00.0000000Z"
     },
     {
-      "id": "elledecor:68ed3eb792b0",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Questo ristorante sul lago di Como vanta una tavola panoramica che si affaccia sul Lario",
-      "url": "https://www.elledecor.com/it/viaggi/a73355260/ristorante-sul-lago-di-como/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/a35c4ad7-3cdc-42cd-919f-0038160ffd33.jpg",
-      "summary": "Da Terrazza 241, sui tetti dell’hotel Hilton Lake Como, una tavola panoramica a pochi passi dal centro città è il place to be dell'estate lacustre",
-      "date": "2026-08-17T11:00:00.0000000Z"
-    },
-    {
       "id": "artribune:14a9a9510532",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -132,6 +132,18 @@
       "url": "https://www.artribune.com/progettazione/design/2026/08/guida-manifatture-siciliane-palermo/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/kimano-design-set-up-in-cavaph-chiara-pugliesi-scaled.jpg",
       "summary": "Un breve itinerario per flâneur e designer nel capoluogo siciliano, che sempre di più consolida il ruolo di motore creativo dell’isola grazie a un vitalissimo ecosistema di accademie, atelier, botteghe, maestri artigi...",
+      "date": "2026-08-17T11:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:68ed3eb792b0",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Questo ristorante sul lago di Como vanta una tavola panoramica che si affaccia sul Lario",
+      "url": "https://www.elledecor.com/it/viaggi/a73355260/ristorante-sul-lago-di-como/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a35c4ad7-3cdc-42cd-919f-0038160ffd33.jpg",
+      "summary": "Da Terrazza 241, sui tetti dell’hotel Hilton Lake Como, una tavola panoramica a pochi passi dal centro città è il place to be dell'estate lacustre",
       "date": "2026-08-17T11:00:00.0000000Z"
     },
     {
@@ -253,18 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/61e93212-c645-444d-b6fa-93a7f6acffee.jpeg",
       "summary": "Con un programma pluriennale, la villa si prepara a essere la casa della ricerca, ma anche delle esposizioni, affinché torni a essere un punto di riferimento per studiosi e collezionisti",
       "date": "2026-08-16T14:30:00.0000000Z"
-    },
-    {
-      "id": "elledecor:a79d2b1dd5d7",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Guida tascabile ai negozi vintage nelle località di mare italiane",
-      "url": "https://www.elledecor.com/it/lifestyle/a73271675/negozi-vintage-citta-mare-italia/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/22490797-f17c-4dcc-a16f-419fe5221da5.jpeg",
-      "summary": "Appunti di viaggio per ricercatori di arredi, oggetti e abiti vintage e pre-loved",
-      "date": "2026-08-16T14:00:00.0000000Z"
     }
   ]
 }
