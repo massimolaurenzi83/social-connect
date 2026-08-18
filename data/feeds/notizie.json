@@ -1,7 +1,91 @@
 {
   "category": "notizie",
-  "updated": "2026-08-18T22:56:02.7770899Z",
+  "updated": "2026-08-18T23:50:16.7300536Z",
   "items": [
+    {
+      "id": "repubblica:999337b478ca",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Trump “nessun negoziato”, missili balistici di Teheran tornano a colpire il Golfo",
+      "url": "https://www.repubblica.it/esteri/2026/08/19/news/trump_nessun_negoziato_iran_missili_balistici_teheran_golfo-425535143/",
+      "image": null,
+      "summary": "Araghchi attacca i nemici: “Ci supplicano di negoziare, ma abbiamo vinto noi”. Su Hormuz, “gli Usa si illudono” ma il tycoon lo definisce “territorio americano”",
+      "date": "2026-08-18T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:a5a9d27a44c6",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Ritter: “Gli Stati Uniti sono in un pantano, la guerra con l’Iran ormai è persa”",
+      "url": "https://www.repubblica.it/esteri/2026/08/19/news/ritter_intervista_stati_uniti_pantano_guerra_iran_persa-425535101/",
+      "image": null,
+      "summary": "L’ex capo degli ispettori Onu in Iraq: “Donald ha dimostrato di non avere capacità strategiche. E ha anche finito le munizioni”",
+      "date": "2026-08-18T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:92a1e6046193",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Zelensky vuole Khmara alla Difesa e Fedorov lo sfida: “Ora elezioni”",
+      "url": "https://www.repubblica.it/esteri/2026/08/19/news/zelensky_khmara_difesa_fedorov_sfida_ora_elezioni-425535242/",
+      "image": null,
+      "summary": "Il presidente cerca di sopire le proteste per la cacciata dell’ex ministro, che attacca: “Basta con la democrazia in ostaggio”",
+      "date": "2026-08-18T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:97169f5b25e5",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Mosca, l’attacco più duro: oltre 800 droni ucraini si abbattono sulla Russia",
+      "url": "https://www.repubblica.it/esteri/2026/08/19/news/oltre_800_droni_ucraini_russia_feriti_blackout_mosca-425535201/",
+      "image": null,
+      "summary": "Secondo il sindaco, 620 puntavano verso la capitale: colpite centrali e altri poli logistici di Wildberries. Attacco del Cremlino a Kharkiv 10 morti, Zelensky: “Atto brutale”",
+      "date": "2026-08-18T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:38417cee191d",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Sciami enormi e invisibili: ecco perché i droni ucraini eludono le contraeree di Putin",
+      "url": "https://www.repubblica.it/esteri/2026/08/19/news/sciami_enormi_invisibili_perche_droni_ucraini_eludono_contraeree_russia_putin-425535207/",
+      "image": null,
+      "summary": "Kiev ne produce ormai 100mila all’anno. Sfruttano la scarsità di velivoli radar del nemico e sono sempre più sofisticati e letali",
+      "date": "2026-08-18T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:feaced76a689",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "L’ex di Fatah e il capo di Hamas: il summit segreto tra nemici per l’alleanza anti-Abu Mazen",
+      "url": "https://www.repubblica.it/esteri/2026/08/19/news/dahlan_fatah_al_hayya_capo_hamas_incontro_segreto_cairo_elezioni_gaza_novembre-425535193/",
+      "image": null,
+      "summary": "Dahlan e al Hayya hanno discusso al Cairo del piano per battere la vecchia leadership palestinese nel voto di novembre",
+      "date": "2026-08-18T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:5cfa1d9156b8",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Siria, bombe dell’Idf sull’aeroporto militare: i turchi nel mirino",
+      "url": "https://www.repubblica.it/esteri/2026/08/19/news/siria_bombe_idf_aeroporto_militare_escalation-425535231/",
+      "image": null,
+      "summary": "Operazione di Israele per impedire un rafforzamento dell’esercito di Erdogan. La condanna degli Usa: “Escalation non necessaria”",
+      "date": "2026-08-18T23:00:00.0000000Z"
+    },
     {
       "id": "ansa:ded602ef3869",
       "sourceId": "ansa",
@@ -212,10 +296,10 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Palio di Siena, vince il Nicchio. Tittia trionfa ancora e poi cade",
+      "title": "Palio di Siena, vince il Nicchio. Tittia trionfa ancora, poi cade e finisce in ospedale",
       "url": "https://firenze.repubblica.it/cronaca/2026/08/18/news/nicchio_palio_siena_2026_vince_tittia-425534978/",
       "image": null,
-      "summary": "Dopo due rinvii, la partenza, la festa e la caduta. Il fantino in ospedale per accertamenti",
+      "summary": "Dopo due rinvii, la partenza, la festa e la caduta. Trauma cranico per il fantino",
       "date": "2026-08-18T18:11:24.0000000Z"
     },
     {
@@ -394,30 +478,6 @@
       "date": "2026-08-18T16:10:03.0000000Z"
     },
     {
-      "id": "repubblica:b975de4a63f6",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Rachele Mussolini contro Vannacci sul femminicidio: “Abolirlo? La Treccani sconfessa il generale”",
-      "url": "https://roma.repubblica.it/cronaca/2026/08/18/news/vannacci_rachele_mussolini_femminicidio_treccani-425534776/",
-      "image": null,
-      "summary": "La capogruppo di Forza Italia in Campidoglio attacca il leader di Futuro nazionale: “La parola è la più ricercata del 2026 sul sito del dizionario. Il generale ne prenda atto”",
-      "date": "2026-08-18T15:46:23.0000000Z"
-    },
-    {
-      "id": "repubblica:b1a6b0fb5c56",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Angelo Ratti: “Io, picchiato perché gay. Va estirpato il cancro sociale dell’ignoranza e dell’odio”",
-      "url": "https://milano.repubblica.it/cronaca/2026/08/18/news/angelo_ratti_picchiato_perche_omosessuale_gay_olbia_sardegna_intervista_denuncia-425534758/",
-      "image": null,
-      "summary": "Il promoter milanese aggredito da 30 persone in Sardegna: “Uno dei soccorritori mi ha chiesto se fossi omosessuale e ha avvisato i colleghi di stare attenti perché c’era la possibilità che fossi ‘infetto’”",
-      "date": "2026-08-18T15:34:09.0000000Z"
-    },
-    {
       "id": "skytg24:EF5pU50LFtc",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -444,18 +504,6 @@
       "date": "2026-08-18T15:07:05.0000000Z"
     },
     {
-      "id": "repubblica:ad09afb4dfa5",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Nate in India, adottate in Olanda da famiglie diverse: due amiche scoprono di essere sorelle",
-      "url": "https://www.repubblica.it/esteri/2026/08/18/news/olanda_amiche_scoprono_essere_sorelle_adottate_india-425534641/",
-      "image": null,
-      "summary": "Meena Geltink e Minal Tijssen si sono conosciute da bambine a un campeggio per famiglie adottive, decenni dopo hanno scoperto la parentela con un test del Dna: “Adesso non ci sentiamo più sole”",
-      "date": "2026-08-18T14:00:29.0000000Z"
-    },
-    {
       "id": "skytg24:dmsa5vVz73s",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -467,54 +515,6 @@
       "summary": "",
       "videoId": "dmsa5vVz73s",
       "date": "2026-08-18T13:57:06.0000000Z"
-    },
-    {
-      "id": "repubblica:2fcac5ca4922",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Varenne, la prima prova andò male ma un imprenditore napoletano non ebbe dubbi e lo acquistò",
-      "url": "https://napoli.repubblica.it/sport/2026/08/18/news/vittorie_varenne_napoli_enzo_giordano-425534574/",
-      "image": null,
-      "summary": "Il nome del più grande trottatore di tutti i tempi, scomparso a Eboli, è legato a quello del proprietario napoletano Enzo Giordano. Al Lotteria conquistò tre vittorie consecutive",
-      "date": "2026-08-18T13:11:07.0000000Z"
-    },
-    {
-      "id": "repubblica:03ce571eeb46",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Varenne, un gigante dello sport italiano diventato leggenda come Coppi e Mennea",
-      "url": "https://www.repubblica.it/sport/vari/2026/08/18/news/morto_varenne_cavallo_campione_trotto-425534567/",
-      "image": null,
-      "summary": "Il più grande cavallo di tutti i tempi è stato molto più di un fuoriclasse: un mito capace di entrare nell’immaginario dello sport italiano",
-      "date": "2026-08-18T13:09:31.0000000Z"
-    },
-    {
-      "id": "repubblica:fd3736f07db8",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Le dieci parole più consultate sulla Treccani: femminicidio in testa. Seguono maranza e fake news",
-      "url": "https://www.repubblica.it/cronaca/2026/08/18/news/treccani_dieci_parole_piu_consultate_femminicidio_maranza_fake_news-425534558/",
-      "image": null,
-      "summary": "Parole nuove fino a poco tempo fa, entrate ormai nei vocabolari e diventate abituali nel linguaggio di tutti i giorni, negli organi di informazione e nei fatti di cronaca, fino a imporsi nell’uso comune e tra le ricer...",
-      "date": "2026-08-18T13:02:22.0000000Z"
-    },
-    {
-      "id": "repubblica:0f734a0edcc7",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "L’ultima notte di Varenne a San Siro tra zanzare e sfidanti",
-      "url": "https://milano.repubblica.it/cronaca/2026/08/18/news/varenne_ultima_corsa_san_siro_2002_mario_fossati-425534556/",
-      "image": null,
-      "summary": "Il 25 giugno del 2002 il trottatore in pista per la corsa Unire prima di ritirarsi. La preparazione di quella notte in un articolo della storica firma di Repubblica Mario Fossati",
-      "date": "2026-08-18T13:00:33.0000000Z"
     },
     {
       "id": "skytg24:_Kslx6gKKic",
