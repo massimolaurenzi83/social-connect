@@ -1,7 +1,44 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-18T19:37:02.5649387Z",
+  "updated": "2026-08-18T20:02:58.0422089Z",
   "items": [
+    {
+      "id": "techprincess:3rUCexZxVQU",
+      "sourceId": "techprincess",
+      "source": "Techprincess",
+      "platform": "youtube",
+      "category": "tecnologia",
+      "title": "Riprese Dinamiche in Solitaria: Il Tracciamento Automatico",
+      "url": "https://www.youtube.com/watch?v=3rUCexZxVQU",
+      "image": "https://i.ytimg.com/vi/3rUCexZxVQU/hqdefault.jpg",
+      "summary": "",
+      "videoId": "3rUCexZxVQU",
+      "date": "2026-08-18T19:34:47.0000000Z"
+    },
+    {
+      "id": "tomshw:5c309dcabfc1",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Samsung 9100 PRO al 40%, un affare da 14.800 MB/s per PC potenti",
+      "url": "https://www.tomshw.it/offerte/samsung-9100-pro-al-40-un-affare-da-14800-mbs-per-pc-potenti",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108153/tomshw-offer-855226.png",
+      "summary": "Samsung 9100 PRO da 1TB costa 227,99€ su Amazon, con il 40% di sconto sul listino di 379,90€ e 151,91€ risparmiati. Le letture fino a 14.800 MB/s lo rendono interessante per chi vuole un’unità PCIe 5....",
+      "date": "2026-08-18T19:33:26.0000000Z"
+    },
+    {
+      "id": "hdblog:7e9efc4caeb4",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Fairphone Gen 6+ ufficiale: sostenibile e modulare, ora è anche più potente | Prezzo",
+      "url": "https://www.hdblog.it/smartphone/articoli/n667603/fairphone-gen-6-plus-ufficiale-specifiche-prezzo/",
+      "image": null,
+      "summary": "Riceverà aggiornamenti Android fino al 2032.",
+      "date": "2026-08-18T19:00:00.0000000Z"
+    },
     {
       "id": "hdblog:31133eb08fbe",
       "sourceId": "hdblog",
@@ -181,18 +218,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-18T15:52:00.0000000Z"
-    },
-    {
-      "id": "hdblog:b4fb856353c0",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Mozilla Firefox, l'AI integrata si fa sempre più versatile (ma sempre opzionale)",
-      "url": "https://www.hdblog.it/windows/articoli/n667626/mozilla-firefox-smart-window-novita-ai/",
-      "image": null,
-      "summary": "La Smart Window è ora in grado di aiutare l'utente a fare ricerche nella propria cronologia e organizzare meglio le schede aperte.",
-      "date": "2026-08-18T15:45:00.0000000Z"
     },
     {
       "id": "dday:5a4f5d414328",
@@ -488,18 +513,6 @@
       "date": "2026-08-14T11:51:03.0000000Z"
     },
     {
-      "id": "tomshw:5b7d612763f1",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Genera e aggiorna la documentazione tecnica di macchina, dai PDF all'automazione",
-      "url": "https://www.tomshw.it/aioperator/genera-e-aggiorna-la-documentazione-tecnica-di-macchina-dai-manuali-pdf-con-claude",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107230/04-pro03-cover.jpg",
-      "summary": "Il manuale del tornio arriva in tedesco, quattrocento pagine in PDF, e resta chiuso in una cartella di rete che quasi nessuno apre. Il manutentore che deve sostituire una guarnizione impiega venti min...",
-      "date": "2026-08-13T09:10:55.0000000Z"
-    },
-    {
       "id": "techprincess:Pi0RMRQOBCs",
       "sourceId": "techprincess",
       "source": "Techprincess",
@@ -576,19 +589,6 @@
       "summary": "",
       "videoId": "-JfwQFv3rJ8",
       "date": "2026-08-03T16:30:23.0000000Z"
-    },
-    {
-      "id": "techprincess:Nht7VWRe3lg",
-      "sourceId": "techprincess",
-      "source": "Techprincess",
-      "platform": "youtube",
-      "category": "tecnologia",
-      "title": "Tra scienza e biologia digitale",
-      "url": "https://www.youtube.com/watch?v=Nht7VWRe3lg",
-      "image": "https://i.ytimg.com/vi/Nht7VWRe3lg/hqdefault.jpg",
-      "summary": "",
-      "videoId": "Nht7VWRe3lg",
-      "date": "2026-08-02T17:52:02.0000000Z"
     }
   ]
 }
