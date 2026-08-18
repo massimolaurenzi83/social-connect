@@ -1,6 +1,6 @@
 {
   "category": "energia",
-  "updated": "2026-08-18T09:54:42.7391577Z",
+  "updated": "2026-08-18T11:01:08.9468118Z",
   "items": [
     {
       "id": "qualenergia:c806b8589e7b",
@@ -13,6 +13,30 @@
       "image": null,
       "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
       "date": "2026-08-18T05:15:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:48f4614e1eba",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "11° Forum Italia Solare 2026",
+      "url": "https://www.qualenergia.it/eventi/11-forum-italia-solare-2026/",
+      "image": null,
+      "summary": "c/o Lifestyle Hotel – Via Giorgio Zoega, 59 (Roma) L’11° Solar Forum Italia Solare rappresenta un passaggio strategico per l’Associazione e per l’intero settore. Questa evoluzione riguarda tutti i segmenti di mercato....",
+      "date": "2026-08-18T04:00:47.0000000Z"
+    },
+    {
+      "id": "qualenergia:25d7299f97c6",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "AgriVoltaics Industry Forum Europe",
+      "url": "https://www.qualenergia.it/eventi/agrivoltaics-industry-forum-europe/",
+      "image": null,
+      "summary": "The AgriVoltaics Industry Forum Europe is connecting the solar and the agricultural industry creating a platform that is giving great insights into the biggest opportunity for both sectors. During interactive and enga...",
+      "date": "2026-08-18T04:00:39.0000000Z"
     },
     {
       "id": "qualenergia:28c24aba79dc",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Un gruppo di ricercatori della Tsinghua University ha pubblicato una ricerca in cui si chiede come potrà la Cina rispettare le previsioni di uscita dal carbone con un sistema economico e normativo che continua a favor...",
       "date": "2026-08-07T05:00:02.0000000Z"
-    },
-    {
-      "id": "qualenergia:f2bd1831def2",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Mercati locali flessibilità: le nuove aste e i risultati ottenuti",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/mercati-locali-flessibilita-nuove-aste-risultati-ottenuti/",
-      "image": null,
-      "summary": "Si terrà martedì 25 agosto la nuova asta per il mercato locale a termine della flessibilità (MLT-Flex) gestito dal Gme, facendo seguito alla richiesta di attivazione da parte di Unareti, società del Gruppo A2A che si ...",
-      "date": "2026-08-06T13:45:45.0000000Z"
-    },
-    {
-      "id": "qualenergia:3a0ad028a1f2",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Guerre, caro-energia e clima: chi guadagna dalle crisi di petrolio e gas",
-      "url": "https://www.qualenergia.it/articoli/guerre-caro-energia-clima-chi-guadagna-crisi-petrolio-gas/",
-      "image": null,
-      "summary": "Un’inchiesta uscita questa settimana sul Guardian ha evidenziato che solo nel secondo trimestre del 2026 le otto maggiori compagnie petrolifere quotate hanno registrato complessivamente quasi 93 miliardi di dollari di...",
-      "date": "2026-08-06T12:45:10.0000000Z"
     }
   ]
 }

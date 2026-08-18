@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-18T09:54:42.7132535Z",
+  "updated": "2026-08-18T11:01:08.9883988Z",
   "items": [
+    {
+      "id": "ferrovie:f071e860ffa5",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Linea AV Bologna - Milano, riaperta l&#039;intera tratta: conclusi i lavori di Ferragosto",
+      "url": "https://www.ferrovie.info/treni-reali/linea-av-bologna-milano-riaperta-lintera-tratta-conclusi-i-lavori-di-ferragosto.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10529/ETR400_01_-_ETR400_06.jpg",
+      "summary": "RFI ha completato nei tempi previsti il rinnovo dell'infrastruttura tra Piacenza e Milano: sostituiti sei deviatoi nei cantieri di Livraga e Piacenza Ovest. È stata riaperta questa mattina, martedì 18 agosto, l'intera...",
+      "date": "2026-08-18T10:19:40.0000000Z"
+    },
     {
       "id": "ferrovie:617515368b19",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10608/ETR521_021_Regionale_23713_Savona_-_Sestri_Levante_Genova_Nervi_8-7-20.JPG",
       "summary": "Dal 18 agosto al 13 settembre circolazione sospesa tra Genova e Acqui Terme per lavori sulla linea. Restano i disagi anche sulla Genova-Milano Agosto si conferma un mese particolarmente complesso per chi viaggia in tr...",
       "date": "2026-08-16T09:13:03.0000000Z"
-    },
-    {
-      "id": "ferrovie:1f69d176b572",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Due incidenti ferroviari in pochi giorni in Europa, collisione in Croazia e incendio in Repubblica Ceca",
-      "url": "https://www.ferrovie.info/treni-reali/due-incidenti-ferroviari-in-pochi-giorni-in-europa-collisione-in-croazia-e-incendio-in-repubblica-ceca.html",
-      "image": "https://www.ferrovie.info/images/incidenti/incidente_ferroviario_croazia_8_agosto_2026_1.webp",
-      "summary": "Due distinti incidenti ferroviari hanno interessato l'Europa centrale nell'arco di pochi giorni, con conseguenze significative per i passeggeri e per la circolazione ferroviaria. Il primo episodio si è verificato l' 8...",
-      "date": "2026-08-14T05:48:59.0000000Z"
     }
   ]
 }
