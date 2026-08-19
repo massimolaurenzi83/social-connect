@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-19T14:08:32.8194852Z",
+  "updated": "2026-08-19T15:51:31.5821233Z",
   "items": [
+    {
+      "id": "ferrovie:a38123e0f787",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Treno della Sila, Ferrovie della Calabria chiarisce ruolo e prospettive del servizio turistico",
+      "url": "https://www.ferrovie.info/treni-reali/treno-della-sila-ferrovie-della-calabria-chiarisce-ruolo-e-prospettive-del-servizio-turistico.html",
+      "image": "https://www.ferrovie.info/images/varie/treno_della_sila_7470.jpg",
+      "summary": "L’azienda interviene sul dibattito relativo ai servizi turistici sull’altopiano silano e fa il punto su corse, impianti di risalita e Progetto Montagna. Il futuro dei servizi turistici sull’altopiano della Sila torna ...",
+      "date": "2026-08-19T14:35:05.0000000Z"
+    },
     {
       "id": "ferrovie:cef07226a98c",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/11033/etr500_48.jpeg",
       "summary": "RFI ha concluso l'interruzione programmata: completati interventi infrastrutturali e tecnologici legati anche alla nuova AV/AC Verona-Vicenza. È stata riattivata alle 5 di lunedì 17 agosto la circolazione ferroviaria ...",
       "date": "2026-08-17T09:13:51.0000000Z"
-    },
-    {
-      "id": "ferrovie:3e7a05aa595a",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Raddoppio Termoli - Lesina, si lavora anche di notte e nei festivi: deroga fino al 2027",
-      "url": "https://www.ferrovie.info/treni-reali/raddoppio-termoli-lesina-si-lavora-anche-di-notte-e-nei-festivi-deroga-fino-al-2027.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10476/IndialfagoldeltalalfaCR_281829.JPG",
-      "summary": "Il cantiere mobile nel tratto tra Termoli e il Biferno potrà operare anche nelle ore notturne per rispettare il cronoprogramma e sfruttare le finestre di interruzione della circolazione. Accelerano i lavori per il rad...",
-      "date": "2026-08-17T07:11:59.0000000Z"
     }
   ]
 }
