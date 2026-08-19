@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-19T05:06:03.4555109Z",
+  "updated": "2026-08-19T06:03:54.8468887Z",
   "items": [
+    {
+      "id": "motor1:06eb2dc6b2c0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mazda CX-5 mild hybrid (2026), la prova dei consumi reali",
+      "url": "https://it.motor1.com/reviews/805199/mazda-cx-5-mild-hybrid-2026-consumi/",
+      "image": "https://cdn.motor1.com/images/mgl/JONvmn/s3/mazda-cx-5-mild-hybrid-2026-la-prova-consumi.jpg",
+      "summary": "Il nuovo SUV giapponese sa essere molto comodo, con ottime dotazioni e ben fatto, ma l'efficienza è migliorabile",
+      "date": "2026-08-19T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ea81bacf1d1c",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tutte le Case cinesi vogliono produrre in Europa. Ecco perché",
+      "url": "https://insideevs.it/news/805282/case-cinesi-produzione-europa-elenco/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak4OGx/s3/renault---geely-ex5-brasil.jpg",
+      "summary": "Catene di approvvigionamento più corte, logistica semplificata ed esenzione dai dazi: sempre più auto cinesi saranno Made in UE",
+      "date": "2026-08-19T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:38223c9645b7",
       "sourceId": "vaielettrico",
@@ -375,18 +399,6 @@
       "date": "2026-08-18T07:00:00.0000000Z"
     },
     {
-      "id": "motor1:4f6b4593e37c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Gli interni dell'Audi più grande di sempre",
-      "url": "https://it.motor1.com/news/803337/audi-q9-2026-interni-bagagliaio/",
-      "image": "https://cdn.motor1.com/images/mgl/1Zw8G7/s3/audi-q9-interni-e-bagagliaio.jpg",
-      "summary": "Immenso, tecnologico e super confortevole: ecco l'abitacolo della Q9, il SUV di oltre 5,3 m di lunghezza",
-      "date": "2026-08-18T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:5c90f9e40096",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -396,6 +408,18 @@
       "url": "https://insideevs.it/news/803445/cupra-raval-vs-mini-cooper/",
       "image": "https://cdn.motor1.com/images/mgl/2N4X2K/s3/cupra-raval-vs-mini-confronto.jpg",
       "summary": "Sfiziose nello stile e nella guida, ecco la spagnola e l'inglese a confronto punto per punto",
+      "date": "2026-08-18T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:4f6b4593e37c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Gli interni dell'Audi più grande di sempre",
+      "url": "https://it.motor1.com/news/803337/audi-q9-2026-interni-bagagliaio/",
+      "image": "https://cdn.motor1.com/images/mgl/1Zw8G7/s3/audi-q9-interni-e-bagagliaio.jpg",
+      "summary": "Immenso, tecnologico e super confortevole: ecco l'abitacolo della Q9, il SUV di oltre 5,3 m di lunghezza",
       "date": "2026-08-18T05:00:00.0000000Z"
     },
     {
@@ -421,18 +445,6 @@
       "image": null,
       "summary": "Il leasing sociale parte con 50 milioni per 3.000 auto ma c’è da aspettare alla primavera 2027 per… L'articolo Leasing sociale, altro che elettrico: 3000 auto, via nel 2027 e si finanziano anche le termiche proviene d...",
       "date": "2026-08-17T15:48:52.0000000Z"
-    },
-    {
-      "id": "motor1:976beed2bd67",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mercedes Classe C, il restyling conferma il diesel e aggiunge l'IA",
-      "url": "https://it.motor1.com/news/805200/mercedes-classe-c-restyling-2026-prezzi/",
-      "image": "https://cdn.motor1.com/images/mgl/nAlYKy/s3/mercedes-c-klasse-limousine-2026.jpg",
-      "summary": "Mercedes aggiorna la Classe C a benzina e diesel intervenendo su estetica, interni e dotazioni. Ecco tutti i cambiamenti",
-      "date": "2026-08-17T15:30:00.0000000Z"
     },
     {
       "id": "vaielettrico:6981ed0a8ae7",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/Kbgjmb/s3/heart-aerospace-x1-all-electric-aircraft.jpg",
       "summary": "L'Heart X1 è salito fino a quota 335 metri e e il suo motore ha erogato oltre 1 MW di potenza",
       "date": "2026-08-17T09:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:6b961355e289",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Fiat Topolino sbarca negli USA. Con un trucco",
-      "url": "https://insideevs.it/news/805107/fiat-topolino-omologata-stradale-usa/",
-      "image": "https://cdn.motor1.com/images/mgl/9m8w20/s3/2026-fiat-topolino.jpg",
-      "summary": "La minuscola biposto italiana può essere usata sulle strade pubbliche americane; prima ha solo bisogno di alcune modifiche",
-      "date": "2026-08-17T07:00:00.0000000Z"
     },
     {
       "id": "motor1:49930a3e661e",
