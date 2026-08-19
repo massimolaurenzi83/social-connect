@@ -1,18 +1,78 @@
 {
   "category": "sport",
-  "updated": "2026-08-19T15:51:31.5790657Z",
+  "updated": "2026-08-19T17:01:32.0453475Z",
   "items": [
     {
-      "id": "ansa-sport:1e656844e491",
+      "id": "corrieresport:7dea1ca65f52",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Chi &egrave; Bamba Dieng, il nuovo attaccante della Lazio: Lotito pesca tra gli svincolati",
+      "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/lazio/2026/08/19-150655676/chi_bamba_dieng_il_nuovo_attaccante_della_lazio_lotito_pesca_tra_gli_svincolati/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/19/165811575-50a74b3f-38bb-4b53-99fc-982d66fbc42e.jpg",
+      "summary": "Senegalese, classe 2000, autore di 10 gol nell'ultima Ligue 1 con la maglia del Lorient: alla scoperta dell'innesto di mercato dei biancocelesti",
+      "date": "2026-08-19T16:58:29.0000000Z"
+    },
+    {
+      "id": "ansa-sport:0f9caf17911c",
       "sourceId": "ansa-sport",
       "source": "ANSA Sport",
       "platform": "rss",
       "category": "sport",
-      "title": "Calcio: Lukaku, 'la morte di papà e la rottura col Napoli, il mio anno più duro'",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/calcio-lukaku-la-morte-di-papa-e-la-rottura-col-napoli-il-mio-anno-piu_a24d7bb1-3cbc-4aa0-bab5-a18f36ba753a.html",
+      "title": "Tennis: Masters 1000 Cincinnati, negli ottavi Cobolli Jodar-Cobolli 6-4, 6-5 DIRETTA",
+      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/19/tennis-masters-1000-cincinnati-negli-ottavi-cobolli-jodar-cobolli-1-1-diretta_222c6f23-8a3b-4f59-959c-f78f42a2101f.html",
       "image": null,
-      "summary": "L'attaccante: 'Io fuori forma? Qualcuno in Italia mi boicotta'",
-      "date": "2026-08-19T15:46:44.0000000Z"
+      "summary": "L'azzurro contro l'ostico spagnolo, con un occhio agli Us Open",
+      "date": "2026-08-19T16:50:34.0000000Z"
+    },
+    {
+      "id": "ansa-sport:2035c9a494fd",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "La F1 riparte dall'Olanda, Vasseur: 'Fare bene da subito'",
+      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/19/la-f1-riparte-dallolanda-vasseur-fare-bene-da-subito_f6ab3a2b-5aee-424f-a5cb-96c0be0949fa.html",
+      "image": null,
+      "summary": "La Ferrari con qualche novità a Zandvoort, a casa di Verstappen",
+      "date": "2026-08-19T16:31:49.0000000Z"
+    },
+    {
+      "id": "ansa-sport:a51e94e1affa",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Serie B: incontro in Lega tra arbitri e società",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/serie-b-incontro-in-lega-tra-arbitri-e-societa_7714b1af-fea1-4a91-9366-f4626bf324a4.html",
+      "image": null,
+      "summary": "Confronto esteso su novità e linee tecniche arbitrali e protocolli Var",
+      "date": "2026-08-19T16:19:27.0000000Z"
+    },
+    {
+      "id": "corrieresport:332f4c245441",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Vicario alla Juve: &quot;Realizzo il mio sogno da bambino, mi ispiro a Buffon e ho una missione&quot;",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/08/19-150654680/vicario_alla_juve_realizzo_il_mio_sogno_da_bambino_mi_ispiro_a_buffon_e_ho_una_missione/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/19/154903475-427e2727-57df-4e9b-bc8b-39c09f5d2f2a.jpg",
+      "summary": "Prime parole da giocatore dei bianconeri per il portiere che torna in Italia dopo tre anni al Tottenham",
+      "date": "2026-08-19T16:18:09.0000000Z"
+    },
+    {
+      "id": "corrieresport:78cca7138cf3",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "&quot;Il mio idolo&quot;, Rodrigo Mora &egrave; gi&agrave; pazzo di Dybala: la prima intervista da giocatore della Roma",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/08/19-150655034/la_prima_intervista_di_rodrigo_mora_da_giocatore_della_roma_dybala_un_idolo_a_gasperini_piacciono_i_10/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/19/161534396-028ecda4-ce5a-43ec-85f1-5febad81b9e1.jpg",
+      "summary": "Il portoghese, neo acquisto giallorosso, già fa sognare i tifosi: \"Non vedo l'ora di giocare in Champions e vincere con questa maglia. A Gasperini piacciono i 10\"",
+      "date": "2026-08-19T16:16:05.0000000Z"
     },
     {
       "id": "ansa-sport:cacd7e8c77fb",
@@ -24,55 +84,79 @@
       "url": "https://www.ansa.it/sito/notizie/sport/2026/08/19/serie-a-prime-designazioni-degli-arbitri-marinelli-per-monza-inter_8d87a493-4cca-453f-947d-0e530e2cfb79.html",
       "image": null,
       "summary": "Zufferli dirige Torino-Milan, Di Bello per Genoa-Napoli",
-      "date": "2026-08-19T15:45:29.0000000Z"
+      "date": "2026-08-19T16:12:53.0000000Z"
     },
     {
-      "id": "ansa-sport:0f9caf17911c",
+      "id": "ansa-sport:458081dfc222",
       "sourceId": "ansa-sport",
       "source": "ANSA Sport",
       "platform": "rss",
       "category": "sport",
-      "title": "Tennis: Masters 1000 Cincinnati, negli ottavi Cobolli Jodar-Cobolli 3-2 DIRETTA",
-      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/19/tennis-masters-1000-cincinnati-negli-ottavi-cobolli-jodar-cobolli-1-1-diretta_222c6f23-8a3b-4f59-959c-f78f42a2101f.html",
+      "title": "Fifa: ungherese Csany ritira sostegno a Infantino dopo il licenziamento di Lamour",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/fifa-ungherese-csany-ritira-sostegno-a-infantino-dopo-il-licenziamento-di-lamour_808c677e-be3c-475e-a339-fe1bbb02884c.html",
       "image": null,
-      "summary": "L'azzurro contro l'ostico spagnolo, con un occhio agli Us Open",
-      "date": "2026-08-19T15:39:22.0000000Z"
+      "summary": "E' vice del presidente: 'La goccia che ha fatto traboccare il vaso'",
+      "date": "2026-08-19T16:11:27.0000000Z"
     },
     {
-      "id": "ansa-sport:3cf696c3db79",
+      "id": "ansa-sport:92290ad19edd",
       "sourceId": "ansa-sport",
       "source": "ANSA Sport",
       "platform": "rss",
       "category": "sport",
-      "title": "L'Inter chiude per Jones, oltre 30 milioni al Liverpool",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/linter-chiude-per-jones-oltre-30-milioni-al-liverpool_da6fdfeb-87c7-4ba7-9329-dceb3c4e93b3.html",
+      "title": "Atletica: per Jacobs lesione muscolare alla coscia, cure a Roma",
+      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/19/atletica-per-jacobs-lesione-muscolare-alla-coscia-cure-a-roma_32c60ca7-01c1-45ea-9047-2de2db0c3574.html",
       "image": null,
-      "summary": "Terzo inglese acquistato questa estate dai nerazzurri",
-      "date": "2026-08-19T15:38:41.0000000Z"
+      "summary": "Risonanza magnetica dopo stop agli Europei: problema in via di risoluzione",
+      "date": "2026-08-19T16:10:39.0000000Z"
     },
     {
-      "id": "ansa-sport:efce0d25bc81",
+      "id": "ansa-sport:67cf8d27435b",
       "sourceId": "ansa-sport",
       "source": "ANSA Sport",
       "platform": "rss",
       "category": "sport",
-      "title": "Atalanta: Sarri soddisfatto del mercato, 'mi fido di Giuntoli'",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/atalanta-sarri-soddisfatto-del-mercato-mi-fido-di-giuntoli_138ba939-b5aa-44cb-a27e-b2b42b02dee0.html",
+      "title": "Calcio: Badiashile a Villa Stuart per le visite, poi la firma del contratto col Napoli",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/calcio-badiashile-a-villa-stuart-per-le-visite-poi-la-firma-del-contratto_124d4610-9d35-4670-9b46-9816dee2046a.html",
       "image": null,
-      "summary": "'Con 4 partite in 12 giorni le mosse tra esigenze tecniche e societarie'",
-      "date": "2026-08-19T15:36:09.0000000Z"
+      "summary": "Manna lavora per cessioni e nuovi acquisti dopo l'ufficializzazione di Favasuli",
+      "date": "2026-08-19T16:05:06.0000000Z"
     },
     {
-      "id": "ansa-sport:413485356d8d",
+      "id": "ansa-sport:221b91023268",
       "sourceId": "ansa-sport",
       "source": "ANSA Sport",
       "platform": "rss",
       "category": "sport",
-      "title": "Ramos: 'Mai avuto dubbi sul passaggio al Milan, era la scelta giusta'",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/ramos-mai-avuto-dubbi-sul-passaggio-al-milan-era-la-scelta-giusta_472b072b-d823-467f-87fc-e2c2bdaa9bf7.html",
+      "title": "Serie A: prime designazioni arbitri, Marinelli per Monza-Inter",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/serie-a-prime-designazioni-arbitri-marinelli-per-monza-inter_708a1eec-93af-41b4-a068-bab8eeac638f.html",
       "image": null,
-      "summary": "'Condivido le idee di Amorim, l'obiettivo è vincere trofei e segnare tanti gol'",
-      "date": "2026-08-19T15:35:04.0000000Z"
+      "summary": "Zufferli dirige Torino-Milan, Di Bello per Genoa-Napoli",
+      "date": "2026-08-19T16:02:36.0000000Z"
+    },
+    {
+      "id": "ansa-sport:089ebfa6b897",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Per Mourinho nuova vita al Real: 'Io come un bimbo che non ha vinto nulla'",
+      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/19/per-mourinho-nuova-vita-al-real-io-come-un-bimbo-che-non-ha-vinto_33c6fd6d-3bd3-41d1-b61e-91b12b0be6bd.html",
+      "image": null,
+      "summary": "Sabato l'esordio in Liga. Lo 'Special One' assicura: 'Ora sono più pacato'",
+      "date": "2026-08-19T16:02:06.0000000Z"
+    },
+    {
+      "id": "corrieresport:a82558963482",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Gatti e l&#39;intervento killer di un tifoso: la prima con la Juve &egrave; a rischio!&nbsp;",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/08/19-150654849/gatti_e_l_intervento_killer_di_un_tifoso_la_prima_con_la_juve_a_rischio_/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/19/155635456-402b8477-55d1-4cdb-81c4-480e0e84515a.jpg",
+      "summary": "La presenza del difensore in occasione della trasferta di domenica prossima allo Stirpe, contro il Frosinone, è in forte dubbio",
+      "date": "2026-08-19T15:57:00.0000000Z"
     },
     {
       "id": "ansa-sport:e77be432e3a8",
@@ -161,18 +245,6 @@
       "date": "2026-08-19T14:19:32.0000000Z"
     },
     {
-      "id": "ansa-sport:20dcf9fc8d2f",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Sarri, 'l'Hapoel è molto forte, sarà una battaglia'",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/19/sarri-lhapoel-e-molto-forte-sara-una-battaglia_dba948d4-7dc6-4cdc-aef1-171965c5645b.html",
-      "image": null,
-      "summary": "Il tecnico nerazzurro: 'Sorteggio Conference ostico, dovremo avere molta voglia'",
-      "date": "2026-08-19T14:16:12.0000000Z"
-    },
-    {
       "id": "skysport-yt:_vteVdt2Gr8",
       "sourceId": "skysport-yt",
       "source": "Sky Sport",
@@ -197,18 +269,6 @@
       "summary": "",
       "videoId": "mcaj05NlLlE",
       "date": "2026-08-19T14:05:40.0000000Z"
-    },
-    {
-      "id": "ansa-sport:7078b00e7a83",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Nick Kyrgios positivo alla cocaina, \"un enorme errore, chiedo scusa a tutti\"",
-      "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/19/nick-kyrgios-positivo-alla-cocaina-un-enorme-errore-chiedo-scusa-a-tutti_a2a071d1-223b-46fc-9cb4-7feaf870d5aa.html",
-      "image": null,
-      "summary": "Il grande accusatore di Sinner sospeso dall'Itia dopo un test del 22 giugno",
-      "date": "2026-08-19T13:30:35.0000000Z"
     },
     {
       "id": "corrieresport:4072dc80d994",
@@ -286,18 +346,6 @@
       "date": "2026-08-19T12:45:50.0000000Z"
     },
     {
-      "id": "ansa-sport:97890eff3dc7",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "F1: Gp Olanda, Vasseur, 'con la Sprint importante fare bene fin dai primi giri'",
-      "url": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/19/gp-olanda-vasseur-con-la-sprint-importante-fare-bene-fin-dai-primi_45aeede0-4261-4df1-98ba-c287d026ac0c.html",
-      "image": null,
-      "summary": "Il team principal della Ferrari: 'Zandvoort pista impegnativa per i piloti e le vetture'",
-      "date": "2026-08-19T12:41:14.0000000Z"
-    },
-    {
       "id": "skysport-yt:wFrxHBW8_xU",
       "sourceId": "skysport-yt",
       "source": "Sky Sport",
@@ -371,54 +419,6 @@
       "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/19/110304504-d14ff593-499a-4fc9-94d0-afa3dc66caee.jpg",
       "summary": "Il club portoghese, con un testo molto dettagliato, rivela i dettagli di un accordo complesso da spiegare punto per punto",
       "date": "2026-08-19T11:24:38.0000000Z"
-    },
-    {
-      "id": "corrieresport:0d819d96f462",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Gli arbitri della prima giornata di Serie A: tutte le designazioni",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/08/19-150648744/gli_arbitri_della_prima_giornata_di_serie_a_tutte_le_designazioni/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/19/105656312-23f11c01-a11e-4fe9-9f73-583b5a4e69d0.jpg",
-      "summary": "Aprono Inter-Monza e Udinese-Como, chiude Roma-Fiorentina: ecco tutti i direttori di gara scelti",
-      "date": "2026-08-19T10:59:35.0000000Z"
-    },
-    {
-      "id": "corrieresport:02224bdc4e48",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Il ct dell&#39;Egitto ricoverato in ospedale: &egrave; svenuto dopo una rissa tra le sue due mogli",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/2026/08/19-150648745/il_ct_dell_egitto_ricoverato_in_ospedale_svenuto_dopo_una_rissa_tra_le_sue_due_mogli/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/19/105056023-ea1eb6e8-41d9-4eab-ae1b-4ad904072bbd.jpg",
-      "summary": "L'attuale compagna e la sua ex si sono scontrate in un bar: Hassan ha perso i sensi",
-      "date": "2026-08-19T10:54:03.0000000Z"
-    },
-    {
-      "id": "corrieresport:672d12a5c996",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Rodrigo Mora ufficiale, sceglie l&#39;86. Ma c&#39;&egrave; un retroscena: perch&eacute; &egrave; una decisione storica per la Roma",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/08/19-150647024/rodrigo_mora_ufficiale_sceglie_l_86_ma_c_un_retroscena_perch_una_decisione_storica_per_la_roma/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/19/083612763-a580660d-6dce-4544-8063-e9122f7bf9af.jpg",
-      "summary": "Il trequartista portoghese ha voluto il suo numero di maglia. Che racconta tanto di lui, ma anche della Roma",
-      "date": "2026-08-19T09:12:50.0000000Z"
-    },
-    {
-      "id": "corrieresport:750f7de2db50",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "<p>Calciomercato diretta: la Roma stringe per Fofana, Kessie vuole la Juve LIVE</p>",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/2026/08/19-150647015/calciomercato_diretta_la_roma_stringe_per_fofana_kessie_vuole_la_juve_live/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/19/082442490-8f4503e0-ddaf-4c8c-bed6-78eab9d69052.jpg",
-      "summary": "Affari e operazioni in via di definizione in Italia e all'estero: aggiornamenti in tempo reale",
-      "date": "2026-08-19T08:31:36.0000000Z"
     },
     {
       "id": "skysport-yt:3WQhIQ_TzzE",

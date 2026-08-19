@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-08-19T15:51:31.5424789Z",
+  "updated": "2026-08-19T17:01:32.0312944Z",
   "items": [
+    {
+      "id": "hdmotori:9411965cbfee",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I 15 anni di un record che Skoda custodisce ancora con orgoglio",
+      "url": "https://www.hdmotori.it/skoda-octavia-rs-record-bonneville/",
+      "image": null,
+      "summary": "Nel 2011 una speciale Škoda Octavia vRS raggiunse 227,080 mph a Bonneville, conquistando un record che resiste ancora nella storia del marchio The post I 15 anni di un record che Skoda custodisce ancora con orgoglio a...",
+      "date": "2026-08-19T17:00:01.0000000Z"
+    },
+    {
+      "id": "vaielettrico:f814f79c337d",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Agrivoltaico: fake news e allarmi esagerati",
+      "url": "https://www.vaielettrico.it/agrivoltaico-fake-news-e-allarmi-esagerati/",
+      "image": null,
+      "summary": "L’agrivoltaico è una tecnologia riconosciuta e finanziata. Con le risorse del Pnrr – come si legge sul sito… L'articolo Agrivoltaico: fake news e allarmi esagerati proviene da Vaielettrico .",
+      "date": "2026-08-19T16:55:51.0000000Z"
+    },
+    {
+      "id": "vaielettrico:09f0d0cb9b09",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ferrari Luce e l’asta da 40 milioni di dollari: ma chi è quel pazzo…",
+      "url": "https://www.vaielettrico.it/ferrari-luce-e-lasta-da-40-milioni-di-dollari-ma-chi-e-quel-pazzo/",
+      "image": null,
+      "summary": "La prima Ferrari elettrica della storia è stata venduta all’asta per la cifra “monstre” di 40 milioni di… L'articolo Ferrari Luce e l’asta da 40 milioni di dollari: ma chi è quel pazzo… proviene da Vaielettrico .",
+      "date": "2026-08-19T16:47:42.0000000Z"
+    },
+    {
+      "id": "hdmotori:9432967be287",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Torna lo straccia bollo, stop a sanzioni e interessi per chi regolarizza il bollo auto",
+      "url": "https://www.hdmotori.it/torna-straccia-bollo-stop-sanzioni-interessi/",
+      "image": null,
+      "summary": "La Regione Sicilia opta per una riapertura delle strada che conduce alla definizione agevolata dei tributi regionali. Con la pubblicazione della norma sulla Gazzetta Ufficiale della Regione del 14 agosto, ritorna quel...",
+      "date": "2026-08-19T16:00:22.0000000Z"
+    },
     {
       "id": "hdmotori:42f8e483cae6",
       "sourceId": "hdmotori",
@@ -13,6 +61,18 @@
       "image": null,
       "summary": "Dongfeng conferma il ruolo di Global Automotive Partner del Napoli e accompagnerà il club nella stagione del Centenario con il logo sulle maglie The post Dongfeng rinnova la partnership con il Napoli: il brand sarà su...",
       "date": "2026-08-19T15:30:57.0000000Z"
+    },
+    {
+      "id": "insideevs:cd98c114f8c2",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "SUV cinese: 1.003 km con un \"pieno\" e ricarica in 5 minuti",
+      "url": "https://insideevs.it/news/805491/byd-denza-n8-suv-elettrico/",
+      "image": "https://cdn.motor1.com/images/mgl/JONqz4/s3/denza-n8.jpg",
+      "summary": "BYD Denza N8 punta a 1.003 km sul ciclo CLTC e a ricariche in 5 minuti, con batteria Blade 2.0 LFP di grande capacità",
+      "date": "2026-08-19T15:30:52.0000000Z"
     },
     {
       "id": "vaielettrico:dbc1aeb1df0b",
@@ -37,6 +97,18 @@
       "image": null,
       "summary": "La Mini, reintrodotta sul mercato nel 2001, potrebbe in futuro essere costruita sulla base della piattaforma Neue Klasse della BMW. The post Mini apre alla trazione posteriore: svolta epocale per la Cooper appeared fi...",
       "date": "2026-08-19T15:00:46.0000000Z"
+    },
+    {
+      "id": "motor1:1213db8614f5",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Torna YouTester, il talent di Motor1.com per diventare giornalisti dell’auto",
+      "url": "https://it.motor1.com/news/804152/youtester-talent-salone-torino-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/MkgrZ8/s3/torna-youtester-il-talent-di-motor1.com-per-diventare-giornalisti-dell-auto.jpg",
+      "summary": "Ecco come funziona: la prima fase di selezione al Salone di Torino dall’11 al 13 settembre 2026 insieme alla Renault Clio",
+      "date": "2026-08-19T15:00:00.0000000Z"
     },
     {
       "id": "motor1:75c074734bdb",
@@ -111,18 +183,6 @@
       "date": "2026-08-19T11:00:25.0000000Z"
     },
     {
-      "id": "motor1:d3fb4c896df4",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Porsche costruirà qualsiasi pezzo unico tu voglia, anche una Cayenne",
-      "url": "https://it.motor1.com/news/805425/porsche-esemplari-unici-quattro-porte/",
-      "image": "https://cdn.motor1.com/images/mgl/MkMyE6/s3/2009-cayenne-gts-restored-by-porsche.jpg",
-      "summary": "Non è solo la 911: Porsche dice a Motor1 che Sonderwunsch sta già lavorando a progetti personalizzati a quattro porte",
-      "date": "2026-08-19T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:2d43451cb6c1",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -132,6 +192,18 @@
       "url": "https://insideevs.it/reviews/805449/geely-ex5-2026-prova-anteprima/",
       "image": "https://cdn.motor1.com/images/mgl/y2l0KG/s3/geely-e5-2026-in-grau.jpg",
       "summary": "Il gruppo possiede già molti marchi noti, ora scende in campo con il proprio nome",
+      "date": "2026-08-19T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:d3fb4c896df4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Porsche costruirà qualsiasi pezzo unico tu voglia, anche una Cayenne",
+      "url": "https://it.motor1.com/news/805425/porsche-esemplari-unici-quattro-porte/",
+      "image": "https://cdn.motor1.com/images/mgl/MkMyE6/s3/2009-cayenne-gts-restored-by-porsche.jpg",
+      "summary": "Non è solo la 911: Porsche dice a Motor1 che Sonderwunsch sta già lavorando a progetti personalizzati a quattro porte",
       "date": "2026-08-19T11:00:00.0000000Z"
     },
     {
@@ -169,30 +241,6 @@
       "image": "https://cdn.motor1.com/images/mgl/1Zwb9q/s3/audi-e5-sportback.jpg",
       "summary": "Audi si è data molto da fare per tenere i modelli AUDI E5 ed E7X cinesi fuori dall’Europa. Una società terza li sta comunque importando",
       "date": "2026-08-19T09:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:4235ffc3f64a",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Freni in bagno d’olio: la soluzione ispirata al Puretech per superare l’Euro 7",
-      "url": "https://www.hdmotori.it/freni-bagno-olio-euro-7/",
-      "image": null,
-      "summary": "Il freno multidisco in bagno d’olio potrebbe eliminare il particolato dei sistemi frenanti, isolandolo all'interno di un sistema chiuso. E' una tecnologia sviluppata per ottemperare alla normativa Euro 7. The post Fre...",
-      "date": "2026-08-19T08:30:13.0000000Z"
-    },
-    {
-      "id": "hdmotori:cb0378ff13f0",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Cybercab: il robotaxi di Tesla debutta ad agosto?",
-      "url": "https://www.hdmotori.it/cybercab-robotaxi-tesla-debutto/",
-      "image": null,
-      "summary": "Tesla accelera sul Cybercab: il primo Robotaxi puro potrebbe debuttare ad Austin entro fine mese. Scheda tecnica EPA, autonomia e piani futuri. The post Cybercab: il robotaxi di Tesla debutta ad agosto? appeared first...",
-      "date": "2026-08-19T08:00:54.0000000Z"
     },
     {
       "id": "motor1:bdbce9a84896",
@@ -243,18 +291,6 @@
       "date": "2026-08-19T06:30:00.0000000Z"
     },
     {
-      "id": "insideevs:ea81bacf1d1c",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tutte le Case cinesi vogliono produrre in Europa. Ecco perché",
-      "url": "https://insideevs.it/news/805282/case-cinesi-produzione-europa-elenco/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak4OGx/s3/renault---geely-ex5-brasil.jpg",
-      "summary": "Catene di approvvigionamento più corte, logistica semplificata ed esenzione dai dazi: sempre più auto cinesi saranno Made in UE",
-      "date": "2026-08-19T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:06eb2dc6b2c0",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -264,6 +300,18 @@
       "url": "https://it.motor1.com/reviews/805199/mazda-cx-5-mild-hybrid-2026-consumi/",
       "image": "https://cdn.motor1.com/images/mgl/JONvmn/s3/mazda-cx-5-mild-hybrid-2026-la-prova-consumi.jpg",
       "summary": "Il nuovo SUV giapponese sa essere molto comodo, con ottime dotazioni e ben fatto, ma l'efficienza è migliorabile",
+      "date": "2026-08-19T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ea81bacf1d1c",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tutte le Case cinesi vogliono produrre in Europa. Ecco perché",
+      "url": "https://insideevs.it/news/805282/case-cinesi-produzione-europa-elenco/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak4OGx/s3/renault---geely-ex5-brasil.jpg",
+      "summary": "Catene di approvvigionamento più corte, logistica semplificata ed esenzione dai dazi: sempre più auto cinesi saranno Made in UE",
       "date": "2026-08-19T05:00:00.0000000Z"
     },
     {
@@ -399,18 +447,6 @@
       "date": "2026-08-18T14:13:47.0000000Z"
     },
     {
-      "id": "motor1:030cc43aab98",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mate Rimac anticipa una Bugatti V16 con vero cambio manuale?",
-      "url": "https://it.motor1.com/news/805329/bugatti-v16-cambio-manuale-possibile/",
-      "image": "https://cdn.motor1.com/images/mgl/E6Yk9v/s3/ceo-mate-rimac-with-bugatti.jpg",
-      "summary": "Rimac spiega come una potenziale Bugatti V16 manuale potrebbe coesistere con la Tourbillon a doppia frizione",
-      "date": "2026-08-18T13:26:49.0000000Z"
-    },
-    {
       "id": "insideevs:8cff8f1b056d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -471,30 +507,6 @@
       "date": "2026-08-18T05:00:00.0000000Z"
     },
     {
-      "id": "vaielettrico:6bf999acbeab",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mongeon (Vision Marine): la rete di ricarica c’è già. Serve solo usarla meglio",
-      "url": "https://www.vaielettrico.it/mongeon-vision-marine-la-rete-di-ricarica-ce-gia-serve-solo-usarla-meglio/",
-      "image": null,
-      "summary": "La rete di ricarica su strada ha una storia recente, nonostante uno sviluppo rapidissimo che ha portato a… L'articolo Mongeon (Vision Marine): la rete di ricarica c’è già. Serve solo usarla meglio proviene da Vaielett...",
-      "date": "2026-08-18T04:53:14.0000000Z"
-    },
-    {
-      "id": "vaielettrico:d9e4a893fb58",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Leasing sociale, altro che elettrico: 3000 auto, via nel 2027 e si finanziano anche le termiche",
-      "url": "https://www.vaielettrico.it/leasing-sociale-altro-che-elettrico-3000-auto-via-nel-2027-e-si-finanziano-anche-le-termiche/",
-      "image": null,
-      "summary": "Il leasing sociale parte con 50 milioni per 3.000 auto ma c’è da aspettare alla primavera 2027 per… L'articolo Leasing sociale, altro che elettrico: 3000 auto, via nel 2027 e si finanziano anche le termiche proviene d...",
-      "date": "2026-08-17T15:48:52.0000000Z"
-    },
-    {
       "id": "insideevs:2364a28d4b67",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/nAlWOR/s3/freelander-8-first-edition.jpg",
       "summary": "Il nuovo SUV elettrico nato dalla joint venture tra Jaguar Land Rover e Chery è già un successo (in Cina)",
       "date": "2026-08-17T15:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:761209f44946",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Hyundai Ioniq 3: avviata la produzione di serie in Turchia",
-      "url": "https://insideevs.it/news/805184/hyundai-ioniq-3-produzione-turchia/",
-      "image": "https://cdn.motor1.com/images/mgl/1Zwl0w/s3/hyundai-ioniq-3-2027-das-exterieur.jpg",
-      "summary": "La nuova city car elettrica arriva a ottobre da circa 30.000 euro",
-      "date": "2026-08-17T14:00:00.0000000Z"
     },
     {
       "id": "motor1:c018c015e4f3",
