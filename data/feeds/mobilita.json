@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-19T09:54:32.5684495Z",
+  "updated": "2026-08-19T11:00:44.7117200Z",
   "items": [
+    {
+      "id": "ferrovie:cef07226a98c",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Genova - Casella, tentato furto di rame in un cantiere ferroviario",
+      "url": "https://www.ferrovie.info/treni-reali/genova-casella-tentato-furto-di-rame-in-un-cantiere-ferroviario.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10421/normal_Img0155_139.jpg",
+      "summary": "Un uomo di 43 anni è stato denunciato dopo essere stato sorpreso nell’area dei lavori: recuperata una bobina di rame dal valore di circa 2.500 euro. Tentato furto di rame in un cantiere della ferrovia Genova-Casella. ...",
+      "date": "2026-08-19T10:20:33.0000000Z"
+    },
     {
       "id": "ferrovie:4036236203cc",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10476/IndialfagoldeltalalfaCR_281829.JPG",
       "summary": "Il cantiere mobile nel tratto tra Termoli e il Biferno potrà operare anche nelle ore notturne per rispettare il cronoprogramma e sfruttare le finestre di interruzione della circolazione. Accelerano i lavori per il rad...",
       "date": "2026-08-17T07:11:59.0000000Z"
-    },
-    {
-      "id": "ferrovie:c55b788bea43",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Bologna, lavori sul ponte del Canale Navile: modifiche ai treni regionali dal 18 agosto",
-      "url": "https://www.ferrovie.info/treni-reali/bologna-lavori-sul-ponte-del-canale-navile-modifiche-ai-treni-regionali-dal-18-agosto.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10044/normal_TTX_ETR350_006_Carpi_2810129.JPG",
-      "summary": "RFI interviene sul ponte ferroviario con un cantiere fino al 29 agosto. Cambiano alcuni collegamenti regionali, nessuna ripercussione per Intercity e Frecce. Rete Ferroviaria Italiana avvierà martedì 18 agosto una nuo...",
-      "date": "2026-08-17T06:55:09.0000000Z"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "category": "android",
-  "updated": "2026-08-19T09:54:32.5513954Z",
+  "updated": "2026-08-19T11:00:44.6956715Z",
   "items": [
+    {
+      "id": "androidworld:00629129830c",
+      "sourceId": "androidworld",
+      "source": "AndroidWorld",
+      "platform": "rss",
+      "category": "android",
+      "title": "Android rende scomodo il sideloading: come funziona il nuovo processo obbligatorio",
+      "url": "https://www.smartworld.it/news/sideloading-android-come-funziona-nuovo-advanced-flow.html",
+      "image": "https://www.smartworld.it/images/2026/06/20/android-sideloading-blocco-orig.png",
+      "summary": "Google ha avviato il rollout dell'advanced flow per il sideloading su Android: ecco come funziona il nuovo processo con attesa di 24 ore e riavvio obbligatorio. L'articolo Android rende scomodo il sideloading: come fu...",
+      "date": "2026-08-19T10:24:00.0000000Z"
+    },
+    {
+      "id": "androidworld:4f58b8434175",
+      "sourceId": "androidworld",
+      "source": "AndroidWorld",
+      "platform": "rss",
+      "category": "android",
+      "title": "3 impostazioni di Windows che limitano il tuo PC (e come correggerle)",
+      "url": "https://www.smartworld.it/news/impostazioni-windows-limitano-prestazioni-pc.html",
+      "image": "https://www.smartworld.it/images/2026/05/11/windows-11-low-latency-profile-orig.jpeg",
+      "summary": "Hai speso centinaia di euro in hardware ma il PC non performa come dovrebbe? Tre impostazioni dimenticate che frenano tutto, e come correggerle. L'articolo 3 impostazioni di Windows che limitano il tuo PC (e come corr...",
+      "date": "2026-08-19T10:12:00.0000000Z"
+    },
     {
       "id": "androidworld:d9bf6ccb3ecf",
       "sourceId": "androidworld",
@@ -121,30 +145,6 @@
       "image": "https://www.smartworld.it/images/2026/03/24/samsung-galaxy-s26-plus-def-07-orig.jpg",
       "summary": "Samsung ha svelato i dettagli del Warranty and care hub di One UI 9: garanzie, diagnostica, Bixby e preventivi di riparazione tutti in un posto. L'articolo One UI 9 ha un hub che mostra garanzia, diagnostica e prevent...",
       "date": "2026-08-19T04:03:00.0000000Z"
-    },
-    {
-      "id": "androidworld:4d6e524597ee",
-      "sourceId": "androidworld",
-      "source": "AndroidWorld",
-      "platform": "rss",
-      "category": "android",
-      "title": "Apple rilascia iOS 27 Public Beta 4: siamo agli ultimi ritocchi prima del lancio",
-      "url": "https://www.smartworld.it/news/ios-27-public-beta-4-novita-come-installarla.html",
-      "image": "https://www.smartworld.it/images/2026/06/09/ios-27-orig.jpg",
-      "summary": "Apple ha rilasciato iOS 27 Public Beta 4 e le beta pubbliche per iPadOS 27, macOS 27 e tvOS 27. Ecco le novità e come installarle. L'articolo Apple rilascia iOS 27 Public Beta 4: siamo agli ultimi ritocchi prima del l...",
-      "date": "2026-08-19T02:56:00.0000000Z"
-    },
-    {
-      "id": "androidworld:7ba28bae9e08",
-      "sourceId": "androidworld",
-      "source": "AndroidWorld",
-      "platform": "rss",
-      "category": "android",
-      "title": "Googlebook sempre più vicini: Play Services svela le funzioni multi-dispositivo per i laptop Android",
-      "url": "https://www.smartworld.it/news/googlebook-laptop-android-google-sempre-piu-vicini.html",
-      "image": "https://www.smartworld.it/images/2026/08/07/dell-googlebook-orig.jpg",
-      "summary": "Google Play Services v26.32 svela l'integrazione tra Android e i Googlebook: Quick Start, impostazioni cross-device e Tap to Share con link e posizione. L'articolo Googlebook sempre più vicini: Play Services svela le ...",
-      "date": "2026-08-19T01:52:00.0000000Z"
     }
   ]
 }
