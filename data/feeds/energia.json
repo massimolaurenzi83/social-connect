@@ -1,6 +1,6 @@
 {
   "category": "energia",
-  "updated": "2026-08-19T11:58:01.6376584Z",
+  "updated": "2026-08-19T14:08:32.7924092Z",
   "items": [
     {
       "id": "qualenergia:c806b8589e7b",
@@ -13,6 +13,18 @@
       "image": null,
       "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
       "date": "2026-08-19T05:15:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:681ac2bfcd95",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "KEY – The Energy Transition Expo 2027",
+      "url": "https://www.qualenergia.it/eventi/key-the-energy-transition-expo-2027/",
+      "image": null,
+      "summary": "La transizione energetica non è più un’opzione, ma una necessità. Il futuro si costruisce oggi, con scelte coraggiose, innovazione e collaborazione. KEY – The Energy Transition Expo non è solo un evento, è un moviment...",
+      "date": "2026-08-18T04:00:53.0000000Z"
     },
     {
       "id": "qualenergia:48f4614e1eba",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Aprirà a settembre lo sportello della Regione Emilia-Romagna dedicato al sostegno di progetti di trasferimento tecnologico per portare i risultati della ricerca verso applicazioni industriali, anche in ambito energeti...",
       "date": "2026-08-07T06:55:29.0000000Z"
-    },
-    {
-      "id": "qualenergia:5cc1e82b9558",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Maintaining security of power supply in the context of technological change driven by low-carbon transition",
-      "url": "https://www.qualenergia.it/pro/documenti/maintaining-security-of-power-supply-in-the-context-of-technological-change-driven-by-low-carbon-transition/",
-      "image": null,
-      "summary": "Un gruppo di ricercatori della Tsinghua University ha pubblicato una ricerca in cui si chiede come potrà la Cina rispettare le previsioni di uscita dal carbone con un sistema economico e normativo che continua a favor...",
-      "date": "2026-08-07T05:00:02.0000000Z"
     }
   ]
 }

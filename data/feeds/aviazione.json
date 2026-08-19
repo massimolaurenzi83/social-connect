@@ -1,7 +1,19 @@
 {
   "category": "aviazione",
-  "updated": "2026-08-19T11:58:01.6170775Z",
+  "updated": "2026-08-19T14:08:32.8341223Z",
   "items": [
+    {
+      "id": "aviationreport:262dc13cf20f",
+      "sourceId": "aviationreport",
+      "source": "Aviation Report",
+      "platform": "rss",
+      "category": "aviazione",
+      "title": "Lufthansa e Starlink: decolla il primo aereo con la connessione internet ad alta velocità",
+      "url": "https://www.aviation-report.com/lufthansa-e-starlink-decolla-primo-aereo-con-connessione-internet-ad-alta-velocita/",
+      "image": null,
+      "summary": "Lo scorso 19 agosto, un aereo Lufthansa è decollato per la prima volta con il nuovo Wi-Fi del Gruppo Lufthansa, powered by Starlink. Un Airbus A320neo con la registrazione “D-AINM” ha aperto la strada, diventando il p...",
+      "date": "2026-08-19T14:01:01.0000000Z"
+    },
     {
       "id": "aviationreport:29c85a057b69",
       "sourceId": "aviationreport",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Era il 12 agosto 1976 quando il Com.te Franco Bonazzi, collaudatore dell’Aermacchi, portava in volo per la prima volta l’MB-339. Il “Macchino”, affettuoso soprannome ereditato dal suo celebre predecessore, l’MB-326, n...",
       "date": "2026-08-12T15:09:02.0000000Z"
-    },
-    {
-      "id": "aviationreport:9f658fb4cc1e",
-      "sourceId": "aviationreport",
-      "source": "Aviation Report",
-      "platform": "rss",
-      "category": "aviazione",
-      "title": "Malore durante un’escursione allo Zingaro: soccorso e trasportato in ospedale un 41enne francese da un HH-139B del 15° Stormo",
-      "url": "https://www.aviation-report.com/elicottero-aeronautica-militare-soccorre-turista-nella-riserva-dello-zingaro-in-collaborazione-con-soccorso-alpino-e-speleologico-siciliano/",
-      "image": null,
-      "summary": "L’intervento è stato effettuato da un equipaggio in prontezza dell’82° Centro Search and Rescue di Trapani Nel tardo pomeriggio di ieri, un equipaggio dell’82° Centro Search and Rescue (S.A.R.) dell’Aeronautica Milita...",
-      "date": "2026-08-12T08:30:32.0000000Z"
     }
   ]
 }
