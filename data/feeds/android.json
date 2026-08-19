@@ -1,7 +1,31 @@
 {
   "category": "android",
-  "updated": "2026-08-19T17:56:46.9996356Z",
+  "updated": "2026-08-19T19:12:42.3184476Z",
   "items": [
+    {
+      "id": "androidworld:e47c200582b9",
+      "sourceId": "androidworld",
+      "source": "AndroidWorld",
+      "platform": "rss",
+      "category": "android",
+      "title": "Il segreto di Windows per far girare i giochi degli anni 90 ancora oggi",
+      "url": "https://www.smartworld.it/news/compatibility-shim-windows-come-funzionano-giochi-vecchi.html",
+      "image": "https://www.smartworld.it/images/2026/08/19/windows-giochi-vecchi-orig.png",
+      "summary": "Windows ha un database segreto che fa girare i giochi vecchi in modalità compatibile. Ecco come funzionano gli shim e dove trovarli sul PC. L'articolo Il segreto di Windows per far girare i giochi degli anni 90 ancora...",
+      "date": "2026-08-19T18:21:00.0000000Z"
+    },
+    {
+      "id": "androidworld:b8fe625ec444",
+      "sourceId": "androidworld",
+      "source": "AndroidWorld",
+      "platform": "rss",
+      "category": "android",
+      "title": "Esplora File è lento? La colpa è di qualcosa che Windows fa di nascosto",
+      "url": "https://www.smartworld.it/news/esplora-file-lento-fix-registro-sistema-rete.html",
+      "image": "https://www.smartworld.it/images/2026/01/30/windows-11-final-orig.jpeg",
+      "summary": "Se Esplora File di Windows si fa attendere, abbiamo una soluzione veloce per ridurre la lentezza e renderlo più rapido nell'apertura. L'articolo Esplora File è lento? La colpa è di qualcosa che Windows fa di nascosto ...",
+      "date": "2026-08-19T17:56:00.0000000Z"
+    },
     {
       "id": "androidworld:9659999d60a3",
       "sourceId": "androidworld",
@@ -121,30 +145,6 @@
       "image": "https://www.smartworld.it/images/2026/06/20/android-sideloading-blocco-orig.png",
       "summary": "Google ha avviato il rollout dell'advanced flow per il sideloading su Android: ecco come funziona il nuovo processo con attesa di 24 ore e riavvio obbligatorio. L'articolo Android rende scomodo il sideloading: come fu...",
       "date": "2026-08-19T10:24:00.0000000Z"
-    },
-    {
-      "id": "androidworld:4f58b8434175",
-      "sourceId": "androidworld",
-      "source": "AndroidWorld",
-      "platform": "rss",
-      "category": "android",
-      "title": "3 impostazioni di Windows che limitano il tuo PC (e come correggerle)",
-      "url": "https://www.smartworld.it/news/impostazioni-windows-limitano-prestazioni-pc.html",
-      "image": "https://www.smartworld.it/images/2026/05/11/windows-11-low-latency-profile-orig.jpeg",
-      "summary": "Hai speso centinaia di euro in hardware ma il PC non performa come dovrebbe? Tre impostazioni dimenticate che frenano tutto, e come correggerle. L'articolo 3 impostazioni di Windows che limitano il tuo PC (e come corr...",
-      "date": "2026-08-19T10:12:00.0000000Z"
-    },
-    {
-      "id": "androidworld:d9bf6ccb3ecf",
-      "sourceId": "androidworld",
-      "source": "AndroidWorld",
-      "platform": "rss",
-      "category": "android",
-      "title": "Google Calendar permette di bloccare gli utenti: addio inviti indesiderati (ma non per tutti)",
-      "url": "https://www.smartworld.it/news/google-calendar-bloccare-utenti-inviti-indesiderati.html",
-      "image": "https://www.smartworld.it/images/2026/08/19/google-calendar-blocco-utenti-orig.png",
-      "summary": "Google Calendar permette finalmente di bloccare altri utenti: inviti e eventi spariscono dal calendario. Ma c'è un limite importante da sapere. L'articolo Google Calendar permette di bloccare gli utenti: addio inviti ...",
-      "date": "2026-08-19T09:43:00.0000000Z"
     }
   ]
 }
