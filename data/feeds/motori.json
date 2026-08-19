@@ -1,18 +1,78 @@
 {
   "category": "motori",
-  "updated": "2026-08-19T06:03:54.8468887Z",
+  "updated": "2026-08-19T08:04:18.3143189Z",
   "items": [
     {
-      "id": "motor1:06eb2dc6b2c0",
+      "id": "hdmotori:cb0378ff13f0",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Cybercab: il robotaxi di Tesla debutta ad agosto?",
+      "url": "https://www.hdmotori.it/cybercab-robotaxi-tesla-debutto/",
+      "image": null,
+      "summary": "Tesla sembra pronta a fare il grande passo con il suo Cybercab. Ad Austin, in Texas, il debutto commerciale del primo Robotaxi nativo della compagnia potrebbe essere questione di giorni, con un lancio pubblico ipotizz...",
+      "date": "2026-08-19T08:00:54.0000000Z"
+    },
+    {
+      "id": "motor1:bdbce9a84896",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Mazda CX-5 mild hybrid (2026), la prova dei consumi reali",
-      "url": "https://it.motor1.com/reviews/805199/mazda-cx-5-mild-hybrid-2026-consumi/",
-      "image": "https://cdn.motor1.com/images/mgl/JONvmn/s3/mazda-cx-5-mild-hybrid-2026-la-prova-consumi.jpg",
-      "summary": "Il nuovo SUV giapponese sa essere molto comodo, con ottime dotazioni e ben fatto, ma l'efficienza è migliorabile",
-      "date": "2026-08-19T05:00:00.0000000Z"
+      "title": "La nuova Skoda coi sedili posteriori massaggianti",
+      "url": "https://it.motor1.com/news/805391/skoda-slavia-nuova-india/",
+      "image": "https://cdn.motor1.com/images/mgl/0eg1lV/s3/skoda-slavia-per-il-mercato-indiano.jpg",
+      "summary": "Debutta l'aggiornamento della Slavia, berlina venduta in India con motori a benzina e un nuovo cambio automatico a 8 marce",
+      "date": "2026-08-19T08:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:94d668ecac30",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Hyundai Tucson è davvero squadrata",
+      "url": "https://it.motor1.com/news/805392/nuova-hyundai-tucson-prime-foto/",
+      "image": "https://cdn.motor1.com/images/mgl/zxJPZL/s3/2027-hyundai-tucson.jpg",
+      "summary": "Prime foto ufficiali per la nuova Tucson, che arriverà in Europa nel 2027. Cambia completamente nello stile e arriva a 4,70 m",
+      "date": "2026-08-19T07:05:00.0000000Z"
+    },
+    {
+      "id": "insideevs:85370552325d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'aggiornamento \"fai da te\" dell'FSD sulla vecchia Tesla Model 3",
+      "url": "https://insideevs.it/news/805400/tesla-model-3-fsd-aggiornamento-casalingo/",
+      "image": "https://cdn.motor1.com/images/mgl/BXYP8A/s3/tesla-fsd.jpg",
+      "summary": "Tesla rimanda la questione HW3 da quasi due anni. Un proprietario si è stancato di aspettare e fa da solo",
+      "date": "2026-08-19T06:59:25.0000000Z"
+    },
+    {
+      "id": "hdmotori:a1a421271f3e",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Furti d’auto, quattro falsi miti da sfatare",
+      "url": "https://www.hdmotori.it/furti-auto-quattro-falsi-miti-sfatare/",
+      "image": null,
+      "summary": "Tracker e sistemi antifurto possono non bastare: ecco i quattro falsi miti sulla sicurezza delle flotte che ognuno dovrebbe conoscere The post Furti d’auto, quattro falsi miti da sfatare appeared first on HDmotori.it .",
+      "date": "2026-08-19T06:30:41.0000000Z"
+    },
+    {
+      "id": "motor1:1d67678f4d8c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'hypercar da Le Mans omologata per la strada fatta in Italia [VIDEO]",
+      "url": "https://it.motor1.com/news/802807/cerbero-lmp-stradale-mosca-motore/",
+      "image": "https://cdn.motor1.com/images/mgl/vx8z9q/s3/cerbero-lmp-stradale.jpg",
+      "summary": "Creata da Mosca Automobili, la Cerbero LMP Stradale ha fino a 580 CV e un peso inferiore ai 1.000 kg",
+      "date": "2026-08-19T06:30:00.0000000Z"
     },
     {
       "id": "insideevs:ea81bacf1d1c",
@@ -24,6 +84,18 @@
       "url": "https://insideevs.it/news/805282/case-cinesi-produzione-europa-elenco/",
       "image": "https://cdn.motor1.com/images/mgl/Ak4OGx/s3/renault---geely-ex5-brasil.jpg",
       "summary": "Catene di approvvigionamento più corte, logistica semplificata ed esenzione dai dazi: sempre più auto cinesi saranno Made in UE",
+      "date": "2026-08-19T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:06eb2dc6b2c0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mazda CX-5 mild hybrid (2026), la prova dei consumi reali",
+      "url": "https://it.motor1.com/reviews/805199/mazda-cx-5-mild-hybrid-2026-consumi/",
+      "image": "https://cdn.motor1.com/images/mgl/JONvmn/s3/mazda-cx-5-mild-hybrid-2026-la-prova-consumi.jpg",
+      "summary": "Il nuovo SUV giapponese sa essere molto comodo, con ottime dotazioni e ben fatto, ma l'efficienza è migliorabile",
       "date": "2026-08-19T05:00:00.0000000Z"
     },
     {
@@ -279,18 +351,6 @@
       "date": "2026-08-18T12:30:16.0000000Z"
     },
     {
-      "id": "hdmotori:17f473831d19",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Lancia Delta HF Integrale EVO 2, vero orgoglio italiano: 447.000 km e non sentirli",
-      "url": "https://www.hdmotori.it/lancia-delta-hf-integrale-evo-2-447000-km/",
-      "image": null,
-      "summary": "La prova che c’è stata un’epoca in cui l’auto italiana era all’apice ce la regala la Lancia Delta HF Integrale EVO 2 The post Lancia Delta HF Integrale EVO 2, vero orgoglio italiano: 447.000 km e non sentirli appeared...",
-      "date": "2026-08-18T12:00:21.0000000Z"
-    },
-    {
       "id": "motor1:3717f8d8ca01",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -303,16 +363,16 @@
       "date": "2026-08-18T12:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:3f3908e51846",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "motor1:e08af9263203",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Kawasaki Corleo, il cavallo a idrogeno si guiderà inclinando il corpo",
-      "url": "https://www.hdmotori.it/kawasaki-corleo-brevetto-cavallo-idrogeno/",
-      "image": null,
-      "summary": "Kawasaki Corleo va verso la produzione: spunta il brevetto ufficiale del cavallo robot ad idrogeno pensato per il fuoristrada e guidato con tute intelligenti The post Kawasaki Corleo, il cavallo a idrogeno si guiderà ...",
-      "date": "2026-08-18T11:30:38.0000000Z"
+      "title": "Cosa significano tutti quei numeri e lettere sui tuoi pneumatici?",
+      "url": "https://it.motor1.com/features/805248/pneumatici-numeri-lettere-significato/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo9VBL/s3/why-do-tires-have-those-numbers-on-them.jpg",
+      "summary": "Il misterioso codice sui tuoi pneumatici non è casuale; rivela segreti sull'età, la dimensione, le prestazioni e altro ancora",
+      "date": "2026-08-18T11:00:00.0000000Z"
     },
     {
       "id": "insideevs:3aa7ca72a9dc",
@@ -324,18 +384,6 @@
       "url": "https://insideevs.it/news/805264/auto-benzina-ev-clima/",
       "image": "https://cdn.motor1.com/images/mgl/Rqke0w/s3/rivian-r2-charging.jpg",
       "summary": "Un recente studio dice che sostituire un veicolo con motore a combustione interna con un nuovo veicolo elettrico sia meglio per il clima",
-      "date": "2026-08-18T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:e08af9263203",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Cosa significano tutti quei numeri e lettere sui tuoi pneumatici?",
-      "url": "https://it.motor1.com/features/805248/pneumatici-numeri-lettere-significato/",
-      "image": "https://cdn.motor1.com/images/mgl/Oo9VBL/s3/why-do-tires-have-those-numbers-on-them.jpg",
-      "summary": "Il misterioso codice sui tuoi pneumatici non è casuale; rivela segreti sull'età, la dimensione, le prestazioni e altro ancora",
       "date": "2026-08-18T11:00:00.0000000Z"
     },
     {
@@ -363,18 +411,6 @@
       "date": "2026-08-18T09:00:00.0000000Z"
     },
     {
-      "id": "motor1:ff3f742c4fab",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Ferrari 550 Maranello è tornata (e ha perso il tetto)",
-      "url": "https://it.motor1.com/news/805259/touring-superleggera-veloce12-aperta-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/ojJ647/s3/touring-superleggera-veloce12-aperta.jpg",
-      "summary": "Touring Superleggera presenta la Veloce12 Aperta, restomod esclusivo con un 5.5 V12 da 530 CV e cambio manuale",
-      "date": "2026-08-18T08:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:636500c5ee73",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -387,18 +423,6 @@
       "date": "2026-08-18T07:24:19.0000000Z"
     },
     {
-      "id": "motor1:aea17bc1b96b",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Dove sono i luoghi reali di Fast & Furious [VIDEO]",
-      "url": "https://it.motor1.com/news/799999/fast-and-furious-location-los-angeles/",
-      "image": "https://cdn.motor1.com/images/mgl/8A3y0J/s3/i-luoghi-reali-di-fast-furious.jpg",
-      "summary": "A Los Angeles (e dintorni) potete trovare alcune delle location apparse nel primo film: ecco dove sono",
-      "date": "2026-08-18T07:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:5c90f9e40096",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -408,18 +432,6 @@
       "url": "https://insideevs.it/news/803445/cupra-raval-vs-mini-cooper/",
       "image": "https://cdn.motor1.com/images/mgl/2N4X2K/s3/cupra-raval-vs-mini-confronto.jpg",
       "summary": "Sfiziose nello stile e nella guida, ecco la spagnola e l'inglese a confronto punto per punto",
-      "date": "2026-08-18T05:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:4f6b4593e37c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Gli interni dell'Audi più grande di sempre",
-      "url": "https://it.motor1.com/news/803337/audi-q9-2026-interni-bagagliaio/",
-      "image": "https://cdn.motor1.com/images/mgl/1Zw8G7/s3/audi-q9-interni-e-bagagliaio.jpg",
-      "summary": "Immenso, tecnologico e super confortevole: ecco l'abitacolo della Q9, il SUV di oltre 5,3 m di lunghezza",
       "date": "2026-08-18T05:00:00.0000000Z"
     },
     {
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/3WEK6X/s3/model-y-degradation.jpg",
       "summary": "Dopo 40.000 km, lo stato di salute e la capacità residua degli accumulatori è pari al 91%: ecco perché",
       "date": "2026-08-17T11:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:b75a36078a01",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ecco l'aereo elettrico più grande al mondo (e volare costa 5 dollari)",
-      "url": "https://insideevs.it/news/805114/aereo-elettrico-piu-grande-mondo/",
-      "image": "https://cdn.motor1.com/images/mgl/Kbgjmb/s3/heart-aerospace-x1-all-electric-aircraft.jpg",
-      "summary": "L'Heart X1 è salito fino a quota 335 metri e e il suo motore ha erogato oltre 1 MW di potenza",
-      "date": "2026-08-17T09:00:00.0000000Z"
     },
     {
       "id": "motor1:49930a3e661e",

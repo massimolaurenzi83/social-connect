@@ -1,7 +1,91 @@
 {
   "category": "cripto",
-  "updated": "2026-08-19T06:03:54.8663604Z",
+  "updated": "2026-08-19T08:04:18.3244493Z",
   "items": [
+    {
+      "id": "cryptonomist:c71df9f8320c",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Binance, proof of reserves: BTC utenti sale a 657.000, ETH e USDT giù",
+      "url": "https://cryptonomist.ch/2026/08/19/proof-of-reserves-binance-2/",
+      "image": null,
+      "summary": "Binance ha reso pubblico il suo 45° report di Proof of Reserves, un aggiornamento periodico che fotografa quanto BTC, ETH e USDT gli utenti detengono sull’exchange in un preciso momento. Lo scatto, relativo al 1° agos...",
+      "date": "2026-08-19T08:00:24.0000000Z"
+    },
+    {
+      "id": "cryptonomist:b5dad25520a1",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Azioni tokenizzate Robinhood: la SEC frenerà il boom da 9 miliardi?",
+      "url": "https://cryptonomist.ch/2026/08/19/azioni-tokenizzate-robinhood/",
+      "image": null,
+      "summary": "Il numero che circola tra i trader crypto in queste ore è netto: oltre 800% di crescita nel 2026 per il trading onchain di equity tokenizzate, con volumi saliti a circa 9 miliardi di dollari. In questo contesto il fon...",
+      "date": "2026-08-19T07:46:13.0000000Z"
+    },
+    {
+      "id": "cryptonomist:51c4ef06741b",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "CACAO crolla dell’88,7% dopo l’exploit Maya Protocol da 1,7 milioni",
+      "url": "https://cryptonomist.ch/2026/08/19/exploit-maya-protocol/",
+      "image": null,
+      "summary": "Un attacco informatico da 1,7 milioni di dollari ha costretto Maya Protocol a bloccare l’intera rete cross-chain, in un altro episodio che riporta l’attenzione sui rischi di sicurezza legati ai ponti tra blockchain di...",
+      "date": "2026-08-19T07:45:53.0000000Z"
+    },
+    {
+      "id": "cryptonomist:979744dd4fd1",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Report sicurezza Bybit 2026: bloccati 700 milioni dopo l’hack da 1,46 miliardi",
+      "url": "https://cryptonomist.ch/2026/08/19/report-sicurezza-bybit-2026/",
+      "image": null,
+      "summary": "Un attacco da 1,46 miliardi di dollari può cambiare per sempre il modo in cui un exchange pensa alla sicurezza. È quello che è successo a Bybit dopo la violazione del cold wallet Ethereum del febbraio 2025, e il nuovo...",
+      "date": "2026-08-19T07:44:47.0000000Z"
+    },
+    {
+      "id": "cryptonomist:b6e745877460",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Integrazione USDU su Bitcoin.com: la stablecoin UAE senza intermediari",
+      "url": "https://cryptonomist.ch/2026/08/19/integrazione-usdu-su-bitcoin-com/",
+      "image": null,
+      "summary": "Chi usa un wallet self-custodial deve spesso scegliere tra comodità e trasparenza sulle riserve che garantiscono le proprie stablecoin. Con l’integrazione di USDU su Bitcoin.com, l’exchange e wallet provider prova a o...",
+      "date": "2026-08-19T07:43:47.0000000Z"
+    },
+    {
+      "id": "cryptonomist:1b8a8ffa2fd6",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Accumulo altcoin SUI: rimbalzo a 0,745$ o crollo sotto 0,65$?",
+      "url": "https://cryptonomist.ch/2026/08/19/accumulo-altcoin-sui/",
+      "image": null,
+      "summary": "L’accumulo altcoin SUI torna al centro dell’attenzione degli analisti mentre il token scivola sotto quota $0,64, in una fase di mercato in cui la maggior parte delle altcoin fatica a ripetere la corsa di Bitcoin degli...",
+      "date": "2026-08-19T07:43:30.0000000Z"
+    },
+    {
+      "id": "cryptonomist:8ffd7e2f3891",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Carte di pagamento crypto in Europa: spesa +280% mentre Bitcoin cala",
+      "url": "https://cryptonomist.ch/2026/08/19/carte-di-pagamento-crypto-in-europa/",
+      "image": null,
+      "summary": "Le carte di pagamento crypto in Europa non sono più un esperimento di nicchia per pochi appassionati di Bitcoin: sono diventate uno strumento di spesa quotidiana, usato per fare la spesa, prendere i mezzi o fare benzi...",
+      "date": "2026-08-19T07:36:14.0000000Z"
+    },
     {
       "id": "cryptonomist:e60c22f84063",
       "sourceId": "cryptonomist",
@@ -37,90 +121,6 @@
       "image": null,
       "summary": "Il volume di scambi di NEAR tokens segnala al momento zero dollari, un dato che fotografa una liquidità estremamente sottile sul mercato. Eppure è proprio in questo contesto che arriva la notizia più rilevante per l’e...",
       "date": "2026-08-19T05:52:25.0000000Z"
-    },
-    {
-      "id": "cryptonomist:13d03af8caab",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Credito garantito da crypto in Australia: tassi dallo 0,9% al 21,9% con Nexo",
-      "url": "https://cryptonomist.ch/2026/08/19/credito-garantito-da-crypto-in-australia/",
-      "image": null,
-      "summary": "Nexo Australia ha ottenuto lo status di Credit Representative sotto il National Consumer Credit Protection Act e lancia, a partire dal 18 agosto 2026, le sue linee di credito garantite da crypto in Australia. È un pas...",
-      "date": "2026-08-19T05:49:24.0000000Z"
-    },
-    {
-      "id": "cryptonomist:145f5825b2ad",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Frazionamento inverso azioni 1 a 10: Credit Suisse cambia nome in UBS",
-      "url": "https://cryptonomist.ch/2026/08/19/frazionamento-inverso-azioni/",
-      "image": null,
-      "summary": "Il fondo Credit Suisse High Yield Credit Fund, quotato al NYSE American con il ticker DHY, cambierà volto agli occhi degli investitori nelle prossime settimane. Il consiglio di amministrazione ha approvato un fraziona...",
-      "date": "2026-08-19T05:38:25.0000000Z"
-    },
-    {
-      "id": "cryptonomist:68342f9184b2",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Industria videogiochi a Cipro: 3,2 miliardi di euro e top 10 in Europa",
-      "url": "https://cryptonomist.ch/2026/08/19/industria-videogiochi-a-cipro/",
-      "image": null,
-      "summary": "L’industria videogiochi a Cipro ha conquistato un posto tra le prime dieci d’Europa per fatturato, un traguardo che pochi avrebbero previsto solo qualche anno fa. Secondo il primo report pubblicato dalla Cyprus Game M...",
-      "date": "2026-08-19T05:35:25.0000000Z"
-    },
-    {
-      "id": "cryptonomist:beb510753c81",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Ripple Prime raccoglie 275 milioni: il finanziamento per l’espansione USA",
-      "url": "https://cryptonomist.ch/2026/08/19/finanziamento-ripple-prime-275-milioni/",
-      "image": null,
-      "summary": "Ripple Prime, il braccio di prime brokerage non bancario di Ripple, ha chiuso il 18 agosto 2026 un’offerta privata di obbligazioni senior non garantite per un valore di 275 milioni di dollari. Il finanziamento di Ripp...",
-      "date": "2026-08-19T05:31:12.0000000Z"
-    },
-    {
-      "id": "cryptonomist:37d113a6b944",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Mercato crypto e chip: Bitcoin sopra 64.000 dollari mentre Samsung crolla del 7%",
-      "url": "https://cryptonomist.ch/2026/08/19/mercato-crypto-e-chip/",
-      "image": null,
-      "summary": "Bitcoin si muove poco sopra i 64.250 dollari, in rialzo dell’1% nella settimana, mentre il quadro combinato del mercato crypto e chip racconta due storie opposte nello stesso giorno. Da un lato le principali criptoval...",
-      "date": "2026-08-19T05:31:10.0000000Z"
-    },
-    {
-      "id": "cryptonomist:f45184a6e5f4",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Analisi flop_labs: Arthur Hayes torna e ribalta la narrativa sulla bolla AI",
-      "url": "https://cryptonomist.ch/2026/08/19/analisi-flop_labs-arthur-hayes/",
-      "image": null,
-      "summary": "Il token flop_labs quota ancora $0, ma la notizia che agita i social crypto non riguarda il prezzo: riguarda il ritorno in campo di Arthur Hayes. Il co-fondatore di BitMEX ha rotto il silenzio operativo per guidare co...",
-      "date": "2026-08-19T05:30:36.0000000Z"
-    },
-    {
-      "id": "cryptonomist:2a25a59388df",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Bitcoin è crollato del 50%: le prospettive BlackRock restano rialziste",
-      "url": "https://cryptonomist.ch/2026/08/19/prospettive-blackrock-su-bitcoin/",
-      "image": null,
-      "summary": "Bitcoin ha perso più della metà del suo valore rispetto al picco di ottobre 2025, ma per BlackRock questo non significa che il modello di investimento nell’asset sia da riscrivere. Le prospettive BlackRock su Bitcoin ...",
-      "date": "2026-08-19T05:30:31.0000000Z"
     }
   ]
 }

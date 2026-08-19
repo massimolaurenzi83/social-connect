@@ -1,7 +1,31 @@
 {
   "category": "cucina",
-  "updated": "2026-08-19T06:03:54.8029063Z",
+  "updated": "2026-08-19T08:04:18.3359766Z",
   "items": [
+    {
+      "id": "giallozafferano:5a90dd9d5457",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "McChicken® Il Mediterraneo",
+      "url": "https://ricette.giallozafferano.it/McChicken-Il-Mediterraneo.html",
+      "image": "https://www.giallozafferano.it/images/363-36359/McChicken-Il-Mediterraneo_1200x800.jpg",
+      "summary": "Se siete alla ricerca di un'idea originale e sfiziosa per la vostra cena, lasciatevi conquistare dal McChicken® Il Mediterraneo , una fantastica rivisitazione gourmet del celebre e amatissimo panino McChicken® ! La mi...",
+      "date": "2026-08-19T05:00:00.0000000Z"
+    },
+    {
+      "id": "giallozafferano:e526bed26697",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "McChicken® Il Romano",
+      "url": "https://ricette.giallozafferano.it/McChicken-Il-Romano.html",
+      "image": "https://www.giallozafferano.it/images/363-36363/McChicken-Il-Romano_1200x800.jpg",
+      "summary": "Il McChicken® Il Romano è una gustosa rivisitazione del classico McChicken® che unisce ingredienti di qualità e sapori tipicamente italiani. La protagonista è la celebre cotoletta preparata con 100% petto di pollo ita...",
+      "date": "2026-08-19T05:00:00.0000000Z"
+    },
     {
       "id": "giallozafferano:e86dcd73c4a8",
       "sourceId": "giallozafferano",
@@ -265,30 +289,6 @@
       "image": "https://www.giallozafferano.it/images/365-36536/Insalata-alla-greca-con-frittata_1200x800.jpg",
       "summary": "L' insalata alla greca con frittata è un’insalatona pensata per essere gustata come piatto unico fresco e nutriente. I tipici ingredienti dell’ insalata greca , ovvero feta, cetrioli, olive e cipolla, vengono arricchi...",
       "date": "2026-08-06T09:47:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:1a8aa62a933a",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Insalata di farro con zucchine grigliate e mandorle",
-      "url": "https://ricette.giallozafferano.it/Insalata-di-farro-con-zucchine-grigliate-e-mandorle.html",
-      "image": "https://www.giallozafferano.it/images/365-36534/Insalata-di-farro-con-zucchine-grigliate-e-mandorle_1200x800.jpg",
-      "summary": "L' insalata di farro con zucchine grigliate e mandorle è un piatto estivo semplice, leggero e super profumato. Ideale da preparare in anticipo e conservare in frigorifero, per poterlo gustare a pranzo o a cena senza l...",
-      "date": "2026-08-05T15:48:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:e23fc4e35e57",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Insalata di anguria e feta",
-      "url": "https://ricette.giallozafferano.it/Insalata-di-anguria-e-feta.html",
-      "image": "https://www.giallozafferano.it/images/365-36530/Insalata-di-anguria-e-feta_1200x800.jpg",
-      "summary": "L' insalata di anguria e feta è il piatto freddo dell’estate! Una ricetta velocissima, dissetante e dal contrasto di sapori unico: l’incontro tra la polpa dolce e succosa dell' anguria e il gusto sapido e leggermente ...",
-      "date": "2026-08-05T10:01:00.0000000Z"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-19T06:03:54.8604018Z",
+  "updated": "2026-08-19T08:04:18.3078121Z",
   "items": [
+    {
+      "id": "cybersecurity360:9ba23c0eac37",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il problema non è il fattore umano. Perché il modello cyber va ripensato",
+      "url": "https://www.cybersecurity360.it/outlook/il-problema-non-e-il-fattore-umano-perche-il-modello-cyber-va-ripensato/",
+      "image": null,
+      "summary": "Il nodo della cyber security non è la persona che sbaglia, ma un modello di sicurezza non allineato ai flussi di lavoro reali. Quando i processi sono complessi e poco usabili, la sicurezza viene aggirata invece di ess...",
+      "date": "2026-08-19T07:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:3cc775c201ed",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Il Cyber Europe 2026 ha visto la simulazione da parte di ENISA di attacchi informatici su larga scala contro operatori dei trasporti ferroviari e marittimi. Ecco perché i trasporti sono tra i settori più complessi da ...",
       "date": "2026-08-14T10:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:38f07ff2922f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Dall’antivirus alla protezione d’area: Norton 360 Deluxe integra VPN, IA anti-truffa e Dark Web Monitoring",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/norton-360-deluxe-vpn-suite-cybersecurity-multidevice/",
-      "image": null,
-      "summary": "L’offerta Norton 360 Deluxe porta a 34,99 euro il costo del primo anno per proteggere fino a 5 dispositivi. Il piano include VPN, antivirus, Password Manager, 50 GB di backup cloud, Protezione minori e Dark Web Monito...",
-      "date": "2026-08-14T09:42:38.0000000Z"
     }
   ]
 }
