@@ -1,6 +1,6 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-20T18:18:28.6674555Z",
+  "updated": "2026-08-20T19:07:01.5139783Z",
   "items": [
     {
       "id": "hdblog:b0a687079b37",
@@ -13,6 +13,18 @@
       "image": null,
       "summary": "Crash e riavvii spontanei, a quanto pare a causa di un singolo file modificato. Per fortuna c'è un workaround che sembra efficace.",
       "date": "2026-08-20T18:05:00.0000000Z"
+    },
+    {
+      "id": "tomshw:2f054bf65d8c",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Corsair VIRTUOSO MAX WIRELESS al 47%, ANC e Dolby Atmos per giocare concentrati",
+      "url": "https://www.tomshw.it/offerte/corsair-virtuoso-max-wireless-al-47-anc-e-dolby-atmos-per-giocare-concentrati",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108690/tomshw-offer-882399.png",
+      "summary": "Corsair VIRTUOSO MAX WIRELESS costa 175,44€ su Amazon, invece di 329,99€, grazie a uno sconto del 47% che coincide con il suo minimo storico. Driver in grafene, cancellazione attiva del rumore e Dolby...",
+      "date": "2026-08-20T18:03:52.0000000Z"
     },
     {
       "id": "hdblog:53675d741b93",
@@ -290,18 +302,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-20T12:58:00.0000000Z"
-    },
-    {
-      "id": "tomshw:e99a5547384b",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Un link usava i permessi di Copilot Personal: le PMI italiane verifichino i servizi collegati",
-      "url": "https://www.tomshw.it/business/un-link-usava-i-permessi-di-copilot-personal-le-pmi-italiane-verifichino-i-servizi-collegati",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108606/un-link-usava-i-permessi-di-copilot-personal-le-pmi-italiane-verifichino-i-servizi-collegati.png",
-      "summary": "Un solo link poteva indurre Microsoft Copilot Personal a eseguire automaticamente un prompt malevolo, leggere email, calendari, file e conversazioni già accessibili all’assistente e inviare i dati a u...",
-      "date": "2026-08-20T12:48:14.0000000Z"
     },
     {
       "id": "tomshw:d54d5d7f19b7",
