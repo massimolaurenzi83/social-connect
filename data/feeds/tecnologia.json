@@ -1,7 +1,235 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-20T09:59:05.5714766Z",
+  "updated": "2026-08-20T11:04:12.1825745Z",
   "items": [
+    {
+      "id": "hdblog:3e870a3d1d79",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Fiat Pandina e 500: fino a 6000 euro di sconto ad agosto, ma a queste condizioni",
+      "url": "https://www.hdmotori.it/fiat-pandina-500-sconto-agosto-condizioni/",
+      "image": null,
+      "summary": "Le promozioni su Pandina e 500 Hybrid prevedono importanti sconti sul prezzo di listino, ma non per tutti. Ecco quali sono le condizioni.",
+      "date": "2026-08-20T11:00:51.0000000Z"
+    },
+    {
+      "id": "hdblog:6e3b75833ea8",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Android su reMarkable Paper Pro? Si può fare, e funziona piuttosto bene",
+      "url": "https://www.hdblog.it/android/articoli/n667864/remarkable-paper-pro-android-13-installazione/",
+      "image": null,
+      "summary": "Certo, il refresh di un e-ink fa sembrare tutto estremamente lento e inadeguato. Ma per chi ha tanti libri su un ecosistema non compatibile ufficialmente potrebbe essere una grande soluzione.",
+      "date": "2026-08-20T10:55:00.0000000Z"
+    },
+    {
+      "id": "tomshw:478b79845354",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Un simulatore quantistico legge le impronte della materia",
+      "url": "https://www.tomshw.it/scienze/un-simulatore-quantistico-vede-per-la-prima-volta-uno-spettro-nascosto",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108552/un-simulatore-quantistico-vede-per-la-prima-volta-uno-spettro-nascosto.png",
+      "summary": "Un gruppo di ricerca ha usato un simulatore quantistico ad atomi neutri per osservare direttamente, per la prima volta, gli spettri di eccitazione previsti da alcune teorie fondamentali della fisica....",
+      "date": "2026-08-20T10:54:00.0000000Z"
+    },
+    {
+      "id": "tomshw:e850eb3e4320",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Onimusha: Way of the Sword: trailer sulla guerra tra Oni e Genma",
+      "url": "https://www.tomshw.it/videogioco/onimusha-way-of-the-sword-trailer-sulla-guerra-tra-oni-e-genma",
+      "image": "https://cdn.tomshw.it/storage/media/2025/08/67696/onimusha-(5).jpg",
+      "summary": "Il nuovo trailer di Onimusha: Way of the Sword presenta la leggenda degli Onimusha come un racconto tramandato agli aspiranti samurai. Nel filmato pubblicato da Capcom, i demoni Genma raggiungono il m...",
+      "date": "2026-08-20T10:52:14.0000000Z"
+    },
+    {
+      "id": "tomshw:bcc3109fb172",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "PINE64 ferma PinePhone e PineTab2: memorie troppo care",
+      "url": "https://www.tomshw.it/hardware/pine64-ferma-pinephone-pinetab2-e-pinenote-memorie-troppo-care",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108563/vrcuV9XtYLVH8Vr6HXifeF-1280-80.jpg",
+      "summary": "Una volta esaurite le unità già disponibili, PINE64 non produrrà nuovi lotti di PineTab2, PineNote e PinePhone finché l'approvvigionamento delle memorie non tornerà sostenibile. La sospensione, uffici...",
+      "date": "2026-08-20T10:50:41.0000000Z"
+    },
+    {
+      "id": "tomshw:1c25b135af22",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Qualcomm sfida Intel e AMD: CPU fino a +87% più veloce",
+      "url": "https://www.tomshw.it/hardware/qualcomm-snapdragon-x2-elite-extreme-cpu-fino-a-87-contro-intel-e",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108558/news-flash-881456.png",
+      "summary": "Snapdragon X2 Elite Extreme raggiunge un vantaggio fino all’87% nei carichi CPU e prestazioni AI fino a 2,4 volte superiori rispetto ai sistemi Intel e AMD esaminati da Signal65. I risultati arrivano...",
+      "date": "2026-08-20T10:49:53.0000000Z"
+    },
+    {
+      "id": "hdblog:e127f5c98e13",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "LG prepara una svolta per gli OLED: con FLiPP meno consumi e più durata",
+      "url": "https://www.hdblog.it/hardware/articoli/n667856/lg-oled-nuovo-processo-produttivo-cosa-cambia/",
+      "image": null,
+      "summary": "LG Display presenta FLiPP, un nuovo processo che elimina le Fine Metal Mask dalla produzione OLED e promette pannelli 1,6 volte più luminosi, più longevi e con consumi inferiori",
+      "date": "2026-08-20T10:45:00.0000000Z"
+    },
+    {
+      "id": "tomshw:b895f46eb554",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Modern Warfare 4: la beta PC richiede SSD e TPM 2.0",
+      "url": "https://www.tomshw.it/videogioco/call-of-duty-modern-warfare-4-beta-pc-ssd-e-tpm-2",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108224/ar604t.jpg",
+      "summary": "Un SSD, DirectX 12, TPM 2.0 e Secure Boot sono obbligatori per eseguire la beta PC di Call of Duty: Modern Warfare 4. Le specifiche ufficiali comunicate da Activision e Infinity Ward fissano inoltre a...",
+      "date": "2026-08-20T10:44:55.0000000Z"
+    },
+    {
+      "id": "tomshw:235b91d0e736",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "S.T.A.L.K.E.R. 2: fino al 30% di FPS in più con la patch",
+      "url": "https://www.tomshw.it/videogioco/s-t-a-l-k-e-r-2-heart-of-chornobyl-guadagna",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107685/ar36lb.jpg",
+      "summary": "S.T.A.L.K.E.R. 2: Heart of Chornobyl passa da Unreal Engine 5.1 a Unreal Engine 5.5.4 con l’Update 2.0 Back to the Zone. Un confronto video indipendente mostra un aumento del frame rate in diverse sce...",
+      "date": "2026-08-20T10:43:48.0000000Z"
+    },
+    {
+      "id": "hdblog:63545dc3ecd9",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Un lettore MP3 fai-da-te open-source, compatto ed economico, grazie a ESP32",
+      "url": "https://www.hdblog.it/curiosita/articoli/n667858/esp32-lettore-mp3-ipod-shuffle-fai-da-te/",
+      "image": null,
+      "summary": "Ricorda filosoficamente l'iPod Shuffle, nel senso che è pensato soprattutto per la riproduzione di musica casuale.",
+      "date": "2026-08-20T10:35:00.0000000Z"
+    },
+    {
+      "id": "tomshw:760a26074ade",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Genoa vs Napoli: dove vedere la partita di Serie A in TV e streaming",
+      "url": "https://www.tomshw.it/altro/genoa-vs-napoli-dove-vedere-la-partita-di-serie-a-in-tv-e-streaming",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108550/Genoa-vs-Napoli-dove-vedere-la-partita-di-Serie-A-in-TV-e-streaming.jpg",
+      "summary": "Tutto pronto per la prima giornata del campionato di Serie A. Allo Stadio Luigi Ferraris di Genova, il Genoa ospita il Napoli in un match d'esordio subito ricco di spunti d'interesse. I padroni di cas...",
+      "date": "2026-08-20T10:30:56.0000000Z"
+    },
+    {
+      "id": "tomshw:0eb939a9bee4",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Inter vs Monza: dove vedere la partita di Serie A in TV e streaming",
+      "url": "https://www.tomshw.it/altro/inter-vs-monza-dove-vedere-la-partita-di-serie-a-in-tv-e-streaming",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108547/Inter-vs-Monza-dove-vedere-la-partita-di-Serie-A-in-TV-e-streaming.jpg",
+      "summary": "La Serie A regala un nuovo entusiasmante capitolo con il confronto tra Inter e Monza. I nerazzurri puntano a consolidare la propria posizione in vetta alla classifica sfruttando il fattore campo a San...",
+      "date": "2026-08-20T10:19:00.0000000Z"
+    },
+    {
+      "id": "dday:7e7daa37754a",
+      "sourceId": "dday",
+      "source": "DDay.it",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Il trapano del Lidl di nuovo nel Guinness dei primati: ha ruotato il London Eye",
+      "url": "https://www.dday.it/redazione/58427/il-trapano-del-lidl-di-nuovo-nel-guiness-dei-primati-ha-ruotato-il-london-eye",
+      "image": null,
+      "summary": "",
+      "date": "2026-08-20T10:16:00.0000000Z"
+    },
+    {
+      "id": "hdblog:060b9694b4fc",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Gboard, in arrivo la regolazione per ingrandire o rimpicciolire le emoji",
+      "url": "https://www.hdblog.it/google/articoli/n667851/gboard-dimensione-emoji-come-cambiarla/",
+      "image": null,
+      "summary": "La beta di Gboard permette finalmente di scegliere quanto grandi visualizzare le emoji: il nuovo cursore consente di passare da 9 a 5 simboli per riga",
+      "date": "2026-08-20T10:15:00.0000000Z"
+    },
+    {
+      "id": "hdblog:51a7c4c4c3e4",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Occhio a email e SMS con avvisi sulle multe da pagare, sta circolando una truffa",
+      "url": "https://www.hdblog.it/sicurezza/articoli/n667840/email-sms-avvisi-multe-pagare-truffa/",
+      "image": null,
+      "summary": "La Polizia di Stato mette in guardia i cittadini: la truffa della multa da pagare si sta diffondendo a macchia d'olio ormai da qualche mese.",
+      "date": "2026-08-20T10:10:00.0000000Z"
+    },
+    {
+      "id": "hdblog:f01166796640",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Gallagher di nuovo insieme: arriva il film Disney sul tour reunion degli Oasis | Trailer",
+      "url": "https://www.hdblog.it/curiosita/articoli/n657865/documentario-oasis-disney-plus-uscita/",
+      "image": null,
+      "summary": "Gli Oasis tornano con un film evento diretto dai registi di Shut Up and Play the Hits.",
+      "date": "2026-08-20T10:05:00.0000000Z"
+    },
+    {
+      "id": "tomshw:01de86e0dc61",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Epson CO-W01 a 359,99€, fino a 378 pollici per film e presentazioni",
+      "url": "https://www.tomshw.it/offerte/epson-co-w01-a-35999eur-fino-a-378-pollici-per-film-e-presentazioni",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108544/tomshw-offer-881319.png",
+      "summary": "Epson CO-W01 costa 359,99€ su Amazon, contro un prezzo di listino di 558,15€ e con uno sconto del 36%. Tecnologia 3LCD, 3.000 lumen ANSI e immagini fino a 378 pollici permettono di mostrare film e pre...",
+      "date": "2026-08-20T10:03:31.0000000Z"
+    },
+    {
+      "id": "hdblog:da35ed91eafa",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Questa Mercedes ha 41 anni e 831.000 km: il diesel non molla e vuole il milione",
+      "url": "https://www.hdmotori.it/mercedes-200-d-1985-831k-km/",
+      "image": null,
+      "summary": "Ha 831.000 km e 75 CV: la straordinaria storia della Mercedes 200 D del 1985 guidata da quattro generazioni. Prossimo obiettivo? Il milione di chilometri",
+      "date": "2026-08-20T10:00:52.0000000Z"
+    },
+    {
+      "id": "tomshw:55d3f693079a",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "F1 GP Zandvoort 2026: orari di tutto il weekend e dove vedere la gara in streaming",
+      "url": "https://www.tomshw.it/altro/f1-gp-zandvoort-2026-orari-di-tutto-il-weekend-e-dove-vedere-la-gara-in-streaming",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108543/Formula-1.jpg",
+      "summary": "La Formula 1 riaccende i motori dopo la consueta pausa estiva e fa tappa sul celebre tracciato di Zandvoort per il Gran Premio d'Olanda 2026. L'evento sui saliscendi tra le dune olandesi promette gran...",
+      "date": "2026-08-20T09:59:36.0000000Z"
+    },
     {
       "id": "hdblog:bd83712bbd29",
       "sourceId": "hdblog",
@@ -13,18 +241,6 @@
       "image": null,
       "summary": "Primi teaser ufficiali.",
       "date": "2026-08-20T09:55:00.0000000Z"
-    },
-    {
-      "id": "tomshw:9ef5b2954a4b",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "The Duskbloods: spunta un video leak (ma viene subito rimosso)",
-      "url": "https://www.tomshw.it/videogioco/the-duskbloods-un-video-leak-mostra-il-possibile-scontro-finale",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108541/slack-imgs-1.jpg",
-      "summary": "Tre personaggi impegnati in uno scontro dentro un’arena sono al centro di un video attribuito a 4Gamers e rilanciato da Everyeye prima di essere nascosto. Il filmato, lungo circa due minuti e me...",
-      "date": "2026-08-20T09:54:05.0000000Z"
     },
     {
       "id": "hdblog:4b9815d4d6f9",
@@ -39,18 +255,6 @@
       "date": "2026-08-20T09:50:00.0000000Z"
     },
     {
-      "id": "tomshw:67fc72f148ff",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Binance Agent OS: l'AI ora gestisce conti e ordini",
-      "url": "https://www.tomshw.it/hardware/binance-agent-os-gli-agenti-ai-accedono-a-dati-conti-e-ordini",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108516/gettyimages-1239052293-594x594-1.jpg",
-      "summary": "Un agente AI può ora consultare i dati di un conto Binance e inoltrare ordini autorizzati dall’utente. È la funzione più delicata di Binance Agent OS, la nuova piattaforma u...",
-      "date": "2026-08-20T09:45:21.0000000Z"
-    },
-    {
       "id": "hdblog:149dabcd32b0",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -61,18 +265,6 @@
       "image": null,
       "summary": "Telegram continua a essere utilizzato anche per distribuire film e serie TV pirata, spesso attraverso reti di canali",
       "date": "2026-08-20T09:45:00.0000000Z"
-    },
-    {
-      "id": "tomshw:c7b01f0785cd",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Che Back to School sarebbe stato senza tutte queste offerte Seven?",
-      "url": "https://www.tomshw.it/altro/che-back-to-school-sarebbe-stato-senza-tutte-queste-offerte-seven",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108502/Che-Back-to-School-sarebbe-stato-senza-tutte-queste-offerte-Seven.png",
-      "summary": "Il rientro tra i banchi si avvicina e la caccia al materiale scolastico entra finalmente nel vivo. Tra i grandi protagonisti dell'attuale campagna Back to School su Amazon spiccano i prodotti firmati...",
-      "date": "2026-08-20T09:41:08.0000000Z"
     },
     {
       "id": "hdblog:ec798745193b",
@@ -87,54 +279,6 @@
       "date": "2026-08-20T09:40:00.0000000Z"
     },
     {
-      "id": "hdblog:80db8703fa64",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Apple Watch Series 12 potrebbe recuperare un materiale abbandonato 7 anni fa",
-      "url": "https://www.hdblog.it/indossabili/articoli/n667847/apple-watch-12-ceramica-prezzo/",
-      "image": null,
-      "summary": "Apple Watch Series 12 potrebbe segnare il ritorno della ceramica dopo sette anni. Le indiscrezioni convergono, ma restano ancora incognite su colori, versioni disponibili e soprattutto prezzo",
-      "date": "2026-08-20T09:35:00.0000000Z"
-    },
-    {
-      "id": "hdblog:4a8399b94a84",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Samsung, il microonde che fa anche da cappa migliora ancora",
-      "url": "https://www.hdblog.it/samsung/articoli/n667846/samsung-microonde-cappa-dualvent-aspirazione/",
-      "image": null,
-      "summary": "Una tecnologia di aspirazione innovativa promette prestazioni paragonabili a quelle delle cappe tradizionali a sé stanti.",
-      "date": "2026-08-20T09:25:00.0000000Z"
-    },
-    {
-      "id": "hdblog:a4ead5c5c005",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "L'uscita di un album molto atteso può aumentare il numero di incidenti mortali?",
-      "url": "https://www.hdblog.it/sicurezza/articoli/n667823/uscita-album-atteso-aumenta-incidenti-mortali/",
-      "image": null,
-      "summary": "Secondo uno studio di Harvard, i lanci degli album più ascoltati coincidono con un aumento degli incidenti stradali mortali negli USA.",
-      "date": "2026-08-20T09:20:00.0000000Z"
-    },
-    {
-      "id": "hdblog:e6b4635fd76f",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "HMD prepara un nuovo feature phone: Nokia 125 4G 2nd Edition",
-      "url": "https://www.hdblog.it/nokia/articoli/n667837/nokia-125-4g-2nd-edition-specifiche-powerbank/",
-      "image": null,
-      "summary": "In arrivo anche due powerbank da circa 10.000 mAh.",
-      "date": "2026-08-20T09:15:00.0000000Z"
-    },
-    {
       "id": "dday:9b51314b3422",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -145,30 +289,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-20T09:11:00.0000000Z"
-    },
-    {
-      "id": "hdblog:8c281727b2fa",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Calcio in TV, per seguire tutta la stagione si possono spendere quasi 1000 euro",
-      "url": "https://www.hdblog.it/curiosita/articoli/n667833/serie-a-coppe-tv-stagione-spendere-1000-euro/",
-      "image": null,
-      "summary": "Con l'inizio della stagione 2026/2027 torna anche il conto degli abbonamenti necessari per seguire il calcio in TV.",
-      "date": "2026-08-20T09:05:00.0000000Z"
-    },
-    {
-      "id": "hdblog:888987cb48c0",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "FederPetroli lancia l&#039;allarme gasolio, rischio fino a 3 euro al litro",
-      "url": "https://www.hdmotori.it/gasolio-3-euro-litro-allarme-prezzi-carburanti/",
-      "image": null,
-      "summary": "FederPetroli avverte: senza un cambio di rotta nello Stretto di Hormuz il gasolio rischia di toccare i 3 euro al litro. Brent e gas continuano a salire sui mercati",
-      "date": "2026-08-20T09:00:57.0000000Z"
     },
     {
       "id": "dday:dd074eb38042",
@@ -183,78 +303,6 @@
       "date": "2026-08-20T09:00:00.0000000Z"
     },
     {
-      "id": "hdblog:abe48393a224",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "LG amplia Fit & Max a IFA 2026: lavatrici, asciugatrici e lavastoviglie più compatte",
-      "url": "https://www.hdblog.it/lg/articoli/n667835/lg-ifa-2026-soluzioni-casa/",
-      "image": null,
-      "summary": "Frigoriferi, lavatrici, asciugatrici e lavastoviglie: LG trasforma Fit & Max in una soluzione trasversale per integrare meglio gli elettrodomestici tra pareti e mobili",
-      "date": "2026-08-20T08:55:00.0000000Z"
-    },
-    {
-      "id": "hdblog:7dc0a75a2f11",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Qualcomm conferma: ci saranno due Snapdragon 8 Elite Gen 6",
-      "url": "https://www.hdblog.it/hardware/articoli/n667828/qualcomm-snapdragon-8-elite-gen-6-due-chip/",
-      "image": null,
-      "summary": "I teaser ufficiali confermano i rumor degli ultimi mesi. Ma per le specifiche complete bisognerà aspettare ancora un mesetto.",
-      "date": "2026-08-20T08:45:00.0000000Z"
-    },
-    {
-      "id": "tomshw:25f732c2f736",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Super offerte Dreame: risparmi record fino a 900€ per rinnovare la casa smart",
-      "url": "https://www.tomshw.it/altro/super-offerte-dreame-risparmi-record-fino-a-900eur-per-rinnovare-la-casa-smart",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108499/Dreame-fino-a-900€-di-sconto.jpg",
-      "summary": "Con l'avvicinarsi della ripartenza post-estiva, Dreame ha deciso di inaugurare una delle campagne promozionali più aggressive ed entusiasmanti di sempre. Sotto il motto Riparti al meglio, da ca...",
-      "date": "2026-08-20T08:40:46.0000000Z"
-    },
-    {
-      "id": "tomshw:85cbffeedd94",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Recensione S.T.A.L.K.E.R. 2: Cost of Hope",
-      "url": "https://www.tomshw.it/videogioco/recensione-stalker-2-cost-of-hope",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108497/STALKER-2-(3).webp",
-      "summary": "C'è un detto tra i veterani che osano spingersi oltre il perimetro: la Zona non ci lascia mai andare veramente. Possiamo fuggire dalle sue anomalie, sopravvivere alle tempeste di emissioni e pe...",
-      "date": "2026-08-20T08:26:03.0000000Z"
-    },
-    {
-      "id": "tomshw:6a3b62d6323c",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Garmin, Samsung, Bose e Anker sono nel Back to School di Amazon: 10 offerte da non perdere",
-      "url": "https://www.tomshw.it/smartphone/garmin-samsung-bose-e-anker-sono-nel-back-to-school-di-amazon-10-offerte-da-non-perdere",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102941/samsung-galaxy-watch-9-wrist.jpg",
-      "summary": "Con la fine dell'estate e l'avvicinarsi della stagione del rientro tra i banchi di scuola e negli uffici, Amazon dà il via a una serie di offerte promozionali dedicate alla tecnologia di tutti...",
-      "date": "2026-08-20T08:24:43.0000000Z"
-    },
-    {
-      "id": "tomshw:d07ab8f1c2c8",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "The Sinking City 2: come iniziare e consigli per principianti",
-      "url": "https://www.tomshw.it/videogioco/the-sinking-city-2-cosa-fare-nelle-prime-ore",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108482/ar6faa.jpg",
-      "summary": "The Sinking City 2 è disponibile dal 18 agosto 2026 su PC, PlayStation 5 e Xbox Series X|S. Sviluppato e pubblicato da Frogwares con Unreal Engine 5, è un survival horror in terza persona e per giocat...",
-      "date": "2026-08-20T08:21:19.0000000Z"
-    },
-    {
       "id": "dday:f721ee028364",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -267,30 +315,6 @@
       "date": "2026-08-20T08:15:00.0000000Z"
     },
     {
-      "id": "tomshw:01449562e3e7",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Modern Warfare 4: resta il matchmaking discusso",
-      "url": "https://www.tomshw.it/videogioco/modern-warfare-4-resta-il-matchmaking-discusso-2026-08-20",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102313/modern-warfare-4-actuac3rd835hnp8VdpGA6.webp",
-      "summary": "Il tema del matchmaking in Call of Duty torna a infiammare la community, e stavolta lo fa con dati alla mano. Con l'avvicinarsi della beta di Modern Warfare 4, prevista per il prossimo weekend, Activi...",
-      "date": "2026-08-20T08:08:39.0000000Z"
-    },
-    {
-      "id": "tomshw:f201f8a18659",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Il Back to School di Amazon mette i LEGO sotto i riflettori: 7 offerte",
-      "url": "https://www.tomshw.it/altro/il-back-to-school-di-amazon-mette-i-lego-sotto-i-riflettori-7-offerte",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108475/Il-Back-to-School-di-Amazon-mette-i-LEGO-sotto-i-riflettori-7-offerte.png",
-      "summary": "Con l'arrivo della promozione Back to School di Amazon, le offerte sui prodotti per la scuola e il tempo libero entrano nel vivo, e quest'anno i mattoncini LEGO guadagnano un posto di primo piano. La...",
-      "date": "2026-08-20T08:08:39.0000000Z"
-    },
-    {
       "id": "dday:a46114776a56",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -301,18 +325,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-20T08:06:00.0000000Z"
-    },
-    {
-      "id": "tomshw:06297c524abc",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "157,20€ in meno sul SanDisk Extreme PRO 2TB: 3.800 MB/s per i file pesanti",
-      "url": "https://www.tomshw.it/offerte/15720eur-in-meno-sul-sandisk-extreme-pro-2tb-3800-mbs-per-i-file-pesanti",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108476/tomshw-offer-880970.png",
-      "summary": "SanDisk Extreme PRO SSD USB4 2TB costa 416,79€ su Amazon anziché 573,99€, con uno sconto del 27% e un risparmio di 157,20€. La velocità dichiarata fino a 3.800 MB/s permette di gestire video, fotograf...",
-      "date": "2026-08-20T08:03:11.0000000Z"
     },
     {
       "id": "dday:4a47de8c39ad",
@@ -339,28 +351,28 @@
       "date": "2026-08-20T06:36:00.0000000Z"
     },
     {
-      "id": "tomshw:bbad75355228",
+      "id": "tomshw:4839837a8ce1",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Migliori strisce LED per casa e esterno (agosto 2026)",
-      "url": "https://www.tomshw.it/offerte/strisce-led",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/86843/migliori-strisce-led-copertina.jpg",
-      "summary": "Rendere più bella una stanza, una postazione da gaming, il retro di una TV o persino un angolo esterno è oggi più semplice che mai. Le strisce LED restano tra gli accessori pi&ugr...",
-      "date": "2026-08-20T06:15:36.0000000Z"
+      "title": "Migliori cloud storage (agosto 2026)",
+      "url": "https://www.tomshw.it/hardware/migliori-cloud-storage",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/86865/migliori-cloud-storage-copertina.jpg",
+      "summary": "Scegliere un cloud storage nel 2026 non significa soltanto comprare qualche gigabyte online. La scelta incide su come proteggete foto, documenti, progetti di lavoro, backup dei dispositivi e file cond...",
+      "date": "2026-08-20T06:20:34.0000000Z"
     },
     {
-      "id": "tomshw:44d01d358806",
+      "id": "tomshw:d4a9d13b504f",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Migliori lavastoviglie (agosto 2026)",
-      "url": "https://www.tomshw.it/offerte/migliori-lavastoviglie",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/86837/migliori-lavastoviglie-copertina.jpg",
-      "summary": "Non sempre si ha il tempo, la voglia o lo spazio mentale per lavare le stoviglie a mano. Una buona lavastoviglie, però, non è soltanto una scorciatoia per liberare il lavello: è u...",
-      "date": "2026-08-20T06:09:22.0000000Z"
+      "title": "Migliori VPN iOS per iPhone e iPad (agosto 2026)",
+      "url": "https://www.tomshw.it/hardware/migliori-vpn-iphone",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/86844/migliori-vpn-ios-iphone-ipad-copertina.jpg",
+      "summary": "Al giorno d'oggi, scegliere la migliore VPN per iPhone e iPad significa guardare oltre il nome del provider o la promessa di una connessione più privata. Su iOS contano soprattutto tre aspetti: la sta...",
+      "date": "2026-08-20T06:17:31.0000000Z"
     },
     {
       "id": "techprincess:tsHupFsTinI",
@@ -434,18 +446,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-19T10:23:00.0000000Z"
-    },
-    {
-      "id": "dday:f4ba4705682a",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Spotify lancia il Running Mode su iOS e Android: playlist su misura per gli allenamenti generate con l'IA",
-      "url": "https://www.dday.it/redazione/58414/spotify-lancia-il-running-mode-su-ios-e-android-playlist-su-misura-per-gli-allenamenti-generate-con-lia",
-      "image": null,
-      "summary": "",
-      "date": "2026-08-19T10:11:00.0000000Z"
     },
     {
       "id": "techprincess:3rUCexZxVQU",

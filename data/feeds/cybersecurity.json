@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-20T09:59:05.5364326Z",
+  "updated": "2026-08-20T11:04:12.1194555Z",
   "items": [
+    {
+      "id": "cybersecurity360:e387590ef0ef",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Dalla crittografia zero-knowledge alla protezione post-quantistica: l’evoluzione della tutela dei dati personali nel cloud europeo",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/cloud-storage-zero-knowledge-crittografia-dati-personali/",
+      "image": null,
+      "summary": "Internxt propone 1 TB di cloud storage a vita a 285 euro, con uno sconto dell’85% sul prezzo indicato di 1.900 euro. L’offerta include crittografia post-quantistica, Zero Knowledge Protocol, backup e VPN L'articolo Da...",
+      "date": "2026-08-20T10:12:26.0000000Z"
+    },
     {
       "id": "cybersecurity360:84525b696bce",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Il piano annuale Standard di Incogni scende a 5,99 euro al mese. Il servizio automatizza la richiesta di rimozione delle informazioni personali dai data broker e include controlli ricorrenti, report mensili e assisten...",
       "date": "2026-08-18T09:40:28.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:59a652e4b116",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "La complessità è nemica della cyber security: la lezione del principio KISS",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/la-complessita-e-nemica-della-cyber-security-la-lezione-del-principio-kiss/",
-      "image": null,
-      "summary": "Ogni funzione, dipendenza e riga di codice aggiuntiva può ampliare la superficie di attacco. Dal principio KISS a DRY e YAGNI, progettare sistemi più semplici non è minimalismo fine a sé stesso: significa ridurre vuln...",
-      "date": "2026-08-18T08:00:00.0000000Z"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-20T09:59:05.6055759Z",
+  "updated": "2026-08-20T11:04:12.1552841Z",
   "items": [
+    {
+      "id": "ferrovie:4c26347da65b",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Genova Brignole, treni in tilt: guasto alla linea e ritardi fino a 80 minuti",
+      "url": "https://www.ferrovie.info/treni-reali/genova-brignole-treni-in-tilt-guasto-alla-linea-e-ritardi-fino-a-80-minuti.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10927/lourdes_e464_8341_1.jpg",
+      "summary": "Circolazione sospesa nella mattinata e poi fortemente rallentata sulla linea Genova-La Spezia: coinvolti treni Intercity e Regionali, situazione tornata regolare alle 12. Mattinata difficile per la circolazione ferrov...",
+      "date": "2026-08-20T10:25:18.0000000Z"
+    },
+    {
+      "id": "ferrovie:7664bb0cec03",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Giappone, quattro operai travolti e uccisi da un treno durante lavori sulla ferrovia",
+      "url": "https://www.ferrovie.info/treni-reali/giappone-quattro-operai-travolti-e-uccisi-da-un-treno-durante-lavori-sulla-ferrovia.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10002/normal_450_8726.jpg",
+      "summary": "La tragedia è avvenuta alla stazione di Shin-Kanuma, nella città di Kanuma, a circa 130 chilometri a nord di Tokyo: le vittime erano impegnate in attività di manutenzione Tragedia ferroviaria in Giappone , dove quattr...",
+      "date": "2026-08-20T10:15:21.0000000Z"
+    },
     {
       "id": "ferrovie:93d16d79c94f",
       "sourceId": "ferrovie",
@@ -121,30 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10002/normal_cantiere_roma_pescara_3603.jpg",
       "summary": "L’amministrazione comunale ha inviato una nota a RFI e alla Regione Abruzzo: tra le richieste anche barriere antirumore, una nuova fermata ferroviaria e interventi sulla viabilità. Il Comune di Chieti riapre il confro...",
       "date": "2026-08-19T09:16:49.0000000Z"
-    },
-    {
-      "id": "ferrovie:ca2f44beeef0",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "FS Treni Turistici Italiani, oltre 62 milioni di perdite in tre anni: allo studio il riassetto",
-      "url": "https://www.ferrovie.info/treni-reali/fs-treni-turistici-italiani-oltre-62-milioni-di-perdite-in-tre-anni-allo-studio-il-riassetto.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10816/normal_espresso_riviera_150.jpg",
-      "summary": "Il modello di business viene considerato non sostenibile: Trenitalia valuta il trasferimento del ramo Turismo, mentre Storico e Religioso/Charter potrebbero tornare alla Fondazione FS Stando a quanto riportato da \" Il...",
-      "date": "2026-08-18T13:08:52.0000000Z"
-    },
-    {
-      "id": "ferrovie:f071e860ffa5",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Linea AV Bologna - Milano, riaperta l&#039;intera tratta: conclusi i lavori di Ferragosto",
-      "url": "https://www.ferrovie.info/treni-reali/linea-av-bologna-milano-riaperta-lintera-tratta-conclusi-i-lavori-di-ferragosto.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10529/ETR400_01_-_ETR400_06.jpg",
-      "summary": "RFI ha completato nei tempi previsti il rinnovo dell'infrastruttura tra Piacenza e Milano: sostituiti sei deviatoi nei cantieri di Livraga e Piacenza Ovest. È stata riaperta questa mattina, martedì 18 agosto, l'intera...",
-      "date": "2026-08-18T10:19:40.0000000Z"
     }
   ]
 }

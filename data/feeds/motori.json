@@ -1,7 +1,67 @@
 {
   "category": "motori",
-  "updated": "2026-08-20T09:59:05.5419375Z",
+  "updated": "2026-08-20T11:04:12.1725580Z",
   "items": [
+    {
+      "id": "hdmotori:3e870a3d1d79",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Fiat Pandina e 500: fino a 6000 euro di sconto ad agosto, ma a queste condizioni",
+      "url": "https://www.hdmotori.it/fiat-pandina-500-sconto-agosto-condizioni/",
+      "image": null,
+      "summary": "Le promozioni su Pandina e 500 Hybrid prevedono importanti sconti sul prezzo di listino, ma non per tutti. Ecco quali sono le condizioni. The post Fiat Pandina e 500: fino a 6000 euro di sconto ad agosto, ma a queste ...",
+      "date": "2026-08-20T11:00:51.0000000Z"
+    },
+    {
+      "id": "vaielettrico:5eaa790b9461",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ducati, 121 milioni di investimenti. E se dietro l’innovazione, sostenibilità e… elettrico?",
+      "url": "https://www.vaielettrico.it/ducati-121-milioni-di-investimenti-e-se-dietro-linnovazione-sostenibilita-e-elettrico/",
+      "image": null,
+      "summary": "Il Mimit dà il via libera al maxi piano “Ducati Raise the Bar”: 121 milioni di investimenti, quasi… L'articolo Ducati, 121 milioni di investimenti. E se dietro l’innovazione, sostenibilità e… elettrico? proviene da Va...",
+      "date": "2026-08-20T10:12:31.0000000Z"
+    },
+    {
+      "id": "hdmotori:da35ed91eafa",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa Mercedes ha 41 anni e 831.000 km: il diesel non molla e vuole il milione",
+      "url": "https://www.hdmotori.it/mercedes-200-d-1985-831k-km/",
+      "image": null,
+      "summary": "Ha 831.000 km e 75 CV: la straordinaria storia della Mercedes 200 D del 1985 guidata da quattro generazioni. Prossimo obiettivo? Il milione di chilometri The post Questa Mercedes ha 41 anni e 831.000 km: il diesel non...",
+      "date": "2026-08-20T10:00:52.0000000Z"
+    },
+    {
+      "id": "insideevs:b690ec3c20ff",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le prese di ricarica cadono dal cielo: 20 auto ricaricate",
+      "url": "https://insideevs.it/news/805564/ricarica-overhead-portland-20-auto/",
+      "image": "https://cdn.motor1.com/images/mgl/xq36JG/s3/overhead-chargepoint-del-quick-turnaround-facility-all-aeroporto-di-portland-usa.jpg",
+      "summary": "Nel Quick Turnaround Facility di Portland ChargePoint installa 10 charger da 200 kW overhead per elettrificare le flotte a noleggio in spazi saturi.",
+      "date": "2026-08-20T10:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:b84a573e8f41",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Al Salone di Torino 2026 ci siamo anche noi! Ecco cosa fare insieme",
+      "url": "https://it.motor1.com/news/803609/salone-torino-2026-attivita-motor1/",
+      "image": "https://cdn.motor1.com/images/mgl/40Y9j1/s3/salone-di-torino-2025.jpg",
+      "summary": "Quello di Motor1 è un calendario ricchissimo, tra novità assolute e grandi, attesi ritorni. Non potete mancare!",
+      "date": "2026-08-20T10:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:888987cb48c0",
       "sourceId": "hdmotori",
@@ -147,18 +207,6 @@
       "date": "2026-08-20T05:52:39.0000000Z"
     },
     {
-      "id": "motor1:d3703b592be4",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Porsche 911 continua a essere la regina incontrastata delle sportive",
-      "url": "https://it.motor1.com/news/805148/porsche-911-sportive-regina-vendite/",
-      "image": "https://cdn.motor1.com/images/mgl/L3yZ8N/s3/la-porsche-911-continua-a-essere-la-regina-incontrastata-delle-sportive.jpg",
-      "summary": "Le vendite di auto sportive in Europa è in calo, ma la Porsche 911 cresce ancora. Scopriamo i numeri",
-      "date": "2026-08-20T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:8a7a3e1d4f6c",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -168,6 +216,18 @@
       "url": "https://insideevs.it/news/805403/nio-vende-stazioni-battery-swap/",
       "image": "https://cdn.motor1.com/images/mgl/Oo0xRM/s3/nio-power-swap-station-4.0.jpg",
       "summary": "La Casa vende le stazioni di sostituzione batteria a istituzioni ed enti pubblici. La ricarica fast è un'alternativa minacciosa",
+      "date": "2026-08-20T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:d3703b592be4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Porsche 911 continua a essere la regina incontrastata delle sportive",
+      "url": "https://it.motor1.com/news/805148/porsche-911-sportive-regina-vendite/",
+      "image": "https://cdn.motor1.com/images/mgl/L3yZ8N/s3/la-porsche-911-continua-a-essere-la-regina-incontrastata-delle-sportive.jpg",
+      "summary": "Le vendite di auto sportive in Europa è in calo, ma la Porsche 911 cresce ancora. Scopriamo i numeri",
       "date": "2026-08-20T05:00:00.0000000Z"
     },
     {
@@ -315,30 +375,6 @@
       "date": "2026-08-19T14:00:56.0000000Z"
     },
     {
-      "id": "hdmotori:0edc16cff6cd",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Mustang si evolve in una berlina a quattro porte? Emerge un indizio importante",
-      "url": "https://www.hdmotori.it/mustang-berlina-quattro-porte-indizio/",
-      "image": null,
-      "summary": "Ford, dopo la Mach-E, starebbe lavorando su una versione sportiva a quattro porte della Mustang. Il lancio dovrebbe avvenire entro il 2030. The post La Mustang si evolve in una berlina a quattro porte? Emerge un indiz...",
-      "date": "2026-08-19T13:00:23.0000000Z"
-    },
-    {
-      "id": "hdmotori:2b5d98dd56ce",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Ferrari 550 Maranello è tornata e si chiama Veloce 12 Aperta",
-      "url": "https://www.hdmotori.it/ferrari-550-maranello-veloce-12-aperta/",
-      "image": null,
-      "summary": "Touring Superleggera si è superata e ha svelato la Veloce12 Aperta, restomod della Ferrari 550 Maranello con V12 da 530 CV e cambio manuale. The post La Ferrari 550 Maranello è tornata e si chiama Veloce 12 Aperta app...",
-      "date": "2026-08-19T12:00:00.0000000Z"
-    },
-    {
       "id": "motor1:ebffd345e4f3",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -423,18 +459,6 @@
       "date": "2026-08-19T06:59:25.0000000Z"
     },
     {
-      "id": "motor1:1d67678f4d8c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'hypercar da Le Mans omologata per la strada fatta in Italia [VIDEO]",
-      "url": "https://it.motor1.com/news/802807/cerbero-lmp-stradale-mosca-motore/",
-      "image": "https://cdn.motor1.com/images/mgl/vx8z9q/s3/cerbero-lmp-stradale.jpg",
-      "summary": "Creata da Mosca Automobili, la Cerbero LMP Stradale ha fino a 580 CV e un peso inferiore ai 1.000 kg",
-      "date": "2026-08-19T06:30:00.0000000Z"
-    },
-    {
       "id": "insideevs:ea81bacf1d1c",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -457,18 +481,6 @@
       "image": null,
       "summary": "CATL ha raggiunto la neutralità carbonica nelle proprie attività operative principali di tutti i suoi 20 stabilimenti. Nel… L'articolo CATL: tutti i suoi 20 stabilimenti sono a impatto zero. Ora tocca alla filiera pro...",
       "date": "2026-08-18T21:07:56.0000000Z"
-    },
-    {
-      "id": "vaielettrico:00b198039b4a",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Geely sceglie gli stabilimenti Volvo per la produzione europea delle sue auto",
-      "url": "https://www.vaielettrico.it/geely-sceglie-gli-stabilimenti-volvo-per-la-produzione-europea-delle-sue-auto/",
-      "image": null,
-      "summary": "Geely punta a produrre in Europa le proprie vetture di fascia alta a partire dal 2028, utilizzando gli… L'articolo Geely sceglie gli stabilimenti Volvo per la produzione europea delle sue auto proviene da Vaielettrico .",
-      "date": "2026-08-18T20:52:08.0000000Z"
     },
     {
       "id": "insideevs:5d3cd7a86f21",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/Rqke0w/s3/rivian-r2-charging.jpg",
       "summary": "Un recente studio dice che sostituire un veicolo con motore a combustione interna con un nuovo veicolo elettrico sia meglio per il clima",
       "date": "2026-08-18T11:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:c428087bb0b4",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Tesla Model Y non è un power bank: cosa puoi davvero alimentare",
-      "url": "https://insideevs.it/news/805281/tesla-model-y-ricarica-gadget/",
-      "image": "https://cdn.motor1.com/images/mgl/6Ze3lX/s3/2026-tesla-model-y-premium-rwd.jpg",
-      "summary": "Nel SUV elettrico Tesla Model Y la batteria alimenta solo prese 12 V e porte USB, senza funzione vehicle-to-load o prese 230 V integrate.",
-      "date": "2026-08-18T09:03:31.0000000Z"
     },
     {
       "id": "motor1:c018c015e4f3",
