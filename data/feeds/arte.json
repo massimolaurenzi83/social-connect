@@ -1,7 +1,19 @@
 {
   "category": "arte",
-  "updated": "2026-08-20T16:46:11.8291982Z",
+  "updated": "2026-08-20T17:15:27.2253004Z",
   "items": [
+    {
+      "id": "artribune:264d79aaaeca",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Doppia mostra a Bologna per fare entrare un artista contemporaneo nella vita di Giorgio Morandi",
+      "url": "https://www.artribune.com/arte-contemporanea-2/2026/08/mostra-evgeny-antufiev-bologna/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/09evgeny-antufiev-luce-che-proietta-ombra-installation-view-casa-morandi-2026photo-ela-bialkowska-okno-studio-scaled.jpg",
+      "summary": "Casa Morandi a Bologna e la casa museo di Grizzana Morandi ospitano le opere di Evgeny Antufiev, in dialogo con quelle del maestro fino al 13 settembre 2026. Le due mostre accostano linguaggi profondamente differenti ...",
+      "date": "2026-08-20T17:00:00.0000000Z"
+    },
     {
       "id": "elledecor:c5b55d7783e2",
       "sourceId": "elledecor",
@@ -63,18 +75,6 @@
       "date": "2026-08-20T12:00:00.0000000Z"
     },
     {
-      "id": "elledecor:322251a1216a",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Perché il Comune di Barcellona ha eliminato il bike sharing privato?",
-      "url": "https://www.elledecor.com/it/lifestyle/a73354536/perche-comune-di-barcellona-elimina-bike-sharing-bici-abbandonate/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/6471f62e-5f9f-459b-b385-69fa521e9792.jpeg",
-      "summary": "Bici abbandonate sulle spiagge e marciapiedi intasati portano il municipio a cancellare le licenze ai privati per il bike sharing : ecco come cambierà la mobilità a pedali",
-      "date": "2026-08-20T11:00:00.0000000Z"
-    },
-    {
       "id": "artribune:02fdd13c2b63",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -87,16 +87,16 @@
       "date": "2026-08-20T11:00:00.0000000Z"
     },
     {
-      "id": "elledecor:5f51926ad9c8",
+      "id": "elledecor:322251a1216a",
       "sourceId": "elledecor",
       "source": "Elle Decor",
       "platform": "rss",
       "category": "arte",
-      "title": "Il padiglione che trasforma le macerie contemporanee in energia e nuove possibilità per la città",
-      "url": "https://www.elledecor.com/it/architettura/a73256276/padiglione-temporaneo-costruito-con-le-macerie/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/5709f0dd-1d23-4a90-8f98-3d824f1286de.jpg",
-      "summary": "Per Concéntrico, Parabase recupera una cabina elettrica dismessa e i suoi materiali per immaginare un’infrastruttura capace di produrre, accumulare e rendere visibile l’energia",
-      "date": "2026-08-20T10:00:00.0000000Z"
+      "title": "Perché il Comune di Barcellona ha eliminato il bike sharing privato?",
+      "url": "https://www.elledecor.com/it/lifestyle/a73354536/perche-comune-di-barcellona-elimina-bike-sharing-bici-abbandonate/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/6471f62e-5f9f-459b-b385-69fa521e9792.jpeg",
+      "summary": "Bici abbandonate sulle spiagge e marciapiedi intasati portano il municipio a cancellare le licenze ai privati per il bike sharing : ecco come cambierà la mobilità a pedali",
+      "date": "2026-08-20T11:00:00.0000000Z"
     },
     {
       "id": "artribune:e51b7814c07e",
@@ -108,6 +108,18 @@
       "url": "https://www.artribune.com/arti-visive/2026/08/mostre-esposizioni-format-opinioni/",
       "image": "https://www.artribune.com/wp-content/uploads/2025/06/biennale-corderie-ph-irene-fanizza-6-scaled.jpg",
       "summary": "Il \"formato\" mostra ha ancora senso? Come si fa a far dialogare eccellenza del contenuto con le necessità del visitatore e cosa cercano i visitatori oggi nella visita ad una mostra? La visione autorevole e intergenera...",
+      "date": "2026-08-20T10:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:5f51926ad9c8",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il padiglione che trasforma le macerie contemporanee in energia e nuove possibilità per la città",
+      "url": "https://www.elledecor.com/it/architettura/a73256276/padiglione-temporaneo-costruito-con-le-macerie/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5709f0dd-1d23-4a90-8f98-3d824f1286de.jpg",
+      "summary": "Per Concéntrico, Parabase recupera una cabina elettrica dismessa e i suoi materiali per immaginare un’infrastruttura capace di produrre, accumulare e rendere visibile l’energia",
       "date": "2026-08-20T10:00:00.0000000Z"
     },
     {
@@ -205,18 +217,6 @@
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/niu-lai.png",
       "summary": "La pellicola a basso budget sembrava destinata a diventare un flop, ma al cinema rivaleggia con Odissea e Spider Man. Tutta la storia L’articolo \" Niu Lai, ovvero il film d’animazione bruttissimo che in Cina ha sbanca...",
       "date": "2026-08-19T21:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:12666fff9622",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "460 alici luminose sul fondale di Talamone a Ferragosto: l’opera per una notte di Massimo Catalani",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/08/catalani-ferragosto/",
-      "image": "https://www.youtube.com/embed/ZZg33zlEj7U",
-      "summary": "L’artista Massimo Catalani ha realizzato un’opera sul fondo del mare di Talamone, per la Casa dei Pesci, invitando il pubblico a scoprirla durante un’immersione nella notte di Ferragosto L’articolo \" 460 alici luminos...",
-      "date": "2026-08-19T20:00:00.0000000Z"
     },
     {
       "id": "elledecor:2776feff0528",

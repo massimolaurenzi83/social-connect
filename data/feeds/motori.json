@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-20T16:46:11.8409299Z",
+  "updated": "2026-08-20T17:15:27.2353298Z",
   "items": [
+    {
+      "id": "hdmotori:1e10e41f1faf",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "FIAT Pandina Tributo Autobianchi, la novità principale è nell’abitacolo",
+      "url": "https://www.hdmotori.it/fiat-pandina-tributo-autobianchi-novita-principale/",
+      "image": null,
+      "summary": "FIAT sta lavorando a una Pandina Tributo Autobianchi con prove su strada mirate. Sono spuntati i primi dettagli degli interni. The post FIAT Pandina Tributo Autobianchi, la novità principale è nell’abitacolo appeared ...",
+      "date": "2026-08-20T17:00:46.0000000Z"
+    },
     {
       "id": "vaielettrico:3c30f5d8e845",
       "sourceId": "vaielettrico",
@@ -243,18 +255,6 @@
       "date": "2026-08-20T10:00:52.0000000Z"
     },
     {
-      "id": "motor1:b84a573e8f41",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Al Salone di Torino 2026 ci siamo anche noi! Ecco cosa fare insieme",
-      "url": "https://it.motor1.com/news/803609/salone-torino-2026-attivita-motor1/",
-      "image": "https://cdn.motor1.com/images/mgl/40Y9j1/s3/salone-di-torino-2025.jpg",
-      "summary": "Quello di Motor1 è un calendario ricchissimo, tra novità assolute e grandi, attesi ritorni. Non potete mancare!",
-      "date": "2026-08-20T10:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:b690ec3c20ff",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -264,6 +264,18 @@
       "url": "https://insideevs.it/news/805564/ricarica-overhead-portland-20-auto/",
       "image": "https://cdn.motor1.com/images/mgl/xq36JG/s3/overhead-chargepoint-del-quick-turnaround-facility-all-aeroporto-di-portland-usa.jpg",
       "summary": "Nel Quick Turnaround Facility di Portland ChargePoint installa 10 charger da 200 kW overhead per elettrificare le flotte a noleggio in spazi saturi.",
+      "date": "2026-08-20T10:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:b84a573e8f41",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Al Salone di Torino 2026 ci siamo anche noi! Ecco cosa fare insieme",
+      "url": "https://it.motor1.com/news/803609/salone-torino-2026-attivita-motor1/",
+      "image": "https://cdn.motor1.com/images/mgl/40Y9j1/s3/salone-di-torino-2025.jpg",
+      "summary": "Quello di Motor1 è un calendario ricchissimo, tra novità assolute e grandi, attesi ritorni. Non potete mancare!",
       "date": "2026-08-20T10:00:00.0000000Z"
     },
     {
@@ -325,18 +337,6 @@
       "image": "https://cdn.motor1.com/images/mgl/koK3RP/s3/2027-genesis-gv90-exterior.jpg",
       "summary": "Genesis presenta la GV90, colossale SUV elettrico da 657 CV, 5,29 m di lunghezza e sedili che ruotano a 180°",
       "date": "2026-08-20T07:45:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:631ff7d31295",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Solarky Sun V: l’auto solare che costa la metà di una Panda",
-      "url": "https://www.hdmotori.it/solarky-sun-v-auto-solare/",
-      "image": null,
-      "summary": "Mentre i grandi progetti di auto solari naufragano tra costi proibitivi e difficoltà tecniche, la cinese Solarsky punta ad una soluzione semplice ed essenziale per la mobilità urbana. The post Solarky Sun V: l’auto so...",
-      "date": "2026-08-20T07:00:22.0000000Z"
     },
     {
       "id": "insideevs:016ac4f3db1d",
