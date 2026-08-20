@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-08-20T03:14:14.7994119Z",
+  "updated": "2026-08-20T05:07:40.1561773Z",
   "items": [
+    {
+      "id": "qualenergia:196cf3eeeba0",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Rapporto mensile Terna – luglio 2026",
+      "url": "https://www.qualenergia.it/pro/documenti/rapporto-mensile-terna-luglio-2026/",
+      "image": null,
+      "summary": "A luglio 2026 la domanda di elettricità in Italia è stata pari a 32,4 TWh, record per un singolo mese. Le rinnovabili dopo sette mesi coprono il 42,5%, in calo sul 2025 e 2024. Insieme fotovoltaico ed eolico hanno pro...",
+      "date": "2026-08-20T05:00:27.0000000Z"
+    },
+    {
+      "id": "qualenergia:6f98fdc1bc9c",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Improving the solar installation process",
+      "url": "https://www.qualenergia.it/pro/documenti/improving-the-solar-installation-process/",
+      "image": null,
+      "summary": "I risultati di uno studio orientato a eliminare la burocrazia nel settore del fotovoltaico residenziale e su piccola-media scala. Le 15 raccomandazioni ministeriali, ciascuna con una specifica scadenza per l’implement...",
+      "date": "2026-08-20T05:00:11.0000000Z"
+    },
     {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Arriva il primo via libera per il disegno di legge “ColtivItalia” contenente limitazioni all’espianto e all’abbattimento di ulivi per la realizzazione di fotovoltaico ed eolico. Il 5 agosto l’aula della Camera ha appr...",
       "date": "2026-08-07T07:00:52.0000000Z"
-    },
-    {
-      "id": "qualenergia:6901aa8a8a32",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "II paradosso della transizione cinese: record di rinnovabili e boom del carbone",
-      "url": "https://www.qualenergia.it/articoli/cina-paradosso-transizione-record-rinnovabili-boom-carbone/",
-      "image": null,
-      "summary": "Una delle tante stranezze del nostro tempo è che chi ritiene che la transizione verso le rinnovabili debba avvenire il prima possibile, per motivi ambientali, climatici, economici e geopolitici, si trovi a dover guard...",
-      "date": "2026-08-07T07:00:49.0000000Z"
-    },
-    {
-      "id": "qualenergia:7f5d5e1ad661",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Emilia Romagna, incentivi per trasferimento tecnologico in energia e rinnovabili",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/emilia-romagna-incentivi-trasferimento-tecnologico-energia-rinnovabili/",
-      "image": null,
-      "summary": "Aprirà a settembre lo sportello della Regione Emilia-Romagna dedicato al sostegno di progetti di trasferimento tecnologico per portare i risultati della ricerca verso applicazioni industriali, anche in ambito energeti...",
-      "date": "2026-08-07T06:55:29.0000000Z"
     }
   ]
 }

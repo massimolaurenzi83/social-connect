@@ -1,6 +1,6 @@
 {
   "category": "notizie",
-  "updated": "2026-08-20T03:14:14.7883641Z",
+  "updated": "2026-08-20T05:07:40.1548265Z",
   "items": [
     {
       "id": "repubblica:e3252000c77b",
@@ -13,6 +13,18 @@
       "image": null,
       "summary": "La posizione morale è un’appendice non richiesta dell’appartenenza: prima vengono lo spogliatoio e il gruppo",
       "date": "2026-08-20T00:27:11.0000000Z"
+    },
+    {
+      "id": "ansa:43856af2882a",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Trump, 'guerra economica contro l'Iran'. E minaccia chi aiuta Teheran",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/20/trump-guerra-economica-contro-liran.-e-minaccia-chi-aiuta-teheran_c07cd0bc-0506-4e98-8f87-170b8797e7d6.html",
+      "image": null,
+      "summary": "'E' un nuovo D-Day, il mondo si unisca agli Stati Uniti contro i pasdaran'",
+      "date": "2026-08-19T23:53:23.0000000Z"
     },
     {
       "id": "repubblica:ca7fbd57a8f0",
@@ -39,15 +51,27 @@
       "date": "2026-08-19T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:dc3916c2d829",
+      "id": "repubblica:668ce7448c2f",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Mps, dalle scalate all’arte dell’arrocco, le sette vite dell’ad Lovaglio",
-      "url": "https://www.repubblica.it/economia/2026/08/20/news/mps_ritratto_ad_luigi_lovaglio_banco_bpm_banca_generali_intesa-425537099/",
+      "title": "La minaccia dell'Iran alle basi: così i siti americani in Italia sono diventati sorvegliati speciali",
+      "url": "https://www.repubblica.it/esteri/2026/08/20/news/italia_basi_usa_a_rischio_ritorsioni_iran_crosetto-425536762/",
       "image": null,
-      "summary": "Prima ha conquistato Mediobanca con il sostegno di Caltagirone. Poi, quando l’imprenditore romano voleva sostituirlo, il banchiere lucano ha vinto in assemblea. Ora lo aspetta una nuova sfida",
+      "summary": "Il ministro Crosetto: “Nulla è precluso ma eviterei di offrire idee o spunti”. L’intelligence di Teheran dispone di agenti infiltrati che si sanno muovere con incisività anche da noi",
+      "date": "2026-08-19T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:5beb400965e4",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Clima, Carlo Carraro: “Il governo non resti immobile di fronte al disastro”",
+      "url": "https://www.repubblica.it/cronaca/2026/08/20/news/carlo_carraro_crisi_climatica_intervista-425537061/",
+      "image": null,
+      "summary": "L’intervista al rettore emerito e professore di Economia Ambientale all’Università Ca’ Foscari di Venezia: “Serve un’unità di crisi per affrontare caldo e piogge torrenziali, perché siamo solo all’inizio”",
       "date": "2026-08-19T23:00:00.0000000Z"
     },
     {
@@ -60,18 +84,6 @@
       "url": "https://www.repubblica.it/esteri/2026/08/20/news/ucraina_inchiesta_corruzione_sfiora_zelensky_indagata_sua_fedelissima_fedorov_chiede_elezioni-425537069/",
       "image": null,
       "summary": "Rimossa la vice-capo ufficio di presidenza, coinvolta nell’inchiesta del Nabu. Proteste nelle strade di Kiev per la conferma di Khmara alla Difesa",
-      "date": "2026-08-19T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:668ce7448c2f",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La minaccia dell'Iran alle basi: così i siti americani in Italia sono diventati sorvegliati speciali",
-      "url": "https://www.repubblica.it/esteri/2026/08/20/news/italia_basi_usa_a_rischio_ritorsioni_iran_crosetto-425536762/",
-      "image": null,
-      "summary": "Il ministro Crosetto: “Nulla è precluso ma eviterei di offrire idee o spunti”. L’intelligence di Teheran dispone di agenti infiltrati che si sanno muovere con incisività anche da noi",
       "date": "2026-08-19T23:00:00.0000000Z"
     },
     {
@@ -135,15 +147,15 @@
       "date": "2026-08-19T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:5beb400965e4",
+      "id": "repubblica:dc3916c2d829",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Clima, Carlo Carraro: “Il governo non resti immobile di fronte al disastro”",
-      "url": "https://www.repubblica.it/cronaca/2026/08/20/news/carlo_carraro_crisi_climatica_intervista-425537061/",
+      "title": "Mps, dalle scalate all’arte dell’arrocco, le sette vite dell’ad Lovaglio",
+      "url": "https://www.repubblica.it/economia/2026/08/20/news/mps_ritratto_ad_luigi_lovaglio_banco_bpm_banca_generali_intesa-425537099/",
       "image": null,
-      "summary": "L’intervista al rettore emerito e professore di Economia Ambientale all’Università Ca’ Foscari di Venezia: “Serve un’unità di crisi per affrontare caldo e piogge torrenziali, perché siamo solo all’inizio”",
+      "summary": "Prima ha conquistato Mediobanca con il sostegno di Caltagirone. Poi, quando l’imprenditore romano voleva sostituirlo, il banchiere lucano ha vinto in assemblea. Ora lo aspetta una nuova sfida",
       "date": "2026-08-19T23:00:00.0000000Z"
     },
     {
@@ -313,18 +325,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/migranti-1.jpg",
       "summary": "Dopo Germania e Svizzera, anche Vienna ha riportato nel nostro Paese alcuni richiedenti asilo. La procedura è legata al Patto Ue su migrazione e asilo entrato in vigore il 12 giugno L'articolo Anche l’Austria rimanda ...",
       "date": "2026-08-19T18:36:04.0000000Z"
-    },
-    {
-      "id": "ansa:48d306df4658",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Sbranato da due rottweiler, muore 72enne nel Salento",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/sbranato-da-due-rottweiler-muore-un-uomo-nelle-campagne-del-salento_9860ad31-629b-42a7-88c4-decf4560dc08.html",
-      "image": null,
-      "summary": "Trovato dal figlio. Ed è allarme lupi: nuovo avvistamento vicino Bari, parchi chiusi a Riccione",
-      "date": "2026-08-19T18:12:44.0000000Z"
     },
     {
       "id": "open:bedf76ce6a73",

@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-20T03:14:14.7295308Z",
+  "updated": "2026-08-20T05:07:40.1756025Z",
   "items": [
+    {
+      "id": "insideevs:8a7a3e1d4f6c",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "NIO cambia tutto e dice addio al battery swap",
+      "url": "https://insideevs.it/news/805403/nio-vende-stazioni-battery-swap/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo0xRM/s3/nio-power-swap-station-4.0.jpg",
+      "summary": "La Casa vende le stazioni di sostituzione batteria a istituzioni ed enti pubblici. La ricarica fast è un'alternativa minacciosa",
+      "date": "2026-08-20T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:d3703b592be4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Porsche 911 continua a essere la regina incontrastata delle sportive",
+      "url": "https://it.motor1.com/news/805148/porsche-911-sportive-regina-vendite/",
+      "image": "https://cdn.motor1.com/images/mgl/L3yZ8N/s3/la-porsche-911-continua-a-essere-la-regina-incontrastata-delle-sportive.jpg",
+      "summary": "Le vendite di auto sportive in Europa è in calo, ma la Porsche 911 cresce ancora. Scopriamo i numeri",
+      "date": "2026-08-20T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:a48aeb70b72c",
       "sourceId": "vaielettrico",
@@ -159,18 +183,6 @@
       "date": "2026-08-19T13:00:23.0000000Z"
     },
     {
-      "id": "motor1:ebffd345e4f3",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volvo produrrà auto Geely in Europa dal 2028",
-      "url": "https://it.motor1.com/news/805465/geely-produzion-auto-europa-volvo/",
-      "image": "https://cdn.motor1.com/images/mgl/VzBAAK/s3/volvo-ex30-2026.jpg",
-      "summary": "Dal 2028 gli impianti europei Volvo potrebbero assemblare modelli Geely, Zeekr e Lynk & CO per ridurre costi e impatto dei dazi UE.",
-      "date": "2026-08-19T12:00:00.0000000Z"
-    },
-    {
       "id": "hdmotori:2b5d98dd56ce",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -180,6 +192,18 @@
       "url": "https://www.hdmotori.it/ferrari-550-maranello-veloce-12-aperta/",
       "image": null,
       "summary": "Touring Superleggera si è superata e ha svelato la Veloce12 Aperta, restomod della Ferrari 550 Maranello con V12 da 530 CV e cambio manuale. The post La Ferrari 550 Maranello è tornata e si chiama Veloce 12 Aperta app...",
+      "date": "2026-08-19T12:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:ebffd345e4f3",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volvo produrrà auto Geely in Europa dal 2028",
+      "url": "https://it.motor1.com/news/805465/geely-produzion-auto-europa-volvo/",
+      "image": "https://cdn.motor1.com/images/mgl/VzBAAK/s3/volvo-ex30-2026.jpg",
+      "summary": "Dal 2028 gli impianti europei Volvo potrebbero assemblare modelli Geely, Zeekr e Lynk & CO per ridurre costi e impatto dei dazi UE.",
       "date": "2026-08-19T12:00:00.0000000Z"
     },
     {
@@ -195,18 +219,6 @@
       "date": "2026-08-19T11:00:25.0000000Z"
     },
     {
-      "id": "motor1:d3fb4c896df4",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Porsche costruirà qualsiasi pezzo unico tu voglia, anche una Cayenne",
-      "url": "https://it.motor1.com/news/805425/porsche-esemplari-unici-quattro-porte/",
-      "image": "https://cdn.motor1.com/images/mgl/MkMyE6/s3/2009-cayenne-gts-restored-by-porsche.jpg",
-      "summary": "Non è solo la 911: Porsche dice a Motor1 che Sonderwunsch sta già lavorando a progetti personalizzati a quattro porte",
-      "date": "2026-08-19T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:2d43451cb6c1",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -216,6 +228,18 @@
       "url": "https://insideevs.it/reviews/805449/geely-ex5-2026-prova-anteprima/",
       "image": "https://cdn.motor1.com/images/mgl/y2l0KG/s3/geely-e5-2026-in-grau.jpg",
       "summary": "Il gruppo possiede già molti marchi noti, ora scende in campo con il proprio nome",
+      "date": "2026-08-19T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:d3fb4c896df4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Porsche costruirà qualsiasi pezzo unico tu voglia, anche una Cayenne",
+      "url": "https://it.motor1.com/news/805425/porsche-esemplari-unici-quattro-porte/",
+      "image": "https://cdn.motor1.com/images/mgl/MkMyE6/s3/2009-cayenne-gts-restored-by-porsche.jpg",
+      "summary": "Non è solo la 911: Porsche dice a Motor1 che Sonderwunsch sta già lavorando a progetti personalizzati a quattro porte",
       "date": "2026-08-19T11:00:00.0000000Z"
     },
     {
@@ -411,18 +435,6 @@
       "date": "2026-08-18T15:31:09.0000000Z"
     },
     {
-      "id": "motor1:1e18b147d47a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tutti i segreti e i trucchi delle moderne chiavi auto",
-      "url": "https://it.motor1.com/news/805272/chiave-telecomando-auto-funzioni-trucchi/",
-      "image": "https://cdn.motor1.com/images/mgl/wl8VPR/s3/a-cosa-servono-i-pulsanti-del-mio-telecomando-auto.jpg",
-      "summary": "Quel piccolo telecomando che hai in tasca può fare molto più che chiudere le portiere: ecco i trucchi nascosti",
-      "date": "2026-08-18T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:5d3cd7a86f21",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -435,16 +447,16 @@
       "date": "2026-08-18T15:00:00.0000000Z"
     },
     {
-      "id": "motor1:769152f1ff93",
+      "id": "motor1:1e18b147d47a",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "A chi serve la pelle? La prima EV Bentley avrà sedili in lana merino",
-      "url": "https://it.motor1.com/news/805336/bentley-torcal-sedili-lana-merino/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4WxB/s3/bentley-torcal-interior.jpg",
-      "summary": "Bentley porta la sostenibilità nella qualità dei materiali, con lana Merino e finiture in legno riciclato sulla Torcal.",
-      "date": "2026-08-18T14:13:47.0000000Z"
+      "title": "Tutti i segreti e i trucchi delle moderne chiavi auto",
+      "url": "https://it.motor1.com/news/805272/chiave-telecomando-auto-funzioni-trucchi/",
+      "image": "https://cdn.motor1.com/images/mgl/wl8VPR/s3/a-cosa-servono-i-pulsanti-del-mio-telecomando-auto.jpg",
+      "summary": "Quel piccolo telecomando che hai in tasca può fare molto più che chiudere le portiere: ecco i trucchi nascosti",
+      "date": "2026-08-18T15:00:00.0000000Z"
     },
     {
       "id": "insideevs:8cff8f1b056d",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/2N4X2K/s3/cupra-raval-vs-mini-confronto.jpg",
       "summary": "Sfiziose nello stile e nella guida, ecco la spagnola e l'inglese a confronto punto per punto",
       "date": "2026-08-18T05:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:2364a28d4b67",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Freelander 8 da record: 10.000 ordini nelle prime 48 ore",
-      "url": "https://insideevs.it/news/805140/freelander-8-boom-preordini-cina/",
-      "image": "https://cdn.motor1.com/images/mgl/nAlWOR/s3/freelander-8-first-edition.jpg",
-      "summary": "Il nuovo SUV elettrico nato dalla joint venture tra Jaguar Land Rover e Chery è già un successo (in Cina)",
-      "date": "2026-08-17T15:00:00.0000000Z"
     },
     {
       "id": "motor1:c018c015e4f3",
