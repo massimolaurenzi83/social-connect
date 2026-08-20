@@ -1,7 +1,19 @@
 {
   "category": "notizie",
-  "updated": "2026-08-19T23:52:11.4603091Z",
+  "updated": "2026-08-20T03:14:14.7883641Z",
   "items": [
+    {
+      "id": "repubblica:e3252000c77b",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il Manuale Mourinho",
+      "url": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/08/20/news/mourinho_jose_vinicius_prestianni_calcio-425537220/",
+      "image": null,
+      "summary": "La posizione morale è un’appendice non richiesta dell’appartenenza: prima vengono lo spogliatoio e il gruppo",
+      "date": "2026-08-20T00:27:11.0000000Z"
+    },
     {
       "id": "repubblica:ca7fbd57a8f0",
       "sourceId": "repubblica",
@@ -15,15 +27,15 @@
       "date": "2026-08-19T23:01:00.0000000Z"
     },
     {
-      "id": "repubblica:abc0de546ee2",
+      "id": "repubblica:d3ce533e20f5",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Il dossier agli azionisti, Crédit Agricole è fredda il Leone studia le carte",
-      "url": "https://www.repubblica.it/economia/2026/08/20/news/dossier_azionisti_credit_agricole_fredda_leone_studia_le_carte-425537109/",
+      "title": "Meloni, addio neutralità. Il governo benedice il blitz. L’inedito asse con il Pd",
+      "url": "https://www.repubblica.it/economia/2026/08/20/news/mps_intesa_meloni_addio_neutralita_govenro_asse_pd-425537130/",
       "image": null,
-      "summary": "Percorso in salita tra quorum, scelte dei grandi azionisti e le resistenze del socio francese di piazza Meda",
+      "summary": "La presidente non vuole lasciare consenso facile ai dem. No allo spezzatino a favore di Unipol. L’obiettivo è evitare che il primo istituto italiano diventi dominante nel credito e nel risparmio",
       "date": "2026-08-19T23:00:00.0000000Z"
     },
     {
@@ -39,27 +51,63 @@
       "date": "2026-08-19T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:d3ce533e20f5",
+      "id": "repubblica:5aac878ed31d",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Meloni, addio neutralità. Il governo benedice il blitz. L’inedito asse con il Pd",
-      "url": "https://www.repubblica.it/economia/2026/08/20/news/mps_intesa_meloni_addio_neutralita_govenro_asse_pd-425537130/",
+      "title": "La corruzione sfiora Zelensky, indagata la sua fedelissima. E Fedorov chiede le elezioni",
+      "url": "https://www.repubblica.it/esteri/2026/08/20/news/ucraina_inchiesta_corruzione_sfiora_zelensky_indagata_sua_fedelissima_fedorov_chiede_elezioni-425537069/",
       "image": null,
-      "summary": "La presidente non vuole lasciare consenso facile ai dem. No allo spezzatino a favore di Unipol. L’obiettivo è evitare che il primo istituto italiano diventi dominante nel credito e nel risparmio",
+      "summary": "Rimossa la vice-capo ufficio di presidenza, coinvolta nell’inchiesta del Nabu. Proteste nelle strade di Kiev per la conferma di Khmara alla Difesa",
       "date": "2026-08-19T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:5beb400965e4",
+      "id": "repubblica:668ce7448c2f",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Clima, Carlo Carraro: “Il governo non resti immobile di fronte al disastro”",
-      "url": "https://www.repubblica.it/cronaca/2026/08/20/news/carlo_carraro_crisi_climatica_intervista-425537061/",
+      "title": "La minaccia dell'Iran alle basi: così i siti americani in Italia sono diventati sorvegliati speciali",
+      "url": "https://www.repubblica.it/esteri/2026/08/20/news/italia_basi_usa_a_rischio_ritorsioni_iran_crosetto-425536762/",
       "image": null,
-      "summary": "L’intervista al rettore emerito e professore di Economia Ambientale all’Università Ca’ Foscari di Venezia: “Serve un’unità di crisi per affrontare caldo e piogge torrenziali, perché siamo solo all’inizio”",
+      "summary": "Il ministro Crosetto: “Nulla è precluso ma eviterei di offrire idee o spunti”. L’intelligence di Teheran dispone di agenti infiltrati che si sanno muovere con incisività anche da noi",
+      "date": "2026-08-19T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:abc0de546ee2",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il dossier agli azionisti, Crédit Agricole è fredda il Leone studia le carte",
+      "url": "https://www.repubblica.it/economia/2026/08/20/news/dossier_azionisti_credit_agricole_fredda_leone_studia_le_carte-425537109/",
+      "image": null,
+      "summary": "Percorso in salita tra quorum, scelte dei grandi azionisti e le resistenze del socio francese di piazza Meda",
+      "date": "2026-08-19T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:223ccd0e6b89",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "“Io salvata dalla casa rifugio, la violenza è subdola e si traveste anche d’amore”",
+      "url": "https://www.repubblica.it/cronaca/2026/08/20/news/io_salvata_dalla_casa_rifugio_la_violenza_e_subdola_e_si_traveste_anche_d_amore-425537139/",
+      "image": null,
+      "summary": "Parla Francesca, 45 anni, cinque figlie, ripetutamente vittima di abusi e stalking. “Se non fossi fuggita con le bambine ora sarei morta. Ero pedinata, minacciata. Il mio ex mi tormentava, urla paura, ero la sua prigi...",
+      "date": "2026-08-19T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:0d0275a3d5f5",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Podolyak: “Puniremo chi ruba ma votare adesso è impossibile”",
+      "url": "https://www.repubblica.it/esteri/2026/08/20/news/podolyak_consigliere_zelensky_puniremo_chi_ruba_ora_elezioni_ucraina_impossibili-425536990/",
+      "image": null,
+      "summary": "Il consigliere di Zelensky: “Le indagini dimostrano che lo Stato dispone di efficaci organismi contro il malaffare”",
       "date": "2026-08-19T23:00:00.0000000Z"
     },
     {
@@ -75,52 +123,40 @@
       "date": "2026-08-19T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:d7441b914269",
+      "id": "repubblica:4bb937e25707",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Guerra in Iran, le news di oggi. Trump: “Annuncio guerra economica devastante contro l’Iran e chi lo aiuta”",
-      "url": "https://www.repubblica.it/esteri/2026/08/20/diretta/guerra_iran_usa_israele_news_oggi-425537182/",
+      "title": "Ucraina, l’operazione Forrest Gump per incastrare il riciclaggio",
+      "url": "https://www.repubblica.it/esteri/2026/08/20/news/ucraina_operazione_forrest_gump_incastrare_riciclaggio-425536910/",
       "image": null,
-      "summary": "Teheran avverte i Paesi del Golfo: “Non aiutate gli Stati Uniti”. Araghchi: “L’ostacolo all’accordo con Washington è Israele”",
-      "date": "2026-08-19T22:24:52.0000000Z"
+      "summary": "Sotto accusa una struttura che stava “ripulendo” 2,8 milioni per pagare la cauzione dell’ex ministro dell’Energia",
+      "date": "2026-08-19T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:1c921ccab1bb",
+      "id": "repubblica:5beb400965e4",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Guerra Ucraina - Russia, le news di oggi. Massiccio attacco di Mosca su Kiev, colpito un ospedale pediatrico",
-      "url": "https://www.repubblica.it/esteri/2026/08/20/diretta/guerra_ucraina_russia_news_oggi-425537177/",
+      "title": "Clima, Carlo Carraro: “Il governo non resti immobile di fronte al disastro”",
+      "url": "https://www.repubblica.it/cronaca/2026/08/20/news/carlo_carraro_crisi_climatica_intervista-425537061/",
       "image": null,
-      "summary": "L’offensiva con missili balistici del Cremlino, in difficoltà per la carenza di materie prime: “Abbiamo cominciato a importare carburanti”",
-      "date": "2026-08-19T22:11:27.0000000Z"
+      "summary": "L’intervista al rettore emerito e professore di Economia Ambientale all’Università Ca’ Foscari di Venezia: “Serve un’unità di crisi per affrontare caldo e piogge torrenziali, perché siamo solo all’inizio”",
+      "date": "2026-08-19T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:f8b369a71555",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
+      "id": "ansa:7f6ee97c020b",
+      "sourceId": "ansa",
+      "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Harry e Meghan tornano a vivere nel Regno Unito dopo sei anni",
-      "url": "https://www.repubblica.it/esteri/2026/08/19/news/harry_meghan_tornano_regno_unito_londra-425537173/",
+      "title": "Zelensky sotto assedio, indagata la vice dello staff presidenziale",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/19/zelensky-sotto-assedio-indagata-la-vice-dello-staff-presidenziale_d11f53ea-33ab-4576-aba2-3b9f04b0c92f.html",
       "image": null,
-      "summary": "La coppia si era trasferita negli Stati Uniti nel 2020. Per loro pronta una residenza non reale fuori Londra già a fine agosto",
-      "date": "2026-08-19T21:40:03.0000000Z"
-    },
-    {
-      "id": "repubblica:b54369d6ce8b",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "“Allarme sottovalutato, mandiamo gli ispettori”: la morte di Tania Terrin è un caso",
-      "url": "https://www.repubblica.it/cronaca/2026/08/19/news/tania_terrin_femminicidio_controlli_caso_politico-425537160/",
-      "image": null,
-      "summary": "Il ministero vuole accertare eventuali irregolarità e omissioni dei magistratidopo le denunce della donna e delle altre ex. Domani l’autopsia",
-      "date": "2026-08-19T21:22:26.0000000Z"
+      "summary": "Sotto la lente dell'Anticorruzione altri fedelissimi del presidente. Fedorov forse negli Usa",
+      "date": "2026-08-19T22:28:35.0000000Z"
     },
     {
       "id": "open:079b40caab0a",
@@ -267,18 +303,6 @@
       "date": "2026-08-19T18:59:51.0000000Z"
     },
     {
-      "id": "ansa:7f6ee97c020b",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Zelensky sotto assedio, indagata la vice dello staff presidenziale",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/19/zelensky-sotto-assedio-indagata-la-vice-dello-staff-presidenziale_d11f53ea-33ab-4576-aba2-3b9f04b0c92f.html",
-      "image": null,
-      "summary": "Sotto la lente dell'Anticorruzione altri fedelissimi del presidente. Fedorov forse negli Usa",
-      "date": "2026-08-19T18:42:54.0000000Z"
-    },
-    {
       "id": "open:f8bc3a6771e3",
       "sourceId": "open",
       "source": "Open",
@@ -303,18 +327,6 @@
       "date": "2026-08-19T18:12:44.0000000Z"
     },
     {
-      "id": "repubblica:a8eeb3d60604",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Cobolli batte Jodar, è ai quarti a Cincinnati: “Devo credere in me stesso”",
-      "url": "https://www.repubblica.it/sport/tennis/2026/08/19/news/cobolli_atp_cincinnati_risultati_oggi-425536764/",
-      "image": null,
-      "summary": "Successo in rimonta per il romano, che ora potrebbe ritrovare sulla sua strada Zverev",
-      "date": "2026-08-19T18:03:07.0000000Z"
-    },
-    {
       "id": "open:bedf76ce6a73",
       "sourceId": "open",
       "source": "Open",
@@ -337,18 +349,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/anziano-sbranato-rottweiler-salento.jpg",
       "summary": "La vittima si chiama Giuseppe Pampo. A trovare il suo corpo, con ancora addosso i due animali, sono stati il figlio e il nipote L'articolo Va in campagna a raccogliere i fichi e viene sbranato da due rottweiler: morto...",
       "date": "2026-08-19T17:27:10.0000000Z"
-    },
-    {
-      "id": "repubblica:d7c26075a659",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Morta soffocata da una fetta di bacon, i genitori: “La nostra Rachele ora vive in altre 20 persone”",
-      "url": "https://roma.repubblica.it/cronaca/2026/08/19/news/rachele_ferrara_morta_soffocata_bacon_donati_organi_venti_persone-425536625/",
-      "image": null,
-      "summary": "“Era solare e altruista, ha voluto donare tutti gli organi”. Parlano i genitori della 28enne di Capodimonte, deceduta dopo essere rimasta 20 minuti senza ossigeno, a causa di un pezzo di carne nell’esofago",
-      "date": "2026-08-19T17:04:30.0000000Z"
     },
     {
       "id": "open:39c2160a1dbb",
@@ -387,84 +387,6 @@
       "date": "2026-08-19T16:24:06.0000000Z"
     },
     {
-      "id": "skytg24:pVGz5Bv1iwc",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Sky TG24 Timeline - Il furto a Messina e la morte di Varenne",
-      "url": "https://www.youtube.com/watch?v=pVGz5Bv1iwc",
-      "image": "https://i.ytimg.com/vi/pVGz5Bv1iwc/hqdefault.jpg",
-      "summary": "",
-      "videoId": "pVGz5Bv1iwc",
-      "date": "2026-08-19T16:17:16.0000000Z"
-    },
-    {
-      "id": "skytg24:8GgpuerkNF8",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Sky TG24 Timeline - Hormuz e le tensioni in Cisgiordania",
-      "url": "https://www.youtube.com/watch?v=8GgpuerkNF8",
-      "image": "https://i.ytimg.com/vi/8GgpuerkNF8/hqdefault.jpg",
-      "summary": "",
-      "videoId": "8GgpuerkNF8",
-      "date": "2026-08-19T16:16:33.0000000Z"
-    },
-    {
-      "id": "skytg24:w4IygWJpxNI",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Sky Cube 19/8 – Come sta davvero Donald Trump?",
-      "url": "https://www.youtube.com/watch?v=w4IygWJpxNI",
-      "image": "https://i.ytimg.com/vi/w4IygWJpxNI/hqdefault.jpg",
-      "summary": "",
-      "videoId": "w4IygWJpxNI",
-      "date": "2026-08-19T16:15:33.0000000Z"
-    },
-    {
-      "id": "skytg24:qnEvUKefdbM",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Francia, il caldo mette in crisi la produzione di lattuga",
-      "url": "https://www.youtube.com/watch?v=qnEvUKefdbM",
-      "image": "https://i.ytimg.com/vi/qnEvUKefdbM/hqdefault.jpg",
-      "summary": "",
-      "videoId": "qnEvUKefdbM",
-      "date": "2026-08-19T16:14:40.0000000Z"
-    },
-    {
-      "id": "skytg24:p1txZcxwMHs",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Sky TG24 Timeline - La questione migranti e il caso Ranucci",
-      "url": "https://www.youtube.com/watch?v=p1txZcxwMHs",
-      "image": "https://i.ytimg.com/vi/p1txZcxwMHs/hqdefault.jpg",
-      "summary": "",
-      "videoId": "p1txZcxwMHs",
-      "date": "2026-08-19T16:13:53.0000000Z"
-    },
-    {
-      "id": "skytg24:dxUlCVHgKYI",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Nord Stream, arrestato in Croazia un secondo sospettato",
-      "url": "https://www.youtube.com/watch?v=dxUlCVHgKYI",
-      "image": "https://i.ytimg.com/vi/dxUlCVHgKYI/hqdefault.jpg",
-      "summary": "",
-      "videoId": "dxUlCVHgKYI",
-      "date": "2026-08-19T15:08:41.0000000Z"
-    },
-    {
       "id": "ansa:2a777dd591b2",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -477,45 +399,6 @@
       "date": "2026-08-19T14:31:35.0000000Z"
     },
     {
-      "id": "skytg24:PDJTr853nGI",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Gaza, Israele indaga sulla morte di Hind Rajab",
-      "url": "https://www.youtube.com/watch?v=PDJTr853nGI",
-      "image": "https://i.ytimg.com/vi/PDJTr853nGI/hqdefault.jpg",
-      "summary": "",
-      "videoId": "PDJTr853nGI",
-      "date": "2026-08-19T14:25:32.0000000Z"
-    },
-    {
-      "id": "skytg24:_iBBBFTiIqY",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "SpaceX, razzo Starship recuperato in mare dopo 24 giorni",
-      "url": "https://www.youtube.com/watch?v=_iBBBFTiIqY",
-      "image": "https://i.ytimg.com/vi/_iBBBFTiIqY/hqdefault.jpg",
-      "summary": "",
-      "videoId": "_iBBBFTiIqY",
-      "date": "2026-08-19T14:24:57.0000000Z"
-    },
-    {
-      "id": "skytg24:h4ZAqmayW7E",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Carcere Torino, Lo Russo denuncia: struttura inadeguata",
-      "url": "https://www.youtube.com/watch?v=h4ZAqmayW7E",
-      "image": "https://i.ytimg.com/vi/h4ZAqmayW7E/hqdefault.jpg",
-      "summary": "",
-      "videoId": "h4ZAqmayW7E",
-      "date": "2026-08-19T14:20:18.0000000Z"
-    },
-    {
       "id": "ansa:bfb861064320",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -526,45 +409,6 @@
       "image": null,
       "summary": "Italia divisa dal meteo, domani piogge intense a Nord e caldo estivo a Sud",
       "date": "2026-08-19T13:52:53.0000000Z"
-    },
-    {
-      "id": "skytg24:QtNgv1RPjHI",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Incipit, Valentina Fortichiari racconta Guido Morselli",
-      "url": "https://www.youtube.com/watch?v=QtNgv1RPjHI",
-      "image": "https://i.ytimg.com/vi/QtNgv1RPjHI/hqdefault.jpg",
-      "summary": "",
-      "videoId": "QtNgv1RPjHI",
-      "date": "2026-08-19T13:44:03.0000000Z"
-    },
-    {
-      "id": "skytg24:q1VYitGsorM",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Pechino, oltre 3mila robot in mostra alla World Conference",
-      "url": "https://www.youtube.com/watch?v=q1VYitGsorM",
-      "image": "https://i.ytimg.com/vi/q1VYitGsorM/hqdefault.jpg",
-      "summary": "",
-      "videoId": "q1VYitGsorM",
-      "date": "2026-08-19T13:43:00.0000000Z"
-    },
-    {
-      "id": "skytg24:wkkUW65cFI8",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Ucraina, Fedorov chiede elezioni anche in tempo di guerra",
-      "url": "https://www.youtube.com/watch?v=wkkUW65cFI8",
-      "image": "https://i.ytimg.com/vi/wkkUW65cFI8/hqdefault.jpg",
-      "summary": "",
-      "videoId": "wkkUW65cFI8",
-      "date": "2026-08-19T13:42:13.0000000Z"
     },
     {
       "id": "ansa:de6bb16199f2",
@@ -589,6 +433,150 @@
       "image": null,
       "summary": "La body positivity arretra, la prova costume è tornata ed è farmacologica",
       "date": "2026-08-18T20:42:50.0000000Z"
+    },
+    {
+      "id": "corriere:fd46d2a5841f",
+      "sourceId": "corriere",
+      "source": "Corriere della Sera",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
+      "url": "https://www.corriere.it/politica/24_maggio_12/inchiesta-liguria-marco-bucci-gioco-al-massacro-non-ci-sto-chiedo-chiarezza-su-di-me-sono-pronto-a-parlare-con-i-pm-57e1da92-5b6c-4d81-94f6-321a522abxlk.shtml",
+      "image": "https://images2.corriereobjects.it/methode_image/2024/05/12/Politica/Foto%20Politica%20-%20Trattate/66410b90c9d09_ori_crop_MASTER__0x0.jpeg",
+      "summary": "Il sindaco di Genova: «Le mie parole sui maiali intercettate? Per ogni area nel porto si scatena la rissa. I soldi del ponte Morandi per un favore a Spinelli? È una falsità, quei soldi non c’entrano nulla»Il sindaco d...",
+      "date": "2024-05-13T06:07:51.0000000Z"
+    },
+    {
+      "id": "corriere:09a9f8d63e82",
+      "sourceId": "corriere",
+      "source": "Corriere della Sera",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "201. La via del tramonto",
+      "url": "https://www.corriere.it/alessandro-d-avenia-ultimo-banco/24_maggio_13/via-tramonto-c2e6bfcd-1b0e-4e91-95b5-0e470f5cexlk.shtml",
+      "image": "https://images2.corriereobjects.it/methode_image/2024/05/12/Cultura/Foto%20Cultura%20-%20Trattate/alessandro-davenia_ori_crop_MASTER__0x0.jpg",
+      "summary": "",
+      "date": "2024-05-13T06:03:15.0000000Z"
+    },
+    {
+      "id": "corriere:d42929287641",
+      "sourceId": "corriere",
+      "source": "Corriere della Sera",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Fedez denunciato per il caso Iovino, identificato dalle telecamere: «Ma quale massacro, io non c’ero»",
+      "url": "https://milano.corriere.it/notizie/cronaca/24_maggio_13/fedez-denunciato-iovino-3eeb49c3-fa4c-448d-bac5-d7bb9f09fxlk.shtml",
+      "image": "https://images2.corriereobjects.it/methode_image/2024/05/12/Milano/Foto%20Milano%20-%20Trattate/66412b1713836.r_d.1139-1129-0_ori_crop_MASTER__0x0.jpeg",
+      "summary": "Il rapper identificato con le telecamere. «Di cosa parliamo? Lui tre giorni dopo era a ballare». Presente quella sera nel locale anche Ludovica Di GresyLe telecamere che hanno ripreso il pestaggio inquadrerebbero il r...",
+      "date": "2024-05-13T06:01:38.0000000Z"
+    },
+    {
+      "id": "corriere:1797a0c76755",
+      "sourceId": "corriere",
+      "source": "Corriere della Sera",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "I DATI DEL COVID «Io avevo già truccato»: così, secondo i pm, in Liguria manipolavano i numeri sulla pandemia",
+      "url": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
+      "image": "https://images2.corriereobjects.it/methode_image/2024/05/12/Politica/Foto%20Politica%20-%20Trattate/66411f7753b21.r_d.1047-978-0_ori_crop_MASTER__0x0.jpeg",
+      "summary": "Sui contagi il governatore Giovanni Toti diceva al suo capo di gabinetto Matteo Cozzani: li ho un po’ aumentatiSui contagi il governatore Giovanni Toti diceva al suo capo di gabinetto Matteo Cozzani: li ho un po’ aume...",
+      "date": "2024-05-13T06:00:32.0000000Z"
+    },
+    {
+      "id": "corriere:b248d801fcf1",
+      "sourceId": "corriere",
+      "source": "Corriere della Sera",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Casa più grande, studi dei figli, pensione: come investire e far lievitare i risparmi, 3 piani da imitare",
+      "url": "https://www.corriere.it/economia/risparmio/cards/casa-piu-grande-studi-dei-figli-pensione-come-investire-i-risparmi-e-far-crescere-il-tesoretto-3-piani-da-imitare/pianificazione-finanziaria-prepararsi-a-un-lungo-viaggio_principale.shtml",
+      "image": "https://images2.corriereobjects.it/methode_image/2024/05/10/Economia/Foto%20Economia%20-%20Trattate/663e3c768da0c_ori_crop_MASTER__0x0.jpeg",
+      "summary": "Tre ricette con età ed esigenze diverse. Dal giovane che vuole una casa, ai coniugi che accumulano per la laurea dei ragazzi fino agli over 50 con buone possibilità di spesa. Come pensare al futuro con l’aiuto di poli...",
+      "date": "2024-05-13T05:58:44.0000000Z"
+    },
+    {
+      "id": "corriere:507cd41a2e24",
+      "sourceId": "corriere",
+      "source": "Corriere della Sera",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Toti a Spinelli: «Ti vengo a trovare prima delle elezioni. Ti chiedo un po’ di robe» Ecco le immagini degli incontri sullo yacht",
+      "url": "https://www.corriere.it/politica/24_maggio_13/toti-spinelli-elezioni-9eac3140-71d7-4523-b980-142b573d5xlk.shtml",
+      "image": "https://images2.corriereobjects.it/methode_image/2024/05/12/Politica/Foto%20Politica%20-%20Trattate/6641239ac04a3_ori_crop_MASTER__0x0.jpeg",
+      "summary": "Le parole del governatore ligure all'imprenditore: «Come al solito, di questi tempi» Spinelli a Signorini: «A 83 anni non mi possono fare niente»Le parole del governatore ligure all'imprenditore: «Come al solito, di q...",
+      "date": "2024-05-13T05:57:43.0000000Z"
+    },
+    {
+      "id": "corriere:83576b19e44c",
+      "sourceId": "corriere",
+      "source": "Corriere della Sera",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "L'Armata russa avanza verso Kharkiv. Zelensky ammette: «La situazione è estremamente difficile»",
+      "url": "https://www.corriere.it/esteri/24_maggio_12/l-armata-russa-avanza-su-kharkiv-zelensky-ammette-la-situazione-e-estremamente-difficile-bc3733e3-7546-4e70-82e1-50c89b09bxlk.shtml",
+      "image": "https://images2.corriereobjects.it/methode_image/2024/05/12/Esteri/Foto%20Esteri%20-%20Trattate/6641291584bff_ori_crop_MASTER__0x0.jpeg",
+      "summary": "La cittadina di Vovchansk è il prossimo obiettivo delle truppe del Cremlino. Mosca accusa: armi occidentali usate per colpire BelgorodLa cittadina di Vovchansk è il prossimo obiettivo delle truppe del Cremlino. Mosca ...",
+      "date": "2024-05-13T05:57:21.0000000Z"
+    },
+    {
+      "id": "corriere:d94e05b0edd9",
+      "sourceId": "corriere",
+      "source": "Corriere della Sera",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Camila Giorgi inseguita dal fisco: sotto la lente 6 milioni di euro di compensi (esclusi gli sponsor)",
+      "url": "https://roma.corriere.it/notizie/cronaca/24_maggio_13/camila-giorgi-sei-milioni-euro-762e96c0-95f4-449c-9dd7-a07ce9629xlk.shtml",
+      "image": "https://images2.corriereobjects.it/methode_image/2024/05/12/Roma/Foto%20Roma%20-%20Trattate/6640d414e8970.r_d.2452-915-0_ori_crop_MASTER__0x0.jpeg",
+      "summary": "Le sole certezze sono contenute nella cartella esattoriale che hanno portato il dipendente delegato dell’agenzia delle Entrate riscossione di Firenze, Paolo Bracciali, a notificarle un primo pignoramento il 26 giugno ...",
+      "date": "2024-05-13T05:21:14.0000000Z"
+    },
+    {
+      "id": "corriere:848e17090918",
+      "sourceId": "corriere",
+      "source": "Corriere della Sera",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "LE FOTO SULLO YACHT Le immagini degli incontri e i telefonini lasciati all’esterno per blindare i colloqui riservati",
+      "url": "https://www.corriere.it/cronache/24_maggio_12/toti-arrestato-gli-incontri-sullo-yacht-di-spinelli-e-i-telefonini-lasciati-all-esterno-per-blindare-i-colloqui-riservati-e99c3dad-0cea-46a5-9b3a-8e728c4c3xlk.shtml",
+      "image": "https://images2.corriereobjects.it/methode_image/2024/05/12/Interni/Foto%20Interni%20-%20Trattate/6640a315a43c4_ori_crop_MASTER__0x0.jpeg",
+      "summary": "Tra gli ospiti della barca, anche il sindaco di Genova Marco Bucci e il presidente dell'autorità portuale Paolo SignoriniTra gli ospiti della barca, anche il sindaco di Genova Marco Bucci e il presidente dell'autorità...",
+      "date": "2024-05-13T05:13:16.0000000Z"
+    },
+    {
+      "id": "corriere:8265443adb1f",
+      "sourceId": "corriere",
+      "source": "Corriere della Sera",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Accumulare allegramente debito  senza pensare a chi pagherà",
+      "url": "https://www.corriere.it/lettere-al-direttore/12-05-2024/index.shtml",
+      "image": "https://images2.corriereobjects.it/methode_image/2024/05/13/Varie/Foto%20Varie%20-%20Trattate/debito%20pubblico-kfnD-U43290917671022zu-656x492@Corriere-Web.jpg",
+      "summary": "",
+      "date": "2024-05-13T05:13:14.0000000Z"
+    },
+    {
+      "id": "corriere:50a902c70c04",
+      "sourceId": "corriere",
+      "source": "Corriere della Sera",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
+      "url": "https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml",
+      "image": "https://images2.corriereobjects.it/methode_image/Video/2024/05/11/Interni/Foto%20Interni%20-%20Trattate/QUADcodice-kX5F--656x492@Corriere-Web-Nazionale.jpg",
+      "summary": "",
+      "date": "2024-05-13T04:05:06.0000000Z"
+    },
+    {
+      "id": "corriere:341fab508fd0",
+      "sourceId": "corriere",
+      "source": "Corriere della Sera",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Superbonus, Forza Italia attacca: è scontro nella maggioranza. Scoppia il caso Sugar-tax Tajani: «Pronti a modifiche in Parlamento»",
+      "url": "https://www.corriere.it/economia/finanza/24_maggio_12/scontro-in-maggioranza-sul-superbonus-e-scoppia-il-caso-sugar-tax-89cd4861-5420-4a31-b0ab-9cee81bcfxlk.shtml",
+      "image": "https://images2.corriereobjects.it/methode_image/2024/05/12/Economia/Foto%20Economia%20-%20Trattate/62b7492d44d6b_ori_crop_MASTER__0x0.jpeg",
+      "summary": "Forza Italia attacca: noi sempre contrari alla retroattività e a nuove imposte. Lega: incomprensibili gli attacchi al governo da parte di Tajani, si chiarisca con Meloni. Associazioni e imprese contro la tassa sulle b...",
+      "date": "2024-05-12T20:30:50.0000000Z"
     }
   ]
 }
