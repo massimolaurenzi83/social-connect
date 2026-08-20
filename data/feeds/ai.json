@@ -1,7 +1,19 @@
 {
   "category": "ai",
-  "updated": "2026-08-20T14:19:27.1811756Z",
+  "updated": "2026-08-20T16:00:30.6432275Z",
   "items": [
+    {
+      "id": "ai4business:1a1428fab92c",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "OpenAI sospende parte dello sviluppo dei modelli più avanzati dopo il caso Astra",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/openai-sospende-parte-dello-sviluppo-dei-modelli-piu-avanzati-dopo-il-caso-astra/",
+      "image": null,
+      "summary": "L'azienda di ChatGPT introduce controlli più severi durante training e valutazione dei modelli AI. La revisione del Preparedness Framework, il monitoraggio token per token e l'overhead computazionale della sicurezza s...",
+      "date": "2026-08-20T14:27:39.0000000Z"
+    },
     {
       "id": "ai4business:50572e751a09",
       "sourceId": "ai4business",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "L’analisi dei dati del Politecnico di Milano mostra la transizione dell’AI advertising da pura teoria a pilastro operativo aziendale, analizzando l’impatto su pianificazione, delivery, misurazione e l’affermarsi della...",
       "date": "2026-08-12T07:00:00.0000000Z"
-    },
-    {
-      "id": "ai4business:936b5412b67f",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "OpenAI sospende Astra: allarme cybersicurezza per il nuovo modello",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/openai-sospende-astra-allarme-cybersicurezza-per-il-nuovo-modello/",
-      "image": null,
-      "summary": "Astra non ha ancora una data di rilascio, ma le sue capacità informatiche inducono OpenAI a rafforzare sandbox, monitoraggio e protezione dei pesi del modello, in un confronto sempre più acceso sulle soglie di rischio...",
-      "date": "2026-08-11T10:50:28.0000000Z"
     },
     {
       "id": "guerredirete:9bacc1d67bb3",

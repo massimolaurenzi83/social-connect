@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-08-20T14:19:27.2300895Z",
+  "updated": "2026-08-20T16:00:30.6512627Z",
   "items": [
+    {
+      "id": "hdmotori:564f61dff469",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Targhe polacche al capolinea, scatta l’obbligo dell’assicurazione italiana",
+      "url": "https://www.hdmotori.it/targhe-polacche-obbligo-assicurazione-italiana/",
+      "image": null,
+      "summary": "Il boom di targhe polacche in Italia, specialmente in Campania, sta per finire. L'Rc auto italiana diventerà obbligatoria The post Targhe polacche al capolinea, scatta l’obbligo dell’assicurazione italiana appeared fi...",
+      "date": "2026-08-20T15:00:45.0000000Z"
+    },
+    {
+      "id": "motor1:a4daf622403c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le previsioni del traffico per il weekend 22-23 agosto",
+      "url": "https://it.motor1.com/news/805563/previsioni-traffico-22-23-agosto-bollini/",
+      "image": "https://cdn.motor1.com/images/mgl/wl8YyL/s3/le-previsioni-del-traffico-per-il-weekend-22-23-agosto.jpg",
+      "summary": "Rientro verso le città critico sia sabato che domenica. Meteo in prevalenza stabile: ecco tutto quello da sapere",
+      "date": "2026-08-20T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:47e5ee762799",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto software-defined: perché le architetture zonali sono decisive",
+      "url": "https://insideevs.it/news/805549/architetture-zonali-auto-software-defined/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4P74/s3/auto-software-defined-perche-le-architetture-zonali-sono-decisive.jpg",
+      "summary": "La tecnologia dovrebbe entrare nella produzione di massa tra il 2027 e il 2030, diventando un fattore decisivo per la competitività",
+      "date": "2026-08-20T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:cc2010667e72",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Bugatti Veyron torna in vita con un restauro da paura",
+      "url": "https://it.motor1.com/news/805595/bugatti-veyron-restauro-motore/",
+      "image": "https://cdn.motor1.com/images/mgl/nAlJvj/s3/bugatti-la-maison-pur-sang-veyron-20-years.jpg",
+      "summary": "Grazie al programma La Maison Pur Sang, un cliente Bugatti ha restaurato la sua Veyron \"modernizzandola\" in diversi aspetti",
+      "date": "2026-08-20T14:30:00.0000000Z"
+    },
     {
       "id": "insideevs:552ec5938489",
       "sourceId": "insideevs",
@@ -171,18 +219,6 @@
       "date": "2026-08-20T10:00:52.0000000Z"
     },
     {
-      "id": "motor1:b84a573e8f41",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Al Salone di Torino 2026 ci siamo anche noi! Ecco cosa fare insieme",
-      "url": "https://it.motor1.com/news/803609/salone-torino-2026-attivita-motor1/",
-      "image": "https://cdn.motor1.com/images/mgl/40Y9j1/s3/salone-di-torino-2025.jpg",
-      "summary": "Quello di Motor1 è un calendario ricchissimo, tra novità assolute e grandi, attesi ritorni. Non potete mancare!",
-      "date": "2026-08-20T10:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:b690ec3c20ff",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -192,6 +228,18 @@
       "url": "https://insideevs.it/news/805564/ricarica-overhead-portland-20-auto/",
       "image": "https://cdn.motor1.com/images/mgl/xq36JG/s3/overhead-chargepoint-del-quick-turnaround-facility-all-aeroporto-di-portland-usa.jpg",
       "summary": "Nel Quick Turnaround Facility di Portland ChargePoint installa 10 charger da 200 kW overhead per elettrificare le flotte a noleggio in spazi saturi.",
+      "date": "2026-08-20T10:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:b84a573e8f41",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Al Salone di Torino 2026 ci siamo anche noi! Ecco cosa fare insieme",
+      "url": "https://it.motor1.com/news/803609/salone-torino-2026-attivita-motor1/",
+      "image": "https://cdn.motor1.com/images/mgl/40Y9j1/s3/salone-di-torino-2025.jpg",
+      "summary": "Quello di Motor1 è un calendario ricchissimo, tra novità assolute e grandi, attesi ritorni. Non potete mancare!",
       "date": "2026-08-20T10:00:00.0000000Z"
     },
     {
@@ -207,18 +255,6 @@
       "date": "2026-08-20T09:00:57.0000000Z"
     },
     {
-      "id": "motor1:eba5bcd74a77",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'americana che vuole stabilire il record al Nurburgring",
-      "url": "https://it.motor1.com/news/805551/czinger-21c-nurburgring-tentativo-record/",
-      "image": "https://cdn.motor1.com/images/mgl/rKJPvX/s3/czinger-21c-spyder.jpg",
-      "summary": "La californiana Czinger suggerisce che la sua 21C Spyder potrebbe presto scendere in pista in Germania. Supererà l'AMG One?",
-      "date": "2026-08-20T09:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:a3a8778b839d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -228,6 +264,18 @@
       "url": "https://insideevs.it/news/805555/tesla-model-y-autonomia-reale-test-edmunds/",
       "image": "https://cdn.motor1.com/images/mgl/G3Q6NA/s3/2027-tesla-model-y-l.jpg",
       "summary": "Il SUV elettrico supera di oltre 50 km la percorrenza dichiarata in una prova su strade americane",
+      "date": "2026-08-20T09:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:eba5bcd74a77",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'americana che vuole stabilire il record al Nurburgring",
+      "url": "https://it.motor1.com/news/805551/czinger-21c-nurburgring-tentativo-record/",
+      "image": "https://cdn.motor1.com/images/mgl/rKJPvX/s3/czinger-21c-spyder.jpg",
+      "summary": "La californiana Czinger suggerisce che la sua 21C Spyder potrebbe presto scendere in pista in Germania. Supererà l'AMG One?",
       "date": "2026-08-20T09:00:00.0000000Z"
     },
     {
@@ -339,18 +387,6 @@
       "date": "2026-08-20T05:52:39.0000000Z"
     },
     {
-      "id": "insideevs:8a7a3e1d4f6c",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "NIO cambia tutto e dice addio al battery swap",
-      "url": "https://insideevs.it/news/805403/nio-vende-stazioni-battery-swap/",
-      "image": "https://cdn.motor1.com/images/mgl/Oo0xRM/s3/nio-power-swap-station-4.0.jpg",
-      "summary": "La Casa vende le stazioni di sostituzione batteria a istituzioni ed enti pubblici. La ricarica fast è un'alternativa minacciosa",
-      "date": "2026-08-20T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:d3703b592be4",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -360,6 +396,18 @@
       "url": "https://it.motor1.com/news/805148/porsche-911-sportive-regina-vendite/",
       "image": "https://cdn.motor1.com/images/mgl/L3yZ8N/s3/la-porsche-911-continua-a-essere-la-regina-incontrastata-delle-sportive.jpg",
       "summary": "Le vendite di auto sportive in Europa è in calo, ma la Porsche 911 cresce ancora. Scopriamo i numeri",
+      "date": "2026-08-20T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:8a7a3e1d4f6c",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "NIO cambia tutto e dice addio al battery swap",
+      "url": "https://insideevs.it/news/805403/nio-vende-stazioni-battery-swap/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo0xRM/s3/nio-power-swap-station-4.0.jpg",
+      "summary": "La Casa vende le stazioni di sostituzione batteria a istituzioni ed enti pubblici. La ricarica fast è un'alternativa minacciosa",
       "date": "2026-08-20T05:00:00.0000000Z"
     },
     {
@@ -411,18 +459,6 @@
       "date": "2026-08-19T16:47:42.0000000Z"
     },
     {
-      "id": "hdmotori:9432967be287",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Torna lo straccia bollo, stop a sanzioni e interessi per chi regolarizza il bollo auto",
-      "url": "https://www.hdmotori.it/torna-straccia-bollo-stop-sanzioni-interessi/",
-      "image": null,
-      "summary": "La Regione Sicilia opta per una riapertura delle strada che conduce alla definizione agevolata dei tributi regionali. Con la pubblicazione della norma sulla Gazzetta Ufficiale della Regione del 14 agosto, ritorna quel...",
-      "date": "2026-08-19T16:00:22.0000000Z"
-    },
-    {
       "id": "insideevs:cd98c114f8c2",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -459,18 +495,6 @@
       "date": "2026-08-19T15:00:00.0000000Z"
     },
     {
-      "id": "motor1:75c074734bdb",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ho guidato il nuovo SUV di Mercedes-AMG. Fa impallidire i modelli EQ",
-      "url": "https://it.motor1.com/reviews/805487/mercedes-amg-suv-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/E6NJ9M/s3/mercedes-amg-gt-suv-prototype.jpg",
-      "summary": "Il prossimo modello Mercedes-AMG è un SUV elettrico, ma non è ciò che pensi",
-      "date": "2026-08-19T14:13:05.0000000Z"
-    },
-    {
       "id": "insideevs:2d43451cb6c1",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -505,30 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/BXYP8A/s3/tesla-fsd.jpg",
       "summary": "Tesla rimanda la questione HW3 da quasi due anni. Un proprietario si è stancato di aspettare e fa da solo",
       "date": "2026-08-19T06:59:25.0000000Z"
-    },
-    {
-      "id": "insideevs:ea81bacf1d1c",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tutte le Case cinesi vogliono produrre in Europa. Ecco perché",
-      "url": "https://insideevs.it/news/805282/case-cinesi-produzione-europa-elenco/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak4OGx/s3/renault---geely-ex5-brasil.jpg",
-      "summary": "Catene di approvvigionamento più corte, logistica semplificata ed esenzione dai dazi: sempre più auto cinesi saranno Made in UE",
-      "date": "2026-08-19T05:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:c018c015e4f3",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Telo antigrandine, come proteggere l'auto se non si ha un box",
-      "url": "https://it.motor1.com/features/678544/proteggere-auto-grandine-consigli/",
-      "image": "https://cdn.motor1.com/images/mgl/YAlnrq/s3/telo-antigrandine.jpg",
-      "summary": "Teli e coperte aiutano a riparare parabrezza e carrozzeria dalla grandine. Anche perché l’assicurazione può non bastare",
-      "date": "2023-07-25T15:20:00.0000000Z"
     }
   ]
 }
