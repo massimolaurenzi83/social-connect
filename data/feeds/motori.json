@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-08-20T08:08:37.8705330Z",
+  "updated": "2026-08-20T09:59:05.5419375Z",
   "items": [
+    {
+      "id": "hdmotori:888987cb48c0",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "FederPetroli lancia l’allarme gasolio, rischio fino a 3 euro al litro",
+      "url": "https://www.hdmotori.it/gasolio-3-euro-litro-allarme-prezzi-carburanti/",
+      "image": null,
+      "summary": "FederPetroli avverte: senza un cambio di rotta nello Stretto di Hormuz il gasolio rischia di toccare i 3 euro al litro. Brent e gas continuano a salire sui mercati The post FederPetroli lancia l’allarme gasolio, risch...",
+      "date": "2026-08-20T09:00:57.0000000Z"
+    },
+    {
+      "id": "insideevs:a3a8778b839d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Tesla a tre file è la Model Y con più autonomia reale",
+      "url": "https://insideevs.it/news/805555/tesla-model-y-autonomia-reale-test-edmunds/",
+      "image": "https://cdn.motor1.com/images/mgl/G3Q6NA/s3/2027-tesla-model-y-l.jpg",
+      "summary": "Il SUV elettrico supera di oltre 50 km la percorrenza dichiarata in una prova su strade americane",
+      "date": "2026-08-20T09:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:eba5bcd74a77",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'americana che vuole stabilire il record al Nurburgring",
+      "url": "https://it.motor1.com/news/805551/czinger-21c-nurburgring-tentativo-record/",
+      "image": "https://cdn.motor1.com/images/mgl/rKJPvX/s3/czinger-21c-spyder.jpg",
+      "summary": "La californiana Czinger suggerisce che la sua 21C Spyder potrebbe presto scendere in pista in Germania. Supererà l'AMG One?",
+      "date": "2026-08-20T09:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:a2b9d4300a1a",
       "sourceId": "hdmotori",
@@ -315,16 +351,16 @@
       "date": "2026-08-19T12:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:2121822eb3b4",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "motor1:d3fb4c896df4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Hyundai Tucson: la nuova generazione è più grande e spigolosa",
-      "url": "https://www.hdmotori.it/hyundai-tucson-nuova-generazione/",
-      "image": null,
-      "summary": "Le immagini della nuova Tucson, attesa in Europa nel 2027, offrono una visione completa del nuovo linguaggio stilistico di Hyundai. The post Hyundai Tucson: la nuova generazione è più grande e spigolosa appeared first...",
-      "date": "2026-08-19T11:00:25.0000000Z"
+      "title": "Porsche costruirà qualsiasi pezzo unico tu voglia, anche una Cayenne",
+      "url": "https://it.motor1.com/news/805425/porsche-esemplari-unici-quattro-porte/",
+      "image": "https://cdn.motor1.com/images/mgl/MkMyE6/s3/2009-cayenne-gts-restored-by-porsche.jpg",
+      "summary": "Non è solo la 911: Porsche dice a Motor1 che Sonderwunsch sta già lavorando a progetti personalizzati a quattro porte",
+      "date": "2026-08-19T11:00:00.0000000Z"
     },
     {
       "id": "insideevs:2d43451cb6c1",
@@ -336,18 +372,6 @@
       "url": "https://insideevs.it/reviews/805449/geely-ex5-2026-prova-anteprima/",
       "image": "https://cdn.motor1.com/images/mgl/y2l0KG/s3/geely-e5-2026-in-grau.jpg",
       "summary": "Il gruppo possiede già molti marchi noti, ora scende in campo con il proprio nome",
-      "date": "2026-08-19T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:d3fb4c896df4",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Porsche costruirà qualsiasi pezzo unico tu voglia, anche una Cayenne",
-      "url": "https://it.motor1.com/news/805425/porsche-esemplari-unici-quattro-porte/",
-      "image": "https://cdn.motor1.com/images/mgl/MkMyE6/s3/2009-cayenne-gts-restored-by-porsche.jpg",
-      "summary": "Non è solo la 911: Porsche dice a Motor1 che Sonderwunsch sta già lavorando a progetti personalizzati a quattro porte",
       "date": "2026-08-19T11:00:00.0000000Z"
     },
     {
@@ -423,18 +447,6 @@
       "date": "2026-08-19T05:00:00.0000000Z"
     },
     {
-      "id": "motor1:06eb2dc6b2c0",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mazda CX-5 mild hybrid (2026), la prova dei consumi reali",
-      "url": "https://it.motor1.com/reviews/805199/mazda-cx-5-mild-hybrid-2026-consumi/",
-      "image": "https://cdn.motor1.com/images/mgl/JONvmn/s3/mazda-cx-5-mild-hybrid-2026-la-prova-consumi.jpg",
-      "summary": "Il nuovo SUV giapponese sa essere molto comodo, con ottime dotazioni e ben fatto, ma l'efficienza è migliorabile",
-      "date": "2026-08-19T05:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:38223c9645b7",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/6Ze3lX/s3/2026-tesla-model-y-premium-rwd.jpg",
       "summary": "Nel SUV elettrico Tesla Model Y la batteria alimenta solo prese 12 V e porte USB, senza funzione vehicle-to-load o prese 230 V integrate.",
       "date": "2026-08-18T09:03:31.0000000Z"
-    },
-    {
-      "id": "insideevs:636500c5ee73",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "YASA sviluppa motori a flusso assiale senza terre rare",
-      "url": "https://insideevs.it/news/805265/yasa-motori-flusso-assiale-senza-terre-rare/",
-      "image": "https://cdn.motor1.com/images/mgl/8A38Jo/s3/yasa-axialflussmotor-fur-ein-ferrari-hybridfahrzeug.jpg",
-      "summary": "La consociata di Mercedes YASA studia due motori a flusso assiale: uno senza terre rare pesanti e uno completamente privo di terre rare",
-      "date": "2026-08-18T07:24:19.0000000Z"
     },
     {
       "id": "motor1:c018c015e4f3",
