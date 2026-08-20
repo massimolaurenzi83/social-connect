@@ -1,6 +1,6 @@
 {
   "category": "energia",
-  "updated": "2026-08-20T11:04:12.1742841Z",
+  "updated": "2026-08-20T12:02:15.8234898Z",
   "items": [
     {
       "id": "qualenergia:b48c8469d018",
@@ -75,6 +75,18 @@
       "date": "2026-08-20T06:55:01.0000000Z"
     },
     {
+      "id": "qualenergia:ed359064492d",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "LA FORMAZIONE ENERGETICA IN ITALIA",
+      "url": "https://www.qualenergia.it/pro/documenti/formazione-energetica-in-italia/",
+      "image": null,
+      "summary": "Corsi universitari, master, ITS Academy, stage, seminari di formazione a vari livelli su tematiche energetiche, fonti rinnovabili, efficienza energetica e mobilità elettrica. Destinatari: studenti diplomati, universit...",
+      "date": "2026-08-20T05:15:30.0000000Z"
+    },
+    {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "La transizione energetica non è più un’opzione, ma una necessità. Il futuro si costruisce oggi, con scelte coraggiose, innovazione e collaborazione. KEY – The Energy Transition Expo non è solo un evento, è un moviment...",
       "date": "2026-08-18T04:00:53.0000000Z"
-    },
-    {
-      "id": "qualenergia:48f4614e1eba",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "11° Forum Italia Solare 2026",
-      "url": "https://www.qualenergia.it/eventi/11-forum-italia-solare-2026/",
-      "image": null,
-      "summary": "c/o Lifestyle Hotel – Via Giorgio Zoega, 59 (Roma) L’11° Solar Forum Italia Solare rappresenta un passaggio strategico per l’Associazione e per l’intero settore. Questa evoluzione riguarda tutti i segmenti di mercato....",
-      "date": "2026-08-18T04:00:47.0000000Z"
     }
   ]
 }

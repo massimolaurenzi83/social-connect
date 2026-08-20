@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-20T11:04:12.1725580Z",
+  "updated": "2026-08-20T12:02:15.8569308Z",
   "items": [
+    {
+      "id": "hdmotori:f3e256fd1877",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mal d’auto, sulle elettriche può essere peggio: cosa manda in tilt il cervello",
+      "url": "https://www.hdmotori.it/nausea-auto-elettriche-motivi/",
+      "image": null,
+      "summary": "Silenzio, accelerazioni immediate e frenata rigenerativa possono aumentare la sensazione di nausea a bordo delle auto elettriche The post Mal d’auto, sulle elettriche può essere peggio: cosa manda in tilt il cervello ...",
+      "date": "2026-08-20T12:00:21.0000000Z"
+    },
+    {
+      "id": "motor1:b8a6c16d3d9c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questo camper con letto trasversale e basculante si fa notare",
+      "url": "https://it.motor1.com/news/805578/benimar-tessoro-storm-line-t443-camper/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4WLp/s3/benimar-tessoro-storm-line-2026.jpg",
+      "summary": "Il nuovo Benimar Tessoro Storm Lin ha un look grintoso, una pianta compatta con letto trasversale",
+      "date": "2026-08-20T12:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:3e870a3d1d79",
       "sourceId": "hdmotori",
@@ -13,6 +37,30 @@
       "image": null,
       "summary": "Le promozioni su Pandina e 500 Hybrid prevedono importanti sconti sul prezzo di listino, ma non per tutti. Ecco quali sono le condizioni. The post Fiat Pandina e 500: fino a 6000 euro di sconto ad agosto, ma a queste ...",
       "date": "2026-08-20T11:00:51.0000000Z"
+    },
+    {
+      "id": "insideevs:b0073dbefe3d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Tesla Semi arriva in Europa: ecco il teaser e dove debutta",
+      "url": "https://insideevs.it/news/805561/tesla-semi-europa-iaa-hannover/",
+      "image": "https://cdn.motor1.com/images/mgl/VzWQAL/s3/2026-tesla-semi.jpg",
+      "summary": "Il camion elettrico di Elon Musk e soci esordirà all'IAA di Hannover a metà settembre, quando saranno svelate anche le specifiche",
+      "date": "2026-08-20T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:cc137def385f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Mercedes Classe A potrebbe trasformarsi in un crossover",
+      "url": "https://it.motor1.com/news/805131/mercedes-classe-a-2028-render/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo9VwL/s3/mercedes-classe-a-2028-il-render-di-motor1.com.jpg",
+      "summary": "Il nuovo modello atteso nel 2028 potrebbe riprendere lo stile delle prime generazioni. Ecco cosa sappiamo",
+      "date": "2026-08-20T11:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:5eaa790b9461",
@@ -363,18 +411,6 @@
       "date": "2026-08-19T14:13:05.0000000Z"
     },
     {
-      "id": "hdmotori:90b03168f32f",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Can-Am Traxter Prerunner: il concept 6×6 per l’assistenza nei rally raid",
-      "url": "https://www.hdmotori.it/can-am-traxter-prerunner-concept-6x6-rally-raid/",
-      "image": null,
-      "summary": "BRP crea il Can-Am Traxter Prerunner: un 6x6 da assistenza remota con motore Rotax, 6WD inseribile e sedili Sparco per sfidare il deserto e la Dakar. The post Can-Am Traxter Prerunner: il concept 6×6 per l’assistenza ...",
-      "date": "2026-08-19T14:00:56.0000000Z"
-    },
-    {
       "id": "motor1:ebffd345e4f3",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -385,18 +421,6 @@
       "image": "https://cdn.motor1.com/images/mgl/VzBAAK/s3/volvo-ex30-2026.jpg",
       "summary": "Dal 2028 gli impianti europei Volvo potrebbero assemblare modelli Geely, Zeekr e Lynk & CO per ridurre costi e impatto dei dazi UE.",
       "date": "2026-08-19T12:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:d3fb4c896df4",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Porsche costruirà qualsiasi pezzo unico tu voglia, anche una Cayenne",
-      "url": "https://it.motor1.com/news/805425/porsche-esemplari-unici-quattro-porte/",
-      "image": "https://cdn.motor1.com/images/mgl/MkMyE6/s3/2009-cayenne-gts-restored-by-porsche.jpg",
-      "summary": "Non è solo la 911: Porsche dice a Motor1 che Sonderwunsch sta già lavorando a progetti personalizzati a quattro porte",
-      "date": "2026-08-19T11:00:00.0000000Z"
     },
     {
       "id": "insideevs:2d43451cb6c1",
@@ -411,6 +435,18 @@
       "date": "2026-08-19T11:00:00.0000000Z"
     },
     {
+      "id": "motor1:d3fb4c896df4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Porsche costruirà qualsiasi pezzo unico tu voglia, anche una Cayenne",
+      "url": "https://it.motor1.com/news/805425/porsche-esemplari-unici-quattro-porte/",
+      "image": "https://cdn.motor1.com/images/mgl/MkMyE6/s3/2009-cayenne-gts-restored-by-porsche.jpg",
+      "summary": "Non è solo la 911: Porsche dice a Motor1 che Sonderwunsch sta già lavorando a progetti personalizzati a quattro porte",
+      "date": "2026-08-19T11:00:00.0000000Z"
+    },
+    {
       "id": "insideevs:3f4a11b6d6ac",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -421,30 +457,6 @@
       "image": "https://cdn.motor1.com/images/mgl/1Zwb9q/s3/audi-e5-sportback.jpg",
       "summary": "Audi si è data molto da fare per tenere i modelli AUDI E5 ed E7X cinesi fuori dall’Europa. Una società terza li sta comunque importando",
       "date": "2026-08-19T09:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:bdbce9a84896",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Skoda coi sedili posteriori massaggianti",
-      "url": "https://it.motor1.com/news/805391/skoda-slavia-nuova-india/",
-      "image": "https://cdn.motor1.com/images/mgl/0eg1lV/s3/skoda-slavia-per-il-mercato-indiano.jpg",
-      "summary": "Debutta l'aggiornamento della Slavia, berlina venduta in India con motori a benzina e un nuovo cambio automatico a 8 marce",
-      "date": "2026-08-19T08:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:94d668ecac30",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Hyundai Tucson è davvero squadrata",
-      "url": "https://it.motor1.com/news/805392/nuova-hyundai-tucson-prime-foto/",
-      "image": "https://cdn.motor1.com/images/mgl/zxJPZL/s3/2027-hyundai-tucson.jpg",
-      "summary": "Prime foto ufficiali per la nuova Tucson, che arriverà in Europa nel 2027. Cambia completamente nello stile e arriva a 4,70 m",
-      "date": "2026-08-19T07:05:00.0000000Z"
     },
     {
       "id": "insideevs:85370552325d",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/XBz1Ov/s3/geely-promette-batterie-500-wh-kg-1.000-km-dal-2027.jpg",
       "summary": "Nel piano industriale Geely il 2027 segna l’avvio di piccole serie solide ad alta densità, con oltre 1.000 km dichiarati ma volumi ancora limitati.",
       "date": "2026-08-18T13:19:19.0000000Z"
-    },
-    {
-      "id": "insideevs:3aa7ca72a9dc",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Rottamare l’auto a benzina per un’EV aiuta il clima",
-      "url": "https://insideevs.it/news/805264/auto-benzina-ev-clima/",
-      "image": "https://cdn.motor1.com/images/mgl/Rqke0w/s3/rivian-r2-charging.jpg",
-      "summary": "Un recente studio dice che sostituire un veicolo con motore a combustione interna con un nuovo veicolo elettrico sia meglio per il clima",
-      "date": "2026-08-18T11:00:00.0000000Z"
     },
     {
       "id": "motor1:c018c015e4f3",
