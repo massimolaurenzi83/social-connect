@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-20T06:04:53.1484132Z",
+  "updated": "2026-08-20T08:08:37.8190067Z",
   "items": [
+    {
+      "id": "cybersecurity360:e5615b5c8959",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Sanità sotto attacco: il ritorno a bit e carta, quasi una battaglia di altri tempi. Il caso Bulgaria",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/sanita-sotto-attacco-il-ritorno-a-bit-e-carta-quasi-una-battaglia-di-altri-tempi-il-caso-bulgaria/",
+      "image": null,
+      "summary": "I medici degli ospedali, quando il cyber attacco alla sanità in Bulgaria ha costretto a mettere offline cento ospedali, hanno reagito creando soluzioni alternative per proteggere i pazienti fino al ripristino del serv...",
+      "date": "2026-08-20T08:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:c6f6863b6c38",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Zero Trust nei sistemi OT: dalla teoria all’applicazione, ecco le 5 aree di rischio prioritarie",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/zero-trust-nei-sistemi-ot-dalla-teoria-allapplicazione-ecco-le-5-aree-di-rischio-prioritarie/",
+      "image": null,
+      "summary": "L'applicazione agli ambienti di Operational Technology non è affatto immediata. Partendo da un caso applicativo nel settore elettrico, ecco un approccio mission-focused all’adozione dello Zero Trust nell'ambito OT, ne...",
+      "date": "2026-08-20T07:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:779ddc339fd2",
       "sourceId": "cybersecurity360",
@@ -11,7 +35,7 @@
       "title": "Quanto è davvero hacker il nuovo GLM-5.3 open weight della Z.ai",
       "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/quanto-e-davvero-hacker-il-nuovo-glm-5-3-open-weight-della-z-ai/",
       "image": null,
-      "summary": "L'azienda cinese ha rilasciato il nuovo modello dichiarando forti capacità nel coding e nella cyber security . Ma si è preso due settimane per renderlo eseguibile anche su infrastrutture di terzi. Proviamo a scoprire ...",
+      "summary": "L'azienda cinese ha reso pubblico il nuovo modello dichiarando forti capacità nel coding e nella cyber security . Ma si è preso due settimane per renderne disponibile il download dei pesi. Proviamo a scoprire quali so...",
       "date": "2026-08-19T13:04:30.0000000Z"
     },
     {
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Ogni prospettiva descrive un livello di una catena d'attacco. Da sola, nessuna la descrive tutta. Ma il modello ibrido nasce dalla consapevolezza: non elimina i metodi esistenti, ma li collega. Ecco perché nella gesti...",
       "date": "2026-08-18T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:af207a96e2c2",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Attacchi informatici: le nuove strategie tra infiltrazione fisica e IA",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/attacchi-informatici-le-nuove-strategie-tra-infiltrazione-fisica-e-ia/",
-      "image": null,
-      "summary": "Un’analisi approfondita sulle nuove frontiere del crimine informatico mostra come le truffe e gli attacchi odierni uniscano infiltrazioni fisiche in ufficio, manipolazioni psicologiche tramite clonazione vocale e l'us...",
-      "date": "2026-08-17T10:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:b780d6af7544",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Dati personali al sicuro dall’IA delle Big Tech: come la crittografia end-to-end di Proton Drive protegge il cloud storage",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/proton-drive-cloud-storage-crittografia-end-to-end/",
-      "image": null,
-      "summary": "L’offerta speciale porta 200 GB di cloud crittografato end-to-end a 1 euro per il primo mese. Sono disponibili anche formule annuali e Proton Unlimited, con Drive, Docs, Sheets, Mail, VPN e Pass L'articolo Dati person...",
-      "date": "2026-08-17T09:33:00.0000000Z"
     }
   ]
 }

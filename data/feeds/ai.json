@@ -1,7 +1,19 @@
 {
   "category": "ai",
-  "updated": "2026-08-20T06:04:53.1475269Z",
+  "updated": "2026-08-20T08:08:37.8679700Z",
   "items": [
+    {
+      "id": "ai4business:50572e751a09",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Cybersicurezza e AI: cosa prevede il piano UE",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/cybersicurezza-e-ai-cosa-prevede-il-piano-ue/",
+      "image": null,
+      "summary": "Nessuna nuova legge ma l'attuazione del quadro esistente, con misure su accesso ai modelli di frontiera, sperimentazione e resilienza. Sullo sfondo resta la dipendenza da capacità sviluppate fuori dall'UE, mentre per ...",
+      "date": "2026-08-20T07:00:00.0000000Z"
+    },
     {
       "id": "ai4business:6ee9e7e4b8c4",
       "sourceId": "ai4business",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Astra non ha ancora una data di rilascio, ma le sue capacità informatiche inducono OpenAI a rafforzare sandbox, monitoraggio e protezione dei pesi del modello, in un confronto sempre più acceso sulle soglie di rischio...",
       "date": "2026-08-11T10:50:28.0000000Z"
-    },
-    {
-      "id": "ai4business:cfecf61e8cd4",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "OpenAI amplia Daybreak e lancia GPT-5.6-Cyber",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/openai-amplia-daybreak-e-lancia-gpt-5-6-cyber/",
-      "image": null,
-      "summary": "Si tratta di un modello specializzato nella ricerca di vulnerabilità e nello sviluppo di exploit per operatori autorizzati. Il progetto promette di accelerare la difesa informatica, ma arriva dopo il caso Hugging Face...",
-      "date": "2026-08-11T10:18:56.0000000Z"
     }
   ]
 }
