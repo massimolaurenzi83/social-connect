@@ -1,18 +1,30 @@
 {
   "category": "notizie",
-  "updated": "2026-08-20T19:07:01.5252631Z",
+  "updated": "2026-08-20T19:44:48.6996017Z",
   "items": [
     {
-      "id": "open:2f757f62a893",
+      "id": "ansa:a33041daa5a9",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Terremoto di magnitudo 6.7 in Perù",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/terremoto-di-magnitudo-6.7-in-peru_9ea1c7d2-cf64-47e0-acc1-87fc9fc4af7c.html",
+      "image": null,
+      "summary": "Epicentro a nordovest della cittadina di Upahuacho",
+      "date": "2026-08-20T19:32:07.0000000Z"
+    },
+    {
+      "id": "open:8ecb056d2c2c",
       "sourceId": "open",
       "source": "Open",
       "platform": "rss",
       "category": "notizie",
-      "title": "Terremoto in Perù, forte scossa di magnitudo 7.2: i distacchi alle rocce e i danni alle case – Il video",
-      "url": "https://www.open.online/2026/08/20/terremoto-peru-magnitudo-video/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/terremoto-peru.jpg",
-      "summary": "La Direzione Idrografica e di Navigazione della Marina peruviana ha escluso il rischio di tsunami lungo la costa del Paese L'articolo Terremoto in Perù, forte scossa di magnitudo 7.2: i distacchi alle rocce e i danni ...",
-      "date": "2026-08-20T19:01:06.0000000Z"
+      "title": "Migranti, il fronte europeo si spacca: Francia e Spagna dicono no ai rimpatri in Italia dei «dublinanti»",
+      "url": "https://www.open.online/2026/08/20/dublinanti-francia-spagna-bloccano-trasferimento-migranti/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/Dublinanti-il-fronte-europeo-si-spacca-Francia-e-Spagna-dicono-no-ai-rimpatri-dei-migranti-in-Italia-scaled.jpg",
+      "summary": "Parigi preferisce mantenere la collaborazione con Roma, mentre Madrid punta sui meccanismi di solidarietà previsti dal nuovo Patto Ue. Germania, Austria, Svizzera, Finlandia e Svezia hanno invece già riattivato le pro...",
+      "date": "2026-08-20T19:26:29.0000000Z"
     },
     {
       "id": "ansa:54a6fb8b46e2",
@@ -24,7 +36,43 @@
       "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/anche-la-svezia-trasferisce-i-migranti-in-italia-spagna-e-francia-no_f3081cbe-5518-4036-8bb9-84bc7317e174.html",
       "image": null,
       "summary": "Parigi frena: 'Puntiamo a bloccare le partenze'. Schlein e Conte: 'Boomerang per Meloni'",
-      "date": "2026-08-20T18:41:19.0000000Z"
+      "date": "2026-08-20T19:12:52.0000000Z"
+    },
+    {
+      "id": "ansa:122dc14cedf9",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Allerta meteo, fulmine manda in tilt la stazione di Ventimiglia",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/allerta-arancione-per-maltempo-in-veneto-e-liguria-il-caldo-non-allenta-la-morsa_c3619ca5-9061-4188-a414-b72c05338bad.html",
+      "image": null,
+      "summary": "Temporali al nord, il caldo non allenta la morsa nel centro-sud e tra over 85 fa più morti",
+      "date": "2026-08-20T19:06:39.0000000Z"
+    },
+    {
+      "id": "open:2f757f62a893",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Terremoto in Perù, forte scossa di magnitudo 7.2: i distacchi di rocce e i danni alle case – Il video",
+      "url": "https://www.open.online/2026/08/20/terremoto-peru-magnitudo-video/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/terremoto-peru.jpg",
+      "summary": "La Direzione Idrografica e di Navigazione della Marina peruviana ha escluso il rischio di tsunami lungo la costa del Paese L'articolo Terremoto in Perù, forte scossa di magnitudo 7.2: i distacchi di rocce e i danni al...",
+      "date": "2026-08-20T19:01:06.0000000Z"
+    },
+    {
+      "id": "ansa:fd8d361f362d",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il cda di Mps approva le offerte di scambio per Bpm e Banca Generali",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/08/20/iniziato-il-cda-di-mps-sul-tavolo-le-offerte-per-bpm-e-banca-generali_56e45912-721e-4db6-8006-04d4bc02cd39.html",
+      "image": null,
+      "summary": "Il piano di Lovaglio per cercare di resistere all'opas di Intesa. Mps proporrà un dividendo straordinario da 4 miliardi",
+      "date": "2026-08-20T18:50:14.0000000Z"
     },
     {
       "id": "open:14142dace420",
@@ -75,18 +123,6 @@
       "date": "2026-08-20T18:16:19.0000000Z"
     },
     {
-      "id": "ansa:fd8d361f362d",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Il cda di Mps approva le offerte di scambio per Bpm e Banca Generali",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/08/20/iniziato-il-cda-di-mps-sul-tavolo-le-offerte-per-bpm-e-banca-generali_56e45912-721e-4db6-8006-04d4bc02cd39.html",
-      "image": null,
-      "summary": "Il piano di Lovaglio per cercare di resistere all'opas di Intesa. Mps proporrà un dividendo straordinario da 4 miliardi",
-      "date": "2026-08-20T18:11:47.0000000Z"
-    },
-    {
       "id": "open:58dc65a43311",
       "sourceId": "open",
       "source": "Open",
@@ -109,30 +145,6 @@
       "image": null,
       "summary": "Il giornalista ad Asiago: 'Quando nel 2000 chiesero di licenziarmi Zaccaria mi difese'",
       "date": "2026-08-20T18:08:18.0000000Z"
-    },
-    {
-      "id": "ansa:b67c0375ae6f",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La benzina in città schizza sopra i 2 euro, ai massimi dal 2023",
-      "url": "https://www.ansa.it/canale_motori/notizie/mondo_motori/2026/08/20/la-benzina-in-citta-schizza-sopra-i-2-euro-ai-massimi-dal-2023_e898f866-e27a-49cc-8dca-e33e0cce87de.html",
-      "image": null,
-      "summary": "Consumatori: \"Il governo non ha più scuse, tagli subito le accise anche sulla verde\"",
-      "date": "2026-08-20T18:08:16.0000000Z"
-    },
-    {
-      "id": "ansa:122dc14cedf9",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Allerta meteo, fulmine manda in tilt la stazione di Ventimiglia",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/allerta-arancione-per-maltempo-in-veneto-e-liguria-il-caldo-non-allenta-la-morsa_c3619ca5-9061-4188-a414-b72c05338bad.html",
-      "image": null,
-      "summary": "Temporali al nord, il caldo non allenta la morsa nel centro-sud e tra over 85 fa più morti",
-      "date": "2026-08-20T18:02:05.0000000Z"
     },
     {
       "id": "ansa:def884173d25",
@@ -393,18 +405,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/mps-lovaglio.jpg",
       "summary": "L'amministratore delegato Luigi Lovaglio presenta al CdA una strategia difensiva contro l'Opas di Intesa Sanpaolo. I piani prevedono un'Ops su Banco Bpm e uno scambio con Generali per rilevare Banca Generali, ma entra...",
       "date": "2026-08-20T15:32:33.0000000Z"
-    },
-    {
-      "id": "open:462da4994c7a",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Texas, il drone Amazon fa cadere il pacco nella piscina di casa: la caduta diventa virale – Il video",
-      "url": "https://www.open.online/2026/08/20/pacco-amazon-caduto-piscina-drone-video/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/drone-amazon-pacco-piscina.jpg",
-      "summary": "La disavventura di una cittadina di Richmond, in Texas. Ha ricevuto l'avviso della consegna speciale ma qualcosa è andato storto L'articolo Texas, il drone Amazon fa cadere il pacco nella piscina di casa: la caduta di...",
-      "date": "2026-08-20T15:29:01.0000000Z"
     },
     {
       "id": "skytg24:cX9gwK5EEqM",
