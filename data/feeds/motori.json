@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-21T20:59:21.7790727Z",
+  "updated": "2026-08-21T21:33:25.7356454Z",
   "items": [
+    {
+      "id": "vaielettrico:0ad0cf0eefff",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Apertura d’emergenza: maxi richiamo in Cina per 4,2 milioni di auto",
+      "url": "https://www.vaielettrico.it/apertura-demergenza-maxi-richiamo-in-cina-per-42-milioni-di-auto/",
+      "image": null,
+      "summary": "Tesla, Xiaomi e altri nove costruttori sono coinvolti nel più grande richiamo automobilistico mai registrato in Cina. Oltre… L'articolo Apertura d’emergenza: maxi richiamo in Cina per 4,2 milioni di auto proviene da V...",
+      "date": "2026-08-21T21:24:18.0000000Z"
+    },
     {
       "id": "vaielettrico:479bafca0986",
       "sourceId": "vaielettrico",
@@ -171,18 +183,6 @@
       "date": "2026-08-21T13:12:24.0000000Z"
     },
     {
-      "id": "insideevs:1d2af046ec51",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla: FSD v15 è la svolta? Optimus slitta al 2027",
-      "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
-      "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
-      "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
-      "date": "2026-08-21T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:5ab500bc4912",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -192,6 +192,18 @@
       "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
       "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
       "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
+      "date": "2026-08-21T13:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:1d2af046ec51",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla: FSD v15 è la svolta? Optimus slitta al 2027",
+      "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
+      "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
+      "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
       "date": "2026-08-21T13:00:00.0000000Z"
     },
     {
@@ -231,18 +243,6 @@
       "date": "2026-08-21T11:30:35.0000000Z"
     },
     {
-      "id": "motor1:38b9224f8604",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Keyless-Go, quasi metà delle auto è ancora vulnerabile",
-      "url": "https://it.motor1.com/features/805416/auto-keyless-vulnerabile-ladri/",
-      "image": "https://cdn.motor1.com/images/mgl/mMzyOv/s3/keyless-go-e-furti-d-auto-i-test-adac.jpg",
-      "summary": "L’ADAC invita gli automobilisti a verificare la presenza della tecnologia UWB prima di comprare un’auto dotata di apertura senza chiave",
-      "date": "2026-08-21T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:7b7bde363fe8",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -252,6 +252,18 @@
       "url": "https://insideevs.it/news/805611/ricarica-bidirezionale-v2g-funziona-oggi/",
       "image": "https://cdn.motor1.com/images/mgl/lEGgAl/s3/ricarica-bidirezionale-v2g.jpg",
       "summary": "Tra progetti pilota ENEA Terna e obbligo EN ISO 15118-20 dal 2027, il V2G resta legato a offerte chiuse e poche combinazioni compatibili.",
+      "date": "2026-08-21T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:38b9224f8604",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Keyless-Go, quasi metà delle auto è ancora vulnerabile",
+      "url": "https://it.motor1.com/features/805416/auto-keyless-vulnerabile-ladri/",
+      "image": "https://cdn.motor1.com/images/mgl/mMzyOv/s3/keyless-go-e-furti-d-auto-i-test-adac.jpg",
+      "summary": "L’ADAC invita gli automobilisti a verificare la presenza della tecnologia UWB prima di comprare un’auto dotata di apertura senza chiave",
       "date": "2026-08-21T11:00:00.0000000Z"
     },
     {
@@ -445,18 +457,6 @@
       "image": null,
       "summary": "Consip con la pubblicazione dell’avviso di preinformazione dell’accordo quadro “Vetture in Noleggio”, dedicato alle proposte degli operatori commerciali,… L'articolo Flotte della PA: tre gare Consip per 2.430 veicoli ...",
       "date": "2026-08-20T18:00:16.0000000Z"
-    },
-    {
-      "id": "vaielettrico:c79d24793d8d",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "A Londra si muore e ci si ammala meno: effetto ULEZ sulla salute dei bambini",
-      "url": "https://www.vaielettrico.it/a-londra-si-muore-e-ci-si-ammala-meno-effetto-ulez-sulla-salute-dei-bambini/",
-      "image": null,
-      "summary": "A Londra l’introduzione e l’estensione della Ultra Low Emission Zone (ULEZ) sembra aver ridotto in modo significativo l’inquinamento… L'articolo A Londra si muore e ci si ammala meno: effetto ULEZ sulla salute dei bam...",
-      "date": "2026-08-20T17:45:31.0000000Z"
     },
     {
       "id": "insideevs:47e5ee762799",
