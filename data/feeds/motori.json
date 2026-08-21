@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-21T04:43:15.0608974Z",
+  "updated": "2026-08-21T05:18:07.8877965Z",
   "items": [
+    {
+      "id": "insideevs:62bcfe4c521d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'auto elettrica fa bene alla salute (anche dei bambini). Lo studio",
+      "url": "https://insideevs.it/news/805562/blocco-trffico-londra-riduzione-inuinanti/",
+      "image": "https://cdn.motor1.com/images/mgl/lEqzvE/s3/un-bus-nel-centro-di-londra.jpg",
+      "summary": "Ricercatori britannici dimostrano che ridurre l'inquinamento da auto termiche a Londra rende i bimbi più sani",
+      "date": "2026-08-21T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:a0306282013e",
       "sourceId": "vaielettrico",
@@ -267,18 +279,6 @@
       "date": "2026-08-20T11:00:51.0000000Z"
     },
     {
-      "id": "insideevs:b0073dbefe3d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Tesla Semi arriva in Europa: ecco il teaser e dove debutta",
-      "url": "https://insideevs.it/news/805561/tesla-semi-europa-iaa-hannover/",
-      "image": "https://cdn.motor1.com/images/mgl/VzWQAL/s3/2026-tesla-semi.jpg",
-      "summary": "Il camion elettrico di Elon Musk e soci esordirà all'IAA di Hannover a metà settembre, quando saranno svelate anche le specifiche",
-      "date": "2026-08-20T11:00:00.0000000Z"
-    },
-    {
       "id": "motor1:cc137def385f",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -288,6 +288,18 @@
       "url": "https://it.motor1.com/news/805131/mercedes-classe-a-2028-render/",
       "image": "https://cdn.motor1.com/images/mgl/Oo9VwL/s3/mercedes-classe-a-2028-il-render-di-motor1.com.jpg",
       "summary": "Il nuovo modello atteso nel 2028 potrebbe riprendere lo stile delle prime generazioni. Ecco cosa sappiamo",
+      "date": "2026-08-20T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:b0073dbefe3d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Tesla Semi arriva in Europa: ecco il teaser e dove debutta",
+      "url": "https://insideevs.it/news/805561/tesla-semi-europa-iaa-hannover/",
+      "image": "https://cdn.motor1.com/images/mgl/VzWQAL/s3/2026-tesla-semi.jpg",
+      "summary": "Il camion elettrico di Elon Musk e soci esordirà all'IAA di Hannover a metà settembre, quando saranno svelate anche le specifiche",
       "date": "2026-08-20T11:00:00.0000000Z"
     },
     {
@@ -315,18 +327,6 @@
       "date": "2026-08-20T10:00:52.0000000Z"
     },
     {
-      "id": "motor1:b84a573e8f41",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Al Salone di Torino 2026 ci siamo anche noi! Ecco cosa fare insieme",
-      "url": "https://it.motor1.com/news/803609/salone-torino-2026-attivita-motor1/",
-      "image": "https://cdn.motor1.com/images/mgl/40Y9j1/s3/salone-di-torino-2025.jpg",
-      "summary": "Quello di Motor1 è un calendario ricchissimo, tra novità assolute e grandi, attesi ritorni. Non potete mancare!",
-      "date": "2026-08-20T10:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:b690ec3c20ff",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -336,6 +336,18 @@
       "url": "https://insideevs.it/news/805564/ricarica-overhead-portland-20-auto/",
       "image": "https://cdn.motor1.com/images/mgl/xq36JG/s3/overhead-chargepoint-del-quick-turnaround-facility-all-aeroporto-di-portland-usa.jpg",
       "summary": "Nel Quick Turnaround Facility di Portland ChargePoint installa 10 charger da 200 kW overhead per elettrificare le flotte a noleggio in spazi saturi.",
+      "date": "2026-08-20T10:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:b84a573e8f41",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Al Salone di Torino 2026 ci siamo anche noi! Ecco cosa fare insieme",
+      "url": "https://it.motor1.com/news/803609/salone-torino-2026-attivita-motor1/",
+      "image": "https://cdn.motor1.com/images/mgl/40Y9j1/s3/salone-di-torino-2025.jpg",
+      "summary": "Quello di Motor1 è un calendario ricchissimo, tra novità assolute e grandi, attesi ritorni. Non potete mancare!",
       "date": "2026-08-20T10:00:00.0000000Z"
     },
     {
@@ -351,18 +363,6 @@
       "date": "2026-08-20T09:00:57.0000000Z"
     },
     {
-      "id": "insideevs:a3a8778b839d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Tesla a tre file è la Model Y con più autonomia reale",
-      "url": "https://insideevs.it/news/805555/tesla-model-y-autonomia-reale-test-edmunds/",
-      "image": "https://cdn.motor1.com/images/mgl/G3Q6NA/s3/2027-tesla-model-y-l.jpg",
-      "summary": "Il SUV elettrico supera di oltre 50 km la percorrenza dichiarata in una prova su strade americane",
-      "date": "2026-08-20T09:00:00.0000000Z"
-    },
-    {
       "id": "motor1:eba5bcd74a77",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -372,6 +372,18 @@
       "url": "https://it.motor1.com/news/805551/czinger-21c-nurburgring-tentativo-record/",
       "image": "https://cdn.motor1.com/images/mgl/rKJPvX/s3/czinger-21c-spyder.jpg",
       "summary": "La californiana Czinger suggerisce che la sua 21C Spyder potrebbe presto scendere in pista in Germania. Supererà l'AMG One?",
+      "date": "2026-08-20T09:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:a3a8778b839d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Tesla a tre file è la Model Y con più autonomia reale",
+      "url": "https://insideevs.it/news/805555/tesla-model-y-autonomia-reale-test-edmunds/",
+      "image": "https://cdn.motor1.com/images/mgl/G3Q6NA/s3/2027-tesla-model-y-l.jpg",
+      "summary": "Il SUV elettrico supera di oltre 50 km la percorrenza dichiarata in una prova su strade americane",
       "date": "2026-08-20T09:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/1Zwb9q/s3/audi-e5-sportback.jpg",
       "summary": "Audi si è data molto da fare per tenere i modelli AUDI E5 ed E7X cinesi fuori dall’Europa. Una società terza li sta comunque importando",
       "date": "2026-08-19T09:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:85370552325d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'aggiornamento \"fai da te\" dell'FSD sulla vecchia Tesla Model 3",
-      "url": "https://insideevs.it/news/805400/tesla-model-3-fsd-aggiornamento-casalingo/",
-      "image": "https://cdn.motor1.com/images/mgl/BXYP8A/s3/tesla-fsd.jpg",
-      "summary": "Tesla rimanda la questione HW3 da quasi due anni. Un proprietario si è stancato di aspettare e fa da solo",
-      "date": "2026-08-19T06:59:25.0000000Z"
     }
   ]
 }
