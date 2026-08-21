@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-21T13:16:54.6705327Z",
+  "updated": "2026-08-21T14:02:56.4003410Z",
   "items": [
+    {
+      "id": "qualenergia:6fa6e537d8cd",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Aree idonee, Trento amplia l’elenco e regola il fotovoltaico agricolo",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/aree-idonee-trento-amplia-elenco-regola-fv-agricolo/",
+      "image": null,
+      "summary": "Con l’assestamento di bilancio 2026-2028, approvato nelle scorse settimane, la Provincia di Trento ha rimesso ordine anche nella disciplina sulle rinnovabili, in particolare intervenendo sulle aree idonee, introducend...",
+      "date": "2026-08-21T13:00:52.0000000Z"
+    },
     {
       "id": "qualenergia:96922b3e094b",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
       "date": "2026-08-21T05:15:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:1078ef9b4d49",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Efficientamento energetico edificio comunale ad Abbateggio (PE)",
-      "url": "https://www.qualenergia.it/pro/documenti/efficientamento-energetico-edificio-comunale-ad-abbateggio-pe/",
-      "image": null,
-      "summary": "Manifestazione di interesse per la realizzazione di interventi di efficientamento energetico dell’edificio comunale adibito a nido, materna e ostello in via Aldo Moro ad Abbateggio (PE) mediante contratto di partenari...",
-      "date": "2026-08-21T05:00:53.0000000Z"
     }
   ]
 }

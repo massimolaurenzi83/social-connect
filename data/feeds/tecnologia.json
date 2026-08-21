@@ -1,7 +1,67 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-21T13:16:54.6654313Z",
+  "updated": "2026-08-21T14:02:56.3891459Z",
   "items": [
+    {
+      "id": "hdblog:4c0a3e48b400",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Volvo Trucks celebra il centenario con presenta la nuova \"100 Year Edition\"",
+      "url": "https://www.hdmotori.it/volvo-trucks-100-year-edition/",
+      "image": null,
+      "summary": "I modelli di punta FH e FH16 si rinnovano con un'esclusiva edizione speciale che celebra l'eredità svedese, il comfort d'avanguardia e una sicurezza a cinque stelle.",
+      "date": "2026-08-21T14:00:31.0000000Z"
+    },
+    {
+      "id": "hdblog:9a499769d300",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Qualcuno è riuscito a creare una città 3D esplorabile usando solo caratteri ASCII",
+      "url": "https://www.hdblog.it/games/articoli/n667988/citta-3d-esplorabile-usando-solo-caratteri-ascii/",
+      "image": null,
+      "summary": "Strade, edifici, auto e pedoni ricreati in una città 3D senza texture né poligoni: tutto funziona solo con caratteri ASCII e raycasting.",
+      "date": "2026-08-21T13:45:00.0000000Z"
+    },
+    {
+      "id": "tomshw:e0bb49b6a773",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "iPhone 17 Pro 256GB a 1.169€, mai costato così poco per foto e video",
+      "url": "https://www.tomshw.it/offerte/iphone-17-pro-256gb-a-1169eur-mai-costato-cosi-poco-per-foto-e-video",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108869/tomshw-offer-885946.png",
+      "summary": "Apple iPhone 17 Pro 256GB costa 1.169€ su Amazon anziché 1.339€, con uno sconto del 13% e 170€ di risparmio. È il minimo storico per la versione Argento, pensata per chi vuole fotocamere evolute e pre...",
+      "date": "2026-08-21T13:32:54.0000000Z"
+    },
+    {
+      "id": "tomshw:50c8bf669405",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Galaxy S27 Ultra: in arrivo il chip Snapdragon Extreme?",
+      "url": "https://www.tomshw.it/smartphone/samsung-galaxy-s27-ultra-potrebbe-avere-un-chip-snapdragon-extreme",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108868/news-flash-885918.png",
+      "summary": "La prossima generazione di chip Qualcomm potrebbe comprendere due modelli distinti, con una variante superiore destinata agli smartphone ultra-premium. Digital Chat Station indica i nomi Snapdragon 8...",
+      "date": "2026-08-21T13:27:54.0000000Z"
+    },
+    {
+      "id": "tomshw:540f0f850b67",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Migliori serrature smart: guida alla scelta (agosto 2026)",
+      "url": "https://www.tomshw.it/hardware/migliori-serrature-smart-guida-alla-scelta",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108867/guide-thw-885909.png",
+      "summary": "Nuki Smart Lock Pro è la migliore serratura smart per la maggior parte delle porte italiane: si monta all’interno, gira la chiave esistente e non richiede fori, sostituzione del cilindro o bridge per...",
+      "date": "2026-08-21T13:21:39.0000000Z"
+    },
     {
       "id": "tomshw:91b84f3571fc",
       "sourceId": "tomshw",
@@ -51,6 +111,30 @@
       "date": "2026-08-21T13:05:00.0000000Z"
     },
     {
+      "id": "dday:5031dc9bf25a",
+      "sourceId": "dday",
+      "source": "DDay.it",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Google consentirà di personalizzare in modo preciso il proprio feed di Discover con un semplice prompt",
+      "url": "https://www.dday.it/redazione/58442/google-consentira-di-personalizzare-in-modo-preciso-il-proprio-feed-di-discover-con-un-semplice-prompt",
+      "image": null,
+      "summary": "",
+      "date": "2026-08-21T12:58:00.0000000Z"
+    },
+    {
+      "id": "hdblog:81587dc16699",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Xiaomi POCO C81 Pro a 109,90 su Amazon: 6.000 mAh, 128GB, display 120Hz",
+      "url": "https://www.hdblog.it/smartphone/offerte/n667989/xiaomi-poco-c81-pro-promozione-amazon/",
+      "image": null,
+      "summary": "Xiaomi POCO C81 Pro è in offerta al minimo storico su Amazon nella versione con 128 GB di memoria interna.",
+      "date": "2026-08-21T12:56:00.0000000Z"
+    },
+    {
       "id": "hdblog:1b96966227ca",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -73,18 +157,6 @@
       "image": null,
       "summary": "Manca poco all'uscita del MacBook Ultra di Apple: tante novità e prezzo sicuramente alle stelle.",
       "date": "2026-08-21T12:50:00.0000000Z"
-    },
-    {
-      "id": "tomshw:eaa91497aacb",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Corsa allo spazio: Trump vuole 1.000 lanci l'anno entro il 2030",
-      "url": "https://www.tomshw.it/scienze/trump-oltre-1-000-lanci-e-rientri-spaziali-l-anno-entro-il",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108859/news-flash-885749.png",
-      "summary": "Oltre 1.000 lanci e rientri ogni anno entro il 2030: è la capacità che le infrastrutture spaziali degli Stati Uniti dovranno prepararsi a sostenere secondo la nuova National Space Transportation Polic...",
-      "date": "2026-08-21T12:41:41.0000000Z"
     },
     {
       "id": "hdblog:521ed40a9c09",
@@ -123,18 +195,6 @@
       "date": "2026-08-21T12:25:00.0000000Z"
     },
     {
-      "id": "tomshw:986ebd266d3c",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Thrustmaster T128 sotto i 140€, Force Feedback e pedaliera per correre sul serio",
-      "url": "https://www.tomshw.it/offerte/thrustmaster-t128-sotto-i-140eur-force-feedback-e-pedaliera-per-correre-sul-serio",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108857/tomshw-offer-885652.png",
-      "summary": "Thrustmaster T128 costa 139,99€ su Amazon, con il 30% di sconto rispetto ai 199,99€ di listino. Force Feedback e pedaliera inclusa permettono di trasformare le corse su PS5 e PC in un’esperienza molto...",
-      "date": "2026-08-21T12:03:54.0000000Z"
-    },
-    {
       "id": "hdblog:0731c8ba4078",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -171,16 +231,16 @@
       "date": "2026-08-21T11:30:35.0000000Z"
     },
     {
-      "id": "hdblog:1eebd3c21f21",
-      "sourceId": "hdblog",
-      "source": "HDblog",
+      "id": "tomshw:9543bb4e56bb",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Call of Duty Modern Warfare 4, tempo di Beta! Orari, requisiti e molto altro",
-      "url": "https://www.hdblog.it/windows/articoli/n667979/call-duty-modern-warfare-4-beta-requisiti/",
-      "image": null,
-      "summary": "Per chi ha fatto il preorder la battaglia inizia già questa sera!",
-      "date": "2026-08-21T11:15:00.0000000Z"
+      "title": "Migliori SSD esterni (agosto 2026)",
+      "url": "https://www.tomshw.it/guide/migliori-ssd-esterni",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87505/migliori-ssd-esterni-copertina.jpg",
+      "summary": "Al giorno d'oggi, i migliori SSD esterni sono una delle soluzioni più pratiche per chi deve spostare file pesanti, liberare spazio dal notebook o mantenere una copia locale dei propri dati più importa...",
+      "date": "2026-08-21T11:12:39.0000000Z"
     },
     {
       "id": "tomshw:3809f40ed47e",
@@ -195,18 +255,6 @@
       "date": "2026-08-21T11:07:21.0000000Z"
     },
     {
-      "id": "tomshw:c6f6880c8ce2",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Migliori deumidificatori per ogni ambiente (agosto 2026)",
-      "url": "https://www.tomshw.it/offerte/migliori-deumidificatori",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87500/migliori-deumidificatori-copertina.jpg",
-      "summary": "Umidità alta, condensa sui vetri, odore di chiuso e piccoli aloni vicino agli angoli sono segnali da non ignorare: spesso indicano che l'ambiente trattiene più vapore acqueo di quanto do...",
-      "date": "2026-08-21T11:03:10.0000000Z"
-    },
-    {
       "id": "dday:20692d5119c8",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -217,30 +265,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-21T10:40:00.0000000Z"
-    },
-    {
-      "id": "hdblog:2a8d4e38f0cf",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Recensione Honor Pad X9 Max, display e autonomia al primo posto!",
-      "url": "https://www.hdblog.it/tablet/recensioni/n666827/honor-pad-x9-max-test-prova-prezzo-sconto/",
-      "image": null,
-      "summary": "Abbiamo provato il nuovo Pad X9 Max di Honor, un tablet da ben 13 pollici votato all'intrattenimento, ecco come è andata!",
-      "date": "2026-08-21T10:31:00.0000000Z"
-    },
-    {
-      "id": "hdblog:81eb1a78bfd3",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Insta360 Luna Pro ufficiale: una Ultra con singola fotocamera",
-      "url": "https://www.hdblog.it/fotografia/articoli/n667975/insta360-luna-pro-specifiche-prezzo-quando/",
-      "image": null,
-      "summary": "La rivale perfetta della DJI Osmo Pocket 4?",
-      "date": "2026-08-21T10:25:00.0000000Z"
     },
     {
       "id": "dday:5257f5472c45",
@@ -339,16 +363,28 @@
       "date": "2026-08-21T06:30:58.0000000Z"
     },
     {
-      "id": "tomshw:622b3c3a8d74",
+      "id": "tomshw:728afcfef67d",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Migliori sedie gaming (agosto 2026)",
-      "url": "https://www.tomshw.it/videogioco/migliori-sedie-gaming",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87503/migliori-sedie-gaming-copertina.jpg",
-      "summary": "Una buona sedia da gaming non serve soltanto a completare il setup: deve sostenere schiena, braccia e gambe mentre giocate, lavorate o seguite una live per molte ore. La differenza rispetto a una sedu...",
-      "date": "2026-08-21T06:29:02.0000000Z"
+      "title": "Contare i bombi senza catturarli ora è possibile grazie all'IA",
+      "url": "https://www.tomshw.it/scienze/scienziati-creano-telecamere-ai-che-monitorano-i-bombi-senza-trappole",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108714/scienziati-creano-telecamere-ai-che-monitorano-i-bombi-senza-trappole.png",
+      "summary": "Un gruppo di ricercatori della Oregon State University ha sviluppato un sistema semi-automatico basato su telecamere remote economiche e intelligenza artificiale per censire i bombi senza catturarli....",
+      "date": "2026-08-20T19:15:06.0000000Z"
+    },
+    {
+      "id": "tomshw:a87d40643599",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Windows 11 prova un clic destro più rapido e personalizzabile",
+      "url": "https://www.tomshw.it/hardware/windows-11-prova-un-clic-destro-piu-rapido-e-personalizzabile",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108721/windows-11-prova-un-clic-destro-piu-rapido-e-personalizzabile.png",
+      "summary": "Microsoft sta sperimentando in Windows 11 un nuovo menu del clic destro per Esplora file, progettato per ridurre l'affollamento e rendere più immediato l'accesso alle azioni utilizzate di frequente. L...",
+      "date": "2026-08-20T19:11:50.0000000Z"
     },
     {
       "id": "tomshw:a44ca73e3855",
@@ -361,30 +397,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/108718/honor-cresce-controcorrente-mentre-il-mercato-smartphone-frena.png",
       "summary": "Honor ha chiuso la prima metà dell'anno in crescita mentre il mercato mondiale degli smartphone perdeva slancio. Le spedizioni del produttore sono aumentate del 9% rispetto allo stesso periodo precede...",
       "date": "2026-08-20T19:05:24.0000000Z"
-    },
-    {
-      "id": "tomshw:dc2a1b1e615d",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Xiaomi porta in Europa l'intero ecosistema Mijia per la casa",
-      "url": "https://www.tomshw.it/hardware/xiaomi-porta-in-europa-lintero-ecosistema-mijia-per-la-casa",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108713/xiaomi-porta-in-europa-l-intero-ecosistema-mijia-per-la-casa.png",
-      "summary": "Xiaomi porterà in Europa una parte molto più ampia dell’ecosistema Mijia, sfruttando il debutto dell’azienda a IFA per presentare anche grandi apparecchi domestici finora difficili da acquistare fuori...",
-      "date": "2026-08-20T18:58:03.0000000Z"
-    },
-    {
-      "id": "tomshw:fa09a86b31bf",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "CXMT avanza nelle DRAM, ma nel 2027 la corsa potrebbe frenare",
-      "url": "https://www.tomshw.it/hardware/cxmt-avanza-nelle-dram-ma-nel-2027-la-corsa-potrebbe-frenare",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108712/cxmt-avanza-nelle-dram-ma-nel-2027-la-corsa-potrebbe-frenare.png",
-      "summary": "CXMT sta ampliando il proprio peso nell’industria delle DRAM, sfruttando una domanda superiore alla capacità produttiva disponibile. Una nuova analisi stima che il produttore cinese contribuirà all’11...",
-      "date": "2026-08-20T18:53:58.0000000Z"
     },
     {
       "id": "dday:ed0a1c186090",
@@ -422,18 +434,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-20T14:18:00.0000000Z"
-    },
-    {
-      "id": "dday:121d6dc2b1e3",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Sennheiser introduce le batterie sostituibili anche sui nuovi auricolari MOMENTUM True Wireless 5",
-      "url": "https://www.dday.it/redazione/58431/sennheiser-introduce-le-batterie-sostituibili-anche-sui-nuovi-auricolari-momentum-true-wireless-5",
-      "image": null,
-      "summary": "",
-      "date": "2026-08-20T13:30:00.0000000Z"
     },
     {
       "id": "techprincess:tsHupFsTinI",
