@@ -1,6 +1,6 @@
 {
   "category": "energia",
-  "updated": "2026-08-21T08:09:24.2149270Z",
+  "updated": "2026-08-21T08:58:40.1414565Z",
   "items": [
     {
       "id": "qualenergia:d4b3b6d3648b",
@@ -39,18 +39,6 @@
       "date": "2026-08-21T07:00:27.0000000Z"
     },
     {
-      "id": "qualenergia:32dde86aedad",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "La situazione energetica nazionale nel 2025",
-      "url": "https://www.qualenergia.it/pro/documenti/la-situazione-energetica-nazionale-nel-2025/",
-      "image": null,
-      "summary": "Relazione sulla situazione energetica italiana del Ministero dell’Ambiente e della Sicurezza Energetica, secondo cui, nel 2025, la dipendenza energetica dall’estero è risalita di 1,7 punti percentuali, con le importaz...",
-      "date": "2026-08-21T06:07:02.0000000Z"
-    },
-    {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -61,6 +49,18 @@
       "image": null,
       "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
       "date": "2026-08-21T05:15:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:32dde86aedad",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "La situazione energetica nazionale nel 2025",
+      "url": "https://www.qualenergia.it/pro/documenti/la-situazione-energetica-nazionale-nel-2025/",
+      "image": null,
+      "summary": "Relazione sulla situazione energetica italiana del Ministero dell’Ambiente e della Sicurezza Energetica, secondo cui, nel 2025, la dipendenza energetica dall’estero è risalita di 1,7 punti percentuali, con le importaz...",
+      "date": "2026-08-21T05:00:02.0000000Z"
     },
     {
       "id": "qualenergia:28c24aba79dc",
