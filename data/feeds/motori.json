@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-21T11:18:40.0117270Z",
+  "updated": "2026-08-21T11:48:22.8058664Z",
   "items": [
+    {
+      "id": "hdmotori:b173149ff214",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Crisi dell’auto in Germania: anche BMW ridurrà il numero di modelli?",
+      "url": "https://www.hdmotori.it/bmw-riduzione-numero-modelli/",
+      "image": null,
+      "summary": "La Casa bavarese sembrava non essere intaccata dalla crisi, ma il lancio della rivoluzionaria piattaforma Neue Klasse impatterà il listino futuro? The post Crisi dell’auto in Germania: anche BMW ridurrà il numero di m...",
+      "date": "2026-08-21T11:30:35.0000000Z"
+    },
     {
       "id": "insideevs:7b7bde363fe8",
       "sourceId": "insideevs",
@@ -159,6 +171,18 @@
       "date": "2026-08-21T07:00:45.0000000Z"
     },
     {
+      "id": "insideevs:8819548e7e0b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuovo l'approccio alle batterie al litio, più dense del 10%",
+      "url": "https://insideevs.it/news/805625/asahi-kasei-batterie-litio-predoping/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZwbeX/s3/illustrazione-concettuale-della-nuova-tecnologia-di-pre-doping.jpg",
+      "summary": "Asahi Kasei sviluppa un sistema di pre-doping al litio che utilizza carbonato di litio a basso costo integrabile nella produzione",
+      "date": "2026-08-21T07:00:00.0000000Z"
+    },
+    {
       "id": "motor1:224330779c13",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -180,18 +204,6 @@
       "url": "https://it.motor1.com/features/805661/mercedes-sl-1997-acquisto-costi/",
       "image": "https://cdn.motor1.com/images/mgl/7ZEOyp/s3/1997-mercedes-benz-sl500-r129.jpg",
       "summary": "La Mercedes-Benz SL R129 è una meraviglia dell’ingegneria e un’allettante occasione tra le auto classiche. C’è da avere paura dei costi?",
-      "date": "2026-08-21T07:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:8819548e7e0b",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nuovo l'approccio alle batterie al litio, più dense del 10%",
-      "url": "https://insideevs.it/news/805625/asahi-kasei-batterie-litio-predoping/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZwbeX/s3/illustrazione-concettuale-della-nuova-tecnologia-di-pre-doping.jpg",
-      "summary": "Asahi Kasei sviluppa un sistema di pre-doping al litio che utilizza carbonato di litio a basso costo integrabile nella produzione",
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
@@ -385,18 +397,6 @@
       "image": "https://cdn.motor1.com/images/mgl/koK30B/s3/tatra-force-e-drive-8x8-bev.jpg",
       "summary": "Con fino a 2.599 Nm di coppia, due trasmissioni e assi completamente indipendenti, il Tatra Force e-Drive BEV sembra una bestia",
       "date": "2026-08-20T14:02:09.0000000Z"
-    },
-    {
-      "id": "hdmotori:5cade2028be1",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Torna il mondiale di F1, si accende lo scontro Mercedes-Ferrari",
-      "url": "https://www.hdmotori.it/torna-mondiale-f1-scontro-mercedes-ferrari/",
-      "image": null,
-      "summary": "Dopo la lunga pausa estiva la Formula 1 torna in Olanda, dove si riaccende il duello mondiale tra Mercedes e Ferrari The post Torna il mondiale di F1, si accende lo scontro Mercedes-Ferrari appeared first on HDmotori....",
-      "date": "2026-08-20T14:00:01.0000000Z"
     },
     {
       "id": "motor1:4d897dd882e9",
