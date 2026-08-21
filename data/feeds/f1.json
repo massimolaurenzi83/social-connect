@@ -1,14 +1,26 @@
 {
   "category": "f1",
-  "updated": "2026-08-21T14:02:56.4143830Z",
+  "updated": "2026-08-21T14:48:52.8838066Z",
   "items": [
+    {
+      "id": "formulapassion:71e964f9c2d5",
+      "sourceId": "formulapassion",
+      "source": "FormulaPassion",
+      "platform": "rss",
+      "category": "f1",
+      "title": "Aggiornamenti McLaren: modifiche all’ala e all’FTM",
+      "url": "https://www.formulapassion.it/f1/f1-analisi-tecnica/olanda-aggiornamenti-mclaren-modifiche-ala-ftm",
+      "image": null,
+      "summary": "Dopo il pacchetto di Budapest, la McLaren introduce altri aggiornamenti a Zandvoort: novità all’ala posteriore e all’FTM",
+      "date": "2026-08-21T14:08:06.0000000Z"
+    },
     {
       "id": "formulapassion:94ad5d1347df",
       "sourceId": "formulapassion",
       "source": "FormulaPassion",
       "platform": "rss",
       "category": "f1",
-      "title": "GP Olanda 2026, la Qualifiche Sprint in DIRETTA: si parte alle 16.30",
+      "title": "GP Olanda 2026, la Qualifica Sprint in DIRETTA: subito un brivido per Antonelli",
       "url": "https://www.formulapassion.it/f1/f1-live/diretta-f1-gp-zandvoort-2026-live-qualifiche-sprint-ferrari-insegue-antonelli",
       "image": null,
       "summary": "La cronaca minuto per minuto della sessione che determinerà la griglia di partenza della gara Sprint di Zandvoort",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Il miliardario statunitense, ex ambasciatore degli USA nel Regno Unito, ha rilevato una quota di minoranza del team",
       "date": "2026-08-21T06:40:07.0000000Z"
-    },
-    {
-      "id": "formulapassion:ccea9fc99e48",
-      "sourceId": "formulapassion",
-      "source": "FormulaPassion",
-      "platform": "rss",
-      "category": "f1",
-      "title": "Verstappen molto più vicino al ritiro dalla F1 che a un altro team",
-      "url": "https://www.formulapassion.it/f1/f1-news/verstappen-molto-piu-vicino-al-ritiro-dalla-f1-che-a-un-altro-team",
-      "image": null,
-      "summary": "Per Max Verstappen non ha alcun senso cambiare squadra solo per il gusto di farlo. Il pensiero del ritiro è stato invece concreto",
-      "date": "2026-08-21T04:50:06.0000000Z"
     }
   ]
 }
