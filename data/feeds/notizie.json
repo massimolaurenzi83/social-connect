@@ -1,18 +1,42 @@
 {
   "category": "notizie",
-  "updated": "2026-08-21T20:02:24.2923821Z",
+  "updated": "2026-08-21T20:36:53.1529075Z",
   "items": [
     {
-      "id": "ansa:7d0c5d4a10e5",
-      "sourceId": "ansa",
-      "source": "ANSA",
+      "id": "open:85baea92b63f",
+      "sourceId": "open",
+      "source": "Open",
       "platform": "rss",
       "category": "notizie",
-      "title": "Nubifragi, tornado e fulmini: il maltempo sferza il Centro-Nord",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/nubifragi-tornado-e-fulmini-il-maltempo-sferza-il-centro-nord_a64c18e3-dd44-4259-a721-17acb1bc8870.html",
-      "image": null,
-      "summary": "La Lombardia chiederà lo stato di emergenza, 350 evacuati. A Firenze una turista ferita",
-      "date": "2026-08-21T19:52:04.0000000Z"
+      "title": "Settembre ad alto rischio per la legge elettorale, il voto al Senato incrocia la resa dei conti leghista",
+      "url": "https://www.open.online/2026/08/21/settembre-legge-elettorale-lega-tensioni/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/matteo-salvini-legge-elettorale.jpeg",
+      "summary": "Il calendario di Palazzo Madama si sovrappone a quello della crisi del Carroccio: dal 2 settembre parte l’esame degli emendamenti, l’8 e il 9 la “pre-Pontida” leghista, antipasto della resa dei conti L'articolo Settem...",
+      "date": "2026-08-21T20:23:27.0000000Z"
+    },
+    {
+      "id": "open:3ffb65ef4310",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "«Mi chiede sempre soldi». Picchiata dal figlio va in ospedale. La sorpresa dei medici: l’accusato è un loro collega. Scatta il braccialetto elettronico",
+      "url": "https://www.open.online/2026/08/21/isernia-maltrattamenti-in-famiglia-medico-braccialetto-elettronico/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/maltrattamenti-medico-braccialetto-elettronico.jpg",
+      "summary": "La vicenda in Molise, a Isernia. La donna si era recata al pronto soccorso con ferite da contusione. Le aggressioni andavano avanti da un paio di anni L'articolo «Mi chiede sempre soldi». Picchiata dal figlio va in os...",
+      "date": "2026-08-21T20:19:04.0000000Z"
+    },
+    {
+      "id": "open:a9b2a69a63e9",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La mega sala da ballo di Trump si può fare. Per ora",
+      "url": "https://www.open.online/2026/08/21/sala-da-ballo-trump/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/trump-washington.jpeg",
+      "summary": "Il presidente Donald Trump può andare avanti con il suo progetto di sala da ballo alla Casa Bianca. La Corte Suprema valuterà l’emissione di un provvedimento a lungo termine che autorizzi il proseguimento dei lavori d...",
+      "date": "2026-08-21T20:17:52.0000000Z"
     },
     {
       "id": "ansa:6762af7a31de",
@@ -24,7 +48,31 @@
       "url": "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/21/giochi-del-mediterraneo-cerimonia-di-apertura-show.-sfliano-gli-azzurri-anche_a20fcfe3-ddf4-493e-92d6-11c16192f100.html",
       "image": null,
       "summary": "Ovazione allo stadio Iacovone, Palmisano porta il tricolore",
-      "date": "2026-08-21T19:51:47.0000000Z"
+      "date": "2026-08-21T20:14:49.0000000Z"
+    },
+    {
+      "id": "ansa:53bbba64fba6",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La madre della bimba morta a Palermo: 'Medici incompetenti'",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/la-madre-della-bimba-morta-a-palermo-per-sospetta-difterite-attacca-i-medici_dff22e46-609a-4001-bccf-b32389579e80.html",
+      "image": null,
+      "summary": "'Noi non abbiamo scambiato la difterite per tonsillite'. Il cuginetto sta meglio",
+      "date": "2026-08-21T20:07:25.0000000Z"
+    },
+    {
+      "id": "ansa:7d0c5d4a10e5",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Nubifragi, tornado e fulmini: il maltempo sferza il Centro-Nord",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/nubifragi-tornado-e-fulmini-il-maltempo-sferza-il-centro-nord_a64c18e3-dd44-4259-a721-17acb1bc8870.html",
+      "image": null,
+      "summary": "La Lombardia chiederà lo stato di emergenza, 350 evacuati. A Firenze una turista ferita",
+      "date": "2026-08-21T19:52:04.0000000Z"
     },
     {
       "id": "open:49926e52c5c1",
@@ -80,7 +128,7 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Ovazione per Mattarella, a Taranto al via i Giochi del Mediterraneo. Palmisano porta il tricolore",
+      "title": "Ovazione per Mattarella e per gli atleti azzurri, a Taranto al via i Giochi del Mediterraneo",
       "url": "https://bari.repubblica.it/cronaca/2026/08/21/news/ovazione_per_mattarella_a_taranto_al_via_i_giochi_del_mediterraneo_palmisano_porta_il_tricolore-425540662/",
       "image": null,
       "summary": "Allo stadio Iacovone il presidente della Repubblica e la premier Giorgia Meloni per la cerimonia di apertura “Il mito che diventa futuro” a ridosso dell’ex Ilva: a settembre il tavolo chiesto dalle associazioni di cat...",
@@ -121,18 +169,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/GOLF_20260821192042937_bb66adceb336fe41539ed0dd638da92e-scaled.jpg",
       "summary": "Forza Italia si divide sul fine vita, tra chi teme per l'elettorato cattolico e chi mette in guardia da possibili derive, come la clonazione L'articolo Forza Italia e la guerra sul fine vita. Craxi: «A ogni costo». Sa...",
       "date": "2026-08-21T18:40:52.0000000Z"
-    },
-    {
-      "id": "ansa:53bbba64fba6",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La madre della bimba morta a Palermo: 'Medici incompetenti'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/la-madre-della-bimba-morta-a-palermo-per-sospetta-difterite-attacca-i-medici_dff22e46-609a-4001-bccf-b32389579e80.html",
-      "image": null,
-      "summary": "'Noi non abbiamo scambiato la difterite per tonsillite'. Il cuginetto sta meglio",
-      "date": "2026-08-21T18:09:54.0000000Z"
     },
     {
       "id": "open:b74a396ec4a2",
@@ -244,18 +280,6 @@
       "date": "2026-08-21T17:13:08.0000000Z"
     },
     {
-      "id": "open:d04e1d5db174",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Sospetto caso di Ebola in Trentino: in isolamento un uomo rientrato dal Congo",
-      "url": "https://www.open.online/2026/08/21/sospetto-caso-ebola-trentino-paziente-congo/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/ebola-trentino.jpg",
-      "summary": "Il paziente si trova al momento isolato nella sua abitazione ed è considerato a basso rischio. I suoi campioni saranno analizzati dall'ospedale Luigi Sacco di Milano L'articolo Sospetto caso di Ebola in Trentino: in i...",
-      "date": "2026-08-21T17:04:43.0000000Z"
-    },
-    {
       "id": "ansa:27ce98e6acc7",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -281,18 +305,6 @@
       "date": "2026-08-21T16:44:02.0000000Z"
     },
     {
-      "id": "open:520adfdf268f",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Donna trovata morta in casa con un «grave trauma al volto». Il figlio, interrogato, confessa: il caso in provincia di Potenza",
-      "url": "https://www.open.online/2026/08/21/tito-donna-morta-casa-marito-figlio-trauma-volto-indagini/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/maria-vittoria-carbone.jpg",
-      "summary": "Sarebbe stato proprio il giovane, seguito dal Centro di Igiene Mentale, e il padre a chiamare i soccorsi L'articolo Donna trovata morta in casa con un «grave trauma al volto». Il figlio, interrogato, confessa: il caso...",
-      "date": "2026-08-21T16:30:55.0000000Z"
-    },
-    {
       "id": "skytg24:suFITj9yP1w",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -304,18 +316,6 @@
       "summary": "",
       "videoId": "suFITj9yP1w",
       "date": "2026-08-21T16:21:02.0000000Z"
-    },
-    {
-      "id": "open:d42ed081fffd",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Maltempo in Lombardia: 400 evacuati tra frane ed esondazioni, la Regione chiede lo stato di emergenza – I video",
-      "url": "https://www.open.online/2026/08/21/maltempo-nord-italia-danni-video/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/maltempo-lombardia.jpg",
-      "summary": "Colpita anche la Toscana e la Liguria. . Oltre 8mila fulmini in due ore L'articolo Maltempo in Lombardia: 400 evacuati tra frane ed esondazioni, la Regione chiede lo stato di emergenza – I video proviene da Open .",
-      "date": "2026-08-21T16:16:30.0000000Z"
     },
     {
       "id": "skytg24:PvrKqp4LnkI",
