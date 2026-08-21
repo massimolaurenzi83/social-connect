@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-08-21T06:38:20.6276899Z",
+  "updated": "2026-08-21T07:28:47.9462301Z",
   "items": [
+    {
+      "id": "qualenergia:a27ba4150d4a",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Prezzi minimi garantiti alle biomasse, Arera chiede un correttivo",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/prezzi-minimi-garantiti-biomasse-arera-chiede-correttivo/",
+      "image": null,
+      "summary": "Modificare il nuovo criterio per determinare i prezzi minimi garantiti (PMG) per la produzione di energia elettrica degli impianti alimentati da biogas, biomasse e bioliquidi sostenibili, in modo da rendere più effici...",
+      "date": "2026-08-21T07:15:04.0000000Z"
+    },
+    {
+      "id": "qualenergia:4ca2a5523ffa",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Gas, consumi italiani stabili nel primo semestre 2026",
+      "url": "https://www.qualenergia.it/articoli/gas-consumi-italiani-stabili-nel-primo-semestre-2026/",
+      "image": null,
+      "summary": "Nel primo semestre 2026 i consumi di gas in Italia sono pressoché stabili (+0,2%) rispetto allo stesso periodo del 2025. Un grafico ci aiuta a visualizzare l’andamento semestrale dei consumi italiani di gas naturale: ...",
+      "date": "2026-08-21T07:00:27.0000000Z"
+    },
     {
       "id": "qualenergia:32dde86aedad",
       "sourceId": "qualenergia",
@@ -13,6 +37,30 @@
       "image": null,
       "summary": "Relazione sulla situazione energetica italiana del Ministero dell’Ambiente e della Sicurezza Energetica, secondo cui, nel 2025, la dipendenza energetica dall’estero è risalita di 1,7 punti percentuali, con le importaz...",
       "date": "2026-08-21T06:07:02.0000000Z"
+    },
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
+      "date": "2026-08-21T05:15:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
+      "date": "2026-08-20T22:25:00.0000000Z"
     },
     {
       "id": "qualenergia:48dba849830d",
@@ -39,16 +87,16 @@
       "date": "2026-08-20T10:15:23.0000000Z"
     },
     {
-      "id": "qualenergia:0b75d7ad977c",
+      "id": "qualenergia:ab6f2a21635b",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "Idrogeno rinnovabile, cosa prevede il decreto in Gazzetta",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/idrogeno-rinnovabile-cosa-prevede-decreto-gazzetta/",
+      "title": "Fotovoltaico: la Nuova Zelanda semplifica, l’Italia complica",
+      "url": "https://www.qualenergia.it/articoli/fotovoltaico-nuova-zelanda-semplifica-italia-complica/",
       "image": null,
-      "summary": "La produzione di idrogeno di origine rinnovabile può contare sul nuovo meccanismo di sostegno disciplinato dal ministero dell’Ambiente e della Sicurezza energetica. Il relativo decreto, cosiddetto “Tariffe”, è stato p...",
-      "date": "2026-08-20T09:45:07.0000000Z"
+      "summary": "Tutti ricordiamo la curiosità infantile che suscitò scoprire il concetto di antipodo e l’esistenza di un Paese che si trova diametralmente dalla parte opposta del mappamondo rispetto all’Italia: la Nuova Zelanda. In q...",
+      "date": "2026-08-20T09:45:30.0000000Z"
     },
     {
       "id": "qualenergia:85eb3b4ccbb2",
@@ -63,16 +111,16 @@
       "date": "2026-08-20T09:30:37.0000000Z"
     },
     {
-      "id": "qualenergia:ab6f2a21635b",
+      "id": "qualenergia:0b75d7ad977c",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "Fotovoltaico: la Nuova Zelanda semplifica, l’Italia complica",
-      "url": "https://www.qualenergia.it/articoli/fotovoltaico-nuova-zelanda-semplifica-italia-complica/",
+      "title": "Idrogeno rinnovabile, cosa prevede il decreto in Gazzetta",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/idrogeno-rinnovabile-cosa-prevede-decreto-gazzetta/",
       "image": null,
-      "summary": "Tutti ricordiamo la curiosità infantile che suscitò scoprire il concetto di antipodo e l’esistenza di un Paese che si trova diametralmente dalla parte opposta del mappamondo rispetto all’Italia: la Nuova Zelanda. In q...",
-      "date": "2026-08-20T08:45:30.0000000Z"
+      "summary": "La produzione di idrogeno di origine rinnovabile può contare sul nuovo meccanismo di sostegno disciplinato dal ministero dell’Ambiente e della Sicurezza energetica. Il relativo decreto, cosiddetto “Tariffe”, è stato p...",
+      "date": "2026-08-20T08:15:07.0000000Z"
     },
     {
       "id": "qualenergia:ff7487802d8f",
@@ -97,54 +145,6 @@
       "image": null,
       "summary": "A luglio la domanda di elettricità in Italia è stata pari a 32,4 TWh. Non solo è in assoluto il consumo più elevato per luglio, ma anche quello maggiore di sempre su base mensile. L’aumento sul luglio 2025 è stato del...",
       "date": "2026-08-20T07:00:04.0000000Z"
-    },
-    {
-      "id": "qualenergia:517eded00129",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Puglia, agevolazioni per riqualificazione energetica alle imprese in provincia di Taranto",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/puglia-agevolazioni-riqualificazione-energetica-imprese-provincia-taranto/",
-      "image": null,
-      "summary": "La Regione Puglia sosterrà le micro e piccole imprese con sede nella Provincia di Taranto, finanziando interventi finalizzati a rafforzarne la competitività e a migliorarne le prestazioni energetiche. Il bando operati...",
-      "date": "2026-08-20T06:55:01.0000000Z"
-    },
-    {
-      "id": "qualenergia:50d40d648ab7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Bandi e appalti del giorno (4)",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
-      "image": null,
-      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
-      "date": "2026-08-20T06:30:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:ed359064492d",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "LA FORMAZIONE ENERGETICA IN ITALIA",
-      "url": "https://www.qualenergia.it/pro/documenti/formazione-energetica-in-italia/",
-      "image": null,
-      "summary": "Corsi universitari, master, ITS Academy, stage, seminari di formazione a vari livelli su tematiche energetiche, fonti rinnovabili, efficienza energetica e mobilità elettrica. Destinatari: studenti diplomati, universit...",
-      "date": "2026-08-20T05:15:30.0000000Z"
-    },
-    {
-      "id": "qualenergia:c806b8589e7b",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "INFODATA ENERGIA",
-      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
-      "image": null,
-      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
-      "date": "2026-08-20T05:15:00.0000000Z"
     }
   ]
 }
