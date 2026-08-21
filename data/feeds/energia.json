@@ -1,6 +1,6 @@
 {
   "category": "energia",
-  "updated": "2026-08-21T12:17:34.7236753Z",
+  "updated": "2026-08-21T13:16:54.6705327Z",
   "items": [
     {
       "id": "qualenergia:96922b3e094b",
@@ -99,6 +99,30 @@
       "date": "2026-08-21T06:55:55.0000000Z"
     },
     {
+      "id": "qualenergia:50d40d648ab7",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Bandi e appalti del giorno (3)",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
+      "image": null,
+      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
+      "date": "2026-08-21T06:30:17.0000000Z"
+    },
+    {
+      "id": "qualenergia:ed359064492d",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "LA FORMAZIONE ENERGETICA IN ITALIA",
+      "url": "https://www.qualenergia.it/pro/documenti/formazione-energetica-in-italia/",
+      "image": null,
+      "summary": "Corsi universitari, master, ITS Academy, stage, seminari di formazione a vari livelli su tematiche energetiche, fonti rinnovabili, efficienza energetica e mobilità elettrica. Destinatari: studenti diplomati, universit...",
+      "date": "2026-08-21T05:15:30.0000000Z"
+    },
+    {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -111,40 +135,16 @@
       "date": "2026-08-21T05:15:00.0000000Z"
     },
     {
-      "id": "qualenergia:af8f8c08a7e1",
+      "id": "qualenergia:1078ef9b4d49",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "Solar helps Europe’s grid withstand extreme heat",
-      "url": "https://www.qualenergia.it/pro/documenti/solar-helps-europes-grid-withstand-extreme-heat/",
+      "title": "Efficientamento energetico edificio comunale ad Abbateggio (PE)",
+      "url": "https://www.qualenergia.it/pro/documenti/efficientamento-energetico-edificio-comunale-ad-abbateggio-pe/",
       "image": null,
-      "summary": "Le ondate di calore e la siccità dell’estate 2026 hanno messo a dura prova la rete elettrica europea, incrementando la domanda di elettricità e causando un’impennata dei prezzi. Ma nonostante tutto, le reti sono rimas...",
-      "date": "2026-08-21T05:00:47.0000000Z"
-    },
-    {
-      "id": "qualenergia:e4c8936a97cc",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "TAB Italia",
-      "url": "https://www.qualenergia.it/aziende-partner/tab-italia/",
-      "image": null,
-      "summary": "TAB Italia nasce nel 2009 come filiale commerciale italiana di TAB Group, realtà internazionale con oltre 60 anni di esperienza nella progettazione, produzione e commercializzazione di batterie e soluzioni per l’accum...",
-      "date": "2026-08-21T04:00:36.0000000Z"
-    },
-    {
-      "id": "qualenergia:28c24aba79dc",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "BANDI E APPALTI",
-      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
-      "image": null,
-      "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
-      "date": "2026-08-20T22:25:00.0000000Z"
+      "summary": "Manifestazione di interesse per la realizzazione di interventi di efficientamento energetico dell’edificio comunale adibito a nido, materna e ostello in via Aldo Moro ad Abbateggio (PE) mediante contratto di partenari...",
+      "date": "2026-08-21T05:00:53.0000000Z"
     }
   ]
 }

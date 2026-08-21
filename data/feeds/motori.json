@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-08-21T12:17:34.7027176Z",
+  "updated": "2026-08-21T13:16:54.7122222Z",
   "items": [
+    {
+      "id": "vaielettrico:bc07b8e8984b",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Richiamo per la 500e: “Un’incoerenza del software…”",
+      "url": "https://www.vaielettrico.it/richiamo-per-la-500e-unincoerenza-del-software/",
+      "image": null,
+      "summary": "Richiamo per la 500e: sul Safety Gate, il sito dedicato della UE, è comparso un alert che riguarda le… L'articolo Richiamo per la 500e: “Un’incoerenza del software…” proviene da Vaielettrico .",
+      "date": "2026-08-21T13:12:24.0000000Z"
+    },
+    {
+      "id": "insideevs:1d2af046ec51",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla: FSD v15 è la svolta? Optimus slitta al 2027",
+      "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
+      "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
+      "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
+      "date": "2026-08-21T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:5ab500bc4912",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Praga Bohema batte il record di Pagani a Spa",
+      "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
+      "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
+      "date": "2026-08-21T13:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:3654dfab057f",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Basta restomod, ora Totem sviluppa un inedito progetto con un V12 aspirato",
+      "url": "https://www.hdmotori.it/restomod-totem-progetto-v12/",
+      "image": null,
+      "summary": "Fondata da Riccardo Quaggio, ex designer automotive, Totem Automobili vuole ridefinire il concetto di supercar con i V12. The post Basta restomod, ora Totem sviluppa un inedito progetto con un V12 aspirato appeared fi...",
+      "date": "2026-08-21T12:30:52.0000000Z"
+    },
     {
       "id": "motor1:c083653a7cdc",
       "sourceId": "motor1",
@@ -27,18 +75,6 @@
       "date": "2026-08-21T11:30:35.0000000Z"
     },
     {
-      "id": "insideevs:7b7bde363fe8",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché la ricarica bidirezionale V2G non funziona per tutti",
-      "url": "https://insideevs.it/news/805611/ricarica-bidirezionale-v2g-funziona-oggi/",
-      "image": "https://cdn.motor1.com/images/mgl/lEGgAl/s3/ricarica-bidirezionale-v2g.jpg",
-      "summary": "Tra progetti pilota ENEA Terna e obbligo EN ISO 15118-20 dal 2027, il V2G resta legato a offerte chiuse e poche combinazioni compatibili.",
-      "date": "2026-08-21T11:00:00.0000000Z"
-    },
-    {
       "id": "motor1:38b9224f8604",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -48,6 +84,18 @@
       "url": "https://it.motor1.com/features/805416/auto-keyless-vulnerabile-ladri/",
       "image": "https://cdn.motor1.com/images/mgl/mMzyOv/s3/keyless-go-e-furti-d-auto-i-test-adac.jpg",
       "summary": "L’ADAC invita gli automobilisti a verificare la presenza della tecnologia UWB prima di comprare un’auto dotata di apertura senza chiave",
+      "date": "2026-08-21T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:7b7bde363fe8",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché la ricarica bidirezionale V2G non funziona per tutti",
+      "url": "https://insideevs.it/news/805611/ricarica-bidirezionale-v2g-funziona-oggi/",
+      "image": "https://cdn.motor1.com/images/mgl/lEGgAl/s3/ricarica-bidirezionale-v2g.jpg",
+      "summary": "Tra progetti pilota ENEA Terna e obbligo EN ISO 15118-20 dal 2027, il V2G resta legato a offerte chiuse e poche combinazioni compatibili.",
       "date": "2026-08-21T11:00:00.0000000Z"
     },
     {
@@ -183,18 +231,6 @@
       "date": "2026-08-21T07:00:45.0000000Z"
     },
     {
-      "id": "insideevs:8819548e7e0b",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nuovo l'approccio alle batterie al litio, più dense del 10%",
-      "url": "https://insideevs.it/news/805625/asahi-kasei-batterie-litio-predoping/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZwbeX/s3/illustrazione-concettuale-della-nuova-tecnologia-di-pre-doping.jpg",
-      "summary": "Asahi Kasei sviluppa un sistema di pre-doping al litio che utilizza carbonato di litio a basso costo integrabile nella produzione",
-      "date": "2026-08-21T07:00:00.0000000Z"
-    },
-    {
       "id": "motor1:8218664d57c5",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -216,6 +252,18 @@
       "url": "https://it.motor1.com/news/805620/brabus-piani-oltre-mercedes/",
       "image": "https://cdn.motor1.com/images/mgl/W8KVjO/s3/brabus-ceo-constantin-buschmann-interview.jpg",
       "summary": "Il CEO Constantin Buschmann racconta a Motor1 come l'azienda stia andando oltre Mercedes e perché il Bodo sia solo l'inizio",
+      "date": "2026-08-21T07:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:8819548e7e0b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuovo l'approccio alle batterie al litio, più dense del 10%",
+      "url": "https://insideevs.it/news/805625/asahi-kasei-batterie-litio-predoping/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZwbeX/s3/illustrazione-concettuale-della-nuova-tecnologia-di-pre-doping.jpg",
+      "summary": "Asahi Kasei sviluppa un sistema di pre-doping al litio che utilizza carbonato di litio a basso costo integrabile nella produzione",
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
@@ -351,16 +399,16 @@
       "date": "2026-08-20T16:00:28.0000000Z"
     },
     {
-      "id": "hdmotori:564f61dff469",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "insideevs:47e5ee762799",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Targhe polacche al capolinea, scatta l’obbligo dell’assicurazione italiana",
-      "url": "https://www.hdmotori.it/targhe-polacche-obbligo-assicurazione-italiana/",
-      "image": null,
-      "summary": "Il boom di targhe polacche in Italia, specialmente in Campania, sta per finire. L'Rc auto italiana diventerà obbligatoria The post Targhe polacche al capolinea, scatta l’obbligo dell’assicurazione italiana appeared fi...",
-      "date": "2026-08-20T15:00:45.0000000Z"
+      "title": "Auto software-defined: perché le architetture zonali sono decisive",
+      "url": "https://insideevs.it/news/805549/architetture-zonali-auto-software-defined/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4P74/s3/auto-software-defined-perche-le-architetture-zonali-sono-decisive.jpg",
+      "summary": "La tecnologia dovrebbe entrare nella produzione di massa tra il 2027 e il 2030, diventando un fattore decisivo per la competitività",
+      "date": "2026-08-20T15:00:00.0000000Z"
     },
     {
       "id": "motor1:a4daf622403c",
@@ -372,18 +420,6 @@
       "url": "https://it.motor1.com/news/805563/previsioni-traffico-22-23-agosto-bollini/",
       "image": "https://cdn.motor1.com/images/mgl/wl8YyL/s3/le-previsioni-del-traffico-per-il-weekend-22-23-agosto.jpg",
       "summary": "Rientro verso le città critico sia sabato che domenica. Meteo in prevalenza stabile: ecco tutto quello da sapere",
-      "date": "2026-08-20T15:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:47e5ee762799",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto software-defined: perché le architetture zonali sono decisive",
-      "url": "https://insideevs.it/news/805549/architetture-zonali-auto-software-defined/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4P74/s3/auto-software-defined-perche-le-architetture-zonali-sono-decisive.jpg",
-      "summary": "La tecnologia dovrebbe entrare nella produzione di massa tra il 2027 e il 2030, diventando un fattore decisivo per la competitività",
       "date": "2026-08-20T15:00:00.0000000Z"
     },
     {
@@ -447,18 +483,6 @@
       "date": "2026-08-20T13:00:00.0000000Z"
     },
     {
-      "id": "motor1:55dffa510d7d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Cosa succede davvero quando metti l'auto in modalità Sport?",
-      "url": "https://it.motor1.com/features/805581/auto-modalita-sport-funzionamento-segreti/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4PBn/s3/why-your-car-has-a-sport-mode-you-probably-never-use.jpg",
-      "summary": "Quel piccolo pulsante può trasformare come si comporta la tua auto, ma cosa fa davvero la modalità Sport sotto il cofano?",
-      "date": "2026-08-20T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:b0073dbefe3d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -469,18 +493,6 @@
       "image": "https://cdn.motor1.com/images/mgl/VzWQAL/s3/2026-tesla-semi.jpg",
       "summary": "Il camion elettrico di Elon Musk e soci esordirà all'IAA di Hannover a metà settembre, quando saranno svelate anche le specifiche",
       "date": "2026-08-20T11:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:5eaa790b9461",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ducati, 121 milioni di investimenti. E se dietro l’innovazione, sostenibilità e… elettrico?",
-      "url": "https://www.vaielettrico.it/ducati-121-milioni-di-investimenti-e-se-dietro-linnovazione-sostenibilita-e-elettrico/",
-      "image": null,
-      "summary": "Il Mimit dà il via libera al maxi piano “Ducati Raise the Bar”: 121 milioni di investimenti, quasi… L'articolo Ducati, 121 milioni di investimenti. E se dietro l’innovazione, sostenibilità e… elettrico? proviene da Va...",
-      "date": "2026-08-20T10:12:31.0000000Z"
     },
     {
       "id": "insideevs:b690ec3c20ff",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/0egMR9/s3/bmw-ix3-50l-range-test.jpg",
       "summary": "Il test consisteva nel guidare da un posto all'altro con la BMW iX3 50L, quindi qui non c'è nessuna indulgenza CLTC",
       "date": "2026-08-20T06:30:00.0000000Z"
-    },
-    {
-      "id": "insideevs:8a7a3e1d4f6c",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "NIO cambia tutto e dice addio al battery swap",
-      "url": "https://insideevs.it/news/805403/nio-vende-stazioni-battery-swap/",
-      "image": "https://cdn.motor1.com/images/mgl/Oo0xRM/s3/nio-power-swap-station-4.0.jpg",
-      "summary": "La Casa vende le stazioni di sostituzione batteria a istituzioni ed enti pubblici. La ricarica fast è un'alternativa minacciosa",
-      "date": "2026-08-20T05:00:00.0000000Z"
     }
   ]
 }
