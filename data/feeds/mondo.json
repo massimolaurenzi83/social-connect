@@ -1,7 +1,19 @@
 {
   "category": "mondo",
-  "updated": "2026-08-21T17:41:32.5139310Z",
+  "updated": "2026-08-21T18:04:12.7109368Z",
   "items": [
+    {
+      "id": "ansa-mondo:b3b247276891",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Kiev, 'salgono a 14 i morti nel raid a Kryvyi Rih, 4 uccisi a Mykolaiv'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/kiev-salgono-a-14-i-morti-nel-raid-a-kryvyi-rih-4-uccisi-a-mykolaiv_0378afcd-e83d-4b90-995f-95e79acfc227.html",
+      "image": null,
+      "summary": "Nuovo bilancio diffuso dal governatore e ministro dell'Interno",
+      "date": "2026-08-21T17:40:42.0000000Z"
+    },
     {
       "id": "ansa-mondo:2b30e16266d0",
       "sourceId": "ansa-mondo",
@@ -85,18 +97,6 @@
       "image": null,
       "summary": "'I feriti sono 52, tra cui sei bambini'",
       "date": "2026-08-21T15:45:59.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:0f80076c07af",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Ft, 'Kiev cerca l'ok di Musk per equipaggiare i suoi droni con Starlink'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/ft-kiev-cerca-lok-di-musk-per-equipaggiare-i-suoi-droni-con-starlink_61e8c56b-ddeb-4cf4-945d-6d628de83571.html",
-      "image": null,
-      "summary": "Zelensky ha chiesto a Trump di intercedere ma il tycoon è stato 'evasivo'",
-      "date": "2026-08-21T15:00:01.0000000Z"
     },
     {
       "id": "ansa-mondo:aee1839bee15",
@@ -219,18 +219,6 @@
       "date": "2026-08-20T10:18:59.0000000Z"
     },
     {
-      "id": "internazionale:a69509d256ad",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Prato all’inglese",
-      "url": "https://www.internazionale.it/magazine/2026/08/20/prato-all-inglese-2",
-      "image": "https://media.internazionale.it/images/2026/08/20/356502-hd.jpg",
-      "summary": "Una partita di cricket sui prati di Hackney Marshes, uno dei tanti spazi verdi di Londra resi irriconoscibili dalla siccità e dal caldo estremo di questa estate. L’Inghilterra… Leggi",
-      "date": "2026-08-20T10:18:58.0000000Z"
-    },
-    {
       "id": "internazionale:57102d36b012",
       "sourceId": "internazionale",
       "source": "Internazionale",
@@ -276,6 +264,18 @@
       "url": "https://www.internazionale.it/magazine/2026/08/20/il-mio-tesoro",
       "image": "https://media.internazionale.it/images/2026/08/20/356503-hd.jpg",
       "summary": "All’ingresso di una spugna tubolare una femmina di granchio arlecchino custodisce sotto le chele un grappolo di uova arancioni. Posizionandosi nella corrente, favorisce… Leggi",
+      "date": "2026-08-20T10:18:58.0000000Z"
+    },
+    {
+      "id": "internazionale:a69509d256ad",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Prato all’inglese",
+      "url": "https://www.internazionale.it/magazine/2026/08/20/prato-all-inglese-2",
+      "image": "https://media.internazionale.it/images/2026/08/20/356502-hd.jpg",
+      "summary": "Una partita di cricket sui prati di Hackney Marshes, uno dei tanti spazi verdi di Londra resi irriconoscibili dalla siccità e dal caldo estremo di questa estate. L’Inghilterra… Leggi",
       "date": "2026-08-20T10:18:58.0000000Z"
     },
     {
