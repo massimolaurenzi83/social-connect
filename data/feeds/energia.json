@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-21T07:28:47.9462301Z",
+  "updated": "2026-08-21T08:09:24.2149270Z",
   "items": [
+    {
+      "id": "qualenergia:d4b3b6d3648b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Clausola di salvaguardia energia, per l’Italia rinnovabili ed efficienza più del nucleare",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/clausola-salvaguardia-energia-italia-rinnovabili-efficienza-piu-del-nucleare/",
+      "image": null,
+      "summary": "Il 17 agosto la Commissione europea ha fornito alcune indicazioni agli Stati membri su come gestire la clausola di salvaguardia nazionale nel settore energia (link in basso). Si tratta di uno spazio di flessibilità fi...",
+      "date": "2026-08-21T08:00:48.0000000Z"
+    },
     {
       "id": "qualenergia:a27ba4150d4a",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Il 6 agosto 2026 è stato pubblicato il Decreto Ministeriale del Ministero dell’Ambiente e della Sicurezza Energetica n. 194 del 18 giugno 2026, recante “Meccanismo di supporto a regime per impianti a fonti rinnovabili...",
       "date": "2026-08-20T07:45:18.0000000Z"
-    },
-    {
-      "id": "qualenergia:99fd5dfeeeba",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Domanda elettrica record a luglio: 32,4 TWh, mai così alta in un mese",
-      "url": "https://www.qualenergia.it/articoli/domanda-elettrica-record-luglio-mai-cosi-alta-in-un-mese/",
-      "image": null,
-      "summary": "A luglio la domanda di elettricità in Italia è stata pari a 32,4 TWh. Non solo è in assoluto il consumo più elevato per luglio, ma anche quello maggiore di sempre su base mensile. L’aumento sul luglio 2025 è stato del...",
-      "date": "2026-08-20T07:00:04.0000000Z"
     }
   ]
 }
