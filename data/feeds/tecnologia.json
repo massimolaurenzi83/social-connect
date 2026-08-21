@@ -1,7 +1,31 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-21T18:04:12.7584987Z",
+  "updated": "2026-08-21T18:53:10.5695883Z",
   "items": [
+    {
+      "id": "hdblog:c11099399730",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Bitcoin, super impennata negli ultimi giorni: caso isolato o segnale di risalita?",
+      "url": "https://www.hdblog.it/mercato/articoli/n668024/bitcoin-impennata-short-squeeze/",
+      "image": null,
+      "summary": "C'è stato un massiccio \"short squeeze\" che ha portato alla liquidazione di oltre 2,7 miliardi di dollari di posizioni.",
+      "date": "2026-08-21T18:05:00.0000000Z"
+    },
+    {
+      "id": "tomshw:35bc9adeb06c",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "HP Travel al 42%, lo zaino da 30 litri per notebook che vale la spesa",
+      "url": "https://www.tomshw.it/offerte/hp-travel-al-42-lo-zaino-da-30-litri-per-notebook-che-vale-la-spesa",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108893/tomshw-offer-886648.png",
+      "summary": "HP Travel costa 34,99€ su Amazon, invece dei 59,99€ di listino, con uno sconto del 42% e 25€ lasciati in tasca. È il suo minimo storico: un prezzo particolarmente invitante per uno zaino espandibile c...",
+      "date": "2026-08-21T18:03:30.0000000Z"
+    },
     {
       "id": "hdblog:c2f71eaaadb4",
       "sourceId": "hdblog",
@@ -171,18 +195,6 @@
       "date": "2026-08-21T15:45:00.0000000Z"
     },
     {
-      "id": "tomshw:b06ec22e613f",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Astronauti nello spazio: la microgravità frena l'intestino",
-      "url": "https://www.tomshw.it/scienze/astronauti-la-microgravita-rallenterebbe-l-intestino",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108886/RMPrYpjgkRMUjvzgsxvhFQ-1600-80.jpg",
-      "summary": "Durante i soggiorni sulla Stazione Spaziale Internazionale, nel sangue degli astronauti aumentano diversi metaboliti prodotti dalla fermentazione batterica delle proteine. Il segnale, emerso da un’ana...",
-      "date": "2026-08-21T15:40:19.0000000Z"
-    },
-    {
       "id": "tomshw:58615b0caef2",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -205,18 +217,6 @@
       "image": null,
       "summary": "8.500 mAh, nientemeno!",
       "date": "2026-08-21T15:25:00.0000000Z"
-    },
-    {
-      "id": "hdblog:e3e32a79394b",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Magia da bere: Ninja SLUSHi Twist si veste a tema Practical Magic 2",
-      "url": "https://www.hdblog.it/home/articoli/n668001/ninja-slushi-twist-practical-magic-2-prezzo/",
-      "image": null,
-      "summary": "Il ritorno del Midnight Margarita.",
-      "date": "2026-08-21T15:20:00.0000000Z"
     },
     {
       "id": "dday:5031dc9bf25a",
@@ -375,6 +375,18 @@
       "date": "2026-08-21T07:30:00.0000000Z"
     },
     {
+      "id": "tomshw:086de97cb0e4",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "La \"truffa del reso\": cos'è e come funziona il raggiro",
+      "url": "https://www.tomshw.it/altro/truffa-del-reso-iphone-va-ai-truffatori-il-debito-resta",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107289/news-flash-777962.png",
+      "summary": "Lo smartphone viene acquistato attraverso i canali autentici dell’operatore, ma il successivo reso finisce nelle mani dei truffatori. È il meccanismo della truffa della consegna degli smartphone: fals...",
+      "date": "2026-08-21T06:09:11.0000000Z"
+    },
+    {
       "id": "tomshw:a4a1591ad583",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -397,18 +409,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/108724/amd-prepara-le-radeon-per-a-plague-tale-star-wars-e-call-of-duty.png",
       "summary": "AMD ha pubblicato Adrenalin Edition 26.8.1, un aggiornamento dei driver grafici che introduce il supporto per nuovo hardware e prepara le Radeon a tre giochi prossimi al debutto. Il pacchetto riconosc...",
       "date": "2026-08-20T21:13:20.0000000Z"
-    },
-    {
-      "id": "tomshw:cc8ab87b0c53",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "HUMAIN anticipa il laptop sviluppato con Qualcomm per l’AI agentica",
-      "url": "https://www.tomshw.it/hardware/humain-anticipa-il-laptop-sviluppato-con-qualcomm-per-lai-agentica",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108723/humain-anticipa-il-laptop-sviluppato-con-qualcomm-per-l-ai-agentica.png",
-      "summary": "HUMAIN ha anticipato un nuovo laptop sviluppato insieme a Qualcomm, progettato per eseguire modelli di intelligenza artificiale direttamente sul dispositivo. L’azienda vuole ampliare la propria presen...",
-      "date": "2026-08-20T21:12:15.0000000Z"
     },
     {
       "id": "dday:ed0a1c186090",
