@@ -1,7 +1,43 @@
 {
   "category": "sport",
-  "updated": "2026-08-21T18:53:10.5451499Z",
+  "updated": "2026-08-21T19:21:47.9154597Z",
   "items": [
+    {
+      "id": "ansa-sport:2dd4acb0e148",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": ">ANSA-BOX/Da Cobolli a Musetti, l'altra Italia che sogna a New York",
+      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/21/ansa-boxda-cobolli-a-musetti-laltra-italia-che-sogna-a-new-york_5a87c906-be23-4152-a70a-17f02cbeed64.html",
+      "image": null,
+      "summary": "Zverev agli Us Open testa di serie N.1, Alcaraz al rientro può solo perdere punti",
+      "date": "2026-08-21T18:59:24.0000000Z"
+    },
+    {
+      "id": "ansa-sport:755adea932b2",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Calciomercato: Di Gregorio vicino al Bournemouth, la Lazio stringe su Pinamonti",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/calciomercato-di-gregorio-vicino-al-bournemouth-la-lazio-stringe-su-pinamonti_0631523e-65d4-48c6-b53c-a5029013c811.html",
+      "image": null,
+      "summary": "Perin verso il Palermo, la Fiorentina aspetta il Como per Kean",
+      "date": "2026-08-21T18:59:15.0000000Z"
+    },
+    {
+      "id": "corrieresport:f1787a715cb9",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Inter, ufficiale l&#39;acquisto di Jones dal Liverpool: i dettagli dell&#39;operazione",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/inter/2026/08/21-150696366/inter_ufficiale_l_acquisto_di_jones_dal_liverpool_i_dettagli_dell_operazione/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/21/184601049-c3eeb3cb-2ecf-477e-8ecf-402b35efc000.jpg",
+      "summary": "Arriva il comunicato nerazzurro sul nuovo colpo: firma fino al 2031 e subito pronto per Chivu",
+      "date": "2026-08-21T18:53:07.0000000Z"
+    },
     {
       "id": "ansa-sport:d9cc0eb3c32e",
       "sourceId": "ansa-sport",
@@ -201,18 +237,6 @@
       "date": "2026-08-21T15:37:27.0000000Z"
     },
     {
-      "id": "ansa-sport:92dfa259d135",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Zandvoort, Russell conquista la pole della Sprint in Olanda",
-      "url": "https://www.ansa.it/sito/notizie/sport/f1/2026/08/21/zandvoort-russell-conquista-la-pole-della-sprint-in-olanda_d2717829-74e8-4635-8c2b-b79b04e8e5e9.html",
-      "image": null,
-      "summary": "L'inglese sulla Mercedes davanti a Norris, quinto Antonelli",
-      "date": "2026-08-21T15:32:21.0000000Z"
-    },
-    {
       "id": "corrieresport:5b54c586049c",
       "sourceId": "corrieresport",
       "source": "Corriere dello Sport",
@@ -259,18 +283,6 @@
       "image": "https://cdn.corrieredellosport.it/img/800/600/2026/07/20/080159259-9fbc6c74-9551-41f0-a2d4-0477694e5dba.jpg",
       "summary": "L'esterno della Roma non potrà giocare le prossime partite con la maglia dei vice campioni del mondo: è andata ancora peggio a Paredes",
       "date": "2026-08-21T14:52:09.0000000Z"
-    },
-    {
-      "id": "ansa-sport:fd9eb3602621",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Maxi squalifica per Paredes, 10 giornate dopo la rissa della finale Mondiale",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/21/maxi-squalifica-per-paredes-10-giornate-dopo-la-rissa-della-finale-mondiale_b8c74c6e-a7e3-4e51-be37-820ea62b5d2b.html",
-      "image": null,
-      "summary": "Fifa usa il pugno duro dopo la rissa al termine della finale persa dalla Seleccion",
-      "date": "2026-08-21T14:46:54.0000000Z"
     },
     {
       "id": "corrieresport:e3bc934bcab3",
@@ -355,18 +367,6 @@
       "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/21/120240387-3f190245-61c3-4de1-9fbd-fc68462521c3.jpg",
       "summary": "Il tecnico in conferenza prima della trasferta di Genova: \"De Bruyne è in forma. Mercato? Società vigile, ma il gruppo è già buono\"",
       "date": "2026-08-21T12:22:14.0000000Z"
-    },
-    {
-      "id": "corrieresport:98ea10dadb56",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "&quot;Mettiti in regola, conviene&quot;: la nuova campagna della Lega Serie A&nbsp;contro la pirateria audiovisiva",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/08/21-150687071/mettiti_in_regola_conviene_la_nuova_campagna_della_lega_serie_a_contro_la_pirateria_audiovisiva/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/21/105333222-cb576520-010a-4934-b385-25ff0ada28c8.jpg",
-      "summary": "Con il via della nuova stagione riparte l'opera di sensibilizzazione dei club del massimo campionato, uniti a quelli di B e C: tutti i dettagli",
-      "date": "2026-08-21T10:55:43.0000000Z"
     },
     {
       "id": "skysport-yt:1i2lEGoKl6s",
