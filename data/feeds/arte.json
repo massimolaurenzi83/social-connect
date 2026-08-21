@@ -1,6 +1,6 @@
 {
   "category": "arte",
-  "updated": "2026-08-21T14:48:52.9131374Z",
+  "updated": "2026-08-21T15:19:40.0703843Z",
   "items": [
     {
       "id": "elledecor:f95d81c62b9a",
@@ -51,6 +51,18 @@
       "date": "2026-08-21T13:00:00.0000000Z"
     },
     {
+      "id": "artribune:f91742d3800e",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Morto Giancarlo Olgiati, l’avvocato collezionista svizzero delle avanguardie del Novecento. La sua raccolta condivisa con la città di Lugano",
+      "url": "https://www.artribune.com/professioni-e-professionisti/who-is-who/2026/08/giancarlo-olgiati-collezionista-masi-lugano-morto/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/giancarlo-olgiati.jpg",
+      "summary": "Con sua moglie Danna, curatrice e specialista del Futurismo, dal 2012 Olgiati aprì al pubblico parte della sua collezione, raccolta a partire dagli Anni Sessanta, attraverso una donazione al MASI Lugano. Scompare a 88...",
+      "date": "2026-08-21T13:00:00.0000000Z"
+    },
+    {
       "id": "artribune:8f251b657e99",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -75,18 +87,6 @@
       "date": "2026-08-21T12:00:00.0000000Z"
     },
     {
-      "id": "elledecor:1c7a9661f2bf",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Il ristorante del week-end è una pizzeria di design a due passi dall'arena di Verona",
-      "url": "https://www.elledecor.com/it/viaggi/a73363656/pizzeria-di-design-arena-di-verona/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/316eb94e-61bc-4b99-a872-85b504f13989.jpg",
-      "summary": "Progettato da MASAAI Studio, TEMPO è un ristorante che nasce dalla riqualificazione di due locali nel centro storico e interpreta la pizzeria contemporanea attraverso design, funzionalità e una nuova idea di convivialità",
-      "date": "2026-08-21T11:00:00.0000000Z"
-    },
-    {
       "id": "artribune:2b9aee7a8367",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -96,6 +96,18 @@
       "url": "https://www.artribune.com/progettazione/new-media/2026/08/salvatore-antirez-sanfilippo-redis-intervista/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/donald-knuth-foto-di-viviana-cromwell.jpg",
       "summary": "“La programmazione è una forma di letteratura”. Il creatore di Redis, uno dei programmi open source più influenti degli ultimi vent'anni, riflette sul software come linguaggio espressivo, tra minimalismo, cultura hack...",
+      "date": "2026-08-21T11:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:1c7a9661f2bf",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il ristorante del week-end è una pizzeria di design a due passi dall'arena di Verona",
+      "url": "https://www.elledecor.com/it/viaggi/a73363656/pizzeria-di-design-arena-di-verona/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/316eb94e-61bc-4b99-a872-85b504f13989.jpg",
+      "summary": "Progettato da MASAAI Studio, TEMPO è un ristorante che nasce dalla riqualificazione di due locali nel centro storico e interpreta la pizzeria contemporanea attraverso design, funzionalità e una nuova idea di convivialità",
       "date": "2026-08-21T11:00:00.0000000Z"
     },
     {
@@ -205,18 +217,6 @@
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/screenshot-2026-08-03-alle-104507-1.png",
       "summary": "Un'icona dell'Ottocento, madre di Woolf e di Vanessa Bell, che oggi è tra le protagoniste della mostra “Pre-Raphaelites Reframed” a Bradford L’articolo \" L’eredità di Julia Stephen. Musa dei preraffaelliti e madre di ...",
       "date": "2026-08-20T19:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:264d79aaaeca",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Doppia mostra a Bologna per fare entrare un artista contemporaneo nella vita di Giorgio Morandi",
-      "url": "https://www.artribune.com/arte-contemporanea-2/2026/08/mostra-evgeny-antufiev-bologna/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/09evgeny-antufiev-luce-che-proietta-ombra-installation-view-casa-morandi-2026photo-ela-bialkowska-okno-studio-scaled.jpg",
-      "summary": "Casa Morandi a Bologna e la casa museo di Grizzana Morandi ospitano le opere di Evgeny Antufiev, in dialogo con quelle del maestro fino al 13 settembre 2026. Le due mostre accostano linguaggi profondamente differenti ...",
-      "date": "2026-08-20T17:00:00.0000000Z"
     },
     {
       "id": "elledecor:c5b55d7783e2",
