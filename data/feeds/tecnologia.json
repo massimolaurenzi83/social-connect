@@ -1,7 +1,79 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-21T15:54:33.3471524Z",
+  "updated": "2026-08-21T16:32:01.2660924Z",
   "items": [
+    {
+      "id": "hdblog:4771620620af",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Hubble risolve un mistero della Via Lattea vecchio 12 miliardi di anni",
+      "url": "https://www.hdblog.it/curiosita/articoli/n668004/hubble-fusione-via-lattea-lkh/",
+      "image": null,
+      "summary": "Hubble trova le tracce di una galassia inglobata dalla Via Lattea quasi 12 miliardi di anni fa.",
+      "date": "2026-08-21T16:20:00.0000000Z"
+    },
+    {
+      "id": "hdblog:d9788dba6098",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Google rilascia le Factory Image dei suoi smartphone Pixel 11",
+      "url": "https://www.hdblog.it/smartphone/articoli/n668014/google-pixel-11-pro-xl-fold-factory-image/",
+      "image": null,
+      "summary": "Disponibili al download proprio il giorno di inizio commercializzazione dei device.",
+      "date": "2026-08-21T16:10:00.0000000Z"
+    },
+    {
+      "id": "tomshw:4afced41879f",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "HyperX Pulsefire Haste 2 al 57%, il mouse da 53 grammi per gli FPS",
+      "url": "https://www.tomshw.it/offerte/hyperx-pulsefire-haste-2-al-57-il-mouse-da-53-grammi-per-gli-fps",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108887/tomshw-offer-886534.png",
+      "summary": "HyperX Pulsefire Haste 2 costa 29,99€ su Amazon, con uno sconto del 57% sul prezzo di listino di 69,99€. Il peso di appena 53 grammi permette di spostarlo rapidamente durante gli scontri più concitati...",
+      "date": "2026-08-21T16:03:26.0000000Z"
+    },
+    {
+      "id": "hdblog:c7b7c130aedb",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Bugatti Veyron, quando il restauro diventa un&rsquo;opera d&rsquo;arte",
+      "url": "https://www.hdmotori.it/bugatti-veyron-restauro/",
+      "image": null,
+      "summary": "Con il programma La Maison Pur Sang, un cliente Bugatti ha ottenuto una versione moderna della Bugatti Veyron",
+      "date": "2026-08-21T16:00:16.0000000Z"
+    },
+    {
+      "id": "dday:2bc1c8cae27e",
+      "sourceId": "dday",
+      "source": "DDay.it",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Un gruppo di pirati informatici sta pubblicando video di GTA VI per pompare una criptomoneta",
+      "url": "https://www.dday.it/redazione/58443/un-gruppo-di-pirati-informatici-sta-pubblicando-video-di-gta-vi-per-pompare-una-criptomoneta",
+      "image": null,
+      "summary": "",
+      "date": "2026-08-21T16:00:00.0000000Z"
+    },
+    {
+      "id": "hdblog:a484d369d94a",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Motorola e GrapheneOS, la partnership è molto ambiziosa: primi dettagli",
+      "url": "https://www.hdblog.it/smartphone/articoli/n668012/motorola-grapheneos-partnership-quando/",
+      "image": null,
+      "summary": "I device saranno dei veri e propri flagship progettati ad hoc, ancora più prestigiosi dei Google Pixel.",
+      "date": "2026-08-21T15:55:00.0000000Z"
+    },
     {
       "id": "hdblog:cb321be71206",
       "sourceId": "hdblog",
@@ -111,30 +183,6 @@
       "date": "2026-08-21T14:50:00.0000000Z"
     },
     {
-      "id": "tomshw:fbc1402e5555",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Leak di GTA 6: Take-Two vuole i dati da Microsoft e Discord",
-      "url": "https://www.tomshw.it/videogioco/gta-6-take-two-chiede-a-microsoft-e-discord-i-dati-per",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106571/grand-theft-auto-vi-an-extended-look-coming-august-27-00-00_psfm-1200.png",
-      "summary": "Indirizzi IP, numeri di telefono, dispositivi e contenuti archiviati nel cloud sono al centro dell’iniziativa giudiziaria con cui Take-Two Interactive cerca di risalire a Cyberleek. Il 20 agosto 2026...",
-      "date": "2026-08-21T14:45:32.0000000Z"
-    },
-    {
-      "id": "tomshw:68f581477a94",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Maxi richiamo Tesla: 3 milioni di vetture sotto esame",
-      "url": "https://www.tomshw.it/automotive/tesla-3-milioni-di-auto-al-richiamo-aperture-d-emergenza-difficili",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103017/news-flash-594628.png",
-      "summary": "Le aperture meccaniche interne di emergenza possono risultare difficili da trovare proprio quando il sistema elettrico dell’auto smette di funzionare. È il difetto alla base del richiamo ufficiale di...",
-      "date": "2026-08-21T14:44:34.0000000Z"
-    },
-    {
       "id": "hdblog:3bbdb8b4fce7",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -171,78 +219,6 @@
       "date": "2026-08-21T14:05:00.0000000Z"
     },
     {
-      "id": "tomshw:5728ee7a9915",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Leak di GTA 6: Take-Two perde 2,83 miliardi in Borsa",
-      "url": "https://www.tomshw.it/videogioco/take-two-escursione-da-2-83-miliardi-durante-i-leak-di-gta",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106954/gta6.jpg",
-      "summary": "Un confronto tra circa 248,13 e 232,84 dollari per azione porta a stimare in 2,83 miliardi di dollari la contrazione temporanea della capitalizzazione di Take-Two Interactive durante la diffusione dei...",
-      "date": "2026-08-21T14:03:24.0000000Z"
-    },
-    {
-      "id": "tomshw:1e5a9f4e6f92",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "MSI MAG 27CQ6F scontato del 43%, 180 Hz per FPS più fluidi",
-      "url": "https://www.tomshw.it/offerte/msi-mag-27cq6f-scontato-del-43-180-hz-per-fps-piu-fluidi",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108874/tomshw-offer-886074.png",
-      "summary": "MSI MAG 27CQ6F costa 159,99€ su Amazon, con il 43% di sconto sul listino di 279€. Il pannello curvo WQHD da 180 Hz combina una buona definizione con la rapidità richiesta dai giochi competitivi. MSI...",
-      "date": "2026-08-21T14:03:15.0000000Z"
-    },
-    {
-      "id": "hdblog:4c0a3e48b400",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Volvo Trucks celebra il centenario con la nuova \"100 Year Edition\"",
-      "url": "https://www.hdmotori.it/volvo-trucks-100-year-edition/",
-      "image": null,
-      "summary": "I modelli di punta FH e FH16 si rinnovano con un'esclusiva edizione speciale che celebra l'eredità svedese, il comfort d'avanguardia e una sicurezza a cinque stelle.",
-      "date": "2026-08-21T14:00:31.0000000Z"
-    },
-    {
-      "id": "hdblog:9a499769d300",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Qualcuno è riuscito a creare una città 3D esplorabile usando solo caratteri ASCII",
-      "url": "https://www.hdblog.it/games/articoli/n667988/citta-3d-esplorabile-usando-solo-caratteri-ascii/",
-      "image": null,
-      "summary": "Strade, edifici, auto e pedoni ricreati in una città 3D senza texture né poligoni: tutto funziona solo con caratteri ASCII e raycasting.",
-      "date": "2026-08-21T13:45:00.0000000Z"
-    },
-    {
-      "id": "hdblog:20bec335b5b8",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Cuffie Bose, Galaxy Watch Ultra2, notebook OLED e altro: le TOP offerte del 21 agosto",
-      "url": "https://www.hdblog.it/amazon/offerte/n667981/offerte-tech-21-agosto-2026-amazon-migliori/",
-      "image": null,
-      "summary": "Amazon spinge su cuffie premium, smartwatch, notebook OLED, smart home e monitor: ecco le migliori offerte tech di oggi, con prezzi aggiornati e link diretti.",
-      "date": "2026-08-21T13:05:00.0000000Z"
-    },
-    {
-      "id": "hdblog:9305fe694256",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Rollme View Series, gli occhiali smart da 99 dollari con AI e fotocamera Sony",
-      "url": "https://www.hdblog.it/indossabili/articoli/n667960/rollme-view-series-occhiali-smart-99-dollari/",
-      "image": null,
-      "summary": "ProView e AuraView sono i due modelli di occhiali smart presentati da Rollme: caratteristiche interessanti proposte a un prezzo economico.",
-      "date": "2026-08-21T13:05:00.0000000Z"
-    },
-    {
       "id": "dday:5031dc9bf25a",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -265,6 +241,18 @@
       "image": null,
       "summary": "",
       "date": "2026-08-21T12:25:00.0000000Z"
+    },
+    {
+      "id": "tomshw:1d76a89a5fa8",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Migliori chiavette USB (agosto 2026)",
+      "url": "https://www.tomshw.it/hardware/migliori-chiavette-usb",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87515/migliori-chiavette-usb-copertina.jpg",
+      "summary": "Le chiavette USB, o pen drive, restano uno degli accessori più comodi quando bisogna spostare file tra computer, smartphone, tablet, console e dispositivi di lavoro senza dipendere da cloud o rete. Og...",
+      "date": "2026-08-21T11:23:18.0000000Z"
     },
     {
       "id": "tomshw:0a8e9515f4cb",
@@ -375,6 +363,30 @@
       "date": "2026-08-21T07:30:00.0000000Z"
     },
     {
+      "id": "tomshw:a4a1591ad583",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Le spedizioni dei pieghevoli potrebbero raddoppiare entro il 2028",
+      "url": "https://www.tomshw.it/smartphone/le-spedizioni-dei-pieghevoli-potrebbero-raddoppiare-entro-il-2028",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108725/le-spedizioni-dei-pieghevoli-potrebbero-raddoppiare-entro-il-2028.png",
+      "summary": "Omdia ha pubblicato di recente una previsione che assegna al mercato degli smartphone pieghevoli un nuovo ciclo di espansione. Le spedizioni globali potrebbero raggiungere 36 milioni di unità entro il...",
+      "date": "2026-08-20T21:14:15.0000000Z"
+    },
+    {
+      "id": "tomshw:6518ec3c023f",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "AMD prepara le Radeon per A Plague Tale, Star Wars e Call of Duty",
+      "url": "https://www.tomshw.it/hardware/amd-prepara-le-radeon-per-a-plague-tale-star-wars-e-call-of-duty",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108724/amd-prepara-le-radeon-per-a-plague-tale-star-wars-e-call-of-duty.png",
+      "summary": "AMD ha pubblicato Adrenalin Edition 26.8.1, un aggiornamento dei driver grafici che introduce il supporto per nuovo hardware e prepara le Radeon a tre giochi prossimi al debutto. Il pacchetto riconosc...",
+      "date": "2026-08-20T21:13:20.0000000Z"
+    },
+    {
       "id": "tomshw:cc8ab87b0c53",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -397,18 +409,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/108735/una-batteria-zinco-iodio-supera-60-000-cicli-e-sfida-il-litio.png",
       "summary": "Un gruppo di ricercatori della Flinders University, in Australia, ha sviluppato una nuova cella basata su batterie acquose zinco-iodio capace di sostenere oltre 60.000 cicli di carica e scarica. Il ri...",
       "date": "2026-08-20T21:11:05.0000000Z"
-    },
-    {
-      "id": "tomshw:abe5e6cc4244",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "CXMT accusata di aver usato segreti Samsung per le sue DRAM",
-      "url": "https://www.tomshw.it/hardware/cxmt-accusata-di-aver-usato-segreti-samsung-per-le-sue-dram",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108722/cxmt-accusata-di-aver-usato-segreti-samsung-per-le-sue-dram.png",
-      "summary": "Un ex ingegnere Samsung con 28 anni di esperienza ha dichiarato in tribunale che CXMT avrebbe pianificato fin dalla propria fondazione di utilizzare tecnologia sottratta a Samsung Electronics per acce...",
-      "date": "2026-08-20T21:08:57.0000000Z"
     },
     {
       "id": "dday:ed0a1c186090",
@@ -434,18 +434,6 @@
       "summary": "",
       "videoId": "doYvlFZh9Ow",
       "date": "2026-08-20T16:23:42.0000000Z"
-    },
-    {
-      "id": "dday:4be603ee1eb7",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Dopo 6 anni e mezzo, GeForce Now può fare finalmente streaming dei giochi da Firefox. Ma solo per Windows",
-      "url": "https://www.dday.it/redazione/58432/dopo-6-anni-e-mezzo-geforce-now-puo-fare-finalmente-streaming-dei-giochi-da-firefox-ma-solo-per-windows",
-      "image": null,
-      "summary": "",
-      "date": "2026-08-20T14:18:00.0000000Z"
     },
     {
       "id": "techprincess:tsHupFsTinI",
@@ -537,6 +525,18 @@
       "summary": "",
       "videoId": "DI2qXpJ7K7o",
       "date": "2026-08-14T11:51:03.0000000Z"
+    },
+    {
+      "id": "tomshw:cbf5a51a9387",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Leggere un bilancio con l'AI: prompt e metodo per estrarre i segnali di rischio in 10 minuti",
+      "url": "https://www.tomshw.it/aioperator/leggere-un-bilancio-con-lai-prompt-e-metodo-per-estrarre-i-segnali-di-rischio-in-10-minuti",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107258/04-amm13-cover.jpg",
+      "summary": "Un bilancio racconta la salute di un'azienda con dodici o diciotto mesi di ritardo. Il documento che stai per scaricare fotografa un esercizio chiuso mesi fa, non la situazione di oggi, e questo limit...",
+      "date": "2026-08-13T06:33:55.0000000Z"
     },
     {
       "id": "techprincess:Pi0RMRQOBCs",

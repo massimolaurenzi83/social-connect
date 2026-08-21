@@ -1,7 +1,56 @@
 {
   "category": "notizie",
-  "updated": "2026-08-21T15:54:33.4530883Z",
+  "updated": "2026-08-21T16:32:01.3061408Z",
   "items": [
+    {
+      "id": "skytg24:suFITj9yP1w",
+      "sourceId": "skytg24",
+      "source": "Sky TG24",
+      "platform": "youtube",
+      "category": "notizie",
+      "title": "Maltempo in Piemonte, ingenti danni a Chivasso",
+      "url": "https://www.youtube.com/watch?v=suFITj9yP1w",
+      "image": "https://i.ytimg.com/vi/suFITj9yP1w/hqdefault.jpg",
+      "summary": "",
+      "videoId": "suFITj9yP1w",
+      "date": "2026-08-21T16:21:02.0000000Z"
+    },
+    {
+      "id": "open:d42ed081fffd",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Maltempo in Lombardia: 400 evacuati tra frane ed esondazioni, la Regione chiede lo stato di emergenza – I video",
+      "url": "https://www.open.online/2026/08/21/maltempo-nord-italia-danni-video/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/maltempo-lombardia.jpg",
+      "summary": "Colpita anche la Toscana e la Liguria. . Oltre 8mila fulmini in due ore L'articolo Maltempo in Lombardia: 400 evacuati tra frane ed esondazioni, la Regione chiede lo stato di emergenza – I video proviene da Open .",
+      "date": "2026-08-21T16:16:30.0000000Z"
+    },
+    {
+      "id": "ansa:53bbba64fba6",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La madre della bimba morta a Palermo per sospetta difterite attacca i medici: 'Incompetenti'",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/la-madre-della-bimba-morta-a-palermo-per-sospetta-difterite-attacca-i-medici_dff22e46-609a-4001-bccf-b32389579e80.html",
+      "image": null,
+      "summary": "Prima il post su Facebook, poi rende rende privato il profilo social",
+      "date": "2026-08-21T16:06:21.0000000Z"
+    },
+    {
+      "id": "open:0ceb4b581c6a",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Bimba morta a Palermo, l’infettivologo: «Ora contro la difterite bisogna trovare il paziente zero»",
+      "url": "https://www.open.online/2026/08/21/difterite-bimba-morta-palermo-paziente-zero-focolaio/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/palermo-bambina-morta-difterite.jpg",
+      "summary": "Le parole del professore Antonio Cascio, direttore dell'Unità di Malattie infettive del Policlinico di Palermo: «Può essere che ci sia un portatore sano tra i parenti o i conoscenti e quindi inconsapevolmente abbia po...",
+      "date": "2026-08-21T15:57:17.0000000Z"
+    },
     {
       "id": "skytg24:PvrKqp4LnkI",
       "sourceId": "skytg24",
@@ -78,16 +127,16 @@
       "date": "2026-08-21T15:32:22.0000000Z"
     },
     {
-      "id": "ansa:53bbba64fba6",
-      "sourceId": "ansa",
-      "source": "ANSA",
+      "id": "repubblica:f39c40607cb2",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "La madre della bimba morta a Palermo per sospetta difterite attacca i medici: 'Incompetenti'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/la-madre-della-bimba-morta-a-palermo-per-sospetta-difterite-attacca-i-medici_dff22e46-609a-4001-bccf-b32389579e80.html",
+      "title": "Sinner, come cambia la classifica dopo il forfait agli Us Open. L’occasione è per Zverev",
+      "url": "https://www.repubblica.it/sport/dossier/us-open-tennis/2026/08/21/news/sinner_cambia_classifica_dopo_forfait_us_open-425540301/",
       "image": null,
-      "summary": "Il post su Facebook: \"I sanitari hanno sottovalutato caso\"",
-      "date": "2026-08-21T15:31:22.0000000Z"
+      "summary": "Il tedesco potrebbe ridurre drasticamente il distacco dal n. 1. Attualmente dietro di 5010 lunghezze, potrebbe portarsi a 1810 punti di distanza in caso di trionfo a New York. Sorride meno Alcaraz che, comunque vada, ...",
+      "date": "2026-08-21T15:25:21.0000000Z"
     },
     {
       "id": "open:563d4ea49f36",
@@ -139,6 +188,18 @@
       "summary": "",
       "videoId": "Mk88SA8CBB8",
       "date": "2026-08-21T15:11:27.0000000Z"
+    },
+    {
+      "id": "repubblica:b09652c94205",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Conosce una donna sui social e la accoltella in un residence al primo appuntamento",
+      "url": "https://torino.repubblica.it/cronaca/2026/08/21/news/accoltella_donna_social_appuntamento_moncalieri_arrestato-425540251/",
+      "image": null,
+      "summary": "L’uomo, 31 anni, è stato arrestato a Moncalieri, nel Torinese, per tentato omicidio. Le condizioni della vittima, 51 anni, non sono gravi",
+      "date": "2026-08-21T15:08:59.0000000Z"
     },
     {
       "id": "ansa:483011ff3fcf",
@@ -340,10 +401,10 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Italia-Croazia, le azzurre si riprendono e vanno sul 2-0: gli Europei di volley in diretta",
+      "title": "Italia-Croazia 3-0, debutto vincente agli Europei di volley ma Velasco striglia le azzurre",
       "url": "https://www.repubblica.it/sport/volley/2026/08/21/diretta/italia_croazia_europei_femminili_volley_diretta-425540049/",
       "image": null,
-      "summary": "Le ragazze guidate da coach Velasco in campo nella prima partita del girone a Goteborg: Egonu ed Antropova insieme, subito la soluzione a sorpresa del ct. Primo setr dominato, poi la reazione dopo un parziale di 6-0 d...",
+      "summary": "Prima partita del girone degli Europei femminili a Goteborg: Egonu ed Antropova insieme, subito la soluzione a sorpresa del ct. Primo set dominato, poi qualche difficoltà e il time out in cui il ct riprende le giocatr...",
       "date": "2026-08-21T13:15:41.0000000Z"
     },
     {
@@ -371,16 +432,16 @@
       "date": "2026-08-21T13:00:35.0000000Z"
     },
     {
-      "id": "open:0bf39e77ce6d",
-      "sourceId": "open",
-      "source": "Open",
+      "id": "repubblica:a4c8b8015bee",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Perché la truffa delle targhe polacche in Italia potrebbe finire presto: così non si potranno più evitare le multe",
-      "url": "https://www.open.online/2026/08/21/stop-truffa-targhe-polacche-perche-multe/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/auto-polonia.jpg",
-      "summary": "Il nuovo Codice della strada punta a rendere meno conveniente l'uso di auto con targa estera per chi vive in Italia e i controlli sulle targhe polacche diventano più semplici L'articolo Perché la truffa delle targhe p...",
-      "date": "2026-08-21T12:56:03.0000000Z"
+      "title": "La città in India dove l’IA crea nuovi posti di lavoro, ma solo per il tempo di addestrare i robot",
+      "url": "https://www.repubblica.it/esteri/2026/08/21/news/intelligenza_artificiale_crea_nuovi_lavori_citta_india_giovani_addestrano_robot_annotatori_dati-425540007/",
+      "image": null,
+      "summary": "A Karur, nel sud del Paese, migliaia di persone, soprattutto giovani laureati, lavorano nell’annotazione dei dati, insegnando ai robot umanoidi a riconoscere e svolgere attività nel mondo reale. Ma il ministro dell’In...",
+      "date": "2026-08-21T12:58:03.0000000Z"
     },
     {
       "id": "skytg24:AAYTYxYoLNs",
@@ -394,18 +455,6 @@
       "summary": "",
       "videoId": "AAYTYxYoLNs",
       "date": "2026-08-21T12:42:03.0000000Z"
-    },
-    {
-      "id": "open:9b4c25d4c45e",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La Turchia emette un mandato di arresto per Netanyahu: l’accusa di genocidio e il caso della Global Sumud Flotilla",
-      "url": "https://www.open.online/2026/08/21/turchia-manda-arresto-netanyahu-flotilla-genocidio/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/netantyhu-mandao-arresto-turchia-scaled.jpg",
-      "summary": "L'annuncio del ministro della Giustizia turco, Akin Gürlek: «Non permetteremo che i crimini commessi a Gaza vengano insabbiati» L'articolo La Turchia emette un mandato di arresto per Netanyahu: l’accusa di genocidio e...",
-      "date": "2026-08-21T12:32:42.0000000Z"
     },
     {
       "id": "ansa:0697b8ccfab0",
@@ -481,18 +530,6 @@
       "date": "2026-08-21T11:19:12.0000000Z"
     },
     {
-      "id": "repubblica:216f23e40717",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Meloni sceglie il 'nemico' New York Times per riparlare di Trump: “Pensavo fosse più facile”",
-      "url": "https://www.repubblica.it/politica/2026/08/21/news/meloni_trump_new_york_times_intervista-425539855/",
-      "image": null,
-      "summary": "La premier rompe il silenzio sul tycoon dopo settimane dalla crisi post Ankara: “Lo risentirò? Vedremo”",
-      "date": "2026-08-21T11:15:23.0000000Z"
-    },
-    {
       "id": "skytg24:y1ZEVpr5_WM",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -506,19 +543,6 @@
       "date": "2026-08-21T11:14:17.0000000Z"
     },
     {
-      "id": "skytg24:wgAutnoYcsI",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Perché 6 Paesi Ue rimanderanno migranti in Italia",
-      "url": "https://www.youtube.com/watch?v=wgAutnoYcsI",
-      "image": "https://i.ytimg.com/vi/wgAutnoYcsI/hqdefault.jpg",
-      "summary": "",
-      "videoId": "wgAutnoYcsI",
-      "date": "2026-08-21T11:13:15.0000000Z"
-    },
-    {
       "id": "ansa:6709aff8b163",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -529,30 +553,6 @@
       "image": null,
       "summary": "Recuperati gli aromi di fiori estinti, la tecnologia cambia la tavolozza dei profumieri",
       "date": "2026-08-21T11:00:39.0000000Z"
-    },
-    {
-      "id": "repubblica:1851fa05e735",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Maltempo, fulmine su cabinovia nel Bresciano, tetti divelti in Brianza. Comuni isolati a Bergamo",
-      "url": "https://milano.repubblica.it/cronaca/2026/08/21/news/maltempo_frane_allagamenti_brescia_brianza_sondrio-425539645/",
-      "image": null,
-      "summary": "Intanto sono terminate le operazioni di evacuazione di un campeggio nella Bergamasca. La situazione dovrebbe migliorare nel pomeriggio",
-      "date": "2026-08-21T09:42:07.0000000Z"
-    },
-    {
-      "id": "repubblica:7851ba8b2272",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Vìola il Codice rosso appena attivato e aggredisce la compagna. I carabinieri intervengono tre volte",
-      "url": "https://bologna.repubblica.it/cronaca/2026/08/21/news/aggressione_compagna_violazione_codice_rosso-425539567/",
-      "image": null,
-      "summary": "Un 54enne, che si era introdotto in casa della donna, è stato arrestato e portato in carcere",
-      "date": "2026-08-21T09:11:13.0000000Z"
     },
     {
       "id": "ansa:e4033d7326ae",

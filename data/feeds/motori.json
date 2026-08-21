@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-21T15:54:33.4595939Z",
+  "updated": "2026-08-21T16:32:01.2594996Z",
   "items": [
+    {
+      "id": "hdmotori:c7b7c130aedb",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Bugatti Veyron, quando il restauro diventa un’opera d’arte",
+      "url": "https://www.hdmotori.it/bugatti-veyron-restauro/",
+      "image": null,
+      "summary": "Con il programma La Maison Pur Sang, un cliente Bugatti ha ottenuto una versione moderna della Bugatti Veyron The post Bugatti Veyron, quando il restauro diventa un’opera d’arte appeared first on HDmotori.it .",
+      "date": "2026-08-21T16:00:16.0000000Z"
+    },
+    {
+      "id": "motor1:9549a600808a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Genesis lancia finalmente la sua prima ibrida (negli USA)",
+      "url": "https://it.motor1.com/news/805725/genesis-gv80-hybrid-debutto-usa/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak3oWx/s3/2027-genesis-gv80-hybrid.jpg",
+      "summary": "La GV80 Hybrid è sostanzialmente più efficiente e potente del modello a benzina",
+      "date": "2026-08-21T16:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:99e6e62c02ef",
       "sourceId": "hdmotori",
@@ -15,18 +39,6 @@
       "date": "2026-08-21T15:00:40.0000000Z"
     },
     {
-      "id": "insideevs:f35d8265e8e1",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ford userà la piattaforma Geely per un nuovo SUV elettrificato",
-      "url": "https://insideevs.it/news/805704/ford-suv-geely-2029-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/3WEbgY/s3/geely-e5-2026-im-test.jpg",
-      "summary": "Il nuovo SUV Ford nascerà sulla piattaforma GEA di Geely e sarà prodotto nello stabilimento di Valencia, con motori elettrici e ibridi",
-      "date": "2026-08-21T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:f3132c5f6333",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -36,6 +48,18 @@
       "url": "https://it.motor1.com/features/805479/pressione-pneumatici-controllo-frequenza/",
       "image": "https://cdn.motor1.com/images/mgl/qkYzJz/s3/the-simple-maintenance-task-most-drivers-forget.jpg",
       "summary": "Bastano pochi minuti, ma ignorare la pressione dei pneumatici potrebbe costarti carburante, durata dei pneumatici e persino la tua sicurezza.",
+      "date": "2026-08-21T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:f35d8265e8e1",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ford userà la piattaforma Geely per un nuovo SUV elettrificato",
+      "url": "https://insideevs.it/news/805704/ford-suv-geely-2029-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/3WEbgY/s3/geely-e5-2026-im-test.jpg",
+      "summary": "Il nuovo SUV Ford nascerà sulla piattaforma GEA di Geely e sarà prodotto nello stabilimento di Valencia, con motori elettrici e ibridi",
       "date": "2026-08-21T15:00:00.0000000Z"
     },
     {
@@ -111,18 +135,6 @@
       "date": "2026-08-21T13:12:24.0000000Z"
     },
     {
-      "id": "insideevs:1d2af046ec51",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla: FSD v15 è la svolta? Optimus slitta al 2027",
-      "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
-      "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
-      "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
-      "date": "2026-08-21T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:5ab500bc4912",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -132,6 +144,18 @@
       "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
       "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
       "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
+      "date": "2026-08-21T13:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:1d2af046ec51",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla: FSD v15 è la svolta? Optimus slitta al 2027",
+      "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
+      "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
+      "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
       "date": "2026-08-21T13:00:00.0000000Z"
     },
     {
@@ -171,18 +195,6 @@
       "date": "2026-08-21T11:30:35.0000000Z"
     },
     {
-      "id": "motor1:38b9224f8604",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Keyless-Go, quasi metà delle auto è ancora vulnerabile",
-      "url": "https://it.motor1.com/features/805416/auto-keyless-vulnerabile-ladri/",
-      "image": "https://cdn.motor1.com/images/mgl/mMzyOv/s3/keyless-go-e-furti-d-auto-i-test-adac.jpg",
-      "summary": "L’ADAC invita gli automobilisti a verificare la presenza della tecnologia UWB prima di comprare un’auto dotata di apertura senza chiave",
-      "date": "2026-08-21T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:7b7bde363fe8",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -192,6 +204,18 @@
       "url": "https://insideevs.it/news/805611/ricarica-bidirezionale-v2g-funziona-oggi/",
       "image": "https://cdn.motor1.com/images/mgl/lEGgAl/s3/ricarica-bidirezionale-v2g.jpg",
       "summary": "Tra progetti pilota ENEA Terna e obbligo EN ISO 15118-20 dal 2027, il V2G resta legato a offerte chiuse e poche combinazioni compatibili.",
+      "date": "2026-08-21T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:38b9224f8604",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Keyless-Go, quasi metà delle auto è ancora vulnerabile",
+      "url": "https://it.motor1.com/features/805416/auto-keyless-vulnerabile-ladri/",
+      "image": "https://cdn.motor1.com/images/mgl/mMzyOv/s3/keyless-go-e-furti-d-auto-i-test-adac.jpg",
+      "summary": "L’ADAC invita gli automobilisti a verificare la presenza della tecnologia UWB prima di comprare un’auto dotata di apertura senza chiave",
       "date": "2026-08-21T11:00:00.0000000Z"
     },
     {
@@ -315,16 +339,16 @@
       "date": "2026-08-21T07:06:18.0000000Z"
     },
     {
-      "id": "hdmotori:f4fe3fcdc16b",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "insideevs:8819548e7e0b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Hammond testa una moto cinese da 135 CV contro una Ducati Panigale V2: risultato spiazzante",
-      "url": "https://www.hdmotori.it/hammond-moto-cinese-ducati-panigale-v2/",
-      "image": null,
-      "summary": "Il noto giornalista e presentatore Richard Hammond ha messo a confronto la ZX Moto 820RR con una Ducati Panigale V2 The post Hammond testa una moto cinese da 135 CV contro una Ducati Panigale V2: risultato spiazzante ...",
-      "date": "2026-08-21T07:00:45.0000000Z"
+      "title": "Nuovo l'approccio alle batterie al litio, più dense del 10%",
+      "url": "https://insideevs.it/news/805625/asahi-kasei-batterie-litio-predoping/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZwbeX/s3/illustrazione-concettuale-della-nuova-tecnologia-di-pre-doping.jpg",
+      "summary": "Asahi Kasei sviluppa un sistema di pre-doping al litio che utilizza carbonato di litio a basso costo integrabile nella produzione",
+      "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
       "id": "motor1:224330779c13",
@@ -336,18 +360,6 @@
       "url": "https://it.motor1.com/news/805620/brabus-piani-oltre-mercedes/",
       "image": "https://cdn.motor1.com/images/mgl/W8KVjO/s3/brabus-ceo-constantin-buschmann-interview.jpg",
       "summary": "Il CEO Constantin Buschmann racconta a Motor1 come l'azienda stia andando oltre Mercedes e perché il Bodo sia solo l'inizio",
-      "date": "2026-08-21T07:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:8819548e7e0b",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nuovo l'approccio alle batterie al litio, più dense del 10%",
-      "url": "https://insideevs.it/news/805625/asahi-kasei-batterie-litio-predoping/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZwbeX/s3/illustrazione-concettuale-della-nuova-tecnologia-di-pre-doping.jpg",
-      "summary": "Asahi Kasei sviluppa un sistema di pre-doping al litio che utilizza carbonato di litio a basso costo integrabile nella produzione",
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
@@ -375,18 +387,6 @@
       "date": "2026-08-21T06:00:00.0000000Z"
     },
     {
-      "id": "motor1:0adce7c1f354",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quando il paraurti diventa il volto dell'auto",
-      "url": "https://it.motor1.com/news/803607/design-scudo-paraurti-evoluzione/",
-      "image": "https://cdn.motor1.com/images/mgl/VzWR8K/s3/design-quando-il-paraurti-diventa-il-volto-dell-auto.jpg",
-      "summary": "Lo chiamiamo ancora così, ma è diventato una parte della carrozzeria, e questo cambia completamente il modo di disegnare un'automobile",
-      "date": "2026-08-21T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:62bcfe4c521d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -396,6 +396,18 @@
       "url": "https://insideevs.it/news/805562/blocco-trffico-londra-riduzione-inuinanti/",
       "image": "https://cdn.motor1.com/images/mgl/lEqzvE/s3/un-bus-nel-centro-di-londra.jpg",
       "summary": "Ricercatori britannici dimostrano che ridurre l'inquinamento da auto termiche a Londra rende i bimbi più sani",
+      "date": "2026-08-21T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:0adce7c1f354",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Quando il paraurti diventa il volto dell'auto",
+      "url": "https://it.motor1.com/news/803607/design-scudo-paraurti-evoluzione/",
+      "image": "https://cdn.motor1.com/images/mgl/VzWR8K/s3/design-quando-il-paraurti-diventa-il-volto-dell-auto.jpg",
+      "summary": "Lo chiamiamo ancora così, ma è diventato una parte della carrozzeria, e questo cambia completamente il modo di disegnare un'automobile",
       "date": "2026-08-21T05:00:00.0000000Z"
     },
     {
@@ -456,18 +468,6 @@
       "url": "https://insideevs.it/news/805549/architetture-zonali-auto-software-defined/",
       "image": "https://cdn.motor1.com/images/mgl/2N4P74/s3/auto-software-defined-perche-le-architetture-zonali-sono-decisive.jpg",
       "summary": "La tecnologia dovrebbe entrare nella produzione di massa tra il 2027 e il 2030, diventando un fattore decisivo per la competitività",
-      "date": "2026-08-20T15:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:a4daf622403c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le previsioni del traffico per il weekend 22-23 agosto",
-      "url": "https://it.motor1.com/news/805563/previsioni-traffico-22-23-agosto-bollini/",
-      "image": "https://cdn.motor1.com/images/mgl/wl8YyL/s3/le-previsioni-del-traffico-per-il-weekend-22-23-agosto.jpg",
-      "summary": "Rientro verso le città critico sia sabato che domenica. Meteo in prevalenza stabile: ecco tutto quello da sapere",
       "date": "2026-08-20T15:00:00.0000000Z"
     },
     {
