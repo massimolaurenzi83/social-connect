@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-21T11:48:22.8058664Z",
+  "updated": "2026-08-21T12:17:34.7027176Z",
   "items": [
+    {
+      "id": "motor1:c083653a7cdc",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "A cosa serve il volante appiattito di certe auto?",
+      "url": "https://it.motor1.com/news/805676/volante-appiattito-auto-spiegazione/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4P0k/s3/why-your-car-s-steering-wheel-is-not-perfectly-round.jpg",
+      "summary": "La forma strana non è solo estetica; c'è un motivo intelligente per cui le case auto stanno appiattendo la parte inferiore del volante",
+      "date": "2026-08-21T12:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:b173149ff214",
       "sourceId": "hdmotori",
@@ -183,18 +195,6 @@
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
-      "id": "motor1:224330779c13",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Brabus ha grandi piani oltre Mercedes: «È ora di cambiare»",
-      "url": "https://it.motor1.com/news/805620/brabus-piani-oltre-mercedes/",
-      "image": "https://cdn.motor1.com/images/mgl/W8KVjO/s3/brabus-ceo-constantin-buschmann-interview.jpg",
-      "summary": "Il CEO Constantin Buschmann racconta a Motor1 come l'azienda stia andando oltre Mercedes e perché il Bodo sia solo l'inizio",
-      "date": "2026-08-21T07:00:00.0000000Z"
-    },
-    {
       "id": "motor1:8218664d57c5",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -204,6 +204,18 @@
       "url": "https://it.motor1.com/features/805661/mercedes-sl-1997-acquisto-costi/",
       "image": "https://cdn.motor1.com/images/mgl/7ZEOyp/s3/1997-mercedes-benz-sl500-r129.jpg",
       "summary": "La Mercedes-Benz SL R129 è una meraviglia dell’ingegneria e un’allettante occasione tra le auto classiche. C’è da avere paura dei costi?",
+      "date": "2026-08-21T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:224330779c13",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Brabus ha grandi piani oltre Mercedes: «È ora di cambiare»",
+      "url": "https://it.motor1.com/news/805620/brabus-piani-oltre-mercedes/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KVjO/s3/brabus-ceo-constantin-buschmann-interview.jpg",
+      "summary": "Il CEO Constantin Buschmann racconta a Motor1 come l'azienda stia andando oltre Mercedes e perché il Bodo sia solo l'inizio",
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
@@ -351,18 +363,6 @@
       "date": "2026-08-20T15:00:45.0000000Z"
     },
     {
-      "id": "insideevs:47e5ee762799",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto software-defined: perché le architetture zonali sono decisive",
-      "url": "https://insideevs.it/news/805549/architetture-zonali-auto-software-defined/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4P74/s3/auto-software-defined-perche-le-architetture-zonali-sono-decisive.jpg",
-      "summary": "La tecnologia dovrebbe entrare nella produzione di massa tra il 2027 e il 2030, diventando un fattore decisivo per la competitività",
-      "date": "2026-08-20T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:a4daf622403c",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -372,6 +372,18 @@
       "url": "https://it.motor1.com/news/805563/previsioni-traffico-22-23-agosto-bollini/",
       "image": "https://cdn.motor1.com/images/mgl/wl8YyL/s3/le-previsioni-del-traffico-per-il-weekend-22-23-agosto.jpg",
       "summary": "Rientro verso le città critico sia sabato che domenica. Meteo in prevalenza stabile: ecco tutto quello da sapere",
+      "date": "2026-08-20T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:47e5ee762799",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto software-defined: perché le architetture zonali sono decisive",
+      "url": "https://insideevs.it/news/805549/architetture-zonali-auto-software-defined/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4P74/s3/auto-software-defined-perche-le-architetture-zonali-sono-decisive.jpg",
+      "summary": "La tecnologia dovrebbe entrare nella produzione di massa tra il 2027 e il 2030, diventando un fattore decisivo per la competitività",
       "date": "2026-08-20T15:00:00.0000000Z"
     },
     {
@@ -423,18 +435,6 @@
       "date": "2026-08-20T13:37:08.0000000Z"
     },
     {
-      "id": "motor1:55dffa510d7d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Cosa succede davvero quando metti l'auto in modalità Sport?",
-      "url": "https://it.motor1.com/features/805581/auto-modalita-sport-funzionamento-segreti/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4PBn/s3/why-your-car-has-a-sport-mode-you-probably-never-use.jpg",
-      "summary": "Quel piccolo pulsante può trasformare come si comporta la tua auto, ma cosa fa davvero la modalità Sport sotto il cofano?",
-      "date": "2026-08-20T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:ae520cfa362d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -447,16 +447,16 @@
       "date": "2026-08-20T13:00:00.0000000Z"
     },
     {
-      "id": "motor1:b8a6c16d3d9c",
+      "id": "motor1:55dffa510d7d",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Questo camper con letto trasversale e basculante si fa notare",
-      "url": "https://it.motor1.com/news/805578/benimar-tessoro-storm-line-t443-camper/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4WLp/s3/benimar-tessoro-storm-line-2026.jpg",
-      "summary": "Il nuovo Benimar Tessoro Storm Lin ha un look grintoso, una pianta compatta con letto trasversale",
-      "date": "2026-08-20T12:00:00.0000000Z"
+      "title": "Cosa succede davvero quando metti l'auto in modalità Sport?",
+      "url": "https://it.motor1.com/features/805581/auto-modalita-sport-funzionamento-segreti/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4PBn/s3/why-your-car-has-a-sport-mode-you-probably-never-use.jpg",
+      "summary": "Quel piccolo pulsante può trasformare come si comporta la tua auto, ma cosa fa davvero la modalità Sport sotto il cofano?",
+      "date": "2026-08-20T13:00:00.0000000Z"
     },
     {
       "id": "insideevs:b0073dbefe3d",

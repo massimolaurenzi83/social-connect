@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-21T11:48:22.8341572Z",
+  "updated": "2026-08-21T12:17:34.6908955Z",
   "items": [
+    {
+      "id": "cybersecurity360:bc21ad6784b2",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "L’insicurezza cyber delle buone intenzioni",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/sicurezza-cyber-delle-buone-intenzioni/",
+      "image": null,
+      "summary": "Non è certo facile entrare nel mondo della sicurezza cyber, ma limitarsi alle sole policy senza poi badare all'attuazione efficace delle stesse comporta un distacco fra piano formale e operativo. Con buona pace di ogn...",
+      "date": "2026-08-21T11:58:36.0000000Z"
+    },
     {
       "id": "cybersecurity360:819d6d5af647",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Proton Pass Plus è disponibile a 2,49 euro al mese per i primi 12 mesi, con uno sconto del 50%. Il piano include crittografia end-to-end, alias email, 2FA, monitoraggio del Dark Web e supporto alle Passkey L'articolo ...",
       "date": "2026-08-19T09:44:07.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:320cd1f5ee20",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "La protezione della rete domestica multipiattaforma: l’impatto dei servizi VPN a dispositivi illimitati sulla cybersecurity",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/vpn-dispositivi-illimitati-sicurezza-rete-privata/",
-      "image": null,
-      "summary": "Surfshark lancia l'offerta per avere una VPN su dispositivi illimitati a 2,49 euro al mese con 3 mesi extra inclusi. La promozione abbina VPN, antivirus, blocco di annunci e protezione dell’identità. Il piano offre an...",
-      "date": "2026-08-19T09:15:46.0000000Z"
     }
   ]
 }
