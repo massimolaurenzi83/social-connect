@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-21T09:46:26.4611405Z",
+  "updated": "2026-08-21T10:15:11.4439778Z",
   "items": [
+    {
+      "id": "ferrovie:0e5f7741ac95",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Treni, lavori e disagi: tutte le modifiche alla circolazione tra Bologna, Milano e il Nord Italia",
+      "url": "https://www.ferrovie.info/treni-reali/treni-lavori-e-disagi-tutte-le-modifiche-alla-circolazione-tra-bologna-milano-e-il-nord-italia.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10529/ETR_521_n_003___ETR_421_n_008.JPG",
+      "summary": "Numerosi cantieri ferroviari interesseranno nelle prossime settimane il nodo di Bologna e diverse linee nazionali e internazionali, con cancellazioni, autobus sostitutivi e variazioni di orario. Settimane di lavori e ...",
+      "date": "2026-08-21T09:59:09.0000000Z"
+    },
     {
       "id": "ferrovie:c72c74f2483b",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.archivio.ferrovie.info/images/news6/UTLC_ERA_1.jpg",
       "summary": "Cresce il traffico ferroviario in Cina: +0,7% per le merci e forte incremento del trasporto intermodale. Le ferrovie statali cinesi hanno trasportato 2,35 miliardi di tonnellate di merci nei primi sette mesi del 2026,...",
       "date": "2026-08-20T07:13:42.0000000Z"
-    },
-    {
-      "id": "ferrovie:b55fdca53068",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Raddoppio Roma - Pescara, il Comune di Chieti chiede di riaprire il dossier sulle opere compensative",
-      "url": "https://www.ferrovie.info/treni-reali/raddoppio-roma-pescara-il-comune-di-chieti-chiede-di-riaprire-il-dossier-sulle-opere-compensative.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/normal_cantiere_roma_pescara_3603.jpg",
-      "summary": "L’amministrazione comunale ha inviato una nota a RFI e alla Regione Abruzzo: tra le richieste anche barriere antirumore, una nuova fermata ferroviaria e interventi sulla viabilità. Il Comune di Chieti riapre il confro...",
-      "date": "2026-08-19T09:16:49.0000000Z"
     }
   ]
 }

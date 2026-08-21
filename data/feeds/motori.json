@@ -1,18 +1,30 @@
 {
   "category": "motori",
-  "updated": "2026-08-21T09:46:26.4649784Z",
+  "updated": "2026-08-21T10:15:11.4728300Z",
   "items": [
     {
-      "id": "hdmotori:dedab429d3b5",
+      "id": "hdmotori:6495036a68fd",
       "sourceId": "hdmotori",
       "source": "HDmotori",
       "platform": "rss",
       "category": "motori",
-      "title": "Dalla Corea arriva il maxi SUV di lusso Genesis GV90",
-      "url": "https://www.hdmotori.it/maxi-suv-lusso-genesis-gv90/",
+      "title": "Toyota Corolla: negli USA arriva l’edizione limitata per i 60 anni",
+      "url": "https://www.hdmotori.it/toyota-corolla-60-anni/",
       "image": null,
-      "summary": "Alla lunga lista di brand che vogliono ritagliarsi uno spazio nel segmento dei super SUV elettrici si è aggiunto anche Genesis con la nuova GV90. The post Dalla Corea arriva il maxi SUV di lusso Genesis GV90 appeared ...",
-      "date": "2026-08-21T09:39:23.0000000Z"
+      "summary": "Toyota celebra i 60 anni della Corolla con il Model Year 2027 e l'inedita 60th Anniversary Special Edition, edizione limitata da 2.500 unità, insieme a nuovi dettagli estetica e motorizzazioni THS 5. The post Toyota C...",
+      "date": "2026-08-21T10:00:50.0000000Z"
+    },
+    {
+      "id": "motor1:48c425946c4e",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Lamborghini Temerario Tricolore accende la sfida dei colori",
+      "url": "https://it.motor1.com/news/805681/lamborghini-temerario-tricolore-pebble-beach/",
+      "image": "https://cdn.motor1.com/images/mgl/JONqgJ/s3/lamborghini-temerario-tricolore-at-pebble-beach-2026.jpg",
+      "summary": "Temerario Tricolore porta al centro della scena il programma Ad Personam di Lamborghini e la meccanica V8 ibrida",
+      "date": "2026-08-21T10:00:00.0000000Z"
     },
     {
       "id": "hdmotori:7da8e8cace34",
@@ -49,6 +61,18 @@
       "image": "https://cdn.motor1.com/images/mgl/4268k/s3/tesla-solar-roof.jpg",
       "summary": "Stando alla stampa americana, Elon Musk e soci dicono basta al business dei tetti solari, considerato poco redditizio",
       "date": "2026-08-21T09:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:dedab429d3b5",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dalla Corea arriva il maxi SUV di lusso Genesis GV90",
+      "url": "https://www.hdmotori.it/maxi-suv-lusso-genesis-gv90/",
+      "image": null,
+      "summary": "Alla lunga lista di brand che vogliono ritagliarsi uno spazio nel segmento dei super SUV elettrici si è aggiunto anche Genesis con la nuova GV90. The post Dalla Corea arriva il maxi SUV di lusso Genesis GV90 appeared ...",
+      "date": "2026-08-21T08:30:23.0000000Z"
     },
     {
       "id": "motor1:8580f500129d",
@@ -111,15 +135,15 @@
       "date": "2026-08-21T07:00:45.0000000Z"
     },
     {
-      "id": "motor1:224330779c13",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
+      "id": "insideevs:8819548e7e0b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Brabus ha grandi piani oltre Mercedes: «È ora di cambiare»",
-      "url": "https://it.motor1.com/news/805620/brabus-piani-oltre-mercedes/",
-      "image": "https://cdn.motor1.com/images/mgl/W8KVjO/s3/brabus-ceo-constantin-buschmann-interview.jpg",
-      "summary": "Il CEO Constantin Buschmann racconta a Motor1 come l'azienda stia andando oltre Mercedes e perché il Bodo sia solo l'inizio",
+      "title": "Nuovo l'approccio alle batterie al litio, più dense del 10%",
+      "url": "https://insideevs.it/news/805625/asahi-kasei-batterie-litio-predoping/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZwbeX/s3/illustrazione-concettuale-della-nuova-tecnologia-di-pre-doping.jpg",
+      "summary": "Asahi Kasei sviluppa un sistema di pre-doping al litio che utilizza carbonato di litio a basso costo integrabile nella produzione",
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
@@ -135,15 +159,15 @@
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
-      "id": "insideevs:8819548e7e0b",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
+      "id": "motor1:224330779c13",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Nuovo l'approccio alle batterie al litio, più dense del 10%",
-      "url": "https://insideevs.it/news/805625/asahi-kasei-batterie-litio-predoping/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZwbeX/s3/illustrazione-concettuale-della-nuova-tecnologia-di-pre-doping.jpg",
-      "summary": "Asahi Kasei sviluppa un sistema di pre-doping al litio che utilizza carbonato di litio a basso costo integrabile nella produzione",
+      "title": "Brabus ha grandi piani oltre Mercedes: «È ora di cambiare»",
+      "url": "https://it.motor1.com/news/805620/brabus-piani-oltre-mercedes/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KVjO/s3/brabus-ceo-constantin-buschmann-interview.jpg",
+      "summary": "Il CEO Constantin Buschmann racconta a Motor1 come l'azienda stia andando oltre Mercedes e perché il Bodo sia solo l'inizio",
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
@@ -375,18 +399,6 @@
       "date": "2026-08-20T13:37:08.0000000Z"
     },
     {
-      "id": "hdmotori:0d42a53736fa",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "James May promuove la Fiat Grande Panda: “Fa tutto ciò che serve”",
-      "url": "https://www.hdmotori.it/james-may-fiat-grande-panda/",
-      "image": null,
-      "summary": "James May prova la nuova Fiat Grande Panda e ne promuove praticità, comfort ed ergonomia. Un'auto promossa per la semplicità The post James May promuove la Fiat Grande Panda: “Fa tutto ciò che serve” appeared first on...",
-      "date": "2026-08-20T13:00:38.0000000Z"
-    },
-    {
       "id": "insideevs:ae520cfa362d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -423,18 +435,6 @@
       "date": "2026-08-20T12:00:00.0000000Z"
     },
     {
-      "id": "motor1:cc137def385f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Mercedes Classe A potrebbe trasformarsi in un crossover",
-      "url": "https://it.motor1.com/news/805131/mercedes-classe-a-2028-render/",
-      "image": "https://cdn.motor1.com/images/mgl/Oo9VwL/s3/mercedes-classe-a-2028-il-render-di-motor1.com.jpg",
-      "summary": "Il nuovo modello atteso nel 2028 potrebbe riprendere lo stile delle prime generazioni. Ecco cosa sappiamo",
-      "date": "2026-08-20T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:b0073dbefe3d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -444,6 +444,18 @@
       "url": "https://insideevs.it/news/805561/tesla-semi-europa-iaa-hannover/",
       "image": "https://cdn.motor1.com/images/mgl/VzWQAL/s3/2026-tesla-semi.jpg",
       "summary": "Il camion elettrico di Elon Musk e soci esordirà all'IAA di Hannover a metà settembre, quando saranno svelate anche le specifiche",
+      "date": "2026-08-20T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:cc137def385f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Mercedes Classe A potrebbe trasformarsi in un crossover",
+      "url": "https://it.motor1.com/news/805131/mercedes-classe-a-2028-render/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo9VwL/s3/mercedes-classe-a-2028-il-render-di-motor1.com.jpg",
+      "summary": "Il nuovo modello atteso nel 2028 potrebbe riprendere lo stile delle prime generazioni. Ecco cosa sappiamo",
       "date": "2026-08-20T11:00:00.0000000Z"
     },
     {
@@ -468,18 +480,6 @@
       "url": "https://insideevs.it/news/805564/ricarica-overhead-portland-20-auto/",
       "image": "https://cdn.motor1.com/images/mgl/xq36JG/s3/overhead-chargepoint-del-quick-turnaround-facility-all-aeroporto-di-portland-usa.jpg",
       "summary": "Nel Quick Turnaround Facility di Portland ChargePoint installa 10 charger da 200 kW overhead per elettrificare le flotte a noleggio in spazi saturi.",
-      "date": "2026-08-20T10:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:b84a573e8f41",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Al Salone di Torino 2026 ci siamo anche noi! Ecco cosa fare insieme",
-      "url": "https://it.motor1.com/news/803609/salone-torino-2026-attivita-motor1/",
-      "image": "https://cdn.motor1.com/images/mgl/40Y9j1/s3/salone-di-torino-2025.jpg",
-      "summary": "Quello di Motor1 è un calendario ricchissimo, tra novità assolute e grandi, attesi ritorni. Non potete mancare!",
       "date": "2026-08-20T10:00:00.0000000Z"
     },
     {
