@@ -1,7 +1,106 @@
 {
   "category": "notizie",
-  "updated": "2026-08-21T08:58:40.1514208Z",
+  "updated": "2026-08-21T09:46:26.4256770Z",
   "items": [
+    {
+      "id": "ansa:c9811936b607",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Maltempo, nella Bergamasca sei paesi isolati, 350 evacuati",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-nella-bergamasca-sei-paesi-isolati-350-evacuati_0e504f8b-b843-4532-983f-a2ca978e46d2.html",
+      "image": null,
+      "summary": "A Isola di Fonda sgomberato un campeggio minacciato dalla piena",
+      "date": "2026-08-21T09:31:05.0000000Z"
+    },
+    {
+      "id": "skytg24:_FYeA7w4Gwc",
+      "sourceId": "skytg24",
+      "source": "Sky TG24",
+      "platform": "youtube",
+      "category": "notizie",
+      "title": "David e Victoria Beckham passeggiano in piazzetta a Capri",
+      "url": "https://www.youtube.com/watch?v=_FYeA7w4Gwc",
+      "image": "https://i.ytimg.com/vi/_FYeA7w4Gwc/hqdefault.jpg",
+      "summary": "",
+      "videoId": "_FYeA7w4Gwc",
+      "date": "2026-08-21T09:31:03.0000000Z"
+    },
+    {
+      "id": "skytg24:o1-4sUfPdd4",
+      "sourceId": "skytg24",
+      "source": "Sky TG24",
+      "platform": "youtube",
+      "category": "notizie",
+      "title": "Aggressione omofoba a Olbia, lo picchiano in trenta perchè gay",
+      "url": "https://www.youtube.com/watch?v=o1-4sUfPdd4",
+      "image": "https://i.ytimg.com/vi/o1-4sUfPdd4/hqdefault.jpg",
+      "summary": "",
+      "videoId": "o1-4sUfPdd4",
+      "date": "2026-08-21T09:27:23.0000000Z"
+    },
+    {
+      "id": "skytg24:Gx5t7bvTwB0",
+      "sourceId": "skytg24",
+      "source": "Sky TG24",
+      "platform": "youtube",
+      "category": "notizie",
+      "title": "Migranti, vari paesi UE: “ora trasferimenti verso Italia”",
+      "url": "https://www.youtube.com/watch?v=Gx5t7bvTwB0",
+      "image": "https://i.ytimg.com/vi/Gx5t7bvTwB0/hqdefault.jpg",
+      "summary": "",
+      "videoId": "Gx5t7bvTwB0",
+      "date": "2026-08-21T09:27:15.0000000Z"
+    },
+    {
+      "id": "ansa:012dd64a1bb9",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Mattarella: 'Viviamo tempi di guerre scellerate, l'umanità aiuti a rifiutare l'odio'",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/08/21/mattarella-viviamo-tempi-di-guerre-scellerate-lumanita-aiuti-a-rifiutare-lodio_12196c88-7f6f-4d89-8235-fa9abfa1e7f0.html",
+      "image": null,
+      "summary": "'Auguro al Meeting di Rimini di continuare a costruire con generosità orizzonti di umanità'",
+      "date": "2026-08-21T09:21:48.0000000Z"
+    },
+    {
+      "id": "open:d42ed081fffd",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Maltempo al Nord, allagamenti e frane in Lombardia, Liguria e Toscana. Allarme fulmini: «Più di 8mila in due ore» – I Video",
+      "url": "https://www.open.online/2026/08/21/maltempo-nord-italia-danni-video/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/maltempo-nord-21-ago.jpg",
+      "summary": "Dopo i temporali delle ultime ore, il maltempo continua a colpire diverse regioni del Nord. Oggi sono tre le regioni in allerta arancione e undici in gialla. L'articolo Maltempo al Nord, allagamenti e frane in Lombard...",
+      "date": "2026-08-21T09:13:56.0000000Z"
+    },
+    {
+      "id": "repubblica:7851ba8b2272",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Vìola il Codice rosso appena attivato e aggredisce la compagna dopo essersi introdotto in casa sua",
+      "url": "https://bologna.repubblica.it/cronaca/2026/08/21/news/aggressione_compagna_violazione_codice_rosso-425539567/",
+      "image": null,
+      "summary": "Due interventi dei carabinieri in poche ore: l’uomo, un 54enne, è stato arrestato e portato in carcere",
+      "date": "2026-08-21T09:11:13.0000000Z"
+    },
+    {
+      "id": "ansa:e4033d7326ae",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Al Nord i primi porcini dopo la siccità, al via raccolta estiva dei funghi spontanei",
+      "url": "https://www.ansa.it/canale_terraegusto/notizie/in_breve/2026/08/20/al-nord-i-primi-porcini-dopo-la-siccita-al-via-raccolta-estiva-dei-funghi_e980dc91-817d-4e01-9ee0-515a372af23e.html",
+      "image": null,
+      "summary": "Esperto, \"non si può parlare ancora di buttata ma qualcosa di bello si trova\"",
+      "date": "2026-08-21T08:55:09.0000000Z"
+    },
     {
       "id": "open:a6a65b843c23",
       "sourceId": "open",
@@ -13,18 +112,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/kimi-antonelli.jpg",
       "summary": "Il pilota fenomeno della Mercedes è coetaneo dell'azzurra che ha trionfato agli Europei di nuoto con tanto di record mondiale. Il prossimo 25 agosto compirà vent'anni e racconta: «Credo che però mi sentirò come il gio...",
       "date": "2026-08-21T08:54:45.0000000Z"
-    },
-    {
-      "id": "ansa:81e92c58a5bb",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "++ Nella Bergamasca sei paesi isolati per il maltempo, 350 evacuati ++",
-      "url": "https://www.ansa.it/sito/notizie/flash/2026/08/21/-nella-bergamasca-sei-paesi-isolati-per-il-maltempo-350-evacuati-_e36deb41-7093-4f2b-aa61-c92d6dc2797c.html",
-      "image": null,
-      "summary": "A Isola di Fonda sgomberato un campeggio minacciato dalla piena",
-      "date": "2026-08-21T08:43:25.0000000Z"
     },
     {
       "id": "open:97e6d0136b07",
@@ -44,7 +131,7 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Ops, maxi-cedola, prezzi e concambi: il piano di Lovaglio per Mps e cosa cambia per gli azionisti",
+      "title": "Mps, Intesa e gli altri protagonisti: guida aggiornata al risiko bancario",
       "url": "https://www.repubblica.it/economia/2026/08/21/news/lovaglio_mps_piano_offerta_cedola_cosa_prevede-425539489/",
       "image": null,
       "summary": "Siena lancia due offerte di scambio su Banco Bpm e Banca Generali: modalità e prezzi. La distribuzione prevede 1 miliardo cash e 3 miliardi in azioni di Assicurazioni Generali. La strategia del banchiere e i dettagli ...",
@@ -111,18 +198,6 @@
       "date": "2026-08-21T07:53:36.0000000Z"
     },
     {
-      "id": "ansa:e4033d7326ae",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Al Nord i primi porcini dopo la siccità, al via raccolta estiva dei funghi spontanei",
-      "url": "https://www.ansa.it/canale_terraegusto/notizie/in_breve/2026/08/20/al-nord-i-primi-porcini-dopo-la-siccita-al-via-raccolta-estiva-dei-funghi_e980dc91-817d-4e01-9ee0-515a372af23e.html",
-      "image": null,
-      "summary": "Esperto, \"non si può parlare ancora di buttata ma qualcosa di bello si trova\"",
-      "date": "2026-08-21T07:43:58.0000000Z"
-    },
-    {
       "id": "repubblica:e1987fc82340",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -159,18 +234,6 @@
       "date": "2026-08-21T07:30:27.0000000Z"
     },
     {
-      "id": "repubblica:82e3043f19b5",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Sospeso per razzismo l’accademico che accusò per primo Arday di plagio quando erano colleghi a Cambridge",
-      "url": "https://www.repubblica.it/esteri/2026/08/21/news/sospeso_per_razzismo_accademico_accuso_per_primo_jason_arday_plagio_cambridge-425539328/",
-      "image": null,
-      "summary": "Il rettore dell’università di Ghent in Belgio ha reso noto di aver messo Nathan Cofnas sotto inchiesta per “dichiarazioni discriminatorie”. Il professore sostenne che il giovane sociologo britannico – trovato morto in...",
-      "date": "2026-08-21T07:12:36.0000000Z"
-    },
-    {
       "id": "ansa:a9d139105ef2",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -181,6 +244,30 @@
       "image": null,
       "summary": "Due abitanti su 10 hanno disagi sociali. Forse nel '27 l'ospedale. 'Rischiamo di scomparire'",
       "date": "2026-08-21T07:04:57.0000000Z"
+    },
+    {
+      "id": "repubblica:fc7254ae99d1",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La Premier non bada a spese, un mercato da quasi 3 miliardi di euro (e non è ancora finita)",
+      "url": "https://www.repubblica.it/sport/calcio/2026/08/21/news/premier_league_quanto_hanno_speso_club_calciomercato-425539296/",
+      "image": null,
+      "summary": "Il campionato più ricco del mondo è quello che ha investito di più negli acquisti, più di Serie A, Liga e Bundesliga messe assieme",
+      "date": "2026-08-21T06:57:26.0000000Z"
+    },
+    {
+      "id": "repubblica:fc7254ae99d1",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La Premier non bada a spese, un mercato da quasi 3 miliardi di euro (e non è ancora finita)",
+      "url": "https://www.repubblica.it/sport/calcio/2026/08/21/news/premier_league_quanto_hanno_speso_club_calciomercato-425539296/",
+      "image": null,
+      "summary": "Il campionato più ricco del mondo è quello che ha investito di più negli acquisti, più di Serie A, Liga e Bundesliga messe assieme",
+      "date": "2026-08-21T06:57:26.0000000Z"
     },
     {
       "id": "repubblica:9e887bfdbf3a",
@@ -255,6 +342,18 @@
       "date": "2026-08-21T06:17:55.0000000Z"
     },
     {
+      "id": "repubblica:1a06ad20b99c",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Detenuti, emergenza senza risposta: lo svuota-carceri è in vigore ma solo sulla carta. I nodi",
+      "url": "https://www.repubblica.it/cronaca/2026/08/21/news/svuota_carceri_emergenza_detenuti_cosa_manca-425539507/",
+      "image": null,
+      "summary": "I detenuti tossicodipendenti condannati a pene non superiori a 8 anni potranno da oggi presentare domanda per essere trasferiti in strutture specializzate in cura e riabilitazione. Ma i fondi bastano a malapena per 50...",
+      "date": "2026-08-21T06:00:00.0000000Z"
+    },
+    {
       "id": "repubblica:0a0cd9a6c37b",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -303,42 +402,6 @@
       "date": "2026-08-21T05:03:00.0000000Z"
     },
     {
-      "id": "repubblica:f088902bac7d",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Laura Morante: “Ero timida. Mi sono nascosta dietro i personaggi”",
-      "url": "https://www.repubblica.it/spettacoli/cinema/2026/08/21/news/laura_morante_intervista_70_anni-425538430/",
-      "image": null,
-      "summary": "L’attrice compie oggi 70 anni, i ricordi di bambina, l’amore per il balletto, il debutto sul palco con Carmelo Bene e poi il cinema. “La felicità: i figli, mia nipote e la lettura”",
-      "date": "2026-08-21T03:01:00.0000000Z"
-    },
-    {
-      "id": "repubblica:13e75f2e5d43",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La gavetta in ritardo di Lampard",
-      "url": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/08/21/news/frank_lampard_coventry_calcio-425539007/",
-      "image": null,
-      "summary": "Il calcio inglese ebbe la sensazione che chiamarsi Lampard compensasse un curriculum scarno. Ora può sentirsi sollevato da quel peso",
-      "date": "2026-08-21T02:08:42.0000000Z"
-    },
-    {
-      "id": "repubblica:6dac542ad88b",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Fake news e campagne No Vax “Coperture giù, bimbi a rischio”",
-      "url": "https://www.repubblica.it/cronaca/2026/08/21/news/difterite_vaccini_sicilia_chiara_azzari_meyer-425538932/",
-      "image": null,
-      "summary": "Intervista a Chiara Azzari, responsabile dell’immunologia dell’ospedale pediatrico Meyer di Firenze. La Sicilia è ultima per diffusione dei vaccini. “Sono strumenti sicuri, chi non li usa può ammalarsi di patologie ch...",
-      "date": "2026-08-21T00:00:00.0000000Z"
-    },
-    {
       "id": "open:c09cf9c5a049",
       "sourceId": "open",
       "source": "Open",
@@ -363,18 +426,6 @@
       "date": "2026-08-20T20:25:18.0000000Z"
     },
     {
-      "id": "open:f8806ba03c33",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Crans Montana, per la prima volta parla il 17enne Kean: «Quella sera mi ripetevo “Non puoi morire qui”». L’attacco ai Moretti",
-      "url": "https://www.open.online/2026/08/20/crans-montana-parla-17enne-kean/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/crans-montana-kean.jpg",
-      "summary": "Le prime dichiarazioni del giovane ricoverato all'ospedale Niguarda di Milano per sei mesi L'articolo Crans Montana, per la prima volta parla il 17enne Kean: «Quella sera mi ripetevo “Non puoi morire qui”». L’attacco ...",
-      "date": "2026-08-20T20:08:58.0000000Z"
-    },
-    {
       "id": "ansa:54a6fb8b46e2",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -397,18 +448,6 @@
       "image": null,
       "summary": "Recuperati gli aromi di fiori estinti, la tecnologia cambia la tavolozza dei profumieri",
       "date": "2026-08-20T18:11:26.0000000Z"
-    },
-    {
-      "id": "ansa:c5cb5f63dd18",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Morte avvelenate, in questura confronto tra Di Vita e un'amica",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/morte-avvelenate-in-questura-confronto-tra-di-vita-e-una-amica_3fb4e56c-5518-4fa5-9153-19d4a09e6fe7.html",
-      "image": null,
-      "summary": "Sei ore negli uffici della polizia davanti alla procuratrice",
-      "date": "2026-08-20T18:03:25.0000000Z"
     },
     {
       "id": "ansa:3ba3a87ccbc0",
@@ -550,45 +589,6 @@
       "summary": "",
       "videoId": "cX9gwK5EEqM",
       "date": "2026-08-20T15:00:16.0000000Z"
-    },
-    {
-      "id": "skytg24:pS9sD9hilDc",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Bulgaria, Fratellanza Bianca celebra il \"nuovo anno divino\"",
-      "url": "https://www.youtube.com/watch?v=pS9sD9hilDc",
-      "image": "https://i.ytimg.com/vi/pS9sD9hilDc/hqdefault.jpg",
-      "summary": "",
-      "videoId": "pS9sD9hilDc",
-      "date": "2026-08-20T14:59:11.0000000Z"
-    },
-    {
-      "id": "skytg24:Q9O_HAwP2VA",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Il giovane Bourdain in \"Tony- diario di un giovane cuoco\"",
-      "url": "https://www.youtube.com/watch?v=Q9O_HAwP2VA",
-      "image": "https://i.ytimg.com/vi/Q9O_HAwP2VA/hqdefault.jpg",
-      "summary": "",
-      "videoId": "Q9O_HAwP2VA",
-      "date": "2026-08-20T13:25:38.0000000Z"
-    },
-    {
-      "id": "skytg24:9WEZSxS3Lvw",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Papa Leone incontra Aoun: focus sulla pace in Libano",
-      "url": "https://www.youtube.com/watch?v=9WEZSxS3Lvw",
-      "image": "https://i.ytimg.com/vi/9WEZSxS3Lvw/hqdefault.jpg",
-      "summary": "",
-      "videoId": "9WEZSxS3Lvw",
-      "date": "2026-08-20T13:24:22.0000000Z"
     }
   ]
 }

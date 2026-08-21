@@ -1,7 +1,67 @@
 {
   "category": "cripto",
-  "updated": "2026-08-21T08:58:40.1639625Z",
+  "updated": "2026-08-21T09:46:26.4425578Z",
   "items": [
+    {
+      "id": "cryptonomist:38fc15146030",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Azioni Broadcom a 364$: prezzo sotto le medie mobili, nodo debito da 100 miliardi",
+      "url": "https://cryptonomist.ch/2026/08/21/azioni-broadcom-a-364-prezzo-sotto-le-medie-mobili-nodo-debito-da-100-miliardi/",
+      "image": null,
+      "summary": "Le azioni Broadcom chiudono la seduta del 20 agosto a 364,03 dollari, sul pivot giornaliero. La struttura sottostante però è più fragile di quanto il singolo dato suggerisca. Pesano due dossier: la trattativa per un f...",
+      "date": "2026-08-21T09:45:32.0000000Z"
+    },
+    {
+      "id": "cryptonomist:9bc6364d0af8",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Accordo Nvidia con Rebellions AI da 2,3 miliardi: acquisizione in vista?",
+      "url": "https://cryptonomist.ch/2026/08/21/accordo-nvidia-rebellions-ai/",
+      "image": null,
+      "summary": "Nvidia viaggiava a 216,85 dollari in borsa, in calo dello 0,33% nella seduta, quando è emersa la notizia che ha acceso i riflettori sul mercato dei semiconduttori per l’intelligenza artificiale: il colosso dei chip gr...",
+      "date": "2026-08-21T09:42:34.0000000Z"
+    },
+    {
+      "id": "cryptonomist:61cb2185d84f",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Rischi delega wallet Ethereum: il 63% delle autorizzazioni è malevolo",
+      "url": "https://cryptonomist.ch/2026/08/21/rischi-delega-wallet-ethereum/",
+      "image": null,
+      "summary": "Uno studio peer-reviewed destinato a USENIX Security ’26 ha acceso i riflettori sui rischi delega wallet Ethereum, rivelando che oltre sei transazioni di autorizzazione su dieci nel nuovo standard EIP-7702 sono colleg...",
+      "date": "2026-08-21T09:41:34.0000000Z"
+    },
+    {
+      "id": "cryptonomist:2e26c0b5e9e7",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Conformità Binance in Europa: continua ad aprire conti senza licenza MiCA",
+      "url": "https://cryptonomist.ch/2026/08/21/conformita-binance-in-europa/",
+      "image": null,
+      "summary": "Sette settimane dopo la scadenza fissata dall’Unione Europea per ottenere una licenza secondo il regolamento MiCA, Binance continua ad aprire conti a cittadini europei. È quanto emerge da una serie di test condotti da...",
+      "date": "2026-08-21T09:03:43.0000000Z"
+    },
+    {
+      "id": "cryptonomist:a7e5d52e0b8d",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Prezzo Ethereum a 2.405$: RSI record a 86, rischio ritracciamento cresce",
+      "url": "https://cryptonomist.ch/2026/08/21/prezzo-ethereum-a-2-405-rsi-record-a-86-rischio-ritracciamento-cresce/",
+      "image": null,
+      "summary": "Al 21 agosto 2026, su base giornaliera, il prezzo Ethereum si attesta a 2.405,51 dollari dopo una salita oltre le medie mobili di riferimento. Ethereum corre più velocemente di quanto l’impianto tecnico riesca ad asso...",
+      "date": "2026-08-21T08:58:28.0000000Z"
+    },
     {
       "id": "cryptonomist:af0493fb5720",
       "sourceId": "cryptonomist",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "Il colosso del mining Bitcoin passa dai problemi di liquidità in sordina alle aule di un tribunale federale. Poolin Technology, uno dei più noti operatori di pool di mining per Bitcoin, ha aperto insieme a due società...",
       "date": "2026-08-21T08:40:07.0000000Z"
-    },
-    {
-      "id": "cryptonomist:9448b11d8f8c",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Valore BTC sopra i 76.500$: rally record ma RSI segnala ipercomprato estremo",
-      "url": "https://cryptonomist.ch/2026/08/21/valore-btc-sopra-i-76-500-rally-record-ma-rsi-segnala-ipercomprato-estremo/",
-      "image": null,
-      "summary": "Al 21 agosto 2026 il valore BTC ha superato quota 76.500 dollari con un balzo che Bloomberg definisce il miglior guadagno settimanale in più di due anni. Non è una salita qualunque: la struttura tecnica corre più velo...",
-      "date": "2026-08-21T08:24:17.0000000Z"
-    },
-    {
-      "id": "cryptonomist:b06b096cb2e0",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Binance non lancia un chatbot, ma una piattaforma trading AI che sposta denaro reale",
-      "url": "https://cryptonomist.ch/2026/08/21/piattaforma-trading-ai-binance/",
-      "image": null,
-      "summary": "Binance ha aperto le porte del suo ecosistema agli agenti intelligenti, lanciando il 20 agosto Agent OS, una nuova piattaforma di trading AI pensata per collegare assistenti artificiali e infrastrutture finanziarie re...",
-      "date": "2026-08-21T08:13:29.0000000Z"
-    },
-    {
-      "id": "cryptonomist:db4ebe162852",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Trasferimento Ezri Konsa Arsenal: 51 milioni per rimpiazzare Saliba e Timber",
-      "url": "https://cryptonomist.ch/2026/08/21/trasferimento-ezri-konsa-arsenal/",
-      "image": null,
-      "summary": "L’Arsenal ha chiuso uno dei colpi più attesi di questa sessione estiva: il trasferimento di Ezri Konsa dall’Aston Villa, un’operazione da 51 milioni di sterline più bonus legati alle prestazioni. Il difensore inglese,...",
-      "date": "2026-08-21T08:10:59.0000000Z"
-    },
-    {
-      "id": "cryptonomist:37c478fdb9ae",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Riserva strategica Bitcoin USA, ARK Invest vede BTC a 1,5 milioni di dollari",
-      "url": "https://cryptonomist.ch/2026/08/21/riserva-strategica-bitcoin-usa/",
-      "image": null,
-      "summary": "La riserva strategica Bitcoin USA è stata istituita dalla Casa Bianca il 6 marzo 2025 con un ordine esecutivo che definisce come il governo statunitense può gestire e trattenere le proprie riserve di Bitcoin. L’ordine...",
-      "date": "2026-08-21T08:10:28.0000000Z"
-    },
-    {
-      "id": "cryptonomist:8cebff082566",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Interruzione MANTRA Chain: il crollo OM richiama l’incubo di aprile 2025?",
-      "url": "https://cryptonomist.ch/2026/08/21/interruzione-mantra-chain/",
-      "image": null,
-      "summary": "Il token OM scende di quasi il 10% in 24 ore, scivolando a 0,004406 dollari, mentre il resto del mercato crypto vive un rally che porta Bitcoin vicino ai 74.000 dollari. Il motivo del calo isolato ha un nome preciso: ...",
-      "date": "2026-08-21T08:10:27.0000000Z"
     }
   ]
 }

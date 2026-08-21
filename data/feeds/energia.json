@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-21T08:58:40.1414565Z",
+  "updated": "2026-08-21T09:46:26.4688973Z",
   "items": [
+    {
+      "id": "qualenergia:e7d8a1453b93",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Piano sociale clima: cosa c’è nel piano del governo da 9,35 miliardi",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/piano-sociale-clima-cosa-piano-governo/",
+      "image": null,
+      "summary": "Il 4 agosto è arrivato il via libera del governo al Piano sociale per il clima da 9,347 miliardi di euro. Il 6 agosto, il Mase ha poi pubblicato il testo (in basso), trasmesso alla Commissione europea, che al momento ...",
+      "date": "2026-08-21T09:00:07.0000000Z"
+    },
     {
       "id": "qualenergia:d4b3b6d3648b",
       "sourceId": "qualenergia",
@@ -51,18 +63,6 @@
       "date": "2026-08-21T05:15:00.0000000Z"
     },
     {
-      "id": "qualenergia:32dde86aedad",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "La situazione energetica nazionale nel 2025",
-      "url": "https://www.qualenergia.it/pro/documenti/la-situazione-energetica-nazionale-nel-2025/",
-      "image": null,
-      "summary": "Relazione sulla situazione energetica italiana del Ministero dell’Ambiente e della Sicurezza Energetica, secondo cui, nel 2025, la dipendenza energetica dall’estero è risalita di 1,7 punti percentuali, con le importaz...",
-      "date": "2026-08-21T05:00:02.0000000Z"
-    },
-    {
       "id": "qualenergia:28c24aba79dc",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -85,6 +85,18 @@
       "image": null,
       "summary": "Arera chiede al Mase di stabilire con parametri espliciti quando aggiungere sezioni o stazioni all’offerta, oltre ad aggiornamenti almeno trimestrali e meno oneri informativi per gli operatori. È il nucleo del parere ...",
       "date": "2026-08-20T12:15:55.0000000Z"
+    },
+    {
+      "id": "qualenergia:99fd5dfeeeba",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Domanda elettrica record a luglio: 32,4 TWh, mai così alta in un mese",
+      "url": "https://www.qualenergia.it/articoli/domanda-elettrica-record-luglio-mai-cosi-alta-in-un-mese/",
+      "image": null,
+      "summary": "A luglio la domanda di elettricità in Italia è stata pari a 32,4 TWh. Non solo è in assoluto il consumo più elevato per luglio, ma anche quello maggiore di sempre su base mensile. L’aumento sul luglio 2025 è stato del...",
+      "date": "2026-08-20T11:00:04.0000000Z"
     },
     {
       "id": "qualenergia:b48c8469d018",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "La produzione di idrogeno di origine rinnovabile può contare sul nuovo meccanismo di sostegno disciplinato dal ministero dell’Ambiente e della Sicurezza energetica. Il relativo decreto, cosiddetto “Tariffe”, è stato p...",
       "date": "2026-08-20T08:15:07.0000000Z"
-    },
-    {
-      "id": "qualenergia:ff7487802d8f",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Il Decreto FER-X Definitivo e le novità rispetto al Transitorio",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/decreto-ferx-definitivo-novita-rispetto-transitorio/",
-      "image": null,
-      "summary": "Il 6 agosto 2026 è stato pubblicato il Decreto Ministeriale del Ministero dell’Ambiente e della Sicurezza Energetica n. 194 del 18 giugno 2026, recante “Meccanismo di supporto a regime per impianti a fonti rinnovabili...",
-      "date": "2026-08-20T07:45:18.0000000Z"
     }
   ]
 }
