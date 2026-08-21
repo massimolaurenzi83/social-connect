@@ -1,7 +1,31 @@
 {
   "category": "cucina",
-  "updated": "2026-08-21T10:15:11.4305225Z",
+  "updated": "2026-08-21T10:52:22.3181475Z",
   "items": [
+    {
+      "id": "dissapore:6e748342464a",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "I medici americani fanno causa alle nuove linee guide alimentari",
+      "url": "https://www.dissapore.com/notizie/i-medici-americani-fanno-causa-alle-nuove-linee-guide-alimentari/",
+      "image": null,
+      "summary": "Un'associazione di medici americani ha chiesto il ritiro delle nuove linee guida alimentari governative, secondo loro frutto di conflitti d'interesse e attività di lobbismo da parte delle aziende produttrici di carne ...",
+      "date": "2026-08-21T10:34:11.0000000Z"
+    },
+    {
+      "id": "giallozafferano:af5345bc5fc8",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Tagliata di petto di pollo",
+      "url": "https://ricette.giallozafferano.it/Tagliata-di-petto-di-pollo.html",
+      "image": "https://www.giallozafferano.it/images/365-36556/Tagliata-di-petto-di-pollo_1200x800.jpg",
+      "summary": "La tagliata di petto di pollo è un secondo piatto fresco e colorato, accompagnato da pomodorini ciliegini e songino . Una ricetta semplice ma sfiziosa, che si ispira alla classica tagliata di carne , ideale per portar...",
+      "date": "2026-08-21T08:39:00.0000000Z"
+    },
     {
       "id": "dissapore:039504a0b552",
       "sourceId": "dissapore",
@@ -87,18 +111,6 @@
       "date": "2026-08-19T06:48:00.0000000Z"
     },
     {
-      "id": "giallozafferano:5a90dd9d5457",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "McChicken® Il Mediterraneo",
-      "url": "https://ricette.giallozafferano.it/McChicken-Il-Mediterraneo.html",
-      "image": "https://www.giallozafferano.it/images/363-36359/McChicken-Il-Mediterraneo_1200x800.jpg",
-      "summary": "Se siete alla ricerca di un'idea originale e sfiziosa per la vostra cena, lasciatevi conquistare dal McChicken® Il Mediterraneo , una fantastica rivisitazione gourmet del celebre e amatissimo panino McChicken® ! La mi...",
-      "date": "2026-08-19T05:00:00.0000000Z"
-    },
-    {
       "id": "giallozafferano:e526bed26697",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -108,6 +120,18 @@
       "url": "https://ricette.giallozafferano.it/McChicken-Il-Romano.html",
       "image": "https://www.giallozafferano.it/images/363-36363/McChicken-Il-Romano_1200x800.jpg",
       "summary": "Il McChicken® Il Romano è una gustosa rivisitazione del classico McChicken® che unisce ingredienti di qualità e sapori tipicamente italiani. La protagonista è la celebre cotoletta preparata con 100% petto di pollo ita...",
+      "date": "2026-08-19T05:00:00.0000000Z"
+    },
+    {
+      "id": "giallozafferano:5a90dd9d5457",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "McChicken® Il Mediterraneo",
+      "url": "https://ricette.giallozafferano.it/McChicken-Il-Mediterraneo.html",
+      "image": "https://www.giallozafferano.it/images/363-36359/McChicken-Il-Mediterraneo_1200x800.jpg",
+      "summary": "Se siete alla ricerca di un'idea originale e sfiziosa per la vostra cena, lasciatevi conquistare dal McChicken® Il Mediterraneo , una fantastica rivisitazione gourmet del celebre e amatissimo panino McChicken® ! La mi...",
       "date": "2026-08-19T05:00:00.0000000Z"
     },
     {
@@ -195,18 +219,6 @@
       "date": "2026-08-17T11:32:42.0000000Z"
     },
     {
-      "id": "dissapore:4f004b9a63e3",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "In Spagna vietati i dehors a bar e ristoranti: fa troppo caldo",
-      "url": "https://www.dissapore.com/notizie/in-spagna-vietati-i-dehors-a-bar-e-ristoranti-fa-troppo-caldo/",
-      "image": null,
-      "summary": "Nuove regole per i ristoranti e i bar in Spagna, che non potranno aprire i dehors nelle giornate di troppo caldo. L'articolo In Spagna vietati i dehors a bar e ristoranti: fa troppo caldo proviene da Dissapore .",
-      "date": "2026-08-17T10:11:14.0000000Z"
-    },
-    {
       "id": "giallozafferano:633718283d9b",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/365-36542/Carpaccio-di-melone_1200x800.jpg",
       "summary": "Il carpaccio di melone è un antipasto estivo fresco, leggero e originale: una ricetta semplice da preparare ma capace di sorprendere per il suo gusto equilibrato. Protagonista è il melone cantalupo, dolce e succoso, t...",
       "date": "2026-08-07T14:22:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:f0ef358aa517",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Sorbetto all'anguria senza gelatiera",
-      "url": "https://ricette.giallozafferano.it/Sorbetto-all-anguria-senza-gelatiera.html",
-      "image": "https://www.giallozafferano.it/images/365-36538/Sorbetto-all-anguria-senza-gelatiera_1200x800.jpg",
-      "summary": "Il sorbetto all'anguria senza gelatiera è uno dei dessert estivi più semplici e rinfrescanti da preparare in casa. Si realizza con pochissimi ingredienti ( anguria , zucchero e succo di limone) e senza bisogno di attr...",
-      "date": "2026-08-06T15:17:00.0000000Z"
     }
   ]
 }
