@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-21T10:52:22.1696989Z",
+  "updated": "2026-08-21T11:18:40.0117270Z",
   "items": [
+    {
+      "id": "insideevs:7b7bde363fe8",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché la ricarica bidirezionale V2G non funziona per tutti",
+      "url": "https://insideevs.it/news/805611/ricarica-bidirezionale-v2g-funziona-oggi/",
+      "image": "https://cdn.motor1.com/images/mgl/lEGgAl/s3/ricarica-bidirezionale-v2g.jpg",
+      "summary": "Tra progetti pilota ENEA Terna e obbligo EN ISO 15118-20 dal 2027, il V2G resta legato a offerte chiuse e poche combinazioni compatibili.",
+      "date": "2026-08-21T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:38b9224f8604",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Keyless-Go, quasi metà delle auto è ancora vulnerabile",
+      "url": "https://it.motor1.com/features/805416/auto-keyless-vulnerabile-ladri/",
+      "image": "https://cdn.motor1.com/images/mgl/mMzyOv/s3/keyless-go-e-furti-d-auto-i-test-adac.jpg",
+      "summary": "L’ADAC invita gli automobilisti a verificare la presenza della tecnologia UWB prima di comprare un’auto dotata di apertura senza chiave",
+      "date": "2026-08-21T11:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:6495036a68fd",
       "sourceId": "hdmotori",
@@ -135,15 +159,15 @@
       "date": "2026-08-21T07:00:45.0000000Z"
     },
     {
-      "id": "insideevs:8819548e7e0b",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
+      "id": "motor1:224330779c13",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Nuovo l'approccio alle batterie al litio, più dense del 10%",
-      "url": "https://insideevs.it/news/805625/asahi-kasei-batterie-litio-predoping/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZwbeX/s3/illustrazione-concettuale-della-nuova-tecnologia-di-pre-doping.jpg",
-      "summary": "Asahi Kasei sviluppa un sistema di pre-doping al litio che utilizza carbonato di litio a basso costo integrabile nella produzione",
+      "title": "Brabus ha grandi piani oltre Mercedes: «È ora di cambiare»",
+      "url": "https://it.motor1.com/news/805620/brabus-piani-oltre-mercedes/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KVjO/s3/brabus-ceo-constantin-buschmann-interview.jpg",
+      "summary": "Il CEO Constantin Buschmann racconta a Motor1 come l'azienda stia andando oltre Mercedes e perché il Bodo sia solo l'inizio",
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
@@ -159,15 +183,15 @@
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
-      "id": "motor1:224330779c13",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
+      "id": "insideevs:8819548e7e0b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Brabus ha grandi piani oltre Mercedes: «È ora di cambiare»",
-      "url": "https://it.motor1.com/news/805620/brabus-piani-oltre-mercedes/",
-      "image": "https://cdn.motor1.com/images/mgl/W8KVjO/s3/brabus-ceo-constantin-buschmann-interview.jpg",
-      "summary": "Il CEO Constantin Buschmann racconta a Motor1 come l'azienda stia andando oltre Mercedes e perché il Bodo sia solo l'inizio",
+      "title": "Nuovo l'approccio alle batterie al litio, più dense del 10%",
+      "url": "https://insideevs.it/news/805625/asahi-kasei-batterie-litio-predoping/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZwbeX/s3/illustrazione-concettuale-della-nuova-tecnologia-di-pre-doping.jpg",
+      "summary": "Asahi Kasei sviluppa un sistema di pre-doping al litio che utilizza carbonato di litio a basso costo integrabile nella produzione",
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
@@ -315,18 +339,6 @@
       "date": "2026-08-20T15:00:45.0000000Z"
     },
     {
-      "id": "motor1:a4daf622403c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le previsioni del traffico per il weekend 22-23 agosto",
-      "url": "https://it.motor1.com/news/805563/previsioni-traffico-22-23-agosto-bollini/",
-      "image": "https://cdn.motor1.com/images/mgl/wl8YyL/s3/le-previsioni-del-traffico-per-il-weekend-22-23-agosto.jpg",
-      "summary": "Rientro verso le città critico sia sabato che domenica. Meteo in prevalenza stabile: ecco tutto quello da sapere",
-      "date": "2026-08-20T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:47e5ee762799",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -336,6 +348,18 @@
       "url": "https://insideevs.it/news/805549/architetture-zonali-auto-software-defined/",
       "image": "https://cdn.motor1.com/images/mgl/2N4P74/s3/auto-software-defined-perche-le-architetture-zonali-sono-decisive.jpg",
       "summary": "La tecnologia dovrebbe entrare nella produzione di massa tra il 2027 e il 2030, diventando un fattore decisivo per la competitività",
+      "date": "2026-08-20T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:a4daf622403c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le previsioni del traffico per il weekend 22-23 agosto",
+      "url": "https://it.motor1.com/news/805563/previsioni-traffico-22-23-agosto-bollini/",
+      "image": "https://cdn.motor1.com/images/mgl/wl8YyL/s3/le-previsioni-del-traffico-per-il-weekend-22-23-agosto.jpg",
+      "summary": "Rientro verso le città critico sia sabato che domenica. Meteo in prevalenza stabile: ecco tutto quello da sapere",
       "date": "2026-08-20T15:00:00.0000000Z"
     },
     {
@@ -399,18 +423,6 @@
       "date": "2026-08-20T13:37:08.0000000Z"
     },
     {
-      "id": "insideevs:ae520cfa362d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla apre le prime corse Cybercab al pubblico (in numero limitato)",
-      "url": "https://insideevs.it/news/805566/tesla-cybercab-prime-corse-clienti/",
-      "image": "https://cdn.motor1.com/images/mgl/40xo8Z/s3/la-tesla-cybercab-in-una-foto-ufficiale.jpg",
-      "summary": "La Casa americana lancia un concorso per far sperimentare il robotaxi ai primi clienti: l'esordio del servizio è imminente?",
-      "date": "2026-08-20T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:55dffa510d7d",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -420,6 +432,18 @@
       "url": "https://it.motor1.com/features/805581/auto-modalita-sport-funzionamento-segreti/",
       "image": "https://cdn.motor1.com/images/mgl/2N4PBn/s3/why-your-car-has-a-sport-mode-you-probably-never-use.jpg",
       "summary": "Quel piccolo pulsante può trasformare come si comporta la tua auto, ma cosa fa davvero la modalità Sport sotto il cofano?",
+      "date": "2026-08-20T13:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ae520cfa362d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla apre le prime corse Cybercab al pubblico (in numero limitato)",
+      "url": "https://insideevs.it/news/805566/tesla-cybercab-prime-corse-clienti/",
+      "image": "https://cdn.motor1.com/images/mgl/40xo8Z/s3/la-tesla-cybercab-in-una-foto-ufficiale.jpg",
+      "summary": "La Casa americana lancia un concorso per far sperimentare il robotaxi ai primi clienti: l'esordio del servizio è imminente?",
       "date": "2026-08-20T13:00:00.0000000Z"
     },
     {
@@ -444,18 +468,6 @@
       "url": "https://insideevs.it/news/805561/tesla-semi-europa-iaa-hannover/",
       "image": "https://cdn.motor1.com/images/mgl/VzWQAL/s3/2026-tesla-semi.jpg",
       "summary": "Il camion elettrico di Elon Musk e soci esordirà all'IAA di Hannover a metà settembre, quando saranno svelate anche le specifiche",
-      "date": "2026-08-20T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:cc137def385f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Mercedes Classe A potrebbe trasformarsi in un crossover",
-      "url": "https://it.motor1.com/news/805131/mercedes-classe-a-2028-render/",
-      "image": "https://cdn.motor1.com/images/mgl/Oo9VwL/s3/mercedes-classe-a-2028-il-render-di-motor1.com.jpg",
-      "summary": "Il nuovo modello atteso nel 2028 potrebbe riprendere lo stile delle prime generazioni. Ecco cosa sappiamo",
       "date": "2026-08-20T11:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/Oo0xRM/s3/nio-power-swap-station-4.0.jpg",
       "summary": "La Casa vende le stazioni di sostituzione batteria a istituzioni ed enti pubblici. La ricarica fast è un'alternativa minacciosa",
       "date": "2026-08-20T05:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:cd98c114f8c2",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "SUV cinese: 1.003 km con un \"pieno\" e ricarica in 5 minuti",
-      "url": "https://insideevs.it/news/805491/byd-denza-n8-suv-elettrico/",
-      "image": "https://cdn.motor1.com/images/mgl/JONqz4/s3/denza-n8.jpg",
-      "summary": "BYD Denza N8 punta a 1.003 km sul ciclo CLTC e a ricariche in 5 minuti, con batteria Blade 2.0 LFP di grande capacità",
-      "date": "2026-08-19T15:30:52.0000000Z"
     }
   ]
 }

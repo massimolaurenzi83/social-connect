@@ -1,7 +1,31 @@
 {
   "category": "arte",
-  "updated": "2026-08-21T10:52:22.3119193Z",
+  "updated": "2026-08-21T11:18:40.1053985Z",
   "items": [
+    {
+      "id": "artribune:2b9aee7a8367",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "L’estetica del software raccontata in questa intervista a Salvatore “Antirez” Sanfilippo",
+      "url": "https://www.artribune.com/progettazione/new-media/2026/08/salvatore-antirez-sanfilippo-redis-intervista/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/donald-knuth-foto-di-viviana-cromwell.jpg",
+      "summary": "“La programmazione è una forma di letteratura”. Il creatore di Redis, uno dei programmi open source più influenti degli ultimi vent'anni, riflette sul software come linguaggio espressivo, tra minimalismo, cultura hack...",
+      "date": "2026-08-21T11:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:1c7a9661f2bf",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il ristorante del week-end è una pizzeria di design a due passi dall'arena di Verona",
+      "url": "https://www.elledecor.com/it/viaggi/a73363656/pizzeria-di-design-arena-di-verona/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/316eb94e-61bc-4b99-a872-85b504f13989.jpg",
+      "summary": "Progettato da MASAAI Studio, TEMPO è un ristorante che nasce dalla riqualificazione di due locali nel centro storico e interpreta la pizzeria contemporanea attraverso design, funzionalità e una nuova idea di convivialità",
+      "date": "2026-08-21T11:00:00.0000000Z"
+    },
     {
       "id": "elledecor:890434bfe752",
       "sourceId": "elledecor",
@@ -12,6 +36,18 @@
       "url": "https://www.elledecor.com/it/lifestyle/a73364321/paifang-portale-chinatown-milano-paolo-sarpi/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/638abdbb-4122-44f4-bd4c-6ca03b3dbb55.jpeg",
       "summary": "Un simbolo della tradizione cinese potrebbe arrivare anche nella città meneghina in zona Paolo Sarpi...",
+      "date": "2026-08-21T10:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:f52b026a1214",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Chi deve custodire il patrimonio culturale di questo Paese? Ancora sul caso del furto di Messina",
+      "url": "https://www.artribune.com/professioni-e-professionisti/politica-e-pubblica-amministrazione/2026/08/antonello-messina-furto-patrimonio/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/screenshot-2026-08-16-alle-103736.png",
+      "summary": "Le opere di Antonello conservate a Messina appartengono al patrimonio culturale nazionale, eppure la loro tutela dipende da una filiera amministrativa diversa da quella che presidia un Caravaggio a Roma o un Tiziano a...",
       "date": "2026-08-21T10:00:00.0000000Z"
     },
     {
@@ -195,18 +231,6 @@
       "date": "2026-08-20T11:00:00.0000000Z"
     },
     {
-      "id": "artribune:e51b7814c07e",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Qual è il futuro delle mostre? Rispondono architetti, direttori di istituzioni e produttori di mostre",
-      "url": "https://www.artribune.com/arti-visive/2026/08/mostre-esposizioni-format-opinioni/",
-      "image": "https://www.artribune.com/wp-content/uploads/2025/06/biennale-corderie-ph-irene-fanizza-6-scaled.jpg",
-      "summary": "Il \"formato\" mostra ha ancora senso? Come si fa a far dialogare eccellenza del contenuto con le necessità del visitatore e cosa cercano i visitatori oggi nella visita ad una mostra? La visione autorevole e intergenera...",
-      "date": "2026-08-20T10:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:5f51926ad9c8",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -217,18 +241,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/5709f0dd-1d23-4a90-8f98-3d824f1286de.jpg",
       "summary": "Per Concéntrico, Parabase recupera una cabina elettrica dismessa e i suoi materiali per immaginare un’infrastruttura capace di produrre, accumulare e rendere visibile l’energia",
       "date": "2026-08-20T10:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:c93768e09270",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Il primo docufilm ufficiale sui Led Zeppelin approda su Sky Arte",
-      "url": "https://www.artribune.com/arti-performative/cinema/2026/08/docufilm-ufficiale-led-zeppelin-sky-arte/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/becoming-led-zeppelinbackgroundbg.jpg",
-      "summary": "In prima visione su Sky Arte, mercoledì 26 agosto va in onda Becoming Led Zeppelin. Diretto dal pluripremiato Bernard MacMahon, co-sceneggiato e prodotto da Allison McGourty, è il primo film ufficialmente autorizzato ...",
-      "date": "2026-08-20T09:00:00.0000000Z"
     },
     {
       "id": "elledecor:21b06cd26750",
@@ -253,18 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/3e52799a-d85e-4736-813b-e1c98b9689c9.jpg",
       "summary": "Firmata da 02A studio, Casa Mirage interpreta l'abitare come un approdo emotivo fatto di linee morbide, palette intense e interventi artistici",
       "date": "2026-08-20T06:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:5fbb9321d28d",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "5 idee dei designer che fanno sembrare più grande una cucina piccola senza restyling radicali",
-      "url": "https://www.elledecor.com/it/case/a73366476/idee-cucina-piccola/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/71e09c98-5cd4-490c-8ed9-858705bd1486.jpg",
-      "summary": "Dalle linee visive alla luce, fino ai mobili a tutta altezza, cinque accorgimenti aiutano ad ampliare la percezione dello spazio",
-      "date": "2026-08-20T05:00:00.0000000Z"
     }
   ]
 }
