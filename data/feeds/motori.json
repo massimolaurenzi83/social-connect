@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-21T05:53:33.4055983Z",
+  "updated": "2026-08-21T06:38:20.6441148Z",
   "items": [
+    {
+      "id": "motor1:deb3c1faea71",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "E se al posto del Ranger ci fosse un Ford Bronco pick-up?",
+      "url": "https://it.motor1.com/news/805597/ford-bronco-pick-up-anticipazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/y0O17/s3/ford-bronco-pickup-truck-rendering.jpg",
+      "summary": "I media americani parlano di una nuova variante del Bronco, che potrebbe scalzare il Ranger entro il 2030",
+      "date": "2026-08-21T06:00:00.0000000Z"
+    },
     {
       "id": "insideevs:62bcfe4c521d",
       "sourceId": "insideevs",
@@ -135,18 +147,6 @@
       "date": "2026-08-20T15:00:45.0000000Z"
     },
     {
-      "id": "insideevs:47e5ee762799",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto software-defined: perché le architetture zonali sono decisive",
-      "url": "https://insideevs.it/news/805549/architetture-zonali-auto-software-defined/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4P74/s3/auto-software-defined-perche-le-architetture-zonali-sono-decisive.jpg",
-      "summary": "La tecnologia dovrebbe entrare nella produzione di massa tra il 2027 e il 2030, diventando un fattore decisivo per la competitività",
-      "date": "2026-08-20T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:a4daf622403c",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -156,6 +156,18 @@
       "url": "https://it.motor1.com/news/805563/previsioni-traffico-22-23-agosto-bollini/",
       "image": "https://cdn.motor1.com/images/mgl/wl8YyL/s3/le-previsioni-del-traffico-per-il-weekend-22-23-agosto.jpg",
       "summary": "Rientro verso le città critico sia sabato che domenica. Meteo in prevalenza stabile: ecco tutto quello da sapere",
+      "date": "2026-08-20T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:47e5ee762799",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto software-defined: perché le architetture zonali sono decisive",
+      "url": "https://insideevs.it/news/805549/architetture-zonali-auto-software-defined/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4P74/s3/auto-software-defined-perche-le-architetture-zonali-sono-decisive.jpg",
+      "summary": "La tecnologia dovrebbe entrare nella produzione di massa tra il 2027 e il 2030, diventando un fattore decisivo per la competitività",
       "date": "2026-08-20T15:00:00.0000000Z"
     },
     {
@@ -231,18 +243,6 @@
       "date": "2026-08-20T13:00:38.0000000Z"
     },
     {
-      "id": "motor1:55dffa510d7d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Cosa succede davvero quando metti l'auto in modalità Sport?",
-      "url": "https://it.motor1.com/features/805581/auto-modalita-sport-funzionamento-segreti/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4PBn/s3/why-your-car-has-a-sport-mode-you-probably-never-use.jpg",
-      "summary": "Quel piccolo pulsante può trasformare come si comporta la tua auto, ma cosa fa davvero la modalità Sport sotto il cofano?",
-      "date": "2026-08-20T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:ae520cfa362d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -252,6 +252,18 @@
       "url": "https://insideevs.it/news/805566/tesla-cybercab-prime-corse-clienti/",
       "image": "https://cdn.motor1.com/images/mgl/40xo8Z/s3/la-tesla-cybercab-in-una-foto-ufficiale.jpg",
       "summary": "La Casa americana lancia un concorso per far sperimentare il robotaxi ai primi clienti: l'esordio del servizio è imminente?",
+      "date": "2026-08-20T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:55dffa510d7d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Cosa succede davvero quando metti l'auto in modalità Sport?",
+      "url": "https://it.motor1.com/features/805581/auto-modalita-sport-funzionamento-segreti/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4PBn/s3/why-your-car-has-a-sport-mode-you-probably-never-use.jpg",
+      "summary": "Quel piccolo pulsante può trasformare come si comporta la tua auto, ma cosa fa davvero la modalità Sport sotto il cofano?",
       "date": "2026-08-20T13:00:00.0000000Z"
     },
     {
@@ -375,18 +387,6 @@
       "date": "2026-08-20T09:00:57.0000000Z"
     },
     {
-      "id": "insideevs:a3a8778b839d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Tesla a tre file è la Model Y con più autonomia reale",
-      "url": "https://insideevs.it/news/805555/tesla-model-y-autonomia-reale-test-edmunds/",
-      "image": "https://cdn.motor1.com/images/mgl/G3Q6NA/s3/2027-tesla-model-y-l.jpg",
-      "summary": "Il SUV elettrico supera di oltre 50 km la percorrenza dichiarata in una prova su strade americane",
-      "date": "2026-08-20T09:00:00.0000000Z"
-    },
-    {
       "id": "motor1:eba5bcd74a77",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -396,6 +396,18 @@
       "url": "https://it.motor1.com/news/805551/czinger-21c-nurburgring-tentativo-record/",
       "image": "https://cdn.motor1.com/images/mgl/rKJPvX/s3/czinger-21c-spyder.jpg",
       "summary": "La californiana Czinger suggerisce che la sua 21C Spyder potrebbe presto scendere in pista in Germania. Supererà l'AMG One?",
+      "date": "2026-08-20T09:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:a3a8778b839d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Tesla a tre file è la Model Y con più autonomia reale",
+      "url": "https://insideevs.it/news/805555/tesla-model-y-autonomia-reale-test-edmunds/",
+      "image": "https://cdn.motor1.com/images/mgl/G3Q6NA/s3/2027-tesla-model-y-l.jpg",
+      "summary": "Il SUV elettrico supera di oltre 50 km la percorrenza dichiarata in una prova su strade americane",
       "date": "2026-08-20T09:00:00.0000000Z"
     },
     {
@@ -480,18 +492,6 @@
       "url": "https://insideevs.it/news/805403/nio-vende-stazioni-battery-swap/",
       "image": "https://cdn.motor1.com/images/mgl/Oo0xRM/s3/nio-power-swap-station-4.0.jpg",
       "summary": "La Casa vende le stazioni di sostituzione batteria a istituzioni ed enti pubblici. La ricarica fast è un'alternativa minacciosa",
-      "date": "2026-08-20T05:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:d3703b592be4",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Porsche 911 continua a essere la regina incontrastata delle sportive",
-      "url": "https://it.motor1.com/news/805148/porsche-911-sportive-regina-vendite/",
-      "image": "https://cdn.motor1.com/images/mgl/L3yZ8N/s3/la-porsche-911-continua-a-essere-la-regina-incontrastata-delle-sportive.jpg",
-      "summary": "Le vendite di auto sportive in Europa è in calo, ma la Porsche 911 cresce ancora. Scopriamo i numeri",
       "date": "2026-08-20T05:00:00.0000000Z"
     },
     {

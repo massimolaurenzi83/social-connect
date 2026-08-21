@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-21T05:53:33.4212134Z",
+  "updated": "2026-08-21T06:38:20.6276899Z",
   "items": [
+    {
+      "id": "qualenergia:32dde86aedad",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "La situazione energetica nazionale nel 2025",
+      "url": "https://www.qualenergia.it/pro/documenti/la-situazione-energetica-nazionale-nel-2025/",
+      "image": null,
+      "summary": "Relazione sulla situazione energetica italiana del Ministero dell’Ambiente e della Sicurezza Energetica, secondo cui, nel 2025, la dipendenza energetica dall’estero è risalita di 1,7 punti percentuali, con le importaz...",
+      "date": "2026-08-21T06:07:02.0000000Z"
+    },
     {
       "id": "qualenergia:48dba849830d",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
       "date": "2026-08-20T05:15:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:8a0c65ea74ea",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Corso di laurea magistrale in “Energy Engineering”",
-      "url": "https://www.qualenergia.it/pro/documenti/corso-di-laurea-magistrale-in-energy-engineering-5/",
-      "image": null,
-      "summary": "Il corso di laurea Magistrale in “Energy Engineering” combina competenze di termodinamica, energie rinnovabili, ingegneria elettrica, impianti, automazione e sostenibilità. Dal secondo anno è possibile scegliere tra d...",
-      "date": "2026-08-20T05:00:57.0000000Z"
     }
   ]
 }
