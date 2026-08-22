@@ -1,7 +1,43 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-22T10:35:56.1689273Z",
+  "updated": "2026-08-22T10:57:38.1186088Z",
   "items": [
+    {
+      "id": "hdblog:73963dabd4fa",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Digit V5 vuole lavorare 20 ore al giorno accanto agli operai",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n668055/digit-v5-robot-umanoide-fabbrica/",
+      "image": null,
+      "summary": "Digit V5 punta a lavorare accanto alle persone per oltre 20 ore al giorno.",
+      "date": "2026-08-22T10:55:00.0000000Z"
+    },
+    {
+      "id": "hdblog:99507e53a7fd",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Tineco Floor One S9 Artist Boost Steam: la lavapavimenti con vapore a 230°C",
+      "url": "https://www.hdblog.it/home/articoli/n668008/tineco-floor-one-s9-artist-boost-steam-230-gradi/",
+      "image": null,
+      "summary": "Vapore a 230°C, rullo reversibile ReverseScrub e prezzo di lancio più basso della generazione precedente: Tineco rinnova la sua lavapavimenti top di gamma con il Floor One S9 Artist Boost Steam.",
+      "date": "2026-08-22T10:35:00.0000000Z"
+    },
+    {
+      "id": "tomshw:5cc4404a6ed8",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Intel Core i7-14700K a 370,82€, 20 core per giocare e creare",
+      "url": "https://www.tomshw.it/offerte/intel-core-i7-14700k-a-37082eur-20-core-per-giocare-e-creare",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108943/tomshw-offer-898145.png",
+      "summary": "Intel Core i7-14700K costa 370,82€ su Amazon, rispetto al prezzo di listino di 412,84€, con uno sconto del 10%. I suoi 20 core e la frequenza massima di 5,6 GHz puntano a gestire gioco e produttività...",
+      "date": "2026-08-22T10:33:57.0000000Z"
+    },
     {
       "id": "hdblog:f64f6d623e52",
       "sourceId": "hdblog",
@@ -111,18 +147,6 @@
       "date": "2026-08-22T08:25:00.0000000Z"
     },
     {
-      "id": "tomshw:83b791e8362e",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Mortal Shell II: la guida per iniziare e non morire subito",
-      "url": "https://www.tomshw.it/videogioco/mortal-shell-ii-i-consigli-per-iniziare",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108419/Mortal-shell-2-cover-png.webp",
-      "summary": "Mortal Shell II è disponibile dal 20 agosto 2026 su PC, PlayStation 5 e Xbox Series X|S. Sviluppato da Cold Symmetry e pubblicato da Playstack, è un action-RPG d’avventura in terza...",
-      "date": "2026-08-22T08:19:12.0000000Z"
-    },
-    {
       "id": "hdblog:df00751c07b3",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -157,30 +181,6 @@
       "image": null,
       "summary": "Un leak anticipare alcune specifiche chiave.",
       "date": "2026-08-22T07:55:00.0000000Z"
-    },
-    {
-      "id": "hdblog:7059c76fa159",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "TikTok paga 344 milioni: il conto della privacy dei minori",
-      "url": "https://www.hdblog.it/sicurezza/articoli/n668045/tiktok-accordo-privacy-bambini-344-milioni/",
-      "image": null,
-      "summary": "TikTok chiude con 344 milioni di euro la causa USA sulla privacy dei minori.",
-      "date": "2026-08-22T07:45:00.0000000Z"
-    },
-    {
-      "id": "hdblog:b574229a7ec1",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "iPhone 17 in offerta: è lo smartphone da prendere questo weekend",
-      "url": "https://www.hdblog.it/smartphone/offerte/n668051/iphone-17-256-gb-offerta-22-agosto-2026/",
-      "image": null,
-      "summary": "iPhone 17 da 256 GB è lo smartphone giusto da prendere nel corso di questo weekend: il prezzo è ottimo.",
-      "date": "2026-08-22T07:30:00.0000000Z"
     },
     {
       "id": "tomshw:51b4d75abd12",
@@ -327,18 +327,6 @@
       "date": "2026-08-21T07:30:00.0000000Z"
     },
     {
-      "id": "tomshw:a7ecdfd215f4",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Tesla scommette su AI4, ma la guida autonoma resta da dimostrare",
-      "url": "https://www.tomshw.it/automotive/tesla-svela-fsd-v15-e-punta-a-vendere-optimus-nel-2027",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108737/tesla-svela-fsd-v15-e-punta-a-vendere-optimus-nel-2027.png",
-      "summary": "Tesla ha delineato una nuova tabella di marcia per guida autonoma, robotaxi e robot umanoidi durante un incontro nello stabilimento di Fremont. L'azienda presenta FSD v15 come un salto sostanziale ris...",
-      "date": "2026-08-20T21:23:20.0000000Z"
-    },
-    {
       "id": "tomshw:008bb6343f29",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -398,6 +386,18 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/06/95665/quasar-piu-antico-lampeggia-sfida-buchi-neri.webp",
       "summary": "Un involucro di idrogeno estremamente denso e quasi privo di polvere potrebbe nascondere MoM-BH*-1, una sorgente osservata com’era circa 660 milioni di anni dopo il Big Bang. Lo spettro raccolto dal J...",
       "date": "2026-08-20T12:24:07.0000000Z"
+    },
+    {
+      "id": "tomshw:70c37be8e9dc",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Genesis GV90 Neolun è il SUV elettrico che sembra venire dal futuro",
+      "url": "https://www.tomshw.it/automotive/genesis-gv90-neolun-sedili-a-180-e-porte-senza-montante",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108477/1920_260820_anewiconrsquosarrivalgenesisunveilsgv90flagshipsuv_1.jpg",
+      "summary": "I sedili anteriori del nuovo Genesis GV90 possono ruotare elettricamente di 180 gradi quando il veicolo è fermo. La soluzione è riservata alla variante Neolun, che aggiunge porte posteri...",
+      "date": "2026-08-20T09:49:57.0000000Z"
     },
     {
       "id": "tomshw:0d8021f38c12",

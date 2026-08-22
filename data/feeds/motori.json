@@ -1,31 +1,7 @@
 {
   "category": "motori",
-  "updated": "2026-08-22T10:35:56.2049045Z",
+  "updated": "2026-08-22T10:57:38.1470733Z",
   "items": [
-    {
-      "id": "insideevs:42b3badbee34",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Guardate come una Lucid Gravity può ricaricare una Tesla Model 3",
-      "url": "https://insideevs.it/news/805668/lucid-gravity-ricarica-tesla/",
-      "image": "https://cdn.motor1.com/images/mgl/40Y3OY/s3/lucid-gravity-gt-s.jpg",
-      "summary": "Ricaricare una Tesla con i suoi più grandi concorrenti potrebbe sembrare una blasfemia, ma in realtà funziona dannatamente bene",
-      "date": "2026-08-22T10:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:a54be43b75b6",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Totem GT Super n. 32 si chiama Litorale Brado: oltre il restomod",
-      "url": "https://it.motor1.com/news/805734/totem-gt-super-litorale-brado/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4Pop/s3/20260814_161846488_ios.jpg",
-      "summary": "640 CV, carbonio e artigianalità invece di pura nostalgia. Questo restomod si spinge decisamente oltre la maggior parte degli altri",
-      "date": "2026-08-22T10:00:00.0000000Z"
-    },
     {
       "id": "hdmotori:bcbc1edc3e33",
       "sourceId": "hdmotori",
@@ -87,18 +63,6 @@
       "date": "2026-08-22T06:24:36.0000000Z"
     },
     {
-      "id": "insideevs:52bde9a6295d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa auto elettrica di 100 anni faceva 129 km, ma con calma",
-      "url": "https://insideevs.it/news/805707/auto-elettrica-100-anni-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
-      "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
-      "date": "2026-08-22T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:1cf6d635f007",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -108,6 +72,18 @@
       "url": "https://it.motor1.com/news/803450/bizzarrini-manta-storia-curiosita/",
       "image": "https://cdn.motor1.com/images/mgl/E6NyPB/s3/bizzarrini-manta-1968.jpg",
       "summary": "Nata in soli 40 giorni, la Bizzarrini Manta ha rivoluzionato il design delle sportive a motore centrale ed è un'icona del suo tempo",
+      "date": "2026-08-22T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:52bde9a6295d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa auto elettrica di 100 anni faceva 129 km, ma con calma",
+      "url": "https://insideevs.it/news/805707/auto-elettrica-100-anni-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
+      "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
       "date": "2026-08-22T05:00:00.0000000Z"
     },
     {
@@ -207,18 +183,6 @@
       "date": "2026-08-21T15:00:40.0000000Z"
     },
     {
-      "id": "insideevs:f35d8265e8e1",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ford userà la piattaforma Geely per un nuovo SUV elettrificato",
-      "url": "https://insideevs.it/news/805704/ford-suv-geely-2029-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/3WEbgY/s3/geely-e5-2026-im-test.jpg",
-      "summary": "Il nuovo SUV Ford nascerà sulla piattaforma GEA di Geely e sarà prodotto nello stabilimento di Valencia, con motori elettrici e ibridi",
-      "date": "2026-08-21T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:f3132c5f6333",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -228,6 +192,18 @@
       "url": "https://it.motor1.com/features/805479/pressione-pneumatici-controllo-frequenza/",
       "image": "https://cdn.motor1.com/images/mgl/qkYzJz/s3/the-simple-maintenance-task-most-drivers-forget.jpg",
       "summary": "Bastano pochi minuti, ma ignorare la pressione dei pneumatici potrebbe costarti carburante, durata dei pneumatici e persino la tua sicurezza.",
+      "date": "2026-08-21T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:f35d8265e8e1",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ford userà la piattaforma Geely per un nuovo SUV elettrificato",
+      "url": "https://insideevs.it/news/805704/ford-suv-geely-2029-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/3WEbgY/s3/geely-e5-2026-im-test.jpg",
+      "summary": "Il nuovo SUV Ford nascerà sulla piattaforma GEA di Geely e sarà prodotto nello stabilimento di Valencia, con motori elettrici e ibridi",
       "date": "2026-08-21T15:00:00.0000000Z"
     },
     {
@@ -303,18 +279,6 @@
       "date": "2026-08-21T13:12:24.0000000Z"
     },
     {
-      "id": "motor1:5ab500bc4912",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Praga Bohema batte il record di Pagani a Spa",
-      "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
-      "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
-      "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
-      "date": "2026-08-21T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:1d2af046ec51",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -324,6 +288,18 @@
       "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
       "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
       "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
+      "date": "2026-08-21T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:5ab500bc4912",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Praga Bohema batte il record di Pagani a Spa",
+      "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
+      "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
       "date": "2026-08-21T13:00:00.0000000Z"
     },
     {
@@ -459,6 +435,18 @@
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
+      "id": "motor1:224330779c13",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Brabus ha grandi piani oltre Mercedes: «È ora di cambiare»",
+      "url": "https://it.motor1.com/news/805620/brabus-piani-oltre-mercedes/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KVjO/s3/brabus-ceo-constantin-buschmann-interview.jpg",
+      "summary": "Il CEO Constantin Buschmann racconta a Motor1 come l'azienda stia andando oltre Mercedes e perché il Bodo sia solo l'inizio",
+      "date": "2026-08-21T07:00:00.0000000Z"
+    },
+    {
       "id": "motor1:8218664d57c5",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -529,6 +517,18 @@
       "image": "https://cdn.motor1.com/images/mgl/VzWQAL/s3/2026-tesla-semi.jpg",
       "summary": "Il camion elettrico di Elon Musk e soci esordirà all'IAA di Hannover a metà settembre, quando saranno svelate anche le specifiche",
       "date": "2026-08-20T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:b690ec3c20ff",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le prese di ricarica cadono dal cielo: 20 auto ricaricate",
+      "url": "https://insideevs.it/news/805564/ricarica-overhead-portland-20-auto/",
+      "image": "https://cdn.motor1.com/images/mgl/xq36JG/s3/overhead-chargepoint-del-quick-turnaround-facility-all-aeroporto-di-portland-usa.jpg",
+      "summary": "Nel Quick Turnaround Facility di Portland ChargePoint installa 10 charger da 200 kW overhead per elettrificare le flotte a noleggio in spazi saturi.",
+      "date": "2026-08-20T10:00:00.0000000Z"
     }
   ]
 }
