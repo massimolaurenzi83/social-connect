@@ -1,18 +1,79 @@
 {
   "category": "notizie",
-  "updated": "2026-08-22T12:57:57.1247211Z",
+  "updated": "2026-08-22T13:36:13.1346202Z",
   "items": [
     {
-      "id": "ansa:fe8284d4abfa",
+      "id": "skytg24:SiRJVis4vPo",
+      "sourceId": "skytg24",
+      "source": "Sky TG24",
+      "platform": "youtube",
+      "category": "notizie",
+      "title": "Guatemala, espulsi oltre 2.000 messicani da parte degli Usa",
+      "url": "https://www.youtube.com/watch?v=SiRJVis4vPo",
+      "image": "https://i.ytimg.com/vi/SiRJVis4vPo/hqdefault.jpg",
+      "summary": "",
+      "videoId": "SiRJVis4vPo",
+      "date": "2026-08-22T13:32:11.0000000Z"
+    },
+    {
+      "id": "ansa:587827e970ae",
       "sourceId": "ansa",
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "++ Esplosione in una casa del Brindisino, grave anziano e 4 bimbi intossicati ++",
-      "url": "https://www.ansa.it/sito/notizie/flash/2026/08/22/esplosione-in-una-casa-del-brindisino-grave-anziano-e-4-bimbi-intossicati_c69961c7-288d-4bdb-9dda-84a617a6292d.html",
+      "title": "Esplosione in una casa del Brindisino, grave un anziano e 4 bimbi intossicati",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-casa-del-brindisino-grave-un-anziano-e-4-bimbi-intossicati_a08e5c34-078e-4dbb-96f2-0ea14393007c.html",
       "image": null,
       "summary": "L'episodio a Carovigno. Piccoli portati in ospedale non sono in pericolo di vita",
-      "date": "2026-08-22T12:42:38.0000000Z"
+      "date": "2026-08-22T13:11:57.0000000Z"
+    },
+    {
+      "id": "open:16df72b890d0",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Esplode un appartamento nel Brindisino: grave un anziano, intossicati quattro bambini",
+      "url": "https://www.open.online/2026/08/22/esplosione-appartamento-carovigno-feriti/",
+      "image": "https://static.open.online/wp-content/uploads/2025/08/ambulanza-trento.jpg",
+      "summary": "Si indaga per capire cosa abbia provocato l'esplosione, ma si ipotizza una perdita di gas da una bombola o dalla caldaia L'articolo Esplode un appartamento nel Brindisino: grave un anziano, intossicati quattro bambini...",
+      "date": "2026-08-22T13:03:25.0000000Z"
+    },
+    {
+      "id": "ansa:1893a32e1445",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il Papa è arrivato al Meeting di Rimini, l'elicottero è atterrato in fiera",
+      "url": "https://www.ansa.it/vaticano/notizie/2026/08/22/il-papa-e-arrivato-a-san-marino-accolto-dai-capitani-reggenti_4ffb0ebe-bee3-41e3-87ba-78ca82852dbd.html",
+      "image": null,
+      "summary": "Il vescovo di San Marino: 'L'incontro con il pontefice il più grande spettacolo dopo il Big Bang'",
+      "date": "2026-08-22T13:01:26.0000000Z"
+    },
+    {
+      "id": "ansa:c8d56ff678f4",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Un giudice Usa annulla il divieto di Trump per i visti ai migranti di 75 Paesi",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/22/un-giudice-usa-annulla-il-divieto-di-trump-per-i-visti-ai-migranti-di-75-paesi_2f9b4d3f-9d33-40e9-840c-f6dc8065d629.html",
+      "image": null,
+      "summary": "Misura 'contraria alla legge', respinte le motivazioni dell'amministrazione",
+      "date": "2026-08-22T12:56:26.0000000Z"
+    },
+    {
+      "id": "repubblica:10d4fe308746",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Volley, Europei: Italia-Montenegro in diretta. Primo set alle azzurre",
+      "url": "https://www.repubblica.it/sport/vari/2026/08/22/diretta/italia_montenegro_volley_europei_diretta-425541600/",
+      "image": null,
+      "summary": "Secondo match del girone per le azzurre di Velasco",
+      "date": "2026-08-22T12:45:40.0000000Z"
     },
     {
       "id": "ansa:dfe0fd44e074",
@@ -25,6 +86,18 @@
       "image": null,
       "summary": "",
       "date": "2026-08-22T12:42:08.0000000Z"
+    },
+    {
+      "id": "repubblica:ad89616fbd74",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Gasperini: “La Roma è la più penalizzata dal fair play finanziario. Mi aspetto altri acquisti”",
+      "url": "https://www.repubblica.it/sport/calcio/serie-a/roma/2026/08/22/news/gasperini_roma_cosa_ha_detto-425541592/",
+      "image": null,
+      "summary": "Verso la prima giornata di campionato contro la Fiorentina, il tecnico parla dei problemi economici del club: “Credevo che la Champions li avrebbe risolti. Ora siamo alla resa dei conti”",
+      "date": "2026-08-22T12:24:30.0000000Z"
     },
     {
       "id": "open:e48f103f919c",
@@ -89,18 +162,6 @@
       "date": "2026-08-22T11:34:04.0000000Z"
     },
     {
-      "id": "ansa:1893a32e1445",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Il Papa a San Marino: 'Mondo ferito, aumenta la chiusura e la paura dell'altro. No ai progetti politici schiavi degli idoli e del potere'",
-      "url": "https://www.ansa.it/vaticano/notizie/2026/08/22/il-papa-e-arrivato-a-san-marino-accolto-dai-capitani-reggenti_4ffb0ebe-bee3-41e3-87ba-78ca82852dbd.html",
-      "image": null,
-      "summary": "Oggi è il giorno di Leone XIV al Meeting di Rimini. Il vescovo di San Marino: 'L'incontro con il pontefice sarà il più grande spettacolo dopo il Big Bang'",
-      "date": "2026-08-22T11:32:45.0000000Z"
-    },
-    {
       "id": "repubblica:791ddf844303",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -123,18 +184,6 @@
       "image": null,
       "summary": "Il Paese, travolto dallo scandalo corruzione, non può permettersi né un’elezione durante la guerra né di ritardare il Piano Kachka-Kos concordato a Bruxelles per scrollarsi di dosso l’eredità illiberale sovietica. Ser...",
       "date": "2026-08-22T11:25:29.0000000Z"
-    },
-    {
-      "id": "ansa:7c4e95c9dd2b",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Esplosione in una palazzina a Perugia, due feriti gravi",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-palazzina-a-perugia-ci-sono-persone-coinvolte_744dd77d-34a4-4855-9f91-aedee0b5f198.html",
-      "image": null,
-      "summary": "Il tetto dell'immobile sarebbe crollato. Non risultano dispersi",
-      "date": "2026-08-22T11:25:00.0000000Z"
     },
     {
       "id": "open:ad763a7f73f9",
@@ -260,6 +309,18 @@
       "date": "2026-08-22T10:04:12.0000000Z"
     },
     {
+      "id": "ansa:8f41d59a1e67",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "È caro conto-corrente in Italia, la spesa è salita del 23% in 10 anni",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/08/22/e-caro-conto-corrente-la-spesa-e-salita-del-23-in-10-anni_3af4547a-b3f4-45eb-9109-63f870658de2.html",
+      "image": null,
+      "summary": "Adusbef, Bolzano la più ricca, Crotone fanalino di coda",
+      "date": "2026-08-22T10:00:42.0000000Z"
+    },
+    {
       "id": "repubblica:87e962140e04",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -282,6 +343,18 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/limosano-don-aloys-morto.jpg",
       "summary": "Aveva 47 anni ed originario del Camerum, era stato ordinato sacerdote nel 2009. La tragedia davanti agli occhi dei fedeli di Limosano, in provincia di Campobasso L'articolo Il prete si accascia durante la messa, il ma...",
       "date": "2026-08-22T09:40:40.0000000Z"
+    },
+    {
+      "id": "repubblica:e655bcb602f6",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Fabio Savi, lettera ai famigliari della Uno Bianca: “Chiedo scusa”. La replica: “Vuole benefici”",
+      "url": "https://bologna.repubblica.it/cronaca/2026/08/22/news/fabio_savi_lettera_scuse_vittime_uno_bianca-425541406/",
+      "image": null,
+      "summary": "La missiva del killer è datata primo agosto: nel testo prende ancora le distanze dal fratello Roberto",
+      "date": "2026-08-22T09:36:23.0000000Z"
     },
     {
       "id": "skytg24:Ug8O2r5Uu7w",
@@ -307,18 +380,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/ospedale-palermo-vaccini.jpg",
       "summary": "Il bambino aveva gli stessi sintomi della cugina. Ma a differenza della bambina morta all'ospedale pediatrico di Palermo, aveva fatto i primi tre cicli di vaccinazioni. Perché ora si cerca il paziente zero e i sospett...",
       "date": "2026-08-22T09:13:17.0000000Z"
-    },
-    {
-      "id": "repubblica:e50666d44a54",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La forza di Madjo, il talento di Karetsas e Godts, la nostra speranza Inacio: attenti a quei dieci",
-      "url": "https://www.repubblica.it/sport/calcio/2026/08/22/news/madjo_karetsas_inacio_10_talenti_chi_sono-425541314/",
-      "image": null,
-      "summary": "I dieci giovani più interessanti da tenere d’occhio nei principali campionati europei",
-      "date": "2026-08-22T08:46:54.0000000Z"
     },
     {
       "id": "open:f57a2de2ea77",
@@ -395,18 +456,6 @@
       "date": "2026-08-22T07:56:13.0000000Z"
     },
     {
-      "id": "repubblica:a227f66df9b3",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Esplosione in una palazzina a Perugia, grave una donna",
-      "url": "https://www.repubblica.it/cronaca/2026/08/22/news/esplode_una_palazzina_di_due_piani_a_perugia_ci_sono_persone_coinvolte-425541202/",
-      "image": null,
-      "summary": "Crollata una parte del tetto. Tra le prime ipotesi quella di una fuga di gas. Un uomo è rimasto ferito ma è già stato dimesso dall’ospela",
-      "date": "2026-08-22T07:53:47.0000000Z"
-    },
-    {
       "id": "repubblica:e99e16cbdfd5",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -441,42 +490,6 @@
       "image": null,
       "summary": "La ricetta del generale prevede di arrivare alla proprietà diffusa. Ovviamente promette un taglio all’Irpef fino alla flat tax e stoppa ogni imposta patrimoniale",
       "date": "2026-08-22T07:00:00.0000000Z"
-    },
-    {
-      "id": "open:95a7bfc6fb67",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "«Sputa sulle uova, che questa mi ha già rotto il ca***…», come ha fatto lo sfogo del cameriere a finire sullo scontrino – Il video",
-      "url": "https://www.open.online/2026/08/22/victor-lab-riccione-scontrino-sputa-uova-video/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/victor-lab-comanda-sputa-uova.jpg",
-      "summary": "La direzione del locale di Riccione ha provato a scusarsi in tutti i modi per il comportamento del 17enne che ha servito la famiglia brasiliana. La cena alla fine è stata anche offerta, ma non è bastato a fermare la r...",
-      "date": "2026-08-22T06:55:50.0000000Z"
-    },
-    {
-      "id": "repubblica:b7ad076cf8c2",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La folle vita in Nicaragua del fratello rivoluzionario di Natalie Harp, assistente di Trump",
-      "url": "https://www.repubblica.it/esteri/2026/08/22/news/nicaragua_rivoluzionario_fratello_natalie_harp_assistente_trump-425541036/",
-      "image": null,
-      "summary": "Preston Harp è uno strenuo sostenitore del regime sandinista e fa il tifo per l’Iran nella guerra contro gli Stati Uniti. Sostiene che la sorella abbia una “malsana ossessione” per il presidente Usa",
-      "date": "2026-08-22T06:28:49.0000000Z"
-    },
-    {
-      "id": "ansa:b286a0490280",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Niente accordo Usa-Canada, scattano dazi reciproci del 50%",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/22/niente-accordo-usa-canada-scattano-dazi-reciproci-del-50_24079c6e-ddc4-4afa-bdba-0a560665f46b.html",
-      "image": null,
-      "summary": "Fallisce la missione del ministro LeBlanc a Washington",
-      "date": "2026-08-22T06:02:34.0000000Z"
     },
     {
       "id": "skytg24:3gfQoqi2y3g",
@@ -564,19 +577,6 @@
       "image": null,
       "summary": "Uno studio mostra come cambia l'attività della mente quando guardiamo le clip social",
       "date": "2026-08-21T16:09:36.0000000Z"
-    },
-    {
-      "id": "skytg24:PvrKqp4LnkI",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Crisi della benzina in Russia, lunghe code ai distributori",
-      "url": "https://www.youtube.com/watch?v=PvrKqp4LnkI",
-      "image": "https://i.ytimg.com/vi/PvrKqp4LnkI/hqdefault.jpg",
-      "summary": "",
-      "videoId": "PvrKqp4LnkI",
-      "date": "2026-08-21T15:48:35.0000000Z"
     },
     {
       "id": "ansa:ff9c5666281d",
