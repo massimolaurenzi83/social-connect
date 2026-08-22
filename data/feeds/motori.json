@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-22T07:04:42.9382661Z",
+  "updated": "2026-08-22T07:42:51.2447836Z",
   "items": [
+    {
+      "id": "hdmotori:3f586e8c511f",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Stellantis rafforza l’alleanza con Dongfeng: nuova joint venture da un miliardo di euro",
+      "url": "https://www.hdmotori.it/stellantis-dongfeng-joint-venture-un-miliardo/",
+      "image": null,
+      "summary": "Inaugurata a Wuhan la joint venture Dongfeng Peugeot-Citroën Technology, finalizzata allo sviluppo di modelli Peugeot e Jeep a nuova energia. The post Stellantis rafforza l’alleanza con Dongfeng: nuova joint venture d...",
+      "date": "2026-08-22T07:00:05.0000000Z"
+    },
     {
       "id": "vaielettrico:063241a91319",
       "sourceId": "vaielettrico",
@@ -135,18 +147,6 @@
       "date": "2026-08-21T15:00:40.0000000Z"
     },
     {
-      "id": "insideevs:f35d8265e8e1",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ford userà la piattaforma Geely per un nuovo SUV elettrificato",
-      "url": "https://insideevs.it/news/805704/ford-suv-geely-2029-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/3WEbgY/s3/geely-e5-2026-im-test.jpg",
-      "summary": "Il nuovo SUV Ford nascerà sulla piattaforma GEA di Geely e sarà prodotto nello stabilimento di Valencia, con motori elettrici e ibridi",
-      "date": "2026-08-21T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:f3132c5f6333",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -156,6 +156,18 @@
       "url": "https://it.motor1.com/features/805479/pressione-pneumatici-controllo-frequenza/",
       "image": "https://cdn.motor1.com/images/mgl/qkYzJz/s3/the-simple-maintenance-task-most-drivers-forget.jpg",
       "summary": "Bastano pochi minuti, ma ignorare la pressione dei pneumatici potrebbe costarti carburante, durata dei pneumatici e persino la tua sicurezza.",
+      "date": "2026-08-21T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:f35d8265e8e1",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ford userà la piattaforma Geely per un nuovo SUV elettrificato",
+      "url": "https://insideevs.it/news/805704/ford-suv-geely-2029-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/3WEbgY/s3/geely-e5-2026-im-test.jpg",
+      "summary": "Il nuovo SUV Ford nascerà sulla piattaforma GEA di Geely e sarà prodotto nello stabilimento di Valencia, con motori elettrici e ibridi",
       "date": "2026-08-21T15:00:00.0000000Z"
     },
     {
@@ -349,18 +361,6 @@
       "image": null,
       "summary": "Con le fabbriche Volvo in Svezia e il sito Ford in Spagna, Geely azzera dazi e trasporti producendo i nuovi crossover ibridi direttamente in Europa dal 2028. The post Geely beffa i dazi dell’UE: utilizzerà le fabbrich...",
       "date": "2026-08-21T09:30:25.0000000Z"
-    },
-    {
-      "id": "hdmotori:7b7bcfd832ec",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "YASA sviluppa motori elettrici privi di terre rare per ridurre la dipendenza dalla Cina",
-      "url": "https://www.hdmotori.it/yasa-motori-elettrici-terre-rare/",
-      "image": null,
-      "summary": "Il progetto di YASA punta a svincolare l'industria automobilistica dalla dipendenza dai magneti a base di terre rare, garantendo alte prestazioni e una maggiore sicurezza nelle forniture. The post YASA sviluppa motori...",
-      "date": "2026-08-21T09:00:05.0000000Z"
     },
     {
       "id": "insideevs:ec222eae2365",

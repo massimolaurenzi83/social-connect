@@ -1,7 +1,103 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-22T07:04:42.9092876Z",
+  "updated": "2026-08-22T07:42:51.2204604Z",
   "items": [
+    {
+      "id": "hdblog:023f5ac91aa6",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Microsoft conferma i bug dell'ultimo Patch Tuesday con alcuni sistemi gaming",
+      "url": "https://www.hdblog.it/microsoft/articoli/n668026/windows-11-bug-videogiochi-patch-agosto-rgb-driver/",
+      "image": null,
+      "summary": "Come sospettato la radice del bug è in un driver ben specifico ma per ora Microsoft non ha ancora individuato il guasto preciso.",
+      "date": "2026-08-22T07:35:00.0000000Z"
+    },
+    {
+      "id": "hdblog:b574229a7ec1",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "iPhone 17 in offerta: è lo smartphone da prendere questo weekend",
+      "url": "https://www.hdblog.it/smartphone/offerte/n668051/iphone-17-256-gb-offerta-22-agosto-2026/",
+      "image": null,
+      "summary": "iPhone 17 da 256 GB è lo smartphone giusto da prendere nel corso di questo weekend: il prezzo è ottimo.",
+      "date": "2026-08-22T07:30:00.0000000Z"
+    },
+    {
+      "id": "tomshw:086de97cb0e4",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "La \"truffa del reso\": cos'è e come funziona il raggiro",
+      "url": "https://www.tomshw.it/altro/truffa-del-reso-iphone-va-ai-truffatori-il-debito-resta",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107289/news-flash-777962.png",
+      "summary": "Lo smartphone viene acquistato attraverso i canali autentici dell’operatore, ma il successivo reso finisce nelle mani dei truffatori. È il meccanismo della truffa della consegna degli sma...",
+      "date": "2026-08-22T07:16:03.0000000Z"
+    },
+    {
+      "id": "hdblog:7bb7eefbf6ec",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Google Pixel 10 Pro (256 GB) in offerta su Amazon: l'alternativa giusta ai Pixel 11",
+      "url": "https://www.hdblog.it/smartphone/offerte/n668050/google-pixel-10-256-gb-offerta-amazon-agosto-2026/",
+      "image": null,
+      "summary": "Il Google Pixel 10 da 256 GB è in offerta su Amazon: si tratta di un'alternativa eccellente al ben più costoso Pixel 11.",
+      "date": "2026-08-22T07:15:00.0000000Z"
+    },
+    {
+      "id": "hdblog:5abb6ec78842",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Claude Opus 4.6 aggira i filtri di Anthropic con troppa facilità",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n668039/claude-opus-4-6-jailbreak-filtri-anthropic/",
+      "image": null,
+      "summary": "I test mostrano quanto sia difficile trasformare i divieti imposti alle AI in barriere davvero solide.",
+      "date": "2026-08-22T07:10:00.0000000Z"
+    },
+    {
+      "id": "tomshw:64e809090737",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Il leggendario Task Manager arriva su macOS: beta gratuita",
+      "url": "https://www.tomshw.it/hardware/task-manager-og-e-arrivato-dave-plummer-lancia-la-beta-gratuita-per-macos",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108909/amarcord-cover-897862.png",
+      "summary": "Task Manager OG è disponibile gratuitamente per macOS. Il 31 luglio 2026 Dave W. Plummer, creatore del Task Manager originale di Windows, ha pubblicato la BETA 01 della sua reinterpretazione na...",
+      "date": "2026-08-22T07:09:54.0000000Z"
+    },
+    {
+      "id": "tomshw:b579217bcb59",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Panasonic QLED 43″ a 399€, Fire TV e 120 Hz che valgono la spesa",
+      "url": "https://www.tomshw.it/offerte/panasonic-qled-43-a-399eur-fire-tv-e-120-hz-che-valgono-la-spesa",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108908/tomshw-offer-897861.png",
+      "summary": "La Smart TV Panasonic W85B da 43 pollici costa 399€ su Amazon, anziché 649€, con uno sconto del 39%. Il pannello QLED a 120 Hz, affiancato da VRR e AMD FreeSync, la rende particolarmente interessante...",
+      "date": "2026-08-22T07:03:30.0000000Z"
+    },
+    {
+      "id": "hdblog:3f586e8c511f",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Stellantis rafforza l&rsquo;alleanza con Dongfeng: nuova joint venture da un miliardo di euro",
+      "url": "https://www.hdmotori.it/stellantis-dongfeng-joint-venture-un-miliardo/",
+      "image": null,
+      "summary": "Inaugurata a Wuhan la joint venture Dongfeng Peugeot-Citroën Technology, finalizzata allo sviluppo di modelli Peugeot e Jeep a nuova energia.",
+      "date": "2026-08-22T07:00:05.0000000Z"
+    },
     {
       "id": "hdblog:fa86ffb43536",
       "sourceId": "hdblog",
@@ -49,18 +145,6 @@
       "image": null,
       "summary": "Nuovi occhiali AR pensati per rivoluzionare lavoro e intrattenimento",
       "date": "2026-08-22T05:55:00.0000000Z"
-    },
-    {
-      "id": "tomshw:086de97cb0e4",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "La \"truffa del reso\": cos'è e come funziona il raggiro",
-      "url": "https://www.tomshw.it/altro/truffa-del-reso-iphone-va-ai-truffatori-il-debito-resta",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107289/news-flash-777962.png",
-      "summary": "Lo smartphone viene acquistato attraverso i canali autentici dell’operatore, ma il successivo reso finisce nelle mani dei truffatori. È il meccanismo della truffa della consegna degli sma...",
-      "date": "2026-08-21T21:30:59.0000000Z"
     },
     {
       "id": "tomshw:6b3d2f8c1b54",
@@ -123,18 +207,6 @@
       "date": "2026-08-21T18:00:06.0000000Z"
     },
     {
-      "id": "tomshw:17b315a3f605",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Il drone Amazon fa centro... in piscina: consegna fallita",
-      "url": "https://www.tomshw.it/altro/amazon-prime-air-il-drone-consegna-il-pacco-in-piscina",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108889/cDXJBLUFxWijbbBF4JWhXB-2000-80.jpg",
-      "summary": "Il vano di carico si è aperto sopra una piscina e il pacco è finito direttamente in acqua. È successo a Richmond, in Texas, durante la prima consegna Amazon Prime Air ricevuta da Lindsey Austen. Il dr...",
-      "date": "2026-08-21T17:47:16.0000000Z"
-    },
-    {
       "id": "hdblog:110b83bf296d",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -157,78 +229,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/108892/tomshw-offer-886630.png",
       "summary": "La torretta multipresa Anker 12-in-1 costa 32,99€ su Amazon: il listino è di 42,99€ e lo sconto dichiarato è del 23%. Riunisce otto prese CA e quattro porte USB in un corpo compatto, pensato per alime...",
       "date": "2026-08-21T17:33:15.0000000Z"
-    },
-    {
-      "id": "hdblog:b31eaa4c0a0e",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Doom gira anche su una fotocamera Canon di 15 anni fa, e pure bene",
-      "url": "https://www.hdblog.it/games/articoli/n668019/doom-fotocamera-canon-magic-lantern/",
-      "image": null,
-      "summary": "Le meraviglie del mitico firmware open-source Magic Lantern.",
-      "date": "2026-08-21T17:05:00.0000000Z"
-    },
-    {
-      "id": "hdblog:6e345f2ba0e6",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Rientro dalle vacanze, le previsioni da bollino rosso del controesodo",
-      "url": "https://www.hdmotori.it/rientro-vacanze-previsioni-bollino-rosso-controesodo/",
-      "image": null,
-      "summary": "Per milioni di italiani le vacanze estive si stanno concludendo con un drammatico rientro a casa. Scopriamo cosa dicono i dati",
-      "date": "2026-08-21T17:00:54.0000000Z"
-    },
-    {
-      "id": "hdblog:053f515e6bf2",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Microsoft Edge per Android, arrivano gli sfondi custom... ma solo a una condizione",
-      "url": "https://www.hdblog.it/microsoft/articoli/n668016/microsoft-edge-sfondi-android-browser-predefinito/",
-      "image": null,
-      "summary": "Bisogna impostare Edge come browser di sistema. Quando imparerai, Microsoft?",
-      "date": "2026-08-21T16:45:00.0000000Z"
-    },
-    {
-      "id": "hdblog:4771620620af",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Hubble risolve un mistero della Via Lattea vecchio 12 miliardi di anni",
-      "url": "https://www.hdblog.it/curiosita/articoli/n668004/hubble-fusione-via-lattea-lkh/",
-      "image": null,
-      "summary": "Hubble trova le tracce di una galassia inglobata dalla Via Lattea quasi 12 miliardi di anni fa.",
-      "date": "2026-08-21T16:20:00.0000000Z"
-    },
-    {
-      "id": "hdblog:d9788dba6098",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Google rilascia le Factory Image dei suoi smartphone Pixel 11",
-      "url": "https://www.hdblog.it/smartphone/articoli/n668014/google-pixel-11-pro-xl-fold-factory-image/",
-      "image": null,
-      "summary": "Disponibili al download proprio il giorno di inizio commercializzazione dei device.",
-      "date": "2026-08-21T16:10:00.0000000Z"
-    },
-    {
-      "id": "tomshw:4afced41879f",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "HyperX Pulsefire Haste 2 al 57%, il mouse da 53 grammi per gli FPS",
-      "url": "https://www.tomshw.it/offerte/hyperx-pulsefire-haste-2-al-57-il-mouse-da-53-grammi-per-gli-fps",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108887/tomshw-offer-886534.png",
-      "summary": "HyperX Pulsefire Haste 2 costa 29,99€ su Amazon, con uno sconto del 57% sul prezzo di listino di 69,99€. Il peso di appena 53 grammi permette di spostarlo rapidamente durante gli scontri più concitati...",
-      "date": "2026-08-21T16:03:26.0000000Z"
     },
     {
       "id": "dday:2bc1c8cae27e",
@@ -277,18 +277,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/03/87517/migliori-chromebook-copertina.jpg",
       "summary": "Scegliere uno dei migliori Chromebook significa puntare su un portatile veloce nell'avvio, semplice da gestire e pensato per chi lavora molto tra browser, documenti condivisi, videochiamate e servizi...",
       "date": "2026-08-21T11:30:11.0000000Z"
-    },
-    {
-      "id": "tomshw:f29d5832de37",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Migliori stampanti economiche a getto d'inchiostro (agosto 2026)",
-      "url": "https://www.tomshw.it/hardware/migliori-stampanti-economiche-getto-inchiostro",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87511/migliori-stampanti-economiche-getto-copertina.jpg",
-      "summary": "Scegliere una delle migliori stampanti a getto d’inchiostro economiche resta una soluzione sensata per casa, studio, università e piccoli uffici quando si vuole stampare a colori senza partire da una...",
-      "date": "2026-08-21T11:24:45.0000000Z"
     },
     {
       "id": "dday:20692d5119c8",
@@ -387,18 +375,6 @@
       "date": "2026-08-21T07:30:00.0000000Z"
     },
     {
-      "id": "tomshw:a4a1591ad583",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Le spedizioni dei pieghevoli potrebbero raddoppiare entro il 2028",
-      "url": "https://www.tomshw.it/smartphone/le-spedizioni-dei-pieghevoli-potrebbero-raddoppiare-entro-il-2028",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108725/le-spedizioni-dei-pieghevoli-potrebbero-raddoppiare-entro-il-2028.png",
-      "summary": "Omdia ha pubblicato di recente una previsione che assegna al mercato degli smartphone pieghevoli un nuovo ciclo di espansione. Le spedizioni globali potrebbero raggiungere 36 milioni di unità entro il...",
-      "date": "2026-08-20T21:14:15.0000000Z"
-    },
-    {
       "id": "dday:ed0a1c186090",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -449,6 +425,18 @@
       "date": "2026-08-19T20:17:45.0000000Z"
     },
     {
+      "id": "tomshw:723907fcff14",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Ecco come comandare un iPad dal vostro iPhone",
+      "url": "https://www.tomshw.it/smartphone/apple-iphone-controlla-ipad-via-accessibilita-stesso-account-e-wi-fi",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108394/iPhone-tv-remote-iPad_01b-jpg.webp",
+      "summary": "L’iPhone può diventare un telecomando essenziale per un iPad vicino, permettendo di gestire anche la riproduzione di film e serie senza dover raggiungere fisicamente il tablet. A rendere possibile que...",
+      "date": "2026-08-19T15:25:19.0000000Z"
+    },
+    {
       "id": "techprincess:3rUCexZxVQU",
       "sourceId": "techprincess",
       "source": "Techprincess",
@@ -473,6 +461,18 @@
       "summary": "",
       "videoId": "OCuC2GGRe5g",
       "date": "2026-08-18T13:32:21.0000000Z"
+    },
+    {
+      "id": "tomshw:0ea1d2d6aa45",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Wispr Flow vola: 280 milioni e valutazione da 2 miliardi",
+      "url": "https://www.tomshw.it/business/wispr-flow-round-da-280-milioni-valutazione-a-2-miliardi",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/92426/wispr-flow-india-ia-vocale-hinglish.webp",
+      "summary": "Un Series B da 280 milioni di dollari ha portato la società dietro Wispr Flow a una valutazione post-money di 2 miliardi. Il round è stato guidato da Menlo Ventures e porta a 361 milioni di dollari il...",
+      "date": "2026-08-17T15:23:14.0000000Z"
     },
     {
       "id": "tomshw:5276e0ec0e09",
