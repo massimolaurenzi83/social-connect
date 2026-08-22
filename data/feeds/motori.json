@@ -1,18 +1,18 @@
 {
   "category": "motori",
-  "updated": "2026-08-22T06:15:39.3272197Z",
+  "updated": "2026-08-22T07:04:42.9382661Z",
   "items": [
     {
-      "id": "insideevs:52bde9a6295d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
+      "id": "vaielettrico:063241a91319",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
       "platform": "rss",
       "category": "motori",
-      "title": "Questa auto elettrica di 100 anni faceva 129 km, ma con calma",
-      "url": "https://insideevs.it/news/805707/auto-elettrica-100-anni-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
-      "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
-      "date": "2026-08-22T05:00:00.0000000Z"
+      "title": "Eolico: quando le compensazioni non bastano, il rifiuto del Comune di Londa",
+      "url": "https://www.vaielettrico.it/eolico-quando-le-compensazioni-non-bastano-il-rifiuto-del-comune-di-londa/",
+      "image": null,
+      "summary": "Non sono bastate a ottenere il via libera all’impianto eolico le ingenti compensazioni economiche, con un versamento annuale… L'articolo Eolico: quando le compensazioni non bastano, il rifiuto del Comune di Londa prov...",
+      "date": "2026-08-22T06:24:36.0000000Z"
     },
     {
       "id": "motor1:1cf6d635f007",
@@ -24,6 +24,18 @@
       "url": "https://it.motor1.com/news/803450/bizzarrini-manta-storia-curiosita/",
       "image": "https://cdn.motor1.com/images/mgl/E6NyPB/s3/bizzarrini-manta-1968.jpg",
       "summary": "Nata in soli 40 giorni, la Bizzarrini Manta ha rivoluzionato il design delle sportive a motore centrale ed è un'icona del suo tempo",
+      "date": "2026-08-22T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:52bde9a6295d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa auto elettrica di 100 anni faceva 129 km, ma con calma",
+      "url": "https://insideevs.it/news/805707/auto-elettrica-100-anni-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
+      "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
       "date": "2026-08-22T05:00:00.0000000Z"
     },
     {
@@ -123,18 +135,6 @@
       "date": "2026-08-21T15:00:40.0000000Z"
     },
     {
-      "id": "motor1:f3132c5f6333",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Pressione pneumatici: forse non la controllate abbastanza spesso",
-      "url": "https://it.motor1.com/features/805479/pressione-pneumatici-controllo-frequenza/",
-      "image": "https://cdn.motor1.com/images/mgl/qkYzJz/s3/the-simple-maintenance-task-most-drivers-forget.jpg",
-      "summary": "Bastano pochi minuti, ma ignorare la pressione dei pneumatici potrebbe costarti carburante, durata dei pneumatici e persino la tua sicurezza.",
-      "date": "2026-08-21T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:f35d8265e8e1",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -144,6 +144,18 @@
       "url": "https://insideevs.it/news/805704/ford-suv-geely-2029-novita/",
       "image": "https://cdn.motor1.com/images/mgl/3WEbgY/s3/geely-e5-2026-im-test.jpg",
       "summary": "Il nuovo SUV Ford nascerà sulla piattaforma GEA di Geely e sarà prodotto nello stabilimento di Valencia, con motori elettrici e ibridi",
+      "date": "2026-08-21T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:f3132c5f6333",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Pressione pneumatici: forse non la controllate abbastanza spesso",
+      "url": "https://it.motor1.com/features/805479/pressione-pneumatici-controllo-frequenza/",
+      "image": "https://cdn.motor1.com/images/mgl/qkYzJz/s3/the-simple-maintenance-task-most-drivers-forget.jpg",
+      "summary": "Bastano pochi minuti, ma ignorare la pressione dei pneumatici potrebbe costarti carburante, durata dei pneumatici e persino la tua sicurezza.",
       "date": "2026-08-21T15:00:00.0000000Z"
     },
     {
@@ -279,18 +291,6 @@
       "date": "2026-08-21T11:30:35.0000000Z"
     },
     {
-      "id": "motor1:38b9224f8604",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Keyless-Go, quasi metà delle auto è ancora vulnerabile",
-      "url": "https://it.motor1.com/features/805416/auto-keyless-vulnerabile-ladri/",
-      "image": "https://cdn.motor1.com/images/mgl/mMzyOv/s3/keyless-go-e-furti-d-auto-i-test-adac.jpg",
-      "summary": "L’ADAC invita gli automobilisti a verificare la presenza della tecnologia UWB prima di comprare un’auto dotata di apertura senza chiave",
-      "date": "2026-08-21T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:7b7bde363fe8",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -300,6 +300,18 @@
       "url": "https://insideevs.it/news/805611/ricarica-bidirezionale-v2g-funziona-oggi/",
       "image": "https://cdn.motor1.com/images/mgl/lEGgAl/s3/ricarica-bidirezionale-v2g.jpg",
       "summary": "Tra progetti pilota ENEA Terna e obbligo EN ISO 15118-20 dal 2027, il V2G resta legato a offerte chiuse e poche combinazioni compatibili.",
+      "date": "2026-08-21T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:38b9224f8604",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Keyless-Go, quasi metà delle auto è ancora vulnerabile",
+      "url": "https://it.motor1.com/features/805416/auto-keyless-vulnerabile-ladri/",
+      "image": "https://cdn.motor1.com/images/mgl/mMzyOv/s3/keyless-go-e-furti-d-auto-i-test-adac.jpg",
+      "summary": "L’ADAC invita gli automobilisti a verificare la presenza della tecnologia UWB prima di comprare un’auto dotata di apertura senza chiave",
       "date": "2026-08-21T11:00:00.0000000Z"
     },
     {
@@ -457,18 +469,6 @@
       "image": null,
       "summary": "I pro e i contro dell’auto elettrica secondo Alberto, un lettore che da 5 anni viaggia in Zoe.… L'articolo Pro e contro l’auto elettrica: pentito no, ma la ricarica… proviene da Vaielettrico .",
       "date": "2026-08-20T22:29:24.0000000Z"
-    },
-    {
-      "id": "vaielettrico:8231003370c5",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Flotte della PA: tre gare Consip per 2.430 veicoli elettrici",
-      "url": "https://www.vaielettrico.it/flotte-della-pa-tre-gare-consip-per-2-430-veicoli-elettrici/",
-      "image": null,
-      "summary": "Consip con la pubblicazione dell’avviso di preinformazione dell’accordo quadro “Vetture in Noleggio”, dedicato alle proposte degli operatori commerciali,… L'articolo Flotte della PA: tre gare Consip per 2.430 veicoli ...",
-      "date": "2026-08-20T18:00:16.0000000Z"
     },
     {
       "id": "insideevs:47e5ee762799",
