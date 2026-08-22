@@ -1,7 +1,19 @@
 {
   "category": "gaming",
-  "updated": "2026-08-22T14:51:28.8447699Z",
+  "updated": "2026-08-22T15:10:25.0119065Z",
   "items": [
+    {
+      "id": "multiplayer:3c71e327943d",
+      "sourceId": "multiplayer",
+      "source": "Multiplayer.it",
+      "platform": "rss",
+      "category": "gaming",
+      "title": "Le classifiche del Nintendo eShop vedono Tomodachi Life e Pokémon dominare",
+      "url": "https://multiplayer.it/notizie/classifiche-nintendo-eshop-tomodachi-life-pokemon-dominare.html",
+      "image": "https://multiplayer.net-cdn.it/thumbs/images/2026/08/14/pokemon-rosso-fuoco-verde-foglia-1372_jpg_1600x900_crop_q85_jpg_1280x720_q85.jpg",
+      "summary": "Tomodachi Life e Pokémon sono i nomi più in vista all'interno delle classifiche dei giochi più venduti tramite Nintendo eShop per la vecchia generazione della casa di Kyoto.",
+      "date": "2026-08-22T15:00:00.0000000Z"
+    },
     {
       "id": "spaziogames:5255661bfe6d",
       "sourceId": "spaziogames",
@@ -123,18 +135,6 @@
       "date": "2026-08-22T10:32:29.0000000Z"
     },
     {
-      "id": "spaziogames:f0f808e7ee33",
-      "sourceId": "spaziogames",
-      "source": "SpazioGames",
-      "platform": "rss",
-      "category": "gaming",
-      "title": "Black Ops, il nuovo aggiornamento scatena le polemiche",
-      "url": "https://www.spaziogames.it/notizie/call-of-duty-black-ops-laggiornamento-fa-discutere",
-      "image": null,
-      "summary": "I nuovi aggiornamenti PlayStation di Call of Duty: Black Ops e Black Ops II hanno introdotto un cambiamento che non riguarda armi, modalità o prestazioni. Nei menu dei due port è infatti...",
-      "date": "2026-08-22T10:21:31.0000000Z"
-    },
-    {
       "id": "spaziogames:888d44b2bcb6",
       "sourceId": "spaziogames",
       "source": "SpazioGames",
@@ -243,16 +243,16 @@
       "date": "2026-08-21T19:45:10.0000000Z"
     },
     {
-      "id": "multiplayer:95ab11d6e7d0",
-      "sourceId": "multiplayer",
-      "source": "Multiplayer.it",
+      "id": "spaziogames:dfc12fca2703",
+      "sourceId": "spaziogames",
+      "source": "SpazioGames",
       "platform": "rss",
       "category": "gaming",
-      "title": "Nintendo continua la guerra agli emulatori di Switch: chiusi 400 repo su GitHub",
-      "url": "https://multiplayer.it/notizie/nintendo-continua-la-guerra-agli-emulatori-di-switch-chiusi-400-repo-su-github.html",
-      "image": "https://multiplayer.net-cdn.it/thumbs/images/2026/08/21/nintendo_switch_1_jpg_1280x720_q85.jpg",
-      "summary": "Nintendo prosegue la sua offensiva contro l'emulazione di Switch: sette nuove richieste DMCA hanno portato alla rimozione di 401 repository su GitHub, colpendo soprattutto Suyu e altri emulatori derivati da Yuzu.",
-      "date": "2026-08-21T18:59:58.0000000Z"
+      "title": "Ace Combat 6 torna a volare grazie ai fan",
+      "url": "https://www.spaziogames.it/notizie/ace-combat-6-torna-a-volare-grazie-agli-appassionati",
+      "image": null,
+      "summary": "Per anni, Ace Combat 6: Fires of Liberation è rimasto legato a XBOX 360, la sola console sulla quale il gioco era stato pubblicato. Un progetto realizzato dagli appassionati cambia lo scenario: il tit...",
+      "date": "2026-08-18T06:55:16.0000000Z"
     },
     {
       "id": "spaziogames:f591815ae233",
