@@ -1,27 +1,135 @@
 {
   "category": "calcio",
-  "updated": "2026-08-22T19:02:14.5696466Z",
+  "updated": "2026-08-22T19:31:14.4387520Z",
   "items": [
     {
-      "id": "fcinternews:79c6882a2b30",
+      "id": "fcinternews:1f69a7057dbe",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "VIDEO - Inter-Monza 4-1, Tramontana: \"Debutto ok. Esposito monumentale, Lautaro ha dato tutto. Bene Bonny\"",
+      "url": "https://www.fcinternews.it/vento-di-tramontana/video-inter-monza-4-1-tramontana-1016638",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/39/39c0f3ac5cef8d9a493bbb59db65c29a-57079-oooz0000.jpeg",
+      "summary": "Nel consueto video editoriale per FcInternews, Filippo Tramontana ha commentato la vittoria per 4-1 dell'Inter contro il Monza. \"Debutto ottimo.",
+      "date": "2026-08-22T19:26:37.0000000Z"
+    },
+    {
+      "id": "fcinternews:1ed460d21e9e",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Chivu in conferenza: \"Mercato, mi sono rotto le palle di rispondere. Marotta è stato chiaro\"",
+      "url": "https://www.fcinternews.it/in-primo-piano/chivu-conferenza-mercato-rotto-palle-rispondere-marotta-chiaro-1016613",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/94/949d45accd0db331faa7132beaf9a9db-94079-oooz0000.jpeg",
+      "summary": "Un poker per cominciare con il piede giusto la stagione.",
+      "date": "2026-08-22T19:24:41.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:27c315d109b2",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "<p>Fabregas: &quot;Meritavamo di vincere. Sono convinto che la squadra crescer&agrave;&quot;. Poi su Kean...</p>",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/como/2026/08/22-150721195/fabregas_meritavamo_di_vincere_sono_convinto_che_la_squadra_crescer_poi_su_kean_/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/22/190504562-9d3edb79-8d8e-45a4-b494-9f12b90d1acc.jpg",
+      "summary": "Il tecnico del Como è intervenuto ai microfoni di Sky Sport per commentare il pari in casa dell'Udinese",
+      "date": "2026-08-22T19:21:21.0000000Z"
+    },
+    {
+      "id": "fcinternews:091f4c9cec05",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Esposito a DAZN: \"L'unico obiettivo che mi pongo è migliorare ogni anno\"",
+      "url": "https://www.fcinternews.it/news/esposito-i-dazn-i-l-unico-obiettivo-pongo-migliorare-anno-1016636",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b2/b27a4f319ee94fb6fa5ca028cb4e521b-65721-629o0o1390o760z0adb.jpeg",
+      "summary": "Pio Esposito è stato sicuramente tra i migliori in campo di questo esordio dell'Inter a San Siro contro il Monza.",
+      "date": "2026-08-22T19:17:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:6a0f0439fc0e",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Monza, Birindelli in conferenza: \"Abbiamo tenuto testa a una grande Inter\"",
+      "url": "https://www.fcinternews.it/l-avversario/monza-giocatore-conferenza-1016616",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/78/78ea02ac0876c16fb9b62aad3aa5ab8c-78796-oooz0000.jpeg",
+      "summary": "Samuele Birindelli è il secondo a presentarsi nella sala conferenze di San Siro per analizzare Inter-Monza 4-1 attraverso le domande dei giornalisti: \"Abbiamo tenuto testa a una grande Inter.",
+      "date": "2026-08-22T19:15:21.0000000Z"
+    },
+    {
+      "id": "fcinternews:e2c2d162bc45",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Chivu a ITV: \"Diouf? Un po' timidino. Abbiamo margini di miglioramento importanti\"",
+      "url": "https://www.fcinternews.it/news/chivu-i-itv-i-diouf-timidino-margini-miglioramento-importanti-1016635",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a9/a96d0ddec86f2157bb35796bd5e3fd41-68446-oooz0000.jpeg",
+      "summary": "Il tecnico dei nerazzurri, Cristian Chivu, ha parlato ai microfoni di Inter Tv dopo la sfida contro il Monza: \"Nel primo tempo abbiamo perso un po' di lucidità, sbagliando tanto tecnicamente.",
+      "date": "2026-08-22T19:15:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:da1da9e5ec67",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Chivu a DAZN: \"Io se posso aiuto i miei giocatori. Thuram? Non è ancora in condizione\"",
+      "url": "https://www.fcinternews.it/in-primo-piano/chivu-i-dazn-i-io-posso-aiuto-giocatori-thuram-pronto-1016633",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e7/e71d0431c7856edaa6f7c53fb6fa4e23-66596-oooz0000.jpeg",
+      "summary": "Dopo la vittoria per 4-1 contro il Monza, ecco cosa ha detto a DAZN l'allenatore dell'Inter Cristian Chivu. Il primo tempo è stato complicato, nel secondo avete fatto meglio.",
+      "date": "2026-08-22T19:10:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:3f84e6b91e18",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Diouf a ITV: \"La prima stagione non è mai semplice. E ora...\"",
+      "url": "https://www.fcinternews.it/news/diouf-i-itv-i-la-stagione-semplice-ora-1016632",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/98/9837c24f572348c673e318065198b57f-94815-oooz0000.jpeg",
+      "summary": "Premio MVP per Andy Diouf che ha realizzato due assist nella sfida tra Inter e Monza: \"Sono molto contento di aver iniziato così.",
+      "date": "2026-08-22T19:10:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:2500216eef45",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Bisseck a ITV: \"Chivu sta facendo un grandissimo lavoro. Sulla preparazione...\"",
+      "url": "https://www.fcinternews.it/news/bisseck-i-itv-i-chivu-grandissimo-lavoro-preparazione-1016631",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/03/03f6a9ae4acfc904744c35f777046b7f-66829-oooz0000.jpeg",
+      "summary": "Yann Bisseck ha parlato ai microfoni di Inter Tv al termine della vittoria contro il Monza: \"Non si può giocare sempre bene per 90 minuti. Dopo il primo tempo ci siamo detti di fare meglio e siamo rientrati bene facen...",
+      "date": "2026-08-22T19:03:41.0000000Z"
+    },
+    {
+      "id": "fcinternews:b7ed901d3f8a",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "Bisseck a DAZN: \"La concorrenza in difesa mi fa giocare meglio\"",
-      "url": "https://www.fcinternews.it/news/bisseck-i-dazn-i-la-concorrenza-difesa-giocare-meglio-1016630",
+      "url": "https://www.fcinternews.it/focus/bisseck-i-dazn-i-la-concorrenza-difesa-giocare-meglio-1016630",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a3/a305bbc839544ddf250f44ed17aacf80-40140-oooz0000.jpeg",
       "summary": "Tornato anche in versione goleador, Yann Bisseck parla ai microfoni di DAZN dopo la vittoria contro il Monza. Di sinistro ci provi spesso a tirare.",
       "date": "2026-08-22T19:00:12.0000000Z"
     },
     {
-      "id": "fcinternews:5e5ba587372b",
+      "id": "fcinternews:683d7b625b1c",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
-      "title": "Monza, Juric in conferenza: \"Non mi aspettavo questa prestazione. Nel 1° T meritavamo più noi\"",
-      "url": "https://www.fcinternews.it/l-avversario/monza-juric-conferenza-nel-1-t-meritavamo-noi-aspettavo-1016615",
+      "title": "Monza, Juric in conferenza: \"Non mi aspettavo questa prestazione. Nel 1° T meritavamo di più noi\"",
+      "url": "https://www.fcinternews.it/l-avversario/monza-juric-conferenza-non-aspettavo-prestazione-1-t-meritavamo-noi-1016615",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/cc/ccd6f9f9b0b3e3fd86f9fefdd8333a9a-66304-oooz0000.jpeg",
       "summary": "Il Monza fa bella figura per un tempo, poi crolla dopo la papera di Semuel Pizignacco che apre la strada alla vittoria larga dell'Inter.",
       "date": "2026-08-22T19:00:00.0000000Z"
@@ -51,18 +159,6 @@
       "date": "2026-08-22T18:55:25.0000000Z"
     },
     {
-      "id": "fcinternews:79b1e30a78be",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Douvikas risponde a Kamara: Udinese e Como pareggiano 1-1",
-      "url": "https://www.fcinternews.it/il-resto-della-a/douvikas-risponde-kamara-udinese-como-pareggiano-1-1-1016627",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/80/80b1f45b8ac4c5691a22794ae0a381a2-71514-719o95o1786o1163z0eb3.jpeg",
-      "summary": "Inizia a marce basse il campionato del Como di Cesc Fabregas. I lariani non vanno oltre l'1-1 contro un'Udinese ben messa in campo e in grado di creare più di qualche grattacapo alla squadra rivelazione dello scorso c...",
-      "date": "2026-08-22T18:40:19.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:ba123b35f590",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -75,66 +171,6 @@
       "date": "2026-08-22T18:32:51.0000000Z"
     },
     {
-      "id": "fcinternews:46c3101ec9ff",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Inter-Monza, chi è stato il migliore? Cliccate e votate",
-      "url": "https://www.fcinternews.it/il-pallone-d-oro-nerazzurro/inter-monza-migliore-cliccate-votate-1016593",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/91/91e2f8b44dfc9b0881a96c374ff4d061-95863-oooz0000.jpeg",
-      "summary": "Nuova stagione per l'Inter e nuova edizione del Pallone d'Oro Nerazzurro. Dopo la vittoria di Federico Dimarco per quanto riguarda l'ultima annata, grazie a una rimonta nel playoff finale, riparte il premio di FcInter...",
-      "date": "2026-08-22T18:32:17.0000000Z"
-    },
-    {
-      "id": "fcinternews:447999602a87",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Poker alla prima mano: l'Inter carbura piano, poi annienta il Monza",
-      "url": "https://www.fcinternews.it/in-primo-piano/poker-prima-mano-inter-annienta-monza-1016524",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fc/fce20f208081525bd4f7912ac49ceac6-27265-oooz0000.jpeg",
-      "summary": "Il brutto calo di tensione del finale del primo tempo non è piaciuto a Cristian Chivu.",
-      "date": "2026-08-22T18:30:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:62fc2dbb9549",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Inter-Monza, le pagelle - Pio giganteggia, Akanji si ricompone. Diouf, c'è di peggio...",
-      "url": "https://www.fcinternews.it/pagelle/inter-monza-pagelle-1016591",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fc/fce20f208081525bd4f7912ac49ceac6-27265-409o156o1481o1228z0cca.jpeg",
-      "summary": "J. MARTINEZ 6 - Niente da dire sul gol, Varela fa un movimento da grande centravanti.",
-      "date": "2026-08-22T18:26:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:8f5b7a1ee7e5",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "LIVE - Il POST PARTITA di INTER-MONZA: COMMENTI e ANALISI. COLLEGAMENTO in DIRETTA da SAN SIRO",
-      "url": "https://www.fcinternews.it/copertina/live-inter-monza-post-partita-1016587",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/09/092aceb375bc429ab2be4a3d9e42fc11-39809-oooz0000.jpeg",
-      "summary": "Commentiamo insieme Inter-Monza, match valido per la 1° giornata di Serie A 2026/27. Dall’analisi tattica alla valutazione delle prestazioni individuali, passando per i commenti dei protagonisti e gli episodi più disc...",
-      "date": "2026-08-22T18:25:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:0ee144c71d81",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Inter-Monza, Triplice Fischio - Chivu scopre le carte: i campioni d'Italia calano il poker al debutto",
-      "url": "https://www.fcinternews.it/focus/inter-monza-triplice-fischio-chivu-scopre-carte-campioni-italia-calano-poker-debutto-1016619",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/de/de9d39845b7ecc76dd21ca15ea2fc58d-56952-oooz0000.jpeg",
-      "summary": "‘Di un altro pianeta’. Così Ivan Juric, tecnico del Monza, ha inquadrato i campioni d’Italia dell’Inter, parlando nel giorno di antivigilia del match che ha aperto la Serie A 2026-27.",
-      "date": "2026-08-22T18:24:00.0000000Z"
-    },
-    {
       "id": "calciomercato-it:b22551891c35",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -145,18 +181,6 @@
       "image": null,
       "summary": "L'articolo Amorim toglie ogni dubbio su Leao, annuncio sul portoghese proviene da CalcioMercato.it .",
       "date": "2026-08-22T18:14:36.0000000Z"
-    },
-    {
-      "id": "fcinternews:f31f4a3c77a5",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Inter-Monza, prima stagionale e primo sold-out al Meazza",
-      "url": "https://www.fcinternews.it/news/inter-monza-stagionale-sold-out-meazza-1016590",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/12/129e976801c5e97351be79c911d5ae1b-81108-oooz0000.jpeg",
-      "summary": "Come ampiamente previsto, per riaccogliere i campioni d'Italia e vincitori della Coppa Italia il Meazza si è vestito a festa.",
-      "date": "2026-08-22T17:35:00.0000000Z"
     },
     {
       "id": "calciomercato-it:538a6da45a55",
@@ -193,18 +217,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/08/22/161826546-e3179952-a6f2-4a2c-aab3-58aa8577a46f.jpg",
       "summary": "Altro rinforzo per Allegri: dai Blues arriva il difensore centrale francese classe 2001",
       "date": "2026-08-22T16:25:04.0000000Z"
-    },
-    {
-      "id": "fcinternews:713a1482be42",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Marotta parla chiaro: \"Lautaro via dall'Inter? Non se ne deve parlare\"",
-      "url": "https://www.fcinternews.it/in-primo-piano/marotta-parla-chiaro-lautaro-via-inter-parlare-1016625",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fd/fdc407e588894bf2d6e68522763cccc0-82745-614o84o1305o775z0ada.jpeg",
-      "summary": "Sta per cominciare la corsa al campionato dell’Inter, campione d’Italia in carica, e Beppe Marotta, presidente del club nerazzurro, racconta ai microfoni di DAZN quali sono le sue aspettative per questo nuovo torneo, ...",
-      "date": "2026-08-22T16:08:00.0000000Z"
     },
     {
       "id": "tuttosport-calcio:344af46a35c4",
@@ -337,18 +349,6 @@
       "image": null,
       "summary": "L'articolo Bomba Conceicao, la Juve ora trema: il possibile scenario proviene da CalcioMercato.it .",
       "date": "2026-08-22T11:36:49.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:b4613fd33013",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Portiere Juve, ecco Grabara! Quegli elogi di Szceszny: &quot;Il migliore qui, potenziale mondiale&quot;",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/08/22-150706962/portiere_juve_ecco_grabara_quegli_elogi_di_szceszny_il_migliore_qui_potenziale_mondiale/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/08/22/112727709-b3a808d5-79b1-4a25-82da-eac8bfa1e613.jpg",
-      "summary": "I bianconeri hanno individuato il profilo per completare il reparto e rivoluzionare la coppia di portieri a disposizione di Spalletti",
-      "date": "2026-08-22T11:28:31.0000000Z"
     },
     {
       "id": "calciomercato-it:29089bad9243",
