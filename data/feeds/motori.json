@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-21T23:46:40.6531486Z",
+  "updated": "2026-08-22T00:03:40.9959299Z",
   "items": [
+    {
+      "id": "motor1:e0ae756a24ad",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes GLC (2026), perché comprarla e perché no",
+      "url": "https://it.motor1.com/reviews/803533/mercedes-glc-2026-perche-comprarla/",
+      "image": "https://cdn.motor1.com/images/mgl/9m801y/s3/mercedes-glc-2026-perche-comprarla-e-perche-no.jpg",
+      "summary": "Stesso nome, ma tutta un'altra auto rispetto a quella termica. Interni spaziali e ottimo comfort, ma c'è qualche difetto",
+      "date": "2026-08-21T23:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:0ad0cf0eefff",
       "sourceId": "vaielettrico",
@@ -183,18 +195,6 @@
       "date": "2026-08-21T13:12:24.0000000Z"
     },
     {
-      "id": "motor1:5ab500bc4912",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Praga Bohema batte il record di Pagani a Spa",
-      "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
-      "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
-      "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
-      "date": "2026-08-21T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:1d2af046ec51",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -204,6 +204,18 @@
       "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
       "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
       "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
+      "date": "2026-08-21T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:5ab500bc4912",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Praga Bohema batte il record di Pagani a Spa",
+      "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
+      "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
       "date": "2026-08-21T13:00:00.0000000Z"
     },
     {
@@ -243,18 +255,6 @@
       "date": "2026-08-21T11:30:35.0000000Z"
     },
     {
-      "id": "insideevs:7b7bde363fe8",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché la ricarica bidirezionale V2G non funziona per tutti",
-      "url": "https://insideevs.it/news/805611/ricarica-bidirezionale-v2g-funziona-oggi/",
-      "image": "https://cdn.motor1.com/images/mgl/lEGgAl/s3/ricarica-bidirezionale-v2g.jpg",
-      "summary": "Tra progetti pilota ENEA Terna e obbligo EN ISO 15118-20 dal 2027, il V2G resta legato a offerte chiuse e poche combinazioni compatibili.",
-      "date": "2026-08-21T11:00:00.0000000Z"
-    },
-    {
       "id": "motor1:38b9224f8604",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -264,6 +264,18 @@
       "url": "https://it.motor1.com/features/805416/auto-keyless-vulnerabile-ladri/",
       "image": "https://cdn.motor1.com/images/mgl/mMzyOv/s3/keyless-go-e-furti-d-auto-i-test-adac.jpg",
       "summary": "L’ADAC invita gli automobilisti a verificare la presenza della tecnologia UWB prima di comprare un’auto dotata di apertura senza chiave",
+      "date": "2026-08-21T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:7b7bde363fe8",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché la ricarica bidirezionale V2G non funziona per tutti",
+      "url": "https://insideevs.it/news/805611/ricarica-bidirezionale-v2g-funziona-oggi/",
+      "image": "https://cdn.motor1.com/images/mgl/lEGgAl/s3/ricarica-bidirezionale-v2g.jpg",
+      "summary": "Tra progetti pilota ENEA Terna e obbligo EN ISO 15118-20 dal 2027, il V2G resta legato a offerte chiuse e poche combinazioni compatibili.",
       "date": "2026-08-21T11:00:00.0000000Z"
     },
     {
@@ -363,6 +375,18 @@
       "date": "2026-08-21T07:06:18.0000000Z"
     },
     {
+      "id": "insideevs:8819548e7e0b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuovo l'approccio alle batterie al litio, più dense del 10%",
+      "url": "https://insideevs.it/news/805625/asahi-kasei-batterie-litio-predoping/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZwbeX/s3/illustrazione-concettuale-della-nuova-tecnologia-di-pre-doping.jpg",
+      "summary": "Asahi Kasei sviluppa un sistema di pre-doping al litio che utilizza carbonato di litio a basso costo integrabile nella produzione",
+      "date": "2026-08-21T07:00:00.0000000Z"
+    },
+    {
       "id": "motor1:224330779c13",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -387,18 +411,6 @@
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
-      "id": "insideevs:8819548e7e0b",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nuovo l'approccio alle batterie al litio, più dense del 10%",
-      "url": "https://insideevs.it/news/805625/asahi-kasei-batterie-litio-predoping/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZwbeX/s3/illustrazione-concettuale-della-nuova-tecnologia-di-pre-doping.jpg",
-      "summary": "Asahi Kasei sviluppa un sistema di pre-doping al litio che utilizza carbonato di litio a basso costo integrabile nella produzione",
-      "date": "2026-08-21T07:00:00.0000000Z"
-    },
-    {
       "id": "motor1:deb3c1faea71",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -420,18 +432,6 @@
       "url": "https://insideevs.it/news/805562/blocco-trffico-londra-riduzione-inuinanti/",
       "image": "https://cdn.motor1.com/images/mgl/lEqzvE/s3/un-bus-nel-centro-di-londra.jpg",
       "summary": "Ricercatori britannici dimostrano che ridurre l'inquinamento da auto termiche a Londra rende i bimbi più sani",
-      "date": "2026-08-21T05:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:0adce7c1f354",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quando il paraurti diventa il volto dell'auto",
-      "url": "https://it.motor1.com/news/803607/design-scudo-paraurti-evoluzione/",
-      "image": "https://cdn.motor1.com/images/mgl/VzWR8K/s3/design-quando-il-paraurti-diventa-il-volto-dell-auto.jpg",
-      "summary": "Lo chiamiamo ancora così, ma è diventato una parte della carrozzeria, e questo cambia completamente il modo di disegnare un'automobile",
       "date": "2026-08-21T05:00:00.0000000Z"
     },
     {
