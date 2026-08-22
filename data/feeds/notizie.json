@@ -1,19 +1,7 @@
 {
   "category": "notizie",
-  "updated": "2026-08-22T19:31:14.4698977Z",
+  "updated": "2026-08-22T19:52:01.8663649Z",
   "items": [
-    {
-      "id": "ansa:1521439f5733",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Tennis: Cincinnati, semifinale Cobolli-Fils 3-6, 4-5 DIRETTA",
-      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/22/tennis-cincinnati-semifinale-cobolli-fils-1-1-diretta_5e3ac670-c830-472e-8221-90c056bcb409.html",
-      "image": null,
-      "summary": "Il romano contro il francese punta difende i colori azzurri",
-      "date": "2026-08-22T19:20:41.0000000Z"
-    },
     {
       "id": "ansa:bb7198fb7eef",
       "sourceId": "ansa",
@@ -116,11 +104,23 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Cincinnati, la semifinale in diretta: Cobolli soffre, Fils avanti 3-6, 0-2",
+      "title": "Cincinnati, la semifinale in diretta: Cobolli soffre, Fils avanti 3-6, 4-5",
       "url": "https://www.repubblica.it/sport/tennis/2026/08/22/diretta/cincinnati_cobolli_fils_diretta_fulmini-425542002/",
       "image": null,
       "summary": "Il match che può regalare all’azzurro la finale del torneo americano inizia in ritardo per pericolo fulmini",
       "date": "2026-08-22T17:51:13.0000000Z"
+    },
+    {
+      "id": "ansa:7c4e95c9dd2b",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Esplosione in una palazzina a Perugia, due feriti, una è grave",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-palazzina-a-perugia-ci-sono-persone-coinvolte_744dd77d-34a4-4855-9f91-aedee0b5f198.html",
+      "image": null,
+      "summary": "Altro scoppio nel Brindisino, grave un anziano e bimbi intossicati",
+      "date": "2026-08-22T17:47:35.0000000Z"
     },
     {
       "id": "open:f6b85d7428b6",
