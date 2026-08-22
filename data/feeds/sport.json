@@ -1,7 +1,68 @@
 {
   "category": "sport",
-  "updated": "2026-08-22T19:52:01.9252061Z",
+  "updated": "2026-08-22T20:11:47.6860275Z",
   "items": [
+    {
+      "id": "corrieresport:070495c03d7f",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Fabregas approva le nuove regole: &quot;Fanno alzare il ritmo. Mercato? Andrebbe chiuso prima dell&#39;inizio del campionato&quot;",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/como/2026/08/22-150723557/fabregas_approva_le_nuove_regole_fanno_alzare_il_ritmo_mercato_andrebbe_chiuso_prima_dell_inizio_del_campionato/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/22/200448813-26ad7eba-8f77-41b9-a934-bd9b6ba88648.jpg",
+      "summary": "Le parole dell'allenatore del Como dopo il pareggio. \"Udinese squadra da Premier League, pochissimi vinceranno qui\": ecco cosa ha detto",
+      "date": "2026-08-22T20:08:08.0000000Z"
+    },
+    {
+      "id": "skysport-yt:0nxjK1hhnGY",
+      "sourceId": "skysport-yt",
+      "source": "Sky Sport",
+      "platform": "youtube",
+      "category": "sport",
+      "title": "Tottenham, Tonali su De Zerbi: \"Abbiamo un rapporto molto forte\"",
+      "url": "https://www.youtube.com/watch?v=0nxjK1hhnGY",
+      "image": "https://i.ytimg.com/vi/0nxjK1hhnGY/hqdefault.jpg",
+      "summary": "",
+      "videoId": "0nxjK1hhnGY",
+      "date": "2026-08-22T20:07:54.0000000Z"
+    },
+    {
+      "id": "ansa-sport:a108e3b5c6b9",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Serie A: in campo Parma - Cagliari 0-0 DIRETTA e FOTO",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-in-campo-parma-cagliari-0-0-diretta-e-foto_1f2f7f48-af0c-4b8e-b59f-dbfcb7a782c1.html",
+      "image": null,
+      "summary": "Il mister pronto a rilanciare Mendy dopo un buon finale della scorsa stagione",
+      "date": "2026-08-22T20:07:00.0000000Z"
+    },
+    {
+      "id": "ansa-sport:b6f03c837cd3",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Serie A: in campo Genoa - Napoli 0-0 DIRETTA e FOTO",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-in-campo-genoa-napoli-0-0-diretta-e-foto_f45e48ce-0f2e-4781-9d71-03ec534f4e75.html",
+      "image": null,
+      "summary": "De Rossi potrà contare su Meichtry Indisponibili Havel e Traorè",
+      "date": "2026-08-22T20:05:17.0000000Z"
+    },
+    {
+      "id": "ansa-sport:5aee15e8c900",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Buonfiglio, 'il nuoto ha onorato la manifestazione'",
+      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/22/buonfiglio-il-nuoto-ha-onorato-la-manifestazione_17b40cc0-0699-4aa1-9683-f67e73ed347f.html",
+      "image": null,
+      "summary": "Il presidente del Coni: 'Buon inizio per la missione italiana'",
+      "date": "2026-08-22T19:57:49.0000000Z"
+    },
     {
       "id": "ansa-sport:79d0857651f8",
       "sourceId": "ansa-sport",
@@ -25,30 +86,6 @@
       "image": null,
       "summary": "'Prestazione di squadra, il miglior esordio da quando sono qui'",
       "date": "2026-08-22T19:38:35.0000000Z"
-    },
-    {
-      "id": "ansa-sport:a108e3b5c6b9",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Serie A: in campo Parma - Cagliari 0-0 DIRETTA e FOTO",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-in-campo-parma-cagliari-0-0-diretta-e-foto_1f2f7f48-af0c-4b8e-b59f-dbfcb7a782c1.html",
-      "image": null,
-      "summary": "Il mister pronto a rilanciare Mendy dopo un buon finale della scorsa stagione",
-      "date": "2026-08-22T19:35:38.0000000Z"
-    },
-    {
-      "id": "ansa-sport:b6f03c837cd3",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Serie A: in campo Genoa - Napoli 0-0 DIRETTA e FOTO",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/serie-a-in-campo-genoa-napoli-0-0-diretta-e-foto_f45e48ce-0f2e-4781-9d71-03ec534f4e75.html",
-      "image": null,
-      "summary": "De Rossi potrà contare su Meichtry Indisponibili Havel e Traorè",
-      "date": "2026-08-22T19:35:08.0000000Z"
     },
     {
       "id": "ansa-sport:d820bd579fbf",
@@ -211,18 +248,6 @@
       "date": "2026-08-22T18:34:30.0000000Z"
     },
     {
-      "id": "ansa-sport:78d6e9db0dc9",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Atalanta: Kristensen e Scalvini out, turnover in difesa",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/22/atalanta-kristensen-e-scalvini-out-turnover-in-difesa_b4755852-6a2c-4bbc-9e61-a10aba3ea432.html",
-      "image": null,
-      "summary": "Anche il danese ha una distorsione alla caviglia, pronto Kolasinac sul centrosinistra",
-      "date": "2026-08-22T18:24:28.0000000Z"
-    },
-    {
       "id": "corrieresport:ed545f496476",
       "sourceId": "corrieresport",
       "source": "Corriere dello Sport",
@@ -242,7 +267,7 @@
       "category": "sport",
       "title": "Genoa-Napoli diretta: segui la sfida tra De Rossi e Allegri live",
       "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/08/22-150717118/genoa-napoli_diretta_segui_la_sfida_tra_de_rossi_e_allegri_live/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/22/171933925-1f74d454-3083-4c13-a06b-2a9008b0a1a0.jpg",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/22/195012138-7f6e12ad-7b44-4bf6-95ee-5932f13cfc02.jpg",
       "summary": "Gli azzurri debuttano in campionato al Ferraris, sul difficile campo dei rossoblù: tutti gli aggiornamenti in tempo reale",
       "date": "2026-08-22T17:32:28.0000000Z"
     },
@@ -370,18 +395,6 @@
       "date": "2026-08-22T15:57:18.0000000Z"
     },
     {
-      "id": "corrieresport:0cf5b3220c06",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Lazio, ufficiale il colpo in difesa: preso Sutalo dall&#39;Ajax&nbsp;",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/lazio/2026/08/22-150713142/lazio_ufficiale_il_colpo_in_difesa_preso_sutalo_dall_ajax/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/22/153642415-0f3e4811-9b13-48b9-a788-895d13417828.jpg",
-      "summary": "Il centrale rinforza la retroguardia a disposizione di Gattuso: i dettagli del trasferimento",
-      "date": "2026-08-22T15:36:00.0000000Z"
-    },
-    {
       "id": "skysport-yt:CkEZls2l3Tk",
       "sourceId": "skysport-yt",
       "source": "Sky Sport",
@@ -432,19 +445,6 @@
       "summary": "",
       "videoId": "MtET3YmYNlk",
       "date": "2026-08-22T10:27:23.0000000Z"
-    },
-    {
-      "id": "skysport-yt:rB9TlK27kMs",
-      "sourceId": "skysport-yt",
-      "source": "Sky Sport",
-      "platform": "youtube",
-      "category": "sport",
-      "title": "Serie C, la gol collection delle partite di venerdì 21 agosto",
-      "url": "https://www.youtube.com/watch?v=rB9TlK27kMs",
-      "image": "https://i.ytimg.com/vi/rB9TlK27kMs/hqdefault.jpg",
-      "summary": "",
-      "videoId": "rB9TlK27kMs",
-      "date": "2026-08-22T07:25:29.0000000Z"
     },
     {
       "id": "cronachespogliatoio:XYYtsiZo2Sw",
