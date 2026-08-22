@@ -1,7 +1,31 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-22T16:23:27.8789789Z",
+  "updated": "2026-08-22T16:48:57.2423542Z",
   "items": [
+    {
+      "id": "ansa-cronaca:53bdb9b08474",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "#AccadeOggi",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+      "image": null,
+      "summary": "I principali avvenimenti previsti per la giornata",
+      "date": "2026-08-22T16:36:49.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:322d627bd779",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Due morti in uno stand al Palio di Allumiere, 15enne ucciso dal monossido",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/due-giovani-morti-in-uno-stand-al-palio-di-allumiere-ipotesi-esalazioni_f14dc1fc-1a69-439b-b6d0-eccc5fafbb5a.html",
+      "image": null,
+      "summary": "Le vittime avevano 15 e 35 anni. Gas killer sprigionato da un generatore. Verifiche dei carabinieri su posizioni lavorative delle vittime",
+      "date": "2026-08-22T16:25:00.0000000Z"
+    },
     {
       "id": "ansa-cronaca:85d16605da56",
       "sourceId": "ansa-cronaca",
@@ -37,18 +61,6 @@
       "image": null,
       "summary": "In carcere anche un uomo che l'8 agosto aveva aggredito il padre e la madre",
       "date": "2026-08-22T15:57:12.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:322d627bd779",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Due giovani morti in uno stand al Palio di Allumiere, ipotesi esalazioni",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/due-giovani-morti-in-uno-stand-al-palio-di-allumiere-ipotesi-esalazioni_f14dc1fc-1a69-439b-b6d0-eccc5fafbb5a.html",
-      "image": null,
-      "summary": "Le vittime avevano 15 e 35 anni",
-      "date": "2026-08-22T15:48:05.0000000Z"
     },
     {
       "id": "ansa-cronaca:70322acf541e",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "La donna operata all'ospedale di Borgo Trento",
       "date": "2026-08-22T13:14:44.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:57c30d6b1713",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Fabio Savi scrive ai familiari delle vittime: 'Provo rimorso per quello che ho fatto'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/fabio-savi-scrive-ai-familiari-delle-vittime-provo-rimorso-per-quello_cf1f98ad-15bd-443f-bd92-6b4db5cd5146.html",
-      "image": null,
-      "summary": "La reazione: 'Siamo indignati da lettera Fabio Savi. Si rivolge a noi solo per ottenere benefici'",
-      "date": "2026-08-22T12:16:24.0000000Z"
     }
   ]
 }
