@@ -1,7 +1,55 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-22T12:02:21.9341971Z",
+  "updated": "2026-08-22T12:57:57.1529157Z",
   "items": [
+    {
+      "id": "hdblog:9b9e8a9d4bbf",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Pluto TV: ecco le novità di settembre 2026",
+      "url": "https://www.hdblog.it/spettacolo/articoli/n668053/pluto-tv-settembre-nuovi-canali-gratis/",
+      "image": null,
+      "summary": "Due nuovi canali e maratone speciali ampliano l'offerta gratuita di Pluto TV.",
+      "date": "2026-08-22T12:55:00.0000000Z"
+    },
+    {
+      "id": "tomshw:1fea889ae3a7",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Si, il morbillo è ancora pericoloso (e colpisce ancora)",
+      "url": "https://www.tomshw.it/scienze/morbillo-puo-cancellare-fino-al-73-degli-anticorpi-acquisiti",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108456/17857778596a70cec341bc6_1785777859_3x2_rt.jpg",
+      "summary": "Guarire dal morbillo non significa necessariamente recuperare subito tutte le difese immunitarie presenti prima dell’infezione. Il virus può cancellare una parte della memoria sviluppata contro altri...",
+      "date": "2026-08-22T12:54:47.0000000Z"
+    },
+    {
+      "id": "hdblog:5c7c22cd9f1f",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Robot umanoidi, due curiosi malfunzionamenti alla fiera cinese | VIDEO",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n667991/robot-umanoidi-malfunzionamenti-fiera-cinese-video/",
+      "image": null,
+      "summary": "Divertenti da guardare, al netto dei pericoli",
+      "date": "2026-08-22T12:35:00.0000000Z"
+    },
+    {
+      "id": "tomshw:b85cff3a5773",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "MSI G2422C a 89€ con 180 Hz per gli FPS, mai costato così poco",
+      "url": "https://www.tomshw.it/offerte/msi-g2422c-a-89eur-con-180-hz-per-gli-fps-mai-costato-cosi-poco",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108945/tomshw-offer-898230.png",
+      "summary": "MSI G2422C costa 89€ su Amazon, il suo minimo storico, anziché 99€ di listino con uno sconto del 10%. Il pannello curvo Full HD da 23,6 pollici punta sulla fluidità, con 180 Hz, risposta da 1 ms e Ada...",
+      "date": "2026-08-22T12:05:48.0000000Z"
+    },
     {
       "id": "tomshw:a2d8986c321a",
       "sourceId": "tomshw",
@@ -135,18 +183,6 @@
       "date": "2026-08-22T09:15:00.0000000Z"
     },
     {
-      "id": "tomshw:d59912e72503",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "TP-Link TL-MR105 a 39,99€ collega 32 dispositivi via SIM: un affare",
-      "url": "https://www.tomshw.it/offerte/tp-link-tl-mr105-a-3999eur-collega-32-dispositivi-via-sim-un-affare",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108941/tomshw-offer-898040.png",
-      "summary": "TP-Link TL-MR105 costa 39,99€ su Amazon anziché 59,99€, con uno sconto del 33%. Inserendo una SIM si può creare una rete per 32 dispositivi anche dove la connessione fissa non arriva. TP-Link TL-MR10...",
-      "date": "2026-08-22T09:03:26.0000000Z"
-    },
-    {
       "id": "hdblog:d3cfa3ec9d8b",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -157,30 +193,6 @@
       "image": null,
       "summary": "Se guardiamo alle abitudini di Apple, il cerchio si stringe attorno a due giorni in particolare.",
       "date": "2026-08-22T08:55:00.0000000Z"
-    },
-    {
-      "id": "hdblog:3c2174bb8b33",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "BYD porta i robot umanoidi nei concessionari: arriva Xiao Di",
-      "url": "https://www.hdblog.it/tecnologia/articoli/n668042/robot-umanoide-byd-concessionari/",
-      "image": null,
-      "summary": "Xiao Di porta i robot umanoidi BYD nei concessionari cinesi",
-      "date": "2026-08-22T08:35:00.0000000Z"
-    },
-    {
-      "id": "hdblog:2933fef7f0d3",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Nvidia investe nei data center: ora punta direttamente allenergia",
-      "url": "https://www.hdblog.it/nvidia/articoli/n668040/nvidia-investimento-cloverleaf-data-center-ai/",
-      "image": null,
-      "summary": "Nvidia entra in Cloverleaf per accelerare energia e infrastrutture destinate ai data center AI",
-      "date": "2026-08-22T08:25:00.0000000Z"
     },
     {
       "id": "dday:2bc1c8cae27e",
@@ -205,6 +217,18 @@
       "image": null,
       "summary": "",
       "date": "2026-08-21T12:58:00.0000000Z"
+    },
+    {
+      "id": "tomshw:ba0bf60c4055",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Gli accessori che trasformano i tuoi scatti all'aperto (senza cavalletti pesanti)",
+      "url": "https://www.tomshw.it/smartphone/gli-accessori-che-trasformano-i-tuoi-scatti-allaperto-senza-cavalletti-pesanti",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106261/Gli-accessori-che-trasformano-i-tuoi-scatti-all'aperto-(senza-cavalletti-pesanti).png",
+      "summary": "Immergersi nella natura per catturare uno scorcio mozzafiato, una cascata o un dettaglio floreale al tramonto è una delle esperienze più appaganti per chi ama la fotografia. Tuttavia, la...",
+      "date": "2026-08-21T12:34:42.0000000Z"
     },
     {
       "id": "dday:39b9f53c84fe",
@@ -339,18 +363,6 @@
       "date": "2026-08-20T21:20:17.0000000Z"
     },
     {
-      "id": "tomshw:e44a3d13e970",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Tesla rallenta i robotaxi Model Y per puntare sul Cybercab",
-      "url": "https://www.tomshw.it/automotive/tesla-rallenta-le-model-y-robotaxi-per-accelerare-sul-cybercab",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108730/tesla-rallenta-le-model-y-robotaxi-per-accelerare-sul-cybercab.png",
-      "summary": "Tesla ha ammesso di procedere più lentamente con l'integrazione della Model Y nella propria flotta robotaxi. La frenata è deliberata: l'azienda vuole concentrare una quota maggiore delle risorse sul C...",
-      "date": "2026-08-20T21:18:32.0000000Z"
-    },
-    {
       "id": "dday:ed0a1c186090",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -435,18 +447,6 @@
       "summary": "",
       "videoId": "tsHupFsTinI",
       "date": "2026-08-19T20:17:45.0000000Z"
-    },
-    {
-      "id": "tomshw:4e9c87b33edb",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Via Lattea: riemerge una galassia assorbita 12,3 miliardi di anni fa",
-      "url": "https://www.tomshw.it/scienze/via-lattea-riemerge-una-galassia-assorbita-12-3-miliardi-di-anni-fa",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108409/via-lattea-riemerge-una-galassia-assorbita-12-3-miliardi-di-anni-fa.png",
-      "summary": "I resti di una galassia massiccia assorbita circa 12,3 miliardi di anni fa sarebbero ancora riconoscibili nella regione centrale della Via Lattea. La ricostruzione firmata da Davide Massari, Chiara Ze...",
-      "date": "2026-08-19T18:59:46.0000000Z"
     },
     {
       "id": "techprincess:3rUCexZxVQU",

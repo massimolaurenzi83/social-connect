@@ -1,7 +1,56 @@
 {
   "category": "notizie",
-  "updated": "2026-08-22T12:02:21.9680944Z",
+  "updated": "2026-08-22T12:57:57.1247211Z",
   "items": [
+    {
+      "id": "ansa:fe8284d4abfa",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "++ Esplosione in una casa del Brindisino, grave anziano e 4 bimbi intossicati ++",
+      "url": "https://www.ansa.it/sito/notizie/flash/2026/08/22/esplosione-in-una-casa-del-brindisino-grave-anziano-e-4-bimbi-intossicati_c69961c7-288d-4bdb-9dda-84a617a6292d.html",
+      "image": null,
+      "summary": "L'episodio a Carovigno. Piccoli portati in ospedale non sono in pericolo di vita",
+      "date": "2026-08-22T12:42:38.0000000Z"
+    },
+    {
+      "id": "ansa:dfe0fd44e074",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La visita di Papa Leone al Meeting di Rimini",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/08/21/la-visita-di-papa-leone-al-meeting-di-rimini_30d396bc-bf5d-49bb-a9a7-80ad96c81e02.html",
+      "image": null,
+      "summary": "",
+      "date": "2026-08-22T12:42:08.0000000Z"
+    },
+    {
+      "id": "open:e48f103f919c",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Papa Leone XIV: «Viviamo in un mondo ferito dalle guerre». In 100mila lo attendono al Meeting di Rimini: quando parlerà il Pontefice – La diretta",
+      "url": "https://www.open.online/2026/08/22/meeting-rimini-papa-leone-discorso-diretta/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/meeting-rimini-papa-leone-discorso-diretta.jpg",
+      "summary": "Dopo la visita a San Marino e il pranzo con le monache agostiniane, il Santo Padre si dirige verso l'evento di Comunione e Liberazione L'articolo Papa Leone XIV: «Viviamo in un mondo ferito dalle guerre». In 100mila l...",
+      "date": "2026-08-22T12:24:18.0000000Z"
+    },
+    {
+      "id": "skytg24:Cscd_hZt304",
+      "sourceId": "skytg24",
+      "source": "Sky TG24",
+      "platform": "youtube",
+      "category": "notizie",
+      "title": "Droni ucraini su un deposito russo e raid su Kiev",
+      "url": "https://www.youtube.com/watch?v=Cscd_hZt304",
+      "image": "https://i.ytimg.com/vi/Cscd_hZt304/hqdefault.jpg",
+      "summary": "",
+      "videoId": "Cscd_hZt304",
+      "date": "2026-08-22T12:03:38.0000000Z"
+    },
     {
       "id": "skytg24:mJF4mdz-r7I",
       "sourceId": "skytg24",
@@ -28,6 +77,18 @@
       "date": "2026-08-22T11:45:00.0000000Z"
     },
     {
+      "id": "repubblica:40f4189e34bd",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Juve, il vice Vicario è Grabara: Di Gregorio verso la Premier. Roma, si avvicina Oosterwolde",
+      "url": "https://www.repubblica.it/sport/calcio/mercato/2026/08/22/news/mercato_juventus_roma_serie_a-425541532/",
+      "image": null,
+      "summary": "Spalletti ha scelto il portiere del Wolfsburg come riserva dell’azzurro. Gasperini cerca rinforzi sulla fascia sinistra",
+      "date": "2026-08-22T11:34:04.0000000Z"
+    },
+    {
       "id": "ansa:1893a32e1445",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -50,6 +111,18 @@
       "image": null,
       "summary": "L’inglese della Mercedes domina la mini-gara sul circuito di Zandvoort. Convincente la prestazione del monegasco della Ferrari, che supera Norris, terzo. Poi il leader del mondiale",
       "date": "2026-08-22T11:27:34.0000000Z"
+    },
+    {
+      "id": "repubblica:f4888f060a70",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Ucraina, è il momento delle riforme sulla giustizia per allontanare i sospetti ed entrare nella Ue",
+      "url": "https://www.repubblica.it/esteri/2026/08/22/news/ucraina_riforme_giustizia_ingresso_unione_europea_corruzione-425541510/",
+      "image": null,
+      "summary": "Il Paese, travolto dallo scandalo corruzione, non può permettersi né un’elezione durante la guerra né di ritardare il Piano Kachka-Kos concordato a Bruxelles per scrollarsi di dosso l’eredità illiberale sovietica. Ser...",
+      "date": "2026-08-22T11:25:29.0000000Z"
     },
     {
       "id": "ansa:7c4e95c9dd2b",
@@ -187,18 +260,6 @@
       "date": "2026-08-22T10:04:12.0000000Z"
     },
     {
-      "id": "ansa:8f41d59a1e67",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "È caro conto-corrente in Italia, la spesa è salita del 23% in 10 anni",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/08/22/e-caro-conto-corrente-la-spesa-e-salita-del-23-in-10-anni_3af4547a-b3f4-45eb-9109-63f870658de2.html",
-      "image": null,
-      "summary": "Adusbef, Bolzano la più ricca, Crotone fanalino di coda",
-      "date": "2026-08-22T10:00:42.0000000Z"
-    },
-    {
       "id": "repubblica:87e962140e04",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -209,18 +270,6 @@
       "image": null,
       "summary": "La procura di Palermo ha conferito l’incarico per l’autopsia. Mercoledì l’esame sulla bambina di quattro anni morta giovedì notte. La coppia non immunizzò i cinque figli per scelta.",
       "date": "2026-08-22T09:55:16.0000000Z"
-    },
-    {
-      "id": "ansa:063e24a84874",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "È morta Rosellina Archinto, pioniera dell'editoria per ragazzi",
-      "url": "https://www.ansa.it/sito/notizie/cultura/libri/ragazzi/2026/08/22/e-morta-rosellina-archinto-pioniera-delleditoria-per-ragazzi_e2d7f75d-f3b8-45d2-b9f0-e50e181a536b.html",
-      "image": null,
-      "summary": "Fondatrice della Emme Edizioni, aveva 93 anni",
-      "date": "2026-08-22T09:45:30.0000000Z"
     },
     {
       "id": "open:afb3b8736f92",
@@ -346,27 +395,15 @@
       "date": "2026-08-22T07:56:13.0000000Z"
     },
     {
-      "id": "repubblica:c3b9bba8f654",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Risiko, dal cda di Banco Bpm alle assemblee: le tappe. Orsini attacca: “Vinca soluzione più solida”",
-      "url": "https://www.repubblica.it/economia/2026/08/22/news/risiko_dal_cda_di_banco_bpm_alle_assemblee_le_tappe_orsini_attacca_vinca_soluzione_piu_solida-425541205/",
-      "image": null,
-      "summary": "Il richiamo del presidente di Confindustria: “Bisogna guardare non soltanto a chi avrà il controllo del sistema bancario domani mattina, ma tra cinque o dieci anni. Siamo certi che il risparmio degli italiani non fini...",
-      "date": "2026-08-22T07:54:06.0000000Z"
-    },
-    {
       "id": "repubblica:a227f66df9b3",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Esplosione in una palazzina a Perugia: due feriti in condizioni gravi",
+      "title": "Esplosione in una palazzina a Perugia, grave una donna",
       "url": "https://www.repubblica.it/cronaca/2026/08/22/news/esplode_una_palazzina_di_due_piani_a_perugia_ci_sono_persone_coinvolte-425541202/",
       "image": null,
-      "summary": "Crollata una parte del tetto. Tra le prime ipotesi quella di una fuga di gas",
+      "summary": "Crollata una parte del tetto. Tra le prime ipotesi quella di una fuga di gas. Un uomo è rimasto ferito ma è già stato dimesso dall’ospela",
       "date": "2026-08-22T07:53:47.0000000Z"
     },
     {
@@ -430,18 +467,6 @@
       "date": "2026-08-22T06:28:49.0000000Z"
     },
     {
-      "id": "open:244ac37c5500",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "«Per me conti solo tu», le lettere intime a Trump dell’assistente Natalie Harp. Il veleno dallo staff del presidente: chi le ha fatte scoprire",
-      "url": "https://www.open.online/2026/08/22/natalie-harp-lettere-intime-donald-trump/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/natalie-harp-donald-trump.jpg",
-      "summary": "C'è tanta ammirazione, fino all'adulazione più sfrenata nei testi attribuiti all'assistente del presidente nei confronti di Trump. E intanto il suo potere di filtrare la comunicazione presidenziale aumenta assieme all...",
-      "date": "2026-08-22T06:23:30.0000000Z"
-    },
-    {
       "id": "ansa:b286a0490280",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -452,18 +477,6 @@
       "image": null,
       "summary": "Fallisce la missione del ministro LeBlanc a Washington",
       "date": "2026-08-22T06:02:34.0000000Z"
-    },
-    {
-      "id": "repubblica:70b1b2ae3785",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Ritorno ad Amatrice, la ferita di quella notte che non è stata curata",
-      "url": "https://www.repubblica.it/cronaca/2026/08/22/news/amatrice_terremoto_2016_ceccarelli-425540900/",
-      "image": null,
-      "summary": "Con mia moglie abbiamo visto crollare la nostra casa ma la ricostruzione procede lenta. E l’amarezza si fa sentire",
-      "date": "2026-08-22T00:04:26.0000000Z"
     },
     {
       "id": "skytg24:3gfQoqi2y3g",
@@ -564,19 +577,6 @@
       "summary": "",
       "videoId": "PvrKqp4LnkI",
       "date": "2026-08-21T15:48:35.0000000Z"
-    },
-    {
-      "id": "skytg24:ekidMJcOpXM",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Sky Cube 21/8 – Missili e droni, quanto reggerà l'Ucraina?",
-      "url": "https://www.youtube.com/watch?v=ekidMJcOpXM",
-      "image": "https://i.ytimg.com/vi/ekidMJcOpXM/hqdefault.jpg",
-      "summary": "",
-      "videoId": "ekidMJcOpXM",
-      "date": "2026-08-21T15:46:43.0000000Z"
     },
     {
       "id": "ansa:ff9c5666281d",
