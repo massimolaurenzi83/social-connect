@@ -1,7 +1,19 @@
 {
   "category": "arte",
-  "updated": "2026-08-22T04:48:30.8311539Z",
+  "updated": "2026-08-22T05:15:24.3410330Z",
   "items": [
+    {
+      "id": "elledecor:59af3fc230d4",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "40 foto raccontano lo Studio 54, il celebre nightclub che trasformò la notte in uno spettacolo",
+      "url": "https://www.elledecor.com/it/people/g73391924/studio-54-foto-nightclub-anni-70/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/7cda241d-9af6-400b-8142-85a3eb523caa.jpeg",
+      "summary": "Tra selezioni impossibili all’ingresso, piste affollate e feste diventate leggenda, le immagini raccontano il locale che ha definito un’intera epoca",
+      "date": "2026-08-22T05:00:00.0000000Z"
+    },
     {
       "id": "artribune:b550bc81bad3",
       "sourceId": "artribune",
@@ -51,18 +63,6 @@
       "date": "2026-08-21T14:30:00.0000000Z"
     },
     {
-      "id": "artribune:0255d881b5a9",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "La faccia non mente (l’algoritmo forse sì): dal ritratto al selfie, la nuova storia del volto nell’era dell’IA",
-      "url": "https://www.artribune.com/editoria/2026/08/storia-del-volto-ritratto-selfie-ia/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/268a160a5-5731-4cf7-9c18-6c11b650124e.webp",
-      "summary": "Dal ritratto antico ai selfie fino ai volti generati dall’intelligenza artificiale, la storia dell’immagine più umana attraversa una nuova trasformazione: quando una faccia diventa anche un dato. Vediamo come cambia i...",
-      "date": "2026-08-21T14:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:2b7517638400",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -75,16 +75,16 @@
       "date": "2026-08-21T14:00:00.0000000Z"
     },
     {
-      "id": "artribune:f91742d3800e",
+      "id": "artribune:0255d881b5a9",
       "sourceId": "artribune",
       "source": "Artribune",
       "platform": "rss",
       "category": "arte",
-      "title": "Morto Giancarlo Olgiati, l’avvocato collezionista svizzero delle avanguardie del Novecento. La sua raccolta condivisa con la città di Lugano",
-      "url": "https://www.artribune.com/professioni-e-professionisti/who-is-who/2026/08/giancarlo-olgiati-collezionista-masi-lugano-morto/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/giancarlo-olgiati.jpg",
-      "summary": "Con sua moglie Danna, curatrice e specialista del Futurismo, dal 2012 Olgiati aprì al pubblico parte della sua collezione, raccolta a partire dagli Anni Sessanta, attraverso una donazione al MASI Lugano. Scompare a 88...",
-      "date": "2026-08-21T13:00:00.0000000Z"
+      "title": "La faccia non mente (l’algoritmo forse sì): dal ritratto al selfie, la nuova storia del volto nell’era dell’IA",
+      "url": "https://www.artribune.com/editoria/2026/08/storia-del-volto-ritratto-selfie-ia/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/268a160a5-5731-4cf7-9c18-6c11b650124e.webp",
+      "summary": "Dal ritratto antico ai selfie fino ai volti generati dall’intelligenza artificiale, la storia dell’immagine più umana attraversa una nuova trasformazione: quando una faccia diventa anche un dato. Vediamo come cambia i...",
+      "date": "2026-08-21T14:00:00.0000000Z"
     },
     {
       "id": "elledecor:b725a41b8879",
@@ -96,6 +96,18 @@
       "url": "https://www.elledecor.com/it/design/a73391864/poltrona-ikea-bellissima/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/59b31f3a-7a11-4178-b60d-b1251b7b9e46.jpg",
       "summary": "Disegnata nel '67 da Gillis Lundgren, ha seduta bassa e inclinata, base a 5 gambe e un'imbottitura che invita a restare seduti più a lungo",
+      "date": "2026-08-21T13:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:f91742d3800e",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Morto Giancarlo Olgiati, l’avvocato collezionista svizzero delle avanguardie del Novecento. La sua raccolta condivisa con la città di Lugano",
+      "url": "https://www.artribune.com/professioni-e-professionisti/who-is-who/2026/08/giancarlo-olgiati-collezionista-masi-lugano-morto/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/giancarlo-olgiati.jpg",
+      "summary": "Con sua moglie Danna, curatrice e specialista del Futurismo, dal 2012 Olgiati aprì al pubblico parte della sua collezione, raccolta a partire dagli Anni Sessanta, attraverso una donazione al MASI Lugano. Scompare a 88...",
       "date": "2026-08-21T13:00:00.0000000Z"
     },
     {
@@ -123,18 +135,6 @@
       "date": "2026-08-21T12:00:00.0000000Z"
     },
     {
-      "id": "elledecor:1c7a9661f2bf",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Il ristorante del week-end è una pizzeria di design a due passi dall'arena di Verona",
-      "url": "https://www.elledecor.com/it/viaggi/a73363656/pizzeria-di-design-arena-di-verona/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/316eb94e-61bc-4b99-a872-85b504f13989.jpg",
-      "summary": "Progettato da MASAAI Studio, TEMPO è un ristorante che nasce dalla riqualificazione di due locali nel centro storico e interpreta la pizzeria contemporanea attraverso design, funzionalità e una nuova idea di convivialità",
-      "date": "2026-08-21T11:00:00.0000000Z"
-    },
-    {
       "id": "artribune:2b9aee7a8367",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -144,6 +144,18 @@
       "url": "https://www.artribune.com/progettazione/new-media/2026/08/salvatore-antirez-sanfilippo-redis-intervista/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/donald-knuth-foto-di-viviana-cromwell.jpg",
       "summary": "“La programmazione è una forma di letteratura”. Il creatore di Redis, uno dei programmi open source più influenti degli ultimi vent'anni, riflette sul software come linguaggio espressivo, tra minimalismo, cultura hack...",
+      "date": "2026-08-21T11:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:1c7a9661f2bf",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il ristorante del week-end è una pizzeria di design a due passi dall'arena di Verona",
+      "url": "https://www.elledecor.com/it/viaggi/a73363656/pizzeria-di-design-arena-di-verona/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/316eb94e-61bc-4b99-a872-85b504f13989.jpg",
+      "summary": "Progettato da MASAAI Studio, TEMPO è un ristorante che nasce dalla riqualificazione di due locali nel centro storico e interpreta la pizzeria contemporanea attraverso design, funzionalità e una nuova idea di convivialità",
       "date": "2026-08-21T11:00:00.0000000Z"
     },
     {
@@ -253,18 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/d7eecd1d-0a90-4b91-9b8e-c4b0655f0a2e.jpeg",
       "summary": "Gli archeologi dell'Università di Cadice parlano di uno dei dolmen più imponenti e completi dell'Andalusia, con camere ricche di avorio, ambra e un'alabarda in selce",
       "date": "2026-08-20T13:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:322251a1216a",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Perché il Comune di Barcellona ha eliminato il bike sharing privato?",
-      "url": "https://www.elledecor.com/it/lifestyle/a73354536/perche-comune-di-barcellona-elimina-bike-sharing-bici-abbandonate/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/6471f62e-5f9f-459b-b385-69fa521e9792.jpeg",
-      "summary": "Bici abbandonate sulle spiagge e marciapiedi intasati portano il municipio a cancellare le licenze ai privati per il bike sharing : ecco come cambierà la mobilità a pedali",
-      "date": "2026-08-20T11:00:00.0000000Z"
     }
   ]
 }
