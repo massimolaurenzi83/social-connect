@@ -1,6 +1,6 @@
 {
   "category": "energia",
-  "updated": "2026-08-22T11:26:23.1418529Z",
+  "updated": "2026-08-22T11:47:29.0181617Z",
   "items": [
     {
       "id": "qualenergia:c806b8589e7b",
@@ -25,6 +25,18 @@
       "image": null,
       "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
       "date": "2026-08-21T22:25:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:231c22bcd05e",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Segnala un corso di formazione sull’energia",
+      "url": "https://www.qualenergia.it/articoli/segnala-corso-formazione-energia/",
+      "image": null,
+      "summary": "QualEnergia.it ha attivato da oltre un anno la rubrica “La formazione energetica in Italia”, uno spazio dedicato a raccogliere, valorizzare e rendere più accessibile l’offerta formativa nei settori delle fonti rinnova...",
+      "date": "2026-08-21T14:30:20.0000000Z"
     },
     {
       "id": "qualenergia:6fa6e537d8cd",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Il Ministero delle Imprese e del Made in Italy (Mimit) sostiene progetti di ricerca e sviluppo da realizzare nei territori delle Regioni meno sviluppate e coerenti con le aree tematiche della Strategia nazionale di sp...",
       "date": "2026-08-21T06:55:55.0000000Z"
-    },
-    {
-      "id": "qualenergia:50d40d648ab7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Bandi e appalti del giorno (3)",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
-      "image": null,
-      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
-      "date": "2026-08-21T06:30:17.0000000Z"
     }
   ]
 }
