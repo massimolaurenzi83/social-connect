@@ -1,7 +1,31 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-22T16:48:57.2155055Z",
+  "updated": "2026-08-22T17:09:00.3768074Z",
   "items": [
+    {
+      "id": "hdblog:158782c38c4f",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "La Fotocamera Pixel cambia sui Pixel 11 con queste due novità",
+      "url": "https://www.hdblog.it/google/comparazioni/n668071/fotocamera-pixel-11-modalita-avvio-rapido-novita/",
+      "image": null,
+      "summary": "Una funzione inedita e un ritocco all'interfaccia.",
+      "date": "2026-08-22T17:05:00.0000000Z"
+    },
+    {
+      "id": "tomshw:5020bcd8f41c",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "G.Skill rimborsa gli utenti per aver mentito sulle RAM (ma solo in USA)",
+      "url": "https://www.tomshw.it/hardware/g-skill-accordo-ram-da-2-4-milioni-pagamenti-al-via-negli",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108952/kAur2rfLMuXGArbhKVE2jU-2560-80.jpg",
+      "summary": "Accrediti da 19,68 e 24,60 dollari stanno raggiungendo i consumatori statunitensi ammessi all’accordo sulle velocità pubblicizzate per alcune memorie desktop G.Skill DDR4 e DDR5. Le prime ricevute con...",
+      "date": "2026-08-22T16:59:30.0000000Z"
+    },
     {
       "id": "hdblog:10a10b607e3e",
       "sourceId": "hdblog",
@@ -243,18 +267,6 @@
       "date": "2026-08-22T10:36:00.0000000Z"
     },
     {
-      "id": "hdblog:99507e53a7fd",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Tineco Floor One S9 Artist Boost Steam: la lavapavimenti con vapore a 230°C",
-      "url": "https://www.hdblog.it/home/articoli/n668008/tineco-floor-one-s9-artist-boost-steam-230-gradi/",
-      "image": null,
-      "summary": "Vapore a 230°C, rullo reversibile ReverseScrub e prezzo di lancio più basso della generazione precedente: Tineco rinnova la sua lavapavimenti top di gamma con il Floor One S9 Artist Boost Steam.",
-      "date": "2026-08-22T10:35:00.0000000Z"
-    },
-    {
       "id": "dday:2bc1c8cae27e",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -397,18 +409,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-21T07:30:00.0000000Z"
-    },
-    {
-      "id": "tomshw:5c33d1e15097",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "CDN Tsunami, poche richieste possono generare 350 volte il traffico",
-      "url": "https://www.tomshw.it/hardware/cdn-tsunami-sfrutta-http3-e-amplifica-gli-attacchi-dos",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108732/cdn-tsunami-sfrutta-http-3-e-amplifica-gli-attacchi-dos.png",
-      "summary": "Una nuova classe di attacchi Denial-of-Service, battezzata CDN Tsunami, colpisce l'architettura usata da alcuni dei maggiori fornitori di Content Delivery Network. Il problema nasce quando una CDN ric...",
-      "date": "2026-08-20T21:21:40.0000000Z"
     },
     {
       "id": "techprincess:doYvlFZh9Ow",
