@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-22T05:15:24.3145474Z",
+  "updated": "2026-08-22T05:47:12.9990320Z",
   "items": [
+    {
+      "id": "insideevs:52bde9a6295d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa auto elettrica di 100 anni faceva 129 km, ma con calma",
+      "url": "https://insideevs.it/news/805707/auto-elettrica-100-anni-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
+      "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
+      "date": "2026-08-22T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:1cf6d635f007",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La storia dell'UFO italiano disegnato da Giugiaro",
+      "url": "https://it.motor1.com/news/803450/bizzarrini-manta-storia-curiosita/",
+      "image": "https://cdn.motor1.com/images/mgl/E6NyPB/s3/bizzarrini-manta-1968.jpg",
+      "summary": "Nata in soli 40 giorni, la Bizzarrini Manta ha rivoluzionato il design delle sportive a motore centrale ed è un'icona del suo tempo",
+      "date": "2026-08-22T05:00:00.0000000Z"
+    },
     {
       "id": "motor1:e0ae756a24ad",
       "sourceId": "motor1",
@@ -411,18 +435,6 @@
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
-      "id": "motor1:deb3c1faea71",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "E se al posto del Ranger ci fosse un Ford Bronco pick-up?",
-      "url": "https://it.motor1.com/news/805597/ford-bronco-pick-up-anticipazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/y0O17/s3/ford-bronco-pickup-truck-rendering.jpg",
-      "summary": "I media americani parlano di una nuova variante del Bronco, che potrebbe scalzare il Ranger entro il 2030",
-      "date": "2026-08-21T06:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:62bcfe4c521d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/xq36JG/s3/overhead-chargepoint-del-quick-turnaround-facility-all-aeroporto-di-portland-usa.jpg",
       "summary": "Nel Quick Turnaround Facility di Portland ChargePoint installa 10 charger da 200 kW overhead per elettrificare le flotte a noleggio in spazi saturi.",
       "date": "2026-08-20T10:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:a3a8778b839d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Tesla a tre file è la Model Y con più autonomia reale",
-      "url": "https://insideevs.it/news/805555/tesla-model-y-autonomia-reale-test-edmunds/",
-      "image": "https://cdn.motor1.com/images/mgl/G3Q6NA/s3/2027-tesla-model-y-l.jpg",
-      "summary": "Il SUV elettrico supera di oltre 50 km la percorrenza dichiarata in una prova su strade americane",
-      "date": "2026-08-20T09:00:00.0000000Z"
     }
   ]
 }
