@@ -1,7 +1,19 @@
 {
   "category": "cripto",
-  "updated": "2026-08-22T23:01:36.4142302Z",
+  "updated": "2026-08-22T23:30:51.9644007Z",
   "items": [
+    {
+      "id": "cryptonomist:5c8461816cea",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Vulnerabilità Microsoft Entra ID: gravità massima 10/10, nessuna azione richiesta",
+      "url": "https://cryptonomist.ch/2026/08/23/vulnerabilita-microsoft-entra-id/",
+      "image": null,
+      "summary": "Il punteggio è il massimo possibile: 10 su 10. Quando Microsoft assegna questo voto a un bug, significa che la falla può essere sfruttata da chiunque, senza credenziali e senza che la vittima faccia nulla. È esattamen...",
+      "date": "2026-08-22T23:07:02.0000000Z"
+    },
     {
       "id": "cryptonomist:414df6de7965",
       "sourceId": "cryptonomist",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Le azioni Robinhood chiudono la seduta del 21 agosto a 108,16 dollari, con un massimo intraday a 109,70. Il rally si inserisce nella scia di Bitcoin, che sta trainando l’intero comparto crypto stock. Per valutare la s...",
       "date": "2026-08-21T20:13:41.0000000Z"
-    },
-    {
-      "id": "cryptonomist:5b853cf9c35d",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Azioni Palantir: rally del 33% in un mese, RSI vicino all’ipercomprato",
-      "url": "https://cryptonomist.ch/2026/08/21/azioni-palantir-rally-del-33-in-un-mese-rsi-vicino-allipercomprato/",
-      "image": null,
-      "summary": "Le azioni Palantir hanno chiuso l’ultima sessione daily a 179,89 dollari, dopo un massimo intraday di 182,42. Il rally del 33% nell’ultimo mese porta il titolo a un bivio tecnico: continuare verso nuovi massimi o pren...",
-      "date": "2026-08-21T20:11:34.0000000Z"
     }
   ]
 }
