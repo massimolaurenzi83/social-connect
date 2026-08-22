@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-22T13:57:20.8127267Z",
+  "updated": "2026-08-22T14:27:40.8563258Z",
   "items": [
+    {
+      "id": "vaielettrico:f876db9a7de0",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Un futuro a carbone: è questo che ci aspetta?",
+      "url": "https://www.vaielettrico.it/un-futuro-a-carbone-ci-aspetta-questo/",
+      "image": null,
+      "summary": "Un futuro a carbone, è questo che ci aspetta? Un lettore è rimasto perplesso leggendo un articolo del sito… L'articolo Un futuro a carbone: è questo che ci aspetta? proviene da Vaielettrico .",
+      "date": "2026-08-22T14:11:09.0000000Z"
+    },
     {
       "id": "insideevs:42b3badbee34",
       "sourceId": "insideevs",
@@ -87,18 +99,6 @@
       "date": "2026-08-22T06:24:36.0000000Z"
     },
     {
-      "id": "insideevs:52bde9a6295d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa auto elettrica di 100 anni faceva 129 km, ma con calma",
-      "url": "https://insideevs.it/news/805707/auto-elettrica-100-anni-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
-      "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
-      "date": "2026-08-22T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:1cf6d635f007",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -108,6 +108,18 @@
       "url": "https://it.motor1.com/news/803450/bizzarrini-manta-storia-curiosita/",
       "image": "https://cdn.motor1.com/images/mgl/E6NyPB/s3/bizzarrini-manta-1968.jpg",
       "summary": "Nata in soli 40 giorni, la Bizzarrini Manta ha rivoluzionato il design delle sportive a motore centrale ed è un'icona del suo tempo",
+      "date": "2026-08-22T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:52bde9a6295d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa auto elettrica di 100 anni faceva 129 km, ma con calma",
+      "url": "https://insideevs.it/news/805707/auto-elettrica-100-anni-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
+      "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
       "date": "2026-08-22T05:00:00.0000000Z"
     },
     {
@@ -207,18 +219,6 @@
       "date": "2026-08-21T15:00:40.0000000Z"
     },
     {
-      "id": "insideevs:f35d8265e8e1",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ford userà la piattaforma Geely per un nuovo SUV elettrificato",
-      "url": "https://insideevs.it/news/805704/ford-suv-geely-2029-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/3WEbgY/s3/geely-e5-2026-im-test.jpg",
-      "summary": "Il nuovo SUV Ford nascerà sulla piattaforma GEA di Geely e sarà prodotto nello stabilimento di Valencia, con motori elettrici e ibridi",
-      "date": "2026-08-21T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:f3132c5f6333",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -228,6 +228,18 @@
       "url": "https://it.motor1.com/features/805479/pressione-pneumatici-controllo-frequenza/",
       "image": "https://cdn.motor1.com/images/mgl/qkYzJz/s3/the-simple-maintenance-task-most-drivers-forget.jpg",
       "summary": "Bastano pochi minuti, ma ignorare la pressione dei pneumatici potrebbe costarti carburante, durata dei pneumatici e persino la tua sicurezza.",
+      "date": "2026-08-21T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:f35d8265e8e1",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ford userà la piattaforma Geely per un nuovo SUV elettrificato",
+      "url": "https://insideevs.it/news/805704/ford-suv-geely-2029-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/3WEbgY/s3/geely-e5-2026-im-test.jpg",
+      "summary": "Il nuovo SUV Ford nascerà sulla piattaforma GEA di Geely e sarà prodotto nello stabilimento di Valencia, con motori elettrici e ibridi",
       "date": "2026-08-21T15:00:00.0000000Z"
     },
     {
@@ -433,18 +445,6 @@
       "image": "https://cdn.motor1.com/images/mgl/2N4Pqz/s3/2027-jeep-wrangler-smoky-mountain.jpg",
       "summary": "Basata sulla Jeep Wrangler Willys, l'edizione Smoky Mountain aggiunge uno stile total black. Ma è destinata solo agli USA",
       "date": "2026-08-21T08:30:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:033168826cb1",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Pausa biberon durante la ricarica: e voi che che fate?",
-      "url": "https://www.vaielettrico.it/pausa-biberon-durante-la-ricarica/",
-      "image": null,
-      "summary": "Pausa biberon durante la ricarica. Tra le tante segnalazioni, ci mancava il ‘rifornimento’ per il baby, immortalato con… L'articolo Pausa biberon durante la ricarica: e voi che che fate? proviene da Vaielettrico .",
-      "date": "2026-08-21T07:20:25.0000000Z"
     },
     {
       "id": "insideevs:8819548e7e0b",

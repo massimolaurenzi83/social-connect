@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-22T13:57:20.7995440Z",
+  "updated": "2026-08-22T14:27:40.8663662Z",
   "items": [
+    {
+      "id": "qualenergia:b211add04eab",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Towards an equitable future of global photovoltaic waste recycling",
+      "url": "https://www.qualenergia.it/pro/documenti/towards-an-equitable-future-of-global-photovoltaic-waste-recycling/",
+      "image": null,
+      "summary": "Studio pubblicato su Nature secondo cui entro il 2060 il mondo potrebbe accumulare tra 297 e 402 milioni di tonnellate di moduli fotovoltaici a fine vita. Tale flusso potrebbe generare benefici economici netti cumulat...",
+      "date": "2026-08-22T14:11:35.0000000Z"
+    },
     {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Nel primo semestre 2026 i consumi di gas in Italia sono pressoché stabili (+0,2%) rispetto allo stesso periodo del 2025. Un grafico ci aiuta a visualizzare l’andamento semestrale dei consumi italiani di gas naturale: ...",
       "date": "2026-08-21T07:00:27.0000000Z"
-    },
-    {
-      "id": "qualenergia:7a47e8f06287",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Ricerca e innovazione di tecnologie energetiche, dal Mimit 505 milioni per il Mezzogiorno",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/ricerca-innovazione-tecnologie-energetiche-mimit-505-milioni-mezzogiorno/",
-      "image": null,
-      "summary": "Il Ministero delle Imprese e del Made in Italy (Mimit) sostiene progetti di ricerca e sviluppo da realizzare nei territori delle Regioni meno sviluppate e coerenti con le aree tematiche della Strategia nazionale di sp...",
-      "date": "2026-08-21T06:55:55.0000000Z"
     }
   ]
 }
