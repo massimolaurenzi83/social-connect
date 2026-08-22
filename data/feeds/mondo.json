@@ -1,7 +1,19 @@
 {
   "category": "mondo",
-  "updated": "2026-08-22T10:02:44.4544229Z",
+  "updated": "2026-08-22T10:35:56.1972224Z",
   "items": [
+    {
+      "id": "ansa-mondo:0540bf82ec2b",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Media, Giappone inerte contro le sanzioni Usa alla Cpi, \"un fallimento diplomatico\"",
+      "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/22/media-giappone-inerte-contro-le-sanzioni-usa-alla-cpi-un-fallimento-diplomatico_58890a8b-3f8a-4a5b-b789-c26c9ff541fc.html",
+      "image": null,
+      "summary": "Esecutivo Takaichi nel mirino per il suo silenzio, crescono le critiche",
+      "date": "2026-08-22T10:02:47.0000000Z"
+    },
     {
       "id": "ansa-mondo:9e3e77a0f92c",
       "sourceId": "ansa-mondo",
@@ -135,18 +147,6 @@
       "date": "2026-08-21T23:40:17.0000000Z"
     },
     {
-      "id": "ansa-mondo:1e77826cbcce",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Brasile, i fratelli Batista acquistano il 100% del gruppo della Avibras",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/22/brasile-i-fratelli-batista-acquistano-il-100-del-gruppo-della-avibras_f739f65e-e381-432b-aa1b-3acd085877f1.html",
-      "image": null,
-      "summary": "La J rileva l'azienda della difesa, produttrice del sistema di artiglieria Astro",
-      "date": "2026-08-21T23:34:37.0000000Z"
-    },
-    {
       "id": "internazionale:0a620add4fcd",
       "sourceId": "internazionale",
       "source": "Internazionale",
@@ -181,114 +181,6 @@
       "image": "https://media.internazionale.it/images/2026/08/20/356496-hd.jpg",
       "summary": "Da Camp Miasma. Adolescenza, sesso e morte di Jane Schoenbrun a Valensole 1965 di Dominique Filhol. Le recensioni della stampa straniera Leggi",
       "date": "2026-08-20T15:16:03.0000000Z"
-    },
-    {
-      "id": "internazionale:d47cbf6717f7",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Umana",
-      "url": "https://www.internazionale.it/magazine/giovanni-de-mauro/2026/08/20/umana-3",
-      "image": "https://media.internazionale.it/images/2026/08/20/356572-hd.jpg",
-      "summary": "È arrivato il momento di discutere degli enormi investimenti legati all’intelligenza artificiale Leggi",
-      "date": "2026-08-20T10:18:59.0000000Z"
-    },
-    {
-      "id": "internazionale:c100dc9ae5ae",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Uno spazio di libertà",
-      "url": "https://www.internazionale.it/magazine/clarisse-fabre/2026/08/20/uno-spazio-di-liberta",
-      "image": "https://media.internazionale.it/images/2026/08/20/356564-hd.jpg",
-      "summary": "A giudicare dai premi assegnati, il festival di Locarno si conferma una manifestazione innovativa e preziosa Leggi",
-      "date": "2026-08-20T10:18:59.0000000Z"
-    },
-    {
-      "id": "internazionale:8d65b058866e",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Alla frutta",
-      "url": "https://www.internazionale.it/magazine/giorgio-cappozzo/2026/08/20/alla-frutta",
-      "image": "https://media.internazionale.it/images/2021/11/22/165805-ld.png",
-      "summary": "Bananito è una banana con gli addominali, gran seduttore, che vive in una villa tropicale con manghi, kiwi e angurie antropomorfe, tutti generati dall’intelligenza artificiale…. Leggi",
-      "date": "2026-08-20T10:18:59.0000000Z"
-    },
-    {
-      "id": "internazionale:57102d36b012",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Il tesoro contenuto in tre scatole rosse",
-      "url": "https://www.internazionale.it/magazine/2026/08/20/il-tesoro-contenuto-in-tre-scatole-rosse",
-      "image": "https://media.internazionale.it/images/2026/08/20/356568-hd.jpg",
-      "summary": "Nel 1944 Kegham Djeghalian fondò il primo studio fotografico di Gaza. Il suo archivio è stato ritrovato dal nipote solo pochi anni fa e ora è in mostra a Marsiglia Leggi",
-      "date": "2026-08-20T10:18:58.0000000Z"
-    },
-    {
-      "id": "internazionale:2e0db287ea39",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Wandile Mthiyane. Quattro passi",
-      "url": "https://www.internazionale.it/magazine/kristen-harding/2026/08/20/wandile-mthiyane-quattro-passi",
-      "image": "https://media.internazionale.it/images/2026/08/20/356507-hd.jpg",
-      "summary": "È un architetto sudafricano. Per sessanta giorni ha camminato da Durban a Città del Capo per attirare l’attenzione sulla crisi abitativa. E lungo il cammino le persone gli hanno aperto le porte delle loro case Leggi",
-      "date": "2026-08-20T10:18:58.0000000Z"
-    },
-    {
-      "id": "internazionale:d72f4e100bd6",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Sui binari con lentezza",
-      "url": "https://www.internazionale.it/magazine/irene-helmes/2026/08/20/sui-binari-con-lentezza",
-      "image": "https://media.internazionale.it/images/2026/08/20/356506-hd.jpg",
-      "summary": "Dalle città d’arte del Veneto alle località balneari dell’Adriatico fino al mare di Otranto. Viaggiando senza fretta sui treni regionali Leggi",
-      "date": "2026-08-20T10:18:58.0000000Z"
-    },
-    {
-      "id": "internazionale:a8031f7cdc5a",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Il mio tesoro",
-      "url": "https://www.internazionale.it/magazine/2026/08/20/il-mio-tesoro",
-      "image": "https://media.internazionale.it/images/2026/08/20/356503-hd.jpg",
-      "summary": "All’ingresso di una spugna tubolare una femmina di granchio arlecchino custodisce sotto le chele un grappolo di uova arancioni. Posizionandosi nella corrente, favorisce… Leggi",
-      "date": "2026-08-20T10:18:58.0000000Z"
-    },
-    {
-      "id": "internazionale:a69509d256ad",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Prato all’inglese",
-      "url": "https://www.internazionale.it/magazine/2026/08/20/prato-all-inglese-2",
-      "image": "https://media.internazionale.it/images/2026/08/20/356502-hd.jpg",
-      "summary": "Una partita di cricket sui prati di Hackney Marshes, uno dei tanti spazi verdi di Londra resi irriconoscibili dalla siccità e dal caldo estremo di questa estate. L’Inghilterra… Leggi",
-      "date": "2026-08-20T10:18:58.0000000Z"
-    },
-    {
-      "id": "internazionale:42bdd71d28cf",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "La strada giusta",
-      "url": "https://www.internazionale.it/magazine/2026/08/20/la-strada-giusta",
-      "image": "https://media.internazionale.it/images/2026/08/20/356501-hd.jpg",
-      "summary": "Nella notte tra il 29 e il 30 luglio 2026 è scoppiato un incendio all’interno del palazzo occupato dell’ex sede dell’Inpdap, in via di Santa Croce in Gerusalemme, a… Leggi",
-      "date": "2026-08-20T10:18:58.0000000Z"
     }
   ]
 }
