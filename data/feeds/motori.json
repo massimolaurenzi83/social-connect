@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-22T09:11:34.1749032Z",
+  "updated": "2026-08-22T09:44:55.6108664Z",
   "items": [
+    {
+      "id": "hdmotori:bcbc1edc3e33",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dietro alla camuffatura si nasconde la nuova Audi RS Q7? Foto spia",
+      "url": "https://www.hdmotori.it/nuova-audi-rs-q7-foto-spia/",
+      "image": null,
+      "summary": "Arrivano da Bressanone le foto spia di un'Audi Q7 che potrebbe essere la futura RS, la chiacchierata versione al vertice delle prestazioni The post Dietro alla camuffatura si nasconde la nuova Audi RS Q7? Foto spia ap...",
+      "date": "2026-08-22T09:30:39.0000000Z"
+    },
+    {
+      "id": "vaielettrico:1ccf1473c06a",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Pro e contro l’auto elettrica/2 Dove sta la giusta via di mezzo?",
+      "url": "https://www.vaielettrico.it/pro-e-contro-lauto-elettrica-2-dove-sta-la-giusta-via-di-mezzo/",
+      "image": null,
+      "summary": "Pro e contro l’auto elettrica: dove sta la verità? Il racconto di Alberto ha suscitato le critiche di… L'articolo Pro e contro l’auto elettrica/2 Dove sta la giusta via di mezzo? proviene da Vaielettrico .",
+      "date": "2026-08-22T09:19:06.0000000Z"
+    },
     {
       "id": "vaielettrico:c0cb94853581",
       "sourceId": "vaielettrico",
@@ -159,18 +183,6 @@
       "date": "2026-08-21T15:00:40.0000000Z"
     },
     {
-      "id": "insideevs:f35d8265e8e1",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ford userà la piattaforma Geely per un nuovo SUV elettrificato",
-      "url": "https://insideevs.it/news/805704/ford-suv-geely-2029-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/3WEbgY/s3/geely-e5-2026-im-test.jpg",
-      "summary": "Il nuovo SUV Ford nascerà sulla piattaforma GEA di Geely e sarà prodotto nello stabilimento di Valencia, con motori elettrici e ibridi",
-      "date": "2026-08-21T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:f3132c5f6333",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -180,6 +192,18 @@
       "url": "https://it.motor1.com/features/805479/pressione-pneumatici-controllo-frequenza/",
       "image": "https://cdn.motor1.com/images/mgl/qkYzJz/s3/the-simple-maintenance-task-most-drivers-forget.jpg",
       "summary": "Bastano pochi minuti, ma ignorare la pressione dei pneumatici potrebbe costarti carburante, durata dei pneumatici e persino la tua sicurezza.",
+      "date": "2026-08-21T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:f35d8265e8e1",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ford userà la piattaforma Geely per un nuovo SUV elettrificato",
+      "url": "https://insideevs.it/news/805704/ford-suv-geely-2029-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/3WEbgY/s3/geely-e5-2026-im-test.jpg",
+      "summary": "Il nuovo SUV Ford nascerà sulla piattaforma GEA di Geely e sarà prodotto nello stabilimento di Valencia, con motori elettrici e ibridi",
       "date": "2026-08-21T15:00:00.0000000Z"
     },
     {
@@ -255,18 +279,6 @@
       "date": "2026-08-21T13:12:24.0000000Z"
     },
     {
-      "id": "motor1:5ab500bc4912",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Praga Bohema batte il record di Pagani a Spa",
-      "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
-      "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
-      "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
-      "date": "2026-08-21T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:1d2af046ec51",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -276,6 +288,18 @@
       "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
       "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
       "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
+      "date": "2026-08-21T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:5ab500bc4912",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Praga Bohema batte il record di Pagani a Spa",
+      "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
+      "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
       "date": "2026-08-21T13:00:00.0000000Z"
     },
     {
@@ -363,18 +387,6 @@
       "date": "2026-08-21T10:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:7da8e8cace34",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Geely beffa i dazi dell’UE: utilizzerà le fabbriche Volvo e Ford dal 2028",
-      "url": "https://www.hdmotori.it/geely-auto-cinesi-fabbriche-volvo-europa-2028/",
-      "image": null,
-      "summary": "Con le fabbriche Volvo in Svezia e il sito Ford in Spagna, Geely azzera dazi e trasporti producendo i nuovi crossover ibridi direttamente in Europa dal 2028. The post Geely beffa i dazi dell’UE: utilizzerà le fabbrich...",
-      "date": "2026-08-21T09:30:25.0000000Z"
-    },
-    {
       "id": "insideevs:ec222eae2365",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -409,18 +421,6 @@
       "image": null,
       "summary": "Pausa biberon durante la ricarica. Tra le tante segnalazioni, ci mancava il ‘rifornimento’ per il baby, immortalato con… L'articolo Pausa biberon durante la ricarica: e voi che che fate? proviene da Vaielettrico .",
       "date": "2026-08-21T07:20:25.0000000Z"
-    },
-    {
-      "id": "vaielettrico:06113c3b9313",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Moonrider 27, il trattore elettrico che costa come un’utilitaria (17mila€)",
-      "url": "https://www.vaielettrico.it/moonrider-27-il-trattore-elettrico-che-costa-come-unutilitaria-17milae/",
-      "image": null,
-      "summary": "Il Moonrider 27 di GoSun è un nuovo trattore elettrico da 19.995 dollari (17.484 euro). E’ un modello… L'articolo Moonrider 27, il trattore elettrico che costa come un’utilitaria (17mila€) proviene da Vaielettrico .",
-      "date": "2026-08-21T07:06:18.0000000Z"
     },
     {
       "id": "insideevs:8819548e7e0b",
