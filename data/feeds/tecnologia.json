@@ -1,6 +1,6 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-22T09:44:55.5941377Z",
+  "updated": "2026-08-22T10:02:44.3389617Z",
   "items": [
     {
       "id": "hdblog:753c474483e2",
@@ -339,6 +339,18 @@
       "date": "2026-08-20T21:23:20.0000000Z"
     },
     {
+      "id": "tomshw:008bb6343f29",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "EPC Space spinge il calcolo in orbita con nuovi transistor eGaN",
+      "url": "https://www.tomshw.it/hardware/epc-space-lancia-tre-transistor-egan-per-i-computer-spaziali",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108731/epc-space-lancia-tre-transistor-egan-per-i-computer-spaziali.png",
+      "summary": "EPC Space ha presentato tre nuovi transistor eGaN destinati alla conversione di potenza nei computer spaziali. I dispositivi EPC7050PCSH, EPC7066PCSH ed EPC7065PCSH puntano ad alimentare processori e...",
+      "date": "2026-08-20T21:20:17.0000000Z"
+    },
+    {
       "id": "tomshw:e44a3d13e970",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -349,18 +361,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/108730/tesla-rallenta-le-model-y-robotaxi-per-accelerare-sul-cybercab.png",
       "summary": "Tesla ha ammesso di procedere più lentamente con l'integrazione della Model Y nella propria flotta robotaxi. La frenata è deliberata: l'azienda vuole concentrare una quota maggiore delle risorse sul C...",
       "date": "2026-08-20T21:18:32.0000000Z"
-    },
-    {
-      "id": "tomshw:a8d1c11dea6d",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Steam Deck, le mod di Nexus si installano direttamente dalla Gaming Mode",
-      "url": "https://www.tomshw.it/videogioco/decky-nexus-installa-le-mod-pc-su-steam-deck-dalla-modalita-gaming",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108727/decky-nexus-installa-le-mod-pc-su-steam-deck-dalla-modalita-gaming.png",
-      "summary": "Il plugin comunitario Decky-Nexus, sviluppato da RedRanger14, consente di cercare, scaricare, installare e amministrare le mod di Nexus direttamente dalla modalità Gaming di Steam Deck. Disponibile co...",
-      "date": "2026-08-20T21:16:38.0000000Z"
     },
     {
       "id": "dday:ed0a1c186090",
