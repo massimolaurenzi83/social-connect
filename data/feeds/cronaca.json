@@ -1,7 +1,31 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-23T15:32:24.8919551Z",
+  "updated": "2026-08-23T15:54:29.5165808Z",
   "items": [
+    {
+      "id": "ansa-cronaca:5a09ba2d3049",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Controesodo, oltre 21 milioni di transiti sulla rete Anas nel weekend",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/controesodo-oltre-21-milioni-di-transiti-sulla-rete-anas-nel-weekend_7b3063ac-d671-4057-8d43-757cbec60745.html",
+      "image": null,
+      "summary": "In aumento del 6% rispetto allo scorso weekend",
+      "date": "2026-08-23T15:40:18.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:00142a3ac2ee",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Muore in Croazia durante una vacanza, l'autopsia ha stabilito che il decesso è avvenuto per annegamento",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/muore-in-croazia-durante-una-vacanza-lautopsia-ha-stabilito-che-il-decesso-e-avvenuto_7e469849-23e3-41f2-9102-19bed4a7c09a.html",
+      "image": null,
+      "summary": "La tragedia è avvenuta giovedì 20 agosto: il ragazzo era uscito in mare a bordo di una moto d'acqua ed è stato ritrovato in acqua privo di vita",
+      "date": "2026-08-23T15:39:25.0000000Z"
+    },
     {
       "id": "ansa-cronaca:a965e6a011b0",
       "sourceId": "ansa-cronaca",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Il ragazzino colpito con un coltello da cucina",
       "date": "2026-08-23T11:21:23.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:9c9d984ee3a7",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Il sindaco Amatrice: 'La vera ricostruzione è iniziata da tre anni'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/il-sindaco-amatrice-la-vera-ricostruzione-e-iniziata-da-tre-anni_9f898d57-2355-4d6c-8f21-7a68f21f3a67.html",
-      "image": null,
-      "summary": "Cortellesi: 'La presenza di Meloni mi riempie di orgoglio, un segno vicinanza da parte del governo'",
-      "date": "2026-08-23T11:19:26.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:7964243cb97b",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Zuppi, 'quanto avviene in Cisgiordania è inaccettabile'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/zuppi-quanto-avviene-in-cisgiordania-e-inaccettabile_1af1376d-cc3d-48b4-9f83-54666dfbd1a7.html",
-      "image": null,
-      "summary": "\"Non è pensabile che vengano calpestati i diritti degli arabi\"",
-      "date": "2026-08-23T11:13:52.0000000Z"
     }
   ]
 }
