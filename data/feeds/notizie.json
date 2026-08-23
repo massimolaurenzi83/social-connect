@@ -1,7 +1,55 @@
 {
   "category": "notizie",
-  "updated": "2026-08-23T06:23:08.7770188Z",
+  "updated": "2026-08-23T07:10:42.8265268Z",
   "items": [
+    {
+      "id": "ansa:3fabb2536695",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Kiev attacca ancora l'Amazon russo con i droni, scoppiato un incendio",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/23/kiev-attacca-ancora-lamazon-russo-con-i-droni-scoppiato-un-incendio_0ed65c52-7afe-4dce-b7a7-e9d9336ae3c5.html",
+      "image": null,
+      "summary": "Mosca colpisce Kharkiv nella notte, sette feriti",
+      "date": "2026-08-23T07:02:35.0000000Z"
+    },
+    {
+      "id": "open:629143ca8abc",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "«No no rifacciamo», ma è in diretta: la gaffe dell’inviato di DAZN. Monta la rabbia sui social: «50 euro al mese» – Il video",
+      "url": "https://www.open.online/2026/08/23/dazn-inviato-vescini-gaffe-diretta-polemica-video/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/dazn.vescini-gaffe.jpg",
+      "summary": "È andato in tilt il giornalista della piattaforma mentre cercava di raccontare l'attesa per Udinese-Como. L'occasione già alla prima di Campionato per abbonati e tifosi per attaccare la piattaforma che detiene i dirit...",
+      "date": "2026-08-23T06:50:18.0000000Z"
+    },
+    {
+      "id": "ansa:82295f2ca472",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Teheran: 'Hormuz resta chiuso'. Il discorso di Pezeshkian: 'Non siamo diventati il Venezuela'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/23/pezeshkian-siamo-in-una-guerra-economica-e-militare-non-siamo-diventati-il-venezuela_11b6c62a-5ef1-4ac7-9f34-ac65e4773ca6.html",
+      "image": null,
+      "summary": "Trump pubblica nuovamente un'immagine sul suo social Truth dello Stretto di Hormuz accompagnata dalla scritta 'nuovo territorio americano'",
+      "date": "2026-08-23T06:49:37.0000000Z"
+    },
+    {
+      "id": "ansa:eaee6946da4d",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "'Hacker iraniani hanno spento per quattro giorni una centrale elettrica nel Regno Unito'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/23/hacker-iraniani-hanno-spento-una-centrale-elettrica-nel-regno-unito_bb03d05f-9091-4811-9aa6-6d231662e21e.html",
+      "image": null,
+      "summary": "La struttura è rimasta ferma 4 giorni. Nessun impatto sulla fornitura di energia",
+      "date": "2026-08-23T06:44:38.0000000Z"
+    },
     {
       "id": "open:d6a62709b9f3",
       "sourceId": "open",
@@ -51,18 +99,6 @@
       "date": "2026-08-23T05:13:02.0000000Z"
     },
     {
-      "id": "ansa:5ac9246d0290",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Teheran: 'Hormuz resta chiuso, non riaprirà se gli Usa non cambiano atteggiamento'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/23/teheran-hormuz-resta-chiuso-non-riaprira-se-gli-usa-non-cambiano_11b6c62a-5ef1-4ac7-9f34-ac65e4773ca6.html",
-      "image": null,
-      "summary": "Trump pubblica nuovamente un'immagine sul suo social Truth dello Stretto di Hormuz accompagnata dalla scritta 'nuovo territorio americano'",
-      "date": "2026-08-23T05:11:05.0000000Z"
-    },
-    {
       "id": "repubblica:3e67d824009a",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -108,18 +144,6 @@
       "url": "https://www.repubblica.it/economia/2026/08/23/news/manovra_detassazione_tredicesime_redditi_bassi-425542044/",
       "image": null,
       "summary": "Maggioranza in pressing sul governo per ridurre al 15% l’aliquota sulla mensilità natalizia per i redditi più bassi. Lega vuole la flat tax a 100 mila euro. Lettera dell’Italia insieme ad altri 5 Paesi per chiedere un...",
-      "date": "2026-08-22T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:5aa679faf0f7",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Al vertice con Berlino l’attacco di Piantedosi alle ong tedesche",
-      "url": "https://www.repubblica.it/politica/2026/08/23/news/vertice_berlino_attacco_piantedosi_ong_tedesche-425542248/",
-      "image": null,
-      "summary": "Il ministro dell’Interno prepara il bilaterale sui dublinanti. Fermo e multa per la SeaWatch. Resta lo stop a Schengen con Madrid",
       "date": "2026-08-22T23:00:00.0000000Z"
     },
     {
@@ -195,6 +219,18 @@
       "date": "2026-08-22T23:00:00.0000000Z"
     },
     {
+      "id": "repubblica:5aa679faf0f7",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Al vertice con Berlino l’attacco di Piantedosi alle ong tedesche",
+      "url": "https://www.repubblica.it/politica/2026/08/23/news/vertice_berlino_attacco_piantedosi_ong_tedesche-425542248/",
+      "image": null,
+      "summary": "Il ministro dell’Interno prepara il bilaterale sui dublinanti. Fermo e multa per la SeaWatch. Resta lo stop a Schengen con Madrid",
+      "date": "2026-08-22T23:00:00.0000000Z"
+    },
+    {
       "id": "repubblica:0478516a8e67",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -267,18 +303,6 @@
       "date": "2026-08-22T19:17:57.0000000Z"
     },
     {
-      "id": "ansa:bb7198fb7eef",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Anche l'Irlanda rispedisce i dublinanti, a ottobre il report Ue",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/08/22/anche-lirlanda-rispedisce-i-dublinanti-a-ottobre-il-report-ue_92f757b9-c1d8-45a1-8ccb-85024ab1cfab.html",
-      "image": null,
-      "summary": "Salvini: 'La Germania non ha diritto a rimandarci i migranti, fermi prima le Ong'",
-      "date": "2026-08-22T19:09:27.0000000Z"
-    },
-    {
       "id": "open:baeabcb3a545",
       "sourceId": "open",
       "source": "Open",
@@ -325,18 +349,6 @@
       "image": null,
       "summary": "'Prima dei confini ci sono le persone', 'diritto umanitario disatteso'",
       "date": "2026-08-22T17:42:44.0000000Z"
-    },
-    {
-      "id": "ansa:0c31bebb76d0",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Putin giura vendetta, 'Kiev ha aperto il vaso di Pandora attaccando l'economia'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/22/putin-giura-vendetta-kiev-ha-aperto-il-vaso-di-pandora-attaccando-leconomia_fe7b30d9-a772-4a9e-a3a4-6c7c1a8b1613.html",
-      "image": null,
-      "summary": "Lo zar: 'I raid ci danneggiano, rafforzeremo difese'. Macron promette forniture a Zelensky",
-      "date": "2026-08-22T17:38:02.0000000Z"
     },
     {
       "id": "skytg24:Wn_5pcsV2WQ",
@@ -424,18 +436,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/Papa-Leone-folla.jpeg",
       "summary": "Bagno di folla da 60mila persone alla Fiera di Rimini per il Pontefice americano. Che ricambia a modo suo L'articolo Papa Leone accolto al Meeting come una star: cori, selfie e il regalo da un bimbo di 10 anni – I vid...",
       "date": "2026-08-22T15:55:00.0000000Z"
-    },
-    {
-      "id": "open:894c3d7a983c",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Usa, sospesa la stretta di Trump sull’immigrazione da 75 Paesi. Lo stop di un giudice federale: «È contraria alla legge»",
-      "url": "https://www.open.online/2026/08/22/usa-giudice-federale-stretta-visti-migranti/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/usa-giudice-federale-stretta-visti-migranti.jpg",
-      "summary": "Decisiva una nota interna del Dipartimento di Stato che smentisce le dichiarazioni pubbliche della Casa Bianca L'articolo Usa, sospesa la stretta di Trump sull’immigrazione da 75 Paesi. Lo stop di un giudice federale:...",
-      "date": "2026-08-22T15:13:31.0000000Z"
     },
     {
       "id": "skytg24:Wf-jLrlg5QE",
