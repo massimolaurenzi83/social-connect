@@ -1,6 +1,6 @@
 {
   "category": "notizie",
-  "updated": "2026-08-23T08:52:12.3897122Z",
+  "updated": "2026-08-23T09:20:38.7315573Z",
   "items": [
     {
       "id": "repubblica:ffed5ff40917",
@@ -15,6 +15,18 @@
       "date": "2026-08-23T13:00:00.0000000Z"
     },
     {
+      "id": "ansa:fca8b37dfd90",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Cresce ancora il prezzo dei carburanti, gasolio sopra i 2,2 in autostrada",
+      "url": "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/23/cresce-ancora-il-prezzo-dei-carburanti-gasolio-sopra-i-22-in-autostrada_88295d67-975d-4e9b-98a8-a2040222bc59.html",
+      "image": null,
+      "summary": "Su strada a 2,130. La benzina a 2,010 in strada e a 2,087 in autostrada",
+      "date": "2026-08-23T08:55:05.0000000Z"
+    },
+    {
       "id": "open:4f02bc8d57b9",
       "sourceId": "open",
       "source": "Open",
@@ -25,6 +37,18 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/spiaggia-lettini.jpg",
       "summary": "L'azienda aveva assoldato un investigatore privato per pedinare la donna di Cesena. Assunta come carrellista a tempo indeterminato, aveva chiesto un permesso per assistere la madre disabile L'articolo Licenziata perch...",
       "date": "2026-08-23T08:50:54.0000000Z"
+    },
+    {
+      "id": "ansa:c5e61f4942a4",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "++ Cresce ancora il prezzo dei carburanti, gasolio sopra i 2,2 in autostrada ++",
+      "url": "https://www.ansa.it/sito/notizie/flash/2026/08/23/cresce-ancora-il-prezzo-dei-carburanti-gasolio-sopra-i-22-in-autostrada_89aa5796-6f1b-485b-b65e-bb3df6ebc597.html",
+      "image": null,
+      "summary": "Su strada a 2,130. La benzina a 2,010 in strada e a 2,087 in autostrada",
+      "date": "2026-08-23T08:48:52.0000000Z"
     },
     {
       "id": "ansa:3fabb2536695",
@@ -49,6 +73,18 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/guerra-iran-23-ago.jpg",
       "summary": "L'episodio di guerra ibrida risale a luglio e secondo le autorità britanniche, a colpite l'impianto sarebbe stato un gruppo legato al regime iraniano L'articolo L’Iran e l’ombra degli attacchi in Europa, allarme sugli...",
       "date": "2026-08-23T08:16:23.0000000Z"
+    },
+    {
+      "id": "repubblica:043d631bb519",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Dagli Usa 5mila missili per l’Italia: sono le nuove frecce della barriera anti-drone",
+      "url": "https://www.repubblica.it/esteri/2026/08/23/news/usa_5mila_missili_per_italia_frecce_anti_drone-425542605/",
+      "image": null,
+      "summary": "Dal governo americano via libera a una possibile commessa da 364 milioni per gli APKWS II, i sistemi aria-aria che modificano la traiettoria degli attacchi dei velivoli senza pilota",
+      "date": "2026-08-23T08:11:33.0000000Z"
     },
     {
       "id": "repubblica:82b496432e88",
@@ -207,42 +243,6 @@
       "date": "2026-08-23T02:55:11.0000000Z"
     },
     {
-      "id": "repubblica:65d2ee53d373",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Superare gli eccessi woke, la questione sociale va messa al primo posto",
-      "url": "https://www.repubblica.it/politica/2026/08/23/news/superare_eccessi_woke_questione_sociale_primo_posto-425542253/",
-      "image": null,
-      "summary": "Non bisogna arretrare di un millimetro sul tema dei diritti ma dobbiamo guardare al ceto medio stritolato dal costo della vita",
-      "date": "2026-08-22T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:394621c5b163",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Allarme a palazzo Chigi: “Se FI e Lega sotto il 15% premio impossibile”",
-      "url": "https://www.repubblica.it/politica/2026/08/23/news/palazzo_chigi_fi_lega_sotto_15_premio_impossibile_legge_elettorale-425542234/",
-      "image": null,
-      "summary": "Ma la leader di FdI vuole andare avanti sulla nuova legge elettorale. Il piano B: accordi dopo il voto con Vannacci o Calenda",
-      "date": "2026-08-22T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:5a24017d8e66",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "“Subito il programma”, pressing nel campo largo ma i 5 Stelle frenano",
-      "url": "https://www.repubblica.it/politica/2026/08/23/news/campo_largo_programma_m5s_frena-425542258/",
-      "image": null,
-      "summary": "L’appello di Avs e +Europa dopo la mossa del leader del Movimento. “Altrimenti primarie a rischio”. Schlein insiste su stipendi e fisco",
-      "date": "2026-08-22T23:00:00.0000000Z"
-    },
-    {
       "id": "repubblica:5aa679faf0f7",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -255,51 +255,15 @@
       "date": "2026-08-22T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:50c77b96c187",
+      "id": "repubblica:65d2ee53d373",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Manovra, la misura elettorale: meno tasse sulle tredicesime",
-      "url": "https://www.repubblica.it/economia/2026/08/23/news/manovra_detassazione_tredicesime_redditi_bassi-425542044/",
+      "title": "Superare gli eccessi woke, la questione sociale va messa al primo posto",
+      "url": "https://www.repubblica.it/politica/2026/08/23/news/superare_eccessi_woke_questione_sociale_primo_posto-425542253/",
       "image": null,
-      "summary": "Maggioranza in pressing sul governo per ridurre al 15% l’aliquota sulla mensilità natalizia per i redditi più bassi. Lega vuole la flat tax a 100 mila euro. Lettera dell’Italia insieme ad altri 5 Paesi per chiedere un...",
-      "date": "2026-08-22T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:5ff0fe93a026",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Scholz: “Che emozione il Papa a Rimini, una visita storica improntata al dialogo”",
-      "url": "https://www.repubblica.it/cronaca/2026/08/23/news/bernhard_scholz_papa_visita_meeting_rimini_intervista-425542283/",
-      "image": null,
-      "summary": "Intervista al presidente della Fondazione Meeting: “Non cerchiamo la polarizzazione, ma la possibilità di entrare nei contenuti e affrontare la complessità di situazioni spesso semplificate”",
-      "date": "2026-08-22T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:0478516a8e67",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Paura della mobilitazione, ora i russi pensano alla fuga. Medvedev: “Sono traditori”",
-      "url": "https://www.repubblica.it/esteri/2026/08/23/news/paura_nuova_mobilitazione_russi_pensano_a_fuga_medvedev_sono_traditori-425542211/",
-      "image": null,
-      "summary": "Timore di una nuova chiamata alle armi e città sotto attacco: aumentano le richieste di aiuto per lasciare il Paese",
-      "date": "2026-08-22T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:3def6f0738b1",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La mano tesa di Macron a Zelensky: “Pronti a inviare gli intercettori”",
-      "url": "https://www.repubblica.it/esteri/2026/08/23/news/vertice_volenterosi_ucraina_mano_tesa_macron_a_zelensky_invio_intercettori-425542136/",
-      "image": null,
-      "summary": "Domani vertice dei volenterosi. Il ministro degli Esteri tedesco Wadephul in Ucraina per la questione delle difese aeree. Preoccupazione tra gli alleati per il disimpegno di Trump in vista delle midterm",
+      "summary": "Non bisogna arretrare di un millimetro sul tema dei diritti ma dobbiamo guardare al ceto medio stritolato dal costo della vita",
       "date": "2026-08-22T23:00:00.0000000Z"
     },
     {
@@ -315,16 +279,64 @@
       "date": "2026-08-22T23:00:00.0000000Z"
     },
     {
-      "id": "ansa:e555798e1a6e",
-      "sourceId": "ansa",
-      "source": "ANSA",
+      "id": "repubblica:50c77b96c187",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Si riparte dai campioni, l'Inter travolge il Monza. Il Napoli batte il Genoa 0-2, ma è polemica",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/si-riparte-dai-campioni-linter-travolge-il-monza.-il-napoli-batte-il-genoa-0-2-ma-e-polemica_b4e7a2e2-e530-443c-8eb8-2c6b59954b6c.html",
+      "title": "Manovra, la misura elettorale: meno tasse sulle tredicesime",
+      "url": "https://www.repubblica.it/economia/2026/08/23/news/manovra_detassazione_tredicesime_redditi_bassi-425542044/",
       "image": null,
-      "summary": "Il Cagliari espugna Parma. Termina pari tra Udinese e Como. Oggi tocca a Juventus e Milan",
-      "date": "2026-08-22T22:32:06.0000000Z"
+      "summary": "Maggioranza in pressing sul governo per ridurre al 15% l’aliquota sulla mensilità natalizia per i redditi più bassi. Lega vuole la flat tax a 100 mila euro. Lettera dell’Italia insieme ad altri 5 Paesi per chiedere un...",
+      "date": "2026-08-22T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:394621c5b163",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Allarme a palazzo Chigi: “Se FI e Lega sotto il 15% premio impossibile”",
+      "url": "https://www.repubblica.it/politica/2026/08/23/news/palazzo_chigi_fi_lega_sotto_15_premio_impossibile_legge_elettorale-425542234/",
+      "image": null,
+      "summary": "Ma la leader di FdI vuole andare avanti sulla nuova legge elettorale. Il piano B: accordi dopo il voto con Vannacci o Calenda",
+      "date": "2026-08-22T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:0478516a8e67",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Paura della mobilitazione, ora i russi pensano alla fuga. Medvedev: “Sono traditori”",
+      "url": "https://www.repubblica.it/esteri/2026/08/23/news/paura_nuova_mobilitazione_russi_pensano_a_fuga_medvedev_sono_traditori-425542211/",
+      "image": null,
+      "summary": "Timore di una nuova chiamata alle armi e città sotto attacco: aumentano le richieste di aiuto per lasciare il Paese",
+      "date": "2026-08-22T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:5ff0fe93a026",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Scholz: “Che emozione il Papa a Rimini, una visita storica improntata al dialogo”",
+      "url": "https://www.repubblica.it/cronaca/2026/08/23/news/bernhard_scholz_papa_visita_meeting_rimini_intervista-425542283/",
+      "image": null,
+      "summary": "Intervista al presidente della Fondazione Meeting: “Non cerchiamo la polarizzazione, ma la possibilità di entrare nei contenuti e affrontare la complessità di situazioni spesso semplificate”",
+      "date": "2026-08-22T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:5a24017d8e66",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "“Subito il programma”, pressing nel campo largo ma i 5 Stelle frenano",
+      "url": "https://www.repubblica.it/politica/2026/08/23/news/campo_largo_programma_m5s_frena-425542258/",
+      "image": null,
+      "summary": "L’appello di Avs e +Europa dopo la mossa del leader del Movimento. “Altrimenti primarie a rischio”. Schlein insiste su stipendi e fisco",
+      "date": "2026-08-22T23:00:00.0000000Z"
     },
     {
       "id": "open:b7c7196dfa62",
@@ -337,18 +349,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/ikea-preowned-mercato-mobili-usati.jpg",
       "summary": "Il colosso svedese prepara un marketplace per comprare e vendere mobili di seconda mano direttamente tra privati. Dopo i test in Spagna e Norvegia, al via un nuovo progetto nel Regno Unito L'articolo Ikea come Vinted:...",
       "date": "2026-08-22T21:01:02.0000000Z"
-    },
-    {
-      "id": "ansa:fff1a02df7c4",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Indagati i genitori no vax della bambina morta per difterite",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-indagati-i-genitori_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html",
-      "image": null,
-      "summary": "Omicidio colposo per omissione. Il cuginetto ricoverato è positivo, ma 'sta migliorando'",
-      "date": "2026-08-22T20:37:53.0000000Z"
     },
     {
       "id": "open:a822a782e21e",
