@@ -1,7 +1,55 @@
 {
   "category": "cripto",
-  "updated": "2026-08-23T22:02:40.0684748Z",
+  "updated": "2026-08-23T22:34:48.2925629Z",
   "items": [
+    {
+      "id": "cryptonomist:34ac4d8f4645",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Azioni JD.com sotto pressione: Burry scommette dopo aver venduto Alibaba",
+      "url": "https://cryptonomist.ch/2026/08/24/azioni-jd-com-sotto-pressione-burry-scommette-dopo-aver-venduto-alibaba/",
+      "image": null,
+      "summary": "Le azioni JD.com si muovono in una fase di tensione: il quadro tecnico daily resta debole, mentre l’interesse fondamentale si è riacceso. Il titolo quota 29,37 dollari, sul pivot point giornaliero. La notizia che Mich...",
+      "date": "2026-08-23T22:34:18.0000000Z"
+    },
+    {
+      "id": "cryptonomist:7b43f4536d05",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Vulnerabilità seed Coldcard: 112 milioni di dollari persi, il fix non basta",
+      "url": "https://cryptonomist.ch/2026/08/24/vulnerabilita-seed-coldcard/",
+      "image": null,
+      "summary": "Chi possiede un portafoglio hardware Coldcard e ha generato il proprio seed prima di agosto potrebbe custodire una chiave privata già compromessa, senza saperlo. È lo scenario al centro della vulnerabilità seed Coldca...",
+      "date": "2026-08-23T22:30:36.0000000Z"
+    },
+    {
+      "id": "cryptonomist:bfaa4234798e",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Libri religiosi scritti da AI: il 63% dei titoli su Amazon è sospetto",
+      "url": "https://cryptonomist.ch/2026/08/24/libri-religiosi-scritti-da-ai/",
+      "image": null,
+      "summary": "Quasi due libri su tre tra quelli religiosi in vendita su Amazon sarebbero stati scritti non da persone, ma da un’intelligenza artificiale. È quanto emerge da uno studio della società di rilevamento AI Originality.ai,...",
+      "date": "2026-08-23T22:30:21.0000000Z"
+    },
+    {
+      "id": "cryptonomist:764564e5c194",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Sanzioni USA contro Iran: Teheran sfida Washington, petrolio +5%",
+      "url": "https://cryptonomist.ch/2026/08/24/sanzioni-usa-contro-iran/",
+      "image": null,
+      "summary": "Lunedì il segretario del Tesoro americano Scott Bessent terrà una conferenza stampa per illustrare nel dettaglio le nuove sanzioni USA contro Iran, definite dallo stesso Bessent come le più severe mai imposte nella st...",
+      "date": "2026-08-23T22:30:18.0000000Z"
+    },
     {
       "id": "cryptonomist:4fb24d1c8df9",
       "sourceId": "cryptonomist",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Da Seoul a Islamabad, passando per Tokyo e Hong Kong, gli aggiornamenti sulla regolamentazione crypto in Asia di questa settimana raccontano una traiettoria a due velocità. Da un lato le autorità corrono a costruire a...",
       "date": "2026-08-23T14:28:45.0000000Z"
-    },
-    {
-      "id": "cryptonomist:dbbcf0299c9c",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Exploit bridge Sandbox: perché SAND sale nonostante l’attacco da 49 miliardi?",
-      "url": "https://cryptonomist.ch/2026/08/23/exploit-bridge-sandbox/",
-      "image": null,
-      "summary": "Quasi 15 miliardi di token SAND creati dal nulla in poche ore, eppure il prezzo dell’asset è salito. È il paradosso che accompagna l’exploit bridge Sandbox individuato la notte del 22 agosto 2026 su Base e BNB Smart C...",
-      "date": "2026-08-23T14:27:12.0000000Z"
-    },
-    {
-      "id": "cryptonomist:92ef552b19ad",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Riduzione slot time Solana: la rete accelera da 400 a 350 millisecondi",
-      "url": "https://cryptonomist.ch/2026/08/23/riduzione-slot-time-solana/",
-      "image": null,
-      "summary": "Cos’è uno slot su una blockchain come Solana e perché la sua durata determina la velocità con cui una transazione viene confermata? È la domanda da cui partire per capire l’aggiornamento appena entrato in vigore sulla...",
-      "date": "2026-08-23T14:24:30.0000000Z"
-    },
-    {
-      "id": "cryptonomist:3838873ca655",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Oroscopo crypto dal 24 al 30 Agosto 2026",
-      "url": "https://cryptonomist.ch/2026/08/23/oroscopo-crypto-dal-24-al-30-agosto-2026/",
-      "image": null,
-      "summary": "Nuova settimana, nuovo oroscopo crypto dedicato alla prossima settimana che va dal 24 al 30 Agosto 2026. Questa settimana sarà caratterizzata da tra transiti: È da diversi mesi che dedichiamo spazio all’oroscopo crypt...",
-      "date": "2026-08-23T07:00:00.0000000Z"
-    },
-    {
-      "id": "cryptonomist:5c8461816cea",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Vulnerabilità Microsoft Entra ID: gravità massima 10/10, nessuna azione richiesta",
-      "url": "https://cryptonomist.ch/2026/08/23/vulnerabilita-microsoft-entra-id/",
-      "image": null,
-      "summary": "Il punteggio è il massimo possibile: 10 su 10. Quando Microsoft assegna questo voto a un bug, significa che la falla può essere sfruttata da chiunque, senza credenziali e senza che la vittima faccia nulla. È esattamen...",
-      "date": "2026-08-22T23:07:02.0000000Z"
     }
   ]
 }
