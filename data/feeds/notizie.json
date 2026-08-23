@@ -1,7 +1,19 @@
 {
   "category": "notizie",
-  "updated": "2026-08-23T05:51:45.3806919Z",
+  "updated": "2026-08-23T06:23:08.7770188Z",
   "items": [
+    {
+      "id": "open:d6a62709b9f3",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il fumo in cabina a mezz’ora dall’atterraggio: «Ho visto il suo pc andare a fuoco». Cosa è successo sul volo American Airlines",
+      "url": "https://www.open.online/2026/08/23/american-airline-incendio-pc-batteria-litio-ustionati/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/american-airlines.jpg",
+      "summary": "Sarebbero almeno quattro i passeggeri rimasti ustionati, dopo che un pc portatile ha provocato un incendio nella zona centrale dell'aereo diretto a Dallas da Atlanta. Perché le batterie al litio possono incendiarsi in...",
+      "date": "2026-08-23T06:14:21.0000000Z"
+    },
     {
       "id": "open:e6dd9812a06f",
       "sourceId": "open",
@@ -13,6 +25,18 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/hayden-panettiere-2-scaled.jpg",
       "summary": "L'attrice di 36 anni si sarebbe riavvicinata all'ex fidanzato. Solo pochi mesi fa aveva raccontato di episodi di violenza e le proprie difficoltà con alcol e depressione L'articolo Hayden Panettiere e il giallo sulle ...",
       "date": "2026-08-23T05:42:54.0000000Z"
+    },
+    {
+      "id": "ansa:b9b8bd6f2b7d",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Esce l''Iliade e l'Odissea a fumetti' tra eroi vulnerabili e divinità pop",
+      "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/08/20/esce-liliade-e-lodissea-a-fumetti-tra-eroi-vulnerabili-e-divinita-pop_f752abba-e67f-4399-abba-f3a69b9a7384.html",
+      "image": null,
+      "summary": "In libreria il 21 agosto il volume di Marcello Toninelli con la Batracomiomachia",
+      "date": "2026-08-23T05:42:23.0000000Z"
     },
     {
       "id": "open:ac400de38c5a",
@@ -51,75 +75,15 @@
       "date": "2026-08-23T02:55:11.0000000Z"
     },
     {
-      "id": "repubblica:0478516a8e67",
+      "id": "repubblica:5ff0fe93a026",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Paura della mobilitazione, ora i russi pensano alla fuga. Medvedev: “Sono traditori”",
-      "url": "https://www.repubblica.it/esteri/2026/08/23/news/paura_nuova_mobilitazione_russi_pensano_a_fuga_medvedev_sono_traditori-425542211/",
+      "title": "Scholz: “Che emozione il Papa a Rimini, una visita storica improntataal dialogo”",
+      "url": "https://www.repubblica.it/cronaca/2026/08/23/news/bernhard_scholz_papa_visita_meeting_rimini_intervista-425542283/",
       "image": null,
-      "summary": "Timore di una nuova chiamata alle armi e città sotto attacco: aumentano le richieste di aiuto per lasciare il Paese",
-      "date": "2026-08-22T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:3def6f0738b1",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La mano tesa di Macron a Zelensky: “Pronti a inviare gli intercettori”",
-      "url": "https://www.repubblica.it/esteri/2026/08/23/news/vertice_volenterosi_ucraina_mano_tesa_macron_a_zelensky_invio_intercettori-425542136/",
-      "image": null,
-      "summary": "Domani vertice dei volenterosi. Il ministro degli Esteri tedesco Wadephul in Ucraina per la questione delle difese aeree. Preoccupazione tra gli alleati per il disimpegno di Trump in vista delle midterm",
-      "date": "2026-08-22T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:5a24017d8e66",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "“Subito il programma”, pressing nel campo largo ma i 5 Stelle frenano",
-      "url": "https://www.repubblica.it/politica/2026/08/23/news/campo_largo_programma_m5s_frena-425542258/",
-      "image": null,
-      "summary": "L’appello di Avs e +Europa dopo la mossa del leader del Movimento. “Altrimenti primarie a rischio”. Schlein insiste su stipendi e fisco",
-      "date": "2026-08-22T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:65d2ee53d373",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Superare gli eccessi woke, la questione sociale va messa al primo posto",
-      "url": "https://www.repubblica.it/politica/2026/08/23/news/superare_eccessi_woke_questione_sociale_primo_posto-425542253/",
-      "image": null,
-      "summary": "Non bisogna arretrare di un millimetro sul tema dei diritti ma dobbiamo guardare al ceto medio stritolato dal costo della vita",
-      "date": "2026-08-22T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:f7da39f8bf6e",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "I fischi a Taranto un campanello, Meloni teme il bis ad Amatrice",
-      "url": "https://www.repubblica.it/politica/2026/08/23/news/meloni_fischi_taranto_amatrice-425542227/",
-      "image": null,
-      "summary": "La premier è stata contestata all’apertura dei Giochi del Mediterraneo: domani è attesa nella città del terremoto del 2016",
-      "date": "2026-08-22T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:50c77b96c187",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Manovra, la misura elettorale: meno tasse sulle tredicesime",
-      "url": "https://www.repubblica.it/economia/2026/08/23/news/manovra_detassazione_tredicesime_redditi_bassi-425542044/",
-      "image": null,
-      "summary": "Maggioranza in pressing sul governo per ridurre al 15% l’aliquota sulla mensilità natalizia per i redditi più bassi. Lega vuole la flat tax a 100 mila euro. Lettera dell’Italia insieme ad altri 5 Paesi per chiedere un...",
+      "summary": "Intervista al presidente della Fondazione Meeting: “Non cerchiamo la polarizzazione, ma la possibilità di entrare nei contenuti e affrontare la complessità di situazioni spesso semplificate”",
       "date": "2026-08-22T23:00:00.0000000Z"
     },
     {
@@ -135,15 +99,15 @@
       "date": "2026-08-22T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:5ff0fe93a026",
+      "id": "repubblica:50c77b96c187",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Scholz: “Che emozione il Papa a Rimini, una visita storica improntataal dialogo”",
-      "url": "https://www.repubblica.it/cronaca/2026/08/23/news/bernhard_scholz_papa_visita_meeting_rimini_intervista-425542283/",
+      "title": "Manovra, la misura elettorale: meno tasse sulle tredicesime",
+      "url": "https://www.repubblica.it/economia/2026/08/23/news/manovra_detassazione_tredicesime_redditi_bassi-425542044/",
       "image": null,
-      "summary": "Intervista al presidente della Fondazione Meeting: “Non cerchiamo la polarizzazione, ma la possibilità di entrare nei contenuti e affrontare la complessità di situazioni spesso semplificate”",
+      "summary": "Maggioranza in pressing sul governo per ridurre al 15% l’aliquota sulla mensilità natalizia per i redditi più bassi. Lega vuole la flat tax a 100 mila euro. Lettera dell’Italia insieme ad altri 5 Paesi per chiedere un...",
       "date": "2026-08-22T23:00:00.0000000Z"
     },
     {
@@ -156,6 +120,54 @@
       "url": "https://www.repubblica.it/politica/2026/08/23/news/vertice_berlino_attacco_piantedosi_ong_tedesche-425542248/",
       "image": null,
       "summary": "Il ministro dell’Interno prepara il bilaterale sui dublinanti. Fermo e multa per la SeaWatch. Resta lo stop a Schengen con Madrid",
+      "date": "2026-08-22T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:f7da39f8bf6e",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "I fischi a Taranto un campanello, Meloni teme il bis ad Amatrice",
+      "url": "https://www.repubblica.it/politica/2026/08/23/news/meloni_fischi_taranto_amatrice-425542227/",
+      "image": null,
+      "summary": "La premier è stata contestata all’apertura dei Giochi del Mediterraneo: domani è attesa nella città del terremoto del 2016",
+      "date": "2026-08-22T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:65d2ee53d373",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Superare gli eccessi woke, la questione sociale va messa al primo posto",
+      "url": "https://www.repubblica.it/politica/2026/08/23/news/superare_eccessi_woke_questione_sociale_primo_posto-425542253/",
+      "image": null,
+      "summary": "Non bisogna arretrare di un millimetro sul tema dei diritti ma dobbiamo guardare al ceto medio stritolato dal costo della vita",
+      "date": "2026-08-22T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:5a24017d8e66",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "“Subito il programma”, pressing nel campo largo ma i 5 Stelle frenano",
+      "url": "https://www.repubblica.it/politica/2026/08/23/news/campo_largo_programma_m5s_frena-425542258/",
+      "image": null,
+      "summary": "L’appello di Avs e +Europa dopo la mossa del leader del Movimento. “Altrimenti primarie a rischio”. Schlein insiste su stipendi e fisco",
+      "date": "2026-08-22T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:3def6f0738b1",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La mano tesa di Macron a Zelensky: “Pronti a inviare gli intercettori”",
+      "url": "https://www.repubblica.it/esteri/2026/08/23/news/vertice_volenterosi_ucraina_mano_tesa_macron_a_zelensky_invio_intercettori-425542136/",
+      "image": null,
+      "summary": "Domani vertice dei volenterosi. Il ministro degli Esteri tedesco Wadephul in Ucraina per la questione delle difese aeree. Preoccupazione tra gli alleati per il disimpegno di Trump in vista delle midterm",
       "date": "2026-08-22T23:00:00.0000000Z"
     },
     {
@@ -180,6 +192,18 @@
       "url": "https://roma.repubblica.it/cronaca/2026/08/23/news/pokemon_carte_furti_rapine_pikachu-425542277/",
       "image": null,
       "summary": "Rapine, riciclaggio, furti in casa: l’ultimo a Roma per più di 200mila euro. Così un hobby da collezionisti è diventato pericoloso",
+      "date": "2026-08-22T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:0478516a8e67",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Paura della mobilitazione, ora i russi pensano alla fuga. Medvedev: “Sono traditori”",
+      "url": "https://www.repubblica.it/esteri/2026/08/23/news/paura_nuova_mobilitazione_russi_pensano_a_fuga_medvedev_sono_traditori-425542211/",
+      "image": null,
+      "summary": "Timore di una nuova chiamata alle armi e città sotto attacco: aumentano le richieste di aiuto per lasciare il Paese",
       "date": "2026-08-22T23:00:00.0000000Z"
     },
     {
@@ -219,18 +243,6 @@
       "date": "2026-08-22T20:37:53.0000000Z"
     },
     {
-      "id": "ansa:042114238d75",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Notte della Taranta, tutto pronto per il concertone che celebra il Mediterraneo",
-      "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/22/notte-della-taranta-tutto-pronto-per-il-concertone-che-celebra-il-mediterraneo_15e748e0-4338-4c49-b2ac-42d5f1d8c7ae.html",
-      "image": null,
-      "summary": "Gli organizzatori, 'Attese 150 mila persone'",
-      "date": "2026-08-22T20:29:33.0000000Z"
-    },
-    {
       "id": "open:a822a782e21e",
       "sourceId": "open",
       "source": "Open",
@@ -241,6 +253,18 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/Gita-montagna-bimbi-.jpeg",
       "summary": "Il caso durante una salita verso la vetta del monte Fuji, in Giappone. L'uomo si è poi scusato: «Ho preso una decisione avventata» L'articolo «Papà, non ce la faccio». Molla il bimbo di 7 anni a 2mila metri e prosegue...",
       "date": "2026-08-22T20:19:27.0000000Z"
+    },
+    {
+      "id": "ansa:09963a124319",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Non solo performance, l'abbigliamento sportivo è già motivazione atletica",
+      "url": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/08/20/non-solo-performance-labbigliamento-sportivo-e-gia-motivazione-atletica_d094b615-66d5-4d1f-8f25-52b48005ba49.html",
+      "image": null,
+      "summary": "Studio sull'impatto su mindset e autostima",
+      "date": "2026-08-22T19:17:57.0000000Z"
     },
     {
       "id": "ansa:bb7198fb7eef",
@@ -414,18 +438,6 @@
       "date": "2026-08-22T15:13:31.0000000Z"
     },
     {
-      "id": "open:e48f103f919c",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Papa Leone sferza i potenti al Meeting di Rimini: «Basta guerra e tecnologie distruttive, il futuro è dei giovani» – Il video",
-      "url": "https://www.open.online/2026/08/22/meeting-rimini-papa-leone-discorso-diretta/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/Papa-Leone-Rimini-1.jpeg",
-      "summary": "Dopo la visita a San Marino e il pranzo con le monache agostiniane, il Santo Padre è arrivato all'evento di Comunione e Liberazione L'articolo Papa Leone sferza i potenti al Meeting di Rimini: «Basta guerra e tecnolog...",
-      "date": "2026-08-22T14:28:08.0000000Z"
-    },
-    {
       "id": "skytg24:Wf-jLrlg5QE",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -543,52 +555,40 @@
       "date": "2026-08-22T09:19:41.0000000Z"
     },
     {
-      "id": "ansa:6236ea47ffc9",
+      "id": "ansa:1f8195235d44",
       "sourceId": "ansa",
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Ridley Scott, 'nel mondo post-apocalittico di The Dog Stars il caos di oggi'",
-      "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/08/21/ridley-scott-nel-mondo-post-apocalittico-di-the-dog-stars-il-caos_1f164ac9-65bb-4297-a16a-4e88f367b231.html",
+      "title": "Al Lido tanta paura di guerra atomica e non solo",
+      "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/08/20/al-lido-tanta-paura-di-guerra-atomica-e-non-solo_60dfdd3a-71c5-45f5-a55d-4b0fa0737b08.html",
       "image": null,
-      "summary": "Con Elordi, Brolin e Qualley esce il 26 agosto. 'Cinema francese e italiano la mia scuola'",
-      "date": "2026-08-21T16:50:43.0000000Z"
+      "summary": "Ben tre film ne parlano, Dau, in questi giorni al centro delle polemiche, Jupiter e Bunker",
+      "date": "2026-08-21T07:47:51.0000000Z"
     },
     {
-      "id": "ansa:97d598081a72",
+      "id": "ansa:b447337d1e44",
       "sourceId": "ansa",
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Apple Music come Spotify, potrebbe etichettare i brani generati dall'IA",
-      "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/08/21/apple-music-come-spotify-potrebbe-etichettare-i-brani-generati-dallia_33fdf4dc-c479-4248-b5bc-38a013a9b188.html",
+      "title": "Lanzarote, dove vulcani, vento e oceano diventano sapori",
+      "url": "https://www.ansa.it/canale_viaggi/notizie/gusto/2026/08/20/lanzarote-dove-vulcani-vento-e-oceano-diventano-sapori_a0dbc506-55e1-42fa-9d78-356a12587fbe.html",
       "image": null,
-      "summary": "La piattaforma pronta a superare le attuali etichette sui contenuti artificiali",
-      "date": "2026-08-21T16:10:29.0000000Z"
+      "summary": "La 'cucina dell'ingegno', unica e sostenibile, riconosciuta dalla Fao",
+      "date": "2026-08-21T07:40:08.0000000Z"
     },
     {
-      "id": "ansa:de2aa95e4ce4",
+      "id": "ansa:3ba3a87ccbc0",
       "sourceId": "ansa",
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Secondo la scienza, guardare video brevi riduce l'attività decisionale del cervello",
-      "url": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/08/21/secondo-la-scienza-guardare-video-brevi-riduce-lattivita-decisionale-del-cervello_6f080099-5a34-4520-8370-ad870bc3be32.html",
+      "title": "Pochi infermieri, negli Usa via libera ai robot per le analisi del sangue",
+      "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/08/20/pochi-infermieri-negli-usa-via-libera-ai-robot-per-le-analisi-del_84f0461b-1252-4221-9f88-38a7e7202ef6.html",
       "image": null,
-      "summary": "Uno studio mostra come cambia l'attività della mente quando guardiamo le clip social",
-      "date": "2026-08-21T16:09:36.0000000Z"
-    },
-    {
-      "id": "ansa:ff9c5666281d",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Una libellula curiosa vince tra le foto che celebrano biodiversità e ricerca",
-      "url": "https://www.ansa.it/canale_scienza/notizie/scienza_arte/2026/08/21/una-libellula-curiosa-vince-tra-le-foto-che-celebrano-biodiversita-e-ricerca_66efcf4d-2aed-472b-981f-22d411d770e0.html",
-      "image": null,
-      "summary": "Nel concorso indetto dalle riviste Bmc Zoology e Bmc Ecology and Evolution",
-      "date": "2026-08-21T06:56:43.0000000Z"
+      "summary": "Individuano le vene ed effettuano i prelievi, per la Fda, 'crescente carenza di personale'",
+      "date": "2026-08-20T18:00:37.0000000Z"
     }
   ]
 }
