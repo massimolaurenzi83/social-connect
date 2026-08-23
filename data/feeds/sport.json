@@ -1,7 +1,92 @@
 {
   "category": "sport",
-  "updated": "2026-08-23T18:57:39.3620590Z",
+  "updated": "2026-08-23T19:27:23.3121122Z",
   "items": [
+    {
+      "id": "ansa-sport:15ad440ba294",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Calciomercato: Nkunku lascia il Milan, la Fiorentina su Poku",
+      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/23/calciomercato-nkunku-lascia-il-milan-la-fiorentina-su-poku_a6a8a519-63d7-4ecc-aace-47115731ed7c.html",
+      "image": null,
+      "summary": "Oosterwolde verso la Roma, Miretti corteggiato dal Besiktas e la Juve pensa a Kessie",
+      "date": "2026-08-23T19:22:53.0000000Z"
+    },
+    {
+      "id": "ansa-sport:077a4ce3143a",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Eurovolley: per le azzurre altro 3-0, ottavi a un passo",
+      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/23/eurovolley-per-le-azzurre-altro-3-0-ottavi-a-un-passo_8bb6ad3c-963b-4de6-89a5-c69189e2939b.html",
+      "image": null,
+      "summary": "Battuta anche la Svezia a Goteborg, tre vittorie su tre nel torneo",
+      "date": "2026-08-23T19:21:14.0000000Z"
+    },
+    {
+      "id": "corrieresport:3947a2123ecc",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Spalletti, che stoccata a Kolo Muani: &quot;Deve far gol, se non gioca da due anni un motivo ci sar&agrave;...&quot;",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/08/23-150749346/spalletti_che_stoccata_a_kolo_muani_deve_far_gol_se_non_gioca_da_due_anni_un_motivo_ci_sar_/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/23/174032537-bf600b44-28b1-4ce4-a9b2-f4db98c511a2.jpg",
+      "summary": "L'analisi e le dichiarazioni del tecnico della Juve dopo la vittoria di Frosinone all'esordio in campionato, con un occhio anche al mercato",
+      "date": "2026-08-23T19:08:50.0000000Z"
+    },
+    {
+      "id": "corrieresport:061a0ec15aef",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Ritorno in B amaro per Verona e Pisa, ko in casa all&#39;esordio contro Ascoli e Padova",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/08/23-150747146/ritorno_in_b_amaro_per_verona_e_pisa_ko_in_casa_all_esordio_contro_ascoli_e_padova/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/23/190050293-f2c05e61-b04b-4a45-8ded-7773c1832bbb.jpg",
+      "summary": "In attesa di Cesena-Sampdoria e Palermo-Juve Stabia, che chiuderanno il programma della 1ª giornata, le formazioni di Baroni e Bianco cadono tra le mura amiche",
+      "date": "2026-08-23T19:01:13.0000000Z"
+    },
+    {
+      "id": "skysport-yt:qvzop3kcD3Y",
+      "sourceId": "skysport-yt",
+      "source": "Sky Sport",
+      "platform": "youtube",
+      "category": "sport",
+      "title": "Eurovolley, l'intervista a Sky Sport di Julio Velasco dopo la vittoria dell'Italia contro la Svezia",
+      "url": "https://www.youtube.com/watch?v=qvzop3kcD3Y",
+      "image": "https://i.ytimg.com/vi/qvzop3kcD3Y/hqdefault.jpg",
+      "summary": "",
+      "videoId": "qvzop3kcD3Y",
+      "date": "2026-08-23T19:00:27.0000000Z"
+    },
+    {
+      "id": "ansa-sport:1b4087043d00",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Lecce corsaro in laguna, ritorno in A amaro per il Venezia",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/lecce-corsaro-in-laguna-ritorno-in-a-amaro-per-il-venezia_ad80a23d-acc3-4caa-bc8b-b544654bc430.html",
+      "image": null,
+      "summary": "Gli ospiti colpiscono nella ripresa con Gorter e Tiago Gabriel",
+      "date": "2026-08-23T18:59:01.0000000Z"
+    },
+    {
+      "id": "ansa-sport:df72518a9099",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Serie A: i tifosi del Milan ricordano Baresi al minuto 6",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-i-tifosi-del-milan-ricordano-baresi-al-minuto-6_d068677d-1a97-4e7c-90b9-8dc50960bb50.html",
+      "image": null,
+      "summary": "Cori durante la gara contro il Toro per ricordare capitano scomparso",
+      "date": "2026-08-23T18:58:34.0000000Z"
+    },
     {
       "id": "ansa-sport:86b6e94fbe90",
       "sourceId": "ansa-sport",
@@ -74,18 +159,6 @@
       "image": null,
       "summary": "Match valido per la prima giornata di campionato",
       "date": "2026-08-23T18:45:33.0000000Z"
-    },
-    {
-      "id": "ansa-sport:ba0ff3f7a760",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Serie A: a Venezia il Lecce vince 2-0, i gol di Gorter e Gabriel CRONACA E FOTO",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-a-venezia-il-lecce-vince-2-0-i-gol-di-gorter-e-gabriel-cronaca-e-foto_ad80a23d-acc3-4caa-bc8b-b544654bc430.html",
-      "image": null,
-      "summary": "Match valido per la prima giornata di campionato",
-      "date": "2026-08-23T18:38:16.0000000Z"
     },
     {
       "id": "ansa-sport:5795b68a0641",
@@ -197,18 +270,6 @@
       "date": "2026-08-23T17:30:17.0000000Z"
     },
     {
-      "id": "ansa-sport:c0d4e9cdb82f",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Calcio: 'Duri i banchi', uno striscione accoglie il ritorno del Venezia in A",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/calcio-duri-i-banchi-uno-striscione-accoglie-il-ritorno-del-venezia-in-a_77549259-cf23-4381-ba30-1091ca18ab77.html",
-      "image": null,
-      "summary": "Il modo di dire proverbiale affiancato allo sponsor dei lagunari",
-      "date": "2026-08-23T17:22:41.0000000Z"
-    },
-    {
       "id": "corrieresport:57ef81e577b3",
       "sourceId": "corrieresport",
       "source": "Corriere dello Sport",
@@ -219,18 +280,6 @@
       "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/23/172144358-567eb1d3-6c2c-4144-86aa-12f93b78991c.jpg",
       "summary": "Gol di Pubill, poi gli ospiti ribaltano la parita con Moreno e Mikautadze dal dischetto, Giuliano Simeone evita la sconfitta",
       "date": "2026-08-23T17:21:49.0000000Z"
-    },
-    {
-      "id": "ansa-sport:add253798743",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Calcio: omaggio Verona a Bagnoli, ultimo saluto prima del debutto in B",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/calcio-omaggio-verona-a-bagnoli-ultimo-saluto-prima-del-debutto-in-b_6935e0c0-15e7-4e6f-8c83-000098bc255c.html",
-      "image": null,
-      "summary": "Applausi e cori prima della partita con l'Ascoli",
-      "date": "2026-08-23T17:18:41.0000000Z"
     },
     {
       "id": "corrieresport:d483b8fd889e",
@@ -256,18 +305,6 @@
       "summary": "",
       "videoId": "KC3CKVplY0Y",
       "date": "2026-08-23T17:09:54.0000000Z"
-    },
-    {
-      "id": "ansa-sport:4fd73b7ac335",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "L'Italia chiude i Mondiali juniores su pista con 8 ori e 16 medaglie",
-      "url": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/08/23/litalia-chiude-i-mondiali-juniores-su-pista-con-8-ori-e-16-medaglie_8e91a8d3-d68d-493e-944c-33558903df50.html",
-      "image": null,
-      "summary": "Il n.1 federale Dagnoni: \"Il movimento è tutt'altro che morto\"",
-      "date": "2026-08-23T17:05:36.0000000Z"
     },
     {
       "id": "corrieresport:9f6c285a8b44",
@@ -345,30 +382,6 @@
       "date": "2026-08-23T15:03:54.0000000Z"
     },
     {
-      "id": "corrieresport:463e94472b14",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "<p>La Juve soffre ma vince a Frosinone: a Spalletti basta un gol di Bremer</p>",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/08/23-150744078/frosinone-juve_diretta_serie_a_segui_la_prima_di_spalletti_live/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/23/173948584-ce540204-1bf3-4bc5-84a2-5323df9f53b2.jpg",
-      "summary": "Il brasiliano di testa nel primo tempo sigla il gol vittoria. Nel finale brividi bianconeri per una traversa di Calvani",
-      "date": "2026-08-23T15:00:09.0000000Z"
-    },
-    {
-      "id": "corrieresport:c3730e86c1ce",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "<p>Grosso carica la Fiorentina: &quot;La Roma &egrave; forte, ma siamo pronti. Kean ci sar&agrave;&quot;</p>",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/fiorentina/2026/08/23-150744845/grosso_carica_la_fiorentina_la_roma_forte_ma_siamo_pronti_kean_ci_sar/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/23/145033363-0b9a759a-ae44-415c-ba8c-6c8c355fb552.jpg",
-      "summary": "Le parole dell'allenatore dei viola alla vigilia del match contro i giallorossi, valido per la prima giornata di Serie A",
-      "date": "2026-08-23T14:55:45.0000000Z"
-    },
-    {
       "id": "skysport-yt:QMUNG6G1q1U",
       "sourceId": "skysport-yt",
       "source": "Sky Sport",
@@ -432,19 +445,6 @@
       "summary": "",
       "videoId": "hvChGa6uExo",
       "date": "2026-08-23T07:37:16.0000000Z"
-    },
-    {
-      "id": "skysport-yt:lZYzq_i9nEg",
-      "sourceId": "skysport-yt",
-      "source": "Sky Sport",
-      "platform": "youtube",
-      "category": "sport",
-      "title": "Genoa-Napoli, De Rossi a Sky Sport: \"Giocando così ne vinceremo tante\"",
-      "url": "https://www.youtube.com/watch?v=lZYzq_i9nEg",
-      "image": "https://i.ytimg.com/vi/lZYzq_i9nEg/hqdefault.jpg",
-      "summary": "",
-      "videoId": "lZYzq_i9nEg",
-      "date": "2026-08-23T07:33:52.0000000Z"
     },
     {
       "id": "cronachespogliatoio:XYYtsiZo2Sw",

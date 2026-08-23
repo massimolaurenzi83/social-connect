@@ -1,7 +1,31 @@
 {
   "category": "notizie",
-  "updated": "2026-08-23T18:57:39.4008113Z",
+  "updated": "2026-08-23T19:27:23.2938853Z",
   "items": [
+    {
+      "id": "ansa:fca8b37dfd90",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "ll governo proroga lo sconto sulle accise, ma solo di un giorno in più",
+      "url": "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/23/cresce-ancora-il-prezzo-dei-carburanti-gasolio-sopra-i-22-in-autostrada_88295d67-975d-4e9b-98a8-a2040222bc59.html",
+      "image": null,
+      "summary": "Allo studio altre misure. Schlein sfida Meloni: 'Non basta, tassare extra-profitti'",
+      "date": "2026-08-23T19:06:53.0000000Z"
+    },
+    {
+      "id": "open:6d19292eec51",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Over 85 al volante, Salvini ci ripensa: salta il divieto di autostrada. Le scuole guida: «Rischio caos per il rinnovo delle patenti»",
+      "url": "https://www.open.online/2026/08/23/regole-guida-over-85-autostrada-salvini-mit-patenti/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/PAtente-anziani.jpeg",
+      "summary": "Il dietrofront del ministero dei Trasporti dopo le polemiche. Ma restano gli inasprimenti sull'uso dello smartphone L'articolo Over 85 al volante, Salvini ci ripensa: salta il divieto di autostrada. Le scuole guida: «...",
+      "date": "2026-08-23T19:01:12.0000000Z"
+    },
     {
       "id": "ansa:238d8662485c",
       "sourceId": "ansa",
@@ -160,30 +184,6 @@
       "date": "2026-08-23T16:43:25.0000000Z"
     },
     {
-      "id": "ansa:fca8b37dfd90",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Cresce ancora il prezzo dei carburanti, gasolio sopra i 2,2 in autostrada",
-      "url": "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/23/cresce-ancora-il-prezzo-dei-carburanti-gasolio-sopra-i-22-in-autostrada_88295d67-975d-4e9b-98a8-a2040222bc59.html",
-      "image": null,
-      "summary": "Su strada a 2,130. La benzina a 2,010 in strada e a 2,087 in autostrada. Lo sconto sul diesel prorogato fino al 26 agosto",
-      "date": "2026-08-23T16:40:46.0000000Z"
-    },
-    {
-      "id": "repubblica:b413677022f4",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "“Tania Terrin poteva essere salvata?”: la mamma chiede il fascicolo sulla denuncia a Dino Keber",
-      "url": "https://milano.repubblica.it/cronaca/2026/08/23/news/tania_terrin_femminicidio_indagini_denunce_dino_keber-425543133/",
-      "image": null,
-      "summary": "L’avvocato della famiglia della donna uccisa a Ferragosto dall’ex fidanzato a Camponogara: “Vogliamo capire se ci fosse stato spazio per una misura cautelare più efficace!",
-      "date": "2026-08-23T16:35:51.0000000Z"
-    },
-    {
       "id": "skytg24:7lS6QH4q0iw",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -276,10 +276,10 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Codice della Strada, intervento del Mit: “Nessuna limitazione agli over 85”",
+      "title": "Retromarcia di Salvini sugli over 85 alla guida: “Non ci saranno limiti”",
       "url": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/08/23/news/codice_della_strada_intervento_del_mit_nessuna_limitazione_agli_over_85-425543073/",
       "image": null,
-      "summary": "Nuova retromarcia dopo quella sulla Pec degli automobilisti: nel testo finale non ci sarà il divieto di autostrada e il limite di guida a 100 chilometri da casa",
+      "summary": "Il ministro fa togliere i vincoli dalla bozza del nuovo Codice: “Controlli più severi”. I medici: “Vanno verificati i riflessi”",
       "date": "2026-08-23T15:34:10.0000000Z"
     },
     {
@@ -418,6 +418,18 @@
       "date": "2026-08-23T12:52:13.0000000Z"
     },
     {
+      "id": "repubblica:90b5e8c0fa8a",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il cuginetto contagiato è fuori pericolo. I medici: “Salvo solo grazie al siero”",
+      "url": "https://palermo.repubblica.it/cronaca/2026/08/23/news/difterite_no-vax_palermo_cuginetto_anna_rosa_contagio_fuori_pericolo-425542911/",
+      "image": null,
+      "summary": "Il bambino ha contratto anche lui la difterite. Le sue condizioni non sono gravi perché aveva già fatto le prime dosi",
+      "date": "2026-08-23T12:18:22.0000000Z"
+    },
+    {
       "id": "skytg24:HJBgcYgobYk",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -491,18 +503,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/tony-boy-arrestato.jpg",
       "summary": "Il trapper 26enne di Padova si era messo anche a riprendere la perquisizione, mentre gli agenti trovavano in casa sua droga e armi. La lunga lista di accuse per cui è finito in carcere L'articolo Tony Boy arrestato, l...",
       "date": "2026-08-23T10:11:57.0000000Z"
-    },
-    {
-      "id": "open:dc2be7d2c9f4",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Pensione dalla nascita, il governo Meloni pensa a un fondo per ogni nuovo nato: come funziona e chi verserà i soldi",
-      "url": "https://www.open.online/2026/08/23/fondo-pensione-nascita-piano-governo-meloni/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/fondo-pensione-nascita-piano-governo-meloni.jpg",
-      "summary": "La proposta della ministra Calderone prende spunto dal modello tedesco. Previsto un piccolo contributo iniziale dello Stato, poi versamenti volontari di genitori e familiari fino ai 18 anni L'articolo Pensione dalla n...",
-      "date": "2026-08-23T09:49:42.0000000Z"
     },
     {
       "id": "ansa:b9b8bd6f2b7d",
