@@ -1,30 +1,54 @@
 {
   "category": "sport",
-  "updated": "2026-08-23T14:39:50.2370864Z",
+  "updated": "2026-08-23T15:00:35.4688032Z",
   "items": [
-    {
-      "id": "ansa-sport:5d0f9b8c199e",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Calcio: Fiorentina; Grosso 'siamo pronti per questa difficile sfida, anche Kean'",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/calcio-fiorentina-grosso-siamo-pronti-per-questa-difficile-sfida-anche_42f309ed-f415-415a-a72e-5434bf37ae1d.html",
-      "image": null,
-      "summary": "Viola al completo domani sera all'esordio all'Olimpico contro la Roma",
-      "date": "2026-08-23T14:17:01.0000000Z"
-    },
     {
       "id": "ansa-sport:070095dc502a",
       "sourceId": "ansa-sport",
       "source": "ANSA Sport",
       "platform": "rss",
       "category": "sport",
-      "title": "Calcio: Tedesco, 'Bologna, finalmente si comincia, Lazio squadra forte'",
+      "title": "Bologna: Tedesco, 'finalmente si comincia, Lazio squadra forte'",
       "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/calcio-tedesco-bologna-finalmente-si-comincia-lazio-squadra-forte_a0024ddb-2a0c-42af-a3fc-59d0e9400f8d.html",
       "image": null,
       "summary": "'Qualcosa ancora ci manca, ma è l'inizio di un percorso'",
-      "date": "2026-08-23T14:14:36.0000000Z"
+      "date": "2026-08-23T14:42:14.0000000Z"
+    },
+    {
+      "id": "ansa-sport:12044b6cff23",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Atletica: Diamond League, Fabbri vince nel peso a Chorzow",
+      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/23/atletica-diamond-league-fabbri-vince-nel-peso-a-chorzow_415d4b5a-45d6-401f-85aa-d67c568a64e6.html",
+      "image": null,
+      "summary": "Altro successo per l'azzurro, terza Fantini nel martello",
+      "date": "2026-08-23T14:42:08.0000000Z"
+    },
+    {
+      "id": "ansa-sport:5d0f9b8c199e",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Fiorentina: Grosso, 'siamo pronti per questa difficile sfida, anche Kean'",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/calcio-fiorentina-grosso-siamo-pronti-per-questa-difficile-sfida-anche_42f309ed-f415-415a-a72e-5434bf37ae1d.html",
+      "image": null,
+      "summary": "Viola al completo domani sera all'esordio all'Olimpico contro la Roma",
+      "date": "2026-08-23T14:41:20.0000000Z"
+    },
+    {
+      "id": "ansa-sport:d3af9853ffda",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Addio a Mattarelli, il decano dei campioni olimpici",
+      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/23/addio-a-mattarelli-il-decano-dei-campioni-olimpici_6d701b35-08fe-4408-8264-a3a080ad07f8.html",
+      "image": null,
+      "summary": "Aveva 98 anni, vinse l'oro a Tokyo 1964 nel tiro a volo, poi fondò un'azienda del settore",
+      "date": "2026-08-23T14:39:54.0000000Z"
     },
     {
       "id": "corrieresport:a5ff6adbfe12",
@@ -88,18 +112,6 @@
       "date": "2026-08-23T12:57:23.0000000Z"
     },
     {
-      "id": "ansa-sport:4e79fd34b446",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Tennis: Tiafoe in finale a Cincinnati, affronterà Fils",
-      "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/23/tiafoe-in-finale-a-cincinnati-affrontera-fils_822b2812-867e-4c0d-9bcf-9a612762ad9b.html",
-      "image": null,
-      "summary": "Sfida tutta Usa per il titolo femminile tra Pegula e Gauff",
-      "date": "2026-08-23T12:52:48.0000000Z"
-    },
-    {
       "id": "ansa-sport:476255692e7f",
       "sourceId": "ansa-sport",
       "source": "ANSA Sport",
@@ -134,6 +146,18 @@
       "image": null,
       "summary": "Il francese era fuori dal progetto di Amorim, per lui ritorno in Germania",
       "date": "2026-08-23T12:49:57.0000000Z"
+    },
+    {
+      "id": "corrieresport:5533b89b355f",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "34&deg; Edizione Scopigno Cup: la Roma si prende la sua 8&ordf; Scopigno Cup della storia",
+      "url": "https://www.corrieredellosport.it/news/calcio/giovanili/2026/08/23-150744335/34_edizione_scopigno_cup_la_roma_si_prende_la_sua_8_scopigno_cup_della_storia/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/23/144326665-77e443ad-1f89-4d33-8114-f939e232a94d.jpeg",
+      "summary": "Fiorentina battuta 5-0 In finale. Formichetti: “È stato un grande torneo”",
+      "date": "2026-08-23T12:38:00.0000000Z"
     },
     {
       "id": "ansa-sport:afc6c0ab3f5c",
@@ -266,18 +290,6 @@
       "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/23/093821603-bc05d97c-0fa3-4b10-b82f-efa18e71f633.jpg",
       "summary": "Il numero 10 non è fuori squadra, ma sulla lista dei vendibili. Per il fancese ci spera anche il Newcastle",
       "date": "2026-08-23T09:45:04.0000000Z"
-    },
-    {
-      "id": "corrieresport:109b447860c5",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "La Juve sul vice di Vicario: si tratta Grabara",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/08/23-150736871/la_juve_sul_vice_di_vicario_si_tratta_grabara/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/23/092055098-154795a1-9d6a-48ba-abe1-1468ececbdd6.jpg",
-      "summary": "I bianconeri chiamano il Wolfsburg. Il polacco può liberare Perin",
-      "date": "2026-08-23T09:34:44.0000000Z"
     },
     {
       "id": "skysport-yt:WgHoABL83HE",
@@ -433,18 +445,6 @@
       "summary": "",
       "videoId": "fAG2TrHZy3I",
       "date": "2026-08-22T23:45:35.0000000Z"
-    },
-    {
-      "id": "ansa-sport:e555798e1a6e",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Si riparte dai campioni, l'Inter travolge il Monza. Il Napoli batte il Genoa 0-2, ma è polemica",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/si-riparte-dai-campioni-linter-travolge-il-monza.-il-napoli-batte-il-genoa-0-2-ma-e-polemica_b4e7a2e2-e530-443c-8eb8-2c6b59954b6c.html",
-      "image": null,
-      "summary": "Il Cagliari espugna Parma. Termina pari tra Udinese e Como. Oggi tocca a Juventus e Milan",
-      "date": "2026-08-22T22:32:06.0000000Z"
     },
     {
       "id": "cronachespogliatoio:XYYtsiZo2Sw",
