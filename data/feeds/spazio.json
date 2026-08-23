@@ -1,7 +1,19 @@
 {
   "category": "spazio",
-  "updated": "2026-08-23T15:54:29.5699963Z",
+  "updated": "2026-08-23T16:21:32.3437088Z",
   "items": [
+    {
+      "id": "astronautinews:9ff4fdac89ed",
+      "sourceId": "astronautinews",
+      "source": "AstronautiNEWS",
+      "platform": "rss",
+      "category": "spazio",
+      "title": "FLEX fa il pieno e riceve l’adattatore per il lancio",
+      "url": "https://www.astronautinews.it/2026/08/flex-fa-il-pieno-e-riceve-ladattatore-per-il-lancio/",
+      "image": "https://www.astronautinews.it/wp-content/uploads/2026/08/FLEX_brings_plant_health_into_focus_pillars.jpg",
+      "summary": "Il satellite dell'Agenzia spaziale europea (ESA) FLEX per lo studio della salute della vegetazione terrestre, nei giorni scorsi è stato rifornito di propellenti ed è stato unito al suo adattatore per il lancio. Queste...",
+      "date": "2026-08-23T16:00:00.0000000Z"
+    },
     {
       "id": "astronautinews:b2adea5bd1f7",
       "sourceId": "astronautinews",
@@ -133,18 +145,6 @@
       "image": "https://www.astronautinews.it/wp-content/uploads/2026/07/rovers.jpg",
       "summary": "Con una nota pubblicata martedì 30 giugno 2026, l'Agenzia spaziale statunitense (NASA) ha comunicato di aver selezionato tre società per far arrivare quattro nuove missioni sulla superficie della Luna. Astrobotic, Fir...",
       "date": "2026-07-06T16:00:00.0000000Z"
-    },
-    {
-      "id": "astronautinews:fd8be5a4b99b",
-      "sourceId": "astronautinews",
-      "source": "AstronautiNEWS",
-      "platform": "rss",
-      "category": "spazio",
-      "title": "Aggiornamenti dal sistema solare: giugno 2026",
-      "url": "https://www.astronautinews.it/2026/06/aggiornamenti-dal-sistema-solare-giugno-2026/",
-      "image": "https://www.astronautinews.it/wp-content/uploads/2017/05/edu_solar_system_large_0.png",
-      "summary": "Il lieto fine non è arrivato: MAVEN è finita ufficialmente, vano qualsiasi recupero della sonda. Le comunicazioni si erano perse a dicembre 2025, la NASA ha decretato la conclusione della missione. Tianwen-2 ha raggiu...",
-      "date": "2026-06-30T19:12:00.0000000Z"
     }
   ]
 }
