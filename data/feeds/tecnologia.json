@@ -1,7 +1,19 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-23T09:20:38.7540450Z",
+  "updated": "2026-08-23T09:49:39.5539788Z",
   "items": [
+    {
+      "id": "hdblog:70a73d5ec500",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "La NASA insegna ai satelliti a orientarsi nello spazio senza GPS",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n668086/nasa-starling-navigazione-senza-gps/",
+      "image": null,
+      "summary": "FALCON usa satelliti e detriti come riferimenti per navigare autonomamente nello spazio.",
+      "date": "2026-08-23T09:35:00.0000000Z"
+    },
     {
       "id": "hdblog:b908e2c648c0",
       "sourceId": "hdblog",
@@ -183,18 +195,6 @@
       "date": "2026-08-23T06:55:00.0000000Z"
     },
     {
-      "id": "hdblog:fa081a622820",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Microsoft porta Copilot nelle chat Teams: può scrivere il codice",
-      "url": "https://www.hdblog.it/microsoft/articoli/n668081/github-copilot-microsoft-teams-codice/",
-      "image": null,
-      "summary": "Copilot usa le conversazioni Teams per sviluppare funzioni, correggere bug e preparare pull request.",
-      "date": "2026-08-23T06:25:00.0000000Z"
-    },
-    {
       "id": "tomshw:64da0869306d",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -229,18 +229,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/108955/tomshw-offer-898453.png",
       "summary": "La GIGABYTE B850 Gaming X WiFi6E costa 170,99€ su Amazon, anziché 270,22€, con uno sconto del 37% e un risparmio di 99,23€. È una base AM5 attrezzata per assemblare un PC Ryzen 9000 veloce oggi e semp...",
       "date": "2026-08-22T18:04:07.0000000Z"
-    },
-    {
-      "id": "tomshw:95989c58ecbe",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Thrustmaster T248R a 249,99€ con LCD e 3,1 Nm per sentire ogni curva",
-      "url": "https://www.tomshw.it/offerte/thrustmaster-t248r-a-24999eur-con-lcd-e-31-nm-per-sentire-ogni-curva",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108954/tomshw-offer-898443.png",
-      "summary": "Il Thrustmaster T248R costa 249,99€ su Amazon, invece dei 299,99€ di listino, con uno sconto del 17%. Force Feedback ibrido, display LCD e pedaliera magnetica rendono le gare su PS5 e PC più precise e...",
-      "date": "2026-08-22T17:33:49.0000000Z"
     },
     {
       "id": "dday:52a4c636c00d",
@@ -315,6 +303,18 @@
       "date": "2026-08-21T10:06:00.0000000Z"
     },
     {
+      "id": "tomshw:9f03f2a46622",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Simula l'accoltellamento per rubare un PC gaming: indagato",
+      "url": "https://www.tomshw.it/altro/pc-gaming-avrebbe-tentato-il-furto-e-avrebbe-finto-l-accoltellamento",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108837/news-flash-884770.png",
+      "summary": "Un presunto furto di un PC gaming, una grave ferita all’addome e il racconto di un accoltellamento che le prove avrebbero poi smentito. È la sequenza ricostruita dalla polizia di Lapeer, secondo la qu...",
+      "date": "2026-08-21T09:39:39.0000000Z"
+    },
+    {
       "id": "dday:7bdcb9e824d5",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -387,18 +387,6 @@
       "date": "2026-08-21T07:30:00.0000000Z"
     },
     {
-      "id": "tomshw:9b87019d88b0",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Atari ST, il Public Floppy Database è ora aperto a tutti sul web",
-      "url": "https://www.tomshw.it/hardware/atari-st-il-public-floppy-database-e-ora-aperto-a-tutti-sul-web",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108786/doubledragon_atarist.jpg",
-      "summary": "Dal 21 luglio 2026, chi vuole esplorare il patrimonio software dell’Atari ST può cercare, consultare e scaricare immagini di dischetti attraverso il browser web pubblico dell’Atari...",
-      "date": "2026-08-21T07:13:52.0000000Z"
-    },
-    {
       "id": "tomshw:835251b33d18",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -435,6 +423,18 @@
       "summary": "",
       "videoId": "tsHupFsTinI",
       "date": "2026-08-19T20:17:45.0000000Z"
+    },
+    {
+      "id": "tomshw:0e10dc411453",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Clive Barker’s Hellraiser: Revival su Switch 2 l'8 ottobre",
+      "url": "https://www.tomshw.it/videogioco/clive-barker-s-hellraiser-revival-arriva-su-nintendo-switch-2-l-8",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108339/ar42el.jpg",
+      "summary": "Clive Barker’s Hellraiser: Revival arriverà anche su Nintendo Switch 2 l’8 ottobre 2026, senza ritardi rispetto alle altre edizioni. Saber Interactive e Boss Team Games hanno confermato che il gioco d...",
+      "date": "2026-08-19T12:37:14.0000000Z"
     },
     {
       "id": "techprincess:3rUCexZxVQU",

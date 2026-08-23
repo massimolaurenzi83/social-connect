@@ -1,27 +1,63 @@
 {
   "category": "calcio",
-  "updated": "2026-08-23T09:20:38.7471525Z",
+  "updated": "2026-08-23T09:49:39.5979298Z",
   "items": [
     {
-      "id": "fcinternews:3c6fa85e5559",
+      "id": "fcinternews:a98fce83271c",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "CdS - Roma, l'arrivo di Oosterwolde allontana Luis Henrique: la situazione",
+      "url": "https://www.fcinternews.it/rassegna/calciomercato-inter-roma-luis-henrique-oosterwolde-1016660",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/18/18f73f285bffb8d9f36c5d6e6d0fc0e8-66890-oooz0000.jpeg",
+      "summary": "La Roma ha individuato il profilo giusto per completare la fascia sinistra e la scelta potrebbe avere conseguenze dirette sul mercato dell'Inter.",
+      "date": "2026-08-23T09:40:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:6083151a4cbe",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "TS - Esposito bestiale, Zielinski a due facce. Bastoni da rivedere: le pagelle",
+      "url": "https://www.fcinternews.it/rassegna/ts-inter-monza-pagelle-1016662",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/66/66cd2a834b81f94ff85fd63296da3706-62545-oooz0000.jpeg",
+      "summary": "L’Inter supera il Monza per 4-1 e nelle pagelle di Tuttosport sono soprattutto i giovani e le nuove soluzioni di Chivu a prendersi la scena. Il migliore è ancora una volta Pio Esposito (7,5).",
+      "date": "2026-08-23T09:30:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:32fc15b829ef",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "GdS - Zielinski nella storia: 12 stagioni di fila a segno in Serie A",
+      "url": "https://www.fcinternews.it/rassegna/gds-zielinski-storia-12-stagioni-fila-segno-seriea-1016669",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3c/3c4574e86f9eb653cb81b3cdac789273-51925-612o744o1681o1814z12f3.jpeg",
+      "summary": "Piotr Zielinski entra nella storia della Serie A.",
+      "date": "2026-08-23T09:20:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:4c383f35bfd8",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "Catania, Longo: \"Inter U23 avversaria da prendere con le molle\"",
-      "url": "https://m.fcinternews.it/l-avversario/catania-longo-inter-u23-avversaria-prendere-molle-1016668",
+      "url": "https://www.fcinternews.it/l-avversario/catania-longo-inter-u23-avversaria-prendere-molle-1016668",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/36/36dced9fe9aa46a7e6e693a06cad9bf5-75111-531o120o1221o810z0a7a.jpeg",
       "summary": "Scatta alle ore 18 dallo stadio Massimino di Catania il campionato dell'Inter U23, che debutterà sul campo di una delle principali favorite per la promozione come la squadra di Emilio Longo.",
       "date": "2026-08-23T09:10:07.0000000Z"
     },
     {
-      "id": "fcinternews:ea89a496ece1",
+      "id": "fcinternews:6e4dd5e2de07",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "Diouf a SM: \"Chivu ha ragione, siamo la squadra da battere. Che gol Pio\"",
-      "url": "https://m.fcinternews.it/copertina/diouf-i-sm-i-chivu-ragione-squadra-battere-gol-pio-1016666",
+      "url": "https://www.fcinternews.it/copertina/diouf-i-sm-i-chivu-ragione-squadra-battere-gol-pio-1016666",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/0f/0f4dc7d8c356033fb1368a07f6561123-32888-745o106o1825o1187z0f17.jpeg",
       "summary": "Andy Diouf, eletto miglior giocatore della gara di ieri tra Inter e Monza, ha parlato anche ai microfoni di Sport Mediaset dopo il debutto vincente della formazione di Cristian Chivu in campionato contro il Monza, dov...",
       "date": "2026-08-23T09:02:10.0000000Z"
@@ -39,13 +75,13 @@
       "date": "2026-08-23T08:52:46.0000000Z"
     },
     {
-      "id": "fcinternews:5ba54b4f715b",
+      "id": "fcinternews:04c86f9a211a",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "Stones-Thuram, siparietto in panchina prima di Inter-Monza: cosa è successo",
-      "url": "https://m.fcinternews.it/focus/stones-thuram-siparietto-panchina-inter-monza-1016659",
+      "url": "https://www.fcinternews.it/focus/stones-thuram-siparietto-panchina-inter-monza-1016659",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/32/32e661b61f244e104ec36943ea482f5f-71810-oooz0000.jpeg",
       "summary": "Debutto a San Siro per John Stones. Il difensore inglese è subentrato nel secondo tempo al posto di Manuel Akanji, prendendo posizione al centro della difesa nella sfida contro il Monza e ricevedendo l'affetto del suo...",
       "date": "2026-08-23T08:49:10.0000000Z"
@@ -63,25 +99,25 @@
       "date": "2026-08-23T08:39:00.0000000Z"
     },
     {
-      "id": "fcinternews:96d82113b3ce",
+      "id": "fcinternews:5b64cc3659da",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "TS - Lautaro blindato, un altro colpo in attacco? Occhio a Chiesa",
-      "url": "https://m.fcinternews.it/in-primo-piano/calciomercato-inter-news-lautaro-chiesa-1016658",
+      "url": "https://www.fcinternews.it/in-primo-piano/calciomercato-inter-news-lautaro-chiesa-1016658",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/49/497c8df33f89baeb48e084cfb6d7920b-65779-oooz0000.jpeg",
       "summary": "La parola fine sul futuro di Lautaro Martinez è arrivata direttamente da Beppe Marotta, prima del fischio d’inizio di Inter-Monza.",
       "date": "2026-08-23T08:36:14.0000000Z"
     },
     {
-      "id": "fcinternews:0cc90bf0aec0",
+      "id": "fcinternews:0fc0a927c169",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "GdS - Boom Calhanoglu, golazo e doppio record. E il futuro può aspettare",
-      "url": "https://m.fcinternews.it/focus/inter-monza-calhanoglu-gol-record-1016654",
+      "url": "https://www.fcinternews.it/focus/inter-monza-calhanoglu-gol-record-1016654",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d7/d7055f4bb3843bf05206c6656ff93bdd-56178-oooz0000.jpeg",
       "summary": "L’Inter riparte da Hakan Calhanoglu. È il centrocampista turco, uno degli uomini chiave dei recenti successi nerazzurri, a dettare subito i tempi della nuova stagione.",
       "date": "2026-08-23T08:22:03.0000000Z"
@@ -111,25 +147,25 @@
       "date": "2026-08-23T08:09:16.0000000Z"
     },
     {
-      "id": "fcinternews:02302f35c4e9",
+      "id": "fcinternews:bb0324d5680d",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "CdS - Moviola di Inter-Monza: ecco perché il gol di Calhanoglu è regolare",
-      "url": "https://m.fcinternews.it/rassegna/cds-moviola-inter-monza-gol-calhanoglu-1016656",
+      "url": "https://www.fcinternews.it/rassegna/cds-moviola-inter-monza-gol-calhanoglu-1016656",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/91/919a6b82688d86c3bb8906aaa2b92692-11312-899o167o1895o1163z101c.jpeg",
       "summary": "Direzione serena e senza particolari difficoltà per Livio Marinelli in Inter-Monza.",
       "date": "2026-08-23T08:07:32.0000000Z"
     },
     {
-      "id": "fcinternews:4d1c72faaa5b",
+      "id": "fcinternews:d4a3b23cde4f",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "CdS - Dal Monza un messaggio per l'Inter. I tre inglesi come rimedio",
-      "url": "https://m.fcinternews.it/rassegna/cds-inter-monza-analisi-1016655",
+      "url": "https://www.fcinternews.it/rassegna/cds-inter-monza-analisi-1016655",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/de/de9d39845b7ecc76dd21ca15ea2fc58d-56952-oooz0000.jpeg",
       "summary": "L’Inter debutta in campionato con un 4-1 al Monza, ma il risultato finale non deve nascondere le difficoltà del primo tempo. Questa è la tesi del Corriere dello Sport.",
       "date": "2026-08-23T07:53:48.0000000Z"
@@ -147,13 +183,13 @@
       "date": "2026-08-23T07:48:46.0000000Z"
     },
     {
-      "id": "fcinternews:41ceda347d38",
+      "id": "fcinternews:2f56c9ad8422",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "CdS - Ma quale futuro, Esposito è il presente. Chivu (oltre Mancini) se lo gode",
-      "url": "https://m.fcinternews.it/rassegna/cds-inter-monza-pio-esposito-chivu-1016657",
+      "url": "https://www.fcinternews.it/rassegna/cds-inter-monza-pio-esposito-chivu-1016657",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d0/d04b04518f7ec2d005569f21944c0c10-33281-oooz0000.jpeg",
       "summary": "Il gol di tacco contro il Monza è stato il momento più spettacolare di una prestazione molto più completa.",
       "date": "2026-08-23T07:38:17.0000000Z"
@@ -171,13 +207,13 @@
       "date": "2026-08-23T07:34:00.0000000Z"
     },
     {
-      "id": "fcinternews:bee1701faf52",
+      "id": "fcinternews:a7c42b4644d7",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "GdS - Lautaro non brillante, ma resta al centro del mondo Inter: Marotta chiude al Barcellona",
-      "url": "https://m.fcinternews.it/rassegna/inter-news-lautaro-marotta-barcellona-1016653",
+      "url": "https://www.fcinternews.it/rassegna/inter-news-lautaro-marotta-barcellona-1016653",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c5/c5bf6f6266789c56089a11ad8d0fadf3-99018-oooz0000.jpeg",
       "summary": "L’Inter si stringe attorno al suo capitano. Lautaro Martinez resta a Milano e continuerà a essere il punto di riferimento tecnico e carismatico della squadra.",
       "date": "2026-08-23T07:25:58.0000000Z"
@@ -195,18 +231,6 @@
       "date": "2026-08-23T07:13:00.0000000Z"
     },
     {
-      "id": "fcinternews:6ed98019f492",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "GdS - Inter-Monza, Esposito incanta alla prima. Diouf promosso, tre insufficienze",
-      "url": "https://m.fcinternews.it/rassegna/gds-inter-monza-pagelle-1016650",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/61/61793053fcb1dfecb6dc24fa7aaeca35-78588-oooz0000.jpeg",
-      "summary": "L’Inter inaugura il campionato con un convincente 4-1 al Monza e, nelle pagelle de La Gazzetta dello Sport, fioccano voti alti.",
-      "date": "2026-08-23T07:12:36.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:538e5a6a2ab3",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -217,18 +241,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/08/23/064032138-e29ce0c5-6e0a-4ef9-809c-820d904e3d0c.jpg",
       "summary": "Voti e giudizi per nerazzurri e brianzoli dopo la sfida di San Siro nella prima giornata di campionato",
       "date": "2026-08-23T07:01:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:83c09ea3b56f",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "GdS - La moviola di Inter-Monza, il gol di Calhanoglu è regolare. Marinelli promosso",
-      "url": "https://m.fcinternews.it/rassegna/gds-inter-monza-moviola-1016651",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/38/382208a8fc034ae3ec8c5b020836b2c9-12942-oooz0000.jpeg",
-      "summary": "La direzione di gara di Marinelli in Inter-Monza viene giudicata positivamente da La Gazzetta dello Sport. L’arbitro riceve 7, mentre Di Gioia e Palermo, al VAR, vengono valutati con 6,5.",
-      "date": "2026-08-23T06:58:56.0000000Z"
     },
     {
       "id": "calciomercato-it:77782a0a1db8",
@@ -253,18 +265,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/08/23/064443125-9a1dc1ea-7732-47ff-af21-3b0ed617ec66.jpg",
       "summary": "I voti della sfida di Marassi tra la formazioni di De Rossi e Allegri",
       "date": "2026-08-23T06:44:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:ba7cc3250cc2",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "GdS - Esposito e altri dieci, Pio è già il presente. L'Inter lo blinda con il rinnovo",
-      "url": "https://m.fcinternews.it/focus/gds-inter-monza-pio-esposito-1016652",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/12/122a9ef574267af6b1d23588e6ffa216-78010-oooz0000.jpeg",
-      "summary": "Pio Esposito e altri dieci. È questo il concetto che emerge dall’analisi de La Gazzetta dello Sport dopo il debutto vincente dell’Inter contro il Monza.",
-      "date": "2026-08-23T06:43:30.0000000Z"
     },
     {
       "id": "tuttosport-calcio:2f74ef9ef3e4",
