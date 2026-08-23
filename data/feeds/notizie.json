@@ -1,7 +1,68 @@
 {
   "category": "notizie",
-  "updated": "2026-08-23T16:21:32.3655030Z",
+  "updated": "2026-08-23T16:49:30.4768601Z",
   "items": [
+    {
+      "id": "open:7eba81cef8e6",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Russia-Ucraina, il nuovo piano di pace Usa. Ma Zelensky avverte: «Putin mobiliterà altri 300mila russi» – La diretta",
+      "url": "https://www.open.online/2026/08/23/guerra-russia-ucraina-elezioni-aggiornamenti-23-agosto/",
+      "image": "https://static.open.online/wp-content/uploads/2025/11/piano-donald-trump-pace-ucraina-volodymyr-zelensky-vladimir-putin-crimea-donbass.jpg",
+      "summary": "Il presidente ucraino annuncia la nuova proposta negoziale e allontana le elezioni in patria: «Spaccherebbero il Pasee» L'articolo Russia-Ucraina, il nuovo piano di pace Usa. Ma Zelensky avverte: «Putin mobiliterà alt...",
+      "date": "2026-08-23T16:45:44.0000000Z"
+    },
+    {
+      "id": "ansa:fca8b37dfd90",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Cresce ancora il prezzo dei carburanti, gasolio sopra i 2,2 in autostrada",
+      "url": "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/23/cresce-ancora-il-prezzo-dei-carburanti-gasolio-sopra-i-22-in-autostrada_88295d67-975d-4e9b-98a8-a2040222bc59.html",
+      "image": null,
+      "summary": "Su strada a 2,130. La benzina a 2,010 in strada e a 2,087 in autostrada. Lo sconto sul diesel prorogato fino al 26 agosto",
+      "date": "2026-08-23T16:40:46.0000000Z"
+    },
+    {
+      "id": "ansa:a965e6a011b0",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Auto contro un platano, muore una bambina di 11 anni, gravissima la sorellina",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/auto-contro-platano-gravissime-due-sorelline_9ebc49a5-be8e-4d19-8aba-8e8a9693e760.html",
+      "image": null,
+      "summary": "E' accaduto questo primo pomeriggio in Friuli. Alla guida c'era il padre",
+      "date": "2026-08-23T16:35:08.0000000Z"
+    },
+    {
+      "id": "skytg24:7lS6QH4q0iw",
+      "sourceId": "skytg24",
+      "source": "Sky TG24",
+      "platform": "youtube",
+      "category": "notizie",
+      "title": "Serbia, UE in aiuto per l'incendio delle sabbie di Deliblato",
+      "url": "https://www.youtube.com/watch?v=7lS6QH4q0iw",
+      "image": "https://i.ytimg.com/vi/7lS6QH4q0iw/hqdefault.jpg",
+      "summary": "",
+      "videoId": "7lS6QH4q0iw",
+      "date": "2026-08-23T16:30:28.0000000Z"
+    },
+    {
+      "id": "repubblica:946a176727fa",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "In Olanda vince Norris, Antonelli allunga nel Mondiale, ferraristi delusi e arrabbiati",
+      "url": "https://www.repubblica.it/sport/formulauno/2026/08/23/news/norris_vittoria_olanda_2026_antonelli_hamilton-425543113/",
+      "image": null,
+      "summary": "A Zandvoort l’inglese della McLaren ottiene il secondo successo consecutivo, precedendo Kimi e Russell. Hamilton e Leclerc ai piedi del podio in una gara in cui hanno polemizzato con il muretto",
+      "date": "2026-08-23T16:18:31.0000000Z"
+    },
     {
       "id": "skytg24:G9F5U-fAWYE",
       "sourceId": "skytg24",
@@ -58,10 +119,10 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Vannacci candida Giannetta a Reggio Calabria: è il primo Fn a correre per un elezione",
+      "title": "Vannacci candida Giannetta a Reggio Calabria: è il primo Fn a correre per un’elezione",
       "url": "https://www.repubblica.it/politica/2026/08/23/news/vannacci_candida_giannetta_reggio_calabria_fn_elezioni_suppletive-425543076/",
       "image": null,
-      "summary": "L’ex forzista si presenterà per le elezioni suppletive nel capoluogo. Il generale: “Questa è la differenza con la 'politica rancida' di FI”",
+      "summary": "L’ex forzista si presenterà per le elezioni suppletive nel capoluogo. Il generale: “Questa è la differenza con la 'politica rancida' di FI”. Occhiuto: “Mio governo non ha nulla da spartire con loro”",
       "date": "2026-08-23T15:43:41.0000000Z"
     },
     {
@@ -75,18 +136,6 @@
       "image": null,
       "summary": "Nuova retromarcia dopo quella sulla Pec degli automobilisti: nel testo finale non ci sarà il divieto di autostrada e il limite di guida a 100 chilometri da casa",
       "date": "2026-08-23T15:34:10.0000000Z"
-    },
-    {
-      "id": "ansa:51883b05c8fa",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "F1: Lando Norris vince in Olanda davanti ad Antonelli e Russell",
-      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/23/f1-lando-norris-vince-in-olanda-davanti-ad-antonelli-e-russell_024893f3-014e-43a9-84cb-e69e3ff23d5a.html",
-      "image": null,
-      "summary": "Le due Ferrari fuori dal podio, 4/o Hamilton e 5/o Antonelli",
-      "date": "2026-08-23T15:26:44.0000000Z"
     },
     {
       "id": "open:f9c3f584f984",
@@ -123,18 +172,6 @@
       "image": null,
       "summary": "Il presidente ucraino si è detto contrario ad elezioni anticipate. Lo attacca il suo ex ministro Fedorov: 'Ha cose da spiegare sulla corruzione nel suo governo'",
       "date": "2026-08-23T15:07:48.0000000Z"
-    },
-    {
-      "id": "repubblica:a3b813c94ec0",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Spaventoso incidente per Verstappen: macchina accartocciata, ritiro inevitabile",
-      "url": "https://www.repubblica.it/sport/formulauno/2026/08/23/news/verstappen_incidente_spaventoso_olanda-425543025/",
-      "image": null,
-      "summary": "L’olandese contro il muro nel Gran Premio di casa, in Olanda, enorme delusione dei tifosi",
-      "date": "2026-08-23T14:48:28.0000000Z"
     },
     {
       "id": "repubblica:9c7f97305ef4",
@@ -179,11 +216,23 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Il diesel sfonda i 2,2 euro. Schlein: “Il governo tassi gli extraprofitti delle società energetiche”",
+      "title": "Il diesel sfonda i 2,2 euro. Giorgetti firma il decreto per allungare gli sconti fino al 26 agosto",
       "url": "https://www.repubblica.it/economia/2026/08/23/news/il_diesel_sfonda_i_22_euro_schlein_il_governo_tassi_gli_extraprofitti_delle_societa_energetiche-425542992/",
       "image": null,
-      "summary": "La stangata sul controesodo estivo da 24 milioni di spostamenti. Aumenta anche il prezzo della verde. L’esecutivo alle prese con il nodo del rinnovo degli sconti",
+      "summary": "La stangata sul controesodo estivo da 24 milioni di spostamenti. Aumenta anche il prezzo della verde. Ecco il provvedimento Tesoro-Ambiente per la proroga dell’intervento da 17 centesimi",
       "date": "2026-08-23T14:15:44.0000000Z"
+    },
+    {
+      "id": "ansa:ee8886b1aa0b",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Zuppi: 'Quanto avviene in Cisgiordania è inaccettabile'",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/08/23/zuppi-quanto-avviene-in-cisgiordania-e-inaccettabile_06887482-004e-4456-a48b-c23f3f7c7b46.html",
+      "image": null,
+      "summary": "'Non è pensabile che vengano calpestati i diritti degli arabi'. Un 14enne ucciso in un raid israeliano a Nablus, un bambino di 4 anni a Gaza",
+      "date": "2026-08-23T14:15:07.0000000Z"
     },
     {
       "id": "repubblica:8f06e17830fb",
@@ -284,18 +333,6 @@
       "date": "2026-08-23T12:18:22.0000000Z"
     },
     {
-      "id": "ansa:fca8b37dfd90",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Cresce ancora il prezzo dei carburanti, gasolio sopra i 2,2 in autostrada",
-      "url": "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/23/cresce-ancora-il-prezzo-dei-carburanti-gasolio-sopra-i-22-in-autostrada_88295d67-975d-4e9b-98a8-a2040222bc59.html",
-      "image": null,
-      "summary": "Su strada a 2,130. La benzina a 2,010 in strada e a 2,087 in autostrada",
-      "date": "2026-08-23T12:14:02.0000000Z"
-    },
-    {
       "id": "skytg24:HJBgcYgobYk",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -307,6 +344,18 @@
       "summary": "",
       "videoId": "HJBgcYgobYk",
       "date": "2026-08-23T12:11:18.0000000Z"
+    },
+    {
+      "id": "repubblica:be3d78edffbd",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Crans Montana, quell’inchiesta piena di buchi: spunta la fattura falsa sull’acquisto della schiuma",
+      "url": "https://www.repubblica.it/cronaca/2026/08/23/news/crans_montana_inchiesta_fattura_falsa_moretti-425542904/",
+      "image": null,
+      "summary": "Il materiale era fonoassorbente e non ignifugo: i Moretti sostenevano di non avere la ricevuta, poi avevano presentato un documento modificato da Jessica",
+      "date": "2026-08-23T12:10:54.0000000Z"
     },
     {
       "id": "repubblica:b78f11385757",
@@ -331,18 +380,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/sea-watch-multa-governo-italiano.jpg",
       "summary": "La nave battente bandiera tedesca sarà sottoposta a un fermo di 45 giorni L'articolo Il Viminale multa la nave della Sea Watch. L’ong: «Noi non collaboriamo con i criminali, il governo può dire lo stesso?» proviene da...",
       "date": "2026-08-23T12:01:41.0000000Z"
-    },
-    {
-      "id": "repubblica:9d40a2c5c9b0",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Il balzo in avanti di Burnham: così in appena un mese a Downing Street ha conquistato i sondaggi",
-      "url": "https://www.repubblica.it/esteri/2026/08/23/news/burnham_sondaggi_regno_unito_labour_farage-425542883/",
-      "image": null,
-      "summary": "Il primo ministro è riuscito a riportare il suo partito, il Labour, davanti ai populisti di Farage e a riscuotere il gradimento più alto nei primi giorni dall’epoca di Boris Johnson",
-      "date": "2026-08-23T11:58:26.0000000Z"
     },
     {
       "id": "open:cbe874a1c46a",
@@ -381,18 +418,6 @@
       "summary": "",
       "videoId": "b4iea_4426A",
       "date": "2026-08-23T11:10:27.0000000Z"
-    },
-    {
-      "id": "open:7eba81cef8e6",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Zelensky frena sulle elezioni in Ucraina: «Uno tsunami, spaccherebbero il Paese». L’attacco dell’ex ministro Fedorov sulla corruzione – La diretta",
-      "url": "https://www.open.online/2026/08/23/guerra-russia-ucraina-elezioni-aggiornamenti-23-agosto/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/ucraina-23-agosto.jpg",
-      "summary": "Il presidente ucraino: «Macron mi ha promesso i nuovi radar entro l'autunno». E si difende dalle accuse sugli scandali di corruzione L'articolo Zelensky frena sulle elezioni in Ucraina: «Uno tsunami, spaccherebbero il...",
-      "date": "2026-08-23T10:33:14.0000000Z"
     },
     {
       "id": "open:1a1c51db7af5",
@@ -453,18 +478,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/spiaggia-lettini.jpg",
       "summary": "L'azienda aveva assoldato un investigatore privato per pedinare la donna di Cesena. Assunta come carrellista a tempo indeterminato, aveva chiesto un permesso per assistere la madre disabile L'articolo Licenziata perch...",
       "date": "2026-08-23T08:50:54.0000000Z"
-    },
-    {
-      "id": "ansa:5cada3d86569",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Durigon: 'In manovra contiamo di ridurre l'Irpef per i redditi fino a 60mila euro'",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/08/23/durigon-in-manovra-contiamo-di-ridurre-lirpef-per-i-redditi-fino-a-60mila-euro_037d6182-11aa-4379-b8a9-55e109a7215d.html",
-      "image": null,
-      "summary": "Anche le imprese possono contribuire all'aumento del potere d'acquisto dei lavoratori",
-      "date": "2026-08-23T07:54:38.0000000Z"
     },
     {
       "id": "ansa:82295f2ca472",
@@ -540,19 +553,6 @@
       "summary": "",
       "videoId": "uNbUQRpeUXk",
       "date": "2026-08-22T16:55:13.0000000Z"
-    },
-    {
-      "id": "skytg24:Wf-jLrlg5QE",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Brasile-Usa, Lula contesta Trump: dazi dannosi per entrambi",
-      "url": "https://www.youtube.com/watch?v=Wf-jLrlg5QE",
-      "image": "https://i.ytimg.com/vi/Wf-jLrlg5QE/hqdefault.jpg",
-      "summary": "",
-      "videoId": "Wf-jLrlg5QE",
-      "date": "2026-08-22T14:28:07.0000000Z"
     },
     {
       "id": "ansa:1f8195235d44",
