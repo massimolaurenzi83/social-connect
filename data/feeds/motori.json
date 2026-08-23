@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-23T21:48:38.8638042Z",
+  "updated": "2026-08-23T22:02:40.1140906Z",
   "items": [
+    {
+      "id": "vaielettrico:d4d7f642c93b",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Cold ironing: l’Italia cerca investitori globali a Londra",
+      "url": "https://www.vaielettrico.it/cold-ironing-litalia-cerca-investitori-globali-a-londra/",
+      "image": null,
+      "summary": "Al traguardo i lavori di elettrificazione delle banchine in 40 porti italiani, ora però servono bandi e capitali… L'articolo Cold ironing: l’Italia cerca investitori globali a Londra proviene da Vaielettrico .",
+      "date": "2026-08-23T21:59:30.0000000Z"
+    },
     {
       "id": "vaielettrico:46bb7e32b919",
       "sourceId": "vaielettrico",
@@ -13,18 +25,6 @@
       "image": null,
       "summary": "Voglio sapere quanto spendo a ricaricare: subito, come succedede per il riforimento di benzina. Una collega francese solleva… L'articolo Voglio sapere quanto spendo a ricaricare proviene da Vaielettrico .",
       "date": "2026-08-23T14:22:08.0000000Z"
-    },
-    {
-      "id": "motor1:8da2f0ec75fe",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Jeep Wrangler 392, la prova della Jeep più estrema col 6.4 V8",
-      "url": "https://it.motor1.com/reviews/800903/jeep-wrangler-392-prova-recensione/",
-      "image": "https://cdn.motor1.com/images/mgl/L3yBYL/s3/fuoriserie---wrangler-negli-usa.jpg",
-      "summary": "Eccessiva nell'estetica e nelle prestazioni, la Wrangler 392 porta la Jeep più amata a un livello mai visto. Ecco come va",
-      "date": "2026-08-23T10:00:00.0000000Z"
     },
     {
       "id": "insideevs:92e2120ccd2b",
@@ -39,16 +39,16 @@
       "date": "2026-08-23T10:00:00.0000000Z"
     },
     {
-      "id": "insideevs:1e34f361a114",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
+      "id": "motor1:8da2f0ec75fe",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Il Nevada apre le porte a migliaia di robotaxi a pagamento: Tesla in vantaggio",
-      "url": "https://insideevs.it/news/805717/tesla-robotaxi-pagamento-nevada-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/P3BE6W/s3/tesla-model-y-robotaxi.jpg",
-      "summary": "Tesla, Waymo e Uber hanno ricevuto il via libera per iniziare a far pagare le corse in robotaxi nella contea in cui si trova Las Vegas.",
-      "date": "2026-08-23T05:00:00.0000000Z"
+      "title": "Jeep Wrangler 392, la prova della Jeep più estrema col 6.4 V8",
+      "url": "https://it.motor1.com/reviews/800903/jeep-wrangler-392-prova-recensione/",
+      "image": "https://cdn.motor1.com/images/mgl/L3yBYL/s3/fuoriserie---wrangler-negli-usa.jpg",
+      "summary": "Eccessiva nell'estetica e nelle prestazioni, la Wrangler 392 porta la Jeep più amata a un livello mai visto. Ecco come va",
+      "date": "2026-08-23T10:00:00.0000000Z"
     },
     {
       "id": "motor1:6b396641fe61",
@@ -60,6 +60,18 @@
       "url": "https://it.motor1.com/news/805574/jaguar-xj40-40-anni-storia/",
       "image": "https://cdn.motor1.com/images/mgl/xq3jZw/s3/jaguar-xj40-1986-1994.jpg",
       "summary": "Già allora il marchio di lusso riusciva a polarizzare",
+      "date": "2026-08-23T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:1e34f361a114",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Nevada apre le porte a migliaia di robotaxi a pagamento: Tesla in vantaggio",
+      "url": "https://insideevs.it/news/805717/tesla-robotaxi-pagamento-nevada-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/P3BE6W/s3/tesla-model-y-robotaxi.jpg",
+      "summary": "Tesla, Waymo e Uber hanno ricevuto il via libera per iniziare a far pagare le corse in robotaxi nella contea in cui si trova Las Vegas.",
       "date": "2026-08-23T05:00:00.0000000Z"
     },
     {
@@ -87,18 +99,6 @@
       "date": "2026-08-22T14:11:09.0000000Z"
     },
     {
-      "id": "insideevs:42b3badbee34",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Guardate come una Lucid Gravity può ricaricare una Tesla Model 3",
-      "url": "https://insideevs.it/news/805668/lucid-gravity-ricarica-tesla/",
-      "image": "https://cdn.motor1.com/images/mgl/40Y3OY/s3/lucid-gravity-gt-s.jpg",
-      "summary": "Ricaricare una Tesla con i suoi più grandi concorrenti potrebbe sembrare una blasfemia, ma in realtà funziona dannatamente bene",
-      "date": "2026-08-22T10:00:00.0000000Z"
-    },
-    {
       "id": "motor1:a54be43b75b6",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -108,6 +108,18 @@
       "url": "https://it.motor1.com/news/805734/totem-gt-super-litorale-brado/",
       "image": "https://cdn.motor1.com/images/mgl/2N4Pop/s3/20260814_161846488_ios.jpg",
       "summary": "640 CV, carbonio e artigianalità invece di pura nostalgia. Questo restomod si spinge decisamente oltre la maggior parte degli altri",
+      "date": "2026-08-22T10:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:42b3badbee34",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Guardate come una Lucid Gravity può ricaricare una Tesla Model 3",
+      "url": "https://insideevs.it/news/805668/lucid-gravity-ricarica-tesla/",
+      "image": "https://cdn.motor1.com/images/mgl/40Y3OY/s3/lucid-gravity-gt-s.jpg",
+      "summary": "Ricaricare una Tesla con i suoi più grandi concorrenti potrebbe sembrare una blasfemia, ma in realtà funziona dannatamente bene",
       "date": "2026-08-22T10:00:00.0000000Z"
     },
     {
@@ -171,18 +183,6 @@
       "date": "2026-08-22T06:24:36.0000000Z"
     },
     {
-      "id": "insideevs:52bde9a6295d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa auto elettrica di 100 anni faceva 129 km, ma con calma",
-      "url": "https://insideevs.it/news/805707/auto-elettrica-100-anni-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
-      "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
-      "date": "2026-08-22T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:1cf6d635f007",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -192,6 +192,18 @@
       "url": "https://it.motor1.com/news/803450/bizzarrini-manta-storia-curiosita/",
       "image": "https://cdn.motor1.com/images/mgl/E6NyPB/s3/bizzarrini-manta-1968.jpg",
       "summary": "Nata in soli 40 giorni, la Bizzarrini Manta ha rivoluzionato il design delle sportive a motore centrale ed è un'icona del suo tempo",
+      "date": "2026-08-22T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:52bde9a6295d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa auto elettrica di 100 anni faceva 129 km, ma con calma",
+      "url": "https://insideevs.it/news/805707/auto-elettrica-100-anni-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
+      "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
       "date": "2026-08-22T05:00:00.0000000Z"
     },
     {
@@ -325,18 +337,6 @@
       "image": null,
       "summary": "La crisi dei carburanti che sta colpendo Cuba coinvolge anche la raccolta dei rifiuti: a L’Avana, più della… L'articolo Crisi carburanti a Cuba: tricicli a energia solare raccolgono i rifiuti a L’Avana proviene da Vai...",
       "date": "2026-08-21T14:29:01.0000000Z"
-    },
-    {
-      "id": "vaielettrico:919f8c6f03bc",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "A Genova 9 parcheggi solari, 1,1 mln di investimenti privati. Progetto anche a Piacenza",
-      "url": "https://www.vaielettrico.it/a-genova-9-parcheggi-solari-11-mln-di-investimenti-privati-progetto-anche-a-piacenza/",
-      "image": null,
-      "summary": "Parcheggi pubblici che producono energia pulita anche a Genova e Piacenza. Dopo l’iniziativa del piccolo Comune di Castel… L'articolo A Genova 9 parcheggi solari, 1,1 mln di investimenti privati. Progetto anche a Piac...",
-      "date": "2026-08-21T14:03:20.0000000Z"
     },
     {
       "id": "hdmotori:4c0a3e48b400",
