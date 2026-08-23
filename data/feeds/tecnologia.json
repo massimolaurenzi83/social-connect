@@ -1,7 +1,19 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-23T09:49:39.5539788Z",
+  "updated": "2026-08-23T10:10:33.8362946Z",
   "items": [
+    {
+      "id": "hdblog:3bdc994cedc9",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Amazon aumenta i prezzi di Echo, Fire TV e Kindle: per ora le offerte attenuano i rincari",
+      "url": "https://www.hdblog.it/amazon/articoli/n668104/amazon-aumenta-prezzi-echo-kindle-fire-tv/",
+      "image": null,
+      "summary": "I rincari in alcuni casi superano il 40%",
+      "date": "2026-08-23T09:55:00.0000000Z"
+    },
     {
       "id": "hdblog:70a73d5ec500",
       "sourceId": "hdblog",
@@ -13,6 +25,18 @@
       "image": null,
       "summary": "FALCON usa satelliti e detriti come riferimenti per navigare autonomamente nello spazio.",
       "date": "2026-08-23T09:35:00.0000000Z"
+    },
+    {
+      "id": "tomshw:fe279b650024",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Logitech K400 Plus al 46%, l’affare per gestire PC e TV dal divano",
+      "url": "https://www.tomshw.it/offerte/logitech-k400-plus-al-46-laffare-per-gestire-pc-e-tv-dal-divano",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108962/tomshw-offer-909888.png",
+      "summary": "Logitech K400 Plus costa 24,39€ su Amazon, con il 46% di sconto sul listino di 44,99€ e un risparmio di 20,60€. Tastiera e touchpad convivono in un solo dispositivo, così il PC collegato alla TV si co...",
+      "date": "2026-08-23T09:33:42.0000000Z"
     },
     {
       "id": "hdblog:b908e2c648c0",
@@ -183,54 +207,6 @@
       "date": "2026-08-23T07:05:00.0000000Z"
     },
     {
-      "id": "hdblog:e676c633b32d",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Vivo T5 5G è in arrivo con display curvo, profilo sottile e tanta AI",
-      "url": "https://www.hdblog.it/smartphone/articoli/n668075/vivo-t5-5g-display-curvo-ai-teaser-lancio/",
-      "image": null,
-      "summary": "Un primo sguardo a caratteristiche chiave e design.",
-      "date": "2026-08-23T06:55:00.0000000Z"
-    },
-    {
-      "id": "tomshw:64da0869306d",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Compra un Ryzen 5 9600X ma la scatola è vuota... per due volte!",
-      "url": "https://www.tomshw.it/hardware/amazon-cliente-segnala-2-scatole-amd-ryzen-5-9600x-vuote",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108957/nYVKau5tqBwsj9B5FJ3qbA-1920-80.jpg",
-      "summary": "Due ordini dello stesso processore, effettuati nell’arco di tre giorni, sarebbero arrivati senza la CPU all’interno. A denunciarlo è PC Plug, negozio di riparazione e assemblaggio P...",
-      "date": "2026-08-23T06:12:42.0000000Z"
-    },
-    {
-      "id": "tomshw:c009592b5064",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Switch Mercusys 2.5G a 32,99€, il minimo storico per una LAN più veloce",
-      "url": "https://www.tomshw.it/offerte/switch-mercusys-25g-a-3299eur-il-minimo-storico-per-una-lan-piu-veloce",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108956/tomshw-offer-898499.png",
-      "summary": "Lo switch Mercusys 2.5G a cinque porte costa 32,99€ su Amazon, invece di 39,99€, con uno sconto del 18%. È il minimo storico per un aggiornamento capace di eliminare il collo di bottiglia Gigabit tra...",
-      "date": "2026-08-22T19:33:40.0000000Z"
-    },
-    {
-      "id": "tomshw:8738c36a9f11",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "GIGABYTE B850 Gaming X WiFi6E a 170,99€, minimo storico per Ryzen 9000",
-      "url": "https://www.tomshw.it/offerte/gigabyte-b850-gaming-x-wifi6e-a-17099eur-minimo-storico-per-ryzen-9000",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108955/tomshw-offer-898453.png",
-      "summary": "La GIGABYTE B850 Gaming X WiFi6E costa 170,99€ su Amazon, anziché 270,22€, con uno sconto del 37% e un risparmio di 99,23€. È una base AM5 attrezzata per assemblare un PC Ryzen 9000 veloce oggi e semp...",
-      "date": "2026-08-22T18:04:07.0000000Z"
-    },
-    {
       "id": "dday:52a4c636c00d",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -241,6 +217,18 @@
       "image": null,
       "summary": "",
       "date": "2026-08-22T13:44:00.0000000Z"
+    },
+    {
+      "id": "tomshw:c84d852c4bcf",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Europa occidentale: giugno-luglio 2026, il bimestre più caldo",
+      "url": "https://www.tomshw.it/scienze/europa-occidentale-giugno-luglio-2026-il-bimestre-piu-caldo",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108890/europa-occidentale-giugno-luglio-2026-il-bimestre-piu-caldo.png",
+      "summary": "Un divario di quasi 0,9 °C separa giugno-luglio 2026 dal precedente record di caldo nell’Europa occidentale. I dati ERA5 elaborati dal Copernicus Climate Change Service indicano una temperatura media...",
+      "date": "2026-08-21T17:14:05.0000000Z"
     },
     {
       "id": "dday:2bc1c8cae27e",
@@ -385,6 +373,18 @@
       "image": null,
       "summary": "",
       "date": "2026-08-21T07:30:00.0000000Z"
+    },
+    {
+      "id": "tomshw:71283368566c",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Un ricercatore apre Apple Dov'è a Linux con un trucco",
+      "url": "https://www.tomshw.it/hardware/un-ricercatore-apre-apple-find-my-a-linux-con-un-trucco",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108741/un-ricercatore-apre-apple-find-my-a-linux-con-un-trucco.png",
+      "summary": "Il ricercatore di sicurezza ventiduenne noto come Zerotistic è riuscito di recente a registrare un computer Linux nella rete Apple Dov'è e a ricevere le posizioni in tempo reale delle pe...",
+      "date": "2026-08-20T21:30:25.0000000Z"
     },
     {
       "id": "tomshw:835251b33d18",
