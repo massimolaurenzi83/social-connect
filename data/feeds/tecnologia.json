@@ -1,7 +1,31 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-23T12:24:53.8412531Z",
+  "updated": "2026-08-23T13:10:59.3168403Z",
   "items": [
+    {
+      "id": "hdblog:d22d0a93f20e",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Le scorie nucleari potrebbero alimentare centrali da 500 MW",
+      "url": "https://www.hdblog.it/green/articoli/n668088/reattore-sali-fusi-scorie-nucleari-500-mw/",
+      "image": null,
+      "summary": "Un reattore a sali fusi punta a recuperare lenergia ancora nascosta nel combustibile nucleare usato.",
+      "date": "2026-08-23T12:55:00.0000000Z"
+    },
+    {
+      "id": "tomshw:8fdc4c3fc7cf",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Philips Airfryer 3000 XL a 144€ cucina fino a 5 porzioni senza complicazioni",
+      "url": "https://www.tomshw.it/offerte/philips-airfryer-3000-xl-a-144eur-cucina-fino-a-5-porzioni-senza-complicazioni",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108966/tomshw-offer-910082.png",
+      "summary": "La Philips Airfryer 3000 Serie XL costa 144€ su Amazon invece dei 178,11€ di listino, con uno sconto del 19% e 34,11€ lasciati nel portafoglio. Il cestello da 6,2 litri punta sulle cene di famiglia: p...",
+      "date": "2026-08-23T12:33:33.0000000Z"
+    },
     {
       "id": "hdblog:1e36aa2f97cf",
       "sourceId": "hdblog",
@@ -112,18 +136,6 @@
       "date": "2026-08-23T09:35:00.0000000Z"
     },
     {
-      "id": "tomshw:fe279b650024",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Logitech K400 Plus al 46%, l’affare per gestire PC e TV dal divano",
-      "url": "https://www.tomshw.it/offerte/logitech-k400-plus-al-46-laffare-per-gestire-pc-e-tv-dal-divano",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108962/tomshw-offer-909888.png",
-      "summary": "Logitech K400 Plus costa 24,39€ su Amazon, con il 46% di sconto sul listino di 44,99€ e un risparmio di 20,60€. Tastiera e touchpad convivono in un solo dispositivo, così il PC collegato alla TV si co...",
-      "date": "2026-08-23T09:33:42.0000000Z"
-    },
-    {
       "id": "hdblog:b908e2c648c0",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -184,18 +196,6 @@
       "date": "2026-08-23T08:10:00.0000000Z"
     },
     {
-      "id": "hdblog:a394f72fc476",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Recensione Boox Go 6 Gen 2: il piccolo e-reader con Android e supporto alla penna",
-      "url": "https://www.hdblog.it/tablet/recensioni/n667969/boox-go-6-gen-2-recensione-e-reader/",
-      "image": null,
-      "summary": "Dopo aver provato Boox Note Air5 C e il BOOX Go 7, tocca ora al piccolo Boox Go 6 Gen 2",
-      "date": "2026-08-23T08:01:00.0000000Z"
-    },
-    {
       "id": "dday:52a4c636c00d",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -242,6 +242,18 @@
       "image": null,
       "summary": "",
       "date": "2026-08-21T16:00:00.0000000Z"
+    },
+    {
+      "id": "tomshw:e4db951b0a85",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Cucinare in campeggio: 8 accessori che non devono mancare",
+      "url": "https://www.tomshw.it/altro/cucinare-in-campeggio-8-accessori-che-non-devono-mancare",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106290/Cucinare-in-campeggio-8-accessori-che-non-devono-mancare.png",
+      "summary": "Raggiungere una vetta dopo ore di cammino o piantare la tenda in uno spiazzo isolato regala un senso di libertà ineguagliabile, ma quando arriva il momento di pranzare, la gestione del cibo pu&...",
+      "date": "2026-08-21T13:23:04.0000000Z"
     },
     {
       "id": "dday:5031dc9bf25a",
@@ -302,18 +314,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-21T10:06:00.0000000Z"
-    },
-    {
-      "id": "tomshw:9f03f2a46622",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Simula l'accoltellamento per rubare un PC gaming: indagato",
-      "url": "https://www.tomshw.it/altro/pc-gaming-avrebbe-tentato-il-furto-e-avrebbe-finto-l-accoltellamento",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108837/news-flash-884770.png",
-      "summary": "Un presunto furto di un PC gaming, una grave ferita all’addome e il racconto di un accoltellamento che le prove avrebbero poi smentito. È la sequenza ricostruita dalla polizia di Lapeer, secondo la qu...",
-      "date": "2026-08-21T09:39:39.0000000Z"
     },
     {
       "id": "dday:7bdcb9e824d5",
