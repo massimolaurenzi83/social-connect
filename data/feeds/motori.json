@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-23T04:51:25.5256464Z",
+  "updated": "2026-08-23T05:18:37.2783896Z",
   "items": [
+    {
+      "id": "motor1:6b396641fe61",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "40 anni di Jaguar XJ40 (1986-1994): nel segno del 40",
+      "url": "https://it.motor1.com/news/805574/jaguar-xj40-40-anni-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/xq3jZw/s3/jaguar-xj40-1986-1994.jpg",
+      "summary": "Già allora il marchio di lusso riusciva a polarizzare",
+      "date": "2026-08-23T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:1e34f361a114",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Nevada apre le porte a migliaia di robotaxi a pagamento: Tesla in vantaggio",
+      "url": "https://insideevs.it/news/805717/tesla-robotaxi-pagamento-nevada-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/P3BE6W/s3/tesla-model-y-robotaxi.jpg",
+      "summary": "Tesla, Waymo e Uber hanno ricevuto il via libera per iniziare a far pagare le corse in robotaxi nella contea in cui si trova Las Vegas.",
+      "date": "2026-08-23T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:40758241b406",
       "sourceId": "vaielettrico",
@@ -27,18 +51,6 @@
       "date": "2026-08-22T14:11:09.0000000Z"
     },
     {
-      "id": "insideevs:42b3badbee34",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Guardate come una Lucid Gravity può ricaricare una Tesla Model 3",
-      "url": "https://insideevs.it/news/805668/lucid-gravity-ricarica-tesla/",
-      "image": "https://cdn.motor1.com/images/mgl/40Y3OY/s3/lucid-gravity-gt-s.jpg",
-      "summary": "Ricaricare una Tesla con i suoi più grandi concorrenti potrebbe sembrare una blasfemia, ma in realtà funziona dannatamente bene",
-      "date": "2026-08-22T10:00:00.0000000Z"
-    },
-    {
       "id": "motor1:a54be43b75b6",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -48,6 +60,18 @@
       "url": "https://it.motor1.com/news/805734/totem-gt-super-litorale-brado/",
       "image": "https://cdn.motor1.com/images/mgl/2N4Pop/s3/20260814_161846488_ios.jpg",
       "summary": "640 CV, carbonio e artigianalità invece di pura nostalgia. Questo restomod si spinge decisamente oltre la maggior parte degli altri",
+      "date": "2026-08-22T10:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:42b3badbee34",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Guardate come una Lucid Gravity può ricaricare una Tesla Model 3",
+      "url": "https://insideevs.it/news/805668/lucid-gravity-ricarica-tesla/",
+      "image": "https://cdn.motor1.com/images/mgl/40Y3OY/s3/lucid-gravity-gt-s.jpg",
+      "summary": "Ricaricare una Tesla con i suoi più grandi concorrenti potrebbe sembrare una blasfemia, ma in realtà funziona dannatamente bene",
       "date": "2026-08-22T10:00:00.0000000Z"
     },
     {
@@ -315,18 +339,6 @@
       "date": "2026-08-21T13:54:55.0000000Z"
     },
     {
-      "id": "motor1:5ab500bc4912",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Praga Bohema batte il record di Pagani a Spa",
-      "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
-      "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
-      "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
-      "date": "2026-08-21T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:1d2af046ec51",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -336,6 +348,18 @@
       "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
       "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
       "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
+      "date": "2026-08-21T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:5ab500bc4912",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Praga Bohema batte il record di Pagani a Spa",
+      "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
+      "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
       "date": "2026-08-21T13:00:00.0000000Z"
     },
     {
@@ -459,18 +483,6 @@
       "date": "2026-08-21T07:00:00.0000000Z"
     },
     {
-      "id": "motor1:8218664d57c5",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ho comprato la Mercedes SL dei miei sogni per 8.000 dollari, ma...",
-      "url": "https://it.motor1.com/features/805661/mercedes-sl-1997-acquisto-costi/",
-      "image": "https://cdn.motor1.com/images/mgl/7ZEOyp/s3/1997-mercedes-benz-sl500-r129.jpg",
-      "summary": "La Mercedes-Benz SL R129 è una meraviglia dell’ingegneria e un’allettante occasione tra le auto classiche. C’è da avere paura dei costi?",
-      "date": "2026-08-21T07:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:62bcfe4c521d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/40xo8Z/s3/la-tesla-cybercab-in-una-foto-ufficiale.jpg",
       "summary": "La Casa americana lancia un concorso per far sperimentare il robotaxi ai primi clienti: l'esordio del servizio è imminente?",
       "date": "2026-08-20T13:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:b0073dbefe3d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Tesla Semi arriva in Europa: ecco il teaser e dove debutta",
-      "url": "https://insideevs.it/news/805561/tesla-semi-europa-iaa-hannover/",
-      "image": "https://cdn.motor1.com/images/mgl/VzWQAL/s3/2026-tesla-semi.jpg",
-      "summary": "Il camion elettrico di Elon Musk e soci esordirà all'IAA di Hannover a metà settembre, quando saranno svelate anche le specifiche",
-      "date": "2026-08-20T11:00:00.0000000Z"
     }
   ]
 }
