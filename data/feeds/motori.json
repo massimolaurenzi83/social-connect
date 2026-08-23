@@ -1,18 +1,30 @@
 {
   "category": "motori",
-  "updated": "2026-08-23T10:10:33.8832827Z",
+  "updated": "2026-08-23T10:41:54.6113093Z",
   "items": [
     {
-      "id": "motor1:6b396641fe61",
+      "id": "motor1:8da2f0ec75fe",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "40 anni di Jaguar XJ40 (1986-1994): nel segno del 40",
-      "url": "https://it.motor1.com/news/805574/jaguar-xj40-40-anni-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/xq3jZw/s3/jaguar-xj40-1986-1994.jpg",
-      "summary": "Già allora il marchio di lusso riusciva a polarizzare",
-      "date": "2026-08-23T05:00:00.0000000Z"
+      "title": "Jeep Wrangler 392, la prova della Jeep più estrema col 6.4 V8",
+      "url": "https://it.motor1.com/reviews/800903/jeep-wrangler-392-prova-recensione/",
+      "image": "https://cdn.motor1.com/images/mgl/L3yBYL/s3/fuoriserie---wrangler-negli-usa.jpg",
+      "summary": "Eccessiva nell'estetica e nelle prestazioni, la Wrangler 392 porta la Jeep più amata a un livello mai visto. Ecco come va",
+      "date": "2026-08-23T10:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:92e2120ccd2b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il veicolo elettrico solare Aptera nascerà in Cina",
+      "url": "https://insideevs.it/news/805671/aptera-veicolo-elettrico-solare-cina/",
+      "image": "https://cdn.motor1.com/images/mgl/ojGv1p/s3/aptera-solar-electric-vehicle-production-validation-vehicle.jpg",
+      "summary": "Partnership fra la startup californiana e la cinese Launch Design per far partire la produzione del triciclo nel Paese del Dragone",
+      "date": "2026-08-23T10:00:00.0000000Z"
     },
     {
       "id": "insideevs:1e34f361a114",
@@ -24,6 +36,18 @@
       "url": "https://insideevs.it/news/805717/tesla-robotaxi-pagamento-nevada-novita/",
       "image": "https://cdn.motor1.com/images/mgl/P3BE6W/s3/tesla-model-y-robotaxi.jpg",
       "summary": "Tesla, Waymo e Uber hanno ricevuto il via libera per iniziare a far pagare le corse in robotaxi nella contea in cui si trova Las Vegas.",
+      "date": "2026-08-23T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:6b396641fe61",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "40 anni di Jaguar XJ40 (1986-1994): nel segno del 40",
+      "url": "https://it.motor1.com/news/805574/jaguar-xj40-40-anni-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/xq3jZw/s3/jaguar-xj40-1986-1994.jpg",
+      "summary": "Già allora il marchio di lusso riusciva a polarizzare",
       "date": "2026-08-23T05:00:00.0000000Z"
     },
     {
@@ -51,18 +75,6 @@
       "date": "2026-08-22T14:11:09.0000000Z"
     },
     {
-      "id": "motor1:a54be43b75b6",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Totem GT Super n. 32 si chiama Litorale Brado: oltre il restomod",
-      "url": "https://it.motor1.com/news/805734/totem-gt-super-litorale-brado/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4Pop/s3/20260814_161846488_ios.jpg",
-      "summary": "640 CV, carbonio e artigianalità invece di pura nostalgia. Questo restomod si spinge decisamente oltre la maggior parte degli altri",
-      "date": "2026-08-22T10:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:42b3badbee34",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -72,6 +84,18 @@
       "url": "https://insideevs.it/news/805668/lucid-gravity-ricarica-tesla/",
       "image": "https://cdn.motor1.com/images/mgl/40Y3OY/s3/lucid-gravity-gt-s.jpg",
       "summary": "Ricaricare una Tesla con i suoi più grandi concorrenti potrebbe sembrare una blasfemia, ma in realtà funziona dannatamente bene",
+      "date": "2026-08-22T10:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:a54be43b75b6",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Totem GT Super n. 32 si chiama Litorale Brado: oltre il restomod",
+      "url": "https://it.motor1.com/news/805734/totem-gt-super-litorale-brado/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4Pop/s3/20260814_161846488_ios.jpg",
+      "summary": "640 CV, carbonio e artigianalità invece di pura nostalgia. Questo restomod si spinge decisamente oltre la maggior parte degli altri",
       "date": "2026-08-22T10:00:00.0000000Z"
     },
     {
@@ -339,18 +363,6 @@
       "date": "2026-08-21T13:54:55.0000000Z"
     },
     {
-      "id": "insideevs:1d2af046ec51",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla: FSD v15 è la svolta? Optimus slitta al 2027",
-      "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
-      "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
-      "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
-      "date": "2026-08-21T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:5ab500bc4912",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -360,6 +372,18 @@
       "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
       "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
       "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
+      "date": "2026-08-21T13:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:1d2af046ec51",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla: FSD v15 è la svolta? Optimus slitta al 2027",
+      "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
+      "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
+      "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
       "date": "2026-08-21T13:00:00.0000000Z"
     },
     {
@@ -459,18 +483,6 @@
       "date": "2026-08-21T09:00:00.0000000Z"
     },
     {
-      "id": "motor1:8580f500129d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Jeep Wrangler diventa tutta nera per soli 68 euro in più",
-      "url": "https://it.motor1.com/news/805664/jeep-wrangler-smoky-mountain/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4Pqz/s3/2027-jeep-wrangler-smoky-mountain.jpg",
-      "summary": "Basata sulla Jeep Wrangler Willys, l'edizione Smoky Mountain aggiunge uno stile total black. Ma è destinata solo agli USA",
-      "date": "2026-08-21T08:30:00.0000000Z"
-    },
-    {
       "id": "insideevs:8819548e7e0b",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/koK30B/s3/tatra-force-e-drive-8x8-bev.jpg",
       "summary": "Con fino a 2.599 Nm di coppia, due trasmissioni e assi completamente indipendenti, il Tatra Force e-Drive BEV sembra una bestia",
       "date": "2026-08-20T14:02:09.0000000Z"
-    },
-    {
-      "id": "insideevs:ae520cfa362d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla apre le prime corse Cybercab al pubblico (in numero limitato)",
-      "url": "https://insideevs.it/news/805566/tesla-cybercab-prime-corse-clienti/",
-      "image": "https://cdn.motor1.com/images/mgl/40xo8Z/s3/la-tesla-cybercab-in-una-foto-ufficiale.jpg",
-      "summary": "La Casa americana lancia un concorso per far sperimentare il robotaxi ai primi clienti: l'esordio del servizio è imminente?",
-      "date": "2026-08-20T13:00:00.0000000Z"
     }
   ]
 }

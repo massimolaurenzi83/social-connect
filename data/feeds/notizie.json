@@ -1,18 +1,90 @@
 {
   "category": "notizie",
-  "updated": "2026-08-23T10:10:33.9099558Z",
+  "updated": "2026-08-23T10:41:54.5821551Z",
   "items": [
     {
-      "id": "repubblica:ffed5ff40917",
+      "id": "open:7eba81cef8e6",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Zelensky frena sulle elezioni in Ucraina: «Uno tsunami, spaccherebbero il Paese» – La diretta",
+      "url": "https://www.open.online/2026/08/23/guerra-russia-ucraina-elezioni-aggiornamenti-23-agosto/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/ucraina-23-agosto.jpg",
+      "summary": "L'ex ministro Fedorov in pressing sul presidente: «Deve rispondere anche lui sugli scandali di corruzione del governo» L'articolo Zelensky frena sulle elezioni in Ucraina: «Uno tsunami, spaccherebbero il Paese» – La d...",
+      "date": "2026-08-23T10:33:14.0000000Z"
+    },
+    {
+      "id": "ansa:30fa6da508b1",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Trovato morto il bracciante scomparso a Foggia, l'ipotesi è omicidio",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/trovato-morto-il-bracciante-scomparso-a-foggia-ipotesi-omicidio_34d9c44f-c820-4ab2-bc44-b2f2fca864ff.html",
+      "image": null,
+      "summary": "Il corpo del migrante in avanzato stato di decomposizione era nel bagagliaio della sua auto",
+      "date": "2026-08-23T10:28:05.0000000Z"
+    },
+    {
+      "id": "ansa:238d8662485c",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Meloni domani pomeriggio ad Amatrice per i 10 anni dal sisma",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/08/23/meloni-lunedi-pomeriggio-ad-amatrice-per-i-10-anni-dal-sisma_9c7be740-c92d-4316-8f29-41a6b1eb7391.html",
+      "image": null,
+      "summary": "La premier parteciperà alla commemorazione nel decimo anniversario. Il Papa: 'Sostenere la ricostruzione'",
+      "date": "2026-08-23T10:20:06.0000000Z"
+    },
+    {
+      "id": "open:1a1c51db7af5",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Tony Boy arrestato, la polizia a casa del trapper e lui fa una live sui social: a San Vittore per droga e una pistola – Il video",
+      "url": "https://www.open.online/2026/08/23/tony-boy-arrestato-droga-armi-live-social-video/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/tony-boy-arrestato.jpg",
+      "summary": "Il trapper 26enne di Padova si era messo anche a riprendere la perquisizione, mentre gli agenti trovavano in casa sua droga e armi. La lunga lista di accuse per cui è finito in carcere L'articolo Tony Boy arrestato, l...",
+      "date": "2026-08-23T10:11:57.0000000Z"
+    },
+    {
+      "id": "repubblica:2e6dafced438",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Il dominio della politica sulla strategia: il peccato originale che affossa Taranto da settant’anni",
-      "url": "https://www.repubblica.it/economia/2026/08/23/news/la_monocoltura_dell_acciaio_il_peccato_originale_che_affossa_taranto_da_settant_anni-425539716/",
+      "title": "Arresto rapper Tony boy, in casa droga e una pistola con matricola abrasa: il blitz live sui social",
+      "url": "https://milano.repubblica.it/cronaca/2026/08/23/news/arrestato_rapper_tony_boy_casa_droga_cocaina_pistola_matricola_abrasa_live_social_video-425542776/",
       "image": null,
-      "summary": "Già i tecnici della Finsider sapevano che la lavorazione a freddo sarebbe stata l’unica sostenibile, dal punto di vista economico e ambientale. Ma la politica impose le sue scelte. Il dilemma ritorna oggi con la corda...",
-      "date": "2026-08-23T13:00:00.0000000Z"
+      "summary": "Il 26enne ha ripreso la perquisizione e fatto una diretta con le voci dei poliziotti",
+      "date": "2026-08-23T10:06:48.0000000Z"
+    },
+    {
+      "id": "repubblica:f265a1ac9100",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Sea Watch multata dal Viminale: “Noi non collaboriamo con i criminali. Lo fa il governo italiano”",
+      "url": "https://www.repubblica.it/cronaca/2026/08/23/news/sea_watch_ong_multa_viminale-425542769/",
+      "image": null,
+      "summary": "La ong conferma la notizia anticipata da Repubblica, ulteriore step del braccio di ferro con il Viminale",
+      "date": "2026-08-23T10:05:10.0000000Z"
+    },
+    {
+      "id": "repubblica:93e8f2566cad",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Meghan, ritirata l’offerta per la serie “The Gentlemen”: troppe reazioni negative alla sua presenza",
+      "url": "https://www.repubblica.it/esteri/2026/08/23/news/meghan_markle_netflix_gentlemen_serie_tv-425542765/",
+      "image": null,
+      "summary": "Nuova doccia fredda per i duchi di Sussex che vedono il ritorno nel Regno Unito sempre più in salita",
+      "date": "2026-08-23T10:04:55.0000000Z"
     },
     {
       "id": "open:dc2be7d2c9f4",
@@ -25,18 +97,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/fondo-pensione-nascita-piano-governo-meloni.jpg",
       "summary": "La proposta della ministra Calderone prende spunto dal modello tedesco. Previsto un piccolo contributo iniziale dello Stato, poi versamenti volontari di genitori e familiari fino ai 18 anni L'articolo Pensione dalla n...",
       "date": "2026-08-23T09:49:42.0000000Z"
-    },
-    {
-      "id": "ansa:238d8662485c",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Meloni domani pomeriggio ad Amatrice per i 10 anni dal sisma",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/08/23/meloni-lunedi-pomeriggio-ad-amatrice-per-i-10-anni-dal-sisma_9c7be740-c92d-4316-8f29-41a6b1eb7391.html",
-      "image": null,
-      "summary": "La premier parteciperà alla commemorazione nel decimo anniversario",
-      "date": "2026-08-23T09:41:08.0000000Z"
     },
     {
       "id": "open:07dbc65f4173",
@@ -171,18 +231,6 @@
       "date": "2026-08-23T08:11:33.0000000Z"
     },
     {
-      "id": "repubblica:82b496432e88",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La cordata italiana vuole lo Stato per il salvataggio di una mini-Ilva",
-      "url": "https://www.repubblica.it/economia/2026/08/23/news/la_cordata_italiana_vuole_lo_stato_per_il_salvataggiodi_una_mini-ilva-425539700/",
-      "image": null,
-      "summary": "Federacciai in campo con le imprese italiane, ma solo per una piccola parte dell’impianto: a pagare il conto saranno lavoratori e indotto",
-      "date": "2026-08-23T08:00:00.0000000Z"
-    },
-    {
       "id": "ansa:5cada3d86569",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -205,18 +253,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/bracciante-foggia-morto-bagagliaio-sadam-houssain.jpg",
       "summary": "Si indaga per omicidio sulla morta del 32enne originario del Pakistan. In Italia con un permesso di soggiorno per protezione speciale, lavorava nei campi della provincia di Foggia. Il ricordo del sindaco di Manfedonia...",
       "date": "2026-08-23T07:47:50.0000000Z"
-    },
-    {
-      "id": "ansa:30fa6da508b1",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Trovato morto il bracciante scomparso a Foggia, l'ipotesi è omicidio",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/trovato-morto-il-bracciante-scomparso-a-foggia-ipotesi-omicidio_34d9c44f-c820-4ab2-bc44-b2f2fca864ff.html",
-      "image": null,
-      "summary": "Il corpo del migrante in avanzato stato di decomposizione era nel bagagliaio della sua auto",
-      "date": "2026-08-23T07:38:06.0000000Z"
     },
     {
       "id": "open:ffcbd3d7de77",
@@ -315,27 +351,27 @@
       "date": "2026-08-23T05:13:02.0000000Z"
     },
     {
-      "id": "repubblica:65d2ee53d373",
+      "id": "repubblica:5aa679faf0f7",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Superare gli eccessi woke, la questione sociale va messa al primo posto",
-      "url": "https://www.repubblica.it/politica/2026/08/23/news/superare_eccessi_woke_questione_sociale_primo_posto-425542253/",
+      "title": "Al vertice con Berlino l’attacco di Piantedosi alle ong tedesche",
+      "url": "https://www.repubblica.it/politica/2026/08/23/news/vertice_berlino_attacco_piantedosi_ong_tedesche-425542248/",
       "image": null,
-      "summary": "Non bisogna arretrare di un millimetro sul tema dei diritti ma dobbiamo guardare al ceto medio stritolato dal costo della vita",
+      "summary": "Il ministro dell’Interno prepara il bilaterale sui dublinanti. Fermo e multa per la SeaWatch. Resta lo stop a Schengen con Madrid",
       "date": "2026-08-22T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:f7da39f8bf6e",
+      "id": "repubblica:5ff0fe93a026",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "I fischi a Taranto un campanello, Meloni teme il bis ad Amatrice",
-      "url": "https://www.repubblica.it/politica/2026/08/23/news/meloni_fischi_taranto_amatrice-425542227/",
+      "title": "Scholz: “Che emozione il Papa a Rimini, una visita storica improntata al dialogo”",
+      "url": "https://www.repubblica.it/cronaca/2026/08/23/news/bernhard_scholz_papa_visita_meeting_rimini_intervista-425542283/",
       "image": null,
-      "summary": "La premier è stata contestata all’apertura dei Giochi del Mediterraneo: domani è attesa nella città del terremoto del 2016",
+      "summary": "Intervista al presidente della Fondazione Meeting: “Non cerchiamo la polarizzazione, ma la possibilità di entrare nei contenuti e affrontare la complessità di situazioni spesso semplificate”",
       "date": "2026-08-22T23:00:00.0000000Z"
     },
     {
@@ -349,42 +385,6 @@
       "image": null,
       "summary": "Ma la leader di FdI vuole andare avanti sulla nuova legge elettorale. Il piano B: accordi dopo il voto con Vannacci o Calenda",
       "date": "2026-08-22T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:50c77b96c187",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Manovra, la misura elettorale: meno tasse sulle tredicesime",
-      "url": "https://www.repubblica.it/economia/2026/08/23/news/manovra_detassazione_tredicesime_redditi_bassi-425542044/",
-      "image": null,
-      "summary": "Maggioranza in pressing sul governo per ridurre al 15% l’aliquota sulla mensilità natalizia per i redditi più bassi. Lega vuole la flat tax a 100 mila euro. Lettera dell’Italia insieme ad altri 5 Paesi per chiedere un...",
-      "date": "2026-08-22T23:00:00.0000000Z"
-    },
-    {
-      "id": "open:b7c7196dfa62",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Ikea come Vinted: al via la piattaforma per scambiare mobili di seconda mano. Come funziona  e chi può usarla",
-      "url": "https://www.open.online/2026/08/22/ikea-preowned-mercato-usato-mobili-secondo-mano/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/ikea-preowned-mercato-mobili-usati.jpg",
-      "summary": "Il colosso svedese prepara un marketplace per comprare e vendere mobili di seconda mano direttamente tra privati. Dopo i test in Spagna e Norvegia, al via un nuovo progetto nel Regno Unito L'articolo Ikea come Vinted:...",
-      "date": "2026-08-22T21:01:02.0000000Z"
-    },
-    {
-      "id": "open:a822a782e21e",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "«Papà, non ce la faccio». Molla il bimbo di 7 anni a 2mila metri e prosegue l’escursione: i soccorsi e l’intervento della polizia",
-      "url": "https://www.open.online/2026/08/22/giappone-papa-bimbo-escursione-polizia/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/Gita-montagna-bimbi-.jpeg",
-      "summary": "Il caso durante una salita verso la vetta del monte Fuji, in Giappone. L'uomo si è poi scusato: «Ho preso una decisione avventata» L'articolo «Papà, non ce la faccio». Molla il bimbo di 7 anni a 2mila metri e prosegue...",
-      "date": "2026-08-22T20:19:27.0000000Z"
     },
     {
       "id": "ansa:09963a124319",
