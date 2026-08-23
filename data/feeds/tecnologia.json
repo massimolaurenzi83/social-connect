@@ -1,7 +1,31 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-23T08:14:25.7428969Z",
+  "updated": "2026-08-23T08:52:12.3812635Z",
   "items": [
+    {
+      "id": "hdblog:b6f4206b6369",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Stick 2 arriva su Apple TV: Rhea Seehorn entra nel cast",
+      "url": "https://www.hdblog.it/apple/articoli/n668085/stick-2-apple-tv-rhea-seehorn/",
+      "image": null,
+      "summary": "Stick torna il 4 novembre con Owen Wilson e Rhea Seehorn nel cast.",
+      "date": "2026-08-23T08:35:00.0000000Z"
+    },
+    {
+      "id": "hdblog:d39e5b1f4402",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Apple CarPlay e Android Auto: cosa cambia tra i due sistemi di infotainment",
+      "url": "https://www.hdblog.it/android/articoli/n667967/apple-carplay-android-auto-differenze/",
+      "image": null,
+      "summary": "Un confronto tra le funzioni delle due piattaforme.",
+      "date": "2026-08-23T08:20:00.0000000Z"
+    },
     {
       "id": "hdblog:655c7712ccc9",
       "sourceId": "hdblog",
@@ -13,6 +37,18 @@
       "image": null,
       "summary": "LinkedIn riduce del 40% le visualizzazioni dei post classificati come AI slop",
       "date": "2026-08-23T08:10:00.0000000Z"
+    },
+    {
+      "id": "tomshw:2ffa2c5df786",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Insta360 Link 2 a 172€, la webcam 4K ideale per chi presenta in movimento",
+      "url": "https://www.tomshw.it/offerte/insta360-link-2-a-172eur-la-webcam-4k-ideale-per-chi-presenta-in-movimento",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108960/tomshw-offer-909786.png",
+      "summary": "Insta360 Link 2 costa 172€ su Amazon anziché 229,99€, con uno sconto del 25%. Il sistema PTZ e il tracciamento IA mantengono l’inquadratura sul soggetto anche quando una presentazione richiede di muov...",
+      "date": "2026-08-23T08:03:34.0000000Z"
     },
     {
       "id": "hdblog:a394f72fc476",
@@ -73,6 +109,18 @@
       "image": null,
       "summary": "Un algoritmo disattivava gli autisti senza intervento umano: arriva la maxi multa europea",
       "date": "2026-08-23T07:20:00.0000000Z"
+    },
+    {
+      "id": "tomshw:07364cd29a00",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Migliori coperte elettriche e scaldasonno (agosto 2026)",
+      "url": "https://www.tomshw.it/offerte/migliori-coperte-elettriche-e-scaldasonno",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108959/guide-thw-909752.png",
+      "summary": "Imetec CaldoPlaid Elegance 180x140 cm è la migliore coperta elettrica per la maggior parte delle persone: offre una superficie ampia, 6 temperature, riscaldamento rapido, timer da 1, 3 o 9 ore e lavag...",
+      "date": "2026-08-23T07:19:19.0000000Z"
     },
     {
       "id": "hdblog:6b3fabd22872",
@@ -205,54 +253,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/108952/kAur2rfLMuXGArbhKVE2jU-2560-80.jpg",
       "summary": "Accrediti da 19,68 e 24,60 dollari stanno raggiungendo i consumatori statunitensi ammessi all’accordo sulle velocità pubblicizzate per alcune memorie desktop G.Skill DDR4 e DDR5. Le prime ricevute con...",
       "date": "2026-08-22T16:59:30.0000000Z"
-    },
-    {
-      "id": "hdblog:10a10b607e3e",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Android offrirà più controllo sui dati condivisi dei file multimediali: ecco come",
-      "url": "https://www.hdblog.it/google/articoli/n668066/google-selettore-file-privacy-posizione-condivisi/",
-      "image": null,
-      "summary": "Un'opzione in più.",
-      "date": "2026-08-22T16:45:00.0000000Z"
-    },
-    {
-      "id": "hdblog:467db495b56b",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Xiaomi Smart Band 10 Pro in offerta su Amazon: è la smartband che sostituisce gli smartwatch",
-      "url": "https://www.hdblog.it/indossabili/offerte/n668070/xiaomi-smart-band-10-pro-offerta-amazon-ago26/",
-      "image": null,
-      "summary": "La Xiaomi Smart Band 10 Pro è in offerta su Amazon ed è ora disponibile con un prezzo ridotto fino a 74,99 euro.",
-      "date": "2026-08-22T16:30:00.0000000Z"
-    },
-    {
-      "id": "tomshw:d0dbe235a268",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Roborock QV 35A al 50%: aspira, lava e si prepara da solo, un affare",
-      "url": "https://www.tomshw.it/offerte/roborock-qv-35a-al-50-aspira-lava-e-si-prepara-da-solo-un-affare",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108951/tomshw-offer-898379.png",
-      "summary": "Roborock QV 35A costa 299,99€ su Amazon, la metà del listino di 599,99€ grazie allo sconto del 50%. Aspirazione, lavaggio e manutenzione automatica lavorano insieme per ridurre sensibilmente il tempo...",
-      "date": "2026-08-22T16:03:04.0000000Z"
-    },
-    {
-      "id": "tomshw:346fcf6470f7",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Apple iPhone 17 Pro Max 256GB a 1299€, minimo storico per foto e video",
-      "url": "https://www.tomshw.it/offerte/apple-iphone-17-pro-max-256gb-a-1299eur-minimo-storico-per-foto-e-video",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108950/tomshw-offer-898368.png",
-      "summary": "Apple iPhone 17 Pro Max 256GB costa 1299€ su Amazon, il minimo storico, anziché 1489€ di listino con uno sconto del 13%. Fotocamere posteriori da 48MP, zoom 8x e fino a 37 ore di riproduzione video lo...",
-      "date": "2026-08-22T15:34:15.0000000Z"
     },
     {
       "id": "dday:52a4c636c00d",
