@@ -1,7 +1,103 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-24T11:16:00.7503289Z",
+  "updated": "2026-08-24T11:47:42.6489606Z",
   "items": [
+    {
+      "id": "tomshw:e36db4c74cc1",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Microchip rende più efficiente l'AI sulle FPGA PolarFire",
+      "url": "https://www.tomshw.it/hardware/microchip-accelera-lai-sulle-fpga-polarfire-con-vectorblox-30",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109198/microchip-accelera-l-ai-sulle-fpga-polarfire-con-vectorblox-3-0.png",
+      "summary": "Microchip Technology ha pubblicato VectorBlox 3.0, nuova versione del kit di sviluppo per implementare l'inferenza delle reti neurali convoluzionali sulle sue FPGA e sui SoC PolarFire. L'aggiornamento...",
+      "date": "2026-08-24T11:45:49.0000000Z"
+    },
+    {
+      "id": "hdblog:08bf57cd3d65",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "WindTre lancia Super Fibra: cosa include lofferta da 24,99 euro al mese",
+      "url": "https://www.hdblog.it/h3g/articoli/n668183/windtre-super-fibra-offerta-prezzo-giga-illimitati/",
+      "image": null,
+      "summary": "Con WindTre Super Fibra arrivano il nuovo modem Wi-Fi 7 capace di gestire fino a 256 dispositivi, Giga illimitati in 5G per chi abbina una linea mobile e Amazon Prime incluso per un anno",
+      "date": "2026-08-24T11:45:00.0000000Z"
+    },
+    {
+      "id": "hdblog:fda078f68a0b",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "I vecchi SSD SATA vanno ancora bene per il gaming nel 2026?",
+      "url": "https://www.hdblog.it/hardware/articoli/n668182/benchmark-gaming-ssd-sata-vs-pcie-nvme/",
+      "image": null,
+      "summary": "Per ora sì, assolutamente, ma le cose stanno cambiando, grazie a DirectStorage e tecnologie analoghe. Ma la \"massa critica\" che renderà l'upgrade necessario probabilmente non si raggiungerà tanto...",
+      "date": "2026-08-24T11:35:00.0000000Z"
+    },
+    {
+      "id": "tomshw:2e79054aeb31",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Avete il nuovo coupon AliExpress da 90€? Ecco 10 prodotti su cui usarlo",
+      "url": "https://www.tomshw.it/altro/avete-il-nuovo-coupon-aliexpress-da-90eur-ecco-10-prodotti-su-cui-usarlo",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109171/Avete-il-nuovo-coupon-AliExpress-da-90€-Ecco-10-prodotti-su-cui-usarlo.jpg",
+      "summary": "L’arrivo di un coupon da ben 90€ su AliExpress è l’occasione perfetta per togliersi qualche sfizio tecnologico o effettuare quell’acquisto importante che rimandavamo da t...",
+      "date": "2026-08-24T11:30:41.0000000Z"
+    },
+    {
+      "id": "hdblog:05dc1e0993bc",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Il nuovo Nokia 300 Charge costa 30, dura 40 giorni e ricarica gli altri smartphone",
+      "url": "https://www.hdblog.it/smartphone/articoli/n668177/nokia-300-charge-batteria-autonomia-torcia-prezzo/",
+      "image": null,
+      "summary": "Non manca nemmeno la torcia super-potente.",
+      "date": "2026-08-24T11:20:00.0000000Z"
+    },
+    {
+      "id": "hdblog:16a993e9dc3b",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "LEsercito USA testerà Alecto, il sistema anti-drone a microonde",
+      "url": "https://www.hdblog.it/droni/articoli/n668100/arma-microonde-usa-droni-alecto/",
+      "image": null,
+      "summary": "Unarma a microonde potrà neutralizzare droni senza fermare il veicolo",
+      "date": "2026-08-24T11:15:00.0000000Z"
+    },
+    {
+      "id": "tomshw:d7e41b6eed48",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Analisi dei guasti, con l'AI gestisci centinaia di rapporti al mese",
+      "url": "https://www.tomshw.it/aioperator/analisi-dei-guasti-con-l-ai-gestisci-centinaia-di-rapporti-al-mese",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109078/01-pro13-cover.jpg",
+      "summary": "Trecento rapporti di anomalia in un mese superano la capacità di un tecnico qualità di leggerli uno per uno con il metodo dei 5 Whys. Quella tecnica, chiedere perché cinque volte per risalire dal sint...",
+      "date": "2026-08-24T11:14:28.0000000Z"
+    },
+    {
+      "id": "tomshw:7221ed661804",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Anker SOLIX C1000 Gen 2 a 549,99€, backup da 1024Wh al minimo storico",
+      "url": "https://www.tomshw.it/offerte/anker-solix-c1000-gen-2-a-54999eur-backup-da-1024wh-al-minimo-storico",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109187/tomshw-offer-929071.png",
+      "summary": "Anker SOLIX C1000 Gen 2 costa 549,99€ su Amazon, il minimo storico: il listino è 649,99€ e lo sconto applicato è del 15%. È pensata per offrire un backup capace e veloce senza occupare lo spazio richi...",
+      "date": "2026-08-24T11:02:59.0000000Z"
+    },
     {
       "id": "tomshw:8f2790a136a4",
       "sourceId": "tomshw",
@@ -27,6 +123,18 @@
       "date": "2026-08-24T11:00:34.0000000Z"
     },
     {
+      "id": "tomshw:fd971a98dc0c",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Samsung potrebbe riprendersi il trono degli smartphone da Apple",
+      "url": "https://www.tomshw.it/smartphone/samsung-puo-riprendersi-il-trono-degli-smartphone-da-apple",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109177/samsung-puo-riprendersi-il-trono-degli-smartphone-da-apple.png",
+      "summary": "Samsung Electronics potrebbe riconquistare nel 2026 il primo posto nel mercato mondiale degli smartphone, superando Apple grazie a un andamento delle consegne più favorevole. La previsione di Counterp...",
+      "date": "2026-08-24T10:58:55.0000000Z"
+    },
+    {
       "id": "hdblog:bb1a5504aa3e",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -37,6 +145,18 @@
       "image": null,
       "summary": "Gli smartphone restano veloci e utilizzabili sempre più a lungo, ma lintelligenza artificiale potrebbe offrire a Google e agli altri produttori un nuovo motivo per spingere gli utenti verso i...",
       "date": "2026-08-24T10:55:00.0000000Z"
+    },
+    {
+      "id": "tomshw:e64b702c0d47",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Hardware-as-a-Service, come scegliere tra acquisto e sottoscrizione",
+      "url": "https://www.tomshw.it/aioperator/hardware-as-a-service-come-scegliere-tra-acquisto-e-sottoscrizione",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109084/02-mgt14-cover.jpg",
+      "summary": "Dell, HP e Lenovo vendono un abbonamento invece di un computer. PC as a Service, Device as a Service, TruScale sono tre nomi commerciali per lo stesso schema, hardware più assistenza più sostituzione...",
+      "date": "2026-08-24T10:50:45.0000000Z"
     },
     {
       "id": "tomshw:2b564ef7854d",
@@ -73,18 +193,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/109173/questo-superconduttore-ultrasottile-nasconde-un-dettaglio-inatteso.png",
       "summary": "Un gruppo guidato dall'Università di Nanchino ha realizzato e analizzato un film ultrasottile di nickelato La₃Ni₂O₇ drogato con stronzio. Il materiale diventa superconduttivo a pressione ambiente, pur...",
       "date": "2026-08-24T10:45:48.0000000Z"
-    },
-    {
-      "id": "tomshw:a5af1278d9b4",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Un computer quantistico potrebbe superare un limite dei microscopi",
-      "url": "https://www.tomshw.it/scienze/un-computer-quantistico-potrebbe-superare-un-limite-dei-microscopi",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109170/un-computer-quantistico-potrebbe-superare-un-limite-dei-microscopi.png",
-      "summary": "Un gruppo guidato dalla TU Wien, insieme all'Università di Vienna, alla JKU Linz e all'Università di Innsbruck, ha progettato un microscopio elettronico collegato a un computer quantistico a ioni intr...",
-      "date": "2026-08-24T10:45:10.0000000Z"
     },
     {
       "id": "dday:cd4c10bd51f7",
@@ -147,18 +255,6 @@
       "date": "2026-08-24T10:20:00.0000000Z"
     },
     {
-      "id": "tomshw:9e7ec3c0a300",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "AliExpress Back to School: rush finale con 3 NUOVI coupon da non perdere!",
-      "url": "https://www.tomshw.it/altro/aliexpress-back-to-school-rush-finale-con-3-nuovi-coupon-da-non-perdere",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109168/AliExpress-Back-to-School-rush-finale-con-3-NUOVI-coupon-da-non-perdere!.jpg",
-      "summary": "La celebre campagna Back to School di AliExpress, iniziata lo scorso 17 agosto, entra ufficialmente nella sua fase conclusiva. C’è tempo infatti fino alle 23:59 del 26 agosto per approfit...",
-      "date": "2026-08-24T10:16:59.0000000Z"
-    },
-    {
       "id": "hdblog:f6c9238f541c",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -183,78 +279,6 @@
       "date": "2026-08-24T10:10:00.0000000Z"
     },
     {
-      "id": "tomshw:313da13b6229",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "La GPU ideale per una build da 500€ oggi è in super offerta su AliExpress",
-      "url": "https://www.tomshw.it/hardware/rtx-5050-soyo-74-con-coupon-a-soli-197eur-2026-08-24",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109166/rtx-5050-soyo-74-con-coupon-a-soli-197eur-2026-08-24-B8sDLqIms41kbmtrfsl8T1nyTo.jpg",
-      "summary": "Su AliExpress è disponibile un'offerta imperdibile sulla scheda grafica SOYO RTX 5050 8G GDDR6, componente ideale per il gaming grazie alla memoria a 128Bit e all'interfaccia PCIE X16 5.0. Il p...",
-      "date": "2026-08-24T10:05:18.0000000Z"
-    },
-    {
-      "id": "hdblog:e83d779573e6",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Samsung a IMID 2026 con il primo OLED 16\" 300 Hz per laptop e non solo",
-      "url": "https://www.hdblog.it/hardware/articoli/n668172/samsung-display-imid-2026-oled-300-hz-16-gaming/",
-      "image": null,
-      "summary": "C'è anche un nuovo pannello per migliorare l'esperienza d'uso dei pieghevoli, e l'OLED elastico più grande al mondo, da ben 20\" di diagonale.",
-      "date": "2026-08-24T10:05:00.0000000Z"
-    },
-    {
-      "id": "tomshw:799f6f8ab1ae",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "LG NanoCell AI 65” a 439,99€, il minimo storico per vedere tutto in grande",
-      "url": "https://www.tomshw.it/offerte/lg-nanocell-ai-65-a-43999eur-il-minimo-storico-per-vedere-tutto-in-grande",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109152/tomshw-offer-928944.png",
-      "summary": "LG NanoCell AI 65” costa 439,99€ su Amazon, con uno sconto del 32% sul listino di 649€. La grande diagonale, il processore α7 e webOS ne fanno una candidata interessante per rinnovare il centro dell’i...",
-      "date": "2026-08-24T10:03:12.0000000Z"
-    },
-    {
-      "id": "tomshw:67539f1fa187",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Amazon alza i prezzi: cosa cambia per Kindle, Echo ed eero",
-      "url": "https://www.tomshw.it/hardware/amazon-aumentano-in-italia-i-prezzi-di-fire-tv-stick-kindle-echo",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109140/news-flash-928841.png",
-      "summary": "La Fire TV Stick 4K Max costa ora 114,99 euro su Amazon.it, 35 euro in più rispetto ai precedenti 79,99 euro. L'aumento, pari a circa il 43,8%, è il più marcato della gamma Fire TV italiana e rientra...",
-      "date": "2026-08-24T10:01:24.0000000Z"
-    },
-    {
-      "id": "hdblog:a0d44d0af083",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Carburanti, prorogato di un giorno lo sconto sulle accise: scade il 26 agosto",
-      "url": "https://www.hdmotori.it/carburanti-prorogato-sconto-accise-26-agosto/",
-      "image": null,
-      "summary": "Il governo proroga la scadenza dello sconto di 17 centesimi fino al 26 agosto. Dura la reazione delle associazioni dei consumatori.",
-      "date": "2026-08-24T10:00:31.0000000Z"
-    },
-    {
-      "id": "hdblog:2dcca0f5850f",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Non scaricate questo torrent di GTA 6: nessun gioco, solo malware",
-      "url": "https://www.hdblog.it/games/articoli/n668149/download-torrent-gta-6-malware/",
-      "image": null,
-      "summary": "L'attesa per GTA 6 diventa una ghiotta occasione per gli hacker, che distribuiscono falsi torrent con malware.",
-      "date": "2026-08-24T09:55:00.0000000Z"
-    },
-    {
       "id": "dday:752f0ef9c576",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -265,18 +289,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-24T09:48:00.0000000Z"
-    },
-    {
-      "id": "hdblog:38a2b364adb1",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Xiaomi si prepara al lancio di un nuovo pieghevole e del chip custom Xring O3",
-      "url": "https://www.hdblog.it/smartphone/articoli/n668162/xiaomi-xring-o3-chip-custom-pieghevole-smartphone/",
-      "image": null,
-      "summary": "Teaser ufficiale per il chip e \"più o meno ufficiale\" per lo smartphone. Ma le incertezze sono ancora molte.",
-      "date": "2026-08-24T09:45:00.0000000Z"
     },
     {
       "id": "dday:59bf4d2bff0e",
@@ -339,28 +351,16 @@
       "date": "2026-08-24T07:42:00.0000000Z"
     },
     {
-      "id": "tomshw:2a9aebabde96",
+      "id": "tomshw:2df3fea781f5",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Nuovo lavoro? Con l'AI puoi partire alla grande ma rischi di fare una frittata",
-      "url": "https://www.tomshw.it/business/nuovo-lavoro-con-lai-puoi-partire-alla-grande-ma-rischi-di-fare-una-frittata",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109046/03-cover.jpg",
-      "summary": "Il primo mese in un'azienda nuova ha una regola che nessuno scrive nel contratto: bisogna sembrare utili prima di esserlo davvero. Chi arriva ha poche settimane per capire i processi e farsi notare da...",
+      "title": "L'AI non ti ruba il lavoro ma ti asciuga lo stipendio",
+      "url": "https://www.tomshw.it/business/lai-non-ti-ruba-il-lavoro-ma-ti-asciuga-lo-stipendio",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109047/04-cover.jpg",
+      "summary": "Nelle occupazioni più esposte all'intelligenza artificiale la crescita dei salari reali, dopo il 2023, è rimasta indietro di 6,7 punti percentuali rispetto a mansioni comparabili ma poco esposte. Lo s...",
       "date": "2026-08-24T07:40:05.0000000Z"
-    },
-    {
-      "id": "tomshw:a69dffdc9cec",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "XRING O3, il nuovo chip Xiaomi nascerà da TSMC a 3 nm",
-      "url": "https://www.tomshw.it/hardware/xiaomi-xring-o3-il-chip-proprietario-sara-prodotto-da-tsmc-a-3",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109022/news-flash-928253.png",
-      "summary": "Xiaomi XRING O3 porta avanti il progetto dell’azienda di controllare direttamente una parte sempre più ampia dell’hardware dei propri dispositivi mobili. Il nuovo processore è stato progettato interna...",
-      "date": "2026-08-24T07:00:11.0000000Z"
     },
     {
       "id": "tomshw:624899db9e76",
