@@ -1,7 +1,19 @@
 {
   "category": "cucina",
-  "updated": "2026-08-24T14:12:31.9972657Z",
+  "updated": "2026-08-24T15:02:50.3042376Z",
   "items": [
+    {
+      "id": "giallozafferano:bfc91ad3b0d1",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Tramezzini vegetariani",
+      "url": "https://ricette.giallozafferano.it/Tramezzini-vegetariani.html",
+      "image": "https://www.giallozafferano.it/images/365-36558/Tramezzini-vegetariani_1200x800.jpg",
+      "summary": "I tramezzini vegetariani sono un’idea colorata e sfiziosa per arricchire un buffet o organizzare un aperitivo. Oggi vi mostriamo tre alternative vegetariane ai classici tramezzini , solitamente realizzati con tonno o ...",
+      "date": "2026-08-24T13:41:00.0000000Z"
+    },
     {
       "id": "dissapore:010b5fafbbd3",
       "sourceId": "dissapore",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/365-36540/Focaccia-al-pesto-e-stracchino_1200x800.jpg",
       "summary": "La focaccia al pesto e stracchino è uno di quei lievitati soffici e saporiti, perfetti quando vuoi portare in tavola qualcosa dal gusto semplice ma davvero sfizioso. Noi di GialloZafferano abbiamo un debole per la foc...",
       "date": "2026-08-11T09:38:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:8d8b43f05082",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Carpaccio di melone",
-      "url": "https://ricette.giallozafferano.it/Carpaccio-di-melone.html",
-      "image": "https://www.giallozafferano.it/images/365-36542/Carpaccio-di-melone_1200x800.jpg",
-      "summary": "Il carpaccio di melone è un antipasto estivo fresco, leggero e originale: una ricetta semplice da preparare ma capace di sorprendere per il suo gusto equilibrato. Protagonista è il melone cantalupo, dolce e succoso, t...",
-      "date": "2026-08-07T14:22:00.0000000Z"
     }
   ]
 }
