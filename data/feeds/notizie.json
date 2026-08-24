@@ -1,7 +1,19 @@
 {
   "category": "notizie",
-  "updated": "2026-08-24T03:57:05.0274897Z",
+  "updated": "2026-08-24T04:50:25.1654044Z",
   "items": [
+    {
+      "id": "repubblica:fde6f1777ddf",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Fàbregas e il calcio della mezza porzione",
+      "url": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/08/24/news/fabregas_como_milla_calcio_mezza_porzione-425543801/",
+      "image": null,
+      "summary": "Luis Milla porta alla squadra qualcosa che non c’era, un piede educato che calcia da fermo",
+      "date": "2026-08-24T04:23:11.0000000Z"
+    },
     {
       "id": "ansa:aa2151e64e4a",
       "sourceId": "ansa",
@@ -27,27 +39,15 @@
       "date": "2026-08-24T01:46:22.0000000Z"
     },
     {
-      "id": "repubblica:baa9e1f11d2b",
+      "id": "repubblica:391ca6cdec61",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Il woke ha esagerato ma da quella cultura ho imparato tanto",
-      "url": "https://www.repubblica.it/politica/2026/08/24/news/il_woke_ha_esagerato_ma_da_quella_cultura_ho_imparato_tanto-425543488/",
+      "title": "I giovani di Cl e i migranti: “Basta slogan dai politici, non ci sono ricette semplici”",
+      "url": "https://www.repubblica.it/politica/2026/08/24/news/cl_meeting_rimini_migranti_giovani-425543560/",
       "image": null,
-      "summary": "Mi ha convinto fin da subito l’aver evidenziato quanto le battaglie per i diritti non potessero procedere in serie bensì in parallelo, un diritto insieme a un altro. Delusa invece dall’arroccamento sulle identità",
-      "date": "2026-08-23T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:3fbbab641223",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "L’analista Bortnik: “Fedorov sfida il presidente, ma le urne ora sono un rischio”",
-      "url": "https://www.repubblica.it/esteri/2026/08/24/news/fedorov_sfida_zelensky_ma_le_urne_ora_sono_un_rischio_destabilizzerebbero_ucraina-425543432/",
-      "image": null,
-      "summary": "Il direttore dell’Istituto di politica di Kiev: “Andare al voto è tecnicamente possibile ma destabilizzerebbe il Paese, aiutando così la Russia”",
+      "summary": "La messa del presidente della Cei Zuppi: “In mare tutte le vite vanno salvate, volgare e stupida la polarizzazione sull’accoglienza”",
       "date": "2026-08-23T23:00:00.0000000Z"
     },
     {
@@ -87,6 +87,18 @@
       "date": "2026-08-23T23:00:00.0000000Z"
     },
     {
+      "id": "repubblica:8bc34c4251f5",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Castelli: “L’obiettivo è finire i lavori nel cratere di Amatrice nel ‘35. Danni dal superbonus”",
+      "url": "https://www.repubblica.it/politica/2026/08/24/news/guido_castelli_amatrice_decennale_terremoto_commissario_intervista-425543304/",
+      "image": null,
+      "summary": "Il commissario per la ricostruzione: “Possono esserci tanti imprevisti ma ora stiamo procedendo con un passo diverso”",
+      "date": "2026-08-23T23:00:00.0000000Z"
+    },
+    {
       "id": "repubblica:b10a4e0816c7",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -99,15 +111,15 @@
       "date": "2026-08-23T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:391ca6cdec61",
+      "id": "repubblica:baa9e1f11d2b",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "I giovani di Cl e i migranti: “Basta slogan dai politici, non ci sono ricette semplici”",
-      "url": "https://www.repubblica.it/politica/2026/08/24/news/cl_meeting_rimini_migranti_giovani-425543560/",
+      "title": "Il woke ha esagerato ma da quella cultura ho imparato tanto",
+      "url": "https://www.repubblica.it/politica/2026/08/24/news/il_woke_ha_esagerato_ma_da_quella_cultura_ho_imparato_tanto-425543488/",
       "image": null,
-      "summary": "La messa del presidente della Cei Zuppi: “In mare tutte le vite vanno salvate, volgare e stupida la polarizzazione sull’accoglienza”",
+      "summary": "Mi ha convinto fin da subito l’aver evidenziato quanto le battaglie per i diritti non potessero procedere in serie bensì in parallelo, un diritto insieme a un altro. Delusa invece dall’arroccamento sulle identità",
       "date": "2026-08-23T23:00:00.0000000Z"
     },
     {
@@ -123,15 +135,15 @@
       "date": "2026-08-23T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:393d34cadfd8",
+      "id": "repubblica:3fbbab641223",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Jacques Moretti tra truffe, armi e donne: la vita spericolata del “Corso” di Crans-Montana",
-      "url": "https://milano.repubblica.it/cronaca/2026/08/24/news/jacques_moretti_ritratto_botte_mogllie_jessica_crans-425543565/",
+      "title": "L’analista Bortnik: “Fedorov sfida il presidente, ma le urne ora sono un rischio”",
+      "url": "https://www.repubblica.it/esteri/2026/08/24/news/fedorov_sfida_zelensky_ma_le_urne_ora_sono_un_rischio_destabilizzerebbero_ucraina-425543432/",
       "image": null,
-      "summary": "Il titolare del locale bruciato a Capodanno aveva già collezionato condanne per truffa sui fondi Covid e sfruttamento della prostituzione. Il sospetto del riciclaggio dietro i suoi locali, le amicizie sbagliate e un’i...",
+      "summary": "Il direttore dell’Istituto di politica di Kiev: “Andare al voto è tecnicamente possibile ma destabilizzerebbe il Paese, aiutando così la Russia”",
       "date": "2026-08-23T23:00:00.0000000Z"
     },
     {
@@ -147,27 +159,15 @@
       "date": "2026-08-23T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:8bc34c4251f5",
+      "id": "repubblica:393d34cadfd8",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Castelli: “L’obiettivo è finire i lavori nel cratere di Amatrice nel ‘35. Danni dal superbonus”",
-      "url": "https://www.repubblica.it/politica/2026/08/24/news/guido_castelli_amatrice_decennale_terremoto_commissario_intervista-425543304/",
+      "title": "Jacques Moretti tra truffe, armi e donne: la vita spericolata del “Corso” di Crans-Montana",
+      "url": "https://milano.repubblica.it/cronaca/2026/08/24/news/jacques_moretti_ritratto_botte_mogllie_jessica_crans-425543565/",
       "image": null,
-      "summary": "Il commissario per la ricostruzione: “Possono esserci tanti imprevisti ma ora stiamo procedendo con un passo diverso”",
-      "date": "2026-08-23T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:6d533f0af024",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Leo Bove torna allo stadio dopo la notte di Crans: “Che emozione l’Inter, è stato come rinascere”",
-      "url": "https://milano.repubblica.it/cronaca/2026/08/24/news/leo_bove_crans_montana_stadio_inter-425543594/",
-      "image": null,
-      "summary": "Per sette mesi in ospedale a causa delle ustioni, il ragazzo sabato ha coronato un sogno a San Siro: “Amo il calcio, presto, anche io sarò in campo”",
+      "summary": "Il titolare del locale bruciato a Capodanno aveva già collezionato condanne per truffa sui fondi Covid e sfruttamento della prostituzione. Il sospetto del riciclaggio dietro i suoi locali, le amicizie sbagliate e un’i...",
       "date": "2026-08-23T23:00:00.0000000Z"
     },
     {
