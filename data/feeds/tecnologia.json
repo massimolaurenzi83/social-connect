@@ -1,7 +1,139 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-24T08:09:15.9242514Z",
+  "updated": "2026-08-24T09:04:34.3069974Z",
   "items": [
+    {
+      "id": "tomshw:29731e814bcc",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Samsung sviluppa zHBM, la memoria che si impila sui chip AI",
+      "url": "https://www.tomshw.it/hardware/samsung-sviluppa-zhbm-la-memoria-che-si-impila-sui-chip-ai",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109033/samsung-sviluppa-zhbm-la-memoria-che-si-impila-sui-chip-ai.png",
+      "summary": "Samsung sta sviluppando zHBM, una nuova architettura di memoria che prevede di impilare gli stack DRAM direttamente sopra gli acceleratori. Presentata nell'ambito di una roadmap in tre fasi, la soluzi...",
+      "date": "2026-08-24T08:56:58.0000000Z"
+    },
+    {
+      "id": "tomshw:7faf263d780a",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "How to Fish, il gioco di pesca che su Steam è virale",
+      "url": "https://www.tomshw.it/videogioco/how-to-fish-esplode-su-steam-268-101-giocatori-simultanei",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109077/library_capsule_2x_cropped_0_378_600_714_jpeg_1200x0_crop_q85.jpg",
+      "summary": "A tre giorni dal debutto, How to Fish ha raggiunto un picco di 268.101 giocatori simultanei su Steam. SteamDB ha registrato il dato il 23 agosto 2026, nel pieno della settimana di lancio, mentre il gi...",
+      "date": "2026-08-24T08:56:52.0000000Z"
+    },
+    {
+      "id": "tomshw:842878edf47b",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Un monitor così a 58€? Forse non lo trovate nemmeno usato",
+      "url": "https://www.tomshw.it/hardware/monitor-gaming-ktc-24-190hz-in-offerta-a-soli-58eur-2026-08-24",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109072/monitor-gaming-ktc-24-190hz-in-offerta-a-soli-58eur-2026-08-24-hi9gokvimi3n2qC4xtK.jpg",
+      "summary": "Il Monitor da Gaming KTC H24F8 24' FHD è disponibile su AliExpress al prezzo di 57,99€. Con pannello Fast IPS, frequenza di aggiornamento a 190Hz e tempo di risposta di 1ms, garantisce flu...",
+      "date": "2026-08-24T08:46:05.0000000Z"
+    },
+    {
+      "id": "hdblog:a13de5a384b7",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Samsung Galaxy S26 FE, nessuna sorpresa nemmeno per la batteria",
+      "url": "https://www.hdblog.it/smartphone/articoli/n668147/samsung-galaxy-s26-fe-batteria-capacita/",
+      "image": null,
+      "summary": "Sempre 4.900 mAh, come indica la certificazione dell'Anatel emersa nelle scorse ore.",
+      "date": "2026-08-24T08:45:00.0000000Z"
+    },
+    {
+      "id": "hdblog:5437754a597f",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Ikea sfida eBay: in UK arriva il mercatino online dei mobili usati",
+      "url": "https://www.hdblog.it/home/articoli/n668137/ikea-mercato-usato-seconda-mano-dove/",
+      "image": null,
+      "summary": "Londra come Oslo e Madrid: arriva il mercatino online dell'usato.",
+      "date": "2026-08-24T08:45:00.0000000Z"
+    },
+    {
+      "id": "hdblog:1178d5268f0d",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Odissea di Nolan: svelata la data di uscita digitale e Blu-ray 4K",
+      "url": "https://www.hdblog.it/altadefinizione/articoli/n668143/odissea-uscita-digitale-blu-ray-4k/",
+      "image": null,
+      "summary": "Odissea arriverà in digitale e Blu-ray 4K il 17 novembre dopo quattro mesi al cinema.",
+      "date": "2026-08-24T08:35:00.0000000Z"
+    },
+    {
+      "id": "tomshw:8bb757ebad92",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "MediaWorld lancia il No IVA LG per i clienti MW Club (ma niente TV o PC)",
+      "url": "https://www.tomshw.it/altro/mediaworld-lancia-il-no-iva-lg-per-i-clienti-mw-club-ma-niente-tv-o-pc",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109068/MediaWorld-lancia-il-No-IVA-LG-per-i-clienti-MW-Club-(ma-niente-TV-o-PC).png",
+      "summary": "MediaWorld torna alla carica con una nuova promozione a tempo limitato dedicata esclusivamente ai possessori della carta fedeltà MW Club. Dal 22 al 31 agosto, sia nei punti vendita fisici che s...",
+      "date": "2026-08-24T08:28:03.0000000Z"
+    },
+    {
+      "id": "hdblog:92ce08c075ef",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Il nuovo robot da pavimenti di Xiaomi ha specifiche top a prezzi da midrange",
+      "url": "https://www.hdblog.it/xiaomi/articoli/n668144/xiaomi-robot-vacuum-mop-7c-rullo-videocamera-ai/",
+      "image": null,
+      "summary": "Aspirazione da 30.000 Pa, pulizia a rullo autopulente, navigazione con videocamera AI, base autosvuotante, a poco meno di 300 euro. \"Shut up and take my money\"?",
+      "date": "2026-08-24T08:25:00.0000000Z"
+    },
+    {
+      "id": "dday:e9234611e043",
+      "sourceId": "dday",
+      "source": "DDay.it",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Le Olimpiadi dei robot fanno già la storia, Tiangong Ultra corre i 400 metri in 38,16 secondi: battuto il record umano",
+      "url": "https://www.dday.it/redazione/58446/le-olimpiadi-dei-robot-fanno-gia-la-storia-tiangong-ultra-corre-i-400-metri-in-3816-secondi-battuto-il-record-umano",
+      "image": null,
+      "summary": "",
+      "date": "2026-08-24T08:17:00.0000000Z"
+    },
+    {
+      "id": "hdblog:4e4b651012d3",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "La Cina rinvia Change-7, la missione che deve trovare acqua",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n668136/cina-change-7-rinvio-missione-luna/",
+      "image": null,
+      "summary": "Change-7 slitta: la Cina vuole cercare acqua al polo sud lunare.",
+      "date": "2026-08-24T08:15:00.0000000Z"
+    },
+    {
+      "id": "tomshw:2f352af06e97",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Pronti al rientro? Con MediaWorld acquisti un notebook e ottieni Buoni Spesa fino a 250€",
+      "url": "https://www.tomshw.it/hardware/pronti-al-rientro-con-mediaworld-acquisti-un-notebook-e-ottieni-buoni-spesa-fino-a-250eur",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109064/Pronti-al-rientro-Con-MediaWorld-acquisti-un-notebook-e-ottieni-Buoni-Spesa-fino-a-250€.png",
+      "summary": "Il rientro a scuola e al lavoro si tinge di grandi opportunità tecnologiche grazie alla nuova promozione Gift Card Promo Back to School 2026 lanciata da MediaWorld. Dal 20 al 31 agosto 2026, si...",
+      "date": "2026-08-24T08:13:37.0000000Z"
+    },
     {
       "id": "hdblog:238708205b91",
       "sourceId": "hdblog",
@@ -15,6 +147,18 @@
       "date": "2026-08-24T08:05:00.0000000Z"
     },
     {
+      "id": "tomshw:96d7060da603",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Lenovo Duet Chromebook 11” a 249€, tablet e notebook al minimo storico",
+      "url": "https://www.tomshw.it/offerte/lenovo-duet-chromebook-11-a-249eur-tablet-e-notebook-al-minimo-storico",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109061/tomshw-offer-928533.png",
+      "summary": "Il Lenovo Duet Chromebook 11” costa 249€ su Amazon, suo minimo storico, con il 24% di sconto sul listino di 329€. Tastiera e folio stand inclusi permettono di alternare scrittura, navigazione e...",
+      "date": "2026-08-24T08:03:41.0000000Z"
+    },
+    {
       "id": "tomshw:895d136ccdda",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -25,6 +169,18 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/109058/Promozione-MediaWorld-il-tuo-usato-ti-fa-risparmiare-fino-a-350€-sui-nuovi-prodotti-Samsung.png",
       "summary": "MediaWorld lancia la nuova promozione sulla supervalutazione dell'usato dedicata al mondo Samsung, un'opportunità imperdibile per chi desidera aggiornare i propri dispositivi risparmiando sul p...",
       "date": "2026-08-24T08:03:19.0000000Z"
+    },
+    {
+      "id": "hdblog:9b58293b6e73",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "iPhone 15 ricondizionato pari al nuovo in offerta a 455 euro su eBay",
+      "url": "https://www.hdblog.it/smartphone/offerte/n668134/iphone-15-ricondizionato-pari-al-nuovo-in-offerta-a-455-euro-su-ebay/",
+      "image": null,
+      "summary": "Un modello uscito tre anni fa che introduceva numerose novità, su tutte la porta USB-C, il sensore principale da 48 megapixel e la Dynamic Island.",
+      "date": "2026-08-24T07:51:00.0000000Z"
     },
     {
       "id": "hdblog:fc8ac52aa1a6",
@@ -75,40 +231,16 @@
       "date": "2026-08-24T07:35:00.0000000Z"
     },
     {
-      "id": "tomshw:08044b8088d0",
+      "id": "tomshw:fd9afdfb5e0c",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Back to School Unieuro: l'usato ti fa risparmiare fino a 350€ sul nuovo computer",
-      "url": "https://www.tomshw.it/altro/back-to-school-unieuro-lusato-ti-fa-risparmiare-fino-a-350eur-sul-nuovo-computer",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109042/Back-to-School-Unieuro-l'usato-ti-fa-risparmiare-fino-a-350€-sul-nuovo-computer.png",
-      "summary": "Con l'approssimarsi del rientro a scuola e al lavoro, Unieuro lancia la sua attesissima promozione Back to School, valida dal 24 agosto fino al 17 settembre 2026. Accanto ai tradizionali sconti a vola...",
-      "date": "2026-08-24T07:34:47.0000000Z"
-    },
-    {
-      "id": "tomshw:87ca0bb8fbf6",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Elgato Wave DX al 42%: voce pulita per streaming e podcast",
-      "url": "https://www.tomshw.it/offerte/elgato-wave-dx-al-42-voce-pulita-per-streaming-e-podcast",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109044/tomshw-offer-928424.png",
-      "summary": "Elgato Wave DX costa 69,99€ su Amazon, anziché 119,99€, grazie a uno sconto del 42%. È il minimo storico per questo microfono dinamico XLR, progettato per rendere più nitida la voce durante podcast, s...",
-      "date": "2026-08-24T07:33:02.0000000Z"
-    },
-    {
-      "id": "tomshw:46a38ea83783",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "RTX 5090 arriva a 700 W con mVolt+, senza modifiche hardware",
-      "url": "https://www.tomshw.it/hardware/rtx-5090-arriva-a-700-w-con-mvolt-senza-modifiche-hardware",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109023/rtx-5090-arriva-a-700-w-con-mvolt-senza-modifiche-hardware.png",
-      "summary": "La nuova versione di mVolt+ 0.36 ha esposto controlli nascosti delle GPU Blackwell, consentendo a un overclocker di spingere una GeForce RTX 5090 fino a 700 W. Il risultato supera di 125 W, pari a cir...",
-      "date": "2026-08-24T07:19:19.0000000Z"
+      "title": "Migliori lavapavimenti senza fili (agosto 2026)",
+      "url": "https://www.tomshw.it/altro/migliori-lavapavimenti-senza-fili",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109037/guide-thw-928373.png",
+      "summary": "Tineco Floor ONE S7 Stretch Ultra è la migliore lavapavimenti senza fili della selezione: aspira e lava in una passata, si reclina a 180°, dichiara fino a 50 minuti di autonomia e asciuga il rullo con...",
+      "date": "2026-08-24T07:19:43.0000000Z"
     },
     {
       "id": "hdblog:e4f167104271",
@@ -121,30 +253,6 @@
       "image": null,
       "summary": "Apple dovrebbe aggiornare l'iMac entro la fine dell'anno.",
       "date": "2026-08-24T07:15:00.0000000Z"
-    },
-    {
-      "id": "tomshw:7593e3a953fd",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Galaxy Buds4 Pro conquistano il premio EISA per l'audio hi-fi",
-      "url": "https://www.tomshw.it/smartphone/galaxy-buds4-pro-conquistano-il-premio-eisa-per-laudio-hi-fi",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109021/galaxy-buds4-pro-conquistano-il-premio-eisa-per-l-audio-hi-fi.png",
-      "summary": "Samsung Electronics ha annunciato di recente che i Galaxy Buds4 Pro hanno ricevuto il premio EISA In-Ear Headphones 2026-2027. È la prima volta che un prodotto della famiglia Galaxy Buds ottiene quest...",
-      "date": "2026-08-24T07:13:52.0000000Z"
-    },
-    {
-      "id": "tomshw:66aa845bb7c5",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "La memoria Raptor 3D sfida HBM: più banda e -90% nei consumi",
-      "url": "https://www.tomshw.it/hardware/raptor-3d-dram-promette-banda-da-sram-al-10-dei-consumi-dellhbm",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109019/raptor-3d-dram-promette-banda-da-sram-al-10-dei-consumi-dell-hbm.png",
-      "summary": "d-Matrix ha presentato Raptor 3D DRAM, un'architettura di memoria impilata destinata agli acceleratori per l'intelligenza artificiale. La soluzione vuole avvicinare la banda e l'efficienza energetica...",
-      "date": "2026-08-24T07:10:34.0000000Z"
     },
     {
       "id": "hdblog:5f43d7112e8d",
@@ -171,52 +279,16 @@
       "date": "2026-08-24T07:05:00.0000000Z"
     },
     {
-      "id": "hdblog:0a3b3d7d80da",
-      "sourceId": "hdblog",
-      "source": "HDblog",
+      "id": "tomshw:5c91313148fe",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Apple prepara i suoi Store all'arrivo dei nuovi dispositivi per la casa",
-      "url": "https://www.hdblog.it/tv/articoli/n668128/apple-store-arrivo-nuovi-dispositivi-casa/",
-      "image": null,
-      "summary": "Le modifiche comprenderebbero lo spostamento di alcune sezioni e l'aggiunta di nuovi spazi",
-      "date": "2026-08-24T06:55:00.0000000Z"
-    },
-    {
-      "id": "hdblog:decf20e3f5f9",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "WhatsApp lavora a una nuova sezione Pagamenti: nell'elenco c'è anche lItalia",
-      "url": "https://www.hdblog.it/smartphone/articoli/n668126/whatsapp-prepara-nuova-sezione-pagamenti/",
-      "image": null,
-      "summary": "I riferimenti sono stati trovati nella beta 26.33.10.7",
-      "date": "2026-08-24T06:40:00.0000000Z"
-    },
-    {
-      "id": "hdblog:6f707b6d25e4",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Back to School Unieuro: quattro notebook per studio, lavoro e gaming",
-      "url": "https://www.hdblog.it/tecnologia/offerte/n666821/back-to-school-unieuro-quattro-notebook-per-studio-lavoro-e-gaming/",
-      "image": null,
-      "summary": "Dal 24 agosto al 6 settembre il Back to School Unieuro coinvolge PC e notebook, con ritiro dellusato a casa e rimborso fino a 350 euro.",
-      "date": "2026-08-24T06:31:00.0000000Z"
-    },
-    {
-      "id": "hdblog:38ceb7321ac9",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Un nuovo materiale al diamante resiste a impatti oltre Mach 7",
-      "url": "https://www.hdblog.it/tecnologia/articoli/n668098/diamante-grafite-impatto-ipersonico/",
-      "image": null,
-      "summary": "Un composito al diamante cambia struttura sotto impatti ipersonici e assorbe energia",
-      "date": "2026-08-24T06:15:00.0000000Z"
+      "title": "Migliori hard disk interni (agosto 2026)",
+      "url": "https://www.tomshw.it/hardware/migliori-hard-disk",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/93456/migliori-hard-disk-interni-copertina.jpg",
+      "summary": "Gli hard disk interni restano una scelta molto concreta quando serve tanto spazio senza far salire troppo il costo complessivo del PC, del NAS o di una piccola infrastruttura di archiviazione. Gli SSD...",
+      "date": "2026-08-24T06:22:01.0000000Z"
     },
     {
       "id": "tomshw:504ecf646909",
@@ -231,30 +303,6 @@
       "date": "2026-08-24T06:13:54.0000000Z"
     },
     {
-      "id": "hdblog:e7b7819159f3",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "iPhone pieghevole, prime impressioni positive su cerniera e portabilità",
-      "url": "https://www.hdblog.it/smartphone/articoli/n668121/iphone-pieghevole-prime-impressioni/",
-      "image": null,
-      "summary": "Apple avrebbe lavorato anche sull'interfaccia per sfruttare lo schermo interno più grande",
-      "date": "2026-08-24T06:10:00.0000000Z"
-    },
-    {
-      "id": "hdblog:ca646edc9825",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Mistero nei cieli antartici: il C-17 USA fa dietrofront",
-      "url": "https://www.hdblog.it/tecnologia/articoli/n668096/russia-missile-c17-usa-antartide/",
-      "image": null,
-      "summary": "Unattività missilistica russa interrompe una delicata missione USA verso lAntartide.",
-      "date": "2026-08-24T06:05:00.0000000Z"
-    },
-    {
       "id": "dday:8fee585c6d8f",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -265,42 +313,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-24T06:02:00.0000000Z"
-    },
-    {
-      "id": "tomshw:ad28f9b085d1",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Sony WH-CH720N a 64€: cancellazione del rumore con il 28% di sconto",
-      "url": "https://www.tomshw.it/hardware/sony-wh-ch720n-a-64-euro-cancellazione-rumore-sconto-28-2026-08-24",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107923/sony-wh-ch720n-a-64-euro-2026-08-18-YN4xod0l2k1llc7kcmscfFXpKv.png",
-      "summary": "Sony WH-CH720N sono cuffie wireless over-ear con cancellazione attiva del rumore, connessione multipoint e un peso contenuto di 192 grammi. Il prezzo attuale le rende particolarmente competitive nella...",
-      "date": "2026-08-24T05:13:13.0000000Z"
-    },
-    {
-      "id": "tomshw:5e6b192bc560",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Bowers & Wilkins Px7 S3: le cuffie premium ora costano 124€ in meno",
-      "url": "https://www.tomshw.it/hardware/bowers-wilkins-px7-s3-cuffie-premium-124-euro-in-meno-2026-08-24",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108984/bowers-wilkins-px7-s3-cuffie-premium-124-euro-in-meno-2026-08-2s0bcnac2vj8nfC7dgl9.png",
-      "summary": "Bowers & Wilkins Px7 S3 sono cuffie over-ear wireless di fascia alta, con cancellazione attiva del rumore, supporto aptX Lossless e autonomia dichiarata fino a 30 ore. L’offerta riduce nettamente...",
-      "date": "2026-08-24T05:13:04.0000000Z"
-    },
-    {
-      "id": "tomshw:5699b3d75482",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Marshall Stanmore III a 278€: 120€ di risparmio sul diffusore da salotto",
-      "url": "https://www.tomshw.it/hardware/marshall-stanmore-iii-a-278-euro-risparmio-da-120-euro-2026-08-24",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108983/marshall-stanmore-iii-a-278-euro-risparmio-da-120-euro-2026-08-ht1k6r9kqlpfb74MSdE.png",
-      "summary": "Marshall Stanmore III è un diffusore Bluetooth da salotto che punta su una scena stereo ampia, comandi immediati e connessioni anche per sorgenti tradizionali. L’offerta attuale riduce sensibilmente l...",
-      "date": "2026-08-24T05:12:55.0000000Z"
     },
     {
       "id": "techprincess:Q4u5gSuDpF8",
@@ -434,18 +446,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-21T08:46:00.0000000Z"
-    },
-    {
-      "id": "dday:bc97239ab4b0",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Addio tegole solari di Tesla: le Solar Roof non erano economicamente sostenibili",
-      "url": "https://www.dday.it/redazione/58435/addio-tegole-solari-di-tesla-le-solar-roof-non-erano-economicamente-sostenibili",
-      "image": null,
-      "summary": "",
-      "date": "2026-08-21T07:55:00.0000000Z"
     },
     {
       "id": "techprincess:doYvlFZh9Ow",

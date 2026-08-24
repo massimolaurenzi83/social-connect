@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-08-24T08:09:15.9158487Z",
+  "updated": "2026-08-24T09:04:34.3255006Z",
   "items": [
+    {
+      "id": "motor1:54f0e558b778",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Volkswagen T-Roc diventa un pick-up compatto",
+      "url": "https://it.motor1.com/news/805843/volkswagen-tukan-brasile-prezzi/",
+      "image": "https://cdn.motor1.com/images/mgl/6Z8kkE/s3/volkswagen-tukan-2027.jpg",
+      "summary": "Debutta in Brasile il Tukan, pick-up compatto basato sulla piattaforma MQB. Resterà in Sud America",
+      "date": "2026-08-24T09:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:4b1009f4c4f9",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Opel Frontera, pronto l’allestimento Start per competere con Dacia",
+      "url": "https://www.hdmotori.it/opel-frontera-allestimento-start/",
+      "image": null,
+      "summary": "Stellantis ha un piano chiaro per sfidare brand come Dacia con prezzi alla portata. Opel ha ampliato la sua offerta per la Frontera. The post Opel Frontera, pronto l’allestimento Start per competere con Dacia appeared...",
+      "date": "2026-08-24T08:00:01.0000000Z"
+    },
+    {
+      "id": "motor1:a9ce7d18063b",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "\"La situazione è più che critica\": il capo di Volkswagen avverte i dipendenti",
+      "url": "https://it.motor1.com/news/805833/volkswagen-ceo-tempi-difficili/",
+      "image": "https://cdn.motor1.com/images/mgl/XB6EQE/s3/vw-id.5-production.jpg",
+      "summary": "Volkswagen sta affrontando una massiccia ristrutturazione per tagliare i costi",
+      "date": "2026-08-24T08:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:0f306e83cebb",
       "sourceId": "vaielettrico",
@@ -411,18 +447,6 @@
       "date": "2026-08-21T14:00:31.0000000Z"
     },
     {
-      "id": "motor1:f38fa5d06c86",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Range Rover ha realizzato un  esemplare unico che non si può ordinare",
-      "url": "https://it.motor1.com/news/805690/range-rover-sv-pearl-luster/",
-      "image": "https://cdn.motor1.com/images/mgl/koK31B/s3/range-rover-sv-pearl-luster.jpg",
-      "summary": "La Range Rover SV Pearl Luster anticipa come SV Bespoke stia passando dalle opzioni standard a realizzazioni SUV su commissione",
-      "date": "2026-08-21T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:1d2af046ec51",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -432,18 +456,6 @@
       "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
       "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
       "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
-      "date": "2026-08-21T13:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:5ab500bc4912",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Praga Bohema batte il record di Pagani a Spa",
-      "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
-      "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
-      "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
       "date": "2026-08-21T13:00:00.0000000Z"
     },
     {
@@ -481,18 +493,6 @@
       "image": "https://cdn.motor1.com/images/mgl/lEGgAl/s3/ricarica-bidirezionale-v2g.jpg",
       "summary": "Tra progetti pilota ENEA Terna e obbligo EN ISO 15118-20 dal 2027, il V2G resta legato a offerte chiuse e poche combinazioni compatibili.",
       "date": "2026-08-21T11:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:6495036a68fd",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Toyota Corolla: negli USA arriva l’edizione limitata per i 60 anni",
-      "url": "https://www.hdmotori.it/toyota-corolla-60-anni/",
-      "image": null,
-      "summary": "Toyota celebra i 60 anni della Corolla con il Model Year 2027 e l'inedita 60th Anniversary Special Edition, edizione limitata da 2.500 unità, insieme a nuovi dettagli estetica e motorizzazioni THS 5. The post Toyota C...",
-      "date": "2026-08-21T10:00:50.0000000Z"
     },
     {
       "id": "insideevs:ec222eae2365",

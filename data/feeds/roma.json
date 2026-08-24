@@ -1,7 +1,19 @@
 {
   "category": "roma",
-  "updated": "2026-08-24T08:09:15.9135435Z",
+  "updated": "2026-08-24T09:04:34.3174754Z",
   "items": [
+    {
+      "id": "romatoday:e3c301b7411f",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "È morto Alessandro Filippi, direttore generale di Ama",
+      "url": "https://www.romatoday.it/politica/alessandro-filippi-ama-morto.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/57686982157323/ama-filippi.jpg",
+      "summary": "Ingegnere stimato già tra il 2014 e il 2016 era già stato direttore generale dell'azienda dei rifiuti di Roma",
+      "date": "2026-08-24T08:06:40.0000000Z"
+    },
     {
       "id": "romatoday:f9cd96738199",
       "sourceId": "romatoday",
@@ -25,6 +37,18 @@
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/21890087893727/professional-physician-wearing-white-coat-talking-2026-03-17-20-20-50-utc.jpg",
       "summary": "Accanto alla competenza clinica e all'innovazione tecnologica, cresce il ruolo di ascolto, relazione e attenzione alla persona nella costruzione di un'assistenza sempre più vicina ai cittadini",
       "date": "2026-08-24T08:00:00.0000000Z"
+    },
+    {
+      "id": "romatoday:c67d69cf8c19",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Rocca ancora contro Lotito: \"La sua stagione alla guida della Lazio è conclusa\"",
+      "url": "https://www.romatoday.it/politica/rocca-contro-lotito-cessione-lazio.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/33835399381598/lotito-e-rocca.jpg",
+      "summary": "Il governatore ai microfoni di ilsussidario.net ha parlato ancora una volta della situazione del club biancoceleste auspicando che il patron laziale valuti la cessione della squadra",
+      "date": "2026-08-24T07:58:43.0000000Z"
     },
     {
       "id": "romatoday:0bbb6a277bec",
@@ -121,30 +145,6 @@
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/44486481946243/api-alveare.jpg",
       "summary": "La produzione del miele è crollata ma dal 2025 il numero di aziende apistiche è più che triplicato nel Lazio. Un apparente paradosso che dimostra il crescente interesse della popolazione nei confronti di un prodotto c...",
       "date": "2026-08-24T04:07:00.0000000Z"
-    },
-    {
-      "id": "romatoday:a9ff53425124",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Così il gigante francese sta comprando il mercato dei funerali a Roma",
-      "url": "https://www.romatoday.it/dossier/economia/finanza-funeraria-altair-funecap-eurocof-funeral.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/51773654480052/funerale-luca-giurato-foto-lapresse-cecilia-fabiano.jpg",
-      "summary": "Dalle storiche imprese a conduzione familiare ai gruppi di private equity. Anche il settore funerario diventa terreno per gli investitori. Cosa significa l'acquisizione di Eurocof e Funeral da parte di Altair Funecap ...",
-      "date": "2026-08-24T03:18:00.0000000Z"
-    },
-    {
-      "id": "romatoday:af7764b4747b",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Incendio vicino ai binari, in tilt i treni tra Roma e Napoli: ritardi fino a 180 minuti",
-      "url": "https://www.romatoday.it/attualita/treni-roma-napoli-oggi-ritardi-incendio.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/65924228848548/treno-roma-napoli-2.jpg",
-      "summary": "Dal primo pomeriggio di oggi, domenica 23 agosto, la circolazione è fortemente rallentata a causa di un incendio nei pressi della linea ferroviaria tra Villa Literno e Sessa Aurunca in direzione Napoli",
-      "date": "2026-08-23T17:19:09.0000000Z"
     },
     {
       "id": "roma-repubblica:cfc7e14763b5",

@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-24T08:09:15.9061895Z",
+  "updated": "2026-08-24T09:04:34.3153425Z",
   "items": [
+    {
+      "id": "qualenergia:a14580aeb9b0",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Dai raccolti ai prezzi, i rischi alimentari di un mondo a +2 °C",
+      "url": "https://www.qualenergia.it/articoli/raccolti-prezzi-rischi-alimentari-mondo-piu-2-gradi-celsius/",
+      "image": null,
+      "summary": "Con due gradi in più di temperatura globale, il sistema alimentare mondiale entrerebbe in una zona di rischio molto alta. Rese agricole in calo, shock simultanei nei grandi granai del pianeta, prezzi più instabili e a...",
+      "date": "2026-08-24T08:30:38.0000000Z"
+    },
     {
       "id": "qualenergia:f8940c7a608f",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Nel primo semestre 2026 i consumi di gas in Italia sono pressoché stabili (+0,2%) rispetto allo stesso periodo del 2025. Un grafico ci aiuta a visualizzare l’andamento semestrale dei consumi italiani di gas naturale: ...",
       "date": "2026-08-21T09:00:27.0000000Z"
-    },
-    {
-      "id": "qualenergia:e7d8a1453b93",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Cosa prevede il Piano sociale clima da 9,35 miliardi approvato dal governo",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/piano-sociale-clima-cosa-piano-governo/",
-      "image": null,
-      "summary": "Il 4 agosto è arrivato il via libera del governo al Piano sociale per il clima da 9,347 miliardi di euro. Il 6 agosto, il Mase ha poi pubblicato il testo (in basso), trasmesso alla Commissione europea, che al momento ...",
-      "date": "2026-08-21T09:00:07.0000000Z"
     }
   ]
 }
