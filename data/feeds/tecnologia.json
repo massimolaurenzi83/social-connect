@@ -1,7 +1,43 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-24T17:44:49.4350214Z",
+  "updated": "2026-08-24T18:16:53.0295375Z",
   "items": [
+    {
+      "id": "hdblog:7092b24ad8bb",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Google Pixel 11 Pro Fold passa da JerryRigEverything: ennesimo KO",
+      "url": "https://www.hdblog.it/smartphone/articoli/n668235/google-pixel-11-pro-fold-bend-test-distrutto/",
+      "image": null,
+      "summary": "Come tutti i predecessori il device esce completamente distrutto e irrecuperabile dalle grinfie di Zack Nelson.",
+      "date": "2026-08-24T18:11:00.0000000Z"
+    },
+    {
+      "id": "hdblog:428bfd35ce7a",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Il ritorno del cambio manuale, perché le supercar riscoprono il terzo pedale",
+      "url": "https://www.hdmotori.it/ritorno-cambio-manuale-supercar/",
+      "image": null,
+      "summary": "",
+      "date": "2026-08-24T18:00:25.0000000Z"
+    },
+    {
+      "id": "tomshw:6dc0ea7a19a8",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Corsair HS65 Surround da 89,99€ a 59,99€, un affare per giocare in 7.1",
+      "url": "https://www.tomshw.it/offerte/corsair-hs65-surround-da-8999eur-a-5999eur-un-affare-per-giocare-in-71",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109309/tomshw-offer-929977.png",
+      "summary": "Le Corsair HS65 Surround costano 59,99€ su Amazon, anziché 89,99€ di listino, con uno sconto del 33%. L’audio 7.1 e il funzionamento cablato le rendono interessanti per chi vuole giocare su più piatta...",
+      "date": "2026-08-24T17:33:50.0000000Z"
+    },
     {
       "id": "hdblog:bdd4b2f0ccda",
       "sourceId": "hdblog",
@@ -135,18 +171,6 @@
       "date": "2026-08-24T16:15:00.0000000Z"
     },
     {
-      "id": "hdblog:b1e12fd884bd",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Idrogeno naturale in Cina: trovato gas puro fino al 98,24%",
-      "url": "https://www.hdblog.it/green/articoli/n668097/idrogeno-naturale-cina-sichuan/",
-      "image": null,
-      "summary": "Nel Sichuan scoperto idrogeno naturale con una purezza record fino al 98,24%.",
-      "date": "2026-08-24T16:05:00.0000000Z"
-    },
-    {
       "id": "tomshw:a6da34f3e504",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -169,30 +193,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/109289/tomshw-offer-929862.png",
       "summary": "Samsung Galaxy Watch Ultra2 costa 655€ su Amazon, invece di 749€, con uno sconto del 13% e 94€ di risparmio. La combinazione fra autonomia fino a 60 ore, rivestimento in titanio e versione LTE lo ren...",
       "date": "2026-08-24T16:03:46.0000000Z"
-    },
-    {
-      "id": "hdblog:0d87971d38a4",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Caro carburante, agosto da record: fino a 1 miliardo di euro in più rispetto al 2025",
-      "url": "https://www.hdmotori.it/carburante-agosto-record-1-miliardo/",
-      "image": null,
-      "summary": "Secondo le stime di Facile.it, gli automobilisti italiani potrebbero spendere oltre 1 miliardo di euro in più rispetto ad agosto 2025 tra benzina e diesel",
-      "date": "2026-08-24T16:00:55.0000000Z"
-    },
-    {
-      "id": "tomshw:10a4932b7836",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "The Witcher IV: CD Projekt RED punta al debutto nel 2028",
-      "url": "https://www.tomshw.it/videogioco/the-witcher-iv-cd-projekt-red-punta-al-debutto-nel-2028",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109284/ar3nks.jpg",
-      "summary": "Il 2028 è la prima finestra di lancio concreta associata a The Witcher IV. CD Projekt RED l’ha indicata attraverso l’account ufficiale di The Witcher, chiarendo così l’orizzonte previsto per il nuovo...",
-      "date": "2026-08-24T15:51:56.0000000Z"
     },
     {
       "id": "dday:b275e11c1fef",
@@ -255,6 +255,18 @@
       "date": "2026-08-24T12:31:37.0000000Z"
     },
     {
+      "id": "tomshw:dcdd270f1064",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Migliori monitor per PC (agosto 2026)",
+      "url": "https://www.tomshw.it/guide/migliori-monitor-pc",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89685/migliori-monitor-pc-copertina.jpg",
+      "summary": "Scegliere un nuovo monitor per il vostro computer può sembrare semplice finché non iniziate a confrontare risoluzione, diagonale, refresh rate, pannello, porte e funzioni software. La scheda tecnica d...",
+      "date": "2026-08-24T11:26:57.0000000Z"
+    },
+    {
       "id": "tomshw:53c755c18b43",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -267,16 +279,16 @@
       "date": "2026-08-24T11:24:42.0000000Z"
     },
     {
-      "id": "tomshw:e3448b7cd8b2",
+      "id": "tomshw:af3b692b0025",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Migliori dissipatori a liquido per CPU (agosto 2026)",
-      "url": "https://www.tomshw.it/hardware/migliori-dissipatori-liquido-cpu",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89411/migliori-dissipatori-liquido-cpu-copertina.jpg",
-      "summary": "Scegliere uno dei migliori dissipatori a liquido per CPU non significa soltanto cercare temperature più basse nei benchmark. In una build moderna conta mantenere il processore stabile quando lavora a...",
-      "date": "2026-08-24T11:22:15.0000000Z"
+      "title": "Tengono viva la pelle umana per un mese, così l'AI trova le molecole giuste",
+      "url": "https://www.tomshw.it/business/tengono-viva-la-pelle-umana-per-un-mese-cosi-lai-trova-le-molecole-giuste",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109193/10-cover.jpg",
+      "summary": "Outer Biosciences tiene in vita frammenti di pelle umana donata per circa trenta giorni, ci mette alla prova dei composti chimici e usa quello che succede per addestrare un modello predittivo. La soci...",
+      "date": "2026-08-24T11:15:03.0000000Z"
     },
     {
       "id": "tomshw:2afa2d92bf15",
@@ -289,18 +301,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/109182/01-cover.jpg",
       "summary": "Da quanto l’AI è entrata nelle nostre vite professionali, l’obiettivo non è mai cambiato: efficientare, fare di più con meno. Bene o male tutti sognano di creare un margine maggiore riducendo il perso...",
       "date": "2026-08-24T11:00:08.0000000Z"
-    },
-    {
-      "id": "tomshw:d1946a80744e",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "5 prompt Claude per scrivere un RFQ professionale in meno di un'ora",
-      "url": "https://www.tomshw.it/aioperator/5-prompt-claude-per-scrivere-un-rfq-professionale-in-meno-di-un-ora",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109089/04-acq02-cover.jpg",
-      "summary": "Un ufficio acquisti spedisce la stessa RFQ, la richiesta di offerta con cui si chiede un preventivo vincolante a più fornitori, a quattro aziende diverse. Tornano quattro documenti che non si possono...",
-      "date": "2026-08-24T10:50:47.0000000Z"
     },
     {
       "id": "dday:cd4c10bd51f7",
@@ -387,18 +387,6 @@
       "date": "2026-08-24T07:42:00.0000000Z"
     },
     {
-      "id": "tomshw:77f05e7ab8e7",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Mancano i condensatori per le auto, e anche questo è colpa dell'AI e dei data center",
-      "url": "https://www.tomshw.it/business/mancano-i-condensatori-per-le-auto-e-anche-questo-e-colpa-dellai-e-dei-data-center",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109052/09-cover.jpg",
-      "summary": "Il collo di bottiglia che fra il 2020 e il 2022 ha fermato le linee di montaggio aveva un colpevole comodo da nominare, il chip logico. Il pezzo che oggi tiene in ostaggio le stesse fabbriche costa po...",
-      "date": "2026-08-24T07:40:05.0000000Z"
-    },
-    {
       "id": "tomshw:cce4e24db39c",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -409,6 +397,18 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/109032/2020-08-16-image-jpg.webp",
       "summary": "Il 21 agosto 2026, alle 16:49:54 UTC, Linus Torvalds ha integrato nel ramo principale di Linux il tag fbdev-for-7.3-rc1. Il commit 531ed942bb0df04f6747983fecdedce76a22d07f include cinque modifiche al...",
       "date": "2026-08-24T07:16:12.0000000Z"
+    },
+    {
+      "id": "tomshw:3fc55695bf98",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Laptop prende fuoco in volo: paura su American Airlines",
+      "url": "https://www.tomshw.it/altro/laptop-in-fiamme-sul-volo-american-airlines-1-persona-medicata",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108993/gettyimages-2272819697.jpg",
+      "summary": "Un laptop ha iniziato a fumare e ha preso fuoco nella cabina del volo American Airlines 2398, quando mancava circa mezz’ora all’arrivo a Dallas. L’incidente si è verificato venerdì, durante la fase fi...",
+      "date": "2026-08-24T06:08:03.0000000Z"
     },
     {
       "id": "dday:8fee585c6d8f",
