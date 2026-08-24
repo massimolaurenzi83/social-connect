@@ -1,7 +1,79 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-24T15:52:12.5694747Z",
+  "updated": "2026-08-24T16:25:50.3917922Z",
   "items": [
+    {
+      "id": "hdblog:aea3ed2017df",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "ClasseViva sotto scacco hacker? Spaggiari ammette un attacco, ma ridimensiona",
+      "url": "https://www.hdblog.it/sicurezza/articoli/n668217/classeviva-sotto-attacco-hacker/",
+      "image": null,
+      "summary": "Un attacco hacker rivendicato contro Spaggiari Parma ha acceso l'allarme tra milioni di famiglie, ma il registro elettronico ClasseViva non sarebbe stato toccato: nel mirino solo la piattaforma per...",
+      "date": "2026-08-24T16:15:00.0000000Z"
+    },
+    {
+      "id": "hdblog:b1e12fd884bd",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Idrogeno naturale in Cina: trovato gas puro fino al 98,24%",
+      "url": "https://www.hdblog.it/green/articoli/n668097/idrogeno-naturale-cina-sichuan/",
+      "image": null,
+      "summary": "Nel Sichuan scoperto idrogeno naturale con una purezza record fino al 98,24%.",
+      "date": "2026-08-24T16:05:00.0000000Z"
+    },
+    {
+      "id": "tomshw:6de9f2cedc00",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Samsung Galaxy Watch Ultra2 a 655€, il minimo di sempre per sport e avventura",
+      "url": "https://www.tomshw.it/offerte/samsung-galaxy-watch-ultra2-a-655eur-il-minimo-di-sempre-per-sport-e-avventura",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109289/tomshw-offer-929862.png",
+      "summary": "Samsung Galaxy Watch Ultra2 costa 655€ su Amazon, invece di 749€, con uno sconto del 13% e 94€ di risparmio. La combinazione fra autonomia fino a 60 ore, rivestimento in titanio e versione LTE lo ren...",
+      "date": "2026-08-24T16:03:46.0000000Z"
+    },
+    {
+      "id": "hdblog:0d87971d38a4",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Caro carburante, agosto da record: fino a 1 miliardo di euro in più rispetto al 2025",
+      "url": "https://www.hdmotori.it/carburante-agosto-record-1-miliardo/",
+      "image": null,
+      "summary": "Secondo le stime di Facile.it, gli automobilisti italiani potrebbero spendere oltre 1 miliardo di euro in più rispetto ad agosto 2025 tra benzina e diesel",
+      "date": "2026-08-24T16:00:55.0000000Z"
+    },
+    {
+      "id": "hdblog:47d0efc16347",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Nori A3, il robot domestico che costa meno di 1.500 euro",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n668102/nori-a3-robot-domestico-1450-euro/",
+      "image": null,
+      "summary": "Nori A3 porta braccia robotiche, LiDAR e telecamere in casa per circa 1.445 euro",
+      "date": "2026-08-24T15:55:00.0000000Z"
+    },
+    {
+      "id": "tomshw:10a4932b7836",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "The Witcher IV: CD Projekt RED punta al debutto nel 2028",
+      "url": "https://www.tomshw.it/videogioco/the-witcher-iv-cd-projekt-red-punta-al-debutto-nel-2028",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109284/ar3nks.jpg",
+      "summary": "Il 2028 è la prima finestra di lancio concreta associata a The Witcher IV. CD Projekt RED l’ha indicata attraverso l’account ufficiale di The Witcher, chiarendo così l’orizzonte previsto per il nuovo...",
+      "date": "2026-08-24T15:51:56.0000000Z"
+    },
     {
       "id": "hdblog:b739f46fdc01",
       "sourceId": "hdblog",
@@ -123,18 +195,6 @@
       "date": "2026-08-24T14:41:00.0000000Z"
     },
     {
-      "id": "tomshw:a643d0532081",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Carte Pokémon e One Piece: sequestro da 27.000 euro a Malpensa",
-      "url": "https://www.tomshw.it/altro/carte-pokemon-e-one-piece-sequestro-da-27-000-euro-a-malpensa",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109256/generic_image.jpg",
-      "summary": "Un lotto di 605 carte Pokémon e One Piece, stimato oltre 27.000 euro, è stato trovato nei bagagli di un passeggero arrivato da Tokyo all’Aeroporto di Milano Malpensa. Il viaggiatore aveva attraversato...",
-      "date": "2026-08-24T14:32:29.0000000Z"
-    },
-    {
       "id": "tomshw:46e2353c5702",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -169,90 +229,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/109254/thomson-reuters-lancia-la-sua-ai-e-riduce-la-dipendenza-dai-colossi.png",
       "summary": "Thomson Reuters ha presentato Thomson, il suo primo modello linguistico proprietario, sviluppato per ridurre la dipendenza operativa ed economica dai grandi fornitori di AI. Il sistema debutterà nelle...",
       "date": "2026-08-24T14:27:14.0000000Z"
-    },
-    {
-      "id": "hdblog:837cd3101173",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Pokémon e One Piece, sequestro di 605 carte a Malpensa: valore di 27.000 euro",
-      "url": "https://www.hdblog.it/games/articoli/n668204/malpensa-sequestro-carte-pokemon-one-piece-27000/",
-      "image": null,
-      "summary": "Un tesoro collezionabile in valigia: non dichiarato, però.",
-      "date": "2026-08-24T14:25:00.0000000Z"
-    },
-    {
-      "id": "hdblog:d0c9526993b2",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Amazfit Active Max in offerta a 130 su Amazon: lo smartwatch per chi vuole rimettersi in movimento",
-      "url": "https://www.hdblog.it/indossabili/offerte/n668206/amazfit-active-max-smartwatch-amazon-prezzo-minimo/",
-      "image": null,
-      "summary": "Amazfit Active Max è in offerta su Amazon a 130,10: AMOLED da 1,5\", autonomia fino a 25 giorni, mappe offline, GPS, NFC e oltre 170 sport.",
-      "date": "2026-08-24T14:15:00.0000000Z"
-    },
-    {
-      "id": "hdblog:29a15d50eb67",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Dagli scarti di cibo al calore: la membrana che rivoluziona l'efficienza degli edifici",
-      "url": "https://www.hdblog.it/home/articoli/n668192/biochar-scarti-cibo-efficienza-termica/",
-      "image": null,
-      "summary": "Efficienza e lunga durata, fino ad oltre 1.000 cicli.",
-      "date": "2026-08-24T14:15:00.0000000Z"
-    },
-    {
-      "id": "tomshw:32a628752b41",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Apple ridurrebbe il team Vision Pro per puntare sugli smart glass",
-      "url": "https://www.tomshw.it/hardware/apple-ridurrebbe-il-team-vision-pro-per-puntare-sugli-smart-glass",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109250/apple-ridurrebbe-il-team-vision-pro-per-puntare-sugli-smart-glass.png",
-      "summary": "Apple avrebbe ridimensionato le squadre dedicate alla realtà virtuale, tagliando diversi ruoli all'interno del Vision Products Group. Il riassetto indicherebbe una maggiore concentrazione sugli occhia...",
-      "date": "2026-08-24T14:05:34.0000000Z"
-    },
-    {
-      "id": "hdblog:577401873dc3",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "REX G1, il robot umanoide che cambia batteria in 5 secondi",
-      "url": "https://www.hdblog.it/tecnologia/articoli/n668093/rex-g1-robot-umanoide-cina/",
-      "image": null,
-      "summary": "REX G1 unisce mobilità, manipolazione e AI con batteria sostituibile in 5 secondi",
-      "date": "2026-08-24T14:05:00.0000000Z"
-    },
-    {
-      "id": "tomshw:85458e13a637",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "ALMA, il nuovo processore europeo aumenta velocità e sensibilità",
-      "url": "https://www.tomshw.it/scienze/eso-commissiona-il-processore-che-per-alma-vale-sei-antenne",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109246/eso-commissiona-il-processore-che-per-alma-vale-sei-antenne.png",
-      "summary": "ESO ha affidato al CNRS francese lo sviluppo di un nuovo processore a frequenza intermedia per ALMA, l’osservatorio radioastronomico installato nel deserto cileno di Atacama. L’accordo, firmato nei gi...",
-      "date": "2026-08-24T14:04:41.0000000Z"
-    },
-    {
-      "id": "tomshw:66baf2d785af",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "HONOR Magic V2 sotto i 700€ apre 7,92″ per lavorare e giocare, ne vale la spesa",
-      "url": "https://www.tomshw.it/offerte/honor-magic-v2-sotto-i-700eur-apre-792-per-lavorare-e-giocare-ne-vale-la-spesa",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109251/tomshw-offer-929533.png",
-      "summary": "HONOR Magic V2 a 692€ su Amazon passa dai 782€ di listino al prezzo attuale con uno sconto del 12%. Il corpo sottile e il display OLED pieghevole da 7,92 pollici permettono di lavorare, giocare e guar...",
-      "date": "2026-08-24T14:03:20.0000000Z"
     },
     {
       "id": "dday:f5e62d811473",
@@ -291,6 +267,18 @@
       "date": "2026-08-24T12:47:00.0000000Z"
     },
     {
+      "id": "tomshw:e3448b7cd8b2",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Migliori dissipatori a liquido per CPU (agosto 2026)",
+      "url": "https://www.tomshw.it/hardware/migliori-dissipatori-liquido-cpu",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89411/migliori-dissipatori-liquido-cpu-copertina.jpg",
+      "summary": "Scegliere uno dei migliori dissipatori a liquido per CPU non significa soltanto cercare temperature più basse nei benchmark. In una build moderna conta mantenere il processore stabile quando lavora a...",
+      "date": "2026-08-24T11:22:15.0000000Z"
+    },
+    {
       "id": "tomshw:d0bae5815dae",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -301,6 +289,18 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/05/93637/migliori-kit-fotovoltaici-accumulo-copertina.jpg",
       "summary": "Un kit fotovoltaico con accumulo è una soluzione interessante quando volete produrre energia solare e usarla anche quando il sole non c'è, senza limitarvi al solo autoconsumo istantaneo. La scelta, pe...",
       "date": "2026-08-24T11:19:03.0000000Z"
+    },
+    {
+      "id": "tomshw:d1946a80744e",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "5 prompt Claude per scrivere un RFQ professionale in meno di un'ora",
+      "url": "https://www.tomshw.it/aioperator/5-prompt-claude-per-scrivere-un-rfq-professionale-in-meno-di-un-ora",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109089/04-acq02-cover.jpg",
+      "summary": "Un ufficio acquisti spedisce la stessa RFQ, la richiesta di offerta con cui si chiede un preventivo vincolante a più fornitori, a quattro aziende diverse. Tornano quattro documenti che non si possono...",
+      "date": "2026-08-24T10:50:47.0000000Z"
     },
     {
       "id": "dday:cd4c10bd51f7",
@@ -387,15 +387,15 @@
       "date": "2026-08-24T07:42:00.0000000Z"
     },
     {
-      "id": "tomshw:196ec59931a4",
+      "id": "tomshw:77f05e7ab8e7",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Se i documenti aziendali sono un pasticcio, non c'è AI che ti salverà",
-      "url": "https://www.tomshw.it/business/se-i-documenti-aziendali-sono-un-pasticcio-non-ce-ai-che-ti-salvera",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109050/07-cover.jpg",
-      "summary": "Ogni progetto di AI aziendale comincia con lo stesso gesto: collegare i sistemi, spezzare i documenti in frammenti, generare le rappresentazioni vettoriali, costruire una catena di recupero. Poi si ri...",
+      "title": "Mancano i condensatori per le auto, e anche questo è colpa dell'AI e dei data center",
+      "url": "https://www.tomshw.it/business/mancano-i-condensatori-per-le-auto-e-anche-questo-e-colpa-dellai-e-dei-data-center",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109052/09-cover.jpg",
+      "summary": "Il collo di bottiglia che fra il 2020 e il 2022 ha fermato le linee di montaggio aveva un colpevole comodo da nominare, il chip logico. Il pezzo che oggi tiene in ostaggio le stesse fabbriche costa po...",
       "date": "2026-08-24T07:40:05.0000000Z"
     },
     {

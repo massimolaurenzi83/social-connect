@@ -1,7 +1,31 @@
 {
   "category": "roma",
-  "updated": "2026-08-24T15:52:12.5865799Z",
+  "updated": "2026-08-24T16:25:50.3559794Z",
   "items": [
+    {
+      "id": "romatoday:1c374212eea9",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Meteo Roma e Lazio, torna la pioggia: scatta l'allerta gialla della protezione civile per domani 25 agosto",
+      "url": "https://www.romatoday.it/attualita/meteo-roma-25-agosto-2026.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/6174471792872/temporale-estivo-pioggia-roma-foto-lapresse-daniele-leone.jpg",
+      "summary": "Criticità idraulica ordinaria per l'area della Capitale",
+      "date": "2026-08-24T16:11:14.0000000Z"
+    },
+    {
+      "id": "romatoday:aea64198a3e7",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Boxe, “The Gladiator” Vianello torna sul ring:  a Londra per riscattare il pugilato tricolore",
+      "url": "https://www.romatoday.it/sport/altro/guido-vianello-torna-combattere-londra.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/51547197636506/guido-vianello-6.jpg",
+      "summary": "Il peso massimo cresciuto alla Montagnola torna sul ring dopo 10 mesi. Combatte a Londra con un nuovo team per sfidare un britannico imbattuto",
+      "date": "2026-08-24T16:00:00.0000000Z"
+    },
     {
       "id": "romatoday:2b3f5c79bcd0",
       "sourceId": "romatoday",
@@ -121,30 +145,6 @@
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/48997638706462/polizia-minimarket-alimentari-foto-trentotoday.jpg",
       "summary": "Due malviventi, in due distinte occasioni, sono entrati in azione",
       "date": "2026-08-24T12:50:00.0000000Z"
-    },
-    {
-      "id": "romatoday:d10db2d0edfe",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Stadio della Roma, scattano i 21 giorni decisivi: la svolta sul progetto da un miliardo",
-      "url": "https://www.romatoday.it/politica/stadio-della-roma-pietralata-giorni-decisivi-conferenza-servizi.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/1944488507536/interno-stadio.jpg",
-      "summary": "Per la metà di settembre attesa la chiusura della conferenza dei servizi con tutti i pareri e le prescrizioni per realizzare il progetto dei Friedkin",
-      "date": "2026-08-24T12:50:00.0000000Z"
-    },
-    {
-      "id": "romatoday:078e557d9ff2",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Guardia medica e consigli sanitari al telefono: da oggi in tutto il Lazio c'è il 116117",
-      "url": "https://www.romatoday.it/politica/116117-numero-guardia-medica-roma.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/67225140865378/116117-servizio-guarda-medica-a-roma-2.jpeg",
-      "summary": "Dalla tessera sanitaria ai consigli della guardia medica: la guida al nuovo numero unico del Lazio",
-      "date": "2026-08-24T12:27:00.0000000Z"
     },
     {
       "id": "roma-repubblica:cfc7e14763b5",
