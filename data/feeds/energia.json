@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-08-24T04:50:25.1865745Z",
+  "updated": "2026-08-24T05:27:22.6520816Z",
   "items": [
+    {
+      "id": "qualenergia:af8f8c08a7e1",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Solar helps Europe’s grid withstand extreme heat",
+      "url": "https://www.qualenergia.it/pro/documenti/solar-helps-europes-grid-withstand-extreme-heat/",
+      "image": null,
+      "summary": "Le ondate di calore e la siccità dell’estate 2026 hanno messo a dura prova la rete elettrica europea, incrementando la domanda di elettricità e causando un’impennata dei prezzi. Ma nonostante tutto, le reti sono rimas...",
+      "date": "2026-08-24T05:00:47.0000000Z"
+    },
+    {
+      "id": "qualenergia:32dde86aedad",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "La situazione energetica nazionale nel 2025",
+      "url": "https://www.qualenergia.it/pro/documenti/la-situazione-energetica-nazionale-nel-2025/",
+      "image": null,
+      "summary": "Relazione sulla situazione energetica italiana secondo cui, nel 2025, la dipendenza energetica dall’estero è risalita di 1,7 punti percentuali, con le importazioni nette tornate a rappresentare oltre tre quarti dell’e...",
+      "date": "2026-08-24T05:00:02.0000000Z"
+    },
     {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Il 17 agosto la Commissione europea ha fornito alcune indicazioni agli Stati membri su come gestire la clausola di salvaguardia nazionale nel settore energia (link in basso). Si tratta di uno spazio di flessibilità fi...",
       "date": "2026-08-21T08:00:48.0000000Z"
-    },
-    {
-      "id": "qualenergia:a27ba4150d4a",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Prezzi minimi garantiti alle biomasse, Arera chiede un correttivo",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/prezzi-minimi-garantiti-biomasse-arera-chiede-correttivo/",
-      "image": null,
-      "summary": "Modificare il nuovo criterio per determinare i prezzi minimi garantiti (PMG) per la produzione di energia elettrica degli impianti alimentati da biogas, biomasse e bioliquidi sostenibili, in modo da rendere più effici...",
-      "date": "2026-08-21T07:15:04.0000000Z"
-    },
-    {
-      "id": "qualenergia:4ca2a5523ffa",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Gas, consumi italiani stabili nel primo semestre 2026",
-      "url": "https://www.qualenergia.it/articoli/gas-consumi-italiani-stabili-nel-primo-semestre-2026/",
-      "image": null,
-      "summary": "Nel primo semestre 2026 i consumi di gas in Italia sono pressoché stabili (+0,2%) rispetto allo stesso periodo del 2025. Un grafico ci aiuta a visualizzare l’andamento semestrale dei consumi italiani di gas naturale: ...",
-      "date": "2026-08-21T07:00:27.0000000Z"
     }
   ]
 }
