@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-24T06:05:32.4254170Z",
+  "updated": "2026-08-24T07:17:52.6690946Z",
   "items": [
+    {
+      "id": "cybersecurity360:8c8fc55b820c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "E-mail aziendale e controlli sul lavoratore: cosa impariamo dal caso Piaggio",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/e-mail-aziendale-e-controlli-sul-lavoratore-cosa-impariamo-dal-caso-piaggio/",
+      "image": null,
+      "summary": "Il Garante per la protezione dei dati personali ha irrogato una sanzione alla Piaggio per un importo di 460.000 euro, oltre al divieto di accedere ai dati raccolti illecitamente sui sistemi di posta elettronica aziend...",
+      "date": "2026-08-24T07:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:b7cad410f250",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "L'applicazione agli ambienti di Operational Technology non è affatto immediata. Partendo da un caso applicativo nel settore elettrico, ecco un approccio mission-focused all’adozione dello Zero Trust nell'ambito OT, ne...",
       "date": "2026-08-20T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:779ddc339fd2",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Quanto è davvero hacker il nuovo GLM-5.3 open weight della Z.ai",
-      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/quanto-e-davvero-hacker-il-nuovo-glm-5-3-open-weight-della-z-ai/",
-      "image": null,
-      "summary": "L'azienda cinese ha reso pubblico il nuovo modello dichiarando forti capacità nel coding e nella cyber security . Ma si è preso due settimane per renderne disponibile il download dei pesi. Proviamo a scoprire quali so...",
-      "date": "2026-08-19T13:04:30.0000000Z"
     }
   ]
 }

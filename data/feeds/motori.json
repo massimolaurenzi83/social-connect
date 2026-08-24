@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-08-24T06:05:32.3927511Z",
+  "updated": "2026-08-24T07:17:52.6663474Z",
   "items": [
+    {
+      "id": "insideevs:b92855398c9b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Richiamati milioni di EV in Cina: maniglie meccaniche difficili da trovare",
+      "url": "https://insideevs.it/news/805812/ev-cina-richiamo-maniglie/",
+      "image": "https://cdn.motor1.com/images/mgl/1Zwbb7/s3/xiaomi-su7-emergency-release-handle.jpg",
+      "summary": "Non basta un sistema meccanico di riserva per le maniglie elettroniche. Deve anche essere facile da individuare in caso di emergenza.",
+      "date": "2026-08-24T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:acc45ba51377",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il padre della Ferrari Enzo ha appena creato la sua supercar V12",
+      "url": "https://it.motor1.com/news/805811/ferrari-enzo-padre-supercar-kode89/",
+      "image": "https://cdn.motor1.com/images/mgl/NGPRLb/s3/kode89.jpg",
+      "summary": "Il motore aspirato è abbinato a un cambio manuale a sei marce con selettore a griglia",
+      "date": "2026-08-24T07:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:33245cd51d6a",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tutto pronto per la mia wallbox: posso partire con i lavori?",
+      "url": "https://www.vaielettrico.it/tutto-pronto-per-la-mia-wallbox-posso-partire-con-i-lavori/",
+      "image": null,
+      "summary": "Tutto è pronto per installare la wallbox nel garage condominiale. Ma Antonio non è ancora sicuro di poter… L'articolo Tutto pronto per la mia wallbox: posso partire con i lavori? proviene da Vaielettrico .",
+      "date": "2026-08-24T06:52:22.0000000Z"
+    },
     {
       "id": "motor1:45125a02cc52",
       "sourceId": "motor1",
@@ -219,18 +255,6 @@
       "date": "2026-08-22T06:24:36.0000000Z"
     },
     {
-      "id": "motor1:1cf6d635f007",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La storia dell'UFO italiano disegnato da Giugiaro",
-      "url": "https://it.motor1.com/news/803450/bizzarrini-manta-storia-curiosita/",
-      "image": "https://cdn.motor1.com/images/mgl/E6NyPB/s3/bizzarrini-manta-1968.jpg",
-      "summary": "Nata in soli 40 giorni, la Bizzarrini Manta ha rivoluzionato il design delle sportive a motore centrale ed è un'icona del suo tempo",
-      "date": "2026-08-22T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:52bde9a6295d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -240,6 +264,18 @@
       "url": "https://insideevs.it/news/805707/auto-elettrica-100-anni-storia/",
       "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
       "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
+      "date": "2026-08-22T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:1cf6d635f007",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La storia dell'UFO italiano disegnato da Giugiaro",
+      "url": "https://it.motor1.com/news/803450/bizzarrini-manta-storia-curiosita/",
+      "image": "https://cdn.motor1.com/images/mgl/E6NyPB/s3/bizzarrini-manta-1968.jpg",
+      "summary": "Nata in soli 40 giorni, la Bizzarrini Manta ha rivoluzionato il design delle sportive a motore centrale ed è un'icona del suo tempo",
       "date": "2026-08-22T05:00:00.0000000Z"
     },
     {
@@ -339,18 +375,6 @@
       "date": "2026-08-21T15:00:40.0000000Z"
     },
     {
-      "id": "motor1:f3132c5f6333",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Pressione pneumatici: forse non la controllate abbastanza spesso",
-      "url": "https://it.motor1.com/features/805479/pressione-pneumatici-controllo-frequenza/",
-      "image": "https://cdn.motor1.com/images/mgl/qkYzJz/s3/the-simple-maintenance-task-most-drivers-forget.jpg",
-      "summary": "Bastano pochi minuti, ma ignorare la pressione dei pneumatici potrebbe costarti carburante, durata dei pneumatici e persino la tua sicurezza.",
-      "date": "2026-08-21T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:f35d8265e8e1",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -363,16 +387,16 @@
       "date": "2026-08-21T15:00:00.0000000Z"
     },
     {
-      "id": "vaielettrico:c9c3803ab71c",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
+      "id": "motor1:f3132c5f6333",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Crisi carburanti a Cuba: tricicli a energia solare raccolgono i rifiuti a L’Avana",
-      "url": "https://www.vaielettrico.it/crisi-carburanti-a-cuba-tricicli-a-energia-solare-raccolgono-i-rifiuti-a-lavana/",
-      "image": null,
-      "summary": "La crisi dei carburanti che sta colpendo Cuba coinvolge anche la raccolta dei rifiuti: a L’Avana, più della… L'articolo Crisi carburanti a Cuba: tricicli a energia solare raccolgono i rifiuti a L’Avana proviene da Vai...",
-      "date": "2026-08-21T14:29:01.0000000Z"
+      "title": "Pressione pneumatici: forse non la controllate abbastanza spesso",
+      "url": "https://it.motor1.com/features/805479/pressione-pneumatici-controllo-frequenza/",
+      "image": "https://cdn.motor1.com/images/mgl/qkYzJz/s3/the-simple-maintenance-task-most-drivers-forget.jpg",
+      "summary": "Bastano pochi minuti, ma ignorare la pressione dei pneumatici potrebbe costarti carburante, durata dei pneumatici e persino la tua sicurezza.",
+      "date": "2026-08-21T15:00:00.0000000Z"
     },
     {
       "id": "hdmotori:4c0a3e48b400",
@@ -399,18 +423,6 @@
       "date": "2026-08-21T14:00:00.0000000Z"
     },
     {
-      "id": "motor1:5ab500bc4912",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Praga Bohema batte il record di Pagani a Spa",
-      "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
-      "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
-      "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
-      "date": "2026-08-21T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:1d2af046ec51",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -420,6 +432,18 @@
       "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
       "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
       "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
+      "date": "2026-08-21T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:5ab500bc4912",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Praga Bohema batte il record di Pagani a Spa",
+      "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
+      "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
       "date": "2026-08-21T13:00:00.0000000Z"
     },
     {
@@ -433,18 +457,6 @@
       "image": null,
       "summary": "Fondata da Riccardo Quaggio, ex designer automotive, Totem Automobili vuole ridefinire il concetto di supercar con i V12. The post Basta restomod, ora Totem sviluppa un inedito progetto con un V12 aspirato appeared fi...",
       "date": "2026-08-21T12:30:52.0000000Z"
-    },
-    {
-      "id": "motor1:c083653a7cdc",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "A cosa serve il volante appiattito di certe auto?",
-      "url": "https://it.motor1.com/news/805676/volante-appiattito-auto-spiegazione/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4P0k/s3/why-your-car-s-steering-wheel-is-not-perfectly-round.jpg",
-      "summary": "La forma strana non è solo estetica; c'è un motivo intelligente per cui le case auto stanno appiattendo la parte inferiore del volante",
-      "date": "2026-08-21T12:00:00.0000000Z"
     },
     {
       "id": "hdmotori:b173149ff214",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/lEqzvE/s3/un-bus-nel-centro-di-londra.jpg",
       "summary": "Ricercatori britannici dimostrano che ridurre l'inquinamento da auto termiche a Londra rende i bimbi più sani",
       "date": "2026-08-21T05:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:47e5ee762799",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto software-defined: perché le architetture zonali sono decisive",
-      "url": "https://insideevs.it/news/805549/architetture-zonali-auto-software-defined/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4P74/s3/auto-software-defined-perche-le-architetture-zonali-sono-decisive.jpg",
-      "summary": "La tecnologia dovrebbe entrare nella produzione di massa tra il 2027 e il 2030, diventando un fattore decisivo per la competitività",
-      "date": "2026-08-20T15:00:00.0000000Z"
     }
   ]
 }
