@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-08-24T13:26:46.9770746Z",
+  "updated": "2026-08-24T14:12:32.0476019Z",
   "items": [
+    {
+      "id": "vaielettrico:8e0bb3bbb3b6",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Milano lancia MOBIDAYS: una settimana per raccontare la mobilità che cambia",
+      "url": "https://www.vaielettrico.it/milano-lancia-mobidays-una-settimana-per-raccontare-la-mobilita-che-cambia/",
+      "image": null,
+      "summary": "Dal 16 al 22 settembre debutta MOBIDAYS, il nuovo evento del Comune di Milano dedicato alla mobilità urbana… L'articolo Milano lancia MOBIDAYS: una settimana per raccontare la mobilità che cambia proviene da Vaielettr...",
+      "date": "2026-08-24T14:02:11.0000000Z"
+    },
+    {
+      "id": "hdmotori:981ea153a34a",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Hongqi HS5: dalla Cina arriva un nuovo SUV a benzina firmato Italdesign",
+      "url": "https://www.hdmotori.it/hongqi-hs5-nuovo-suv-benzina-italdesign/",
+      "image": null,
+      "summary": "Il marchio si chiama Hongqi e debutta in Italia con due SUV termici di assoluto spessore. Scopriamo le caratteristiche dell’HS3 e della HS5. The post Hongqi HS5: dalla Cina arriva un nuovo SUV a benzina firmato Italde...",
+      "date": "2026-08-24T14:00:08.0000000Z"
+    },
+    {
+      "id": "motor1:8ef677cea938",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il primo California elettrico: ID. California Cruise svelato",
+      "url": "https://it.motor1.com/news/805858/volkswagen-california-caravan-salon-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/wl8B2V/s3/volkswagen-id.-california-2026.jpg",
+      "summary": "ID. California Cruise debutta a Düsseldorf con i nuovi California e Grand California, tra soluzioni \"smart\", micro-camper e accessori",
+      "date": "2026-08-24T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:62cf2db3f112",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Tesla Cybercab debutta ufficialmente il 3 settembre",
+      "url": "https://insideevs.it/news/805848/tesla-cybercab-debutto-settembre-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZj2R/s3/tesla-cybercab-debutto.jpg",
+      "summary": "Il veicolo elettrico a guida autonoma inizia il servizio di robotaxi ad Austin dopo gli esperimenti con Model Y modificate",
+      "date": "2026-08-24T13:30:00.0000000Z"
+    },
     {
       "id": "vaielettrico:dfcf385218a2",
       "sourceId": "vaielettrico",
@@ -255,18 +303,6 @@
       "date": "2026-08-24T07:50:07.0000000Z"
     },
     {
-      "id": "insideevs:b92855398c9b",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Richiamati milioni di EV in Cina: maniglie meccaniche difficili da trovare",
-      "url": "https://insideevs.it/news/805812/ev-cina-richiamo-maniglie/",
-      "image": "https://cdn.motor1.com/images/mgl/1Zwbb7/s3/xiaomi-su7-emergency-release-handle.jpg",
-      "summary": "Non basta un sistema meccanico di riserva per le maniglie elettroniche. Deve anche essere facile da individuare in caso di emergenza",
-      "date": "2026-08-24T07:00:00.0000000Z"
-    },
-    {
       "id": "motor1:acc45ba51377",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -276,6 +312,18 @@
       "url": "https://it.motor1.com/news/805811/ferrari-enzo-padre-supercar-kode89/",
       "image": "https://cdn.motor1.com/images/mgl/NGPRLb/s3/kode89.jpg",
       "summary": "Il motore aspirato è abbinato a un cambio manuale a sei marce con selettore a griglia",
+      "date": "2026-08-24T07:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:b92855398c9b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Richiamati milioni di EV in Cina: maniglie meccaniche difficili da trovare",
+      "url": "https://insideevs.it/news/805812/ev-cina-richiamo-maniglie/",
+      "image": "https://cdn.motor1.com/images/mgl/1Zwbb7/s3/xiaomi-su7-emergency-release-handle.jpg",
+      "summary": "Non basta un sistema meccanico di riserva per le maniglie elettroniche. Deve anche essere facile da individuare in caso di emergenza",
       "date": "2026-08-24T07:00:00.0000000Z"
     },
     {
@@ -303,18 +351,6 @@
       "date": "2026-08-24T06:00:00.0000000Z"
     },
     {
-      "id": "motor1:57d9507ffe7a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "MG ZS vs Dacia Duster, confronto tra SUV sotto i 30.000 euro",
-      "url": "https://it.motor1.com/news/803475/mg-zs-vs-dacia-duster-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/8A31yW/s3/mg-zs-vs-dacia-duster-2026.jpg",
-      "summary": "Pur avendo filosofie diverse, ZS e Duster si possono avere (anche) ibride e sono tra le più pratiche del segmento",
-      "date": "2026-08-24T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:96299c2116d2",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -324,6 +360,18 @@
       "url": "https://insideevs.it/news/805677/cina-batterie-stato-solido-2027/",
       "image": "https://cdn.motor1.com/images/mgl/pbJLyr/s3/cina-batterie-allo-stato-solido-nel-2027.jpg",
       "summary": "Da CATL, BYD e Geely a Dreame: ecco chi punta a montare celle allo stato solido sull'auto elettrica entro l'anno prossimo",
+      "date": "2026-08-24T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:57d9507ffe7a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "MG ZS vs Dacia Duster, confronto tra SUV sotto i 30.000 euro",
+      "url": "https://it.motor1.com/news/803475/mg-zs-vs-dacia-duster-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/8A31yW/s3/mg-zs-vs-dacia-duster-2026.jpg",
+      "summary": "Pur avendo filosofie diverse, ZS e Duster si possono avere (anche) ibride e sono tra le più pratiche del segmento",
       "date": "2026-08-24T05:00:00.0000000Z"
     },
     {
@@ -351,18 +399,6 @@
       "date": "2026-08-23T14:22:08.0000000Z"
     },
     {
-      "id": "motor1:8da2f0ec75fe",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Jeep Wrangler 392, la prova della Jeep più estrema col 6.4 V8",
-      "url": "https://it.motor1.com/reviews/800903/jeep-wrangler-392-prova-recensione/",
-      "image": "https://cdn.motor1.com/images/mgl/L3yBYL/s3/fuoriserie---wrangler-negli-usa.jpg",
-      "summary": "Eccessiva nell'estetica e nelle prestazioni, la Wrangler 392 porta la Jeep più amata a un livello mai visto. Ecco come va",
-      "date": "2026-08-23T10:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:92e2120ccd2b",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -375,6 +411,18 @@
       "date": "2026-08-23T10:00:00.0000000Z"
     },
     {
+      "id": "motor1:8da2f0ec75fe",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Jeep Wrangler 392, la prova della Jeep più estrema col 6.4 V8",
+      "url": "https://it.motor1.com/reviews/800903/jeep-wrangler-392-prova-recensione/",
+      "image": "https://cdn.motor1.com/images/mgl/L3yBYL/s3/fuoriserie---wrangler-negli-usa.jpg",
+      "summary": "Eccessiva nell'estetica e nelle prestazioni, la Wrangler 392 porta la Jeep più amata a un livello mai visto. Ecco come va",
+      "date": "2026-08-23T10:00:00.0000000Z"
+    },
+    {
       "id": "insideevs:1e34f361a114",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -384,18 +432,6 @@
       "url": "https://insideevs.it/news/805717/tesla-robotaxi-pagamento-nevada-novita/",
       "image": "https://cdn.motor1.com/images/mgl/P3BE6W/s3/tesla-model-y-robotaxi.jpg",
       "summary": "Tesla, Waymo e Uber hanno ricevuto il via libera per iniziare a far pagare le corse in robotaxi nella contea in cui si trova Las Vegas.",
-      "date": "2026-08-23T05:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:6b396641fe61",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "40 anni di Jaguar XJ40 (1986-1994): nel segno del 40",
-      "url": "https://it.motor1.com/news/805574/jaguar-xj40-40-anni-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/xq3jZw/s3/jaguar-xj40-1986-1994.jpg",
-      "summary": "Già allora il marchio di lusso riusciva a polarizzare",
       "date": "2026-08-23T05:00:00.0000000Z"
     },
     {
@@ -459,30 +495,6 @@
       "date": "2026-08-22T09:19:06.0000000Z"
     },
     {
-      "id": "vaielettrico:c0cb94853581",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Benzina a due euro, adesso rido io",
-      "url": "https://www.vaielettrico.it/benzina-a-due-euro-adesso-rido-io/",
-      "image": null,
-      "summary": "Benzina a due euro, adesso rido io: lo sfogo di un lettore, sfottuto per anni dai colleghi per… L'articolo Benzina a due euro, adesso rido io proviene da Vaielettrico .",
-      "date": "2026-08-22T08:04:58.0000000Z"
-    },
-    {
-      "id": "hdmotori:3f586e8c511f",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Stellantis rafforza l’alleanza con Dongfeng: nuova joint venture da un miliardo di euro",
-      "url": "https://www.hdmotori.it/stellantis-dongfeng-joint-venture-un-miliardo/",
-      "image": null,
-      "summary": "Inaugurata a Wuhan la joint venture Dongfeng Peugeot-Citroën Technology, finalizzata allo sviluppo di modelli Peugeot e Jeep a nuova energia. The post Stellantis rafforza l’alleanza con Dongfeng: nuova joint venture d...",
-      "date": "2026-08-22T07:00:05.0000000Z"
-    },
-    {
       "id": "insideevs:52bde9a6295d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
       "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
       "date": "2026-08-21T13:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:7b7bde363fe8",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché la ricarica bidirezionale V2G non funziona per tutti",
-      "url": "https://insideevs.it/news/805611/ricarica-bidirezionale-v2g-funziona-oggi/",
-      "image": "https://cdn.motor1.com/images/mgl/lEGgAl/s3/ricarica-bidirezionale-v2g.jpg",
-      "summary": "Tra progetti pilota ENEA Terna e obbligo EN ISO 15118-20 dal 2027, il V2G resta legato a offerte chiuse e poche combinazioni compatibili.",
-      "date": "2026-08-21T11:00:00.0000000Z"
     }
   ]
 }

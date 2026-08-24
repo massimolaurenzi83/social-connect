@@ -1,7 +1,139 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-24T13:26:46.9933532Z",
+  "updated": "2026-08-24T14:12:32.0031875Z",
   "items": [
+    {
+      "id": "tomshw:d2074392edf3",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Ecco le tre architetture Intel dedicate all'AI agentica",
+      "url": "https://www.tomshw.it/hardware/intel-svela-tre-nuove-architetture-per-lai-agentica-2026-08-24",
+      "image": "https://cdn.tomshw.it/storage/media/2024/02/13380/Intel-Foundry-chip.jpg",
+      "summary": "C'è un filo conduttore che lega i tre progetti presentati da Intel a Hot Chips 2026, la conferenza californiana che da quasi quarant'anni fa da vetrina tecnica per i grandi produttori di semico...",
+      "date": "2026-08-24T14:06:58.0000000Z"
+    },
+    {
+      "id": "hdblog:577401873dc3",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "REX G1, il robot umanoide che cambia batteria in 5 secondi",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n668093/rex-g1-robot-umanoide-cina/",
+      "image": null,
+      "summary": "REX G1 unisce mobilità, manipolazione e AI con batteria sostituibile in 5 secondi",
+      "date": "2026-08-24T14:05:00.0000000Z"
+    },
+    {
+      "id": "hdblog:981ea153a34a",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Hongqi HS5: dalla Cina arriva un nuovo SUV a benzina firmato Italdesign",
+      "url": "https://www.hdmotori.it/hongqi-hs5-nuovo-suv-benzina-italdesign/",
+      "image": null,
+      "summary": "Il marchio si chiama Hongqi e debutta in Italia con due SUV termici di assoluto spessore. Scopriamo le caratteristiche dell’HS3 e della HS5.",
+      "date": "2026-08-24T14:00:08.0000000Z"
+    },
+    {
+      "id": "tomshw:7ef010accd43",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Neura acquisisce Adlatus e potenzia i robot delle pulizie con l'AI",
+      "url": "https://www.tomshw.it/hardware/neura-acquisisce-adlatus-e-potenzia-i-robot-delle-pulizie-con-lai",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109244/neura-acquisisce-adlatus-e-potenzia-i-robot-delle-pulizie-con-l-ai.png",
+      "summary": "Neura Robotics ha acquisito il 100% di Adlatus Robotics, azienda tedesca specializzata in robot autonomi per la pulizia professionale. I termini finanziari non sono stati comunicati, ma l'operazione c...",
+      "date": "2026-08-24T13:58:40.0000000Z"
+    },
+    {
+      "id": "tomshw:0c21509b2987",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Anthro Energy punta su batterie più sicure senza nuove fabbriche",
+      "url": "https://www.tomshw.it/hardware/anthro-energy-costruisce-una-fabbrica-per-batterie-piu-sicure",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109243/anthro-energy-costruisce-una-fabbrica-per-batterie-piu-sicure.png",
+      "summary": "Anthro Energy ha avviato la costruzione di una fabbrica di materiali per batterie a Louisville, in Kentucky. L’impianto, atteso a fine 2027, produrrà circa 12.000 tonnellate di elettrolita polimerico...",
+      "date": "2026-08-24T13:57:32.0000000Z"
+    },
+    {
+      "id": "dday:f5e62d811473",
+      "sourceId": "dday",
+      "source": "DDay.it",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Le 12.000 foto della missione Artemis II si possono scaricare anche in RAW e modificare senza limiti",
+      "url": "https://www.dday.it/redazione/58455/le-12000-foto-della-missione-artemis-ii-si-possono-scaricare-anche-in-raw-e-modificare-senza-limiti",
+      "image": null,
+      "summary": "",
+      "date": "2026-08-24T13:49:00.0000000Z"
+    },
+    {
+      "id": "tomshw:9ffa657ce713",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Sonos prepara Voice Control con l'AI per sfidare Gemini e Siri?",
+      "url": "https://www.tomshw.it/altro/sonos-prepara-voice-control-con-lai-per-sfidare-gemini-e-siri",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109242/sonos-prepara-voice-control-con-l-ai-per-sfidare-gemini-e-siri.png",
+      "summary": "Sonos ha messo l'intelligenza artificiale al centro della propria strategia di rilancio. Durante una recente call sui risultati, il CEO Tom Conrad ha indicato l'AI come uno dei fulcri della nuova fase...",
+      "date": "2026-08-24T13:45:51.0000000Z"
+    },
+    {
+      "id": "hdblog:e6e267054c92",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Galaxy S27 Ultra e Pro gemelli diversi: come saranno i nuovi top di Samsung",
+      "url": "https://www.hdblog.it/smartphone/articoli/n668197/samsung-galaxy-s27-ultra-pro-differenze-s-pen-leak/",
+      "image": null,
+      "summary": "Samsung sembra pronta a cambiare strategia per i suoi top.",
+      "date": "2026-08-24T13:45:00.0000000Z"
+    },
+    {
+      "id": "tomshw:b1172ba7a023",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Elgato 4K S sotto i 130€ registra gameplay in 4K60, mai costata così poco",
+      "url": "https://www.tomshw.it/offerte/elgato-4k-s-sotto-i-130eur-registra-gameplay-in-4k60-mai-costata-cosi-poco",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109240/tomshw-offer-929474.png",
+      "summary": "Elgato 4K S a 129,99€ su Amazon raggiunge il suo minimo storico, scendendo dai 179,99€ di listino con uno sconto del 28%. L’acquisizione 4K60 e il supporto agli alti frame rate la rendono particolarme...",
+      "date": "2026-08-24T13:33:26.0000000Z"
+    },
+    {
+      "id": "hdblog:eeb20648ed0b",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Patente over 85: dietrofront sui divieti, ma ci saranno più controlli",
+      "url": "https://www.hdmotori.it/focus/mercato/normative/patente-over-85-dietrofront-divieti/",
+      "image": null,
+      "summary": "Il Ministero delle Infrastrutture cancella le restrizioni territoriali e autostradali per gli automobilisti più anziani, sostituendole con controlli sanitari personalizzati e approfonditi.",
+      "date": "2026-08-24T13:30:40.0000000Z"
+    },
+    {
+      "id": "tomshw:153cc0add4b5",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Recensione xTool M2, l'ibrido che unisce taglio laser e stampa a colori",
+      "url": "https://www.tomshw.it/hardware/recensione-xtool-m2-librido-che-unisce-taglio-laser-e-stampa-a-colori",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109232/Xtool-M2-16.jpg",
+      "summary": "L'xTool M2 non è un semplice laser, penso sia più corretto descriverlo come una “macchina creativa ibrida”. Nella configurazione che ho provato combina un laser a diodo da 20...",
+      "date": "2026-08-24T13:25:50.0000000Z"
+    },
     {
       "id": "hdblog:b3787d64529f",
       "sourceId": "hdblog",
@@ -15,16 +147,16 @@
       "date": "2026-08-24T13:25:00.0000000Z"
     },
     {
-      "id": "tomshw:d2db64344e05",
+      "id": "tomshw:86dc14d054e6",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Da Office ad AutoCAD: le offerte Back to Work di PrimeLicense stravolgono il listino software",
-      "url": "https://www.tomshw.it/hardware/da-office-ad-autocad-le-offerte-back-to-work-di-primelicense-stravolgono-il-listino-software",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109212/back-to-work-primelicense-modellazione.jpg",
-      "summary": "Il rientro dalle vacanze estive coincide da sempre con la pianificazione e il rinnovo degli strumenti di lavoro. Che siate studenti, professionisti IT, architetti, ingegneri o creativi della grafica,...",
-      "date": "2026-08-24T13:01:24.0000000Z"
+      "title": "Marvell recupera la DDR4 per tagliare il costo dei nuovi server",
+      "url": "https://www.tomshw.it/hardware/marvell-propone-cxl-per-riusare-la-ddr4-contro-la-crisi-dram",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109239/marvell-propone-cxl-per-riusare-la-ddr4-contro-la-crisi-dram.png",
+      "summary": "Marvell ha rilanciato la propria piattaforma di espansione della memoria via CXL come strumento per recuperare moduli DDR4 e collegarli ai server moderni progettati per DDR5. La proposta arriva mentre...",
+      "date": "2026-08-24T13:24:51.0000000Z"
     },
     {
       "id": "hdblog:aa583ebf8382",
@@ -39,6 +171,18 @@
       "date": "2026-08-24T13:00:50.0000000Z"
     },
     {
+      "id": "tomshw:d1d257d50e26",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Twitch e Amazon citate in giudizio per l'AI addestrata senza consenso",
+      "url": "https://www.tomshw.it/hardware/twitch-e-amazon-citate-in-giudizio-per-lai-addestrata-senza-consenso",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109215/twitch-e-amazon-citate-in-giudizio-per-l-ai-addestrata-senza-consenso.png",
+      "summary": "Twitch e Amazon sono state citate in giudizio da Warren Pandiscia, streamer residente nel Connecticut, con l'accusa di aver utilizzato dirette e video senza autorizzazione per alimentare prodotti di i...",
+      "date": "2026-08-24T12:55:14.0000000Z"
+    },
+    {
       "id": "tomshw:a7aee3f4070d",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -49,54 +193,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/109211/10-000-satelliti-verso-saturno-la-nasa-studia-l-impossibile.png",
       "summary": "La NASA ha finanziato uno studio preliminare per capire se 10.000 minuscoli satelliti possano esplorare direttamente gli anelli di Saturno. L'idea, proposta da Michael Rubenstein della Northwestern Un...",
       "date": "2026-08-24T12:53:45.0000000Z"
-    },
-    {
-      "id": "tomshw:e091a34b0cc1",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Call of Duty: Modern Warfare 4 su Nintendo Switch 2 punta ai 60 fps",
-      "url": "https://www.tomshw.it/videogioco/call-of-duty-modern-warfare-4-su-nintendo-switch-2-punta-ai",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108224/ar604t.jpg",
-      "summary": "Quasi quindici minuti di gameplay mostrano per la prima volta Call of Duty: Modern Warfare 4 in esecuzione nativa su Nintendo Switch 2. Il filmato pubblicato da BoTalksGames è stato registrato...",
-      "date": "2026-08-24T12:53:20.0000000Z"
-    },
-    {
-      "id": "tomshw:7a414d988568",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Un robot batte Bolt nei 100 metri: 9,39 secondi a Pechino",
-      "url": "https://www.tomshw.it/altro/tiangong-ultra-corre-piu-veloce-di-bolt-e-riscrive-i-100-metri",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109206/tiangong-ultra-corre-piu-veloce-di-bolt-e-riscrive-i-100-metri.png",
-      "summary": "Tiangong Ultra, robot realizzato dal Beijing Humanoid Robot Innovation Center, ha completato i 100 metri in 9,39 secondi durante una batteria preliminare disputata a Pechino. Il tempo scende sotto i 9...",
-      "date": "2026-08-24T12:52:46.0000000Z"
-    },
-    {
-      "id": "tomshw:3e971ce4e689",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Shokz lancia OpenFit Air 2, più leggere e con più autonomia",
-      "url": "https://www.tomshw.it/smartphone/shokz-lancia-openfit-air-2-piu-leggere-e-con-piu-autonomia",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109207/shokz-lancia-openfit-air-2-piu-leggere-e-con-piu-autonomia.png",
-      "summary": "Shokz ha presentato le Shokz OpenFit Air 2, seconda generazione degli auricolari sportivi che lasciano libero il canale uditivo. Il nuovo modello riduce sensibilmente il peso e porta l'autonomia dichi...",
-      "date": "2026-08-24T12:51:12.0000000Z"
-    },
-    {
-      "id": "tomshw:1fc22d5618b4",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Avicena spedisce i primi kit microLED da 1 Tbps per l'AI",
-      "url": "https://www.tomshw.it/hardware/avicena-spedisce-i-primi-kit-microled-da-1-tbps-per-lai",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109205/avicena-spedisce-i-primi-kit-microled-da-1-tbps-per-l-ai.png",
-      "summary": "Avicena ha avviato le spedizioni ai clienti e ai partner dei primi kit di valutazione LightBundle capaci di raggiungere 1 Tbps. La piattaforma porta nei laboratori degli sviluppatori un'interconnessio...",
-      "date": "2026-08-24T12:49:28.0000000Z"
     },
     {
       "id": "dday:b49d26d7b43d",
@@ -121,18 +217,6 @@
       "image": null,
       "summary": "Xiaomi presenta Xring O3, il nuovo SoC realizzato sul nodo TSMC N3P a 3 nm: integra circa 24 miliardi di transistor, una nuova CPU ARM, GPU a 16 core e supporto alle memorie LPDDR6.",
       "date": "2026-08-24T12:45:00.0000000Z"
-    },
-    {
-      "id": "tomshw:b8982921eb2e",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "La Cina punta sul quantum: sarà una priorità fino al 2030",
-      "url": "https://www.tomshw.it/hardware/la-cina-mette-il-quantum-tra-le-priorita-del-piano-cyber-2030",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109203/la-cina-mette-il-quantum-tra-le-priorita-del-piano-cyber-2030.png",
-      "summary": "La Commissione centrale cinese per gli affari del cyberspazio ha inserito le tecnologie quantistiche tra le priorità del nuovo piano cyber 2026-2030. Il programma punta a rafforzare le aziende naziona...",
-      "date": "2026-08-24T12:41:19.0000000Z"
     },
     {
       "id": "hdblog:c022e95c5498",
@@ -195,76 +279,16 @@
       "date": "2026-08-24T12:15:00.0000000Z"
     },
     {
-      "id": "hdblog:fff1fbe5e13d",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Xiaomi ha il suo DGX Spark: ecco AI Cube, con ben tre chip Xring proprietari",
-      "url": "https://www.hdblog.it/hardware/articoli/n668186/xiaomi-ai-cube-xring-o3-chip-custom-ai-locale-llm/",
-      "image": null,
-      "summary": "Il device dovrebbe eseguire modelli fino a 120 miliardi di parametri completamente in locale.",
-      "date": "2026-08-24T12:05:00.0000000Z"
-    },
-    {
-      "id": "hdblog:861dd67c899c",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Luxeed RX: il crossover con design ex Ferrari sfida Xiaomi YU7",
-      "url": "https://www.hdmotori.it/luxeed-rx-crossover-elettrico-chery-huawei/",
-      "image": null,
-      "summary": "Debutta il nuovo SUV sportivo nato dalla collaborazione tra Chery e Huawei. Offre motori fino a 586 CV, 4 LiDAR di bordo e un’autonomia dichiarata compresa tra 700 e 852 km.",
-      "date": "2026-08-24T12:00:16.0000000Z"
-    },
-    {
-      "id": "hdblog:08bf57cd3d65",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "WindTre lancia Super Fibra: cosa include lofferta da 24,99 euro al mese",
-      "url": "https://www.hdblog.it/h3g/articoli/n668183/windtre-super-fibra-offerta-prezzo-giga-illimitati/",
-      "image": null,
-      "summary": "Con WindTre Super Fibra arrivano il nuovo modem Wi-Fi 7 capace di gestire fino a 256 dispositivi, Giga illimitati in 5G per chi abbina una linea mobile e Amazon Prime incluso per un anno",
-      "date": "2026-08-24T11:45:00.0000000Z"
-    },
-    {
-      "id": "hdblog:fda078f68a0b",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "I vecchi SSD SATA vanno ancora bene per il gaming nel 2026?",
-      "url": "https://www.hdblog.it/hardware/articoli/n668182/benchmark-gaming-ssd-sata-vs-pcie-nvme/",
-      "image": null,
-      "summary": "Per ora sì, assolutamente, ma le cose stanno cambiando, grazie a DirectStorage e tecnologie analoghe. Ma la \"massa critica\" che renderà l'upgrade necessario probabilmente non si raggiungerà tanto...",
-      "date": "2026-08-24T11:35:00.0000000Z"
-    },
-    {
-      "id": "tomshw:0e748a8e22ff",
+      "id": "tomshw:c9576694abd1",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Migliori software di fotoritocco ed editing fotografico (agosto 2026)",
-      "url": "https://www.tomshw.it/guide/migliori-software-di-fotoritocco-e-editing-fotografico-gennaio-2026",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87644/migliori-software-fotoritocco-copertina.jpg",
-      "summary": "Scegliere il software di editing fotografico giusto oggi è più complesso di quanto sembri. Il mercato non è più diviso solo tra programmi professionali e applicazioni semplici: accanto ai grandi nomi...",
-      "date": "2026-08-24T11:08:11.0000000Z"
-    },
-    {
-      "id": "tomshw:f9ee8c165304",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "20 automazioni Claude per freelance e consulenti, pronte da copiare",
-      "url": "https://www.tomshw.it/aioperator/20-automazioni-claude-per-freelance-e-consulenti-pronte-da-copiare",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109081/03-b58-cover.jpg",
-      "summary": "Un consulente che chiude una call passa spesso i quindici minuti successivi a trascrivere gli appunti in un preventivo, tempo che potrebbe fatturare altrove. Le venti automazioni qui sotto coprono esa...",
-      "date": "2026-08-24T10:50:46.0000000Z"
+      "title": "Migliori mouse da gaming (agosto 2026)",
+      "url": "https://www.tomshw.it/guide/migliori-mouse-gaming",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89207/migliori-mouse-gaming-copertina.jpg",
+      "summary": "Scegliere un mouse da gaming non significa soltanto cercare il sensore con il numero più alto o il modello più appariscente. Il mouse è il punto in cui mano, superficie, sensibilità di gioco e ritmo d...",
+      "date": "2026-08-24T11:15:25.0000000Z"
     },
     {
       "id": "dday:cd4c10bd51f7",
@@ -289,6 +313,18 @@
       "image": null,
       "summary": "",
       "date": "2026-08-24T09:48:00.0000000Z"
+    },
+    {
+      "id": "tomshw:4b9552e4c551",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Quanta “AI” vuoi? Windows ti farà scegliere",
+      "url": "https://www.tomshw.it/hardware/microsoft-windows-11-potresti-scegliere-quanta-ram-dare-a-gpu-e-ia",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109145/news-flash-928875.png",
+      "summary": "Una quota della memoria unificata potrebbe essere riservata in modo stabile a GPU e acceleratori AI, diventando così indisponibile per le normali applicazioni. I riferimenti sono comparsi nella build...",
+      "date": "2026-08-24T09:45:03.0000000Z"
     },
     {
       "id": "dday:59bf4d2bff0e",
@@ -351,18 +387,6 @@
       "date": "2026-08-24T07:42:00.0000000Z"
     },
     {
-      "id": "tomshw:e280391e2144",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Gli agenti AI consumano più token degli umani, ma paghiamo sempre noi",
-      "url": "https://www.tomshw.it/business/gli-agenti-ai-consumano-piu-token-degli-umani-ma-paghiamo-sempre-noi",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109048/05-cover.jpg",
-      "summary": "Il 6 febbraio 2026, su OpenRouter, le due curve si sono incrociate attorno al mezzo trilione di token: da quel giorno gli agenti consumano più degli umani. Sei mesi dopo, al 10 agosto, il divario era...",
-      "date": "2026-08-24T07:40:05.0000000Z"
-    },
-    {
       "id": "tomshw:143d44e2b56a",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -373,18 +397,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/109049/06-cover.jpg",
       "summary": "Cursor ha messo online Origin, un forge git tutto suo: hosting dei repository, sincronizzazione da GitHub, navigazione del codice dal browser. Sotto c'è un motore di storage costruito in casa, battezz...",
       "date": "2026-08-24T07:40:05.0000000Z"
-    },
-    {
-      "id": "tomshw:05a51f11e406",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Migliori conti correnti B2B con le commissioni più basse sul mercato (agosto 2026)",
-      "url": "https://www.tomshw.it/altro/i-migliori-conti-correnti-b2b-con-le-commissioni-piu-basse-sul-mercato",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87647/migliori-conti-b2b-commissioni-basse-copertina.jpg",
-      "summary": "Nel panorama finanziario attuale, scegliere un conto corrente business con commissioni basse non significa solo cercare il canone più economico. Per un'azienda, una partita IVA o una startup, i...",
-      "date": "2026-08-24T06:32:05.0000000Z"
     },
     {
       "id": "dday:8fee585c6d8f",
@@ -434,18 +446,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-21T16:00:00.0000000Z"
-    },
-    {
-      "id": "dday:5031dc9bf25a",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Google consentirà di personalizzare in modo preciso il proprio feed di Discover con un semplice prompt",
-      "url": "https://www.dday.it/redazione/58442/google-consentira-di-personalizzare-in-modo-preciso-il-proprio-feed-di-discover-con-un-semplice-prompt",
-      "image": null,
-      "summary": "",
-      "date": "2026-08-21T12:58:00.0000000Z"
     },
     {
       "id": "techprincess:doYvlFZh9Ow",
