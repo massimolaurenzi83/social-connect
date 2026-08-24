@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-24T05:27:22.7661995Z",
+  "updated": "2026-08-24T06:05:32.3927511Z",
   "items": [
+    {
+      "id": "motor1:45125a02cc52",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come Bugatti ha trasformato la Bolide in un’opera d’arte: \"Massima eleganza\"",
+      "url": "https://it.motor1.com/news/805718/bugatti-bolide-opera-arte/",
+      "image": "https://cdn.motor1.com/images/mgl/rKJBOr/s3/bugatti-destrier.jpg",
+      "summary": "Abbiamo parlato con il designer Bugatti Clark Wu di come il nuovo Destrier ha preso vita",
+      "date": "2026-08-24T06:00:00.0000000Z"
+    },
     {
       "id": "insideevs:96299c2116d2",
       "sourceId": "insideevs",
@@ -12,6 +24,18 @@
       "url": "https://insideevs.it/news/805677/cina-batterie-stato-solido-2027/",
       "image": "https://cdn.motor1.com/images/mgl/pbJLyr/s3/cina-batterie-allo-stato-solido-nel-2027.jpg",
       "summary": "Da CATL, BYD e Geely a Dreame: ecco chi punta a montare celle allo stato solido sull'auto elettrica entro l'anno prossimo",
+      "date": "2026-08-24T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:57d9507ffe7a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "MG ZS vs Dacia Duster, confronto tra SUV sotto i 30.000 euro",
+      "url": "https://it.motor1.com/news/803475/mg-zs-vs-dacia-duster-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/8A31yW/s3/mg-zs-vs-dacia-duster-2026.jpg",
+      "summary": "Pur avendo filosofie diverse, ZS e Duster si possono avere (anche) ibride e sono tra le più pratiche del segmento",
       "date": "2026-08-24T05:00:00.0000000Z"
     },
     {
@@ -39,18 +63,6 @@
       "date": "2026-08-23T14:22:08.0000000Z"
     },
     {
-      "id": "motor1:8da2f0ec75fe",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Jeep Wrangler 392, la prova della Jeep più estrema col 6.4 V8",
-      "url": "https://it.motor1.com/reviews/800903/jeep-wrangler-392-prova-recensione/",
-      "image": "https://cdn.motor1.com/images/mgl/L3yBYL/s3/fuoriserie---wrangler-negli-usa.jpg",
-      "summary": "Eccessiva nell'estetica e nelle prestazioni, la Wrangler 392 porta la Jeep più amata a un livello mai visto. Ecco come va",
-      "date": "2026-08-23T10:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:92e2120ccd2b",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -63,16 +75,16 @@
       "date": "2026-08-23T10:00:00.0000000Z"
     },
     {
-      "id": "motor1:6b396641fe61",
+      "id": "motor1:8da2f0ec75fe",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "40 anni di Jaguar XJ40 (1986-1994): nel segno del 40",
-      "url": "https://it.motor1.com/news/805574/jaguar-xj40-40-anni-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/xq3jZw/s3/jaguar-xj40-1986-1994.jpg",
-      "summary": "Già allora il marchio di lusso riusciva a polarizzare",
-      "date": "2026-08-23T05:00:00.0000000Z"
+      "title": "Jeep Wrangler 392, la prova della Jeep più estrema col 6.4 V8",
+      "url": "https://it.motor1.com/reviews/800903/jeep-wrangler-392-prova-recensione/",
+      "image": "https://cdn.motor1.com/images/mgl/L3yBYL/s3/fuoriserie---wrangler-negli-usa.jpg",
+      "summary": "Eccessiva nell'estetica e nelle prestazioni, la Wrangler 392 porta la Jeep più amata a un livello mai visto. Ecco come va",
+      "date": "2026-08-23T10:00:00.0000000Z"
     },
     {
       "id": "insideevs:1e34f361a114",
@@ -84,6 +96,18 @@
       "url": "https://insideevs.it/news/805717/tesla-robotaxi-pagamento-nevada-novita/",
       "image": "https://cdn.motor1.com/images/mgl/P3BE6W/s3/tesla-model-y-robotaxi.jpg",
       "summary": "Tesla, Waymo e Uber hanno ricevuto il via libera per iniziare a far pagare le corse in robotaxi nella contea in cui si trova Las Vegas.",
+      "date": "2026-08-23T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:6b396641fe61",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "40 anni di Jaguar XJ40 (1986-1994): nel segno del 40",
+      "url": "https://it.motor1.com/news/805574/jaguar-xj40-40-anni-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/xq3jZw/s3/jaguar-xj40-1986-1994.jpg",
+      "summary": "Già allora il marchio di lusso riusciva a polarizzare",
       "date": "2026-08-23T05:00:00.0000000Z"
     },
     {
@@ -195,18 +219,6 @@
       "date": "2026-08-22T06:24:36.0000000Z"
     },
     {
-      "id": "insideevs:52bde9a6295d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa auto elettrica di 100 anni faceva 129 km, ma con calma",
-      "url": "https://insideevs.it/news/805707/auto-elettrica-100-anni-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
-      "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
-      "date": "2026-08-22T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:1cf6d635f007",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -216,6 +228,18 @@
       "url": "https://it.motor1.com/news/803450/bizzarrini-manta-storia-curiosita/",
       "image": "https://cdn.motor1.com/images/mgl/E6NyPB/s3/bizzarrini-manta-1968.jpg",
       "summary": "Nata in soli 40 giorni, la Bizzarrini Manta ha rivoluzionato il design delle sportive a motore centrale ed è un'icona del suo tempo",
+      "date": "2026-08-22T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:52bde9a6295d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa auto elettrica di 100 anni faceva 129 km, ma con calma",
+      "url": "https://insideevs.it/news/805707/auto-elettrica-100-anni-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
+      "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
       "date": "2026-08-22T05:00:00.0000000Z"
     },
     {
@@ -375,18 +399,6 @@
       "date": "2026-08-21T14:00:00.0000000Z"
     },
     {
-      "id": "insideevs:1d2af046ec51",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla: FSD v15 è la svolta? Optimus slitta al 2027",
-      "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
-      "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
-      "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
-      "date": "2026-08-21T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:5ab500bc4912",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -396,6 +408,18 @@
       "url": "https://it.motor1.com/news/805682/praga-bohema-vs-pagani-huayra/",
       "image": "https://cdn.motor1.com/images/mgl/BXZ3Km/s3/praga-bohema-at-spa-francorchamps-2026.jpg",
       "summary": "Con pneumatici stradali e nel traffico, la Praga Bohema segna 2'21\"42 a Spa-Francorchamps, superando il record della Pagani Huayra BC",
+      "date": "2026-08-21T13:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:1d2af046ec51",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla: FSD v15 è la svolta? Optimus slitta al 2027",
+      "url": "https://insideevs.it/news/805695/tesla-fsd-v15-optimus-cambia/",
+      "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
+      "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
       "date": "2026-08-21T13:00:00.0000000Z"
     },
     {
@@ -435,18 +459,6 @@
       "date": "2026-08-21T11:30:35.0000000Z"
     },
     {
-      "id": "motor1:38b9224f8604",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Keyless-Go, quasi metà delle auto è ancora vulnerabile",
-      "url": "https://it.motor1.com/features/805416/auto-keyless-vulnerabile-ladri/",
-      "image": "https://cdn.motor1.com/images/mgl/mMzyOv/s3/keyless-go-e-furti-d-auto-i-test-adac.jpg",
-      "summary": "L’ADAC invita gli automobilisti a verificare la presenza della tecnologia UWB prima di comprare un’auto dotata di apertura senza chiave",
-      "date": "2026-08-21T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:7b7bde363fe8",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -469,18 +481,6 @@
       "image": null,
       "summary": "Toyota celebra i 60 anni della Corolla con il Model Year 2027 e l'inedita 60th Anniversary Special Edition, edizione limitata da 2.500 unità, insieme a nuovi dettagli estetica e motorizzazioni THS 5. The post Toyota C...",
       "date": "2026-08-21T10:00:50.0000000Z"
-    },
-    {
-      "id": "motor1:48c425946c4e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Lamborghini Temerario Tricolore accende la sfida dei colori",
-      "url": "https://it.motor1.com/news/805681/lamborghini-temerario-tricolore-pebble-beach/",
-      "image": "https://cdn.motor1.com/images/mgl/JONqgJ/s3/lamborghini-temerario-tricolore-at-pebble-beach-2026.jpg",
-      "summary": "Temerario Tricolore porta al centro della scena il programma Ad Personam di Lamborghini e la meccanica V8 ibrida",
-      "date": "2026-08-21T10:00:00.0000000Z"
     },
     {
       "id": "insideevs:ec222eae2365",
