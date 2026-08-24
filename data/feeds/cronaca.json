@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-24T07:17:52.6188242Z",
+  "updated": "2026-08-24T08:09:15.9047773Z",
   "items": [
+    {
+      "id": "ansa-cronaca:f4d7f05e65b3",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Esplosione in una palazzina a Cassino, due ustionati gravi",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/esplosione-in-una-palazzina-a-cassino-due-ustionati-gravi_c3baebcf-60c1-448f-8d5a-eeb481c191c6.html",
+      "image": null,
+      "summary": "Crollato il tetto, i sospetti sono concentrati su una fuga di gas",
+      "date": "2026-08-24T07:55:28.0000000Z"
+    },
     {
       "id": "ansa-cronaca:aa2151e64e4a",
       "sourceId": "ansa-cronaca",
@@ -12,7 +24,7 @@
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/amatrice-ricorda-con-il-silenzio-e-una-fiaccolata-le-vittime-del-terremoto_83147766-c223-463a-8432-75c6060f5ff0.html",
       "image": null,
       "summary": "Alle 3.36 i 239 rintocchi di campana e l'elenco dei nomi. 'Ci siamo per chi non c'è più'",
-      "date": "2026-08-24T07:09:34.0000000Z"
+      "date": "2026-08-24T07:26:10.0000000Z"
     },
     {
       "id": "ansa-cronaca:b51f88f00d41",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "In aumento del 6% rispetto allo scorso weekend",
       "date": "2026-08-23T15:40:18.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:00142a3ac2ee",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Muore in Croazia durante una vacanza, l'autopsia ha stabilito che il decesso è avvenuto per annegamento",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/muore-in-croazia-durante-una-vacanza-lautopsia-ha-stabilito-che-il-decesso-e-avvenuto_7e469849-23e3-41f2-9102-19bed4a7c09a.html",
-      "image": null,
-      "summary": "La tragedia è avvenuta giovedì 20 agosto: il ragazzo era uscito in mare a bordo di una moto d'acqua ed è stato ritrovato in acqua privo di vita",
-      "date": "2026-08-23T15:39:25.0000000Z"
     }
   ]
 }

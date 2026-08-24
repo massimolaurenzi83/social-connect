@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-24T07:17:52.6690946Z",
+  "updated": "2026-08-24T08:09:15.9510710Z",
   "items": [
+    {
+      "id": "cybersecurity360:d2a7ce31a56f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Adottare l’AI Act: gli errori da evitare e la gap analysis da fare",
+      "url": "https://www.cybersecurity360.it/legal/adottare-lai-act-gli-errori-da-evitare-e-la-gap-analysis-da-fare/",
+      "image": null,
+      "summary": "L’AI Act è una normativa anomala: interessa tutti e tutti devono applicarla, ma gli adempimenti previsti riguardano soli casi particolari, quali sistemi a rischio alto e limitato. Ecco perché serve una gap analysis e ...",
+      "date": "2026-08-24T08:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:8c8fc55b820c",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "I medici degli ospedali, quando il cyber attacco alla sanità in Romania ha costretto a mettere offline cento ospedali, hanno reagito creando soluzioni alternative per proteggere i pazienti fino al ripristino del servi...",
       "date": "2026-08-20T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:c6f6863b6c38",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Zero Trust nei sistemi OT: dalla teoria all’applicazione, ecco le 5 aree di rischio prioritarie",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/zero-trust-nei-sistemi-ot-dalla-teoria-allapplicazione-ecco-le-5-aree-di-rischio-prioritarie/",
-      "image": null,
-      "summary": "L'applicazione agli ambienti di Operational Technology non è affatto immediata. Partendo da un caso applicativo nel settore elettrico, ecco un approccio mission-focused all’adozione dello Zero Trust nell'ambito OT, ne...",
-      "date": "2026-08-20T07:00:00.0000000Z"
     }
   ]
 }

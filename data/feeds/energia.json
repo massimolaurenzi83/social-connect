@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-24T07:17:52.6703344Z",
+  "updated": "2026-08-24T08:09:15.9061895Z",
   "items": [
+    {
+      "id": "qualenergia:f8940c7a608f",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "L’accisa sull’energia elettrica per Cer, accumuli e rinnovabili",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/accisa-energia-elettrica-per-cer-bess-rinnovabili/",
+      "image": null,
+      "summary": "L’Agenzia delle Dogane e dei Monopoli (Adm) ha pubblicato la circolare n. 21 dell’11 agosto 2026 con cui analizza le modalità di applicazione dell’accisa sull’energia elettrica, secondo quanto previsto dal decreto Mef...",
+      "date": "2026-08-24T07:45:36.0000000Z"
+    },
     {
       "id": "qualenergia:34dc51d0b8e8",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Il 4 agosto è arrivato il via libera del governo al Piano sociale per il clima da 9,347 miliardi di euro. Il 6 agosto, il Mase ha poi pubblicato il testo (in basso), trasmesso alla Commissione europea, che al momento ...",
       "date": "2026-08-21T09:00:07.0000000Z"
-    },
-    {
-      "id": "qualenergia:6d8068315adf",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Fotovoltaico galleggiante contro la crisi idrica, l’Umbria pensa al lago Trasimeno",
-      "url": "https://www.qualenergia.it/articoli/fotovoltaico-galleggiante-umbria-pensa-lago-trasimeno/",
-      "image": null,
-      "summary": "Il lago Trasimeno è in crisi idrica e una parte della soluzione individuata dalla Regione Umbria passa per il fotovoltaico galleggiante. Gli ultimi dati sono stati diffusi dal consigliere regionale Nilo Arcudi (Umbria...",
-      "date": "2026-08-21T08:15:13.0000000Z"
     }
   ]
 }
