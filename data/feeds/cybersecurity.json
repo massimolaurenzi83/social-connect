@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-24T09:04:34.2879318Z",
+  "updated": "2026-08-24T10:00:01.9271260Z",
   "items": [
+    {
+      "id": "cybersecurity360:27926c83032e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Caso Palantir: la sovranità digitale diventa una questione di sicurezza nazionale",
+      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/caso-palantir-la-sovranita-digitale-diventa-una-questione-di-sicurezza-nazionale/",
+      "image": null,
+      "summary": "Il caso svizzero di Palantir riporta al centro il rapporto tra tecnologia, dipendenza dai fornitori e autonomia strategica. Tra vendor lock-in, giurisdizioni extraterritoriali e controllo dei dati, la scelta di piatta...",
+      "date": "2026-08-24T09:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:d2a7ce31a56f",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Cloud storage a vita da 199 euro con pCloud: l'offerta consente di acquistare una volta sola 500 GB e usarli senza rinnovi. Il piano include sincronizzazione, backup, condivisione protetta e crittografia AES a 256 bit...",
       "date": "2026-08-20T09:27:52.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:32d921414e2f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sanità sotto attacco: il ritorno a bit e carta, quasi una battaglia di altri tempi. Il caso Romania",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/sanita-sotto-attacco-il-ritorno-a-bit-e-carta-quasi-una-battaglia-di-altri-tempi-il-caso-romania/",
-      "image": null,
-      "summary": "I medici degli ospedali, quando il cyber attacco alla sanità in Romania ha costretto a mettere offline cento ospedali, hanno reagito creando soluzioni alternative per proteggere i pazienti fino al ripristino del servi...",
-      "date": "2026-08-20T08:00:00.0000000Z"
     }
   ]
 }

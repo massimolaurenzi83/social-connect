@@ -1,6 +1,6 @@
 {
   "category": "energia",
-  "updated": "2026-08-24T09:04:34.3153425Z",
+  "updated": "2026-08-24T10:00:01.9290289Z",
   "items": [
     {
       "id": "qualenergia:a14580aeb9b0",
@@ -39,6 +39,30 @@
       "date": "2026-08-24T07:00:34.0000000Z"
     },
     {
+      "id": "qualenergia:58d129e3ddca",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Abruzzo, contributi per la riqualificazione energetica di strutture sanitarie",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/abruzzo-contributi-riqualificazione-energetica-strutture-sanitarie/",
+      "image": null,
+      "summary": "È aperto lo sportello della Regione Abruzzo dedicato alla riqualificazione energetica degli edifici di proprietà delle Aziende Sanitarie Locali (ASL) del territorio. Il bando (allegato in basso) è finanziato nell’ambi...",
+      "date": "2026-08-24T06:55:46.0000000Z"
+    },
+    {
+      "id": "qualenergia:ed359064492d",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "LA FORMAZIONE ENERGETICA IN ITALIA",
+      "url": "https://www.qualenergia.it/pro/documenti/formazione-energetica-in-italia/",
+      "image": null,
+      "summary": "Corsi universitari, master, ITS Academy, stage, seminari di formazione a vari livelli su tematiche energetiche, fonti rinnovabili, efficienza energetica e mobilità elettrica. Destinatari: studenti diplomati, universit...",
+      "date": "2026-08-24T05:15:30.0000000Z"
+    },
+    {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -61,6 +85,18 @@
       "image": null,
       "summary": "Le ondate di calore e la siccità dell’estate 2026 hanno messo a dura prova la rete elettrica europea, incrementando la domanda di elettricità e causando un’impennata dei prezzi. Ma nonostante tutto, le reti sono rimas...",
       "date": "2026-08-24T05:00:47.0000000Z"
+    },
+    {
+      "id": "qualenergia:49591e439011",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Corso di laurea magistrale in “Ingegneria energetica”",
+      "url": "https://www.qualenergia.it/pro/documenti/corso-di-laurea-magistrale-in-ingegneria-energetica-5/",
+      "image": null,
+      "summary": "Il corso di laurea magistrale in “Ingegneria energetica” forma ingegneri energetici, permettendo loro di specializzarsi tra tre curricula: Efficienza energetica e fonti rinnovabili Energetica industriale Advanced meth...",
+      "date": "2026-08-24T05:00:29.0000000Z"
     },
     {
       "id": "qualenergia:32dde86aedad",
@@ -109,42 +145,6 @@
       "image": null,
       "summary": "Con l’assestamento di bilancio 2026-2028, approvato nelle scorse settimane, la Provincia di Trento ha rimesso ordine anche nella disciplina sulle rinnovabili, in particolare intervenendo sulle aree idonee, introducend...",
       "date": "2026-08-21T13:00:52.0000000Z"
-    },
-    {
-      "id": "qualenergia:96922b3e094b",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Aste fotovoltaico, in Germania assegnati altri 2,1 GW",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/aste-fotovoltaico-germania-assegnati-altri-2-gw/",
-      "image": null,
-      "summary": "La Germania continua ad assegnare nuova potenza fotovoltaica nelle aste pubbliche: 2,1 GW nella gara per impianti a terra che si è chiusa lo scorso 1° luglio. Lo ha comunicato il 18 agosto l’Agenzia federale per le re...",
-      "date": "2026-08-21T11:00:08.0000000Z"
-    },
-    {
-      "id": "qualenergia:d3e57709ecaa",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Energia dal mare, tra promesse e realtà: cosa può funzionare davvero",
-      "url": "https://www.qualenergia.it/articoli/energia-dal-mare-promesse-realta-cosa-puo-funzionare-davvero/",
-      "image": null,
-      "summary": "Anche nella storia della transizione energetica ci sono stati gli “anni ruggenti”. Quelli in cui, in assenza di una visione realistica delle cose e di tecnologie dominanti, si affastellavano idee di ogni tipo, ognuna ...",
-      "date": "2026-08-21T09:45:45.0000000Z"
-    },
-    {
-      "id": "qualenergia:4ca2a5523ffa",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Gas, consumi italiani stabili nel primo semestre 2026",
-      "url": "https://www.qualenergia.it/articoli/gas-consumi-italiani-stabili-nel-primo-semestre-2026/",
-      "image": null,
-      "summary": "Nel primo semestre 2026 i consumi di gas in Italia sono pressoché stabili (+0,2%) rispetto allo stesso periodo del 2025. Un grafico ci aiuta a visualizzare l’andamento semestrale dei consumi italiani di gas naturale: ...",
-      "date": "2026-08-21T09:00:27.0000000Z"
     }
   ]
 }
