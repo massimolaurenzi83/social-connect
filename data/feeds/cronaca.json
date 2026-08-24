@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-24T21:15:01.2225076Z",
+  "updated": "2026-08-24T21:48:15.0629686Z",
   "items": [
+    {
+      "id": "ansa-cronaca:7cd0ae634fa6",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Incendio nel Bresciano, fiamme nei capannoni delle barche di lusso",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/incendio-nel-bresciano-fiamme-nei-capannoni-delle-barche-di-lusso_56383cdd-e9fa-4dce-8243-49f0109206f2.html",
+      "image": null,
+      "summary": "Interessa uno stabilimento nel quale vengono realizzati componenti in vetroresina",
+      "date": "2026-08-24T21:24:00.0000000Z"
+    },
     {
       "id": "ansa-cronaca:10de63564bb4",
       "sourceId": "ansa-cronaca",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Rilevato il Corynebacterium diphteriae e il gene della tossina",
       "date": "2026-08-24T17:41:11.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:70a85d967226",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Clochard pestato a morte per 50 euro, nessuno lo ha aiutato",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/clochard-pestato-a-morte-per-50-euro-nessuno-lo-ha-aiutato_5bba7e8f-2a24-45f9-998e-c528017a78fd.html",
-      "image": null,
-      "summary": "Il vescovo di Caserta, 'grave l'indifferenza di chi ha assistito senza intervenire'",
-      "date": "2026-08-24T16:59:06.0000000Z"
     }
   ]
 }
