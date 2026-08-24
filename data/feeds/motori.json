@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-24T16:25:50.3407650Z",
+  "updated": "2026-08-24T17:06:33.8667882Z",
   "items": [
+    {
+      "id": "hdmotori:70386afbb6fe",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Schaeffler e CATL insieme per sviluppare sistemi per batterie",
+      "url": "https://www.hdmotori.it/schaeffler-catl-sistemi-batterie/",
+      "image": null,
+      "summary": "Le due aziende stringono un'alleanza strategica di lungo periodo per accelerare la transizione elettrica di massa nel mercato automobilistico europeo. The post Schaeffler e CATL insieme per sviluppare sistemi per batt...",
+      "date": "2026-08-24T16:30:22.0000000Z"
+    },
     {
       "id": "hdmotori:0d87971d38a4",
       "sourceId": "hdmotori",
@@ -267,18 +279,6 @@
       "date": "2026-08-24T10:30:35.0000000Z"
     },
     {
-      "id": "hdmotori:a0d44d0af083",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Carburanti, prorogato di un giorno lo sconto sulle accise: scade il 26 agosto",
-      "url": "https://www.hdmotori.it/carburanti-prorogato-sconto-accise-26-agosto/",
-      "image": null,
-      "summary": "Il governo proroga la scadenza dello sconto di 17 centesimi fino al 26 agosto. Dura la reazione delle associazioni dei consumatori. The post Carburanti, prorogato di un giorno lo sconto sulle accise: scade il 26 agost...",
-      "date": "2026-08-24T10:00:31.0000000Z"
-    },
-    {
       "id": "motor1:263218c97c91",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -351,18 +351,6 @@
       "date": "2026-08-24T07:50:07.0000000Z"
     },
     {
-      "id": "motor1:acc45ba51377",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il padre della Ferrari Enzo ha appena creato la sua supercar V12",
-      "url": "https://it.motor1.com/news/805811/ferrari-enzo-padre-supercar-kode89/",
-      "image": "https://cdn.motor1.com/images/mgl/NGPRLb/s3/kode89.jpg",
-      "summary": "Il motore aspirato è abbinato a un cambio manuale a sei marce con selettore a griglia",
-      "date": "2026-08-24T07:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:b92855398c9b",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -372,6 +360,18 @@
       "url": "https://insideevs.it/news/805812/ev-cina-richiamo-maniglie/",
       "image": "https://cdn.motor1.com/images/mgl/1Zwbb7/s3/xiaomi-su7-emergency-release-handle.jpg",
       "summary": "Non basta un sistema meccanico di riserva per le maniglie elettroniche. Deve anche essere facile da individuare in caso di emergenza",
+      "date": "2026-08-24T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:acc45ba51377",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il padre della Ferrari Enzo ha appena creato la sua supercar V12",
+      "url": "https://it.motor1.com/news/805811/ferrari-enzo-padre-supercar-kode89/",
+      "image": "https://cdn.motor1.com/images/mgl/NGPRLb/s3/kode89.jpg",
+      "summary": "Il motore aspirato è abbinato a un cambio manuale a sei marce con selettore a griglia",
       "date": "2026-08-24T07:00:00.0000000Z"
     },
     {
