@@ -1,6 +1,6 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-24T18:16:53.0295375Z",
+  "updated": "2026-08-24T19:06:02.2444582Z",
   "items": [
     {
       "id": "hdblog:7092b24ad8bb",
@@ -13,6 +13,18 @@
       "image": null,
       "summary": "Come tutti i predecessori il device esce completamente distrutto e irrecuperabile dalle grinfie di Zack Nelson.",
       "date": "2026-08-24T18:11:00.0000000Z"
+    },
+    {
+      "id": "tomshw:2f7c4c96a35d",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "ASUS TUF Gaming B550-Plus WiFi II a 119,99€, l’upgrade AM4 con Wi-Fi 6",
+      "url": "https://www.tomshw.it/offerte/asus-tuf-gaming-b550-plus-wifi-ii-a-11999eur-lupgrade-am4-con-wi-fi-6",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109310/tomshw-offer-929986.png",
+      "summary": "ASUS TUF Gaming B550-Plus WiFi II costa 119,99€ su Amazon, anziché 139,19€, con uno sconto del 14%. Wi-Fi 6, rete 2.5Gbps e PCIe 4.0 permettono di aggiornare una configurazione Ryzen mantenendo la pia...",
+      "date": "2026-08-24T18:03:58.0000000Z"
     },
     {
       "id": "hdblog:428bfd35ce7a",
@@ -183,18 +195,6 @@
       "date": "2026-08-24T16:04:02.0000000Z"
     },
     {
-      "id": "tomshw:6de9f2cedc00",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Samsung Galaxy Watch Ultra2 a 655€, il minimo di sempre per sport e avventura",
-      "url": "https://www.tomshw.it/offerte/samsung-galaxy-watch-ultra2-a-655eur-il-minimo-di-sempre-per-sport-e-avventura",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109289/tomshw-offer-929862.png",
-      "summary": "Samsung Galaxy Watch Ultra2 costa 655€ su Amazon, invece di 749€, con uno sconto del 13% e 94€ di risparmio. La combinazione fra autonomia fino a 60 ore, rivestimento in titanio e versione LTE lo ren...",
-      "date": "2026-08-24T16:03:46.0000000Z"
-    },
-    {
       "id": "dday:b275e11c1fef",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -229,30 +229,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-24T12:47:00.0000000Z"
-    },
-    {
-      "id": "tomshw:5721b9f5525f",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Quando esce Apple Watch Series 12? Data e rumor",
-      "url": "https://www.tomshw.it/altro/quando-esce-apple-watch-series-12-data-e-rumor",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109191/quando-esce-apple-watch-series-12-data-e-rumor.png",
-      "summary": "Apple non ha ancora annunciato Series 12 né una data di uscita ufficiale. La finestra più credibile resta però l’autunno 2026, con presentazione e arrivo sul mercato verosimilmente a settembre se l’az...",
-      "date": "2026-08-24T12:37:48.0000000Z"
-    },
-    {
-      "id": "tomshw:c921db687042",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Meglio comprare PlayStation 5 adesso o aspettare PlayStation 6?",
-      "url": "https://www.tomshw.it/videogioco/comprare-playstation-5-adesso-o-aspettare-playstation-6",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109074/comprare-playstation-5-adesso-o-aspettare-playstation-6.png",
-      "summary": "PlayStation 5 è nel pieno della sua maturità commerciale e la versione nuova con lettore costa in Italia circa 640-650 euro. PlayStation 6, invece, non ha ancora una data, un prezzo o caratteristiche...",
-      "date": "2026-08-24T12:31:37.0000000Z"
     },
     {
       "id": "tomshw:dcdd270f1064",
@@ -363,6 +339,18 @@
       "date": "2026-08-24T09:16:00.0000000Z"
     },
     {
+      "id": "tomshw:743e6fdf673c",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Chang’e-7: la Cina rinvia il lancio, salta la finestra 2026",
+      "url": "https://www.tomshw.it/scienze/chang-e-7-la-cina-rinvia-il-lancio-salta-la-finestra-2026",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109066/news-flash-928614.png",
+      "summary": "Il complesso formato dalla sonda Chang’e-7 e dal razzo Long March 5 Y14 era già sulla rampa di Wenchang quando le autorità spaziali cinesi hanno fermato il lancio. Dopo il trasferimento verticale comp...",
+      "date": "2026-08-24T08:19:19.0000000Z"
+    },
+    {
       "id": "dday:e9234611e043",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -397,6 +385,18 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/109032/2020-08-16-image-jpg.webp",
       "summary": "Il 21 agosto 2026, alle 16:49:54 UTC, Linus Torvalds ha integrato nel ramo principale di Linux il tag fbdev-for-7.3-rc1. Il commit 531ed942bb0df04f6747983fecdedce76a22d07f include cinque modifiche al...",
       "date": "2026-08-24T07:16:12.0000000Z"
+    },
+    {
+      "id": "tomshw:cbc6a69b8b48",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Ruba 423 laptop e brucia tutto in Borsa: l'ex Deloitte nei guai",
+      "url": "https://www.tomshw.it/altro/ex-manager-deloitte-ruba-423-laptop-perde-tutto-in-borsa",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108946/NN250304EC101_3_.jpg",
+      "summary": "Per quasi un anno e mezzo, centinaia di laptop sono usciti dal magazzino di Deloitte Hong Kong per essere rivenduti e finanziare operazioni speculative. L’ex responsabile IT Ho Man-kit, 40 anni,...",
+      "date": "2026-08-24T07:00:32.0000000Z"
     },
     {
       "id": "tomshw:3fc55695bf98",
