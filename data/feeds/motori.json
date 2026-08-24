@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-24T15:02:50.2800844Z",
+  "updated": "2026-08-24T15:52:12.5758902Z",
   "items": [
+    {
+      "id": "motor1:8302b60e6bb6",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Trump contro il Canada: dazi al 50% su auto e ricambi",
+      "url": "https://it.motor1.com/news/805912/trump-canada-dazi-auto-ricambi/",
+      "image": "https://cdn.motor1.com/images/mgl/2N0Qbp/s3/donald-trump.jpg",
+      "summary": "La nuova stretta commerciale scatterebbe dal 2027 e potrebbe avere conseguenze sulla produzione e sui prezzi delle auto negli USA",
+      "date": "2026-08-24T15:30:00.0000000Z"
+    },
     {
       "id": "hdmotori:1332780a07c5",
       "sourceId": "hdmotori",
@@ -23,7 +35,7 @@
       "title": "Quali sono le auto con i clienti più fedeli? La classifica USA 2026",
       "url": "https://it.motor1.com/news/805895/auto-clienti-fedeli-classifica-2026/",
       "image": "https://cdn.motor1.com/images/mgl/W8KmMO/s3/quali-sono-le-auto-con-i-clienti-piu-fedeli-la-classifica-usa-2026.jpg",
-      "summary": "Il 64% dei clienti Tesla che cambia auto resta fedele al marchio. Ferrari e Toyota seguono, mentre la media americana si ferma al 52%",
+      "summary": "Il 64% dei clienti Tesla che cambia auto resta fedele al marchio. A seguire, Ferrari e Toyota",
       "date": "2026-08-24T15:00:00.0000000Z"
     },
     {
@@ -195,18 +207,6 @@
       "date": "2026-08-24T11:00:34.0000000Z"
     },
     {
-      "id": "motor1:48bd52873f83",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Si può davvero sostituire un solo pneumatico?",
-      "url": "https://it.motor1.com/features/805719/pneumatico-singolo-sostituzione-guida/",
-      "image": "https://cdn.motor1.com/images/mgl/W8KVlq/s3/can-you-really-replace-just-one-tire.jpg",
-      "summary": "Una gomma a terra non obbliga a comprare quattro pneumatici nuovi, ma cambiarne solo uno può dare problemi all'auto, soprattutto se è AWD",
-      "date": "2026-08-24T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:37814922c6fc",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -216,6 +216,18 @@
       "url": "https://insideevs.it/news/805819/fabbrica-batterie-tesla-toyota/",
       "image": "https://cdn.motor1.com/images/mgl/G3QL8Z/s3/lges-battery-plant-lansing-michigan..jpg",
       "summary": "Ho visitato una gigafactory di batterie dove i dirigenti hanno parlato di batterie allo stato solido, ioni di sodio e altro",
+      "date": "2026-08-24T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:48bd52873f83",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Si può davvero sostituire un solo pneumatico?",
+      "url": "https://it.motor1.com/features/805719/pneumatico-singolo-sostituzione-guida/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KVlq/s3/can-you-really-replace-just-one-tire.jpg",
+      "summary": "Una gomma a terra non obbliga a comprare quattro pneumatici nuovi, ma cambiarne solo uno può dare problemi all'auto, soprattutto se è AWD",
       "date": "2026-08-24T11:00:00.0000000Z"
     },
     {
@@ -396,18 +408,6 @@
       "url": "https://insideevs.it/news/805677/cina-batterie-stato-solido-2027/",
       "image": "https://cdn.motor1.com/images/mgl/pbJLyr/s3/cina-batterie-allo-stato-solido-nel-2027.jpg",
       "summary": "Da CATL, BYD e Geely a Dreame: ecco chi punta a montare celle allo stato solido sull'auto elettrica entro l'anno prossimo",
-      "date": "2026-08-24T05:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:57d9507ffe7a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "MG ZS vs Dacia Duster, confronto tra SUV sotto i 30.000 euro",
-      "url": "https://it.motor1.com/news/803475/mg-zs-vs-dacia-duster-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/8A31yW/s3/mg-zs-vs-dacia-duster-2026.jpg",
-      "summary": "Pur avendo filosofie diverse, ZS e Duster si possono avere (anche) ibride e sono tra le più pratiche del segmento",
       "date": "2026-08-24T05:00:00.0000000Z"
     },
     {
