@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-08-24T10:48:01.1862086Z",
+  "updated": "2026-08-24T11:16:00.7714628Z",
   "items": [
+    {
+      "id": "hdmotori:a4a1d5872c9f",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova BMW Serie 1 sarà elettrica e posteriore: ecco quando arriva",
+      "url": "https://www.hdmotori.it/nuova-bmw-serie-1-arrivo/",
+      "image": null,
+      "summary": "La prossima serie della BMW Serie 1 dovrebbe debuttare tra 2 anni con un design ispirato alle Neue Klasse. The post La nuova BMW Serie 1 sarà elettrica e posteriore: ecco quando arriva appeared first on HDmotori.it .",
+      "date": "2026-08-24T11:00:34.0000000Z"
+    },
+    {
+      "id": "insideevs:37814922c6fc",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dentro la fabbrica di batterie da 2 miliardi di dollari che produce celle per Tesla e Toyota",
+      "url": "https://insideevs.it/news/805819/fabbrica-batterie-tesla-toyota/",
+      "image": "https://cdn.motor1.com/images/mgl/G3QL8Z/s3/lges-battery-plant-lansing-michigan..jpg",
+      "summary": "Ho visitato una gigafactory di batterie dove i dirigenti hanno parlato di batterie allo stato solido, ioni di sodio e altro",
+      "date": "2026-08-24T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:48bd52873f83",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Si può davvero sostituire un solo pneumatico?",
+      "url": "https://it.motor1.com/features/805719/pneumatico-singolo-sostituzione-guida/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KVlq/s3/can-you-really-replace-just-one-tire.jpg",
+      "summary": "Una gomma a terra non obbliga a comprare quattro pneumatici nuovi, ma cambiarne solo uno può dare problemi all'auto, soprattutto se è AWD",
+      "date": "2026-08-24T11:00:00.0000000Z"
+    },
     {
       "id": "motor1:ff088882f7c4",
       "sourceId": "motor1",
@@ -255,18 +291,6 @@
       "date": "2026-08-23T10:00:00.0000000Z"
     },
     {
-      "id": "insideevs:1e34f361a114",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Nevada apre le porte a migliaia di robotaxi a pagamento: Tesla in vantaggio",
-      "url": "https://insideevs.it/news/805717/tesla-robotaxi-pagamento-nevada-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/P3BE6W/s3/tesla-model-y-robotaxi.jpg",
-      "summary": "Tesla, Waymo e Uber hanno ricevuto il via libera per iniziare a far pagare le corse in robotaxi nella contea in cui si trova Las Vegas.",
-      "date": "2026-08-23T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:6b396641fe61",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -276,6 +300,18 @@
       "url": "https://it.motor1.com/news/805574/jaguar-xj40-40-anni-storia/",
       "image": "https://cdn.motor1.com/images/mgl/xq3jZw/s3/jaguar-xj40-1986-1994.jpg",
       "summary": "Già allora il marchio di lusso riusciva a polarizzare",
+      "date": "2026-08-23T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:1e34f361a114",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Nevada apre le porte a migliaia di robotaxi a pagamento: Tesla in vantaggio",
+      "url": "https://insideevs.it/news/805717/tesla-robotaxi-pagamento-nevada-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/P3BE6W/s3/tesla-model-y-robotaxi.jpg",
+      "summary": "Tesla, Waymo e Uber hanno ricevuto il via libera per iniziare a far pagare le corse in robotaxi nella contea in cui si trova Las Vegas.",
       "date": "2026-08-23T05:00:00.0000000Z"
     },
     {
@@ -303,18 +339,6 @@
       "date": "2026-08-22T14:11:09.0000000Z"
     },
     {
-      "id": "motor1:a54be43b75b6",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Totem GT Super n. 32 si chiama Litorale Brado: oltre il restomod",
-      "url": "https://it.motor1.com/news/805734/totem-gt-super-litorale-brado/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4Pop/s3/20260814_161846488_ios.jpg",
-      "summary": "640 CV, carbonio e artigianalità invece di pura nostalgia. Questo restomod si spinge decisamente oltre la maggior parte degli altri",
-      "date": "2026-08-22T10:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:42b3badbee34",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -324,6 +348,18 @@
       "url": "https://insideevs.it/news/805668/lucid-gravity-ricarica-tesla/",
       "image": "https://cdn.motor1.com/images/mgl/40Y3OY/s3/lucid-gravity-gt-s.jpg",
       "summary": "Ricaricare una Tesla con i suoi più grandi concorrenti potrebbe sembrare una blasfemia, ma in realtà funziona dannatamente bene",
+      "date": "2026-08-22T10:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:a54be43b75b6",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Totem GT Super n. 32 si chiama Litorale Brado: oltre il restomod",
+      "url": "https://it.motor1.com/news/805734/totem-gt-super-litorale-brado/",
+      "image": "https://cdn.motor1.com/images/mgl/2N4Pop/s3/20260814_161846488_ios.jpg",
+      "summary": "640 CV, carbonio e artigianalità invece di pura nostalgia. Questo restomod si spinge decisamente oltre la maggior parte degli altri",
       "date": "2026-08-22T10:00:00.0000000Z"
     },
     {
@@ -411,18 +447,6 @@
       "date": "2026-08-22T05:00:00.0000000Z"
     },
     {
-      "id": "motor1:e0ae756a24ad",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mercedes GLC (2026), perché comprarla e perché no",
-      "url": "https://it.motor1.com/reviews/803533/mercedes-glc-2026-perche-comprarla/",
-      "image": "https://cdn.motor1.com/images/mgl/9m801y/s3/mercedes-glc-2026-perche-comprarla-e-perche-no.jpg",
-      "summary": "Stesso nome, ma tutta un'altra auto rispetto a quella termica. Interni spaziali e ottimo comfort, ma c'è qualche difetto",
-      "date": "2026-08-21T23:00:00.0000000Z"
-    },
-    {
       "id": "hdmotori:c2f71eaaadb4",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -457,18 +481,6 @@
       "image": null,
       "summary": "Con il programma La Maison Pur Sang, un cliente Bugatti ha ottenuto una versione moderna della Bugatti Veyron The post Bugatti Veyron, quando il restauro diventa un’opera d’arte appeared first on HDmotori.it .",
       "date": "2026-08-21T16:00:16.0000000Z"
-    },
-    {
-      "id": "hdmotori:99e6e62c02ef",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Arrivano in Germania le AUDI cinesi che la Casa non vuole in Europa",
-      "url": "https://www.hdmotori.it/germania-audi-cinesi/",
-      "image": null,
-      "summary": "Importate da un operatore indipendente, i modelli E5 ed E7X arrivano sul mercato tedesco a prezzi inferiori rispetto alle equivalenti europee. The post Arrivano in Germania le AUDI cinesi che la Casa non vuole in Euro...",
-      "date": "2026-08-21T15:00:40.0000000Z"
     },
     {
       "id": "insideevs:f35d8265e8e1",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/4268k/s3/tesla-solar-roof.jpg",
       "summary": "Stando alla stampa americana, Elon Musk e soci dicono basta al business dei tetti solari, considerato poco redditizio",
       "date": "2026-08-21T09:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:8819548e7e0b",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nuovo l'approccio alle batterie al litio, più dense del 10%",
-      "url": "https://insideevs.it/news/805625/asahi-kasei-batterie-litio-predoping/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZwbeX/s3/illustrazione-concettuale-della-nuova-tecnologia-di-pre-doping.jpg",
-      "summary": "Asahi Kasei sviluppa un sistema di pre-doping al litio che utilizza carbonato di litio a basso costo integrabile nella produzione",
-      "date": "2026-08-21T07:00:00.0000000Z"
     }
   ]
 }

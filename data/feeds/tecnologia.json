@@ -1,7 +1,91 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-24T10:48:01.1971760Z",
+  "updated": "2026-08-24T11:16:00.7503289Z",
   "items": [
+    {
+      "id": "tomshw:8f2790a136a4",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "MW4, arriva il nerf alle armi: cosa cambia nel TTK",
+      "url": "https://www.tomshw.it/videogioco/call-of-duty-modern-warfare-4-nerf-alle-armi-per-allungare-il",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108224/ar604t.jpg",
+      "summary": "I colpi alla testa dell’M4 sono diventati meno decisivi nella beta di Call of Duty: Modern Warfare 4. Con l’aggiornamento distribuito il 23 agosto, Infinity Ward ha ridotto la letalità delle armi che,...",
+      "date": "2026-08-24T11:01:19.0000000Z"
+    },
+    {
+      "id": "hdblog:a4a1d5872c9f",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "La nuova BMW Serie 1 sarà elettrica e posteriore: ecco quando arriva",
+      "url": "https://www.hdmotori.it/nuova-bmw-serie-1-arrivo/",
+      "image": null,
+      "summary": "La prossima serie della BMW Serie 1 dovrebbe debuttare tra 2 anni con un design ispirato alle Neue Klasse.",
+      "date": "2026-08-24T11:00:34.0000000Z"
+    },
+    {
+      "id": "hdblog:bb1a5504aa3e",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "LAI potrebbe diventare il nuovo motivo per cambiare smartphone",
+      "url": "https://www.hdblog.it/smartphone/articoli/n668179/smartphone-invecchiamento-ai-pixel/",
+      "image": null,
+      "summary": "Gli smartphone restano veloci e utilizzabili sempre più a lungo, ma lintelligenza artificiale potrebbe offrire a Google e agli altri produttori un nuovo motivo per spingere gli utenti verso i...",
+      "date": "2026-08-24T10:55:00.0000000Z"
+    },
+    {
+      "id": "tomshw:2b564ef7854d",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Auto elettriche usate, una su 85 ha celle fuori equilibrio",
+      "url": "https://www.tomshw.it/automotive/un-ev-usato-su-85-nasconde-squilibri-nelle-celle-della-batteria",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109175/un-ev-usato-su-85-nasconde-squilibri-nelle-celle-della-batteria.png",
+      "summary": "Generational ha individuato squilibri significativi tra le celle in circa un veicolo elettrico usato ogni 85 testati. Il difetto può svilupparsi senza spie, messaggi sul cruscotto o variazioni immedia...",
+      "date": "2026-08-24T10:49:48.0000000Z"
+    },
+    {
+      "id": "tomshw:be66b6bcccc4",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Linux 7.3 rilancia le vecchie GPU AMD e abilita le future GPU Intel",
+      "url": "https://www.tomshw.it/hardware/linux-73-rilancia-le-vecchie-gpu-amd-e-abilita-le-future-gpu-intel",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109174/linux-7-3-rilancia-le-vecchie-gpu-amd-e-abilita-le-future-gpu-intel.png",
+      "summary": "Gli sviluppatori del kernel hanno inserito nel ciclo di Linux 7.3 un nuovo blocco di aggiornamenti grafici rivolto sia alle vecchie GPU AMD sia alle future soluzioni Intel. Il risultato è un kernel ca...",
+      "date": "2026-08-24T10:48:02.0000000Z"
+    },
+    {
+      "id": "tomshw:698a7577bbfa",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Questo superconduttore ultrasottile nasconde un dettaglio inatteso",
+      "url": "https://www.tomshw.it/scienze/questo-superconduttore-ultrasottile-nasconde-un-dettaglio-inatteso",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109173/questo-superconduttore-ultrasottile-nasconde-un-dettaglio-inatteso.png",
+      "summary": "Un gruppo guidato dall'Università di Nanchino ha realizzato e analizzato un film ultrasottile di nickelato La₃Ni₂O₇ drogato con stronzio. Il materiale diventa superconduttivo a pressione ambiente, pur...",
+      "date": "2026-08-24T10:45:48.0000000Z"
+    },
+    {
+      "id": "tomshw:a5af1278d9b4",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Un computer quantistico potrebbe superare un limite dei microscopi",
+      "url": "https://www.tomshw.it/scienze/un-computer-quantistico-potrebbe-superare-un-limite-dei-microscopi",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109170/un-computer-quantistico-potrebbe-superare-un-limite-dei-microscopi.png",
+      "summary": "Un gruppo guidato dalla TU Wien, insieme all'Università di Vienna, alla JKU Linz e all'Università di Innsbruck, ha progettato un microscopio elettronico collegato a un computer quantistico a ioni intr...",
+      "date": "2026-08-24T10:45:10.0000000Z"
+    },
     {
       "id": "dday:cd4c10bd51f7",
       "sourceId": "dday",
@@ -159,18 +243,6 @@
       "date": "2026-08-24T10:00:31.0000000Z"
     },
     {
-      "id": "tomshw:f10de9839fbd",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "L'anello Oura misura male il sonno? Scatta la class action",
-      "url": "https://www.tomshw.it/smartphone/oura-ring-class-action-sull-accuratezza-delle-fasi-del-sonno",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109142/Oura_Ring_5_Product-1_Collection.png",
-      "summary": "Percentuali di accuratezza comprese tra il 79% e il 95% sono al centro di una proposta di class action contro Oura. La causa sostiene che le promesse sul riconoscimento delle fasi del sonno degli Oura...",
-      "date": "2026-08-24T10:00:05.0000000Z"
-    },
-    {
       "id": "hdblog:2dcca0f5850f",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -181,18 +253,6 @@
       "image": null,
       "summary": "L'attesa per GTA 6 diventa una ghiotta occasione per gli hacker, che distribuiscono falsi torrent con malware.",
       "date": "2026-08-24T09:55:00.0000000Z"
-    },
-    {
-      "id": "tomshw:6df60c06aa1c",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "The Blood of Dawnwalker avrà i 60fps, il team ci ripensa dopo le lamentele",
-      "url": "https://www.tomshw.it/videogioco/the-blood-of-dawnwalker-al-day-one-gira-a-60-fps",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102302/brencis-danwalker-artwork.jpg",
-      "summary": "Il caso dei frame al secondo che ha scosso la community di The Blood of Dawnwalker nelle ultime ore si è concluso con un dietrofront che farà felici i possessori di console. Dopo giorni...",
-      "date": "2026-08-24T09:50:10.0000000Z"
     },
     {
       "id": "dday:752f0ef9c576",
@@ -217,42 +277,6 @@
       "image": null,
       "summary": "Teaser ufficiale per il chip e \"più o meno ufficiale\" per lo smartphone. Ma le incertezze sono ancora molte.",
       "date": "2026-08-24T09:45:00.0000000Z"
-    },
-    {
-      "id": "hdblog:f4ef631e6498",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Redmi 15C da 256 GB allo stesso prezzo del modello da 128 GB su eBay",
-      "url": "https://www.hdblog.it/smartphone/offerte/n668155/redmi-15c-da-256-gb-allo-stesso-prezzo-del-modello-da-128-gb-su-ebay/",
-      "image": null,
-      "summary": "Per chi cerca uno smartphone entry-level dal design riconoscibile e un'autonomia di livello senza lasciare l'universo Xiaomi.",
-      "date": "2026-08-24T09:41:00.0000000Z"
-    },
-    {
-      "id": "hdblog:e7d1b8ff8cb4",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Mitocondri iniettati nella retina potrebbero riaccendere la vista",
-      "url": "https://www.hdblog.it/curiosita/articoli/n668148/mitocondri-occhio-recupero-vista/",
-      "image": null,
-      "summary": "Mitocondri prelevati dai muscoli sono stati iniettati negli occhi di una paziente quasi cieca.",
-      "date": "2026-08-24T09:35:00.0000000Z"
-    },
-    {
-      "id": "tomshw:05638ca60ece",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Apple iPad Pro 13” M5 da 1.669€ a 1.265,98€, per lavorare in grande",
-      "url": "https://www.tomshw.it/offerte/apple-ipad-pro-13-m5-da-1669eur-a-126598eur-per-lavorare-in-grande",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109141/tomshw-offer-928825.png",
-      "summary": "Apple iPad Pro 13” M5 costa 1.265,98€ su Amazon, anziché 1.669€, con uno sconto del 24%. Il chip M5 e il pannello Ultra Retina XDR da 13 pollici lo indirizzano a chi vuole lavorare, disegnare e montar...",
-      "date": "2026-08-24T09:33:44.0000000Z"
     },
     {
       "id": "dday:59bf4d2bff0e",
@@ -291,30 +315,6 @@
       "date": "2026-08-24T09:16:00.0000000Z"
     },
     {
-      "id": "tomshw:05a995577b57",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Le GPU AI corrono troppo: la memoria è il nuovo collo di bottiglia",
-      "url": "https://www.tomshw.it/hardware/micron-avverte-le-memorie-hbm-non-tengono-il-passo-dellai",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109040/micron-avverte-le-memorie-hbm-non-tengono-il-passo-dell-ai.png",
-      "summary": "Micron ha avvertito che la crescita della banda di memoria non riesce più a seguire il ritmo degli acceleratori per l'intelligenza artificiale. Durante Hot Chips 2026, l'azienda ha quantificato il div...",
-      "date": "2026-08-24T08:59:59.0000000Z"
-    },
-    {
-      "id": "tomshw:3095bb3e53f4",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Call of Duty MW4, la beta Steam resta sotto MW2",
-      "url": "https://www.tomshw.it/videogioco/call-of-duty-modern-warfare-4-beta-da-115-145-utenti-simultanei",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108224/ar604t.jpg",
-      "summary": "Sono 115.145 i giocatori simultanei raggiunti su Steam dalla beta di Call of Duty: Modern Warfare 4 nel primo fine settimana di accesso anticipato. SteamDB ha registrato il massimo nel giorno di apert...",
-      "date": "2026-08-24T08:35:03.0000000Z"
-    },
-    {
       "id": "dday:e9234611e043",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -351,28 +351,28 @@
       "date": "2026-08-24T07:40:05.0000000Z"
     },
     {
-      "id": "tomshw:88e9f3accdc5",
+      "id": "tomshw:a69dffdc9cec",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "L'AI crea lavoro, parola di chi ha appena annunciato due miliardi di tagli",
-      "url": "https://www.tomshw.it/business/lai-crea-lavoro-parola-di-chi-ha-appena-annunciato-due-miliardi-di-tagli",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109045/02-cover.jpg",
-      "summary": "Un campione di 1.200 imprese e nessun revisore esterno Il 54% delle imprese britanniche interpellate a luglio sostiene che l'intelligenza artificiale ha fatto nascere nuovi ruoli al proprio interno. I...",
-      "date": "2026-08-24T07:40:05.0000000Z"
+      "title": "XRING O3, il nuovo chip Xiaomi nascerà da TSMC a 3 nm",
+      "url": "https://www.tomshw.it/hardware/xiaomi-xring-o3-il-chip-proprietario-sara-prodotto-da-tsmc-a-3",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109022/news-flash-928253.png",
+      "summary": "Xiaomi XRING O3 porta avanti il progetto dell’azienda di controllare direttamente una parte sempre più ampia dell’hardware dei propri dispositivi mobili. Il nuovo processore è stato progettato interna...",
+      "date": "2026-08-24T07:00:11.0000000Z"
     },
     {
-      "id": "tomshw:af0fa0fc5c65",
+      "id": "tomshw:624899db9e76",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Migliori POS portatili (agosto 2026)",
-      "url": "https://www.tomshw.it/altro/pos-mobili-migliori",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87507/migliori-pos-portatili-copertina.jpg",
-      "summary": "Se desiderate offrire ai vostri clienti la comodità di effettuare pagamenti con il POS ovunque vi troviate, in sicurezza e senza dipendere da una cassa fissa, un POS portatile è ancora u...",
-      "date": "2026-08-24T06:25:00.0000000Z"
+      "title": "Migliori RAM DDR5 (agosto 2026)",
+      "url": "https://www.tomshw.it/hardware/migliori-ram-ddr5",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/93461/migliori-ram-ddr5-copertina.jpg",
+      "summary": "La RAM DDR5 è ormai la scelta naturale per chi assembla un PC moderno o aggiorna una piattaforma recente, ma non tutti i kit hanno lo stesso senso d'acquisto. La differenza non si gioca solo sul numer...",
+      "date": "2026-08-24T06:27:22.0000000Z"
     },
     {
       "id": "dday:8fee585c6d8f",
