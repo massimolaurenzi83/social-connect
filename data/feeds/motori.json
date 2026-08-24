@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-08-24T10:00:01.8850068Z",
+  "updated": "2026-08-24T10:48:01.1862086Z",
   "items": [
+    {
+      "id": "motor1:ff088882f7c4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Sconto diesel prorogato per 24 ore: colpo di scena o beffa?",
+      "url": "https://it.motor1.com/news/805875/proroga-taglio-accise-diesel/",
+      "image": "https://cdn.motor1.com/images/mgl/Znz21A/s3/carburanti-italia-2026-diesel-corre-il-doppio-pieno-record.jpg",
+      "summary": "Dal 27 agosto il taglio di 17 centesimi al litro potrebbe sparire e il nodo diventa il costo del pieno per chi rientra",
+      "date": "2026-08-24T10:38:57.0000000Z"
+    },
+    {
+      "id": "hdmotori:32f4f1526bd2",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La e-bike per la famiglia: spazio per tutti su Formidable",
+      "url": "https://www.hdmotori.it/galian-le-formidable-e-bike-cargo/",
+      "image": null,
+      "summary": "Eurobike 2026 svela Galian Formidable, e-cargo con vano anteriore e portapacchi lungo. Dettagli tecnici, motori Bosch e Valeo, autonomia e prezzi. The post La e-bike per la famiglia: spazio per tutti su Formidable app...",
+      "date": "2026-08-24T10:30:35.0000000Z"
+    },
+    {
+      "id": "hdmotori:a0d44d0af083",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Carburanti, prorogato di un giorno lo sconto sulle accise: scade il 26 agosto",
+      "url": "https://www.hdmotori.it/carburanti-prorogato-sconto-accise-26-agosto/",
+      "image": null,
+      "summary": "Il governo proroga la scadenza dello sconto di 17 centesimi fino al 26 agosto. Dura la reazione delle associazioni dei consumatori. The post Carburanti, prorogato di un giorno lo sconto sulle accise: scade il 26 agost...",
+      "date": "2026-08-24T10:00:31.0000000Z"
+    },
+    {
+      "id": "motor1:263218c97c91",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Codice della strada, cosa cambia per over 85, smartphone e pedoni",
+      "url": "https://it.motor1.com/features/805847/nuovo-codice-strada-2026-smartphone/",
+      "image": "https://cdn.motor1.com/images/mgl/koKv6R/s3/le-ultime-riforme-del-codice-della-strada.jpg",
+      "summary": "Il Ministero corregge la rotta sugli anziani e conferma la stretta su distrazioni e strisce, ecco gli ultimi aggiornamenti",
+      "date": "2026-08-24T10:00:00.0000000Z"
+    },
     {
       "id": "insideevs:4d4a5c568ac0",
       "sourceId": "insideevs",
@@ -87,18 +135,6 @@
       "date": "2026-08-24T07:50:07.0000000Z"
     },
     {
-      "id": "insideevs:b92855398c9b",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Richiamati milioni di EV in Cina: maniglie meccaniche difficili da trovare",
-      "url": "https://insideevs.it/news/805812/ev-cina-richiamo-maniglie/",
-      "image": "https://cdn.motor1.com/images/mgl/1Zwbb7/s3/xiaomi-su7-emergency-release-handle.jpg",
-      "summary": "Non basta un sistema meccanico di riserva per le maniglie elettroniche. Deve anche essere facile da individuare in caso di emergenza",
-      "date": "2026-08-24T07:00:00.0000000Z"
-    },
-    {
       "id": "motor1:acc45ba51377",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -108,6 +144,18 @@
       "url": "https://it.motor1.com/news/805811/ferrari-enzo-padre-supercar-kode89/",
       "image": "https://cdn.motor1.com/images/mgl/NGPRLb/s3/kode89.jpg",
       "summary": "Il motore aspirato è abbinato a un cambio manuale a sei marce con selettore a griglia",
+      "date": "2026-08-24T07:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:b92855398c9b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Richiamati milioni di EV in Cina: maniglie meccaniche difficili da trovare",
+      "url": "https://insideevs.it/news/805812/ev-cina-richiamo-maniglie/",
+      "image": "https://cdn.motor1.com/images/mgl/1Zwbb7/s3/xiaomi-su7-emergency-release-handle.jpg",
+      "summary": "Non basta un sistema meccanico di riserva per le maniglie elettroniche. Deve anche essere facile da individuare in caso di emergenza",
       "date": "2026-08-24T07:00:00.0000000Z"
     },
     {
@@ -135,18 +183,6 @@
       "date": "2026-08-24T06:00:00.0000000Z"
     },
     {
-      "id": "insideevs:96299c2116d2",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "I produttori cinesi che promettono batterie solide per il 2027",
-      "url": "https://insideevs.it/news/805677/cina-batterie-stato-solido-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/pbJLyr/s3/cina-batterie-allo-stato-solido-nel-2027.jpg",
-      "summary": "Da CATL, BYD e Geely a Dreame: ecco chi punta a montare celle allo stato solido sull'auto elettrica entro l'anno prossimo",
-      "date": "2026-08-24T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:57d9507ffe7a",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -156,6 +192,18 @@
       "url": "https://it.motor1.com/news/803475/mg-zs-vs-dacia-duster-2026/",
       "image": "https://cdn.motor1.com/images/mgl/8A31yW/s3/mg-zs-vs-dacia-duster-2026.jpg",
       "summary": "Pur avendo filosofie diverse, ZS e Duster si possono avere (anche) ibride e sono tra le più pratiche del segmento",
+      "date": "2026-08-24T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:96299c2116d2",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I produttori cinesi che promettono batterie solide per il 2027",
+      "url": "https://insideevs.it/news/805677/cina-batterie-stato-solido-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/pbJLyr/s3/cina-batterie-allo-stato-solido-nel-2027.jpg",
+      "summary": "Da CATL, BYD e Geely a Dreame: ecco chi punta a montare celle allo stato solido sull'auto elettrica entro l'anno prossimo",
       "date": "2026-08-24T05:00:00.0000000Z"
     },
     {
@@ -255,18 +303,6 @@
       "date": "2026-08-22T14:11:09.0000000Z"
     },
     {
-      "id": "insideevs:42b3badbee34",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Guardate come una Lucid Gravity può ricaricare una Tesla Model 3",
-      "url": "https://insideevs.it/news/805668/lucid-gravity-ricarica-tesla/",
-      "image": "https://cdn.motor1.com/images/mgl/40Y3OY/s3/lucid-gravity-gt-s.jpg",
-      "summary": "Ricaricare una Tesla con i suoi più grandi concorrenti potrebbe sembrare una blasfemia, ma in realtà funziona dannatamente bene",
-      "date": "2026-08-22T10:00:00.0000000Z"
-    },
-    {
       "id": "motor1:a54be43b75b6",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -276,6 +312,18 @@
       "url": "https://it.motor1.com/news/805734/totem-gt-super-litorale-brado/",
       "image": "https://cdn.motor1.com/images/mgl/2N4Pop/s3/20260814_161846488_ios.jpg",
       "summary": "640 CV, carbonio e artigianalità invece di pura nostalgia. Questo restomod si spinge decisamente oltre la maggior parte degli altri",
+      "date": "2026-08-22T10:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:42b3badbee34",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Guardate come una Lucid Gravity può ricaricare una Tesla Model 3",
+      "url": "https://insideevs.it/news/805668/lucid-gravity-ricarica-tesla/",
+      "image": "https://cdn.motor1.com/images/mgl/40Y3OY/s3/lucid-gravity-gt-s.jpg",
+      "summary": "Ricaricare una Tesla con i suoi più grandi concorrenti potrebbe sembrare una blasfemia, ma in realtà funziona dannatamente bene",
       "date": "2026-08-22T10:00:00.0000000Z"
     },
     {
@@ -339,18 +387,6 @@
       "date": "2026-08-22T06:24:36.0000000Z"
     },
     {
-      "id": "motor1:1cf6d635f007",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La storia dell'UFO italiano disegnato da Giugiaro",
-      "url": "https://it.motor1.com/news/803450/bizzarrini-manta-storia-curiosita/",
-      "image": "https://cdn.motor1.com/images/mgl/E6NyPB/s3/bizzarrini-manta-1968.jpg",
-      "summary": "Nata in soli 40 giorni, la Bizzarrini Manta ha rivoluzionato il design delle sportive a motore centrale ed è un'icona del suo tempo",
-      "date": "2026-08-22T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:52bde9a6295d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -360,6 +396,18 @@
       "url": "https://insideevs.it/news/805707/auto-elettrica-100-anni-storia/",
       "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
       "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
+      "date": "2026-08-22T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:1cf6d635f007",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La storia dell'UFO italiano disegnato da Giugiaro",
+      "url": "https://it.motor1.com/news/803450/bizzarrini-manta-storia-curiosita/",
+      "image": "https://cdn.motor1.com/images/mgl/E6NyPB/s3/bizzarrini-manta-1968.jpg",
+      "summary": "Nata in soli 40 giorni, la Bizzarrini Manta ha rivoluzionato il design delle sportive a motore centrale ed è un'icona del suo tempo",
       "date": "2026-08-22T05:00:00.0000000Z"
     },
     {
@@ -411,18 +459,6 @@
       "date": "2026-08-21T16:00:16.0000000Z"
     },
     {
-      "id": "motor1:9549a600808a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Genesis lancia finalmente la sua prima ibrida (negli USA)",
-      "url": "https://it.motor1.com/news/805725/genesis-gv80-hybrid-debutto-usa/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak3oWx/s3/2027-genesis-gv80-hybrid.jpg",
-      "summary": "La GV80 Hybrid è sostanzialmente più efficiente e potente del modello a benzina",
-      "date": "2026-08-21T16:00:00.0000000Z"
-    },
-    {
       "id": "hdmotori:99e6e62c02ef",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -447,30 +483,6 @@
       "date": "2026-08-21T15:00:00.0000000Z"
     },
     {
-      "id": "motor1:f3132c5f6333",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Pressione pneumatici: forse non la controllate abbastanza spesso",
-      "url": "https://it.motor1.com/features/805479/pressione-pneumatici-controllo-frequenza/",
-      "image": "https://cdn.motor1.com/images/mgl/qkYzJz/s3/the-simple-maintenance-task-most-drivers-forget.jpg",
-      "summary": "Bastano pochi minuti, ma ignorare la pressione dei pneumatici potrebbe costarti carburante, durata dei pneumatici e persino la tua sicurezza.",
-      "date": "2026-08-21T15:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:4c0a3e48b400",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volvo Trucks celebra il centenario con la nuova “100 Year Edition”",
-      "url": "https://www.hdmotori.it/volvo-trucks-100-year-edition/",
-      "image": null,
-      "summary": "I modelli di punta FH e FH16 si rinnovano con un'esclusiva edizione speciale che celebra l'eredità svedese, il comfort d'avanguardia e una sicurezza a cinque stelle. The post Volvo Trucks celebra il centenario con la ...",
-      "date": "2026-08-21T14:00:31.0000000Z"
-    },
-    {
       "id": "insideevs:1d2af046ec51",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -481,18 +493,6 @@
       "image": "https://cdn.motor1.com/images/mgl/XBz4P2/s3/tesla-fsd.jpg",
       "summary": "Nel briefing con JPMorgan Tesla punta su FSD v15 e Optimus Gen 3, tra promesse su HW4, robotaxi e calendario spostato al 2027",
       "date": "2026-08-21T13:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:3654dfab057f",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Basta restomod, ora Totem sviluppa un inedito progetto con un V12 aspirato",
-      "url": "https://www.hdmotori.it/restomod-totem-progetto-v12/",
-      "image": null,
-      "summary": "Fondata da Riccardo Quaggio, ex designer automotive, Totem Automobili vuole ridefinire il concetto di supercar con i V12. The post Basta restomod, ora Totem sviluppa un inedito progetto con un V12 aspirato appeared fi...",
-      "date": "2026-08-21T12:30:52.0000000Z"
     },
     {
       "id": "insideevs:7b7bde363fe8",

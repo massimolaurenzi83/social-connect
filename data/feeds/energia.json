@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-24T10:00:01.9290289Z",
+  "updated": "2026-08-24T10:48:01.2583838Z",
   "items": [
+    {
+      "id": "qualenergia:fe9017acc71f",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Capacity market 2028: stretta sui rating Bess, si valuta gara dopo Macse",
+      "url": "https://www.qualenergia.it/articoli/capacity-market-2028-stretta-rating-bess-si-valuta-gara-dopo-macse/",
+      "image": null,
+      "summary": "L’asta del capacity market con consegna 2028 probabilmente slitterà a dopo la seconda procedura Macse, riservata alle Bess e prevista il 24 novembre 2026 per la consegna 2029. A rendere più concreta l’ipotesi è il dec...",
+      "date": "2026-08-24T10:15:38.0000000Z"
+    },
     {
       "id": "qualenergia:a14580aeb9b0",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "QualEnergia.it ha attivato da oltre un anno la rubrica “La formazione energetica in Italia”, uno spazio dedicato a raccogliere, valorizzare e rendere più accessibile l’offerta formativa nei settori delle fonti rinnova...",
       "date": "2026-08-21T14:30:20.0000000Z"
-    },
-    {
-      "id": "qualenergia:6fa6e537d8cd",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Aree idonee, la provincia di Trento amplia l’elenco e regola il fotovoltaico agricolo",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/aree-idonee-trento-amplia-elenco-regola-fv-agricolo/",
-      "image": null,
-      "summary": "Con l’assestamento di bilancio 2026-2028, approvato nelle scorse settimane, la Provincia di Trento ha rimesso ordine anche nella disciplina sulle rinnovabili, in particolare intervenendo sulle aree idonee, introducend...",
-      "date": "2026-08-21T13:00:52.0000000Z"
     }
   ]
 }
