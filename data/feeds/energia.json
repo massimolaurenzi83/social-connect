@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-25T13:08:48.5634813Z",
+  "updated": "2026-08-25T14:04:00.7261348Z",
   "items": [
+    {
+      "id": "qualenergia:a95a3c3f5382",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Extraprofitti petrolio, il cerino resta in mano agli Stati membri",
+      "url": "https://www.qualenergia.it/articoli/extraprofitti-petrolio-cerino-resta-mano-stati-membri/",
+      "image": null,
+      "summary": "Secondo la Commissione europea la tassazione degli extraprofitti è una competenza dei Paesi membri, che possono agire sulla base della propria legislazione. Questa la posizione data ieri (24 agosto) da Bruxelles trami...",
+      "date": "2026-08-25T13:30:29.0000000Z"
+    },
     {
       "id": "qualenergia:dc4be70f86fb",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Avviso pubblico per l’individuazione di operatori economici per l’espletamento della procedura negoziata, senza previa pubblicazione di un bando di gara, per l’affidamento tramite accordo quadro con un solo operatore ...",
       "date": "2026-08-25T05:00:40.0000000Z"
-    },
-    {
-      "id": "qualenergia:b211add04eab",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Towards an equitable future of global photovoltaic waste recycling",
-      "url": "https://www.qualenergia.it/pro/documenti/towards-an-equitable-future-of-global-photovoltaic-waste-recycling/",
-      "image": null,
-      "summary": "Uno studio pubblicato su Nature evidenzia che entro il 2060 si potrebbero accumulare tra 297 e 402 milioni di tonnellate di moduli fotovoltaici a fine vita. Il loro riciclo potrebbe generare benefici economici netti c...",
-      "date": "2026-08-25T05:00:35.0000000Z"
     }
   ]
 }
