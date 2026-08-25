@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-25T17:45:52.6527955Z",
+  "updated": "2026-08-25T18:17:57.6332187Z",
   "items": [
+    {
+      "id": "hdmotori:5a224498b62d",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Porsche 911 Targa della Polizia frantuma ogni record: vola oltre i 216.000 euro",
+      "url": "https://www.hdmotori.it/porsche-911-targa-polizia-olandese-asta-216000-euro/",
+      "image": null,
+      "summary": "Per anni ha pattugliato le autostrade olandesi a caccia di automobilisti indisciplinati. Oggi quella Porsche 911 Targa è diventata un pezzo da collezione The post La Porsche 911 Targa della Polizia frantuma ogni recor...",
+      "date": "2026-08-25T18:00:22.0000000Z"
+    },
     {
       "id": "hdmotori:d0c3a89e0e58",
       "sourceId": "hdmotori",
@@ -13,6 +25,18 @@
       "image": null,
       "summary": "CATL lancia la piattaforma B2B CATL Mall: celle LFP e moduli d'accumulo venduti direttamente online senza intermediari, con garanzia di 5 anni The post CATL, ora le batterie si comprano online come “cibo a domicilio” ...",
       "date": "2026-08-25T17:00:09.0000000Z"
+    },
+    {
+      "id": "motor1:49b7ca8e74b3",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Renault 5 ha più autonomia e nuove personalizzazioni",
+      "url": "https://it.motor1.com/news/806038/renault-5-e-tech-aggiornamento-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/7ZEn0J/s3/renault-5-e-tech-l-aggiornamento-2026.jpg",
+      "summary": "Aggiornamento su diversi fronti per la compatta francese, che percorre ora fino a 430 km con una carica",
+      "date": "2026-08-25T16:30:00.0000000Z"
     },
     {
       "id": "hdmotori:5cec30ec2d78",
@@ -51,6 +75,30 @@
       "date": "2026-08-25T15:30:10.0000000Z"
     },
     {
+      "id": "motor1:e05ecc89e772",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BMW M3, motorsport ed elettrico: ne parla il CEO di M",
+      "url": "https://it.motor1.com/news/806006/bmw-m3-van-meel-intervista/",
+      "image": "https://cdn.motor1.com/images/mgl/JONl6g/s3/frank-van-meel-ceo-bmw-m-interview.jpg",
+      "summary": "La M Concept Neue Klasse incontra a Monterey quattro decenni di storia della M3 e parliamo con il capo di M Frank van Meel",
+      "date": "2026-08-25T15:30:00.0000000Z"
+    },
+    {
+      "id": "motor1:44eedd164a40",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Porsche 911 con l'assetto ad aria costruita in Italia",
+      "url": "https://it.motor1.com/news/802814/indecent-009-porsche-911-prezzo/",
+      "image": "https://cdn.motor1.com/images/mgl/W8K37j/s3/indecent-009.jpg",
+      "summary": "Messa a punto dall'italiana BTS Creativity, la Indecent 009 allarga all'estremo la 911 e la dota di uno speciale assetto ad aria",
+      "date": "2026-08-25T15:04:44.0000000Z"
+    },
+    {
       "id": "hdmotori:21c6dfd90f85",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -75,6 +123,18 @@
       "date": "2026-08-25T15:00:00.0000000Z"
     },
     {
+      "id": "motor1:02644f98057c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "A Valle Castellana la benzina costa meno: il Comune fa il benzinaio",
+      "url": "https://it.motor1.com/news/806029/valle-castellana-benzina-prezzi/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KmyN/s3/prezzo-benzina.jpg",
+      "summary": "Nel piccolo Comune del Teramano benzina e diesel vengono venduti quasi a prezzo di costo, con un risparmio fino a 20 centesimi al litro",
+      "date": "2026-08-25T14:28:14.0000000Z"
+    },
+    {
       "id": "hdmotori:7d7eb3ed22ef",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -85,6 +145,18 @@
       "image": null,
       "summary": "Basta con pacchi batterie, pesi eccessivi e tecnologie inutili, il papà della Ferrari Enzo ha mostrato come dovrebbe essere una vera supercar The post Dalla Ferrari Enzo alla Kode89, il ritorno alla potenza esagerata ...",
       "date": "2026-08-25T14:00:37.0000000Z"
+    },
+    {
+      "id": "motor1:b3869d815f5f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questi robot camminano e montano motori: ecco dove",
+      "url": "https://it.motor1.com/news/805990/mitsubishi-robot-umanoidi-fabbrica-personale/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo9kbL/s3/i-robot-umanoidi-arrivano-nelle-fabbriche-mitsubishi.jpg",
+      "summary": "Umanoidi con intelligenza artificiale saranno testati in uno stabilimento per affiancare gli operai specializzati",
+      "date": "2026-08-25T14:00:00.0000000Z"
     },
     {
       "id": "insideevs:fd5bfd548a4c",
@@ -111,18 +183,6 @@
       "date": "2026-08-25T13:00:48.0000000Z"
     },
     {
-      "id": "insideevs:85a87228791b",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il camion gigante si ricarica in 25 minuti e lavora in miniera",
-      "url": "https://insideevs.it/news/806021/camion-minerario-elettrico-zijin-longking/",
-      "image": "https://cdn.motor1.com/images/mgl/MkgBqn/s3/ca7ca7042aa443219c2c1a0abdef4ed6.jpg",
-      "summary": "Il mezzo cinese punta su una batteria da 1.400 kWh e ricarica 10-90% in 25 minuti per lavorare a ciclo quasi continuo",
-      "date": "2026-08-25T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:cb64de81e32c",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -132,6 +192,18 @@
       "url": "https://it.motor1.com/news/805987/suzuki-e-sky-debutto/",
       "image": "https://cdn.motor1.com/images/mgl/BXZjQR/s3/2026-suzuki-e-sky.jpg",
       "summary": "La minuscola EV di Suzuki ha una batteria piccola per mantenere l'auto il più leggera possibile",
+      "date": "2026-08-25T13:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:85a87228791b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il camion gigante si ricarica in 25 minuti e lavora in miniera",
+      "url": "https://insideevs.it/news/806021/camion-minerario-elettrico-zijin-longking/",
+      "image": "https://cdn.motor1.com/images/mgl/MkgBqn/s3/ca7ca7042aa443219c2c1a0abdef4ed6.jpg",
+      "summary": "Il mezzo cinese punta su una batteria da 1.400 kWh e ricarica 10-90% in 25 minuti per lavorare a ciclo quasi continuo",
       "date": "2026-08-25T13:00:00.0000000Z"
     },
     {
@@ -243,16 +315,16 @@
       "date": "2026-08-25T09:57:50.0000000Z"
     },
     {
-      "id": "hdmotori:3028e5456d83",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "motor1:acf60e64b877",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Suzuki e-Sky: la kei car elettrica arriverà nel 2027 a 15.000 euro",
-      "url": "https://www.hdmotori.it/suzuki-e-sky-kei-car-elettrica-2027/",
-      "image": null,
-      "summary": "Il mercato auto europeo sta imboccando la strada dell’essenzialità. Suzuki ha svelato una nuova elettrica da città con qualità oggettive. The post Suzuki e-Sky: la kei car elettrica arriverà nel 2027 a 15.000 euro app...",
-      "date": "2026-08-25T09:00:42.0000000Z"
+      "title": "Le nuove ibride di Volvo si guideranno come auto elettriche",
+      "url": "https://it.motor1.com/news/805954/volvo-ibride-plug-in-nuove/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZwqWX/s3/volvo-xc60-update.jpg",
+      "summary": "I nuovi modelli ibridi del brand svedese avranno batterie più grandi: si parte con la XC70 da 200 km di autonomia EV",
+      "date": "2026-08-25T09:00:00.0000000Z"
     },
     {
       "id": "insideevs:44d95b79dcd6",
@@ -264,18 +336,6 @@
       "url": "https://insideevs.it/news/805853/manganese-accelerare-degrado-batterie/",
       "image": "https://cdn.motor1.com/images/mgl/7ZEnPA/s3/struttura-di-una-batteria-agli-ioni-di-litio.jpg",
       "summary": "Uno studio coreano rivela che l'esposizione all'aria può provocare ossidazione del manganese. Ma c'è una soluzione",
-      "date": "2026-08-25T09:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:acf60e64b877",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le nuove ibride di Volvo si guideranno come auto elettriche",
-      "url": "https://it.motor1.com/news/805954/volvo-ibride-plug-in-nuove/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZwqWX/s3/volvo-xc60-update.jpg",
-      "summary": "I nuovi modelli ibridi del brand svedese avranno batterie più grandi: si parte con la XC70 da 200 km di autonomia EV",
       "date": "2026-08-25T09:00:00.0000000Z"
     },
     {
@@ -327,18 +387,6 @@
       "date": "2026-08-25T07:00:00.0000000Z"
     },
     {
-      "id": "motor1:b4df1bf7b336",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volvo FH 100 Year Edition: interni in pelle e luce di benvenuto",
-      "url": "https://it.motor1.com/news/805901/volvo-fh-100-year-edition/",
-      "image": "https://cdn.motor1.com/images/mgl/NGP7gy/s3/volvo-fh-100-years-anniversary.jpg",
-      "summary": "Interni rinnovati, luce di benvenuto e 5 stelle Euro NCAP per la gamma Volvo FH 100 Year Edition disponibile da settembre 2026",
-      "date": "2026-08-25T06:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:19972c0377b4",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -348,18 +396,6 @@
       "url": "https://insideevs.it/news/803464/leapmotor-b05-vs-mg4-urban/",
       "image": "https://cdn.motor1.com/images/mgl/eo72LN/s3/leapmotor-b05-vs-mg4-urban.jpg",
       "summary": "Proposte a prezzi interessanti e con filosofie differenti, la B05 e la MG4 Urban sono due new entry nel segmento C",
-      "date": "2026-08-25T05:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:4dfe80220eef",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Gli interni del nuovo SUV compatto di Volkswagen",
-      "url": "https://it.motor1.com/news/805689/volkswagen-id-cross-interni-bagagliaio/",
-      "image": "https://cdn.motor1.com/images/mgl/vx8rMb/s3/volkswagen-id.-cross-gli-interni-e-il-bagagliaio.jpg",
-      "summary": "Ecco com'è fatta l'ID. Cross, SUV di segmento B con tecnologia e tanto spazio a bordo",
       "date": "2026-08-25T05:00:00.0000000Z"
     },
     {
@@ -411,30 +447,6 @@
       "date": "2026-08-24T20:33:03.0000000Z"
     },
     {
-      "id": "motor1:efd59a215594",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Porsche vende un pezzo del suo impero al gruppo Tata",
-      "url": "https://it.motor1.com/news/805914/porsche-mhp-tata-consultancy-services/",
-      "image": "https://cdn.motor1.com/images/mgl/XBzx6V/s3/porsche-vende-un-pezzo-del-suo-impero-al-gruppo-tata.jpg",
-      "summary": "Dopo quasi 20 anni la Casa tedesca cambia proprietario a una società strategica per il digitale, ma mantiene una collaborazione stretta",
-      "date": "2026-08-24T16:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:8302b60e6bb6",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Trump contro il Canada: dazi al 50% su auto e ricambi",
-      "url": "https://it.motor1.com/news/805912/trump-canada-dazi-auto-ricambi/",
-      "image": "https://cdn.motor1.com/images/mgl/2N0Qbp/s3/donald-trump.jpg",
-      "summary": "La nuova stretta commerciale scatterebbe dal 2027 e potrebbe avere conseguenze sulla produzione e sui prezzi delle auto negli USA",
-      "date": "2026-08-24T15:30:00.0000000Z"
-    },
-    {
       "id": "insideevs:cd1c710d6696",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -444,18 +456,6 @@
       "url": "https://insideevs.it/news/805829/catl-negozio-online-vendita-diretta-batterie/",
       "image": "https://cdn.motor1.com/images/mgl/XB6q2p/s3/la-batteria-lfp-saic_gm-e-catl-che-ricarica-a-6c.jpg",
       "summary": "Il colosso cinese apre uno shop online dove le aziende si servono da sole. In 2 mesi ci sono stati 1800 clienti",
-      "date": "2026-08-24T15:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:ae37fd255746",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quali sono le auto con i clienti più fedeli? La classifica USA 2026",
-      "url": "https://it.motor1.com/news/805895/auto-clienti-fedeli-classifica-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/W8KmMO/s3/quali-sono-le-auto-con-i-clienti-piu-fedeli-la-classifica-usa-2026.jpg",
-      "summary": "Il 64% dei clienti Tesla che cambia auto resta fedele al marchio. A seguire, Ferrari e Toyota",
       "date": "2026-08-24T15:00:00.0000000Z"
     },
     {
