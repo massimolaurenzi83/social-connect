@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-25T09:21:54.2479335Z",
+  "updated": "2026-08-25T09:58:53.6683810Z",
   "items": [
+    {
+      "id": "ferrovie:a9a022e64b45",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Treni notte, European Sleeper punta alla Scandinavia: Bruxelles e Amsterdam collegate a Copenaghen e Malmö",
+      "url": "https://www.ferrovie.info/treni-reali/treni-notte-european-sleeper-punta-alla-scandinavia-bruxelles-e-amsterdam-collegate-a-copenaghen-e-malmoe.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/european_sleeper_5252.jpg",
+      "summary": "Una nuova relazione internazionale destinata ad ampliare ulteriormente la rete dei treni notte europei . European Sleeper e RDC hanno infatti annunciato una partnership strategica per la realizzazione di un nuovo serv...",
+      "date": "2026-08-25T09:37:45.0000000Z"
+    },
     {
       "id": "ferrovie:dfd4d3ee8e68",
       "sourceId": "ferrovie",
@@ -27,13 +39,13 @@
       "date": "2026-08-25T06:57:24.0000000Z"
     },
     {
-      "id": "ferrovie:295d448f2fc1",
+      "id": "ferrovie:8f123330e068",
       "sourceId": "ferrovie",
       "source": "Ferrovie.info",
       "platform": "rss",
       "category": "mobilita",
       "title": "Arenaways, prove della 483 per il nuovo Milano - Bruxelles di European Sleeper",
-      "url": "https://www.ferrovie.info/treni-reali/basilicata-sulla-potenza-taranto-tornano-protagonisti-i-treni-diesel.html",
+      "url": "https://www.ferrovie.info/treni-reali/arenaways-prove-della-483-per-il-nuovo-milano-bruxelles-di-european-sleeper.html",
       "image": "https://www.fotoferrovie.info/albums/userpics/11405/normal_483_arenaways_4284.jpg",
       "summary": "Arenaways si prepara al debutto nei nuovi servizi internazionali di European Sleeper tra Milano e Bruxelles. Nei giorni 11, 12 e 13 agosto si sono infatti svolte le corse prova della 483.003, prima locomotiva destinat...",
       "date": "2026-08-25T06:29:32.0000000Z"
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10529/ETR_521_n_003___ETR_421_n_008.JPG",
       "summary": "Numerosi cantieri ferroviari interesseranno nelle prossime settimane il nodo di Bologna e diverse linee nazionali e internazionali, con cancellazioni, autobus sostitutivi e variazioni di orario. Settimane di lavori e ...",
       "date": "2026-08-21T09:59:09.0000000Z"
-    },
-    {
-      "id": "ferrovie:c72c74f2483b",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Perugia, riapre la tratta Ponte San Giovanni - Fontivegge: dal 24 agosto torna il 70% dei collegamenti",
-      "url": "https://www.ferrovie.info/treni-reali/perugia-riapre-la-tratta-ponte-san-giovanni-fontivegge-dal-24-agosto-torna-il-70-dei-collegamenti.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/normal_IMG_1426.jpg",
-      "summary": "La circolazione ferroviaria riprenderà lunedì 24 agosto, in anticipo rispetto alle previsioni. Resta invece sospesa la linea Perugia-Terontola, con conclusione dei lavori attesa per il 6 settembre Riprenderà lunedì 24...",
-      "date": "2026-08-21T09:35:38.0000000Z"
     }
   ]
 }

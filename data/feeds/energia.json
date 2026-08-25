@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-08-25T09:21:54.1841081Z",
+  "updated": "2026-08-25T09:58:53.7232727Z",
   "items": [
+    {
+      "id": "qualenergia:dc4be70f86fb",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Il piano dell’Austria: meno incentivi al fotovoltaico e più alla flessibilità",
+      "url": "https://www.qualenergia.it/articoli/piano-austria-meno-incentivi-fotovoltaico-piu-flessibilita/",
+      "image": null,
+      "summary": "L’Austria prepara un cambio di rotta negli incentivi alle rinnovabili: meno sostegno generalizzato ai piccoli impianti fotovoltaici e più risorse per batterie, sistemi intelligenti di gestione dell’energia e soluzioni...",
+      "date": "2026-08-25T09:30:27.0000000Z"
+    },
+    {
+      "id": "qualenergia:3eee8acf031e",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Fer X, al via le richieste di qualifica preliminare",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/fer-x-via-richieste-qualifica-preliminare/",
+      "image": null,
+      "summary": "A partire da oggi, 25 agosto, è possibile presentare la richiesta di qualifica preliminare sul portale Fer-X Definitivo predisposto dal Gse. Si tratta di un’azione propedeutica per essere ammessi alle procedure compet...",
+      "date": "2026-08-25T09:15:25.0000000Z"
+    },
     {
       "id": "qualenergia:da7b854ca640",
       "sourceId": "qualenergia",
@@ -37,6 +61,18 @@
       "image": null,
       "summary": "Entro il 2060 nel mondo si potrebbero accumulare tra 297 e 402 milioni di tonnellate di moduli fotovoltaici a fine vita. Se questo flusso venisse gestito con tecnologie e catene di riciclo adatte ai diversi mercati, p...",
       "date": "2026-08-25T07:00:10.0000000Z"
+    },
+    {
+      "id": "qualenergia:b60784c728d1",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Puglia, incentivi a imprese della pesca per efficienza energetica e rinnovabili",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/puglia-incentivi-imprese-pesca-efficienza-rinnovabili/",
+      "image": null,
+      "summary": "Aprirà a settembre lo sportello agevolativo della Regione Puglia che sostiene investimenti per rafforzare la competitività e la sostenibilità delle imprese della pesca attraverso il miglioramento delle condizioni di l...",
+      "date": "2026-08-25T06:55:26.0000000Z"
     },
     {
       "id": "qualenergia:c806b8589e7b",
@@ -109,42 +145,6 @@
       "image": null,
       "summary": "Nell’ultimo weekend da “bollino rosso” sulle reti stradali e ferroviarie di tutta Italia, i vacanzieri hanno dato il via al “controesodo” che fino al termine del mese chiuderà le ferie per la maggior parte delle perso...",
       "date": "2026-08-24T11:00:57.0000000Z"
-    },
-    {
-      "id": "qualenergia:c82e8b6e7d20",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Capacity market 2028: stretta sui rating Bess, si valuta gara dopo Macse",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/capacity-market-2028-stretta-rating-bess-si-valuta-gara-dopo-macse/",
-      "image": null,
-      "summary": "L’asta del capacity market con consegna 2028 probabilmente slitterà a dopo la seconda procedura Macse, riservata alle Bess e prevista il 24 novembre 2026 per la consegna 2029. A rendere più concreta l’ipotesi è il dec...",
-      "date": "2026-08-24T10:15:38.0000000Z"
-    },
-    {
-      "id": "qualenergia:92945319d807",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "A luglio balzo dell’installato di rinnovabili in Italia: +745 MW",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/a-luglio-balzo-installato-fer-italia-piu-745-mw/",
-      "image": null,
-      "summary": "La nuova potenza installata di rinnovabili elettriche in Italia aumenta a luglio rispetto a giugno, avvicinandosi molto alla netta accelerazione di aprile. Secondo l’ultimo aggiornamento della dashboard Terna, riferit...",
-      "date": "2026-08-24T09:30:09.0000000Z"
-    },
-    {
-      "id": "qualenergia:a14580aeb9b0",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Dai raccolti ai prezzi, i rischi alimentari di un mondo a +2 °C",
-      "url": "https://www.qualenergia.it/articoli/raccolti-prezzi-rischi-alimentari-mondo-piu-2-gradi-celsius/",
-      "image": null,
-      "summary": "Con due gradi in più di temperatura globale, il sistema alimentare mondiale entrerebbe in una zona di rischio molto alta. Rese agricole in calo, shock simultanei nei grandi granai del pianeta, prezzi più instabili e a...",
-      "date": "2026-08-24T08:30:38.0000000Z"
     }
   ]
 }
