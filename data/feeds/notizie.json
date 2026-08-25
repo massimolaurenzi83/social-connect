@@ -1,7 +1,31 @@
 {
   "category": "notizie",
-  "updated": "2026-08-25T19:43:07.3563436Z",
+  "updated": "2026-08-25T20:04:05.1464067Z",
   "items": [
+    {
+      "id": "open:0d9266fa4de6",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Nella laguna di Venezia c’è un’isola privata in vendita: quanto costa e dove si trova",
+      "url": "https://www.open.online/2026/08/25/isola-crevan-venezia-vendita-fortino-napoleonico/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/isola-crevan.jpg",
+      "summary": "Si tratta dell'isola di Crevan, a soli 7,5 chilometri da Venezia. Misura 5.700 metri quadrati e ospita un fortino napoleonico restaurato, giardini e approdi privati, con vista su Murano e Burano L'articolo Nella lagun...",
+      "date": "2026-08-25T20:02:13.0000000Z"
+    },
+    {
+      "id": "open:cf8be9d7ce0a",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Anche Saviano scarica Ranucci: «Si è fatto fregare con le lusinghe. Serve diffidenza con le fonti» – Il video",
+      "url": "https://www.open.online/2026/08/25/saviano-scarica-ranucci-distanza-fonti-video/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/saviano-scarica-ranucci-distanza-fonti.jpg",
+      "summary": "Lo scrittore analizza le carte dell'inchiesta che ha portato all'arresto di Valter Lavitola: «Il potere non corrompe più con le bustarelle. Ti adotta per fregarti» L'articolo Anche Saviano scarica Ranucci: «Si è fatto...",
+      "date": "2026-08-25T19:42:46.0000000Z"
+    },
     {
       "id": "ansa:56d029a1878b",
       "sourceId": "ansa",
@@ -25,6 +49,18 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/valditara-proposta-studio-italiano-genitori-stranieri.jpg",
       "summary": "L'annuncio del ministro al Meeting di Rimini: «È fondamentale che un genitore conosca la nostra lingua» L'articolo Valditara vuol far studiare l’italiano ai genitori degli studenti stranieri: «Non si può perdere a cas...",
       "date": "2026-08-25T19:30:45.0000000Z"
+    },
+    {
+      "id": "repubblica:ad4260db434f",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "I look indimenticabili di Dolly Parton",
+      "url": "https://d.repubblica.it/fashion/look-delle-star/2026/08/25/news/dolly_parton_look_piu_belli-425547006/",
+      "image": null,
+      "summary": "Uno stile esagerato, luccicante, inimitabile. È scomparsa oggi, a 80 anni, la regina del country che fece della parrucca, del lustrino e di un’ironia inossidabile una dichiarazione di libertà",
+      "date": "2026-08-25T19:26:09.0000000Z"
     },
     {
       "id": "ansa:dfc9829db111",
@@ -292,7 +328,7 @@
       "title": "La Rai pronta a rimuovere Ranucci da Report: «Al suo posto non un marziano». La decisione attesa per i prossimi giorni: cosa può succedere",
       "url": "https://www.open.online/2026/08/25/rai-rimozione-ranucci-conduzione-report/",
       "image": "https://static.open.online/wp-content/uploads/2026/08/ranucci-1.jpg",
-      "summary": "Terminata la riunione dei vertici Rai. L'avvocato del conduttore: «Lui è un perseguitato, l'azienda dovrebbe tutelarlo» L'articolo La Rai pronta a rimuovere Ranucci da Report: «Al suo posto non un marziano». La decisi...",
+      "summary": "Terminata la riunione dei vertici di viale Mazzini. Il conduttore: «Ho la coscienza pulita e ho onorato la Rai. Gli altri invece?» L'articolo La Rai pronta a rimuovere Ranucci da Report: «Al suo posto non un marziano»...",
       "date": "2026-08-25T16:05:07.0000000Z"
     },
     {
@@ -306,18 +342,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/festival-di-open.jpg",
       "summary": "L'appuntamento è dal 18 al 20 settembre in Piazza Garibaldi per decine di eventi gratuiti e aperti a tutti: le date da segnare e chi salirà sul palco L'articolo Il Festival di Open torna a Parma. Dal ministro Giorgett...",
       "date": "2026-08-25T15:59:04.0000000Z"
-    },
-    {
-      "id": "repubblica:54b4220b5df3",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Il Canada risponde a Trump: dazi fino al 50% su 700 prodotti. Contromisure da 20 miliardi",
-      "url": "https://www.repubblica.it/economia/2026/08/25/news/canada_trump_dazi_usa_acciaio_allumino_elenco_prodotti-425546635/",
-      "image": null,
-      "summary": "Ottawa ha presentato un piano di tariffe doganali che pareggia il conto con quelle imposte dalla Casa Bianca. Oltre ad acciaio e alluminio, colpiti anche cibo, abbigliamento e altri settori",
-      "date": "2026-08-25T15:50:02.0000000Z"
     },
     {
       "id": "skytg24:xxSaDH6kU-I",
@@ -368,30 +392,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/medvedev-stubb.jpg",
       "summary": "Secondo Stubb, gli attacchi ucraini contro i magazzini di Wildberries potrebbero spingere Mosca a negoziare. Ma l'ex presidente russo lo attacca: «Il suo livello di competenza professionale è oltre il ridicolo» L'arti...",
       "date": "2026-08-25T15:28:06.0000000Z"
-    },
-    {
-      "id": "open:c5b764387910",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Reggio Emilia, coppia ruba 6mila euro di Parmigiano: il trucco per uscire dai supermercati senza allarme",
-      "url": "https://www.open.online/2026/08/25/reggio-emilia-coppia-furto-parmigiano-reggiano/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/parmigino.jpg",
-      "summary": "Una coppia di 59 e 51 anni è stata denunciata dopo una serie di furti in un supermercato della Bassa Reggiana. Le telecamere hanno permesso ai carabinieri di ricostruire il loro sistema L'articolo Reggio Emilia, coppi...",
-      "date": "2026-08-25T15:24:23.0000000Z"
-    },
-    {
-      "id": "open:04e078313d31",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La foto del migrante che cucina un gatto morto a Ceuta è un falso alterato con l’AI",
-      "url": "https://www.open.online/2026/08/25/ceuta-foto-gatto-migrante-manipolata-ai-legno-fact-check/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/foto-migrante-cucina-gatto-morto-ceuta-fact-checking.jpg",
-      "summary": "L'immagine originale, tratta da un video de El Pais, non riprendeva alcun animale L'articolo La foto del migrante che cucina un gatto morto a Ceuta è un falso alterato con l’AI proviene da Open .",
-      "date": "2026-08-25T15:22:22.0000000Z"
     },
     {
       "id": "skytg24:0BNtWWt7HAk",

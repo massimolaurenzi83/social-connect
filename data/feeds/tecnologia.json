@@ -1,7 +1,19 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-25T19:43:07.3840763Z",
+  "updated": "2026-08-25T20:04:05.1090409Z",
   "items": [
+    {
+      "id": "tomshw:e247057de834",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "LG QNED AI 50” a 339€, colori più vivi per film e serie al minimo storico",
+      "url": "https://www.tomshw.it/offerte/lg-qned-ai-50-a-339eur-colori-piu-vivi-per-film-e-serie-al-minimo-storico",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109643/tomshw-offer-932538.png",
+      "summary": "LG QNED AI 50 pollici è a 339€ su Amazon, contro 499€ di listino con il 32% di sconto. È il minimo storico per una Smart TV 4K che punta su colori vivaci, elaborazione AI e aggiornamenti software prol...",
+      "date": "2026-08-25T19:33:06.0000000Z"
+    },
     {
       "id": "tomshw:de9111495ffa",
       "sourceId": "tomshw",
@@ -195,18 +207,6 @@
       "date": "2026-08-25T16:25:00.0000000Z"
     },
     {
-      "id": "tomshw:d8fde0e01382",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Dell 15 da 999€ a 699€, Core i7 e 16GB che fanno la differenza",
-      "url": "https://www.tomshw.it/offerte/dell-15-da-999eur-a-699eur-core-i7-e-16gb-che-fanno-la-differenza",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109603/tomshw-offer-932397.png",
-      "summary": "Il Dell 15 con Core i7 costa 699€ su Amazon, contro un listino di 999€: il taglio è del 30%, pari a 300€ risparmiati. È una configurazione pensata per sostenere multitasking, studio e lavoro quotidian...",
-      "date": "2026-08-25T16:03:42.0000000Z"
-    },
-    {
       "id": "dday:14270cbd2135",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -315,18 +315,6 @@
       "date": "2026-08-25T11:32:09.0000000Z"
     },
     {
-      "id": "tomshw:04ac304c297a",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Migliori smartphone sotto i 200€ (agosto 2026)",
-      "url": "https://www.tomshw.it/smartphone/migliori-smartphone-100-200-euro",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90402/migliori-smartphone-sotto-200-euro-copertina.jpg",
-      "summary": "Comprare uno smartphone valido senza superare i 200 euro nel 2026 è molto meno complicato di qualche anno fa. La fascia entry-level resta piena di compromessi, ma oggi è possibile trovare modelli ada...",
-      "date": "2026-08-25T11:24:06.0000000Z"
-    },
-    {
       "id": "dday:65953b0979ac",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -339,18 +327,6 @@
       "date": "2026-08-25T11:20:00.0000000Z"
     },
     {
-      "id": "tomshw:b28292f8967f",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "I data center ingolfano la rete elettrica italiana di richieste (quasi tutte finte)",
-      "url": "https://www.tomshw.it/business/i-data-center-ingolfano-la-rete-elettrica-italiana-di-richieste-quasi-tutte-finte",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109445/05-terna-data-center-95gw-cover-web.jpg",
-      "summary": "Il 21 agosto 2026 risultavano 531 domande di connessione alla rete elettrica per data center in attesa di una risposta da Terna, per un totale di 95,38 GW. È una richiesta vicina alla potenza compless...",
-      "date": "2026-08-25T11:15:06.0000000Z"
-    },
-    {
       "id": "tomshw:3c4020e79332",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -360,6 +336,18 @@
       "url": "https://www.tomshw.it/business/quando-lai-deve-scegliere-un-esperto-saltano-fuori-problemi-che-erano-prevedibili",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/109444/04-bias-benchmark-llm-cover-web.jpg",
       "summary": "Chiedete a un modello linguistico di indicare i migliori fisici in circolazione, e la lista che torna assomiglia quasi sempre alla stessa fotografia: uomini, bianchi, americani, già affermati. Lo sche...",
+      "date": "2026-08-25T11:15:06.0000000Z"
+    },
+    {
+      "id": "tomshw:b28292f8967f",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "I data center ingolfano la rete elettrica italiana di richieste (quasi tutte finte)",
+      "url": "https://www.tomshw.it/business/i-data-center-ingolfano-la-rete-elettrica-italiana-di-richieste-quasi-tutte-finte",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109445/05-terna-data-center-95gw-cover-web.jpg",
+      "summary": "Il 21 agosto 2026 risultavano 531 domande di connessione alla rete elettrica per data center in attesa di una risposta da Terna, per un totale di 95,38 GW. È una richiesta vicina alla potenza compless...",
       "date": "2026-08-25T11:15:06.0000000Z"
     },
     {
@@ -459,6 +447,18 @@
       "summary": "",
       "videoId": "Q4u5gSuDpF8",
       "date": "2026-08-23T11:11:05.0000000Z"
+    },
+    {
+      "id": "tomshw:aa1af6ea9e8f",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Abbiamo provato la campagna di Gears of War: E-Day",
+      "url": "https://www.tomshw.it/videogioco/abbiamo-provato-la-campagna-di-gears-of-war-e-day",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108923/Gears-of-War-E-DAY-(2).jpg",
+      "summary": "L'aria di Kalona ha il sapore amaro del gesso sbriciolato e della carne bruciata. Non c'è la compostezza della guerra tradizionale, né la solennità delle battaglie campali a cui i...",
+      "date": "2026-08-22T08:00:03.0000000Z"
     },
     {
       "id": "techprincess:doYvlFZh9Ow",
