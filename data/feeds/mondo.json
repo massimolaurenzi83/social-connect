@@ -1,7 +1,31 @@
 {
   "category": "mondo",
-  "updated": "2026-08-25T03:29:48.0814114Z",
+  "updated": "2026-08-25T04:19:26.7903777Z",
   "items": [
+    {
+      "id": "ansa-mondo:80a2f8bd8b01",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Attacchi russi nella notte, colpite quattro città ucraine",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/25/attacchi-russi-nella-notte-colpite-quattro-citta-ucraine_bc3bb7bf-a284-43f5-a697-986d91ffa4b9.html",
+      "image": null,
+      "summary": "Media, in fiamme una raffineria di petrolio in Russia",
+      "date": "2026-08-25T04:13:40.0000000Z"
+    },
+    {
+      "id": "internazionale:deab5bde55c0",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "“Al telefono mi dice che è finita, sono distrutto”",
+      "url": "https://www.internazionale.it/notizie/maroussia-dubreuil/2026/08/25/al-telefono-mi-dice-che-e-finita-sono-distrutto",
+      "image": "https://media.internazionale.it/images/2026/01/22/329288-hd.jpg",
+      "summary": "Due giorni nella vita di due persone innamorate. Il primo, quando tutto comincia, e l’ultimo, quando ci si lascia. In questa puntata: Frédéric, 55 anni Leggi",
+      "date": "2026-08-25T04:01:01.0000000Z"
+    },
     {
       "id": "internazionale:e261ed093725",
       "sourceId": "internazionale",
@@ -147,18 +171,6 @@
       "date": "2026-08-24T21:12:05.0000000Z"
     },
     {
-      "id": "ansa-mondo:be4adcb3fcec",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "De la Espriella ordina operazioni contro l'immigrazione irregolare in Colombia",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/24/de-la-espriella-ordina-operazioni-contro-limmigrazione-irregolare-in-colombia_1db522e4-d81f-4844-9f5a-e5d96ed48144.html",
-      "image": null,
-      "summary": "Espulsioni al via questa settimana, priorità agli stranieri illegali che commettono reati",
-      "date": "2026-08-24T20:47:51.0000000Z"
-    },
-    {
       "id": "internazionale:a124ceb0ce34",
       "sourceId": "internazionale",
       "source": "Internazionale",
@@ -193,18 +205,6 @@
       "image": "https://media.internazionale.it/images/2026/08/21/356638-hd.jpg",
       "summary": "La corsa alla carica di prossimo segretario generale dell’Onu si avvia verso la fase cruciale. Da questa scelta potrebbe dipendere il futuro dell’organizzazione Leggi",
       "date": "2026-08-24T03:41:03.0000000Z"
-    },
-    {
-      "id": "internazionale:e184b8e36604",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "I libri scelti da Internazionale",
-      "url": "https://www.internazionale.it/redirect/2026/08/23/libro-max-mischa-offensiva-tet-johan-harstad-recensioni",
-      "image": "https://media.internazionale.it/images/2026/08/21/356650-hd.jpg",
-      "summary": "Da Max, Mischa e l’offensiva del Tet di Johan Harstad a Tutte le mattine di Sybil di Virginia Evans. Le recensioni della stampa straniera Leggi",
-      "date": "2026-08-23T03:50:01.0000000Z"
     }
   ]
 }
