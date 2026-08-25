@@ -1,7 +1,19 @@
 {
   "category": "aviazione",
-  "updated": "2026-08-25T12:04:22.4368481Z",
+  "updated": "2026-08-25T13:08:48.5368061Z",
   "items": [
+    {
+      "id": "aviationreport:ecbff2d26253",
+      "sourceId": "aviationreport",
+      "source": "Aviation Report",
+      "platform": "rss",
+      "category": "aviazione",
+      "title": "AIM-424 Malice LRAAM: la US Navy svela il missile aria-aria a lunghissima gittata",
+      "url": "https://www.aviation-report.com/aim-424-malice-lraam-us-navy-svela-nuovo-missile-aria-aria-a-lunghissima-gittata/",
+      "image": null,
+      "summary": "La US Navy ha ufficialmente rivelato l’esistenza dell’AIM-424 Malice LRAAM, un missile aria-aria di nuova generazione sviluppato da Raytheon. L’annuncio è arrivato il 22 agosto 2026 durante il Tailhook Symposium a Ren...",
+      "date": "2026-08-25T12:38:53.0000000Z"
+    },
     {
       "id": "aviationreport:78b5ead4db84",
       "sourceId": "aviationreport",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Un F-18 Hornet spagnolo dell’Aeronautica Militare spagnola, impegnato nella missione di Air Policing della NATO in Romania, ha abbattuto un drone che aveva violato lo spazio aereo rumeno. L’episodio è avvenuto nella n...",
       "date": "2026-08-17T08:44:11.0000000Z"
-    },
-    {
-      "id": "aviationreport:52a7a0a7ccd4",
-      "sourceId": "aviationreport",
-      "source": "Aviation Report",
-      "platform": "rss",
-      "category": "aviazione",
-      "title": "MQ-25 Stingray: verso la produzione e integrazione nel Carrier Air Wing della US Navy",
-      "url": "https://www.aviation-report.com/mq-25-stingray-verso-produzione-e-integrazione-nel-carrier-air-wing-della-us-navy/",
-      "image": null,
-      "summary": "Il programma MQ-25 Stingray della US Navy rappresenta un passaggio strutturale nell’aviazione imbarcata. Il primo drone progettato specificamente per operare dalle portaerei, con missione primaria di rifornimento in v...",
-      "date": "2026-08-16T16:30:29.0000000Z"
     }
   ]
 }

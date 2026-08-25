@@ -1,6 +1,6 @@
 {
   "category": "energia",
-  "updated": "2026-08-25T12:04:22.4342500Z",
+  "updated": "2026-08-25T13:08:48.5634813Z",
   "items": [
     {
       "id": "qualenergia:dc4be70f86fb",
@@ -99,6 +99,18 @@
       "date": "2026-08-25T06:55:26.0000000Z"
     },
     {
+      "id": "qualenergia:50d40d648ab7",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Bandi e appalti del giorno (3)",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
+      "image": null,
+      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
+      "date": "2026-08-25T06:30:17.0000000Z"
+    },
+    {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -111,6 +123,18 @@
       "date": "2026-08-25T05:15:00.0000000Z"
     },
     {
+      "id": "qualenergia:d5a116e4e301",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Ampliamento pubblica illuminazione a Martina Franca (TA)",
+      "url": "https://www.qualenergia.it/pro/documenti/ampliamento-pubblica-illuminazione-a-martina-franca-ta/",
+      "image": null,
+      "summary": "Avviso pubblico per l’individuazione di operatori economici per l’espletamento della procedura negoziata, senza previa pubblicazione di un bando di gara, per l’affidamento tramite accordo quadro con un solo operatore ...",
+      "date": "2026-08-25T05:00:40.0000000Z"
+    },
+    {
       "id": "qualenergia:b211add04eab",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Uno studio pubblicato su Nature evidenzia che entro il 2060 si potrebbero accumulare tra 297 e 402 milioni di tonnellate di moduli fotovoltaici a fine vita. Il loro riciclo potrebbe generare benefici economici netti c...",
       "date": "2026-08-25T05:00:35.0000000Z"
-    },
-    {
-      "id": "qualenergia:28c24aba79dc",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "BANDI E APPALTI",
-      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
-      "image": null,
-      "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
-      "date": "2026-08-24T22:25:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:b4c30af0a162",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Caldo record, il fotovoltaico limita lo stress sui sistemi elettrici",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/caldo-record-fotovoltaico-limita-stress-sistemi-elettrici/",
-      "image": null,
-      "summary": "Le ondate di calore che hanno attraversato l’Europa tra giugno e luglio hanno rappresentato un test impegnativo per i sistemi elettrici del continente. Le temperature elevate hanno fatto crescere i consumi per il raff...",
-      "date": "2026-08-24T12:30:49.0000000Z"
     }
   ]
 }

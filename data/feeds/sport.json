@@ -1,7 +1,44 @@
 {
   "category": "sport",
-  "updated": "2026-08-25T12:04:22.4746427Z",
+  "updated": "2026-08-25T13:08:48.5706586Z",
   "items": [
+    {
+      "id": "corrieresport:6a92ceecf865",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "L&#39;EFC celebra il traguardo degli 850 club membri: &quot;Siamo orgogliosi&quot;",
+      "url": "https://www.corrieredellosport.it/news/calcio/2026/08/25-150789641/l_efc_celebra_il_traguardo_degli_850_club_membri_siamo_orgogliosi/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/25/124606296-c56e803b-bf74-4b15-a99b-8304c10fc01d.jpg",
+      "summary": "Dopo aver accolto 80 nuovi club, c'è un nuovo record di affiliati. Il presidente Nasser Al-Khelaïfi: \"Costruiremo un ecosistema migliore per tutti\"",
+      "date": "2026-08-25T12:48:53.0000000Z"
+    },
+    {
+      "id": "corrieresport:d1c66910dcdf",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Tempo effettivo Serie A, perch&eacute; le nuove regole aiutano: i retroscena sugli allenatori e i giocatori",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/08/25-150788361/tempo_effettivo_serie_a_perch_le_nuove_regole_aiutano_i_retroscena_sugli_allenatori_e_i_giocatori/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/25/114230136-2a4bb977-bc9a-4b15-b258-5a3c3519380f.jpg",
+      "summary": "Si gioca molto di più nel massimo campionato in confronto a un anno fa: tutti i dettagli e i numeri",
+      "date": "2026-08-25T12:38:13.0000000Z"
+    },
+    {
+      "id": "skysport-yt:9pr-olYLy9w",
+      "sourceId": "skysport-yt",
+      "source": "Sky Sport",
+      "platform": "youtube",
+      "category": "sport",
+      "title": "⚪⚫ Kamil Grabara è arrivato a Torino: il portiere è pronto a iniziare la sua avventura bianconera",
+      "url": "https://www.youtube.com/watch?v=9pr-olYLy9w",
+      "image": "https://i.ytimg.com/vi/9pr-olYLy9w/hqdefault.jpg",
+      "summary": "",
+      "videoId": "9pr-olYLy9w",
+      "date": "2026-08-25T12:00:01.0000000Z"
+    },
     {
       "id": "corrieresport:18cdcfefda30",
       "sourceId": "corrieresport",
@@ -316,9 +353,9 @@
       "source": "Corriere dello Sport",
       "platform": "rss",
       "category": "sport",
-      "title": "Calciomercato in diretta: Leao vicino all&#39;addio al Milan, Kean vuole il Como, Oosterwolde &egrave; arrivato a Roma. Tutte le trattative LIVE",
+      "title": "LIVE Calciomercato: Pinamonti-Lazio, ci siamo. Leao criptico sui social, Sebastiano Esposito al Sassuolo, Kean vuole il Como",
       "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/2026/08/25-150785239/calciomercato_in_diretta_leao_vicino_all_addio_al_milan_kean_vuole_il_como_oosterwolde_arriva_a_roma_tutte_le_trattative/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/25/102431685-ffc37b86-4cac-477a-b742-3ae6f7f20d2a.jpg",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/25/122331353-c9e14fc6-3719-46a0-bf4e-52596402b711.jpg",
       "summary": "A sette giorni dal gong finale, prosegue il lavoro dei direttori sportivi in Italia e all'estero: segui la giornata in tempo reale",
       "date": "2026-08-25T08:19:00.0000000Z"
     },
@@ -361,30 +398,6 @@
       "date": "2026-08-25T07:56:55.0000000Z"
     },
     {
-      "id": "corrieresport:132fd4141bfb",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Il figliol prodigo",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/08/25-150784884/il_figliol_prodigo/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/25/074940147-e6f5a258-3a06-4cb7-9be6-bfe33e1028d1.jpg",
-      "summary": "Leggi il commento sull'esordio in campionato di Davide Frattesi con la maglia della Lazio, condito dal gol vittoria contro il Bologna",
-      "date": "2026-08-25T07:54:07.0000000Z"
-    },
-    {
-      "id": "corrieresport:0ca5dc3a213b",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Niente Italia neanche tra i pali",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/08/25-150784617/niente_italia_neanche_tra_i_pali/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/06/11/181807994-b56dc980-3606-410a-89b1-fa979870a1e4.jpg",
-      "summary": "Leggi il commento sui portieri che vedremo all'opera in Serie A in questa stagione, tra conferme e nuovi volti",
-      "date": "2026-08-25T07:47:06.0000000Z"
-    },
-    {
       "id": "skysport-yt:4q92vz_zTno",
       "sourceId": "skysport-yt",
       "source": "Sky Sport",
@@ -421,19 +434,6 @@
       "summary": "",
       "videoId": "YUG5Wlj-Ako",
       "date": "2026-08-25T06:43:33.0000000Z"
-    },
-    {
-      "id": "skysport-yt:1fQa45k5MnM",
-      "sourceId": "skysport-yt",
-      "source": "Sky Sport",
-      "platform": "youtube",
-      "category": "sport",
-      "title": "Roma-Fiorentina, il gol di Pisilli",
-      "url": "https://www.youtube.com/watch?v=1fQa45k5MnM",
-      "image": "https://i.ytimg.com/vi/1fQa45k5MnM/hqdefault.jpg",
-      "summary": "",
-      "videoId": "1fQa45k5MnM",
-      "date": "2026-08-25T00:00:03.0000000Z"
     },
     {
       "id": "cronachespogliatoio:Ck-bcBGyS1Y",
