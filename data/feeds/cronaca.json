@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-25T17:09:30.3775474Z",
+  "updated": "2026-08-25T17:45:52.6426797Z",
   "items": [
+    {
+      "id": "ansa-cronaca:83d47643d2a8",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "#AccadeOggi",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+      "image": null,
+      "summary": "I principali avvenimenti previsti per la giornata",
+      "date": "2026-08-25T17:05:58.0000000Z"
+    },
     {
       "id": "ansa-cronaca:dea89c482f63",
       "sourceId": "ansa-cronaca",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "In un solo giorno vaccini e richiami aumentano del 70 e 211%",
       "date": "2026-08-25T13:40:23.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:f7e873d46f05",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Arriva la pioggia, incendio sul Morrone verso lo spegnimento definitivo",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/arriva-la-pioggia-incendio-sul-morrone-verso-lo-spegnimento-definitivo_2295d3c8-fe8a-4bdd-852c-74ff16c62894.html",
-      "image": null,
-      "summary": "Nonostante i sostenuti venti notturni, fiamme domate, avanti con bonfica",
-      "date": "2026-08-25T12:59:45.0000000Z"
     }
   ]
 }
