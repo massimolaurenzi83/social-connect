@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-25T07:56:30.8816052Z",
+  "updated": "2026-08-25T08:46:05.9079543Z",
   "items": [
+    {
+      "id": "cybersecurity360:a13e8b1d4614",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Principio DRY: perché il codice duplicato diventa un rischio di sicurezza",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/principio-dry-perche-il-codice-duplicato-diventa-un-rischio-di-sicurezza/",
+      "image": null,
+      "summary": "Il problema del codice duplicato emerge quando le copie iniziano a divergere: una patch applicata qui ma non altrove può lasciare vulnerabilità invisibili. Il principio DRY diventa così una strategia di sicurezza per ...",
+      "date": "2026-08-25T08:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:997d42800d0e",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Il documento sulla sicurezza nazionale, pubblicato ad agosto dalla Casa Bianca, ricade sotto l'ombrello del Chips and Science Act. Ecco i quattro pillar del National Security Science and Technology Strategy (Nssts) e ...",
       "date": "2026-08-21T16:08:49.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:bc21ad6784b2",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "L’insicurezza cyber delle buone intenzioni",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/sicurezza-cyber-delle-buone-intenzioni/",
-      "image": null,
-      "summary": "Non è certo facile entrare nel mondo della sicurezza cyber, ma limitarsi alle sole policy senza poi badare all'attuazione efficace delle stesse comporta un distacco fra piano formale e operativo. Con buona pace di ogn...",
-      "date": "2026-08-21T11:58:36.0000000Z"
     }
   ]
 }

@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-08-25T07:56:30.8707337Z",
+  "updated": "2026-08-25T08:46:05.9121413Z",
   "items": [
+    {
+      "id": "vaielettrico:20968e486c1c",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen Group domina nelle vendite in Europa",
+      "url": "https://www.vaielettrico.it/volkswagen-group-domina-nelle-vendite-in-europa/",
+      "image": null,
+      "summary": "Volkswagen Group domina nelle vendite di auto elettriche in Europa, con 5 modelli nei primi 10 in luglio.… L'articolo Volkswagen Group domina nelle vendite in Europa proviene da Vaielettrico .",
+      "date": "2026-08-25T08:36:52.0000000Z"
+    },
+    {
+      "id": "hdmotori:fc5975d8857a",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Alfa Romeo da 30 milioni scomparsa: il caso arriva al Ministero",
+      "url": "https://www.hdmotori.it/alfa-romeo-30-milioni-scomparsa-ministero/",
+      "image": null,
+      "summary": "La Procura di Milano sta indagando sull’Alfa Romeo 33 Stradale scomparsa nel nulla. I legali degli eredi del proprietario hanno fatto un appello al Ministero della Cultura. The post Alfa Romeo da 30 milioni scomparsa:...",
+      "date": "2026-08-25T08:00:41.0000000Z"
+    },
+    {
+      "id": "motor1:516007b778f2",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Fiat Topolino piace tanto agli americani, ecco perché",
+      "url": "https://it.motor1.com/news/805887/fiat-topolino-usa-successo/",
+      "image": "https://cdn.motor1.com/images/mgl/YAOo20/s3/fiat-topolino.jpg",
+      "summary": "Il quadriciclo elettrico italiano è già quasi esaurito in alcune concessionarie e punta al mercato dei golf cart",
+      "date": "2026-08-25T08:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:45ebd3a36b72",
       "sourceId": "hdmotori",
@@ -15,18 +51,6 @@
       "date": "2026-08-25T07:00:06.0000000Z"
     },
     {
-      "id": "motor1:723aa3b14e4d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Allarme automotive: mancano gli specialisti del futuro",
-      "url": "https://it.motor1.com/features/805906/crisi-professioni-mondo-automotive/",
-      "image": "https://cdn.motor1.com/images/mgl/6Z8LoX/s3/l-automotive-e-le-sue-professioni-cambiano.jpg",
-      "summary": "Il settore Automotive italiano affronta la transizione elettrica e digitale tra nuove competenze difficili da reperire e valorizzazione delle risorse interne",
-      "date": "2026-08-25T07:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:666980fbbe8e",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -36,6 +60,18 @@
       "url": "https://insideevs.it/news/805951/mercedes-cla-350-4matic-autonomia/",
       "image": "https://cdn.motor1.com/images/mgl/rKJmG9/s3/2026-mercedes-cla-ev-review.jpg",
       "summary": "La nuova Mercedes elettrica si è avvicinata a 640 km in un recente test di autonomia a 113 km/h",
+      "date": "2026-08-25T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:723aa3b14e4d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Allarme automotive: mancano gli specialisti del futuro",
+      "url": "https://it.motor1.com/features/805906/crisi-professioni-mondo-automotive/",
+      "image": "https://cdn.motor1.com/images/mgl/6Z8LoX/s3/l-automotive-e-le-sue-professioni-cambiano.jpg",
+      "summary": "Il settore Automotive italiano affronta la transizione elettrica e digitale tra nuove competenze difficili da reperire e valorizzazione delle risorse interne",
       "date": "2026-08-25T07:00:00.0000000Z"
     },
     {
@@ -51,18 +87,6 @@
       "date": "2026-08-25T06:00:00.0000000Z"
     },
     {
-      "id": "insideevs:19972c0377b4",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Leapmotor B05 vs MG4 Urban, sfida tra compatte cinesi",
-      "url": "https://insideevs.it/news/803464/leapmotor-b05-vs-mg4-urban/",
-      "image": "https://cdn.motor1.com/images/mgl/eo72LN/s3/leapmotor-b05-vs-mg4-urban.jpg",
-      "summary": "Proposte a prezzi interessanti e con filosofie differenti, la B05 e la MG4 Urban sono due new entry nel segmento C",
-      "date": "2026-08-25T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:4dfe80220eef",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -72,6 +96,18 @@
       "url": "https://it.motor1.com/news/805689/volkswagen-id-cross-interni-bagagliaio/",
       "image": "https://cdn.motor1.com/images/mgl/vx8rMb/s3/volkswagen-id.-cross-gli-interni-e-il-bagagliaio.jpg",
       "summary": "Ecco com'è fatta l'ID. Cross, SUV di segmento B con tecnologia e tanto spazio a bordo",
+      "date": "2026-08-25T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:19972c0377b4",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Leapmotor B05 vs MG4 Urban, sfida tra compatte cinesi",
+      "url": "https://insideevs.it/news/803464/leapmotor-b05-vs-mg4-urban/",
+      "image": "https://cdn.motor1.com/images/mgl/eo72LN/s3/leapmotor-b05-vs-mg4-urban.jpg",
+      "summary": "Proposte a prezzi interessanti e con filosofie differenti, la B05 e la MG4 Urban sono due new entry nel segmento C",
       "date": "2026-08-25T05:00:00.0000000Z"
     },
     {
@@ -207,18 +243,6 @@
       "date": "2026-08-24T15:00:09.0000000Z"
     },
     {
-      "id": "insideevs:cd1c710d6696",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "CATL come Tesla: ora le batterie si vendono direttamente online",
-      "url": "https://insideevs.it/news/805829/catl-negozio-online-vendita-diretta-batterie/",
-      "image": "https://cdn.motor1.com/images/mgl/XB6q2p/s3/la-batteria-lfp-saic_gm-e-catl-che-ricarica-a-6c.jpg",
-      "summary": "Il colosso cinese apre uno shop online dove le aziende si servono da sole. In 2 mesi ci sono stati 1800 clienti",
-      "date": "2026-08-24T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:ae37fd255746",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -228,6 +252,18 @@
       "url": "https://it.motor1.com/news/805895/auto-clienti-fedeli-classifica-2026/",
       "image": "https://cdn.motor1.com/images/mgl/W8KmMO/s3/quali-sono-le-auto-con-i-clienti-piu-fedeli-la-classifica-usa-2026.jpg",
       "summary": "Il 64% dei clienti Tesla che cambia auto resta fedele al marchio. A seguire, Ferrari e Toyota",
+      "date": "2026-08-24T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:cd1c710d6696",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "CATL come Tesla: ora le batterie si vendono direttamente online",
+      "url": "https://insideevs.it/news/805829/catl-negozio-online-vendita-diretta-batterie/",
+      "image": "https://cdn.motor1.com/images/mgl/XB6q2p/s3/la-batteria-lfp-saic_gm-e-catl-che-ricarica-a-6c.jpg",
+      "summary": "Il colosso cinese apre uno shop online dove le aziende si servono da sole. In 2 mesi ci sono stati 1800 clienti",
       "date": "2026-08-24T15:00:00.0000000Z"
     },
     {
@@ -327,18 +363,6 @@
       "date": "2026-08-24T13:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:5c6e7cef9da6",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Xiaomi Skynomad N70 Max: svelati i lussuosissimi interni",
-      "url": "https://www.hdmotori.it/xiaomi-skynomad-n70-max-interni/",
-      "image": null,
-      "summary": "Il colosso cinese ha mostrato le immagini dell’abitacolo del modello a ruote alte ad autonomia estesa, lo Skynomad N70 Max. The post Xiaomi Skynomad N70 Max: svelati i lussuosissimi interni appeared first on HDmotori....",
-      "date": "2026-08-24T12:30:32.0000000Z"
-    },
-    {
       "id": "insideevs:aac79ad234ac",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -397,18 +421,6 @@
       "image": "https://cdn.motor1.com/images/mgl/Znz21A/s3/carburanti-italia-2026-diesel-corre-il-doppio-pieno-record.jpg",
       "summary": "Dal 27 agosto il taglio di 17 centesimi al litro potrebbe sparire e il nodo diventa il costo del pieno per chi rientra",
       "date": "2026-08-24T10:38:57.0000000Z"
-    },
-    {
-      "id": "motor1:263218c97c91",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Codice della strada, cosa cambia per over 85, smartphone e pedoni",
-      "url": "https://it.motor1.com/features/805847/nuovo-codice-strada-2026-smartphone/",
-      "image": "https://cdn.motor1.com/images/mgl/koKv6R/s3/le-ultime-riforme-del-codice-della-strada.jpg",
-      "summary": "Il Ministero corregge la rotta sugli anziani e conferma la stretta su distrazioni e strisce, ecco gli ultimi aggiornamenti",
-      "date": "2026-08-24T10:00:00.0000000Z"
     },
     {
       "id": "insideevs:4d4a5c568ac0",
@@ -481,18 +493,6 @@
       "image": "https://cdn.motor1.com/images/mgl/pbJLyr/s3/cina-batterie-allo-stato-solido-nel-2027.jpg",
       "summary": "Da CATL, BYD e Geely a Dreame: ecco chi punta a montare celle allo stato solido sull'auto elettrica entro l'anno prossimo",
       "date": "2026-08-24T05:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:d4d7f642c93b",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Cold ironing: l’Italia cerca investitori globali a Londra",
-      "url": "https://www.vaielettrico.it/cold-ironing-litalia-cerca-investitori-globali-a-londra/",
-      "image": null,
-      "summary": "Al traguardo i lavori di elettrificazione delle banchine in 40 porti italiani, ora però servono bandi e capitali… L'articolo Cold ironing: l’Italia cerca investitori globali a Londra proviene da Vaielettrico .",
-      "date": "2026-08-23T21:59:30.0000000Z"
     },
     {
       "id": "insideevs:92e2120ccd2b",

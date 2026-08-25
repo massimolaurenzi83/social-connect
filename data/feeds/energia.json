@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-25T07:56:30.8997933Z",
+  "updated": "2026-08-25T08:46:05.9871944Z",
   "items": [
+    {
+      "id": "qualenergia:da7b854ca640",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Fotovoltaico-termico per una piscina a Barcellona",
+      "url": "https://www.qualenergia.it/articoli/fotovoltaico-termico-per-piscina-barcellona/",
+      "image": null,
+      "summary": "Si parla di solare termico per la produzione di acqua calda (o anche per il riscaldamento) nel settore residenziale, con alcuni segmenti di mercato che coprono applicazioni di taglia più grande come le industrie oppur...",
+      "date": "2026-08-25T08:30:24.0000000Z"
+    },
     {
       "id": "qualenergia:2a7ffec70f14",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Con due gradi in più di temperatura globale, il sistema alimentare mondiale entrerebbe in una zona di rischio molto alta. Rese agricole in calo, shock simultanei nei grandi granai del pianeta, prezzi più instabili e a...",
       "date": "2026-08-24T08:30:38.0000000Z"
-    },
-    {
-      "id": "qualenergia:f8940c7a608f",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "L’accisa sull’energia elettrica per Cer, accumuli e rinnovabili",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/accisa-energia-elettrica-per-cer-bess-rinnovabili/",
-      "image": null,
-      "summary": "L’Agenzia delle Dogane e dei Monopoli (Adm) ha pubblicato la circolare n. 21 dell’11 agosto 2026 con cui analizza le modalità di applicazione dell’accisa sull’energia elettrica, secondo quanto previsto dal decreto Mef...",
-      "date": "2026-08-24T07:45:36.0000000Z"
     }
   ]
 }
