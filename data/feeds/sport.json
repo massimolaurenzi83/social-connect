@@ -1,7 +1,31 @@
 {
   "category": "sport",
-  "updated": "2026-08-25T19:05:06.4077486Z",
+  "updated": "2026-08-25T19:43:07.3862877Z",
   "items": [
+    {
+      "id": "ansa-sport:384260b80961",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Cobolli e Bencic ai quarti nel doppio misto",
+      "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/25/cobolli-e-bencic-ai-quarti-nel-doppio-misto_a0f27fc0-9d66-4ef0-ba44-26260eb3bb40.html",
+      "image": null,
+      "summary": "L'azzurro e l'elvetica eliminano Zverev-Townsend in due set",
+      "date": "2026-08-25T19:30:06.0000000Z"
+    },
+    {
+      "id": "corrieresport:4eadc5a31bc9",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Juve, rivoluzione tra i pali: arriva anche Grabara",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/08/25-150795607/juve_rivoluzione_tra_i_pali_arriva_anche_grabara/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/25/185946172-5a01508c-41ce-4bec-87b6-75e284ffd22c.jpg",
+      "summary": "Dopo l'addio al veleno con Di Gregorio e quello pieno d'amore con Perin, ecco il portiere polacco che si aggiunge a Vicario",
+      "date": "2026-08-25T19:20:59.0000000Z"
+    },
     {
       "id": "ansa-sport:453f9692d9cc",
       "sourceId": "ansa-sport",
@@ -158,18 +182,6 @@
       "image": null,
       "summary": "Via Di Gregorio e Perin, c'è Grabara e sogno Kessié. Manovre in attacco",
       "date": "2026-08-25T16:25:45.0000000Z"
-    },
-    {
-      "id": "ansa-sport:f2dd582a5278",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Us Open: rivolta dei fan per caro biglietti, Mamdani in campo per i newyorchesi",
-      "url": "https://www.ansa.it/sito/notizie/sport/2026/08/25/us-open-rivolta-dei-fan-per-caro-biglietti-mamdani-in-campo-per_139a03dc-7d94-46bc-b424-6ee864393b42.html",
-      "image": null,
-      "summary": "Centinaia di dollari per entrare a Flushing Meadows, il sindaco riserva mille posti calmierati",
-      "date": "2026-08-25T16:22:55.0000000Z"
     },
     {
       "id": "ansa-sport:e69bfd3755e2",
@@ -370,18 +382,6 @@
       "date": "2026-08-25T11:51:46.0000000Z"
     },
     {
-      "id": "corrieresport:182f6300b87c",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Dove vedere LASK Linz-Celtic in tv? Dazn, Sky o Now orario",
-      "url": "https://www.corrieredellosport.it/news/calcio/champions-league/2026/08/25-150788262/dove_vedere_lask_linz-celtic_in_tv_dazn_sky_o_now_orario/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/08/25/113538315-c0250996-0ff6-488c-8226-0fbc7f12112c.jpg",
-      "summary": "Scopri tutto ciò che c'è da sapere sulla sfida valida per il ritorno dei preliminari di Champions League: tutte le info per seguire il match",
-      "date": "2026-08-25T11:43:15.0000000Z"
-    },
-    {
       "id": "skysport-yt:DED03VNUbxA",
       "sourceId": "skysport-yt",
       "source": "Sky Sport",
@@ -504,7 +504,7 @@
       "source": "Cronache di Spogliatoio",
       "platform": "youtube",
       "category": "sport",
-      "title": "FONTANA DI TREVI! LA PRIMA PUNTATA DELLA NUOVA STAGIONE CON RICCARDO TREVISANI!",
+      "title": "ELASTICI! LA PRIMA PUNTATA DELLA TERZA STAGIONE CON AMBROSINI, PASTORE, CATTANEO E FERRÈ!",
       "url": "https://www.youtube.com/watch?v=Ck-bcBGyS1Y",
       "image": "https://i.ytimg.com/vi/Ck-bcBGyS1Y/hqdefault.jpg",
       "summary": "",

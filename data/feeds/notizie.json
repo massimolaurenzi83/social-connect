@@ -1,18 +1,30 @@
 {
   "category": "notizie",
-  "updated": "2026-08-25T19:05:06.3935063Z",
+  "updated": "2026-08-25T19:43:07.3563436Z",
   "items": [
     {
-      "id": "open:24e9972f91d4",
+      "id": "ansa:56d029a1878b",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Addio a Dolly Parton, la regina del country aveva 80 anni",
+      "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/25/e-morta-dolly-parton-aveva-80-anni_c0c82179-d794-4e75-a070-40f289389160.html",
+      "image": null,
+      "summary": "Autrice di brani come '9 to 5' e 'Jolene', imprenditrice e filantropa",
+      "date": "2026-08-25T19:36:46.0000000Z"
+    },
+    {
+      "id": "open:fe2abb151b7f",
       "sourceId": "open",
       "source": "Open",
       "platform": "rss",
       "category": "notizie",
-      "title": "Il Canada risponde a Trump: dazi fino al 50% su 700 prodotti americani. Nuova provocazione del tycoon: «Il lago Ontario cambierà nome»",
-      "url": "https://www.open.online/2026/08/25/risposta-canada-dazi-trump/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/risposta-canada-dazi-trump.jpg",
-      "summary": "Il premier Mark Carney risponde alle tariffe annunciate da Washington. E se le cose dovessero mettersi male, ha un'altra arma da sfoderare: lo stop alle esportazioni di energia verso gli Usa L'articolo Il Canada rispo...",
-      "date": "2026-08-25T18:48:19.0000000Z"
+      "title": "Valditara vuol far studiare l’italiano ai genitori degli studenti stranieri: «Non si può perdere a casa ciò che si impara a scuola»",
+      "url": "https://www.open.online/2026/08/25/valditara-proposta-studio-italiano-genitori-stranieri/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/valditara-proposta-studio-italiano-genitori-stranieri.jpg",
+      "summary": "L'annuncio del ministro al Meeting di Rimini: «È fondamentale che un genitore conosca la nostra lingua» L'articolo Valditara vuol far studiare l’italiano ai genitori degli studenti stranieri: «Non si può perdere a cas...",
+      "date": "2026-08-25T19:30:45.0000000Z"
     },
     {
       "id": "ansa:dfc9829db111",
@@ -24,19 +36,31 @@
       "url": "https://www.ansa.it/sito/notizie/politica/2026/08/25/riunione-in-rai-sul-caso-ranucci-la-decisione-attesa-nei-prossimi-giorni_ac4d4dfa-073b-484e-95d3-da62a2e48e18.html",
       "image": null,
       "summary": "Lui: \"Ho la coscienza pulita, rifarei tutto\". Il legale: \"L'azienda dovrebbe tutelarlo\"",
-      "date": "2026-08-25T18:39:59.0000000Z"
+      "date": "2026-08-25T19:16:15.0000000Z"
     },
     {
-      "id": "ansa:56d029a1878b",
+      "id": "ansa:f6007fc64b4d",
       "sourceId": "ansa",
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "E' morta Dolly Parton, aveva 80 anni",
-      "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/25/e-morta-dolly-parton-aveva-80-anni_c0c82179-d794-4e75-a070-40f289389160.html",
+      "title": "Taglia Usa da 10 milioni di dollari sui vertici militari dei Pasdaran",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/25/taglia-usa-da-10-milioni-di-dollari-su-capo-e-vertici-pasdaran_72190e39-7350-4885-ad5e-c7a53b3fc689.html",
       "image": null,
-      "summary": "La scomparsa della cantante country riportata dal New York Times",
-      "date": "2026-08-25T18:33:00.0000000Z"
+      "summary": "Trump: 'Teheran al collasso, Hormuz sminato'. Pakistan e Qatar spingono sul dialogo",
+      "date": "2026-08-25T19:08:33.0000000Z"
+    },
+    {
+      "id": "open:24e9972f91d4",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il Canada risponde a Trump: dazi fino al 50% su 700 prodotti americani. Nuova provocazione del tycoon: «Il lago Ontario cambierà nome»",
+      "url": "https://www.open.online/2026/08/25/risposta-canada-dazi-trump/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/risposta-canada-dazi-trump.jpg",
+      "summary": "Il premier Mark Carney risponde alle tariffe annunciate da Washington. E se le cose dovessero mettersi male, ha un'altra arma da sfoderare: lo stop alle esportazioni di energia verso gli Usa L'articolo Il Canada rispo...",
+      "date": "2026-08-25T18:48:19.0000000Z"
     },
     {
       "id": "ansa:be7172ef905b",
@@ -186,18 +210,6 @@
       "image": null,
       "summary": "Il ragazzo identificato dai genitori all'ultimo test: 'Lì non tornerò mai più'",
       "date": "2026-08-25T17:08:26.0000000Z"
-    },
-    {
-      "id": "ansa:f6007fc64b4d",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Taglia Usa da 10 milioni di dollari sui vertici militari dei Pasdaran",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/25/taglia-usa-da-10-milioni-di-dollari-su-capo-e-vertici-pasdaran_72190e39-7350-4885-ad5e-c7a53b3fc689.html",
-      "image": null,
-      "summary": "Israele espelle rappresentanti olandesi da base Board of Peace a Kiryat Gat",
-      "date": "2026-08-25T17:03:20.0000000Z"
     },
     {
       "id": "repubblica:8eb1aa884eb7",
@@ -445,18 +457,6 @@
       "summary": "",
       "videoId": "ceZ0glovmhA",
       "date": "2026-08-25T15:09:45.0000000Z"
-    },
-    {
-      "id": "open:8a50f03d7c6c",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Le lettera a Mattarella di giuristi e docenti contro il programma di Vannacci: «Vuole cancellare le conquiste politiche e sociali»",
-      "url": "https://www.open.online/2026/08/25/vannacu-programma-lettera-mattarella-giuristi-insegnanti/",
-      "image": "https://static.open.online/wp-content/uploads/2026/06/roberto-vannacci-futuro-nazionale.jpeg",
-      "summary": "A promuoverla sono Massimo Arcangeli, linguista e fondatore del movimento «Tutti per una, l’Italia antifascista per tutti», e Christian Raimo, insieme a giuristi, avvocati, docenti, scrittori e rappresentanti di assoc...",
-      "date": "2026-08-25T14:54:09.0000000Z"
     },
     {
       "id": "ansa:20ed141cb8c1",
