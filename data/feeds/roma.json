@@ -1,15 +1,39 @@
 {
   "category": "roma",
-  "updated": "2026-08-25T14:59:30.7331125Z",
+  "updated": "2026-08-25T15:53:31.5118561Z",
   "items": [
     {
-      "id": "romatoday:b0e8496b8a2f",
+      "id": "romatoday:a9c82a447956",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Dai \"polistudi\" al nuovo accordo con i dottori, come cambia la medicina di base a Roma",
+      "url": "https://www.romatoday.it/politica/studi-medici-roma-nuove-regole-cosa-cambia.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/1401597078791/dottore.jpg",
+      "summary": "Il primo ottobre entrerà in vigore il nuovo accordo integrativo che mette in campo 50 milioni per rendere operative le case della comunità. Intanto cambiano anche le regole per gli studi medici. Ma tra i camici bianch...",
+      "date": "2026-08-25T15:10:00.0000000Z"
+    },
+    {
+      "id": "romatoday:fe4ec3441fbf",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Un anno di cantieri e 650mila euro investiti, così nel quartiere torna la luce",
+      "url": "https://www.romatoday.it/zone/monteverde/malagrotta/illuminazione-pubblica-via-di-maccarese-castel-di-guido.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/69566425124775/lampioni-2.jpg",
+      "summary": "Con l'installazione del nuovo contatore in arrivo, il maxi intervento da oltre 600mila euro del municipio XII si avvia a conclusione. L'accensione dei nuovi lampioni permetterà al quartiere di avere una strada complet...",
+      "date": "2026-08-25T14:39:07.0000000Z"
+    },
+    {
+      "id": "romatoday:800f7bbe7051",
       "sourceId": "romatoday",
       "source": "RomaToday",
       "platform": "rss",
       "category": "roma",
       "title": "FedEx, stabilizzati oltre cento lavoratori per la distribuzione nella Capitale",
-      "url": "https://www.romatoday.it/dossier/economia/fedex-distribuzione-sic-europe-filt-cgil.html",
+      "url": "https://www.romatoday.it/economia/fedex-distribuzione-sic-europe-filt-cgil.html",
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/62320993395411/fedex.jpg",
       "summary": "La vecchia società distributrice per FedEx, Sic Europe ha disdetto il servizio, lasciando da venerdì sera circa 130 lavoratori romani nell'incertezza, che però è stata risolta lunedì sera, permettendo ai dipendenti di...",
       "date": "2026-08-25T14:39:00.0000000Z"
@@ -121,30 +145,6 @@
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/68638495749545/2026grassi21agosto-_116.jpg",
       "summary": "Una serie di test nazionali e internazionali attendono la franchigia romana prima del debutto nel campionato di Serie A. Ecco il calendario completo",
       "date": "2026-08-25T12:16:00.0000000Z"
-    },
-    {
-      "id": "romatoday:4d988e359bce",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Apre l’armadio e trova le vespe orientalis: avevano fatto il nido nello zaino",
-      "url": "https://www.romatoday.it/attualita/vespe-orientalis-nido-zaino-consigli-lunerti.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/23141797118400/lunerti-e-lo-zaino-con-le-orientalis-2.jpg",
-      "summary": "Ancora un luogo insolito dove le vespe orientalis hanno scelto di nidificare. Dall'esperto di animai Andrea Lunerti i suggerimenti per chi torna dalle vacanze e non vuole essere punto",
-      "date": "2026-08-25T11:54:00.0000000Z"
-    },
-    {
-      "id": "romatoday:3fc768c82afe",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Fentanyl a Roma, scatta il piano anti-furti negli ospedali. Controlli e allarmi in tutte le strutture",
-      "url": "https://www.romatoday.it/politica/fentanyl-roma-piano-sicurezza-furti-farmacie-ospedaliere.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/39763228710013/fentanyl.jpg",
-      "summary": "Dopo il furto di 80 fiale all'ospedale israelitico di Roma, tutte le strutture dovranno compilare una checklist di autovalutazione sulla sicurezza. In base al punteggio sarà disposto un piano di interventi ad hoc",
-      "date": "2026-08-25T11:47:00.0000000Z"
     },
     {
       "id": "roma-repubblica:cfc7e14763b5",
