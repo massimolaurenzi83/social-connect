@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-25T07:06:14.3637588Z",
+  "updated": "2026-08-25T07:56:30.8997933Z",
   "items": [
+    {
+      "id": "qualenergia:2a7ffec70f14",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Nucleare e Regione Liguria: sì all’agenzia nazionale, per le centrali chissà",
+      "url": "https://www.qualenergia.it/articoli/nucleare-liguria-ok-agenzia-nazionale-per-centrali-chissa/",
+      "image": null,
+      "summary": "Un indizio è un indizio, due indizi sono una coincidenza, ma tre indizi fanno una prova; seguendo la logica della scrittrice Agatha Christie si può provare a indagare la relazione tra energia nucleare e Regione Liguri...",
+      "date": "2026-08-25T07:45:18.0000000Z"
+    },
     {
       "id": "qualenergia:1784a0d275ad",
       "sourceId": "qualenergia",
@@ -49,6 +61,18 @@
       "image": null,
       "summary": "Uno studio pubblicato su Nature evidenzia che entro il 2060 si potrebbero accumulare tra 297 e 402 milioni di tonnellate di moduli fotovoltaici a fine vita. Il loro riciclo potrebbe generare benefici economici netti c...",
       "date": "2026-08-25T05:00:35.0000000Z"
+    },
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
+      "date": "2026-08-24T22:25:00.0000000Z"
     },
     {
       "id": "qualenergia:b4c30af0a162",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "L’Agenzia delle Dogane e dei Monopoli (Adm) ha pubblicato la circolare n. 21 dell’11 agosto 2026 con cui analizza le modalità di applicazione dell’accisa sull’energia elettrica, secondo quanto previsto dal decreto Mef...",
       "date": "2026-08-24T07:45:36.0000000Z"
-    },
-    {
-      "id": "qualenergia:34dc51d0b8e8",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "La dipendenza energetica in Italia è al 75%. Quali scelte verso il 2030?",
-      "url": "https://www.qualenergia.it/articoli/dipendenza-energetica-italia-75-percento-italia-quali-scelte-2030/",
-      "image": null,
-      "summary": "Nel 2025, la dipendenza energetica dell’Italia dall’estero è risalita di 1,7 punti percentuali, con le importazioni nette tornate a rappresentare oltre tre quarti dell’energia complessivamente immessa nel sistema ener...",
-      "date": "2026-08-24T07:00:34.0000000Z"
-    },
-    {
-      "id": "qualenergia:58d129e3ddca",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Abruzzo, contributi per la riqualificazione energetica di strutture sanitarie",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/abruzzo-contributi-riqualificazione-energetica-strutture-sanitarie/",
-      "image": null,
-      "summary": "È aperto lo sportello della Regione Abruzzo dedicato alla riqualificazione energetica degli edifici di proprietà delle Aziende Sanitarie Locali (ASL) del territorio. Il bando (allegato in basso) è finanziato nell’ambi...",
-      "date": "2026-08-24T06:55:46.0000000Z"
     }
   ]
 }
