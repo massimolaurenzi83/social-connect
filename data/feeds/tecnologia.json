@@ -1,7 +1,55 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-25T05:40:41.1808249Z",
+  "updated": "2026-08-25T06:04:53.3389733Z",
   "items": [
+    {
+      "id": "tomshw:10710ccaf1be",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Once Human: orario di uscita in Italia e dove scaricarlo",
+      "url": "https://www.tomshw.it/videogioco/a-che-ora-esce-once-human-in-italia-orario-di-sblocco-e-dove-scaricarlo",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109319/game-page-featured_once-human-inits_jpg_1600x900_crop_q85.jpg",
+      "summary": "Once Human esce oggi, 25 agosto 2026, alle 19:00 CEST, su PS5 e Xbox Series X|S. Il download è gratis dal PlayStation Store e dal Microsoft Store italiani: basta cercare il gioco e installare il clien...",
+      "date": "2026-08-25T05:55:12.0000000Z"
+    },
+    {
+      "id": "hdblog:6a1f9846748e",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Curiosity torna a scalare Marte e cerca le ultime tempeste",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n668173/curiosity-monte-sharp-marte/",
+      "image": null,
+      "summary": "Curiosity riprende la salita del Monte Sharp studiando rocce, atmosfera e tempeste di polvere.",
+      "date": "2026-08-25T05:55:00.0000000Z"
+    },
+    {
+      "id": "tomshw:13e26216c994",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "A che ora esce Aliens: Fireteam Elite 2 oggi in Italia",
+      "url": "https://www.tomshw.it/videogioco/a-che-ora-esce-aliens-fireteam-elite-2-oggi-in-italia-orario-e-dove-scaricarlo",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106206/Aliens-Fireteam-Elite-2-screenshot-02.jpg",
+      "summary": "Aliens: Fireteam Elite 2 esce in Italia oggi, 25 agosto 2026, alle 17:00 su PlayStation Store per PS5, Microsoft Store per Xbox Series X|S, Steam ed Epic Games Store su PC. L’accesso è a pagamento: bi...",
+      "date": "2026-08-25T05:54:05.0000000Z"
+    },
+    {
+      "id": "hdblog:46256f559749",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Atari sta preparando qualcosa di grosso (o grande?) | teaser ufficiali",
+      "url": "https://www.hdblog.it/games/articoli/n668238/atari-teaser-progetto-grosso/",
+      "image": null,
+      "summary": "Di che cosa si tratterà mai? Le parole usate dalla società sono incredibilmente ambigue.",
+      "date": "2026-08-25T05:45:00.0000000Z"
+    },
     {
       "id": "hdblog:041ea5a344e9",
       "sourceId": "hdblog",
@@ -195,30 +243,6 @@
       "date": "2026-08-24T17:03:59.0000000Z"
     },
     {
-      "id": "hdblog:33db03642b9a",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Fusione nucleare, arrivano gli stellarator con magneti piatti",
-      "url": "https://www.hdblog.it/green/articoli/n668094/fusione-nucleare-stellarator-magneti-piatti/",
-      "image": null,
-      "summary": "Magneti piatti e software potrebbero rendere gli stellarator più facili da costruire",
-      "date": "2026-08-24T16:55:00.0000000Z"
-    },
-    {
-      "id": "hdblog:52971f88c3a4",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Mania di Cyberdeck? Ecco il tutorial passo-passo ufficiale di Raspberry Pi",
-      "url": "https://www.hdblog.it/curiosita/articoli/n668223/raspberry-pi-5-cyberdeck-tutorial-ufficiale/",
-      "image": null,
-      "summary": "Se siete anche voi ossessionati dal nuovo trend su TikTok ma non ve ne intendete tanto di elettronica niente paura: è più facile a farsi che a dirsi con questa guida.",
-      "date": "2026-08-24T16:45:00.0000000Z"
-    },
-    {
       "id": "dday:b275e11c1fef",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -265,18 +289,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/109193/10-cover.jpg",
       "summary": "Outer Biosciences tiene in vita frammenti di pelle umana donata per circa trenta giorni, ci mette alla prova dei composti chimici e usa quello che succede per addestrare un modello predittivo. La soci...",
       "date": "2026-08-24T11:15:03.0000000Z"
-    },
-    {
-      "id": "tomshw:2afa2d92bf15",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Prima licenziano, poi \"si vedrà\". La triste storia dell’AI nell’industria moderna",
-      "url": "https://www.tomshw.it/business/prima-licenziano-poi-si-vedra-la-triste-storia-dellai-nellindustria-moderna",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109182/01-cover.jpg",
-      "summary": "Da quanto l’AI è entrata nelle nostre vite professionali, l’obiettivo non è mai cambiato: efficientare, fare di più con meno. Bene o male tutti sognano di creare un margine maggiore riducendo il perso...",
-      "date": "2026-08-24T11:00:08.0000000Z"
     },
     {
       "id": "dday:cd4c10bd51f7",
@@ -373,18 +385,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-24T07:42:00.0000000Z"
-    },
-    {
-      "id": "tomshw:cce4e24db39c",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Voodoo 3, la GPU anni '90 si risveglia grazie a Linux",
-      "url": "https://www.tomshw.it/hardware/la-3dfx-voodoo-3-torna-ad-avviarsi-linux-73-la-inizializza-senza-il-video-bios-del-firmware",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109032/2020-08-16-image-jpg.webp",
-      "summary": "Il 21 agosto 2026, alle 16:49:54 UTC, Linus Torvalds ha integrato nel ramo principale di Linux il tag fbdev-for-7.3-rc1. Il commit 531ed942bb0df04f6747983fecdedce76a22d07f include cinque modifiche al...",
-      "date": "2026-08-24T07:16:12.0000000Z"
     },
     {
       "id": "tomshw:cbc6a69b8b48",

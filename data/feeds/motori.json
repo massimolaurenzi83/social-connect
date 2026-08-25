@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-08-25T05:40:41.1535351Z",
+  "updated": "2026-08-25T06:04:53.3210400Z",
   "items": [
+    {
+      "id": "motor1:b4df1bf7b336",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volvo FH 100 Year Edition: interni in pelle e luce di benvenuto",
+      "url": "https://it.motor1.com/news/805901/volvo-fh-100-year-edition/",
+      "image": "https://cdn.motor1.com/images/mgl/NGP7gy/s3/volvo-fh-100-years-anniversary.jpg",
+      "summary": "Interni rinnovati, luce di benvenuto e 5 stelle Euro NCAP per la gamma Volvo FH 100 Year Edition disponibile da settembre 2026",
+      "date": "2026-08-25T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:19972c0377b4",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Leapmotor B05 vs MG4 Urban, sfida tra compatte cinesi",
+      "url": "https://insideevs.it/news/803464/leapmotor-b05-vs-mg4-urban/",
+      "image": "https://cdn.motor1.com/images/mgl/eo72LN/s3/leapmotor-b05-vs-mg4-urban.jpg",
+      "summary": "Proposte a prezzi interessanti e con filosofie differenti, la B05 e la MG4 Urban sono due new entry nel segmento C",
+      "date": "2026-08-25T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:4dfe80220eef",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Gli interni del nuovo SUV compatto di Volkswagen",
+      "url": "https://it.motor1.com/news/805689/volkswagen-id-cross-interni-bagagliaio/",
+      "image": "https://cdn.motor1.com/images/mgl/vx8rMb/s3/volkswagen-id.-cross-gli-interni-e-il-bagagliaio.jpg",
+      "summary": "Ecco com'è fatta l'ID. Cross, SUV di segmento B con tecnologia e tanto spazio a bordo",
+      "date": "2026-08-25T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:a38f15c03850",
       "sourceId": "vaielettrico",
@@ -387,18 +423,6 @@
       "date": "2026-08-24T09:00:00.0000000Z"
     },
     {
-      "id": "motor1:a9ce7d18063b",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "\"La situazione è più che critica\": il capo di Volkswagen avverte i dipendenti",
-      "url": "https://it.motor1.com/news/805833/volkswagen-ceo-tempi-difficili/",
-      "image": "https://cdn.motor1.com/images/mgl/XB6EQE/s3/vw-id.5-production.jpg",
-      "summary": "Volkswagen sta affrontando una massiccia ristrutturazione per tagliare i costi",
-      "date": "2026-08-24T08:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:0f306e83cebb",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -420,18 +444,6 @@
       "url": "https://insideevs.it/news/805812/ev-cina-richiamo-maniglie/",
       "image": "https://cdn.motor1.com/images/mgl/1Zwbb7/s3/xiaomi-su7-emergency-release-handle.jpg",
       "summary": "Non basta un sistema meccanico di riserva per le maniglie elettroniche. Deve anche essere facile da individuare in caso di emergenza",
-      "date": "2026-08-24T07:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:acc45ba51377",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il padre della Ferrari Enzo ha appena creato la sua supercar V12",
-      "url": "https://it.motor1.com/news/805811/ferrari-enzo-padre-supercar-kode89/",
-      "image": "https://cdn.motor1.com/images/mgl/NGPRLb/s3/kode89.jpg",
-      "summary": "Il motore aspirato è abbinato a un cambio manuale a sei marce con selettore a griglia",
       "date": "2026-08-24T07:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
       "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
       "date": "2026-08-22T05:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:f35d8265e8e1",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ford userà la piattaforma Geely per un nuovo SUV elettrificato",
-      "url": "https://insideevs.it/news/805704/ford-suv-geely-2029-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/3WEbgY/s3/geely-e5-2026-im-test.jpg",
-      "summary": "Il nuovo SUV Ford nascerà sulla piattaforma GEA di Geely e sarà prodotto nello stabilimento di Valencia, con motori elettrici e ibridi",
-      "date": "2026-08-21T15:00:00.0000000Z"
     }
   ]
 }

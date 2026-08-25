@@ -1,7 +1,19 @@
 {
   "category": "arte",
-  "updated": "2026-08-25T05:40:41.1684728Z",
+  "updated": "2026-08-25T06:04:53.2846345Z",
   "items": [
+    {
+      "id": "elledecor:afc28ee9d26a",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Una casa del XIX secolo è oggi una sequenza teatrale di ambienti che dialogano con il passato",
+      "url": "https://www.elledecor.com/it/case/a73381904/casa-memoria/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3874b421-2716-4ec3-a091-3d04d709ed6d.jpg",
+      "summary": "Hugo Vallejo firma il restauro di un'abitazione all’Aia tra reminiscenze del passato e nuovi orizzonti",
+      "date": "2026-08-25T06:00:00.0000000Z"
+    },
     {
       "id": "elledecor:317dc7b1e1c8",
       "sourceId": "elledecor",
@@ -183,18 +195,6 @@
       "date": "2026-08-24T11:00:00.0000000Z"
     },
     {
-      "id": "artribune:b54cca6a020c",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "La crisi dell’arte di oggi: lo scherzo amaro del capitalismo più spietato",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/08/crisi-arte-contemporanea-opinioni/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/crisi-nel-mondo-dellarteimmagine-creata-con-ai-da-staff-artribune.png",
-      "summary": "Ad essere messa in discussione è l’idea stessa del lusso così come si è venuta costruendo nell’arco dell’ultimo secolo almeno, il suo funzionamento e la sua logica interna: che cosa fa di un determinato oggetto (opera...",
-      "date": "2026-08-24T10:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:fd82998ed977",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -204,6 +204,18 @@
       "url": "https://www.elledecor.com/it/architettura/a73505587/ciclofficina-micro-architettura-milano-san-cristoforo/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/68aebf7b-0cba-47cb-8ad7-32d8d11ec994.jpg",
       "summary": "A Milano San Cristoforo una ciclofficina temporanea e reversibile occupa l’ex casello con acciaio, policarbonato e materiali di recupero, mentre la città cambia rapidamente scala",
+      "date": "2026-08-24T10:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:b54cca6a020c",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "La crisi dell’arte di oggi: lo scherzo amaro del capitalismo più spietato",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/08/crisi-arte-contemporanea-opinioni/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/crisi-nel-mondo-dellarteimmagine-creata-con-ai-da-staff-artribune.png",
+      "summary": "Ad essere messa in discussione è l’idea stessa del lusso così come si è venuta costruendo nell’arco dell’ultimo secolo almeno, il suo funzionamento e la sua logica interna: che cosa fa di un determinato oggetto (opera...",
       "date": "2026-08-24T10:00:00.0000000Z"
     },
     {
@@ -253,18 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/edc020116capri10-67d1daa390aca.jpg",
       "summary": "Jorge Cañete rinnova una dimora del XIX secolo intrecciando arredi contemporanei, pezzi d’epoca e colori mediterranei in un interno pensato come una vacanza senza fine.",
       "date": "2026-08-24T05:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:25a578ae280c",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Questa casa prefabbricata di 170 mq interpreta un abitare contemporaneo in dialogo con la natura",
-      "url": "https://www.elledecor.com/it/case/a73374994/casa-prefabbricata-di-170-mq/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/27-6944173ce313a.jpg",
-      "summary": "Lo studio delavegacanolasso l'ha realizzata con i moduli tini: facciata in Viroc rosso, interni in pino e rovere, cortili con fichi e oleandri",
-      "date": "2026-08-23T14:30:00.0000000Z"
     }
   ]
 }
