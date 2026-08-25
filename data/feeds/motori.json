@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-25T06:04:53.3210400Z",
+  "updated": "2026-08-25T07:06:14.3689472Z",
   "items": [
+    {
+      "id": "insideevs:666980fbbe8e",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Mercedes CLA 350 4Matic dimostra un'autonomia sorprendente",
+      "url": "https://insideevs.it/news/805951/mercedes-cla-350-4matic-autonomia/",
+      "image": "https://cdn.motor1.com/images/mgl/rKJmG9/s3/2026-mercedes-cla-ev-review.jpg",
+      "summary": "La nuova Mercedes elettrica si è avvicinata a 640 km in un recente test di autonomia a 113 km/h",
+      "date": "2026-08-25T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:723aa3b14e4d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Allarme automotive: mancano gli specialisti del futuro",
+      "url": "https://it.motor1.com/features/805906/crisi-professioni-mondo-automotive/",
+      "image": "https://cdn.motor1.com/images/mgl/6Z8LoX/s3/l-automotive-e-le-sue-professioni-cambiano.jpg",
+      "summary": "Il settore Automotive italiano affronta la transizione elettrica e digitale tra nuove competenze difficili da reperire e valorizzazione delle risorse interne",
+      "date": "2026-08-25T07:00:00.0000000Z"
+    },
     {
       "id": "motor1:b4df1bf7b336",
       "sourceId": "motor1",
@@ -171,18 +195,6 @@
       "date": "2026-08-24T15:00:09.0000000Z"
     },
     {
-      "id": "insideevs:cd1c710d6696",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "CATL come Tesla: ora le batterie si vendono direttamente online",
-      "url": "https://insideevs.it/news/805829/catl-negozio-online-vendita-diretta-batterie/",
-      "image": "https://cdn.motor1.com/images/mgl/XB6q2p/s3/la-batteria-lfp-saic_gm-e-catl-che-ricarica-a-6c.jpg",
-      "summary": "Il colosso cinese apre uno shop online dove le aziende si servono da sole. In 2 mesi ci sono stati 1800 clienti",
-      "date": "2026-08-24T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:ae37fd255746",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -192,6 +204,18 @@
       "url": "https://it.motor1.com/news/805895/auto-clienti-fedeli-classifica-2026/",
       "image": "https://cdn.motor1.com/images/mgl/W8KmMO/s3/quali-sono-le-auto-con-i-clienti-piu-fedeli-la-classifica-usa-2026.jpg",
       "summary": "Il 64% dei clienti Tesla che cambia auto resta fedele al marchio. A seguire, Ferrari e Toyota",
+      "date": "2026-08-24T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:cd1c710d6696",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "CATL come Tesla: ora le batterie si vendono direttamente online",
+      "url": "https://insideevs.it/news/805829/catl-negozio-online-vendita-diretta-batterie/",
+      "image": "https://cdn.motor1.com/images/mgl/XB6q2p/s3/la-batteria-lfp-saic_gm-e-catl-che-ricarica-a-6c.jpg",
+      "summary": "Il colosso cinese apre uno shop online dove le aziende si servono da sole. In 2 mesi ci sono stati 1800 clienti",
       "date": "2026-08-24T15:00:00.0000000Z"
     },
     {
@@ -411,18 +435,6 @@
       "date": "2026-08-24T09:18:28.0000000Z"
     },
     {
-      "id": "motor1:54f0e558b778",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Volkswagen T-Roc diventa un pick-up compatto",
-      "url": "https://it.motor1.com/news/805843/volkswagen-tukan-brasile-prezzi/",
-      "image": "https://cdn.motor1.com/images/mgl/6Z8kkE/s3/volkswagen-tukan-2027.jpg",
-      "summary": "Debutta in Brasile il Tukan, pick-up compatto basato sulla piattaforma MQB. Resterà in Sud America",
-      "date": "2026-08-24T09:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:0f306e83cebb",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/40Y3OY/s3/lucid-gravity-gt-s.jpg",
       "summary": "Ricaricare una Tesla con i suoi più grandi concorrenti potrebbe sembrare una blasfemia, ma in realtà funziona dannatamente bene",
       "date": "2026-08-22T10:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:52bde9a6295d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa auto elettrica di 100 anni faceva 129 km, ma con calma",
-      "url": "https://insideevs.it/news/805707/auto-elettrica-100-anni-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/2N4WoM/s3/1918-detroit-electric-model-75b.jpg",
-      "summary": "La Detroit Electric del 1918 aveva un'autonomia già buona, ma non superava i 32 km/h",
-      "date": "2026-08-22T05:00:00.0000000Z"
     }
   ]
 }

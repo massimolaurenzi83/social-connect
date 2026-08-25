@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-08-25T06:04:53.3030700Z",
+  "updated": "2026-08-25T07:06:14.3637588Z",
   "items": [
+    {
+      "id": "qualenergia:1784a0d275ad",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Criticità e benefici economici del riciclo dei moduli fotovoltaici",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/criticita-benefici-economici-riciclo-moduli-fotovoltaici/",
+      "image": null,
+      "summary": "Entro il 2060 nel mondo si potrebbero accumulare tra 297 e 402 milioni di tonnellate di moduli fotovoltaici a fine vita. Se questo flusso venisse gestito con tecnologie e catene di riciclo adatte ai diversi mercati, p...",
+      "date": "2026-08-25T07:00:10.0000000Z"
+    },
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
+      "date": "2026-08-25T05:15:00.0000000Z"
+    },
     {
       "id": "qualenergia:e6b5ea23900b",
       "sourceId": "qualenergia",
@@ -23,7 +47,7 @@
       "title": "Towards an equitable future of global photovoltaic waste recycling",
       "url": "https://www.qualenergia.it/pro/documenti/towards-an-equitable-future-of-global-photovoltaic-waste-recycling/",
       "image": null,
-      "summary": "Studio pubblicato su Nature secondo cui entro il 2060 il mondo potrebbe accumulare tra 297 e 402 milioni di tonnellate di moduli fotovoltaici a fine vita. Tale flusso potrebbe generare benefici economici netti cumulat...",
+      "summary": "Uno studio pubblicato su Nature evidenzia che entro il 2060 si potrebbero accumulare tra 297 e 402 milioni di tonnellate di moduli fotovoltaici a fine vita. Il loro riciclo potrebbe generare benefici economici netti c...",
       "date": "2026-08-25T05:00:35.0000000Z"
     },
     {
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "È aperto lo sportello della Regione Abruzzo dedicato alla riqualificazione energetica degli edifici di proprietà delle Aziende Sanitarie Locali (ASL) del territorio. Il bando (allegato in basso) è finanziato nell’ambi...",
       "date": "2026-08-24T06:55:46.0000000Z"
-    },
-    {
-      "id": "qualenergia:50d40d648ab7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Bandi e appalti del giorno (4)",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
-      "image": null,
-      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
-      "date": "2026-08-24T06:30:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:ed359064492d",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "LA FORMAZIONE ENERGETICA IN ITALIA",
-      "url": "https://www.qualenergia.it/pro/documenti/formazione-energetica-in-italia/",
-      "image": null,
-      "summary": "Corsi universitari, master, ITS Academy, stage, seminari di formazione a vari livelli su tematiche energetiche, fonti rinnovabili, efficienza energetica e mobilità elettrica. Destinatari: studenti diplomati, universit...",
-      "date": "2026-08-24T05:15:30.0000000Z"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-25T06:04:53.3344762Z",
+  "updated": "2026-08-25T07:06:14.4039188Z",
   "items": [
+    {
+      "id": "ansa-cronaca:968d49094edf",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Lavitola al Riesame il 7 settembre, attesa per le decisioni Rai su Ranucci",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/lavitola-al-riesame-il-7-settembre-attesa-per-le-decisioni-rai-su-ranucci_16eba8bd-021d-40b9-b3e4-ad3b78ecbb1e.html",
+      "image": null,
+      "summary": "Lui: 'Gogna senza precedenti'. Di Majo-Di Pietro-Natale, rischio di rimozione politica",
+      "date": "2026-08-25T06:26:50.0000000Z"
+    },
     {
       "id": "ansa-cronaca:9e56675cfec3",
       "sourceId": "ansa-cronaca",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "I principali avvenimenti previsti per la giornata",
       "date": "2026-08-24T17:57:27.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:decebfa70fff",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Bimba morta a Palermo, Iss 'positivo alla difterite il campione'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/bimba-morta-a-palermo-iss-positivo-alla-difterite-il-campione_22ede14f-0511-4389-a139-d148b90bd4be.html",
-      "image": null,
-      "summary": "Rilevato il Corynebacterium diphteriae e il gene della tossina",
-      "date": "2026-08-24T17:41:11.0000000Z"
     }
   ]
 }
