@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-08-25T10:41:47.7074699Z",
+  "updated": "2026-08-25T11:06:38.8196052Z",
   "items": [
+    {
+      "id": "motor1:c81c487eeda6",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Schermi touch in auto, tra regole attuali e riforma del Codice",
+      "url": "https://it.motor1.com/news/805892/schermi-touch-auto-codice-strada/",
+      "image": "https://cdn.motor1.com/images/mgl/7ZEnQ7/s3/abitacolo-futuristico-e-schermi-touch.jpg",
+      "summary": "Tra riforma del Codice, norme UE e scelte dei costruttori, gli abitacoli digitali fanno i conti con regole sulla distrazione al volante",
+      "date": "2026-08-25T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:2e28e337e011",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Stop alla supercar elettrica: perché Dreame torna agli aspirapolveri",
+      "url": "https://insideevs.it/news/805970/stop-supercar-elettrica-cinese-dreame/",
+      "image": "https://cdn.motor1.com/images/mgl/g4OPeN/s3/dreame-nebula-next-01.jpg",
+      "summary": "L'azienda cinese abbandona la Nebula Next 01 Jet Edition: pare che il progetto fosse pubblicità finalizzata alla raccolta fondi",
+      "date": "2026-08-25T11:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:4480e75664a6",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Almeno 450 km deve fare una citycar, se no che auto è?",
+      "url": "https://www.vaielettrico.it/almeno-450-km-deve-fare-una-citycar-se-no-che-auto-e/",
+      "image": null,
+      "summary": "Almeno 450 km deve fare una citycar elettrica, se no che auto è? La provocazione è di uno… L'articolo Almeno 450 km deve fare una citycar, se no che auto è? proviene da Vaielettrico .",
+      "date": "2026-08-25T10:49:08.0000000Z"
+    },
     {
       "id": "hdmotori:31421f3bf42a",
       "sourceId": "hdmotori",
@@ -51,18 +87,6 @@
       "date": "2026-08-25T09:00:42.0000000Z"
     },
     {
-      "id": "insideevs:44d95b79dcd6",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché il manganese può accelerare il degrado delle batterie",
-      "url": "https://insideevs.it/news/805853/manganese-accelerare-degrado-batterie/",
-      "image": "https://cdn.motor1.com/images/mgl/7ZEnPA/s3/struttura-di-una-batteria-agli-ioni-di-litio.jpg",
-      "summary": "Uno studio coreano rivela che l'esposizione all'aria può provocare ossidazione del manganese. Ma c'è una soluzione",
-      "date": "2026-08-25T09:00:00.0000000Z"
-    },
-    {
       "id": "motor1:acf60e64b877",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -72,6 +96,18 @@
       "url": "https://it.motor1.com/news/805954/volvo-ibride-plug-in-nuove/",
       "image": "https://cdn.motor1.com/images/mgl/1ZwqWX/s3/volvo-xc60-update.jpg",
       "summary": "I nuovi modelli ibridi del brand svedese avranno batterie più grandi: si parte con la XC70 da 200 km di autonomia EV",
+      "date": "2026-08-25T09:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:44d95b79dcd6",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché il manganese può accelerare il degrado delle batterie",
+      "url": "https://insideevs.it/news/805853/manganese-accelerare-degrado-batterie/",
+      "image": "https://cdn.motor1.com/images/mgl/7ZEnPA/s3/struttura-di-una-batteria-agli-ioni-di-litio.jpg",
+      "summary": "Uno studio coreano rivela che l'esposizione all'aria può provocare ossidazione del manganese. Ma c'è una soluzione",
       "date": "2026-08-25T09:00:00.0000000Z"
     },
     {
@@ -135,18 +171,6 @@
       "date": "2026-08-25T07:00:06.0000000Z"
     },
     {
-      "id": "insideevs:666980fbbe8e",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Mercedes CLA 350 4Matic dimostra un'autonomia sorprendente",
-      "url": "https://insideevs.it/news/805951/mercedes-cla-350-4matic-autonomia/",
-      "image": "https://cdn.motor1.com/images/mgl/rKJmG9/s3/2026-mercedes-cla-ev-review.jpg",
-      "summary": "La nuova Mercedes elettrica si è avvicinata a 640 km in un recente test di autonomia a 113 km/h",
-      "date": "2026-08-25T07:00:00.0000000Z"
-    },
-    {
       "id": "motor1:723aa3b14e4d",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -156,6 +180,18 @@
       "url": "https://it.motor1.com/features/805906/crisi-professioni-mondo-automotive/",
       "image": "https://cdn.motor1.com/images/mgl/6Z8LoX/s3/l-automotive-e-le-sue-professioni-cambiano.jpg",
       "summary": "Il settore Automotive italiano affronta la transizione elettrica e digitale tra nuove competenze difficili da reperire e valorizzazione delle risorse interne",
+      "date": "2026-08-25T07:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:666980fbbe8e",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Mercedes CLA 350 4Matic dimostra un'autonomia sorprendente",
+      "url": "https://insideevs.it/news/805951/mercedes-cla-350-4matic-autonomia/",
+      "image": "https://cdn.motor1.com/images/mgl/rKJmG9/s3/2026-mercedes-cla-ev-review.jpg",
+      "summary": "La nuova Mercedes elettrica si è avvicinata a 640 km in un recente test di autonomia a 113 km/h",
       "date": "2026-08-25T07:00:00.0000000Z"
     },
     {
@@ -171,18 +207,6 @@
       "date": "2026-08-25T06:00:00.0000000Z"
     },
     {
-      "id": "motor1:4dfe80220eef",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Gli interni del nuovo SUV compatto di Volkswagen",
-      "url": "https://it.motor1.com/news/805689/volkswagen-id-cross-interni-bagagliaio/",
-      "image": "https://cdn.motor1.com/images/mgl/vx8rMb/s3/volkswagen-id.-cross-gli-interni-e-il-bagagliaio.jpg",
-      "summary": "Ecco com'è fatta l'ID. Cross, SUV di segmento B con tecnologia e tanto spazio a bordo",
-      "date": "2026-08-25T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:19972c0377b4",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -192,6 +216,18 @@
       "url": "https://insideevs.it/news/803464/leapmotor-b05-vs-mg4-urban/",
       "image": "https://cdn.motor1.com/images/mgl/eo72LN/s3/leapmotor-b05-vs-mg4-urban.jpg",
       "summary": "Proposte a prezzi interessanti e con filosofie differenti, la B05 e la MG4 Urban sono due new entry nel segmento C",
+      "date": "2026-08-25T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:4dfe80220eef",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Gli interni del nuovo SUV compatto di Volkswagen",
+      "url": "https://it.motor1.com/news/805689/volkswagen-id-cross-interni-bagagliaio/",
+      "image": "https://cdn.motor1.com/images/mgl/vx8rMb/s3/volkswagen-id.-cross-gli-interni-e-il-bagagliaio.jpg",
+      "summary": "Ecco com'è fatta l'ID. Cross, SUV di segmento B con tecnologia e tanto spazio a bordo",
       "date": "2026-08-25T05:00:00.0000000Z"
     },
     {
@@ -327,18 +363,6 @@
       "date": "2026-08-24T15:00:09.0000000Z"
     },
     {
-      "id": "motor1:ae37fd255746",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quali sono le auto con i clienti più fedeli? La classifica USA 2026",
-      "url": "https://it.motor1.com/news/805895/auto-clienti-fedeli-classifica-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/W8KmMO/s3/quali-sono-le-auto-con-i-clienti-piu-fedeli-la-classifica-usa-2026.jpg",
-      "summary": "Il 64% dei clienti Tesla che cambia auto resta fedele al marchio. A seguire, Ferrari e Toyota",
-      "date": "2026-08-24T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:cd1c710d6696",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -348,6 +372,18 @@
       "url": "https://insideevs.it/news/805829/catl-negozio-online-vendita-diretta-batterie/",
       "image": "https://cdn.motor1.com/images/mgl/XB6q2p/s3/la-batteria-lfp-saic_gm-e-catl-che-ricarica-a-6c.jpg",
       "summary": "Il colosso cinese apre uno shop online dove le aziende si servono da sole. In 2 mesi ci sono stati 1800 clienti",
+      "date": "2026-08-24T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:ae37fd255746",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Quali sono le auto con i clienti più fedeli? La classifica USA 2026",
+      "url": "https://it.motor1.com/news/805895/auto-clienti-fedeli-classifica-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KmMO/s3/quali-sono-le-auto-con-i-clienti-piu-fedeli-la-classifica-usa-2026.jpg",
+      "summary": "Il 64% dei clienti Tesla che cambia auto resta fedele al marchio. A seguire, Ferrari e Toyota",
       "date": "2026-08-24T15:00:00.0000000Z"
     },
     {
@@ -423,18 +459,6 @@
       "date": "2026-08-24T12:30:00.0000000Z"
     },
     {
-      "id": "motor1:2db70c697d3c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Google Assistant va in pensione: sulle auto arriva Gemini",
-      "url": "https://it.motor1.com/news/805854/google-gemini-auto-android-settembre-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/1Zw3kL/s3/google-assistant-va-in-pensione-sulle-auto-arriva-gemini.jpg",
-      "summary": "Dal 4 settembre inizia la transizione al nuovo assistente Google. Android Auto è coinvolto, ma non tutte le auto con Google lo sono",
-      "date": "2026-08-24T12:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:37814922c6fc",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -471,18 +495,6 @@
       "date": "2026-08-24T09:18:28.0000000Z"
     },
     {
-      "id": "vaielettrico:0f306e83cebb",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La jungla dei prezzi di ricarica, il vero problema",
-      "url": "https://www.vaielettrico.it/la-jungla-dei-prezzi-di-ricarica-il-vero-problema/",
-      "image": null,
-      "summary": "La jungla dei prezzi di ricarica allontana dall’elettrico. Prima ancora del costo/kWh, pesa la complessità nella scelta e… L'articolo La jungla dei prezzi di ricarica, il vero problema proviene da Vaielettrico .",
-      "date": "2026-08-24T07:50:07.0000000Z"
-    },
-    {
       "id": "insideevs:b92855398c9b",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/ojGv1p/s3/aptera-solar-electric-vehicle-production-validation-vehicle.jpg",
       "summary": "Partnership fra la startup californiana e la cinese Launch Design per far partire la produzione del triciclo nel Paese del Dragone",
       "date": "2026-08-23T10:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:1e34f361a114",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Nevada apre le porte a migliaia di robotaxi a pagamento: Tesla in vantaggio",
-      "url": "https://insideevs.it/news/805717/tesla-robotaxi-pagamento-nevada-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/P3BE6W/s3/tesla-model-y-robotaxi.jpg",
-      "summary": "Tesla, Waymo e Uber hanno ricevuto il via libera per iniziare a far pagare le corse in robotaxi nella contea in cui si trova Las Vegas.",
-      "date": "2026-08-23T05:00:00.0000000Z"
     }
   ]
 }
