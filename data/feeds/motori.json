@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-25T14:04:00.7303206Z",
+  "updated": "2026-08-25T14:59:30.7507761Z",
   "items": [
+    {
+      "id": "motor1:02644f98057c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "A Valle Castellana la benzina costa meno: il Comune fa il benzinaio",
+      "url": "https://it.motor1.com/news/806029/valle-castellana-benzina-prezzi/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KmyN/s3/prezzo-benzina.jpg",
+      "summary": "Nel piccolo Comune del Teramano benzina e diesel vengono venduti quasi a prezzo di costo, con un risparmio fino a 20 centesimi al litro",
+      "date": "2026-08-25T14:28:14.0000000Z"
+    },
     {
       "id": "hdmotori:7d7eb3ed22ef",
       "sourceId": "hdmotori",
@@ -195,18 +207,6 @@
       "date": "2026-08-25T09:00:42.0000000Z"
     },
     {
-      "id": "insideevs:44d95b79dcd6",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché il manganese può accelerare il degrado delle batterie",
-      "url": "https://insideevs.it/news/805853/manganese-accelerare-degrado-batterie/",
-      "image": "https://cdn.motor1.com/images/mgl/7ZEnPA/s3/struttura-di-una-batteria-agli-ioni-di-litio.jpg",
-      "summary": "Uno studio coreano rivela che l'esposizione all'aria può provocare ossidazione del manganese. Ma c'è una soluzione",
-      "date": "2026-08-25T09:00:00.0000000Z"
-    },
-    {
       "id": "motor1:acf60e64b877",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -216,6 +216,18 @@
       "url": "https://it.motor1.com/news/805954/volvo-ibride-plug-in-nuove/",
       "image": "https://cdn.motor1.com/images/mgl/1ZwqWX/s3/volvo-xc60-update.jpg",
       "summary": "I nuovi modelli ibridi del brand svedese avranno batterie più grandi: si parte con la XC70 da 200 km di autonomia EV",
+      "date": "2026-08-25T09:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:44d95b79dcd6",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché il manganese può accelerare il degrado delle batterie",
+      "url": "https://insideevs.it/news/805853/manganese-accelerare-degrado-batterie/",
+      "image": "https://cdn.motor1.com/images/mgl/7ZEnPA/s3/struttura-di-una-batteria-agli-ioni-di-litio.jpg",
+      "summary": "Uno studio coreano rivela che l'esposizione all'aria può provocare ossidazione del manganese. Ma c'è una soluzione",
       "date": "2026-08-25T09:00:00.0000000Z"
     },
     {
@@ -409,18 +421,6 @@
       "image": "https://cdn.motor1.com/images/mgl/XBzx6V/s3/porsche-vende-un-pezzo-del-suo-impero-al-gruppo-tata.jpg",
       "summary": "Dopo quasi 20 anni la Casa tedesca cambia proprietario a una società strategica per il digitale, ma mantiene una collaborazione stretta",
       "date": "2026-08-24T16:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:8302b60e6bb6",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Trump contro il Canada: dazi al 50% su auto e ricambi",
-      "url": "https://it.motor1.com/news/805912/trump-canada-dazi-auto-ricambi/",
-      "image": "https://cdn.motor1.com/images/mgl/2N0Qbp/s3/donald-trump.jpg",
-      "summary": "La nuova stretta commerciale scatterebbe dal 2027 e potrebbe avere conseguenze sulla produzione e sui prezzi delle auto negli USA",
-      "date": "2026-08-24T15:30:00.0000000Z"
     },
     {
       "id": "insideevs:cd1c710d6696",

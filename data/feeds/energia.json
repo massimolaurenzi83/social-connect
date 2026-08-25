@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-25T14:04:00.7261348Z",
+  "updated": "2026-08-25T14:59:30.7864987Z",
   "items": [
+    {
+      "id": "qualenergia:e3b49dc69d8a",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Conto Energia, decreto sull’uscita anticipata con il dubbio sulle scadenze",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/conto-energia-decreto-uscita-anticipata-dubbio-scadenze/",
+      "image": null,
+      "summary": "È stato firmato il decreto Mase sulla fuoriuscita volontaria anticipata dal Conto Energia, ma il provvedimento ad oggi non è ancora stato pubblicato, come ci confermano dal ministero, e dunque non è entrato in vigore....",
+      "date": "2026-08-25T14:00:06.0000000Z"
+    },
     {
       "id": "qualenergia:a95a3c3f5382",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
       "date": "2026-08-25T05:15:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:d5a116e4e301",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Ampliamento pubblica illuminazione a Martina Franca (TA)",
-      "url": "https://www.qualenergia.it/pro/documenti/ampliamento-pubblica-illuminazione-a-martina-franca-ta/",
-      "image": null,
-      "summary": "Avviso pubblico per l’individuazione di operatori economici per l’espletamento della procedura negoziata, senza previa pubblicazione di un bando di gara, per l’affidamento tramite accordo quadro con un solo operatore ...",
-      "date": "2026-08-25T05:00:40.0000000Z"
     }
   ]
 }
