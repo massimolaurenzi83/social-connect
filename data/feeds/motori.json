@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-25T04:19:26.7323008Z",
+  "updated": "2026-08-25T05:00:29.5813748Z",
   "items": [
+    {
+      "id": "vaielettrico:a38f15c03850",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "In Svezia c’è una sauna alimentata dalla batteria dell’auto elettrica",
+      "url": "https://www.vaielettrico.it/in-svezia-ce-una-sauna-alimentata-dalla-batteria-dellauto-elettrica/",
+      "image": null,
+      "summary": "A Skellefteå, nel nord della Svezia, una sauna pubblica rosa shocking e a forma di cristallo di litio… L'articolo In Svezia c’è una sauna alimentata dalla batteria dell’auto elettrica proviene da Vaielettrico .",
+      "date": "2026-08-25T04:47:21.0000000Z"
+    },
+    {
+      "id": "vaielettrico:9b8d432dd0e0",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Liguria: dalla Regione 5mila euro per chi compra il taxi elettrico",
+      "url": "https://www.vaielettrico.it/liguria-dalla-regione-5mila-euro-per-comprare-il-taxi-elettrico/",
+      "image": null,
+      "summary": "Regione Liguria. c0me quella lombarda, finanzia i taxi elettrici. Purtroppo come spesso succede e come ha sottolineato in… L'articolo Liguria: dalla Regione 5mila euro per chi compra il taxi elettrico proviene da Vaie...",
+      "date": "2026-08-25T04:26:42.0000000Z"
+    },
     {
       "id": "vaielettrico:d894abb1dd1c",
       "sourceId": "vaielettrico",
@@ -111,18 +135,6 @@
       "date": "2026-08-24T15:00:09.0000000Z"
     },
     {
-      "id": "motor1:ae37fd255746",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quali sono le auto con i clienti più fedeli? La classifica USA 2026",
-      "url": "https://it.motor1.com/news/805895/auto-clienti-fedeli-classifica-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/W8KmMO/s3/quali-sono-le-auto-con-i-clienti-piu-fedeli-la-classifica-usa-2026.jpg",
-      "summary": "Il 64% dei clienti Tesla che cambia auto resta fedele al marchio. A seguire, Ferrari e Toyota",
-      "date": "2026-08-24T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:cd1c710d6696",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -132,6 +144,18 @@
       "url": "https://insideevs.it/news/805829/catl-negozio-online-vendita-diretta-batterie/",
       "image": "https://cdn.motor1.com/images/mgl/XB6q2p/s3/la-batteria-lfp-saic_gm-e-catl-che-ricarica-a-6c.jpg",
       "summary": "Il colosso cinese apre uno shop online dove le aziende si servono da sole. In 2 mesi ci sono stati 1800 clienti",
+      "date": "2026-08-24T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:ae37fd255746",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Quali sono le auto con i clienti più fedeli? La classifica USA 2026",
+      "url": "https://it.motor1.com/news/805895/auto-clienti-fedeli-classifica-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KmMO/s3/quali-sono-le-auto-con-i-clienti-piu-fedeli-la-classifica-usa-2026.jpg",
+      "summary": "Il 64% dei clienti Tesla che cambia auto resta fedele al marchio. A seguire, Ferrari e Toyota",
       "date": "2026-08-24T15:00:00.0000000Z"
     },
     {
@@ -279,18 +303,6 @@
       "date": "2026-08-24T12:00:00.0000000Z"
     },
     {
-      "id": "insideevs:37814922c6fc",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Dentro la fabbrica di batterie da 2 miliardi di dollari che produce celle per Tesla e Toyota",
-      "url": "https://insideevs.it/news/805819/fabbrica-batterie-tesla-toyota/",
-      "image": "https://cdn.motor1.com/images/mgl/G3QL8Z/s3/lges-battery-plant-lansing-michigan..jpg",
-      "summary": "Ho visitato una gigafactory di batterie dove i dirigenti hanno parlato di batterie allo stato solido, ioni di sodio e altro",
-      "date": "2026-08-24T11:00:00.0000000Z"
-    },
-    {
       "id": "motor1:48bd52873f83",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -300,6 +312,18 @@
       "url": "https://it.motor1.com/features/805719/pneumatico-singolo-sostituzione-guida/",
       "image": "https://cdn.motor1.com/images/mgl/W8KVlq/s3/can-you-really-replace-just-one-tire.jpg",
       "summary": "Una gomma a terra non obbliga a comprare quattro pneumatici nuovi, ma cambiarne solo uno può dare problemi all'auto, soprattutto se è AWD",
+      "date": "2026-08-24T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:37814922c6fc",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dentro la fabbrica di batterie da 2 miliardi di dollari che produce celle per Tesla e Toyota",
+      "url": "https://insideevs.it/news/805819/fabbrica-batterie-tesla-toyota/",
+      "image": "https://cdn.motor1.com/images/mgl/G3QL8Z/s3/lges-battery-plant-lansing-michigan..jpg",
+      "summary": "Ho visitato una gigafactory di batterie dove i dirigenti hanno parlato di batterie allo stato solido, ioni di sodio e altro",
       "date": "2026-08-24T11:00:00.0000000Z"
     },
     {
@@ -447,18 +471,6 @@
       "date": "2026-08-23T21:59:30.0000000Z"
     },
     {
-      "id": "vaielettrico:46bb7e32b919",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Voglio sapere quanto spendo a ricaricare",
-      "url": "https://www.vaielettrico.it/voglio-sapere-quanto-spendo-a-ricaricare/",
-      "image": null,
-      "summary": "Voglio sapere quanto spendo a ricaricare: subito, come succedede per il riforimento di benzina. Una collega francese solleva… L'articolo Voglio sapere quanto spendo a ricaricare proviene da Vaielettrico .",
-      "date": "2026-08-23T14:22:08.0000000Z"
-    },
-    {
       "id": "insideevs:92e2120ccd2b",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -481,18 +493,6 @@
       "image": "https://cdn.motor1.com/images/mgl/P3BE6W/s3/tesla-model-y-robotaxi.jpg",
       "summary": "Tesla, Waymo e Uber hanno ricevuto il via libera per iniziare a far pagare le corse in robotaxi nella contea in cui si trova Las Vegas.",
       "date": "2026-08-23T05:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:40758241b406",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Da Hubject a Localiser i dati reali di ricarica per migliorare la scelta dei siti",
-      "url": "https://www.vaielettrico.it/da-hubject-a-localiser-i-dati-reali-di-ricarica-per-migliorare-la-scelta-dei-siti/",
-      "image": null,
-      "summary": "Hubject e Localiser hanno siglato una partnership per integrare nella piattaforma di analisi di Localiser i dati provenienti… L'articolo Da Hubject a Localiser i dati reali di ricarica per migliorare la scelta dei sit...",
-      "date": "2026-08-22T16:18:41.0000000Z"
     },
     {
       "id": "insideevs:42b3badbee34",
