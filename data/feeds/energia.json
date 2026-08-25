@@ -1,6 +1,6 @@
 {
   "category": "energia",
-  "updated": "2026-08-25T11:40:28.2985267Z",
+  "updated": "2026-08-25T12:04:22.4342500Z",
   "items": [
     {
       "id": "qualenergia:dc4be70f86fb",
@@ -111,18 +111,6 @@
       "date": "2026-08-25T05:15:00.0000000Z"
     },
     {
-      "id": "qualenergia:e6b5ea23900b",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Batteries have unlocked the era of anytime solar",
-      "url": "https://www.qualenergia.it/pro/documenti/batteries-have-unlocked-the-era-of-anytime-solar/",
-      "image": null,
-      "summary": "Studio di Ember secondo cui le batterie aprono l’era del fotovoltaico disponibile anche oltre le ore di sole. Le batterie che dovrebbero entrare in funzione nel 2026 potrebbero teoricamente spostare verso le ore senza...",
-      "date": "2026-08-25T05:00:59.0000000Z"
-    },
-    {
       "id": "qualenergia:b211add04eab",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -145,6 +133,18 @@
       "image": null,
       "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
       "date": "2026-08-24T22:25:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:b4c30af0a162",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Caldo record, il fotovoltaico limita lo stress sui sistemi elettrici",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/caldo-record-fotovoltaico-limita-stress-sistemi-elettrici/",
+      "image": null,
+      "summary": "Le ondate di calore che hanno attraversato l’Europa tra giugno e luglio hanno rappresentato un test impegnativo per i sistemi elettrici del continente. Le temperature elevate hanno fatto crescere i consumi per il raff...",
+      "date": "2026-08-24T12:30:49.0000000Z"
     }
   ]
 }
