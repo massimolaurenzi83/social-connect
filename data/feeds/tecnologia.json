@@ -1,7 +1,103 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-25T15:53:31.4690813Z",
+  "updated": "2026-08-25T16:30:40.5194262Z",
   "items": [
+    {
+      "id": "hdblog:0ce7122d875c",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Wyze Indoor Pan Cam ufficiale: tracking AI migliorato e modalità notturna più efficace",
+      "url": "https://www.hdblog.it/domotica/articoli/n668361/wyze-indoor-pan-cam-specifiche-novita/",
+      "image": null,
+      "summary": "C'è anche una modalità privacy \"fisica\", che sposta il sensore verso l'interno del corpo della videocamera.",
+      "date": "2026-08-25T16:25:00.0000000Z"
+    },
+    {
+      "id": "hdblog:fd932ac6d1e5",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Webb osserva una rara nube stellare nella Nebulosa della Carena",
+      "url": "https://www.hdblog.it/curiosita/articoli/n668170/james-webb-treasure-chest-nebulosa-carena/",
+      "image": null,
+      "summary": "Webb osserva una nube di gas e polveri dove stanno nascendo nuove stelle.",
+      "date": "2026-08-25T16:10:00.0000000Z"
+    },
+    {
+      "id": "hdblog:33494db241ef",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "ASUS alla Gamescom 2026 con una vagonata di periferiche gaming",
+      "url": "https://www.hdblog.it/hardware/articoli/n668355/asus-gamescom-2026-esport-gaming-rog-tuf/",
+      "image": null,
+      "summary": "Monitor, schede video, mouse, tastiere, gamepad... c'è l'imbarazzo della scelta.",
+      "date": "2026-08-25T16:05:00.0000000Z"
+    },
+    {
+      "id": "tomshw:b7ff483002b8",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Tutte le novità di NVIDIA alla Gamescom 2026",
+      "url": "https://www.tomshw.it/videogioco/nvidia-gamescom-2026",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109573/IMG_2187.jpg",
+      "summary": "Alla Gamescom 2026 NVIDIA ha presentato una strategia che mette l’intelligenza artificiale al centro di praticamente ogni elemento dell’esperienza videoludica. Dal rendering al comportamen...",
+      "date": "2026-08-25T16:04:39.0000000Z"
+    },
+    {
+      "id": "tomshw:d8fde0e01382",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Dell 15 da 999€ a 699€, Core i7 e 16GB che fanno la differenza",
+      "url": "https://www.tomshw.it/offerte/dell-15-da-999eur-a-699eur-core-i7-e-16gb-che-fanno-la-differenza",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109603/tomshw-offer-932397.png",
+      "summary": "Il Dell 15 con Core i7 costa 699€ su Amazon, contro un listino di 999€: il taglio è del 30%, pari a 300€ risparmiati. È una configurazione pensata per sostenere multitasking, studio e lavoro quotidian...",
+      "date": "2026-08-25T16:03:42.0000000Z"
+    },
+    {
+      "id": "hdblog:5cec30ec2d78",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Lancia Delta S4, ribaltamento fatale: il tragico incidente di Stra",
+      "url": "https://www.hdmotori.it/lancia-delta-s4-incidente-stra/",
+      "image": null,
+      "summary": "Non è stato un incidente di rally. Mirco Celin ha perso la vita a 35 anni in un crash stradale a bordo di una Lancia Delta S4",
+      "date": "2026-08-25T16:00:12.0000000Z"
+    },
+    {
+      "id": "hdblog:2efe0c4ad5fd",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Missili e satelliti: lallarme ora si sposta direttamente nello spazio",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n668156/elaborazione-edge-satelliti-allerta-missili/",
+      "image": null,
+      "summary": "Nuovi sistemi elaborano i dati dei sensori direttamente nello spazio, riducendo ritardi e dipendenza dalle comunicazioni.",
+      "date": "2026-08-25T15:55:00.0000000Z"
+    },
+    {
+      "id": "tomshw:362b95664468",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Garmin fēnix 9: ecco i nuovi smartwatch, prezzo e data d’uscita",
+      "url": "https://www.tomshw.it/smartphone/garmin-fenix-9-e-fenix-9-pro-fino-a-57-giorni-di",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109601/IMG_0757.jpg",
+      "summary": "Fino a 57 giorni di autonomia, un display AMOLED più luminoso e comunicazioni satellitari su alcune configurazioni definiscono i nuovi Garmin fēnix 9 e fēnix 9 Pro, presentati ufficialmente il 25 agos...",
+      "date": "2026-08-25T15:54:47.0000000Z"
+    },
     {
       "id": "hdblog:a456929cf82a",
       "sourceId": "hdblog",
@@ -159,102 +255,6 @@
       "date": "2026-08-25T15:10:00.0000000Z"
     },
     {
-      "id": "hdblog:891bc171a9c8",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Gemini arriva in soccorso sui Pixel 11: Google testa Device help",
-      "url": "https://www.hdblog.it/smartphone/articoli/n668349/gemini-device-help-pixel-11-assistenza-google-test/",
-      "image": null,
-      "summary": "L'idea è quella di un'assistenza tecnica AI interattiva.",
-      "date": "2026-08-25T15:05:00.0000000Z"
-    },
-    {
-      "id": "hdblog:21c6dfd90f85",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "BYD, crollo in Borsa e vendite in calo: ma si punta al primato mondiale",
-      "url": "https://www.hdmotori.it/byd-crollo-borsa-obiettivo-leadership-mondiale/",
-      "image": null,
-      "summary": "Tra perdite azionarie e la guerra dei prezzi sul mercato interno, BYD lancia un piano ad alto rischio per superare Toyota puntando su export e Blade Battery",
-      "date": "2026-08-25T15:00:30.0000000Z"
-    },
-    {
-      "id": "hdblog:9baa5c992580",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Android 17, Google combatte il mal d'auto con il telefono grazie a Motion Assist",
-      "url": "https://www.hdblog.it/google/articoli/n668312/android-17-motion-assist-mal-auto-cinetosi-pixel/",
-      "image": null,
-      "summary": "La distribuzione è già cominciata gradualmente sui Pixel.",
-      "date": "2026-08-25T14:55:00.0000000Z"
-    },
-    {
-      "id": "tomshw:91c2acf25198",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Samsung a Gamescom 2026 con Odyssey 6K, Galaxy e gaming senza confini",
-      "url": "https://www.tomshw.it/smartphone/samsung-a-gamescom-2026-con-odyssey-6k-galaxy-e-gaming-senza-confini",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109583/samsung-gamescom-2026-ecosistema-gaming-odyssey-galaxy.png",
-      "summary": "Samsung si prepara a trasformare Gamescom 2026 in una vetrina per il suo intero ecosistema gaming. Dal 26 al 30 agosto, all'interno della Koelnmesse di Colonia, l'azienda occuperà uno spazio di...",
-      "date": "2026-08-25T14:50:47.0000000Z"
-    },
-    {
-      "id": "hdblog:e42cc5502db8",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Fusione nucleare: un cristallo più grande spinge i laser a 200 J",
-      "url": "https://www.hdblog.it/green/articoli/n668157/fusione-nucleare-cristallo-ybylf-laser-200-joule/",
-      "image": null,
-      "summary": "Un cristallo Yb più grande aiuterà DESY a sviluppare laser da 200 joule per la fusione",
-      "date": "2026-08-25T14:45:00.0000000Z"
-    },
-    {
-      "id": "hdblog:ed6bc3a327b0",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Recensione Pixel Watch 5: piacevole da usare e indossare ma ha due limiti | Video",
-      "url": "https://www.hdblog.it/indossabili/recensioni/n667759/recensione-google-pixel-watch-5-test-prova-prezzo/",
-      "image": null,
-      "summary": "Ho provato per oltre una settimana il nuovo Pixel Watch 5 di Google, ecco come è andata",
-      "date": "2026-08-25T14:31:00.0000000Z"
-    },
-    {
-      "id": "tomshw:886823f10ef0",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Questo scudo a microonde proteggerà i data center nello spazio",
-      "url": "https://www.tomshw.it/scienze/questo-scudo-a-microonde-proteggera-i-data-center-nello-spazio",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109582/questo-scudo-a-microonde-proteggera-i-data-center-nello-spazio.png",
-      "summary": "La società statunitense Lonestar Data Holdings ha affidato alla startup polacca Ares Shield la protezione dei suoi futuri data center spaziali. Il contratto, dal valore massimo di 6 milioni di dollari...",
-      "date": "2026-08-25T14:30:41.0000000Z"
-    },
-    {
-      "id": "tomshw:3d49b7273705",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Il nuovo handheld ONEXPlayer costa quanto un notebook gaming",
-      "url": "https://www.tomshw.it/hardware/onexplayer-lancia-una-console-portatile-da-2499-dollari",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109568/onexplayer-lancia-una-console-portatile-da-2-499-dollari.png",
-      "summary": "ONEXPlayer ha aperto i preordini della ONEXPlayer X2 Mini Pro, console portatile basata su hardware AMD Strix Halo e proposta a partire da 2.499 dollari. Il prezzo della configurazione d'ingresso coll...",
-      "date": "2026-08-25T14:29:19.0000000Z"
-    },
-    {
       "id": "dday:4047d04e3615",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -277,18 +277,6 @@
       "image": null,
       "summary": "",
       "date": "2026-08-25T14:17:00.0000000Z"
-    },
-    {
-      "id": "tomshw:b7ff483002b8",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Tutte le novità di NVIDIA alla Gamescom 2026",
-      "url": "https://www.tomshw.it/videogioco/nvidia-gamescom-2026",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109573/IMG_2187.jpg",
-      "summary": "Alla Gamescom 2026 NVIDIA ha presentato una strategia che mette l’intelligenza artificiale al centro di praticamente ogni elemento dell’esperienza videoludica. Dal rendering al comportamen...",
-      "date": "2026-08-25T14:13:22.0000000Z"
     },
     {
       "id": "dday:eface52885f2",
@@ -339,6 +327,18 @@
       "date": "2026-08-25T13:00:00.0000000Z"
     },
     {
+      "id": "tomshw:04ac304c297a",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Migliori smartphone sotto i 200€ (agosto 2026)",
+      "url": "https://www.tomshw.it/smartphone/migliori-smartphone-100-200-euro",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90402/migliori-smartphone-sotto-200-euro-copertina.jpg",
+      "summary": "Comprare uno smartphone valido senza superare i 200 euro nel 2026 è molto meno complicato di qualche anno fa. La fascia entry-level resta piena di compromessi, ma oggi è possibile trovare modelli ada...",
+      "date": "2026-08-25T11:24:06.0000000Z"
+    },
+    {
       "id": "dday:65953b0979ac",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -361,18 +361,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/04/90401/migliori-console-portatili-copertina.png",
       "summary": "Nel 2026 il mercato delle console portatili è molto più maturo di quanto fosse solo pochi anni fa. Oggi convivono tre mondi diversi: handheld PC pensati per Steam e store multipli, console ibride con...",
       "date": "2026-08-25T11:16:24.0000000Z"
-    },
-    {
-      "id": "tomshw:8818c9a7272d",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Il mercato del lavoro sempre più chiuso per i giovani (sì, c'entra l'AI)",
-      "url": "https://www.tomshw.it/business/il-mercato-del-lavoro-sempre-piu-chiuso-per-i-giovani-si-centra-lai",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109442/02-stanford-entry-level-cover-web.jpg",
-      "summary": "Chi ha tra 22 e 25 anni e lavora in un ruolo dove l'intelligenza artificiale sostituisce le mansioni umane risulta occupato il 19% in meno di quanto succederebbe se le assunzioni avessero tenuto il pa...",
-      "date": "2026-08-25T11:15:06.0000000Z"
     },
     {
       "id": "dday:7fc0d41d9f63",
@@ -446,6 +434,18 @@
       "summary": "",
       "videoId": "fLsZtRRAsXU",
       "date": "2026-08-24T20:03:16.0000000Z"
+    },
+    {
+      "id": "tomshw:7d673c5224a9",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Costruire un'azienda potenziata dall'AI: la base da mettere prima dei tool",
+      "url": "https://www.tomshw.it/aioperator/costruire-un-azienda-potenziata-dall-ai-la-base-da-mettere-prima-dei-tool",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109099/04-aipw1-cover.jpg",
+      "summary": "Il 16,4% delle imprese attive in Italia con almeno dieci addetti usa strumenti di intelligenza artificiale nel 2025, il doppio dell'8,2% di un anno prima, secondo l'ultima rilevazione Istat sulle impr...",
+      "date": "2026-08-24T10:50:51.0000000Z"
     },
     {
       "id": "techprincess:Q4u5gSuDpF8",

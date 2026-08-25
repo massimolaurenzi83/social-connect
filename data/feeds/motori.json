@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-25T15:53:31.4636061Z",
+  "updated": "2026-08-25T16:30:40.5104748Z",
   "items": [
+    {
+      "id": "hdmotori:5cec30ec2d78",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Lancia Delta S4, ribaltamento fatale: il tragico incidente di Stra",
+      "url": "https://www.hdmotori.it/lancia-delta-s4-incidente-stra/",
+      "image": null,
+      "summary": "Non è stato un incidente di rally. Mirco Celin ha perso la vita a 35 anni in un crash stradale a bordo di una Lancia Delta S4 The post Lancia Delta S4, ribaltamento fatale: il tragico incidente di Stra appeared first ...",
+      "date": "2026-08-25T16:00:12.0000000Z"
+    },
+    {
+      "id": "vaielettrico:0ea297c19485",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuovo Askoll per Cooltra in arrivo a settembre",
+      "url": "https://www.vaielettrico.it/nuovo-askoll-per-cooltra-in-arrivo-a-settembre/",
+      "image": null,
+      "summary": "Nuovo Askoll per Cooltra in arrivo a settembre: la flotta del leader nello sharing si rinnova con uno… L'articolo Nuovo Askoll per Cooltra in arrivo a settembre proviene da Vaielettrico .",
+      "date": "2026-08-25T15:54:46.0000000Z"
+    },
     {
       "id": "hdmotori:db53f2ce8c42",
       "sourceId": "hdmotori",
@@ -87,18 +111,6 @@
       "date": "2026-08-25T14:00:37.0000000Z"
     },
     {
-      "id": "insideevs:fd5bfd548a4c",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "C'è una batteria che funziona meglio quando fa freddo",
-      "url": "https://insideevs.it/news/806032/batteria-auto-elettriche-freddo/",
-      "image": "https://cdn.motor1.com/images/mgl/g4OYPm/s3/batterie-per-auto-elettriche-la-tecnologia-che-sfida-il-freddo.jpg",
-      "summary": "Addionics presenta collettori di corrente tridimensionali pensati per ridurre il calo di prestazioni alle basse temperature",
-      "date": "2026-08-25T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:b3869d815f5f",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -108,6 +120,18 @@
       "url": "https://it.motor1.com/news/805990/mitsubishi-robot-umanoidi-fabbrica-personale/",
       "image": "https://cdn.motor1.com/images/mgl/Oo9kbL/s3/i-robot-umanoidi-arrivano-nelle-fabbriche-mitsubishi.jpg",
       "summary": "Umanoidi con intelligenza artificiale saranno testati in uno stabilimento per affiancare gli operai specializzati",
+      "date": "2026-08-25T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:fd5bfd548a4c",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "C'è una batteria che funziona meglio quando fa freddo",
+      "url": "https://insideevs.it/news/806032/batteria-auto-elettriche-freddo/",
+      "image": "https://cdn.motor1.com/images/mgl/g4OYPm/s3/batterie-per-auto-elettriche-la-tecnologia-che-sfida-il-freddo.jpg",
+      "summary": "Addionics presenta collettori di corrente tridimensionali pensati per ridurre il calo di prestazioni alle basse temperature",
       "date": "2026-08-25T14:00:00.0000000Z"
     },
     {
@@ -123,18 +147,6 @@
       "date": "2026-08-25T13:00:48.0000000Z"
     },
     {
-      "id": "motor1:cb64de81e32c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Suzuki e Sky è la piccola giapponese che fa di più con meno",
-      "url": "https://it.motor1.com/news/805987/suzuki-e-sky-debutto/",
-      "image": "https://cdn.motor1.com/images/mgl/BXZjQR/s3/2026-suzuki-e-sky.jpg",
-      "summary": "La minuscola EV di Suzuki ha una batteria piccola per mantenere l'auto il più leggera possibile",
-      "date": "2026-08-25T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:85a87228791b",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -144,6 +156,18 @@
       "url": "https://insideevs.it/news/806021/camion-minerario-elettrico-zijin-longking/",
       "image": "https://cdn.motor1.com/images/mgl/MkgBqn/s3/ca7ca7042aa443219c2c1a0abdef4ed6.jpg",
       "summary": "Il mezzo cinese punta su una batteria da 1.400 kWh e ricarica 10-90% in 25 minuti per lavorare a ciclo quasi continuo",
+      "date": "2026-08-25T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:cb64de81e32c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Suzuki e Sky è la piccola giapponese che fa di più con meno",
+      "url": "https://it.motor1.com/news/805987/suzuki-e-sky-debutto/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZjQR/s3/2026-suzuki-e-sky.jpg",
+      "summary": "La minuscola EV di Suzuki ha una batteria piccola per mantenere l'auto il più leggera possibile",
       "date": "2026-08-25T13:00:00.0000000Z"
     },
     {
@@ -183,18 +207,6 @@
       "date": "2026-08-25T12:00:00.0000000Z"
     },
     {
-      "id": "motor1:c81c487eeda6",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Schermi touch in auto, tra regole attuali e riforma del Codice",
-      "url": "https://it.motor1.com/news/805892/schermi-touch-auto-codice-strada/",
-      "image": "https://cdn.motor1.com/images/mgl/7ZEnQ7/s3/abitacolo-futuristico-e-schermi-touch.jpg",
-      "summary": "Tra riforma del Codice, norme UE e scelte dei costruttori, gli abitacoli digitali fanno i conti con regole sulla distrazione al volante",
-      "date": "2026-08-25T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:2e28e337e011",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -204,6 +216,18 @@
       "url": "https://insideevs.it/news/805970/stop-supercar-elettrica-cinese-dreame/",
       "image": "https://cdn.motor1.com/images/mgl/g4OPeN/s3/dreame-nebula-next-01.jpg",
       "summary": "L'azienda cinese abbandona la Nebula Next 01 Jet Edition: pare che il progetto fosse pubblicità finalizzata alla raccolta fondi",
+      "date": "2026-08-25T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:c81c487eeda6",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Schermi touch in auto, tra regole attuali e riforma del Codice",
+      "url": "https://it.motor1.com/news/805892/schermi-touch-auto-codice-strada/",
+      "image": "https://cdn.motor1.com/images/mgl/7ZEnQ7/s3/abitacolo-futuristico-e-schermi-touch.jpg",
+      "summary": "Tra riforma del Codice, norme UE e scelte dei costruttori, gli abitacoli digitali fanno i conti con regole sulla distrazione al volante",
       "date": "2026-08-25T11:00:00.0000000Z"
     },
     {
@@ -267,18 +291,6 @@
       "date": "2026-08-25T09:00:42.0000000Z"
     },
     {
-      "id": "motor1:acf60e64b877",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le nuove ibride di Volvo si guideranno come auto elettriche",
-      "url": "https://it.motor1.com/news/805954/volvo-ibride-plug-in-nuove/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZwqWX/s3/volvo-xc60-update.jpg",
-      "summary": "I nuovi modelli ibridi del brand svedese avranno batterie più grandi: si parte con la XC70 da 200 km di autonomia EV",
-      "date": "2026-08-25T09:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:44d95b79dcd6",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -288,6 +300,18 @@
       "url": "https://insideevs.it/news/805853/manganese-accelerare-degrado-batterie/",
       "image": "https://cdn.motor1.com/images/mgl/7ZEnPA/s3/struttura-di-una-batteria-agli-ioni-di-litio.jpg",
       "summary": "Uno studio coreano rivela che l'esposizione all'aria può provocare ossidazione del manganese. Ma c'è una soluzione",
+      "date": "2026-08-25T09:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:acf60e64b877",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le nuove ibride di Volvo si guideranno come auto elettriche",
+      "url": "https://it.motor1.com/news/805954/volvo-ibride-plug-in-nuove/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZwqWX/s3/volvo-xc60-update.jpg",
+      "summary": "I nuovi modelli ibridi del brand svedese avranno batterie più grandi: si parte con la XC70 da 200 km di autonomia EV",
       "date": "2026-08-25T09:00:00.0000000Z"
     },
     {
@@ -315,18 +339,6 @@
       "date": "2026-08-25T08:30:00.0000000Z"
     },
     {
-      "id": "hdmotori:fc5975d8857a",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Alfa Romeo da 30 milioni scomparsa: il caso arriva al Ministero",
-      "url": "https://www.hdmotori.it/alfa-romeo-30-milioni-scomparsa-ministero/",
-      "image": null,
-      "summary": "La Procura di Milano sta indagando sull’Alfa Romeo 33 Stradale scomparsa nel nulla. I legali degli eredi del proprietario hanno fatto un appello al Ministero della Cultura. The post Alfa Romeo da 30 milioni scomparsa:...",
-      "date": "2026-08-25T08:00:41.0000000Z"
-    },
-    {
       "id": "motor1:516007b778f2",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -339,18 +351,6 @@
       "date": "2026-08-25T08:00:00.0000000Z"
     },
     {
-      "id": "motor1:723aa3b14e4d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Allarme automotive: mancano gli specialisti del futuro",
-      "url": "https://it.motor1.com/features/805906/crisi-professioni-mondo-automotive/",
-      "image": "https://cdn.motor1.com/images/mgl/6Z8LoX/s3/l-automotive-e-le-sue-professioni-cambiano.jpg",
-      "summary": "Il settore Automotive italiano affronta la transizione elettrica e digitale tra nuove competenze difficili da reperire e valorizzazione delle risorse interne",
-      "date": "2026-08-25T07:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:666980fbbe8e",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -360,6 +360,18 @@
       "url": "https://insideevs.it/news/805951/mercedes-cla-350-4matic-autonomia/",
       "image": "https://cdn.motor1.com/images/mgl/rKJmG9/s3/2026-mercedes-cla-ev-review.jpg",
       "summary": "La nuova Mercedes elettrica si è avvicinata a 640 km in un recente test di autonomia a 113 km/h",
+      "date": "2026-08-25T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:723aa3b14e4d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Allarme automotive: mancano gli specialisti del futuro",
+      "url": "https://it.motor1.com/features/805906/crisi-professioni-mondo-automotive/",
+      "image": "https://cdn.motor1.com/images/mgl/6Z8LoX/s3/l-automotive-e-le-sue-professioni-cambiano.jpg",
+      "summary": "Il settore Automotive italiano affronta la transizione elettrica e digitale tra nuove competenze difficili da reperire e valorizzazione delle risorse interne",
       "date": "2026-08-25T07:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/G3QLr8/s3/mahle-electric-truck-range-extender.jpg",
       "summary": "Sviluppato da Mahle come modulo tutto-in-uno, porta l'autonomia a 800 km",
       "date": "2026-08-24T09:30:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:34332fd1e794",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ricariche nei centri commerciali, questo serve",
-      "url": "https://www.vaielettrico.it/ricariche-nei-centri-commerciali-questo-serve/",
-      "image": null,
-      "summary": "Ricariche nei centri commerciali, questo serve per supportare chi non può rifornirsi a casa o al lavoro. È la… L'articolo Ricariche nei centri commerciali, questo serve proviene da Vaielettrico .",
-      "date": "2026-08-24T09:18:28.0000000Z"
     }
   ]
 }
