@@ -1,6 +1,6 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-25T18:17:57.6950799Z",
+  "updated": "2026-08-25T19:05:06.4142248Z",
   "items": [
     {
       "id": "tomshw:de9111495ffa",
@@ -8,11 +8,11 @@
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Le novità di ASUS ROG alla Gamescom 2026, puntano tutto su eSport e prestazioni",
+      "title": "ASUS ROG sposa l’eSport a Gamescom 2026: tutte le novità",
       "url": "https://www.tomshw.it/videogioco/le-novita-di-asus-rog-alla-gamescom-2026-puntano-tutto-su-esport-e-prestazioni",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/109609/WhatsApp-Image-2026-08-25-at-19-22-40-(2).jpg",
       "summary": "L’area che ASUS ROG ha allestito per la Gamescom 2026 quest’anno vuole raccontare una sotria diversa dal solito, che non parla solo della potenza bruta dell'hardware, ma vuole spiegare l&r...",
-      "date": "2026-08-25T18:11:01.0000000Z"
+      "date": "2026-08-25T18:24:45.0000000Z"
     },
     {
       "id": "hdblog:974cdea2ec76",
@@ -25,6 +25,18 @@
       "image": null,
       "summary": "Un ricercatore ha osservato che il traffico delle pagine prodotto delle DDR5 di un rivenditore tedesco è generato per oltre il 90% da bot e software automatici.",
       "date": "2026-08-25T18:05:00.0000000Z"
+    },
+    {
+      "id": "tomshw:6cec96fc8b2f",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Xiaomi Redmi Note 15 Pro 5G a 299,32€, 6.580 mAh per stare lontano dalla presa",
+      "url": "https://www.tomshw.it/offerte/xiaomi-redmi-note-15-pro-5g-a-29932eur-6580-mah-per-stare-lontano-dalla-presa",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109623/tomshw-offer-932489.png",
+      "summary": "A 299,32€ su Amazon, Xiaomi Redmi Note 15 Pro 5G fa risparmiare 80,58€ sul listino di 379,90€, con uno sconto del 21%. La batteria da 6.580 mAh e la ricarica da 45W lo rendono particolarmente interess...",
+      "date": "2026-08-25T18:04:55.0000000Z"
     },
     {
       "id": "hdblog:5a224498b62d",
@@ -207,18 +219,6 @@
       "date": "2026-08-25T15:58:00.0000000Z"
     },
     {
-      "id": "tomshw:362b95664468",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Garmin fēnix 9: ecco i nuovi smartwatch, prezzo e data d’uscita",
-      "url": "https://www.tomshw.it/smartphone/garmin-fenix-9-e-fenix-9-pro-fino-a-57-giorni-di",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109601/IMG_0757.jpg",
-      "summary": "Fino a 57 giorni di autonomia, un display AMOLED più luminoso e comunicazioni satellitari su alcune configurazioni definiscono i nuovi Garmin fēnix 9 e fēnix 9 Pro, presentati ufficialmente il 25 agos...",
-      "date": "2026-08-25T15:54:47.0000000Z"
-    },
-    {
       "id": "dday:5c329fadf845",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -339,6 +339,18 @@
       "date": "2026-08-25T11:20:00.0000000Z"
     },
     {
+      "id": "tomshw:b28292f8967f",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "I data center ingolfano la rete elettrica italiana di richieste (quasi tutte finte)",
+      "url": "https://www.tomshw.it/business/i-data-center-ingolfano-la-rete-elettrica-italiana-di-richieste-quasi-tutte-finte",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109445/05-terna-data-center-95gw-cover-web.jpg",
+      "summary": "Il 21 agosto 2026 risultavano 531 domande di connessione alla rete elettrica per data center in attesa di una risposta da Terna, per un totale di 95,38 GW. È una richiesta vicina alla potenza compless...",
+      "date": "2026-08-25T11:15:06.0000000Z"
+    },
+    {
       "id": "tomshw:3c4020e79332",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -351,15 +363,15 @@
       "date": "2026-08-25T11:15:06.0000000Z"
     },
     {
-      "id": "tomshw:b28292f8967f",
+      "id": "tomshw:658cb5d690c6",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "I data center ingolfano la rete elettrica italiana di richieste (quasi tutte finte)",
-      "url": "https://www.tomshw.it/business/i-data-center-ingolfano-la-rete-elettrica-italiana-di-richieste-quasi-tutte-finte",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109445/05-terna-data-center-95gw-cover-web.jpg",
-      "summary": "Il 21 agosto 2026 risultavano 531 domande di connessione alla rete elettrica per data center in attesa di una risposta da Terna, per un totale di 95,38 GW. È una richiesta vicina alla potenza compless...",
+      "title": "L'AI di Anthropic finge di pentirsi e piazza malware in un progetto open source",
+      "url": "https://www.tomshw.it/business/lai-di-anthropic-finge-di-pentirsi-e-piazza-malware-in-un-progetto-open-source",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109446/06-anthropic-mythos-malware-cover-web.jpg",
+      "summary": "Durante un test di sicurezza andato in scena tra il 25 e il 28 luglio 2026, l'agente Mythos 5 di Anthropic ha abbandonato il proprio bersaglio simulato ed è finito su un repository GitHub reale, il cu...",
       "date": "2026-08-25T11:15:06.0000000Z"
     },
     {
@@ -434,18 +446,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/08/109249/meglio-comprare-iphone-17-pro-ora-o-aspettare-iphone-18-pro.png",
       "summary": "A fine agosto 2026, iPhone 17 Pro è disponibile in Italia e si trova a un prezzo sensibilmente inferiore rispetto al listino di lancio. iPhone 18 Pro, invece, non è stato annunciato: la finestra di se...",
       "date": "2026-08-24T14:04:12.0000000Z"
-    },
-    {
-      "id": "tomshw:7d673c5224a9",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Costruire un'azienda potenziata dall'AI: la base da mettere prima dei tool",
-      "url": "https://www.tomshw.it/aioperator/costruire-un-azienda-potenziata-dall-ai-la-base-da-mettere-prima-dei-tool",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109099/04-aipw1-cover.jpg",
-      "summary": "Il 16,4% delle imprese attive in Italia con almeno dieci addetti usa strumenti di intelligenza artificiale nel 2025, il doppio dell'8,2% di un anno prima, secondo l'ultima rilevazione Istat sulle impr...",
-      "date": "2026-08-24T10:50:51.0000000Z"
     },
     {
       "id": "techprincess:Q4u5gSuDpF8",
