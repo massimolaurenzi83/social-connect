@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-25T16:30:40.5104748Z",
+  "updated": "2026-08-25T17:09:30.3591685Z",
   "items": [
+    {
+      "id": "hdmotori:d0c3a89e0e58",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "CATL, ora le batterie si comprano online come “cibo a domicilio”",
+      "url": "https://www.hdmotori.it/catl-mall-vendita-online-batterie-lfp/",
+      "image": null,
+      "summary": "CATL lancia la piattaforma B2B CATL Mall: celle LFP e moduli d'accumulo venduti direttamente online senza intermediari, con garanzia di 5 anni The post CATL, ora le batterie si comprano online come “cibo a domicilio” ...",
+      "date": "2026-08-25T17:00:09.0000000Z"
+    },
+    {
+      "id": "motor1:49b7ca8e74b3",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Renault 5 ha più autonomia e nuove personalizzazioni",
+      "url": "https://it.motor1.com/news/806038/renault-5-e-tech-aggiornamento-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/7ZEn0J/s3/renault-5-e-tech-l-aggiornamento-2026.jpg",
+      "summary": "Aggiornamento su diversi fronti per la compatta francese, che percorre ora fino a 430 km con una carica",
+      "date": "2026-08-25T16:30:00.0000000Z"
+    },
     {
       "id": "hdmotori:5cec30ec2d78",
       "sourceId": "hdmotori",
@@ -147,18 +171,6 @@
       "date": "2026-08-25T13:00:48.0000000Z"
     },
     {
-      "id": "insideevs:85a87228791b",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il camion gigante si ricarica in 25 minuti e lavora in miniera",
-      "url": "https://insideevs.it/news/806021/camion-minerario-elettrico-zijin-longking/",
-      "image": "https://cdn.motor1.com/images/mgl/MkgBqn/s3/ca7ca7042aa443219c2c1a0abdef4ed6.jpg",
-      "summary": "Il mezzo cinese punta su una batteria da 1.400 kWh e ricarica 10-90% in 25 minuti per lavorare a ciclo quasi continuo",
-      "date": "2026-08-25T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:cb64de81e32c",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -168,6 +180,18 @@
       "url": "https://it.motor1.com/news/805987/suzuki-e-sky-debutto/",
       "image": "https://cdn.motor1.com/images/mgl/BXZjQR/s3/2026-suzuki-e-sky.jpg",
       "summary": "La minuscola EV di Suzuki ha una batteria piccola per mantenere l'auto il più leggera possibile",
+      "date": "2026-08-25T13:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:85a87228791b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il camion gigante si ricarica in 25 minuti e lavora in miniera",
+      "url": "https://insideevs.it/news/806021/camion-minerario-elettrico-zijin-longking/",
+      "image": "https://cdn.motor1.com/images/mgl/MkgBqn/s3/ca7ca7042aa443219c2c1a0abdef4ed6.jpg",
+      "summary": "Il mezzo cinese punta su una batteria da 1.400 kWh e ricarica 10-90% in 25 minuti per lavorare a ciclo quasi continuo",
       "date": "2026-08-25T13:00:00.0000000Z"
     },
     {
@@ -207,18 +231,6 @@
       "date": "2026-08-25T12:00:00.0000000Z"
     },
     {
-      "id": "insideevs:2e28e337e011",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Stop alla supercar elettrica: perché Dreame torna agli aspirapolveri",
-      "url": "https://insideevs.it/news/805970/stop-supercar-elettrica-cinese-dreame/",
-      "image": "https://cdn.motor1.com/images/mgl/g4OPeN/s3/dreame-nebula-next-01.jpg",
-      "summary": "L'azienda cinese abbandona la Nebula Next 01 Jet Edition: pare che il progetto fosse pubblicità finalizzata alla raccolta fondi",
-      "date": "2026-08-25T11:00:00.0000000Z"
-    },
-    {
       "id": "motor1:c81c487eeda6",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -228,6 +240,18 @@
       "url": "https://it.motor1.com/news/805892/schermi-touch-auto-codice-strada/",
       "image": "https://cdn.motor1.com/images/mgl/7ZEnQ7/s3/abitacolo-futuristico-e-schermi-touch.jpg",
       "summary": "Tra riforma del Codice, norme UE e scelte dei costruttori, gli abitacoli digitali fanno i conti con regole sulla distrazione al volante",
+      "date": "2026-08-25T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:2e28e337e011",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Stop alla supercar elettrica: perché Dreame torna agli aspirapolveri",
+      "url": "https://insideevs.it/news/805970/stop-supercar-elettrica-cinese-dreame/",
+      "image": "https://cdn.motor1.com/images/mgl/g4OPeN/s3/dreame-nebula-next-01.jpg",
+      "summary": "L'azienda cinese abbandona la Nebula Next 01 Jet Edition: pare che il progetto fosse pubblicità finalizzata alla raccolta fondi",
       "date": "2026-08-25T11:00:00.0000000Z"
     },
     {
@@ -327,18 +351,6 @@
       "date": "2026-08-25T08:36:52.0000000Z"
     },
     {
-      "id": "hdmotori:4fd5c89dc08c",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Chery diventa official automotive partner della Lega Serie B",
-      "url": "https://www.hdmotori.it/chery-official-automotive-partner-serie-b/",
-      "image": null,
-      "summary": "Il marchio cinese sigla una partnership all’insegna dell’innovazione, della mobilità sostenibile e della valorizzazione dei territori per la stagione 2026/2027. The post Chery diventa official automotive partner della...",
-      "date": "2026-08-25T08:30:00.0000000Z"
-    },
-    {
       "id": "motor1:516007b778f2",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -373,18 +385,6 @@
       "image": "https://cdn.motor1.com/images/mgl/6Z8LoX/s3/l-automotive-e-le-sue-professioni-cambiano.jpg",
       "summary": "Il settore Automotive italiano affronta la transizione elettrica e digitale tra nuove competenze difficili da reperire e valorizzazione delle risorse interne",
       "date": "2026-08-25T07:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:b4df1bf7b336",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volvo FH 100 Year Edition: interni in pelle e luce di benvenuto",
-      "url": "https://it.motor1.com/news/805901/volvo-fh-100-year-edition/",
-      "image": "https://cdn.motor1.com/images/mgl/NGP7gy/s3/volvo-fh-100-years-anniversary.jpg",
-      "summary": "Interni rinnovati, luce di benvenuto e 5 stelle Euro NCAP per la gamma Volvo FH 100 Year Edition disponibile da settembre 2026",
-      "date": "2026-08-25T06:00:00.0000000Z"
     },
     {
       "id": "insideevs:19972c0377b4",
