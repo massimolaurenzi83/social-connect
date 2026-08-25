@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-25T09:58:53.6683810Z",
+  "updated": "2026-08-25T10:41:47.7294454Z",
   "items": [
+    {
+      "id": "ferrovie:af909c9e8375",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Circumvesuviana, lavori nelle gallerie: stop ai treni tra Barra e Torre del Greco per due giorni",
+      "url": "https://www.ferrovie.info/treni-reali/circumvesuviana-lavori-nelle-gallerie-stop-ai-treni-tra-barra-e-torre-del-greco-per-due-giorni.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_etr_300_EAV_Stadler_Rail.jpg",
+      "summary": "Due giorni di stop alla circolazione ferroviaria su una parte della rete Circumvesuviana. Per consentire il completamento dei lavori di adeguamento normativo delle gallerie Bosco di Portici e Cavalli di Bronzo, EAV so...",
+      "date": "2026-08-25T10:16:14.0000000Z"
+    },
     {
       "id": "ferrovie:a9a022e64b45",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10421/normal_Img0328_104.jpg",
       "summary": "Il Tribunale amministrativo federale accoglie i ricorsi delle imprese ferroviarie: l’UFT dovrà riesaminare i provvedimenti introdotti dopo il deragliamento del 2023 nella galleria di base. Il Tribunale amministrativo ...",
       "date": "2026-08-22T12:51:13.0000000Z"
-    },
-    {
-      "id": "ferrovie:0e5f7741ac95",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Treni, lavori e disagi: tutte le modifiche alla circolazione tra Bologna, Milano e il Nord Italia",
-      "url": "https://www.ferrovie.info/treni-reali/treni-lavori-e-disagi-tutte-le-modifiche-alla-circolazione-tra-bologna-milano-e-il-nord-italia.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10529/ETR_521_n_003___ETR_421_n_008.JPG",
-      "summary": "Numerosi cantieri ferroviari interesseranno nelle prossime settimane il nodo di Bologna e diverse linee nazionali e internazionali, con cancellazioni, autobus sostitutivi e variazioni di orario. Settimane di lavori e ...",
-      "date": "2026-08-21T09:59:09.0000000Z"
     }
   ]
 }

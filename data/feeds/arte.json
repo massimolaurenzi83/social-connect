@@ -1,7 +1,19 @@
 {
   "category": "arte",
-  "updated": "2026-08-25T09:58:53.6945513Z",
+  "updated": "2026-08-25T10:41:47.7639428Z",
   "items": [
+    {
+      "id": "elledecor:d5d4a6e65666",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "La nuova livrea della barca a vela di Francesca Clapcich, così il design racconta una sfida oceanica",
+      "url": "https://www.elledecor.com/it/barche-motori/barche/a73370084/barca-a-vela-francesca-clapcich/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/1fae97e3-9000-4a42-aa74-518d0ea347c6.jpg",
+      "summary": "L'IMOCA della velista italiana si presenta con una grafica firmata Van Orton Design e realizzata con il contributo tecnologico di Boero Yacht Coatings",
+      "date": "2026-08-25T10:00:00.0000000Z"
+    },
     {
       "id": "artribune:1c2a52e3ec9e",
       "sourceId": "artribune",
@@ -159,18 +171,6 @@
       "date": "2026-08-24T13:28:00.0000000Z"
     },
     {
-      "id": "artribune:e38ec93960b6",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Non solo Sagrada Familia: 5 architetture dimenticate di Antoni Gaudí",
-      "url": "https://www.artribune.com/dal-mondo/2026/08/antoni-gaudi-architetture-dimenticate-spagna/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/unknown-gaudi-gothic-barcelona-leondezeen2364col1.jpg",
-      "summary": "Sparsi tra Barcellona, León, Astorga e Sitges, questi progetti raccontano un Gaudí ancora in fase di sperimentazione, impegnato a rileggere l'architettura gotica per trasformarla in un terreno di ricerca L’articolo \" ...",
-      "date": "2026-08-24T13:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:d101bbaf0085",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -180,6 +180,18 @@
       "url": "https://www.elledecor.com/it/lifestyle/a73412887/scoperta-cripta-nascosta-in-chiesa-medioevale/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/b38cf236-4eb6-4016-b76e-1c4c0995e702.jpeg",
       "summary": "A Digione, il cantiere di Saint-Philibert ha rivelato sepolture medievali, tombe a lastra e sei sarcofagi che risalgono fino alla Tarda Antichità",
+      "date": "2026-08-24T13:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:e38ec93960b6",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Non solo Sagrada Familia: 5 architetture dimenticate di Antoni Gaudí",
+      "url": "https://www.artribune.com/dal-mondo/2026/08/antoni-gaudi-architetture-dimenticate-spagna/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/unknown-gaudi-gothic-barcelona-leondezeen2364col1.jpg",
+      "summary": "Sparsi tra Barcellona, León, Astorga e Sitges, questi progetti raccontano un Gaudí ancora in fase di sperimentazione, impegnato a rileggere l'architettura gotica per trasformarla in un terreno di ricerca L’articolo \" ...",
       "date": "2026-08-24T13:00:00.0000000Z"
     },
     {
@@ -253,18 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/16aa3744-3459-4bc9-9cfd-582753fe207d.jpeg",
       "summary": "L'avoska è la borsa pieghevole, leggerissima e resistente, che ha attraversato il Novecento passando dai mercati sovietici alle boutique di moda",
       "date": "2026-08-24T07:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:a2d8a2b6ac8e",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Una masseria fortificata in Puglia, ricca di storia e amata dai re, è in vendita",
-      "url": "https://www.elledecor.com/it/case/a73385521/vendita-masseria-antica-puglia/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/460ce8ed-07ef-4c10-af06-e95603fc8292.jpg",
-      "summary": "Un’antica masseria fortificata nella Riserva Naturale di Torre Guaceto, che ha ospitato nobili e sovrani, è ora in cerca di un nuovo proprietario",
-      "date": "2026-08-24T06:00:00.0000000Z"
     }
   ]
 }
