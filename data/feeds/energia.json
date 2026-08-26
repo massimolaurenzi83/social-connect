@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-26T09:01:58.6228589Z",
+  "updated": "2026-08-26T09:53:37.9997787Z",
   "items": [
+    {
+      "id": "qualenergia:f642e578cdf6",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Regno Unito, dal 2028 tassa al chilometro sulle auto elettriche",
+      "url": "https://www.qualenergia.it/articoli/regno-unito-dal-2028-tassa-chilometro-auto-elettriche/",
+      "image": null,
+      "summary": "Dal 1° aprile 2028 gli automobilisti britannici che guidano un’auto elettrica pagheranno una tassa in base alla distanza percorsa. Il Governo introdurrà infatti la Electric Vehicle Excise Duty (eVED), un prelievo che ...",
+      "date": "2026-08-26T09:30:20.0000000Z"
+    },
     {
       "id": "qualenergia:63bdafa56d54",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Secondo la Commissione europea la tassazione degli extraprofitti è una competenza dei Paesi membri, che possono agire sulla base della propria legislazione. Questa la posizione data ieri (24 agosto) da Bruxelles trami...",
       "date": "2026-08-25T13:30:29.0000000Z"
-    },
-    {
-      "id": "qualenergia:dc4be70f86fb",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Il piano dell’Austria: meno incentivi al fotovoltaico e più alla flessibilità",
-      "url": "https://www.qualenergia.it/articoli/piano-austria-meno-incentivi-fotovoltaico-piu-flessibilita/",
-      "image": null,
-      "summary": "L’Austria prepara un cambio di rotta negli incentivi alle rinnovabili: meno sostegno generalizzato ai piccoli impianti fotovoltaici e più risorse per batterie, sistemi intelligenti di gestione dell’energia e soluzioni...",
-      "date": "2026-08-25T09:30:27.0000000Z"
     }
   ]
 }
