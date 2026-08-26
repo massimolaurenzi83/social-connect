@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-26T05:07:17.4235694Z",
+  "updated": "2026-08-26T05:48:48.7352088Z",
   "items": [
+    {
+      "id": "insideevs:68822b1eee1a",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Chevrolet Bolt 2027: come va l'auto elettrica più economica d'America",
+      "url": "https://insideevs.it/reviews/805975/chevrolet-bolt-2027-prova-strada/",
+      "image": "https://cdn.motor1.com/images/mgl/Mkgr2Y/s3/2027-chevy-bolt-ev-review.jpg",
+      "summary": "Piccola e venduta a un prezzo accessibile, si dimostra una buona vettura. Ma agli americani non piace: ecco perché",
+      "date": "2026-08-26T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:7caec627e424",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BYD Atto 2 ibrida plug-in (2026), la prova dei consumi reali",
+      "url": "https://it.motor1.com/reviews/805863/byd-atto-2-ibrida-plug-in-2026-consumi/",
+      "image": "https://cdn.motor1.com/images/mgl/YAz8b0/s3/byd-atto-2-ibrida-plug-in-2026-la-prova-consumi.jpg",
+      "summary": "Della BYD Atto 2 DM-i mi è piaciuta l'ottima dotazione, il comfort di viaggio, i bassi consumi fuori città e l'autonomia elettrica",
+      "date": "2026-08-26T05:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:5a224498b62d",
       "sourceId": "hdmotori",
@@ -147,18 +171,6 @@
       "date": "2026-08-25T14:00:37.0000000Z"
     },
     {
-      "id": "motor1:b3869d815f5f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questi robot camminano e montano motori: ecco dove",
-      "url": "https://it.motor1.com/news/805990/mitsubishi-robot-umanoidi-fabbrica-personale/",
-      "image": "https://cdn.motor1.com/images/mgl/Oo9kbL/s3/i-robot-umanoidi-arrivano-nelle-fabbriche-mitsubishi.jpg",
-      "summary": "Umanoidi con intelligenza artificiale saranno testati in uno stabilimento per affiancare gli operai specializzati",
-      "date": "2026-08-25T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:fd5bfd548a4c",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -168,6 +180,18 @@
       "url": "https://insideevs.it/news/806032/batteria-auto-elettriche-freddo/",
       "image": "https://cdn.motor1.com/images/mgl/g4OYPm/s3/batterie-per-auto-elettriche-la-tecnologia-che-sfida-il-freddo.jpg",
       "summary": "Addionics presenta collettori di corrente tridimensionali pensati per ridurre il calo di prestazioni alle basse temperature",
+      "date": "2026-08-25T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:b3869d815f5f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questi robot camminano e montano motori: ecco dove",
+      "url": "https://it.motor1.com/news/805990/mitsubishi-robot-umanoidi-fabbrica-personale/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo9kbL/s3/i-robot-umanoidi-arrivano-nelle-fabbriche-mitsubishi.jpg",
+      "summary": "Umanoidi con intelligenza artificiale saranno testati in uno stabilimento per affiancare gli operai specializzati",
       "date": "2026-08-25T14:00:00.0000000Z"
     },
     {
@@ -183,18 +207,6 @@
       "date": "2026-08-25T13:00:48.0000000Z"
     },
     {
-      "id": "motor1:cb64de81e32c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Suzuki e Sky è la piccola giapponese che fa di più con meno",
-      "url": "https://it.motor1.com/news/805987/suzuki-e-sky-debutto/",
-      "image": "https://cdn.motor1.com/images/mgl/BXZjQR/s3/2026-suzuki-e-sky.jpg",
-      "summary": "La minuscola EV di Suzuki ha una batteria piccola per mantenere l'auto il più leggera possibile",
-      "date": "2026-08-25T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:85a87228791b",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -207,6 +219,18 @@
       "date": "2026-08-25T13:00:00.0000000Z"
     },
     {
+      "id": "motor1:cb64de81e32c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Suzuki e Sky è la piccola giapponese che fa di più con meno",
+      "url": "https://it.motor1.com/news/805987/suzuki-e-sky-debutto/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZjQR/s3/2026-suzuki-e-sky.jpg",
+      "summary": "La minuscola EV di Suzuki ha una batteria piccola per mantenere l'auto il più leggera possibile",
+      "date": "2026-08-25T13:00:00.0000000Z"
+    },
+    {
       "id": "hdmotori:5293ce1687b7",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -215,7 +239,7 @@
       "title": "Promozioni auto: ecco i modelli con più del 20% di sconto ad agosto 2026",
       "url": "https://www.hdmotori.it/promozioni-auto-sconto-agosto-2026/",
       "image": null,
-      "summary": "Abbiamo raccolto tutte le promozioni auto che ad agosto prevedono uno sconto superiore al 20%. Il prezzo si riduce, ma attenzione ai vincoli. The post Promozioni auto: ecco i modelli con più del 20% di sconto ad agost...",
+      "summary": "Abbiamo raccolto tutte le promozioni auto che ad agosto prevedono uno sconto superiore al 20%. Il prezzo si riduce, ma attenzione alle condizioni vincolanti. The post Promozioni auto: ecco i modelli con più del 20% di...",
       "date": "2026-08-25T12:30:03.0000000Z"
     },
     {
@@ -375,18 +399,6 @@
       "date": "2026-08-25T07:00:00.0000000Z"
     },
     {
-      "id": "motor1:723aa3b14e4d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Allarme automotive: mancano gli specialisti del futuro",
-      "url": "https://it.motor1.com/features/805906/crisi-professioni-mondo-automotive/",
-      "image": "https://cdn.motor1.com/images/mgl/6Z8LoX/s3/l-automotive-e-le-sue-professioni-cambiano.jpg",
-      "summary": "Il settore Automotive italiano affronta la transizione elettrica e digitale tra nuove competenze difficili da reperire e valorizzazione delle risorse interne",
-      "date": "2026-08-25T07:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:19972c0377b4",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/G3QL8Z/s3/lges-battery-plant-lansing-michigan..jpg",
       "summary": "Ho visitato una gigafactory di batterie dove i dirigenti hanno parlato di batterie allo stato solido, ioni di sodio e altro",
       "date": "2026-08-24T11:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:4d4a5c568ac0",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questo range extender per camion elettrici usa anche biocarburanti",
-      "url": "https://insideevs.it/news/805832/motore-range-extender-mahle-camion-elettrici/",
-      "image": "https://cdn.motor1.com/images/mgl/G3QLr8/s3/mahle-electric-truck-range-extender.jpg",
-      "summary": "Sviluppato da Mahle come modulo tutto-in-uno, porta l'autonomia a 800 km",
-      "date": "2026-08-24T09:30:00.0000000Z"
     }
   ]
 }

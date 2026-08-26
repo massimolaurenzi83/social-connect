@@ -1,7 +1,31 @@
 {
   "category": "tecnologia",
-  "updated": "2026-08-26T05:07:17.3995733Z",
+  "updated": "2026-08-26T05:48:48.7579351Z",
   "items": [
+    {
+      "id": "hdblog:1373cffc74ca",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Instagram fa il montaggio al posto tuo: arriva First Draft",
+      "url": "https://www.hdblog.it/android/articoli/n668386/instagram-taglio-automatico-video-reels/",
+      "image": null,
+      "summary": "First Draft elimina automaticamente pause e silenzi dai video prima del montaggio",
+      "date": "2026-08-26T05:45:00.0000000Z"
+    },
+    {
+      "id": "hdblog:366e5d6d6843",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "NVIDIA App, arriva la DLSS 4.5 Ray Reconstruction alla Gamescom",
+      "url": "https://www.hdblog.it/hardware/articoli/n668373/nvidia-dlss-4-5-ray-reconstruction-app-novita/",
+      "image": null,
+      "summary": "Si può provare fin da subito ma per ora è etichettata come sperimentale.",
+      "date": "2026-08-26T05:35:00.0000000Z"
+    },
     {
       "id": "tomshw:a708436598a1",
       "sourceId": "tomshw",
@@ -243,36 +267,12 @@
       "date": "2026-08-25T16:45:00.0000000Z"
     },
     {
-      "id": "hdblog:b94c6127b8f4",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "LAI ora può mettere alla prova una centrale nucleare prima che accada davvero",
-      "url": "https://www.hdblog.it/green/articoli/n668160/ai-simulatori-nucleari-sicurezza/",
-      "image": null,
-      "summary": "LAI trasforma i simulatori nucleari in laboratori per sicurezza, formazione e progettazione.",
-      "date": "2026-08-25T16:35:00.0000000Z"
-    },
-    {
-      "id": "hdblog:0ce7122d875c",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Wyze Indoor Pan Cam ufficiale: tracking AI migliorato e modalità notturna più efficace",
-      "url": "https://www.hdblog.it/domotica/articoli/n668361/wyze-indoor-pan-cam-specifiche-novita/",
-      "image": null,
-      "summary": "C'è anche una modalità privacy \"fisica\", che sposta il sensore verso l'interno del corpo della videocamera.",
-      "date": "2026-08-25T16:25:00.0000000Z"
-    },
-    {
       "id": "dday:14270cbd2135",
       "sourceId": "dday",
       "source": "DDay.it",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Garmin annuncia fēnix9 and fēnix9 Pro, con prestazioni migliorate e nuova finitura in titanio",
+      "title": "Garmin annuncia fēnix9 e fēnix9 Pro, con prestazioni migliorate e nuova finitura in titanio",
       "url": "https://www.dday.it/redazione/58473/garmin-annuncia-fenix9-and-fenix9-pro-con-prestazioni-migliorate-e-nuova-finitura-in-titanio",
       "image": null,
       "summary": "",
