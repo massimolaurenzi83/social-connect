@@ -1,7 +1,19 @@
 {
   "category": "roma",
-  "updated": "2026-08-26T10:30:43.1528622Z",
+  "updated": "2026-08-26T11:05:12.4421938Z",
   "items": [
+    {
+      "id": "romatoday:b98804ed86c1",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Incendio a Roma, fiamme minacciano il raccordo anulare e il centro commerciale",
+      "url": "https://www.romatoday.it/cronaca/incendio-roma-settebagni-porta-di-roma-oggi-26-agosto-2026.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/44028809060055/incendio-a-porta-di-roma.jpg",
+      "summary": "Sul posto, dalle 11:30, i vigili del fuoco e la protezione civile. Alta la colonna di fumo",
+      "date": "2026-08-26T10:21:43.0000000Z"
+    },
     {
       "id": "romatoday:7fed294671ba",
       "sourceId": "romatoday",
@@ -133,18 +145,6 @@
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/59958397186893/parco-mario-riva-muro.jpg",
       "summary": "Dopo gli interventi sulle alberature del dipartimento Tutela Ambientale, il II municipio ha messo mano a una problematica che rendeva poco sicura la fruizione dell'area verde",
       "date": "2026-08-26T05:54:52.0000000Z"
-    },
-    {
-      "id": "romatoday:b483b60c3211",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Spin Time, il Pd annuncia: \"Saremo al corteo del 19 settembre\". La destra: \"Barzelletta\"",
-      "url": "https://www.romatoday.it/politica/spin-time-pd-aderisce-corteo-19-settembre-2026.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/50906453192002/palazzo-spin-time-lapresse.jpg",
-      "summary": "Il segretario romano Foschi e quello dei Giovani Dem Augenti aderiscono alla manifestazione e ringraziano Gualtieri per la scelta di essere al fianco degli ex occupanti. Ma il capogruppo di FdI li punzecchia",
-      "date": "2026-08-26T05:18:46.0000000Z"
     },
     {
       "id": "roma-repubblica:cfc7e14763b5",

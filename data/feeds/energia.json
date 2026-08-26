@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-26T10:30:43.1831990Z",
+  "updated": "2026-08-26T11:05:12.4197436Z",
   "items": [
+    {
+      "id": "qualenergia:a9d1e053f760",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Celle Lfp cinesi a 50 $/kWh, il litio torna a scendere",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/celle-lfp-cinesi-50-kwh-litio-torna-scendere/",
+      "image": null,
+      "summary": "Il prezzo medio delle celle litio-ferro-fosfato (Lfp) da 280 e 314 Ah per lo storage, tasse comprese, è sceso a luglio in Cina del 4% su base mensile, a 0,360 yuan/Wh. Il carbonato di litio per batterie dovrebbe invec...",
+      "date": "2026-08-26T10:00:49.0000000Z"
+    },
     {
       "id": "qualenergia:f642e578cdf6",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Il rapporto analizza le più recenti tendenze di mercato, investimento e tecnologia nel settore dei minerali critici. Presenta inoltre proiezioni di medio e lungo periodo su domanda e offerta. Gli approfondimenti rigua...",
       "date": "2026-08-26T05:00:09.0000000Z"
-    },
-    {
-      "id": "qualenergia:28c24aba79dc",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "BANDI E APPALTI",
-      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
-      "image": null,
-      "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
-      "date": "2026-08-25T22:25:00.0000000Z"
     }
   ]
 }
