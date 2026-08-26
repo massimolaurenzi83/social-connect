@@ -1,7 +1,43 @@
 {
   "category": "notizie",
-  "updated": "2026-08-26T09:53:37.9933849Z",
+  "updated": "2026-08-26T10:30:43.1794780Z",
   "items": [
+    {
+      "id": "ansa:f550c5ed1da0",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Prezzi dei carburanti ancora in rialzo, alle 18 il Cdm per la proroga del taglio alle accise",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/08/26/mimit-prezzi-carburanti-in-rialzo-benzina-self-a-2017-euro_175d5d3a-cfee-4f2c-9b49-daf2c2dfc20f.html",
+      "image": null,
+      "summary": "Benzina self a 2,017 euro, il gasolio sale a 2,137 euro. Confesercenti: 'Sulle vacanze degli italiani un aggravio di 1,8 miliardi'",
+      "date": "2026-08-26T10:09:56.0000000Z"
+    },
+    {
+      "id": "ansa:5c04bf064d5c",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Tajani: 'Nessuno strappo con gli Usa. Contrarissimo alle tasse sugli extraprofitti, sa di Unione sovietica'",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/08/25/tajani-nessuno-strappo-con-gli-usa-il-legame-prescinde-dai-singoli_045c6738-7c7e-4c0b-b101-7182eff52f55.html",
+      "image": null,
+      "summary": "Al Meeting l'incontro 'La speranza da ri-costruire nella terra dei cedri' con il ministro degli Esteri. La diretta su ANSA.it il 26 agosto alle 13",
+      "date": "2026-08-26T10:07:48.0000000Z"
+    },
+    {
+      "id": "open:2d60ff135326",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Iran, Rubio chiede agli alleati di fermare gli attacchi. Netanyahu: «Impossibile fare un accordo con quei selvaggi» – La diretta",
+      "url": "https://www.open.online/2026/08/26/usa-iran-aggiornamenti-26-agosto/",
+      "image": "https://static.open.online/wp-content/uploads/2026/08/diretta-usa-iran-1.jpg",
+      "summary": "Teheran ai mediatori: «Non ci fidiamo degli Usa». Ma intanto Washington ferma gli attacchi contro la repubblica islamica. Tutti gli aggiornamenti L'articolo Iran, Rubio chiede agli alleati di fermare gli attacchi. Net...",
+      "date": "2026-08-26T10:05:56.0000000Z"
+    },
     {
       "id": "open:a9ca2a23936e",
       "sourceId": "open",
@@ -38,6 +74,30 @@
       "summary": "",
       "videoId": "zWljvhviQyM",
       "date": "2026-08-26T09:40:14.0000000Z"
+    },
+    {
+      "id": "repubblica:af7086c445e4",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Federer: “Quanto mi piacerebbe affrontare Alcaraz. Ma oggi si gioca troppo da fondo campo”",
+      "url": "https://www.repubblica.it/sport/tennis/2026/08/26/news/federer_alcaraz_rovescio_fondocampo-425547836/",
+      "image": null,
+      "summary": "Il fuoriclasse svizzero protagonista a New York di un’esibizione che ha fatto impazzire di gioia il pubblico in tribuna",
+      "date": "2026-08-26T09:38:04.0000000Z"
+    },
+    {
+      "id": "repubblica:14227fdb13df",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Nefertari Mancini, arrestata l’ultima erede della Banda della Magliana: era evasa per il fidanzato",
+      "url": "https://roma.repubblica.it/cronaca/2026/08/26/news/nefertari_mancini_evade_domiciliari_viterbo_ultima_erede_banda_magliana-425547823/",
+      "image": null,
+      "summary": "La 32enne voleva andare al colloquio in carcere con il compagno con un documento falso. È la figlia di Antonio Mancini, detto “Accattone”, e di Fabiola Moretti, “La primula rossa”",
+      "date": "2026-08-26T09:36:30.0000000Z"
     },
     {
       "id": "open:68d44ea77af4",
@@ -136,18 +196,6 @@
       "date": "2026-08-26T09:09:19.0000000Z"
     },
     {
-      "id": "ansa:f550c5ed1da0",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Prezzi dei carburanti ancora in rialzo, alle 18 il Cdm per la proroga del taglio alle accise",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/08/26/mimit-prezzi-carburanti-in-rialzo-benzina-self-a-2017-euro_175d5d3a-cfee-4f2c-9b49-daf2c2dfc20f.html",
-      "image": null,
-      "summary": "Benzina self a 2,017 euro, il gasolio sale a 2,137 euro. Confesercenti: 'Sulle vacanze degli italiani un aggravio di 1,8 miliardi'",
-      "date": "2026-08-26T09:04:19.0000000Z"
-    },
-    {
       "id": "skytg24:vClnPdD3_3U",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -179,10 +227,10 @@
       "source": "Open",
       "platform": "rss",
       "category": "notizie",
-      "title": "Glovo, la Procura di Milano boccia gli aumenti ai rider: «Sono solo sulla carta». La piattaforma minaccia di lasciare l’Italia",
+      "title": "Glovo, la Procura di Milano boccia gli aumenti ai rider: «Sono ancora sottopagati, vanno assunti»",
       "url": "https://www.open.online/2026/08/26/scontro-glovo-procura-milano-compensi-rider/",
       "image": "https://static.open.online/wp-content/uploads/2026/08/scontro-glovo-procura-milano-compensi-rider.jpg",
-      "summary": "Nuovo scontro tra l'azienda spagnola e i magistrati milanesi. Il piano presentato a giugno per aumentare i compensi dei ciclofattorini non convince L'articolo Glovo, la Procura di Milano boccia gli aumenti ai rider: «...",
+      "summary": "Nuovo scontro tra l'azienda spagnola e i magistrati milanesi. Il piano presentato a giugno per aumentare i compensi dei ciclofattorini non convince. E intanto dalla Procura di Torino arriva una nuova stangata L'artico...",
       "date": "2026-08-26T08:44:32.0000000Z"
     },
     {
@@ -296,30 +344,6 @@
       "date": "2026-08-26T07:51:06.0000000Z"
     },
     {
-      "id": "ansa:5c04bf064d5c",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Tajani: 'Nessuno strappo con gli Usa, il legame prescinde dai singoli presidenti'",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/08/25/tajani-nessuno-strappo-con-gli-usa-il-legame-prescinde-dai-singoli_045c6738-7c7e-4c0b-b101-7182eff52f55.html",
-      "image": null,
-      "summary": "Al Meeting l'incontro 'La speranza da ri-costruire nella terra dei cedri' con il ministro degli Esteri. La diretta su ANSA.it il 26 agosto alle 13",
-      "date": "2026-08-26T07:39:55.0000000Z"
-    },
-    {
-      "id": "open:d6997d732301",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Giornata mondiale del cane: perché è il migliore amico dell’uomo da oltre 40mila anni",
-      "url": "https://www.open.online/2026/08/26/giornata-mondiale-del-cane-rapporto-uomo-evoluzione/",
-      "image": "https://static.open.online/wp-content/uploads/2026/08/Cane-golden.jpg",
-      "summary": "L’etologo Roberto Marchesini intervistato da La Stampa: dalla caccia alla pastorizia, il cane ha accompagnato l’evoluzione dell’uomo. E oggi il suo rapporto con noi racconta anche come sta cambiando la società L'artic...",
-      "date": "2026-08-26T07:39:44.0000000Z"
-    },
-    {
       "id": "ansa:3a5c3981934e",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -404,15 +428,15 @@
       "date": "2026-08-25T23:44:35.0000000Z"
     },
     {
-      "id": "repubblica:0b2d35848cfe",
+      "id": "repubblica:91011c7e8bf2",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Lipsia, scoperto terzo drone esplosivo: “Era un piano per uccidere all’aeroporto”",
-      "url": "https://www.repubblica.it/esteri/2026/08/26/news/lipsia_aeroporto_terzo_drone_merz_russia-425546986/",
+      "title": "Il capo della Cia a Mosca: primo viaggio a sorpresa tra i timori di escalation",
+      "url": "https://www.repubblica.it/esteri/2026/08/26/news/capo_cia_viaggio_mosca_paura_escalation-425547190/",
       "image": null,
-      "summary": "Forti sospetti sul Cremlino, l’ira di Merz: “Germania nel mirino di aggressori ibridi. Troveremo gli autori e la pagheranno”",
+      "summary": "Ratcliffe è atterrato ieri nella capitale: quattro ore di colloqui segreti. L’ipotesi dell’avvertimento a non attaccare la Nato e trattare la tregua. Peskov: “Contatti tra i servizi di sicurezza. Non erano previsti co...",
       "date": "2026-08-25T23:00:00.0000000Z"
     },
     {
@@ -428,18 +452,6 @@
       "date": "2026-08-25T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:91011c7e8bf2",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Il capo della Cia a Mosca: primo viaggio a sorpresa tra i timori di escalation",
-      "url": "https://www.repubblica.it/esteri/2026/08/26/news/capo_cia_viaggio_mosca_paura_escalation-425547190/",
-      "image": null,
-      "summary": "Ratcliffe è atterrato ieri nella capitale: quattro ore di colloqui segreti. L’ipotesi dell’avvertimento a non attaccare la Nato e trattare la tregua. Peskov: “Contatti tra i servizi di sicurezza. Non erano previsti co...",
-      "date": "2026-08-25T23:00:00.0000000Z"
-    },
-    {
       "id": "repubblica:13004e9a88f9",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -449,18 +461,6 @@
       "url": "https://www.repubblica.it/esteri/2026/08/26/news/ucraina_invio_armamenti_italia_governo_contraeree_radar-425547172/",
       "image": null,
       "summary": "Roma ha annunciato solo i generatori, ma è pronta a inviare Samp-T e Aster. Userà un Decreto per non spaccare la maggioranza",
-      "date": "2026-08-25T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:9b0a461e6b4c",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Il doppio schiaffo di Putin: boccia la pace di Zelensky e si prende le aziende russe",
-      "url": "https://www.repubblica.it/esteri/2026/08/26/news/guerra_russia_ucraina_putin_boccia_pace_zelensky_prende_aziende-425547179/",
-      "image": null,
-      "summary": "Lo zar respinge l’idea di rendere il Donbass una zona franca: “È un nostro territorio”. Poi il decreto per commissariare l’industria",
       "date": "2026-08-25T23:00:00.0000000Z"
     },
     {

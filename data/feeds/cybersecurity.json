@@ -1,19 +1,7 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-26T09:53:38.0582301Z",
+  "updated": "2026-08-26T10:30:43.1765049Z",
   "items": [
-    {
-      "id": "cybersecurity360:827e63dff0ae",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Shadow AI e processi di business: i rischi e i 3 livelli di attenzione del suo governo",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/shadow-ai-e-processi-di-business-i-rischi-e-i-3-livelli-di-attenzione-del-suo-governo/",
-      "image": null,
-      "summary": "Il punto non è stabilire se le persone utilizzino l’intelligenza artificiale, bensì comprendere quali attività del processo di lavoro stiano progressivamente cambiando natura. Ecco perché il rischio della Shadow AI no...",
-      "date": "2026-08-26T08:00:00.0000000Z"
-    },
     {
       "id": "cybersecurity360:657a49ee9e4c",
       "sourceId": "cybersecurity360",
@@ -121,6 +109,18 @@
       "image": null,
       "summary": "Il caso svizzero di Palantir riporta al centro il rapporto tra tecnologia, dipendenza dai fornitori e autonomia strategica. Tra vendor lock-in, giurisdizioni extraterritoriali e controllo dei dati, la scelta di piatta...",
       "date": "2026-08-24T09:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d2a7ce31a56f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Adottare l’AI Act: gli errori da evitare e la gap analysis da fare",
+      "url": "https://www.cybersecurity360.it/legal/adottare-lai-act-gli-errori-da-evitare-e-la-gap-analysis-da-fare/",
+      "image": null,
+      "summary": "L’AI Act è una normativa anomala: interessa tutti e tutti devono applicarla, ma gli adempimenti previsti riguardano soli casi particolari, quali sistemi a rischio alto e limitato. Ecco perché serve una gap analysis e ...",
+      "date": "2026-08-24T08:00:00.0000000Z"
     }
   ]
 }

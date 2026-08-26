@@ -1,6 +1,6 @@
 {
   "category": "energia",
-  "updated": "2026-08-26T09:53:37.9997787Z",
+  "updated": "2026-08-26T10:30:43.1831990Z",
   "items": [
     {
       "id": "qualenergia:f642e578cdf6",
@@ -63,6 +63,18 @@
       "date": "2026-08-26T07:00:19.0000000Z"
     },
     {
+      "id": "qualenergia:8e83b97062bf",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Emilia Romagna, contributi per la riqualificazione anche energetica di cinema e teatri",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/emilia-romagna-contributi-riqualificazione-energetica-cinema-teatri/",
+      "image": null,
+      "summary": "Aprirà a ottobre lo sportello agevolativo della Regione Emilia Romagna che sostiene la riqualificazione anche energetica di sale e strutture dedicate alle attività di pubblico spettacolo. Il bando (allegato in basso) ...",
+      "date": "2026-08-26T06:55:02.0000000Z"
+    },
+    {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -95,7 +107,7 @@
       "title": "Technical assessment and economic analysis of zero-carbon freight road transportation vehicles",
       "url": "https://www.qualenergia.it/pro/documenti/technical-assessment-and-economic-analysis-of-zero-carbon-freight-road-transportation-vehicles/",
       "image": null,
-      "summary": "Lo studio confronta diverse tecnologie di veicoli pesanti in base al Total Cost of Ownership: il diesel resta il più versatile; l’elettrico è competitivo fino a circa 250-300 km/giorno, oltre i quali potrebbe prevaler...",
+      "summary": "Confronto di diverse tecnologie di veicoli pesanti in base al Total Cost of Ownership. Il diesel resta il più versatile, l’elettrico è competitivo fino a circa 250-300 km/giorno, ma oltre potrebbe prevalere l’idrogeno...",
       "date": "2026-08-26T05:00:58.0000000Z"
     },
     {
@@ -104,11 +116,23 @@
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "An overview of the global zero emission medium and heavyduty vehicle market 2025",
+      "title": "An overview of the global zero emission medium and heavy duty vehicle market 2025",
       "url": "https://www.qualenergia.it/pro/documenti/an-overview-of-the-global-zero-emission-medium-and-heavyduty-vehicle-market-2025/",
       "image": null,
-      "summary": "Il rapporto analizza il mercato globale dei veicoli pesanti a zero emissioni nel 2025: autobus e camion leggeri si diffondono, i camion per lunghe percorrenze faticano a entrare nel mercato italiano. La spinta degli i...",
+      "summary": "Il mercato globale dei veicoli pesanti a zero emissioni nel 2025. In Italia autobus e camion leggeri iniziamo a diffondorsi, i camion per lunghe percorrenze faticano a entrare nel mercato. Incentivi e nuove regole eur...",
       "date": "2026-08-26T05:00:42.0000000Z"
+    },
+    {
+      "id": "qualenergia:63401948d646",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Global Critical Minerals Outlook 2026",
+      "url": "https://www.qualenergia.it/pro/documenti/global-critical-minerals-outlook-2026/",
+      "image": null,
+      "summary": "Il rapporto analizza le più recenti tendenze di mercato, investimento e tecnologia nel settore dei minerali critici. Presenta inoltre proiezioni di medio e lungo periodo su domanda e offerta. Gli approfondimenti rigua...",
+      "date": "2026-08-26T05:00:09.0000000Z"
     },
     {
       "id": "qualenergia:28c24aba79dc",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
       "date": "2026-08-25T22:25:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:e3b49dc69d8a",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Conto Energia, decreto sull’uscita anticipata con il dubbio sulle scadenze",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/conto-energia-decreto-uscita-anticipata-dubbio-scadenze/",
-      "image": null,
-      "summary": "È stato firmato il decreto Mase sulla fuoriuscita volontaria anticipata dal Conto Energia, ma il provvedimento ad oggi non è ancora stato pubblicato, come ci confermano dal ministero, e dunque non è entrato in vigore....",
-      "date": "2026-08-25T14:00:06.0000000Z"
-    },
-    {
-      "id": "qualenergia:a95a3c3f5382",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Extraprofitti petrolio, il cerino resta in mano agli Stati membri",
-      "url": "https://www.qualenergia.it/articoli/extraprofitti-petrolio-cerino-resta-mano-stati-membri/",
-      "image": null,
-      "summary": "Secondo la Commissione europea la tassazione degli extraprofitti è una competenza dei Paesi membri, che possono agire sulla base della propria legislazione. Questa la posizione data ieri (24 agosto) da Bruxelles trami...",
-      "date": "2026-08-25T13:30:29.0000000Z"
     }
   ]
 }

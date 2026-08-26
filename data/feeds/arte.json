@@ -1,7 +1,31 @@
 {
   "category": "arte",
-  "updated": "2026-08-26T09:53:37.9906085Z",
+  "updated": "2026-08-26T10:30:43.1810376Z",
   "items": [
+    {
+      "id": "artribune:8c91e5389829",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Vivere in gravina. Matera raccontata da chi la attraversa tutti i giorni",
+      "url": "https://www.artribune.com/arti-visive/2026/08/matera-giro-d-italia/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/pierangelo-laterza-materia-201901alta.jpg",
+      "summary": "La nostra rubrica Giro d’Italia – che racconta il Paese tappa dopo tappa, con parole e immagini raccolte da Emilia Giorgi – arriva a Matera, cuore culturale della Basilicata e antichissimo centro abitato. Ce ne parla ...",
+      "date": "2026-08-26T10:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:c4a26636c528",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Le case sul mare dove cinema e architettura si incontrano davanti al grande schermo",
+      "url": "https://www.elledecor.com/it/architettura/a73443233/case-sul-mare-in-italia-cinema/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/1431804917-55-02-c847d1e5726d9bf6809440ebf7787f64-1561447582.jpg",
+      "summary": "Da Villa Volpi a Casa Malaparte, passando per Fregene e Michelucci, un viaggio tra architetture d’autore che il cinema ha trasformato in scenografie indimenticabili",
+      "date": "2026-08-26T10:00:00.0000000Z"
+    },
     {
       "id": "artribune:1c5c327593c7",
       "sourceId": "artribune",
@@ -13,18 +37,6 @@
       "image": "https://www.artribune.com/wp-content/uploads/2026/08/fi.jpg",
       "summary": "La Fondazione Palazzo Strozzi rilancia il suo servizio di ristorazione affacciato sul cortile del ’400 ingaggiando il fenomeno fiorentino della focaccia (ma non vuole code) L’articolo \" Sarà l’Antico Vinaio a gestire ...",
       "date": "2026-08-26T09:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:f77e5c7cf90b",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "La penna nata per scrivere nello spazio è un’icona del design che ha viaggiato fino alla Luna",
-      "url": "https://www.elledecor.com/it/design/a73509195/fisher-space-pen-la-penna-nata-per-scrivere-nello-spazio/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/e23fa781-7758-43aa-8d42-7e0e92ccd767.jpeg",
-      "summary": "Inventata da Paul Fisher negli Anni 60, scrive capovolta, sott’acqua e a temperature estreme: dalla NASA è arrivata sulle missioni Apollo, sulla Mir e nella collezione del MoMA",
-      "date": "2026-08-26T08:00:00.0000000Z"
     },
     {
       "id": "artribune:2fe4da01e73c",
@@ -39,16 +51,16 @@
       "date": "2026-08-26T08:00:00.0000000Z"
     },
     {
-      "id": "artribune:16015c113e4a",
-      "sourceId": "artribune",
-      "source": "Artribune",
+      "id": "elledecor:f77e5c7cf90b",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
       "platform": "rss",
       "category": "arte",
-      "title": "Guida a tutte le mostre da non perdere a Torino nell’autunno 2026",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/08/mostre-autunno-2026-torino-guida/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/piazza-castello-torino-via-pixabay.jpg",
-      "summary": "Dalla grande retrospettiva dedicata a Marisa Merz al dialogo tra Oriente e contemporaneo con Song Dong, passando per la moda come specchio della città e per l’incontro tra due capolavori di Antonello da Messina: ecco ...",
-      "date": "2026-08-26T07:00:00.0000000Z"
+      "title": "La penna nata per scrivere nello spazio è un’icona del design che ha viaggiato fino alla Luna",
+      "url": "https://www.elledecor.com/it/design/a73509195/fisher-space-pen-la-penna-nata-per-scrivere-nello-spazio/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/e23fa781-7758-43aa-8d42-7e0e92ccd767.jpeg",
+      "summary": "Inventata da Paul Fisher negli Anni 60, scrive capovolta, sott’acqua e a temperature estreme: dalla NASA è arrivata sulle missioni Apollo, sulla Mir e nella collezione del MoMA",
+      "date": "2026-08-26T08:00:00.0000000Z"
     },
     {
       "id": "elledecor:de0bc510296e",
@@ -60,6 +72,18 @@
       "url": "https://www.elledecor.com/it/viaggi/a73526055/dollywood-e-il-parco-tematico-di-dolly-parton/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/6abde86e-3aa0-4a16-966d-aa3ecce4d805.jpeg",
       "summary": "Dal 1986 Dollywood trasforma una collina del Tennessee nella geografia personale della cantante, tra artigiani appalachiani, costumi di scena, roller coaster e la copia della casa d'infanzia",
+      "date": "2026-08-26T07:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:16015c113e4a",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Guida a tutte le mostre da non perdere a Torino nell’autunno 2026",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/08/mostre-autunno-2026-torino-guida/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/piazza-castello-torino-via-pixabay.jpg",
+      "summary": "Dalla grande retrospettiva dedicata a Marisa Merz al dialogo tra Oriente e contemporaneo con Song Dong, passando per la moda come specchio della città e per l’incontro tra due capolavori di Antonello da Messina: ecco ...",
       "date": "2026-08-26T07:00:00.0000000Z"
     },
     {
@@ -231,18 +255,6 @@
       "date": "2026-08-25T11:00:00.0000000Z"
     },
     {
-      "id": "artribune:c9980fd0042d",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Una riflessione sull’autentico valore della cultura oltre il concetto di utilità",
-      "url": "https://www.artribune.com/arti-visive/2026/08/valore-cultura-oltre-utilita/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/cultura-utile-lancella-in-un-museo-immagine-creata-con-ai-dal-team-di-artribune.png",
-      "summary": "Dall’idea di “cultura utile” sorge un parallelismo con l’ancella dell’autrice inglese, dal momento che entrambe, pur essendo “programmate per uno scopo” rivelano le loro maggiori potenzialità nella capacità di acquisi...",
-      "date": "2026-08-25T10:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:d5d4a6e65666",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -253,18 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/1fae97e3-9000-4a42-aa74-518d0ea347c6.jpg",
       "summary": "L'IMOCA della velista italiana si presenta con una grafica firmata Van Orton Design e realizzata con il contributo tecnologico di Boero Yacht Coatings",
       "date": "2026-08-25T10:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:7d1a5d419a9d",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "L’aeroporto più grande del mondo è grande quanto New York e ospita (anche) un vivaio nel deserto",
-      "url": "https://www.elledecor.com/it/viaggi/a73508141/aeroporto-piu-grande-del-mondo/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/5cc84718-8a2a-4175-8ffb-4a8b798f4dd6.jpeg",
-      "summary": "In Arabia Saudita, il King Fahd International Airport occupa una superficie da metropoli tra piste, terminal, una moschea e immense aree destinate alle future espansioni",
-      "date": "2026-08-25T07:00:00.0000000Z"
     }
   ]
 }
