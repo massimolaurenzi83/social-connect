@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-26T11:41:21.3059185Z",
+  "updated": "2026-08-26T12:05:18.4421504Z",
   "items": [
+    {
+      "id": "hdmotori:844f58bf7df6",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L’auto migliore? Giapponese e ibrida plug-in: parola di meccanico",
+      "url": "https://www.hdmotori.it/quale-auto-comprare-consigli-meccanico/",
+      "image": null,
+      "summary": "Javier Sendín, miglior meccanico di Spagna 2023, svela quale auto comprare oggi tra costi di gestione, affidabilità giapponese e i vantaggi dell'ibrido plug-in The post L’auto migliore? Giapponese e ibrida plug-in: pa...",
+      "date": "2026-08-26T12:00:29.0000000Z"
+    },
+    {
+      "id": "motor1:5428ad1b6026",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La MINI speciale dedicata al Rally di Monte Carlo",
+      "url": "https://it.motor1.com/news/806109/mini-1965-victory-edition-modelli/",
+      "image": "https://cdn.motor1.com/images/mgl/3WEyjL/s3/mini-1965-john-cooper-works-victory-edition.jpg",
+      "summary": "Ecco la 1965 Victory Edition, uno speciale pacchetto che omaggia la vittoria della Casa al Rally del Principato di oltre 60 anni fa",
+      "date": "2026-08-26T12:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:6c2d734b47e3",
       "sourceId": "hdmotori",
@@ -111,18 +135,6 @@
       "date": "2026-08-26T09:00:38.0000000Z"
     },
     {
-      "id": "insideevs:4a2f2ca414be",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Strano ma vero: il Tesla FSD se la cava bene anche sullo sterrato",
-      "url": "https://insideevs.it/news/806092/tesla-fsd-sterrato-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/mMzZNj/s3/tesla-fsd-tflev.jpg",
-      "summary": "Si scopre che l'FSD è sorprendentemente capace anche quando l'asfalto scompare",
-      "date": "2026-08-26T09:00:00.0000000Z"
-    },
-    {
       "id": "motor1:7aac08d7554e",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -132,6 +144,18 @@
       "url": "https://it.motor1.com/news/806086/ferrari-fari-posteriori-aerodinamica-brevetto/",
       "image": "https://cdn.motor1.com/images/mgl/pbJVQv/s3/ferrari-aerodynamic-taillights-patent.jpg",
       "summary": "Il brevetto di Ferrari mostra fanali posteriori che possono estendersi verso l’esterno per aumentare il carico aerodinamico dell’auto",
+      "date": "2026-08-26T09:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:4a2f2ca414be",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Strano ma vero: il Tesla FSD se la cava bene anche sullo sterrato",
+      "url": "https://insideevs.it/news/806092/tesla-fsd-sterrato-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/mMzZNj/s3/tesla-fsd-tflev.jpg",
+      "summary": "Si scopre che l'FSD è sorprendentemente capace anche quando l'asfalto scompare",
       "date": "2026-08-26T09:00:00.0000000Z"
     },
     {
@@ -159,18 +183,6 @@
       "date": "2026-08-26T08:00:00.0000000Z"
     },
     {
-      "id": "insideevs:cf9c3c8b1f96",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il treno da 4.400 CV che ha detto addio al diesel",
-      "url": "https://insideevs.it/news/806050/wabtec-flxdrive-funziona-locomotiva-elettrica/",
-      "image": "https://cdn.motor1.com/images/mgl/W8KmX1/s3/wabtec-flxdrive.jpg",
-      "summary": "In Australia una locomotiva elettrica da 7 MWh lavora nelle miniere del Pilbara. E in discesa riesce anche a ricaricarsi",
-      "date": "2026-08-26T07:00:00.0000000Z"
-    },
-    {
       "id": "motor1:382b5b1bc6a2",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -180,6 +192,18 @@
       "url": "https://it.motor1.com/news/806037/ford-universal-electric-vehicle-apple/",
       "image": "https://cdn.motor1.com/images/mgl/Ak3vP2/s3/ford-e-apple-maps.jpg",
       "summary": "Dal 2027 la piattaforma Ford Universal Electric Vehicle nasce con Apple Maps nativo, routing EV avanzato e supporto alla guida BlueCruise",
+      "date": "2026-08-26T07:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:cf9c3c8b1f96",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il treno da 4.400 CV che ha detto addio al diesel",
+      "url": "https://insideevs.it/news/806050/wabtec-flxdrive-funziona-locomotiva-elettrica/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KmX1/s3/wabtec-flxdrive.jpg",
+      "summary": "In Australia una locomotiva elettrica da 7 MWh lavora nelle miniere del Pilbara. E in discesa riesce anche a ricaricarsi",
       "date": "2026-08-26T07:00:00.0000000Z"
     },
     {
@@ -351,18 +375,6 @@
       "date": "2026-08-25T15:04:44.0000000Z"
     },
     {
-      "id": "hdmotori:21c6dfd90f85",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "BYD, crollo in Borsa e vendite in calo: ma si punta al primato mondiale",
-      "url": "https://www.hdmotori.it/byd-crollo-borsa-obiettivo-leadership-mondiale/",
-      "image": null,
-      "summary": "Tra perdite azionarie e la guerra dei prezzi sul mercato interno, BYD lancia un piano ad alto rischio per superare Toyota puntando su export e Blade Battery The post BYD, crollo in Borsa e vendite in calo: ma si punta...",
-      "date": "2026-08-25T15:00:30.0000000Z"
-    },
-    {
       "id": "insideevs:b72186041cd8",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -373,18 +385,6 @@
       "image": "https://cdn.motor1.com/images/mgl/qkY481/s3/tetto-fotovoltaico-fuyao-glass.jpg",
       "summary": "La Fuyao Glass presenta un tetto fotovoltaico in grado di produrre energia. Ma non ricarica la batteria: alimenta le funzioni secondarie",
       "date": "2026-08-25T15:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:02644f98057c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "A Valle Castellana la benzina costa meno: il Comune fa il benzinaio",
-      "url": "https://it.motor1.com/news/806029/valle-castellana-benzina-prezzi/",
-      "image": "https://cdn.motor1.com/images/mgl/W8KmyN/s3/prezzo-benzina.jpg",
-      "summary": "Nel piccolo Comune del Teramano benzina e diesel vengono venduti quasi a prezzo di costo, con un risparmio fino a 20 centesimi al litro",
-      "date": "2026-08-25T14:28:14.0000000Z"
     },
     {
       "id": "insideevs:fd5bfd548a4c",
