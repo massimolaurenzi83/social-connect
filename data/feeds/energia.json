@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-26T08:09:06.5761227Z",
+  "updated": "2026-08-26T09:01:58.6228589Z",
   "items": [
+    {
+      "id": "qualenergia:63bdafa56d54",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Camion a zero emissioni in Italia: numeri, tecnologie e prospettive di mercato",
+      "url": "https://www.qualenergia.it/articoli/camion-zero-emissioni-italia-numeri-tecnologie-prospettive-mercato/",
+      "image": null,
+      "summary": "Sta crescendo in Italia la diffusione dei veicoli medi e pesanti a zero emissioni, ma a velocità molto diverse tra i segmenti: autobus e camion medi aumentano, mentre i camion pesanti sono ancora quasi interamente leg...",
+      "date": "2026-08-26T08:45:20.0000000Z"
+    },
     {
       "id": "qualenergia:c02a9e8db084",
       "sourceId": "qualenergia",
@@ -83,8 +95,20 @@
       "title": "An overview of the global zero emission medium and heavyduty vehicle market 2025",
       "url": "https://www.qualenergia.it/pro/documenti/an-overview-of-the-global-zero-emission-medium-and-heavyduty-vehicle-market-2025/",
       "image": null,
-      "summary": "Il rapporto annuale analizza il mercato globale dei veicoli medi e pesanti a zero emissioni nel 2025. Mentre autobus e camion leggeri a zero emissioni si diffondono, i camion per lunghe percorrenze faticano a entrare ...",
+      "summary": "Il rapporto analizza il mercato globale dei veicoli pesanti a zero emissioni nel 2025: autobus e camion leggeri si diffondono, i camion per lunghe percorrenze faticano a entrare nel mercato italiano. La spinta degli i...",
       "date": "2026-08-26T05:00:42.0000000Z"
+    },
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
+      "date": "2026-08-25T22:25:00.0000000Z"
     },
     {
       "id": "qualenergia:e3b49dc69d8a",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "L’Austria prepara un cambio di rotta negli incentivi alle rinnovabili: meno sostegno generalizzato ai piccoli impianti fotovoltaici e più risorse per batterie, sistemi intelligenti di gestione dell’energia e soluzioni...",
       "date": "2026-08-25T09:30:27.0000000Z"
-    },
-    {
-      "id": "qualenergia:8d0d2c2b6d19",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Connessioni: calano ancora rinnovabili e accumuli, data center a 96 GW",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/connessioni-calano-ancora-rinnovabili-accumuli-data-center-96-gw/",
-      "image": null,
-      "summary": "I dati pubblicati da Terna sul portale Econnextion, aggiornati al 31 luglio 2026, confermano il quadro emerso negli ultimi mesi sul fronte delle richieste di connessione: continuano a ridursi le domande relative alle ...",
-      "date": "2026-08-25T09:30:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:3eee8acf031e",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Fer X, al via le richieste di qualifica preliminare",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/fer-x-via-richieste-qualifica-preliminare/",
-      "image": null,
-      "summary": "A partire da oggi, 25 agosto, è possibile presentare la richiesta di qualifica preliminare sul portale Fer-X Definitivo predisposto dal Gse. Si tratta di un’azione propedeutica per essere ammessi alle procedure compet...",
-      "date": "2026-08-25T09:15:25.0000000Z"
     }
   ]
 }
