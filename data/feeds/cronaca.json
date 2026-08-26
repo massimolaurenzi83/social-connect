@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-26T07:24:34.9256051Z",
+  "updated": "2026-08-26T08:09:06.4926191Z",
   "items": [
+    {
+      "id": "ansa-cronaca:21d183cc594a",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Incidente con il parapendio in Alto Adige, la vittima è un atleta francese",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/incidente-con-il-parapendio-in-alto-adige-la-vittima-e-un-atleta-francese_13d7186b-3698-4f51-a179-ab1e713bffc1.html",
+      "image": null,
+      "summary": "Inutili i soccorsi giunti a Passo Rambo con l'elicottero Pelikan 2",
+      "date": "2026-08-26T07:37:05.0000000Z"
+    },
     {
       "id": "ansa-cronaca:d2904ce60ba5",
       "sourceId": "ansa-cronaca",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "'Non roviniamo innocenza dei nostri bambini, ho visto libri che mi fanno rabbrividire'",
       "date": "2026-08-25T15:08:25.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:be74035c51bb",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Detenuto morto in carcere, letale inalazione di fumi da combustione",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/detenuto-morto-in-carcere-letale-inalazione-di-fumi-da-combustione_2eaf87d9-63bb-4bbd-963e-9e30a123ce57.html",
-      "image": null,
-      "summary": "A Pordenone. Fondamentale sarà analisi telecamere per verificare modalità soccorsi",
-      "date": "2026-08-25T15:01:23.0000000Z"
     }
   ]
 }

@@ -1,7 +1,91 @@
 {
   "category": "cripto",
-  "updated": "2026-08-26T07:24:34.9100680Z",
+  "updated": "2026-08-26T08:09:06.5771971Z",
   "items": [
+    {
+      "id": "cryptonomist:fbed88b3e603",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "L’exchange ATLAS di LayerZero fa volare ZRO: +16% in un giorno",
+      "url": "https://cryptonomist.ch/2026/08/26/exchange-atlas-layerzero/",
+      "image": null,
+      "summary": "LayerZero cambia gioco e punta dritto al cuore dei mercati finanziari tradizionali: con il lancio di ATLAS, un’infrastruttura di trading costruita sulla propria blockchain Zero, l’azienda si propone come fornitore di ...",
+      "date": "2026-08-26T08:05:34.0000000Z"
+    },
+    {
+      "id": "cryptonomist:2b7b28b7e193",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Attivazione Hyperliquid AQAv2: fino a 160 milioni per il buyback di HYPE",
+      "url": "https://cryptonomist.ch/2026/08/26/attivazione-hyperliquid-aqav2/",
+      "image": null,
+      "summary": "Hyperliquid ha acceso il 26 agosto il framework AQAv2 per USDC, la stablecoin che oggi conta una circolazione di circa 5 miliardi di dollari sulla piattaforma. Questa attivazione Hyperliquid AQAv2 non è un semplice ag...",
+      "date": "2026-08-26T08:03:48.0000000Z"
+    },
+    {
+      "id": "cryptonomist:3a26c4db0399",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Portafogli tokenizzati Bitwise: si può investire senza cedere i propri asset?",
+      "url": "https://cryptonomist.ch/2026/08/26/portafogli-tokenizzati-bitwise/",
+      "image": null,
+      "summary": "Cosa succede se puoi accedere a un portafoglio azionario gestito da professionisti senza mai cedere il controllo dei tuoi asset a un fondo? È la domanda a cui risponde la nuova iniziativa di Bitwise Asset Management, ...",
+      "date": "2026-08-26T08:03:42.0000000Z"
+    },
+    {
+      "id": "cryptonomist:919e9eb899d5",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Prezzo Ethereum sopra 2.465 dollari: RSI a 76 segnala ipercomprato",
+      "url": "https://cryptonomist.ch/2026/08/26/prezzo-ethereum-sopra-2-465-dollari-rsi-a-76-segnala-ipercomprato/",
+      "image": null,
+      "summary": "Il prezzo Ethereum si muove poco sopra i 2.465 dollari al 26 agosto 2026. Il movimento arriva al termine di un rally che ha staccato il token dalle medie di lungo periodo. Il trend daily resta rialzista, ma il momentu...",
+      "date": "2026-08-26T07:47:07.0000000Z"
+    },
+    {
+      "id": "cryptonomist:4bcaa73e4b2c",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Prezzo Bitcoin sfiora $80.000, ma l’RSI a 80 avverte: rischio ritracciamento",
+      "url": "https://cryptonomist.ch/2026/08/26/prezzo-bitcoin-sfiora-80-000-ma-lrsi-a-80-avverte-rischio-ritracciamento/",
+      "image": null,
+      "summary": "Al 26 agosto 2026 il prezzo Bitcoin viaggia poco sopra i 79.000 dollari, a un passo dal massimo di tre mesi in area 80.000 dollari. Il mercato ha vissuto un’accelerazione improvvisa e ora deve capire se lo slancio può...",
+      "date": "2026-08-26T07:44:53.0000000Z"
+    },
+    {
+      "id": "cryptonomist:2a343b3e7506",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Blockchain stablecoin dei banchieri USA: 39 banche, 21,8 trilioni in gioco",
+      "url": "https://cryptonomist.ch/2026/08/26/blockchain-stablecoin-dei-banchieri-usa/",
+      "image": null,
+      "summary": "Trentanove associazioni bancarie statali degli Stati Uniti hanno deciso di unire le forze per costruire da zero una propria infrastruttura digitale condivisa. Nasce così la blockchain stablecoin dei banchieri USA, un ...",
+      "date": "2026-08-26T07:31:19.0000000Z"
+    },
+    {
+      "id": "cryptonomist:177af78992bc",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Furto sicurezza FHToken: come un bug ha drenato 20.000 dollari su PancakeSwap?",
+      "url": "https://cryptonomist.ch/2026/08/26/furto-sicurezza-fhtoken/",
+      "image": null,
+      "summary": "Una vulnerabilità critica nel codice di FHToken ha aperto la strada a un attacco che è costato al progetto circa 20.000 dollari. Il furto legato alla sicurezza di FHToken si è consumato nella pool di liquidità FH/USDT...",
+      "date": "2026-08-26T07:30:53.0000000Z"
+    },
     {
       "id": "cryptonomist:f655fe71cb2c",
       "sourceId": "cryptonomist",
@@ -37,90 +121,6 @@
       "image": null,
       "summary": "Bitwise ha aperto le porte dei mercati azionari statunitensi a chi vive fuori dagli Stati Uniti, lanciando dei portafogli tokenizzati azioni pensati per gli investitori non statunitensi che soddisfano determinati requ...",
       "date": "2026-08-26T06:25:00.0000000Z"
-    },
-    {
-      "id": "cryptonomist:8f75abf8ebb2",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Linux Foundation guida l’attestazione runtime AI: già 135.000 download",
-      "url": "https://cryptonomist.ch/2026/08/26/attestazione-runtime-ai/",
-      "image": null,
-      "summary": "Come si fa a dimostrare che un agente AI ha davvero eseguito quello che prometteva, sull’hardware dichiarato e nel rispetto delle policy sui dati? È una domanda che riguarda banche, ospedali e qualsiasi azienda che af...",
-      "date": "2026-08-26T05:56:32.0000000Z"
-    },
-    {
-      "id": "cryptonomist:860d3e9780d4",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Attacchi dust HTX su Kraken: 12.000 trasferimenti bloccano gli account",
-      "url": "https://cryptonomist.ch/2026/08/26/attacchi-dust-htx-su-kraken/",
-      "image": null,
-      "summary": "Quasi 12.000 trasferimenti crypto non richiesti hanno raggiunto indirizzi collegati a Kraken tra il 17 e il 24 agosto 2026, costringendo l’exchange a bloccare temporaneamente gli account coinvolti. Gli attacchi dust H...",
-      "date": "2026-08-26T05:56:17.0000000Z"
-    },
-    {
-      "id": "cryptonomist:2b960ea833fb",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Correlazione tra Coinbase e Bitcoin: solo 0,61 nonostante il rally sopra 80.000$",
-      "url": "https://cryptonomist.ch/2026/08/26/correlazione-coinbase-bitcoin/",
-      "image": null,
-      "summary": "Coinbase (COIN) è tornata a correre in Borsa nelle ultime sedute, spinta dal rally di Bitcoin, che ha superato la soglia degli 80.000 dollari. Il movimento riaccende una domanda che gli analisti si pongono da anni: qu...",
-      "date": "2026-08-26T05:28:57.0000000Z"
-    },
-    {
-      "id": "cryptonomist:18719e181e1e",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Pagamenti Bitcoin in El Salvador giù dal 25,7% all’8,1%: cosa succede a Bitcoin Beach",
-      "url": "https://cryptonomist.ch/2026/08/26/pagamenti-bitcoin-in-el-salvador/",
-      "image": null,
-      "summary": "Un ristorante di El Zonte, la località conosciuta in tutto il mondo come Bitcoin Beach, ha ricevuto un solo pagamento in Bitcoin fino al 23 agosto 2026. Il dettaglio, raccontato dal contributor di Bitcoin Core Jon Ata...",
-      "date": "2026-08-26T05:28:44.0000000Z"
-    },
-    {
-      "id": "cryptonomist:76e021d2ee92",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Kalshi vola a 1,12 miliardi: il finanziamento mercati predittivi verso la IPO 2027",
-      "url": "https://cryptonomist.ch/2026/08/26/finanziamento-mercati-predittivi-kalshi/",
-      "image": null,
-      "summary": "1,12 miliardi di dollari. È la cifra che racconta meglio di ogni altra il momento che sta vivendo Kalshi, la piattaforma newyorkese che ha trasformato le previsioni su eventi reali in un mercato regolamentato da milia...",
-      "date": "2026-08-26T05:27:12.0000000Z"
-    },
-    {
-      "id": "cryptonomist:e2b03abbcca6",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "La stablecoin USD1 di World Liberty sbarca su Canton: nativa da 4,05 miliardi",
-      "url": "https://cryptonomist.ch/2026/08/25/stablecoin-usd1-world-liberty/",
-      "image": null,
-      "summary": "World Liberty Financial ha portato la sua stablecoin USD1 di World Liberty direttamente sulla Canton Network, un passaggio che cambia il modo in cui gli istituzionali possono regolare asset tokenizzati e pagamenti in ...",
-      "date": "2026-08-25T21:20:09.0000000Z"
-    },
-    {
-      "id": "cryptonomist:ecb3970082b9",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "NUVA apre ai wallet crypto 19 miliardi di asset immobiliari tokenizzati",
-      "url": "https://cryptonomist.ch/2026/08/25/asset-immobiliari-tokenizzati/",
-      "image": null,
-      "summary": "Un mercato immobiliare da 19 miliardi di dollari che fino a ieri era riservato a banche e investitori istituzionali sta per aprirsi, almeno in parte, a chiunque possieda un wallet crypto. È questa la posta in gioco di...",
-      "date": "2026-08-25T21:17:39.0000000Z"
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
   "category": "motori",
-  "updated": "2026-08-26T07:24:34.8857490Z",
+  "updated": "2026-08-26T08:09:06.5790026Z",
   "items": [
     {
-      "id": "insideevs:cf9c3c8b1f96",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
+      "id": "hdmotori:ca1db1d68901",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
       "platform": "rss",
       "category": "motori",
-      "title": "Il treno da 4.400 CV che ha detto addio al diesel",
-      "url": "https://insideevs.it/news/806050/wabtec-flxdrive-funziona-locomotiva-elettrica/",
-      "image": "https://cdn.motor1.com/images/mgl/W8KmX1/s3/wabtec-flxdrive.jpg",
-      "summary": "In Australia una locomotiva elettrica da 7 MWh lavora nelle miniere del Pilbara. E in discesa riesce anche a ricaricarsi",
-      "date": "2026-08-26T07:00:00.0000000Z"
+      "title": "Volkswagen Electro Vibes: ID. Polo e ID. Cross protagoniste in 5 città",
+      "url": "https://www.hdmotori.it/volkswagen-electro-vibes/",
+      "image": null,
+      "summary": "Dal 30 agosto al 13 settembre le nuove ID. Polo e ID. Cross debuttano in anteprima nazionale nell’ambito di un roadshow che toccherà cinque piazze italiane. The post Volkswagen Electro Vibes: ID. Polo e ID. Cross prot...",
+      "date": "2026-08-26T08:00:29.0000000Z"
     },
     {
       "id": "motor1:382b5b1bc6a2",
@@ -24,6 +24,18 @@
       "url": "https://it.motor1.com/news/806037/ford-universal-electric-vehicle-apple/",
       "image": "https://cdn.motor1.com/images/mgl/Ak3vP2/s3/ford-e-apple-maps.jpg",
       "summary": "Dal 2027 la piattaforma Ford Universal Electric Vehicle nasce con Apple Maps nativo, routing EV avanzato e supporto alla guida BlueCruise",
+      "date": "2026-08-26T07:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:cf9c3c8b1f96",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il treno da 4.400 CV che ha detto addio al diesel",
+      "url": "https://insideevs.it/news/806050/wabtec-flxdrive-funziona-locomotiva-elettrica/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KmX1/s3/wabtec-flxdrive.jpg",
+      "summary": "In Australia una locomotiva elettrica da 7 MWh lavora nelle miniere del Pilbara. E in discesa riesce anche a ricaricarsi",
       "date": "2026-08-26T07:00:00.0000000Z"
     },
     {
@@ -51,18 +63,6 @@
       "date": "2026-08-26T06:14:04.0000000Z"
     },
     {
-      "id": "insideevs:fa7bf2e09f98",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La wallbox intelligente che ricarica senza sovraccaricare casa",
-      "url": "https://insideevs.it/features/806048/schneider-charge-48a-funziona-wallbox/",
-      "image": "https://cdn.motor1.com/images/mgl/Rqk0r3/s3/nuovo-wallbox-schneider-ricarica-ev-veloce-senza-rifare-il-quadro.jpg",
-      "summary": "Il caricatore monitora forno, clima e altri elettrodomestici e riduce la potenza dell'auto quando l'impianto è già sotto pressione",
-      "date": "2026-08-26T06:00:00.0000000Z"
-    },
-    {
       "id": "motor1:da1705eed796",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -72,6 +72,18 @@
       "url": "https://it.motor1.com/news/806017/land-rover-defender-elettrica-rinvio/",
       "image": "https://cdn.motor1.com/images/mgl/zxJ1jb/s3/range-rover-sport-electric-prototype.jpg",
       "summary": "JLR rallenta il rinnovamento della Land Rover Defender, sostenendo una baby Defender e dando priorità alla Range Rover Electric",
+      "date": "2026-08-26T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:fa7bf2e09f98",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La wallbox intelligente che ricarica senza sovraccaricare casa",
+      "url": "https://insideevs.it/features/806048/schneider-charge-48a-funziona-wallbox/",
+      "image": "https://cdn.motor1.com/images/mgl/Rqk0r3/s3/nuovo-wallbox-schneider-ricarica-ev-veloce-senza-rifare-il-quadro.jpg",
+      "summary": "Il caricatore monitora forno, clima e altri elettrodomestici e riduce la potenza dell'auto quando l'impianto è già sotto pressione",
       "date": "2026-08-26T06:00:00.0000000Z"
     },
     {
@@ -279,18 +291,6 @@
       "date": "2026-08-25T13:00:48.0000000Z"
     },
     {
-      "id": "insideevs:85a87228791b",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il camion gigante si ricarica in 25 minuti e lavora in miniera",
-      "url": "https://insideevs.it/news/806021/camion-minerario-elettrico-zijin-longking/",
-      "image": "https://cdn.motor1.com/images/mgl/MkgBqn/s3/ca7ca7042aa443219c2c1a0abdef4ed6.jpg",
-      "summary": "Il mezzo cinese punta su una batteria da 1.400 kWh e ricarica 10-90% in 25 minuti per lavorare a ciclo quasi continuo",
-      "date": "2026-08-25T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:cb64de81e32c",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -300,6 +300,18 @@
       "url": "https://it.motor1.com/news/805987/suzuki-e-sky-debutto/",
       "image": "https://cdn.motor1.com/images/mgl/BXZjQR/s3/2026-suzuki-e-sky.jpg",
       "summary": "La minuscola EV di Suzuki ha una batteria piccola per mantenere l'auto il più leggera possibile",
+      "date": "2026-08-25T13:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:85a87228791b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il camion gigante si ricarica in 25 minuti e lavora in miniera",
+      "url": "https://insideevs.it/news/806021/camion-minerario-elettrico-zijin-longking/",
+      "image": "https://cdn.motor1.com/images/mgl/MkgBqn/s3/ca7ca7042aa443219c2c1a0abdef4ed6.jpg",
+      "summary": "Il mezzo cinese punta su una batteria da 1.400 kWh e ricarica 10-90% in 25 minuti per lavorare a ciclo quasi continuo",
       "date": "2026-08-25T13:00:00.0000000Z"
     },
     {
@@ -373,18 +385,6 @@
       "image": null,
       "summary": "Almeno 450 km deve fare una citycar elettrica, se no che auto è? La provocazione è di uno… L'articolo Almeno 450 km deve fare una citycar, se no che auto è? proviene da Vaielettrico .",
       "date": "2026-08-25T10:49:08.0000000Z"
-    },
-    {
-      "id": "hdmotori:31421f3bf42a",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla Cybercab: il nuovo robotaxi sarà presentato il 3 settembre",
-      "url": "https://www.hdmotori.it/tesla-cybercab-presentazione/",
-      "image": null,
-      "summary": "Il prossimo 3 settembre Tesla presenterà il Cybercab ad Austin. Due posti, zero volante o pedali: la svolta di Elon Musk tra intelligenza artificiale, chip AI5 e Robotaxi. The post Tesla Cybercab: il nuovo robotaxi sa...",
-      "date": "2026-08-25T10:30:50.0000000Z"
     },
     {
       "id": "motor1:ea55db8125f8",
