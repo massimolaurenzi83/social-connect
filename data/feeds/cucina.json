@@ -1,7 +1,19 @@
 {
   "category": "cucina",
-  "updated": "2026-08-26T12:05:18.4149373Z",
+  "updated": "2026-08-26T13:13:47.0363410Z",
   "items": [
+    {
+      "id": "giallozafferano:371dbd2e7318",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Cosce di pollo in friggitrice ad aria con salsa barbecue",
+      "url": "https://ricette.giallozafferano.it/Cosce-di-pollo-in-friggitrice-ad-aria-con-salsa-barbecue.html",
+      "image": "https://www.giallozafferano.it/images/365-36562/Cosce-di-pollo-in-friggitrice-ad-aria-con-salsa-barbecue_1200x800.jpg",
+      "summary": "Se avete voglia di un secondo piatto sfizioso e facile da preparare, le cosce di pollo in friggitrice ad aria con salsa barbecue sono la ricetta perfetta! La carne rimane morbida e succosa all’interno, mentre all’este...",
+      "date": "2026-08-26T09:40:00.0000000Z"
+    },
     {
       "id": "dissapore:9f797f698a07",
       "sourceId": "dissapore",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/365-36546/Zucchine-e-melanzane-marinate_1200x800.jpg",
       "summary": "Le zucchine e melanzane marinate sono un contorno estivo leggero e profumato, perfetto da portare in tavola al posto delle classiche verdure grigliate . Zucchine e melanzane vengono cotte al vapore e poi condite con u...",
       "date": "2026-08-13T08:09:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:a775e69bfe6c",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Alici in tortiera",
-      "url": "https://ricette.giallozafferano.it/Alici-in-tortiera.html",
-      "image": "https://www.giallozafferano.it/images/365-36541/Alici-in-tortiera_1200x800.jpg",
-      "summary": "Le alici in tortiera sono un secondo piatto di pesce semplice e gustoso, perfetto per portare in tavola tutto il sapore del pesce azzurro. In questa ricetta le alici vengono disposte a raggiera e arricchite con una pa...",
-      "date": "2026-08-12T13:09:00.0000000Z"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-26T12:05:18.3868192Z",
+  "updated": "2026-08-26T13:13:47.0058827Z",
   "items": [
+    {
+      "id": "cybersecurity360:74d485792c97",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Testare l’AI: quando diventa un problema di sicurezza",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/testare-lai-quando-diventa-un-problema-di-sicurezza/",
+      "image": null,
+      "summary": "Il caso coinvolge Irregular, una startup israeliana che ha lavorato con OpenAI, Anthropic e Meta per valutare i loro modelli prima della diffusione pubblica. Ecco come si testano modelli AI capaci di svolgere attività...",
+      "date": "2026-08-26T12:46:41.0000000Z"
+    },
     {
       "id": "cybersecurity360:7f19f0c2614d",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Il caso dell'attacco hacker a una una piccola centrale elettrica britannica non ha avuto conseguenze sulla fornitura nazionale di elettricità, ma rappresenta un segnale serio. Ecco perché un attacco a un “piccolo impi...",
       "date": "2026-08-24T12:25:55.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:47d64f93c537",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Proteggere foto e file personali dal tracciamento: come funziona il cloud crittografato in prova a 1 euro",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/cloud-crittografato-archiviazione-sicura-prova-un-euro/",
-      "image": null,
-      "summary": "Proton propone 200 GB di spazio cloud con crittografia end-to-end a 1 euro per il primo mese. L'offerta include Drive, Docs e Sheets e prevede il rinnovo a 4,99 euro mensili L'articolo Proteggere foto e file personali...",
-      "date": "2026-08-24T10:04:34.0000000Z"
     }
   ]
 }

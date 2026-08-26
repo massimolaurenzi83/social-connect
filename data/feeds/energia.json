@@ -1,6 +1,6 @@
 {
   "category": "energia",
-  "updated": "2026-08-26T12:05:18.3883789Z",
+  "updated": "2026-08-26T13:13:47.0123629Z",
   "items": [
     {
       "id": "qualenergia:a9d1e053f760",
@@ -87,6 +87,18 @@
       "date": "2026-08-26T06:55:02.0000000Z"
     },
     {
+      "id": "qualenergia:50d40d648ab7",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Bandi e appalti del giorno (4)",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
+      "image": null,
+      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
+      "date": "2026-08-26T06:30:17.0000000Z"
+    },
+    {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -123,28 +135,16 @@
       "date": "2026-08-26T05:00:58.0000000Z"
     },
     {
-      "id": "qualenergia:a16439f1732d",
+      "id": "qualenergia:f6efd853098b",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "An overview of the global zero emission medium and heavy duty vehicle market 2025",
-      "url": "https://www.qualenergia.it/pro/documenti/an-overview-of-the-global-zero-emission-medium-and-heavyduty-vehicle-market-2025/",
+      "title": "Corso di laurea in “Ingegneria meccanica”",
+      "url": "https://www.qualenergia.it/pro/documenti/corso-di-laurea-in-ingegneria-meccanica-6/",
       "image": null,
-      "summary": "Il mercato globale dei veicoli pesanti a zero emissioni nel 2025. In Italia autobus e camion leggeri iniziamo a diffondorsi, i camion per lunghe percorrenze faticano a entrare nel mercato. Incentivi e nuove regole eur...",
-      "date": "2026-08-26T05:00:42.0000000Z"
-    },
-    {
-      "id": "qualenergia:6a72afee3b4e",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Manutenzione straordinaria impianti di illuminazione pubblica a Chambave (AO)",
-      "url": "https://www.qualenergia.it/pro/documenti/manutenzione-straordinaria-impianti-di-illuminazione-pubblica-a-chambave-ao/",
-      "image": null,
-      "summary": "Servizio di manutenzione straordinaria agli impianti di illuminazione pubblica a Chambave (AO). Questa procedura è riservata ai soli operatori invitati dalla stazione appaltante. Gli inviti sono visualizzabili nella s...",
-      "date": "2026-08-26T05:00:22.0000000Z"
+      "summary": "Il corso di laurea in “Ingegneria meccanica” offre agli studenti un corso formativo base sulle energie rinnovabili. L’obiettivo generale del corso è fornire agli allievi le conoscenze base riguardanti le 5 principali ...",
+      "date": "2026-08-26T05:00:46.0000000Z"
     }
   ]
 }
