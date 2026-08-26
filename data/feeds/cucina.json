@@ -1,6 +1,6 @@
 {
   "category": "cucina",
-  "updated": "2026-08-26T16:33:20.6082607Z",
+  "updated": "2026-08-26T18:22:18.9547801Z",
   "items": [
     {
       "id": "dissapore:96a63f100bb7",
@@ -25,6 +25,18 @@
       "image": null,
       "summary": "Mentre qualcuno dubita della superiorità assoluta del grano italiano, Francesco Lollobrigida chiama a testimoniare Mel Gibson. L'articolo Mel Gibson difende la superiorità del grano italiano, e scusate se abbiamo dubi...",
       "date": "2026-08-26T15:03:43.0000000Z"
+    },
+    {
+      "id": "giallozafferano:b268feb97060",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Cheesecake fredda al cioccolato",
+      "url": "https://ricette.giallozafferano.it/Cheesecake-fredda-al-cioccolato.html",
+      "image": "https://www.giallozafferano.it/images/365-36564/Cheesecake-fredda-al-cioccolato_1200x800.jpg",
+      "summary": "La cheesecake fredda al cioccolato è un dolce goloso e cremoso che si prepara senza forno e senza gelatina . È proprio l’aggiunta del cioccolato a dare alla crema la giusta consistenza: una volta fredda, la cheesecake...",
+      "date": "2026-08-26T14:36:00.0000000Z"
     },
     {
       "id": "giallozafferano:371dbd2e7318",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/365-36548/Dessert-vaniglia-cocco-e-cioccolato_1200x800.jpg",
       "summary": "Il dessert vaniglia, cocco e cioccolato è un dolce senza cottura cremoso e scenografico, che riunisce la dolcezza della vaniglia, il gusto deciso del cioccolato fondente e il profumo del cocco. A renderlo particolare ...",
       "date": "2026-08-14T13:20:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:8035859a28fe",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Zucchine e melanzane marinate",
-      "url": "https://ricette.giallozafferano.it/Zucchine-e-melanzane-marinate.html",
-      "image": "https://www.giallozafferano.it/images/365-36546/Zucchine-e-melanzane-marinate_1200x800.jpg",
-      "summary": "Le zucchine e melanzane marinate sono un contorno estivo leggero e profumato, perfetto da portare in tavola al posto delle classiche verdure grigliate . Zucchine e melanzane vengono cotte al vapore e poi condite con u...",
-      "date": "2026-08-13T08:09:00.0000000Z"
     }
   ]
 }
