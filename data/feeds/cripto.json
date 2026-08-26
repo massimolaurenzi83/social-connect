@@ -1,7 +1,31 @@
 {
   "category": "cripto",
-  "updated": "2026-08-26T05:48:48.7726804Z",
+  "updated": "2026-08-26T06:23:33.4503250Z",
   "items": [
+    {
+      "id": "cryptonomist:8f75abf8ebb2",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Linux Foundation guida l’attestazione runtime AI: già 135.000 download",
+      "url": "https://cryptonomist.ch/2026/08/26/attestazione-runtime-ai/",
+      "image": null,
+      "summary": "Come si fa a dimostrare che un agente AI ha davvero eseguito quello che prometteva, sull’hardware dichiarato e nel rispetto delle policy sui dati? È una domanda che riguarda banche, ospedali e qualsiasi azienda che af...",
+      "date": "2026-08-26T05:56:32.0000000Z"
+    },
+    {
+      "id": "cryptonomist:860d3e9780d4",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Attacchi dust HTX su Kraken: 12.000 trasferimenti bloccano gli account",
+      "url": "https://cryptonomist.ch/2026/08/26/attacchi-dust-htx-su-kraken/",
+      "image": null,
+      "summary": "Quasi 12.000 trasferimenti crypto non richiesti hanno raggiunto indirizzi collegati a Kraken tra il 17 e il 24 agosto 2026, costringendo l’exchange a bloccare temporaneamente gli account coinvolti. Gli attacchi dust H...",
+      "date": "2026-08-26T05:56:17.0000000Z"
+    },
     {
       "id": "cryptonomist:2b960ea833fb",
       "sourceId": "cryptonomist",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "I futures perpetui su Solana hanno superato quota 1.080 miliardi di dollari di volume cumulato, un traguardo che sposta la blockchain di Solana dritta al secondo posto tra gli ecosistemi onchain per il trading di deri...",
       "date": "2026-08-25T16:29:33.0000000Z"
-    },
-    {
-      "id": "cryptonomist:c39119235fa4",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Trump batte la Fed: così esplode il boom trading negli Emirati Arabi",
-      "url": "https://cryptonomist.ch/2026/08/25/boom-trading-negli-emirati-arabi/",
-      "image": null,
-      "summary": "Quando Donald Trump parla, i trader retail negli Emirati Arabi Uniti non aspettano certo di leggere le note a piè di pagina. Secondo quanto riportato da Capital.com, gli annunci politici dell’ex presidente americano s...",
-      "date": "2026-08-25T16:29:11.0000000Z"
-    },
-    {
-      "id": "cryptonomist:626768bda2c1",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Condanna truffa fondo crypto: quasi un milione sottratto a 20 investitori",
-      "url": "https://cryptonomist.ch/2026/08/25/condanna-truffa-fondo-crypto/",
-      "image": null,
-      "summary": "Quasi un milione di dollari raccolto da oltre 20 investitori, un software di trading che non ha mai funzionato e una giuria federale che dopo dieci giorni di processo ha detto basta. È la sintesi della condanna truffa...",
-      "date": "2026-08-25T15:54:52.0000000Z"
     }
   ]
 }

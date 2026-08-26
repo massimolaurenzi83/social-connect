@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-08-26T05:48:48.7707466Z",
+  "updated": "2026-08-26T06:23:33.4637167Z",
   "items": [
+    {
+      "id": "media-inaf:c9dcc1b39e2a",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Un flusso di stelle che sa di materia oscura",
+      "url": "https://www.media.inaf.it/2026/08/26/corrente-stellare-materia-oscura/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/08/ud-gal-150x150.jpg",
+      "summary": "Un gruppo di astronomi ha scoperto il primo flusso di stelle proveniente da un ammasso globulare fuori dalla nostra galassia. La corrente stellare, identificata grazie al telescopio Hubble, ha consentito di stimare il...",
+      "date": "2026-08-26T05:58:17.0000000Z"
+    },
     {
       "id": "media-inaf:85d9911c7a60",
       "sourceId": "media-inaf",
@@ -133,18 +145,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/08/Figura-2-1-150x150.jpg",
       "summary": "Grazie agli ammassi globulari usati come traccianti e a una nuova tecnica per misurarne l'età, un team guidato dall’Istituto nazionale di astrofisica ha portato alla luce una fusione galattica avvenuta circa 1,8 milia...",
       "date": "2026-08-17T15:00:58.0000000Z"
-    },
-    {
-      "id": "media-inaf:ed7bd38d32a2",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Orbitali elettronici in 3D",
-      "url": "https://www.media.inaf.it/2026/08/17/orbitali-elettronici-in-3d/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/08/Low-Res_Jansen-nature-com-150x150.jpg",
-      "summary": "Ricostruita per la prima volta in tre dimensioni la funzione d’onda di una molecola organica nanometrica, usando un sistema da laboratorio basato su impulsi ultrabrevi di raggi X combinato con algoritmi matematici. Il...",
-      "date": "2026-08-17T05:58:59.0000000Z"
     }
   ]
 }

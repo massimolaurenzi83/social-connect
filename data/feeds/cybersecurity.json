@@ -1,6 +1,6 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-26T05:48:48.7601682Z",
+  "updated": "2026-08-26T06:23:33.4622565Z",
   "items": [
     {
       "id": "cybersecurity360:a13e8b1d4614",
@@ -13,6 +13,18 @@
       "image": null,
       "summary": "Il problema del codice duplicato emerge quando le copie iniziano a divergere: una patch applicata qui ma non altrove può lasciare vulnerabilità invisibili. Il principio DRY diventa così una strategia di sicurezza per ...",
       "date": "2026-08-25T08:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:363a800f19aa",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Integrare la categorizzazione ACN nell’analisi dei rischi: ecco 4 scenari operativi",
+      "url": "https://www.cybersecurity360.it/legal/integrare-la-categorizzazione-acn-nellanalisi-dei-rischi-ecco-4-scenari-operativi/",
+      "image": null,
+      "summary": "L’integrazione della categorizzazione ACN richiede percorsi differenti, ma con un obiettivo comune: non duplicare documenti né forzare corrispondenze tra valori diversi, bensì costruire un collegamento dimostrabile. E...",
+      "date": "2026-08-25T07:00:00.0000000Z"
     },
     {
       "id": "cybersecurity360:997d42800d0e",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Il Garante per la protezione dei dati personali ha irrogato una sanzione alla Piaggio per un importo di 460.000 euro, oltre al divieto di accedere ai dati raccolti illecitamente sui sistemi di posta elettronica aziend...",
       "date": "2026-08-24T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:b7cad410f250",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sicurezza nazionale e industria: i 4 pilastri per una Nato come blocco coordinato",
-      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/sicurezza-nazionale-e-industria-i-4-pilastri-per-una-nato-come-blocco-coordinato/",
-      "image": null,
-      "summary": "Il documento sulla sicurezza nazionale, pubblicato ad agosto dalla Casa Bianca, ricade sotto l'ombrello del Chips and Science Act. Ecco i quattro pillar del National Security Science and Technology Strategy (Nssts) e ...",
-      "date": "2026-08-21T16:08:49.0000000Z"
     }
   ]
 }
