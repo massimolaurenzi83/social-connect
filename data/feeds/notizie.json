@@ -1,7 +1,19 @@
 {
   "category": "notizie",
-  "updated": "2026-08-26T03:47:32.2109391Z",
+  "updated": "2026-08-26T04:27:18.3767655Z",
   "items": [
+    {
+      "id": "ansa:8309e25fff01",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Putin boccia il piano di Zelensky, a Mosca il capo della Cia",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/25/putin-boccia-il-piano-di-zelensky-a-mosca-il-capo-della-cia_090a0f9d-17ad-4c14-866e-4e2b05b44f05.html",
+      "image": null,
+      "summary": "L'inviato del Papa da Lavrov: 'La guerra deve finire'. E il Cremlino avverte i Volenterosi",
+      "date": "2026-08-26T04:06:53.0000000Z"
+    },
     {
       "id": "repubblica:879ae735141b",
       "sourceId": "repubblica",
@@ -68,10 +80,10 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Guerra Ucraina - Russia, le news di oggi. Zelensky: “Contiamo sulla Cina per porre fine alla guerra”",
+      "title": "Guerra Ucraina - Russia, le news di oggi. Drone ucraino colpisce casa a Lipeck, due morti. Si lavora a scambio di prigionieri",
       "url": "https://www.repubblica.it/esteri/2026/08/26/diretta/guerra_ucraina_russia_news_oggi-425547248/",
       "image": null,
-      "summary": "Mosca rivendica un attacco contro cinque navi nel Mar Nero",
+      "summary": "Zelensky fa un appello alla Cina: “Serve la sua diplomazia per la fine del conflitto”. Mosca rivendica un attacco contro cinque navi nel Mar Nero",
       "date": "2026-08-25T23:02:56.0000000Z"
     },
     {
@@ -84,18 +96,6 @@
       "url": "https://www.repubblica.it/esteri/2026/08/26/news/guerra_russia_ucraina_putin_boccia_pace_zelensky_prende_aziende-425547179/",
       "image": null,
       "summary": "Lo zar respinge l’idea di rendere il Donbass una zona franca: “È un nostro territorio”. Poi il decreto per commissariare l’industria",
-      "date": "2026-08-25T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:13004e9a88f9",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Batterie contraeree e radar, così il governo in segreto manda armamenti a Kiev",
-      "url": "https://www.repubblica.it/esteri/2026/08/26/news/ucraina_invio_armamenti_italia_governo_contraeree_radar-425547172/",
-      "image": null,
-      "summary": "Roma ha annunciato solo i generatori, ma è pronta a inviare Samp-T e Aster. Userà un Decreto per non spaccare la maggioranza",
       "date": "2026-08-25T23:00:00.0000000Z"
     },
     {
@@ -159,6 +159,18 @@
       "date": "2026-08-25T23:00:00.0000000Z"
     },
     {
+      "id": "repubblica:13004e9a88f9",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Batterie contraeree e radar, così il governo in segreto manda armamenti a Kiev",
+      "url": "https://www.repubblica.it/esteri/2026/08/26/news/ucraina_invio_armamenti_italia_governo_contraeree_radar-425547172/",
+      "image": null,
+      "summary": "Roma ha annunciato solo i generatori, ma è pronta a inviare Samp-T e Aster. Userà un Decreto per non spaccare la maggioranza",
+      "date": "2026-08-25T23:00:00.0000000Z"
+    },
+    {
       "id": "repubblica:a1ef799a0122",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -217,18 +229,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/08/isola-crevan.jpg",
       "summary": "Si tratta dell'isola di Crevan, a soli 7,5 chilometri da Venezia. Misura 5.700 metri quadrati e ospita un fortino napoleonico restaurato, giardini e approdi privati, con vista su Murano e Burano L'articolo Nella lagun...",
       "date": "2026-08-25T20:02:13.0000000Z"
-    },
-    {
-      "id": "ansa:8309e25fff01",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Putin boccia il piano di Zelensky, a Mosca il capo della Cia",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/25/putin-boccia-il-piano-di-zelensky-a-mosca-il-capo-della-cia_090a0f9d-17ad-4c14-866e-4e2b05b44f05.html",
-      "image": null,
-      "summary": "L'inviato del Papa da Lavrov: 'La guerra deve finire'. E il Cremlino avverte i Volenterosi",
-      "date": "2026-08-25T20:01:18.0000000Z"
     },
     {
       "id": "open:cf8be9d7ce0a",

@@ -1,7 +1,31 @@
 {
   "category": "mondo",
-  "updated": "2026-08-26T03:47:32.2011438Z",
+  "updated": "2026-08-26T04:27:18.3667776Z",
   "items": [
+    {
+      "id": "ansa-mondo:2f509b431cf2",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Robot umanoide cinese corre i 100 metri in 8,86 secondi",
+      "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/robot-umanoide-cinese-corre-i-100-metri-in-886-secondi_e611aa7d-12e4-4dd7-bd69-7e3740456617.html",
+      "image": null,
+      "summary": "Il Tiangong Ultra migliora il tempo, dopo che il primato di Bolt era già stato battuto",
+      "date": "2026-08-26T04:06:11.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:4e39eb88f8b3",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Colombia, via libera della Corte alla legge sulle pensioni promossa da Petro",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/26/colombia-via-libera-della-corte-alla-legge-sulle-pensioni-promossa_5035479f-f993-4285-b78e-98a449409c28.html",
+      "image": null,
+      "summary": "L'ex presidente: 'Ora manca soltanto la riforma della salute'",
+      "date": "2026-08-26T04:02:03.0000000Z"
+    },
     {
       "id": "ansa-mondo:afc6d77f6740",
       "sourceId": "ansa-mondo",
@@ -147,30 +171,6 @@
       "date": "2026-08-25T23:01:46.0000000Z"
     },
     {
-      "id": "ansa-mondo:4f8b03db6e4a",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Messico, Graciela Domínguez Nava nuova governatrice ad interim di Sinaloa",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/messico-graciela-dominguez-nava-nuova-governatrice-ad-interim-di-sinaloa_efb32d42-dc53-4cf1-8e2f-7f9f2bae23e6.html",
-      "image": null,
-      "summary": "Il Parlamento statale approva la nomina dopo la nuova licenza chiesta da Rubén Rocha Moya",
-      "date": "2026-08-25T21:17:58.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:1815b3d81534",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Colombia, salgono a 331 i morti e a 31.613 le case distrutte dal sisma del 10 agosto",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/25/colombia-salgono-a-331-i-morti-e-a-31.613-le-case-distrutte-dal-sisma-del_98ef9c8b-7b34-4b01-9f48-f3d042dcfa87.html",
-      "image": null,
-      "summary": "La Protezione civile, 4.439 i feriti, 240 i dispersi e 178.515 le abitazioni danneggiate",
-      "date": "2026-08-25T21:08:24.0000000Z"
-    },
-    {
       "id": "internazionale:49b4a8eeeece",
       "sourceId": "internazionale",
       "source": "Internazionale",
@@ -229,18 +229,6 @@
       "image": "https://media.internazionale.it/images/2026/08/24/356802-hd.jpg",
       "summary": "Al centro della vicenda non c’è solo un accordo commerciale saltato, ma il tentativo di Washington di rendere vassalli i paesi alleati Leggi",
       "date": "2026-08-24T08:55:01.0000000Z"
-    },
-    {
-      "id": "internazionale:59547c37f00a",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Chi salverà le Nazioni Unite",
-      "url": "https://www.internazionale.it/notizie/alec-russell/2026/08/24/salvare-nazioni-unite",
-      "image": "https://media.internazionale.it/images/2026/08/21/356638-hd.jpg",
-      "summary": "La corsa alla carica di prossimo segretario generale dell’Onu si avvia verso la fase cruciale. Da questa scelta potrebbe dipendere il futuro dell’organizzazione Leggi",
-      "date": "2026-08-24T03:41:03.0000000Z"
     }
   ]
 }
