@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-26T13:13:47.0740225Z",
+  "updated": "2026-08-26T14:07:20.2382770Z",
   "items": [
+    {
+      "id": "ferrovie:56bee6788402",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "BBT, completata la galleria di linea ovest: Wilma raggiunge il traguardo dei 55 chilometri",
+      "url": "https://www.ferrovie.info/treni-reali/bbt-completata-la-galleria-di-linea-ovest-wilma-raggiunge-il-traguardo-dei-55-chilometri.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/BBT_mules_3251.jpg",
+      "summary": "Un altro traguardo storico per la Galleria di Base del Brennero. Martedì 25 agosto la TBM Wilma ha abbattuto l'ultimo diaframma, completando per tutta la sua lunghezza la galleria di linea ovest del BBT, che si svilup...",
+      "date": "2026-08-26T13:40:32.0000000Z"
+    },
     {
       "id": "ferrovie:27e780140d2d",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1830035.JPG",
       "summary": "Una settimana segnata da importanti novità per i servizi ferroviari, il turismo su rotaia e le grandi infrastrutture, con aggiornamenti che arrivano dall’Italia e dall’estero. In primo piano il potenziamento dei colle...",
       "date": "2026-08-24T06:26:53.0000000Z"
-    },
-    {
-      "id": "ferrovie:0edb7986897f",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "FS Italiane Official Partner del Meeting di Rimini: mobilità, innovazione e sostenibilità",
-      "url": "https://www.ferrovie.info/treni-reali/fs-italiane-official-partner-del-meeting-di-rimini-mobilita-innovazione-e-sostenibilita.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10529/pop_rimini_0021_30.jpeg",
-      "summary": "Il Gruppo FS protagonista alla 47ª edizione della manifestazione, con Trenitalia Official Green Carrier e uno spazio dedicato all’innovazione ferroviaria. FS Italiane è Official Partner del Meeting di Rimini, in progr...",
-      "date": "2026-08-22T13:26:18.0000000Z"
     }
   ]
 }

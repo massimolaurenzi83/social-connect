@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-08-26T13:13:47.0203802Z",
+  "updated": "2026-08-26T14:07:20.2194069Z",
   "items": [
+    {
+      "id": "hdmotori:0061442b92ce",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Porsche 911 Challenge, costa 208.800 euro ma su strada non la potrete guidare",
+      "url": "https://www.hdmotori.it/porsche-911-challenge-pista-prezzo/",
+      "image": null,
+      "summary": "Porsche presenta la 911 Challenge, nuova auto da corsa da 515 CV derivata dalla GT3: PDK, dotazioni FIA e debutto nelle serie monomarca dal 2027 The post Porsche 911 Challenge, costa 208.800 euro ma su strada non la p...",
+      "date": "2026-08-26T14:00:49.0000000Z"
+    },
+    {
+      "id": "motor1:b588644f64d4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "400 Actros: Mercedes lancia l'edizione \"130 anni\" all'IAA 2026",
+      "url": "https://it.motor1.com/news/806143/mercedes-actros-130-anni-edition/",
+      "image": "https://cdn.motor1.com/images/mgl/pbJVn1/s3/130-anni-di-camion-daimler-si-celabrano-allo-iaa-di-hannover.jpg",
+      "summary": "Mercedes Actros 130 anni Trucks Edition, limitato a 400 esemplari endotermici ed elettrici, debutta alla IAA Transportation",
+      "date": "2026-08-26T14:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:e5d91a715172",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen, il futuro fa paura: i sindacati temono fino a 140.000 posti a rischio",
+      "url": "https://www.hdmotori.it/volkswagen-futuro-posti-rischio-140000/",
+      "image": null,
+      "summary": "Volkswagen accelera sulla ristrutturazione: altri 50.000 tagli, quattro stabilimenti tedeschi sotto osservazione e sindacati sul piede di guerra The post Volkswagen, il futuro fa paura: i sindacati temono fino a 140.0...",
+      "date": "2026-08-26T13:30:49.0000000Z"
+    },
+    {
+      "id": "vaielettrico:d05b8fff8a5b",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Montra Electric: maxi fornitura da 260 camion elettrici",
+      "url": "https://www.vaielettrico.it/montra-electric-fa-260-i-camion-elettrici-pesanti-venduti-a-un-cliente/",
+      "image": null,
+      "summary": "Montra Electric fa buoni affari con i camion elettrici. Ne ha appena consegnati 65, ma si tratta solo… L'articolo Montra Electric: maxi fornitura da 260 camion elettrici proviene da Vaielettrico .",
+      "date": "2026-08-26T13:21:27.0000000Z"
+    },
     {
       "id": "hdmotori:353b8e0d0720",
       "sourceId": "hdmotori",
@@ -87,18 +135,6 @@
       "date": "2026-08-26T11:00:57.0000000Z"
     },
     {
-      "id": "motor1:8dbdb9404f65",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Fiat perde terreno nell’usato: Audi la supera tra le auto recenti",
-      "url": "https://it.motor1.com/news/806133/fiat-audi-usato-mercato/",
-      "image": "https://cdn.motor1.com/images/mgl/vx89OQ/s3/fiat-perde-terreno-nell-usato-audi-la-supera-tra-le-auto-recenti.jpg",
-      "summary": "Il marchio italiano resta primo nel complesso, ma scende tra le vetture fino a dieci anni mentre Audi continua a guadagnare spazio",
-      "date": "2026-08-26T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:f7927c0df849",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -108,6 +144,18 @@
       "url": "https://insideevs.it/news/806126/corso-elettrificazione-dipendenti-toyota/",
       "image": "https://cdn.motor1.com/images/mgl/BXZj4e/s3/electrification-101_2026_toyota_low-res_19.jpg",
       "summary": "La maggior parte degli impiegati delle Case auto sa poco di elettrico, ma l'entusiasmo non manca",
+      "date": "2026-08-26T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:8dbdb9404f65",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Fiat perde terreno nell’usato: Audi la supera tra le auto recenti",
+      "url": "https://it.motor1.com/news/806133/fiat-audi-usato-mercato/",
+      "image": "https://cdn.motor1.com/images/mgl/vx89OQ/s3/fiat-perde-terreno-nell-usato-audi-la-supera-tra-le-auto-recenti.jpg",
+      "summary": "Il marchio italiano resta primo nel complesso, ma scende tra le vetture fino a dieci anni mentre Audi continua a guadagnare spazio",
       "date": "2026-08-26T11:00:00.0000000Z"
     },
     {
@@ -183,18 +231,6 @@
       "date": "2026-08-26T09:00:38.0000000Z"
     },
     {
-      "id": "insideevs:4a2f2ca414be",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Strano ma vero: il Tesla FSD se la cava bene anche sullo sterrato",
-      "url": "https://insideevs.it/news/806092/tesla-fsd-sterrato-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/mMzZNj/s3/tesla-fsd-tflev.jpg",
-      "summary": "Si scopre che l'FSD è sorprendentemente capace anche quando l'asfalto scompare",
-      "date": "2026-08-26T09:00:00.0000000Z"
-    },
-    {
       "id": "motor1:7aac08d7554e",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -204,6 +240,18 @@
       "url": "https://it.motor1.com/news/806086/ferrari-fari-posteriori-aerodinamica-brevetto/",
       "image": "https://cdn.motor1.com/images/mgl/pbJVQv/s3/ferrari-aerodynamic-taillights-patent.jpg",
       "summary": "Il brevetto di Ferrari mostra fanali posteriori che possono estendersi verso l’esterno per aumentare il carico aerodinamico dell’auto",
+      "date": "2026-08-26T09:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:4a2f2ca414be",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Strano ma vero: il Tesla FSD se la cava bene anche sullo sterrato",
+      "url": "https://insideevs.it/news/806092/tesla-fsd-sterrato-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/mMzZNj/s3/tesla-fsd-tflev.jpg",
+      "summary": "Si scopre che l'FSD è sorprendentemente capace anche quando l'asfalto scompare",
       "date": "2026-08-26T09:00:00.0000000Z"
     },
     {
@@ -231,18 +279,6 @@
       "date": "2026-08-26T08:00:00.0000000Z"
     },
     {
-      "id": "motor1:382b5b1bc6a2",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Apple Maps integrato nelle Ford UEV: navigazione senza iPhone",
-      "url": "https://it.motor1.com/news/806037/ford-universal-electric-vehicle-apple/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak3vP2/s3/ford-e-apple-maps.jpg",
-      "summary": "Dal 2027 la piattaforma Ford Universal Electric Vehicle nasce con Apple Maps nativo, routing EV avanzato e supporto alla guida BlueCruise",
-      "date": "2026-08-26T07:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:cf9c3c8b1f96",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -252,6 +288,18 @@
       "url": "https://insideevs.it/news/806050/wabtec-flxdrive-funziona-locomotiva-elettrica/",
       "image": "https://cdn.motor1.com/images/mgl/W8KmX1/s3/wabtec-flxdrive.jpg",
       "summary": "In Australia una locomotiva elettrica da 7 MWh lavora nelle miniere del Pilbara. E in discesa riesce anche a ricaricarsi",
+      "date": "2026-08-26T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:382b5b1bc6a2",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Apple Maps integrato nelle Ford UEV: navigazione senza iPhone",
+      "url": "https://it.motor1.com/news/806037/ford-universal-electric-vehicle-apple/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak3vP2/s3/ford-e-apple-maps.jpg",
+      "summary": "Dal 2027 la piattaforma Ford Universal Electric Vehicle nasce con Apple Maps nativo, routing EV avanzato e supporto alla guida BlueCruise",
       "date": "2026-08-26T07:00:00.0000000Z"
     },
     {
@@ -327,30 +375,6 @@
       "date": "2026-08-26T05:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:5a224498b62d",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Porsche 911 Targa della Polizia frantuma ogni record: vola oltre i 216.000 euro",
-      "url": "https://www.hdmotori.it/porsche-911-targa-polizia-olandese-asta-216000-euro/",
-      "image": null,
-      "summary": "Per anni ha pattugliato le autostrade olandesi a caccia di automobilisti indisciplinati. Oggi quella Porsche 911 Targa è diventata un pezzo da collezione The post La Porsche 911 Targa della Polizia frantuma ogni recor...",
-      "date": "2026-08-25T18:00:22.0000000Z"
-    },
-    {
-      "id": "hdmotori:d0c3a89e0e58",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "CATL, ora le batterie si comprano online come “cibo a domicilio”",
-      "url": "https://www.hdmotori.it/catl-mall-vendita-online-batterie-lfp/",
-      "image": null,
-      "summary": "CATL lancia la piattaforma B2B CATL Mall: celle LFP e moduli d'accumulo venduti direttamente online senza intermediari, con garanzia di 5 anni The post CATL, ora le batterie si comprano online come “cibo a domicilio” ...",
-      "date": "2026-08-25T17:00:09.0000000Z"
-    },
-    {
       "id": "motor1:49b7ca8e74b3",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -373,18 +397,6 @@
       "image": null,
       "summary": "Nuovo Askoll per Cooltra in arrivo a settembre: la flotta del leader nello sharing si rinnova con uno… L'articolo Nuovo Askoll per Cooltra in arrivo a settembre proviene da Vaielettrico .",
       "date": "2026-08-25T15:54:46.0000000Z"
-    },
-    {
-      "id": "motor1:e05ecc89e772",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "BMW M3, motorsport ed elettrico: ne parla il CEO di M",
-      "url": "https://it.motor1.com/news/806006/bmw-m3-van-meel-intervista/",
-      "image": "https://cdn.motor1.com/images/mgl/JONl6g/s3/frank-van-meel-ceo-bmw-m-interview.jpg",
-      "summary": "La M Concept Neue Klasse incontra a Monterey quattro decenni di storia della M3 e parliamo con il capo di M Frank van Meel",
-      "date": "2026-08-25T15:30:00.0000000Z"
     },
     {
       "id": "insideevs:b72186041cd8",
@@ -505,18 +517,6 @@
       "image": null,
       "summary": "A Skellefteå, nel nord della Svezia, una sauna pubblica rosa shocking e a forma di cristallo di litio… L'articolo In Svezia c’è una sauna alimentata dalla batteria dell’auto elettrica proviene da Vaielettrico .",
       "date": "2026-08-25T04:47:21.0000000Z"
-    },
-    {
-      "id": "vaielettrico:9b8d432dd0e0",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Liguria: dalla Regione 5mila euro per chi compra il taxi elettrico",
-      "url": "https://www.vaielettrico.it/liguria-dalla-regione-5mila-euro-per-comprare-il-taxi-elettrico/",
-      "image": null,
-      "summary": "Regione Liguria. c0me quella lombarda, finanzia i taxi elettrici. Purtroppo come spesso succede e come ha sottolineato in… L'articolo Liguria: dalla Regione 5mila euro per chi compra il taxi elettrico proviene da Vaie...",
-      "date": "2026-08-25T04:26:42.0000000Z"
     },
     {
       "id": "motor1:8302b60e6bb6",
