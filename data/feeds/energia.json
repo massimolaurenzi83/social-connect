@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-26T06:23:33.4284561Z",
+  "updated": "2026-08-26T07:24:34.8987722Z",
   "items": [
+    {
+      "id": "qualenergia:f50448475972",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Con le batterie l’era del “fotovoltaico a ogni ora” è qui",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/batterie-era-fotovoltaico-ogni-ora/",
+      "image": null,
+      "summary": "Le batterie stanno inaugurando l’era della generazione fotovoltaica disponibile anche oltre le ore di sole, spostando verso la sera e la notte una quota crescente dell’energia prodotta durante il giorno. Su scala mond...",
+      "date": "2026-08-26T07:00:19.0000000Z"
+    },
     {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
@@ -23,7 +35,7 @@
       "title": "Batteries have unlocked the era of anytime solar",
       "url": "https://www.qualenergia.it/pro/documenti/batteries-have-unlocked-the-era-of-anytime-solar/",
       "image": null,
-      "summary": "Studio di Ember secondo cui le batterie aprono l’era del fotovoltaico disponibile anche oltre le ore di sole. Le batterie che dovrebbero entrare in funzione nel 2026 potrebbero teoricamente spostare verso le ore senza...",
+      "summary": "Le batterie aprono l’era del fotovoltaico disponibile anche oltre le ore di sole, secondo uno studio di Ember. Gli accumuli elettrochimici che dovrebbero entrare in funzione nel 2026 potrebbero teoricamente spostare v...",
       "date": "2026-08-26T05:00:59.0000000Z"
     },
     {
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Entro il 2060 nel mondo si potrebbero accumulare tra 297 e 402 milioni di tonnellate di moduli fotovoltaici a fine vita. Se questo flusso venisse gestito con tecnologie e catene di riciclo adatte ai diversi mercati, p...",
       "date": "2026-08-25T07:00:10.0000000Z"
-    },
-    {
-      "id": "qualenergia:b60784c728d1",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Puglia, incentivi a imprese della pesca per efficienza energetica e rinnovabili",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/puglia-incentivi-imprese-pesca-efficienza-rinnovabili/",
-      "image": null,
-      "summary": "Aprirà a settembre lo sportello agevolativo della Regione Puglia che sostiene investimenti per rafforzare la competitività e la sostenibilità delle imprese della pesca attraverso il miglioramento delle condizioni di l...",
-      "date": "2026-08-25T06:55:26.0000000Z"
     }
   ]
 }

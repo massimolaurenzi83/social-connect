@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-08-26T06:23:33.4837812Z",
+  "updated": "2026-08-26T07:24:34.8857490Z",
   "items": [
+    {
+      "id": "insideevs:cf9c3c8b1f96",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il treno da 4.400 CV che ha detto addio al diesel",
+      "url": "https://insideevs.it/news/806050/wabtec-flxdrive-funziona-locomotiva-elettrica/",
+      "image": "https://cdn.motor1.com/images/mgl/W8KmX1/s3/wabtec-flxdrive.jpg",
+      "summary": "In Australia una locomotiva elettrica da 7 MWh lavora nelle miniere del Pilbara. E in discesa riesce anche a ricaricarsi",
+      "date": "2026-08-26T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:382b5b1bc6a2",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Apple Maps integrato nelle Ford UEV: navigazione senza iPhone",
+      "url": "https://it.motor1.com/news/806037/ford-universal-electric-vehicle-apple/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak3vP2/s3/ford-e-apple-maps.jpg",
+      "summary": "Dal 2027 la piattaforma Ford Universal Electric Vehicle nasce con Apple Maps nativo, routing EV avanzato e supporto alla guida BlueCruise",
+      "date": "2026-08-26T07:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:c9f99130a69b",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Rivian punta l’Europa: il SUV elettrico R2 sarà l’apripista",
+      "url": "https://www.vaielettrico.it/rivian-punta-leuropa-il-suv-elettrico-r2-sara-lapripista/",
+      "image": null,
+      "summary": "Il nuovo modello R2 sarà il principale strumento della Casa americana Rivian per crescere fuori dal Nord America… L'articolo Rivian punta l’Europa: il SUV elettrico R2 sarà l’apripista proviene da Vaielettrico .",
+      "date": "2026-08-26T06:23:46.0000000Z"
+    },
     {
       "id": "vaielettrico:6d6fcea094c7",
       "sourceId": "vaielettrico",
@@ -13,6 +49,30 @@
       "image": null,
       "summary": "Fuyao Glass, uno dei principali produttori mondiali di vetri per automobili, ha presentato un vetro fotovoltaico semitrasparente destinato… L'articolo Dalla Cina arrivano i tetti solari per auto. Ma… proviene da Vaiel...",
       "date": "2026-08-26T06:14:04.0000000Z"
+    },
+    {
+      "id": "insideevs:fa7bf2e09f98",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La wallbox intelligente che ricarica senza sovraccaricare casa",
+      "url": "https://insideevs.it/features/806048/schneider-charge-48a-funziona-wallbox/",
+      "image": "https://cdn.motor1.com/images/mgl/Rqk0r3/s3/nuovo-wallbox-schneider-ricarica-ev-veloce-senza-rifare-il-quadro.jpg",
+      "summary": "Il caricatore monitora forno, clima e altri elettrodomestici e riduce la potenza dell'auto quando l'impianto è già sotto pressione",
+      "date": "2026-08-26T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:da1705eed796",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Land Rover Defender a batteria è rinviata a dopo il 2030",
+      "url": "https://it.motor1.com/news/806017/land-rover-defender-elettrica-rinvio/",
+      "image": "https://cdn.motor1.com/images/mgl/zxJ1jb/s3/range-rover-sport-electric-prototype.jpg",
+      "summary": "JLR rallenta il rinnovamento della Land Rover Defender, sostenendo una baby Defender e dando priorità alla Range Rover Electric",
+      "date": "2026-08-26T06:00:00.0000000Z"
     },
     {
       "id": "insideevs:68822b1eee1a",
@@ -351,18 +411,6 @@
       "date": "2026-08-25T09:57:50.0000000Z"
     },
     {
-      "id": "motor1:acf60e64b877",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le nuove ibride di Volvo si guideranno come auto elettriche",
-      "url": "https://it.motor1.com/news/805954/volvo-ibride-plug-in-nuove/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZwqWX/s3/volvo-xc60-update.jpg",
-      "summary": "I nuovi modelli ibridi del brand svedese avranno batterie più grandi: si parte con la XC70 da 200 km di autonomia EV",
-      "date": "2026-08-25T09:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:44d95b79dcd6",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -385,18 +433,6 @@
       "image": null,
       "summary": "Volkswagen Group domina nelle vendite di auto elettriche in Europa, con 5 modelli nei primi 10 in luglio.… L'articolo Volkswagen Group domina nelle vendite in Europa proviene da Vaielettrico .",
       "date": "2026-08-25T08:36:52.0000000Z"
-    },
-    {
-      "id": "motor1:516007b778f2",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Fiat Topolino piace tanto agli americani, ecco perché",
-      "url": "https://it.motor1.com/news/805887/fiat-topolino-usa-successo/",
-      "image": "https://cdn.motor1.com/images/mgl/YAOo20/s3/fiat-topolino.jpg",
-      "summary": "Il quadriciclo elettrico italiano è già quasi esaurito in alcune concessionarie e punta al mercato dei golf cart",
-      "date": "2026-08-25T08:00:00.0000000Z"
     },
     {
       "id": "insideevs:666980fbbe8e",
@@ -483,18 +519,6 @@
       "date": "2026-08-24T15:00:00.0000000Z"
     },
     {
-      "id": "vaielettrico:8e0bb3bbb3b6",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Milano lancia MOBIDAYS: una settimana per raccontare la mobilità che cambia",
-      "url": "https://www.vaielettrico.it/milano-lancia-mobidays-una-settimana-per-raccontare-la-mobilita-che-cambia/",
-      "image": null,
-      "summary": "Dal 16 al 22 settembre debutta MOBIDAYS, il nuovo evento del Comune di Milano dedicato alla mobilità urbana… L'articolo Milano lancia MOBIDAYS: una settimana per raccontare la mobilità che cambia proviene da Vaielettr...",
-      "date": "2026-08-24T14:02:11.0000000Z"
-    },
-    {
       "id": "insideevs:62cf2db3f112",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -505,30 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/BXZj2R/s3/tesla-cybercab-debutto.jpg",
       "summary": "Il veicolo elettrico a guida autonoma inizia il servizio di robotaxi ad Austin dopo gli esperimenti con Model Y modificate",
       "date": "2026-08-24T13:30:00.0000000Z"
-    },
-    {
-      "id": "insideevs:aac79ad234ac",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Batterie allo stato solido: \"Le aziende sono in difficoltà\"",
-      "url": "https://insideevs.it/news/805841/batterie-stato-solido-difficolta-aziende/",
-      "image": "https://cdn.motor1.com/images/mgl/xq3666/s3/lges-cylindrical-battery-cells.jpg",
-      "summary": "Il colosso coreano delle batterie LG Energy Solution ammette le difficoltà nello sviluppo del Santo Graal delle auto elettriche",
-      "date": "2026-08-24T12:30:00.0000000Z"
-    },
-    {
-      "id": "insideevs:37814922c6fc",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Dentro la fabbrica di batterie da 2 miliardi di dollari che produce celle per Tesla e Toyota",
-      "url": "https://insideevs.it/news/805819/fabbrica-batterie-tesla-toyota/",
-      "image": "https://cdn.motor1.com/images/mgl/G3QL8Z/s3/lges-battery-plant-lansing-michigan..jpg",
-      "summary": "Ho visitato una gigafactory di batterie dove i dirigenti hanno parlato di batterie allo stato solido, ioni di sodio e altro",
-      "date": "2026-08-24T11:00:00.0000000Z"
     }
   ]
 }
