@@ -1,18 +1,90 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-26T11:05:12.4325157Z",
+  "updated": "2026-08-26T11:41:21.3143555Z",
   "items": [
+    {
+      "id": "ansa-cronaca:6442e4f28ca9",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Sindaco Vezzano Ligure, \"un buco sopra l'oleodotto della Nato e non ne sapevo nulla\"",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/sindaco-vezzano-ligure-un-buco-sopra-loleodotto-della-nato-e-non-ne-sapevo_6c4155eb-51ce-413b-8d90-dfea5ad9c3f7.html",
+      "image": null,
+      "summary": "\"Scriverò al prefetto, siamo area ad alto rischio e mi informa un amico...\"",
+      "date": "2026-08-26T11:30:07.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:6392bb592c7d",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Bagnino annegato, bandiere a mezz'asta nei bagni della Versilia",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/bagnino-annegato-bandiere-a-mezzasta-nei-bagni-della-versilia_c1d4e7ec-d88a-47fd-89b6-b8ea6f4f3629.html",
+      "image": null,
+      "summary": "Alle 12 i colleghi in servizio hanno suonato all'unisono i loro fischietti",
+      "date": "2026-08-26T11:26:42.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:2a2c1f48178f",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Barca distrutta da un incendio, la Guardia di Finanza salva un uomo",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/barca-distrutta-da-un-incendio-la-guardia-di-finanza-salva-un-uomo_449a5304-b877-46f9-b8f5-a8ff7d07f88b.html",
+      "image": null,
+      "summary": "Operazione del reparto operativo aeronavale della Finanza a largo di Marsala",
+      "date": "2026-08-26T11:26:29.0000000Z"
+    },
     {
       "id": "ansa-cronaca:4a8583c89573",
       "sourceId": "ansa-cronaca",
       "source": "ANSA Cronaca",
       "platform": "rss",
       "category": "cronaca",
-      "title": "Torna l'anticiclone, valori termici fino a 8/10°C oltre le medie",
+      "title": "Torna l'anticiclone africano, venerdì 8 città da bollino rosso",
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/torna-lanticiclone-valori-termici-fino-a-810c-oltre-le-medie_070e181f-a4ed-4b0e-acf0-d834e99aecda.html",
       "image": null,
-      "summary": "La rimonta africana partirà con la Sicilia",
-      "date": "2026-08-26T10:59:08.0000000Z"
+      "summary": "Temperature fino a 10 gradi oltre le medie",
+      "date": "2026-08-26T11:23:42.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:0700cc5e2a94",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Nel Foggiano nasce il taxi sociale per accompagnare gli anziani dal medico",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/nel-foggiano-nasce-il-taxi-sociale-per-accompagnare-gli-anziani-dal_7e1e4fb5-8a93-4011-8330-272c31938091.html",
+      "image": null,
+      "summary": "Da Poggio Imperiale servizio comunale per facilitare accesso a cure e presidi sanitari",
+      "date": "2026-08-26T11:23:30.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:b8e91673362a",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "In Lombardia primo suicidio assistito gestito dal servizio sanitario",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/in-lombardia-primo-suicidio-assistito-gestito-dal-servizio-sanitario_aa380f2c-0d0d-4548-b8d6-04a9adaf311d.html",
+      "image": null,
+      "summary": "Domenico Zuccarella, 59 anni, era affetto da sclerosi multipla progressiva",
+      "date": "2026-08-26T11:21:24.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:ccb40aa653c0",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Torna il grande caldo, venerdì 8 città da bollino rosso",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/torna-il-grande-caldo-venerdi-8-citta-da-bollino-rosso_3376c87c-3a49-4cbd-8e10-fe2515e4afb1.html",
+      "image": null,
+      "summary": "Il bollettino del ministero, oggi ultimo giorno con 11 città in verde",
+      "date": "2026-08-26T11:18:03.0000000Z"
     },
     {
       "id": "ansa-cronaca:0688c753e44b",
@@ -20,11 +92,23 @@
       "source": "ANSA Cronaca",
       "platform": "rss",
       "category": "cronaca",
-      "title": "In Lombardia primo suicidio assistito gestito dal servizio sanitario",
+      "title": "In Lombardia il primo suicidio assistito gestito dal servizio sanitario",
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/in-lombardia-primo-suicidio-assistito-gestito-dal-servizio-sanitario_c4f63e80-9255-4f5e-b8bf-e6391e0e622d.html",
       "image": null,
       "summary": "Domenico Zuccarella, 59 anni, era affetto da sclerosi multipla progressiva",
-      "date": "2026-08-26T10:56:46.0000000Z"
+      "date": "2026-08-26T11:16:53.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:a05008d05496",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Differenza Donna, 'programma Vannacci una mostruosità, ribelliamoci'",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/differenza-donna-programma-vannacci-una-mostruosita-ribelliamoci_a6014ccb-35ad-463e-a876-0d0eab315a76.html",
+      "image": null,
+      "summary": "Fa appello alle giovani e ai giovani \"per far sentire la propria voce, anzi le urla\"",
+      "date": "2026-08-26T11:11:19.0000000Z"
     },
     {
       "id": "ansa-cronaca:27023b0f6f68",
@@ -51,30 +135,6 @@
       "date": "2026-08-26T10:04:14.0000000Z"
     },
     {
-      "id": "ansa-cronaca:4e2eed0daa3b",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Pm di Milano: 'I rider di Glovo sono ancora sottopagati, vanno assunti'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/pm-di-milano-i-rider-di-glovo-sono-ancora-sottopagati-vanno-assunti_cf877c3c-f775-4f87-a29a-460165bbb91c.html",
-      "image": null,
-      "summary": "\"Il sistema di determinazione dei compensi\", basato su un algoritmo, resta \"completamente opaco\"",
-      "date": "2026-08-26T09:51:37.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:59a5907a4847",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Donna impiccata nel catanese, si attende esito autopsia",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/donna-impiccata-nel-catanese-si-attende-esito-autopsia_5cdd5b4d-65f6-4b03-9eb8-7d22a1d667b0.html",
-      "image": null,
-      "summary": "Sospetti sul fidanzato che non avrebbe dato subito l'allarme",
-      "date": "2026-08-26T09:35:52.0000000Z"
-    },
-    {
       "id": "ansa-cronaca:c426c684bae4",
       "sourceId": "ansa-cronaca",
       "source": "ANSA Cronaca",
@@ -85,66 +145,6 @@
       "image": null,
       "summary": "iLMeteo.it, meglio le regioni al Nord-Ovest con massime di 30°C",
       "date": "2026-08-26T09:20:48.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:21d183cc594a",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Muore lanciandosi con il parapendio in Alto Adige, la vittima è un atleta francese",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/incidente-con-il-parapendio-in-alto-adige-la-vittima-e-un-atleta-francese_13d7186b-3698-4f51-a179-ab1e713bffc1.html",
-      "image": null,
-      "summary": "Inutili i soccorsi giunti a Passo Rambo con l'elicottero Pelikan 2",
-      "date": "2026-08-26T09:18:46.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:bcc81d5158df",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Scontro tra auto e moto ad Ameglia, morto un diciasettenne",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/scontro-tra-auto-e-moto-ad-ameglia-morto-un-diciasettenne_c5f01e31-fc48-478d-a231-e259dc88a829.html",
-      "image": null,
-      "summary": "Vani i tentativi dei sanitari del 118 di rianimarlo",
-      "date": "2026-08-26T09:13:01.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:54235d5e4c70",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Esplosione in un B&B, tre feriti sono in prognosi riservata",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/esplosione-in-un-bb-tre-feriti-sono-in-prognosi-riservata_a45ab006-a665-4bbd-b762-ca79d61ad8e5.html",
-      "image": null,
-      "summary": "La bimba di 10 anni e i genitori portati in centri specializzati",
-      "date": "2026-08-26T08:16:46.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:d2904ce60ba5",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Esplode una bombola di gas in B&B, feriti padre, madre e figlio",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/esplode-una-bombola-di-gas-in-bb-feriti-padre-madre-e-figlio_f707d10f-d882-45e2-911d-6fec06074cdd.html",
-      "image": null,
-      "summary": "Soccorsi e portati in ospedale a Vibo Valentia, non sarebbe in pericolo di vita",
-      "date": "2026-08-25T20:24:53.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:244470216090",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Perde il controllo, cade e muore con il parapendio, l'incidente in Alto Adige",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/perde-il-controllo-cade-e-muore-con-il-parapendio-lincidente-in-alto-adige_455aaeb8-3108-4658-8160-be7f82aa046f.html",
-      "image": null,
-      "summary": "Inutili i soccorsi giunti a Passo Rambo con l'elicottero Pelikan 2",
-      "date": "2026-08-25T19:10:49.0000000Z"
     }
   ]
 }
