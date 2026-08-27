@@ -1,7 +1,67 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-27T05:10:08.2161027Z",
+  "updated": "2026-08-27T16:31:34.0118926Z",
   "items": [
+    {
+      "id": "cybersecurity360:653acd9a6205",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Condivisione sicura delle credenziali e monitoraggio data leak: gestire le password in azienda a 3,59 €",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/sicurezza-password-manager-aziendale/",
+      "image": null,
+      "summary": "NordPass propone il piano Business a 3,59 euro per utente al mese con il piano biennale. La soluzione include gestione e condivisione sicura delle credenziali, monitoraggio delle violazioni e strumenti per amministrat...",
+      "date": "2026-08-27T10:20:45.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:7997bc8bc850",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Antivirus completo, VPN illimitata e 10 euro di buono regalo: la protezione per tutti i dispositivi",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/antivirus-completo-con-vpn-illimitata-buono-regalo/",
+      "image": null,
+      "summary": "Kaspersky propone il piano Premium con antivirus, VPN illimitata, protezione dell’identità e strumenti per la privacy. Il prezzo parte da 34,99 euro per il primo anno, con un buono regalo Amazon.it da 10 euro L'artico...",
+      "date": "2026-08-27T09:51:48.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:42897ad609e9",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Operazioni cyber e SIGINT: il dilemma della sicurezza nazionale",
+      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/operazioni-cyber-e-sigint-il-dilemma-della-sicurezza-nazionale/",
+      "image": null,
+      "summary": "Un'analisi approfondita sul posizionamento delle forze digitali e sul conflitto strutturale tra la raccolta informativa della SIGINT e la necessità di condurre operazioni cyber aggressive per contrastare efficacemente...",
+      "date": "2026-08-27T09:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:b5e68883aed0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Zero Trust alla prova degli AI agent: spostare l’applicazione delle regole di sicurezza dalla rete all’utente",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/zero-trust-alla-prova-degli-ai-agent-spostare-lapplicazione-delle-regole-di-sicurezza-dalla-rete-allutente/",
+      "image": null,
+      "summary": "Nel passaggio da un software che risponde a un software che agisce, si mettono in discussione le premesse su cui si basano la sicurezza perimetrale. Ecco i limiti degli LLM, quali sono le minacce legate all'AI agent e...",
+      "date": "2026-08-27T08:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:63b4fed657f1",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cloud governance e cyber: ecco i 5 pilastri di un framework per l’AI generativa aziendale",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cloud-governance-e-cyber-ecco-i-5-pilastri-di-un-framework-per-lai-generativa-aziendale/",
+      "image": null,
+      "summary": "L'AI generativa nei processi aziendali, nei workflow documentali, nei sistemi di customer care, nello sviluppo software e negli ambienti cloud dove l’impresa ha spostato dati, identità, applicazioni e capacità elabora...",
+      "date": "2026-08-27T07:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:74d485792c97",
       "sourceId": "cybersecurity360",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "La situazione - rilevata a livello globale nel mese di luglio 2026 -riguarda macchinari per le risonanze magnetiche, per le radiografie, oltre ai sistemi gestionali di ospedali, regioni e Stati. L'Italia tra i 15 paes...",
       "date": "2026-08-26T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a13e8b1d4614",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Principio DRY: perché il codice duplicato diventa un rischio di sicurezza",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/principio-dry-perche-il-codice-duplicato-diventa-un-rischio-di-sicurezza/",
-      "image": null,
-      "summary": "Il problema del codice duplicato emerge quando le copie iniziano a divergere: una patch applicata qui ma non altrove può lasciare vulnerabilità invisibili. Il principio DRY diventa così una strategia di sicurezza per ...",
-      "date": "2026-08-25T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:363a800f19aa",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Integrare la categorizzazione ACN nell’analisi dei rischi: ecco 4 scenari operativi",
-      "url": "https://www.cybersecurity360.it/legal/integrare-la-categorizzazione-acn-nellanalisi-dei-rischi-ecco-4-scenari-operativi/",
-      "image": null,
-      "summary": "L’integrazione della categorizzazione ACN richiede percorsi differenti, ma con un obiettivo comune: non duplicare documenti né forzare corrispondenze tra valori diversi, bensì costruire un collegamento dimostrabile. E...",
-      "date": "2026-08-25T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:997d42800d0e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cinema e serie TV in streaming: quali piani scegliere a partire da 5,99 euro con pubblicità e 4K",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/offerta-streaming-tv-piani-abbonamento-parental-control/",
-      "image": null,
-      "summary": "Disney+ propone i suoi tre piani in formula scontata per sei mesi. I prezzi partono da 5,99 euro al mese con il piano Standard con pubblicità. Premium e Standard consentono di accedere a cataloghi senza pubblicità, co...",
-      "date": "2026-08-25T05:22:45.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ae500354f461",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Dalle truffe online ai virus: proteggere fino a 5 dispositivi con VPN e intelligenza artificiale",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/pacchetto-antivirus-vpn-protezione-ia-dispositivi/",
-      "image": null,
-      "summary": "Norton 360 Deluxe a 34,99 euro per il primo anno , pari a 2,92 euro al mese, offre protezione per cinque dispositivi, VPN, backup cloud, Password Manager e funzioni contro le truffe online. L'offerta prevede uno scont...",
-      "date": "2026-08-25T05:22:35.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:30e56326010f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Hacker iraniani fermano una centrale in Uk: ecco la lezione per le utility",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/hacker-iraniani-fermano-una-centrale-in-uk-perche-le-utility-sono-bersagli-strategici/",
-      "image": null,
-      "summary": "Il caso dell'attacco hacker a una una piccola centrale elettrica britannica non ha avuto conseguenze sulla fornitura nazionale di elettricità, ma rappresenta un segnale serio. Ecco perché un attacco a un “piccolo impi...",
-      "date": "2026-08-24T12:25:55.0000000Z"
     }
   ]
 }
