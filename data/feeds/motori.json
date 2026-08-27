@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-08-26T23:48:19.1659516Z",
+  "updated": "2026-08-27T05:10:08.1787600Z",
   "items": [
+    {
+      "id": "insideevs:fb44ba3f9703",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Yangwang U7 di BYD mantiene quasi il 99% di batteria dopo 30.000 km",
+      "url": "https://insideevs.it/news/806123/batteria-yangwang-u7-30000-km/",
+      "image": "https://cdn.motor1.com/images/mgl/Qe71V7/s3/yangwang-u7.jpg",
+      "summary": "Il gruppo cinese testa la berlina elettrica di lusso in una prova di durata da oltre 8 giorni: i risultati",
+      "date": "2026-08-27T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:2fa56117efae",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Cina contro Europa, USA e Giappone: l'auto cambia padrone",
+      "url": "https://it.motor1.com/news/805920/cina-vs-europa-usa-giappone/",
+      "image": "https://cdn.motor1.com/images/mgl/1Zw3np/s3/cina-contro-europa-usa-e-giappone-l-auto-cambia-padrone.jpg",
+      "summary": "I costruttori tradizionali hanno perso 12,55 milioni di vendite dal 2019. Quelli cinesi ne hanno guadagnate 14,61 milioni",
+      "date": "2026-08-27T05:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:8d4824a375c2",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Progetto Whisper: pannelli Solbian sulla nave con vele rigide OceanWings",
+      "url": "https://www.vaielettrico.it/progetto-whisper-pannelli-solbian-sulla-nave-con-vele-rigide-oceanwings/",
+      "image": null,
+      "summary": "Con il progetto Whisper entra nel vivo il piano di retrofit sulle navi grazie a propulsione eolica assistita,… L'articolo Progetto Whisper: pannelli Solbian sulla nave con vele rigide OceanWings proviene da Vaielettri...",
+      "date": "2026-08-27T04:26:30.0000000Z"
+    },
     {
       "id": "hdmotori:b2771236a71c",
       "sourceId": "hdmotori",
@@ -255,18 +291,6 @@
       "date": "2026-08-26T12:00:00.0000000Z"
     },
     {
-      "id": "motor1:8dbdb9404f65",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Fiat perde terreno nell’usato: Audi la supera tra le auto recenti",
-      "url": "https://it.motor1.com/news/806133/fiat-audi-usato-mercato/",
-      "image": "https://cdn.motor1.com/images/mgl/vx89OQ/s3/fiat-perde-terreno-nell-usato-audi-la-supera-tra-le-auto-recenti.jpg",
-      "summary": "Il marchio italiano resta primo nel complesso, ma scende tra le vetture fino a dieci anni mentre Audi continua a guadagnare spazio",
-      "date": "2026-08-26T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:f7927c0df849",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -276,6 +300,18 @@
       "url": "https://insideevs.it/news/806126/corso-elettrificazione-dipendenti-toyota/",
       "image": "https://cdn.motor1.com/images/mgl/BXZj4e/s3/electrification-101_2026_toyota_low-res_19.jpg",
       "summary": "La maggior parte degli impiegati delle Case auto sa poco di elettrico, ma l'entusiasmo non manca",
+      "date": "2026-08-26T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:8dbdb9404f65",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Fiat perde terreno nell’usato: Audi la supera tra le auto recenti",
+      "url": "https://it.motor1.com/news/806133/fiat-audi-usato-mercato/",
+      "image": "https://cdn.motor1.com/images/mgl/vx89OQ/s3/fiat-perde-terreno-nell-usato-audi-la-supera-tra-le-auto-recenti.jpg",
+      "summary": "Il marchio italiano resta primo nel complesso, ma scende tra le vetture fino a dieci anni mentre Audi continua a guadagnare spazio",
       "date": "2026-08-26T11:00:00.0000000Z"
     },
     {
@@ -360,18 +396,6 @@
       "url": "https://insideevs.it/news/806050/wabtec-flxdrive-funziona-locomotiva-elettrica/",
       "image": "https://cdn.motor1.com/images/mgl/W8KmX1/s3/wabtec-flxdrive.jpg",
       "summary": "In Australia una locomotiva elettrica da 7 MWh lavora nelle miniere del Pilbara. E in discesa riesce anche a ricaricarsi",
-      "date": "2026-08-26T07:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:382b5b1bc6a2",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Apple Maps integrato nelle Ford UEV: navigazione senza iPhone",
-      "url": "https://it.motor1.com/news/806037/ford-universal-electric-vehicle-apple/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak3vP2/s3/ford-e-apple-maps.jpg",
-      "summary": "Dal 2027 la piattaforma Ford Universal Electric Vehicle nasce con Apple Maps nativo, routing EV avanzato e supporto alla guida BlueCruise",
       "date": "2026-08-26T07:00:00.0000000Z"
     },
     {
@@ -471,18 +495,6 @@
       "date": "2026-08-25T13:00:00.0000000Z"
     },
     {
-      "id": "insideevs:2e28e337e011",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Stop alla supercar elettrica: perché Dreame torna agli aspirapolveri",
-      "url": "https://insideevs.it/news/805970/stop-supercar-elettrica-cinese-dreame/",
-      "image": "https://cdn.motor1.com/images/mgl/g4OPeN/s3/dreame-nebula-next-01.jpg",
-      "summary": "L'azienda cinese abbandona la Nebula Next 01 Jet Edition: pare che il progetto fosse pubblicità finalizzata alla raccolta fondi",
-      "date": "2026-08-25T11:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:4480e75664a6",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -505,18 +517,6 @@
       "image": null,
       "summary": "Si chiama 2W Route Planner ed è un pianificatore di viaggio pensato espressamente per scooter e moto elettriche.… L'articolo 2W Route Planner, l’“ABRP” per scooter e moto elettriche nasce da un’esigenza personale prov...",
       "date": "2026-08-25T09:57:50.0000000Z"
-    },
-    {
-      "id": "vaielettrico:20968e486c1c",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volkswagen Group domina nelle vendite in Europa",
-      "url": "https://www.vaielettrico.it/volkswagen-group-domina-nelle-vendite-in-europa/",
-      "image": null,
-      "summary": "Volkswagen Group domina nelle vendite di auto elettriche in Europa, con 5 modelli nei primi 10 in luglio.… L'articolo Volkswagen Group domina nelle vendite in Europa proviene da Vaielettrico .",
-      "date": "2026-08-25T08:36:52.0000000Z"
     },
     {
       "id": "motor1:8302b60e6bb6",
