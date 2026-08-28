@@ -1,7 +1,31 @@
 {
   "category": "mobilita",
-  "updated": "2026-08-28T12:45:32.9951612Z",
+  "updated": "2026-08-28T22:44:41.7583011Z",
   "items": [
+    {
+      "id": "ferrovie:abfe67305f17",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "CAF, un Civity a batterie percorre 273 chilometri senza ricarica",
+      "url": "https://www.ferrovie.info/treni-reali/caf-un-civity-a-batterie-percorre-273-chilometri-senza-ricarica.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/Treno_caf_civity_557.jpg",
+      "summary": "CAF ha raggiunto un importante risultato nello sviluppo dei propri treni a batteria. Durante una serie di prove effettuate presso il centro di test e omologazione di Wildenrath, in Germania , un'unità della piattaform...",
+      "date": "2026-08-28T14:56:05.0000000Z"
+    },
+    {
+      "id": "ferrovie:b619829b48be",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Roma nel mirino delle FFS: nuovi treni per collegare la Svizzera all’Europa",
+      "url": "https://www.ferrovie.info/treni-reali/roma-nel-mirino-delle-ffs-nuovi-treni-per-collegare-la-svizzera-alleuropa.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10608/RABDe500_012-0_Jean_Rudolf_von_Salis2BRABDe500_0XX_Oberbuchsiten.JPG",
+      "summary": "Le Ferrovie Federali Svizzere (FFS) guardano sempre più lontano e preparano una nuova offensiva nel traffico internazionale a lunga percorrenza. L'obiettivo è quello di collegare direttamente la Svizzera con alcune de...",
+      "date": "2026-08-28T14:50:53.0000000Z"
+    },
     {
       "id": "ferrovie:f1089b95739d",
       "sourceId": "ferrovie",
@@ -121,30 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10608/E193_495_Hupac_3.JPG",
       "summary": "Hupac amplia la propria offerta sul corridoio transalpino attraverso la Svizzera, introducendo un ulteriore collegamento settimanale tra Basel Weil e Busto Arsizio. Dal 7 settembre 2026 cambierà inoltre l'orario del t...",
       "date": "2026-08-27T07:28:25.0000000Z"
-    },
-    {
-      "id": "ferrovie:509444f45678",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Ferrovie, il Friuli Venezia Giulia accelera: barriere antirumore e lunetta di Gorizia entro fine anno",
-      "url": "https://www.ferrovie.info/treni-reali/ferrovie-il-friuli-venezia-giulia-accelera-barriere-antirumore-e-lunetta-di-gorizia-entro-fine-anno.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10523/trasferimento_563__712.jpg",
-      "summary": "La Regione Friuli Venezia Giulia accelera sugli interventi ferroviari nell'Isontino. Dalle barriere fonoassorbenti lungo le linee ferroviarie alla lunetta di Gorizia, passando per il potenziamento dell'interscambio e ...",
-      "date": "2026-08-27T07:04:14.0000000Z"
-    },
-    {
-      "id": "ferrovie:f0b6b06b0095",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Bressanone cambia volto: cinque binari e due nuovi sottopassi",
-      "url": "https://www.ferrovie.info/treni-reali/bressanone-cambia-volto-cinque-binari-e-due-nuovi-sottopassi.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/normal_ETR_170_211_Trenitalia_Bressanone_2026_agosto_brixen.jpg",
-      "summary": "La realizzazione della Variante ferroviaria della Val di Riga porterà importanti cambiamenti anche alla stazione di Bressanone. Lo scalo altoatesino sarà infatti profondamente potenziato, con cinque binari, nuove banc...",
-      "date": "2026-08-27T06:58:06.0000000Z"
     }
   ]
 }

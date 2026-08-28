@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-08-28T12:45:32.9670324Z",
+  "updated": "2026-08-28T22:44:41.7935905Z",
   "items": [
+    {
+      "id": "media-inaf:fcac4727c9c2",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Roman Space Telescope, due giorni al lancio",
+      "url": "https://www.media.inaf.it/2026/08/28/roman-space-telescope-due-giorni-al-lancio/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/06/Roman_BeautyPass2026-med-150x150.png",
+      "summary": "Il lancio è in programma per domenica 30 agosto alle 13:26 ora italiana. Sarà il primo telescopio spaziale dedicato a una scienziata, Nancy Grace Roman, prima Chief Astronomer della Nasa. Con il consenso dell'autrice,...",
+      "date": "2026-08-28T13:01:39.0000000Z"
+    },
     {
       "id": "geopop:5TqVLAVGjc4",
       "sourceId": "geopop",
@@ -36,7 +48,7 @@
       "category": "scienza",
       "title": "Collisione all’origine del buco nero in fuga",
       "url": "https://www.media.inaf.it/2026/08/27/ricostruita-collisione-rbh-1/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/08/Runaway-black-hole-illustration-cropped-NASA.jpg-2.avif",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/08/rhbh-150x150.jpg",
       "summary": "Una violenta e spettacolare collisione tra due buchi neri supermassicci all'interno della fusione tra due galassie: è questa la probabile origine di Rbh-1, il primo buco nero supermassiccio “in fuga“ mai osservato. Pu...",
       "date": "2026-08-27T15:01:12.0000000Z"
     },
@@ -263,18 +275,6 @@
       "summary": "",
       "videoId": "MHeJJ2NjATU",
       "date": "2026-08-19T16:30:36.0000000Z"
-    },
-    {
-      "id": "media-inaf:ecf05bff78e4",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "A 25mila km/s, è la stella più veloce della galassia",
-      "url": "https://www.media.inaf.it/2026/08/19/stella-s301-sgr-a/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/08/eso2612d-150x150.jpg",
-      "summary": "La stella S301, scoperta con lo strumento Gravity dell’Eso, si avvicina a Sagittarius A* – il buco nero al centro della nostra galassia – più di qualsiasi altro oggetto osservato prima: così vicino da sentirne gli eff...",
-      "date": "2026-08-19T15:00:12.0000000Z"
     },
     {
       "id": "geopop:9DXdI7PmuHM",
