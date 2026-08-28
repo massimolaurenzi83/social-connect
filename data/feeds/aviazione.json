@@ -1,7 +1,19 @@
 {
   "category": "aviazione",
-  "updated": "2026-08-27T16:31:34.0203177Z",
+  "updated": "2026-08-28T01:06:31.0152313Z",
   "items": [
+    {
+      "id": "aviationreport:dd93d36aa5c4",
+      "sourceId": "aviationreport",
+      "source": "Aviation Report",
+      "platform": "rss",
+      "category": "aviazione",
+      "title": "Escursionista colto da malore salvato da un elicottero del 15° Stormo",
+      "url": "https://www.aviation-report.com/escursionista-colto-da-malore-salvato-da-un-elicottero-del-15-stormo/",
+      "image": null,
+      "summary": "L’intervento sul territorio, condotto in sinergia con il Soccorso Alpino, segue di poche ore il recupero di un marittimo da una nave spagnola, avvenuto nella giornata di ieri. Un escursionista italiano colto da malore...",
+      "date": "2026-08-27T16:25:12.0000000Z"
+    },
     {
       "id": "aviationreport:eb7d447aea90",
       "sourceId": "aviationreport",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Lo scorso 19 agosto, un aereo Lufthansa è decollato per la prima volta con il nuovo Wi-Fi del Gruppo Lufthansa, powered by Starlink. Un Airbus A320neo con la registrazione “D-AINM” ha aperto la strada, diventando il p...",
       "date": "2026-08-19T14:01:01.0000000Z"
-    },
-    {
-      "id": "aviationreport:29c85a057b69",
-      "sourceId": "aviationreport",
-      "source": "Aviation Report",
-      "platform": "rss",
-      "category": "aviazione",
-      "title": "Trump ordina la sostituzione delle catapulte EMALS con quelle tradizionali a vapore sulla nuova portaerei Doris Miller CVN-81",
-      "url": "https://www.aviation-report.com/trump-ordina-sostituzione-catapulte-emals-con-quelle-tradizionali-a-vapore-sulla-nuova-portaerei-doris-miller-cvn-81/",
-      "image": null,
-      "summary": "Il presidente USA Donald Trump ha firmato il 13 agosto 2026 un memorandum presidenziale di sicurezza nazionale che impone al Dipartimento della Difesa di rimuovere il sistema Electromagnetic Aircraft Launch System (EM...",
-      "date": "2026-08-18T21:50:39.0000000Z"
     }
   ]
 }
