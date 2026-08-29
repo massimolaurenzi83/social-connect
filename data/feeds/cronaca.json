@@ -1,7 +1,43 @@
 {
   "category": "cronaca",
-  "updated": "2026-08-29T21:20:35.8551336Z",
+  "updated": "2026-08-29T23:27:32.6224391Z",
   "items": [
+    {
+      "id": "ansa-cronaca:c5def61386d5",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "La violenta esplosione in una palazzina a Cassino, morto uno dei feriti",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/la-violenta-esplosione-in-una-palazzina-a-cassino-morto-uno-dei-feriti_312e2651-45ad-4f8f-85d5-6892bc41af06.html",
+      "image": null,
+      "summary": "L'infermiere aveva ustioni sul 90 per cento del corpo",
+      "date": "2026-08-29T22:20:18.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:a4ed316bc7be",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Rivolta in carcere a Siracusa, agenti si lanciano dal tetto per sfuggire alle pietre",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/rivolta-in-carcere-a-siracusa-agenti-si-lanciano-dal-tetto-per-sfuggire-alle_59f33796-97f6-4121-a8ac-84d484f3b8f5.html",
+      "image": null,
+      "summary": "L'episodio è accaduto durante i disordini di giovedì scorso",
+      "date": "2026-08-29T22:19:56.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:ea8ec935b492",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "#AccadeOggi",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/30/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+      "image": null,
+      "summary": "I principali avvenimenti previsti per la giornata",
+      "date": "2026-08-29T22:16:28.0000000Z"
+    },
     {
       "id": "ansa-cronaca:5a98e3e1c56f",
       "sourceId": "ansa-cronaca",
@@ -15,18 +51,6 @@
       "date": "2026-08-29T21:10:05.0000000Z"
     },
     {
-      "id": "ansa-cronaca:4c9e6c0671df",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Rientrati in Italia i due turisti bresciani: 'Ora pensiamo a chi è in Nepal'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/rientrati-in-italia-i-due-turisti-bresciani-ora-pensiamo-a-chi-e-in-nepal_47acc0c6-3924-4302-ac4c-efec7dd48849.html",
-      "image": null,
-      "summary": "Giovanni Fassini e Marco Lombardi: 'Noi siamo salvi, ma lì c'è ancora gente isolata'",
-      "date": "2026-08-29T20:44:03.0000000Z"
-    },
-    {
       "id": "ansa-cronaca:515d6c454238",
       "sourceId": "ansa-cronaca",
       "source": "ANSA Cronaca",
@@ -37,18 +61,6 @@
       "image": null,
       "summary": "Gli approfondimenti sul Dna e la misura del piede dell'indagato",
       "date": "2026-08-29T20:40:46.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:cff3e452d8f7",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Rivolta in carcere Siracusa, agenti si lanciano dal tetto per sfuggire a pietre",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/rivolta-in-carcere-siracusa-agenti-si-lanciano-dal-tetto-per-sfuggire-a-pietre_59f33796-97f6-4121-a8ac-84d484f3b8f5.html",
-      "image": null,
-      "summary": "L'episodio è accaduto durante i disordini di giovedì scorso",
-      "date": "2026-08-29T20:38:44.0000000Z"
     },
     {
       "id": "ansa-cronaca:7c56b817a2eb",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Arcivescovo D'Angelo, 'La nostra cultura è impastata di questo dono'",
       "date": "2026-08-29T18:04:24.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:6905afa0231e",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Nepal",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/nepal_e045f671-18f5-471a-bf8a-449a965683e3.html",
-      "image": null,
-      "summary": "",
-      "date": "2026-08-29T16:22:34.0000000Z"
     }
   ]
 }
