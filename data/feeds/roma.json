@@ -1,7 +1,31 @@
 {
   "category": "roma",
-  "updated": "2026-08-29T15:23:40.9628040Z",
+  "updated": "2026-08-29T18:45:30.3273550Z",
   "items": [
+    {
+      "id": "romatoday:2162f70e66dd",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Rimosso un nido di api dal cimitero: \"Avevano fatto un alveare da 80mila esemplari\"",
+      "url": "https://www.romatoday.it/attualita/rimosso-nido-api-record-cimitero-vitalini.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/48676595843956/api-rimosse-cimitero.jpg",
+      "summary": "L'intervento è stato realizzato da Marcello Vitalini: \"Le api erano diventate un problema per le persone in visita ai propri cari\"",
+      "date": "2026-08-29T16:27:37.0000000Z"
+    },
+    {
+      "id": "romatoday:23408304df44",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Piazza dei Cinquecento sempre più isola di calore: addio a un altro pino",
+      "url": "https://www.romatoday.it/politica/piazza-dei-cinquecento-taglio-alberi-isola-calore.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/39490539511450/piazza-dei-cinquecento-dopo-i-lavori.jpg",
+      "summary": "L’abbattimento è stato disposto per il 31 agosto nella piazza che doveva accogliere un “bosco urbano”",
+      "date": "2026-08-29T14:54:52.0000000Z"
+    },
     {
       "id": "romatoday:0b913b55890d",
       "sourceId": "romatoday",
@@ -121,30 +145,6 @@
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/5553960394687/piazza-dante-l-intervento-dei-carabinieri-presso-il-distributore-di-carburanti.jpg",
       "summary": "Arrestato un 49enne e denunciato un 20enne: i due incastrati dopo la denuncia del rappresentante di una società di logistica stradale",
       "date": "2026-08-29T10:21:19.0000000Z"
-    },
-    {
-      "id": "romatoday:fc23031bedfc",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "A Roma ci sono oltre 40mila senza dimora. Chi sono, dove vivono e perché sono aumentati del 50% in un anno",
-      "url": "https://www.romatoday.it/politica/quanti-senza-dimora-ci-sono-a-roma.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/33543863877221/senza-dimora-colle-oppio.jpg",
-      "summary": "Il servizio statistiche del Comune riporta i dati al 31 dicembre 2025, che confermano un aumento vertiginoso di persone che chiedono la residenza fittizia \"Modesta Valenti\"",
-      "date": "2026-08-29T10:07:00.0000000Z"
-    },
-    {
-      "id": "romatoday:290b022095e7",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Autobus senza conducente: il Campidoglio cerca le aziende per avviare la sperimentazione",
-      "url": "https://www.romatoday.it/politica/guida-autonoma-campidoglio-cerca-operatori-interessati.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/7475448915375/smart-6.jpg",
-      "summary": "Pubblicata la manifestazione d’interesse per individuare gli operatori interessati. Ecco cosa serve e quanto tempo ci vorrà per arrivare ad autobus con “guida autonoma di livello 4”",
-      "date": "2026-08-29T09:44:11.0000000Z"
     },
     {
       "id": "roma-repubblica:cfc7e14763b5",
