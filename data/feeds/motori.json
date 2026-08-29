@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-08-28T22:44:41.7565147Z",
+  "updated": "2026-08-29T03:55:31.8220824Z",
   "items": [
+    {
+      "id": "motor1:a342b6c49045",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Toyota C-HR+ (2026), perché comprarla e perché no",
+      "url": "https://it.motor1.com/reviews/803669/toyota-chr-elettrica-recensione-video/",
+      "image": "https://cdn.motor1.com/images/mgl/zxJ6AW/s3/slxxkjuonvo.jpg",
+      "summary": "Squadrata ma efficiente, fa tanta strada con una carica. Comoda, ma fa rinunciare a qualcosa in fatto di bagagliaio e ricarica",
+      "date": "2026-08-28T23:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:b85a90454c88",
       "sourceId": "hdmotori",
@@ -267,18 +279,6 @@
       "date": "2026-08-28T11:00:24.0000000Z"
     },
     {
-      "id": "motor1:9bd48a39b60d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Salone di Torino 2026, i marchi e le auto presenti",
-      "url": "https://it.motor1.com/news/806294/salone-auto-torino-2026-auto-marchi-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/MkgQ0X/s3/salone-di-torino-2025.jpg",
-      "summary": "Oltre 40 i marchi presenti a Torino dall'11 al 13 settembre. Ecco chi c'è e tutti gli eventi in programma",
-      "date": "2026-08-28T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:26801cc0ccfe",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -288,6 +288,18 @@
       "url": "https://insideevs.it/news/806359/vendite-auto-elettriche-luglio-europa-2026/",
       "image": "https://cdn.motor1.com/images/mgl/0eW9O2/s3/skoda-elroq-2025-der-ladeslot-befindet-sich-hinten-rechts.jpg",
       "summary": "La Skoda Elroq è regina delle immatricolazioni nel continente, dove 1 vettura nuova su 4 consegnate è BEV",
+      "date": "2026-08-28T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:9bd48a39b60d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Salone di Torino 2026, i marchi e le auto presenti",
+      "url": "https://it.motor1.com/news/806294/salone-auto-torino-2026-auto-marchi-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/MkgQ0X/s3/salone-di-torino-2025.jpg",
+      "summary": "Oltre 40 i marchi presenti a Torino dall'11 al 13 settembre. Ecco chi c'è e tutti gli eventi in programma",
       "date": "2026-08-28T11:00:00.0000000Z"
     },
     {
@@ -457,18 +469,6 @@
       "image": "https://cdn.motor1.com/images/mgl/XBzxOk/s3/mate-rimac-ceo-bugatti-rimac-with-tourbillon.jpg.jpg",
       "summary": "Il capo di Bugatti Rimac ora vede le supercar del futuro come pezzi da esposizione emozionali con motore a combustione, in piccole serie",
       "date": "2026-08-27T16:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:22030f3280c7",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Al Pacino e Hopkins al cinema con \"Maserati: The Brothers\"",
-      "url": "https://it.motor1.com/news/806290/maserati-brothers-trailer-storia-tridente/",
-      "image": "https://cdn.motor1.com/images/mgl/Qe7160/s3/maserati-8ctf-boyle-special.jpg",
-      "summary": "Nel biopic Maserati The Brothers la 500 Miglia di Indianapolis diventa il simbolo del legame tra famiglia, corse e Motor Valley",
-      "date": "2026-08-27T15:30:00.0000000Z"
     },
     {
       "id": "insideevs:3f16edc7456f",
