@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-08-30T07:21:42.0535872Z",
+  "updated": "2026-08-30T13:03:35.4317260Z",
   "items": [
+    {
+      "id": "motor1:d171d2a24edb",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuovo Mobilvetta Karys: il letto si alza, le bici entrano",
+      "url": "https://it.motor1.com/news/806165/mobilvetta-karys-2026-letto-basculante/",
+      "image": "https://cdn.motor1.com/images/mgl/bgP3Yk/s3/mobilvetta-karys-2026.jpg",
+      "summary": "Mobilvetta Karys la base è Fiat Ducato 140 CV. C'è il letto elettrico e Maxi-Garage per bici: il 6.5 da 67.000 euro sfida Adria Twin",
+      "date": "2026-08-30T10:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:ae5d3798e480",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Waymo contro Tesla: continua lo scontro tra i due approcci alla guida autonoma",
+      "url": "https://www.hdmotori.it/waymo-contro-tesla-guida-autonoma/",
+      "image": null,
+      "summary": "Ridondanza di sensori o sole telecamere? I vertici di Waymo difendono la filosofia dell’azienda e criticano quella di Tesla, pur senza mai nominarla. The post Waymo contro Tesla: continua lo scontro tra i due approcci...",
+      "date": "2026-08-30T07:30:40.0000000Z"
+    },
     {
       "id": "hdmotori:2737d18219bd",
       "sourceId": "hdmotori",
@@ -159,18 +183,6 @@
       "date": "2026-08-29T05:51:34.0000000Z"
     },
     {
-      "id": "insideevs:331e3f7722eb",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Titanio nelle batterie al piombo: svolta o sensazionalismo?",
-      "url": "https://insideevs.it/news/805981/collettore-titanio-batterie-piombo-bipolari/",
-      "image": "https://cdn.motor1.com/images/mgl/E6NRXR/s3/titanio-nelle-batterie-al-piombo-svolta-o-sensazionalismo.jpg",
-      "summary": "Nel nuovo progetto bipolare il collettore asimmetrico in titanio punta a migliorare resistenza meccanica e durata",
-      "date": "2026-08-29T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:d1cefb38fe24",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -180,6 +192,18 @@
       "url": "https://it.motor1.com/news/803452/holden-hurricane-concept-storia/",
       "image": "https://cdn.motor1.com/images/mgl/Rqkz9A/s3/holden-hurricane-concept-1969.jpg",
       "summary": "L'australiana Holden Hurricane è un concept ricco d'innovazioni tecnologiche. E' presente anche un sistema di navigazione",
+      "date": "2026-08-29T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:331e3f7722eb",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Titanio nelle batterie al piombo: svolta o sensazionalismo?",
+      "url": "https://insideevs.it/news/805981/collettore-titanio-batterie-piombo-bipolari/",
+      "image": "https://cdn.motor1.com/images/mgl/E6NRXR/s3/titanio-nelle-batterie-al-piombo-svolta-o-sensazionalismo.jpg",
+      "summary": "Nel nuovo progetto bipolare il collettore asimmetrico in titanio punta a migliorare resistenza meccanica e durata",
       "date": "2026-08-29T05:00:00.0000000Z"
     },
     {
@@ -279,18 +303,6 @@
       "date": "2026-08-28T15:00:09.0000000Z"
     },
     {
-      "id": "insideevs:27d928153995",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La ricarica EV ultra-rapida rovina la batteria? BYD l'ha fatta 350 volte per scoprirlo",
-      "url": "https://insideevs.it/news/806379/byd-ricarica-ev-batteria-test/",
-      "image": "https://cdn.motor1.com/images/mgl/wlpOqm/s3/byd-yangwang-u7-front-three-quarter.jpg",
-      "summary": "La Yangwang U7 si ricarica dal 10 al 97% in soli 9 minuti. Ecco come influisce sulla salute della batteria",
-      "date": "2026-08-28T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:9eedf55aadeb",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -300,6 +312,18 @@
       "url": "https://it.motor1.com/news/806282/range-rover-gt-2028-anticipazioni/",
       "image": "https://cdn.motor1.com/images/mgl/wl8BgQ/s3/2028-range-rover-gt-rendering-by-motor1.jpg",
       "summary": "La Range Rover elettrica avrà un nuovo ed elegante stile di carrozzeria, un'architettura a 800 volt e oltre 100 kWh di batteria",
+      "date": "2026-08-28T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:27d928153995",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La ricarica EV ultra-rapida rovina la batteria? BYD l'ha fatta 350 volte per scoprirlo",
+      "url": "https://insideevs.it/news/806379/byd-ricarica-ev-batteria-test/",
+      "image": "https://cdn.motor1.com/images/mgl/wlpOqm/s3/byd-yangwang-u7-front-three-quarter.jpg",
+      "summary": "La Yangwang U7 si ricarica dal 10 al 97% in soli 9 minuti. Ecco come influisce sulla salute della batteria",
       "date": "2026-08-28T15:00:00.0000000Z"
     },
     {
@@ -387,18 +411,6 @@
       "date": "2026-08-28T13:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:c0097d8979be",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Da Texas Instruments il micro-sensore che migliora i motori elettrici",
-      "url": "https://www.hdmotori.it/texas-instruments-micro-sensore-motori-elettrici/",
-      "image": null,
-      "summary": "Il nuovo chip TMCS2100-Q1 presenta maggiore precisione bidirezionale nell'inverter di trazione e consente di ridurre consumi, rumore e vibrazioni. The post Da Texas Instruments il micro-sensore che migliora i motori e...",
-      "date": "2026-08-28T12:00:08.0000000Z"
-    },
-    {
       "id": "motor1:4c571a27569c",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -457,18 +469,6 @@
       "image": "https://cdn.motor1.com/images/mgl/2N4gRk/s3/aptera-solar-test.jpg",
       "summary": "Un test condotto da un'azienda terza rileva una percorrenza pari a 76 km, contro i 64 km dichiarati",
       "date": "2026-08-28T09:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:f493c347d6cb",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Maniglie Tesla, nessun richiamo immediato in Europa",
-      "url": "https://it.motor1.com/news/806338/tesla-maniglie-richiamo-cina-europa/",
-      "image": "https://cdn.motor1.com/images/mgl/Kb7M2G/s3/the-retractable-door-handles-of-the-tesla-model-s.jpg",
-      "summary": "L’ente olandese RDW monitora le maniglie retrattili delle portiere Tesla, con test di sicurezza in caso di guasto, ma senza un richiamo",
-      "date": "2026-08-28T08:00:00.0000000Z"
     },
     {
       "id": "insideevs:7382f33460ec",
