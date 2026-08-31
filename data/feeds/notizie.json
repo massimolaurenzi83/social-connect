@@ -1,7 +1,31 @@
 {
   "category": "notizie",
-  "updated": "2026-08-30T22:38:40.8902188Z",
+  "updated": "2026-08-31T00:50:27.5153739Z",
   "items": [
+    {
+      "id": "repubblica:a6b2c3f2566b",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Dario Franceschini: “Ho il morbo di Parkinson, ci convivo dal 2020”",
+      "url": "https://www.repubblica.it/politica/2026/08/31/news/dario_franceschini_parkinson-425555933/",
+      "image": null,
+      "summary": "Il senatore pd rivela al Corriere della Sera: “La diagnosi è stata una botta tremenda. L’istinto è nascondersi ma non ci si può isolare, si deve continuare a vivere”",
+      "date": "2026-08-30T23:25:32.0000000Z"
+    },
+    {
+      "id": "ansa:91a27c687e68",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Gli Usa attaccano lanciatori iraniani a Larak. Missili di Teheran su basi americane in Giordania",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/31/gli-usa-attaccano-lanciatori-iraniani-a-larak.-missili-di-teheran-su-basi-americane_d6d9581a-b7ae-4731-b009-3307af788336.html",
+      "image": null,
+      "summary": "Il regime aveva annunciato una risposta dopo i raid sull'isola",
+      "date": "2026-08-30T22:36:36.0000000Z"
+    },
     {
       "id": "repubblica:c32a7c64b8c3",
       "sourceId": "repubblica",
@@ -61,18 +85,6 @@
       "image": null,
       "summary": "Tre le ipotesi. Meloni: 'Fare piena luce'. Gli organizzatori scioccati e addolorati",
       "date": "2026-08-30T20:16:28.0000000Z"
-    },
-    {
-      "id": "ansa:b650d95484bf",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Axios, gli Usa hanno attaccato lanciatori iraniani sull'isola di Larak",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/30/axios-gli-usa-hanno-attaccato-lanciatori-iraniani-sullisola-di-larak_d6d9581a-b7ae-4731-b009-3307af788336.html",
-      "image": null,
-      "summary": "'I pasdaran preparavano missili contro Hormuz'",
-      "date": "2026-08-30T19:52:28.0000000Z"
     },
     {
       "id": "open:313d68900629",
@@ -231,18 +243,6 @@
       "date": "2026-08-30T17:15:21.0000000Z"
     },
     {
-      "id": "repubblica:16415511ae0a",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Nadia Battocletti si prende anche il record italiano dei 1500: tempo abbassato di mezzo secondo",
-      "url": "https://www.repubblica.it/sport/vari/2026/08/30/news/nadia_battocletti_record_italiano_1500-425555547/",
-      "image": null,
-      "summary": "La trentina ora detiene tutti i primati nazionali dai 1500 ai 10.000",
-      "date": "2026-08-30T17:12:20.0000000Z"
-    },
-    {
       "id": "open:f12d36cceae0",
       "sourceId": "open",
       "source": "Open",
@@ -391,18 +391,6 @@
       "date": "2026-08-30T14:28:47.0000000Z"
     },
     {
-      "id": "repubblica:f56097f0486b",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La tripletta di Marc Marquez: vince anche ad Aragona e Misano diventa decisiva",
-      "url": "https://www.repubblica.it/sport/moto-gp/2026/08/30/news/marc_marquez_aragona_vittoria-425555335/",
-      "image": null,
-      "summary": "Il Cannibale allunga in classifica dopo aver fatto doppietta sprint-gp anche in Ungheria e Germania",
-      "date": "2026-08-30T14:10:49.0000000Z"
-    },
-    {
       "id": "open:2b5dfc169996",
       "sourceId": "open",
       "source": "Open",
@@ -476,6 +464,18 @@
       "image": null,
       "summary": "L’imbarcazione era partita dal porto di Girne, nella zona settentrionale dell’isola. A bordo c’erano 267 persone",
       "date": "2026-08-30T12:11:55.0000000Z"
+    },
+    {
+      "id": "repubblica:7175c0574824",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Di Battista, due medici del Gemelli verso Cuba. Breve telefonata con Tajani: “È combattivo”",
+      "url": "https://www.repubblica.it/politica/2026/08/30/news/alessandro_di_battista_non_trasferibile_italia_cuba_social-425555196/",
+      "image": null,
+      "summary": "L’ex deputato del Movimento 5 stelle è ricoverato in ospedale a Cuba dopo un grave malore. Le sue parole sui social: “Ce la metterò tutta”",
+      "date": "2026-08-30T11:44:44.0000000Z"
     },
     {
       "id": "skytg24:YAt_mMqN7Ts",
