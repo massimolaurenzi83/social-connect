@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-08-31T14:10:14.1131454Z",
+  "updated": "2026-08-31T20:06:12.3830972Z",
   "items": [
+    {
+      "id": "qualenergia:a1caa0644368",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Shell abbandona l’accumulo residenziale di Sonnen",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/shell-abbandona-accumulo-residenziale-sonnen/",
+      "image": null,
+      "summary": "Secondo una ricostruzione del quotidiano economico-finanziario tedesco Handelsblatt, l’acquisto della società specializzata nell’accumulo residenziale Sonnen da parte di Shell non ha dato i frutti sperati. Con due ope...",
+      "date": "2026-08-31T14:00:27.0000000Z"
+    },
     {
       "id": "qualenergia:a22d7689dac5",
       "sourceId": "qualenergia",
@@ -36,7 +48,7 @@
       "url": "https://www.qualenergia.it/articoli/saper-leggere-bollette-luce-gas-scegliere-offerta-giusta/",
       "image": null,
       "summary": "Quanto consumi ogni mese? Se la risposta è “circa 70 euro”, c’è già qualcosa da chiarire: quella è la spesa, non il consumo. È proprio da questo equivoco, tanto semplice quanto comune, che parte la decima puntata di “...",
-      "date": "2026-08-31T09:00:16.0000000Z"
+      "date": "2026-08-31T09:45:16.0000000Z"
     },
     {
       "id": "qualenergia:938efcd20f68",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
       "date": "2026-08-31T05:00:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:28c24aba79dc",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "BANDI E APPALTI",
-      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
-      "image": null,
-      "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
-      "date": "2026-08-30T22:25:00.0000000Z"
     }
   ]
 }
