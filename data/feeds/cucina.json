@@ -1,7 +1,43 @@
 {
   "category": "cucina",
-  "updated": "2026-08-31T06:20:28.2862996Z",
+  "updated": "2026-08-31T14:10:14.1428367Z",
   "items": [
+    {
+      "id": "dissapore:1411b721aba8",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "L’arrivo dell’Antico Vinaio a Palazzo Strozzi non piace a tutti",
+      "url": "https://www.dissapore.com/notizie/larrivo-dellantico-vinaio-a-palazzo-strozzi-non-piace-a-tutti/",
+      "image": null,
+      "summary": "All'Antico Vinaio aprirà un nuovo format di bistrot e caffetteria all'interno di Palazzo Strozzi a Firenze, ma non tutti giudicano idonea la scelta. L'articolo L’arrivo dell’Antico Vinaio a Palazzo Strozzi non piace a...",
+      "date": "2026-08-31T10:57:26.0000000Z"
+    },
+    {
+      "id": "dissapore:38852f855e4c",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Cosa succederà ai prezzi delle cozze?",
+      "url": "https://www.dissapore.com/notizie/cosa-succedera-ai-prezzi-delle-cozze/",
+      "image": null,
+      "summary": "Se non si faranno i necessari lavori ai fondali, gli allevamenti di cozze dell'Alto Adriatico non riusciranno a sopravvivere. E anche gli altri allevamenti italiani non se la passano bene. L'articolo Cosa succederà ai...",
+      "date": "2026-08-31T09:35:14.0000000Z"
+    },
+    {
+      "id": "giallozafferano:7965f4e50080",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Tajarin con pesto di basilico e burrata",
+      "url": "https://ricette.giallozafferano.it/Tajarin-con-pesto-di-basilico-e-burrata.html",
+      "image": "https://www.giallozafferano.it/images/365-36574/Tajarin-con-pesto-di-basilico-e-burrata_1200x800.jpg",
+      "summary": "I tajarin con pesto di basilico e burrata sono un primo piatto che unisce la tradizione del classico pesto al tocco fresco e gourmet della burrata. Un abbinamento semplice ma accattivante, perfetto per rendere special...",
+      "date": "2026-08-31T09:10:00.0000000Z"
+    },
     {
       "id": "dissapore:da0fe7397a48",
       "sourceId": "dissapore",
@@ -159,30 +195,6 @@
       "date": "2026-08-27T11:58:43.0000000Z"
     },
     {
-      "id": "dissapore:63cc0ab18192",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Il marketing di KFC ha deciso che la chiave è esagerare",
-      "url": "https://www.dissapore.com/notizie/il-marketing-di-kfc-ha-deciso-che-la-chiave-e-esagerare/",
-      "image": null,
-      "summary": "Evidentemente, KFC gioca a spararla più grossa di sempre, e chissà quale sarà il punto d'arrivo. L'articolo Il marketing di KFC ha deciso che la chiave è esagerare proviene da Dissapore .",
-      "date": "2026-08-27T09:33:07.0000000Z"
-    },
-    {
-      "id": "dissapore:96a63f100bb7",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Le 28 migliori gelaterie del Lazio del 2026",
-      "url": "https://www.dissapore.com/locali/le-28-migliori-gelaterie-del-lazio-del-2026/",
-      "image": null,
-      "summary": "Spesso oscurate da quelle della Capitale, le gelaterie artigianali del Lazio compongono un ecosistema a sé, che unisce materie prime locali e voci originali. Ecco le migliori 28, spin off della nostra top 100 nazional...",
-      "date": "2026-08-26T16:00:37.0000000Z"
-    },
-    {
       "id": "giallozafferano:b268feb97060",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/363-36363/McChicken-Il-Romano_1200x800.jpg",
       "summary": "Il McChicken® Il Romano è una gustosa rivisitazione del classico McChicken® che unisce ingredienti di qualità e sapori tipicamente italiani. La protagonista è la celebre cotoletta preparata con 100% petto di pollo ita...",
       "date": "2026-08-19T05:00:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:e86dcd73c4a8",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Pollo allo zenzero",
-      "url": "https://ricette.giallozafferano.it/Pollo-allo-zenzero.html",
-      "image": "https://www.giallozafferano.it/images/364-36455/Pollo-allo-zenzero_1200x800.jpg",
-      "summary": "Il pollo allo zenzero è un secondo piatto facile e sfizioso, ispirato ai sapori della cucina asiatica. Zenzero fresco e salsa di soia insaporiscono il pollo , mentre il miele aggiunge una piacevole nota dolce che bila...",
-      "date": "2026-08-18T13:42:00.0000000Z"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "category": "spazio",
-  "updated": "2026-08-31T06:20:28.2294583Z",
+  "updated": "2026-08-31T14:10:14.0989307Z",
   "items": [
+    {
+      "id": "astronautinews:821fb8285f82",
+      "sourceId": "astronautinews",
+      "source": "AstronautiNEWS",
+      "platform": "rss",
+      "category": "spazio",
+      "title": "Lanciato MTG-I2, si completa la tripletta dei Meteosat di ultima generazione",
+      "url": "https://www.astronautinews.it/2026/08/lanciato-mtg-i2-si-completa-la-tripletta-dei-meteosat-di-ultima-generazione/",
+      "image": "https://www.astronautinews.it/wp-content/uploads/2026/08/MTG-I2_begins_its_journey-1.jpg",
+      "summary": "Lo scorso 27 agosto alle 22:11 CEST è decollata la missione MTG-I2, il terzo satellite della costellazione Meteosat Third Generation, destinato a portare numerosi miglioramenti alle previsioni meteorologiche, al monit...",
+      "date": "2026-08-31T07:00:00.0000000Z"
+    },
     {
       "id": "astronautinews:27924284b537",
       "sourceId": "astronautinews",
@@ -133,18 +145,6 @@
       "image": "https://www.astronautinews.it/wp-content/uploads/2026/07/HNWsWOBXUAAZpbn-scaled.jpeg",
       "summary": "Fin dal primo Integrated Flight Test nell'aprile 2023, ogni volo del lanciatore superpesante e completamente riutilizzabile in fase di sviluppo da SpaceX a Starbase, nel Texas sudorientale, è stato definito come «deci...",
       "date": "2026-07-17T14:00:00.0000000Z"
-    },
-    {
-      "id": "astronautinews:0e80c07abca9",
-      "sourceId": "astronautinews",
-      "source": "AstronautiNEWS",
-      "platform": "rss",
-      "category": "spazio",
-      "title": "La missione SunRISE verrà lanciata da un Falcon Heavy",
-      "url": "https://www.astronautinews.it/2026/07/sunrise-falcon-heavy-solar-burst/",
-      "image": "https://www.astronautinews.it/wp-content/uploads/2026/07/0-scaled.jpg",
-      "summary": "Lo studio del Sole è un'attività complessa e che richiede particolari accorgimenti tecnologici e pratici, che variano in base alla distanza e allo scopo della missione. Ad esempio, la sonda dell'Agenzia spaziale statu...",
-      "date": "2026-07-15T16:00:00.0000000Z"
     }
   ]
 }

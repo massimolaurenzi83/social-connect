@@ -1,7 +1,67 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-08-31T06:20:28.2508665Z",
+  "updated": "2026-08-31T14:10:14.1052242Z",
   "items": [
+    {
+      "id": "cybersecurity360:364055ee36a7",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Ecco il Polo Italiano per il Cyber e lo Spazio. Ma ora si deve fare sistema",
+      "url": "https://www.cybersecurity360.it/outlook/ecco-il-polo-italiano-per-il-cyber-e-lo-spazio-ma-ora-si-deve-fare-sistema/",
+      "image": null,
+      "summary": "Il direttore del PICS, Luigi Martino, spiega quali sono i cinque pilastri su cui si fonda il neonato organismo, come l'Italia può valorizzare quello che già esiste nel settore e i nodi da sciogliere per trasformare qu...",
+      "date": "2026-08-31T10:23:40.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:cb48edaade81",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Shadow IT e organizzazione reale: cosa succede quando la procedura non governa più",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/shadow-it-e-organizzazione-reale-cosa-succede-quando-la-procedura-non-governa-piu/",
+      "image": null,
+      "summary": "La recente sentenza del Tribunale di Udine non riguarda solo l'uso di WhatsApp nei rapporti di lavoro o una controversia disciplinare nata da una comunicazione attraverso un canale improprio, ma la progressiva perdita...",
+      "date": "2026-08-31T10:21:34.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:2c615a838849",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Backup continui, CDN integrata e strumenti AI: la soluzione per blindare e scalare i progetti sul web",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/hosting-web-nvme-cdn-backup-sconto/",
+      "image": null,
+      "summary": "Hostinger propone il piano Illimitato a 3,99 euro al mese per 48 mesi, con uno sconto del 79% sul prezzo normale. Inclusi hosting per siti senza limiti, 50 GB di spazio NVMe, backup giornalieri con ripristino, dominio...",
+      "date": "2026-08-31T09:58:39.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:2420cd6916f8",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Reward hacking: i confini incerti degli agenti AI autonomi nella sicurezza",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/reward-hacking-i-confini-incerti-degli-agenti-ai-autonomi-nella-sicurezza/",
+      "image": null,
+      "summary": "Nel caso Hugging Face, gli agenti AI hanno trattato il confine dell'ambiente di test come un ostacolo tra loro e il punteggio massimo. Ecco i precedenti e il fenomeno del Reward hacking nell'era degli agenti AI, pront...",
+      "date": "2026-08-31T09:31:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:cac9932643c0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "AI Shared Responsibility Model: chi risponde della sicurezza nell’era della Generative AI",
+      "url": "https://www.cybersecurity360.it/legal/ai-shared-responsibility-model-chi-risponde-della-sicurezza-nellera-della-generative-ai/",
+      "image": null,
+      "summary": "Dai dati agli output, fino a plugin e agenti autonomi, la Generative AI introduce rischi che ridisegnano i confini tra provider e cliente. L'AI Shared Responsibility Model aiuta a stabilire chi deve presidiare ogni co...",
+      "date": "2026-08-31T08:23:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:a1428bbc567b",
       "sourceId": "cybersecurity360",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "L'analisi dei pericoli legati all'uso dei chatbot come surrogati terapeutici evidenzia come la tendenza dei modelli linguistici a compiacere l'utente possa aggravare i disturbi psicologici anziché curarli L'articolo L...",
       "date": "2026-08-28T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ace66c4a4637",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Controller e processor: le parole del GDPR rivelano le funzioni",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/controller-e-processor-le-parole-del-gdpr-rivelano-le-funzioni/",
-      "image": null,
-      "summary": "“Titolare” evoca un proprietario, ma senza possedere i dati. Invece, \"responsabile” suggerisce un decisore autonomo, pur agendo per conto altrui e su istruzioni. Il processor sembra un esecutore meccanico, ma il GDPR ...",
-      "date": "2026-08-28T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:8d51309b510a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Dalla crittografia zero-knowledge agli alias per l’email: il tool per proteggere gli account online a 2,49 €",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/password-manager-alias-email-passkey-sconto/",
-      "image": null,
-      "summary": "Proton dimezza per 12 mesi il prezzo di Pass Plus: 2,49 euro al mese invece di 4,99. Nel pacchetto rientrano password, Passkey, 2FA, alias email, condivisione sicura e monitoraggio del Dark Web L'articolo Dalla critto...",
-      "date": "2026-08-28T04:47:10.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:c249991bbd10",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Diritto all’oblio e rimozione automatica dai broker: eliminare email e numeri dalla rete a 5,99 €",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/cancellare-dati-personali-dai-siti-con-lo-sconto/",
-      "image": null,
-      "summary": "Incogni propone i suoi piani con il 50% di sconto sulla formula annuale. Il servizio permette di rimuovere automaticamente dati personali come email, indirizzi e numeri di telefono da oltre 420 siti di data broker, co...",
-      "date": "2026-08-28T04:46:42.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:fd60f16fa9b6",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "OpenAI – Hugging Face: perché cambia la portata dell’incidente",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/openai-hugging-face-perche-cambia-la-portata-dellincidente/",
-      "image": null,
-      "summary": "Il 26 agosto 2026 OpenAI ha rilasciato il rapporto sull’incidente che ha coinvolto Hugging Face, da cui emerge che i comportamenti alla base dell’incidente erano comparsi da settimane. Ecco il quadro in cui la sequenz...",
-      "date": "2026-08-27T15:07:40.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:653acd9a6205",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Condivisione sicura delle credenziali e monitoraggio data leak: gestire le password in azienda a 3,59 €",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/sicurezza-password-manager-aziendale/",
-      "image": null,
-      "summary": "NordPass propone il piano Business a 3,59 euro per utente al mese con il piano biennale. La soluzione include gestione e condivisione sicura delle credenziali, monitoraggio delle violazioni e strumenti per amministrat...",
-      "date": "2026-08-27T10:20:45.0000000Z"
     }
   ]
 }
