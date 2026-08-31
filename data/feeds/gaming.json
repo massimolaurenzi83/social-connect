@@ -1,7 +1,43 @@
 {
   "category": "gaming",
-  "updated": "2026-08-31T20:06:12.3674089Z",
+  "updated": "2026-08-31T23:49:33.7294706Z",
   "items": [
+    {
+      "id": "multiplayer:50cdfa606bb2",
+      "sourceId": "multiplayer",
+      "source": "Multiplayer.it",
+      "platform": "rss",
+      "category": "gaming",
+      "title": "Su Steam è iniziato il Festival dei giochi PvE, crafting e survival con tantissimi sconti a tema",
+      "url": "https://multiplayer.it/notizie/steam-festival-dei-giochi-pve-crafting-e-survival-con-tantissimi-sconti-a-tema.html",
+      "image": "https://multiplayer.net-cdn.it/thumbs/images/2024/09/22/steam-logo-2_jpg_1280x720_q85.jpg",
+      "summary": "Steam inaugura il Festival PvE, crafting e survival con una pioggia di sconti su titoli grandi e piccoli, disponibili fino al 7 settembre.",
+      "date": "2026-08-31T21:28:00.0000000Z"
+    },
+    {
+      "id": "multiplayer:6f82436098a9",
+      "sourceId": "multiplayer",
+      "source": "Multiplayer.it",
+      "platform": "rss",
+      "category": "gaming",
+      "title": "La funzione Disc to Digital di Xbox disponibile da oggi per gli Insider, pubblicata la FAQ ufficiale",
+      "url": "https://multiplayer.it/notizie/funzione-disc-to-digital-xbox-disponibile-da-oggi-gli-insider-pubblicata-faq-ufficiale.html",
+      "image": "https://multiplayer.net-cdn.it/thumbs/images/2026/08/31/xbox_disc_to_digital_jpg_1280x720_q85.jpg",
+      "summary": "Disc to Digital: la nuova funzione permette di convertire i giochi su disco in copie digitali di Microsoft ora è disponibile per gli per gli Insider di Xbox.",
+      "date": "2026-08-31T20:37:18.0000000Z"
+    },
+    {
+      "id": "spaziogames:d912d9020aa7",
+      "sourceId": "spaziogames",
+      "source": "SpazioGames",
+      "platform": "rss",
+      "category": "gaming",
+      "title": "Logitech Brio 300 sotto i 45€, l’upgrade da fare per call più nitide",
+      "url": "https://www.spaziogames.it/articoli/logitech-brio-300-sotto-i-45eur-lupgrade-da-fare-per-call-piu-nitide",
+      "image": null,
+      "summary": "Logitech Brio 300 costa 44,99€ su Amazon, invece dei 69,99€ di listino, con uno sconto del 36%. È un aggiornamento mirato per rendere più nitide call, lezioni online e contenuti video anche quando l’i...",
+      "date": "2026-08-31T20:19:00.0000000Z"
+    },
     {
       "id": "spaziogames:d93b065769f5",
       "sourceId": "spaziogames",
@@ -219,18 +255,6 @@
       "date": "2026-08-31T16:40:33.0000000Z"
     },
     {
-      "id": "multiplayer:7dcc9205eced",
-      "sourceId": "multiplayer",
-      "source": "Multiplayer.it",
-      "platform": "rss",
-      "category": "gaming",
-      "title": "Stellar Blade: come gira su Nintendo Switch 2? Shift Up svela risoluzione e framerate",
-      "url": "https://multiplayer.it/notizie/stellar-blade-come-gira-su-nintendo-switch-2-shift-up-svela-risoluzione-e-framerate.html",
-      "image": "https://multiplayer.net-cdn.it/thumbs/images/2025/05/15/ss_2d4ad1a81618920416e7b68d02dc266ac898f1441920x1080_jpg_1280x720_q85.jpg",
-      "summary": "Stellar Blade: Complete Edition arriva su Nintendo Switch 2 con upscaling DLSS e framerate potenziato tramite interpolazione con FSR 3.1, puntando ai 60 fps sia in modalità portatile che docked.",
-      "date": "2026-08-31T16:34:38.0000000Z"
-    },
-    {
       "id": "spaziogames:5919e6f6ce2f",
       "sourceId": "spaziogames",
       "source": "SpazioGames",
@@ -253,30 +277,6 @@
       "image": null,
       "summary": "AOC Gaming Monitor 27G4XED costa 96,99€ su Amazon, invece dei 119€ di listino, con uno sconto del 18%. Sotto la soglia dei 100€, porta nel setup un pannello Fast IPS da 27 pollici capace di raggiunger...",
       "date": "2026-08-31T16:19:51.0000000Z"
-    },
-    {
-      "id": "multiplayer:99a77b818963",
-      "sourceId": "multiplayer",
-      "source": "Multiplayer.it",
-      "platform": "rss",
-      "category": "gaming",
-      "title": "The Blood of the Dawnwalker sembra un solido RPG nei primi voti, generalmente positivi",
-      "url": "https://multiplayer.it/notizie/the-blood-of-the-dawnwalker-sembra-un-solido-rpg-nei-primi-voti-generalmente-positivi.html",
-      "image": "https://multiplayer.net-cdn.it/thumbs/images/2024/01/15/gd5dwynxsaavagc_IN2vbTA_cropped_1719_743_3840_1931_jpeg_1280x720_q85.jpg",
-      "summary": "The Blood of the Dawnwalker riceve i suoi primi voti da parte della stampa specializzata, che in generale premia il primo sforzo di Rebel Wolves come un RPG convincente e originale.",
-      "date": "2026-08-31T16:01:50.0000000Z"
-    },
-    {
-      "id": "spaziogames:4460cf4a7e42",
-      "sourceId": "spaziogames",
-      "source": "SpazioGames",
-      "platform": "rss",
-      "category": "gaming",
-      "title": "Logitech G203 scontato del 49%, un affare sotto i 20€ per giocare",
-      "url": "https://www.spaziogames.it/articoli/logitech-g203-scontato-del-49-un-affare-sotto-i-20eur-per-giocare",
-      "image": null,
-      "summary": "Logitech G203 LIGHTSYNC costa 18€ su Amazon, anziché 34,99€, con uno sconto del 49%. Il sensore regolabile e i sei pulsanti personalizzabili ne fanno un ingresso accessibile nel gaming PC. [widgetbay...",
-      "date": "2026-08-31T15:49:37.0000000Z"
     },
     {
       "id": "spaziogames:4cfd75174a6c",
