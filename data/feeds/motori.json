@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-08-31T00:50:27.4674410Z",
+  "updated": "2026-08-31T06:20:28.2653652Z",
   "items": [
+    {
+      "id": "motor1:44f2b17df1c4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Offerta BMW X1, quanto conviene?",
+      "url": "https://it.motor1.com/news/806360/bmw-x1-offerta-promozione-settembre-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/zxJ6p4/s3/offerta-bmw-x1-quanto-conviene.jpg",
+      "summary": "BMW X1 sDrive18d M Sport in noleggio a lungo termine: 555 euro al mese per 48 mesi e 60.000 km",
+      "date": "2026-08-31T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ed6b54a34858",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Hongqi, il tetto solare da 400 kWh: 80 km al giorno?",
+      "url": "https://insideevs.it/features/806349/hongqi-ehs7-funziona-tetto-solare/",
+      "image": "https://cdn.motor1.com/images/mgl/JONJOn/s3/hongqi-tiangong-08-hongqi-ehs7-nei-mercati-internazionali.jpg",
+      "summary": "Sul SUV elettrico Hongqi EHS7 il tetto solare in perovskite promette fino a 400 kWh l’anno per alimentare i servizi di bordo.",
+      "date": "2026-08-31T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:213b4ad09be6",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes GLA vs BMW X1, confronto tra SUV premium tedeschi",
+      "url": "https://it.motor1.com/news/806039/mercedes-gla-vs-bmw-x1-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/KbgP6M/s3/mercedes-gla-vs-bmw-x1-2026.jpg",
+      "summary": "Rinnovata completamente di recente, la GLA torna in campo per sfidare la rivale di sempre",
+      "date": "2026-08-31T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:08cca692287e",
       "sourceId": "vaielettrico",
@@ -423,18 +459,6 @@
       "date": "2026-08-28T12:00:00.0000000Z"
     },
     {
-      "id": "motor1:9bd48a39b60d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Salone di Torino 2026, i marchi e le auto presenti",
-      "url": "https://it.motor1.com/news/806294/salone-auto-torino-2026-auto-marchi-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/MkgQ0X/s3/salone-di-torino-2025.jpg",
-      "summary": "Oltre 40 i marchi presenti a Torino dall'11 al 13 settembre. Ecco chi c'è e tutti gli eventi in programma",
-      "date": "2026-08-28T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:26801cc0ccfe",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -445,18 +469,6 @@
       "image": "https://cdn.motor1.com/images/mgl/0eW9O2/s3/skoda-elroq-2025-der-ladeslot-befindet-sich-hinten-rechts.jpg",
       "summary": "La Skoda Elroq è regina delle immatricolazioni nel continente, dove 1 vettura nuova su 4 consegnate è BEV",
       "date": "2026-08-28T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:f6b3309623b5",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il primo camper Volkswagen elettrico: l'ID. California Cruise",
-      "url": "https://it.motor1.com/news/806361/volkswagen-id-california-cruise-camper/",
-      "image": "https://cdn.motor1.com/images/mgl/8A3eMM/s3/vw-id.-california-cruise-2026.jpg",
-      "summary": "Prezzo da circa 60.800 euro, base ID. Buzz Pro e funzione vehicle-to-load per alimentare accessori e postazioni da campeggio",
-      "date": "2026-08-28T10:00:00.0000000Z"
     },
     {
       "id": "insideevs:fc8e22a5509f",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/jlWzee/s3/xiaomi-xring-d100.jpg",
       "summary": "La Casa cinese avvia la produzione interna dell'Xring D100, primo chip 3 nm Made in China",
       "date": "2026-08-27T14:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:19e681d8a001",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Così Volvo vede animali, ciclisti, pedoni e incidenti in curva",
-      "url": "https://insideevs.it/news/806247/volvo-animali-pedoni-incidenti-curva/",
-      "image": "https://cdn.motor1.com/images/mgl/jlWzOo/s3/new-intelligent-safety-features-coming-to-volvo-ex60-ex90-and-es90.jpg",
-      "summary": "Le funzioni di sicurezza come Large Animal Alert sono presenti nell'aggiornamento software delle EX60, EX90 ed ES90",
-      "date": "2026-08-27T13:00:00.0000000Z"
     }
   ]
 }
