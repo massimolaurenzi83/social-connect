@@ -1,14 +1,38 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-01T07:46:38.4625497Z",
+  "updated": "2026-09-01T12:49:15.7109098Z",
   "items": [
+    {
+      "id": "cybersecurity360:70f89652ee64",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Meta paga 17 miliardi e vince: la sicurezza dei minori online e il paradosso dell’age assurance",
+      "url": "https://www.cybersecurity360.it/news/meta-paga-17-miliardi-e-vince-la-sicurezza-dei-minori-online-e-il-paradosso-dellage-assurance/",
+      "image": null,
+      "summary": "Per verificare l'età degli utenti servono informazioni sufficienti a distinguere adulti e minorenni. Il caso Meta apre così una questione destinata ad andare oltre i social: come applicare l’age assurance senza trasfo...",
+      "date": "2026-09-01T10:05:30.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:2cd68cbb67f1",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Colleferro, Bulgaria e Lipsia: cosa c’è davvero dietro gli attacchi con droni, sabotaggi e disinformazione",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/colleferro-bulgaria-e-lipsia-cosa-ce-davvero-dietro-gli-attacchi-con-droni-sabotaggi-e-disinformazione/",
+      "image": null,
+      "summary": "Una delle piste da verificare è l'ipotesi di un possibile sabotaggio di matrice russa. Ecco il fil rouge che lega una serie di eventi analoghi verificatisi nelle stesse settimane a Colleferro in Italia, in Bulgaria, a...",
+      "date": "2026-09-01T08:12:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:4efd14ad9c87",
       "sourceId": "cybersecurity360",
       "source": "Cybersecurity360",
       "platform": "rss",
       "category": "cybersecurity",
-      "title": "Terzo settore e GDPR: il “pulsante di aiuto” non è una semplice pagina di contatto",
+      "title": "Terzo settore e GDPR: il “pulsante di aiuto” sui siti Web non è una semplice pagina di contatto",
       "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/data-protection-terzo-settore-pulsante-aiuto-siti-trattamento-alto-rischio/",
       "image": null,
       "summary": "Nei servizi di ascolto e segnalazione per soggetti vulnerabili, il “pulsante di aiuto” sui siti web degli Enti del terzo settore non è una pagina di contatti. Ecco il perimetro giuridico del problema, le 4 posizioni s...",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Dai dati agli output, fino a plugin e agenti autonomi, la Generative AI introduce rischi che ridisegnano i confini tra provider e cliente. L'AI Shared Responsibility Model aiuta a stabilire chi deve presidiare ogni co...",
       "date": "2026-08-31T08:23:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a1428bbc567b",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Security, non securAIty: l’evoluzione degli strumenti di difesa",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/security-non-securaity-levoluzione-degli-strumenti-di-difesa/",
-      "image": null,
-      "summary": "La sicurezza cyber deve coinvolgere anche l'IA: è vero, ma non è possibile delegarla a questi sistemi. O, peggio ancora, considerarli come un focus principale sia d'attacco che di difesa. Altrimenti il rischio è quell...",
-      "date": "2026-08-28T16:00:07.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:e17b24768cb9",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Interferenze GNSS: come l’Europa (e l’Italia) proteggono trasporti e infrastrutture critiche",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/interferenze-gnss-come-leuropa-e-litalia-proteggono-trasporti-e-infrastrutture-critiche/",
-      "image": null,
-      "summary": "Negli ultimi anni i sistemi di navigazione satellitare sono sempre più colpiti da interferenze deliberate, note come jamming e spoofing, con effetti diretti sui trasporti e sulle infrastrutture critiche. Ecco il ruolo...",
-      "date": "2026-08-28T15:46:15.0000000Z"
     }
   ]
 }
