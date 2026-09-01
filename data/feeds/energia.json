@@ -1,7 +1,67 @@
 {
   "category": "energia",
-  "updated": "2026-09-01T02:06:44.1996896Z",
+  "updated": "2026-09-01T07:46:38.4646313Z",
   "items": [
+    {
+      "id": "qualenergia:1c4e4fab4f31",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Bruxelles vuole dare un passaporto alle batterie. E il mondo la segue",
+      "url": "https://www.qualenergia.it/articoli/bruxelles-vuole-dare-passaporto-batterie-e-mondo-la-segue/",
+      "image": null,
+      "summary": "Si tende spesso a liquidare l’Unione europea come un gigantesco “normificio“, un apparato burocratico che sforna direttive e regolamenti a un ritmo che pare avere più a che fare con l’autoreferenzialità di Bruxelles c...",
+      "date": "2026-09-01T07:30:51.0000000Z"
+    },
+    {
+      "id": "qualenergia:389d5857b9f9",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Incentivi Fer 1, la Corte Ue dichiara irricevibile il rinvio del Consiglio di Stato",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/incentivi-fer-1-corte-ue-dichiara-irricevibile-rinvio-cds/",
+      "image": null,
+      "summary": "La Corte di giustizia dell’Unione europea è intervenuta nel filone dei ricorsi presentati dagli operatori delle rinnovabili contro il meccanismo incentivante “a due vie” previsto dal decreto Fer 1 del 4 luglio 2019 al...",
+      "date": "2026-09-01T07:00:53.0000000Z"
+    },
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
+      "date": "2026-09-01T05:00:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
+      "date": "2026-08-31T22:25:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:585b546b2eaa",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Saper leggere le bollette di luce e gas e scegliere l’offerta giusta",
+      "url": "https://www.qualenergia.it/articoli/saper-leggere-bollette-luce-gas-scegliere-offerta-giusta/",
+      "image": null,
+      "summary": "Quanto consumi ogni mese? Se la risposta è “circa 70 euro”, c’è già qualcosa da chiarire: quella è la spesa, non il consumo. È proprio da questo equivoco, tanto semplice quanto comune, che parte la decima puntata di “...",
+      "date": "2026-08-31T13:45:16.0000000Z"
+    },
     {
       "id": "qualenergia:a1caa0644368",
       "sourceId": "qualenergia",
@@ -12,7 +72,7 @@
       "url": "https://www.qualenergia.it/pro/articoli-pro/shell-abbandona-accumulo-residenziale-sonnen/",
       "image": null,
       "summary": "Secondo una ricostruzione del quotidiano economico-finanziario tedesco Handelsblatt, l’acquisto della società specializzata nell’accumulo residenziale Sonnen da parte di Shell non ha dato i frutti sperati. Con due ope...",
-      "date": "2026-08-31T14:00:27.0000000Z"
+      "date": "2026-08-31T13:00:27.0000000Z"
     },
     {
       "id": "qualenergia:a22d7689dac5",
@@ -37,18 +97,6 @@
       "image": null,
       "summary": "Le critiche alle Regioni che limitano in qualche modo lo sviluppo delle energie rinnovabili hanno la stessa consistenza di un gelato al sole. Non perché prive di fondamento, anzi, ma perché fatte in un periodo caldo s...",
       "date": "2026-08-31T10:15:56.0000000Z"
-    },
-    {
-      "id": "qualenergia:585b546b2eaa",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Saper leggere le bollette di luce e gas e scegliere l’offerta giusta",
-      "url": "https://www.qualenergia.it/articoli/saper-leggere-bollette-luce-gas-scegliere-offerta-giusta/",
-      "image": null,
-      "summary": "Quanto consumi ogni mese? Se la risposta è “circa 70 euro”, c’è già qualcosa da chiarire: quella è la spesa, non il consumo. È proprio da questo equivoco, tanto semplice quanto comune, che parte la decima puntata di “...",
-      "date": "2026-08-31T09:45:16.0000000Z"
     },
     {
       "id": "qualenergia:938efcd20f68",
@@ -97,54 +145,6 @@
       "image": null,
       "summary": "Il fotovoltaico galleggiante (FPV) può beneficiare di una maggiore efficienza grazie a temperature operative più basse, ma il vantaggio non è sempre automatico: dipende da geometria della piattaforma, ventilazione, di...",
       "date": "2026-08-31T07:00:02.0000000Z"
-    },
-    {
-      "id": "qualenergia:c10d41b44d5b",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Efficienza e rinnovabili nelle imprese: aprono tre bandi in Sardegna e Umbria",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/efficienza-rinnovabili-imprese-aprono-tre-bandi-sardegna-umbria/",
-      "image": null,
-      "summary": "Tra il 1 e il 4 settembre prendono il via tre avvisi che stanziano complessivamente 61 milioni di euro per sostenere le imprese a realizzare interventi di efficienza energetica, produzione da fonti rinnovabili, accumu...",
-      "date": "2026-08-31T06:55:39.0000000Z"
-    },
-    {
-      "id": "qualenergia:9674dd629162",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Optimisation of Photovoltaic Systems for Different Applications 2026",
-      "url": "https://www.qualenergia.it/pro/documenti/optimisation-of-photovoltaic-systems-for-different-applications-2026/",
-      "image": null,
-      "summary": "A fine 2024, la capacità solare galleggiante installata a livello mondiale aveva superato 9,1 GW; gli impianti PV floating possono beneficiare di maggiori efficienze grazie a temperature operative più basse, ma il van...",
-      "date": "2026-08-31T05:00:55.0000000Z"
-    },
-    {
-      "id": "qualenergia:21afcd2c933e",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "The take-off in African solar that official statistics can’t yet see",
-      "url": "https://www.qualenergia.it/pro/documenti/the-take-off-in-african-solar-that-official-statistics-cant-yet-see/",
-      "image": null,
-      "summary": "Stima della nuova capacità fotovoltaica installata in tutti i paesi africani tra il 2023 e il 2026, usando dati doganali cinesi e una metodologia calibrata sulle installazioni effettive. Per il 2026 previsti 17 GW di ...",
-      "date": "2026-08-31T05:00:23.0000000Z"
-    },
-    {
-      "id": "qualenergia:c806b8589e7b",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "INFODATA ENERGIA",
-      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
-      "image": null,
-      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
-      "date": "2026-08-31T05:00:00.0000000Z"
     }
   ]
 }
