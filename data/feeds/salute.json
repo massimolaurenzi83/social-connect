@@ -1,7 +1,19 @@
 {
   "category": "salute",
-  "updated": "2026-09-01T12:49:15.6571062Z",
+  "updated": "2026-09-01T17:01:00.9846140Z",
   "items": [
+    {
+      "id": "repubblica-salute:72eb5acbf1b5",
+      "sourceId": "repubblica-salute",
+      "source": "Repubblica Salute",
+      "platform": "rss",
+      "category": "salute",
+      "title": "Il miglior doping in palestra? Il profumo del cioccolato",
+      "url": "https://www.repubblica.it/salute/2026/09/01/news/doping_palestra_profumo_cioccolato-425558979/?rss",
+      "image": "https://www.repstatic.it/content/contenthub/img/2026/09/01/170102508-f5731613-b17f-4196-982c-e94e0072f99c.jpg",
+      "summary": "A suggerire il potere stimolante dell’aroma di cacao, uno studio recentemente pubblicato su Frontiers in physiology , secondo cui chi adotta questa abitudine prima di iniziare gli esercizi potrebbe ottenere un risulta...",
+      "date": "2026-09-01T15:01:08.0000000Z"
+    },
     {
       "id": "repubblica-salute:0e1f2e4f3e3c",
       "sourceId": "repubblica-salute",
@@ -111,18 +123,6 @@
       "date": "2026-08-31T03:00:00.0000000Z"
     },
     {
-      "id": "repubblica-salute:6819ad9d62a0",
-      "sourceId": "repubblica-salute",
-      "source": "Repubblica Salute",
-      "platform": "rss",
-      "category": "salute",
-      "title": "Stress da rientro, come gestire il ritorno dalle vacanze",
-      "url": "https://www.repubblica.it/salute/2026/08/30/news/vacanze_ferie_stress_come_gestire_ritorno-425552253/?rss",
-      "image": "https://www.repstatic.it/content/contenthub/img/2026/08/28/160615323-328cbe37-274a-4eff-b705-2cfdc00d8367.jpg",
-      "summary": "I consigli degli esperti su come superare la sindrome post ferie e prolungare il benessere accumulato durante le vacanze. Che in genere si perde in 2-4 settimane",
-      "date": "2026-08-29T22:00:00.0000000Z"
-    },
-    {
       "id": "repubblica-salute:98178c80293c",
       "sourceId": "repubblica-salute",
       "source": "Repubblica Salute",
@@ -135,16 +135,16 @@
       "date": "2026-08-29T22:00:00.0000000Z"
     },
     {
-      "id": "repubblica-salute:86a844d98230",
+      "id": "repubblica-salute:6819ad9d62a0",
       "sourceId": "repubblica-salute",
       "source": "Repubblica Salute",
       "platform": "rss",
       "category": "salute",
-      "title": "Nebbia mentale, il potere delle storie aiuta la diagnosi",
-      "url": "https://www.repubblica.it/salute/rubriche/saluteseno/2026/08/28/news/nebbia_mentale_il_potere_delle_storie_aiuta_la_diagnosi-425552191/?rss",
-      "image": "https://www.repstatic.it/content/contenthub/img/2026/08/28/154343108-e6552e44-7f3c-409e-ab59-9c27fe83b298.jpg",
-      "summary": "Alcune difficoltà cognitive nelle donne con tumore al seno si osservano solo in alcuni test, come quelli che raccontano storie ed episodi di vita reale. Un’informazione importante per le poter aiutare meglio le pazienti",
-      "date": "2026-08-28T13:43:49.0000000Z"
+      "title": "Stress da rientro, come gestire il ritorno dalle vacanze",
+      "url": "https://www.repubblica.it/salute/2026/08/30/news/vacanze_ferie_stress_come_gestire_ritorno-425552253/?rss",
+      "image": "https://www.repstatic.it/content/contenthub/img/2026/08/28/160615323-328cbe37-274a-4eff-b705-2cfdc00d8367.jpg",
+      "summary": "I consigli degli esperti su come superare la sindrome post ferie e prolungare il benessere accumulato durante le vacanze. Che in genere si perde in 2-4 settimane",
+      "date": "2026-08-29T22:00:00.0000000Z"
     },
     {
       "id": "corriere-salute:133353e1bdf8",

@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-09-01T12:49:15.6694253Z",
+  "updated": "2026-09-01T17:01:00.9921496Z",
   "items": [
+    {
+      "id": "qualenergia:9fac44a9f982",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "In Cina la capacità di fotovoltaico sta per superare quella da carbone",
+      "url": "https://www.qualenergia.it/articoli/cina-capacita-fotovoltaico-sta-superare-carbone/",
+      "image": null,
+      "summary": "L’associazione industriale China Enterprise Confederation (Cec) prevede che entro la fine del 2026 la capacità di generazione elettrica del Paese raggiungerà circa 4,3 terawatt. L’installato fotovoltaico supererà quel...",
+      "date": "2026-09-01T13:00:38.0000000Z"
+    },
+    {
+      "id": "qualenergia:3fb1a0952935",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Le installazione eoliche europee verso il massimo storico",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/installazioni-eoliche-europee-verso-massimo-storico/",
+      "image": null,
+      "summary": "L’energia eolica europea si avvia verso un 2026 da record. Nei primi sei mesi dell’anno sono entrati in esercizio 8,8 GW di nuova potenza, di cui 6,5 GW onshore e 2,3 GW offshore e nell’Ue-27 la potenza aggiuntiva ris...",
+      "date": "2026-09-01T12:45:33.0000000Z"
+    },
     {
       "id": "qualenergia:1a4cce97fe5e",
       "sourceId": "qualenergia",
@@ -87,18 +111,6 @@
       "date": "2026-09-01T06:30:17.0000000Z"
     },
     {
-      "id": "qualenergia:47c1d7630b31",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Global Offshore Wind Report 2026",
-      "url": "https://www.qualenergia.it/pro/documenti/global-offshore-wind-report-2026/",
-      "image": null,
-      "summary": "Nel 2025, a livello globale, sono stati collegati alla rete 9,3 GW di nuova potenza eolica offshore, il terzo miglior risultato di sempre. La Cina ha guidato le installazioni per l’ottavo anno consecutivo, con 6,6 GW ...",
-      "date": "2026-09-01T05:30:55.0000000Z"
-    },
-    {
       "id": "qualenergia:ed359064492d",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -123,28 +135,16 @@
       "date": "2026-09-01T05:00:52.0000000Z"
     },
     {
-      "id": "qualenergia:d004d2b9e943",
+      "id": "qualenergia:2a0c383ac0e2",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "Riqualificazione pubblica illuminazione di Bari",
-      "url": "https://www.qualenergia.it/pro/documenti/riqualificazione-pubblica-illuminazione-di-bari/",
+      "title": "Corso “Edilizia Sostenibile”",
+      "url": "https://www.qualenergia.it/pro/documenti/corso-edilizia-sostenibile-2/",
       "image": null,
-      "summary": "Accordo quadro dei lavori per la riqualificazione, la manutenzione e l’estensione in ambito smart degli impianti di pubblica illuminazione e controllo tecnologico (lotti 1 – 2 – 3 – 4 – 5) nel comune di Bari. Importo ...",
-      "date": "2026-09-01T05:00:22.0000000Z"
-    },
-    {
-      "id": "qualenergia:ab3f34ff9ccb",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Gestione colonnine ricarica veicoli elettrici a Corinaldo (AN)",
-      "url": "https://www.qualenergia.it/pro/documenti/gestione-colonnine-ricarica-veicoli-elettrici-a-corinaldo-an/",
-      "image": null,
-      "summary": "Manifestazione d’interesse per progettazione, fornitura, installazione e gestione di colonnine per ricarica di veicoli elettrici in ambito territoriale del comune di Corinaldo (AN). Ente appaltante: Unione Dei Comuni ...",
-      "date": "2026-09-01T05:00:22.0000000Z"
+      "summary": "Il corso biennale in “Edilizia Sostenibile” forma professionisti nell’ambito della progettazione, riqualificazione e sostenibilità degli edifici, con competenze in BIM, rilievi digitali, termografia, diagnosi energeti...",
+      "date": "2026-09-01T05:00:49.0000000Z"
     }
   ]
 }
