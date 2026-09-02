@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-09-01T22:17:44.6352677Z",
+  "updated": "2026-09-02T00:20:28.6205858Z",
   "items": [
+    {
+      "id": "motor1:7eac94c5dcc2",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Sembra una Range Rover, ma è un'auto mai vista prima",
+      "url": "https://it.motor1.com/news/806531/range-rover-electric-2026-informazioni-prezzo/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo96GL/s3/range-rover-ev-informazioni-motori-prezzo.jpg",
+      "summary": "È elettrica, ha 550 CV e mantiene lo stile delle versioni con motori a combustione. Ecco come è fatta (e come va in fuoristrada)",
+      "date": "2026-09-01T23:01:00.0000000Z"
+    },
     {
       "id": "vaielettrico:abb41e8e1134",
       "sourceId": "vaielettrico",
@@ -279,18 +291,6 @@
       "date": "2026-09-01T13:00:46.0000000Z"
     },
     {
-      "id": "motor1:637f86b05613",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Porsche 911 GT3 Bergsport, omaggio alle strade delle Alpi",
-      "url": "https://it.motor1.com/news/806722/porsche-911-gt3-bergsport-limitata/",
-      "image": "https://cdn.motor1.com/images/mgl/8A3Qye/s3/porsche-911-gt3-bergsport.jpg",
-      "summary": "La nuova 911 GT3 Touring diventa Bergsport: 100 esemplari con dettagli ispirati alle Alpi, per Italia, Francia, Austria e Svizzera",
-      "date": "2026-09-01T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:2c546f7f655b",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -300,6 +300,18 @@
       "url": "https://insideevs.it/news/806703/san-francisco-funziona-mappa-colonnine/",
       "image": "https://cdn.motor1.com/images/mgl/wl8eG4/s3/vuoi-una-colonnina-sotto-casa-san-francisco-ti-da-la-mappa.jpg",
       "summary": "Nel programma i residenti indicano i marciapiedi dove installare le colonnine di ricarica, una soluzione pensata per chi non ha un garage",
+      "date": "2026-09-01T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:637f86b05613",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Porsche 911 GT3 Bergsport, omaggio alle strade delle Alpi",
+      "url": "https://it.motor1.com/news/806722/porsche-911-gt3-bergsport-limitata/",
+      "image": "https://cdn.motor1.com/images/mgl/8A3Qye/s3/porsche-911-gt3-bergsport.jpg",
+      "summary": "La nuova 911 GT3 Touring diventa Bergsport: 100 esemplari con dettagli ispirati alle Alpi, per Italia, Francia, Austria e Svizzera",
       "date": "2026-09-01T13:00:00.0000000Z"
     },
     {
@@ -339,18 +351,6 @@
       "date": "2026-09-01T12:00:00.0000000Z"
     },
     {
-      "id": "insideevs:1388a1c4baee",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa batteria americana potrebbe spezzare il dominio cinese",
-      "url": "https://insideevs.it/news/806563/batteria-americana-supply-chain-ev/",
-      "image": "https://cdn.motor1.com/images/mgl/QeYlbB/s3/storedot-pouch-cells-2022.jpg",
-      "summary": "La prossima grande svolta nel campo dei veicoli elettrici potrebbe non avere nulla a che fare con le batterie allo stato solido",
-      "date": "2026-09-01T11:00:00.0000000Z"
-    },
-    {
       "id": "motor1:e10b8a0823a8",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -360,6 +360,18 @@
       "url": "https://it.motor1.com/news/806704/lewis-hamilton-ferrari-f40-acquisto/",
       "image": "https://cdn.motor1.com/images/mgl/6ZoEYE/s3/ferrari-f40.jpg",
       "summary": "È rimasta ferma in un garage per oltre 30 anni prima che il sette volte campione di F1 la mandasse a Maranello per un restauro completo",
+      "date": "2026-09-01T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:1388a1c4baee",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa batteria americana potrebbe spezzare il dominio cinese",
+      "url": "https://insideevs.it/news/806563/batteria-americana-supply-chain-ev/",
+      "image": "https://cdn.motor1.com/images/mgl/QeYlbB/s3/storedot-pouch-cells-2022.jpg",
+      "summary": "La prossima grande svolta nel campo dei veicoli elettrici potrebbe non avere nulla a che fare con le batterie allo stato solido",
       "date": "2026-09-01T11:00:00.0000000Z"
     },
     {
@@ -411,18 +423,6 @@
       "date": "2026-09-01T08:00:00.0000000Z"
     },
     {
-      "id": "motor1:153051953541",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mercedes Sprinter: Vansports prepara il 4x4 per il fuoristrada",
-      "url": "https://it.motor1.com/news/806669/mercedes-sprinter-vansports-4x4-fuoristrada/",
-      "image": "https://cdn.motor1.com/images/mgl/ZnzWNK/s3/mercedes-benz-sprinter-4x4-von-vansports-2026.jpg",
-      "summary": "Il kit offroad non è adatto solo ai campervan, ma anche a tutti i Mercedes Sprinter 907 a trazione posteriore e integrale",
-      "date": "2026-09-01T07:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:ac062a3fa65a",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -435,6 +435,18 @@
       "date": "2026-09-01T07:00:00.0000000Z"
     },
     {
+      "id": "motor1:153051953541",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes Sprinter: Vansports prepara il 4x4 per il fuoristrada",
+      "url": "https://it.motor1.com/news/806669/mercedes-sprinter-vansports-4x4-fuoristrada/",
+      "image": "https://cdn.motor1.com/images/mgl/ZnzWNK/s3/mercedes-benz-sprinter-4x4-von-vansports-2026.jpg",
+      "summary": "Il kit offroad non è adatto solo ai campervan, ma anche a tutti i Mercedes Sprinter 907 a trazione posteriore e integrale",
+      "date": "2026-09-01T07:00:00.0000000Z"
+    },
+    {
       "id": "insideevs:b116228de1bd",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -444,18 +456,6 @@
       "url": "https://insideevs.it/news/806418/olinia-carga-mini-truck-elettrico/",
       "image": "https://cdn.motor1.com/images/mgl/pbJKYP/s3/olinia-carga.jpg",
       "summary": "Olinia Carga nasce in Messico per le consegne urbane: 650 kg di carico utile, oltre 120 km di autonomia e ricarica domestica",
-      "date": "2026-09-01T06:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:c041cae55383",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Offerta MINI Countryman, quanto conviene?",
-      "url": "https://it.motor1.com/news/806370/mini-countryman-offerta-promozione-settembre-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/9m8Y9b/s3/offerta-mini-countryman-quanto-conviene.jpg",
-      "summary": "MINI Countryman One in leasing da 270 euro al mese per 48 mesi: servono 8.340 euro di anticipo e una rata finale di 17.102 euro",
       "date": "2026-09-01T06:00:00.0000000Z"
     },
     {
