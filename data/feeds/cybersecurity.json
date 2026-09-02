@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-02T09:09:09.9693520Z",
+  "updated": "2026-09-02T13:39:25.9397192Z",
   "items": [
+    {
+      "id": "cybersecurity360:14a6fe00b561",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Claude Fable 5.1 e Mythos 5.1: l’AI alza il livello nella cyber, ma Anthropic ne limita le capacità",
+      "url": "https://www.cybersecurity360.it/news/claude-fable-5-1-e-mythos-5-1-lai-alza-il-livello-nella-cyber-ma-anthropic-ne-limita-le-capacita/",
+      "image": null,
+      "summary": "Anthropic presenta Claude Fable 5.1 e Mythos 5.1: stesso modello, ma differenti livelli di sicurezza. Le capacità cyber aumentano fino alla ricerca di vulnerabilità, mentre penetration testing ed exploit generation re...",
+      "date": "2026-09-02T12:07:43.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:80f7ede0b3bd",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "La cyber security come leva di competitività: da costo necessario a leva strategica",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/la-cyber-security-come-leva-di-competitivita-da-costo-necessario-a-leva-strategica/",
+      "image": null,
+      "summary": "Serve un approccio che quantifichi il cyber risk: tradurre il rischio cyber in impatti finanziari potenziali, al fine di supportare decisioni più consapevoli. Ecco quando la cyber security smette di essere un costo op...",
+      "date": "2026-09-02T10:19:44.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:c580364da461",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Incogni Unlimited: la soluzione per rimuovere i dati personali dal web e prevenire i furti d’identità",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/incogni-unlimited-piano-rimozione-dati-personali-analisi/",
+      "image": null,
+      "summary": "Incogni Unlimited consente di rimuovere automaticamente i dati personali da oltre 420 siti di data broker e di estendere l'intervento a più di 3.000 siti aggiuntivi. Il piano annuale costa 143,88 euro, con un risparmi...",
+      "date": "2026-09-02T09:09:33.0000000Z"
+    },
     {
       "id": "cybersecurity360:1a3f3be668d9",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Una delle piste da verificare è l'ipotesi di un possibile sabotaggio di matrice russa. Ecco il fil rouge che lega una serie di eventi analoghi verificatisi nelle stesse settimane a Colleferro in Italia, in Bulgaria, a...",
       "date": "2026-09-01T08:12:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:4efd14ad9c87",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Terzo settore e GDPR: il “pulsante di aiuto” sui siti Web non è una semplice pagina di contatto",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/data-protection-terzo-settore-pulsante-aiuto-siti-trattamento-alto-rischio/",
-      "image": null,
-      "summary": "Nei servizi di ascolto e segnalazione per soggetti vulnerabili, il “pulsante di aiuto” sui siti web degli Enti del terzo settore non è una pagina di contatti. Ecco il perimetro giuridico del problema, le 4 posizioni s...",
-      "date": "2026-09-01T07:38:44.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:70ebb750cb45",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Ionos e il commercio elettronico per le PMI: come l’integrazione di IA e sicurezza Cloud trasforma la creazione dei negozi online",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/ionos-ecommerce-plus-sicurezza-cloud-intelligenza-artificiale/",
-      "image": null,
-      "summary": "Ionos propone il pacchetto E-commerce Plus a 1 euro al mese per sei mesi, IVA esclusa. La soluzione integra strumenti IA, gestione del negozio, marketing, pagamenti e dominio, con data center europei e protezione dei ...",
-      "date": "2026-09-01T07:22:13.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:e6a3588389a0",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber attacco agli aeroporti britannici: a rischio i dati dei passeggeri in transito",
-      "url": "https://www.cybersecurity360.it/news/cyber-attacco-agli-aeroporti-britannici-a-rischio-i-dati-dei-passeggeri-in-transito/",
-      "image": null,
-      "summary": "Non risultano esposti dati bancari o di pagamento: il cyber attacco possono diventare una fonte preziosa di intelligence non avrebbe compromesso la sicurezza dei voli né le operazioni aeroportuali. Ma proprio questo d...",
-      "date": "2026-08-31T15:16:12.0000000Z"
     }
   ]
 }
