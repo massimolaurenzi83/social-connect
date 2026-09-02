@@ -1,7 +1,91 @@
 {
   "category": "tennis",
-  "updated": "2026-09-02T13:39:25.9342219Z",
+  "updated": "2026-09-02T17:23:42.1139586Z",
   "items": [
+    {
+      "id": "ubitennis:1d154b086c8f",
+      "sourceId": "ubitennis",
+      "source": "Ubitennis",
+      "platform": "rss",
+      "category": "tennis",
+      "title": "US Open, Marc Lopez: “Jasmine è una grande giocatrice, ma bisogna lavorare sulla scelta dei colpi”",
+      "url": "https://www.ubitennis.com/blog/2026/09/02/us-open-marc-lopez-jasmine-e-una-grande-giocatrice-ma-bisogna-lavorare-sulla-scelta-dei-colpi/",
+      "image": null,
+      "summary": "Intervista esclusiva a Marc Lopez, di nuovo coach di Jasmine Paolini: \"Colpisce la palla in maniera straordinaria\"",
+      "date": "2026-09-02T17:06:21.0000000Z"
+    },
+    {
+      "id": "ubitennis:41ae231a2424",
+      "sourceId": "ubitennis",
+      "source": "Ubitennis",
+      "platform": "rss",
+      "category": "tennis",
+      "title": "US Open: una Paolini in crescita si aggiudica il derby con Stefanini",
+      "url": "https://www.ubitennis.com/blog/2026/09/02/us-open-una-paolini-in-crescita-si-aggiudica-il-derby-con-stefanini/",
+      "image": null,
+      "summary": "Jasmine Paolini parte un po' contratta, poi sale e prende il sopravvento nel secondo set contro una buona Lucrezia Stefanini. Per Jas terzo turno contro Sorana Cirstea",
+      "date": "2026-09-02T16:59:45.0000000Z"
+    },
+    {
+      "id": "ubitennis:4b8a5a78c959",
+      "sourceId": "ubitennis",
+      "source": "Ubitennis",
+      "platform": "rss",
+      "category": "tennis",
+      "title": "US Open, Fritz: “Sarebbe dura per me finire la carriera senza vincere uno Slam”",
+      "url": "https://www.ubitennis.com/blog/2026/09/02/us-open-fritz-sarebbe-dura-per-me-finire-la-carriera-senza-vincere-uno-slam/",
+      "image": null,
+      "summary": "Taylor accede al secondo turno ed è in vena di bilanci: \"Ora gioco meglio rispetto a quando sono arrivato in finale due anni fa\"",
+      "date": "2026-09-02T16:32:21.0000000Z"
+    },
+    {
+      "id": "ubitennis:21ecc0c56898",
+      "sourceId": "ubitennis",
+      "source": "Ubitennis",
+      "platform": "rss",
+      "category": "tennis",
+      "title": "US Open, Monfils: “Non volevo perdere subito. Questo compleanno lo metto nella top 10”",
+      "url": "https://www.ubitennis.com/blog/2026/09/02/us-open-monfils-non-volevo-perdere-subito-questo-compleanno-lo-metto-nella-top-10/",
+      "image": null,
+      "summary": "“Ho avuto un inizio lento, dovevo muovermi meglio”, ha spiegato un vittorioso Gael Monfils. “Allenandomi con i ragazzi giovani ho ritrovato i colpi e la fiducia”",
+      "date": "2026-09-02T15:12:46.0000000Z"
+    },
+    {
+      "id": "ubitennis:8a6215479dc4",
+      "sourceId": "ubitennis",
+      "source": "Ubitennis",
+      "platform": "rss",
+      "category": "tennis",
+      "title": "US Open Day 4 LIVE: bene Medvedev, out Nakashima, più tardi tre azzurri",
+      "url": "https://www.ubitennis.com/blog/2026/09/02/us-open-day-4-live-paolini-stefanini-via-al-derby-azzurro/",
+      "image": null,
+      "summary": "Gli aggiornamenti da Flushing Meadows di mercoledì 2 settembre",
+      "date": "2026-09-02T15:08:05.0000000Z"
+    },
+    {
+      "id": "ubitennis:eee58ad8b3f9",
+      "sourceId": "ubitennis",
+      "source": "Ubitennis",
+      "platform": "rss",
+      "category": "tennis",
+      "title": "Il vero costo di seguire una stagione intera di tennis nel 2026",
+      "url": "https://www.ubitennis.com/blog/2026/09/02/il-vero-costo-di-seguire-una-stagione-intera-di-tennis-nel-2026/",
+      "image": null,
+      "summary": "Melbourne a gennaio, Torino a novembre. In mezzo, undici mesi di tennis e un numero di piattaforme che cambia da torneo a torneo. Nel 2026 la domanda non è più quale canale trasmette il torneo, ma quanto costa arrivar...",
+      "date": "2026-09-02T14:18:07.0000000Z"
+    },
+    {
+      "id": "ubitennis:bc42302321ef",
+      "sourceId": "ubitennis",
+      "source": "Ubitennis",
+      "platform": "rss",
+      "category": "tennis",
+      "title": "Berrettini denuncia l’odio degli scommettitori. Ma i mercati predittivi entrano allo US Open",
+      "url": "https://www.ubitennis.com/blog/2026/09/02/berrettini-denuncia-lodio-degli-scommettitori-ma-i-mercati-predittivi-entrano-allo-us-open/",
+      "image": null,
+      "summary": "Lo US Open annuncia l'accordo con Kalshi aprendo le porte a un mondo che da un lato genera proventi a cui difficilmente si può rinunciare, e dall'altro causa sempre più frequenti fenomeni degenerativi",
+      "date": "2026-09-02T14:08:07.0000000Z"
+    },
     {
       "id": "ubitennis:b6470542f143",
       "sourceId": "ubitennis",
@@ -61,90 +145,6 @@
       "image": null,
       "summary": "Cobolli pareva spacciato. Invece, grande personalità, è venuto fuori dalla buca in cui si era cacciato. Sonego ha forse giocato il miglior match della carriera a 31 anni. Ma non ce l'ha fatta",
       "date": "2026-09-02T08:00:45.0000000Z"
-    },
-    {
-      "id": "ubitennis:da3bf627bd97",
-      "sourceId": "ubitennis",
-      "source": "Ubitennis",
-      "platform": "rss",
-      "category": "tennis",
-      "title": "Italiani in campo mercoledì 2 settembre: Berrettini, Guerrieri, Passaro. Derby Paolini-Stefanini. A che ora e dove vederli",
-      "url": "https://www.ubitennis.com/blog/2026/09/02/italiani-in-campo-mercoledi-2-settembre-berrettini-guerrieri-passaro-derby-paolini-stefanini-a-che-ora-e-dove-vederli/",
-      "image": null,
-      "summary": "Programma ricco a New York: derby Paolini-Stefanini, Berrettini cerca il 3° turno e Guerrieri sfida De Minaur. Passaro vuole completare l'opera",
-      "date": "2026-09-02T06:51:24.0000000Z"
-    },
-    {
-      "id": "ubitennis:8302d665a745",
-      "sourceId": "ubitennis",
-      "source": "Ubitennis",
-      "platform": "rss",
-      "category": "tennis",
-      "title": "Kyrgios, dopo Tsitsipas lo attacca anche Khachanov: “Twittava su Sinner e poi…”",
-      "url": "https://www.ubitennis.com/blog/2026/09/02/kyrgios-dopo-tsitsipas-lo-attacca-anche-khachanov-twittava-su-sinner-e-poi/",
-      "image": null,
-      "summary": "\"Si raccoglie ciò che si semina\", ha sentenziato Karen Khachanov su Nick Kyrgios. \"Gli si è ritorto contro e non sono sorpreso\"",
-      "date": "2026-09-02T06:45:29.0000000Z"
-    },
-    {
-      "id": "ubitennis:607a186da92c",
-      "sourceId": "ubitennis",
-      "source": "Ubitennis",
-      "platform": "rss",
-      "category": "tennis",
-      "title": "US Open, Sonego un leone a New York. Ma Zverev passa in cinque set",
-      "url": "https://www.ubitennis.com/blog/2026/09/02/us-open-sonego-un-leone-a-new-york-ma-zverev-passa-in-cinque-set/",
-      "image": null,
-      "summary": "Lorenzo avanti due set a uno e a due punti dal match nel quarto, ma il tedesco rimonta e chiude 6-4 3-6 6-7(7) 7-5 6-4. Al secondo turno troverà Halys",
-      "date": "2026-09-02T06:14:42.0000000Z"
-    },
-    {
-      "id": "ubitennis:31eb80478d35",
-      "sourceId": "ubitennis",
-      "source": "Ubitennis",
-      "platform": "rss",
-      "category": "tennis",
-      "title": "US Open, Eala e Gauff partono col piglio giusto: eliminate Sonmez e Stoiana",
-      "url": "https://www.ubitennis.com/blog/2026/09/02/us-open-eala-e-gauff-partono-col-piglio-giusto-eliminate-sonmez-e-stoiana/",
-      "image": null,
-      "summary": "Eala esordisce travolgendo Stoiana sull'\"Armstrong\", Gauff non trema sull'\"Ashe\" e supera Sonmez in due set",
-      "date": "2026-09-02T06:11:24.0000000Z"
-    },
-    {
-      "id": "ubitennis:79f2cb28b164",
-      "sourceId": "ubitennis",
-      "source": "Ubitennis",
-      "platform": "rss",
-      "category": "tennis",
-      "title": "US Open: Fritz raggiunge Bellucci, per Musetti c’è Sweeny. Monfils non ha ancora finito",
-      "url": "https://www.ubitennis.com/blog/2026/09/02/us-open-fritz-raggiunge-bellucci-per-musetti-ce-sweeny-monfils-non-ha-ancora-finito/",
-      "image": null,
-      "summary": "Moutet lascia per infortunio durante il terzo set. Passa Schoolkate, che trova Cobolli. Gael è diventato il terzo quarantenne a vincere una partita agli US Open negli ultimi 50 anni",
-      "date": "2026-09-02T03:49:51.0000000Z"
-    },
-    {
-      "id": "ubitennis:ebae0431e3df",
-      "sourceId": "ubitennis",
-      "source": "Ubitennis",
-      "platform": "rss",
-      "category": "tennis",
-      "title": "US Open, Musetti: “Non pensavo di tornare a un buon livello così in fretta, ma…”",
-      "url": "https://www.ubitennis.com/blog/2026/09/02/us-open-musetti-non-pensavo-tornare-a-un-buon-livello-cosi-in-fretta-ma/",
-      "image": null,
-      "summary": "Lorenzo Musetti parla di vari argomenti dopo la vittoria con Arthur Fery nell'esordio a New York. Il match, l'infortunio, il ritorno alle gare e il rovescio a una mano",
-      "date": "2026-09-02T01:32:55.0000000Z"
-    },
-    {
-      "id": "ubitennis:4a0ccd023cb9",
-      "sourceId": "ubitennis",
-      "source": "Ubitennis",
-      "platform": "rss",
-      "category": "tennis",
-      "title": "US Open: Bencic cede a Putintseva, Sakkari rimonta-miracolo. Ok Rybakina, Andreeva e Keys",
-      "url": "https://www.ubitennis.com/blog/2026/09/02/us-open-bencic-cede-a-putintseva-sakkari-rimonta-miracolo-ok-rybakina-andreeva-e-keys/",
-      "image": null,
-      "summary": "Cade subito la testa di serie n. 12 Belinda Bencic, rimontata da Yulia Putitseva. Nessun problema per le altre favorite, tutte al secondo turno dello US Open",
-      "date": "2026-09-01T23:53:10.0000000Z"
     }
   ]
 }
