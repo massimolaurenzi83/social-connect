@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-02T04:48:24.8403658Z",
+  "updated": "2026-09-02T09:09:09.9693520Z",
   "items": [
+    {
+      "id": "cybersecurity360:1a3f3be668d9",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Aruba Hyper Hosting: architettura Cloud, gestione AI e analisi della resilienza per web app ad alto traffico",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/aruba-hyper-hosting-architettura-cloud-sicurezza-performance/",
+      "image": null,
+      "summary": "Aruba Hyper Hosting parte da 199 euro + IVA per il primo anno e combina risorse Cloud dedicate, strumenti di intelligenza artificiale, cache, CDN e backup. Due le configurazioni disponibili: Linux e WordPress gestito ...",
+      "date": "2026-09-02T08:49:26.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:8cd2b69e6be9",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Infostealer contro Claude: le sessioni rubate consumano credito, Anthropic rimborsa",
+      "url": "https://www.cybersecurity360.it/news/infostealer-contro-claude-le-sessioni-rubate-consumano-credito-anthropic-rimborsa/",
+      "image": null,
+      "summary": "Un infostealer diffuso tramite software pirata ruba le sessioni attive del browser per accedere agli account Claude e consumarne il credito. Anthropic disattiva le sessioni compromesse, rimuove le carte salvate e rimb...",
+      "date": "2026-09-02T08:22:44.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:62aeea7df8fc",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "La geopolitica della fiducia tra alleati: cosa rende obsoleto lo spionaggio nell’era AI",
+      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/la-geopolitica-della-fiducia-tra-alleati-cosa-rende-obsoleto-lo-spionaggio-nellera-ai/",
+      "image": null,
+      "summary": "Dall'arresto di Biwei Zhang alle manovre di contro-intelligence al quartier generale NATO a Mons: l'infiltrazione umana ad alta tecnologia smantella la blindatura burocratica dei nulla osta. Ecco perché threat intelli...",
+      "date": "2026-09-02T07:36:40.0000000Z"
+    },
     {
       "id": "cybersecurity360:7c89d28f1480",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Non risultano esposti dati bancari o di pagamento: il cyber attacco possono diventare una fonte preziosa di intelligence non avrebbe compromesso la sicurezza dei voli né le operazioni aeroportuali. Ma proprio questo d...",
       "date": "2026-08-31T15:16:12.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:364055ee36a7",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Ecco il Polo Italiano per il Cyber e lo Spazio. Ma ora si deve fare sistema",
-      "url": "https://www.cybersecurity360.it/outlook/ecco-il-polo-italiano-per-il-cyber-e-lo-spazio-ma-ora-si-deve-fare-sistema/",
-      "image": null,
-      "summary": "Il direttore del PICS, Luigi Martino, spiega quali sono i cinque pilastri su cui si fonda il neonato organismo, come l'Italia può valorizzare quello che già esiste nel settore e i nodi da sciogliere per trasformare qu...",
-      "date": "2026-08-31T10:23:40.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:cb48edaade81",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Shadow IT e organizzazione reale: cosa succede quando la procedura non governa più",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/shadow-it-e-organizzazione-reale-cosa-succede-quando-la-procedura-non-governa-piu/",
-      "image": null,
-      "summary": "La recente sentenza del Tribunale di Udine non riguarda solo l'uso di WhatsApp nei rapporti di lavoro o una controversia disciplinare nata da una comunicazione attraverso un canale improprio, ma la progressiva perdita...",
-      "date": "2026-08-31T10:21:34.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2c615a838849",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Backup continui, CDN integrata e strumenti AI: la soluzione per blindare e scalare i progetti sul web",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/hosting-web-nvme-cdn-backup-sconto/",
-      "image": null,
-      "summary": "Hostinger propone il piano Illimitato a 3,99 euro al mese per 48 mesi, con uno sconto del 79% sul prezzo normale. Inclusi hosting per siti senza limiti, 50 GB di spazio NVMe, backup giornalieri con ripristino, dominio...",
-      "date": "2026-08-31T09:58:39.0000000Z"
     }
   ]
 }
