@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-03T13:53:51.3908383Z",
+  "updated": "2026-09-03T17:30:11.6945375Z",
   "items": [
+    {
+      "id": "cybersecurity360:2ba5a3b27f9e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Bugpocalypse: perché l’apocalisse AI è in ritardo",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/bugpocalypse-perche-lapocalisse-ai-e-in-ritardo/",
+      "image": null,
+      "summary": "Un’analisi approfondita sul ritardo della crisi informatica legata alla intelligenza artificiale offensiva con una analisi dei colli di bottiglia dei criminali e delle strategie architetturali necessarie per protegger...",
+      "date": "2026-09-03T15:07:15.0000000Z"
+    },
     {
       "id": "cybersecurity360:51c82c1f6f7d",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Serve un approccio che quantifichi il cyber risk: tradurre il rischio cyber in impatti finanziari potenziali, al fine di supportare decisioni più consapevoli. Ecco quando la cyber security smette di essere un costo op...",
       "date": "2026-09-02T10:19:44.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:c580364da461",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Incogni Unlimited: la soluzione per rimuovere i dati personali dal web e prevenire i furti d’identità",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/incogni-unlimited-piano-rimozione-dati-personali-analisi/",
-      "image": null,
-      "summary": "Incogni Unlimited consente di rimuovere automaticamente i dati personali da oltre 420 siti di data broker e di estendere l'intervento a più di 3.000 siti aggiuntivi. Il piano annuale costa 143,88 euro, con un risparmi...",
-      "date": "2026-09-02T09:09:33.0000000Z"
     }
   ]
 }
