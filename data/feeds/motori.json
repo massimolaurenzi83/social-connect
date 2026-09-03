@@ -1,18 +1,126 @@
 {
   "category": "motori",
-  "updated": "2026-09-03T05:02:38.6163120Z",
+  "updated": "2026-09-03T09:41:33.0239945Z",
   "items": [
     {
-      "id": "insideevs:77f8b88a1e16",
+      "id": "insideevs:141084347638",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Lo stato di salute di una batteria dipende dalla cella più \"debole\"",
-      "url": "https://insideevs.it/news/806848/degrado-batteria-dipende-singola-cella/",
-      "image": "https://cdn.motor1.com/images/mgl/7JMyJ/s3/batterie-l-europa-punta-all-eccellenza.jpg",
-      "summary": "Uno studio dimostra che una cella guasta limita le prestazioni di un intero accumulatore. Ecco perché",
-      "date": "2026-09-03T05:00:00.0000000Z"
+      "title": "Chery porta le batterie solide su strada nel 2027: è vera svolta?",
+      "url": "https://insideevs.it/news/806994/chery-batterie-stato-solido-test/",
+      "image": "https://cdn.motor1.com/images/mgl/zx0gBE/s3/batteria-allo-stato-solido-di-chery.jpg",
+      "summary": "Nel 2027 l'Exeed ES8 inaugura i test su strada delle celle Rhino S, con obiettivi fino a 600 Wh/kg e 1.500 km dichiarati",
+      "date": "2026-09-03T09:08:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:9c1fb0285e89",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Pakistan: la dimostrazione dell’auto a guida remota finisce… contro la polizia",
+      "url": "https://www.hdmotori.it/pakistan-dimostrazione-auto-guida-remota/",
+      "image": null,
+      "summary": "Il test di guida remota termina con uno schianto contro la polizia a Islamabad. L'inventore potrebbe aver sbagliato manovra sul telefono: intanto risarcirà i danni al mezzo delle forze dell'ordine. The post Pakistan: ...",
+      "date": "2026-09-03T09:00:32.0000000Z"
+    },
+    {
+      "id": "motor1:95bd83be609b",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Un nuovo studio dice che la UE sottovaluta le emissioni EV",
+      "url": "https://it.motor1.com/news/806981/studio-monaco-regole-ue-co/",
+      "image": "https://cdn.motor1.com/images/mgl/E6X1xw/s3/confronto-emissioni-auto-elettrica-e-auto-a-benzina.jpg",
+      "summary": "Lo studio della Technical University of Munich contesta il Regolamento UE 2019/631, che assegna 0 gCO₂/km alle auto elettriche nuove",
+      "date": "2026-09-03T09:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:bf4c7523ea14",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Cosa non dovrebbe mai mancare su un’auto elettrica? Il decalogo è questo",
+      "url": "https://www.vaielettrico.it/cosa-non-dovrebbe-mai-mancare-su-unauto-elettrica-il-decalogo-e-questo/",
+      "image": null,
+      "summary": "Cosa non dovrebbe mai mancare in un’auto elettrica: prendendo spunto da un elenco delle funzionalità imprescindibili stilato dal… L'articolo Cosa non dovrebbe mai mancare su un’auto elettrica? Il decalogo è questo pro...",
+      "date": "2026-09-03T08:28:26.0000000Z"
+    },
+    {
+      "id": "hdmotori:6f9142070b5d",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Omoda 4: in anteprima europea all’evento di eSports",
+      "url": "https://www.hdmotori.it/omoda-4-anteprima-europea/",
+      "image": null,
+      "summary": "Omoda 4 sceglie le finali di VALORANT a Barcellona per la sua première europea. Tra design CYBER MECHA e AI a bordo, il brand punta ai giovani appassionati di eSports. The post Omoda 4: in anteprima europea all’evento...",
+      "date": "2026-09-03T08:00:13.0000000Z"
+    },
+    {
+      "id": "motor1:32548926141d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Bristol Cars torna in vita e riparte dalla supercar Fighter",
+      "url": "https://it.motor1.com/news/806968/bristol-cars-fighter-rinascita/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZPzKw/s3/bristol-fighter-2026.jpg",
+      "summary": "Bristol Cars torna nel 2026 completando cinque Fighter con telai originali. La supercar ha un V10 da 8 litri, 600 CV e 338 km/h",
+      "date": "2026-09-03T08:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:bc40921cb68b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Cosa vedremo nella serata di debutto del Tesla Cybercab ad Austin",
+      "url": "https://insideevs.it/news/806966/tesla-cybercab-anticipazioni-evento-austin/",
+      "image": "https://cdn.motor1.com/images/mgl/qk8g6z/s3/tesla-cybercab-concept-gli-interni.jpg",
+      "summary": "Ad Austin Tesla porta Cybercab dal prototipo al servizio pubblico, con 45 veicoli registrati come robotaxi senza volante né pedali",
+      "date": "2026-09-03T07:15:00.0000000Z"
+    },
+    {
+      "id": "motor1:db96ca97fa22",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Prezzi e allestimenti della Mercedes-AMG CLA 45, berlina da 680 CV",
+      "url": "https://it.motor1.com/news/806841/mercedes-amg-cla-45-prezzi-allestimenti/",
+      "image": "https://cdn.motor1.com/images/mgl/KbZJmb/s3/mercedes-amg-cla-45-4matic-elettrica.jpg",
+      "summary": "La nuova CLA più potente ha 680 CV e trazione integrale elettrica: quattro allestimenti e un listino da 80.302 euro",
+      "date": "2026-09-03T07:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:95749d60f523",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "CATL e BYD, via al rallenty in Ungheria tra controlli ambientali e nuove regole",
+      "url": "https://www.vaielettrico.it/catl-e-byd-via-al-ralenty-in-ungheria-tra-controlli-ambientali-e-nuove-regole/",
+      "image": null,
+      "summary": "CATL e BYD nel mirino in Ungheria, dopo il cambio di regime a Budapest. La produzione di celle… L'articolo CATL e BYD, via al rallenty in Ungheria tra controlli ambientali e nuove regole proviene da Vaielettrico .",
+      "date": "2026-09-03T06:22:36.0000000Z"
+    },
+    {
+      "id": "motor1:f1aaa069c1fe",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Offerta Volvo XC40, quanto conviene?",
+      "url": "https://it.motor1.com/news/806378/volvo-xc40-promozione-offerta-settembre-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/1Zwmp7/s3/offerta-volvo-xc40-quanto-conviene.jpg",
+      "summary": "Volvo XC40 B3 Essential da 249,28 euro al mese per 36 mesi, con 9.580 euro di anticipo e 19.220 euro di maxirata finale",
+      "date": "2026-09-03T06:00:00.0000000Z"
     },
     {
       "id": "motor1:538a25d3aea7",
@@ -24,6 +132,18 @@
       "url": "https://it.motor1.com/news/806688/rolls-royce-bentley-vendute-confronto/",
       "image": "https://cdn.motor1.com/images/mgl/JONJ4Q/s3/rolls-royce-contro-bentley-chi-domina-il-segmento-del-lusso.jpg",
       "summary": "Da 2,3 a 1,8 Bentley per ogni Rolls-Royce in sei anni: Cullinan e Spectre hanno ridotto il divario tra i due marchi",
+      "date": "2026-09-03T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:77f8b88a1e16",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Lo stato di salute di una batteria dipende dalla cella più \"debole\"",
+      "url": "https://insideevs.it/news/806848/degrado-batteria-dipende-singola-cella/",
+      "image": "https://cdn.motor1.com/images/mgl/7JMyJ/s3/batterie-l-europa-punta-all-eccellenza.jpg",
+      "summary": "Uno studio dimostra che una cella guasta limita le prestazioni di un intero accumulatore. Ecco perché",
       "date": "2026-09-03T05:00:00.0000000Z"
     },
     {
@@ -219,18 +339,6 @@
       "date": "2026-09-02T13:40:36.0000000Z"
     },
     {
-      "id": "hdmotori:8686e55c06a9",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il mercato delle due ruote corre con gli scooter: i dati di agosto 2026",
-      "url": "https://www.hdmotori.it/mercato-due-ruote-agosto-2026-dati-ancma-vendite-scooter-moto/",
-      "image": null,
-      "summary": "Il mercato delle due ruote cresce dell'11,21% nel cumulato 2026. Ad agosto gli scooter segnano +9,92%, le moto calano del 3,9% e torna a correre il comparto elettrico The post Il mercato delle due ruote corre con gli ...",
-      "date": "2026-09-02T13:00:49.0000000Z"
-    },
-    {
       "id": "motor1:969d64133cab",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -253,18 +361,6 @@
       "image": null,
       "summary": "Anno: marzo 2018 Km percorsi: 55.500 Stato Batteria: ok, ultimo test 19.06.2026 Regione: Trentino Alto Adige Prezzo: 10.600… L'articolo Nissan Leaf 2.0 Limited Edition del 2018, con 55.500 km proviene da Vaielettrico .",
       "date": "2026-09-02T12:14:11.0000000Z"
-    },
-    {
-      "id": "hdmotori:d1dd23e48e45",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Panico sull’A1, in contromano per 50 km: era sotto effetto di stupefacenti",
-      "url": "https://www.hdmotori.it/autostrada-a1-contromano-stupefacenti/",
-      "image": null,
-      "summary": "Una donna viaggia in contromano per 50 km sull'A1 Panoramica tra sorpassi, inversioni e varchi usati per nascondersi. Bloccata dalla Polstrada: era positiva alla cannabis The post Panico sull’A1, in contromano per 50 ...",
-      "date": "2026-09-02T12:00:25.0000000Z"
     },
     {
       "id": "insideevs:e729467654bb",
@@ -375,42 +471,6 @@
       "date": "2026-09-02T08:00:00.0000000Z"
     },
     {
-      "id": "motor1:d50655f778f2",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Così un esemplare unico potrebbe plasmare le future Porsche 911",
-      "url": "https://it.motor1.com/news/806714/porsche-911-flachbau-rs-design/",
-      "image": "https://cdn.motor1.com/images/mgl/mMzpoq/s3/porsche-911-gt2-rs-flachbau-one-off.jpg",
-      "summary": "La Porsche 911 GT2 Flachbau RS mostra come gli esperimenti Porsche Sonderwunsch possano influenzare lo stile delle future 911",
-      "date": "2026-09-02T08:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:468cd8f4c3ac",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il nuovo SUV di Polestar, quello con il lunotto",
-      "url": "https://it.motor1.com/news/806576/polestar-4-suv-2026-dimensioni-motore-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/RqkGjr/s3/polestar-4-suv-informazioni.jpg",
-      "summary": "Debutta la Polestar 4 SUV, 4,84 metri di lunghezza, tanto spazio e versioni a trazione posteriore o integrale. Prezzo da 55.900 euro",
-      "date": "2026-09-02T07:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:1d2ab51f8b0a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Mitsubishi Pajero è tornata ed è un vero fuoristrada a 7 posti",
-      "url": "https://it.motor1.com/news/806815/mitsubishi-pajero-2026-specifiche-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/BXZ7zR/s3/mitsubishi-pajero-2026.jpg",
-      "summary": "Il leggendario fuoristrada di Mitsubishi torna con una piattaforma derivata da un pick-up, sette posti e una robusta dotazione 4WD",
-      "date": "2026-09-02T06:20:00.0000000Z"
-    },
-    {
       "id": "insideevs:9c57a2e2c20d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -459,30 +519,6 @@
       "date": "2026-09-01T21:10:37.0000000Z"
     },
     {
-      "id": "vaielettrico:c3740fdf830b",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il battery swap a due ruote arriva anche in Africa: 35 stazioni in Kenya",
-      "url": "https://www.vaielettrico.it/in-battery-swap-arriva-anche-in-africa-35-stazioni-operative-in-kenya/",
-      "image": null,
-      "summary": "La società indiana SUN Mobility ha avviato in Kenya la propria rete di battery swap con 35 stazioni… L'articolo Il battery swap a due ruote arriva anche in Africa: 35 stazioni in Kenya proviene da Vaielettrico .",
-      "date": "2026-09-01T20:50:39.0000000Z"
-    },
-    {
-      "id": "vaielettrico:33596f9bb8a3",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Erg punta sul repowering eolico, debutto in Francia",
-      "url": "https://www.vaielettrico.it/erg-punta-sul-repowering-eolico-debutto-in-francia/",
-      "image": null,
-      "summary": "In attesa del via libera in Sardegna, un progetto fortemente contestato dai comitati ma difeso e sostenuto dal… L'articolo Erg punta sul repowering eolico, debutto in Francia proviene da Vaielettrico .",
-      "date": "2026-09-01T20:38:44.0000000Z"
-    },
-    {
       "id": "insideevs:01a2760aa3a2",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -493,42 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/KbgL6R/s3/le-auto-elettriche-piu-vendute-in-italia-agosto.jpg",
       "summary": "La BYD Dolphin Surf si conferma la regina delle BEV ad agosto, come a luglio, ma da inizio anno vince la Leapmotor T03",
       "date": "2026-09-01T16:26:18.0000000Z"
-    },
-    {
-      "id": "motor1:ef26422538a4",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "YouTester 2026, come funziona la prima fase di selezione",
-      "url": "https://it.motor1.com/news/806731/youtester-2026-informazioni-selezione/",
-      "image": "https://cdn.motor1.com/images/mgl/Oo96go/s3/youtester-2026-al-salone-di-torino.jpg",
-      "summary": "Dall'11 al 13 settembre al Salone di Torino torna il talent per diventare giornalisti dell'auto. Ecco come partecipare e cosa sapere",
-      "date": "2026-09-01T15:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:91c7c981ce13",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La batteria dell'auto diventa una presa elettrica da 3 kW",
-      "url": "https://insideevs.it/news/806755/volvo-ex30-batteria-elettrodomestici/",
-      "image": "https://cdn.motor1.com/images/mgl/0eg2yV/s3/volvo-ex30-la-batteria-ora-alimenta-anche-gli-elettrodomestici.jpg",
-      "summary": "Volvo abilita il V2L sulla EX30: l'energia della batteria può alimentare dispositivi esterni. Si interrompe da sola sotto il 20%",
-      "date": "2026-09-01T14:32:49.0000000Z"
-    },
-    {
-      "id": "insideevs:2c546f7f655b",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vuoi una colonnina sotto casa? San Francisco ti dà la mappa",
-      "url": "https://insideevs.it/news/806703/san-francisco-funziona-mappa-colonnine/",
-      "image": "https://cdn.motor1.com/images/mgl/wl8eG4/s3/vuoi-una-colonnina-sotto-casa-san-francisco-ti-da-la-mappa.jpg",
-      "summary": "Nel programma i residenti indicano i marciapiedi dove installare le colonnine di ricarica, una soluzione pensata per chi non ha un garage",
-      "date": "2026-09-01T13:00:00.0000000Z"
     }
   ]
 }

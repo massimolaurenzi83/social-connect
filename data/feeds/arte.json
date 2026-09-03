@@ -1,7 +1,79 @@
 {
   "category": "arte",
-  "updated": "2026-09-03T05:02:38.6755341Z",
+  "updated": "2026-09-03T09:41:33.0158162Z",
   "items": [
+    {
+      "id": "artribune:809a28606404",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Raffaello malinconico? Storia e misteri dell’artista urbinate su Sky Arte",
+      "url": "https://www.artribune.com/arti-visive/arte-moderna/2026/09/raffaello-divina-bellezza-documentario-sky-arte/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/raphael-in-search-of-beauty-sky-arts-production-c-sky-italia3.jpg",
+      "summary": "In onda su Sky Arte sabato 5 settembre, il documentario Raffaello – La Divina Bellezza restituisce un ritratto approfondito del maestro urbinate scomparso ad appena 37 anni L’articolo \" Raffaello malinconico? Storia e...",
+      "date": "2026-09-03T09:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:13e440fd38ab",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Un nuovo documentario racconta Carla Lonzi a tutto tondo (ma anche chi non l’ha conosciuta deve parlare di lei)",
+      "url": "https://www.artribune.com/arti-performative/cinema/2026/09/carla-lonzi-documentario-francesca-archibugi/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/160317736-b3cc0cd9-14bc-4602-b962-2fbc9ce514fd.jpg",
+      "summary": "Francesca Archibugi presenta alla Biennale di Venezia Cinema un documentario dedicato a Carla Lonzi, unendo figura pubblica e ricordi familiari. Ma la centralità di Lonzi nel dibattito su femminismo e critica riguarda...",
+      "date": "2026-09-03T08:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:c009ad1bf8f1",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "L’ultima piramide di Roma riapre, e le visite nei suoi interni millenari sono (già) sold out",
+      "url": "https://www.elledecor.com/it/viaggi/a73597427/visitare-piramide-roma/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/e79e754c-c0a6-494d-b77d-f34924d7e434.jpeg",
+      "summary": "La Piramide Cestia torna accessibile dopo il restauro con aperture gratuite diurne e serali, nuove luci e un percorso che conduce nel cuore del monumento",
+      "date": "2026-09-03T07:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:0c244a761273",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "In Lombardia si organizza un Palio che ricostruisce le macchine teatrali di Leonardo da Vinci",
+      "url": "https://www.artribune.com/arti-performative/2026/09/palio-isola-dovarese-teatro-rinascimentale/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/palio-di-isola-dovarese-photo-nicola-de-crecchio.jpg",
+      "summary": "Sono dedicati al tema del viaggio gli spettacoli dell’edizione 2026 del Palio di Isola Dovarese, messi in scena nel piccolo paese del Cremonese. Oltre la rievocazione storica o la rassegna in costume, studiando fonti ...",
+      "date": "2026-09-03T07:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:a80facb674ed",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Uno fra gli appartamenti più alti del mondo è un super attico di New York da 250milioni di dollari",
+      "url": "https://www.elledecor.com/it/case/a41275266/appartamento-piu-alto-del-mondo-250-milioni-di-dollari/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/cpt-ph-sunset-over-central-park-2-photo-credit-cody-boone-serhant-studios-1663579494.jpg",
+      "summary": "Un triplex che si estende dal 129° al 131° piano del grattacielo e copre una superficie di oltre 1600 metri quadri",
+      "date": "2026-09-03T06:50:00.0000000Z"
+    },
+    {
+      "id": "elledecor:62f1c6d53e40",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Una casa a Palermo dentro un palazzo storico vicino a via Libertà è un gioco di archi e prospettive",
+      "url": "https://www.elledecor.com/it/case/a73523052/casa-a-palermo-palazzo-storico-via-liberta/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/73cc4582-f7ef-499a-9816-48d8387eeadc.jpg",
+      "summary": "Un pavimento in marmo bianco e nero rilegge le geometrie Art Déco, con vetri originali trovati durante i lavori tornano nelle porte ad arco",
+      "date": "2026-09-03T06:00:00.0000000Z"
+    },
     {
       "id": "elledecor:2acc4cd40871",
       "sourceId": "elledecor",
@@ -75,18 +147,6 @@
       "date": "2026-09-02T14:30:00.0000000Z"
     },
     {
-      "id": "artribune:3baa90764b55",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Morto Guido De Maria, ecco chi era l’autore che rivoluzionò i “fumetti in TV”",
-      "url": "https://www.artribune.com/editoria/fumetti/2026/09/fumetti-morto-guido-de-maria/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/1788177752-ilpost202608311401215071f5dee19453c51005259ec267910a444.jpg",
-      "summary": "A poche settimane dalla scomparsa di Francesco Guccini e a pochi giorni da quella di Franco Fontana, Modena perde un altro suo famoso concittadino: è morto a 93 anni Guido De Maria, regista, sceneggiatore e autore di ...",
-      "date": "2026-09-02T14:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:fda57b3dc80b",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -99,16 +159,16 @@
       "date": "2026-09-02T14:00:00.0000000Z"
     },
     {
-      "id": "elledecor:cd01e6fbf423",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
+      "id": "artribune:3baa90764b55",
+      "sourceId": "artribune",
+      "source": "Artribune",
       "platform": "rss",
       "category": "arte",
-      "title": "6 piante da potare a settembre per avere un giardino più sano e rigoglioso nella prossima stagione",
-      "url": "https://www.elledecor.com/it/lifestyle/a73568576/piante-da-potare-a-settembre/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/5251ff27-0755-4862-8c2f-cc2267075be6.jpeg",
-      "summary": "Dal glicine alle rose, settembre è il momento giusto per intervenire su alcune piante e prepararle ai mesi freddi favorendo crescita e fioriture future",
-      "date": "2026-09-02T13:00:00.0000000Z"
+      "title": "Morto Guido De Maria, ecco chi era l’autore che rivoluzionò i “fumetti in TV”",
+      "url": "https://www.artribune.com/editoria/fumetti/2026/09/fumetti-morto-guido-de-maria/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/1788177752-ilpost202608311401215071f5dee19453c51005259ec267910a444.jpg",
+      "summary": "A poche settimane dalla scomparsa di Francesco Guccini e a pochi giorni da quella di Franco Fontana, Modena perde un altro suo famoso concittadino: è morto a 93 anni Guido De Maria, regista, sceneggiatore e autore di ...",
+      "date": "2026-09-02T14:00:00.0000000Z"
     },
     {
       "id": "artribune:1711a25adfbe",
@@ -120,6 +180,18 @@
       "url": "https://www.artribune.com/arti-performative/2026/09/festival-culturali-italia-inizio-settembre-2026/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/09/9-vips-bar-609-giovanni-benvenuti-trio-an-hour-of-existencesan0682-1200x801-1.jpg",
       "summary": "Dai linguaggi contaminati al circo contemporaneo passando per il grande sinfonismo romantico fino all’artigianato artistico di tutto il mondo, c’è tutta una serie di rassegne pronte a partire. Tra conferme e novità, e...",
+      "date": "2026-09-02T13:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:cd01e6fbf423",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "6 piante da potare a settembre per avere un giardino più sano e rigoglioso nella prossima stagione",
+      "url": "https://www.elledecor.com/it/lifestyle/a73568576/piante-da-potare-a-settembre/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5251ff27-0755-4862-8c2f-cc2267075be6.jpeg",
+      "summary": "Dal glicine alle rose, settembre è il momento giusto per intervenire su alcune piante e prepararle ai mesi freddi favorendo crescita e fioriture future",
       "date": "2026-09-02T13:00:00.0000000Z"
     },
     {
@@ -135,18 +207,6 @@
       "date": "2026-09-02T12:00:00.0000000Z"
     },
     {
-      "id": "artribune:1d3089fa76e4",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "In Valchiavenna c’è una mostra di arte contemporanea da vedere dentro un’antica cava di pietra",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/09/mostra-crossing-paths-valchiavenna-parco/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/valchiavenna90-1200x800-1.jpg",
-      "summary": "Cosa succede quando la rigidità dei dati geologici incontra la sensibilità poetica dell’arte contemporanea? Nasce “Crossing Paths - Stories of Vulnerability and Resilience”, la mostra che conclude dieci giorni d’inten...",
-      "date": "2026-09-02T11:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:54d208522fa9",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -159,18 +219,6 @@
       "date": "2026-09-02T11:00:00.0000000Z"
     },
     {
-      "id": "artribune:aa864c3ad936",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Duronia, il borgo molisano sorvegliato da un gigante di pietra",
-      "url": "https://www.artribune.com/rubriche/2026/09/duronia-molise-giro-d-itali/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/giroditaliaduronia6-scaled.jpg",
-      "summary": "All’ombra di un “Gigante” di pietra, Duronia conserva le atmosfere del passato. Questo nuovo appuntamento con Giro d’Italia, la rubrica curata da Emilia Giorgi, è un racconto tra i vicoli e persone che resistono allo ...",
-      "date": "2026-09-02T10:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:b51f56f0d1aa",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -181,18 +229,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/bd099b84-be3b-4173-b00e-2a5756f33857.jpeg",
       "summary": "Questa architettura primogenia della cultura dei Paesi caldo-aridi rappresenta un sistema agricolo autosufficiente, ingegnoso e intelligente",
       "date": "2026-09-02T10:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:1c4174f250ca",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Esce il secondo numero di FEST la newsletter-bussola sui festival culturali italiani",
-      "url": "https://www.artribune.com/arti-performative/musica/2026/09/fest-newsletter-festival-culturali-artribune/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/4-time-in-jazz-2023-concerto-a-loiri-porto-san-paolo-porto-taverna-foto-andrea-rotili-1-1.jpg",
-      "summary": "Il secondo numero del nostro viaggio tra arte, teatro e paesaggio sconfina dall’Italia (affacciandosi in Svizzera) e vi fa ritorno: dai laboratori nomadi svizzeri alle rassegne di fine estate lungo l’Italia L’articolo...",
-      "date": "2026-09-02T09:00:00.0000000Z"
     },
     {
       "id": "elledecor:055e05a60c80",
@@ -229,42 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/c5b0b005-386a-4c05-9357-1ced3d63609e.jpg",
       "summary": "Nel distretto berlinese di Schadowstrasse, questa abitazione è un manifesto discreto sull’artigianato contemporaneo e sul vivere in città",
       "date": "2026-09-02T06:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:9d8a51bbf8da",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "5 dispositivi elettronici da scollegare prima di dormire, per ridurre i consumi e tutelare la casa",
-      "url": "https://www.elledecor.com/it/tech/a73568537/dispositivi-scollegare-dalla-presa-prima-di-dormire/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/8c306d86-1453-417b-8257-5049691f33ab.jpeg",
-      "summary": "Dai piccoli elettrodomestici ai caricabatterie, alcune spine meritano di essere staccate prima di andare a dormire: una semplice abitudine che limita i rischi e tiene sotto controllo l’energia consumata anche a dispos...",
-      "date": "2026-09-02T05:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:c262495f396f",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "La casa che reinterpreta lo stile Japandi è anche l'alcova di una famiglia appassionata di oggetti vintage",
-      "url": "https://www.elledecor.com/it/case/a73568551/casa-stile-japandi-oggetti-vintage/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/859c3baa-1114-4d46-ac36-879f2dc220ba.jpg",
-      "summary": "Indee Design ridisegna una casa unifamiliare intorno alla quotidianità di genitori e bambini, trasformando il minimalismo giapponese in uno spazio domestico caldo, libero e vissuto",
-      "date": "2026-09-01T14:30:00.0000000Z"
-    },
-    {
-      "id": "elledecor:f477d78407a3",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Archive Unlocked: dentro lo studio di Achille Castiglioni a Milano",
-      "url": "https://www.elledecor.com/it/design/a73568723/studio-achille-castiglioni-milano/",
-      "image": "https://hips.hearstapps.com/vidthumb/d76dfaff-4284-483a-b56c-83796f4540d0/92753f38-6f28-4e03-ab5f-763dcdf3380d.jpg",
-      "summary": "Il primo capitolo della serie targata Elledecor.it ci porta al civico 27 di Piazza Castello dove Giovanna Castiglioni racconta il metodo progettuale del padre, un eterno esercizio di forma e pensiero che non ha mai sm...",
-      "date": "2026-09-01T14:00:00.0000000Z"
     }
   ]
 }

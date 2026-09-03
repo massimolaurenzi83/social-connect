@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-03T05:02:38.6651231Z",
+  "updated": "2026-09-03T09:41:33.0200191Z",
   "items": [
+    {
+      "id": "cybersecurity360:ff4a4d817506",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Zero-day e attacchi autonomi: perché OpenAI frena il rilascio di Astra",
+      "url": "https://www.cybersecurity360.it/news/zero-day-e-attacchi-autonomi-perche-openai-frena-il-rilascio-di-astra/",
+      "image": null,
+      "summary": "La capacità di passare dalla scoperta di una falla alla costruzione di un exploit funzionante cambia i tempi della cyber security. OpenAI rallenta lo sviluppo e il rilascio di Astra, che ha superato la soglia Cyber Cr...",
+      "date": "2026-09-03T08:44:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:ee8bef3afd18",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Crittografia XChaCha20: le architetture zero-knowledge mettono in sicurezza le credenziali delle PMI",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/nordpass-business-gestione-password-aziendali-xchacha20/",
+      "image": null,
+      "summary": "NordPass Business porta nelle aziende gestione centralizzata delle password, architettura zero-knowledge e crittografia XChaCha20. L'offerta prevede piani Teams, Business ed Enterprise, con sconti fino al 40% sui cont...",
+      "date": "2026-09-03T07:40:10.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:4c9a1cb7844b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Norton e la difesa contro le minacce basate su IA: come la suite Norton 360 integra il rilevamento dei deepfake e la protezione anti-truffa",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/norton-360-protezione-ia-deepfake-dark-web-monitoring/",
+      "image": null,
+      "summary": "Norton 360 integra strumenti contro malware, ransomware, truffe online e deepfake. La protezione anti-truffa sfrutta l’intelligenza artificiale, mentre i piani superiori aggiungono VPN, backup cloud, monitoraggio del ...",
+      "date": "2026-09-03T07:39:43.0000000Z"
+    },
     {
       "id": "cybersecurity360:e0664f194af7",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Dall'arresto di Biwei Zhang alle manovre di contro-intelligence al quartier generale NATO a Mons: l'infiltrazione umana ad alta tecnologia smantella la blindatura burocratica dei nulla osta. Ecco perché threat intelli...",
       "date": "2026-09-02T07:36:40.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:7c89d28f1480",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Claude supera i confini dei test: Anthropic rallenta e ripensa la sicurezza dell’AI",
-      "url": "https://www.cybersecurity360.it/news/claude-supera-i-confini-dei-test-anthropic-rallenta-e-ripensa-la-sicurezza-dellai/",
-      "image": null,
-      "summary": "Dopo gli incidenti in cui alcuni modelli Claude hanno raggiunto sistemi reali durante test cyber, Anthropic ha sospeso parte delle valutazioni e rafforzato sandbox, monitoraggio e controlli. Il caso mostra perché la s...",
-      "date": "2026-09-01T14:50:05.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:de022d06043f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il tuo nuovo sviluppatore lavora per Pyongyang: i rischi dell’onboarding remoto",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/il-tuo-nuovo-sviluppatore-lavora-per-pyongyang-i-rischi-dellonboarding-remoto/",
-      "image": null,
-      "summary": "Un attaccante non deve violare la rete se può farsi assumere come sviluppatore, ricevere un laptop aziendale e ottenere credenziali valide. Le infiltrazioni di lavoratori IT nordcoreani mostrano il punto cieco dell’on...",
-      "date": "2026-09-01T13:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:70f89652ee64",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Meta paga 17 miliardi e vince: la sicurezza dei minori online e il paradosso dell’age assurance",
-      "url": "https://www.cybersecurity360.it/news/meta-paga-17-miliardi-e-vince-la-sicurezza-dei-minori-online-e-il-paradosso-dellage-assurance/",
-      "image": null,
-      "summary": "Per verificare l'età degli utenti servono informazioni sufficienti a distinguere adulti e minorenni. Il caso Meta apre così una questione destinata ad andare oltre i social: come applicare l’age assurance senza trasfo...",
-      "date": "2026-09-01T10:05:30.0000000Z"
     }
   ]
 }
