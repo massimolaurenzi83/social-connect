@@ -1,7 +1,211 @@
 {
   "category": "motori",
-  "updated": "2026-09-03T09:41:33.0239945Z",
+  "updated": "2026-09-03T13:53:51.3565768Z",
   "items": [
+    {
+      "id": "motor1:0e0e67f34e38",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "4x4 fest 2026: le date e le informazioni",
+      "url": "https://it.motor1.com/news/807032/4x4-fest-2026-date-informazioni-biglietti/",
+      "image": "https://cdn.motor1.com/images/mgl/mMYA4q/s3/4x4-fest.jpg",
+      "summary": "L'evento dedicato agli appassionati del fuoristrada è quasi pronto. Appuntamento a CarraraFiere dal 9 all’11 ottobre",
+      "date": "2026-09-03T13:30:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:700b2ea4650c",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Con 45 mila euro che elettrica prendo?",
+      "url": "https://www.vaielettrico.it/con-45-mila-euro-che-elettrica-prendo/",
+      "image": null,
+      "summary": "Con 45 mila euro che auto elettrica prendo? Un lettore chiede consiglio, elencando le caratteristiche che ritiene indispensabili. A… L'articolo Con 45 mila euro che elettrica prendo? proviene da Vaielettrico .",
+      "date": "2026-09-03T13:12:04.0000000Z"
+    },
+    {
+      "id": "insideevs:389698113107",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Idrogeno, i big della mobilità uniti per i camion di domani",
+      "url": "https://insideevs.it/news/807033/camion-idrogeno-alleanza-europea-2030/",
+      "image": "https://cdn.motor1.com/images/mgl/6ZOp9G/s3/daimler-truck-volvo-toyota-bosch-e-i-colossi-dell-energia-lavorano-a-un-ecosistema-europeo-per-l-idrogeno.jpg",
+      "summary": "Daimler Truck, Volvo, Toyota, Bosch e i colossi dell'energia lavorano a un ecosistema europeo per l'idrogeno competitivo entro il 2030",
+      "date": "2026-09-03T13:04:39.0000000Z"
+    },
+    {
+      "id": "hdmotori:dce296ecd416",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Cavatappi di Laguna Seca intitolato a Zanardi: tributo da brividi",
+      "url": "https://www.hdmotori.it/cavatappi-laguna-seca-intitolato-zanardi/",
+      "image": null,
+      "summary": "Trent’anni fa la manovra di Zanardi su Herta venne ribattezzata \"The Pass\" dagli americani. Il Cavatappi rende omaggio al compianto pilota bolognese The post Il Cavatappi di Laguna Seca intitolato a Zanardi: tributo d...",
+      "date": "2026-09-03T13:00:44.0000000Z"
+    },
+    {
+      "id": "motor1:702b0f79a7d2",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come arrivare preparati ai provini di Youtester 2026",
+      "url": "https://it.motor1.com/news/806989/renault-clio-youtester-2026-informazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/E6X1Yv/s3/renault-clio-youtester-2026.jpg",
+      "summary": "Ripassando tutto quello che c'è da sapere sulla Renault Clio. Qui trovate tutte le informazioni, buono studio!",
+      "date": "2026-09-03T13:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:224f58fe897a",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Skoda Peaq da record: percorsi 936 km con una sola ricarica",
+      "url": "https://www.hdmotori.it/skoda-peaq-record-percorrenza/",
+      "image": null,
+      "summary": "Dalla Repubblica Ceca ai Paesi Bassi senza soste alle colonnine: l'ammiraglia elettrica di Skoda stabilisce un primato di efficienza. The post Skoda Peaq da record: percorsi 936 km con una sola ricarica appeared first...",
+      "date": "2026-09-03T12:30:34.0000000Z"
+    },
+    {
+      "id": "motor1:5e42eaea706e",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Opel sorprende: Movano da 2 t e Rocks guidabile dai 15 anni",
+      "url": "https://it.motor1.com/news/806985/opel-gamma-veicoli-commerciali-iaa/",
+      "image": "https://cdn.motor1.com/images/mgl/8A0nxe/s3/opel-combo-opel-vivaro-opel-movano-2026.jpg",
+      "summary": "Quattro veicoli commerciali Opel alla IAA Transportation 2026 di Hannover, dal Movano doppia cabina al mini cargo elettrico Opel Rocks",
+      "date": "2026-09-03T12:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:82e6580370da",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Stellantis, post-vendita: arrivano i ricambi rigenerati anche per elettriche e ibride",
+      "url": "https://www.hdmotori.it/stellantis-post-vendita-ricambi-rigenerati-elettriche-ibride/",
+      "image": null,
+      "summary": "Stellantis amplia l'offerta SUSTAINera con ricambi rigenerati per elettriche e ibride: arrivano eDCT, compressori elettrici e più batterie ad alta tensione The post Stellantis, post-vendita: arrivano i ricambi rigener...",
+      "date": "2026-09-03T11:30:41.0000000Z"
+    },
+    {
+      "id": "motor1:91f8b696d1ae",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuovi test Euro NCAP 2026: tre cinesi a 5 stelle, Cupra Raval a 4",
+      "url": "https://it.motor1.com/news/807020/euro-ncap-2026-aion-geely-leapmotor-cupra/",
+      "image": "https://cdn.motor1.com/images/mgl/y21g17/s3/geely-e2-test-euro-ncap-2026.jpg",
+      "summary": "AION UT, Geely E2 e Leapmotor B05 superano i nuovi test. La Cupra Raval arriva a 5 stelle solo con il Safety Pack",
+      "date": "2026-09-03T11:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:5ea926854fc7",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Subaru: una gamma BEV a ruote alte per tutte le esigenze",
+      "url": "https://www.hdmotori.it/subaru-gamma-bev-ruote-alte/",
+      "image": null,
+      "summary": "Il costruttore giapponese ha ora a disposizione una gamma completa di veicoli elettrici che conserva intatto il DNA del marchio, proiettandolo nel futuro della mobilità. The post Subaru: una gamma BEV a ruote alte per...",
+      "date": "2026-09-03T11:00:44.0000000Z"
+    },
+    {
+      "id": "motor1:6b5731119823",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Mercedes CLE col V8 biturbo prende forma",
+      "url": "https://it.motor1.com/news/806390/mercedes-cle-amg-mythos-render/",
+      "image": "https://cdn.motor1.com/images/mgl/7ZEqZV/s3/mercedes-amg-cle-63-mythos-2027-il-render-di-motor1.com.jpg",
+      "summary": "Nel 2027 potremmo vedere la Mercedes-AMG CLE 63 Mythos, versione ultra esclusiva con un V8 ad albero piatto da 650 CV",
+      "date": "2026-09-03T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:09bdd6395280",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Uno studio ha analizzato 500.000 batterie EV. Alcune invecchiano meglio di altre",
+      "url": "https://insideevs.it/news/806905/batterie-ev-studio-invecchiamento/",
+      "image": "https://cdn.motor1.com/images/mgl/pb3V7W/s3/2025-hyundai-ioniq-5-xrt-limited.jpg",
+      "summary": "L'azienda di diagnostica Aviloo ha pubblicato i risultati di migliaia di controlli sullo stato di salute delle batterie di venti EV",
+      "date": "2026-09-03T11:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:602054b1b15d",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Euro NCAP: i risultati di Cupra Raval, Aion UT, Geely E2 e Leapmotor B05",
+      "url": "https://www.hdmotori.it/euro-ncap-cupra-raval-aion-ut-geely-e2-leapmotor-b05/",
+      "image": null,
+      "summary": "Le valutazioni degli ultimi crash test dell’EuroNCAP premiano i costruttori cinesi, mentre Cupra raggiunge le 5 stelle solo grazie ai pacchetti opzionali. The post Euro NCAP: i risultati di Cupra Raval, Aion UT, Geely...",
+      "date": "2026-09-03T10:30:16.0000000Z"
+    },
+    {
+      "id": "vaielettrico:d650d6274af8",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come invecchiano le batterie? Aviloo presenta un maxi studio su ben 500.000 veicoli usati e…",
+      "url": "https://www.vaielettrico.it/come-invecchiano-le-batterie-aviloo-presenta-un-maxi-studio-su-ben-500-000-veicoli-usati-e/",
+      "image": null,
+      "summary": "La batteria delle auto elettriche usate si degrada, ma non esiste un valore valido per tutti. Un’analisi condotta… L'articolo Come invecchiano le batterie? Aviloo presenta un maxi studio su ben 500.000 veicoli usati e...",
+      "date": "2026-09-03T10:15:27.0000000Z"
+    },
+    {
+      "id": "vaielettrico:768f976aed49",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L’ID.Buzz versione camper si mostra dal vivo",
+      "url": "https://www.vaielettrico.it/lid-buzz-versione-camper-si-mostra-dal-vivo/",
+      "image": null,
+      "summary": "Volkswagen ha svelato al Caravan Salon il nuovo ID.California Cruise, primo modello di una futura famiglia di camper… L'articolo L’ID.Buzz versione camper si mostra dal vivo proviene da Vaielettrico .",
+      "date": "2026-09-03T10:01:37.0000000Z"
+    },
+    {
+      "id": "hdmotori:6204f5d3fc8b",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dacia Sandero full hybrid, ordini aperti in Italia: 155 CV a meno di 20.000 euro",
+      "url": "https://www.hdmotori.it/dacia-sandero-full-hybrid-ordini-aperti-italia-prezzo/",
+      "image": null,
+      "summary": "Dacia apre gli ordini della Sandero Streetway Hybrid 155: motore full hybrid da 155 CV, consumi da 4,2 l/100 km e prezzi da 19.900 euro The post Dacia Sandero full hybrid, ordini aperti in Italia: 155 CV a meno di 20....",
+      "date": "2026-09-03T10:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:b2874af75d03",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Mitsubishi Pajero non sarà solo un modello",
+      "url": "https://it.motor1.com/news/806979/mitsubishi-pajero-famiglia-modelli-anticipazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/2N9OLB/s3/2027-mitsubishi-pajero.jpg",
+      "summary": "Il nuovo fuoristrada giapponese darà vita a una gamma di modelli più piccoli",
+      "date": "2026-09-03T10:00:00.0000000Z"
+    },
     {
       "id": "insideevs:141084347638",
       "sourceId": "insideevs",
@@ -123,18 +327,6 @@
       "date": "2026-09-03T06:00:00.0000000Z"
     },
     {
-      "id": "motor1:538a25d3aea7",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Rolls-Royce contro Bentley: chi domina il segmento del lusso?",
-      "url": "https://it.motor1.com/news/806688/rolls-royce-bentley-vendute-confronto/",
-      "image": "https://cdn.motor1.com/images/mgl/JONJ4Q/s3/rolls-royce-contro-bentley-chi-domina-il-segmento-del-lusso.jpg",
-      "summary": "Da 2,3 a 1,8 Bentley per ogni Rolls-Royce in sei anni: Cullinan e Spectre hanno ridotto il divario tra i due marchi",
-      "date": "2026-09-03T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:77f8b88a1e16",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -144,6 +336,18 @@
       "url": "https://insideevs.it/news/806848/degrado-batteria-dipende-singola-cella/",
       "image": "https://cdn.motor1.com/images/mgl/7JMyJ/s3/batterie-l-europa-punta-all-eccellenza.jpg",
       "summary": "Uno studio dimostra che una cella guasta limita le prestazioni di un intero accumulatore. Ecco perché",
+      "date": "2026-09-03T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:538a25d3aea7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Rolls-Royce contro Bentley: chi domina il segmento del lusso?",
+      "url": "https://it.motor1.com/news/806688/rolls-royce-bentley-vendute-confronto/",
+      "image": "https://cdn.motor1.com/images/mgl/JONJ4Q/s3/rolls-royce-contro-bentley-chi-domina-il-segmento-del-lusso.jpg",
+      "summary": "Da 2,3 a 1,8 Bentley per ogni Rolls-Royce in sei anni: Cullinan e Spectre hanno ridotto il divario tra i due marchi",
       "date": "2026-09-03T05:00:00.0000000Z"
     },
     {
@@ -195,30 +399,6 @@
       "date": "2026-09-02T17:00:37.0000000Z"
     },
     {
-      "id": "hdmotori:ad5304f44de8",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vince una Maserati alla lotteria, con 2 euro si ritrova un gioiello",
-      "url": "https://www.hdmotori.it/maserati-lotteria-2-euro/",
-      "image": null,
-      "summary": "Alla lotteria di beneficenza per la raccolta fondi per il restauro di una Cappella in Francia un uomo ha avuto in premio una Maserati Ghibli The post Vince una Maserati alla lotteria, con 2 euro si ritrova un gioiello...",
-      "date": "2026-09-02T16:30:05.0000000Z"
-    },
-    {
-      "id": "hdmotori:98477c683c7d",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Pneumatici riciclati sotto le strade, l’esperimento per contrastare gelo e fango",
-      "url": "https://www.hdmotori.it/pneumatici-riciclati-fondo-stradale-maine/",
-      "image": null,
-      "summary": "Nel Maine 20.000 pneumatici usati vengono sotterrati sotto le strade: l'esperimento innovativo che combatte gelo, fango e degrado della viabilità The post Pneumatici riciclati sotto le strade, l’esperimento per contra...",
-      "date": "2026-09-02T16:00:21.0000000Z"
-    },
-    {
       "id": "vaielettrico:6f549c301a0a",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -229,42 +409,6 @@
       "image": null,
       "summary": "Anno: settembre 2025 Km percorsi: 2.300 Stato Batteria: / Regione: Sicilia Prezzo: 26.990 euro Ford Puma Gen-E Premium,… L'articolo Ford Puma Gen-E Premium del 2025, con 2.300 km proviene da Vaielettrico .",
       "date": "2026-09-02T15:39:45.0000000Z"
-    },
-    {
-      "id": "hdmotori:f607afa43e55",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Polestar 4 SUV, tanto spazio e 630 km di autonomia: parte da 55.900 euro",
-      "url": "https://www.hdmotori.it/polestar-4-suv-spazio-autonomia-prezzo/",
-      "image": null,
-      "summary": "Polestar presenta la nuova 4 SUV: più spazio, fino a 544 CV, autonomia massima di 630 km, batteria da 100 kWh e prezzi da 55.900 euro The post Polestar 4 SUV, tanto spazio e 630 km di autonomia: parte da 55.900 euro a...",
-      "date": "2026-09-02T15:30:57.0000000Z"
-    },
-    {
-      "id": "hdmotori:3312ac4b5609",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Hyundai ha brevettato un fuoristrada estremo, l’anti-Jimny arriverà sul mercato?",
-      "url": "https://www.hdmotori.it/hyundai-brevetto-fuoristrada-estremo/",
-      "image": null,
-      "summary": "La Casa coreana potrebbe lanciare concretamente il Concept Boulder per sfidare la Suzuki Jimny, la nuova Ford Bronco e la celebre Jeep Wrangler The post Hyundai ha brevettato un fuoristrada estremo, l’anti-Jimny arriv...",
-      "date": "2026-09-02T15:00:31.0000000Z"
-    },
-    {
-      "id": "motor1:2cc729d7a78e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché i fari a scomparsa sono \"scomparsi\"?",
-      "url": "https://it.motor1.com/news/806672/fari-scomparsa-perche-scomparsi/",
-      "image": "https://cdn.motor1.com/images/mgl/BXZ7ne/s3/che-fine-hanno-fatto-i-fari-a-scomparsa-mazda-mx-5.jpg",
-      "summary": "Un tempo elemento distintivo delle sportive, i fari a scomparsa sono diventati troppo complicati per le auto moderne",
-      "date": "2026-09-02T15:00:00.0000000Z"
     },
     {
       "id": "insideevs:bf710e03a99d",
@@ -279,40 +423,16 @@
       "date": "2026-09-02T15:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:481bcc4663bb",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Fiat Grande Panda, a settembre la Turbo 100 scende a 14.950 euro",
-      "url": "https://www.hdmotori.it/fiat-grande-panda-turbo-100-promozione-settembre/",
-      "image": null,
-      "summary": "Offerta di settembre per la Fiat Grande Panda Turbo 100: prezzo da 14.950 euro col finanziamento Stellantis, senza alcun obbligo di permuta o rottamazione The post Fiat Grande Panda, a settembre la Turbo 100 scende a ...",
-      "date": "2026-09-02T14:30:43.0000000Z"
-    },
-    {
-      "id": "motor1:eab57db231c8",
+      "id": "motor1:2cc729d7a78e",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Bosch, tutte le novità per i camion del futuro arrivano a IAA 2026",
-      "url": "https://it.motor1.com/news/806895/bosch-tecnologie-camion-elettrici/",
-      "image": "https://cdn.motor1.com/images/mgl/qk8gkZ/s3/bosch-tutte-le-novita-per-i-camion-del-futuro-arrivano-a-iaa-2026.jpg",
-      "summary": "Dai motori elettrici all'idrogeno, passando per radar, telecamere e computer: Bosch presenta le tecnologie per i camion di domani",
-      "date": "2026-09-02T14:30:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:6a19962429e4",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ritorna la Pajero, Mitsubishi svela il fuoristrada a 7 posti pronto a tutto",
-      "url": "https://www.hdmotori.it/ritorno-pajero-mitsubishi-7-posti/",
-      "image": null,
-      "summary": "Il brand giapponese ha presentato finalmente la quinta generazione del fuoristrada più amato. Scopriamo nel dettaglio la Mitsubishi Pajero The post Ritorna la Pajero, Mitsubishi svela il fuoristrada a 7 posti pronto a...",
-      "date": "2026-09-02T14:00:10.0000000Z"
+      "title": "Perché i fari a scomparsa sono \"scomparsi\"?",
+      "url": "https://it.motor1.com/news/806672/fari-scomparsa-perche-scomparsi/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZ7ne/s3/che-fine-hanno-fatto-i-fari-a-scomparsa-mazda-mx-5.jpg",
+      "summary": "Un tempo elemento distintivo delle sportive, i fari a scomparsa sono diventati troppo complicati per le auto moderne",
+      "date": "2026-09-02T15:00:00.0000000Z"
     },
     {
       "id": "insideevs:d3f20d6e7acc",
@@ -339,18 +459,6 @@
       "date": "2026-09-02T13:40:36.0000000Z"
     },
     {
-      "id": "motor1:969d64133cab",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "720 km senza ricarica: il nuovo MAN eTGX promette l'impensabile",
-      "url": "https://it.motor1.com/news/806863/man-etgx-2026-autonomia-ricarica/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak396O/s3/man-new-etgx-extended-frontale-ottimizzato-dal-punto-di-vista-aerodinamico.jpg",
-      "summary": "Alla IAA Transportation 2026 debutta il MAN eTGX di seconda generazione con 720 km dichiarati, ricarica MCS a 750 kW e nuove funzioni",
-      "date": "2026-09-02T13:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:6b421512e253",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -375,18 +483,6 @@
       "date": "2026-09-02T12:00:00.0000000Z"
     },
     {
-      "id": "motor1:8902aa05d400",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Mazda 6e si aggiorna con batteria più grande più autonomia",
-      "url": "https://it.motor1.com/news/806852/mazda-6e-aggiornamento-batteria-autonomia/",
-      "image": "https://cdn.motor1.com/images/mgl/W8q77q/s3/mazda-6e-in-rot-bild-von-schrag-vorne.jpg",
-      "summary": "Mazda aggiorna tecnicamente la sua berlina elettrica con la ricarica a 200 kW ora promette fino a 560 km di autonomia WLTP",
-      "date": "2026-09-02T12:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:f2e07ee062ad",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -399,42 +495,6 @@
       "date": "2026-09-02T11:00:00.0000000Z"
     },
     {
-      "id": "motor1:dcc9af01d240",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Kia Sportage full hybrid GPL (2026), la prova dei consumi reali",
-      "url": "https://it.motor1.com/reviews/806409/kia-sportage-full-hybrid-gpl-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/lEG9rN/s3/kia-sportage-full-hybrid-gpl-2026-la-prova-consumi.jpg",
-      "summary": "Il SUV full hybrid alimentato a gas mantiene la spaziosità, le ottime dotazioni e lo sprint, con costi chilometrici ridottissimi",
-      "date": "2026-09-02T11:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:710b0cef8f55",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mercato due ruote. L’immatricolato di agosto conferma la ripresa",
-      "url": "https://www.vaielettrico.it/mercato-due-ruote-limmatricolato-di-agosto-conferma-la-ripresa/",
-      "image": null,
-      "summary": "Il mercato italiano delle due ruote elettriche sembra aver finalmente cambiato passo. Ad agosto le immatricolazioni crescono del… L'articolo Mercato due ruote. L’immatricolato di agosto conferma la ripresa proviene da...",
-      "date": "2026-09-02T10:38:26.0000000Z"
-    },
-    {
-      "id": "motor1:d854d494c609",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Ferrari perduta di Michael Jordan è riapparsa e andrà all'asta",
-      "url": "https://it.motor1.com/news/806829/ferrari-michael-jordan-asta/",
-      "image": "https://cdn.motor1.com/images/mgl/KbgLkR/s3/michael-jordan-s-1997-ferrari-550-maranello.jpg",
-      "summary": "La Ferrari 550 Maranello collegata alle Air Jordan XIV riemerge con Joopiter, mettendo in evidenza la sua provenienza dettagliata",
-      "date": "2026-09-02T10:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:ad037d6a2717",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -445,18 +505,6 @@
       "image": "https://cdn.motor1.com/images/mgl/XBzkVp/s3/boom-dello-storage-in-usa-la-ricarica-non-sara-piu-la-stessa.jpg",
       "summary": "La nuova capacità di accumulo supera i 30,8 GWh semestrali, rafforzando la ricarica dei veicoli elettrici nella rete a batteria",
       "date": "2026-09-02T09:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:3a823d64b3e1",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "I nuovi prezzi (più bassi) della Renault Scenic E-Tech",
-      "url": "https://it.motor1.com/news/806744/renault-scenic-e-tech-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/W8KBwo/s3/renault-scenic-e-tech-2026.jpg",
-      "summary": "Taglio di quasi 8.000 euro al listino della Scenic elettrica. Aumenta anche la dotazione. L'autonomia massima è di 642 km",
-      "date": "2026-09-02T09:00:00.0000000Z"
     },
     {
       "id": "insideevs:de2b1afead14",
@@ -481,54 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/0eg2nV/s3/emmi-lancia-tre-rimorchi-frigo-elettrici-addio-al-diesel.jpg",
       "summary": "Tre rimorchi refrigerati lavorano già con batteria dedicata e pannelli solari che alimentano il gruppo frigo",
       "date": "2026-09-02T06:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:2a6a42222059",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Riciclo batterie. Bello, ma è in perdita. Ecco come renderlo profittevole",
-      "url": "https://www.vaielettrico.it/riciclo-batterie-bello-ma-e-in-perdita-ecco-come-renderlo-profittevole/",
-      "image": null,
-      "summary": "Il riciclo delle batterie delle auto elettriche è ormai una tecnologia disponibile, ma in Europa continua a essere… L'articolo Riciclo batterie. Bello, ma è in perdita. Ecco come renderlo profittevole proviene da Vaie...",
-      "date": "2026-09-02T05:56:33.0000000Z"
-    },
-    {
-      "id": "insideevs:5b3c17c36786",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché dobbiamo imparare a ricaricare a mezzogiorno",
-      "url": "https://insideevs.it/news/806683/ricarica-auto-elettrica-mezzogiorno-vantaggi/",
-      "image": "https://cdn.motor1.com/images/mgl/8A3EAo/s3/l-ue-investe-40-milioni-per-la-ricarica-elettrica-nell-est-europa.jpg",
-      "summary": "Alcuni studi mostrano i vantaggi della ricarica nelle ore più calde della giornata: così si sfrutta al meglio il fotovoltaico",
-      "date": "2026-09-02T05:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:abb41e8e1134",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Autonomia EV: quella dichiarata è una bufala, io faccio molto meglio",
-      "url": "https://www.vaielettrico.it/autonomia-ev-quella-dichiarata-e-una-bufala-io-ne-faccio-molti-di-piu/",
-      "image": null,
-      "summary": "L’autonomia “dichiarata” delle EV è una bufala? Vero, ma in realtà… si possono fare molti più chilometri! Su Reddit un… L'articolo Autonomia EV: quella dichiarata è una bufala, io faccio molto meglio proviene da Vaiel...",
-      "date": "2026-09-01T21:10:37.0000000Z"
-    },
-    {
-      "id": "insideevs:01a2760aa3a2",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le auto elettriche più vendute in Italia ad agosto 2026",
-      "url": "https://insideevs.it/news/806749/classifica-vendite-auto-elettriche-agosto-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/KbgL6R/s3/le-auto-elettriche-piu-vendute-in-italia-agosto.jpg",
-      "summary": "La BYD Dolphin Surf si conferma la regina delle BEV ad agosto, come a luglio, ma da inizio anno vince la Leapmotor T03",
-      "date": "2026-09-01T16:26:18.0000000Z"
     }
   ]
 }

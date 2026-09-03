@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-03T09:41:33.0200191Z",
+  "updated": "2026-09-03T13:53:51.3908383Z",
   "items": [
+    {
+      "id": "cybersecurity360:51c82c1f6f7d",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Email aziendali, metadati e controlli difensivi: l’utilizzabilità della prova digitale",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/email-aziendali-metadati-e-controlli-difensivi-lutilizzabilita-della-prova-digitale/",
+      "image": null,
+      "summary": "Una recente sentenza del tribunale di Pisa offre spunti interpretativi interessanti e una soluzione condivisibile sul piano operativo, anche se soggetta a possibili interventi di riforma nei successivi gradi di giudiz...",
+      "date": "2026-09-03T13:30:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d371fc340f63",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "ClickFix evolve con TerminalFix: il falso CAPTCHA diventa una porta verso la rete aziendale",
+      "url": "https://www.cybersecurity360.it/news/clickfix-evolve-con-terminalfix-il-falso-captcha-diventa-una-porta-verso-la-rete-aziendale/",
+      "image": null,
+      "summary": "Un falso CAPTCHA convince la vittima a eseguire PowerShell, ma è solo l’inizio. Con TerminalFix, ClickFix evolve in una catena multistadio che effettua ricognizione dell’ambiente Active Directory e crea un reverse tun...",
+      "date": "2026-09-03T12:29:31.0000000Z"
+    },
     {
       "id": "cybersecurity360:ff4a4d817506",
       "sourceId": "cybersecurity360",
@@ -37,6 +61,18 @@
       "image": null,
       "summary": "Norton 360 integra strumenti contro malware, ransomware, truffe online e deepfake. La protezione anti-truffa sfrutta l’intelligenza artificiale, mentre i piani superiori aggiungono VPN, backup cloud, monitoraggio del ...",
       "date": "2026-09-03T07:39:43.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:a72dafb3e73e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Zero Trust 2.0 e Identity-First Security: l’identità diventa il nuovo perimetro",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/zero-trust-2-0-e-identity-first-security-lidentita-diventa-il-nuovo-perimetro/",
+      "image": null,
+      "summary": "L’identità non è più una funzione tecnica confinata all’IAM, ma un elemento strategico della resilienza cyber. Zero Trust 2.0 e Identity-First Security integrano accessi, privilegi, governance e threat detection in un...",
+      "date": "2026-09-03T07:00:00.0000000Z"
     },
     {
       "id": "cybersecurity360:e0664f194af7",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Incogni Unlimited consente di rimuovere automaticamente i dati personali da oltre 420 siti di data broker e di estendere l'intervento a più di 3.000 siti aggiuntivi. Il piano annuale costa 143,88 euro, con un risparmi...",
       "date": "2026-09-02T09:09:33.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:1a3f3be668d9",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Aruba Hyper Hosting: architettura Cloud, gestione AI e analisi della resilienza per web app ad alto traffico",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/aruba-hyper-hosting-architettura-cloud-sicurezza-performance/",
-      "image": null,
-      "summary": "Aruba Hyper Hosting parte da 199 euro + IVA per il primo anno e combina risorse Cloud dedicate, strumenti di intelligenza artificiale, cache, CDN e backup. Due le configurazioni disponibili: Linux e WordPress gestito ...",
-      "date": "2026-09-02T08:49:26.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:8cd2b69e6be9",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Infostealer contro Claude: le sessioni rubate consumano credito, Anthropic rimborsa",
-      "url": "https://www.cybersecurity360.it/news/infostealer-contro-claude-le-sessioni-rubate-consumano-credito-anthropic-rimborsa/",
-      "image": null,
-      "summary": "Un infostealer diffuso tramite software pirata ruba le sessioni attive del browser per accedere agli account Claude e consumarne il credito. Anthropic disattiva le sessioni compromesse, rimuove le carte salvate e rimb...",
-      "date": "2026-09-02T08:22:44.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:62aeea7df8fc",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "La geopolitica della fiducia tra alleati: cosa rende obsoleto lo spionaggio nell’era AI",
-      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/la-geopolitica-della-fiducia-tra-alleati-cosa-rende-obsoleto-lo-spionaggio-nellera-ai/",
-      "image": null,
-      "summary": "Dall'arresto di Biwei Zhang alle manovre di contro-intelligence al quartier generale NATO a Mons: l'infiltrazione umana ad alta tecnologia smantella la blindatura burocratica dei nulla osta. Ecco perché threat intelli...",
-      "date": "2026-09-02T07:36:40.0000000Z"
     }
   ]
 }
