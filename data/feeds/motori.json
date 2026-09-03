@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-03T00:35:53.0751726Z",
+  "updated": "2026-09-03T05:02:38.6163120Z",
   "items": [
+    {
+      "id": "insideevs:77f8b88a1e16",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Lo stato di salute di una batteria dipende dalla cella più \"debole\"",
+      "url": "https://insideevs.it/news/806848/degrado-batteria-dipende-singola-cella/",
+      "image": "https://cdn.motor1.com/images/mgl/7JMyJ/s3/batterie-l-europa-punta-all-eccellenza.jpg",
+      "summary": "Uno studio dimostra che una cella guasta limita le prestazioni di un intero accumulatore. Ecco perché",
+      "date": "2026-09-03T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:538a25d3aea7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Rolls-Royce contro Bentley: chi domina il segmento del lusso?",
+      "url": "https://it.motor1.com/news/806688/rolls-royce-bentley-vendute-confronto/",
+      "image": "https://cdn.motor1.com/images/mgl/JONJ4Q/s3/rolls-royce-contro-bentley-chi-domina-il-segmento-del-lusso.jpg",
+      "summary": "Da 2,3 a 1,8 Bentley per ogni Rolls-Royce in sei anni: Cullinan e Spectre hanno ridotto il divario tra i due marchi",
+      "date": "2026-09-03T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:8ac2f6c650e0",
       "sourceId": "vaielettrico",
@@ -243,18 +267,6 @@
       "date": "2026-09-02T12:00:25.0000000Z"
     },
     {
-      "id": "motor1:8902aa05d400",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Mazda 6e si aggiorna con batteria più grande più autonomia",
-      "url": "https://it.motor1.com/news/806852/mazda-6e-aggiornamento-batteria-autonomia/",
-      "image": "https://cdn.motor1.com/images/mgl/W8q77q/s3/mazda-6e-in-rot-bild-von-schrag-vorne.jpg",
-      "summary": "Mazda aggiorna tecnicamente la sua berlina elettrica con la ricarica a 200 kW ora promette fino a 560 km di autonomia WLTP",
-      "date": "2026-09-02T12:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:e729467654bb",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -267,16 +279,16 @@
       "date": "2026-09-02T12:00:00.0000000Z"
     },
     {
-      "id": "motor1:dcc9af01d240",
+      "id": "motor1:8902aa05d400",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Kia Sportage full hybrid GPL (2026), la prova dei consumi reali",
-      "url": "https://it.motor1.com/reviews/806409/kia-sportage-full-hybrid-gpl-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/lEG9rN/s3/kia-sportage-full-hybrid-gpl-2026-la-prova-consumi.jpg",
-      "summary": "Il SUV full hybrid alimentato a gas mantiene la spaziosità, le ottime dotazioni e lo sprint, con costi chilometrici ridottissimi",
-      "date": "2026-09-02T11:00:00.0000000Z"
+      "title": "La Mazda 6e si aggiorna con batteria più grande più autonomia",
+      "url": "https://it.motor1.com/news/806852/mazda-6e-aggiornamento-batteria-autonomia/",
+      "image": "https://cdn.motor1.com/images/mgl/W8q77q/s3/mazda-6e-in-rot-bild-von-schrag-vorne.jpg",
+      "summary": "Mazda aggiorna tecnicamente la sua berlina elettrica con la ricarica a 200 kW ora promette fino a 560 km di autonomia WLTP",
+      "date": "2026-09-02T12:00:00.0000000Z"
     },
     {
       "id": "insideevs:f2e07ee062ad",
@@ -288,6 +300,18 @@
       "url": "https://insideevs.it/news/806822/auto-elettriche-norvegia-vendite/",
       "image": "https://cdn.motor1.com/images/mgl/9mZ20X/s3/2021-volkswagen-id-4.jpg",
       "summary": "La stragrande maggioranza degli acquirenti norvegesi vuole auto elettriche, e quasi nessuno vuole quelle a benzina o ibride.",
+      "date": "2026-09-02T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:dcc9af01d240",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Kia Sportage full hybrid GPL (2026), la prova dei consumi reali",
+      "url": "https://it.motor1.com/reviews/806409/kia-sportage-full-hybrid-gpl-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/lEG9rN/s3/kia-sportage-full-hybrid-gpl-2026-la-prova-consumi.jpg",
+      "summary": "Il SUV full hybrid alimentato a gas mantiene la spaziosità, le ottime dotazioni e lo sprint, con costi chilometrici ridottissimi",
       "date": "2026-09-02T11:00:00.0000000Z"
     },
     {
@@ -339,18 +363,6 @@
       "date": "2026-09-02T09:00:00.0000000Z"
     },
     {
-      "id": "motor1:d50655f778f2",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Così un esemplare unico potrebbe plasmare le future Porsche 911",
-      "url": "https://it.motor1.com/news/806714/porsche-911-flachbau-rs-design/",
-      "image": "https://cdn.motor1.com/images/mgl/mMzpoq/s3/porsche-911-gt2-rs-flachbau-one-off.jpg",
-      "summary": "La Porsche 911 GT2 Flachbau RS mostra come gli esperimenti Porsche Sonderwunsch possano influenzare lo stile delle future 911",
-      "date": "2026-09-02T08:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:de2b1afead14",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -360,6 +372,18 @@
       "url": "https://insideevs.it/news/806709/magna-yuma-numeri-prospettive-battery/",
       "image": "https://cdn.motor1.com/images/mgl/2N48bM/s3/in-india-le-batterie-si-cambiano-in-pochi-secondi-la-scommessa.jpg",
       "summary": "Magna investe 35 milioni di dollari in Yuma Energy, che punta a raddoppiare le batterie e ampliare la rete di scambio",
+      "date": "2026-09-02T08:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:d50655f778f2",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Così un esemplare unico potrebbe plasmare le future Porsche 911",
+      "url": "https://it.motor1.com/news/806714/porsche-911-flachbau-rs-design/",
+      "image": "https://cdn.motor1.com/images/mgl/mMzpoq/s3/porsche-911-gt2-rs-flachbau-one-off.jpg",
+      "summary": "La Porsche 911 GT2 Flachbau RS mostra come gli esperimenti Porsche Sonderwunsch possano influenzare lo stile delle future 911",
       "date": "2026-09-02T08:00:00.0000000Z"
     },
     {
@@ -396,18 +420,6 @@
       "url": "https://insideevs.it/news/806738/rimorchi-frigo-elettrici-emmi-funziona/",
       "image": "https://cdn.motor1.com/images/mgl/0eg2nV/s3/emmi-lancia-tre-rimorchi-frigo-elettrici-addio-al-diesel.jpg",
       "summary": "Tre rimorchi refrigerati lavorano già con batteria dedicata e pannelli solari che alimentano il gruppo frigo",
-      "date": "2026-09-02T06:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:d43db8990f07",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Offerta Renault Clio, quanto conviene?",
-      "url": "https://it.motor1.com/news/806375/renault-clio-offerta-promozione-settembre-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/koKpAx/s3/offerta-renault-clio-quanto-conviene.jpg",
-      "summary": "Renault Clio evolution full hybrid E-Tech 160 da 259 euro al mese per 60 mesi, con 8.605 euro di anticipo e TAN 0%",
       "date": "2026-09-02T06:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/wl8eG4/s3/vuoi-una-colonnina-sotto-casa-san-francisco-ti-da-la-mappa.jpg",
       "summary": "Nel programma i residenti indicano i marciapiedi dove installare le colonnine di ricarica, una soluzione pensata per chi non ha un garage",
       "date": "2026-09-01T13:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:1388a1c4baee",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa batteria americana potrebbe spezzare il dominio cinese",
-      "url": "https://insideevs.it/news/806563/batteria-americana-supply-chain-ev/",
-      "image": "https://cdn.motor1.com/images/mgl/QeYlbB/s3/storedot-pouch-cells-2022.jpg",
-      "summary": "La prossima grande svolta nel campo dei veicoli elettrici potrebbe non avere nulla a che fare con le batterie allo stato solido",
-      "date": "2026-09-01T11:00:00.0000000Z"
     }
   ]
 }
