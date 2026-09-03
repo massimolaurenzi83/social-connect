@@ -1,7 +1,19 @@
 {
   "category": "spazio",
-  "updated": "2026-09-03T20:06:53.8942585Z",
+  "updated": "2026-09-03T22:33:48.6670601Z",
   "items": [
+    {
+      "id": "astronautinews:1b82c5377315",
+      "sourceId": "astronautinews",
+      "source": "AstronautiNEWS",
+      "platform": "rss",
+      "category": "spazio",
+      "title": "BepiColombo inizia le manovre di arrivo intorno a Mercurio",
+      "url": "https://www.astronautinews.it/2026/09/bepicolombo-inizia-le-manovre-di-arrivo-intorno-a-mercurio/",
+      "image": "https://www.astronautinews.it/wp-content/uploads/2026/09/ESA-BepiC-MTM-sep-0926-scaled.jpg",
+      "summary": "Dopo quasi 8 anni di viaggio il trenino sonda BepiColombo , realizzato dall’Agenzia spaziale europea (ESA) in collaborazione con quella giapponese JAXA, ha effettuato la prima manovra che segna l'inizio delle fasi di ...",
+      "date": "2026-09-03T20:21:38.0000000Z"
+    },
     {
       "id": "astronautinews:821fb8285f82",
       "sourceId": "astronautinews",
@@ -133,18 +145,6 @@
       "image": "https://www.astronautinews.it/wp-content/uploads/2026/07/Vikram-I-decollo.jpeg",
       "summary": "L'azienda indiana Skyroot Aerospace ha lanciato oggi, 18 luglio 2026, il proprio vettore Vikram-1, completando con successo la prima missione dimostrativa Aagaman (\"l'arrivo\", nel senso di essere giunto) e diventando ...",
       "date": "2026-07-18T10:00:00.0000000Z"
-    },
-    {
-      "id": "astronautinews:71652c8e268a",
-      "sourceId": "astronautinews",
-      "source": "AstronautiNEWS",
-      "platform": "rss",
-      "category": "spazio",
-      "title": "Cosa aspettarsi da Flight 13 di Starship",
-      "url": "https://www.astronautinews.it/2026/07/flight-13-starship-attesa-abort/",
-      "image": "https://www.astronautinews.it/wp-content/uploads/2026/07/HNWsWOBXUAAZpbn-scaled.jpeg",
-      "summary": "Fin dal primo Integrated Flight Test nell'aprile 2023, ogni volo del lanciatore superpesante e completamente riutilizzabile in fase di sviluppo da SpaceX a Starbase, nel Texas sudorientale, è stato definito come «deci...",
-      "date": "2026-07-17T14:00:00.0000000Z"
     }
   ]
 }
