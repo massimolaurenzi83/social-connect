@@ -1,30 +1,186 @@
 {
   "category": "calcio",
-  "updated": "2026-09-03T17:30:11.6917410Z",
+  "updated": "2026-09-03T20:06:53.8671034Z",
   "items": [
     {
-      "id": "fcinternews:9cf96fa59490",
+      "id": "calciomercato-it:a5ed002b2fce",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Il Besiktas guarda in Serie A: Koopmeiners e Caqueret nel mirino di Italiano",
+      "url": "https://www.calciomercato.it/2026/09/03/il-besiktas-guarda-in-serie-a-koopmeiners-e-caqueret-nel-mirino-di-italiano/",
+      "image": null,
+      "summary": "L'articolo Il Besiktas guarda in Serie A: Koopmeiners e Caqueret nel mirino di Italiano proviene da CalcioMercato.it .",
+      "date": "2026-09-03T20:00:48.0000000Z"
+    },
+    {
+      "id": "fcinternews:5ccb5d807d0f",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Cagliari, Radunovic: \"Contro l'Inter è sempre difficile fare gol\"",
+      "url": "https://m.fcinternews.it/il-resto-della-a/cagliari-radunovic-contro-inter-difficile-gol-1017577",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f8/f8837846ba29cf48d393231b9c29bc74-05227-oooz0000.jpeg",
+      "summary": "Boris Radunovic, portiere del Cagliari in campo in questi minuti per la sfida di Coppa Italia contro il Verona, ha parlato a Mediaset anche della recente prestazione dei rossoblu contro la squadra di Chivu: \"Quando af...",
+      "date": "2026-09-03T19:58:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:97a7ede40230",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "VIDEO - Antonello a FcIN: \"Inter casa mia per 10 anni. Mercato estivo all'altezza\"",
+      "url": "https://m.fcinternews.it/in-primo-piano/fcin-1017332",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a2/a2935c299e808ea1157e879bf231cd31-56515-oooz0000.jpeg",
+      "summary": "Alessandro Antonello, ex amministratore delegato dell’Inter, ha da poco chiuso la sua avventura con l’Olympique Marsiglia.",
+      "date": "2026-09-03T19:43:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:8251b57390c3",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "De Grandis: \"Ausilio grande professionista, ma l’Inter può assorbire il colpo\"",
+      "url": "https://m.fcinternews.it/news/de-grandis-ausilio-professionista-l-inter-assorbire-colpo-1017573",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/98/98ef1b3fcb6a22a1d09dc37a71f90937-96333-oooz0000.jpeg",
+      "summary": "L’addio di Piero Ausilio all’Inter continua a creare dibattito.",
+      "date": "2026-09-03T19:28:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:4a263440b08e",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Moratti: \"Mazzarri? ADL voleva liberarsene. Potevo investire nel Napoli\"",
+      "url": "https://m.fcinternews.it/news/moratti-mazzarri-adl-voleva-liberarsene-potevo-imvestire-napoli-1017571",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7e/7e782327bbce35aa1c464ceb12183f4e-50815-oooz0000.jpeg",
+      "summary": "Massimo Moratti, storico presidente dell'Inter, ha rivelato ai microfoni de Il Mattino alcuni retroscena sul suo rapporto con Aurelio De Laurentiis. A partire dall'ingaggio di Walter Mazzarri: \"Uno sgarbo? Macché.",
+      "date": "2026-09-03T19:14:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:07462b131e9f",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Trasferimenti internazionali, Italia seconda nel mondo: le cifre",
+      "url": "https://m.fcinternews.it/news/trasferimenti-internazionali-italia-seconda-mondo-cifre-1017567",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/75/7549efe4bd43ecd73117145c48584d64-48983-oooz0000.jpeg",
+      "summary": "Il mercato internazionale continua a crescere e l’Italia si conferma tra i principali protagonisti.",
+      "date": "2026-09-03T19:00:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:610ce49145e0",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Brocchi: \"Un po' di fatica a Cagliari, ma l'Inter resta la più forte\"",
+      "url": "https://m.fcinternews.it/news/brocchi-un-fatica-cagliari-inter-resta-forte-1017533",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6a/6aa2d31b8a70736db02624403150afba-82014-oooz0000.jpeg",
+      "summary": "Cristian Brocchi, ex calciatore di Milan, Lazio, Inter e Fiorentina e oggi opinionista e commentatore per DAZN, ha analizzato per Sitiscommesse.",
+      "date": "2026-09-03T18:46:05.0000000Z"
+    },
+    {
+      "id": "fcinternews:78a4619d2d8c",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "L'ex Inter Michielan: \"L'impatto con il calcio dei grandi è difficile\"",
+      "url": "https://m.fcinternews.it/ex-nerazzurri/inter-michielan-l-impatto-calcio-grandi-difficile-1017568",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/14/14ce8149a657e7377459450a525d7cbf-48329-oooz0000.jpeg",
+      "summary": "Mattia Michielan, portiere del Siena cresciuto nelle giovanili dell'Inter, ha parlato al FedelissimoOnline della sua crescita: \"All’inizio ero un po’ timoroso della nuova avventura che avrei affrontato.",
+      "date": "2026-09-03T18:32:23.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:4f8a2db59de1",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Tentativo last minute del Galatasaray per Calhanoglu: l’Inter dice no",
+      "url": "https://www.calciomercato.it/2026/09/03/tentativo-last-minute-del-galatasaray-per-calhanoglu-linter-dice-no/",
+      "image": null,
+      "summary": "L'articolo Tentativo last minute del Galatasaray per Calhanoglu: l’Inter dice no proviene da CalcioMercato.it .",
+      "date": "2026-09-03T18:18:57.0000000Z"
+    },
+    {
+      "id": "fcinternews:ee507193fb45",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Coppa Italia, cinquina del Palermo al Mantova: i rosanero si 'regalano' il Bologna agli ottavi",
+      "url": "https://m.fcinternews.it/news/coppa-italia-1017570",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8e/8ea8668d4e55fbfcc797c0752c865954-50519-oooz0000.jpeg",
+      "summary": "Partita molto divertente al Barbera di Palermo (Coppa Italia), dove i rosanero battono 5-2 il Mantova al termine di un confronto che ha regalato tantissimi gol e tante emozioni.",
+      "date": "2026-09-03T18:18:35.0000000Z"
+    },
+    {
+      "id": "fcinternews:baecaa31178b",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Longo: \"Fabregas miglior allenatore? Sono onesto, lo avrei dato a Chivu\"",
+      "url": "https://m.fcinternews.it/news/longo-fabregas-miglior-allenatore-chivu-1017560",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b6/b6e0169ba8192e71d1efbe18c0c5f674-39416-oooz0000.jpeg",
+      "summary": "L'allenatore Moreno Longo, intervenuto ai microfoni di Tuttomercatoweb.com, ha commentato il premio di miglior allenatore assegnato ieri sera a Cesc Fabregas durante il Gran Galà del Calcio.",
+      "date": "2026-09-03T18:04:01.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:7837cdd7c2db",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Palermo, manita al Mantova e ottavi di finale di Coppa Italia: per Inzaghi ora c&#39;&egrave; il Bologna",
+      "url": "https://www.tuttosport.com/news/calcio/coppa-italia/2026/09/03-150994076/palermo_manita_al_mantova_e_ottavi_di_finale_di_coppa_italia_per_inzaghi_ora_c_il_bologna/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/03/163103985-b15551dc-a94f-4450-a95a-0accd960fc32.jpg",
+      "summary": "I rosanero superano la formazione lombarda e volano al prossimo turno dove se la vedranno contro i felsinei: in rete anche Strefezza e Pohjanpalo con una doppietta",
+      "date": "2026-09-03T18:00:37.0000000Z"
+    },
+    {
+      "id": "fcinternews:5ff46f6ba23e",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Graziani: \"Ausilio? Un fulmine a ciel sereno, ma il club andrà avanti\"",
+      "url": "https://m.fcinternews.it/news/graziani-ausilio-fulmine-ciel-sereno-club-andra-avanti-1017565",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/9c/9c7989d6adf5eafd1356c841da19fe3d-15058-oooz0000.jpeg",
+      "summary": "L’addio di Piero Ausilio all’Inter, dopo 28 anni trascorsi nel club nerazzurro, continua a far discutere. A commentare la separazione è stato anche Ciccio Graziani, intervenuto ai microfoni di Radio Sportiva.",
+      "date": "2026-09-03T17:51:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:b80dec759586",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Torna l'Europa, WizzAir annuncia voli ad hoc per le trasferte",
+      "url": "https://m.fcinternews.it/news/torna-europa-wizzair-annuncia-voli-hoc-trasferte-1017541",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/75/75c99c852fec7bd39f32b0ccc0517b82-76529-oooz0000.jpeg",
+      "summary": "La prossima settimana tornano le coppe europee e uno dei primi pensieri dei tifosi 'di campo' sarà prenotare rapidamente un volo per andare a seguire la propria squadra in trasferta in giro per il vecchio continente.",
+      "date": "2026-09-03T17:36:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:f244960d1a00",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "Coppa del Mondo FIFA Under 20 Femminile: convocate quattro nerazzurre",
-      "url": "https://www.fcinternews.it/inter-femminile/coppa-fifa-under-20-femminile-convocate-inter-1017556",
+      "url": "https://m.fcinternews.it/inter-femminile/coppa-fifa-under-20-femminile-convocate-inter-1017556",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a2/a2ddb3456d239a202770fe1b713c0d0b-64996-oooz0000.jpeg",
       "summary": "Sono quattro le giocatrici dell’Inter convocate per la Coppa del Mondo FIFA Under 20 Femminile Polonia 2026: Elena Belli, Lidia Consolini e Martina Bressan rappresenteranno l’Italia, mentre Annika Paz vestirà la magli...",
       "date": "2026-09-03T17:22:15.0000000Z"
-    },
-    {
-      "id": "fcinternews:c9b20dbdef81",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Moretto: \"Rinnovo Carlos Augusto molto vicino. Su Dimarco...\"",
-      "url": "https://www.fcinternews.it/focus/moretto-rinnovo-carlos-augusto-vicino-dimarco-1017569",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/10/1047ca03f0319fd5aace18d550c0cc76-92215-oooz0000.jpeg",
-      "summary": "Matteo Moretto, intervenuto sul canale Youtube di Fabrizio Romano, ha spiegato quali saranno le prime mosse che dovrà fare Baccin nel ruolo di direttore sportivo dell'Inter: \"Avrà subito degli impegni, come il rinnovo...",
-      "date": "2026-09-03T17:09:56.0000000Z"
     },
     {
       "id": "calciomercato-it:9fad1b7fe919",
@@ -37,30 +193,6 @@
       "image": null,
       "summary": "L'articolo Como, Caqueret fuori dalla lista Champions: dove può finire proviene da CalcioMercato.it .",
       "date": "2026-09-03T17:07:32.0000000Z"
-    },
-    {
-      "id": "fcinternews:149996616ed0",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Serie A, Commissione Difesa e Lega Calcio insieme per la prevenzione visiva",
-      "url": "https://www.fcinternews.it/il-resto-della-a/serie-a-commissione-difesa-lega-calcio-prevenzione-visiva-1017546",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/53/53247564779b48af2e3cb3b0ddab58da-90288-oooz0000.jpeg",
-      "summary": "In occasione della terza giornata di campionato Serie A Enilive, Lega Calcio Serie A e Commissione Difesa Vista ETS (CDV) scendono in campo insieme con la campagna 'Vista e Guida' per sensibilizzare il pubblico sull’ ...",
-      "date": "2026-09-03T16:55:20.0000000Z"
-    },
-    {
-      "id": "fcinternews:d514961cea90",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Napoli, Di Lorenzo assicura: \"Inter rivale tosta, ma arriveremo pronti\"",
-      "url": "https://www.fcinternews.it/l-avversario/napoli-lorenzo-assicura-arriveremo-pronti-sfida-inter-1017566",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6c/6cdf81a5e405b95c6fca0d4861b64d2c-94580-887o35o2135o1283z10f4.jpeg",
-      "summary": "Il capitano del Napoli Giovanni Di Lorenzo ha rilasciato oggi una lunga intervista ai microfoni di Radio Kiss Kiss Napoli proiettandosi verso il big match di sabato contro l'Inter: \"Ci aspetta una partita importante c...",
-      "date": "2026-09-03T16:42:01.0000000Z"
     },
     {
       "id": "tuttosport-calcio:e4fa311c645a",
@@ -87,66 +219,6 @@
       "date": "2026-09-03T16:32:30.0000000Z"
     },
     {
-      "id": "fcinternews:5eb8789de966",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "VIDEO - Domenica il Gp di Monza: i pronostici dei giocatori dell'Inter",
-      "url": "https://www.fcinternews.it/inter-social-club/gp-monza-pronostici-giocatori-inter-1017559",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/89/894f41e0484dc48defc48ae3a377710c-60696-oooz0000.jpeg",
-      "summary": "C'è grande attesa per il Gp di Monza di Formula 1 in programma nel weekend. Anche i giocatori dell'Inter sono stati stuzzicati sull'argomento.",
-      "date": "2026-09-03T16:29:23.0000000Z"
-    },
-    {
-      "id": "fcinternews:46012ec216a6",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Figo rivela: \"Ero a un passo dal Liverpool, poi con Moratti si chiuse subito\"",
-      "url": "https://www.fcinternews.it/copertina/figo-rivela-ero-passo-liverpool-moratti-chiuse-subito-1017564",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/12/1244c8c243d92013a7fbdaf35a4adc95-80358-811o309o1985o1483z11ec.jpeg",
-      "summary": "La parte finale della carriera di Luis Figo avrebbe potuto prendere una strada molto diversa.",
-      "date": "2026-09-03T16:16:01.0000000Z"
-    },
-    {
-      "id": "fcinternews:73fe7e838ae2",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Premio Gentleman Fair Play, per l'Inter in lizza Dimarco",
-      "url": "https://www.fcinternews.it/news/premio-gentleman-fair-play-inter-lizza-dimarco-1017530",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/33/3349c36e57ba7584d1e896c28c9d92c8-43449-457o120o1530o1192z0ce3.jpeg",
-      "summary": "Il campionato è ricominciato. Stessa passione, stesso obiettivo.",
-      "date": "2026-09-03T16:02:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:62757e6cf344",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Inter-Napoli, le iniziative di Betsson.Sport: Sneijder protagonista",
-      "url": "https://www.fcinternews.it/news/inter-napoli-iniziative-betsson-sport-sneijder-protagonista-1017531",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/02/022f8ece75e082cada1e0d384a720cdd-59121-oooz0000.jpeg",
-      "summary": "Tutto pronto a San Siro per uno dei match più attesi di questo avvio di stagione. Sabato 5 settembre, alle ore 18:00, andrà in scena la sfida tra Inter e Napoli.",
-      "date": "2026-09-03T15:48:27.0000000Z"
-    },
-    {
-      "id": "fcinternews:4ad54ed5ee1d",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "VIDEO - LAUTARO giura amore, DIMARCO punge OAKTREE sul RINNOVO: l'INTERISMO non SI SVENDE",
-      "url": "https://www.fcinternews.it/in-primo-piano/lautaro-dimarco-inter-interismo-intervista-baccin-1017563",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a2/a2706033a420e875e6f5443c8f8d2eff-29477-oooz0000.jpeg",
-      "summary": "Due interviste diverse quelle di Lautaro e Dimarco al Gran Galà del Calcio di ieri sera. Il capitano nerazzurro conferma i rumors dalla Spagna, ma giura amore all'Inter.",
-      "date": "2026-09-03T15:35:38.0000000Z"
-    },
-    {
       "id": "calciomercato-it:9ddc49650f1a",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -157,42 +229,6 @@
       "image": null,
       "summary": "L'articolo Non solo Barcellona: telefonata last minute a Lautaro Martinez proviene da CalcioMercato.it .",
       "date": "2026-09-03T15:33:31.0000000Z"
-    },
-    {
-      "id": "fcinternews:9ffcbc6138b9",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Viviano: \"Perdere Ausilio adesso è una scelta scellerata\"",
-      "url": "https://www.fcinternews.it/focus/viviano-perdere-ausilio-scelta-scellerata-1017548",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/28/28bc8a6adb2455fb943c1898fb1360db-88480-oooz0000.jpeg",
-      "summary": "Intervenendo a 'Le Foot Toujours' su Cronache di Spogliatoio, l'ex portiere e oggi opinionista Emiliano Viviano ha criticato la decisione di non rinnovare il contratto di Piero Ausilio: \"La scelta, perché per me si tr...",
-      "date": "2026-09-03T15:21:57.0000000Z"
-    },
-    {
-      "id": "fcinternews:9c2fa77fdf2e",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Moratti: \"Ausilio? L'Inter perde un pezzo del suo corpo. Quando va via uno così...\"",
-      "url": "https://www.fcinternews.it/copertina/moratti-addio-ausilio-inter-perde-pezzo-corpo-via-cosi-1017562",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/01/016092f099103e25cb6449355bc04a8c-28024-oooz0000.jpeg",
-      "summary": "Dopo la lunga intervista rilasciata a Il Mattino, Massimo Moratti ha commentato l'addio di Piero Ausilio ai microfoni di Radio Kiss Napoli.",
-      "date": "2026-09-03T15:08:07.0000000Z"
-    },
-    {
-      "id": "fcinternews:13bd21c937a6",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Asse calcio-basket nella Capitale: Doncic assisterà a Roma-Inter?",
-      "url": "https://www.fcinternews.it/news/asse-calcio-basket-capitale-doncic-1017522",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7b/7b21bd171269f43eabd32793f1ebad0e-71161-oooz0000.jpeg",
-      "summary": "C’è fermento nella nuova Roma dei canestri, quella formata dalle due società che dopo aver ereditato i titoli sportivi di Cremona e Brescia si apprestano a riportare il basket di Serie A nella capitale.",
-      "date": "2026-09-03T14:55:00.0000000Z"
     },
     {
       "id": "calciomercato-it:9157dea7401f",
@@ -339,18 +375,6 @@
       "date": "2026-09-03T11:30:00.0000000Z"
     },
     {
-      "id": "tuttosport-calcio:1f8df34026f6",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Mandragora: &quot;Felice di essere tornato. Toro, voglio darti tanto&quot;",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/09/03-150987084/mandragora_felice_di_essere_tornato_toro_voglio_darti_tanto/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/03/080228601-7c96aef8-5ae7-48d6-977b-d53cee36426d.jpg",
-      "summary": "Le prime parole dell’ex viola: \"Sabato giocherò proprio contro la Fiorentina. Uno scherzo del destino\"",
-      "date": "2026-09-03T11:15:00.0000000Z"
-    },
-    {
       "id": "calciomercato-it:32db3a1d4e40",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -409,30 +433,6 @@
       "image": null,
       "summary": "L'articolo L’Inter ufficializza Baccin come nuovo direttore sportivo: l’annuncio proviene da CalcioMercato.it .",
       "date": "2026-09-03T05:27:38.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:5ceb266d8a95",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Conte nel mirino del Trabzonspor, il club turco lo vuole in panchina",
-      "url": "https://www.calciomercato.it/2026/09/02/conte-nel-mirino-del-trabzonspor-il-club-turco-lo-vuole-in-panchina/",
-      "image": null,
-      "summary": "L'articolo Conte nel mirino del Trabzonspor, il club turco lo vuole in panchina proviene da CalcioMercato.it .",
-      "date": "2026-09-02T21:03:28.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:8d36784754b5",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Il Torino piomba su Acerbi, i granata sfidano il Sassuolo per il centrale",
-      "url": "https://www.calciomercato.it/2026/09/02/il-torino-piomba-su-acerbi-i-granata-sfidano-il-sassuolo-per-il-centrale/",
-      "image": null,
-      "summary": "L'articolo Il Torino piomba su Acerbi, i granata sfidano il Sassuolo per il centrale proviene da CalcioMercato.it .",
-      "date": "2026-09-02T20:01:56.0000000Z"
     }
   ]
 }
