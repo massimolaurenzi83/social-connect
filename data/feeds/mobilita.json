@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-09-04T13:32:25.9381153Z",
+  "updated": "2026-09-04T17:03:34.0134141Z",
   "items": [
+    {
+      "id": "ferrovie:1656a70d0355",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Roma-Civita Castellana-Viterbo, dal 7 settembre riapre tutta la linea",
+      "url": "https://www.ferrovie.info/treni-reali/roma-civita-castellana-viterbo-dal-7-settembre-riapre-tutta-la-linea.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10635/300_cotral_203.jpg",
+      "summary": "Da lunedì 7 settembre il servizio ferroviario della tratta urbana della Roma-Civita Castellana-Viterbo tornerà a essere effettuato sull'intera linea. La conclusione dei lavori tra Acqua Acetosa e Saxa Rubra consente i...",
+      "date": "2026-09-04T13:45:41.0000000Z"
+    },
     {
       "id": "ferrovie:6d74c9cd31ce",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.ferrovie.info/images/incidenti/trenord_lancetti_calcinacci_TSR.webp",
       "summary": "Mattinata di forti disagi per il traffico ferroviario nel Nodo di Milano, dove la circolazione è stata sospesa tra Milano Bovisa e Milano Lancetti a seguito di un incidente avvenuto all'interno della galleria che coll...",
       "date": "2026-09-03T12:27:34.0000000Z"
-    },
-    {
-      "id": "ferrovie:6bbb27c32bc0",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Treni insoliti in Abruzzo: le composizioni più particolari a Pescara e dintorni",
-      "url": "https://www.ferrovie.info/treni-reali/treni-insoliti-in-abruzzo-le-composizioni-piu-particolari-a-pescara-e-dintorni.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/normal_aln_668_demolizione_trenitalia_pescara_san_marco_9080.jpg",
-      "summary": "Ci sono treni che, quando compaiono lungo una linea, attirano immediatamente l'attenzione perché non appartengono al normale panorama ferroviario di quella zona. È quello che abbiamo raccolto in questo video e nelle f...",
-      "date": "2026-09-03T08:33:09.0000000Z"
     }
   ]
 }

@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-04T13:32:25.9353432Z",
+  "updated": "2026-09-04T17:03:34.0324209Z",
   "items": [
+    {
+      "id": "cybersecurity360:5784f7188cdd",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il phishing sfrutta le difficoltà economiche: come prevenire l’attacco che induce a telefonare all’attaccante",
+      "url": "https://www.cybersecurity360.it/news/il-phishing-sfrutta-le-difficolta-economiche-come-prevenire-lattacco-che-induce-a-telefonare-allattaccante/",
+      "image": null,
+      "summary": "L’ultima campagna phishing, che scommette sulle difficoltà economiche delle vittime, trasforma l’ansia economico-finanziaria in vettore di ingegneria sociale, incoraggiando le vittime a chiamare un numero di telefono ...",
+      "date": "2026-09-04T14:40:29.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:e3b74f88adfb",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber Resilience Act, l’11 settembre scattano gli obblighi di segnalazione: cosa cambia per le aziende",
+      "url": "https://www.cybersecurity360.it/legal/cyber-resilience-act-l11-settembre-scattano-gli-obblighi-di-segnalazione-cosa-cambia-per-le-aziende/",
+      "image": null,
+      "summary": "Dall’11 settembre 2026 il Cyber Resilience Act entra nella sua prima fase operativa con gli obblighi di segnalazione previsti dall’articolo 14. Una scadenza che impone a produttori e sviluppatori di preparare processi...",
+      "date": "2026-09-04T14:00:24.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:07342d1aa324",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il budget? Non basta mai",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/il-budget-non-basta-mai/",
+      "image": null,
+      "summary": "Che la sicurezza cyber debba coinvolgere anche l'IA è vero, ma non è possibile delegarla a questi sistemi o, peggio ancora, considerarli come un focus principale sia d'attacco che di difesa. Perché altrimenti il risch...",
+      "date": "2026-09-04T14:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:28496cbbdfc2",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Un falso CAPTCHA convince la vittima a eseguire PowerShell, ma è solo l’inizio. Con TerminalFix, ClickFix evolve in una catena multistadio che effettua ricognizione dell’ambiente Active Directory e crea un reverse tun...",
       "date": "2026-09-03T12:29:31.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ff4a4d817506",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Zero-day e attacchi autonomi: perché OpenAI frena il rilascio di Astra",
-      "url": "https://www.cybersecurity360.it/news/zero-day-e-attacchi-autonomi-perche-openai-frena-il-rilascio-di-astra/",
-      "image": null,
-      "summary": "La capacità di passare dalla scoperta di una falla alla costruzione di un exploit funzionante cambia i tempi della cyber security. OpenAI rallenta lo sviluppo e il rilascio di Astra, che ha superato la soglia Cyber Cr...",
-      "date": "2026-09-03T08:44:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ee8bef3afd18",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Crittografia XChaCha20: le architetture zero-knowledge mettono in sicurezza le credenziali delle PMI",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/nordpass-business-gestione-password-aziendali-xchacha20/",
-      "image": null,
-      "summary": "NordPass Business porta nelle aziende gestione centralizzata delle password, architettura zero-knowledge e crittografia XChaCha20. L'offerta prevede piani Teams, Business ed Enterprise, con sconti fino al 40% sui cont...",
-      "date": "2026-09-03T07:40:10.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:4c9a1cb7844b",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Norton e la difesa contro le minacce basate su IA: come la suite Norton 360 integra il rilevamento dei deepfake e la protezione anti-truffa",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/norton-360-protezione-ia-deepfake-dark-web-monitoring/",
-      "image": null,
-      "summary": "Norton 360 integra strumenti contro malware, ransomware, truffe online e deepfake. La protezione anti-truffa sfrutta l’intelligenza artificiale, mentre i piani superiori aggiungono VPN, backup cloud, monitoraggio del ...",
-      "date": "2026-09-03T07:39:43.0000000Z"
     }
   ]
 }
