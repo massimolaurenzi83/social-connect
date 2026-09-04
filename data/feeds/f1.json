@@ -1,7 +1,19 @@
 {
   "category": "f1",
-  "updated": "2026-09-04T00:21:15.0383420Z",
+  "updated": "2026-09-04T04:48:21.7298618Z",
   "items": [
+    {
+      "id": "formulapassion:da001455184f",
+      "sourceId": "formulapassion",
+      "source": "FormulaPassion",
+      "platform": "rss",
+      "category": "f1",
+      "title": "Partire ultimi",
+      "url": "https://www.formulapassion.it/editoriale/partire-ultimi",
+      "image": null,
+      "summary": "Antonelli e la gioia di scattare dal fondo dello schieramento. Rimonta da show senza pressione",
+      "date": "2026-09-04T03:40:00.0000000Z"
+    },
     {
       "id": "formulapassion:7b8b5c99b3bc",
       "sourceId": "formulapassion",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Il pilota della Mercedes si sente più libero mentalmente alla vigilia del suo GP di casa, dove potrà godersi di più la guida",
       "date": "2026-09-03T14:00:00.0000000Z"
-    },
-    {
-      "id": "formulapassion:00bbd0446f64",
-      "sourceId": "formulapassion",
-      "source": "FormulaPassion",
-      "platform": "rss",
-      "category": "f1",
-      "title": "Maserati Tipo 61 Birdcage, asta record a Pebble Beach",
-      "url": "https://www.formulapassion.it/auto/auto-epoca/maserati-tipo-61-birdcage-asta-record-pebble-beach",
-      "image": null,
-      "summary": "Venduta per oltre 4,24 milioni di dollari, è il nuovo record mondiale di vendita all’asta per il modello Maserati Tipo 61",
-      "date": "2026-09-03T13:45:00.0000000Z"
     }
   ]
 }

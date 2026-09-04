@@ -1,7 +1,67 @@
 {
   "category": "mondo",
-  "updated": "2026-09-04T00:21:14.9869149Z",
+  "updated": "2026-09-04T04:48:21.6982105Z",
   "items": [
+    {
+      "id": "internazionale:7b6967191e01",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "L’uomo che sta stravolgendo il Pentagono",
+      "url": "https://www.internazionale.it/notizie/tom-nichols/2026/09/04/pete-hegseth-pentagono",
+      "image": "https://media.internazionale.it/images/2026/09/03/357741-hd.jpg",
+      "summary": "Incompetente ma fedele a Donald Trump, il segretario alla difesa Pete Hegseth caccia chi lo critica ed espone gli Stati Uniti e i loro alleati alle minacce di Cina e Russia Leggi",
+      "date": "2026-09-04T03:44:01.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:86dc9851d05b",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Brasile: Fachin dà 5 giorni a Moraes, Mendonça, Procura generale e Polizia federale",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/brasile-fachin-da-5-giorni-a-moraes-mendonca-procura-generale-e-polizia-federale_79cb11e3-5d0e-4688-ae44-611e6aa350e3.html",
+      "image": null,
+      "summary": "Il presidente della Corte suprema chiede chiarimenti sulla crisi legata al Banco Master",
+      "date": "2026-09-04T01:24:04.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:3cc293027d5f",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Milei annuncia una base navale e sanzioni alle aziende petrolifere nelle Malvinas",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/milei-annuncia-una-base-navale-e-sanzioni-alle-aziende-petrolifere-nelle_f62b2ed2-da3b-482b-8ffc-a9c010877e84.html",
+      "image": null,
+      "summary": "Il presidente: 'Sono argentine per storia e diritto, non c'è discussione'",
+      "date": "2026-09-04T01:23:31.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:bca7dffc7280",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Brasile: Lula, 'Banco Master il più grande furto della storia del Paese'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/brasile-lula-banco-master-il-piu-grande-furto-della-storia-del_4025bf25-c8c1-4164-9756-d9a0b6b4f1a5.html",
+      "image": null,
+      "summary": "Il presidente: 'Indagare tutti senza blindare nessuno, anche se fa male'",
+      "date": "2026-09-04T00:52:14.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:119dc30357e7",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Brasile, Moraes accusa Mendonça di reati e chiede a Fachin provvedimenti contro di lui",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/brasile-moraes-accusa-mendonca-di-reati-e-chiede-a-fachin-provvedimenti-contro-di-lui_eab988b9-b4b7-4eb8-af61-762a8054bfcc.html",
+      "image": null,
+      "summary": "Il giudice della Corte suprema cita 'forti indizi' di abuso d'autorità e altri reati",
+      "date": "2026-09-04T00:21:36.0000000Z"
+    },
     {
       "id": "ansa-mondo:95bbea833d20",
       "sourceId": "ansa-mondo",
@@ -97,54 +157,6 @@
       "image": null,
       "summary": "Quattro società americane non ci saranno, voci di pressioni della Casa Bianca",
       "date": "2026-09-03T18:01:51.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:079e833a5ac4",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Ben-Gvir presenta piano per 'incoraggiamento dell'emigrazione da Gaza'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/03/ben-gvir-presenta-piano-per-incoraggiamento-dellemigrazione-da-gaza_0ca89764-d69b-400e-9a11-a6d66b61e26a.html",
-      "image": null,
-      "summary": "Parte del suo programma elettorale in vista delle legislative del 27 ottobre",
-      "date": "2026-09-03T18:00:42.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:de3ca81a3403",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Vucic, 'si prevedono decine di migliaia di persone ai funerali di Mladic'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/03/vucic-si-prevedono-decine-di-migliaia-di-persone-ai-funerali-di-mladic_a442d873-f226-4e7c-a1e4-499c0cf0b075.html",
-      "image": null,
-      "summary": "'Lo dicono i servizi. Sarà una sfida mantenere la sicurezza per tutti'",
-      "date": "2026-09-03T18:00:04.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:3815a7abe131",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Maria Bartiromo lascia Fox dopo oltre 12 anni",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/03/maria-bartiromo-lascia-fox-dopo-oltre-12-anni_a62e8fa9-2ce6-4e24-aa94-08767097dfa4.html",
-      "image": null,
-      "summary": "L'annuncio a sorpresa del network, è una delle giornaliste preferite di Trump",
-      "date": "2026-09-03T17:58:36.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:c45950babc1d",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Colombia, rimossi vincoli all'attività mineraria e petrolifera in dieci distretti",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/03/colombia-rimossi-vincoli-allattivita-mineraria-e-petrolifera-in-dieci-distretti_f8a2dc83-3925-4289-a1d4-b8f39866557f.html",
-      "image": null,
-      "summary": "Ministra Arboleda, vogliamo rilanciare investimenti ed esplorazione",
-      "date": "2026-09-03T17:54:08.0000000Z"
     },
     {
       "id": "internazionale:71b55b4f7863",
@@ -276,18 +288,6 @@
       "url": "https://www.internazionale.it/magazine/2026/09/03/un-voto-fondamentale",
       "image": "https://media.internazionale.it/images/2026/09/02/357544-hd.jpg",
       "summary": "Le elezioni locali in Sassonia-Anhalt del 6 settembre potrebbero avere un’importanza storica. Secondo gli ultimi sondaggi il partito di estrema destra Alternative für Deutsch­land… Leggi",
-      "date": "2026-09-03T10:00:00.0000000Z"
-    },
-    {
-      "id": "internazionale:4ecf71b9f3eb",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Il punto debole di Benjamin Netanyahu",
-      "url": "https://www.internazionale.it/magazine/meron-rapoport/2026/09/03/il-punto-debole-di-benjamin-netanyahu",
-      "image": "https://media.internazionale.it/images/2026/09/02/357537-hd.jpg",
-      "summary": "La promessa della “vittoria totale” ha tenuto al potere la coalizione del primo ministro israeliano dopo il 7 ottobre 2023. Alle prossime elezioni potrebbe portare alla sua caduta Leggi",
       "date": "2026-09-03T10:00:00.0000000Z"
     }
   ]
