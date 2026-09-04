@@ -1,7 +1,103 @@
 {
   "category": "arte",
-  "updated": "2026-09-04T04:48:21.7549671Z",
+  "updated": "2026-09-04T09:08:15.3619615Z",
   "items": [
+    {
+      "id": "artribune:4d2d43c962ee",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "A Genova l’arte entra nel porto per raccontare la macchina invisibile del commercio globale",
+      "url": "https://www.artribune.com/arti-visive/2026/09/genova-palazzo-ducale-installazione/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/slz3933npoe.jpg",
+      "summary": "A Palazzo Ducale “Ninety Percent of Everything”, il progetto di U-BOOT Lab trasforma dati, suoni e immagini raccolti durante una residenza nel porto di Genova in un’installazione sulla crisi climatica e sulle infrastr...",
+      "date": "2026-09-04T09:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:beaee2ba5fca",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Ecco perché Villa Adriana sembra progettata per essere un set cinematografico",
+      "url": "https://www.artribune.com/arti-performative/cinema/2026/09/villa-adriana-cinema-opinioni/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/va-teatro-marittimo.jpg",
+      "summary": "Adriano regista? Villa Adriana a Tivoli sembra essere stata progettata per essere scelta dai filmmaker, agendo fin dalle origini come un set immateriale proiettato nel tempo L’articolo \" Ecco perché Villa Adriana semb...",
+      "date": "2026-09-04T08:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:81fe2866986f",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "La villa più grande del mondo è una città privata di 27 piani costruita come un grattacielo",
+      "url": "https://www.elledecor.com/it/case/a73609315/villa-piu-grande-del-mondo/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/6fe9cfd8-689c-4e73-b213-c20d5b4ab943.jpeg",
+      "summary": "A Mumbai, Antilia impila garage, spa, teatro, giardini e residenze in 173 metri d’altezza, trasformando la casa degli Ambani in una città verticale privata",
+      "date": "2026-09-04T07:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:5000123bb55f",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il turismo culturale comincia esattamente quando si rallenta. Spiega l’alpinista Hervé Barmasse in questa intervista",
+      "url": "https://www.artribune.com/professioni-e-professionisti/who-is-who/2026/09/intervista-herve-barmasse-turismo-lento/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/herve-barmasse-in-avvicinamento-allortler-endurance-italiacrediti-immagine-valentina-celestejpg-scaled.jpg",
+      "summary": "C'è un'Italia che resta fuori dai grandi itinerari turistici e che si rivela solo a chi sceglie di rallentare. È quella che Hervé Barmasse ha attraversato con Endurance – Italia, un viaggio senza motori che diventa il...",
+      "date": "2026-09-04T07:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:3c6a2bec5a4c",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Color carta da zucchero: gli abbinamenti più belli per pareti e arredamento",
+      "url": "https://www.elledecor.com/it/lifestyle/a38733017/colore-carta-da-zucchero-6-colori-per-creare-i-giusti-abbinamenti/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/rendering-exhibition-background-royalty-free-image-1641900649.jpg",
+      "summary": "Le tonalità più particolari con cui abbinare l’azzurro polvere e arredare ogni stanza della casa",
+      "date": "2026-09-04T06:48:00.0000000Z"
+    },
+    {
+      "id": "elledecor:03eac5b9ae18",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Questa lampada di Frank Lloyd Wright è fra le opere più costose al mondo, battuta all'asta per 7,5 milioni",
+      "url": "https://www.elledecor.com/it/design/a64875540/lampada-piu-costosa-al-mondo/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/frank-lloyd-wright-a-lamp-for-the-ages-1-6824ac11d7b94.jpg",
+      "summary": "La doppia lampada progettata nel 1903 per la Dana-Thomas House è fra gli arredi più costosi mai venduti",
+      "date": "2026-09-04T06:09:00.0000000Z"
+    },
+    {
+      "id": "elledecor:80ecc7964e05",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Una casa in un palazzo antico di Salerno fa spazio a una scala elicoidale che è un passaggio emotivo",
+      "url": "https://www.elledecor.com/it/case/a73534630/casa-palazzo-antico-salerno/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f6301414-4953-4760-8db0-86e9ccb1dfdc.jpg",
+      "summary": "Lo studio AT+C & Partners, fondato dagli architetti Angelo Telese e Chiara Di Napoli, ha progettato questo appartamento per una coppia di giovani imprenditori",
+      "date": "2026-09-04T06:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:dc315046327d",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Arredare la camera da letto è un esercizio di proporzioni che parte dalla posizione del letto",
+      "url": "https://www.elledecor.com/it/lifestyle/a73568616/dove-mettere-letto-camera-da-letto-piccola/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5ddce873-2639-4387-adde-5e6282c0a815.jpg",
+      "summary": "La disposizione degli arredi può cambiare la percezione dello spazio e far sembrare anche una camera piccola più ampia, ordinata e raffinata",
+      "date": "2026-09-04T05:00:00.0000000Z"
+    },
     {
       "id": "artribune:9edc53c5448a",
       "sourceId": "artribune",
@@ -75,6 +171,18 @@
       "date": "2026-09-03T15:00:00.0000000Z"
     },
     {
+      "id": "elledecor:c93fbaec8edf",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Questo attico racconta un abitare mediterraneo costruito intorno alla luce e al paesaggio",
+      "url": "https://www.elledecor.com/it/case/a73568697/attico-mediterraneo-bellissimo/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/784fb228-6f36-4f48-903f-114687c7a1fd.jpg",
+      "summary": "Room 1804 Design disegna interni aperti verso l’esterno, tra archi, materia, colore e terrazze che seguono il ritmo del giorno",
+      "date": "2026-09-03T14:30:00.0000000Z"
+    },
+    {
       "id": "artribune:ddf396e09456",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -85,30 +193,6 @@
       "image": "https://www.artribune.com/wp-content/uploads/2026/09/casa-pierre-cardin.jpg",
       "summary": "Ca’ Bragadin apre le sue porte e restituisce alla città gli spazi privati in cui lo stilista francese di origini italiane Pierre Cardin ha vissuto, progettato e immaginato il futuro della moda L’articolo \" La casa di ...",
       "date": "2026-09-03T14:30:00.0000000Z"
-    },
-    {
-      "id": "elledecor:c93fbaec8edf",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Questo attico racconta un abitare mediterraneo costruito intorno alla luce e al paesaggio",
-      "url": "https://www.elledecor.com/it/case/a73568697/attico-mediterraneo-bellissimo/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/784fb228-6f36-4f48-903f-114687c7a1fd.jpg",
-      "summary": "A La Zambra, Room 1804 Design disegna interni aperti verso l’esterno, tra archi, materia, colore e terrazze che seguono il ritmo del giorno",
-      "date": "2026-09-03T14:30:00.0000000Z"
-    },
-    {
-      "id": "elledecor:79e605d0ad08",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Come sarà Cersaie 2026: 5 giorni per immaginare il futuro della materia e la casa di domani",
-      "url": "https://www.elledecor.com/it/design/a73581973/come-sara-cersaie-2026-guida-cosa-vedere/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/b6f148f2-d00b-441a-9f93-7a4cdc01cc44.jpg",
-      "summary": "A Bologna torna la manifestazione internazionale che ogni anno anticipa tendenze, materiali e linguaggi del progetto. Ecco il calendario di incontri, lectio e conversazioni da non perdere",
-      "date": "2026-09-03T14:00:00.0000000Z"
     },
     {
       "id": "artribune:c3a248157ac6",
@@ -123,16 +207,16 @@
       "date": "2026-09-03T14:00:00.0000000Z"
     },
     {
-      "id": "artribune:d1bee6dc8b64",
-      "sourceId": "artribune",
-      "source": "Artribune",
+      "id": "elledecor:79e605d0ad08",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
       "platform": "rss",
       "category": "arte",
-      "title": "A Roma riapre dopo un decennio il Circolo degli Artisti. Cultura nel giardino, poi il bando per la gestione",
-      "url": "https://www.artribune.com/arti-performative/2026/09/spaziotempo-ex-circolo-degli-artisti-roma/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/lingresso-dellex-circolo-degli-artisti-a-roma.jpg",
-      "summary": "Dal 4 settembre al 30 ottobre 2026, negli spazi esterni di Via Casilina Vecchia 42, un nuovo progetto culturale multidisciplinare prova a restituire alla città un luogo di incontro tra musica, arti, formazione e socia...",
-      "date": "2026-09-03T13:00:00.0000000Z"
+      "title": "Come sarà Cersaie 2026: 5 giorni per immaginare il futuro della materia e la casa di domani",
+      "url": "https://www.elledecor.com/it/design/a73581973/come-sara-cersaie-2026-guida-cosa-vedere/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/b6f148f2-d00b-441a-9f93-7a4cdc01cc44.jpg",
+      "summary": "A Bologna torna la manifestazione internazionale che ogni anno anticipa tendenze, materiali e linguaggi del progetto. Ecco il calendario di incontri, lectio e conversazioni da non perdere",
+      "date": "2026-09-03T14:00:00.0000000Z"
     },
     {
       "id": "elledecor:e903753c2703",
@@ -145,30 +229,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/57c4c17a-9a35-43df-a3c4-6a19c6bdbe05.jpeg",
       "summary": "Un intervento durato appena un giorno ha riattivato il suolo e favorito il ritorno della vegetazione, lasciando effetti ancora visibili oltre quarant’anni dopo",
       "date": "2026-09-03T13:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:8951a5975b4e",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Il design non vuole più farsi chiamare “collectible?” In Toscana la mostra che mette in discussione l’etichetta",
-      "url": "https://www.artribune.com/progettazione/design/2026/09/costantino-gucci-vestigia/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/costantino-gucci-altera-1-scaled-e1788442320373.jpg",
-      "summary": "L’artista Costantino Gucci ci racconta Don’t Call Me Collectible!, l’edizione 2026 del progetto che, a cura di Cosimo Bonciani, porta il design negli spazi aperti di Villa Marie, con opere di oltre venti artisti, desi...",
-      "date": "2026-09-03T12:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:251cc45b7b07",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Viaggio botanico: l’Italia da scoprire attraverso piante, giardini e paesaggi tra castelli e parchi storici",
-      "url": "https://www.artribune.com/turismo/2026/09/festival-botanici-giardini-e-paesaggi-guida-settembre-2026/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/il-castello-di-grazzano-ospita-verde-grazzano-crediti-verde-grazzano-scaled.jpg",
-      "summary": "A settembre, importanti festival botanici invitano a conoscere fiori e piante rare, incontrare esperti e visitare ville storiche, castelli, parchi e giardini. Una guida agli appuntamenti del 2026 L’articolo \" Viaggio ...",
-      "date": "2026-09-03T11:00:00.0000000Z"
     },
     {
       "id": "elledecor:e713f4886d9a",
@@ -205,66 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/e79e754c-c0a6-494d-b77d-f34924d7e434.jpeg",
       "summary": "La Piramide Cestia torna accessibile dopo il restauro con aperture gratuite diurne e serali, nuove luci e un percorso che conduce nel cuore del monumento",
       "date": "2026-09-03T07:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:a80facb674ed",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Uno fra gli appartamenti più alti del mondo è un super attico di New York da 250milioni di dollari",
-      "url": "https://www.elledecor.com/it/case/a41275266/appartamento-piu-alto-del-mondo-250-milioni-di-dollari/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/cpt-ph-sunset-over-central-park-2-photo-credit-cody-boone-serhant-studios-1663579494.jpg",
-      "summary": "Un triplex che si estende dal 129° al 131° piano del grattacielo e copre una superficie di oltre 1600 metri quadri",
-      "date": "2026-09-03T06:50:00.0000000Z"
-    },
-    {
-      "id": "elledecor:62f1c6d53e40",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Una casa a Palermo dentro un palazzo storico vicino a via Libertà è un gioco di archi e prospettive",
-      "url": "https://www.elledecor.com/it/case/a73523052/casa-a-palermo-palazzo-storico-via-liberta/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/73cc4582-f7ef-499a-9816-48d8387eeadc.jpg",
-      "summary": "Un pavimento in marmo bianco e nero rilegge le geometrie Art Déco, con vetri originali trovati durante i lavori tornano nelle porte ad arco",
-      "date": "2026-09-03T06:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:2acc4cd40871",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Il metodo dei 9 punti per fare decluttering e rimettere ordine in casa in un solo weekend",
-      "url": "https://www.elledecor.com/it/lifestyle/a73568598/decluttering-facile-in-un-weekend/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d0f2a9eb-ce93-407d-9ce8-d0d0ba024d48.jpeg",
-      "summary": "Un programma semplice da seguire tra cassetti, armadi e superfici per liberarsi del superfluo, organizzare ciò che resta e mantenere più facilmente ogni ambiente in ordine",
-      "date": "2026-09-03T05:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:26b04dfa3a8f",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Arredare con il legno è un esercizio che reinventa l'abitare con un disegno su misura",
-      "url": "https://www.elledecor.com/it/case/a73568660/case-bellissime-arredare-con-legno/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/055ead79-a617-4a4f-99f5-dbf908d0f24d.jpeg",
-      "summary": "Falegnamerie integrate, arredi disegnati ad hoc e soluzioni costruite intorno allo spazio mostrano come il legno possa diventare una vera architettura domestica",
-      "date": "2026-09-02T14:30:00.0000000Z"
-    },
-    {
-      "id": "elledecor:fda57b3dc80b",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Le infradito più famose dell’estate aggiungono i tacchi e disegnano una nuova eleganza in spiaggia",
-      "url": "https://www.elledecor.com/it/lifestyle/a73434880/infradito-tacchi-havaianas/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/f809f9ad-38ee-48d5-96d8-2d02c4eb3599.jpeg",
-      "summary": "Kitten heel e sabbia, ed è già tendenza",
-      "date": "2026-09-02T14:00:00.0000000Z"
     }
   ]
 }
