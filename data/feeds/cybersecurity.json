@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-04T09:08:15.3601334Z",
+  "updated": "2026-09-04T13:32:25.9353432Z",
   "items": [
+    {
+      "id": "cybersecurity360:28496cbbdfc2",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Gestione delle credenziali e architetture Zero-Knowledge: come Proton Pass integra crittografia E2EE, alias email e Passkey contro il phishing",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/proton-pass-gestione-password-zero-knowledge-e2ee-passkey/",
+      "image": null,
+      "summary": "Proton Pass propone il piano Plus annuale a 2,49 euro al mese per i primi 12 mesi. L'offerta include gestione E2EE delle credenziali, alias email, 2FA integrata, monitoraggio del Dark Web e supporto alle Passkey L'art...",
+      "date": "2026-09-04T10:44:21.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:a2a73911e4b0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Control Gap dell’AI: la corsa all’adozione lascia i dati vulnerabili",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/control-gap-ai-claude-mythos/",
+      "image": null,
+      "summary": "Con il debutto di Claude Mythos, il tempo che intercorre tra la scoperta di una vulnerabilità e la compromissione attiva (con accessi non autorizzati) si sta azzerando. Ecco cosa implica il fatto che la velocità delle...",
+      "date": "2026-09-04T10:06:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:6c746b7e0eb8",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Server Exchange, cinque scudi per la posta elettronica",
+      "url": "https://www.cybersecurity360.it/outlook/server-exchange-cinque-scudi/",
+      "image": null,
+      "summary": "La sicurezza dei server Exchange dipende dalla capacità di ridurne l’esposizione, correggere rapidamente le vulnerabilità e riconoscere un’intrusione già avvenuta. Di cosa tenere conto e quali strumenti sono d’aiuto L...",
+      "date": "2026-09-04T09:10:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:760d653640ec",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Norton 360 integra strumenti contro malware, ransomware, truffe online e deepfake. La protezione anti-truffa sfrutta l’intelligenza artificiale, mentre i piani superiori aggiungono VPN, backup cloud, monitoraggio del ...",
       "date": "2026-09-03T07:39:43.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a72dafb3e73e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Zero Trust 2.0 e Identity-First Security: l’identità diventa il nuovo perimetro",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/zero-trust-2-0-e-identity-first-security-lidentita-diventa-il-nuovo-perimetro/",
-      "image": null,
-      "summary": "L’identità non è più una funzione tecnica confinata all’IAM, ma un elemento strategico della resilienza cyber. Zero Trust 2.0 e Identity-First Security integrano accessi, privilegi, governance e threat detection in un...",
-      "date": "2026-09-03T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:e0664f194af7",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Zero-click su WhatsApp per iOS: a rischio i vecchi iPhone non aggiornati, ma Meta deve fare di più",
-      "url": "https://www.cybersecurity360.it/news/attacchi-zero-click-wehatsapp-ios-iphone-non-aggiornati-come-protegge/",
-      "image": null,
-      "summary": "La Polizia Postale ha pubblicato un documento di allerta sugli attacchi zero-click a Whatsapp, dando finalmente concretezza e istituzionalità a un fenomeno che si trascina da mesi. Ma non si può escludere che l'attacc...",
-      "date": "2026-09-02T13:59:04.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:14a6fe00b561",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Claude Fable 5.1 e Mythos 5.1: l’AI alza il livello nella cyber, ma Anthropic ne limita le capacità",
-      "url": "https://www.cybersecurity360.it/news/claude-fable-5-1-e-mythos-5-1-lai-alza-il-livello-nella-cyber-ma-anthropic-ne-limita-le-capacita/",
-      "image": null,
-      "summary": "Anthropic presenta Claude Fable 5.1 e Mythos 5.1: stesso modello, ma differenti livelli di sicurezza. Le capacità cyber aumentano fino alla ricerca di vulnerabilità, mentre penetration testing ed exploit generation re...",
-      "date": "2026-09-02T12:07:43.0000000Z"
     }
   ]
 }
