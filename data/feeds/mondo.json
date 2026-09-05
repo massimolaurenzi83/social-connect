@@ -1,7 +1,19 @@
 {
   "category": "mondo",
-  "updated": "2026-09-04T23:25:11.5224553Z",
+  "updated": "2026-09-05T01:15:21.1456149Z",
   "items": [
+    {
+      "id": "ansa-mondo:70aba549a350",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Uruguay, nuova emergenza sanitaria per l'influenza aviaria",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/05/uruguay-nuova-emergenza-sanitaria-per-linfluenza-aviaria_7094d627-4fec-4bad-8a9b-f8df60a7127b.html",
+      "image": null,
+      "summary": "Rilevato il virus H5 in pollame domestico nel dipartimento di Colonia",
+      "date": "2026-09-05T01:01:07.0000000Z"
+    },
     {
       "id": "ansa-mondo:e6c6ce3756bf",
       "sourceId": "ansa-mondo",
@@ -135,18 +147,6 @@
       "date": "2026-09-04T18:05:50.0000000Z"
     },
     {
-      "id": "ansa-mondo:688da8666239",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Rallenta l'inflazione in Venezuela, ad agosto +8,9% su mese",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/04/rallenta-linflazione-in-venezuela-ad-agosto-89-su-mese_518187d2-ead4-44d9-86b9-9cadd079025b.html",
-      "image": null,
-      "summary": "'Passato l'impatto del terremoto sull'economia', ma il tasso annuo rimane oltre il 500%",
-      "date": "2026-09-04T17:51:11.0000000Z"
-    },
-    {
       "id": "internazionale:e09a90768773",
       "sourceId": "internazionale",
       "source": "Internazionale",
@@ -243,6 +243,18 @@
       "date": "2026-09-03T10:05:52.0000000Z"
     },
     {
+      "id": "internazionale:d6879dc1174b",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "La scelta di Carmen",
+      "url": "https://www.internazionale.it/magazine/claudio-rossi-marcelli/2026/09/03/la-scelta-di-carmen",
+      "image": "https://media.internazionale.it/images/2026/09/03/357744-hd.jpg",
+      "summary": "Sono incinta del mio primo figlio a 47 anni ma, accanto alla gioia per questa gravidanza molto cercata, c’è la delusione di sentire il peso dello sguardo, se non l’esplicito… Leggi",
+      "date": "2026-09-03T10:00:00.0000000Z"
+    },
+    {
       "id": "internazionale:8e07031e56e4",
       "sourceId": "internazionale",
       "source": "Internazionale",
@@ -264,18 +276,6 @@
       "url": "https://www.internazionale.it/magazine/2026/09/03/la-posta-del-numero-1681",
       "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
       "summary": "◆ In riferimento al lavoro fotografico di Yufan Lu (Internazionale 1680) oggi le donne devono avere visi scolpiti chirurgicamente che sempre più ricordano bambine bioniche:… Leggi",
-      "date": "2026-09-03T10:00:00.0000000Z"
-    },
-    {
-      "id": "internazionale:d6879dc1174b",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "La scelta di Carmen",
-      "url": "https://www.internazionale.it/magazine/claudio-rossi-marcelli/2026/09/03/la-scelta-di-carmen",
-      "image": "https://media.internazionale.it/images/2026/09/03/357744-hd.jpg",
-      "summary": "Sono incinta del mio primo figlio a 47 anni ma, accanto alla gioia per questa gravidanza molto cercata, c’è la delusione di sentire il peso dello sguardo, se non l’esplicito… Leggi",
       "date": "2026-09-03T10:00:00.0000000Z"
     },
     {
