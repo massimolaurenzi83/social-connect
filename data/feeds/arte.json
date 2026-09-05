@@ -1,7 +1,19 @@
 {
   "category": "arte",
-  "updated": "2026-09-05T18:10:31.0546104Z",
+  "updated": "2026-09-05T20:21:30.9772942Z",
   "items": [
+    {
+      "id": "artribune:9e6e7237b7af",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Fernanda Wittgens, il ritratto impossibile: il film sulla prima direttrice di Brera",
+      "url": "https://www.artribune.com/arti-performative/cinema/2026/09/film-venezia-2026-fernanda-wittgens/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/anatomia-di-un-ritratto-cover-1.jpg",
+      "summary": "Poche fotografie, cinque secondi di filmato e un corpus di lettere. Da questa assenza nasce Anatomia di un ritratto, il film di Mattia Colombo e Francesco Clerici che ricostruisce, senza trasformarla in un biopic trad...",
+      "date": "2026-09-05T19:00:00.0000000Z"
+    },
     {
       "id": "artribune:8eeaca88aff4",
       "sourceId": "artribune",
@@ -27,18 +39,6 @@
       "date": "2026-09-05T14:30:00.0000000Z"
     },
     {
-      "id": "elledecor:4923d81cb848",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Questo fiore (tecnologico) si apre e chiude per segnalare la qualità dell'aria dentro casa",
-      "url": "https://www.elledecor.com/it/tech/novita/a73584537/fiore-tecnologico-che-si-apre-per-segnalare-la-qualita-aria/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/69f748e7-91a6-4bce-929e-e419ca9bd826.jpeg",
-      "summary": "Bloomie è un progetto che abbina ecologia, design e sostenibilità, un sensore con petali che reagiscono all'ambiente",
-      "date": "2026-09-05T14:00:00.0000000Z"
-    },
-    {
       "id": "artribune:f534e445ac47",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -51,16 +51,16 @@
       "date": "2026-09-05T14:00:00.0000000Z"
     },
     {
-      "id": "elledecor:0663ccfae0eb",
+      "id": "elledecor:4923d81cb848",
       "sourceId": "elledecor",
       "source": "Elle Decor",
       "platform": "rss",
       "category": "arte",
-      "title": "Lo stile “casa della nonna” torna di moda con 4 oggetti vintage per la camera da letto",
-      "url": "https://www.elledecor.com/it/lifestyle/a73568686/oggetti-vintage-casa-della-nonna-per-la-camera-da-letto/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/6f16d5df-5a60-4620-9cc4-d909ea01d5d3.jpeg",
-      "summary": "Trapunte, lenzuola floreali, copripiumini e cuscini decorativi riportano nell’abitare contemporaneo il fascino nostalgico dello stile che contraddistingueva le case delle nonne",
-      "date": "2026-09-05T13:00:00.0000000Z"
+      "title": "Questo fiore (tecnologico) si apre e chiude per segnalare la qualità dell'aria dentro casa",
+      "url": "https://www.elledecor.com/it/tech/novita/a73584537/fiore-tecnologico-che-si-apre-per-segnalare-la-qualita-aria/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/69f748e7-91a6-4bce-929e-e419ca9bd826.jpeg",
+      "summary": "Bloomie è un progetto che abbina ecologia, design e sostenibilità, un sensore con petali che reagiscono all'ambiente",
+      "date": "2026-09-05T14:00:00.0000000Z"
     },
     {
       "id": "artribune:a0968e5e4c9d",
@@ -72,6 +72,18 @@
       "url": "https://www.artribune.com/progettazione/architettura/2026/09/newsletter-render-anticipazioni-7-settembre-rigenerazione-urbana/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/09/ferrier-marchetti-studio-la-tuilerie-cultural-centre-in-limoux-photo-cferrier-marchetti-studio-et-luc-boegly-1.jpg",
       "summary": "Lunedì 7 settembre riprendono le pubblicazioni di Artribune Render, la newsletter che ogni due settimane fa il punto sulla rigenerazione urbana e culturale e sulla scena architettonica contemporanea in un’ottica non s...",
+      "date": "2026-09-05T13:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:0663ccfae0eb",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Lo stile “casa della nonna” torna di moda con 4 oggetti vintage per la camera da letto",
+      "url": "https://www.elledecor.com/it/lifestyle/a73568686/oggetti-vintage-casa-della-nonna-per-la-camera-da-letto/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/6f16d5df-5a60-4620-9cc4-d909ea01d5d3.jpeg",
+      "summary": "Trapunte, lenzuola floreali, copripiumini e cuscini decorativi riportano nell’abitare contemporaneo il fascino nostalgico dello stile che contraddistingueva le case delle nonne",
       "date": "2026-09-05T13:00:00.0000000Z"
     },
     {
@@ -205,18 +217,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/3d119d34-45c7-42ef-be1d-e7dbd1094f5a.jpeg",
       "summary": "Così gli oggetti più comuni del passato possano diventare piccole ossessioni da mercatino",
       "date": "2026-09-05T05:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:32a1423638c5",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "A Düsseldorf e Colonia aprono 50 gallerie in simultanea per un weekend (una italiana diventa studio d’artista)",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/09/dusseldorf-colonia-art-weekend-dc-open/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/la-nuova-sede-a-dusseldorf-della-rizzutogallery.jpg",
-      "summary": "Weekend caldo nelle due importanti città tedesche: il mondo dell’arte dà il via alla stagione con un mega opening collettivo. E c’è anche una galleria (che arriva da Palermo) che per questa edizione sceglie un evento ...",
-      "date": "2026-09-04T21:30:00.0000000Z"
     },
     {
       "id": "elledecor:eb9d4dd1c539",
