@@ -1,7 +1,91 @@
 {
   "category": "cronaca",
-  "updated": "2026-09-05T05:51:32.7805966Z",
+  "updated": "2026-09-05T09:36:09.6431772Z",
   "items": [
+    {
+      "id": "ansa-cronaca:c7622fbac139",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Un giro di notte con il trattore insieme agli amici, muore un 23enne",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/un-giro-di-notte-con-il-trattore-insieme-agli-amici-muore-un-23enne_edf11c46-5d58-4694-8a23-3f682b4c958c.html",
+      "image": null,
+      "summary": "E' rimasto schiacciato dalla macchina agricola che si è ribaltata",
+      "date": "2026-09-05T09:28:25.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:7c513b13f38d",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Investe una 24enne e fugge, la vittima è in gravi condizioni",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/investe-una-24enne-e-fugge-la-vittima-e-in-gravi-condizioni_f6a6adbc-8b2f-41f4-8d70-8e91dcdbe652.html",
+      "image": null,
+      "summary": "L'incidente a Napoli, ferita una studentessa di Lecce",
+      "date": "2026-09-05T09:01:33.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:628a73068e66",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Dispersa sul Cervino, avviate le ricerche su una scheda telefonica",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/dispersa-sul-cervino-ricerche-su-una-scheda-telefonica_5e181b60-84b6-4290-bbe0-643c8334b7a4.html",
+      "image": null,
+      "summary": "Una cordata polacca l'ha vista sotto il Pic Tyndall",
+      "date": "2026-09-05T08:58:27.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:66918050b456",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Epstein, indagine della procura di Roma sugli italiani nei file",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/epstein-indagine-della-procura-di-roma-sugli-italiani-nei-file_6dcc5868-0257-4aa9-b33d-f0c8fb83b801.html",
+      "image": null,
+      "summary": "Rogatoria per chiedere agli Usa gli atti segreti",
+      "date": "2026-09-05T08:54:13.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:27830ab6f245",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Agguato a Udine, è caccia all'uomo in città e dintorni",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/agguato-a-udine-e-caccia-alluomo-in-citta-e-dintorni_bae02387-a324-4f87-af3a-b230f15a0bf1.html",
+      "image": null,
+      "summary": "Da ieri sera ricerche condotte ininterrottamente",
+      "date": "2026-09-05T08:42:19.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:298833bb868c",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Indagine della procura di Roma sugli italiani negli Epstein files",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/indagine-della-procura-di-roma-sugli-italiani-negli-epstein-files_144afa36-da50-4944-a016-c834cf475473.html",
+      "image": null,
+      "summary": "Rogatoria per chiedere agli Usa gli atti segreti, per l'ipotesi di violenza sessuale",
+      "date": "2026-09-05T08:13:22.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:bc24cc1fbb38",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Vona rosso sull'Etna, tolte restrizioni atterraggi a Catania e Comiso",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/vona-rosso-sulletna-tolte-restrizioni-atterraggi-a-catania-e-comiso_d532dba8-fd3c-4b39-b9fc-1307740ad739.html",
+      "image": null,
+      "summary": "Continua emissione di cenere, tremore vulcanico su valori medio-bassi",
+      "date": "2026-09-05T06:48:29.0000000Z"
+    },
     {
       "id": "ansa-cronaca:c687a1146c8b",
       "sourceId": "ansa-cronaca",
@@ -13,30 +97,6 @@
       "image": null,
       "summary": "La morte della madre e le tensioni con il figlio adolescente alla base dei fatti",
       "date": "2026-09-04T22:51:51.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:d10fbe9d8049",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Younes è in Italia: 'Averlo qui è come aver vinto la Champions'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/younes-e-in-italia-averlo-qui-e-come-aver-vinto-la-champions_fabc4ba6-1767-4843-8d92-2a561a3252f7.html",
-      "image": null,
-      "summary": "Il bimbo gravemente ferito a Sharm è in terapia intensiva a Torino, 'battaglia dura'",
-      "date": "2026-09-04T22:49:07.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:6bd4d2c5866f",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Il femminicidio di Lorena: 'Aveva paura ma non voleva denunciarlo'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/il-femminicidio-di-lorena-la-madre-aveva-paura-di-lui_42a061ec-c92c-4861-8e36-aa8e1be40ff1.html",
-      "image": null,
-      "summary": "La madre: 'Temeva di danneggiarlo'. Vella aveva premeditato tutto. Il suicidio in un video",
-      "date": "2026-09-04T22:45:02.0000000Z"
     },
     {
       "id": "ansa-cronaca:0716f6c2a30e",
@@ -75,18 +135,6 @@
       "date": "2026-09-04T20:03:05.0000000Z"
     },
     {
-      "id": "ansa-cronaca:237753818a6f",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Preparavano ordigni per assalti a bancomat, 2 morti ad Andria",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/preparavano-ordigni-per-assalti-a-bancomat-2-morti-ad-andria_9421b68e-08c5-48ef-b43d-a8bf5fc78b5c.html",
-      "image": null,
-      "summary": "I corpi trovati vicino ad una villetta, maneggiavano esplosivo. Indagano i Carabinieri",
-      "date": "2026-09-04T19:47:47.0000000Z"
-    },
-    {
       "id": "ansa-cronaca:b394f3d03d7a",
       "sourceId": "ansa-cronaca",
       "source": "ANSA Cronaca",
@@ -97,54 +145,6 @@
       "image": null,
       "summary": "'Bella ciao' e slogan contro Meloni e governo, qualche fermo preventivo. I manifesti di FnV",
       "date": "2026-09-04T19:25:03.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:4c442bdb0768",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Nel Trevigiano una donna contagiata da dengue dopo il rientro dallo Sri Lanka",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/nel-trevigiano-una-donna-contagiata-da-dengue-dopo-il-rientro-dallo-sri_92ac00c4-3b94-4238-b531-103d67e510ee.html",
-      "image": null,
-      "summary": "L'Ulss 2 ha attivato le procedure di disinfestazione, 5 i casi nel 2026",
-      "date": "2026-09-04T18:35:15.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:886c54d7c055",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Si tuffa in un laghetto per la pesca e muore annegato in Polesine",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/si-tuffa-in-un-laghetto-per-la-pesca-e-muore-annegato-in-polesine_a7179b58-9e8a-43d8-942d-e6ec5c5c3416.html",
-      "image": null,
-      "summary": "L'incidente durante una festa",
-      "date": "2026-09-04T18:31:44.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:ca91ce437a7d",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Sempio declina l'invito: 'Non incontrerò il consulente psichiatrico dei pm'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/sempio-declina-linvito-non-incontrero-il-consulente-psichiatrico-dei-pm_4daaef75-2f4d-4566-83d2-766377cbd726.html",
-      "image": null,
-      "summary": "La difesa: 'Non si vuole sottrarre a esame. Semmai va fatto in contradditorio con la perizia'",
-      "date": "2026-09-04T18:17:36.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:96ba56d0aa16",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Al via l'ultimo controesodo, da mercoledì giù le temperature",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/al-via-lultimo-controesodo-da-mercoledi-giu-le-temperature_5139f363-b585-41b1-8e0c-1659bbd732bf.html",
-      "image": null,
-      "summary": "Sabato e domenica 27 milioni di veicoli su strade. Sesta ondata di calore agli sgoccioli",
-      "date": "2026-09-04T17:21:35.0000000Z"
     }
   ]
 }
