@@ -1,30 +1,127 @@
 {
   "category": "notizie",
-  "updated": "2026-09-05T01:15:21.1154256Z",
+  "updated": "2026-09-05T05:51:32.7675233Z",
   "items": [
     {
-      "id": "repubblica:5a3854367b93",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
+      "id": "ansa:dce1932feb6e",
+      "sourceId": "ansa",
+      "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Lavitola, la sua nuova verità in 60 pagine",
-      "url": "https://www.repubblica.it/cronaca/2026/09/05/news/lavitola_riesame-425565987/",
+      "title": "Trump manda Witkoff e Kushner da Putin e Zelensky con un piano di pace",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/05/trump-manda-witkoff-e-kushner-da-putin-e-zelensky-con-un-piano-di-pace_2909e7e8-1a6a-4d5b-af61-5ec4cb4d3051.html",
       "image": null,
-      "summary": "Il faccendiere lavora con gli avvocati a un documento da presentare lunedì al Riesame per uscire dal carcere",
-      "date": "2026-09-04T23:00:00.0000000Z"
+      "summary": "Drone sugli 007 di Kiev. Il tycoon: \"La Russia non intende attaccare la Nato\"",
+      "date": "2026-09-05T05:47:31.0000000Z"
     },
     {
-      "id": "repubblica:5e5b235005ab",
+      "id": "open:78016ff81ad8",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "«Tua figlia è morta». L’ultimo messaggio di Federico Vella alla madre di Lorena Isceri, uccisa sulla A1: «È finita»",
+      "url": "https://www.open.online/2026/09/05/femminicidio-lorena-isceri-federico-vella-sms-madre/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/femminicidio-lorena-isceri-messaggio-ferico-vella-madre.jpeg",
+      "summary": "Il messaggio del 36enne dopo aver ucciso la ex compagna e prima di gettarsi dal cavalcavia: le indagini sul femminicidio L'articolo «Tua figlia è morta». L’ultimo messaggio di Federico Vella alla madre di Lorena Iscer...",
+      "date": "2026-09-05T05:38:38.0000000Z"
+    },
+    {
+      "id": "open:1737601c9044",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La famiglia Pavarotti contro Vannacci per il video Ai con la voce del tenore: «Mai autorizzato, ci dissociamo»",
+      "url": "https://www.open.online/2026/09/05/pavarotti-famiglia-contro-roberto-vannacci-video-voce-ai/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/pavarotti-vs-vannacci.jpg",
+      "summary": "Il generale ha postato sui social un video con in sottofondo \"All'alba vincerò\". La nota dei famigliari del tenore: «Nessun consenso» L'articolo La famiglia Pavarotti contro Vannacci per il video Ai con la voce del te...",
+      "date": "2026-09-05T04:40:47.0000000Z"
+    },
+    {
+      "id": "skytg24:gAcKRFUPAEc",
+      "sourceId": "skytg24",
+      "source": "Sky TG24",
+      "platform": "youtube",
+      "category": "notizie",
+      "title": "Speciale Scala, \"L'elisir\" con i giovani dell'Accademia",
+      "url": "https://www.youtube.com/watch?v=gAcKRFUPAEc",
+      "image": "https://i.ytimg.com/vi/gAcKRFUPAEc/hqdefault.jpg",
+      "summary": "",
+      "videoId": "gAcKRFUPAEc",
+      "date": "2026-09-05T04:30:13.0000000Z"
+    },
+    {
+      "id": "repubblica:fb78ef46e113",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Piervincenzi “Il mio Report non farà sconti a nessuno. Io di destra? Non è vero”",
-      "url": "https://www.repubblica.it/cronaca/2026/09/05/news/report_piervincenzi_intervista_ranucci_gabanelli-425565984/",
+      "title": "Palestra, liti, scenate fino all’ultima vacanza in Grecia. “Federico era un violento”",
+      "url": "https://www.repubblica.it/cronaca/2026/09/05/news/palestra_liti_scenate_fino_all_ultima_vacanza_in_grecia_federico_era_un_violento-425566124/",
       "image": null,
-      "summary": "Dopo settimane di polemiche, parla il giornalista che affiancherà Claudia Di Pasquale nella conduzione del programma d’inchiesta di Rai3. “L’intenzione è dare maggior spazio al lavoro degli inviati. Basta personalismi...",
-      "date": "2026-09-04T23:00:00.0000000Z"
+      "summary": "Lavoro e allenamento, pochi amici. E un rapporto tormentato con la vittima. “Lei diceva sempre che da quella storia voleva uscire da sola”",
+      "date": "2026-09-05T04:28:14.0000000Z"
+    },
+    {
+      "id": "repubblica:adca2cde7fa9",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Trump furioso per fughe di notizie, vertici militari del Pentagono sottoposti a test del poligrafo",
+      "url": "https://www.repubblica.it/esteri/2026/09/05/news/pentagono_test_del_poligrafo_macchina_della_verita_fuga_notizie_iran-425566120/",
+      "image": null,
+      "summary": "La reazione della Casa Bianca alle indiscrezioni sulle carenze di missili Patriot causata dal protrarsi della guerra in Iran",
+      "date": "2026-09-05T04:19:20.0000000Z"
+    },
+    {
+      "id": "open:915be42893d4",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Report, Piervincenzi: «Non ho mai pensato di rinunciare. Io di destra? Non è vero. A Ranucci auguro serenità»",
+      "url": "https://www.open.online/2026/09/05/daniele-piervincenzi-intervista-repubblica-report-ranucci/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/piervincenzi-report-conduttore.jpeg",
+      "summary": "Dopo settimane di polemiche, parla a La Repubblica il giornalista che affiancherà Claudia Di Pasquale nella conduzione del programma di Rai3: «Non faremo sconti a nessuno» L'articolo Report, Piervincenzi: «Non ho mai ...",
+      "date": "2026-09-05T04:03:48.0000000Z"
+    },
+    {
+      "id": "repubblica:cc807a769add",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "“La città dei vivi”, Lagioia: “Come Varani, tanti ragazzi senza futuro finiscono in balia del male”",
+      "url": "https://www.repubblica.it/spettacoli/dossier/mostra-del-cinema-di-venezia/2026/09/05/news/la_citta_dei_vivi_intervista_nicola_lagioia-425565382/",
+      "image": null,
+      "summary": "Intervista allo scrittore dopo la visione del film liberamente ispirato al suo romanzo, presentato alla Mostra di Venezia. “Una delle cose più odiose dette dopo la morte di Luca fu che se la fosse andata a cercare. No...",
+      "date": "2026-09-05T03:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:57dd36ac7856",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Nanni Moretti amarcord. Il ritorno a Venezia del sognatore d’oro",
+      "url": "https://www.repubblica.it/spettacoli/dossier/mostra-del-cinema-di-venezia/2026/09/05/news/nanni_moretti_ritorno_venezia_succedera_questa_notte-425565491/",
+      "image": null,
+      "summary": "Oggi il regista presenta, in concorso, il suo nuovo film “Succederà questa notte”",
+      "date": "2026-09-05T03:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:be6c9e339dcb",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Elogio di Serena, Venus e Sorana, donne che sanno invecchiare",
+      "url": "https://www.repubblica.it/sport/rubriche/monday-s-net/2026/09/05/news/elogio_di_serena_venus_e_sorana_donne_che_sanno_invecchiare-425566100/",
+      "image": null,
+      "summary": "",
+      "date": "2026-09-05T02:58:39.0000000Z"
     },
     {
       "id": "repubblica:c01a98ad24b6",
@@ -104,46 +201,10 @@
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Vannacci sbarca a Cernobbio:“Me ne frego delle accuse”",
+      "title": "Vannacci sbarca a Cernobbio: “Me ne frego delle accuse”",
       "url": "https://www.repubblica.it/politica/2026/09/05/news/roberto_vannacci_cernobbio_me_ne_frego-425565959/",
       "image": null,
       "summary": "Il generale da ieri al Forum Ambrosetti, oggi dialoga con Monti: “Qui come al primolancio. Il professore non può bocciarmi”. De Molli, Teha: “Ascolteremo le sue proposte”",
-      "date": "2026-09-04T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:c431d181d576",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Raid russo contro gli di Kiev. Trump: “Putin non colpirà la Nato”",
-      "url": "https://www.repubblica.it/esteri/2026/09/05/news/raid_russo_contro_servizi_segreti_kiev_trump_putin_non_colpira_territori_nato-425565952/",
-      "image": null,
-      "summary": "Il blitz sul palazzo della Sbu alla vigilia della missione nelle due capitali di Witkoff e Kushner. Il presidente statunitense: “Porteranno una proposta per porre fine alle ostilità”",
-      "date": "2026-09-04T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:984a52773093",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "L’esperta: “La guerra ibrida di Mosca serve a spingere l’Europa ad abbandonare l’Ucraina”",
-      "url": "https://www.repubblica.it/esteri/2026/09/05/news/esperta_servizi_segreti_russi_intervista_guerra_ibrida_di_mosca_per_spingere_europa_ad_abbandonare_l_ucraina-425565713/",
-      "image": null,
-      "summary": "Irina Borogan, giornalista investigativa specializzata sui servizi segreti russi: “C’è anche la volontà indebolire la Ue, negoziare con un Paese alla volta è più facile”",
-      "date": "2026-09-04T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:7552a583987e",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Lasciatemi libero di scegliere come sarà il mio fine vita",
-      "url": "https://www.repubblica.it/cronaca/2026/09/05/news/suicidio_assistito_legge_veneto_corrado_augias_commento-425565341/",
-      "image": null,
-      "summary": "Per molti, compreso me, la vera inquietudine non è la morte in sé ma il morire, lì è il vero problema",
       "date": "2026-09-04T23:00:00.0000000Z"
     },
     {
@@ -205,18 +266,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/09/salvini-legge-elettorale-no-ballottaggio.jpg",
       "summary": "Dal palco della Lega Summer Fest di Livorno, il leader leghista chiede un sistema \"one shot\" con premio di maggioranza e preferenze. No all'accorpamento tra Amministrative e Politiche: «Si vota nel 2027» L'articolo Le...",
       "date": "2026-09-04T20:34:12.0000000Z"
-    },
-    {
-      "id": "ansa:ed26f2f34e4c",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Drone sugli 007 di Kiev. Trump, 'Putin non intende attaccare la Nato'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/04/zelensky-un-drone-ha-colpito-il-quartier-generale-dellintelligence_2909e7e8-1a6a-4d5b-af61-5ec4cb4d3051.html",
-      "image": null,
-      "summary": "Il tycoon manda Witkoff e Kushner dallo zar e da Zelensky con una proposta per fine guerra",
-      "date": "2026-09-04T20:33:54.0000000Z"
     },
     {
       "id": "open:bee4269f7d84",
@@ -301,19 +350,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/09/pollo-fritto-tatuaggio.jpg",
       "summary": "Federconsumatori sul piede di guerra. Ma già lo scorso anno si tatuarono in 50, alla stessa fiera e con la stessa nota catena di fast food L'articolo «Pollo fritto gratis a vita se ti tatui il marchio». Polemica al Mo...",
       "date": "2026-09-04T18:42:46.0000000Z"
-    },
-    {
-      "id": "breakingitaly:mwHp1ujGQhw",
-      "sourceId": "breakingitaly",
-      "source": "Breaking Italy",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Prima live della nuova stagione!",
-      "url": "https://www.youtube.com/watch?v=mwHp1ujGQhw",
-      "image": "https://i.ytimg.com/vi/mwHp1ujGQhw/hqdefault.jpg",
-      "summary": "",
-      "videoId": "mwHp1ujGQhw",
-      "date": "2026-09-04T18:12:29.0000000Z"
     },
     {
       "id": "ansa:a0485f16eb1c",
@@ -442,42 +478,6 @@
       "date": "2026-09-04T17:34:44.0000000Z"
     },
     {
-      "id": "open:a11a7b81f857",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "New York, si arrampica sul ponte di Brooklyn e la polizia lo uccide – Il video",
-      "url": "https://www.open.online/2026/09/04/new-york-ponte-brooklyn-uomo-ucciso-polizia-video/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/ponte-brooklyn-uomo-armato-polizia-uccide.jpeg",
-      "summary": "Secondo quanto riferito dalle autorità, l’uomo era armato di un coltello, che avrebbe puntato contro gli agenti intervenuti sul posto L'articolo New York, si arrampica sul ponte di Brooklyn e la polizia lo uccide – Il...",
-      "date": "2026-09-04T17:33:48.0000000Z"
-    },
-    {
-      "id": "open:211aeb891886",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Il discorso di Meloni a Bari: l’affondo sui migranti, i carburanti, il duro attacco alla sinistra. La premier: «Non mollerò mai»",
-      "url": "https://www.open.online/2026/09/04/bari-giorgia-meloni-festa-governo-longevo-diretta/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/meloni-bari-festa-governo-scaled.jpg",
-      "summary": "Dai risultati rivendicati dall’esecutivo allo scontro con l’opposizione, la premier difende i quasi quattro anni a Palazzo Chigi. Fuori dalla piazza centinaia di manifestanti in protesta contro il governo L'articolo I...",
-      "date": "2026-09-04T17:11:21.0000000Z"
-    },
-    {
-      "id": "open:31cd02a1319d",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La rivolta contro i data center arriva in Italia: dal consumo di energia ai timori per l’AI, cosa c’è dietro le proteste",
-      "url": "https://www.open.online/2026/09/04/data-center-proteste-italia-consumi-impatto/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/data-center-proteste-italia-consumi-acqua-energia.jpg",
-      "summary": "Dagli Stati Uniti all’Europa cresce l’opposizione ai nuovi centri dati. Sui consumi di elettricità e acqua, i dati scarseggiano. E in Italia manca una legge ad hoc per il settore L'articolo La rivolta contro i data ce...",
-      "date": "2026-09-04T16:57:26.0000000Z"
-    },
-    {
       "id": "skytg24:36x03D7E4PE",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -504,19 +504,6 @@
       "date": "2026-09-04T16:06:12.0000000Z"
     },
     {
-      "id": "breakingitaly:uXbd--2HTN0",
-      "sourceId": "breakingitaly",
-      "source": "Breaking Italy",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Il futuro di OnlyFans è incerto",
-      "url": "https://www.youtube.com/watch?v=uXbd--2HTN0",
-      "image": "https://i.ytimg.com/vi/uXbd--2HTN0/hqdefault.jpg",
-      "summary": "",
-      "videoId": "uXbd--2HTN0",
-      "date": "2026-09-04T16:00:26.0000000Z"
-    },
-    {
       "id": "ansa:9be553585c8c",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -527,19 +514,6 @@
       "image": null,
       "summary": "Iss, 'come affrontarla: da riposo a dieta, genitori non trasmettano ansie ai figli'",
       "date": "2026-09-04T15:21:27.0000000Z"
-    },
-    {
-      "id": "breakingitaly:0vFWerz0808",
-      "sourceId": "breakingitaly",
-      "source": "Breaking Italy",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Live del venerdì, commentiamo gli avvenimenti della settimana!",
-      "url": "https://www.youtube.com/watch?v=0vFWerz0808",
-      "image": "https://i.ytimg.com/vi/0vFWerz0808/hqdefault.jpg",
-      "summary": "",
-      "videoId": "0vFWerz0808",
-      "date": "2026-09-04T14:58:19.0000000Z"
     },
     {
       "id": "skytg24:6EP5ZKtemXs",
@@ -581,17 +555,40 @@
       "date": "2026-09-04T13:52:38.0000000Z"
     },
     {
-      "id": "skytg24:9U2BEU7XQhw",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
+      "id": "ansa:2acbe1c0a28f",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
       "category": "notizie",
-      "title": "Ucraina, drone russo colpisce un magazzino vicino a Kiev",
-      "url": "https://www.youtube.com/watch?v=9U2BEU7XQhw",
-      "image": "https://i.ytimg.com/vi/9U2BEU7XQhw/hqdefault.jpg",
-      "summary": "",
-      "videoId": "9U2BEU7XQhw",
-      "date": "2026-09-04T13:31:32.0000000Z"
+      "title": "Barbie rende omaggio a Whitney Houston e a Marylin Monroe",
+      "url": "https://www.ansa.it/canale_lifestyle/notizie/teen/2026/09/03/barbie-rende-omaggio-a-whitney-houston-e-a-marylin-monroe_75543e68-6f18-43ad-92c2-551fe26eaab7.html",
+      "image": null,
+      "summary": "Due nuove bambole della serie Signature celebrano le due icone",
+      "date": "2026-09-03T17:30:58.0000000Z"
+    },
+    {
+      "id": "ansa:b5ee9fa7d3a6",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Reynolds e Branagh star in Mayday, un americano e un russo nemici per caso",
+      "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/03/reynolds-e-branagh-star-in-mayday-un-americano-e-un-russo-nemici-per-caso_ea6ec0a7-4b29-47f2-9cb8-1cc620e912c6.html",
+      "image": null,
+      "summary": "Film diretto da John Francis Daley e Jonathan Goldstein su Apple Tv+ il 4 settembre",
+      "date": "2026-09-03T17:16:03.0000000Z"
+    },
+    {
+      "id": "ansa:6c6fc16a55e8",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Glioblastoma, verso terapia mirata made in Italy contro forme più aggressive",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/09/03/glioblastoma-verso-terapia-mirata-made-in-italy-contro-forme-piu-aggressive_94a68160-25a9-4e07-9b8c-d0331aa38b9c.html",
+      "image": null,
+      "summary": "Progetto selezionato da European Research Council per gli Starting Grants 2026",
+      "date": "2026-09-03T11:35:08.0000000Z"
     }
   ]
 }
