@@ -1,7 +1,19 @@
 {
   "category": "spazio",
-  "updated": "2026-09-05T20:21:30.9533822Z",
+  "updated": "2026-09-05T22:09:26.1678113Z",
   "items": [
+    {
+      "id": "astronautinews:d881c55b66bd",
+      "sourceId": "astronautinews",
+      "source": "AstronautiNEWS",
+      "platform": "rss",
+      "category": "spazio",
+      "title": "Spectrum Mission II, doppio successo per Isar Aerospace",
+      "url": "https://www.astronautinews.it/2026/09/spectrum-mission-ii-doppio-successo-per-isar-aerospace/",
+      "image": "https://www.astronautinews.it/wp-content/uploads/2026/09/Isar-SpectrumII-02.png",
+      "summary": "Isar Aerospace entra nella storia dell'astronautica aggiudicandosi il primo lancio orbitale per un'azienda privata europea e il primo lancio orbitale effettuato dal nostro continente (escludendo i lanci sovietico/russ...",
+      "date": "2026-09-05T21:47:24.0000000Z"
+    },
     {
       "id": "astronautinews:1b82c5377315",
       "sourceId": "astronautinews",
@@ -133,18 +145,6 @@
       "image": "https://www.astronautinews.it/wp-content/uploads/2026/07/Screenshot-189.png",
       "summary": "Dopo poco meno di due mesi dall'ultima missione, andata sia bene che male , SpaceX ha completato la miglior missione di Starship, il lanciatore superpesante in fase di sviluppo a Starbase, nel Texas sudorientale. Flig...",
       "date": "2026-07-25T08:45:00.0000000Z"
-    },
-    {
-      "id": "astronautinews:6cc536614438",
-      "sourceId": "astronautinews",
-      "source": "AstronautiNEWS",
-      "platform": "rss",
-      "category": "spazio",
-      "title": "Vikram-1, il primo lanciatore orbitale privato indiano",
-      "url": "https://www.astronautinews.it/2026/07/vikram-i-il-primo-lanciatore-orbitale-privato-indiano/",
-      "image": "https://www.astronautinews.it/wp-content/uploads/2026/07/Vikram-I-decollo.jpeg",
-      "summary": "L'azienda indiana Skyroot Aerospace ha lanciato oggi, 18 luglio 2026, il proprio vettore Vikram-1, completando con successo la prima missione dimostrativa Aagaman (\"l'arrivo\", nel senso di essere giunto) e diventando ...",
-      "date": "2026-07-18T10:00:00.0000000Z"
     }
   ]
 }
