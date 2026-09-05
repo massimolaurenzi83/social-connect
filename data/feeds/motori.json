@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-05T16:01:05.3421466Z",
+  "updated": "2026-09-05T18:10:31.0390534Z",
   "items": [
+    {
+      "id": "vaielettrico:7d80f21d57b0",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "“I miei primi 20.000 km in Xpeng G6: sono entrato nel futuro”",
+      "url": "https://www.vaielettrico.it/i-miei-primi-20-000-km-in-xpeng-g6-sono-entrato-nel-futuro/",
+      "image": null,
+      "summary": "William Sbarzaglia lavora come consulente e formatore, un’attività professionale che lo porta a viaggiare costantemente in tutta Italia,… L'articolo “I miei primi 20.000 km in Xpeng G6: sono entrato nel futuro” provie...",
+      "date": "2026-09-05T16:34:40.0000000Z"
+    },
+    {
+      "id": "vaielettrico:82cf88864c80",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Innamorato della Subaru Uncharted: la compro?",
+      "url": "https://www.vaielettrico.it/innamorato-della-subaru-uncharted-la-compro/",
+      "image": null,
+      "summary": "Innamorato della Subaru Uncharted (e dotato di fotovoltaico con ricca produzione) un lettore chiede consiglio: la compro? Vaielettrico… L'articolo Innamorato della Subaru Uncharted: la compro? proviene da Vaielettrico .",
+      "date": "2026-09-05T16:23:23.0000000Z"
+    },
     {
       "id": "vaielettrico:d5dc1322dfc4",
       "sourceId": "vaielettrico",
@@ -231,18 +255,6 @@
       "date": "2026-09-04T16:00:00.0000000Z"
     },
     {
-      "id": "vaielettrico:18af4a34736d",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Cina sforna tre nuove EV al giorno. CATL: a rischio la qualità delle batterie",
-      "url": "https://www.vaielettrico.it/in-cina-tre-nuove-ev-al-giorno-catl-a-rischio-la-qualita-delle-batterie/",
-      "image": null,
-      "summary": "In Cina nel 2026 sono stati lanciati oltre 600 nuovi modelli di automobili, quasi tre al giorno. Un… L'articolo La Cina sforna tre nuove EV al giorno. CATL: a rischio la qualità delle batterie proviene da Vaielettrico .",
-      "date": "2026-09-04T15:45:14.0000000Z"
-    },
-    {
       "id": "hdmotori:568cdca1352f",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -267,18 +279,6 @@
       "date": "2026-09-04T15:30:00.0000000Z"
     },
     {
-      "id": "vaielettrico:b3b13b5fc293",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla Cybercab, debutto in sordina ad Austin",
-      "url": "https://www.vaielettrico.it/tesla-cybercab-debutto-in-sordina-ad-austin/",
-      "image": null,
-      "summary": "Tesla ha ufficialmente avviato il debutto del Tesla Cybercab ad Austin, in Texas, inserendo il nuovo veicolo a… L'articolo Tesla Cybercab, debutto in sordina ad Austin proviene da Vaielettrico .",
-      "date": "2026-09-04T15:29:59.0000000Z"
-    },
-    {
       "id": "hdmotori:5be536443036",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -291,18 +291,6 @@
       "date": "2026-09-04T15:00:20.0000000Z"
     },
     {
-      "id": "insideevs:ab4053b4d5b7",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Tesla Cybercab ha dei freni stranissimi",
-      "url": "https://insideevs.it/news/807132/tesla-cybercab-freni-curiosita/",
-      "image": "https://cdn.motor1.com/images/mgl/OoZvLB/s3/tesla-cybercab-robotaxi.jpg",
-      "summary": "Il robotaxi di Tesla non ha un impianto idraulico, ma sfrutta il sistema dry brake-by-wire. Ecco come funzione",
-      "date": "2026-09-04T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:322bd0012fe7",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -312,6 +300,18 @@
       "url": "https://it.motor1.com/news/806781/martin-limpert-range-rover-intervista-2026/",
       "image": "https://cdn.motor1.com/images/mgl/ko8Y7n/s3/intervista-martin-limper-range-rover.jpg",
       "summary": "Per la presentazione della nuova Range Rover elettrica abbiamo parlato con Martin Limpert, numero uno del brand, per sapere cosa arriverà in futuro",
+      "date": "2026-09-04T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ab4053b4d5b7",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Tesla Cybercab ha dei freni stranissimi",
+      "url": "https://insideevs.it/news/807132/tesla-cybercab-freni-curiosita/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZvLB/s3/tesla-cybercab-robotaxi.jpg",
+      "summary": "Il robotaxi di Tesla non ha un impianto idraulico, ma sfrutta il sistema dry brake-by-wire. Ecco come funzione",
       "date": "2026-09-04T15:00:00.0000000Z"
     },
     {
