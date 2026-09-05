@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-05T09:36:09.6757994Z",
+  "updated": "2026-09-05T13:02:49.9466237Z",
   "items": [
+    {
+      "id": "vaielettrico:da6cc9d407e2",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Balle sul fotovoltaico: sotto i pannelli c’è vita",
+      "url": "https://www.vaielettrico.it/balle-sul-fotovoltaico-sotto-i-pannelli-ce-vita/",
+      "image": null,
+      "summary": "Ennesima balla sul fotovoltaico smontata dalla scienza: sotto i pannelli c’è vita. Ben più che nei campi coltivati,… L'articolo Balle sul fotovoltaico: sotto i pannelli c’è vita proviene da Vaielettrico .",
+      "date": "2026-09-05T12:50:41.0000000Z"
+    },
+    {
+      "id": "hdmotori:04733fe0e0ce",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Michael Schumacher, Netflix racconta il ’94: il nuovo film ripercorre l’inizio del mito",
+      "url": "https://www.hdmotori.it/michael-schumacher-netflix/",
+      "image": null,
+      "summary": "Netflix prepara “Schumacher 94 - La nascita di una leggenda”, il film dedicato alla stagione del primo titolo mondiale di Michael Schumacher The post Michael Schumacher, Netflix racconta il ’94: il nuovo film ripercor...",
+      "date": "2026-09-05T11:00:01.0000000Z"
+    },
     {
       "id": "vaielettrico:7b4b1d56f0eb",
       "sourceId": "vaielettrico",
@@ -255,18 +279,6 @@
       "date": "2026-09-04T15:00:20.0000000Z"
     },
     {
-      "id": "insideevs:ab4053b4d5b7",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Tesla Cybercab ha dei freni stranissimi",
-      "url": "https://insideevs.it/news/807132/tesla-cybercab-freni-curiosita/",
-      "image": "https://cdn.motor1.com/images/mgl/OoZvLB/s3/tesla-cybercab-robotaxi.jpg",
-      "summary": "Il robotaxi di Tesla non ha un impianto idraulico, ma sfrutta il sistema dry brake-by-wire. Ecco come funzione",
-      "date": "2026-09-04T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:322bd0012fe7",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -276,6 +288,18 @@
       "url": "https://it.motor1.com/news/806781/martin-limpert-range-rover-intervista-2026/",
       "image": "https://cdn.motor1.com/images/mgl/ko8Y7n/s3/intervista-martin-limper-range-rover.jpg",
       "summary": "Per la presentazione della nuova Range Rover elettrica abbiamo parlato con Martin Limpert, numero uno del brand, per sapere cosa arriverà in futuro",
+      "date": "2026-09-04T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ab4053b4d5b7",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Tesla Cybercab ha dei freni stranissimi",
+      "url": "https://insideevs.it/news/807132/tesla-cybercab-freni-curiosita/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZvLB/s3/tesla-cybercab-robotaxi.jpg",
+      "summary": "Il robotaxi di Tesla non ha un impianto idraulico, ma sfrutta il sistema dry brake-by-wire. Ecco come funzione",
       "date": "2026-09-04T15:00:00.0000000Z"
     },
     {
@@ -315,18 +339,6 @@
       "date": "2026-09-04T14:30:17.0000000Z"
     },
     {
-      "id": "vaielettrico:f97f53edfd6d",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Gamma Volkswagen dimezzata: tagli anche tra le elettriche?",
-      "url": "https://www.vaielettrico.it/gamma-volkswagen-dimezzata-tagli-anche-tra-le-elettriche/",
-      "image": null,
-      "summary": "Gamma Volkswagen dimezzata: il gruppo tedesco ha approvato un drastico taglio dei modelli proposti. Che cosa succederà tra… L'articolo Gamma Volkswagen dimezzata: tagli anche tra le elettriche? proviene da Vaielettrico .",
-      "date": "2026-09-04T14:21:52.0000000Z"
-    },
-    {
       "id": "hdmotori:e4ba997be204",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -349,18 +361,6 @@
       "image": "https://cdn.motor1.com/images/mgl/OoZvBR/s3/seat-chiusura-futuro.jpg",
       "summary": "Il ceo del Gruppo Volkswagen conferma le discussioni circa Seat e un'eventuale eliminazione del marchio",
       "date": "2026-09-04T14:05:51.0000000Z"
-    },
-    {
-      "id": "hdmotori:5e44a1296cd1",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ducati fa sul serio tra i pedali: 4 nuove bici, corsa, gravel ed e-MTB",
-      "url": "https://www.hdmotori.it/ducati-nuove-bici-2027-modelli-caratteristiche/",
-      "image": null,
-      "summary": "Ducati svela quattro nuove bici per il 2027: dalla Monoscocca da corsa alla gravel GraviaX, fino alle e-MTB da 130 Nm. Sviluppate con Nibali e il Gruppo Zecchetto. The post Ducati fa sul serio tra i pedali: 4 nuove bi...",
-      "date": "2026-09-04T14:00:38.0000000Z"
     },
     {
       "id": "motor1:d93d6c0937c9",
