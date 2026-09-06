@@ -1,7 +1,43 @@
 {
   "category": "cronaca",
-  "updated": "2026-09-06T14:26:28.4934860Z",
+  "updated": "2026-09-06T17:16:20.0626802Z",
   "items": [
+    {
+      "id": "ansa-cronaca:e7faead35a47",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "#AccadeOggi",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/06/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+      "image": null,
+      "summary": "I principali avvenimenti previsti per la giornata",
+      "date": "2026-09-06T16:35:56.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:a32cd880b050",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "L'ultimo caldo, da mercoledì piogge e calo delle temperature",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/06/lultimo-caldo-da-mercoledi-piogge-e-calo-delle-temperature_32628aa4-1035-4e29-857b-efa90987da43.html",
+      "image": null,
+      "summary": "Ondate di calore agli sgoccioli, ora il rischio sono i fenomeni intensi",
+      "date": "2026-09-06T16:17:23.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:64ada822551b",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Vasto incendio in sito ecoballe di Taverna del Re nel napoletano",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/06/vasto-incendio-in-sito-ecoballe-di-taverna-del-re-nel-napoletano_1f851531-5cc2-4cc3-9e59-abe208624e4a.html",
+      "image": null,
+      "summary": "In corso operazioni di spegnimento nell'area a Giugliano che da anni accoglie rifiuti",
+      "date": "2026-09-06T16:03:29.0000000Z"
+    },
     {
       "id": "ansa-cronaca:9c8126d80830",
       "sourceId": "ansa-cronaca",
@@ -12,7 +48,7 @@
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/06/incidente-in-una-gara-automobilistica-in-sicilia-due-giovani-sono-morti_db81dade-0014-451d-8079-8a412eed95c5.html",
       "image": null,
       "summary": "Alla cronoscalata Monte Erice una vettura è uscita fuori strada. Ferito il commissario di gara",
-      "date": "2026-09-06T13:34:20.0000000Z"
+      "date": "2026-09-06T15:06:45.0000000Z"
     },
     {
       "id": "ansa-cronaca:20b743a2c516",
@@ -109,42 +145,6 @@
       "image": null,
       "summary": "E' accaduto nelle campagne tra Trapani e Palermo, c'è anche un ferito grave",
       "date": "2026-09-06T09:52:08.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:aec43f1c92de",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Migliora la situazione nel Naviglio, sostituiti i pannelli assorbenti",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/06/migliora-la-situazione-nel-naviglio-sostituiti-i-pannelli-assorbenti_9a5b5cb7-5cca-4687-b304-0da826ba6e59.html",
-      "image": null,
-      "summary": "Anticipata la bonifica a Roggia Soncina, che è il punto più critico",
-      "date": "2026-09-06T09:41:25.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:a9d17e61b71b",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Aggredisce la ex a martellate, fermato dai carabinieri",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/06/aggredisce-la-ex-a-martellate-fermato-dai-carabinieri_071f9785-3177-437b-ba8d-6aa0087bae93.html",
-      "image": null,
-      "summary": "Nell'Avellinese. La donna ricoverata con prognosi riservata ma non rischierebbe la vita",
-      "date": "2026-09-06T09:32:59.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:4436038494b9",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Giovane ferito alla gamba da un colpo di pistola nel Milanese",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/giovane-ferito-alla-gamba-da-un-colpo-di-pistola-nel-milanese_308673b6-b5f5-4224-8dd5-8f6c6b5ad209.html",
-      "image": null,
-      "summary": "Il 27enne stava passeggiando col cane a Cassano d'Adda, indagano i carabinieri",
-      "date": "2026-09-05T17:34:27.0000000Z"
     }
   ]
 }

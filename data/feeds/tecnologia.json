@@ -1,7 +1,115 @@
 {
   "category": "tecnologia",
-  "updated": "2026-09-06T14:26:28.5578178Z",
+  "updated": "2026-09-06T17:16:20.0325141Z",
   "items": [
+    {
+      "id": "tomshw:32e87b36a58d",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Comprare Meta Quest 3 adesso o aspettare Meta Phoenix: cosa conviene",
+      "url": "https://www.tomshw.it/hardware/comprare-meta-quest-3-adesso-o-aspettare-meta-phoenix-cosa-conviene",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110486/comprare-meta-quest-3-adesso-o-aspettare-meta-phoenix-cosa-conviene.png",
+      "summary": "Meta Quest 3 è acquistabile in Italia e rimane il visore più sensato per chi vuole entrare subito nella realtà virtuale, soprattutto per giocare. Meta Phoenix è invece un progetto non annunciato uffic...",
+      "date": "2026-09-06T17:00:00.0000000Z"
+    },
+    {
+      "id": "hdblog:90715e5d2076",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Samsung Galaxy S27 Pro come l'Ultra: uguale anche la velocità di ricarica",
+      "url": "https://www.hdblog.it/smartphone/articoli/n669458/samsung-galaxy-s27-pro-ultra-velocita-ricarica/",
+      "image": null,
+      "summary": "La certificazione cinese CCC ci anticipa una specifica chiave.",
+      "date": "2026-09-06T16:55:00.0000000Z"
+    },
+    {
+      "id": "tomshw:fb3c7b2ff223",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "dreame D20 Pro Plus scende a 199€, fino a 150 giorni senza svuotarlo",
+      "url": "https://www.tomshw.it/offerte/dreame-d20-pro-plus-scende-a-199eur-fino-a-150-giorni-senza-svuotarlo",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112043/tomshw-offer-1077105.png",
+      "summary": "dreame D20 Pro Plus costa 199€ su Amazon, anziché 249€, con uno sconto del 20% e un risparmio di 50€. La base autosvuotante e la doppia spazzola antigroviglio riducono il lavoro quotidiano soprattutto...",
+      "date": "2026-09-06T16:48:00.0000000Z"
+    },
+    {
+      "id": "tomshw:d303eb216035",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Germania, stop a 5 unità RWE: si indaga su un sabotaggio",
+      "url": "https://www.tomshw.it/altro/germania-5-unita-rwe-fermate-sospetto-sabotaggio",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111683/90.jpg",
+      "summary": "Sei dispositivi di lancio nascosti in un campo di mais avrebbero portato materiale conduttivo sopra le linee della sottostazione Amprion di Bergheim, creando un collegamento verso terra e provocando d...",
+      "date": "2026-09-06T16:39:00.0000000Z"
+    },
+    {
+      "id": "hdblog:c633d27fd1a1",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Samsung Galaxy A18 4G, filtrano design, specifiche e prezzo: costerà di più",
+      "url": "https://www.hdblog.it/smartphone/articoli/n669456/samsung-galaxy-a18-specifiche-prezzo-render-leak/",
+      "image": null,
+      "summary": "Ma cambierà poco.",
+      "date": "2026-09-06T16:01:00.0000000Z"
+    },
+    {
+      "id": "tomshw:1d878df70aff",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Microfono USB con fruscio o volume a salti: gain, porta e alimentazione da controllare",
+      "url": "https://www.tomshw.it/hardware/microfono-usb-fruscio-volume-instabile-controlli",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110570/cover.png",
+      "summary": "Se il microfono USB porta in videochiamata un evidente rumore di fondo, oppure la voce aumenta, diminuisce e talvolta scompare, non significa necessariamente che sia guasto. Prima di sostituirlo bisog...",
+      "date": "2026-09-06T16:00:00.0000000Z"
+    },
+    {
+      "id": "tomshw:17ce12464cf3",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Motorola moto g67 a 229,90€, minimo storico con 256GB e fino a 37 ore",
+      "url": "https://www.tomshw.it/offerte/motorola-moto-g67-a-22990eur-minimo-storico-con-256gb-e-fino-a-37-ore",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112042/tomshw-offer-1077046.png",
+      "summary": "Motorola moto g67 costa 229,90€ su Amazon, invece di 329€, con uno sconto del 30%. È il prezzo più basso mai raggiunto dal modello e rende particolarmente interessante la versione con 8GB di RAM e 256...",
+      "date": "2026-09-06T15:19:00.0000000Z"
+    },
+    {
+      "id": "tomshw:0ee165db8f38",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "DeepSeek sceglie 160.000 chip Huawei, ma NVIDIA resta essenziale",
+      "url": "https://www.tomshw.it/hardware/deepseek-sceglie-160000-chip-huawei-ma-nvidia-resta-essenziale",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111884/deepseek-sceglie-160-000-chip-huawei-ma-nvidia-resta-essenziale.png",
+      "summary": "DeepSeek avrebbe ordinato 160.000 acceleratori Huawei Ascend 950DT per alimentare un data center da 1 GW nella Mongolia Interna. La commessa sposta verso un fornitore cinese una parte consistente dell...",
+      "date": "2026-09-06T15:00:00.0000000Z"
+    },
+    {
+      "id": "tomshw:9f0bbd5e9654",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "70€ in meno sul Braun Serie 5, rasoio e rifinitore corpo a 74,99€",
+      "url": "https://www.tomshw.it/offerte/70eur-in-meno-sul-braun-serie-5-rasoio-e-rifinitore-corpo-a-7499eur",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112041/tomshw-offer-1077033.png",
+      "summary": "Il Braun Serie 5 costa 74,99€ su Amazon, con uno sconto del 48% che lascia 70€ in tasca rispetto al prezzo di listino di 144,99€. È anche il minimo storico per questo rasoio con rifinitore corpo, pens...",
+      "date": "2026-09-06T14:48:00.0000000Z"
+    },
     {
       "id": "tomshw:68d53c1bd972",
       "sourceId": "tomshw",
@@ -61,90 +169,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/09/112037/tomshw-offer-1076956.png",
       "summary": "Le Belkin SoundForm Isolate costano 39,99€ su Amazon, anziché 59,99€, con uno sconto del 33%. Cancellazione attiva del rumore, autonomia da 60 ore e collegamento multipoint le rendono particolarmente...",
       "date": "2026-09-06T12:48:00.0000000Z"
-    },
-    {
-      "id": "tomshw:4d7faa5f1bee",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Ottocast porta a IFA 2026 quattro novità per l'auto connessa",
-      "url": "https://www.tomshw.it/automotive/ottocast-porta-a-ifa-2026-quattro-novita-per-lauto-connessa-2026-09-06",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112035/Ottocast-IFA-4.jpg",
-      "summary": "A IFA 2026, Ottocast ha presentato quattro dispositivi che ampliano il concetto di adattatore wireless per CarPlay e Android Auto, spingendosi oltre la semplice funzione di collegamento tra smartphone...",
-      "date": "2026-09-06T12:31:00.0000000Z"
-    },
-    {
-      "id": "tomshw:824938886043",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "350 ricariche rapide: la BYD Yangwang U7 perde solo l'1,3%",
-      "url": "https://www.tomshw.it/automotive/byd-yangwang-u7-capacita-al-98-7-dopo-350-ricariche-ultrarapide",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/110792/c0776dd6-2f52-4a05-a2fb-fd520f109908.webp",
-      "summary": "Trentamila chilometri percorsi in 8 giorni, 19 ore e 58 minuti, con oltre 350 ricariche ultrarapide: al termine della prova, la batteria della Yangwang U7 conservava il 98,7% della capacità iniziale....",
-      "date": "2026-09-06T12:10:00.0000000Z"
-    },
-    {
-      "id": "tomshw:14283b34939e",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "COSORI ICONIC Dual e Levoit Eleva 300X: la casa smart protagonista a IFA 2026",
-      "url": "https://www.tomshw.it/altro/cosori-iconic-dual-e-levoit-eleva-300x-la-casa-smart-protagonista-a-ifa-2026",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112010/cosori-iconic-dual-levoit-eleva-300x-ifa-2026.jpg",
-      "summary": "COSORI e Levoit hanno scelto IFA 2026 per aggiornare due categorie ormai centrali nella casa connessa: la cottura ad aria e la qualità dell'aria. Le novità sono COSORI ICONIC Dual, frigg...",
-      "date": "2026-09-06T12:00:00.0000000Z"
-    },
-    {
-      "id": "tomshw:99576a4d591e",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Recensione Hot Wheels Infinite Rush, un parco giochi in miniatura",
-      "url": "https://www.tomshw.it/videogioco/recensione-hot-wheels-infinite-rush",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108906/Hot-Wheels-Infinite-Rush-(3).jpg",
-      "summary": "Tra le software house più prolifiche degli ultimi tempi possiamo sicuramente annoverare anche l’italiana Milestone, che sta sfornando da diversi anni a questa parte un titolo dopo l&rsquo...",
-      "date": "2026-09-06T12:00:00.0000000Z"
-    },
-    {
-      "id": "tomshw:f2123c8109f3",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Mullvad chiude il suo DNS pubblico, gli utenti devono intervenire",
-      "url": "https://www.tomshw.it/hardware/mullvad-chiude-il-dns-pubblico-crittografato-e-finanzia-quad9",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111880/mullvad-chiude-il-dns-pubblico-crittografato-e-finanzia-quad9.png",
-      "summary": "Mullvad interromperà il proprio servizio pubblico di DNS over HTTPS e destinerà le risorse risparmiate al sostegno economico della Quad9 Foundation. La chiusura, prevista per il 2 novembre, impone un...",
-      "date": "2026-09-06T12:00:00.0000000Z"
-    },
-    {
-      "id": "tomshw:d53c085f1690",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "IFA 2026, arrivano gli smart glasses con guida turistica AI",
-      "url": "https://www.tomshw.it/hardware/latitude-52n-svela-occhiali-smart-per-traduzioni-live-a-ifa-2026-09-03",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112016/Latitude-52N-IFA-6.jpg",
-      "summary": "Immaginate di camminare per le vie di Roma, puntare lo sguardo su un monumento e sentire raccontare la sua storia con una colonna sonora che si adatta perfettamente all'atmosfera del luogo. Oppure con...",
-      "date": "2026-09-06T11:30:00.0000000Z"
-    },
-    {
-      "id": "tomshw:174104e0c86f",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "NASA: a Blue Origin la rete telecom di Marte, fino a 700 milioni",
-      "url": "https://www.tomshw.it/scienze/nasa-a-blue-origin-la-rete-telecom-di-marte-fino-a-700",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111099/news-flash-1027983.png",
-      "summary": "Una rete orbitale capace di trasmettere dati scientifici, immagini e comunicazioni critiche tra Marte e la Terra sarà progettata e gestita da Blue Origin. La NASA ha selezionato l’azienda per sviluppa...",
-      "date": "2026-09-06T11:25:00.0000000Z"
     },
     {
       "id": "hdblog:24b5976f86c5",
@@ -279,30 +303,6 @@
       "date": "2026-09-05T15:10:00.0000000Z"
     },
     {
-      "id": "hdblog:95ee19cddb32",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Xiaomi Smart Band 10, ora a 35,49 su Amazon: l'alternativa low cost agli smartwatch",
-      "url": "https://www.hdblog.it/indossabili/offerte/n669437/xiaomi-smart-band-10-offerta-amazon-settembre-2026/",
-      "image": null,
-      "summary": "La Xiaomi Smart Band 10 è in offerta su Amazon a poco più di 35 euro e diventa un vero e proprio best buy in alternativa agli smartwatch.",
-      "date": "2026-09-05T14:40:00.0000000Z"
-    },
-    {
-      "id": "hdblog:e1b71cb6244e",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "iPhone 18 Pro scatta meglio, scalda meno e non solo: le novità per gli ultimi rumor",
-      "url": "https://www.hdblog.it/smartphone/articoli/n669435/iphone-18-pro-max-fotocamera-apertura-novita-vapor/",
-      "image": null,
-      "summary": "Al lancio del 9 settembre manca pochissimo: cosa sappiamo.",
-      "date": "2026-09-05T14:31:00.0000000Z"
-    },
-    {
       "id": "techprincess:81QCoQcS2Wo",
       "sourceId": "techprincess",
       "source": "Techprincess",
@@ -388,18 +388,6 @@
       "date": "2026-09-05T08:09:00.0000000Z"
     },
     {
-      "id": "dday:4d8a6ef96bc1",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "La Casa Bianca trasforma l’agenda di Trump in videogiochi. E si gioca anche alle deportazioni",
-      "url": "https://www.dday.it/redazione/58633/la-casa-bianca-trasforma-lagenda-di-trump-in-videogiochi-e-si-gioca-anche-alle-deportazioni",
-      "image": null,
-      "summary": "",
-      "date": "2026-09-05T07:28:00.0000000Z"
-    },
-    {
       "id": "dday:1b9b55b48f28",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -407,6 +395,18 @@
       "category": "tecnologia",
       "title": "Rossi, Lenovo: “Nessun produttore trasversale come noi, la nostra IA unica. I prezzi dei PC? Saliranno ancora”",
       "url": "https://www.dday.it/redazione/58629/rossi-lenovo-nessun-produttore-trasversale-come-noi-la-nostra-ia-unica-i-prezzi-dei-pc-saliranno-ancora",
+      "image": null,
+      "summary": "",
+      "date": "2026-09-05T07:28:00.0000000Z"
+    },
+    {
+      "id": "dday:4d8a6ef96bc1",
+      "sourceId": "dday",
+      "source": "DDay.it",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "La Casa Bianca trasforma l’agenda di Trump in videogiochi. E si gioca anche alle deportazioni",
+      "url": "https://www.dday.it/redazione/58633/la-casa-bianca-trasforma-lagenda-di-trump-in-videogiochi-e-si-gioca-anche-alle-deportazioni",
       "image": null,
       "summary": "",
       "date": "2026-09-05T07:28:00.0000000Z"
