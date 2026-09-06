@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-09-06T02:41:10.4375507Z",
+  "updated": "2026-09-06T07:19:56.7435716Z",
   "items": [
+    {
+      "id": "hdmotori:ddb35a336f89",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La monoposto a guida autonoma di Unimore Racing trionfa a Laguna Seca",
+      "url": "https://www.hdmotori.it/monoposto-guida-autonoma-unimore-laguna-seca/",
+      "image": null,
+      "summary": "Il team dell’Università di Modena e Reggio Emilia vince l'Indy Autonomous Challenge in California con tre epici sorpassi nella leggendaria curva del Cavatappi. The post La monoposto a guida autonoma di Unimore Racing ...",
+      "date": "2026-09-06T06:30:51.0000000Z"
+    },
+    {
+      "id": "vaielettrico:3b0b2c862e56",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Cina avvia una graduale riduzione degli incentivi sulle EV",
+      "url": "https://www.vaielettrico.it/la-cina-avvia-una-graduale-riduzione-degli-incentivi-sulle-ev/",
+      "image": null,
+      "summary": "La Cina sta iniziando a ridurre progressivamente alcuni degli incentivi fiscali che per oltre un decennio hanno sostenuto… L'articolo La Cina avvia una graduale riduzione degli incentivi sulle EV proviene da Vaielettr...",
+      "date": "2026-09-06T06:06:50.0000000Z"
+    },
+    {
+      "id": "motor1:34f5186df460",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La prova del Maggiolino che (forse) non conoscevi",
+      "url": "https://it.motor1.com/reviews/806206/rometsch-beeskow-prova-motore/",
+      "image": "https://cdn.motor1.com/images/mgl/XBzxGe/s3/rometsch-beeskow-1952-test.jpg",
+      "summary": "Nata nel 1952, la Rometsch Beeskow mette insieme il Maggiolino e il motore di una Porsche 956 in un mix incredibile",
+      "date": "2026-09-06T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:39d232f59e04",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Batterie zinco-cloro, la nuova chimica che punta all’auto elettrica",
+      "url": "https://insideevs.it/news/806005/nuova-elettrochimica-zinco-cloro-impatti/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak3vwL/s3/batterie-zinco-cloro-la-nuova-chimica-che-punta-all-auto-elettrica.jpg",
+      "summary": "Ecco cosa dice una nuova ricerca cinese su una chimica zinco-cloro con 10.000 cicli e perdite minime di capacità",
+      "date": "2026-09-06T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:7d80f21d57b0",
       "sourceId": "vaielettrico",
@@ -123,18 +171,6 @@
       "date": "2026-09-05T06:11:21.0000000Z"
     },
     {
-      "id": "motor1:47a0ad7ace02",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa è stata la prima Shelby di sempre",
-      "url": "https://it.motor1.com/news/806119/shelby-cobra-prototype-csx2000-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/pbJVr1/s3/shelby-cobra-260-prototype-csx2000.jpg",
-      "summary": "Ecco com'è nato il mito americano della Cobra, la sportiva con DNA inglese e messa a punto curata da Carroll Shelby in persona",
-      "date": "2026-09-05T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:6db44cfba726",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -144,6 +180,18 @@
       "url": "https://insideevs.it/news/806003/storage-criogenico-dipole-glass-auto/",
       "image": "https://cdn.motor1.com/images/mgl/0egoQ3/s3/i-cristalli-criogenici-rivoluzioneranno-le-auto-elettriche.jpg",
       "summary": "Più energia in meno spazio e maggiore sicurezza, ma per ora è una tecnologia da laboratorio",
+      "date": "2026-09-05T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:47a0ad7ace02",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa è stata la prima Shelby di sempre",
+      "url": "https://it.motor1.com/news/806119/shelby-cobra-prototype-csx2000-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/pbJVr1/s3/shelby-cobra-260-prototype-csx2000.jpg",
+      "summary": "Ecco com'è nato il mito americano della Cobra, la sportiva con DNA inglese e messa a punto curata da Carroll Shelby in persona",
       "date": "2026-09-05T05:00:00.0000000Z"
     },
     {
@@ -219,18 +267,6 @@
       "date": "2026-09-04T16:18:19.0000000Z"
     },
     {
-      "id": "vaielettrico:3f7a1091ea9c",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L’India ha un piano: 100 mila veicoli pesanti elettrici entro 5 anni",
-      "url": "https://www.vaielettrico.it/lindia-ha-un-piano-100-mila-veicoli-pesanti-elettrici-entro-5-anni/",
-      "image": null,
-      "summary": "Il governo indiano sta valutando un nuovo programma di sostegno destinato ai mezzi elettrici pesanti, con l’obiettivo di… L'articolo L’India ha un piano: 100 mila veicoli pesanti elettrici entro 5 anni proviene da Vai...",
-      "date": "2026-09-04T16:12:19.0000000Z"
-    },
-    {
       "id": "hdmotori:8b21aa7bc2a6",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -291,18 +327,6 @@
       "date": "2026-09-04T15:00:20.0000000Z"
     },
     {
-      "id": "motor1:322bd0012fe7",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Range Rover: tuteleremo la flessibilità finché sarà necessario farlo",
-      "url": "https://it.motor1.com/news/806781/martin-limpert-range-rover-intervista-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/ko8Y7n/s3/intervista-martin-limper-range-rover.jpg",
-      "summary": "Per la presentazione della nuova Range Rover elettrica abbiamo parlato con Martin Limpert, numero uno del brand, per sapere cosa arriverà in futuro",
-      "date": "2026-09-04T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:ab4053b4d5b7",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -312,6 +336,18 @@
       "url": "https://insideevs.it/news/807132/tesla-cybercab-freni-curiosita/",
       "image": "https://cdn.motor1.com/images/mgl/OoZvLB/s3/tesla-cybercab-robotaxi.jpg",
       "summary": "Il robotaxi di Tesla non ha un impianto idraulico, ma sfrutta il sistema dry brake-by-wire. Ecco come funzione",
+      "date": "2026-09-04T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:322bd0012fe7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Range Rover: tuteleremo la flessibilità finché sarà necessario farlo",
+      "url": "https://it.motor1.com/news/806781/martin-limpert-range-rover-intervista-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/ko8Y7n/s3/intervista-martin-limper-range-rover.jpg",
+      "summary": "Per la presentazione della nuova Range Rover elettrica abbiamo parlato con Martin Limpert, numero uno del brand, per sapere cosa arriverà in futuro",
       "date": "2026-09-04T15:00:00.0000000Z"
     },
     {
@@ -337,18 +373,6 @@
       "image": null,
       "summary": "Il CEO della Casa del Biscione, Santo Ficili, ha assicurato che si punterà sul ritorno in gamma di una vera erede della Giulietta e della 147 The post Alfa Romeo, l’erede della Giulietta si farà: “Sarà bella ed emozio...",
       "date": "2026-09-04T14:30:17.0000000Z"
-    },
-    {
-      "id": "hdmotori:e4ba997be204",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Salone Auto Torino 2026, 47 marchi e circa 100 auto: la città diventa il cuore dell’automobile",
-      "url": "https://www.hdmotori.it/salone-auto-torino-2026-47-marchi-e-circa-100-auto-la-citta-diventa-il-cuore-dellautomobile/",
-      "image": null,
-      "summary": "Dal 11 al 13 settembre il Salone Auto Torino torna con ingresso gratuito, test drive aperti al pubblico e omaggi ai grandi protagonisti della storia dell'auto The post Salone Auto Torino 2026, 47 marchi e circa 100 au...",
-      "date": "2026-09-04T14:15:20.0000000Z"
     },
     {
       "id": "motor1:9c8febbd199a",
@@ -411,18 +435,6 @@
       "date": "2026-09-04T12:00:00.0000000Z"
     },
     {
-      "id": "motor1:6885d7dff31f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Jensen Interceptor rinasce con un V8 da 1.000 CV",
-      "url": "https://it.motor1.com/news/807117/jensen-interceptor-gtx-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/lE4obM/s3/2026-jensen-interceptor-gtx.jpg",
-      "summary": "Per ora è solo un prototipo, ma la Interceptor GTX da anticipa i futuri modelli stradali di Jensen",
-      "date": "2026-09-04T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:9f189fe6c526",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -432,6 +444,18 @@
       "url": "https://insideevs.it/news/807122/xiaomi-vs-porsche-europa-sfida/",
       "image": "https://cdn.motor1.com/images/mgl/RqknXr/s3/xiaomi-su7-ultra-hood.jpg",
       "summary": "Otto gruppi di concessionarie hanno aderito all'ingresso di Xiaomi in Europa, che inizierà il prossimo anno",
+      "date": "2026-09-04T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:6885d7dff31f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Jensen Interceptor rinasce con un V8 da 1.000 CV",
+      "url": "https://it.motor1.com/news/807117/jensen-interceptor-gtx-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/lE4obM/s3/2026-jensen-interceptor-gtx.jpg",
+      "summary": "Per ora è solo un prototipo, ma la Interceptor GTX da anticipa i futuri modelli stradali di Jensen",
       "date": "2026-09-04T11:00:00.0000000Z"
     },
     {
@@ -445,18 +469,6 @@
       "image": "https://cdn.motor1.com/images/mgl/9mWZ3l/s3/auto-elettriche-in-ricarica-in-cina.jpg",
       "summary": "Dal 2026 la Cina introduce nuove tasse su batterie e veicoli a nuova energia, segnale di un mercato elettrico considerato ormai maturo",
       "date": "2026-09-04T10:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:23c5ef4d0acd",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Consuma poco, si guida bene: come va la Toyota Yaris Cross 2026",
-      "url": "https://it.motor1.com/reviews/805602/toyota-yaris-cross-2026-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/0ep48m/s3/toyota-yaris-cross-2026-prova.jpg",
-      "summary": "Rivista nello stile e nella dotazione, la Yaris Cross mantiene in listino solo il 1.5 da 130 CV. Bassi consumi e tanta silenziosità",
-      "date": "2026-09-04T10:00:00.0000000Z"
     },
     {
       "id": "insideevs:393aca7c3f51",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/6ZOp9G/s3/daimler-truck-volvo-toyota-bosch-e-i-colossi-dell-energia-lavorano-a-un-ecosistema-europeo-per-l-idrogeno.jpg",
       "summary": "Daimler Truck, Volvo, Toyota, Bosch e i colossi dell'energia lavorano a un ecosistema europeo per l'idrogeno competitivo entro il 2030",
       "date": "2026-09-03T13:04:39.0000000Z"
-    },
-    {
-      "id": "insideevs:09bdd6395280",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Uno studio ha analizzato 500.000 batterie EV. Alcune invecchiano meglio di altre",
-      "url": "https://insideevs.it/news/806905/batterie-ev-studio-invecchiamento/",
-      "image": "https://cdn.motor1.com/images/mgl/pb3V7W/s3/2025-hyundai-ioniq-5-xrt-limited.jpg",
-      "summary": "L'azienda di diagnostica Aviloo ha pubblicato i risultati di migliaia di controlli sullo stato di salute delle batterie di venti EV",
-      "date": "2026-09-03T11:00:00.0000000Z"
     }
   ]
 }
