@@ -1,18 +1,210 @@
 {
   "category": "calcio",
-  "updated": "2026-09-07T20:10:55.8799913Z",
+  "updated": "2026-09-07T22:51:21.8540225Z",
   "items": [
     {
-      "id": "fcinternews:7ebca65fe0f8",
+      "id": "fcinternews:f1af6d5fb8de",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
-      "title": "LIVE - Picerno-Inter U23, 2-0 a inizio ripresa: dentro Agbonifo e Fumagalli",
-      "url": "https://www.fcinternews.it/focus/live-picerno-inter-u23-1017909",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/76/7686838b30918cf183d2d685d6db8ece-67763-oooz0000.jpeg",
-      "summary": "PICERNO-INTER U23 2-0 Marcatori: Abreu (37'), Virgilio (40') 22.04 - Si riparte a Picerno.",
-      "date": "2026-09-07T20:05:01.0000000Z"
+      "title": "La stella nerazzurra brilla nel cielo della Champions",
+      "url": "https://www.fcinternews.it/editoriale/edit-1017862",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/1e/1e8db7edb1a06acf114c82cbed246375-01444-oooz0000.jpeg",
+      "summary": "Riecco la Champions League, il palcoscenico buono d'Europa. Qui giocano i migliori, qui giocherà l'Inter in casa del Real Madrid.",
+      "date": "2026-09-07T22:00:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:2d5e3f76ddb2",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Serena: \"Inter, sul mercato distanza enorme dal Real. Ma in campo se la gioca\"",
+      "url": "https://www.fcinternews.it/news/serena-inter-mercato-distanza-enorme-real-campo-gioca-1017926",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/38/38ca9204ad5f7c62fc31373825bfbf69-02850-493o84o1385o975z0b79.jpeg",
+      "summary": "Aldo Serena è convinto che l'Inter possa dire la sua contro il Real Madrid, nel match del Bernabeu che domani inaugurerà il percorso in Champions League di entrambe le squadre: \"La distanza è enorme dal punto di visto...",
+      "date": "2026-09-07T21:47:47.0000000Z"
+    },
+    {
+      "id": "fcinternews:33e5e008876c",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "AZ Picerno-Inter U23 4-1, le pagelle dei calciatori lucani",
+      "url": "https://www.fcinternews.it/l-avversario/az-picerno-inter-u23-4-1-pagelle-calciatori-lucani-1017914",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b4/b4b98e8c9ec182d7ead0965ca7432f12-60121-396o0o1339o942z0a75.jpeg",
+      "summary": "Prova di forza dell'AZ Picerno, autore di una robante vittoria per 4-1 contro l'Inter U23. Lucani che per lunghi tratti padroneggiano possesso, ritmo e giocate.",
+      "date": "2026-09-07T21:46:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:57b208745fb8",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Picerno-Inter U23, le pagelle: si salvano in pochi nella sconfitta di Picerno",
+      "url": "https://www.fcinternews.it/focus/picerno-inter-u23-pagelle-1017921",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b7/b7b558093bbc7bdfbade4c1ad2e8b99d-33258-oooz0000.jpeg",
+      "summary": "Prima sconfitta stagionale nei 90' per l'Inter U23, battuta 4-1 dal Picerno primo in classifica nel girone C di Serie C. Ecco le pagelle della squadra di Stefano Vecchi.",
+      "date": "2026-09-07T21:32:20.0000000Z"
+    },
+    {
+      "id": "fcinternews:78284bdf4bb7",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Lazio, Frattesi in gol nelle prime tre di Serie A: eguagliato il record di Zarate",
+      "url": "https://www.fcinternews.it/stats/lazio-frattesi-gol-prime-serie-a-eguagliato-record-zarate-1017924",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/30/30fb162874ab23ede50d2dafd9d5d8f1-37259-1175o71o2063o959z10ac.jpeg",
+      "summary": "Inizio di stagione da record per Davide Frattesi che, grazie alla zampata con cui ha propiziato la rimonta della Lazio a Udine, è diventato il secondo giocatore a trovare il gol in ciascuna delle prime tre presenze co...",
+      "date": "2026-09-07T21:23:28.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:6b5da42255f3",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Raimondo e Cissè nel mirino di Mancini: doppia opzione per la nazionale",
+      "url": "https://www.calciomercato.it/2026/09/07/raimondo-e-cisse-nel-mirino-di-mancini-doppia-opzione-per-la-nazionale/",
+      "image": null,
+      "summary": "L'articolo Raimondo e Cissè nel mirino di Mancini: doppia opzione per la nazionale proviene da CalcioMercato.it .",
+      "date": "2026-09-07T21:21:12.0000000Z"
+    },
+    {
+      "id": "fcinternews:0a7279e84bee",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "L'Inter U23 perde male a Picerno: 4-1 per i lucani, espulso Bovio",
+      "url": "https://www.fcinternews.it/in-primo-piano/live-picerno-inter-u23-1017909",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/aa/aad9ebd98fd0b083264c94eaee58a5d1-67274-562o0o1243o681z09b6.jpeg",
+      "summary": "Finisce nel peggiore dei modi la trasferta di Picerno per l'Inter U23. I nerazzurri perdono 4-1 sul campo della capolista e non riescono nell'impresa.",
+      "date": "2026-09-07T21:08:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:f97b3ecd434a",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Frattesi: \"Mi sento elettrico, sto ritrovando sensazioni che mi mancavano\"",
+      "url": "https://www.fcinternews.it/focus/frattesi-mi-sento-elettrico-ritrovando-sensazioni-mancavano-1017923",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8f/8f1754c49774d5485abe7831d10c7940-07135-oooz0000.jpeg",
+      "summary": "Terzo gol nelle prime tre partite di campionato con la maglia della Lazio per Davide Frattesi che, dopo aver propiziato la rimonta biancoceleste a Udine, ha parlato così dell'avvio di stagione della sua squadra: \"E' u...",
+      "date": "2026-09-07T21:07:00.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:8ae234ca4a29",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Insigne non basta alla Sampdoria, il Palermo cala il tris: Inzaghi comanda la Serie B",
+      "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/09/07-151097118/insigne_non_basta_alla_sampdoria_il_palermo_cala_il_tris_inzaghi_comanda_la_serie_b/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/07/210139741-f255c0b0-a0d9-46ab-9483-8e63e22cf9ec.jpg",
+      "summary": "Rosanero a punteggio pieno in campionato: segnano Strefezza, Pohjanpalo e Palumbo. Blucerchiati sempre più nei guai con un solo punto in classifica",
+      "date": "2026-09-07T21:03:59.0000000Z"
+    },
+    {
+      "id": "fcinternews:88526b4edcc1",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Il Savoia torna a casa contro l'Inter U23: si giocherà allo Stadio Giraud",
+      "url": "https://www.fcinternews.it/inter-u23/savoia-torna-casa-inter-u23-giochera-stadio-giraud-1017922",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e6/e6f5ec68274603e4584d2a04b6b6a481-12653-oooz0000.jpeg",
+      "summary": "Il Savoia 1908 F.C.",
+      "date": "2026-09-07T20:57:34.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:29e3270d9229",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Lazio, Gattuso chiama i tifosi e ringrazia Lotito: &quot;Grandissimo merito per il mercato&quot;",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/09/07-151089991/lazio_gattuso_chiama_i_tifosi_e_ringrazia_lotito_grandissimo_merito_per_il_mercato/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/07/211835109-42322737-4547-4752-aabe-303f8452eae9.jpg",
+      "summary": "Il tecnico biancoceleste ha fatto il punto sulla trasferta al Bluenergy Stadium. Così anche l'allenatore dei friulani",
+      "date": "2026-09-07T20:50:00.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:12b0b604e2de",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Frattesi &egrave; una sentenza, Gudmundsson subito gol: la Lazio ribalta l&#39;Udinese e aggancia Inter e Roma!",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/2026/09/07-151090078/frattesi_una_sentenza_gudmundsson_subito_gol_la_lazio_ribalta_l_udinese_e_aggancia_inter_e_roma_/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/07/204148712-1accff3a-5fd2-405e-b22a-71089c64ed33.jpg",
+      "summary": "I biancocelesti rimontano il vantaggio dei friulani e rientrano a punteggio pieno della terza giornata di campionato",
+      "date": "2026-09-07T20:48:00.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:5ce744362b8f",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Udinese-Lazio 1-2, biancocelesti a punteggio pieno",
+      "url": "https://www.calciomercato.it/2026/09/07/udinese-lazio-1-2-biancocelesti-a-punteggio-pieno/",
+      "image": null,
+      "summary": "L'articolo Udinese-Lazio 1-2, biancocelesti a punteggio pieno proviene da CalcioMercato.it .",
+      "date": "2026-09-07T20:43:51.0000000Z"
+    },
+    {
+      "id": "fcinternews:68e55e01b52e",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Frattesi, non c'è due senza tre: l'ex Inter ispira la rimonta della Lazio a Udine",
+      "url": "https://www.fcinternews.it/il-resto-della-a/frattesi-1017919",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/31/31b6208cbe6682f75c8526afc8f42e46-66611-oooz0000.jpeg",
+      "summary": "Non c'è due senza tre.",
+      "date": "2026-09-07T20:43:34.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:39492046f3c0",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Locatelli ko, si deve operare! Cosa succede ora: le scelte, i tempi, i problemi di Spalletti",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/09/07-151086324/locatelli_ko_si_deve_operare_cosa_succede_ora_le_scelte_i_tempi_i_problemi_di_spalletti/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/07/210010132-c3629931-4e78-49fe-a38b-2f39501c5590.jpg",
+      "summary": "Problemi per il capitano bianconero, condizioni e tempi di recupero da valutare in vista dei prossimi impegni",
+      "date": "2026-09-07T20:35:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:0aeb5db26cc4",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Croazia, Sucic nella prima lista di Bilic: \"Il criterio? Ho scelto i migliori\"",
+      "url": "https://www.fcinternews.it/news/croazia-sucic-lista-bilic-il-criterio-scelto-migliori-1017920",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/0b/0b6db8b8da867747eef1081a8f5e3d2b-59674-oooz0000.jpeg",
+      "summary": "Slaven Bilić, ct della nazionale croata, ha svelato oggi lista dei giocatori convocati in vista delle prossime quattro partite in calendario, tra la fine di settembre e l'inizio di ottobre.",
+      "date": "2026-09-07T20:33:54.0000000Z"
+    },
+    {
+      "id": "fcinternews:1cc035988305",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Cagliari rialza la testa dopo i ko con Inter e Verona, Maldini: \"Importantissima\"",
+      "url": "https://www.fcinternews.it/il-resto-della-a/cagliari-rialza-testa-ko-inter-verona-maldini-importantissima-1017918",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7a/7a2dea4c653ea84684f304f2d5c1dd97-59916-686o0o1372o686z0ab8.jpeg",
+      "summary": "Il Cagliari rialza la testa battendo il Lecce 1-0 grazie a un gol di Daniel Maldini, un gol che scaccia via le nubi che si erano addensate attorno alla squadra dopo l'eliminazione dalla Coppa Italia per mano dell'Hell...",
+      "date": "2026-09-07T20:18:23.0000000Z"
     },
     {
       "id": "fcinternews:a5bce2f87fb0",
@@ -27,30 +219,6 @@
       "date": "2026-09-07T20:04:16.0000000Z"
     },
     {
-      "id": "fcinternews:3ff8fa4bec54",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Solet e Piotrowski infortunati: condizioni da valutare in vista di Inter-Udinese",
-      "url": "https://www.fcinternews.it/l-avversario/solet-piotrowski-infortunati-condizioni-valutare-vista-inter-udinese-1017917",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/39/39ead1c6c1ee5e6c2780b4a9669e238b-57899-1067o95o1786o815z0eb3.jpeg",
-      "summary": "L'Udinese dovrà valutare nelle prossime ore le condizioni di Jakub Piotrowski e Oumar Solet, costretti a dare forfait per infortunio nel primo tempo della gara con la Lazio, quella che chiude la terza giornata di Seri...",
-      "date": "2026-09-07T19:50:22.0000000Z"
-    },
-    {
-      "id": "fcinternews:484ffb3275e6",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Sky - Real-Inter, mezza rivoluzione di Chivu: 5 cambi rispetto al Napoli",
-      "url": "https://www.fcinternews.it/in-primo-piano/i-sky-i-real-inter-mezza-rivoluzione-chivu-5-cambi-napoli-1017916",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d6/d624b868ebd9ffcb62b49dcd613b311a-72068-oooz0000.jpeg",
-      "summary": "Sky Sport ipotizza una mezza rivoluzione a livello di formazione per l'Inter, domani in campo al Bernabeu per l'esordio in Champions League contro il Real Madrid: rispetto alla sfida di campionato vinta a spese del Na...",
-      "date": "2026-09-07T19:35:29.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:92c357d8e5f4",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -61,18 +229,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/09/07/190257531-b37ea0ab-f856-4e8e-b165-d27a9b416d40.jpg",
       "summary": "Il tecnico del Cagliari ha commentato ai microfoni di Dazn la vittoria in campionato contro il Lecce",
       "date": "2026-09-07T19:26:36.0000000Z"
-    },
-    {
-      "id": "fcinternews:f56848d9e8b3",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Lavezzi: \"Inter, tecnica e carattere col Napoli. Lautaro? Qualità immensa\"",
-      "url": "https://www.fcinternews.it/focus/lavezzi-inter-tecnica-carattere-napoli-lautaro-qualita-immensa-1017915",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/14/143a060966c43df2544df1bec458c9ed-51206-oooz0000.jpeg",
-      "summary": "Intervistato da Jolanda De Rienzo, Ezequiel Lavezzi ha ripensato a Inter-Napoli 3-2, gara dai mille colpi di scena, dalla quale la squadra di Max Allegri è uscita con l'amaro in bocca, beffata al 90' da una rimonta ep...",
-      "date": "2026-09-07T19:20:00.0000000Z"
     },
     {
       "id": "calciomercato-it:d4bc7b0b5376",
@@ -92,35 +248,11 @@
       "source": "Tuttosport",
       "platform": "rss",
       "category": "calcio",
-      "title": "Juve, il Celta Vigo ancora a secco di vittorie. Starfelt risponde a Satriano: pari con il Getafe",
+      "title": "Juve, aspettando l&#39;Europa. Celta Vigo ancora a secco: pari col Getafe. Tris Real Sociedad all&#39;Elche",
       "url": "https://www.tuttosport.com/news/calcio/calcio-estero/liga/2026/09/07-151090167/juve_il_celta_vigo_ancora_a_secco_di_vittorie_starfelt_risponde_a_satriano_pari_con_il_getafe/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/07/190733743-82e75916-f6cc-4d4b-a28b-9ab64b9016f1.jpg",
-      "summary": "Gli uomini di Giraldez, avversari dei bianconeri in Europa League, reagiscono al vantaggio dei padroni di casa ed evitano il 3º ko stagionale",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/07/213943602-df72306b-1cd8-40c1-83c5-38149aa30783.jpg",
+      "summary": "Gli uomini di Giraldez reagiscono al vantaggio dei padroni di casa ed evitano il 3º ko stagionale. Bene i biancoblu di Matarazzo",
       "date": "2026-09-07T19:08:38.0000000Z"
-    },
-    {
-      "id": "fcinternews:39b289619364",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "VIDEO - La vigilia di Real Madrid-Inter, Chivu \"risponde\" a Mourinho: le ultime dal Bernabeu",
-      "url": "https://www.fcinternews.it/web-tv/video-vigilia-real-madrid-inter-chivu-risponde-mourinho-ultime-bernabeu-1017913",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6f/6f5a5b91b5c204711d3de980b3846bc0-00707-oooz0000.jpeg",
-      "summary": "Il commento dell'inviato di FcInterNews, Domenico Fabbricini, dal Santiago Bernabeu dopo le conferenze stampa di Lautaro e Chivu, alla vigilia della super sfida tra l'Inter e il Real Madrid di Mourinho. .",
-      "date": "2026-09-07T19:05:42.0000000Z"
-    },
-    {
-      "id": "fcinternews:a04e3626a125",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Maldini segna e il Cagliari vince: Lecce battuto 1-0 all'Unipol Domus",
-      "url": "https://www.fcinternews.it/il-resto-della-a/maldini-segna-cagliari-vince-lecce-battuto-1-0-unipol-domus-1017911",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/45/457d673d4dc8c2d3967a02def15af39e-00290-435o53o1327o945z0ac8.jpeg",
-      "summary": "Basta un gol di Daniel Maldini al Cagliari per superare l'ostacolo Lecce. Dopo ventinove minuti privi di grandi emozioni, i sardi hanno trovato la rete decisiva un minuto prima della mezz'ora.",
-      "date": "2026-09-07T18:50:14.0000000Z"
     },
     {
       "id": "tuttosport-calcio:eda354221f2e",
@@ -135,18 +267,6 @@
       "date": "2026-09-07T18:47:35.0000000Z"
     },
     {
-      "id": "fcinternews:80a44063daf7",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Chivu a ITV: \"I ragazzi sono abituati a certi stadi. Faremo una grande partita\"",
-      "url": "https://www.fcinternews.it/news/chivu-i-itv-i-i-ragazzi-abituati-stadi-partita-1017910",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/68/6896d47e22c4317d15d432d9c945af49-77392-oooz0000.jpeg",
-      "summary": "Intervistato da Inter TV a 24 ore da Real Madrid-Inter, l'allenatore nerazzurro Cristian Chivu ha iniziato così: \"Rispetto alla Serie A è una competizione diversa, un minitorneo di otto partite.",
-      "date": "2026-09-07T18:35:01.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:232216335c78",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -157,18 +277,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/09/07/175411491-379ef110-aaf3-46dc-9fa3-9b088cd840b6.jpg",
       "summary": "La formazione sarda sale a quota 6 punti: seconda sconfitta consecutiva per i salentini che restano fermi a quota 3",
       "date": "2026-09-07T18:27:08.0000000Z"
-    },
-    {
-      "id": "fcinternews:fdecd3c754f9",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Lautaro Martinez a ITV: \"Contro il Real dobbiamo essere pronti a tutto\"",
-      "url": "https://www.fcinternews.it/news/lautaro-martinez-itv-contro-real-dobbiamo-pronti-tutto-1017908",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3f/3ff2ff4f23d26e5e678ab198f495d15e-48684-oooz0000.jpeg",
-      "summary": "\"Io sto bene, la squadra ha recuperato le energie in queste ore. Abbiamo avuto poco tempo per preparare la gara, ma l'abbiamo fatto nel migliore dei modi.",
-      "date": "2026-09-07T18:20:19.0000000Z"
     },
     {
       "id": "calciomercato-it:44ee99e13839",
@@ -183,18 +291,6 @@
       "date": "2026-09-07T18:08:07.0000000Z"
     },
     {
-      "id": "fcinternews:a93e6d6249ec",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Quote Scudetto, Roma vera rivale dell'Inter. Molto distanti Juve e Milan",
-      "url": "https://www.fcinternews.it/news/quote-scudetto-1017870",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/02/029657d8a82fc42970996bcd748d3426-35912-oooz0000.jpeg",
-      "summary": "Una vittoria in rimonta, nei minuti di recupero, dopo una partita che sembrava stregata.",
-      "date": "2026-09-07T18:05:12.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:ad03f40335f2",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -205,30 +301,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/09/07/175147233-77c4b3a7-b44b-4d7e-8aa4-e5bcfa5af601.jpg",
       "summary": "Il tecnico ha fatto il punto sulla preparazione al debutto in Europa che vedrà i nerazzurri ritrovare l'ex al Bernabeu",
       "date": "2026-09-07T17:52:56.0000000Z"
-    },
-    {
-      "id": "fcinternews:376afbe53b9c",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Lautaro a Sky: \"Il Real è forte, ma noi abbiamo le nostre armi. La fame che ho dentro...\"",
-      "url": "https://www.fcinternews.it/news/lautaro-i-sky-i-la-champions-obiettivo-fame-dentro-1017907",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/dc/dc6789c17498e318ecc423223867614d-84684-oooz0000.jpeg",
-      "summary": "Non solo la conferenza stampa per Lautaro Martinez alla vigilia di Real Madrid-Inter. Il capitano dell'Inter ha risposto alle domande di Sky Sport in vista dell'esordio stagionale in Champions League.",
-      "date": "2026-09-07T17:48:01.0000000Z"
-    },
-    {
-      "id": "fcinternews:28ceefad7d01",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Chivu a Sky: \"Thuram titolare? Sta meglio e dopo il gol ha più fiducia\"",
-      "url": "https://www.fcinternews.it/copertina/chivu-sky-thuram-titolare-gol-fiducia-1017906",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7f/7f4a47d4340a2a8e9dfb31ddd8aadd99-88186-oooz0000.jpeg",
-      "summary": "\"Saremo pronti, poi la partita va giocata Sulla carta, a parole, è sempre semplice. Bisogna dimostrare il nostro valore in campo\".",
-      "date": "2026-09-07T17:42:00.0000000Z"
     },
     {
       "id": "tuttosport-calcio:bc8b08884fa0",
@@ -279,42 +351,6 @@
       "date": "2026-09-07T17:05:14.0000000Z"
     },
     {
-      "id": "tuttosport-calcio:209faa7379de",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>Vanoli alla Fiorentina, &egrave; ufficiale: tutti i dettagli e il comunicato del club&nbsp;</p>",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/fiorentina/2026/09/07-151079490/vanoli_alla_fiorentina_ufficiale_tutti_i_dettagli_e_il_comunicato_del_club/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/07/074454797-1496f9a1-7fc5-4c73-a0db-a0bcd03c5d8b.jpg",
-      "summary": "La Viola sceglie nuovamente l'allenatore che aveva messo alla porta al termine della scorsa stagione",
-      "date": "2026-09-07T16:33:00.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:f49d91281988",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "&ldquo;Niente mano. Come&hellip;&rdquo;: Chivu spavaldo anche in allenamento, la frase fa il giro del web",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/09/07-151088058/niente_mano_come_chivu_spavaldo_anche_in_allenamento_la_frase_fa_il_giro_del_web/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/07/153601019-ce132190-f60b-46cc-9cbf-dc130ce02262.jpg",
-      "summary": "Resistono le polemiche sull'episodio contestato dai nerazzurri a San Siro, dove i padroni di casa hanno rimontato il vantaggio del Napoli",
-      "date": "2026-09-07T15:37:51.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:996ac02c6f75",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>Kessie, il no alla Juve e l&#39;Atalanta: &quot;Vi spiego&quot;. E Giuntoli snobba Alajbegovic!</p>",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/atalanta/2026/09/07-151088055/kessie_il_no_alla_juve_e_l_atalanta_vi_spiego_e_giuntoli_snobba_alajbegovic_/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/07/152411738-c99df0e1-eff4-4246-9c68-fee22594daff.jpg",
-      "summary": "Il centrocampista si (ri)presenta a Bergamo e motiva la sua scelta. E il direttore sportivo sull'ala dei bianconeri...",
-      "date": "2026-09-07T15:34:07.0000000Z"
-    },
-    {
       "id": "calciomercato-it:d3d6d42aae91",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -325,18 +361,6 @@
       "image": null,
       "summary": "L'articolo Lazio, rinforzo a zero: arriva uno svincolato di lusso proviene da CalcioMercato.it .",
       "date": "2026-09-07T15:33:29.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:499cd83543b6",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>&quot;Inter? Preferisco il Milan&quot;, Mbapp&eacute; pronto a tornare in Champions: &quot;Per il Pallone d&#39;Oro...&quot;</p>",
-      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/09/07-151087197/inter_preferisco_il_milan_mbapp_pronto_a_tornare_in_champions_per_il_pallone_d_oro_/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/07/143055792-c0c3d2b9-7e8f-4a4f-ae13-813197ed949c.jpg",
-      "summary": "Le parole dell'attaccante del Real Madrid in conferenza stampa alla vigilia della sfida europea contro i nerazzurri",
-      "date": "2026-09-07T14:51:55.0000000Z"
     },
     {
       "id": "calciomercato-it:8eaa30dbee0f",
@@ -409,30 +433,6 @@
       "image": null,
       "summary": "L'articolo Real Madrid-Inter, l’ex Mourinho nei guai: emergenza totale proviene da CalcioMercato.it .",
       "date": "2026-09-07T09:27:22.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:f062071519cd",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Pulisic in panchina per tutta la partita, ora lo statunitense è un caso",
-      "url": "https://www.calciomercato.it/2026/09/07/pulisic-in-panchina-per-tutta-la-partita-ora-lo-statunitense-e-un-caso/",
-      "image": null,
-      "summary": "L'articolo Pulisic in panchina per tutta la partita, ora lo statunitense è un caso proviene da CalcioMercato.it .",
-      "date": "2026-09-07T08:02:01.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:948928daf715",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Roma, nuovi contatti per Sancho: la strategia giallorossa – CM",
-      "url": "https://www.calciomercato.it/2026/09/07/roma-nuovi-contatti-per-sancho-la-strategia-giallorossa-cm/",
-      "image": null,
-      "summary": "L'articolo Roma, nuovi contatti per Sancho: la strategia giallorossa – CM proviene da CalcioMercato.it .",
-      "date": "2026-09-07T06:50:04.0000000Z"
     }
   ]
 }

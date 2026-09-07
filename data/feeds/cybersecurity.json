@@ -1,6 +1,6 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-07T20:10:55.8949206Z",
+  "updated": "2026-09-07T22:51:21.8214145Z",
   "items": [
     {
       "id": "cybersecurity360:2fc78bf12bbd",
@@ -63,6 +63,18 @@
       "date": "2026-09-07T07:00:00.0000000Z"
     },
     {
+      "id": "cybersecurity360:1e08cd0444b4",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber resilienza negli impianti: metriche OT e strategie di governance",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-resilienza-negli-impianti-metriche-ot-e-strategie-di-governance/",
+      "image": null,
+      "summary": "La cyber resilienza industriale non si misura soltanto sulla capacità di prevenire gli attacchi, ma sulla continuità dei processi e sulla rapidità del ripristino. Metriche OT, governance e responsabilità definite perm...",
+      "date": "2026-09-04T16:00:00.0000000Z"
+    },
+    {
       "id": "cybersecurity360:5784f7188cdd",
       "sourceId": "cybersecurity360",
       "source": "Cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Proton Pass propone il piano Plus annuale a 2,49 euro al mese per i primi 12 mesi. L'offerta include gestione E2EE delle credenziali, alias email, 2FA integrata, monitoraggio del Dark Web e supporto alle Passkey L'art...",
       "date": "2026-09-04T10:44:21.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a2a73911e4b0",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Control Gap dell’AI: la corsa all’adozione lascia i dati vulnerabili",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/control-gap-ai-claude-mythos/",
-      "image": null,
-      "summary": "Con il debutto di Claude Mythos, il tempo che intercorre tra la scoperta di una vulnerabilità e la compromissione attiva (con accessi non autorizzati) si sta azzerando. Ecco cosa implica il fatto che la velocità delle...",
-      "date": "2026-09-04T10:06:00.0000000Z"
     }
   ]
 }
