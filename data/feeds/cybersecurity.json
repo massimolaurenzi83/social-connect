@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-07T11:31:58.2308653Z",
+  "updated": "2026-09-07T16:39:36.1318884Z",
   "items": [
+    {
+      "id": "cybersecurity360:2fc78bf12bbd",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Voucher Cloud & Cybersecurity: ecco come le PMI devono presentare la domanda",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/voucher-cloud-cybersecurity-ecco-come-le-pmi-devono-presentare-la-domanda/",
+      "image": null,
+      "summary": "Conclusa la fase della compilazione dell’elenco fornitori, ora è il momento della definizione del processo di invio della domanda da parte di PMI e liberi professionisti. Ecco come presentare la domanda per il Voucher...",
+      "date": "2026-09-07T14:58:14.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:e0740ba08efd",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Le passkey di Google possono essere sottratte da un PC già infetto",
+      "url": "https://www.cybersecurity360.it/news/passkey-google-sottratte-pc/",
+      "image": null,
+      "summary": "Tre tecniche descritte da Unit 42 colpiscono Google Password Manager in Chrome per Windows. Non rompono la crittografia delle passkey di Google e richiedono un computer già compromesso, ma mostrano che sincronizzazion...",
+      "date": "2026-09-07T12:35:50.0000000Z"
+    },
     {
       "id": "cybersecurity360:38d92ba2dc6f",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Con il debutto di Claude Mythos, il tempo che intercorre tra la scoperta di una vulnerabilità e la compromissione attiva (con accessi non autorizzati) si sta azzerando. Ecco cosa implica il fatto che la velocità delle...",
       "date": "2026-09-04T10:06:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:6c746b7e0eb8",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Server Exchange, cinque scudi per la posta elettronica",
-      "url": "https://www.cybersecurity360.it/outlook/server-exchange-cinque-scudi/",
-      "image": null,
-      "summary": "La sicurezza dei server Exchange dipende dalla capacità di ridurne l’esposizione, correggere rapidamente le vulnerabilità e riconoscere un’intrusione già avvenuta. Di cosa tenere conto e quali strumenti sono d’aiuto L...",
-      "date": "2026-09-04T09:10:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:760d653640ec",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Organizzazioni “buone” o “brave” negli adempimenti GDPR: il futuro si progetta",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/organizzazioni-buone-o-brave-negli-adempimenti-gdpr-il-futuro-si-progetta/",
-      "image": null,
-      "summary": "La distinzione tra organizzazioni “buone” - che rispettano le regole già definite da altri - e quelle “brave” - che comprendono i trattamenti, valutano i rischi, trasformando gli adempimenti in strumenti di governo - ...",
-      "date": "2026-09-04T07:00:00.0000000Z"
     }
   ]
 }

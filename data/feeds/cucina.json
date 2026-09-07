@@ -1,7 +1,43 @@
 {
   "category": "cucina",
-  "updated": "2026-09-07T11:31:58.2583045Z",
+  "updated": "2026-09-07T16:39:36.1226305Z",
   "items": [
+    {
+      "id": "giallozafferano:26ec9a4800c2",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Spezzatino di soia in bianco",
+      "url": "https://ricette.giallozafferano.it/Spezzatino-di-soia-in-bianco.html",
+      "image": "https://www.giallozafferano.it/images/365-36590/Spezzatino-di-soia-in-bianco_1200x800.jpg",
+      "summary": "Lo spezzatino di soia in bianco è una sfiziosa ricetta per chi cerca valide alternative alla carne. I bocconcini di soia vengono insaporiti con cipolla e salsa di soia e cuociono lentamente fino a diventare morbidi e ...",
+      "date": "2026-09-07T13:33:00.0000000Z"
+    },
+    {
+      "id": "dissapore:c82c79726d2d",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "In Ucraina la guerra ha messo al centro la produzione di acqua in bottiglia",
+      "url": "https://www.dissapore.com/notizie/in-ucraina-la-guerra-ha-messo-al-centro-la-produzione-di-acqua-in-bottiglia/",
+      "image": null,
+      "summary": "Il governo sta cercando di gestire in proprio la più grande azienda di imbottigliamento e distribuzione di acqua del Paese, ma è un'operazione complessa. L'articolo In Ucraina la guerra ha messo al centro la produzion...",
+      "date": "2026-09-07T13:01:43.0000000Z"
+    },
+    {
+      "id": "giallozafferano:3fef0124be18",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Focaccia all'uva con crema al Parmigiano",
+      "url": "https://ricette.giallozafferano.it/Focaccia-all-uva-con-crema-al-Parmigiano.html",
+      "image": "https://www.giallozafferano.it/images/365-36589/Focaccia-all-uva-con-crema-al-Parmigiano_1200x800.jpg",
+      "summary": "La focaccia all'uva con crema al Parmigiano è un lievitato appetitoso, morbido e saporito, perfetto da portare in tavola per un aperitivo o un antipasto sfizioso. Con la nostra ricetta preparerete una soffice focaccia...",
+      "date": "2026-09-07T12:49:00.0000000Z"
+    },
     {
       "id": "dissapore:1f73530dc87a",
       "sourceId": "dissapore",
@@ -183,18 +219,6 @@
       "date": "2026-09-02T09:49:00.0000000Z"
     },
     {
-      "id": "dissapore:6db7f01a3d73",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "La produzione di riso non è mai stata così disastrosa: e se la soluzione fosse il riso nucleare?",
-      "url": "https://www.dissapore.com/notizie/la-produzione-di-riso-non-e-mai-stata-cosi-disastrosa-e-se-la-soluzione-fosse-il-riso-nucleare/",
-      "image": null,
-      "summary": "Il calo drastico della produzione globale di riso, dovuto al cambiamento climatico e all'instabilità politica e commerciale, è un gigantesco campanello d'allarme per l'agricoltura. L'articolo La produzione di riso non...",
-      "date": "2026-09-01T14:57:04.0000000Z"
-    },
-    {
       "id": "giallozafferano:7bdece2f7138",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -265,30 +289,6 @@
       "image": "https://www.giallozafferano.it/images/365-36568/Gelato-senza-lattosio-su-stecco_1200x800.jpg",
       "summary": "Il gelato senza lattosio su stecco è un’idea genuina e golosa, perfetta per concedersi una pausa rinfrescante nelle giornate più calde. Una ricetta semplice e furba , alla portata di tutti, pensata anche per chi soffr...",
       "date": "2026-08-27T14:19:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:65600731a2df",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Pasta con pesto e calamari",
-      "url": "https://ricette.giallozafferano.it/Pasta-con-pesto-e-calamari.html",
-      "image": "https://www.giallozafferano.it/images/365-36567/Pasta-con-pesto-e-calamari_1200x800.jpg",
-      "summary": "La pasta con pesto e calamari è un primo piatto di mare che unisce il profumo intenso del basilico alla delicatezza dei calamari. Il pesto avvolge gli spaghetti con la sua consistenza cremosa, mentre i calamari, salta...",
-      "date": "2026-08-27T13:25:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:b268feb97060",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Cheesecake fredda al cioccolato",
-      "url": "https://ricette.giallozafferano.it/Cheesecake-fredda-al-cioccolato.html",
-      "image": "https://www.giallozafferano.it/images/365-36564/Cheesecake-fredda-al-cioccolato_1200x800.jpg",
-      "summary": "La cheesecake fredda al cioccolato è un dolce goloso e cremoso che si prepara senza forno e senza gelatina . È proprio l’aggiunta del cioccolato a dare alla crema la giusta consistenza: una volta fredda, la cheesecake...",
-      "date": "2026-08-26T14:36:00.0000000Z"
     }
   ]
 }

@@ -1,7 +1,55 @@
 {
   "category": "energia",
-  "updated": "2026-09-07T11:31:58.1968358Z",
+  "updated": "2026-09-07T16:39:36.0763271Z",
   "items": [
+    {
+      "id": "qualenergia:4058a0b9605f",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Rinnovabili, installati 3,4 GW nei primi sei mesi del 2026",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/rinnovabili-installati-3-gw-primi-sei-mesi-2026/",
+      "image": null,
+      "summary": "Le nuove installazioni di fonti rinnovabili in Italia sono in una “sostanziale stagnazione”, secondo l’ultimo aggiornamento dell’Osservatorio Fer di Anie Rinnovabili pubblicato oggi, lunedì 7 settembre. A riprova di c...",
+      "date": "2026-09-07T13:15:11.0000000Z"
+    },
+    {
+      "id": "qualenergia:d14b56de6749",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "L’energia in Parlamento questa settimana: 7-11 settembre 2026",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/energia-in-parlamento-settimana-7-11-settembre-2026/",
+      "image": null,
+      "summary": "Il Parlamento riprende i lavori a pieno regime dopo la pausa estiva. Tra i temi energetici più rilevanti della settimana parlamentare c’è il ddl sulla cattura della CO2, collegato alla manovra di finanza pubblica, all...",
+      "date": "2026-09-07T13:00:20.0000000Z"
+    },
+    {
+      "id": "qualenergia:fec446e2a0a6",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Ecco cosa sappiamo del decreto Imprese/Rinnovabili",
+      "url": "https://www.qualenergia.it/articoli/ecco-cosa-sappiamo-decreto-imprese-rinnovabili/",
+      "image": null,
+      "summary": "Un contenitore ancora tutto da riempire con le idee dei tecnici del Mimit, che solo a ottobre dovrebbe essere presentato sotto forma di decreto. È questo, per ora, il Dm Imprese-Rinnovabili che il ministro Adolfo Urso...",
+      "date": "2026-09-07T12:45:56.0000000Z"
+    },
+    {
+      "id": "qualenergia:455d28c9b963",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Per il sistema elettrico nazionale investimenti di 200 miliardi in dieci anni",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/sistema-elettrico-nazionale-investimenti-200-miliardi-dieci-anni/",
+      "image": null,
+      "summary": "Fino a 200 miliardi di euro di investimenti aggiuntivi nel sistema elettrico italiano nei prossimi dieci anni, con una media di 15-20 miliardi l’anno. È il potenziale individuato da TEHA Group nello studio “L’elettric...",
+      "date": "2026-09-07T12:45:16.0000000Z"
+    },
     {
       "id": "qualenergia:0aa9dc935db4",
       "sourceId": "qualenergia",
@@ -15,16 +63,16 @@
       "date": "2026-09-07T09:30:14.0000000Z"
     },
     {
-      "id": "qualenergia:9fba611f2999",
+      "id": "qualenergia:08999ebc26cb",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "Da Terna nuova consultazione sul Codice di rete",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/terna-nuova-consultazione-codice-rete-2/",
+      "title": "Con il FER X la partita si gioca prima della gara",
+      "url": "https://www.qualenergia.it/articoli/fer-x-partita-si-gioca-prima-gara/",
       "image": null,
-      "summary": "Terna ha avviato il 4 settembre una consultazione sulla proposta per aggiornare il Codice di rete e il Load Frequency Control Block Operational Agreement per il blocco Italia, ossia l’accordo previsto dal regolamento ...",
-      "date": "2026-09-07T09:00:45.0000000Z"
+      "summary": "Con il DM 18 giugno 2026 n. 194, il decreto direttoriale Mase del 7 agosto e le regole operative pubblicate dal Gse il 10 agosto, il FER X definitivo è operativo. Il contingente complessivo è di 37,15 GW fino al 31 di...",
+      "date": "2026-09-07T08:45:57.0000000Z"
     },
     {
       "id": "qualenergia:a7afcfc91c5d",
@@ -51,6 +99,18 @@
       "date": "2026-09-07T07:45:24.0000000Z"
     },
     {
+      "id": "qualenergia:9fba611f2999",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Da Terna nuova consultazione sul Codice di rete",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/terna-nuova-consultazione-codice-rete-2/",
+      "image": null,
+      "summary": "Terna ha avviato il 4 settembre una consultazione sulla proposta per aggiornare il Codice di rete e il Load Frequency Control Block Operational Agreement per il blocco Italia, ossia l’accordo previsto dal regolamento ...",
+      "date": "2026-09-07T07:15:45.0000000Z"
+    },
+    {
       "id": "qualenergia:7a84ef08f10a",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -75,76 +135,16 @@
       "date": "2026-09-07T06:55:36.0000000Z"
     },
     {
-      "id": "qualenergia:899175232e62",
+      "id": "qualenergia:50d40d648ab7",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "L’elettricità per un’Italia più sicura e competitiva",
-      "url": "https://www.qualenergia.it/pro/documenti/lelettricita-per-unitalia-piu-sicura-e-competitiva/",
+      "title": "Bandi e appalti del giorno (4)",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
       "image": null,
-      "summary": "Quello elettrico è il primo settore industriale per investimenti in Italia, ed è pronto a investire ulteriormente fino a 200 miliardi di euro nei prossimi dieci anni. La filiera allargata vale il 4,4% del Pil con l’in...",
-      "date": "2026-09-07T05:15:55.0000000Z"
-    },
-    {
-      "id": "qualenergia:ed359064492d",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "LA FORMAZIONE ENERGETICA IN ITALIA",
-      "url": "https://www.qualenergia.it/pro/documenti/formazione-energetica-in-italia/",
-      "image": null,
-      "summary": "Corsi universitari, master, ITS Academy, stage, seminari di formazione a vari livelli su tematiche energetiche, fonti rinnovabili, efficienza energetica e mobilità elettrica. Destinatari: studenti diplomati, universit...",
-      "date": "2026-09-07T05:15:30.0000000Z"
-    },
-    {
-      "id": "qualenergia:75fbc12ed21f",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Corso “Tecnico Superiore dell’Efficientamento Energetico”",
-      "url": "https://www.qualenergia.it/pro/documenti/corso-tecnico-superiore-dellefficientamento-energetico/",
-      "image": null,
-      "summary": "Il corso “Tecnico Superiore dell’Efficientamento Energetico” intende formare Tecnici Superiori con conoscenze e competenze altamente specialistiche nell’area dell’efficienza energetica tali da consentire loro un più e...",
-      "date": "2026-09-07T05:00:11.0000000Z"
-    },
-    {
-      "id": "qualenergia:c806b8589e7b",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "INFODATA ENERGIA",
-      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
-      "image": null,
-      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Consumi gas naturale ...",
-      "date": "2026-09-07T04:30:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:28c24aba79dc",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "BANDI E APPALTI",
-      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
-      "image": null,
-      "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
-      "date": "2026-09-06T22:25:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:231c22bcd05e",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Segnala un corso di formazione sull’energia",
-      "url": "https://www.qualenergia.it/articoli/segnala-corso-formazione-energia/",
-      "image": null,
-      "summary": "QualEnergia.it ha attivato da oltre un anno la rubrica “La formazione energetica in Italia”, uno spazio dedicato a raccogliere, valorizzare e rendere più accessibile l’offerta formativa nei settori delle fonti rinnova...",
-      "date": "2026-09-04T14:45:20.0000000Z"
+      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
+      "date": "2026-09-07T06:30:17.0000000Z"
     }
   ]
 }
