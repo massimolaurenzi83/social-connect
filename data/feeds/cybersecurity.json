@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-07T05:54:36.4396382Z",
+  "updated": "2026-09-07T11:31:58.2308653Z",
   "items": [
+    {
+      "id": "cybersecurity360:38d92ba2dc6f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Oltre l’antivirus per le PMI: il fattore umano e l’assistenza esperta nella protezione degli endpoint",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/cybersecurity-pmi-fattore-umano-protezione-endpoint-kaspersky/",
+      "image": null,
+      "summary": "Kaspersky Small Office Security Premium estende la protezione degli endpoint con assistenza IT, installazione guidata e formazione sulla Security Awareness. L'offerta promozionale è disponibile fino al 30 settembre 20...",
+      "date": "2026-09-07T09:26:59.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:79e0c0c337e2",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "OpenAI-Hugging Face: il rischio non sono gli agenti che “fuggono”, ma i controlli che falliscono",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/openai-hugging-face-il-rischio-non-sono-gli-agenti-che-fuggono-ma-i-controlli-che-falliscono/",
+      "image": null,
+      "summary": "Gli agenti OpenAI non hanno sviluppato una volontà autonoma di “fuggire”: hanno sfruttato confini deboli, permessi eccessivi e canali di comunicazione non previsti fino a raggiungere sistemi esterni. Il caso Hugging F...",
+      "date": "2026-09-07T08:06:39.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:a0b26dd1190f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il ciclo di vita digitale: perché CRA e AI Act cambiano la compliance",
+      "url": "https://www.cybersecurity360.it/legal/approccio-life-cycle-il-ciclo-di-vita-digitale-perche-cra-e-ai-act-cambiano-la-compliance/",
+      "image": null,
+      "summary": "La compliance diventa una capacità organizzativa continua, documentata e verificabile, fino alla dismissione della tecnologia. Ecco le convergenze e le differenze tra i due regolamenti, il contributo degli standard te...",
+      "date": "2026-09-07T07:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:5784f7188cdd",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "La distinzione tra organizzazioni “buone” - che rispettano le regole già definite da altri - e quelle “brave” - che comprendono i trattamenti, valutano i rischi, trasformando gli adempimenti in strumenti di governo - ...",
       "date": "2026-09-04T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2ba5a3b27f9e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Bugpocalypse: perché l’apocalisse AI è in ritardo",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/bugpocalypse-perche-lapocalisse-ai-e-in-ritardo/",
-      "image": null,
-      "summary": "Un’analisi approfondita sul ritardo della crisi informatica legata alla intelligenza artificiale offensiva con una analisi dei colli di bottiglia dei criminali e delle strategie architetturali necessarie per protegger...",
-      "date": "2026-09-03T15:07:15.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:51c82c1f6f7d",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Email aziendali, metadati e controlli difensivi: l’utilizzabilità della prova digitale",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/email-aziendali-metadati-e-controlli-difensivi-lutilizzabilita-della-prova-digitale/",
-      "image": null,
-      "summary": "Una recente sentenza del tribunale di Pisa offre spunti interpretativi interessanti e una soluzione condivisibile sul piano operativo, anche se soggetta a possibili interventi di riforma nei successivi gradi di giudiz...",
-      "date": "2026-09-03T13:30:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d371fc340f63",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "ClickFix evolve con TerminalFix: il falso CAPTCHA diventa una porta verso la rete aziendale",
-      "url": "https://www.cybersecurity360.it/news/clickfix-evolve-con-terminalfix-il-falso-captcha-diventa-una-porta-verso-la-rete-aziendale/",
-      "image": null,
-      "summary": "Un falso CAPTCHA convince la vittima a eseguire PowerShell, ma è solo l’inizio. Con TerminalFix, ClickFix evolve in una catena multistadio che effettua ricognizione dell’ambiente Active Directory e crea un reverse tun...",
-      "date": "2026-09-03T12:29:31.0000000Z"
     }
   ]
 }
