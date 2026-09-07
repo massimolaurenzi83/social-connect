@@ -1,7 +1,32 @@
 {
   "category": "sport",
-  "updated": "2026-09-07T00:57:32.4859104Z",
+  "updated": "2026-09-07T05:54:36.4554514Z",
   "items": [
+    {
+      "id": "corrieresport:91d82cbc7b37",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Allegri, il rischio over",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/09/07-151076020/allegri_il_rischio_over/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/09/07/045411240-6b43c2af-f798-4044-a329-fe6c3792655e.jpg",
+      "summary": "Leggi il commento del direttore del Corriere dello Sport-Stadio",
+      "date": "2026-09-07T05:38:25.0000000Z"
+    },
+    {
+      "id": "skysport-yt:iOaiTZZiiz8",
+      "sourceId": "skysport-yt",
+      "source": "Sky Sport",
+      "platform": "youtube",
+      "category": "sport",
+      "title": "Bundesliga, G2: Eintracht F.-Augsburg LIVE in diretta streaming",
+      "url": "https://www.youtube.com/watch?v=iOaiTZZiiz8",
+      "image": "https://i.ytimg.com/vi/iOaiTZZiiz8/hqdefault.jpg",
+      "summary": "",
+      "videoId": "iOaiTZZiiz8",
+      "date": "2026-09-07T05:28:16.0000000Z"
+    },
     {
       "id": "skysport-yt:UjHbRvrdA0Q",
       "sourceId": "skysport-yt",
@@ -144,19 +169,6 @@
       "summary": "",
       "videoId": "B_vWtHn3P-c",
       "date": "2026-09-07T00:00:06.0000000Z"
-    },
-    {
-      "id": "skysport-yt:6sspRZevm68",
-      "sourceId": "skysport-yt",
-      "source": "Sky Sport",
-      "platform": "youtube",
-      "category": "sport",
-      "title": "Serie C, la gol collection di domenica 6 settembre",
-      "url": "https://www.youtube.com/watch?v=6sspRZevm68",
-      "image": "https://i.ytimg.com/vi/6sspRZevm68/hqdefault.jpg",
-      "summary": "",
-      "videoId": "6sspRZevm68",
-      "date": "2026-09-06T23:56:48.0000000Z"
     },
     {
       "id": "corrieresport:c7721aa45c4a",
@@ -433,18 +445,6 @@
       "image": null,
       "summary": "Lungo applauso condiviso tra tifosi bianconeri e rossoneri",
       "date": "2026-09-06T18:40:51.0000000Z"
-    },
-    {
-      "id": "corrieresport:ea37fb80843f",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Bundesliga, Augusta ancora in vetta dopo il colpo a Francoforte. Domina anche il Magonza &nbsp;&nbsp;",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/bundesliga/2026/09/06-151068258/bundesliga_augusta_ancora_in_vetta_dopo_il_colpo_a_francoforte_domina_anche_il_magonza/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/09/06/180730285-4d34df59-1355-4445-a228-3c328c638ecc.jpg",
-      "summary": "Tantissimi gol nei posticipi della seconda giornata del campionato tedesco: i dettagli",
-      "date": "2026-09-06T18:12:09.0000000Z"
     },
     {
       "id": "cronachespogliatoio:8z_mVKVBbZY",

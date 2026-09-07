@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-07T00:57:32.5108236Z",
+  "updated": "2026-09-07T05:54:36.5311728Z",
   "items": [
+    {
+      "id": "insideevs:4ad543289673",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "In Cina nascono 3 nuove auto elettriche al giorno. Ma c'è un problema",
+      "url": "https://insideevs.it/news/807103/cina-ritmo-crescita-problema-qualita/",
+      "image": "https://cdn.motor1.com/images/mgl/G3BPx1/s3/catl-shenxing-fast-charging-lfp-battery-announcement.jpg",
+      "summary": "Le Case del Dragone sviluppano modelli a tempo di record. Però, correndo a questa velocità, compromettono la qualità. Anche delle batterie",
+      "date": "2026-09-07T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:3741df36c264",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "McLaren W1 vs Ferrari F80, sfida tra supercar da 1.200 CV",
+      "url": "https://it.motor1.com/news/806150/mclaren-w1-vs-ferrari-f80/",
+      "image": "https://cdn.motor1.com/images/mgl/W8b1XO/s3/mclaren-w1-vs-ferrari-f80.jpg",
+      "summary": "Ibride con prestazioni da urlo, sono due delle super sportive più esclusive del pianeta e costano più di 2 milioni di euro",
+      "date": "2026-09-07T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:ab1e6bded8f5",
       "sourceId": "vaielettrico",
@@ -23,7 +47,7 @@
       "title": "Kia EV3 dopo Leapmotor: guasto nella ricarica AC (risolto)",
       "url": "https://www.vaielettrico.it/kia-ev3-dopo-leapmotor-guasto-nella-ricarica-ac-risolto/",
       "image": null,
-      "summary": "Kia EV3 dopo Leapmotor T03: Paolo segnala che problema simile a quello capitato con la piccola cinese è… L'articolo Kia EV3 dopo Leapmotor: guasto nella ricarica AC (risolto) proviene da Vaielettrico .",
+      "summary": "Kia EV3 dopo Leapmotor T03: Paolo segnala che un problema simile a quello capitato con la piccola cinese… L'articolo Kia EV3 dopo Leapmotor: guasto nella ricarica AC (risolto) proviene da Vaielettrico .",
       "date": "2026-09-06T16:05:47.0000000Z"
     },
     {
@@ -87,18 +111,6 @@
       "date": "2026-09-06T06:06:50.0000000Z"
     },
     {
-      "id": "insideevs:39d232f59e04",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Batterie zinco-cloro, la nuova chimica che punta all’auto elettrica",
-      "url": "https://insideevs.it/news/806005/nuova-elettrochimica-zinco-cloro-impatti/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak3vwL/s3/batterie-zinco-cloro-la-nuova-chimica-che-punta-all-auto-elettrica.jpg",
-      "summary": "Ecco cosa dice una nuova ricerca cinese su una chimica zinco-cloro con 10.000 cicli e perdite minime di capacità",
-      "date": "2026-09-06T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:34f5186df460",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -108,6 +120,18 @@
       "url": "https://it.motor1.com/reviews/806206/rometsch-beeskow-prova-motore/",
       "image": "https://cdn.motor1.com/images/mgl/XBzxGe/s3/rometsch-beeskow-1952-test.jpg",
       "summary": "Nata nel 1952, la Rometsch Beeskow mette insieme il Maggiolino e il motore di una Porsche 356 in un mix incredibile",
+      "date": "2026-09-06T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:39d232f59e04",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Batterie zinco-cloro, la nuova chimica che punta all’auto elettrica",
+      "url": "https://insideevs.it/news/806005/nuova-elettrochimica-zinco-cloro-impatti/",
+      "image": "https://cdn.motor1.com/images/mgl/Ak3vwL/s3/batterie-zinco-cloro-la-nuova-chimica-che-punta-all-auto-elettrica.jpg",
+      "summary": "Ecco cosa dice una nuova ricerca cinese su una chimica zinco-cloro con 10.000 cicli e perdite minime di capacità",
       "date": "2026-09-06T05:00:00.0000000Z"
     },
     {
@@ -195,18 +219,6 @@
       "date": "2026-09-05T06:30:29.0000000Z"
     },
     {
-      "id": "motor1:47a0ad7ace02",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa è stata la prima Shelby di sempre",
-      "url": "https://it.motor1.com/news/806119/shelby-cobra-prototype-csx2000-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/pbJVr1/s3/shelby-cobra-260-prototype-csx2000.jpg",
-      "summary": "Ecco com'è nato il mito americano della Cobra, la sportiva con DNA inglese e messa a punto curata da Carroll Shelby in persona",
-      "date": "2026-09-05T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:6db44cfba726",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -216,6 +228,18 @@
       "url": "https://insideevs.it/news/806003/storage-criogenico-dipole-glass-auto/",
       "image": "https://cdn.motor1.com/images/mgl/0egoQ3/s3/i-cristalli-criogenici-rivoluzioneranno-le-auto-elettriche.jpg",
       "summary": "Più energia in meno spazio e maggiore sicurezza, ma per ora è una tecnologia da laboratorio",
+      "date": "2026-09-05T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:47a0ad7ace02",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa è stata la prima Shelby di sempre",
+      "url": "https://it.motor1.com/news/806119/shelby-cobra-prototype-csx2000-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/pbJVr1/s3/shelby-cobra-260-prototype-csx2000.jpg",
+      "summary": "Ecco com'è nato il mito americano della Cobra, la sportiva con DNA inglese e messa a punto curata da Carroll Shelby in persona",
       "date": "2026-09-05T05:00:00.0000000Z"
     },
     {
@@ -339,18 +363,6 @@
       "date": "2026-09-04T15:00:20.0000000Z"
     },
     {
-      "id": "motor1:322bd0012fe7",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Range Rover: tuteleremo la flessibilità finché sarà necessario farlo",
-      "url": "https://it.motor1.com/news/806781/martin-limpert-range-rover-intervista-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/ko8Y7n/s3/intervista-martin-limper-range-rover.jpg",
-      "summary": "Per la presentazione della nuova Range Rover elettrica abbiamo parlato con Martin Limpert, numero uno del brand, per sapere cosa arriverà in futuro",
-      "date": "2026-09-04T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:ab4053b4d5b7",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -360,6 +372,18 @@
       "url": "https://insideevs.it/news/807132/tesla-cybercab-freni-curiosita/",
       "image": "https://cdn.motor1.com/images/mgl/OoZvLB/s3/tesla-cybercab-robotaxi.jpg",
       "summary": "Il robotaxi di Tesla non ha un impianto idraulico, ma sfrutta il sistema dry brake-by-wire. Ecco come funzione",
+      "date": "2026-09-04T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:322bd0012fe7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Range Rover: tuteleremo la flessibilità finché sarà necessario farlo",
+      "url": "https://it.motor1.com/news/806781/martin-limpert-range-rover-intervista-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/ko8Y7n/s3/intervista-martin-limper-range-rover.jpg",
+      "summary": "Per la presentazione della nuova Range Rover elettrica abbiamo parlato con Martin Limpert, numero uno del brand, per sapere cosa arriverà in futuro",
       "date": "2026-09-04T15:00:00.0000000Z"
     },
     {
@@ -435,18 +459,6 @@
       "date": "2026-09-04T12:03:04.0000000Z"
     },
     {
-      "id": "motor1:e1bd5040ad3d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Audi: più l'auto è costosa, più i clienti vogliono un motore termico",
-      "url": "https://it.motor1.com/news/807129/audi-auto-motore-termico-continuano/",
-      "image": "https://cdn.motor1.com/images/mgl/6ZOpoZ/s3/audi-a8-w12-engine.jpg",
-      "summary": "I Quattro Anelli hanno abbandonato i piani per diventare completamente elettrici entro il 2032",
-      "date": "2026-09-04T12:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:9f189fe6c526",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/mMYAEj/s3/batterie-allo-stato-solido.jpg",
       "summary": "La proposta IEC guidata dalla Cina introduce il limite di perdita di massa dello 0,5%, con commercializzazione oltre il 2030",
       "date": "2026-09-03T15:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:389698113107",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Idrogeno, i big della mobilità uniti per i camion di domani",
-      "url": "https://insideevs.it/news/807033/camion-idrogeno-alleanza-europea-2030/",
-      "image": "https://cdn.motor1.com/images/mgl/6ZOp9G/s3/daimler-truck-volvo-toyota-bosch-e-i-colossi-dell-energia-lavorano-a-un-ecosistema-europeo-per-l-idrogeno.jpg",
-      "summary": "Daimler Truck, Volvo, Toyota, Bosch e i colossi dell'energia lavorano a un ecosistema europeo per l'idrogeno competitivo entro il 2030",
-      "date": "2026-09-03T13:04:39.0000000Z"
     }
   ]
 }
