@@ -1,7 +1,55 @@
 {
   "category": "mobilita",
-  "updated": "2026-09-08T09:55:40.7693786Z",
+  "updated": "2026-09-08T14:11:18.2186038Z",
   "items": [
+    {
+      "id": "ferrovie:0760e92c1d88",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Due incidenti ferroviari in Polonia in un giorno: camion contro treni a Suwałki e Jastrowie",
+      "url": "https://www.ferrovie.info/treni-reali/due-incidenti-ferroviari-in-polonia-in-un-giorno-camion-contro-treni-a-suwalki-e-jastrowie.html",
+      "image": "https://www.ferrovie.info/images/incidenti/Incidente_Ferroviario_M62_LTG_Cargo_Polonia_Treno_7_settembre_2026.webp",
+      "summary": "Due incidenti ferroviari con camion coinvolti si sono verificati il 7 settembre, in Polonia , a poche ore di distanza l’uno dall’altro. Il primo è avvenuto nei pressi di Suwałki , sulla linea diretta verso il confine ...",
+      "date": "2026-09-08T13:37:09.0000000Z"
+    },
+    {
+      "id": "ferrovie:24b648d347d8",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "ÖBB Nightjet, aperte le prenotazioni per il 2027: acquisto fino a 360 giorni prima",
+      "url": "https://www.ferrovie.info/treni-reali/oebb-nightjet-aperte-le-prenotazioni-per-il-2027-acquisto-fino-a-360-giorni-prima.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_OeBB_NightJet_Treno_Notte.jpg",
+      "summary": "Sono già aperte le prenotazioni per i viaggi con gli ÖBB Nightjet relativi all’orario 2027 . I dati di programmazione dei treni notturni sono inoltre disponibili nella piattaforma di ricerca orari SCOTTY delle Ferrovi...",
+      "date": "2026-09-08T12:48:47.0000000Z"
+    },
+    {
+      "id": "ferrovie:3415c09b4151",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Bonus Liguria, a luglio 2026 spetta agli abbonati Genova-Milano",
+      "url": "https://www.ferrovie.info/treni-reali/bonus-liguria-a-luglio-2026-spetta-agli-abbonati-genova-milano.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10608/ETR104_039_Regionale_11373_Genova_Brignole_-_La_Spezia_Centrale.JPG",
+      "summary": "Il Bonus Liguria per il mese di luglio 2026 spetta agli abbonati della direttrice Genova-Milano . È quanto emerge dai dati pubblicati dalla Regione Liguria, che ha verificato gli indici di affidabilità delle cinque di...",
+      "date": "2026-09-08T12:38:54.0000000Z"
+    },
+    {
+      "id": "ferrovie:8e2f6074e8c8",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Gran Premio d’Italia a Monza, Trenord: 43.500 viaggiatori con i biglietti dedicati",
+      "url": "https://www.ferrovie.info/treni-reali/gran-premio-ditalia-a-monza-trenord-43-500-viaggiatori-con-i-biglietti-dedicati.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10606/giruno_a1213.jpeg",
+      "summary": "Sono stati 43.500 gli appassionati e curiosi che hanno raggiunto il Gran Premio d’Italia all’Autodromo Nazionale di Monza utilizzando i biglietti dedicati proposti da Trenord. Il dato, riferito al weekend della manife...",
+      "date": "2026-09-08T12:25:25.0000000Z"
+    },
     {
       "id": "ferrovie:f224eb392c50",
       "sourceId": "ferrovie",
@@ -51,30 +99,6 @@
       "date": "2026-09-07T13:38:26.0000000Z"
     },
     {
-      "id": "ferrovie:655b8dc3e620",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Nuovo collegamento diretto Colonia-Anversa con l’ICE 3neo",
-      "url": "https://www.ferrovie.info/treni-reali/nuovo-collegamento-diretto-colonia-anversa-con-lice-3neo.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_ICE3_neo_8011_DB_Bahn_2002.jpg",
-      "summary": "Da oggi Colonia e Anversa sono collegate direttamente per ferrovia grazie a una nuova relazione internazionale ICE via Aquisgrana, Liegi, Leuven e aeroporto di Bruxelles. Il nuovo servizio prevede due coppie di treni ...",
-      "date": "2026-09-07T12:39:14.0000000Z"
-    },
-    {
-      "id": "ferrovie:49d0940968fd",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Gr. 880.051, ritorno sui binari per la locomotiva a vapore dopo la revisione",
-      "url": "https://www.ferrovie.info/treni-reali/gr-880-051-ritorno-sui-binari-per-la-locomotiva-a-vapore-dopo-la-revisione.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10059/Gr_880_051_Milano_Sm_to_11_10_2008.jpg",
-      "summary": "Un'altra locomotiva storica italiana è pronta a tornare sui binari. Si sono concluse con successo la prova a caldo e la corsa prova della Gr. 880.051 , prima locomotiva completamente revisionata grazie ai fondi PNRR-P...",
-      "date": "2026-09-07T12:30:34.0000000Z"
-    },
-    {
       "id": "ferrovie:aefed9e30a82",
       "sourceId": "ferrovie",
       "source": "Ferrovie.info",
@@ -99,18 +123,6 @@
       "date": "2026-09-07T08:21:28.0000000Z"
     },
     {
-      "id": "ferrovie:8fdca603904b",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Dal celebre treno alla nave a vela: la Orient Express Corinthian arriva a Trieste",
-      "url": "https://www.ferrovie.info/altri-mezzi/navi/dal-celebre-treno-alla-nave-a-vela-la-orient-express-corinthian-arriva-a-trieste.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10523/normal_Nave_Orient_Express_Corinthian_2001.jpg",
-      "summary": "Per gli appassionati di ferrovia il nome Orient Express non ha bisogno di molte spiegazioni. È quello legato ai celebri treni di lusso entrati nella storia del trasporto ferroviario e nell'immaginario collettivo. Oggi...",
-      "date": "2026-09-07T07:48:33.0000000Z"
-    },
-    {
       "id": "ferrovie:23b7f2b5651c",
       "sourceId": "ferrovie",
       "source": "Ferrovie.info",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/11405/normal_cd_cargo_388_059_TRAXX_Alstom_Chiasso_3.jpeg",
       "summary": "Una presenza decisamente inconsueta è comparsa nei giorni scorsi al confine tra Italia e Svizzera. A Chiasso sono infatti arrivate due locomotive Traxx MS3 appartenenti a ČD Cargo , impresa ferroviaria della Repubblic...",
       "date": "2026-09-07T06:27:41.0000000Z"
-    },
-    {
-      "id": "ferrovie:367e7608b527",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "ETR 500, Frecciarossa all’estero e Galleria del Brennero: le notizie ferroviarie della settimana",
-      "url": "https://www.ferrovie.info/treni-reali/etr-500-frecciarossa-allestero-e-galleria-del-brennero-le-notizie-ferroviarie-della-settimana.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_193_830_Vectron_Siemens_SBB_Cargo_International_dose.jpg",
-      "summary": "Una settimana ancora una volta ricca di novità per il settore ferroviario, con importanti aggiornamenti sul materiale rotabile italiano, sulle grandi infrastrutture e sul futuro dell’alta velocità europea. Tra le noti...",
-      "date": "2026-09-06T09:10:24.0000000Z"
     }
   ]
 }

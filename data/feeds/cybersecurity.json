@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-08T09:55:40.7949614Z",
+  "updated": "2026-09-08T14:11:18.1848777Z",
   "items": [
+    {
+      "id": "cybersecurity360:87408f61f624",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Velocità delle VPN e throughput di rete: i nuovi protocolli superano i limiti di banda nella protezione endpoint",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/velocita-vpn-throughput-rete-nordvpn-prestazioni-crittografia/",
+      "image": null,
+      "summary": "NordVPN propone un’offerta biennale con prezzi da 3,89 euro al mese e fino al 73% di risparmio. Inclusi anche GIGA eSIM Saily gratuiti, con quantità variabile in base al piano scelto L'articolo Velocità delle VPN e th...",
+      "date": "2026-09-08T11:52:57.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d4175dbe293c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "ASCII smuggling, la nuova tecnica che elude i filtri antiphishing: come difendersi",
+      "url": "https://www.cybersecurity360.it/news/ascii-smuggling-la-nuova-tecnica-che-elude-i-filtri-antiphishing-come-difendersi/",
+      "image": null,
+      "summary": "L’ASCII smuggling esce dal perimetro della sicurezza AI e arriva nel phishing. Una campagna individuata da Microsoft usa caratteri Unicode invisibili per confondere i sistemi di rilevamento, mostrando come tecniche le...",
+      "date": "2026-09-08T11:16:13.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:7b382722d2d0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "GPT-6 Astra e articolo 50 AI Act: il paradosso della trasparenza che non si può verificare",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/gpt-6-astra-e-articolo-50-ai-act-il-paradosso-della-trasparenza-che-non-si-puo-verificare/",
+      "image": null,
+      "summary": "Il modello più capace mai rilasciato da OpenAI arriva mentre in Europa diventano operativi gli obblighi di trasparenza sui contenuti sintetici. Il risultato è un sistema normativo che carica il fornitore a monte e las...",
+      "date": "2026-09-08T10:36:19.0000000Z"
+    },
     {
       "id": "cybersecurity360:be08a4891463",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Gli agenti OpenAI non hanno sviluppato una volontà autonoma di “fuggire”: hanno sfruttato confini deboli, permessi eccessivi e canali di comunicazione non previsti fino a raggiungere sistemi esterni. Il caso Hugging F...",
       "date": "2026-09-07T08:06:39.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a0b26dd1190f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il ciclo di vita digitale: perché CRA e AI Act cambiano la compliance",
-      "url": "https://www.cybersecurity360.it/legal/approccio-life-cycle-il-ciclo-di-vita-digitale-perche-cra-e-ai-act-cambiano-la-compliance/",
-      "image": null,
-      "summary": "La compliance diventa una capacità organizzativa continua, documentata e verificabile, fino alla dismissione della tecnologia. Ecco le convergenze e le differenze tra i due regolamenti, il contributo degli standard te...",
-      "date": "2026-09-07T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:1e08cd0444b4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber resilienza negli impianti: metriche OT e strategie di governance",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-resilienza-negli-impianti-metriche-ot-e-strategie-di-governance/",
-      "image": null,
-      "summary": "La cyber resilienza industriale non si misura soltanto sulla capacità di prevenire gli attacchi, ma sulla continuità dei processi e sulla rapidità del ripristino. Metriche OT, governance e responsabilità definite perm...",
-      "date": "2026-09-04T16:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:5784f7188cdd",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il phishing sfrutta le difficoltà economiche: come prevenire l’attacco che induce a telefonare all’attaccante",
-      "url": "https://www.cybersecurity360.it/news/il-phishing-sfrutta-le-difficolta-economiche-come-prevenire-lattacco-che-induce-a-telefonare-allattaccante/",
-      "image": null,
-      "summary": "L’ultima campagna phishing, che scommette sulle difficoltà economiche delle vittime, trasforma l’ansia economico-finanziaria in vettore di ingegneria sociale, incoraggiando le vittime a chiamare un numero di telefono ...",
-      "date": "2026-09-04T14:40:29.0000000Z"
     }
   ]
 }
