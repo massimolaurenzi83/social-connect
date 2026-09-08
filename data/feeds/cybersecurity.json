@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-08T05:23:22.3942669Z",
+  "updated": "2026-09-08T09:55:40.7949614Z",
   "items": [
+    {
+      "id": "cybersecurity360:be08a4891463",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "CSIRT as a Service: cos’è e come gestisce gli incidenti secondo la NIS2",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/csirt-as-a-service-cose-e-come-gestisce-gli-incidenti-secondo-la-nis2/",
+      "image": null,
+      "summary": "Con gli attacchi gravi in Italia cresciuti del 42% e le scadenze NIS2 di ottobre 2026 alle porte, cresce l'interesse per il CSIRT as a Service: un modello che esternalizza la funzione di Referente CSIRT e coordina l'i...",
+      "date": "2026-09-08T09:15:58.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:09d483adc2d6",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Servizi di ascolto e GDPR: perché il consenso non basta a proteggere i soggetti vulnerabili",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/servizi-di-ascolto-e-gdpr-perche-il-consenso-non-basta-a-proteggere-i-soggetti-vulnerabili/",
+      "image": null,
+      "summary": "Il consenso non è necessariamente la base giuridica più sicura quando si trattano i dati di persone vulnerabili. Tra categorie particolari, comunicazioni a soggetti terzi e informazioni relative a possibili reati, la ...",
+      "date": "2026-09-08T07:45:46.0000000Z"
+    },
     {
       "id": "cybersecurity360:71e809371ed4",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "L’ultima campagna phishing, che scommette sulle difficoltà economiche delle vittime, trasforma l’ansia economico-finanziaria in vettore di ingegneria sociale, incoraggiando le vittime a chiamare un numero di telefono ...",
       "date": "2026-09-04T14:40:29.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:e3b74f88adfb",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber Resilience Act, l’11 settembre scattano gli obblighi di segnalazione: cosa cambia per le aziende",
-      "url": "https://www.cybersecurity360.it/legal/cyber-resilience-act-l11-settembre-scattano-gli-obblighi-di-segnalazione-cosa-cambia-per-le-aziende/",
-      "image": null,
-      "summary": "Dall’11 settembre 2026 il Cyber Resilience Act entra nella sua prima fase operativa con gli obblighi di segnalazione previsti dall’articolo 14. Una scadenza che impone a produttori e sviluppatori di preparare processi...",
-      "date": "2026-09-04T14:00:24.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:07342d1aa324",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il budget? Non basta mai",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/il-budget-non-basta-mai/",
-      "image": null,
-      "summary": "Che la sicurezza cyber debba coinvolgere anche l'IA è vero, ma non è possibile delegarla a questi sistemi o, peggio ancora, considerarli come un focus principale sia d'attacco che di difesa. Perché altrimenti il risch...",
-      "date": "2026-09-04T14:00:00.0000000Z"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "category": "ai",
-  "updated": "2026-09-08T05:23:22.4553919Z",
+  "updated": "2026-09-08T09:55:40.7531953Z",
   "items": [
+    {
+      "id": "ai4business:5e35a001b8bf",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Sicurezza dati e AI enterprise, come custodire i dati sensibili",
+      "url": "https://www.ai4business.it/sicurezza/sicurezza-dati-e-ai-enterprise/",
+      "image": null,
+      "summary": "L'adozione dell'intelligenza artificiale generativa ed agentica nelle grandi aziende richiede una gestione evoluta della sicurezza dati, spostando la protezione dal vecchio perimetro di rete direttamente alla fonte de...",
+      "date": "2026-09-08T08:30:00.0000000Z"
+    },
+    {
+      "id": "ai4business:ae71d4532771",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Agenti AI nei team di lavoro: attenzione a considerarli ‘colleghi’",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-hr/agenti-ai-nei-team-di-lavoro-attenzione-a-considerarli-colleghi/",
+      "image": null,
+      "summary": "Un nuovo studio di Boston Consulting Group (BCG) e Boston University indica che trattare gli AI agent come ‘colleghi’ o ‘dipendenti’, anziché come strumenti hi-tech, riduce controlli e responsabilità individuali. In p...",
+      "date": "2026-09-08T07:00:00.0000000Z"
+    },
     {
       "id": "ai4business:0d173d218c03",
       "sourceId": "ai4business",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "L’inferenza AI è ormai un asset operativo per il 78% delle aziende e impone di ripensare l’application delivery. Latenza variabile, correttezza degli output, costi e nuovi rischi di sicurezza rendono insufficienti i c...",
       "date": "2026-09-04T15:37:07.0000000Z"
-    },
-    {
-      "id": "ai4business:4abe9edeb4cf",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Coding: come lanciare un’app senza saper scrivere un codice",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/coding/coding-come-lanciare-unapp-senza-saper-scrivere-un-codice/",
-      "image": null,
-      "summary": "La nascita delle piattaforme basate su intelligenza artificiale sta trasformando la creazione di applicazioni mobili, consentendo a persone prive di competenze di coding di progettare, sviluppare e pubblicare software...",
-      "date": "2026-09-04T15:18:31.0000000Z"
-    },
-    {
-      "id": "ai4business:83c57a5c2dc1",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Claude Code self-hosted: si sposta l’esecuzione, non la riservatezza del codice",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/claude-code-self-hosted-si-sposta-lesecuzione-non-la-riservatezza-del-codice/",
-      "image": null,
-      "summary": "Anthropic ha aperto la beta pubblica degli ambienti self-hosted per Claude Code, e nello stesso annuncio consiglia alla maggioranza delle imprese di non usarli. Il calcolo entra nella rete aziendale, il codice che il ...",
-      "date": "2026-09-04T14:50:08.0000000Z"
     },
     {
       "id": "guerredirete:fc1d456fb30e",

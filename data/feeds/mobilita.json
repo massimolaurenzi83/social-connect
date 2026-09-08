@@ -1,7 +1,31 @@
 {
   "category": "mobilita",
-  "updated": "2026-09-08T05:23:22.4144746Z",
+  "updated": "2026-09-08T09:55:40.7693786Z",
   "items": [
+    {
+      "id": "ferrovie:f224eb392c50",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Kombiverkehr amplia la rete ferroviaria europea: nuovi collegamenti per Svezia, Spagna e Italia",
+      "url": "https://www.ferrovie.info/treni-reali/kombiverkehr-amplia-la-rete-ferroviaria-europea-nuovi-collegamenti-per-svezia-spagna-e-italia.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/kombiverkehr__901.jpg",
+      "summary": "Kombiverkehr amplia la propria rete europea di trasporto intermodale a partire da settembre e ottobre 2026. L’operatore tedesco introduce tre nuovi collegamenti internazionali e aumenta in maniera significativa la fre...",
+      "date": "2026-09-08T08:04:49.0000000Z"
+    },
+    {
+      "id": "ferrovie:1462d241150b",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Torino - Lione, la nuova linea ferroviaria che collegherà Italia e Francia attraverso le Alpi",
+      "url": "https://www.ferrovie.info/rubriche/approfondimenti/torino-lione-la-nuova-linea-ferroviaria-che-colleghera-italia-e-francia-attraverso-le-alpi.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/cantiereo_to_ly_1011.jpg",
+      "summary": "Un'infrastruttura strategica per il trasporto ferroviario europeo, con al centro il tunnel di base del Moncenisio . La nuova linea ferroviaria Torino-Lione rappresenta una delle principali infrastrutture strategiche p...",
+      "date": "2026-09-08T06:07:08.0000000Z"
+    },
     {
       "id": "ferrovie:f799f67359c9",
       "sourceId": "ferrovie",
@@ -121,30 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_193_830_Vectron_Siemens_SBB_Cargo_International_dose.jpg",
       "summary": "Una settimana ancora una volta ricca di novità per il settore ferroviario, con importanti aggiornamenti sul materiale rotabile italiano, sulle grandi infrastrutture e sul futuro dell’alta velocità europea. Tra le noti...",
       "date": "2026-09-06T09:10:24.0000000Z"
-    },
-    {
-      "id": "ferrovie:b5d8bb113270",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Galleria di Base del Brennero, il grande progetto ferroviario che cambia l’Europa",
-      "url": "https://www.ferrovie.info/rubriche/approfondimenti/galleria-di-base-del-brennero-il-grande-progetto-ferroviario-che-cambia-leuropa.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/BBT_405.jpg",
-      "summary": "La nuova infrastruttura ferroviaria tra Fortezza e Innsbruck sarà lunga 55 chilometri e rappresenterà un elemento centrale del corridoio Scandinavo-Mediterraneo. Nel cuore delle Alpi sta prendendo forma uno dei più im...",
-      "date": "2026-09-05T09:04:18.0000000Z"
-    },
-    {
-      "id": "ferrovie:4070fd579768",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Circumvesuviana, EAV cambia passo: da ottobre il nuovo programma di esercizio",
-      "url": "https://www.ferrovie.info/treni-reali/circumvesuviana-eav-cambia-passo-da-ottobre-il-nuovo-programma-di-esercizio.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_etr_300_EAV_Stadler_Rail.jpg",
-      "summary": "Si prepara una nuova fase per il servizio ferroviario della Circumvesuviana . L'Eav sta mettendo a punto il nuovo programma di esercizio, con le tabelle orarie destinate a entrare in vigore dal prossimo ottobre .",
-      "date": "2026-09-05T08:36:03.0000000Z"
     }
   ]
 }
