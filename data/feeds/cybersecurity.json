@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-08T17:56:46.4839793Z",
+  "updated": "2026-09-08T20:54:07.7841784Z",
   "items": [
+    {
+      "id": "cybersecurity360:3c24af8cd7d0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Robotica collaborativa e sicurezza dei Cobot: la tutela dei flussi operativi nelle linee ad alta automazione",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/robotica-collaborativa-e-sicurezza-dei-cobot-la-tutela-dei-flussi-operativi-nelle-linee-ad-alta-automazione/",
+      "image": null,
+      "summary": "La robotica collaborativa porta persone e macchine a condividere spazi e processi produttivi. Ma Cobot connessi, sensori e software ampliano anche il rischio cyber: proteggere reti, firmware e logiche di controllo div...",
+      "date": "2026-09-08T15:28:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:01283a47c45e",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Tre tecniche descritte da Unit 42 colpiscono Google Password Manager in Chrome per Windows. Non rompono la crittografia delle passkey di Google e richiedono un computer già compromesso, ma mostrano che sincronizzazion...",
       "date": "2026-09-07T12:35:50.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:38d92ba2dc6f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Oltre l’antivirus per le PMI: il fattore umano e l’assistenza esperta nella protezione degli endpoint",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/cybersecurity-pmi-fattore-umano-protezione-endpoint-kaspersky/",
-      "image": null,
-      "summary": "Kaspersky Small Office Security Premium estende la protezione degli endpoint con assistenza IT, installazione guidata e formazione sulla Security Awareness. L'offerta promozionale è disponibile fino al 30 settembre 20...",
-      "date": "2026-09-07T09:26:59.0000000Z"
     }
   ]
 }
