@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-07T22:51:21.8214145Z",
+  "updated": "2026-09-08T00:48:07.9447500Z",
   "items": [
+    {
+      "id": "cybersecurity360:71e809371ed4",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Edge computing e cloud industriale: architetture sicure e gestione dei rischi cyber in fabbrica",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/edge-computing-e-cloud-industriale-architetture-sicure-e-gestione-dei-rischi-cyber-in-fabbrica/",
+      "image": null,
+      "summary": "L’edge computing porta elaborazione e decisioni vicino agli impianti, riducendo latenza e dipendenza dal cloud. Ma nodi distribuiti e nuove interconnessioni ampliano anche la superficie di attacco: protezione dei dati...",
+      "date": "2026-09-07T15:23:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:2fc78bf12bbd",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Che la sicurezza cyber debba coinvolgere anche l'IA è vero, ma non è possibile delegarla a questi sistemi o, peggio ancora, considerarli come un focus principale sia d'attacco che di difesa. Perché altrimenti il risch...",
       "date": "2026-09-04T14:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:28496cbbdfc2",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Gestione delle credenziali e architetture Zero-Knowledge: come Proton Pass integra crittografia E2EE, alias email e Passkey contro il phishing",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/proton-pass-gestione-password-zero-knowledge-e2ee-passkey/",
-      "image": null,
-      "summary": "Proton Pass propone il piano Plus annuale a 2,49 euro al mese per i primi 12 mesi. L'offerta include gestione E2EE delle credenziali, alias email, 2FA integrata, monitoraggio del Dark Web e supporto alle Passkey L'art...",
-      "date": "2026-09-04T10:44:21.0000000Z"
     }
   ]
 }
