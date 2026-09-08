@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-08T00:48:08.0515645Z",
+  "updated": "2026-09-08T05:23:22.4117269Z",
   "items": [
+    {
+      "id": "insideevs:41f75d604ef1",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La polvere nera che può cambiare il futuro delle batterie EV",
+      "url": "https://insideevs.it/news/807369/riciclo-batterie-ev-pretrattamento-decisivo/",
+      "image": "https://cdn.motor1.com/images/mgl/zx0gWW/s3/la-polvere-nera-che-puo-cambiare-il-futuro-delle-batterie-ev.jpg",
+      "summary": "Il pretrattamento stabilisce qualità e quantità della black mass, influenzando la resa degli impianti che recuperano litio e nichel",
+      "date": "2026-09-08T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:247c4f5f41c2",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuova Dacia Spring, cresce in tutto ma non nel prezzo",
+      "url": "https://it.motor1.com/news/806958/nuova-dacia-spring-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/bgO6rr/s3/dacia-spring-2027.jpg",
+      "summary": "Deriva dalla Renault Twingo ma resta fedele al posizionamento. Più grande e spaziosa, efficiente, tecnologica, ma sempre \"under 18.000\"",
+      "date": "2026-09-08T04:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:19a47ff46aea",
       "sourceId": "vaielettrico",
@@ -147,18 +171,6 @@
       "date": "2026-09-07T15:00:23.0000000Z"
     },
     {
-      "id": "motor1:7c55a37312a8",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Novità auto 2026: tutti i modelli in arrivo tra settembre e dicembre",
-      "url": "https://it.motor1.com/news/807023/novita-auto-settembre-dicembre-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/ojE1g4/s3/novita-auto-2026-settembre-dicembre.jpg",
-      "summary": "Dalla nuova Audi A2 fino alla Volkswagen Golf ibrida, passando per Fiat Grizzly, smart #2 e tanto alto: ecco tutte le novità auto in arrivo",
-      "date": "2026-09-07T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:01f5c3e68e59",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -168,6 +180,18 @@
       "url": "https://insideevs.it/news/807401/roma-boom-auto-elettriche-primi/",
       "image": "https://cdn.motor1.com/images/mgl/nA8AXl/s3/roma-supera-milano-e-la-nuova-capitale-delle-auto-elettriche.jpg",
       "summary": "Sette mesi del 2026 con 7.302 auto ricaricabili a Roma, peso del 9,6% sul totale nazionale e rete di ricarica ancora in affanno",
+      "date": "2026-09-07T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:7c55a37312a8",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Novità auto 2026: tutti i modelli in arrivo tra settembre e dicembre",
+      "url": "https://it.motor1.com/news/807023/novita-auto-settembre-dicembre-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/ojE1g4/s3/novita-auto-2026-settembre-dicembre.jpg",
+      "summary": "Dalla nuova Audi A2 fino alla Volkswagen Golf ibrida, passando per Fiat Grizzly, smart #2 e tanto alto: ecco tutte le novità auto in arrivo",
       "date": "2026-09-07T15:00:00.0000000Z"
     },
     {
@@ -327,18 +351,6 @@
       "date": "2026-09-07T11:00:18.0000000Z"
     },
     {
-      "id": "motor1:000cdea91d40",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Com'è fatta la Lancia Gamma benzina più sportiva",
-      "url": "https://it.motor1.com/news/807325/lancia-gamma-hf-line-spy-foto/",
-      "image": "https://cdn.motor1.com/images/mgl/Oo9qOo/s3/nuova-lancia-gamma.jpg",
-      "summary": "L'allestimento sportivo della nuova Gamma avvistato su strada. Sarà presentato a Parigi",
-      "date": "2026-09-07T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:1af5f2b5043f",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -348,6 +360,18 @@
       "url": "https://insideevs.it/news/807356/audi-a2-2026-motori-batterie-autonomia/",
       "image": "https://cdn.motor1.com/images/mgl/2N48qE/s3/audi-a2-e-tron-2026.jpg",
       "summary": "Si va da 170 a 326, con unicamente versioni a trazione posteriore e un'autonomia massima di 646 km.",
+      "date": "2026-09-07T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:000cdea91d40",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Com'è fatta la Lancia Gamma benzina più sportiva",
+      "url": "https://it.motor1.com/news/807325/lancia-gamma-hf-line-spy-foto/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo9qOo/s3/nuova-lancia-gamma.jpg",
+      "summary": "L'allestimento sportivo della nuova Gamma avvistato su strada. Sarà presentato a Parigi",
       "date": "2026-09-07T11:00:00.0000000Z"
     },
     {
@@ -372,18 +396,6 @@
       "url": "https://insideevs.it/news/807313/prologium-produzione-batterie-stato-solido/",
       "image": "https://cdn.motor1.com/images/mgl/NGMORy/s3/batteria-stato-solido-prologium-con-elettrolita-inorganico.jpg",
       "summary": "L'azienda, sostenuta da Mercedes, realizza celle con una densità di 381 Wh/kg",
-      "date": "2026-09-07T10:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:a680fadf6a1d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Brembo vuole farti indossare le sue pinze freno",
-      "url": "https://it.motor1.com/news/807320/brembo-abbigliamento-novita-informazioni-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/eoWYY6/s3/brembo-colors-of-speed-t-shirts.jpg",
-      "summary": "Brembo porta il suo inconfondibile design delle pinze da dietro le ruote alla tua schiena con una nuova collezione di abbigliamento.",
       "date": "2026-09-07T10:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/OoZvLB/s3/tesla-cybercab-robotaxi.jpg",
       "summary": "Il robotaxi di Tesla non ha un impianto idraulico, ma sfrutta il sistema dry brake-by-wire. Ecco come funzione",
       "date": "2026-09-04T15:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:0f3c1c85cbf0",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quanta autonomia perdono Tesla Model 3 e Model Y dopo 160.000 km",
-      "url": "https://insideevs.it/news/807125/tesla-model-3-y-autonomia-16000-km/",
-      "image": "https://cdn.motor1.com/images/mgl/xqPX1G/s3/2026-tesla-model-3-standard.jpg",
-      "summary": "In uno studio che ha testato la longevità della batteria di 500.000 EV, Tesla si è posizionata quasi in fondo alla classifica",
-      "date": "2026-09-04T13:00:00.0000000Z"
     }
   ]
 }
