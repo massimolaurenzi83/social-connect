@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-09-08T14:11:18.1975987Z",
+  "updated": "2026-09-08T17:56:46.5742582Z",
   "items": [
+    {
+      "id": "qualenergia:2abca2279c1e",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Fotovoltaico, dal CdS indicazioni su transitorio Dl Agricoltura e autotutela Pas",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/fotovoltaico-indicazioni-transitorio-agricoltura-autotutela-pas/",
+      "image": null,
+      "summary": "L’articolo 5 del decreto-legge Agricoltura n. 63/2024 sul divieto di fotovoltaico a terra in area agricola, recentemente fatto salvo dalla Corte Costituzionale, prevede una disciplina transitoria di salvaguardia dei p...",
+      "date": "2026-09-08T14:00:59.0000000Z"
+    },
     {
       "id": "qualenergia:24db1bc3dbf6",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Corsi universitari, master, ITS Academy, stage, seminari di formazione a vari livelli su tematiche energetiche, fonti rinnovabili, efficienza energetica e mobilità elettrica. Destinatari: studenti diplomati, universit...",
       "date": "2026-09-08T05:15:30.0000000Z"
-    },
-    {
-      "id": "qualenergia:4aed93af275f",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Corso “Tecnico Superiore per l’efficienza energetica”",
-      "url": "https://www.qualenergia.it/pro/documenti/corso-tecnico-superiore-per-lefficienza-energetica/",
-      "image": null,
-      "summary": "Il corso biennale “Tecnico Superiore per l’Efficienza energetica” formerà tecnici ad alta specializzazione nei settori delle fonti energetiche rinnovabili e dell’oil&gas. Il Tecnico Superiore per l’efficienza energeti...",
-      "date": "2026-09-08T05:00:52.0000000Z"
     }
   ]
 }

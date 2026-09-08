@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-08T14:11:18.1848777Z",
+  "updated": "2026-09-08T17:56:46.4839793Z",
   "items": [
+    {
+      "id": "cybersecurity360:01283a47c45e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Sycophancy nell’AI: quando l’algoritmo ci dà ragione anche se stiamo sbagliando",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/sycophancy-nellai-quando-lalgoritmo-ci-da-ragione-anche-se-stiamo-sbagliando/",
+      "image": null,
+      "summary": "Quando un assistente AI conferma una scelta sbagliata, il problema non è soltanto l’algoritmo: è la fiducia che riponiamo nel suo giudizio. La Sycophancy può trasformare il bias di conferma in un rischio cyber, renden...",
+      "date": "2026-09-08T14:57:29.0000000Z"
+    },
     {
       "id": "cybersecurity360:87408f61f624",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Kaspersky Small Office Security Premium estende la protezione degli endpoint con assistenza IT, installazione guidata e formazione sulla Security Awareness. L'offerta promozionale è disponibile fino al 30 settembre 20...",
       "date": "2026-09-07T09:26:59.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:79e0c0c337e2",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "OpenAI-Hugging Face: il rischio non sono gli agenti che “fuggono”, ma i controlli che falliscono",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/openai-hugging-face-il-rischio-non-sono-gli-agenti-che-fuggono-ma-i-controlli-che-falliscono/",
-      "image": null,
-      "summary": "Gli agenti OpenAI non hanno sviluppato una volontà autonoma di “fuggire”: hanno sfruttato confini deboli, permessi eccessivi e canali di comunicazione non previsti fino a raggiungere sistemi esterni. Il caso Hugging F...",
-      "date": "2026-09-07T08:06:39.0000000Z"
     }
   ]
 }

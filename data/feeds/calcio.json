@@ -1,18 +1,282 @@
 {
   "category": "calcio",
-  "updated": "2026-09-08T14:11:18.1865592Z",
+  "updated": "2026-09-08T17:56:46.5215780Z",
   "items": [
     {
-      "id": "fcinternews:480541d1de2b",
+      "id": "calciomercato-it:1a03fab1c6a1",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "L’Inter vuole fare in fretta: due rinnovi nel mirino",
+      "url": "https://www.calciomercato.it/2026/09/08/linter-vuole-fare-in-fretta-due-rinnovi-nel-mirino/",
+      "image": null,
+      "summary": "L'articolo L’Inter vuole fare in fretta: due rinnovi nel mirino proviene da CalcioMercato.it .",
+      "date": "2026-09-08T17:55:25.0000000Z"
+    },
+    {
+      "id": "fcinternews:c9ec481fa60d",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
-      "title": "LIVE - Youth League - Real Madrid-Inter, 0-0 al 5': ci prova il Real, para Farronato",
-      "url": "https://www.fcinternews.it/in-primo-piano/live-youth-league-real-madrid-inter-1017966",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/05/05c50956fa37632f26483c59e6756b0f-71659-786o614o1712o1540z122c.jpeg",
-      "summary": "REAL MADRID-INTER 0-0 6' - Yanez dialoga con Ciria, che spazia molto sulla trequarti, e attacca la profondità. El Mahboubi ripiega e aiuta i suoi.",
-      "date": "2026-09-08T14:05:01.0000000Z"
+      "title": "Ricovero per Regina Baresi: \"Per fortuna ho la dieta libera\"",
+      "url": "https://www.fcinternews.it/news/ricovero-regina-baresi-per-fortuna-dieta-libera-1017979",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ee/eee47f5b118301510c45529bc9bdcafa-74571-oooz0000.jpeg",
+      "summary": "Momenti di paura, commentati con ironia, per Regina Baresi.",
+      "date": "2026-09-08T17:50:16.0000000Z"
+    },
+    {
+      "id": "fcinternews:d5e0776191e7",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "LIVE - Real Madrid-Inter, le ufficiali: prima da titolare per Jones. C'è Diouf",
+      "url": "https://www.fcinternews.it/in-primo-piano/i-live-i-real-madrid-inter-live-1017950",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/17/17b585e00612520c6210b4029fca1626-97979-356o159o1191o995z0a8d.jpeg",
+      "summary": "Ricomincia la fiera dei sogni.",
+      "date": "2026-09-08T17:48:58.0000000Z"
+    },
+    {
+      "id": "fcinternews:5dd16b5254a5",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Sky - Formazione anti-Real, la spunta Diouf a destra. C'è Pavard",
+      "url": "https://www.fcinternews.it/news/i-sky-i-formazione-anti-real-diouf-spunta-destra-pavard-1017988",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/ec/eca0357e6e5092499d241a12d679c653-55771-oooz0000.jpeg",
+      "summary": "Andy Diouf e non Luis Henrique sulla fascia destra, Benjamin Pavard schierato nel terzetto difensivo con Yann Bisseck e Alessandro Bastoni, mentre Manuel Akanji rimarrà fuori.",
+      "date": "2026-09-08T17:45:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:8994bac8eb8b",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Serena: \"L'Inter ha tutte le capacità per arrivare in semifinale Champions\"",
+      "url": "https://www.fcinternews.it/news/serena-l-inter-capacita-arrivare-semifinale-champions-1017983",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/67/67e7c0dfb3ea683b51bee29c9ba00ff1-97192-oooz0000.jpeg",
+      "summary": "\"L'Inter ha tutte le capacità per arrivare in semifinale, la Roma può essere una mina vagante perché abbiamo visto come Gian Piero Gasperini ha approcciato la stagione, per il Napoli sarà dura.",
+      "date": "2026-09-08T17:35:02.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:c6a6eb3791f0",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "&ldquo;David aveva un problema. Alvarez invece&hellip;&rdquo;: Simeone spiega l&rsquo;attacco Atletico",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/09/08-151109495/david_aveva_un_problema_alvarez_invece_simeone_spiega_lattacco_atletico/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/173008574-4aa18d76-611a-409b-a266-23af11782d89.jpg",
+      "summary": "Il tecnico dei Colchoneros parla alla viglia della sfida di Champions con il Liverpool ad Anfield: ecco cosa ha detto",
+      "date": "2026-09-08T17:31:52.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:2c2544517e0c",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Real Madrid-Inter, diretta Champions League: risultato in tempo reale, le formazioni ufficiali",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/09/08-151108404/real_madrid-inter_diretta_champions_league_risultato_in_tempo_reale_mourinho_ritrova_chivu/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/163325312-cb54e95f-b0bc-4f95-b5cc-fd6b20f520c2.jpg",
+      "summary": "La fase campionato si apre con la sfida tra madrileni e nerazzurri. Destini incrociati per Mourinho e Chivu, di nuovo al Bernabéu ma stavolta da avversari",
+      "date": "2026-09-08T17:30:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:6c56747cbfec",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Lutto al braccio, Ceferin: \"La famiglia del calcio europeo sostiene il popolo del Nepal\"",
+      "url": "https://www.fcinternews.it/news/lutto-braccio-ceferin-la-famiglia-calcio-europeo-sostiene-popolo-nepal-1017975",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a5/a5503cd6de80087366fae163d62e0e5e-04557-oooz0000.jpeg",
+      "summary": "Inter e Real, così come tutte le altre squadre che giocheranno in Champions, avranno il lutto al braccio per solidarizzare nei confronti delle alluvioni in Nepal.",
+      "date": "2026-09-08T17:25:25.0000000Z"
+    },
+    {
+      "id": "fcinternews:59c8ec1f69ae",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Sabato l'Inter Under 23 ospiterà la Casertana: la designazione arbitrale",
+      "url": "https://www.fcinternews.it/inter-u23/sabato-inter-under-23-ospitera-casertana-designazione-arbitrale-1017986",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/39/3952918a1a7b5d722501cb76df381184-55026-oooz0000.jpeg",
+      "summary": "Dopo la pesante sconfitta rimediata ieri sera a Picerno, l'Inter Under 23 torna in campo sabato pomeriggio a Sesto San Giovanni per sfidare la Casertana di Vinicio Espinal, con fischio d'inizio alle 15.",
+      "date": "2026-09-08T17:15:10.0000000Z"
+    },
+    {
+      "id": "fcinternews:c805b5e6e9bf",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Comunicato del Real Madrid: \"Nessun divieto alle bandiere di Ceuta\"",
+      "url": "https://www.fcinternews.it/news/comunicato-real-madrid-nessun-divieto-bandiere-ceuta-1017984",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3c/3c623ca862b827a1d4304d25cb24942c-62076-984o599o2172o1787z15a6.jpeg",
+      "summary": "È notizia di questi giorni il tam tam organizzato dai tifosi del Real Madrid per mostrare il proprio sostegno alla popolazione di Ceuta durante la gara contro l'Inter.",
+      "date": "2026-09-08T17:05:16.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:acd05942c615",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Niente rinnovo: il Milan va verso la separazione con Loftus-Cheek a fine stagione | CM",
+      "url": "https://www.calciomercato.it/2026/09/08/niente-rinnovo-il-milan-va-verso-la-separazione-con-loftus-cheek-a-fine-stagione-cm/",
+      "image": null,
+      "summary": "L'articolo Niente rinnovo: il Milan va verso la separazione con Loftus-Cheek a fine stagione | CM proviene da CalcioMercato.it .",
+      "date": "2026-09-08T17:00:06.0000000Z"
+    },
+    {
+      "id": "fcinternews:ee006b13d5d2",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Perez-Marotta, incontro tra presidenti prima di Real Madrid-Inter",
+      "url": "https://www.fcinternews.it/focus/perez-marotta-incontro-presidenti-real-madrid-inter-1017985",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/2b/2bc10194c223438ed0346e4c68a9f267-72480-oooz0000.jpeg",
+      "summary": "Florentino Pérez, presidente del Real Madrid, e Giuseppe Marotta, amministratore delegato dell'Inter, hanno guidato le delegazioni di entrambi i club nella riunione ufficiale dei dirigenti in vista della prima partita...",
+      "date": "2026-09-08T16:55:08.0000000Z"
+    },
+    {
+      "id": "fcinternews:7c18077a38df",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Sneijder e l'addio di Mourinho all'Inter: \"Io avrei fatto come lui\"",
+      "url": "https://www.fcinternews.it/ex-nerazzurri/sneijder-addio-mourinho-inter-io-lui-1017982",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/44/44e29340e5c272e24dba74d537df6f21-74070-oooz0000.jpeg",
+      "summary": "Wesley Sneijder, nel corso dell'intervista concessa a Sky Sport, ha raccontato come si è sviluppata la trattativa che lo portò all'Inter negli ultimi giorni di mercato del 2009: \"Io avevo detto al mio manager che non ...",
+      "date": "2026-09-08T16:45:20.0000000Z"
+    },
+    {
+      "id": "fcinternews:7ec32bb8d6b2",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Condò: \"L'Inter in Champions può andare lontano. Stasera un esame\"",
+      "url": "https://www.fcinternews.it/news/condo-l-inter-champions-andare-lontano-stasera-esame-1017981",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/dd/dd15665cf99315f57ff6503566b5a030-34462-oooz0000.jpeg",
+      "summary": "Dagli studi di Sky Sport, Paolo Condò mostra fiducia sulle chance europee dell'Inter: \"Ho detto che l'Inter può essere una sorpresa.",
+      "date": "2026-09-08T16:35:18.0000000Z"
+    },
+    {
+      "id": "fcinternews:d8d2ceb22b79",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "VIDEO - Bigica: \"A Madrid un bel test. Ma c'è una cosa che mi dà fastidio\"",
+      "url": "https://www.fcinternews.it/in-primo-piano/bigica-col-real-madrid-bel-test-da-fastidio-1017980",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/09/09a3eeb876a57f9e8494905abe321d82-71472-oooz0000.jpeg",
+      "summary": "Non un buon esordio per l'Inter Under 20 in Youth League. La formazione nerazzurra è uscita da Valdebebas con una sconfitta pesante per 3-0 per mano del Real Madrid.",
+      "date": "2026-09-08T16:25:00.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:1d51009c67fd",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Problemi per l&rsquo;Arsenal verso Napoli, ritardo e disagi: cosa &egrave; successo",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/09/08-151107973/problemi_per_larsenal_verso_napoli_ritardo_e_disagi_cosa_successo/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/162305420-434fc82d-70e3-4685-a56d-75a52769eb73.jpg",
+      "summary": "Cambia la tabella di marcia dei Gunners alla vigilia della sfida contro i partenopei in Champions League",
+      "date": "2026-09-08T16:24:03.0000000Z"
+    },
+    {
+      "id": "fcinternews:f00e4f7c395d",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Napoli, Allegri: \"Con l'Inter perso per nostre ingenuità. Però anche loro...\"",
+      "url": "https://www.fcinternews.it/news/napoli-allegri-con-inter-perso-ingenuita-loro-1017977",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c5/c5b446fd15338b778320c5f134b6193b-27658-oooz0000.jpeg",
+      "summary": "Alla vigilia del debutto in Champions League contro l'Arsenal di domani sera, Massimiliano Allegri, allenatore del Napoli, torna in conferenza stampa sulla bruciante sconfitta di sabato a San Siro contro l'Inter: \"Sab...",
+      "date": "2026-09-08T16:18:23.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:1222de4b2f69",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "&quot;Due finali perse, spero mi vada meglio&quot;: Allegri ricorda la Juve e prepara il Napoli da Champions",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/09/08-151107571/due_finali_perse_spero_mi_vada_meglio_allegri_ricorda_la_juve_e_prepara_il_napoli_da_champions/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/155016965-705df5ee-c10c-411c-86f0-af7f1313ec20.jpg",
+      "summary": "L'allenatore dei partenopei ha presentato la sfida in conferenza: gli indisponibili, come sta De Bruyne, l'elogio ad Arteta e il passato bianconero",
+      "date": "2026-09-08T15:52:54.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:e9cb41eb3409",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "<p>Alajbegovic nella top 10 per il premio di Miglior Giovane dell&#39;Anno 2026: chi sono gli altri</p>",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/09/08-151106650/alajbegovic_nella_top_10_per_il_premio_di_miglior_giovane_dell_anno_2026_chi_sono_gli_altri/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/151104927-56eb87ad-4a93-441d-b929-2f74bec43f44.jpg",
+      "summary": "Il talento bosniaco è tra i candidati per vincere il riconoscimento: arrivano anche i complimenti da parte della Juventus",
+      "date": "2026-09-08T15:23:53.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:b0155f5cf1b0",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "James Rodriguez all’Avellino: super colpo in arrivo per Nesta",
+      "url": "https://www.calciomercato.it/2026/09/08/james-rodriguez-allavellino-super-colpo-in-arrivo-per-nesta/",
+      "image": null,
+      "summary": "L'articolo James Rodriguez all’Avellino: super colpo in arrivo per Nesta proviene da CalcioMercato.it .",
+      "date": "2026-09-08T15:16:18.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:9781815679a3",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "<p>Alla Juve da quando ha 8 anni, in prima squadra col monopattino: chi &egrave; Owusu e cosa pensa Spalletti</p>",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/09/08-151105774/alla_juve_da_quando_ha_8_anni_in_prima_squadra_col_monopattino_chi_owusu_e_cosa_pensa_spalletti/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/150701862-29fa0b97-f7be-4051-b7d3-91d81d2b23fd.jpg",
+      "summary": "L'emergenza infortuni a centrocampo potrebbe consentire al giovane talento bianconero di esordire: i grandi già li conosce, adesso...",
+      "date": "2026-09-08T15:08:00.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:5586eb1db546",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Luis Enrique non si nasconde: &quot;Psg, inizio di stagione catastrofico... dobbiamo crescere&quot;",
+      "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/09/08-151106369/luis_enrique_non_si_nasconde_psg_inizio_di_stagione_catastrofico_dobbiamo_crescere/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/144634972-58199cc6-bfa6-4207-beb3-eca6f80a911e.jpg",
+      "summary": "Alla vigilia dell'esordio in Champions contro lo Slovan Bratislava, il tecnico spagnolo e il capitano Marquinhos hanno analizzato il difficile momento in conferenza stampa",
+      "date": "2026-09-08T14:59:28.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:508feff05cc8",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "<p>&ldquo;&Egrave; amico di Mbapp&eacute;, non mi importa. Non supplico nessuno&rdquo;: Yamal, stoccata sul Pallone d&rsquo;Oro</p>",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/09/08-151106265/amico_di_mbapp_non_mi_importa_non_supplico_nessuno_yamal_stoccata_sul_pallone_doro/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/144634710-40417eb9-d062-42e8-a11f-c5aba5b39ac5.jpg",
+      "summary": "La stella del Barcellona ha presentato in conferenza stampa l'esordio in Champions contro il Feyenoord: ecco le sue parole",
+      "date": "2026-09-08T14:52:43.0000000Z"
     },
     {
       "id": "calciomercato-it:fbb7f4bb0d9b",
@@ -27,42 +291,6 @@
       "date": "2026-09-08T14:00:45.0000000Z"
     },
     {
-      "id": "fcinternews:321aebad4fb5",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Qui Udinese - Si ferma Piotrowski: lieve aritmia cardiaca benigna",
-      "url": "https://www.fcinternews.it/l-avversario/udinese-ferma-piotrowski-lieve-aritmia-cardiaca-benigna-1017971",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/72/724e6dacb1862f649675ec0bb189a0bd-89757-oooz0000.jpeg",
-      "summary": "E' durata solo un quarto d'ora Udinese-Lazio per Jakub Piotrowski, costretto a lasciare il campo per un problema che all'indomani si è rivelato essere una lieve aritmia cardiaca benigna.",
-      "date": "2026-09-08T13:55:54.0000000Z"
-    },
-    {
-      "id": "fcinternews:833fdffc6ca8",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Primavera 1, ufficializzato il calendario dopo la sosta: gli impegni dell'Inter",
-      "url": "https://www.fcinternews.it/giovanili/primavera-1-ufficializzato-calendario-sosta-impegni-inter-1017963",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c8/c87a051b6681c6965c689741f4ef25f9-20477-oooz0000.jpeg",
-      "summary": "La Lega Serie A ha ufficializzato il calendario dalla sesta all'undicesima giornata del campionato Primavera 1, il blocco di partite previste dopo la sosta.",
-      "date": "2026-09-08T13:41:29.0000000Z"
-    },
-    {
-      "id": "fcinternews:7415252b7e61",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Inter, niente Betsson.Sport contro il Real. Ma la scorsa stagione con l'Atletico...",
-      "url": "https://www.fcinternews.it/news/inter-betsson-sport-real-scorsa-stagione-atletico-1017959",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e3/e3d290161fe6cf50e03e390cc7d05697-60365-936o192o2052o1308z1188.jpeg",
-      "summary": "Stasera l'Inter scenderà in campo con la maglia nerazzurra priva del main sponsor Betsson.Sport, in ottemperandìza con la legge in vigore in Spagna che vieta la sponsorizzazione di operatori del betting sulle divise s...",
-      "date": "2026-09-08T13:28:39.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:899b93b8306c",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -73,30 +301,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/132319842-de40dd65-de09-437f-bec8-5a41651d9396.jpg",
       "summary": "Il comunicato pubblicato dalla Lega Serie A con quanto deciso in vista del prossimo turno di campionato",
       "date": "2026-09-08T13:25:10.0000000Z"
-    },
-    {
-      "id": "fcinternews:b1f05189fc7e",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Giudice sportivo - Lautaro, seconda sanzione e multa. Nel referto anche Chivu",
-      "url": "https://www.fcinternews.it/focus/giudice-sportivo-lautaro-seconda-sanzione-multa-referto-chivu-1017968",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/03/033a1e3bfe728b36390b6c47f24da887-75533-493o96o1530o1132z0cb3.jpeg",
-      "summary": "Gianluca Gaetano è l'unico calciatore squalificato dopo la terza giornata di Serie A.",
-      "date": "2026-09-08T13:14:45.0000000Z"
-    },
-    {
-      "id": "fcinternews:93352e44c1ab",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Materazzi, tra amarcord e presente: \"Bernabeu speciale. Buona Champions, ragazzi\"",
-      "url": "https://www.fcinternews.it/copertina/materazzi-amarcord-presente-bernabeu-speciale-buona-champions-ragazzi-1017965",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/0c/0c2f0ec92377bb514a02551601412453-75158-oooz0000.jpeg",
-      "summary": "La prima notte di Champions League dell'Inter genera diverse emozioni: entusiasmo e curiosità riferite al presente, ma anche nostalgia e orgoglio per il passato, visto il palcoscenico prestigioso che ospiterà il debut...",
-      "date": "2026-09-08T13:01:05.0000000Z"
     },
     {
       "id": "tuttosport-calcio:f802eb643ec2",
@@ -111,42 +315,6 @@
       "date": "2026-09-08T12:59:48.0000000Z"
     },
     {
-      "id": "fcinternews:48426fea28f6",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "UFFICIALE - Nuovo difensore per la Lazio: ecco Diogo Leite",
-      "url": "https://www.fcinternews.it/mercato/ufficiale-difensore-lazio-diogo-leite-1017962",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/38/38176b15fc1cf12cde48f8dfbfb6043d-64167-539o527o1259o1247z0df4.jpeg",
-      "summary": "Primo posto in classifica con Inter e Roma e nuovo rinforzo in difesa. La Lazio sta decisamente volando in questo periodo e la società sta accontentando Gennaro Gattuso anche dal punto di vista del mercato.",
-      "date": "2026-09-08T12:47:13.0000000Z"
-    },
-    {
-      "id": "fcinternews:1a05e17b4159",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Inter, stasera c'è da invertire un trend fastidioso in Champions",
-      "url": "https://www.fcinternews.it/stats/inter-stasera-invertire-trend-fastidioso-champions-1017953",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/af/afb6f4240e6e8bfc3ec7ce0b18095e90-80230-oooz0000.jpeg",
-      "summary": "Stasera si ricomincia da zero, esattamente lo stesso punteggio in classifica che hanno tutte le squadre che partecipano alla League Phase di Champions League, almeno fino alle 23 circa.",
-      "date": "2026-09-08T12:33:32.0000000Z"
-    },
-    {
-      "id": "fcinternews:d23bc97276fc",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Pallone d'Oro 2026, svelati i candidati al premio di miglior tecnico: i nomi",
-      "url": "https://www.fcinternews.it/news/pallone-oro-2026-svelati-candidati-premio-miglior-tecnico-nomi-1017957",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/87/874c649b1ee1afc8ce635c0031b9e8de-43894-oooz0000.jpeg",
-      "summary": "Mikel Arteta, Luis de la Fuente, Unai Emery, Vincent Kompany e Luis Enrique sono i cinque allenatori candidati al premio di migliore allenatore per quanto riguarda l'edizione 2026 del Pallone d'Oro.",
-      "date": "2026-09-08T12:20:22.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:6f3bc2e9fca3",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -157,30 +325,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/120540521-09b436f8-8ef0-453c-83c3-ad5a82ccaa5d.jpg",
       "summary": "Il portoghese firma il contratto con i biancocelesti ed è pronto a iniziare la nuova avventura agli ordini dell'allenatore calabrese",
       "date": "2026-09-08T12:17:39.0000000Z"
-    },
-    {
-      "id": "fcinternews:ac2b6d8affa4",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Behrami: \"L'Inter ha ancora un difetto e in Champions può pesare\"",
-      "url": "https://www.fcinternews.it/news/behrami-l-inter-difetto-champions-pesare-1017955",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d6/d6aabc87618ce9926e02a6fcfe31f6da-64354-oooz0000.jpeg",
-      "summary": "Quante possibilità ha l'Inter di andare avanti in questa Champions League? Se n'è parlato ieri dagli studi di DAZN e l'ex centrocampista Valon Behrami, una delle voci dell'emittente, ha sottolineato un limite di una s...",
-      "date": "2026-09-08T12:06:04.0000000Z"
-    },
-    {
-      "id": "fcinternews:e478482e24bc",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Zamorano: \"L'Inter in casa del Real per mandare un messaggio all'Europa\"",
-      "url": "https://www.fcinternews.it/in-primo-piano/zamorano-l-inter-casa-real-mandare-messaggio-europa-1017961",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/12/129201c19598f87e735f4cdd62c8734e-18453-oooz0000.jpeg",
-      "summary": "\"Real Madrid-Inter è la mia partita preferita, la mia storia davanti agli occhi\".",
-      "date": "2026-09-08T11:52:00.0000000Z"
     },
     {
       "id": "tuttosport-calcio:a9e1d2f47b83",
@@ -195,30 +339,6 @@
       "date": "2026-09-08T11:49:03.0000000Z"
     },
     {
-      "id": "tuttosport-calcio:d4a5a88f90b5",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "McTominay si &egrave; operato al cuore, l&#39;annuncio del Napoli: le condizioni e i tempi di recupero",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/napoli/2026/09/08-151103968/mctominay_si_operato_al_cuore_l_annuncio_del_napoli_le_condizioni_e_i_tempi_di_recupero/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/113722900-bd8a602d-0e9e-4fb2-bde5-1b7558df6f8f.jpg",
-      "summary": "In una nota diramata sul proprio sito ufficiale, il club azzurro ha fatto sapere che l'intervento di ablazione cui si è sottoposto il talento scozzese \"è perfettamente riuscito\": i dettagli",
-      "date": "2026-09-08T11:43:43.0000000Z"
-    },
-    {
-      "id": "fcinternews:b359d492d1a0",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Real Madrid-Inter, stasera in campo due club al top per valore",
-      "url": "https://www.fcinternews.it/copertina/real-madrid-inter-stasera-campo-club-top-valore-1017956",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/5c/5cb5098a24ffdcd28f36f97663a14027-28673-oooz0000.jpeg",
-      "summary": "José Mourinho contro Cristian Chivu, Kilyan Mbappé contro Lautaro Martinez, Jude Bellingham contro Nicolò Barella, Denzel Dumfries contro il suo passato.",
-      "date": "2026-09-08T11:38:12.0000000Z"
-    },
-    {
       "id": "calciomercato-it:b2965b7cf5b2",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -229,18 +349,6 @@
       "image": null,
       "summary": "L'articolo Batosta Juve, Locatelli fuori 6 mesi: le soluzioni per Spalletti proviene da CalcioMercato.it .",
       "date": "2026-09-08T11:16:28.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:2ad92d83d41c",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Raimondo vola nel nome di Sinisa &nbsp;",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/frosinone/2026/09/08-151100503/raimondo_vola_nel_nome_di_sinisa/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/075949041-11a379fe-e878-4611-af6e-7b95cec80b90.jpg",
-      "summary": "Il bomber del Frosinone, lanciato da Mihajlovic a Bologna, punta l’azzurro. Lo fece esordire nel 2021 a 17 anni: in campo al posto di Rodrigo Palacio",
-      "date": "2026-09-08T11:15:00.0000000Z"
     },
     {
       "id": "calciomercato-it:291f0c74f346",
@@ -255,42 +363,6 @@
       "date": "2026-09-08T11:00:54.0000000Z"
     },
     {
-      "id": "tuttosport-calcio:f4e43208cbb7",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "&nbsp;Il Toro ha una garanzia. Porta la firma di Comuzzo",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/09/08-151100310/il_toro_ha_una_garanzia_porta_la_firma_di_comuzzo/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/074715157-dae22c48-a64b-4db9-856b-f2f2ba8cef4c.jpg",
-      "summary": "Il difensore è stato sempre utilizzato da Abate sia in campionato sia in Coppa Italia: e ha fatto bene",
-      "date": "2026-09-08T11:00:00.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:8e10d0354bb6",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "James Rodriguez in Serie B! Tutto vero, l&rsquo;Avellino ci sta provando&nbsp;",
-      "url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/09/08-151102164/james_rodriguez_in_serie_b_tutto_vero_lavellino_ci_sta_provando/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/104624324-e8a6608c-2c91-4bb1-8229-5b1e2b5bfbe1.jpg",
-      "summary": "I biancoverdi al lavoro per portare in Italia l'ex Real Madrid e Bayern Monaco: contatti tra l'entourage del calciatore e il direttore sportivo Aiello",
-      "date": "2026-09-08T10:48:50.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:632f37c0e478",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Italia, Mancini osserva Issa Doumbia e a Madrid valuta il blocco Inter. Cisse, Liberali e Lulli...",
-      "url": "https://www.tuttosport.com/news/calcio/italia/2026/09/08-151099738/italia_mancini_osserva_issa_doumbia_e_a_madrid_valuta_il_blocco_inter_cisse_liberali_e_lulli_/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/084524995-bdb1b8e4-8c70-4cb1-a098-24e953f340a8.jpg",
-      "summary": "Il ct vedrà dal vivo i nerazzurri senza Dimarco. Romano pronto a sposare la Nazionale, Tresoldi e Palma ci pensano",
-      "date": "2026-09-08T08:46:43.0000000Z"
-    },
-    {
       "id": "calciomercato-it:69870757fbd5",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -301,42 +373,6 @@
       "image": null,
       "summary": "L'articolo Vanoli ribalta la Fiorentina, pronto al rilancio di tre calciatori proviene da CalcioMercato.it .",
       "date": "2026-09-08T08:10:39.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:b631c56be6ca",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>Gatti, altro che riserva: perch&eacute; ha detto no all&rsquo;addio e cosa vuole prendersi alla Juve</p>",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/09/08-151099554/gatti_altro_che_riserva_perch_ha_detto_no_alladdio_e_cosa_vuole_prendersi_alla_juve/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/080847069-c3be72f8-fcd9-4892-9c6e-d941b0107bb4.jpg",
-      "summary": "Il Porto lo ha tentato, l’infortunio lo ha frenato e le gerarchie sono cambiate: ma il difensore è convinto di poter tornare protagonista",
-      "date": "2026-09-08T08:08:57.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:6ecb32c913cb",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Rivincita Cisse: prima in bilico sul mercato poi ha stregato Amorim. Ora &egrave; al centro del Milan!",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/09/08-151100112/rivincita_cisse_prima_in_bilico_sul_mercato_poi_ha_stregato_amorim_ora_al_centro_del_milan_/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/075623267-edd64b40-8099-4d58-8566-137afbaedc83.jpg",
-      "summary": "Con 2 gol in 3 partite l’Under 21 azzurro è tra i protagonisti del buon avvio di stagione dei rossoneri: adesso è un valore aggiunto della squadra",
-      "date": "2026-09-08T07:57:25.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:a23b83c64473",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>Owusu, il patrimonio Juve che l&rsquo;emergenza pu&ograve; mettere subito alla prova</p>",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/09/08-151099282/owusu_il_patrimonio_juve_che_lemergenza_pu_mettere_subito_alla_prova/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/08/074625782-c20ed0a8-16bc-49a5-94e6-7b9127578699.jpg",
-      "summary": "Doveva partire in prestito, ora Spalletti può lanciarlo in Serie A: dalla Next Gen alla grande occasione",
-      "date": "2026-09-08T07:49:55.0000000Z"
     },
     {
       "id": "calciomercato-it:f21244fe2d41",
@@ -397,42 +433,6 @@
       "image": null,
       "summary": "L'articolo Udinese-Lazio 1-2, biancocelesti a punteggio pieno proviene da CalcioMercato.it .",
       "date": "2026-09-07T20:43:51.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:d4bc7b0b5376",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Juve-Milan non è finita: 40 milioni per la firma",
-      "url": "https://www.calciomercato.it/2026/09/07/juve-milan-non-e-finita-40-milioni-per-la-firma/",
-      "image": null,
-      "summary": "L'articolo Juve-Milan non è finita: 40 milioni per la firma proviene da CalcioMercato.it .",
-      "date": "2026-09-07T19:10:41.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:44ee99e13839",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Panchine bollenti in Serie A: dopo Grosso rischiano in due",
-      "url": "https://www.calciomercato.it/2026/09/07/panchine-bollenti-in-serie-a-dopo-grosso-rischiano-in-due/",
-      "image": null,
-      "summary": "L'articolo Panchine bollenti in Serie A: dopo Grosso rischiano in due proviene da CalcioMercato.it .",
-      "date": "2026-09-07T18:08:07.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:9c08dc34178d",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Juve, Kolo Muani ora è un caso: l’annuncio",
-      "url": "https://www.calciomercato.it/2026/09/07/juve-kolo-muani-ora-e-un-caso-lannuncio/",
-      "image": null,
-      "summary": "L'articolo Juve, Kolo Muani ora è un caso: l’annuncio proviene da CalcioMercato.it .",
-      "date": "2026-09-07T17:05:14.0000000Z"
     }
   ]
 }

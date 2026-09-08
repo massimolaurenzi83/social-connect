@@ -1,7 +1,187 @@
 {
   "category": "motori",
-  "updated": "2026-09-08T14:11:18.1813193Z",
+  "updated": "2026-09-08T17:56:46.5189108Z",
   "items": [
+    {
+      "id": "hdmotori:8d49aa0c43a8",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mazda MX-5, il mito non tramonta: nuova serie speciale Yakudo",
+      "url": "https://www.hdmotori.it/mazda-mx-5-serie-speciale-yakudo/",
+      "image": null,
+      "summary": "Mazda MX-5 si aggiorna per il 2027 con motore 1.5 da 136 CV, nuova serie speciale Yakudo e colore Zinc Green. Debutto italiano al Salone Auto Torino The post Mazda MX-5, il mito non tramonta: nuova serie speciale Yaku...",
+      "date": "2026-09-08T17:30:36.0000000Z"
+    },
+    {
+      "id": "hdmotori:7e34d2a4b9a3",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuova Citroen 2CV, in arrivo l’elettrica da città economica e “italiana”",
+      "url": "https://www.hdmotori.it/nuova-citroen-2cv-salone-parigi-2026-prezzo-uscita/",
+      "image": null,
+      "summary": "Al Salone di Parigi 2026 sarà svelato il concept dell'iconica utilitaria: sarà elettrica, essenziale, prodotta a Pomigliano e con un prezzo di listino attorno ai 15.000 euro The post Nuova Citroen 2CV, in arrivo l’ele...",
+      "date": "2026-09-08T17:00:03.0000000Z"
+    },
+    {
+      "id": "motor1:699dc0ab8add",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Salone Auto Torino 2026, 100 anni di Sergio Pininfarina in mostra",
+      "url": "https://it.motor1.com/news/807550/salone-torino-2026-sergio-pininfarina-centenario/",
+      "image": "https://cdn.motor1.com/images/mgl/y212Vb/s3/il-ricordo-di-sergio-pininfarina.jpg",
+      "summary": "Il designer sarà celebrato con due esposizioni a Palazzo Reale, tra Ferrari iconiche e fotografie storiche",
+      "date": "2026-09-08T17:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:542eb579c887",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il camioncino di Piaggio vuole sorprendere allo IAA di Hannover",
+      "url": "https://it.motor1.com/news/807527/piaggio-porter-npe-np6-iaa-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/4070vY/s3/piaggio-porter-npe-chassis.jpg",
+      "summary": "A Hannover Piaggio Porter NPE elettrico e Porter NP6 bifuel puntano su portata fino a 1.640 kg e allestimenti dedicati ai servizi urbani",
+      "date": "2026-09-08T16:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:28839af2c8a0",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuova Dacia Spring, la piccola elettrica si rinnova: 250 km di autonomia a 17.900 euro",
+      "url": "https://www.hdmotori.it/nuova-dacia-spring-autonomia-prezzo/",
+      "image": null,
+      "summary": "Nuova Dacia Spring cambia piattaforma e cresce: motore da 80 CV, 250 km WLTP, ricarica rapida in 28 minuti e prezzi da 17.900 euro The post Nuova Dacia Spring, la piccola elettrica si rinnova: 250 km di autonomia a 17...",
+      "date": "2026-09-08T16:00:36.0000000Z"
+    },
+    {
+      "id": "motor1:41739a64c8fe",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "A cosa servono le pinze freno colorate?",
+      "url": "https://it.motor1.com/news/807302/pinze-freno-colorate-funzione/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZvgA/s3/le-pinze-freno-colorate-della-honda-prelude.jpg",
+      "summary": "Non sono lì solo per fare scena. Ecco perché le case automobilistiche verniciano le pinze freno in colori diversi",
+      "date": "2026-09-08T16:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:0f48dd6c599c",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I magneti dei motori EV tornano nuovi senza essere riciclati",
+      "url": "https://insideevs.it/news/807543/schaeffler-riusa-magneti-terre-rare/",
+      "image": "https://cdn.motor1.com/images/mgl/xqOqGw/s3/i-magneti-dei-motori-ev-tornano-nuovi-senza-essere-riciclati.jpg",
+      "summary": "Schaeffler ha sviluppato in Ungheria un processo che recupera i magneti NdFeB dai rotori difettosi e li riutilizza direttamente",
+      "date": "2026-09-08T15:48:52.0000000Z"
+    },
+    {
+      "id": "vaielettrico:0405a06c08c3",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Rheidon WB500 e AC500: ricarica domestica flessibile tra wallbox e gestione dell’energia",
+      "url": "https://www.vaielettrico.it/rheidon-wb500-e-ac500-ricarica-domestica-flessibile-tra-wallbox-e-gestione-dellenergia/",
+      "image": null,
+      "summary": "Rheidon Tech porta nell’ambito della ricarica domestica un approccio che combina wallbox e gestione intelligente dei carichi. Con… L'articolo Rheidon WB500 e AC500: ricarica domestica flessibile tra wallbox e gestione...",
+      "date": "2026-09-08T15:42:11.0000000Z"
+    },
+    {
+      "id": "insideevs:cf4f9386980e",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Robot umanoidi, XPeng anticipa Tesla: IRON entra in produzione",
+      "url": "https://insideevs.it/news/807542/xpeng-iron-robot-umanoide-sfida/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZoyA/s3/xpeng-iron.jpg",
+      "summary": "La casa cinese prepara la produzione di massa entro fine anno. Tesla Optimus è ancora impegnato nella fase di test",
+      "date": "2026-09-08T15:30:22.0000000Z"
+    },
+    {
+      "id": "hdmotori:baad0317c1eb",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Aston Martin nei guai, cosa accadrà dopo la perdita del 99% del suo valore?",
+      "url": "https://www.hdmotori.it/aston-martin-perdita-99-valore/",
+      "image": null,
+      "summary": "La Casa automobilistica di lusso Aston Martin ha subito un preoccupante declassamento sui mercati finanziari The post Aston Martin nei guai, cosa accadrà dopo la perdita del 99% del suo valore? appeared first on HDmot...",
+      "date": "2026-09-08T15:30:01.0000000Z"
+    },
+    {
+      "id": "motor1:7048c58e4e19",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come conoscere il costo del bollo auto online",
+      "url": "https://it.motor1.com/features/807518/pagamento-bollo-auto-online-2026-siti/",
+      "image": "https://cdn.motor1.com/images/mgl/KbZbYb/s3/bollo-auto-online-2026-pagamentoo.jpg",
+      "summary": "ACI e Agenzia delle Entrate collegano la targa ai dati del veicolo e alle tariffe regionali per calcolare e pagare il bollo online",
+      "date": "2026-09-08T15:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:23a8e209eb70",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen ID. Polo: ordinabile in Italia la gamma completa da 24.900 euro",
+      "url": "https://www.hdmotori.it/volkswagen-id-polo-prezzi-allestimenti/",
+      "image": null,
+      "summary": "Al via le vendite della Volkswagen ID. Polo. Motori da 37 e 52 kWh, allestimenti Trend, Life e Style, dotazioni di serie e listino prezzi The post Volkswagen ID. Polo: ordinabile in Italia la gamma completa da 24.900 ...",
+      "date": "2026-09-08T15:00:40.0000000Z"
+    },
+    {
+      "id": "insideevs:ab4f2e3bd846",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "In Germania nasce il laboratorio che vuole cambiare le LFP",
+      "url": "https://insideevs.it/news/807419/lanxess-laboratorio-batterie-lfp-germania/",
+      "image": "https://cdn.motor1.com/images/mgl/E6X6Yz/s3/in-germania-nasce-il-laboratorio-che-vuole-cambiare-le-lfp.jpg",
+      "summary": "Lanxess testa ferro e fosfati direttamente nelle celle per accelerare batterie LFP più economiche e rafforzare la filiera europea",
+      "date": "2026-09-08T14:48:11.0000000Z"
+    },
+    {
+      "id": "motor1:3638a43501e0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il quattro cilindri che affronta guadi fino a 1,1 metri",
+      "url": "https://it.motor1.com/news/807531/quattro-cilindri-guadi-horse-powertrain/",
+      "image": "https://cdn.motor1.com/images/mgl/qk8kBG/s3/horse-b20.jpg",
+      "summary": "Pensato per SUV e pick-up, il nuovo Horse B20 può lavorare immerso fino a 1,1 metri e superare pendenze fino al 100%",
+      "date": "2026-09-08T14:34:53.0000000Z"
+    },
+    {
+      "id": "vaielettrico:1cc7af8f1e3e",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "ID.Polo da 24.900 euro: me la consigliate?",
+      "url": "https://www.vaielettrico.it/id-polo-da-24-900-euro-me-la-consigliate/",
+      "image": null,
+      "summary": "ID.Polo da 24.900 euro: me la consigliate? Sandro sta pensando alla versione più economica della nuova VW… L'articolo ID.Polo da 24.900 euro: me la consigliate? proviene da Vaielettrico .",
+      "date": "2026-09-08T14:25:45.0000000Z"
+    },
     {
       "id": "vaielettrico:619993eb97db",
       "sourceId": "vaielettrico",
@@ -219,18 +399,6 @@
       "date": "2026-09-08T09:54:58.0000000Z"
     },
     {
-      "id": "hdmotori:879577df8c01",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Fiat sfida i rincari: con “Prezzo Protetto” Pandina parte da 9.950 euro",
-      "url": "https://www.hdmotori.it/fiat-prezzo-protetto-pandina-grande-panda-offerta/",
-      "image": null,
-      "summary": "Fiat lancia la promozione Prezzo Protetto: Pandina da 9.950€ e Grande Panda Turbo a 14.950€.Ddettagli, motori e condizioni dei finanziamenti Stellantis The post Fiat sfida i rincari: con “Prezzo Protetto” Pandina part...",
-      "date": "2026-09-08T09:00:27.0000000Z"
-    },
-    {
       "id": "vaielettrico:f4719ce683cc",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -241,42 +409,6 @@
       "image": null,
       "summary": "Colonnine nei posti sbagliati, quasi sempre: il resoconto di un lettore dalla Sicilia riapre il problema dello stress… L'articolo Colonnine nei posti sbagliati, quasi sempre proviene da Vaielettrico .",
       "date": "2026-09-08T08:54:36.0000000Z"
-    },
-    {
-      "id": "hdmotori:9c75ec4088bb",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Stellantis e la soluzione tecnica rivoluzionaria: supercondensatore in stile Lamborghini",
-      "url": "https://www.hdmotori.it/stellantis-soluzione-tecnica-rivoluzionaria-supercondensatore/",
-      "image": null,
-      "summary": "Stellantis ha brevettato una tecnologia che garantirebbe fino al 13% di potenza in più sulle sue future auto ibride ed elettriche The post Stellantis e la soluzione tecnica rivoluzionaria: supercondensatore in stile L...",
-      "date": "2026-09-08T08:30:27.0000000Z"
-    },
-    {
-      "id": "motor1:c121c738246c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questo SUV cinese diventa un camper in 30 secondi",
-      "url": "https://it.motor1.com/news/807459/xiaomi-skynomad-n90-max-camper/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z1ZvW/s3/xiaomi-skynomad-n90-max-explorer-edition.jpg",
-      "summary": "Il maxi SUV ibrido esteso Skynomad N90 Max offre tetto elettrico pop-up integrato, sette posti reali e oltre 1.700 km di percorrenza",
-      "date": "2026-09-08T08:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:58c8acec019c",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Toyota, la RAV4 negli USA ha un problema: vende troppo",
-      "url": "https://www.hdmotori.it/toyota-rav4-vende-troppo/",
-      "image": null,
-      "summary": "Il SUV giapponese in versione full hybrid è diventato introvabile nelle concessionarie statunitensi per via della produzione insufficiente rispetto alla forte domanda. The post Toyota, la RAV4 negli USA ha un problema...",
-      "date": "2026-09-08T07:30:18.0000000Z"
     },
     {
       "id": "insideevs:802405905745",
@@ -291,42 +423,6 @@
       "date": "2026-09-08T07:00:00.0000000Z"
     },
     {
-      "id": "motor1:5508586f7423",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Hai voluto la Porsche 911 GT3 RS? Adesso pedala",
-      "url": "https://it.motor1.com/news/807420/leon-bikes-porsche-911-gt3-rs/",
-      "image": "https://cdn.motor1.com/images/mgl/8A0nXJ/s3/porsche-911-gt3-rs---specialized-s-works-road-bike.jpg",
-      "summary": "Da Leon Bikes nasce una speciale bici ispirata alla Porsche GT3 RS",
-      "date": "2026-09-08T07:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:f48e26827b98",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Kia fa il pieno di sportive elettriche: ora ha 5 modelli GT e fino a 306 CV",
-      "url": "https://www.hdmotori.it/kia-gamma-ev-sportive/",
-      "image": null,
-      "summary": "Kia amplia la gamma GT con EV3, EV4 ed EV5: trazione integrale, fino a 306 CV, 505 km di autonomia e tecnologie pensate per una guida più coinvolgente The post Kia fa il pieno di sportive elettriche: ora ha 5 modelli ...",
-      "date": "2026-09-08T06:30:33.0000000Z"
-    },
-    {
-      "id": "motor1:d7a4b5470dc4",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova BMW Serie 3 a benzina è pronta per il debutto",
-      "url": "https://it.motor1.com/news/807456/bmw-serie-3-m350-test/",
-      "image": "https://cdn.motor1.com/images/mgl/Rqbq69/s3/2027-bmw-3-series-camouflaged-prototype-of-m350-xdrive.jpg",
-      "summary": "La top di gamma è la M350 xDrive da 443 CV con 6 cilindri mild hybrid, trazione integrale e Drift Moment. Non mancano le 4 cilindri",
-      "date": "2026-09-08T05:50:09.0000000Z"
-    },
-    {
       "id": "insideevs:41f75d604ef1",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -337,18 +433,6 @@
       "image": "https://cdn.motor1.com/images/mgl/zx0gWW/s3/la-polvere-nera-che-puo-cambiare-il-futuro-delle-batterie-ev.jpg",
       "summary": "Il pretrattamento stabilisce qualità e quantità della black mass, influenzando la resa degli impianti che recuperano litio e nichel",
       "date": "2026-09-08T05:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:247c4f5f41c2",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nuova Dacia Spring, cresce in tutto ma non nel prezzo",
-      "url": "https://it.motor1.com/news/806958/nuova-dacia-spring-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/bgO6rr/s3/dacia-spring-2027.jpg",
-      "summary": "Deriva dalla Renault Twingo ma resta fedele al posizionamento. Più grande e spaziosa, efficiente, tecnologica, ma sempre \"under 18.000\"",
-      "date": "2026-09-08T04:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:19a47ff46aea",
@@ -363,18 +447,6 @@
       "date": "2026-09-07T23:16:35.0000000Z"
     },
     {
-      "id": "motor1:3c06ceb630dd",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'Audi da più di 1.000 CV debutta in Italia",
-      "url": "https://it.motor1.com/news/807154/audi-nuvolari-mantova-presentazione/",
-      "image": "https://cdn.motor1.com/images/mgl/E6X1Kq/s3/audi-nuvolari-presentata-in-anteprima-nazionale-a-mantova.jpg",
-      "summary": "L'Audi Nuvolari si mostra per la prima volta in Italia a Mantova, nella terra natia di Tazio Nuvolari",
-      "date": "2026-09-07T22:01:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:78dc21cef83a",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -385,42 +457,6 @@
       "image": null,
       "summary": "Il Fondo Automotive prende forma. Dopo il primo bando sui veicoli commerciali leggeri – ne segue uno all’anno… L'articolo Fondo Automotive: 300 mln per “le basse emissioni”, non solo elettrico proviene da Vaielettrico .",
       "date": "2026-09-07T20:47:22.0000000Z"
-    },
-    {
-      "id": "hdmotori:d86291f98924",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Ferrari della moglie di Leclerc è un gioiello: 1000 CV e numero 16 sulla carrozzeria",
-      "url": "https://www.hdmotori.it/ferrari-moglie-charles-leclerc/",
-      "image": null,
-      "summary": "Se in pista per Leclerc non è un periodo esaltante, nella vita privata il monegasco può dirsi molto soddisfatto. Ora anche sua moglie Alexandra ha una Ferrari The post La Ferrari della moglie di Leclerc è un gioiello:...",
-      "date": "2026-09-07T18:00:05.0000000Z"
-    },
-    {
-      "id": "vaielettrico:a0f0954601f4",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Pioggia di ordini per ID.Polo e Skoda Epiq",
-      "url": "https://www.vaielettrico.it/pioggia-di-ordini-per-id-polo-e-skoda-epiq/",
-      "image": null,
-      "summary": "Pioggia di ordini per ID.Polo e Epiq: secondo i media tedeschi la piccola VW è già a quota… L'articolo Pioggia di ordini per ID.Polo e Skoda Epiq proviene da Vaielettrico .",
-      "date": "2026-09-07T17:15:51.0000000Z"
-    },
-    {
-      "id": "motor1:139a8d5becb9",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Mitsubishi Pajero per (non) correre la Dakar",
-      "url": "https://it.motor1.com/news/807390/mitsubishi-pajero-ralliart-concept/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z1Lx1/s3/mitsubishi-pajero-rally-concept.jpg",
-      "summary": "La Casa giapponese presenta un prototipo con tanti accessori per il fuoristrada più estremo. Non diventerà di serie",
-      "date": "2026-09-07T16:30:00.0000000Z"
     },
     {
       "id": "insideevs:01f5c3e68e59",
@@ -445,18 +481,6 @@
       "image": "https://cdn.motor1.com/images/mgl/nA8XRx/s3/le-curve-dell-idrogeno-ci-ingannano-i-numeri-non-tornano.jpg",
       "summary": "Le stime sui costi degli elettrolizzatori ignorano la vera esperienza manifatturiera e creano attese fragili per l'idrogeno verde",
       "date": "2026-09-07T14:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:0ebf4dfe4282",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Prezzi Audi A2 da 38.350 euro",
-      "url": "https://www.vaielettrico.it/prezzi-audi-a2-da-38-350-euro/",
-      "image": null,
-      "summary": "Prezzi Audi A2 da 38.350 euro: il marchio tedesco annuncia altri dettagli della sua ‘piccola’ elettrica in arrivo da… L'articolo Prezzi Audi A2 da 38.350 euro proviene da Vaielettrico .",
-      "date": "2026-09-07T12:32:53.0000000Z"
     },
     {
       "id": "insideevs:e5d4d30bd684",
@@ -495,40 +519,16 @@
       "date": "2026-09-07T10:00:00.0000000Z"
     },
     {
-      "id": "insideevs:5507ab1d0c08",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
+      "id": "motor1:9bd48a39b60d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "In giro con la guida assistita Tesla FSD per le strade di Bruxelles",
-      "url": "https://insideevs.it/news/807308/tesla-fsd-prova-bruxelles/",
-      "image": "https://cdn.motor1.com/images/mgl/lE4oVE/s3/fsd-in-brussels.jpg",
-      "summary": "Il conducente non tocca i comandi nel difficile traffico di Bruxelles, anche durante una manovra che gli occupanti definiscono illegale",
-      "date": "2026-09-07T09:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:bd970531aba5",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La prima prova della nuova piccola elettrica di BYD",
-      "url": "https://insideevs.it/news/807149/byd-piccola-elettrica-racco-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/nA8XLj/s3/byd-racco-tested.jpg",
-      "summary": "Un test in anteprima della BYD Racco rivela un'EV spaziosa, confortevole e progettata con cura, perfettamente a suo agio in Giappone",
-      "date": "2026-09-07T07:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:4ad543289673",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "In Cina nascono 3 nuove auto elettriche al giorno. Ma c'è un problema",
-      "url": "https://insideevs.it/news/807103/cina-ritmo-crescita-problema-qualita/",
-      "image": "https://cdn.motor1.com/images/mgl/G3BPx1/s3/catl-shenxing-fast-charging-lfp-battery-announcement.jpg",
-      "summary": "Le Case del Dragone sviluppano modelli a tempo di record. Però, correndo a questa velocità, compromettono la qualità. Anche delle batterie",
-      "date": "2026-09-07T05:00:00.0000000Z"
+      "title": "Salone Auto Torino 2026, tutte le auto da vedere e provare",
+      "url": "https://it.motor1.com/news/806294/salone-auto-torino-2026-auto-marchi-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/MkgQ0X/s3/salone-di-torino-2025.jpg",
+      "summary": "Dall'11 al 13 settembre 47 marchi presenti e più di 100 auto al Salone Auto Torino. Ecco chi c'è e tutti gli eventi in programma",
+      "date": "2026-08-28T11:00:00.0000000Z"
     }
   ]
 }
