@@ -1,7 +1,55 @@
 {
   "category": "ai",
-  "updated": "2026-09-09T06:05:29.2388744Z",
+  "updated": "2026-09-09T11:16:51.0413110Z",
   "items": [
+    {
+      "id": "ai4business:13c1cbe87bd0",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "OpenAI lancia ChatGPT Images 2.5: cosa cambia",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/openai-lancia-chatgpt-images-2-5-cosa-cambia/",
+      "image": null,
+      "summary": "OpenAI lancia un nuovo modello che promette immagini più definite, modifiche più precise e tempi di generazione ridotti fino al 50%. Con Sketch, template e due nuovi modelli via api, l’azienda punta ai flussi di lavor...",
+      "date": "2026-09-09T10:47:20.0000000Z"
+    },
+    {
+      "id": "ai4business:31f2d2949b65",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "OpenAI risolve Navier-Stokes: cosa cambia per la R&D delle imprese",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/openai-risolve-navier-stokes-cosa-cambia-per-la-rd-delle-imprese/",
+      "image": null,
+      "summary": "Navier-Stokes è alla base della fluidodinamica usata in aeronautica, energia, meteorologia e medicina. La soluzione proposta da OpenAI non produce applicazioni immediate, ma apre nuove strade per simulazioni e turbole...",
+      "date": "2026-09-09T10:06:12.0000000Z"
+    },
+    {
+      "id": "guerredirete:5913b477de89",
+      "sourceId": "guerredirete",
+      "source": "Guerre di Rete",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Il fragile patto di fiducia della cybersecurity",
+      "url": "https://www.guerredirete.it/il-fragile-patto-di-fiducia-della-cybersecurity/",
+      "image": null,
+      "summary": "Tra regole non scritte, patti traditi e vendette, il caso Nightmare Eclipse mostra quanto sia delicato il sistema che regola la divulgazione delle vulnerabilità informatiche. L'articolo Il fragile patto di fiducia del...",
+      "date": "2026-09-09T09:05:59.0000000Z"
+    },
+    {
+      "id": "ai4business:87058e612205",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Benchmark AI, l’Intelligence Index riscritto due volte in quattro giorni",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/benchmark-ai-lintelligence-index-riscritto-due-volte-in-quattro-giorni/",
+      "image": null,
+      "summary": "Artificial Analysis continua a riscrivere l'indice di capacità più citato del settore, e la graduatoria dei modelli di frontiera cambia senza che cambino i modelli. Come leggere i nuovi punteggi, dove si nasconde davv...",
+      "date": "2026-09-09T08:40:08.0000000Z"
+    },
     {
       "id": "ai4business:06cab8d1515b",
       "sourceId": "ai4business",
@@ -85,42 +133,6 @@
       "image": null,
       "summary": "Un nuovo studio di Boston Consulting Group (BCG) e Boston University indica che trattare gli AI agent come ‘colleghi’ o ‘dipendenti’, anziché come strumenti hi-tech, riduce controlli e responsabilità individuali. In p...",
       "date": "2026-09-08T07:00:00.0000000Z"
-    },
-    {
-      "id": "ai4business:0d173d218c03",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Data center, cosa può insegnare l’Irlanda all’Italia",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/data-center-cosa-puo-insegnare-lirlanda-allitalia/",
-      "image": null,
-      "summary": "In Irlanda i data center assorbono il 23% dell'elettricità nazionale e Dublino è ciò che in un prossimo futuro sarà Milano. In Italia le richieste a Terna valgono 96 GW, concentrate per la maggior parte nel milanese. ...",
-      "date": "2026-09-07T17:16:20.0000000Z"
-    },
-    {
-      "id": "ai4business:7c8c09390342",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Come scegliere una piattaforma AgentOps per monitorare gli agenti AI",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/come-scegliere-una-piattaforma-agentops-per-monitorare-gli-agenti-ai/",
-      "image": null,
-      "summary": "L’adozione dell’intelligenza artificiale nelle imprese italiane rende necessario tracciare decisioni, strumenti, costi e anomalie degli agenti. Da Langfuse a Datadog, la scelta delle piattaforme AgentOps dipende da pr...",
-      "date": "2026-09-07T16:32:09.0000000Z"
-    },
-    {
-      "id": "ai4business:fe71ef45d5c7",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Agenti OpenAI fuori controllo usano un wiki tedesco per coordinarsi",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/agenti-openai-fuori-controllo-usano-un-wiki-tedesco-per-coordinarsi/",
-      "image": null,
-      "summary": "Una rete di agenti di AI riconducibili a OpenAI avrebbe aggirato i limiti imposti durante alcuni test e trasformato DseWiki in uno spazio di comunicazione tra sistemi autonomi. Il caso arriva dopo l’intrusione ai dann...",
-      "date": "2026-09-07T16:04:35.0000000Z"
     },
     {
       "id": "guerredirete:fc1d456fb30e",
@@ -229,18 +241,6 @@
       "image": null,
       "summary": "Guerre di Rete prosegue mantenendo inalterato il patto con il lettore. Il nostro continuerà a essere un giornalismo rigoroso, approfondito, autonomo e indipendente. L'articolo Guerre di Rete continua, in memoria di Ca...",
       "date": "2026-06-10T09:00:00.0000000Z"
-    },
-    {
-      "id": "guerredirete:8dac5d51f94a",
-      "sourceId": "guerredirete",
-      "source": "Guerre di Rete",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Addio Carola",
-      "url": "https://www.guerredirete.it/addio-carola/",
-      "image": null,
-      "summary": "Oggi, 3 Giugno 2026, è venuta a mancare all'affetto della sua famiglia e dei suoi amici Carola Frediani. Carola è stata anima e linfa di Guerre di Rete e lascia un vuoto incolmabile in tutti coloro che l'hanno conosci...",
-      "date": "2026-06-03T09:14:25.0000000Z"
     }
   ]
 }

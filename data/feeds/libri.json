@@ -1,7 +1,91 @@
 {
   "category": "libri",
-  "updated": "2026-09-09T06:05:29.2245122Z",
+  "updated": "2026-09-09T11:16:51.0108340Z",
   "items": [
+    {
+      "id": "illibraio:6d68fc9b9bc7",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "Libri, le ultime uscite da non perdere: oltre 260 novità consigliate a settembre 2026",
+      "url": "https://www.illibraio.it/news/narrativa/libri-ultime-uscite-settembre-2026-1501161/",
+      "image": null,
+      "summary": "Quali sono le più interessanti novità in arrivo in libreria tra la fine dell'estate e l'inizio dell'autunno? Quali le ultime uscite da non perdere a settembre 2026? Nel nostro speciale, spazio a un'ampia selezione di ...",
+      "date": "2026-09-09T07:55:17.0000000Z"
+    },
+    {
+      "id": "illibraio:fcff7c265787",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "La scrittura come rilettura ininterrotta di sé: i saggi di Claudia Durastanti",
+      "url": "https://www.illibraio.it/news/dautore/falsi-amici-claudia-durastanti-1506890/",
+      "image": null,
+      "summary": "In \"Falsi amici\", Claudia Durastanti costruisce un mosaico di saggi narrativi intorno all’amore e alle sfumature del potere. ilLibraio.it l’ha intervistata e ha parlato con lei sull’uso dell’io, che negli interventi è...",
+      "date": "2026-09-09T01:41:31.0000000Z"
+    },
+    {
+      "id": "illibraio:8f51391ed158",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "“Pecorelle smarrite” di Madeline Cash: storia di una normale famiglia disfunzionale",
+      "url": "https://www.illibraio.it/news/dautore/pecorelle-smarrite-1506550/",
+      "image": null,
+      "summary": "Paragonata a George Saunders e Lorrie Moore, Madeline Cash debutta con il romanzo \"Pecorelle smarrite\". Tra commedia nera, dramma familiare e racconto di formazione, la (divertente) storia di una famiglia americana di...",
+      "date": "2026-09-09T01:38:08.0000000Z"
+    },
+    {
+      "id": "illibraio:ee73e1b9ba54",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "“Si sentiva nato dal nulla”: vergognarsi del desiderio di somiglianza – di Alice Scalas Bianco",
+      "url": "https://www.illibraio.it/news/dautore/le-cose-che-non-si-dicono-alice-scalas-bianco-1504281/",
+      "image": null,
+      "summary": "Alice Scalas Bianco, classe 2002, ha radici francesi, sarde, venete e lombarde: si sente \"nata da tutto e da niente, composta di un costante divenire\", proprio come Milo, il protagonista del suo romanzo, \"Le cose che ...",
+      "date": "2026-09-09T00:49:36.0000000Z"
+    },
+    {
+      "id": "illibraio:c98f8741d113",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "Racconti da (ri)leggere di ieri e di oggi: oltre 80 consigli di lettura",
+      "url": "https://www.illibraio.it/news/narrativa/racconti-da-leggere-1387063/",
+      "image": null,
+      "summary": "Alla ricerca di racconti da leggere o da rileggere? Ecco una ricca selezione di spunti di lettura, che attingono a varie epoche storiche e a diversi generi letterari: dalle storie brevi alle novelle più corpose, da qu...",
+      "date": "2026-09-08T10:59:10.0000000Z"
+    },
+    {
+      "id": "illibraio:753d34bd36a4",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "Libri thriller 2026: oltre 120 romanzi da leggere",
+      "url": "https://www.illibraio.it/news/narrativa/libri-thriller-2026-1497232/",
+      "image": null,
+      "summary": "Se state cercando i libri thriller del 2026 da leggere, e i nuovi gialli e noir italiani e internazionali da non mancare, non perdete il nostro speciale. Spazio a un'ampia selezione di novità, in cui non mancano scrit...",
+      "date": "2026-09-08T08:41:06.0000000Z"
+    },
+    {
+      "id": "illibraio:f19e3f59b8ba",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "Libri da leggere nell’estate 2026: 400 novità consigliate",
+      "url": "https://www.illibraio.it/news/narrativa/libri-da-leggere-estate-2026-1492757/",
+      "image": null,
+      "summary": "Quali nuovi libri leggere nell’estate 2026? Quali sono alcuni dei più interessanti romanzi, saggi e fumetti da portare in vacanza? Nel nostro speciale, ricco di novità consigliate, spazio a decine di ultime uscite per...",
+      "date": "2026-09-08T08:37:23.0000000Z"
+    },
     {
       "id": "illibraio:e876a8edb367",
       "sourceId": "illibraio",
@@ -25,90 +109,6 @@
       "image": null,
       "summary": "Eugenio Giannetta ha fronteggiato tutta la vita problemi legati ai disturbi del comportamento alimentare. Diete drastiche, medici \"sui generis\" e un rapporto negativo con il corpo fin dalla tenera età. In \"Corpo liber...",
       "date": "2026-09-08T01:32:41.0000000Z"
-    },
-    {
-      "id": "illibraio:41961d364dce",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Olivetti, quando l’industria produce bellezza",
-      "url": "https://www.illibraio.it/news/saggistica/olivetti-industria-bellezza-1506184/",
-      "image": null,
-      "summary": "\"La testimonianza di una vera e propria pedagogia della comunicazione dove il rapporto uomo-macchina si fa cultura\". Prosegue, tra rigore filologico e fascinazione visiva, l’esplorazione del lavoro grafico che ha reso...",
-      "date": "2026-09-08T00:56:07.0000000Z"
-    },
-    {
-      "id": "illibraio:45bcb602bbe9",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Oriana Fallaci: i libri e la vita della giornalista e scrittrice",
-      "url": "https://www.illibraio.it/news/saggistica/oriana-fallaci-libri-vita-566925/",
-      "image": null,
-      "summary": "Oriana Fallaci (1929-2006), giornalista e scrittrice italiana conosciuta in tutto il mondo, ha fatto discutere e spesso scandalizzare il panorama internazionale con i suoi reportage di guerra, le sue interviste agli u...",
-      "date": "2026-09-07T08:39:30.0000000Z"
-    },
-    {
-      "id": "illibraio:6d68fc9b9bc7",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Libri, le ultime uscite da non perdere: oltre 260 novità consigliate a settembre 2026",
-      "url": "https://www.illibraio.it/news/narrativa/libri-ultime-uscite-settembre-2026-1501161/",
-      "image": null,
-      "summary": "Quali sono le più interessanti novità in arrivo in libreria tra la fine dell'estate e l'inizio dell'autunno? Quali le ultime uscite da non perdere a settembre 2026? Nel nostro speciale, spazio a un'ampia selezione di ...",
-      "date": "2026-09-07T08:02:17.0000000Z"
-    },
-    {
-      "id": "illibraio:c7464e3ca1b8",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Libri da comodino: i migliori titoli da leggere prima di dormire",
-      "url": "https://www.illibraio.it/news/narrativa/libri-da-comodino-1459426/",
-      "image": null,
-      "summary": "Che cosa leggere prima di andare a dormire? I libri da comodino sono compagni discreti e preziosi, pronti ad accompagnarci verso il sonno quando il resto del mondo si spegne. Sono rilassanti, perfetti per chi cerca un...",
-      "date": "2026-09-07T07:29:35.0000000Z"
-    },
-    {
-      "id": "illibraio:f19e3f59b8ba",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Libri da leggere nell’estate 2026: 400 novità consigliate",
-      "url": "https://www.illibraio.it/news/narrativa/libri-da-leggere-estate-2026-1492757/",
-      "image": null,
-      "summary": "Quali nuovi libri leggere nell’estate 2026? Quali sono alcuni dei più interessanti romanzi, saggi e fumetti da portare in vacanza? Nel nostro speciale, ricco di novità consigliate, spazio a decine di ultime uscite per...",
-      "date": "2026-09-07T07:06:23.0000000Z"
-    },
-    {
-      "id": "illibraio:89cfd418ab9a",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Mercedes Ron torna in libreria: e il suo “Marfil – Gli opposti” arriva anche su Prime Video",
-      "url": "https://www.illibraio.it/news/narrativa/mercedes-ron-marfil-gli-opposti-1506563/",
-      "image": null,
-      "summary": "È appena arrivato nelle librerie italiane \"Marfil - Gli opposti\", thriller romance di Mercedes Ron, autrice conosciuta per la sua \"Trilogia della colpa\" inaugurata con \"È colpa mia?\". L'adattamento cinematografico del...",
-      "date": "2026-09-07T01:36:45.0000000Z"
-    },
-    {
-      "id": "illibraio:a97038d4a306",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Isolato, caparbio, lontano dalle mode del momento: il “caso Morselli”",
-      "url": "https://www.illibraio.it/news/dautore/guido-morselli-1505134/",
-      "image": null,
-      "summary": "Guido Morselli (1912 – 1973), morto suicida pochi giorni prima che l'Adelphi gli comunicasse di aver accettato il romanzo \"Roma senza papa\", era disperatamente votato alla propria idea di letteratura. Ma nei suoi diar...",
-      "date": "2026-09-07T00:37:53.0000000Z"
     }
   ]
 }
