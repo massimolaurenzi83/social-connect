@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-09-09T01:16:16.2771256Z",
+  "updated": "2026-09-09T06:05:29.2228780Z",
   "items": [
+    {
+      "id": "motor1:c49c67a5cc27",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Stellantis: 300 officine riparano carrozzerie di tutte le auto",
+      "url": "https://it.motor1.com/news/807535/stellantis-bodyshop-multimarca-eurorepar/",
+      "image": "https://cdn.motor1.com/images/mgl/QeGebN/s3/stellantis-300-officine-riparano-carrozzerie-di-tutte-le-auto.jpg",
+      "summary": "Il nuovo marchio Bodyshop Multimarca porta i lavori di carrozzeria dentro la rete Eurorepar Car Service, con circa 300 officine già attive",
+      "date": "2026-09-09T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:26c607e5ad0f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen T-Roc mild hybrid (2026), la prova dei consumi reali",
+      "url": "https://it.motor1.com/reviews/807316/volkswagen-t-roc-mild-hybrid-2026-consumi/",
+      "image": "https://cdn.motor1.com/images/mgl/bgO63m/s3/volkswagen-t-roc-mild-hybrid-2026-la-prova-consumi.jpg",
+      "summary": "Bene il comfort e il piacere di guida sulla nuova T-Roc, così come gli ausili alla guida. Migliorabili dotazioni e consumi in autostrada",
+      "date": "2026-09-09T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:0c7c2007bf0b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Metà delle province cinesi ha fermato la crescita del carbone",
+      "url": "https://insideevs.it/news/807544/cina-rinnovabili-carbone-cambia-mix/",
+      "image": "https://cdn.motor1.com/images/mgl/KbZbAG/s3/meta-delle-province-cinesi-ha-fermato-la-crescita-del-carbone.jpg",
+      "summary": "Nel rapporto Ember la crescita di solare ed eolico copre il nuovo fabbisogno elettrico e riduce il peso climatico delle auto elettriche",
+      "date": "2026-09-09T05:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:2cbd334cd75b",
       "sourceId": "hdmotori",
@@ -339,18 +375,6 @@
       "date": "2026-09-08T11:00:09.0000000Z"
     },
     {
-      "id": "motor1:9e93d381e104",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Com'è fatta dentro la nuova Skoda a 7 posti",
-      "url": "https://it.motor1.com/news/806113/skoda-peaq-interni-bagagliaio/",
-      "image": "https://cdn.motor1.com/images/mgl/xq3726/s3/skoda-peaq-interni-e-bagagliaio.jpg",
-      "summary": "Spaziosa, tecnologica e ben rifinita, ecco la Peaq, uno dei SUV più grandi della gamma del Costruttore ceco",
-      "date": "2026-09-08T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:748c4e172839",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -361,18 +385,6 @@
       "image": "https://cdn.motor1.com/images/mgl/P3V3JL/s3/nuova-dacia-spring-cosa-cambia-rispetto-alla-vecchia-generazione.jpg",
       "summary": "Tutta nuova, dalla piattaforma al look, fa un salto in avanti in tutto. Tranne che nel prezzo",
       "date": "2026-09-08T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:65170db759fb",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ho fatto 18 giri al Nurburgring senza benzina con una Porsche",
-      "url": "https://it.motor1.com/reviews/807075/porsche-taycan-manthey-prova-nurburgring/",
-      "image": "https://cdn.motor1.com/images/mgl/bgO6ew/s3/cover-porsche-ring.jpg",
-      "summary": "A bordo della Porsche Taycan Turbo GT con Manthey Kit ho percorso 360 km nell’Inferno Verde e mi sono scaricato prima io della batteria",
-      "date": "2026-09-08T10:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:91163ea59828",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/2N48qE/s3/audi-a2-e-tron-2026.jpg",
       "summary": "Si va da 170 a 326, con unicamente versioni a trazione posteriore e un'autonomia massima di 646 km.",
       "date": "2026-09-07T11:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:0755c02a1972",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "ProLogium avvia la produzione di batterie allo stato solido",
-      "url": "https://insideevs.it/news/807313/prologium-produzione-batterie-stato-solido/",
-      "image": "https://cdn.motor1.com/images/mgl/NGMORy/s3/batteria-stato-solido-prologium-con-elettrolita-inorganico.jpg",
-      "summary": "L'azienda, sostenuta da Mercedes, realizza celle con una densità di 381 Wh/kg",
-      "date": "2026-09-07T10:00:00.0000000Z"
     },
     {
       "id": "motor1:9bd48a39b60d",

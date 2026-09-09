@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-09-09T01:16:16.3184532Z",
+  "updated": "2026-09-09T06:05:29.2681943Z",
   "items": [
+    {
+      "id": "ansa-cronaca:db776599ff74",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Di Battista 'sta affrontando nel migliore dei modi fase post-operatoria'",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/09/di-battista-sta-affrontando-nel-migliore-dei-modi-fase-post-operatoria_a8bcb79d-2eca-4854-9b5c-26f7b0685298.html",
+      "image": null,
+      "summary": "Il post della sua associazione che ringrazia i medici cubani e alle autorità italiane",
+      "date": "2026-09-09T05:54:46.0000000Z"
+    },
     {
       "id": "ansa-cronaca:8f178de4f756",
       "sourceId": "ansa-cronaca",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "La piccola aveva inalato il frutto due settimane prima, operata a Treviso",
       "date": "2026-09-08T12:06:08.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:8f5e6b8f3b59",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "La morte di Domenico, 'confronto in chat per versione definitiva diario clinico'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/08/la-morte-di-domenico-confronto-in-chat-per-versione-definitiva-diario-clinico_0ec97342-4661-4f30-b2e6-28a30e3057b6.html",
-      "image": null,
-      "summary": "Per pm su WhatsApp la prova della modifica della cronologia degli eventi",
-      "date": "2026-09-08T12:00:37.0000000Z"
     }
   ]
 }
