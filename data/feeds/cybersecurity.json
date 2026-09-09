@@ -1,7 +1,67 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-09T11:16:50.9976780Z",
+  "updated": "2026-09-09T15:11:04.1143203Z",
   "items": [
+    {
+      "id": "cybersecurity360:aba28081a13b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Patch Tuesday settembre 2026: due zero-day già sfruttate e venti bug wormable",
+      "url": "https://www.cybersecurity360.it/news/patch-tuesday-settembre-2026-due-zero-day-gia-sfruttate-e-venti-bug-wormable/",
+      "image": null,
+      "summary": "Con 974 CVE corrette, quasi il doppio del record di luglio, il Patch Tuesday di settembre 2026 è il più grande della storia. Ma la vera notizia non è il numero: sono le due zero-day già sfruttate su ALPC e Windows Upd...",
+      "date": "2026-09-09T13:58:16.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:a7652ab44265",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "AI, vishing e spionaggio industriale: gli attacchi sono più credibili, veloci e più vicini alla vittima",
+      "url": "https://www.cybersecurity360.it/news/ai-vishing-e-spionaggio-industriale-gli-attacchi-sono-piu-credibili-veloci-e-piu-vicini-alla-vittima/",
+      "image": null,
+      "summary": "AI, vishing, furto di identità e social engineering funzionano perché spesso non serve bucare un sistema. Agli aggressori è sufficiente convincere qualcuno ad aprire la porta e l’AI accelera tutto questo, rendendo gli...",
+      "date": "2026-09-09T13:24:09.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:b6832632081f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Piano ispettivo del Garante privacy: una bussola per tutti, ma servono trasparenza e certezza dei tempi",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/piano-ispettivo-del-garante-privacy-una-bussola-per-tutti-ma-servono-trasparenza-e-certezza-dei-tempi/",
+      "image": null,
+      "summary": "Ad oltre un mese dalla scadenza del piano definito per gennaio-luglio, imprese, amministrazioni e professionisti non dispongono ancora della consueta indicazione pubblica delle successive priorità ispettive. Ecco perc...",
+      "date": "2026-09-09T12:33:59.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:fa34c99ca7fc",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "AI e spionaggio: dov’è il confine e cosa apporta il digitale all’elemento umano",
+      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/ai-e-spionaggio-dove-il-confine-e-cosa-apporta-il-digitale-allelemento-umano/",
+      "image": null,
+      "summary": "Nel mondo dello spionaggio e del controspionaggio la HUMINT, Human Intelligence, agisce sfruttando le relazioni umane per avere accesso fisico e diretto ad ambienti riservati. Ad essa si sta affiancando l'AI ma non pe...",
+      "date": "2026-09-09T12:20:08.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:1367d7e71358",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Avast Premium Security sconta del 60% il piano per 10 dispositivi: protezione completa contro ransomware e deepfake",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/avast-premium-security-sconto-60-percento-10-dispositivi/",
+      "image": null,
+      "summary": "Avast Premium Security arriva a 39,99 euro per il primo anno nel piano destinato a 10 dispositivi, con uno sconto del 60% rispetto al prezzo indicato di 99,99 euro. La soluzione integra antivirus, difese anti-ransomwa...",
+      "date": "2026-09-09T11:55:45.0000000Z"
+    },
     {
       "id": "cybersecurity360:c9e31c643245",
       "sourceId": "cybersecurity360",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "Quando un assistente AI conferma una scelta sbagliata, il problema non è soltanto l’algoritmo: è la fiducia che riponiamo nel suo giudizio. La Sycophancy può trasformare il bias di conferma in un rischio cyber, renden...",
       "date": "2026-09-08T14:57:29.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:87408f61f624",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Velocità delle VPN e throughput di rete: i nuovi protocolli superano i limiti di banda nella protezione endpoint",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/velocita-vpn-throughput-rete-nordvpn-prestazioni-crittografia/",
-      "image": null,
-      "summary": "NordVPN propone un’offerta biennale con prezzi da 3,89 euro al mese e fino al 73% di risparmio. Inclusi anche GIGA eSIM Saily gratuiti, con quantità variabile in base al piano scelto L'articolo Velocità delle VPN e th...",
-      "date": "2026-09-08T11:52:57.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d4175dbe293c",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "ASCII smuggling, la nuova tecnica che elude i filtri antiphishing: come difendersi",
-      "url": "https://www.cybersecurity360.it/news/ascii-smuggling-la-nuova-tecnica-che-elude-i-filtri-antiphishing-come-difendersi/",
-      "image": null,
-      "summary": "L’ASCII smuggling esce dal perimetro della sicurezza AI e arriva nel phishing. Una campagna individuata da Microsoft usa caratteri Unicode invisibili per confondere i sistemi di rilevamento, mostrando come tecniche le...",
-      "date": "2026-09-08T11:16:13.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:7b382722d2d0",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "GPT-6 Astra e articolo 50 AI Act: il paradosso della trasparenza che non si può verificare",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/gpt-6-astra-e-articolo-50-ai-act-il-paradosso-della-trasparenza-che-non-si-puo-verificare/",
-      "image": null,
-      "summary": "Il modello più capace mai rilasciato da OpenAI arriva mentre in Europa diventano operativi gli obblighi di trasparenza sui contenuti sintetici. Il risultato è un sistema normativo che carica il fornitore a monte e las...",
-      "date": "2026-09-08T10:36:19.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:be08a4891463",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "CSIRT as a Service: cos’è e come gestisce gli incidenti secondo la NIS2",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/csirt-as-a-service-cose-e-come-gestisce-gli-incidenti-secondo-la-nis2/",
-      "image": null,
-      "summary": "Con gli attacchi gravi in Italia cresciuti del 42% e le scadenze NIS2 di ottobre 2026 alle porte, cresce l'interesse per il CSIRT as a Service: un modello che esternalizza la funzione di Referente CSIRT e coordina l'i...",
-      "date": "2026-09-08T09:15:58.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:09d483adc2d6",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Servizi di ascolto e GDPR: perché il consenso non basta a proteggere i soggetti vulnerabili",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/servizi-di-ascolto-e-gdpr-perche-il-consenso-non-basta-a-proteggere-i-soggetti-vulnerabili/",
-      "image": null,
-      "summary": "Il consenso non è necessariamente la base giuridica più sicura quando si trattano i dati di persone vulnerabili. Tra categorie particolari, comunicazioni a soggetti terzi e informazioni relative a possibili reati, la ...",
-      "date": "2026-09-08T07:45:46.0000000Z"
     }
   ]
 }

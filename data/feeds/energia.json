@@ -1,7 +1,55 @@
 {
   "category": "energia",
-  "updated": "2026-09-09T11:16:51.0275256Z",
+  "updated": "2026-09-09T15:11:04.1631237Z",
   "items": [
+    {
+      "id": "qualenergia:5d3cd7dc52f0",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Con fotovoltaico e accumulo un hotel siciliano ridurrà la bolletta annuale di 500.000 €",
+      "url": "https://www.qualenergia.it/articoli/fotovoltaico-accumulo-hotel-siciliano-ridurra-bolletta-annuale-500mila-e/",
+      "image": null,
+      "summary": "Il Saracen Sands Hotel & Conference Centre, importante struttura ricettiva situata in Sicilia, punta a ridurre la propria bolletta energetica annuale di circa 500.000 euro grazie all’installazione di una pensilina fot...",
+      "date": "2026-09-09T13:45:53.0000000Z"
+    },
+    {
+      "id": "qualenergia:25e13ea7932f",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Concessioni idroelettrico, la Francia scrive le nuove regole",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/francia-scrive-regole-nuove-concessioni-idroelettrico/",
+      "image": null,
+      "summary": "Il Governo è impegnato ormai da anni nel trovare una soluzione al problema delle concessioni idroelettriche. Il nostro Paese sarebbe vincolato a indire delle gare per quelle scadute o in scadenza alla luce degli accor...",
+      "date": "2026-09-09T13:45:06.0000000Z"
+    },
+    {
+      "id": "qualenergia:ef79f7016ae2",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Red IV, Bruxelles punta a mantenere un target rinnovabili dedicato",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/red-iv-bruxelles-punta-mantenere-target-rinnovabili-dedicato/",
+      "image": null,
+      "summary": "Un quadro Ue dedicato alle rinnovabili dovrà restare anche dopo il 2030. È l’impostazione che emerge da una bozza interna dell’impact assessment con cui i servizi della Commissione stanno preparando la revisione post-...",
+      "date": "2026-09-09T13:30:53.0000000Z"
+    },
+    {
+      "id": "qualenergia:5bf87a180ec4",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Gli attacchi alla rete tedesca rivelano i punti deboli del sistema elettrico",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/attacchi-rete-tedesca-rivelano-punti-deboli-sistema-elettrico/",
+      "image": null,
+      "summary": "Una serie di sabotaggi contro la rete elettrica tedesca ha mostrato in pochi giorni quanto danno possano provocare mezzi relativamente semplici contro nodi strategici del sistema. Il 1° settembre un attacco nell’area ...",
+      "date": "2026-09-09T11:45:58.0000000Z"
+    },
     {
       "id": "qualenergia:334142fab7e8",
       "sourceId": "qualenergia",
@@ -75,6 +123,18 @@
       "date": "2026-09-09T06:55:13.0000000Z"
     },
     {
+      "id": "qualenergia:50d40d648ab7",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Bandi e appalti del giorno (5)",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
+      "image": null,
+      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
+      "date": "2026-09-09T06:30:17.0000000Z"
+    },
+    {
       "id": "qualenergia:ed359064492d",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -85,66 +145,6 @@
       "image": null,
       "summary": "Corsi universitari, master, ITS Academy, stage, seminari di formazione a vari livelli su tematiche energetiche, fonti rinnovabili, efficienza energetica e mobilità elettrica. Destinatari: studenti diplomati, universit...",
       "date": "2026-09-09T05:15:30.0000000Z"
-    },
-    {
-      "id": "qualenergia:2c9b3723f52a",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "China Energy Transition Review 2026",
-      "url": "https://www.qualenergia.it/pro/documenti/china-energy-transition-review-2026/",
-      "image": null,
-      "summary": "Le energie pulite in Cina stanno iniziando ad assumere funzioni a lungo svolte dai combustibili fossili. Quali sono i progressi compiuti da Pechino nella transizione energetica, e quali le implicazioni di questo perco...",
-      "date": "2026-09-09T05:00:39.0000000Z"
-    },
-    {
-      "id": "qualenergia:c4f8163c50d5",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Corso di laurea in “Ingegneria chimica per l’innovazione e la sostenibilità dei processi”",
-      "url": "https://www.qualenergia.it/pro/documenti/corso-di-laurea-in-ingegneria-chimica-per-linnovazione-e-la-sostenibilita-dei-processi/",
-      "image": null,
-      "summary": "Il corso di laurea in “Ingegneria chimica per l’innovazione e la sostenibilità dei processi” forma ingegneri chimici capaci di progettare, sviluppare e gestire processi industriali, dalla scala di laboratorio a quella...",
-      "date": "2026-09-09T05:00:02.0000000Z"
-    },
-    {
-      "id": "qualenergia:c806b8589e7b",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "INFODATA ENERGIA",
-      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
-      "image": null,
-      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
-      "date": "2026-09-09T04:30:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:28c24aba79dc",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "BANDI E APPALTI",
-      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
-      "image": null,
-      "summary": "Sommario BANDI E APPALTI DEL GIORNO Vai alla pagina con i nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energe...",
-      "date": "2026-09-08T22:25:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:2abca2279c1e",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Fotovoltaico, dal CdS indicazioni su transitorio Dl Agricoltura e autotutela Pas",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/fotovoltaico-indicazioni-transitorio-agricoltura-autotutela-pas/",
-      "image": null,
-      "summary": "L’articolo 5 del decreto-legge Agricoltura n. 63/2024 sul divieto di fotovoltaico a terra in area agricola, recentemente fatto salvo dalla Corte Costituzionale, prevede una disciplina transitoria di salvaguardia dei p...",
-      "date": "2026-09-08T14:00:59.0000000Z"
     }
   ]
 }

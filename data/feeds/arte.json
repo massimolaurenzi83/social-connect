@@ -1,18 +1,90 @@
 {
   "category": "arte",
-  "updated": "2026-09-09T11:16:51.0465914Z",
+  "updated": "2026-09-09T15:11:04.1522241Z",
   "items": [
     {
-      "id": "artribune:561e58c8aaef",
+      "id": "elledecor:9a17593b9f85",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Le case di Serena Williams raccontano una vita in movimento tra New York, Parigi e la Florida",
+      "url": "https://www.elledecor.com/it/case/a73630209/case-di-serena-williams/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/4ae86819-1c1f-40d6-ac66-7eefdfffc837.jpeg",
+      "summary": "Da Manhattan a Parigi fino alla Florida, le proprietà della campionessa raccontano vent’anni di case, ristrutturazioni e interni su misura",
+      "date": "2026-09-09T14:30:00.0000000Z"
+    },
+    {
+      "id": "elledecor:f2556e0c0f18",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il primo disidratatore e affumicatore per cucine sempre attive",
+      "url": "https://www.elledecor.com/it/tech/novita/a73597128/disidratatore-affumicatore/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f71e89a1-14d1-47aa-bb0c-33f0c2716d31.jpeg",
+      "summary": "Dalla carne secca affumicata alla frutta disidratata, dalle erbe aromatiche al pet food fatto in casa",
+      "date": "2026-09-09T14:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:abd5cf38d45b",
       "sourceId": "artribune",
       "source": "Artribune",
       "platform": "rss",
       "category": "arte",
-      "title": "Il teatro come specchio dell’umanità. Intervista al co-direttore del festival Narni Città Teatro, Davide Sacco",
-      "url": "https://www.artribune.com/arti-performative/teatro-danza/2026/09/intervista-festival-narni-citta-teatro-davide-sacco/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/davide-sacco.jpg",
-      "summary": "Per la sua settima edizione il festival, aperto dall’11 al 13 settembre, è sempre più aperto all’arte contemporanea e alla performance. Ne abbiamo parlato con Sacco L’articolo \" Il teatro come specchio dell’umanità. I...",
-      "date": "2026-09-09T11:00:00.0000000Z"
+      "title": "Come si crea un profumo d’autore? Maria Candida Gentile prova a spiegarci",
+      "url": "https://www.artribune.com/professioni-e-professionisti/who-is-who/2026/09/intervista-maria-candida-gentile-profumeria/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/03mcg-ritrattolaboratorio.jpg",
+      "summary": "La profumeria d’autore è un mondo tutto da scoprire. Ce lo racconta il naso Maria Candida Gentile in questa intervista in cui ci accompagna per mano in un settore che è una vera e propria arte L’articolo \" Come si cre...",
+      "date": "2026-09-09T14:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:e36e7c223b4f",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Gli archeologi hanno scoperto una statua di 2500 anni fa nascosta sotto un’antica strada romana",
+      "url": "https://www.elledecor.com/it/lifestyle/a73630201/scoperta-antichissima-statua-romana/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a702472f-2688-40f9-a82e-8f32cfe9765a.jpeg",
+      "summary": "A Sardi, nell’attuale Turchia, una scultura monumentale riemerge dagli scavi dopo essere stata riutilizzata come pavimentazione",
+      "date": "2026-09-09T13:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:aa3396197838",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Da ex aeroporto a parco di 65 ettari: Vicenza va in finale per il premio europeo sullo spazio pubblico",
+      "url": "https://www.artribune.com/progettazione/2026/09/parco-della-pace-vicenza-european-prize-urban-public-space-2026/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/p217built-landscape-aerial-view.jpg",
+      "summary": "Si intitola “Parco della Pace” il progetto nella rosa dei finalisti dell’European Prize for Urban Public Space 2026. Da ex aeroporto a grande infrastruttura verde, il progetto vicentino concorre con interventi ad Anve...",
+      "date": "2026-09-09T13:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:4dd3d5577054",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Al Festiva di Venezia debutta il film che riscopre Gerda Taro, pioniera del fotogiornalismo",
+      "url": "https://www.elledecor.com/it/lifestyle/a73648976/la-ragazza-con-la-leica-film-gerda-taro-pioniera-fotogiornalismo/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/e8bb24e9-02ae-4b30-81da-93fb96e5826b.jpg",
+      "summary": "\"La ragazza con la Leica\" di Alina Marazzi racconta la vita breve e straordinaria della fotografa che attraversò l’Europa degli anni Trenta accanto a Robert Capa",
+      "date": "2026-09-09T12:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:480aa1b8c928",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Rembrandt e Vermeer in un videogame. Il nuovo videogioco ambientato ad Amsterdam nel Seicento",
+      "url": "https://www.artribune.com/progettazione/new-media/2026/09/1666-amsterdam-videogioco/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/1666-amsterdam-di-panache-jeux-numeriques-1.jpg",
+      "summary": "“1666: Amsterdam” è il nuovo videogioco del creatore di Assassin’s Creed. Ci porta nella Amsterdam del XVII Secolo alla scoperta dell’arte olandese di allora. E dell’invenzione della laicità L’articolo \" Rembrandt e V...",
+      "date": "2026-09-09T12:00:00.0000000Z"
     },
     {
       "id": "elledecor:2a28eac4369f",
@@ -27,16 +99,16 @@
       "date": "2026-09-09T11:00:00.0000000Z"
     },
     {
-      "id": "elledecor:bf88799992b2",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
+      "id": "artribune:561e58c8aaef",
+      "sourceId": "artribune",
+      "source": "Artribune",
       "platform": "rss",
       "category": "arte",
-      "title": "La nuova piramide nel deserto del New Mexico è un'opera d'arte che misura il tempo del cielo",
-      "url": "https://www.elledecor.com/it/arte/a73608209/nuova-piramide-deserto-new-mexico/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/88f87907-911a-4e00-8a82-aae9452c4ebd.jpg",
-      "summary": "L'artista Charles Ross completa Star Axis dopo cinquant'anni: una piramide costruita per inquadrare la stella polare e il tempo",
-      "date": "2026-09-09T10:00:00.0000000Z"
+      "title": "Il teatro come specchio dell’umanità. Intervista al co-direttore del festival Narni Città Teatro, Davide Sacco",
+      "url": "https://www.artribune.com/arti-performative/teatro-danza/2026/09/intervista-festival-narni-citta-teatro-davide-sacco/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/davide-sacco.jpg",
+      "summary": "Per la sua settima edizione il festival, aperto dall’11 al 13 settembre, è sempre più aperto all’arte contemporanea e alla performance. Ne abbiamo parlato con Sacco L’articolo \" Il teatro come specchio dell’umanità. I...",
+      "date": "2026-09-09T11:00:00.0000000Z"
     },
     {
       "id": "artribune:35550c1cca44",
@@ -51,12 +123,24 @@
       "date": "2026-09-09T10:00:00.0000000Z"
     },
     {
+      "id": "elledecor:bf88799992b2",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "La nuova piramide nel deserto del New Mexico è un'opera d'arte che misura il tempo del cielo",
+      "url": "https://www.elledecor.com/it/arte/a73608209/nuova-piramide-deserto-new-mexico/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/88f87907-911a-4e00-8a82-aae9452c4ebd.jpg",
+      "summary": "L'artista Charles Ross completa Star Axis dopo cinquant'anni: una piramide costruita per inquadrare la stella polare e il tempo",
+      "date": "2026-09-09T10:00:00.0000000Z"
+    },
+    {
       "id": "artribune:18343d7244e1",
       "sourceId": "artribune",
       "source": "Artribune",
       "platform": "rss",
       "category": "arte",
-      "title": "Tutte le anticipazioni sul programma di mostre alla Grande Brera di Milano per il 2026/2027",
+      "title": "Tutte le anticipazioni sul programma di mostre alla Grande Brera di Milano per il 2026/2027. L’intervista al direttore Crespi",
       "url": "https://www.artribune.com/arti-visive/2026/09/programma-espositivo-grande-brera-milano-2026-2027/",
       "image": "https://www.artribune.com/wp-content/uploads/2025/12/il-cortile-donore-del-palazzo-di-brera-foto-pinacoteca-brera.jpg",
       "summary": "Le celebrazioni per il 250esimo anniversario dell'Accademia si intrecciano al decennale dalla morte del semiologo Umberto Eco. E c'è persino Marina Abramović L’articolo \" Tutte le anticipazioni sul programma di mostre...",
@@ -171,42 +255,6 @@
       "date": "2026-09-08T18:30:00.0000000Z"
     },
     {
-      "id": "artribune:78118fdb1d09",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "I fondatori della (non) fiera Basel Social Club lanciano un nuovo progetto a Tokyo: arte, musica, gastronomia e vita notturna",
-      "url": "https://www.artribune.com/dal-mondo/2026/09/fondatori-basel-social-club-nuovo-progetto-tokyo-jazz-club/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/1.png",
-      "summary": "Il nuovo progetto Tokyo Jazz Club, che aprirà durante l'Art Week Tokyo di novembre 2026, si apre ad arti visive,musica gastronomia e ristorazione L’articolo \" I fondatori della (non) fiera Basel Social Club lanciano u...",
-      "date": "2026-09-08T17:29:49.0000000Z"
-    },
-    {
-      "id": "artribune:47b82c656930",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Kazuko Miyamoto porta corpo ed errore dentro il Minimalismo. La mostra a Roma",
-      "url": "https://www.artribune.com/arti-visive/2026/09/kazuko-miyamoto-mostra-roma/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/kazuko-miyamoto-dancing-around-the-entrance-to-the-cellar-courtesy-galleria-bonomo-roma-01-scaled.jpg",
-      "summary": "A distanza di 16 dalla sua prima mostra romana, l’artista nipponica di base a New York torna nella Capitale con una mostra che racconta la sua parabola artistica capace di fondere minimalismo, femminismo e sensibilità...",
-      "date": "2026-09-08T17:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:386b1701ef28",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Ha aperto un nuovo polo culturale per l’arte in uno storico palazzo dell’Aquila",
-      "url": "https://www.artribune.com/progettazione/2026/09/la-galleria-bper-apre-laquila-palazzo-farinosi-branconi/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/screenshot-2026-09-08-alle-154844-scaled.png",
-      "summary": "Oltre 14 milioni investiti, 6 anni di lavori, una collezione di circa 10.000 opere d’arte. Questi sono i numeri del nuovo polo culturale che La Galleria BPER ha aperto il 3 settembre all’Aquila, restituendo alla città...",
-      "date": "2026-09-08T15:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:4e7383b04cb5",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -217,54 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/ace75e9f-ad21-451f-b14e-29a10f876001.jpg",
       "summary": "Irina Shevchenko ripensa una costruzione tradizionale come un interno aperto e luminoso, dove il legno incontra arredi vintage e una sensibilità decisamente modernista",
       "date": "2026-09-08T14:30:00.0000000Z"
-    },
-    {
-      "id": "elledecor:a236e0302cbb",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "L’edera è la pianta da (ri)scoprire per dare carattere a giardini e balconi anche nei piccoli spazi",
-      "url": "https://www.elledecor.com/it/lifestyle/a73579966/cosa-sapere-sull-edera/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/a3d103ba-fa37-490c-97b2-f1b8dbaea429.jpeg",
-      "summary": "Resistente, sempreverde e sorprendentemente versatile, l’edera si presta alla coltivazione in vaso e può diventare rampicante, tappezzante o ricadente scegliendo le varietà giuste",
-      "date": "2026-09-08T14:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:5cdc5ab8403d",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "La storica residenza dell'ex principe Andrea è in cerca di un nuovo inquilino per le sue 30 stanze",
-      "url": "https://www.elledecor.com/it/case/a73630012/casa-ex-principe-andrea-in-affitto/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/7cbcfba7-ab83-4f78-88b0-3f36f9afeb3a.jpeg",
-      "summary": "La casa nella tenuta di Windsor tornerà in affitto a un privato",
-      "date": "2026-09-08T13:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:32dcd5128cdc",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Una spa materica in un palazzo storico di Lecce è un luogo di benessere dove il tempo rallenta",
-      "url": "https://www.elledecor.com/it/viaggi/a73569974/spa-bellissima-palazzo-storico-lecce/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/e5cb8c42-941e-429d-94c2-83de82e59fca.jpg",
-      "summary": "Lo spazio wellness nella cornice del Patria Palace è un indirizzo wellness in travertino firmato Flore & Venezia",
-      "date": "2026-09-08T12:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:c85af0accab9",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Tende per il soggiorno: idee moderne per arredare e valorizzare il salotto",
-      "url": "https://www.elledecor.com/it/design/g45918321/idee-tende-salotto/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/view-of-living-room-news-photo-1700746375.jpg",
-      "summary": "Colori, stili, modelli, materiali... Con questi esempi pratici di progettisti potrete trarre ispirazione per sistemare le tende nel vostro living",
-      "date": "2026-09-08T11:06:00.0000000Z"
     }
   ]
 }
