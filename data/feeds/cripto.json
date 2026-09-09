@@ -1,7 +1,31 @@
 {
   "category": "cripto",
-  "updated": "2026-09-08T23:10:10.4963471Z",
+  "updated": "2026-09-09T01:16:16.2931010Z",
   "items": [
+    {
+      "id": "cryptonomist:338e66e6ac6b",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Trezor attiva la firma chiara ERC-7730 dopo l’hack Bybit da 1,5 miliardi $",
+      "url": "https://cryptonomist.ch/2026/09/09/firma-chiara-erc-7730-su-trezor/",
+      "image": null,
+      "summary": "Per anni, firmare una transazione crypto con un hardware wallet ha significato fidarsi a scatola chiusa: sullo schermo del dispositivo appariva solo una sequenza di caratteri esadecimali incomprensibile, mentre l’app ...",
+      "date": "2026-09-08T23:15:18.0000000Z"
+    },
+    {
+      "id": "cryptonomist:9d9595acbe48",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Ex Franklin Templeton al timone della stablecoin Ethena e del 20% di ENA",
+      "url": "https://cryptonomist.ch/2026/09/09/stablecoin-ethena/",
+      "image": null,
+      "summary": "Un manager arrivato da Franklin Templeton prende il timone di una società che controlla, da sola, un quinto dell’offerta di uno dei token più discussi del mercato crypto. StablecoinX ha nominato Christopher Jensen nuo...",
+      "date": "2026-09-08T23:12:13.0000000Z"
+    },
     {
       "id": "cryptonomist:51b18407ec3b",
       "sourceId": "cryptonomist",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Tether blocca wallet USDT per un valore di circa 39 milioni di dollari, colpendo indirizzi collegati a Xinbi, una rete di scambio basata su Telegram accusata di favorire attività illecite nel mondo delle crypto. Il co...",
       "date": "2026-09-08T20:00:44.0000000Z"
-    },
-    {
-      "id": "cryptonomist:1b82915b8a22",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Volume transazioni Solana in testa: 348 milioni di dollari in flussi RWA",
-      "url": "https://cryptonomist.ch/2026/09/08/volume-transazioni-solana/",
-      "image": null,
-      "summary": "Per la seconda settimana consecutiva, Solana comanda la classifica delle transazioni e del volume transazioni Solana nella categoria x402, un primato che arriva mentre la rete testa in parallelo un upgrade tecnico cap...",
-      "date": "2026-09-08T18:55:55.0000000Z"
-    },
-    {
-      "id": "cryptonomist:d1c5ce38e97f",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Contratti perpetual $USELESS: perché Hyperliquid ha scelto solo 3x di leva?",
-      "url": "https://cryptonomist.ch/2026/09/08/contratti-perpetual-useless/",
-      "image": null,
-      "summary": "Hyperliquid ha aperto la contrattazione su nuovi contratti perpetual $USELESS, fissando un tetto di leva finanziaria a 3x per un token che ha fatto della propria inutilità dichiarata il proprio biglietto da visita. La...",
-      "date": "2026-09-08T18:54:36.0000000Z"
     }
   ]
 }
