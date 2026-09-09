@@ -1,7 +1,43 @@
 {
   "category": "cucina",
-  "updated": "2026-09-09T15:11:04.1272726Z",
+  "updated": "2026-09-09T18:38:18.8680519Z",
   "items": [
+    {
+      "id": "dissapore:b24363ff048c",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "In Europa c’è sempre meno mais, e dovrà pensarci l’Argentina",
+      "url": "https://www.dissapore.com/notizie/in-europa-ce-sempre-meno-mais-e-dovra-pensarci-largentina/",
+      "image": null,
+      "summary": "Tra crisi climatica e guerra, l'Argentina colma il vuoto nel mercato di uno dei prodotti agricoli più scambiati al mondo. L'articolo In Europa c’è sempre meno mais, e dovrà pensarci l’Argentina proviene da Dissapore .",
+      "date": "2026-09-09T16:08:05.0000000Z"
+    },
+    {
+      "id": "giallozafferano:9b350182ecda",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Spaghetti ai 4 formaggi e fichi",
+      "url": "https://ricette.giallozafferano.it/Spaghetti-ai-4-formaggi-e-fichi.html",
+      "image": "https://www.giallozafferano.it/images/365-36593/Spaghetti-ai-4-formaggi-e-fichi_1200x800.jpg",
+      "summary": "Gli spaghetti ai 4 formaggi e fichi sono un primo piatto cremoso e saporito, perfetto per la fine dell’estate, quando si raccolgono i fichi migliori: polposi e naturalmente zuccherini. Qui vi proponiamo una ricetta ch...",
+      "date": "2026-09-09T14:40:00.0000000Z"
+    },
+    {
+      "id": "giallozafferano:04da5676571f",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Gnocchi con zucca, porcini e burrata",
+      "url": "https://ricette.giallozafferano.it/Gnocchi-con-zucca-porcini-e-burrata.html",
+      "image": "https://www.giallozafferano.it/images/365-36599/Gnocchi-con-zucca-porcini-e-burrata_1200x800.jpg",
+      "summary": "Gli gnocchi con zucca, porcini e burrata sono un primo piatto autunnale saporito e cremoso, perfetto per portare in tavola tutti i profumi e i colori della stagione. Abbiamo scelto due ingredienti protagonisti dell’au...",
+      "date": "2026-09-09T14:39:00.0000000Z"
+    },
     {
       "id": "dissapore:81dbbc179778",
       "sourceId": "dissapore",
@@ -195,18 +231,6 @@
       "date": "2026-09-04T17:31:20.0000000Z"
     },
     {
-      "id": "dissapore:f809981a6b6b",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Mangiamo sempre più surgelati",
-      "url": "https://www.dissapore.com/notizie/mangiamo-sempre-piu-surgelati/",
-      "image": null,
-      "summary": "Esce il rapporto su quanti surgelati consumiamo, e sono molti. Ma sono davvero un'opzione valida sotto tutti i punti di vista? L'articolo Mangiamo sempre più surgelati proviene da Dissapore .",
-      "date": "2026-09-04T11:45:11.0000000Z"
-    },
-    {
       "id": "giallozafferano:da8c747df0cb",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -265,30 +289,6 @@
       "image": "https://www.giallozafferano.it/images/365-36578/Risotto-cacio-pepe-e-cozze_1200x800.jpg",
       "summary": "Il risotto cacio, pepe e cozze è una variante originale e irresistibilmente cremosa della celebre cacio e pepe , che vi invita a sperimentare un abbinamento tanto audace quanto sorprendente. In questa ricetta il gusto...",
       "date": "2026-09-01T13:05:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:0f251ce20686",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Involtini di carpaccio in padella",
-      "url": "https://ricette.giallozafferano.it/Involtini-di-carpaccio-in-padella.html",
-      "image": "https://www.giallozafferano.it/images/365-36577/Involtini-di-carpaccio-in-padella_1200x800.jpg",
-      "summary": "Gli involtini di carpaccio in padella sono un secondo piatto di carne semplice da preparare, caratterizzato da una farcitura ricca e saporita. Una ricetta veloce e gustosa, ideale quando volete trasformare il classico...",
-      "date": "2026-09-01T10:14:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:e826913baeb7",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Risotto al pomodoro con broccoli e funghi",
-      "url": "https://ricette.giallozafferano.it/Risotto-al-pomodoro-con-broccoli-e-funghi.html",
-      "image": "https://www.giallozafferano.it/images/365-36573/Risotto-al-pomodoro-con-broccoli-e-funghi_1200x800.jpg",
-      "summary": "Il risotto al pomodoro con broccoli e funghi è una versione ricca e autunnale del classico risotto al pomodoro . In questa ricetta la cremosità del riso mantecato con burro e Parmigiano incontra le cimette di broccoli...",
-      "date": "2026-08-31T14:28:00.0000000Z"
     }
   ]
 }
