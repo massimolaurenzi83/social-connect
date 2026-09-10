@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-10T01:11:38.6166987Z",
+  "updated": "2026-09-10T06:00:32.2107599Z",
   "items": [
+    {
+      "id": "cybersecurity360:561c6ca4bafa",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Sistemi legacy e obsolescenza dei PLC: strategie di protezione e mitigazione dei rischi in fabbrica",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/sistemi-legacy-e-obsolescenza-dei-plc-strategie-di-protezione-e-mitigazione-dei-rischi-in-fabbrica/",
+      "image": null,
+      "summary": "I sistemi legacy e i PLC obsoleti restano essenziali in molti impianti, ma vulnerabilità non correggibili e assenza di supporto ne aumentano il rischio cyber. Segmentazione, monitoraggio e compensating controls permet...",
+      "date": "2026-09-09T15:48:50.0000000Z"
+    },
     {
       "id": "cybersecurity360:aba28081a13b",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "La robotica collaborativa porta persone e macchine a condividere spazi e processi produttivi. Ma Cobot connessi, sensori e software ampliano anche il rischio cyber: proteggere reti, firmware e logiche di controllo div...",
       "date": "2026-09-08T15:28:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:01283a47c45e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sycophancy nell’AI: quando l’algoritmo ci dà ragione anche se stiamo sbagliando",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/sycophancy-nellai-quando-lalgoritmo-ci-da-ragione-anche-se-stiamo-sbagliando/",
-      "image": null,
-      "summary": "Quando un assistente AI conferma una scelta sbagliata, il problema non è soltanto l’algoritmo: è la fiducia che riponiamo nel suo giudizio. La Sycophancy può trasformare il bias di conferma in un rischio cyber, renden...",
-      "date": "2026-09-08T14:57:29.0000000Z"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-10T01:11:38.6270692Z",
+  "updated": "2026-09-10T06:00:32.1876456Z",
   "items": [
+    {
+      "id": "motor1:76949db68d90",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Fiat ha due nuove carte da giocare contro i SUV europei",
+      "url": "https://it.motor1.com/news/807494/fiat-grizzly-fastback-numeri-analisi/",
+      "image": "https://cdn.motor1.com/images/mgl/W8b8lg/s3/fiat-e-i-nuovi-suv-l-obiettivo-sono-i-numeri.jpg",
+      "summary": "Grizzly e Grizzly Fastback arrivano per dare una scossa alle vendite Fiat in Europa e Brasile, dopo i risultati poco brillanti della 600",
+      "date": "2026-09-10T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:a2f0d1da2842",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Eolico e solare fanno perdere valore alle case?",
+      "url": "https://insideevs.it/news/807631/parchi-eolici-solari-valore-case/",
+      "image": "https://cdn.motor1.com/images/mgl/vx7x3G/s3/eolico-e-solare-fanno-perdere-valore-alle-case.jpg",
+      "summary": "Uno studio americano ha analizzato 20 anni di compravendite. Ecco la risposta",
+      "date": "2026-09-10T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:4f0eca0cc812",
       "sourceId": "vaielettrico",
@@ -207,18 +231,6 @@
       "date": "2026-09-09T14:00:55.0000000Z"
     },
     {
-      "id": "insideevs:8b49b439f189",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Batterie al sodio, la svolta passa dal carbonio duro a 900 °C",
-      "url": "https://insideevs.it/news/807642/batterie-sodio-ione-carbonio-duro/",
-      "image": "https://cdn.motor1.com/images/mgl/ZnlnxA/s3/batterie-al-sodio-la-svolta-passa-dal-carbonio-duro-a-900-degc.jpg",
-      "summary": "Ricercatori cinesi hanno trovato un modo per controllare la struttura dell'anodo e renderne più uniforme la produzione industriale",
-      "date": "2026-09-09T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:569d93d76a71",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -228,6 +240,18 @@
       "url": "https://it.motor1.com/news/807621/ferrari-enzo-nero-opaco-vendita/",
       "image": "https://cdn.motor1.com/images/mgl/0epeW2/s3/2004-ferrari-enzo-in-matte-nero-opaco.jpg",
       "summary": "La vernice di fabbrica Nero Opaco, i pochi km e la provenienza da Bruneki rendono questa Ferrari una delle auto da collezione più rare",
+      "date": "2026-09-09T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:8b49b439f189",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Batterie al sodio, la svolta passa dal carbonio duro a 900 °C",
+      "url": "https://insideevs.it/news/807642/batterie-sodio-ione-carbonio-duro/",
+      "image": "https://cdn.motor1.com/images/mgl/ZnlnxA/s3/batterie-al-sodio-la-svolta-passa-dal-carbonio-duro-a-900-degc.jpg",
+      "summary": "Ricercatori cinesi hanno trovato un modo per controllare la struttura dell'anodo e renderne più uniforme la produzione industriale",
       "date": "2026-09-09T14:00:00.0000000Z"
     },
     {
@@ -255,18 +279,6 @@
       "date": "2026-09-09T13:00:18.0000000Z"
     },
     {
-      "id": "motor1:0e2c39cb4e51",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto usate, quasi un acquirente su tre scopre i km truccati",
-      "url": "https://it.motor1.com/news/807663/auto-usate-chilometri-scalati-rischi/",
-      "image": "https://cdn.motor1.com/images/mgl/6ZOZ0b/s3/auto-usate-quasi-un-acquirente-su-tre-scopre-i-km-truccati.jpg",
-      "summary": "Il 30% degli acquirenti europei ha incontrato un'auto con i km alterati. In Italia il fenomeno è meno frequente, ma la frode pesa molto",
-      "date": "2026-09-09T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:db7888fa41d5",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -276,6 +288,18 @@
       "url": "https://insideevs.it/news/807632/hyundai-mobis-nuovo-impianto-powertrain/",
       "image": "https://cdn.motor1.com/images/mgl/pb8bRo/s3/il-cuore-delle-hyundai-elettriche-ora-nasce-in-europa.jpg",
       "summary": "Hyundai Mobis ha avviato la produzione a a Nováky, dove potranno essere realizzati fino a 280.000 powertrain elettrici ogni anno",
+      "date": "2026-09-09T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:0e2c39cb4e51",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto usate, quasi un acquirente su tre scopre i km truccati",
+      "url": "https://it.motor1.com/news/807663/auto-usate-chilometri-scalati-rischi/",
+      "image": "https://cdn.motor1.com/images/mgl/6ZOZ0b/s3/auto-usate-quasi-un-acquirente-su-tre-scopre-i-km-truccati.jpg",
+      "summary": "Il 30% degli acquirenti europei ha incontrato un'auto con i km alterati. In Italia il fenomeno è meno frequente, ma la frode pesa molto",
       "date": "2026-09-09T13:00:00.0000000Z"
     },
     {
@@ -327,18 +351,6 @@
       "date": "2026-09-09T10:00:00.0000000Z"
     },
     {
-      "id": "insideevs:7c9c5a0f78b5",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il volante d'emergenza di Tesla Cybercab è un joystick sullo schermo",
-      "url": "https://insideevs.it/news/807599/tesla-cybercab-volante-joystick/",
-      "image": "https://cdn.motor1.com/images/mgl/P3V3kr/s3/tesla-cybercab-touchscreen-controls.jpg",
-      "summary": "Tesla ha nascosto un volante virtuale all'interno dell'enorme schermo infotainment del Cybercab",
-      "date": "2026-09-09T09:00:00.0000000Z"
-    },
-    {
       "id": "motor1:f4d10a6d8162",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -348,6 +360,18 @@
       "url": "https://it.motor1.com/news/807602/hyundai-ioniq-3-prezzi-allestimenti/",
       "image": "https://cdn.motor1.com/images/mgl/W8b8Jr/s3/hyundai-ioniq-3.jpg",
       "summary": "Disponibile solo elettrica, la nuova Hyundai Ioniq 3 ha un prezzo base italiano di 29.900 euro",
+      "date": "2026-09-09T09:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:7c9c5a0f78b5",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il volante d'emergenza di Tesla Cybercab è un joystick sullo schermo",
+      "url": "https://insideevs.it/news/807599/tesla-cybercab-volante-joystick/",
+      "image": "https://cdn.motor1.com/images/mgl/P3V3kr/s3/tesla-cybercab-touchscreen-controls.jpg",
+      "summary": "Tesla ha nascosto un volante virtuale all'interno dell'enorme schermo infotainment del Cybercab",
       "date": "2026-09-09T09:00:00.0000000Z"
     },
     {
@@ -408,18 +432,6 @@
       "url": "https://insideevs.it/news/807544/cina-rinnovabili-carbone-cambia-mix/",
       "image": "https://cdn.motor1.com/images/mgl/KbZbAG/s3/meta-delle-province-cinesi-ha-fermato-la-crescita-del-carbone.jpg",
       "summary": "Nel rapporto Ember la crescita di solare ed eolico copre il nuovo fabbisogno elettrico e riduce il peso climatico delle auto elettriche",
-      "date": "2026-09-09T05:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:26c607e5ad0f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volkswagen T-Roc mild hybrid (2026), la prova dei consumi reali",
-      "url": "https://it.motor1.com/reviews/807316/volkswagen-t-roc-mild-hybrid-2026-consumi/",
-      "image": "https://cdn.motor1.com/images/mgl/bgO63m/s3/volkswagen-t-roc-mild-hybrid-2026-la-prova-consumi.jpg",
-      "summary": "Bene il comfort e il piacere di guida sulla nuova T-Roc, così come gli ausili alla guida. Migliorabili dotazioni e consumi in autostrada",
       "date": "2026-09-09T05:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/mMYM2B/s3/ricarica-auto-elettrica.jpg",
       "summary": "Nel report ICCT 2026 guidare in UE un’auto elettrica costa il 33% in meno rispetto alla benzina, anche con ricarica solo pubblica",
       "date": "2026-09-08T09:54:58.0000000Z"
-    },
-    {
-      "id": "insideevs:802405905745",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La verità sul backup casa-auto: il fotovoltaico non basta",
-      "url": "https://insideevs.it/news/807393/backup-energetico-casa-auto-serve/",
-      "image": "https://cdn.motor1.com/images/mgl/3WB19X/s3/la-verita-sul-backup-casa-auto-il-fotovoltaico-non-basta.jpg",
-      "summary": "Impianto fotovoltaico con accumulo, modalità isola e generatori spiegano davvero cosa resta acceso in caso di blackout prolungato",
-      "date": "2026-09-08T07:00:00.0000000Z"
     }
   ]
 }
