@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-09-10T14:59:52.6260090Z",
+  "updated": "2026-09-10T18:20:01.6696620Z",
   "items": [
+    {
+      "id": "ferrovie:eac53341ce4d",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Treni Toscana, nessun rincaro per gli abbonamenti TFT e LFI",
+      "url": "https://www.ferrovie.info/treni-reali/treni-toscana-nessun-rincaro-per-gli-abbonamenti-tft-e-lfi.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10529/ETT23_28229.JPG",
+      "summary": "Al via la campagna abbonamenti per l’anno scolastico 2026-2027 sulle linee Arezzo-Stia e Arezzo-Sinalunga. Per l’anno scolastico 2026-2027 non aumentano le tariffe degli abbonamenti di Trasporto Ferroviario Toscano (T...",
+      "date": "2026-09-10T15:48:59.0000000Z"
+    },
     {
       "id": "ferrovie:b0d098dbca0a",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10054/tgv_m_300.jpg",
       "summary": "Il TGV-M francese, il nuovo treno ad Alta Velocità a due piani di SNCF, frena ancora prima di entrare in servizio in Italia. Il debutto dei nuovi convogli francesi sulla rete italiana, inizialmente previsto per settem...",
       "date": "2026-09-09T13:10:09.0000000Z"
-    },
-    {
-      "id": "ferrovie:8dee52d01b6d",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Italo, dopo la Germania obiettivo Belgio e Paesi Bassi dal 2030-2031",
-      "url": "https://www.ferrovie.info/treni-reali/italo-dopo-la-germania-obiettivo-belgio-e-paesi-bassi-dal-2030-2031.html",
-      "image": "https://www.ferrovie.info/images/ai/treno_italo_germania_ai_7800.webp",
-      "summary": "Italo guarda sempre più lontano. Dopo aver annunciato lo sbarco in Germania, previsto dal 1° giugno 2028 , la compagnia privata dell'Alta Velocità italiana pensa già alla fase successiva e mette nel mirino Belgio e Ol...",
-      "date": "2026-09-09T10:10:26.0000000Z"
     }
   ]
 }

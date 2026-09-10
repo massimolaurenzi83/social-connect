@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-10T14:59:52.6323856Z",
+  "updated": "2026-09-10T18:20:01.6303526Z",
   "items": [
+    {
+      "id": "cybersecurity360:b2441491de15",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Incidenti AI e alignment: la lezione di Anthropic per la cyber sicurezza",
+      "url": "https://www.cybersecurity360.it/news/incidenti-ai-e-alignment-la-lezione-di-anthropic-per-la-cyber-sicurezza/",
+      "image": null,
+      "summary": "Addestrare i modelli estremamente potenti del futuro affinché siano saldamente allineati è una sfida tecnica irrisolta che richiede una ricerca continua e un’eccellenza operativa per essere affrontata. Ecco come mitig...",
+      "date": "2026-09-10T15:28:37.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:c3bbe4483758",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Agenti AI fuori dal perimetro: il caso OpenAI riapre il confine tra misalignment e incidente cyber",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/agenti-ai-fuori-dal-perimetro-il-caso-openai-riapre-il-confine-tra-misalignment-e-incidente-cyber/",
+      "image": null,
+      "summary": "Agenti AI che usano un wiki pubblico come memoria esterna, condividono istruzioni e si adattano quando l’attività viene ostacolata. Il caso ricostruito da Reuters porta OpenAI a riconoscere una zona grigia tra misalig...",
+      "date": "2026-09-10T15:05:56.0000000Z"
+    },
     {
       "id": "cybersecurity360:a254db2ba0fb",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Con 974 CVE corrette, quasi il doppio del record di luglio, il Patch Tuesday di settembre 2026 è il più grande della storia. Ma la vera notizia non è il numero: sono le due zero-day già sfruttate su ALPC e Windows Upd...",
       "date": "2026-09-09T13:58:16.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a7652ab44265",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "AI, vishing e spionaggio industriale: gli attacchi sono più credibili, veloci e più vicini alla vittima",
-      "url": "https://www.cybersecurity360.it/news/ai-vishing-e-spionaggio-industriale-gli-attacchi-sono-piu-credibili-veloci-e-piu-vicini-alla-vittima/",
-      "image": null,
-      "summary": "AI, vishing, furto di identità e social engineering funzionano perché spesso non serve bucare un sistema. Agli aggressori è sufficiente convincere qualcuno ad aprire la porta e l’AI accelera tutto questo, rendendo gli...",
-      "date": "2026-09-09T13:24:09.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:b6832632081f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Piano ispettivo del Garante privacy: una bussola per tutti, ma servono trasparenza e certezza dei tempi",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/piano-ispettivo-del-garante-privacy-una-bussola-per-tutti-ma-servono-trasparenza-e-certezza-dei-tempi/",
-      "image": null,
-      "summary": "Ad oltre un mese dalla scadenza del piano definito per gennaio-luglio, imprese, amministrazioni e professionisti non dispongono ancora della consueta indicazione pubblica delle successive priorità ispettive. Ecco perc...",
-      "date": "2026-09-09T12:33:59.0000000Z"
     }
   ]
 }

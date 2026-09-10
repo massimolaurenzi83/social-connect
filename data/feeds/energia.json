@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-09-10T14:59:52.6665745Z",
+  "updated": "2026-09-10T18:20:01.6417426Z",
   "items": [
+    {
+      "id": "qualenergia:612b172ec8e7",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Concessioni idro, Foti rilancia la “quarta via”",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/concessioni-idro-foti-rilancia-quarta-via/",
+      "image": null,
+      "summary": "La “quarta via” sulle concessioni idroelettriche, alternativa alle gare, per il ministro per gli Affari europei e il Pnrr Tommaso Foti è una strada percorribile “di fatto e di diritto”. Lo ha detto oggi, 10 settembre,...",
+      "date": "2026-09-10T15:00:36.0000000Z"
+    },
     {
       "id": "qualenergia:e041c60f8df8",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
       "date": "2026-09-10T06:30:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:ed359064492d",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "LA FORMAZIONE ENERGETICA IN ITALIA",
-      "url": "https://www.qualenergia.it/pro/documenti/formazione-energetica-in-italia/",
-      "image": null,
-      "summary": "Corsi universitari, master, ITS Academy, stage, seminari di formazione a vari livelli su tematiche energetiche, fonti rinnovabili, efficienza energetica e mobilità elettrica. Destinatari: studenti diplomati, universit...",
-      "date": "2026-09-10T05:15:30.0000000Z"
     }
   ]
 }
