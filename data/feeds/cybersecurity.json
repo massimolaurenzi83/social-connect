@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-10T11:10:49.8278819Z",
+  "updated": "2026-09-10T14:59:52.6323856Z",
   "items": [
+    {
+      "id": "cybersecurity360:a254db2ba0fb",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Interfacce HMI e continuità di processo: mitigare i rischi sui terminali di linea",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/interfacce-hmi-e-continuita-di-processo-mitigare-i-rischi-sui-terminali-di-linea/",
+      "image": null,
+      "summary": "Gli HMI collegano operatori e processi industriali, ma possono anche diventare punti critici. Accessi, sistemi embedded, connessioni remote e backup devono essere protetti per evitare che un terminale compromesso si t...",
+      "date": "2026-09-10T13:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:c17eb3017e33",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Ad oltre un mese dalla scadenza del piano definito per gennaio-luglio, imprese, amministrazioni e professionisti non dispongono ancora della consueta indicazione pubblica delle successive priorità ispettive. Ecco perc...",
       "date": "2026-09-09T12:33:59.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:fa34c99ca7fc",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "AI e spionaggio: dov’è il confine e cosa apporta il digitale all’elemento umano",
-      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/ai-e-spionaggio-dove-il-confine-e-cosa-apporta-il-digitale-allelemento-umano/",
-      "image": null,
-      "summary": "Nel mondo dello spionaggio e del controspionaggio la HUMINT, Human Intelligence, agisce sfruttando le relazioni umane per avere accesso fisico e diretto ad ambienti riservati. Ad essa si sta affiancando l'AI ma non pe...",
-      "date": "2026-09-09T12:20:08.0000000Z"
     }
   ]
 }
