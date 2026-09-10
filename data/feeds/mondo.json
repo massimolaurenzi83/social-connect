@@ -1,6 +1,6 @@
 {
   "category": "mondo",
-  "updated": "2026-09-10T18:20:01.6550322Z",
+  "updated": "2026-09-10T21:00:01.4243952Z",
   "items": [
     {
       "id": "internazionale:20463c14a39c",
@@ -63,16 +63,100 @@
       "date": "2026-10-03T09:00:00.0000000Z"
     },
     {
-      "id": "ansa-mondo:832a9513e92e",
+      "id": "ansa-mondo:57b4cf69ef3c",
       "sourceId": "ansa-mondo",
       "source": "ANSA Mondo",
       "platform": "rss",
       "category": "mondo",
-      "title": "Quattro persone accoltellate a Londra dopo 'una rissa'. La polizia non ipotizza terrorismo",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/quattro-persone-accoltellate-a-londra-matrice-per-ora-non-chiara_ac227e63-f193-4d2e-a1ce-1214f7b569d7.html",
+      "title": "Brasile, giudice della Corte suprema vieta a deputato di destra di lasciare il Paese",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/brasile-giudice-della-corte-suprema-vieta-a-deputato-di-destra-di-lasciare-il-paese_eac53953-9c2a-481e-b68c-3979dccb7b0e.html",
       "image": null,
-      "summary": "Un ferito in condizioni serie e tre non gravi. Arrestate 7 persone",
-      "date": "2026-09-10T18:14:33.0000000Z"
+      "summary": "Frias è indagato per irregolarità nell'uso di fondi pubblici per film su Jair Bolsonaro",
+      "date": "2026-09-10T20:42:21.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:cb50d80d1c85",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Si ribalta bus turistico in Svizzera, 'ci sono morti e feriti'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/bus-turistico-coinvolto-in-un-incidente-stradale-in-svizzera-diversi-morti_264b84d3-1792-4d81-b064-21e3aa16218b.html",
+      "image": null,
+      "summary": "Nell'est del Paese. 48 passeggeri a bordo, partiti dall'Olanda erano diretti in Austria",
+      "date": "2026-09-10T20:17:27.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:59a53b6406f0",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Brasile, addio alla tassa sui piccoli pacchi. Esultano le piattaforme cinesi",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/brasile-addio-alla-tassa-sui-piccoli-pacchi.-esultano-le-piattaforme-cinesi_3da8c107-e611-4fc4-8f69-51c297a9ca10.html",
+      "image": null,
+      "summary": "Cancellato il dazio del 20% sotto i 50 dollari",
+      "date": "2026-09-10T20:10:13.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:3bddbb526b1d",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Scossa di terremoto di magnitudo 4,1 dopo raid Israele nel sud del Libano",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/10/scossa-di-terremoto-di-magnitudo-41-dopo-raid-israele-nel-sud-del-libano_9302497d-708f-49c7-b095-bde0f1984625.html",
+      "image": null,
+      "summary": "Media, l'Idf ha utilizzato 'più di 1.100 tonnellate di esplosivo'",
+      "date": "2026-09-10T19:40:45.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:c7a07b4e03de",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Cala ma non cede l'inflazione in Argentina, +1,7% ad agosto",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/cala-ma-non-cede-linflazione-in-argentina-17-ad-agosto_6c8de7dc-fc51-4826-821e-b1209ee83adc.html",
+      "image": null,
+      "summary": "Il governo gongola ma su base annua rimane al 33,5% e da gennaio l'incremento è del 21,3%",
+      "date": "2026-09-10T19:35:10.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:de9975d952dc",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Israele bombarda nel sud del Libano, 'distrutte infrastrutture di Hezbollah'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/10/israele-bombarda-nel-sud-del-libano-distrutte-infrastrutture-di-hezbollah_40ee00a9-36fd-431d-8671-2c1e3ec72b3a.html",
+      "image": null,
+      "summary": "Reporter Afp hanno riferito di aver udito forti esplosioni",
+      "date": "2026-09-10T18:52:08.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:c18733f06ede",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Brasile, nei sondaggi Bolsonaro supera Lula al ballottaggio",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/brasile-nei-sondaggi-bolsonaro-supera-lula-al-ballottaggio_0c74aca0-81ed-4160-bb5e-aac434374c45.html",
+      "image": null,
+      "summary": "In calo il gradimento del presidente, ma al primo turno è davanti",
+      "date": "2026-09-10T18:40:26.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:9fd1dd6b9150",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Bus turistico coinvolto in un incidente stradale in Svizzera, 'diversi morti'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/bus-turistico-coinvolto-in-un-incidente-stradale-in-svizzera-diversi-morti_2a0b19ed-720e-4486-87cf-3f70f4342e89.html",
+      "image": null,
+      "summary": "'E vari feriti'. Lo fa sapere la polizia locale su X",
+      "date": "2026-09-10T18:37:42.0000000Z"
     },
     {
       "id": "ansa-mondo:75859f817174",
@@ -123,54 +207,6 @@
       "date": "2026-09-10T16:22:27.0000000Z"
     },
     {
-      "id": "ansa-mondo:26936c655b44",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Quattro persone accoltellate a Londra, matrice per ora non chiara",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/quattro-persone-accoltellate-a-londra-matrice-per-ora-non-chiara_bbe1b1a3-dd3b-4a00-bae3-721d58e619be.html",
-      "image": null,
-      "summary": "Soccorse sul posto e poi portate in ospedale",
-      "date": "2026-09-10T16:06:20.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:d6055b1b189b",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Rubio in Perù, atteso sostegno su lotta a criminalità ed emergenza El Niño",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/rubio-in-peru-atteso-sostegno-su-lotta-a-criminalita-ed-emergenza-el-nino_401e23eb-9e81-4be1-a3f9-1647ea518d37.html",
-      "image": null,
-      "summary": "Il ministro degli Esteri peruviano, Carlos Espá, ha anticipato 'annunci importanti'",
-      "date": "2026-09-10T15:47:01.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:7cc56902fc05",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Kiev, 'raid russo su centro commerciale a Pavlohrad, almeno 4 morti e 60 feriti'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/kiev-raid-russo-su-centro-commerciale-a-pavlohrad-almeno-4-morti-e-60-feriti_2a2e200c-5a77-4c38-8855-d246dbc78c54.html",
-      "image": null,
-      "summary": "Tra i feriti anche tre minori di 13, 14, 15 anni'",
-      "date": "2026-09-10T15:39:08.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:04a5b519072e",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Hillary Clinton, il discorso di Trump 'favorisce i democratici'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/10/hillary-clinton-il-discorso-di-trump-favorisce-i-democratici_cd25a35d-fa37-4682-898c-cc2fa84cd0c6.html",
-      "image": null,
-      "summary": "'E' un vantaggio vedere quello che propone e le prospettive di cambiamento'",
-      "date": "2026-09-10T15:23:43.0000000Z"
-    },
-    {
       "id": "internazionale:587bab9f4313",
       "sourceId": "internazionale",
       "source": "Internazionale",
@@ -181,42 +217,6 @@
       "image": "https://media.internazionale.it/images/2026/09/10/358296-hd.jpg",
       "summary": "“Da bambina non sognavo di diventare ingegnera, non sapevo nemmeno cosa volesse dire”, racconta Barbara Zardin. Leggi",
       "date": "2026-09-10T15:23:13.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:392238e0d67b",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Capitale della cultura, la Commissione Europea propone modifiche alle regole",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/capitale-della-cultura-la-commissione-europea-propone-modifiche-alle-regole_e9080300-a5ea-4225-afd6-5ed9f2614267.html",
-      "image": null,
-      "summary": "Lo ha riferito EcocNews.com: 'Decisione molto importante per l'Italia'",
-      "date": "2026-09-10T15:16:08.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:c06d1debec51",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Houthi, la navigazione nello stretto di Bab el-Mandeb resta sicura e regolare",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/10/houthi-la-navigazione-nello-stretto-di-bab-el-mandeb-resta-sicura-e-regolare_daa5278e-3193-4872-ba92-5a3102509d06.html",
-      "image": null,
-      "summary": "'Nessuna minaccia per il commercio, operazioni solo difensive e mirate'",
-      "date": "2026-09-10T14:57:53.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:0dde33142ea0",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Protesta dei pompieri volontari in Argentina per chiedere finanziamenti",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/protesta-dei-pompieri-volontari-in-argentina-per-chiedere-finanziamenti_6af3be6b-1905-4aff-be54-c91400fb8b40.html",
-      "image": null,
-      "summary": "Sirene accese in simultaneo in tutto il Paese, mancano i fondi stanziati dal governo",
-      "date": "2026-09-10T14:57:29.0000000Z"
     },
     {
       "id": "internazionale:9790821ca4a4",

@@ -1,7 +1,55 @@
 {
   "category": "tecnologia",
-  "updated": "2026-09-10T18:20:01.6485868Z",
+  "updated": "2026-09-10T21:00:01.4142205Z",
   "items": [
+    {
+      "id": "tomshw:40af08cd4202",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Roborock Saros 20 Neo a 799€, il minimo storico per pulire sotto i mobili",
+      "url": "https://www.tomshw.it/offerte/roborock-saros-20-neo-a-799eur-il-minimo-storico-per-pulire-sotto-i-mobili",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112973/tomshw-offer-1143069.png",
+      "summary": "Roborock Saros 20 Neo costa 799€ su Amazon, anziché 1299€, con uno sconto del 38% e un risparmio di 500€. Con 36.000 Pa, telaio sollevabile e stazione 10 in 1, punta a ridurre gli interventi quotidian...",
+      "date": "2026-09-10T20:19:00.0000000Z"
+    },
+    {
+      "id": "hdblog:c17af8ac20a6",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Arrivano i nuovi iPhone Duo e 18 Pro: i nostri commenti a caldo | Video",
+      "url": "https://www.hdblog.it/smartphone/articoli/n670008/apple-iphone-18-pro-max-duo-considerazioni-video/",
+      "image": null,
+      "summary": "Le nostre prime considerazioni sulle novità Apple.",
+      "date": "2026-09-10T19:00:00.0000000Z"
+    },
+    {
+      "id": "tomshw:4554b267a7ce",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Rischi una brutta multa se non colleghi bene le app aziendali, BBVA dovrà pagare 5,5 milioni",
+      "url": "https://www.tomshw.it/business/rischi-una-brutta-multa-se-non-colleghi-bene-le-app-aziendali-bbva-dovra-pagare-55-milioni",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112807/11-sanzione-opt-out-marketing.jpg",
+      "summary": "BBVA Italia ha continuato per sette mesi, da ottobre 2025 a maggio 2026, a inviare una decina di notifiche commerciali push a un cliente che aveva disattivato la ricezione delle promozioni nell'app e...",
+      "date": "2026-09-10T18:56:29.0000000Z"
+    },
+    {
+      "id": "tomshw:e79347f6aca8",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Creality K2 SE a 289€, 500 mm/s e telecamera AI: ne vale la spesa",
+      "url": "https://www.tomshw.it/offerte/creality-k2-se-a-289eur-500-mms-e-telecamera-ai-ne-vale-la-spesa",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112972/tomshw-offer-1143041.png",
+      "summary": "Creality K2 SE costa 289€ su Amazon e mette sul banco una velocità massima di 500 mm/s, telecamera AI e livellamento automatico. È pensata per accelerare prototipi, componenti funzionali e modelli com...",
+      "date": "2026-09-10T18:49:00.0000000Z"
+    },
     {
       "id": "tomshw:664b4357e5c3",
       "sourceId": "tomshw",
@@ -147,18 +195,6 @@
       "date": "2026-09-10T17:00:00.0000000Z"
     },
     {
-      "id": "hdblog:5bb5e280f675",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Chandra trova 84 oggetti misteriosi: potrebbero risolvere due enigmi",
-      "url": "https://www.hdblog.it/curiosita/articoli/n670013/chandra-nuovi-oggetti-raggi-x-ipersoft/",
-      "image": null,
-      "summary": "Chandra scopre 84 sorgenti cosmiche che potrebbero chiarire due grandi misteri dellUniverso.",
-      "date": "2026-09-10T16:55:00.0000000Z"
-    },
-    {
       "id": "hdblog:d625dce6f240",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -168,6 +204,18 @@
       "url": "https://www.hdblog.it/smartphone/articoli/n670002/google-pixel-11-aggiornamento-settembre-bug-fix/",
       "image": null,
       "summary": "Fixa alcuni bug: ma quali?",
+      "date": "2026-09-10T16:55:00.0000000Z"
+    },
+    {
+      "id": "hdblog:5bb5e280f675",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Chandra trova 84 oggetti misteriosi: potrebbero risolvere due enigmi",
+      "url": "https://www.hdblog.it/curiosita/articoli/n670013/chandra-nuovi-oggetti-raggi-x-ipersoft/",
+      "image": null,
+      "summary": "Chandra scopre 84 sorgenti cosmiche che potrebbero chiarire due grandi misteri dellUniverso.",
       "date": "2026-09-10T16:55:00.0000000Z"
     },
     {
@@ -243,18 +291,6 @@
       "date": "2026-09-10T16:15:00.0000000Z"
     },
     {
-      "id": "hdblog:5fc0beb42d98",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Truffa dei km scalati, in Italia cancellati fino a 70mila per auto",
-      "url": "https://www.hdmotori.it/truffa-chilometri-scalati-auto-usate/",
-      "image": null,
-      "summary": "In Italia i casi di manomissione sono pochi, ma con una media di 70.000 km scalati a vettura. Un mercato opaco favorito anche dalla mancanza di database europei unici",
-      "date": "2026-09-10T16:00:48.0000000Z"
-    },
-    {
       "id": "tomshw:4a9384d61e88",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -265,42 +301,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/09/112947/openai-marchio-ue-cover-v2.jpg",
       "summary": "Open AI perde la battaglia sul marchio nell’UE: per il tribunale “OpenAI” è descrittivo Avv. Giuseppe Croari – Dott.ssa Silvia Di Paola Il nome OpenAI, uno dei marchi più riconoscibili dell’attual...",
       "date": "2026-09-10T16:00:00.0000000Z"
-    },
-    {
-      "id": "tomshw:9880bf37521d",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "7 casi in cui l'AI peggiora la qualità in produzione, e come evitarli",
-      "url": "https://www.tomshw.it/aioperator/7-casi-in-cui-lai-peggiora-la-qualita-in-produzione-e-come-evitarli",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111342/04-pro06-cover.jpg",
-      "summary": "Lo standard EEMUA-191 fissa a 12 il numero di allarmi orari che un operatore riesce a gestire senza perdere efficacia. Sette pattern documentati mostrano cosa succede quando un sistema di AI installat...",
-      "date": "2026-09-10T16:00:00.0000000Z"
-    },
-    {
-      "id": "tomshw:949b57f432e5",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Samsung Galaxy S26+ 256GB a 919€ con 370€ in meno, fatto per durare",
-      "url": "https://www.tomshw.it/offerte/samsung-galaxy-s26-256gb-a-919eur-con-370eur-in-meno-fatto-per-durare",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112954/tomshw-offer-1142899.png",
-      "summary": "Samsung Galaxy S26+ 256GB costa 919€ su Amazon, invece di 1289€, con il 29% di sconto. Il risparmio di 370€ rende particolarmente interessante una configurazione capiente, resistente e adatta anche al...",
-      "date": "2026-09-10T15:50:00.0000000Z"
-    },
-    {
-      "id": "tomshw:065a7e0bc895",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Le aziende scalano l’AI a ritmo record, ma dove sono i soldi?",
-      "url": "https://www.tomshw.it/business/le-aziende-scalano-lai-a-ritmo-record-ma-dove-sono-i-soldi",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112803/07-ai-adozione-ebit-fermo.jpg",
-      "summary": "Il 44% delle aziende ha portato l’intelligenza artificiale a scala in tutta l’organizzazione, sei punti più che un anno fa. Ma la quota che dichiara un impatto positivo sull’EBIT resta al 37%, esattam...",
-      "date": "2026-09-10T15:39:54.0000000Z"
     },
     {
       "id": "dday:3ece3f3b2f06",
