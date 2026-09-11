@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-11T01:01:56.7568987Z",
+  "updated": "2026-09-11T05:52:15.9719598Z",
   "items": [
+    {
+      "id": "insideevs:d4bbc9425cb6",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il monopattino elettrico nasconde un rischio che pochi conoscono",
+      "url": "https://insideevs.it/news/807834/e-scooter-incidenti-cause/",
+      "image": "https://cdn.motor1.com/images/mgl/NG6G49/s3/adac-unfallforschung-zum-fahren-mit-e-scootern.jpg",
+      "summary": "In Germania i feriti sono quasi triplicati in quattro anni. L’ADAC spiega quali sono le cadute più rischiose e le lesioni più frequenti",
+      "date": "2026-09-11T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:2cb2a07ec763",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché le auto stanno scrivendo il proprio nome",
+      "url": "https://it.motor1.com/news/807532/auto-logo-nome-spiegazione/",
+      "image": "https://cdn.motor1.com/images/mgl/40703Y/s3/perche-le-auto-stanno-scrivendo-il-proprio-nome.jpg",
+      "summary": "Sempre più marchi sostituiscono il logo con il nome per esteso, ed è un nuovo modo di progettare il design",
+      "date": "2026-09-11T05:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:d92b537a35a7",
       "sourceId": "hdmotori",
@@ -63,18 +87,6 @@
       "date": "2026-09-10T16:00:48.0000000Z"
     },
     {
-      "id": "motor1:295e78991d63",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il camion Iveco con celle Toyota promette 900 km: rivoluzione?",
-      "url": "https://it.motor1.com/news/807848/iveco-s-eway-fuel-cell/",
-      "image": "https://cdn.motor1.com/images/mgl/g424ZP/s3/iveco-e-toyota-insieme-per-le-fuel-cell.jpg",
-      "summary": "Nuovo IVECO S-eWay Fuel Cell con sistema Toyota da 300 kW, oltre 900 km di autonomia e più di 25.000 ore di operatività",
-      "date": "2026-09-10T16:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:b9e7adffde4f",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -84,6 +96,18 @@
       "url": "https://insideevs.it/news/807843/bmw-ix5-idrogeno-novita/",
       "image": "https://cdn.motor1.com/images/mgl/AkOk9N/s3/bmw-ix5-hydrogen-verso-la-produzione.jpg",
       "summary": "A Monaco parte una nuova fase di assemblaggio della cella a combustibile, mentre in Austria BMW prepara la produzione in serie",
+      "date": "2026-09-10T16:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:295e78991d63",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il camion Iveco con celle Toyota promette 900 km: rivoluzione?",
+      "url": "https://it.motor1.com/news/807848/iveco-s-eway-fuel-cell/",
+      "image": "https://cdn.motor1.com/images/mgl/g424ZP/s3/iveco-e-toyota-insieme-per-le-fuel-cell.jpg",
+      "summary": "Nuovo IVECO S-eWay Fuel Cell con sistema Toyota da 300 kW, oltre 900 km di autonomia e più di 25.000 ore di operatività",
       "date": "2026-09-10T16:00:00.0000000Z"
     },
     {
@@ -135,18 +159,6 @@
       "date": "2026-09-10T15:00:50.0000000Z"
     },
     {
-      "id": "motor1:0afccc8d0cfa",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Mercedes Classe E EQ si scopre nelle nuove foto spia",
-      "url": "https://it.motor1.com/news/807836/mercedes-classe-e-eq-spia/",
-      "image": "https://cdn.motor1.com/images/mgl/P3V3O4/s3/la-mercedes-classe-e-eq-si-scopre-nelle-nuove-foto-spia.jpg",
-      "summary": "La berlina tedesca perde parte della mimetizzazione e mostra per la prima volta i fari definitivi. Il debutto è atteso nel 2027",
-      "date": "2026-09-10T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:6677c4b9c2f6",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -156,6 +168,18 @@
       "url": "https://insideevs.it/news/807824/riciclo-batterie-ev-catodi-manganese/",
       "image": "https://cdn.motor1.com/images/mgl/qk8knq/s3/le-pile-usa-e-getta-diventano-catodi-per-auto-elettriche.jpg",
       "summary": "Ecco cosa dice una ricerca su nuovi catodi al manganese per batterie EV più sostenibili",
+      "date": "2026-09-10T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:0afccc8d0cfa",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Mercedes Classe E EQ si scopre nelle nuove foto spia",
+      "url": "https://it.motor1.com/news/807836/mercedes-classe-e-eq-spia/",
+      "image": "https://cdn.motor1.com/images/mgl/P3V3O4/s3/la-mercedes-classe-e-eq-si-scopre-nelle-nuove-foto-spia.jpg",
+      "summary": "La berlina tedesca perde parte della mimetizzazione e mostra per la prima volta i fari definitivi. Il debutto è atteso nel 2027",
       "date": "2026-09-10T15:00:00.0000000Z"
     },
     {
@@ -399,18 +423,6 @@
       "date": "2026-09-10T07:00:00.0000000Z"
     },
     {
-      "id": "motor1:0161bf62a8a0",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volvo XC40 2026, il SUV compatto premium si aggiorna così",
-      "url": "https://it.motor1.com/news/807118/volvo-xc40-2026-dimensioni-motore-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/Znln42/s3/volvo-xc40.jpg",
-      "summary": "Lo stile è da auto più importante, mentre dentro arrivano nuovi materiali e la AI di Google. Invariati i motori",
-      "date": "2026-09-10T07:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:a2f0d1da2842",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/Mk6ky4/s3/batterie-zinco-iodio-flessibili-1-6-ah-e-1.200-cicli.jpg",
       "summary": "La nuova batteria acquosa raggiunge 14 mAh per centimetro quadrato e supera 1.200 cicli in una cella pouch da circa 1,6 Ah",
       "date": "2026-09-09T11:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:7c9c5a0f78b5",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il volante d'emergenza di Tesla Cybercab è un joystick sullo schermo",
-      "url": "https://insideevs.it/news/807599/tesla-cybercab-volante-joystick/",
-      "image": "https://cdn.motor1.com/images/mgl/P3V3kr/s3/tesla-cybercab-touchscreen-controls.jpg",
-      "summary": "Tesla ha nascosto un volante virtuale all'interno dell'enorme schermo infotainment del Cybercab",
-      "date": "2026-09-09T09:00:00.0000000Z"
     }
   ]
 }
