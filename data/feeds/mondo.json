@@ -1,6 +1,6 @@
 {
   "category": "mondo",
-  "updated": "2026-09-11T10:16:32.2099258Z",
+  "updated": "2026-09-11T14:30:38.1766337Z",
   "items": [
     {
       "id": "internazionale:20463c14a39c",
@@ -63,16 +63,88 @@
       "date": "2026-10-03T09:00:00.0000000Z"
     },
     {
-      "id": "ansa-mondo:325415855be5",
+      "id": "internazionale:f3ca3e275a92",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Il programma del festival di Internazionale a Ferrara 2026",
+      "url": "https://www.internazionale.it/redirect/2026/09/11/programma-festival-internazionale-ferrara-2026",
+      "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
+      "summary": "https://www.internazionale.it/redirect/2026/09/10/tre-giorni-a-ferrara-2026",
+      "date": "2026-09-11T14:17:20.0000000Z"
+    },
+    {
+      "id": "internazionale:b92cf72ec733",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Cosa deve fare l’Europa di fronte alla guerra ibrida di Mosca",
+      "url": "https://www.internazionale.it/video/2026/09/11/guerra-ibrida-russia-europa",
+      "image": "https://media.internazionale.it/images/2026/09/11/358389-hd.jpg",
+      "summary": "Negli ultimi mesi gli atti di sabotaggio attribuiti alla Russia nel territorio dell’Unione si sono intensificati. Tre cose che si potrebbero fare per reagire, evitando un conflitto aperto. Il video di Arte Leggi",
+      "date": "2026-09-11T14:08:32.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:b7de8d6294e0",
       "sourceId": "ansa-mondo",
       "source": "ANSA Mondo",
       "platform": "rss",
       "category": "mondo",
-      "title": "Axios: 'Bin Salman ha esortato Trump a colpire gli Houthi'. I miliziani avanzano nel Mar Rosso",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/11/axios-bin-salman-ha-esortato-trump-a-colpire-gli-houthi_b1c8f056-9099-4c59-a149-8ad9a2dfd208.html",
+      "title": "'Quel giorno 25 anni dopo', l'Istituto di Cultura Italiano a New York ricorda l'11/9",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/11/quel-giorno-25-anni-dopo-listituto-di-cultura-italiano-a-new-york-ricorda_7bda4fe8-b0ff-4de6-96e7-25831ca9afd0.html",
       "image": null,
-      "summary": "'Il presidente ha declinato. Gli Usa non vogliono un intervento diretto ma daranno l'intelligence'",
-      "date": "2026-09-11T10:02:47.0000000Z"
+      "summary": "Dal racconto dei sopravvissuti una riflessione su ciò che quel giorno ha rappresentato",
+      "date": "2026-09-11T13:32:47.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:9ea6ed0a0901",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "È morta la principessa Astrid di Norvegia, aveva 94 anni",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/11/e-morta-la-principessa-astrid-di-norvegia-aveva-94-anni_62217715-6540-4b01-9315-64a909b4d9fa.html",
+      "image": null,
+      "summary": "Era la sorella di Harald V, aveva partecipato ai suoi funerali due giorni fa",
+      "date": "2026-09-11T13:09:14.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:1fc0817eed57",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Flavio Bolsonaro è indagato per i fondi sospetti per il film su Jair",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/flavio-bolsonaro-e-indagato-per-i-fondi-sospetti-per-il-film-su-jair_9fd4d97a-b560-449c-9551-2db03257fd5c.html",
+      "image": null,
+      "summary": "E' emerso dopo la revoca del segreto istruttorio sull'inchiesta del caso Master",
+      "date": "2026-09-11T12:57:54.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:aa2f08fadad0",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Funzionario Yemen, 'sei missili hanno colpito il porto di Mocha'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/11/funzionario-yemen-sei-missili-hanno-colpito-il-porto-di-mocha_b3b4708b-9700-4a0c-91cb-e70c4d3d6208.html",
+      "image": null,
+      "summary": "I media degli Houthi avevano accusato l'Arabia Saudita di aver lanciato attacchi",
+      "date": "2026-09-11T12:56:51.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:89a90308324a",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "25 anni fa l'impatto sulla prima Torre, l'America si ferma",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/11/25-anni-fa-limpatto-sulla-prima-torre-lamerica-si-ferma_9be61fbb-9784-4c2d-8d26-b01743f263e7.html",
+      "image": null,
+      "summary": "Alle 8.46 del 2001 il primo aereo contro la North Tower a New York, minuto di silenzio",
+      "date": "2026-09-11T12:56:50.0000000Z"
     },
     {
       "id": "ansa-mondo:d67a68f96028",
@@ -171,42 +243,6 @@
       "date": "2026-09-11T07:47:06.0000000Z"
     },
     {
-      "id": "ansa-mondo:8423356989f4",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Axios, 'bin Salman ha esortato Trump a colpire gli Houthi'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/11/axios-bin-salman-ha-esortato-trump-a-colpire-gli-houthi_f8352571-1fd4-447a-a989-e65b8bb51bd8.html",
-      "image": null,
-      "summary": "'Il presidente ha declinato. Usa non vogliono intervento diretto ma daranno intelligence'",
-      "date": "2026-09-11T07:43:48.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:76da72778343",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "A 53 anni dal golpe in Cile contro Salvador Allende, non si terrà la cerimonia commemorativa ufficiale",
-      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/11/a-53-anni-dal-golpe-in-cile-contro-salvador-allende-non-si-terra-la-cerimonia_644daa64-76eb-4625-a92a-949f23daeb53.html",
-      "image": null,
-      "summary": "Il presidente José Antonio Kast manterrà la sua agenda istituzionale",
-      "date": "2026-09-11T07:02:04.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:97f183fab247",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Lula, 'servono limiti di mandato per i giudici della Corte suprema'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/lula-servono-limiti-di-mandato-per-i-giudici-della-corte-suprema_c3bfacb2-4a50-49da-b116-f69439f00439.html",
-      "image": null,
-      "summary": "Il presidente commenta gli strascichi del caso Banco Master in Brasile",
-      "date": "2026-09-11T06:51:55.0000000Z"
-    },
-    {
       "id": "internazionale:b6da49a95846",
       "sourceId": "internazionale",
       "source": "Internazionale",
@@ -217,18 +253,6 @@
       "image": "https://media.internazionale.it/images/2026/09/10/358316-hd.jpg",
       "summary": "Gli attacchi contro Kiev dimostrano che il presidente russo non è disposto a fermarsi. L’escalation riguarda anche gli europei Leggi",
       "date": "2026-09-11T06:15:33.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:cf76fb4500a9",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Al via il processo elettorale per il rinnovo della Camera in Messico",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/al-via-il-processo-elettorale-per-il-rinnovo-della-camera-in-messico_ad21b07b-821d-4a1d-9f47-2646b9db68db.html",
-      "image": null,
-      "summary": "Il 6 giugno 102 milioni al voto per deputati e 17 governatori",
-      "date": "2026-09-11T04:01:57.0000000Z"
     },
     {
       "id": "internazionale:d7d7e9fef795",
@@ -265,30 +289,6 @@
       "image": "https://media.internazionale.it/images/2026/09/10/358296-hd.jpg",
       "summary": "“Da bambina non sognavo di diventare ingegnera, non sapevo nemmeno cosa volesse dire”, racconta Barbara Zardin. Leggi",
       "date": "2026-09-10T15:23:13.0000000Z"
-    },
-    {
-      "id": "internazionale:9790821ca4a4",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Tre giorni a Ferrara 2026",
-      "url": "https://www.internazionale.it/redirect/2026/09/10/tre-giorni-a-ferrara-2026",
-      "image": "https://media.internazionale.it/images/2026/09/10/358298-hd.png",
-      "summary": "Un weekend con i giornalisti di tutto il mondo. Dal 2 al 4 ottobre torna il festival di Internazionale a Ferrara: scopri il programma Leggi",
-      "date": "2026-09-10T14:54:33.0000000Z"
-    },
-    {
-      "id": "internazionale:9db94acb2a67",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Come si diventa biologo marino",
-      "url": "https://www.internazionale.it/notizie/2026/09/10/come-si-diventa-biologo-marino",
-      "image": "https://media.internazionale.it/images/2026/09/10/358295-hd.jpg",
-      "summary": "“Mio nonno era un pescatore di Mondello e il mare ha sempre fatto parte della mia vita”, racconta Marco Lo Martire. Leggi",
-      "date": "2026-09-10T14:21:17.0000000Z"
     }
   ]
 }
