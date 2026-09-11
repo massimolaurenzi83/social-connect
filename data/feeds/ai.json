@@ -1,7 +1,55 @@
 {
   "category": "ai",
-  "updated": "2026-09-11T14:30:38.1689915Z",
+  "updated": "2026-09-11T17:52:38.5629751Z",
   "items": [
+    {
+      "id": "ai4business:d9e5faca662a",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "DeepSeek V4.1-Flash, 890 byte per token, manda in pensione il V4-Pro",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/deepseek-v4-1-flash-890-byte-per-token-manda-in-pensione-il-v4-pro/",
+      "image": null,
+      "summary": "DeepSeek elimina il proprio modello di punta. Il nuovo presenta 552 miliardi di parametri, 890 byte di cache per token, prezzi API giù del 77% sull'input. La linea di sviluppo dell'azienda, i benchmark dichiarati, la ...",
+      "date": "2026-09-11T16:27:06.0000000Z"
+    },
+    {
+      "id": "ai4business:7b06b808fc1f",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Perché OpenAI considera una frenata nello sviluppo dell’AI",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/perche-openai-considera-una-frenata-nello-sviluppo-dellai/",
+      "image": null,
+      "summary": "Sam Altman avrebbe prospettato ai dipendenti la possibilità di modulare la corsa ai modelli di frontiera. OpenAI invoca soglie di sicurezza condivise, valutazioni indipendenti e regole obbligatorie, ma il timore di pe...",
+      "date": "2026-09-11T15:34:23.0000000Z"
+    },
+    {
+      "id": "ai4business:9aee3327eba2",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Recruiting: con l’AI un mese in meno per reclutare nuovi candidati e talenti",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/recruiting-con-lai-un-mese-in-meno-per-reclutare-nuovi-candidati-e-talenti/",
+      "image": null,
+      "summary": "Un agente AI basato sul Celonis Context Model e sviluppato con Microsoft Copilot Studio migliora velocità, accuratezza e governance delle attività di reclutamento HR per l’azienda. Come? Conoscendo il contesto in cui ...",
+      "date": "2026-09-11T15:02:33.0000000Z"
+    },
+    {
+      "id": "ai4business:b4ca1e30f10f",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "L’AI cinese accusata di “copiare” i modelli americani",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/lai-cinese-accusata-di-copiare-i-modelli-americani/",
+      "image": null,
+      "summary": "Anthropic accusa Moonshot AI e DeepSeek di avere utilizzato milioni di interrogazioni degli utenti, alcune contenenti password, dati di localizzazione e informazioni aziendali, per estrarre capacità da Claude. Washing...",
+      "date": "2026-09-11T14:55:36.0000000Z"
+    },
     {
       "id": "ai4business:5f7a37ab7af0",
       "sourceId": "ai4business",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Il timore che sistemi di intelligenza artificiale molto avanzati possano sfuggire al controllo umano non appartiene più alla fantascienza. Ricercatori di Anthropic e OpenAI discutono apertamente di rischi catastrofici...",
       "date": "2026-09-10T11:37:18.0000000Z"
-    },
-    {
-      "id": "ai4business:36f9e8151005",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Come GPT-6 Astra può cambiare il lavoro nelle grandi aziende",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/come-gpt-6-astra-puo-cambiare-il-lavoro-nelle-grandi-aziende/",
-      "image": null,
-      "summary": "OpenAI porta GPT-6 Astra nelle aziende con un modello progettato per eseguire attività professionali complete, usare software e browser e produrre documenti, analisi e codice. Il prezzo parte da 10 dollari per milione...",
-      "date": "2026-09-10T10:34:28.0000000Z"
-    },
-    {
-      "id": "ai4business:aa9d812e4b9f",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Come misurare la qualità di un output AI: eval e calibrazione del modello giudice",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/come-misurare-la-qualita-di-un-output-ai-eval-e-calibrazione-del-modello-giudice/",
-      "image": null,
-      "summary": "La maggior parte dei team valuta i propri sistemi guardando qualche risposta per decidere se può funzionare. I quattro livelli di maturità. Come si costruisce un insieme di casi sui fallimenti veri. Perché il modello ...",
-      "date": "2026-09-09T15:32:27.0000000Z"
-    },
-    {
-      "id": "ai4business:1dcc17423834",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Hy4 preview, cosa cambia con il nuovo modello AI di Tencent",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/hy4-preview-cosa-cambia-con-il-nuovo-modello-ai-di-tencent/",
-      "image": null,
-      "summary": "I benchmark interni attribuiscono a Hy4 preview risultati competitivi nelle attività ingegneristiche, ma il confronto con GLM e Kimi richiede cautela. La prova decisiva arriverà da sviluppatori e ricercatori chiamati ...",
-      "date": "2026-09-09T15:01:08.0000000Z"
-    },
-    {
-      "id": "ai4business:017ab6401ac7",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Meta Muse, l’agente AI per il grande pubblico",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/meta-muse-lagente-ai-per-il-grande-pubblico/",
-      "image": null,
-      "summary": "Meta porta gli agenti di intelligenza artificiale ai consumatori con un assistente capace di comprare prodotti, prenotare viaggi, leggere email e agire sulle app dell’utente. Il servizio debutta (solo) negli Stati Uni...",
-      "date": "2026-09-09T14:34:24.0000000Z"
     },
     {
       "id": "guerredirete:5913b477de89",

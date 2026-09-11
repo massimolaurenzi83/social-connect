@@ -1,7 +1,187 @@
 {
   "category": "motori",
-  "updated": "2026-09-11T14:30:38.1670009Z",
+  "updated": "2026-09-11T17:52:38.5440981Z",
   "items": [
+    {
+      "id": "motor1:3dc8621c35bc",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "TADA 2026, Torino incorona le migliori auto cinesi dell’anno",
+      "url": "https://it.motor1.com/news/808010/tada-2026-migliori-auto-cinesi/",
+      "image": "https://cdn.motor1.com/images/mgl/ko8AQ4/s3/tada-2026.jpg",
+      "summary": "La giuria premia Seagull, Ora 5, Tank 300, iCAUR V27 e Geely K011 nelle tre categorie dedicate al mercato cinese",
+      "date": "2026-09-11T17:19:21.0000000Z"
+    },
+    {
+      "id": "vaielettrico:50eefb4d4035",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dopo gli incentivi, furgoni elettrici col turbo: 7% del mercato in agosto",
+      "url": "https://www.vaielettrico.it/dopo-gli-incentivi-furgoni-elettrici-col-turbo-7-del-mercato-in-agosto/",
+      "image": null,
+      "summary": "I veicoli commerciali elettrici puri più che raddoppiano la propria quota in un anno, passando in agosto dal… L'articolo Dopo gli incentivi, furgoni elettrici col turbo: 7% del mercato in agosto proviene da Vaielettri...",
+      "date": "2026-09-11T17:14:57.0000000Z"
+    },
+    {
+      "id": "hdmotori:12ad73d0b8c6",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mini Cooper 1998 GT, l’icona del 1969 rinasce con un look grintoso",
+      "url": "https://www.hdmotori.it/mini-cooper-1998-gt-edizione-limitata/",
+      "image": null,
+      "summary": "Mini svela negli USA la nuova Cooper 1998 GT a tre porte: un'edizione limitata ispirata al mito del 1969 con motore 2.0 da 156 CV e pacchetto John Cooper Works The post Mini Cooper 1998 GT, l’icona del 1969 rinasce co...",
+      "date": "2026-09-11T17:00:32.0000000Z"
+    },
+    {
+      "id": "hdmotori:669786c623ab",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "F1, finale a Imola nel segno di Antonelli: cosa manca per l’ok definitivo",
+      "url": "https://www.hdmotori.it/f1-ritorno-gp-imola-antonelli/",
+      "image": null,
+      "summary": "Kimi Antonelli potrebbe celebrare il suo primo riconoscimento iridato all'Autodromo Enzo e Dino Ferrari di Imola The post F1, finale a Imola nel segno di Antonelli: cosa manca per l’ok definitivo appeared first on HDm...",
+      "date": "2026-09-11T16:00:28.0000000Z"
+    },
+    {
+      "id": "motor1:6d42d4aa09f7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come rivoluzionare le consegne in città? Ci pensa Stellantis",
+      "url": "https://it.motor1.com/news/807975/stellantis-box-on-wheels-logistica/",
+      "image": "https://cdn.motor1.com/images/mgl/nA8yzy/s3/stellantis-presenta-box-on-weels-allo-iaa-transportation-2026.jpg",
+      "summary": "Stellantis Pro One e UQI Robotics lavorano su Box-on-Wheels, veicolo autonomo per consegne urbane e clienti professionali in Europa",
+      "date": "2026-09-11T16:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ba698813547c",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Terre rare, così gli USA provano a fare a meno della Cina",
+      "url": "https://insideevs.it/news/807971/nuovo-impianto-terre-rare-arizona/",
+      "image": "https://cdn.motor1.com/images/mgl/qk8oyZ/s3/terre-rare-cosi-gli-usa-provano-a-fare-a-meno-della-cina.jpg",
+      "summary": "Un nuovo impianto in Arizona recupera magneti al neodimio da rifiuti elettronici per creare una filiera americana del riciclo",
+      "date": "2026-09-11T16:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:c021bde0e3aa",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Changan al Salone Auto Torino, debutto per Deepal S07 MY26 e S05 Ultra Hybrid",
+      "url": "https://www.hdmotori.it/changan-salone-auto-torino-debutto-deepal-s07-my26-s05-ultra-hybrid/",
+      "image": null,
+      "summary": "Tra i marchi cinesi che stanno cercando di ritagliarsi uno spazio nel mercato europeo, Changan è uno di quelli che guarda più lontano. Il costruttore di Chongqing ha scelto il Salone Auto Torino 2026 per rafforzare la...",
+      "date": "2026-09-11T15:30:39.0000000Z"
+    },
+    {
+      "id": "vaielettrico:8d44bc8bb593",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ricarica in hotel 2.0: ve la racconta Elli (e risponde alle vostra domande)",
+      "url": "https://www.vaielettrico.it/ricarica-in-hotel-2-0-ve-la-racconta-elli-e-risponde-alle-vostra-domande/",
+      "image": null,
+      "summary": "Appuntamento il 29 settembre con la formula Elli Connect & Charge per la ricarica in hotel: tutte le… L'articolo Ricarica in hotel 2.0: ve la racconta Elli (e risponde alle vostra domande) proviene da Vaielettrico .",
+      "date": "2026-09-11T15:08:58.0000000Z"
+    },
+    {
+      "id": "hdmotori:0cacfda5fb04",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Royal Enfield sdoppia la gamma: ecco la nuova Himalayan 440",
+      "url": "https://www.hdmotori.it/royal-enfield-himalayan-440-novita-differenze-450/",
+      "image": null,
+      "summary": "Royal Enfield lancia la nuova Himalayan 440. Punta su semplicità, prezzo accessibile e meccanica robusta per chi cerca un'enduro che mira all'essenziale The post Royal Enfield sdoppia la gamma: ecco la nuova Himalayan...",
+      "date": "2026-09-11T15:00:28.0000000Z"
+    },
+    {
+      "id": "motor1:deb47cedd7c2",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il nuovo SUV coupé anche ibrido che nasce in Italia",
+      "url": "https://it.motor1.com/news/807977/itala-56-motore-interni-salone-torino-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/L360o3/s3/itala-56.jpg",
+      "summary": "Debutta al Salone Auto Torino 2026 la Itala 56, disponibile con motore benzina o full hybrid da più di 230 CV",
+      "date": "2026-09-11T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ed5ef0f4551d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Tesla Cybertruck riceve finalmente una funzione tanto attesa",
+      "url": "https://insideevs.it/news/807972/tesla-cybertruck-funzione-vehicle-home/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z1e1W/s3/tesla-cybertruck-powershare.jpg",
+      "summary": "La funzionalità più rimandata del pickup elettrico (3 anni!) è ora ufficialmente disponibile, secondo Tesla",
+      "date": "2026-09-11T15:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:dc485c11a564",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Sandero contro Tesla M3: indovinate chi fanno vincere…",
+      "url": "https://www.vaielettrico.it/sandero-contro-tesla-m3-indovinate-chi-fanno-vincere/",
+      "image": null,
+      "summary": "Sandero contro Tesla M3: un lettore ci segnala un insolito confronto sui consumi in un lungo viaggio da… L'articolo Sandero contro Tesla M3: indovinate chi fanno vincere… proviene da Vaielettrico .",
+      "date": "2026-09-11T14:46:52.0000000Z"
+    },
+    {
+      "id": "hdmotori:9a65a258482a",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Renault Niagara, il pick-up con Google Gemini e l’anima da SUV",
+      "url": "https://www.hdmotori.it/renault-niagara-pickup-4x4-caratteristiche-google-gemini/",
+      "image": null,
+      "summary": "Renault svela Niagara, il nuovo pick-up 4x4 per l'America Latina: design da C-SUV, motori turbo fino a 160 CV e il debutto dell'intelligenza artificiale Google Gemini The post Renault Niagara, il pick-up con Google Ge...",
+      "date": "2026-09-11T14:45:14.0000000Z"
+    },
+    {
+      "id": "hdmotori:0b20e70e87dd",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "GWM, al Salone Auto Torino arrivano H7 e Tank 300: annunciati i prezzi",
+      "url": "https://www.hdmotori.it/gwm-salone-auto-torino-h7-tank-300-prezzi/",
+      "image": null,
+      "summary": "GWM sceglie il Salone Auto Torino 2026 per presentare l’intera gamma italiana e annunciare i prezzi dei nuovi H7 e Tank 300 The post GWM, al Salone Auto Torino arrivano H7 e Tank 300: annunciati i prezzi appeared firs...",
+      "date": "2026-09-11T14:30:03.0000000Z"
+    },
+    {
+      "id": "motor1:1a8856e99182",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Fa più chilometri ed è più veloce, ecco la Changan Deepal S07 2026",
+      "url": "https://it.motor1.com/news/807960/changan-deepal-s07-2026-informazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZPpPW/s3/changan-deepal-s07.jpg",
+      "summary": "Design sviluppato in Italia, 258 CV, autonomia fino a 500 km e ricarica a 200 kW. Le caratteristiche del nuovo SUV di segmento D",
+      "date": "2026-09-11T14:30:00.0000000Z"
+    },
     {
       "id": "hdmotori:747918a80175",
       "sourceId": "hdmotori",
@@ -15,18 +195,6 @@
       "date": "2026-09-11T14:00:03.0000000Z"
     },
     {
-      "id": "motor1:a6046139d06c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Berlingo Van First debutta ad Hannover: meno costi, stesso carico",
-      "url": "https://it.motor1.com/news/807849/citroen-berlingo-van-first-iaa/",
-      "image": "https://cdn.motor1.com/images/mgl/ZnlKlK/s3/citroen-berlingo-van-first-2026.jpg",
-      "summary": "Allo stand Stellantis Pro One l’anteprima mondiale di Citroën Berlingo Van First, con allestimenti modulari, motori elettrici e diesel",
-      "date": "2026-09-11T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:7fc8eaf838d5",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -36,6 +204,18 @@
       "url": "https://insideevs.it/news/807818/motori-elettrici-3d-vetro-metallico/",
       "image": "https://cdn.motor1.com/images/mgl/xqOq46/s3/motori-elettrici-la-stampa-3d-che-promette-5-di-efficienza.jpg",
       "summary": "Il progetto europeo AM2SoftMag testa componenti in vetro metallico stampati in 3D, con un potenziale miglioramento dell’efficienza",
+      "date": "2026-09-11T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:a6046139d06c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Berlingo Van First debutta ad Hannover: meno costi, stesso carico",
+      "url": "https://it.motor1.com/news/807849/citroen-berlingo-van-first-iaa/",
+      "image": "https://cdn.motor1.com/images/mgl/ZnlKlK/s3/citroen-berlingo-van-first-2026.jpg",
+      "summary": "Allo stand Stellantis Pro One l’anteprima mondiale di Citroën Berlingo Van First, con allestimenti modulari, motori elettrici e diesel",
       "date": "2026-09-11T14:00:00.0000000Z"
     },
     {
@@ -147,18 +327,6 @@
       "date": "2026-09-11T12:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:d0cbb65a1af3",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Triumph prepara la Bonneville 400: gli scatti rubati svelano una sorpresa",
-      "url": "https://www.hdmotori.it/triumph-bonneville-400-foto-spia-anticipazioni/",
-      "image": null,
-      "summary": "Avvistati in India i muletti della nuova Triumph Bonneville 400. Design classico T100, motore da 42 CV e possibile doppio allestimento. Debutto a EICMA 2026? The post Triumph prepara la Bonneville 400: gli scatti ruba...",
-      "date": "2026-09-11T11:00:23.0000000Z"
-    },
-    {
       "id": "motor1:aaf113299d53",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -181,18 +349,6 @@
       "image": "https://cdn.motor1.com/images/mgl/W8b99r/s3/boring-company.jpg",
       "summary": "The Boring Company accelera i progetti negli Stati Uniti e negli Emirati, con il Dubai Loop al via entro fine 2026",
       "date": "2026-09-11T11:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:e9ef17cc4c3f",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Porsche vende tutte le quote di Rimac e Bugatti Rimac: fine di un’era",
-      "url": "https://www.hdmotori.it/porsche-via-libera-cessione-rimac/",
-      "image": null,
-      "summary": "Porsche ha scelto di dire addio definitivamente a Bugatti e Rimac: vendita da 1 miliardo per rimettere in ordine i numeri The post Porsche vende tutte le quote di Rimac e Bugatti Rimac: fine di un’era appeared first o...",
-      "date": "2026-09-11T10:00:24.0000000Z"
     },
     {
       "id": "motor1:4d21737dbad5",
@@ -219,90 +375,6 @@
       "date": "2026-09-11T09:22:10.0000000Z"
     },
     {
-      "id": "hdmotori:3ae61d28ae06",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Toyota si arrende all’ennesimo richiamo, problemi per migliaia di C-HR EV",
-      "url": "https://www.hdmotori.it/toyota-richiamo-c-hr-ev/",
-      "image": null,
-      "summary": "Il marchio dei tre elissi deve correre ai ripari per porre rimedio a un problema su circa 10.000 esemplari della C-HR full electric The post Toyota si arrende all’ennesimo richiamo, problemi per migliaia di C-HR EV ap...",
-      "date": "2026-09-11T09:00:44.0000000Z"
-    },
-    {
-      "id": "motor1:d6867f71668e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Osca e Itala portano a Torino le loro novità",
-      "url": "https://it.motor1.com/news/807939/osca-itala-novita-auto-salone-torino-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/ZnlKyA/s3/osca-mt8.jpg",
-      "summary": "Un SUV 7 posti e due modelli full hybrid dei rinati marchi italiani debuttano al Salone Auto Torino 2026",
-      "date": "2026-09-11T09:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:8a6ed9adb06f",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nella FIAT Topolino più estrema di sempre, c’è lo zampino di Lapo Elkann",
-      "url": "https://www.hdmotori.it/fiat-topolino-giugiaro-lapo-elkann/",
-      "image": null,
-      "summary": "Top. L e Top. J trasformano la linea della FIAT Topolino. Al debutto al Salone Auto Torino 2026 portano la firma di Fabrizio Giugiaro e Lapo Elkann The post Nella FIAT Topolino più estrema di sempre, c’è lo zampino di...",
-      "date": "2026-09-11T08:30:54.0000000Z"
-    },
-    {
-      "id": "hdmotori:6cb697168a92",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Taglio accise diesel: c’è la proroga per altri giorni, ma la benzina resta fuori",
-      "url": "https://www.hdmotori.it/taglio-accise-diesel-proroga-prezzi-settembre/",
-      "image": null,
-      "summary": "Il governo proroga lo sconto sulle accise del gasolio fino al 17 settembre: risparmio di 17 centesimi al litro alla pompa. Nessuna novità per la benzina, che resta a prezzo pieno The post Taglio accise diesel: c’è la ...",
-      "date": "2026-09-11T08:00:28.0000000Z"
-    },
-    {
-      "id": "motor1:a18a9d7ff05a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Fiat Grizzly Fastback: il SUV coupé di Fiat visto da vicino",
-      "url": "https://it.motor1.com/news/807911/fiat-grizzly-fastback-2026-informazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/2N9pAx/s3/fiat-grizzly-fastback-live-al-salone-di-torino-2026.jpg",
-      "summary": "Fiat Grizzly Fastback debutta a Torino 2026: SUV coupé di 4,50 m, motori benzina, ibrido e elettrico fino a 400 km di autonomia",
-      "date": "2026-09-11T08:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:13937068a18f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nuova Lancia Gamma: eccola dal vivo al Salone Auto di Torino",
-      "url": "https://it.motor1.com/news/807898/lancia-gamma-2026-interni-motori/",
-      "image": "https://cdn.motor1.com/images/mgl/8A0PP2/s3/lancia-gamma-2026-l-ammiraglia-suv-dal-vivo.jpg",
-      "summary": "Lancia Gamma so presernta con: design a firma Y, interni curati, motori mild hybrid ed elettrici fino a 350 CV",
-      "date": "2026-09-11T07:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:3c09b14fc5de",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Fiat Grizzly vista dal vivo per la prima volta, ecco come è fatta",
-      "url": "https://it.motor1.com/news/807894/fiat-grizzly-2026-motori-prezzi/",
-      "image": "https://cdn.motor1.com/images/mgl/2N9ppK/s3/fiat-grizzly-vista-dal-vivo.jpg",
-      "summary": "Fiat Grizzly si mostra al Salone di Torino 2026: design squadrato, motori benzina, mild hybrid ed elettrici, prezzi da 21mila euro.",
-      "date": "2026-09-11T07:10:00.0000000Z"
-    },
-    {
       "id": "insideevs:51bc317cedd0",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -325,18 +397,6 @@
       "image": "https://cdn.motor1.com/images/mgl/NG6G49/s3/adac-unfallforschung-zum-fahren-mit-e-scootern.jpg",
       "summary": "In Germania i feriti sono quasi triplicati in quattro anni. L’ADAC spiega quali sono le cadute più rischiose e le lesioni più frequenti",
       "date": "2026-09-11T05:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:d92b537a35a7",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ferrari beffata, il figlio di Kimi Raikkonen entra nell’Academy RB",
-      "url": "https://www.hdmotori.it/ferrari-figlio-kimi-raikkonen-academy-rb/",
-      "image": null,
-      "summary": "Robin Raikkonen, a 11 anni, è stato accolto nel Red Bull Junior Team. Papà Kimi si è detto soddisfatto della scelta The post Ferrari beffata, il figlio di Kimi Raikkonen entra nell’Academy RB appeared first on HDmotor...",
-      "date": "2026-09-10T18:00:14.0000000Z"
     },
     {
       "id": "insideevs:b9e7adffde4f",
@@ -469,66 +529,6 @@
       "image": null,
       "summary": "Arriva la Nissan Pixo, altra modello elettrico con prezzo base sotto i 20 mila euro. Nasce sulla base… L'articolo Arriva la Nissan Pixo, altra EV sotto i 20 mila € proviene da Vaielettrico .",
       "date": "2026-09-10T10:06:04.0000000Z"
-    },
-    {
-      "id": "insideevs:fd8e97e064ea",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La batteria LMR sperimentale di LG mantiene il 92% della capacità dopo 883 cicli",
-      "url": "https://insideevs.it/news/807753/lg-batteria-lmr-test/",
-      "image": "https://cdn.motor1.com/images/mgl/Rqbq4A/s3/lg-lmr.jpg",
-      "summary": "I ricercatori hanno affrontato un problema di durata nelle batterie LMR più economiche modificando il modo in cui le celle vengono caricate e scaricate.",
-      "date": "2026-09-10T07:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:a2f0d1da2842",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Eolico e solare fanno perdere valore alle case?",
-      "url": "https://insideevs.it/news/807631/parchi-eolici-solari-valore-case/",
-      "image": "https://cdn.motor1.com/images/mgl/vx7x3G/s3/eolico-e-solare-fanno-perdere-valore-alle-case.jpg",
-      "summary": "Uno studio americano ha analizzato 20 anni di compravendite. Ecco la risposta",
-      "date": "2026-09-10T05:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:4f0eca0cc812",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mercato cinese: le elettriche doppiano le termiche e fanno bingo nella Top Ten",
-      "url": "https://www.vaielettrico.it/mercato-cinese-le-elettriche-doppiano-le-termiche-e-fanno-bingo-nella-top-ten/",
-      "image": null,
-      "summary": "Il mercato automobilistico cinese parla sempre più… elettrico. Ad agosto le vendite al dettaglio di auto con motore… L'articolo Mercato cinese: le elettriche doppiano le termiche e fanno bingo nella Top Ten proviene d...",
-      "date": "2026-09-09T21:45:08.0000000Z"
-    },
-    {
-      "id": "vaielettrico:eafda10f9a06",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Transport & Environment: le ibride plug-in inquinano ogni anno di più",
-      "url": "https://www.vaielettrico.it/transport-environment-le-ibride-plug-in-inquinano-ogni-anno-di-piu/",
-      "image": null,
-      "summary": "Le ibride plug-in europee emettono molta più CO₂ nella realtà quotidiana di quanto non dicano i valori ufficiali… L'articolo Transport & Environment: le ibride plug-in inquinano ogni anno di più proviene da Vaielettri...",
-      "date": "2026-09-09T17:09:23.0000000Z"
-    },
-    {
-      "id": "vaielettrico:c24b289bb51b",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "PresaDiretta riparte dall’energia: rinnovabili, fossile e mobilità elettrica",
-      "url": "https://www.vaielettrico.it/presadiretta-riparte-dallenergia-fossile-rinnovabili-e-mobilita-elettrica/",
-      "image": null,
-      "summary": "Gas, petrolio, rinnovabili, bollette e mobilità elettrica: la nuova stagione di PresaDiretta riparte con un’inchiesta sulle scelte che… L'articolo PresaDiretta riparte dall’energia: rinnovabili, fossile e mobilità ele...",
-      "date": "2026-09-09T16:56:51.0000000Z"
     }
   ]
 }

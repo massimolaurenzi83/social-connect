@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-11T14:30:38.2207092Z",
+  "updated": "2026-09-11T17:52:38.5474986Z",
   "items": [
+    {
+      "id": "cybersecurity360:f423a71b9154",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber resilience e NIS2: DefeniX di AD Consulting porta la governance della sicurezza oltre la compliance",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-resilience-e-nis2-defenix-di-ad-consulting-porta-la-governance-della-sicurezza-oltre-la-compliance/",
+      "image": null,
+      "summary": "L'adeguamento alla NIS2 rappresenta per molte organizzazioni un'occasione per ripensare la gestione del rischio cyber. Il progetto DefeniX di AD Consulting per CISL Emilia-Romagna, mostra come integrare monitoraggio, ...",
+      "date": "2026-09-11T14:59:12.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:7b1aa81ca6b8",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Vulnerabilità software e attacchi cyber-OT: come proteggere i componenti di controllo nelle reti industriali",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/vulnerabilita-software-e-attacchi-cyber-ot-come-proteggere-i-componenti-di-controllo-nelle-reti-industriali/",
+      "image": null,
+      "summary": "Vulnerabilità software nei sistemi OT espongono PLC, HMI e componenti di controllo ad attacchi capaci di compromettere produzione e sicurezza. Gestione del rischio, patching selettivo, monitoraggio e controlli compens...",
+      "date": "2026-09-11T14:17:28.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:2bca5b2dc07d",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Disallineati o insicuri?",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/disallineati-o-insicuri/",
+      "image": null,
+      "summary": "Quando c'è un incidente provocato da un modello di IA, o da un agente, il discorso viene convenientemente orientato verso il disallineamento evitando di parlare di gestione del rischio. Uno spostamento d'attenzione ch...",
+      "date": "2026-09-11T14:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:e345f4ca9e9d",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Agenti AI che usano un wiki pubblico come memoria esterna, condividono istruzioni e si adattano quando l’attività viene ostacolata. Il caso ricostruito da Reuters porta OpenAI a riconoscere una zona grigia tra misalig...",
       "date": "2026-09-10T15:05:56.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a254db2ba0fb",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Interfacce HMI e continuità di processo: mitigare i rischi sui terminali di linea",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/interfacce-hmi-e-continuita-di-processo-mitigare-i-rischi-sui-terminali-di-linea/",
-      "image": null,
-      "summary": "Gli HMI collegano operatori e processi industriali, ma possono anche diventare punti critici. Accessi, sistemi embedded, connessioni remote e backup devono essere protetti per evitare che un terminale compromesso si t...",
-      "date": "2026-09-10T13:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:c17eb3017e33",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "it-sa Expo&Congress 2026: a Norimberga la cyber security europea guarda alle nuove sfide",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/it-sa-expocongress-2026-a-norimberga-la-cyber-security-europea-guarda-alle-nuove-sfide/",
-      "image": null,
-      "summary": "Dal 27 al 29 ottobre, it-sa Expo&Congress 2026 riunisce a Norimberga la community europea della cyber security per confrontarsi su AI, resilienza, sovranità digitale e nuove minacce. Per i nostri lettori è disponibile...",
-      "date": "2026-09-10T10:46:27.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:5d2b2b4c3e17",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyberoo: “L’MDR non basta. Ecco come cambia la cyber security”",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyberoo-lmdr-non-basta-ecco-come-cambia-la-cyber-security/",
-      "image": null,
-      "summary": "Di fronte a uno scenario sempre più complesso, limitare l’intervento a logiche legate a scelte tecnologiche non è sufficiente. Serve un ecosistema completo che permetta il salto di qualità L'articolo Cyberoo: “L’MDR n...",
-      "date": "2026-09-10T10:00:30.0000000Z"
     }
   ]
 }
