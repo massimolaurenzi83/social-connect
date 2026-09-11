@@ -1,15 +1,171 @@
 {
   "category": "calcio",
-  "updated": "2026-09-11T20:16:42.3667432Z",
+  "updated": "2026-09-11T22:40:50.2324956Z",
   "items": [
     {
-      "id": "fcinternews:a9c8e9d8e1af",
+      "id": "fcinternews:41f3ac56c845",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "(Quasi) un anno dopo Juventus-Inter 4-3: il grande lavoro di Cristian Chivu",
+      "url": "https://m.fcinternews.it/editoriale/risultato-chivu-strada-giusta-1018197",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3f/3f5c103a3eccbc4b5d2c9e2917641947-42998-oooz0000.jpeg",
+      "summary": "Giriamo indietro le pagine del calendario a poco meno di dodici mesi fa, domenica 14 settembre 2025.",
+      "date": "2026-09-11T22:00:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:0ad69b281b85",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Malagò, la Corte FIGC respinge il reclamo di Miele. E lui: \"Tutto regolare\"",
+      "url": "https://m.fcinternews.it/news/malago-corte-figc-respinge-reclamo-miele-regolare-1018222",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/97/97ee8ef7c58dd1a6fd4552dfdbb8b27b-46613-oooz0000.jpeg",
+      "summary": "La Corte Federale d’Appello ha giudicato inammissibile il reclamo dell'avvocato Renato Miele contro l'elezione di Giovanni Malagò come nuovo presidente della FIGC, confermando la piena regolarità del voto dello scorso...",
+      "date": "2026-09-11T21:47:11.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:53e486b22c42",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Allegri già a rischio esonero? Bologna decisiva, due possibili sostituti",
+      "url": "https://www.calciomercato.it/2026/09/11/allegri-gia-a-rischio-esonero-bologna-decisiva-due-possibili-sostituti/",
+      "image": null,
+      "summary": "L'articolo Allegri già a rischio esonero? Bologna decisiva, due possibili sostituti proviene da CalcioMercato.it .",
+      "date": "2026-09-11T21:33:26.0000000Z"
+    },
+    {
+      "id": "fcinternews:eabd78d74067",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Juve Women, Guerrero: \"Inter squadra di livello, sarà una sfida stimolante\"",
+      "url": "https://m.fcinternews.it/l-avversario/juve-women-guerrero-inter-squadra-livello-sfida-stimolante-1018213",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/12/1218070bf573e0320ad2d68b73241eec-35669-oooz0000.jpeg",
+      "summary": "Isaac Guerrero, tecnico di Juve Women, professa ottimismo alla vigilia della sfida che vedrà la sua squadra sfidare l'Inter nella semifinale di Serie A Women's Cup: \"Il gruppo arriva bene a questo appuntamento, con mo...",
+      "date": "2026-09-11T21:33:05.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:317e2adc43f8",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Vanoli: &quot;Sono tornato a Firenze perch&eacute;...&quot;. Stroppa recrimina: &quot;Siamo stati sfortunati&rdquo;",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/fiorentina/2026/09/11-151180795/vanoli_sono_tornato_a_firenze_perch_stroppa_recrimina_siamo_stati_sfortunati/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/11/211937920-391da91d-eee3-4849-889f-8d26cf6cec45.jpg",
+      "summary": "Al termine del match conquistato dalla Viola, hanno parlato i rispettivi tecnici per commentare la prestazione delle loro squadre. Quarta sconfitta per i lagunari",
+      "date": "2026-09-11T21:29:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:5b087708dd37",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Salernitana-Potenza, un devastante La Gumina piega i lucani",
+      "url": "https://m.fcinternews.it/ex-nerazzurri/salernitana-potenza-devastante-gumina-piega-lucani-1018240",
+      "image": null,
+      "summary": "È un Antonino La Gumina in grande spolvero quello ammirato in occasione della sfida di Serie C tra la sua Salernitana e il Potenza.",
+      "date": "2026-09-11T21:19:00.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:5479e0b2c337",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Gosens gol dell&#39;ex, prima vittoria per lo Schalke. Vincono Siviglia e Rennes",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/09/11-151178985/gosens_gol_dell_ex_prima_vittoria_per_lo_schalke_vincono_siviglia_e_rennes/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/11/210330980-4988fd62-e44d-4fc6-9574-29388ddec7df.jpg",
+      "summary": "Tornato in Bundesliga via Fiorentina, l'esterno tedesco punisce l'Union Berlino. Iglesias inguaia il Valencia, crisi Marsiglia contro la capolista",
+      "date": "2026-09-11T21:07:22.0000000Z"
+    },
+    {
+      "id": "fcinternews:c9a17c3f8218",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Verso il divieto di trasferta dei tifosi per la gara Inter U23-Foggia",
+      "url": "https://m.fcinternews.it/inter-u23/divieto-trasferta-tifosi-gara-inter-u23-foggia-1018230",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/0a/0a951923720c9f709d1bef162f4d4bd8-95803-oooz0000.jpeg",
+      "summary": "Si va verso il terzo divieto di trasferta per i tifosi del Foggia residenti in città e in provincia: anche la sfida del 20 settembre al Breda contro l'Inter U23 si potrebbe disputare senza i tifosi della squadra rosso...",
+      "date": "2026-09-11T21:05:09.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:f7dba4c3e477",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "<p>La Fiorentina ritrova Vanoli e torna a vincere: un super Mastantuono e Pellegrino stendono il Venezia</p>",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/fiorentina/2026/09/11-151180297/la_fiorentina_ritrova_vanoli_e_torna_a_vincere_un_super_mastantuono_e_pellegrino_stendono_il_venezia/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/11/204638712-074d50a3-5c47-4b18-a132-2e59b4fcc7cf.jpg",
+      "summary": "La Viola conquista tre punti vitali al Penzo dopo le tre sconfitte iniziali: il talento argentino decisivo nel match",
+      "date": "2026-09-11T20:55:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:684e7a135942",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Venezia-Fiorentina 2-4, gol e spettacolo al Penzo: Mastantuono rilancia la Viola",
+      "url": "https://m.fcinternews.it/il-resto-della-a/venezia-fiorentina-2-4-gol-spettacolo-penzo-mastantuono-rilancia-viola-1018239",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/10/109a941d691e584fe47533a57502f43f-29620-492o0o2112o1620z1080.jpeg",
+      "summary": "La Fiorentina può tirare un primo sospiro di sollievo.",
+      "date": "2026-09-11T20:55:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:acfe20a40ccf",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Premier League, il papà di Jakirovic eletto miglior allenatore di agosto",
+      "url": "https://m.fcinternews.it/news/premier-league-papa-jakirovic-eletto-miglior-allenatore-agosto-1018225",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/71/716f7ca138ef224b8852e07add0e0a1e-60438-oooz0000.jpeg",
+      "summary": "Un avvio di Premier League col botto per il neopromosso Hull City, al momento terzo in classifica con due vittorie contro Manchester United e Coventry e un pareggio nelle prime tre gare.",
+      "date": "2026-09-11T20:50:12.0000000Z"
+    },
+    {
+      "id": "fcinternews:4ed29da1a322",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Dodò fuori dal progetto Fiorentina? Per l'Inter può essere un'occasione",
+      "url": "https://m.fcinternews.it/mercato/dodo-progetto-fiorentina-inter-occasione-1018237",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d3/d364737a726f62055843f180e7399393-36675-433o120o1518o1204z0ccb.jpeg",
+      "summary": "Un vecchio pallino dell'Inter potrebbe nuovamente comparire all'interno dei radar nerazzurri.",
+      "date": "2026-09-11T20:36:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:f059dbb2dedd",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Antognoni: \"L'Inter la squadra italiana con una marcia in più in Europa\"",
+      "url": "https://m.fcinternews.it/news/antognoni-l-inter-squadra-italiana-marcia-europa-1018215",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3f/3f8e7600d563b5a650eac6aa65f3a1dc-88883-614o108o1481o975z0c6a.jpeg",
+      "summary": "\"Penso che l'Inter sia la squadra italiana che ha una marcia in più in Europa, a livello di rosa è quella più forte. Poi le altre le sono subito dietro: Napoli, Roma, Atalanta.",
+      "date": "2026-09-11T20:21:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:be78165c00e3",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "Busquets: \"La Serie A mi piace. E per me le italiane in Champions...\"",
-      "url": "https://www.fcinternews.it/news/busquets-la-serie-piace-italiane-champions-1018238",
+      "url": "https://m.fcinternews.it/news/busquets-la-serie-piace-italiane-champions-1018238",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d2/d2368e6456106bf0d5c0fb4844157352-14721-674o144o1373o843z0bda.jpeg",
       "summary": "Anche l'ex giocatore del Barcellona Sergio Busquets era presente oggi all'EA7 World Legends Padel Tour.",
       "date": "2026-09-11T20:07:11.0000000Z"
@@ -27,25 +183,25 @@
       "date": "2026-09-11T20:01:59.0000000Z"
     },
     {
-      "id": "fcinternews:8cd4ce9e8498",
+      "id": "fcinternews:4d02005e6296",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "Pizarro: \"Per l'Inter un anno importante in Europa. Me lo auguro per Chivu\"",
-      "url": "https://www.fcinternews.it/news/pizarro-per-inter-importante-europa-auguro-chivu-1018236",
+      "url": "https://m.fcinternews.it/news/pizarro-per-inter-importante-europa-auguro-chivu-1018236",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d4/d4dc8ecef1a4db38dac9da0d3c3621f1-13654-oooz0000.jpeg",
       "summary": "David Pizarro, ex centrocampista di Roma e Inter, si dice convinto che l'Inter colmerà quest'anno il gap con le big europee in prospettiva Champions.",
       "date": "2026-09-11T19:52:11.0000000Z"
     },
     {
-      "id": "fcinternews:4bc6030de763",
+      "id": "fcinternews:2774734a8e4b",
       "sourceId": "fcinternews",
       "source": "FcInterNews",
       "platform": "rss",
       "category": "calcio",
       "title": "Immobile: \"Mi prendevano per pazzo quando dicevo che Esposito...\"",
-      "url": "https://www.fcinternews.it/focus/immobile-mi-prendevo-pazzo-dicevo-esposito-1018234",
+      "url": "https://m.fcinternews.it/focus/immobile-mi-prendevo-pazzo-dicevo-esposito-1018234",
       "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a5/a5e5df259813d4a0264edbe8b9739478-81040-805o721o1671o1586z12af.jpeg",
       "summary": "A margine di una serie di appuntamenti legati al World Padel Tour, Ciro Immobile - ex bomber della Lazio e dell'Italia nonché neo-capodelegazione della Nazionale U16 - si espresso in merito alla crescita di alcuni gio...",
       "date": "2026-09-11T19:37:00.0000000Z"
@@ -61,30 +217,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/09/11/192614900-4a2f49e1-d630-4c37-a250-f127e35611b4.jpg",
       "summary": "Il direttore sportivo della Fiorentina si è espresso in merito alla recente vicenda che ha coinvolto la panchina del club toscano",
       "date": "2026-09-11T19:27:22.0000000Z"
-    },
-    {
-      "id": "fcinternews:0b2ecc662312",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Akanji saluta il Manchester City: \"Tre anni incredibili\"",
-      "url": "https://www.fcinternews.it/copertina/akanji-saluta-manchester-city-tre-incredibili-1018235",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c2/c200879c8187d6dbaf30d10b2c5250f6-97380-oooz0000.jpeg",
-      "summary": "Attraverso un post sorprendentemente tardivo apparso sul proprio profilo Instagram, il difensore nerazzurro Manuel Akanji ha saluto definitivamente il Manchester City, squadra da cui l'Inter lo ha prelevato dapprima i...",
-      "date": "2026-09-11T19:23:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:dd8834227a2d",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Juan Cuadrado torna in Colombia dopo 17 anni: \"Grazie Italia, grazie Juve\"",
-      "url": "https://www.fcinternews.it/ex-nerazzurri/juan-cuadrado-torna-colombia-20-anni-grazie-italia-juve-1018219",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f7/f75c03643a471cdee41e2a4b7ac33594-52124-oooz0000.jpeg",
-      "summary": "Finisce dopo quasi vent'anni l'avventura europea di Juan Cuadrado. Il terzino colombiano, visto in Italia con diverse maglie tra le quali anche quella dell'Inter, tornerà infatti a giocare in patria coi Millonarios di...",
-      "date": "2026-09-11T19:09:11.0000000Z"
     },
     {
       "id": "calciomercato-it:ef340cbc4f1f",
@@ -104,71 +236,11 @@
       "source": "Tuttosport",
       "platform": "rss",
       "category": "calcio",
-      "title": "Empoli sconfitto in casa dall&#39;Arezzo: Curto espulso, decide un autogol di Romagnoli",
+      "title": "Verona e Pisa crollano: tris Benevento e poker Entella. Empoli ko con l&#39;Arezzo",
       "url": "https://www.tuttosport.com/news/calcio/serie-b/2026/09/11-151176830/empoli_sconfitto_in_casa_dall_arezzo_curto_espulso_decide_un_autogol_di_romagnoli/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/11/185748564-e4ca6263-0e2d-4417-9794-d670aec33a7c.jpg",
-      "summary": "La formazione di Pagliuca resta in 10 poco prima dell'intervallo e poi regala il gol vittoria che permette agli amaranto di Bucchi di ritrovare il sorriso",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/11/205325897-9269c673-f0ce-4a19-9217-e610aabe830e.jpg",
+      "summary": "Prime vittorie stagionali per Floro Flores e Chiappella, tonfo per Baroni e Bianco. Bucchi si prende il derby toscano contro Pagliuca",
       "date": "2026-09-11T19:04:54.0000000Z"
-    },
-    {
-      "id": "fcinternews:3cdb198fd5ae",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Domenica Javier Zanetti a Busto Arsizio per 'BA Cuori Insieme'",
-      "url": "https://www.fcinternews.it/news/domenica-javier-zanetti-busto-arsizio-ba-cuori-1018216",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/00/00322f6e4d4528da06142e08a3c84929-06821-oooz0000.jpeg",
-      "summary": "Domenica pomeriggio grande appuntamento a Busto Arsizio con Javier Zanetti: il vicepresidente dell'Inter è infatti atteso nella località in provincia di Varese come ospite speciale di Ba Cuori Insieme, la manifestazio...",
-      "date": "2026-09-11T18:54:11.0000000Z"
-    },
-    {
-      "id": "fcinternews:95c00856b5db",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Ashley Young: \"Conte ci metteva alla prova. Chi si lamentò fu mandato via\"",
-      "url": "https://www.fcinternews.it/focus/ashley-young-conte-metteva-prova-lament-mandato-via-1018227",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8e/8eab009c676d802d2117244943a6533a-78167-oooz0000.jpeg",
-      "summary": "Ashley Young, ex esterno dell'Inter ai tempi in cui Antonio Conte sedeva sulla panchina dei nerazzurri, ha raccontato un aneddoto su una trovata da parte del tecnico leccese nel corso di un'intervista rilasciata ad Hi...",
-      "date": "2026-09-11T18:40:12.0000000Z"
-    },
-    {
-      "id": "fcinternews:b59a54e062d8",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Il Liverpool ha bussato all'Inter per Stankovic. E potrebbe rifarlo nel 2027",
-      "url": "https://www.fcinternews.it/in-primo-piano/liverpool-bussato-inter-stankovic-rifarlo-2027-1018233",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/9e/9eaec188947c7bd9b4f3b35d06f6f0dc-09003-1128o143o1848o863z0f8e.jpeg",
-      "summary": "Il Liverpool ha approfittato della trattativa per Curtis Jones per palesare il suo interesse nei confronti di Aleksandar Stankovic.",
-      "date": "2026-09-11T18:25:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:5879b79c6910",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Sergio Conceiçao: \"Giocavo in un'Inter grandissima. Erano altri tempi\"",
-      "url": "https://www.fcinternews.it/ex-nerazzurri/sergio-conceicao-giocavo-inter-grandissima-tempi-1018231",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c8/c88d47a0732ef9201e8e09507f687890-43124-oooz0000.jpeg",
-      "summary": "Sergio Conceiçao, ex allenatore del Milan, è tornato a parlare della parentesi sulla panchina rossonera ai microfoni di DAZN Portugal.",
-      "date": "2026-09-11T18:12:12.0000000Z"
-    },
-    {
-      "id": "fcinternews:6883035e1550",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Condò: \"A Madrid sconfitta che non fa primavera, l'Inter sarà nelle Top 8\"",
-      "url": "https://www.fcinternews.it/focus/condo-a-madrid-sconfitta-primavera-inter-i-top-8-i-1018232",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/bc/bceda09b29904ad96aa601149aa5f0c0-03857-oooz0000.jpeg",
-      "summary": "Parlando in collegamento con Sky Sport, Paolo Condò offre due chiavi di lettura diverse delle sconfitte di Inter e Napoli in Champions League: \"L'Inter se l'è giocata fino in fondo contro un avversario terribile.",
-      "date": "2026-09-11T17:58:30.0000000Z"
     },
     {
       "id": "calciomercato-it:3bda15a05b6b",
@@ -183,18 +255,6 @@
       "date": "2026-09-11T17:46:14.0000000Z"
     },
     {
-      "id": "fcinternews:5cf303efc2b2",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Domani Inter U23-Casertana: sono 22 i convocati di Espinal",
-      "url": "https://www.fcinternews.it/l-avversario/domani-inter-u23-casertana-22-convocati-espinal-1018218",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/76/767414596ddb36dc48cdb77017eacc8e-29724-768o395o2376o2003z15a6.jpeg",
-      "summary": "Sono 22 i convocati del tecnico della Casertana Vinicio Espinal per la gara esterna di Sesto San Giovanni contro l'Inter 23 in programma domani pomeriggio. Ecco l'elenco completo: Portieri: De Lucia, Magro, Schiedo.",
-      "date": "2026-09-11T17:43:11.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:86131c0b73b0",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -205,18 +265,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/09/11/173925362-2e000ed4-3bcf-4fc6-9533-ab57dc22f737.jpg",
       "summary": "Lo storico capitano dei giallorossi è tornato a parlare della squadra di Gasperini: tra i temi il ritorno del club capitolino in Champions League",
       "date": "2026-09-11T17:40:14.0000000Z"
-    },
-    {
-      "id": "fcinternews:e01204f56712",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Totti: \"Con la Roma tutto è possibile. Però sarà difficile battere l'Inter\"",
-      "url": "https://www.fcinternews.it/news/totti-con-roma-possibile-difficile-battere-inter-1018229",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/2f/2f5f53be3f754fb3d539ef69b3a3271c-32975-oooz0000.jpeg",
-      "summary": "Francesco Totti ha parlato ai margini dell'evento dell'EA7 World Legends Padel Tour della partita contro il Fenerbahçe e delle sue sensazioni riguardo la stagione della Roma dopo l'ottimo avvio di campionato: \"Un iniz...",
-      "date": "2026-09-11T17:29:10.0000000Z"
     },
     {
       "id": "calciomercato-it:bf372b68553e",
@@ -327,18 +375,6 @@
       "date": "2026-09-11T13:34:59.0000000Z"
     },
     {
-      "id": "tuttosport-calcio:932f88d59093",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Amorim torna su Juve-Milan: &quot;Ci &egrave; mancata aggressivit&agrave;&quot;. Poi loda la Lazio e incorona Gattuso: &quot;Leggenda&quot;",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/09/11-151173469/amorim_torna_su_juve-milan_ci_mancata_aggressivit_poi_loda_la_lazio_e_incorona_gattuso_leggenda/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/11/123116627-6e7c1dfc-21bc-418c-9177-2f91195facd5.jpg",
-      "summary": "Il tecnico rossonero ha fatto il punto sulla trasferta all'Olimpico, dove sabato 12 contenderà ai biancocelesti la quarta giornata di campionato",
-      "date": "2026-09-11T12:55:35.0000000Z"
-    },
-    {
       "id": "calciomercato-it:0b3b298699e2",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -349,30 +385,6 @@
       "image": null,
       "summary": "L'articolo Caos Argentina, colpo di scena Lautaro Martinez: la decisione fa felice l’Inter proviene da CalcioMercato.it .",
       "date": "2026-09-11T12:22:29.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:affca0c3cf38",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>Cuadrado, &quot;soprattutto alla Juve&quot;: addio all&#39;Italia e saluto speciale</p>",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/09/11-151171563/cuadrado_soprattutto_alla_juve_addio_all_italia_e_saluto_speciale/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/11/103828009-66cd9df4-ddc9-40dc-8fab-794829c961be.jpg",
-      "summary": "L'esterno colombiano torna a giocare in patria e dedica un messaggio sui social a tutti i club, in particolare alla Vecchia Signora",
-      "date": "2026-09-11T11:27:15.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:4ac3325ec6c0",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>La prima volta in gruppo, Spalletti respira: le novit&agrave; dall&rsquo;allenamento verso Sassuolo-Juve</p>",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/09/11-151171749/la_prima_volta_in_gruppo_spalletti_respira_le_novit_dallallenamento_verso_sassuolo-juve/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/11/111401034-879ecac7-1c10-443e-9488-2f9fb60796e7.jpg",
-      "summary": "Alla Continassa i bianconeri preparano la trasferta con i neroverdi e l'allenatore recupera un giocatore degli infortunati",
-      "date": "2026-09-11T11:15:11.0000000Z"
     },
     {
       "id": "calciomercato-it:b28d008835c2",
@@ -421,18 +433,6 @@
       "image": null,
       "summary": "L'articolo Camarda pronto a trovare spazio al Milan: minuti contro Lazio e Benfica proviene da CalcioMercato.it .",
       "date": "2026-09-11T07:00:52.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:de4020be8c4b",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Icardi vicino alla firma con l’Olympiacos, ad un passo il ritorno in campo",
-      "url": "https://www.calciomercato.it/2026/09/11/icardi-vicino-alla-firma-con-lolympiacos-ad-un-passo-il-ritorno-in-campo/",
-      "image": null,
-      "summary": "L'articolo Icardi vicino alla firma con l’Olympiacos, ad un passo il ritorno in campo proviene da CalcioMercato.it .",
-      "date": "2026-09-11T05:22:34.0000000Z"
     }
   ]
 }
