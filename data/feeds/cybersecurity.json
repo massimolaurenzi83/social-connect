@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-11T05:52:15.9955415Z",
+  "updated": "2026-09-11T10:16:32.2127185Z",
   "items": [
+    {
+      "id": "cybersecurity360:7c60c973c6c0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Aggiornamenti Android settembre 2026, corrette 180 vulnerabilità: cosa fare subito",
+      "url": "https://www.cybersecurity360.it/news/aggiornamenti-android-settembre-2026-corrette-180-vulnerabilita-cosa-fare-subito/",
+      "image": null,
+      "summary": "Google ha rilasciato il bollettino di sicurezza Android per il mese di settembre 2026 con patch per 180 vulnerabilità, tra cui otto Remote Code Execution critiche nel componente System e quattro falle critiche nel ker...",
+      "date": "2026-09-11T08:27:52.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:ae04b1805c7b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "La corsa all’IA e l’allarme di chi l’ha costruita: ecco dove sorge la dinamica pericolosa",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/la-corsa-allia-e-lallarme-di-chi-lha-costruita-ecco-dove-sorge-la-dinamica-pericolosa/",
+      "image": null,
+      "summary": "Jacob Coxon, ricercatore di Anthropic ed ex di OpenAI, ha lasciato il gruppo dei fratelli Amodei, accusando le due aziende di correre verso sistemi sempre più capaci, senza garanzie di sicurezza. Vediamo se sono credi...",
+      "date": "2026-09-11T07:30:41.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:208bd6dd5699",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Droni, la nuova linea del fronte: dall’Ucraina ai cieli d’Europa, cosa cambia con le regole Ue",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/droni-la-nuova-linea-del-fronte-dallucraina-ai-cieli-deuropa-cosa-cambia-con-le-regole-ue/",
+      "image": null,
+      "summary": "L'episodio recente più emblematico riguarda l'aereo del presidente ucraino Volodymyr Zelensky , sfiorato da un drone al momento del decollo dalla Moldavia, mentre era in rotta verso Oslo. Ecco perché l'escalation dei ...",
+      "date": "2026-09-11T07:15:18.0000000Z"
+    },
     {
       "id": "cybersecurity360:b2441491de15",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Surfshark propone a 2,49 euro al mese un pacchetto con VPN e antivirus per dispositivi illimitati. L'offerta include tre mesi extra e una garanzia soddisfatti o rimborsati di 30 giorni L'articolo Surfshark: pacchetto ...",
       "date": "2026-09-10T08:40:51.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d004c5f9228f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "La classificazione nell’AI ACT: i 4 livelli di rischio",
-      "url": "https://www.cybersecurity360.it/legal/la-classificazione-nellai-act-i-4-livelli-di-rischio/",
-      "image": null,
-      "summary": "La rappresentazione classica, veicolata anche sui siti dell’UE, prevede quattro diversi livelli di rischio: ecco quali e ulteriori interventi da parte dell’autorità L'articolo La classificazione nell’AI ACT: i 4 livel...",
-      "date": "2026-09-10T08:24:04.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:561c6ca4bafa",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sistemi legacy e obsolescenza dei PLC: strategie di protezione e mitigazione dei rischi in fabbrica",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/sistemi-legacy-e-obsolescenza-dei-plc-strategie-di-protezione-e-mitigazione-dei-rischi-in-fabbrica/",
-      "image": null,
-      "summary": "I sistemi legacy e i PLC obsoleti restano essenziali in molti impianti, ma vulnerabilità non correggibili e assenza di supporto ne aumentano il rischio cyber. Segmentazione, monitoraggio e compensating controls permet...",
-      "date": "2026-09-09T15:48:50.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:aba28081a13b",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Patch Tuesday settembre 2026: due zero-day già sfruttate e venti bug wormable",
-      "url": "https://www.cybersecurity360.it/news/patch-tuesday-settembre-2026-due-zero-day-gia-sfruttate-e-venti-bug-wormable/",
-      "image": null,
-      "summary": "Con 974 CVE corrette, quasi il doppio del record di luglio, il Patch Tuesday di settembre 2026 è il più grande della storia. Ma la vera notizia non è il numero: sono le due zero-day già sfruttate su ALPC e Windows Upd...",
-      "date": "2026-09-09T13:58:16.0000000Z"
     }
   ]
 }
