@@ -1,7 +1,19 @@
 {
   "category": "aviazione",
-  "updated": "2026-09-12T09:17:42.0877968Z",
+  "updated": "2026-09-12T12:56:16.7513980Z",
   "items": [
+    {
+      "id": "aviationreport:7addcb15eb5c",
+      "sourceId": "aviationreport",
+      "source": "Aviation Report",
+      "platform": "rss",
+      "category": "aviazione",
+      "title": "Concluso nella notte un trasporto sanitario urgente da Palermo a Milano",
+      "url": "https://www.aviation-report.com/concluso-nella-notte-un-trasporto-sanitario-urgente-da-palermo-a-milano/",
+      "image": null,
+      "summary": "Un paziente di 70 anni è stato trasferito con un Gulfstream G-650 del 31° Stormo per raggiungere l’ospedale San Matteo di Pavia Si è concluso nella notte, con l’atterraggio all’aeroporto di Milano Linate, il trasporto...",
+      "date": "2026-09-12T09:30:57.0000000Z"
+    },
     {
       "id": "aviationreport:c0e1e7900d2f",
       "sourceId": "aviationreport",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Martedì 1 settembre 2026, sul Piazzale Bandiera dell’ISMA – Istituto di Scienze Militari Aeronautiche di Firenze, si è svolta la Cerimonia di Passaggio di Consegne tra il Colonnello Mauro Nazzi, Comandante uscente del...",
       "date": "2026-09-09T08:48:52.0000000Z"
-    },
-    {
-      "id": "aviationreport:dcd36ce6d761",
-      "sourceId": "aviationreport",
-      "source": "Aviation Report",
-      "platform": "rss",
-      "category": "aviazione",
-      "title": "Patria completa il primo motore F135 assemblato in Finlandia",
-      "url": "https://www.aviation-report.com/patria-completa-il-primo-motore-f135-assemblato-in-finlandia/",
-      "image": null,
-      "summary": "Il primo motore F135 assemblato in Finlandia da Patria è stato completato con successo presso il nuovo stabilimento di Patria a Linnavuori, Nokia, Finlandia. In qualità di partner strategico delle Forze di Difesa finl...",
-      "date": "2026-09-09T06:25:19.0000000Z"
     }
   ]
 }
