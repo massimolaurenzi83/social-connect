@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-09-12T20:42:50.6922723Z",
+  "updated": "2026-09-12T22:37:31.5312462Z",
   "items": [
+    {
+      "id": "ansa-cronaca:94590e3300db",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "#AccadeOggi",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+      "image": null,
+      "summary": "I principali avvenimenti previsti per la giornata",
+      "date": "2026-09-12T20:56:21.0000000Z"
+    },
     {
       "id": "ansa-cronaca:1cf205f82371",
       "sourceId": "ansa-cronaca",
@@ -121,18 +133,6 @@
       "image": null,
       "summary": "Nel Cuneese. La donna, in ipotermia, è in ospedale in codice verde",
       "date": "2026-09-12T14:38:23.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:272d97bdcc95",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Licenziamento di due ex assistenti, pignorato il conto di Ilaria Salis",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/licenziamento-di-due-ex-assistenti-pignorato-il-conto-di-ilaria-salis_41c83124-fc0e-456f-8e59-04d63df22ca1.html",
-      "image": null,
-      "summary": "Non pagate alcune spese legali dopo condanna del Tribunale Milano",
-      "date": "2026-09-12T13:33:32.0000000Z"
     },
     {
       "id": "ansa-cronaca:e0985545bb2b",
