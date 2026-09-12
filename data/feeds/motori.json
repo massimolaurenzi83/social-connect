@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-09-11T22:40:50.2179054Z",
+  "updated": "2026-09-12T00:41:02.0532870Z",
   "items": [
+    {
+      "id": "motor1:900cee10ced3",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ferrari 12Cilindri Spider (2026), perché comprarla e perché no",
+      "url": "https://it.motor1.com/reviews/807772/ferrari-12cilindri-perche-comprarla-recensione/",
+      "image": "https://cdn.motor1.com/images/mgl/qk8k1v/s3/ferrari-12cilindri-spider-perche-comprarla.jpg",
+      "summary": "V12, 6,5 di cilindrata e 830 CV sulle ruote dietro: ode alla guida. È magnifica ma su alcuni dettagli può migliorare",
+      "date": "2026-09-11T23:00:00.0000000Z"
+    },
     {
       "id": "motor1:3dc8621c35bc",
       "sourceId": "motor1",
@@ -327,18 +339,6 @@
       "date": "2026-09-11T12:00:00.0000000Z"
     },
     {
-      "id": "motor1:aaf113299d53",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vi siete persi la BMW Z4? Ecco 99 esemplari della Bovensiepen Spider",
-      "url": "https://it.motor1.com/news/807910/bovensiepen-spider-99-esemplari-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/QeGYmO/s3/bovensiepen-spider.jpg",
-      "summary": "Design firmato Frank Stephenson e motore turbo 3.0 per la nuova Bovensiepen Spider, in vendita da 115.500 euro con consegne dal 2027",
-      "date": "2026-09-11T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:823490d8da1f",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -348,6 +348,18 @@
       "url": "https://insideevs.it/news/807951/boring-company-fondi-tesla-tunnel/",
       "image": "https://cdn.motor1.com/images/mgl/W8b99r/s3/boring-company.jpg",
       "summary": "The Boring Company accelera i progetti negli Stati Uniti e negli Emirati, con il Dubai Loop al via entro fine 2026",
+      "date": "2026-09-11T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:aaf113299d53",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Vi siete persi la BMW Z4? Ecco 99 esemplari della Bovensiepen Spider",
+      "url": "https://it.motor1.com/news/807910/bovensiepen-spider-99-esemplari-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/QeGYmO/s3/bovensiepen-spider.jpg",
+      "summary": "Design firmato Frank Stephenson e motore turbo 3.0 per la nuova Bovensiepen Spider, in vendita da 115.500 euro con consegne dal 2027",
       "date": "2026-09-11T11:00:00.0000000Z"
     },
     {
@@ -361,18 +373,6 @@
       "image": "https://cdn.motor1.com/images/mgl/rK6n4Y/s3/leapmotor-b03x-prova.jpg",
       "summary": "La prova della Leapmotor B03X, SUV compatto elettrico che offre tanto a poco, ma i soli pulsanti touch penalizzano l'utilizzo in alcuni frangenti",
       "date": "2026-09-11T10:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:8c4f82a87839",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Salone Auto Torino 2026, si parte: ecco cosa vedere",
-      "url": "https://it.motor1.com/news/807938/salone-auto-torino-2026-guida-cosa-vedere/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z1eEp/s3/salone-auto-torino-2026.jpg",
-      "summary": "Il Salone è iniziato: fino a domenica 13 settembre Torino ospita 47 Case. In piazza anche le nuove Fiat e Lancia",
-      "date": "2026-09-11T09:22:10.0000000Z"
     },
     {
       "id": "insideevs:51bc317cedd0",
