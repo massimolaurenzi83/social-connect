@@ -1,6 +1,6 @@
 {
   "category": "mondo",
-  "updated": "2026-09-12T00:41:02.0822182Z",
+  "updated": "2026-09-12T05:07:09.5865213Z",
   "items": [
     {
       "id": "internazionale:20463c14a39c",
@@ -61,6 +61,66 @@
       "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
       "summary": "Chiara Alessi esperta di designe Giulia Siviero giornalista14-19 anni",
       "date": "2026-10-03T09:00:00.0000000Z"
+    },
+    {
+      "id": "internazionale:67d862e5b24c",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Via quell’oro da New York",
+      "url": "https://www.internazionale.it/notizie/alessandro-lubello/2026/09/12/oro-trump-paesi-bassi",
+      "image": "https://media.internazionale.it/images/2026/09/09/358116-hd.jpg",
+      "summary": "I Paesi Bassi hanno spostato l’oro della loro banca centrale custodito negli Stati Uniti per affrontare meglio le tempeste geopolitiche. E perché non si fidano di Donald Trump Leggi",
+      "date": "2026-09-12T04:01:02.0000000Z"
+    },
+    {
+      "id": "internazionale:4655ce43583d",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Come sta il calcio femminile?",
+      "url": "https://www.internazionale.it/notizie/simon-dunaway/2026/09/12/calcio-femminile",
+      "image": "https://media.internazionale.it/images/2026/09/10/358319-hd.jpg",
+      "summary": "A meno di un anno ai Mondiali in Brasile, questo sport continua a crescere un po’ ovunque, Italia compresa Leggi",
+      "date": "2026-09-12T03:44:01.0000000Z"
+    },
+    {
+      "id": "internazionale:9aaeb629044c",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Un pezzo di Brasile si sta allontanando da Lula",
+      "url": "https://www.internazionale.it/notizie/anne-dominique-correa/2026/09/12/brasile-lula",
+      "image": "https://media.internazionale.it/images/2026/09/11/358379-hd.jpg",
+      "summary": "Il nordest del paese è da sempre stato vicino al presidente e al suo partito. Ma l’aumento della criminalità organizzata spinge molti verso l’estrema destra Leggi",
+      "date": "2026-09-12T03:33:02.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:c50080544eea",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Nyt: 'Danni alla vasca del Lincoln Memorial dovuti a riparazioni difettose'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/12/nyt-danni-alla-vasca-del-lincoln-memorial-dovuti-a-riparazioni-difettose_7359eb6e-d987-455f-8ac5-e9bc0995aa36.html",
+      "image": null,
+      "summary": "La società incarica dei lavori esclude il vandalismo, 'errori di esecuzione'",
+      "date": "2026-09-12T02:39:06.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:a39e7e0233fb",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Mendonça desecreta gli atti sul film su Bolsonaro che coinvolgono il figlio candidato",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/12/mendonca-desecreta-gli-atti-sul-film-su-bolsonaro-che-coinvolgono-il-figlio_11d8db9e-3c06-441c-a5f5-2a399da1adbf.html",
+      "image": null,
+      "summary": "Aperti anche quelli su altri politici dopo le richieste di Fachin e della Procura",
+      "date": "2026-09-12T01:06:46.0000000Z"
     },
     {
       "id": "ansa-mondo:52dcd91ed4d9",
@@ -183,30 +243,6 @@
       "date": "2026-09-11T20:32:25.0000000Z"
     },
     {
-      "id": "ansa-mondo:bb19599c5b17",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Il Suriname si appoggia anche al Venezuela per lo sfruttamento del petrolio",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/il-suriname-si-appoggia-anche-al-venezuela-per-lo-sfruttamento-del-petrolio_d23b0ad0-74c8-46af-ae4d-f3fce30f5ba7.html",
-      "image": null,
-      "summary": "Siglati una serie di accordi. Delcy Rodríguez, messa a disposizione la nostra esperienza",
-      "date": "2026-09-11T18:07:39.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:d9460b356c8c",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "La Svezia va al voto, testa a testa con l'incognita ultradestra",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/11/la-svezia-va-al-voto-testa-a-testa-con-lincognita-ultradestra_3b7b89f4-b8ac-42ab-9f94-547b6277641c.html",
-      "image": null,
-      "summary": "Il premier Kristersson spera in un secondo mandato in coalizione con i nazionalisti",
-      "date": "2026-09-11T17:52:27.0000000Z"
-    },
-    {
       "id": "internazionale:026a3840e2c6",
       "sourceId": "internazionale",
       "source": "Internazionale",
@@ -253,42 +289,6 @@
       "image": "https://media.internazionale.it/images/2023/05/02/181372-hd.jpg",
       "summary": "Oggi fare l’amore è spesso vissuto da tanti come un fardello. Ma la sessualità vale tutti gli sforzi del mondo: è tutta fatica ben spesa Leggi",
       "date": "2026-09-11T08:58:10.0000000Z"
-    },
-    {
-      "id": "internazionale:b6da49a95846",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Il rilancio continuo e distruttivo di Vladimir Putin",
-      "url": "https://www.internazionale.it/opinione/pierre-haski/2026/09/11/vladimir-putin-escalation",
-      "image": "https://media.internazionale.it/images/2026/09/10/358316-hd.jpg",
-      "summary": "Gli attacchi contro Kiev dimostrano che il presidente russo non è disposto a fermarsi. L’escalation riguarda anche gli europei Leggi",
-      "date": "2026-09-11T06:15:33.0000000Z"
-    },
-    {
-      "id": "internazionale:d7d7e9fef795",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "L’attacco alle torri gemelle visto da chi non era ancora nato",
-      "url": "https://www.internazionale.it/notizie/david-smith/2026/09/11/attentati-11-settembre-2001-ragazzi",
-      "image": "https://media.internazionale.it/images/2026/09/10/358302-hd.jpg",
-      "summary": "Un nuovo documentario racconta l’11 settembre 2001 attraverso gli occhi dei più giovani. E mostra come quell’evento continui a segnare milioni di vite Leggi",
-      "date": "2026-09-11T03:45:01.0000000Z"
-    },
-    {
-      "id": "internazionale:2ee8f85b1a38",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Una scuola inchiodata al passato",
-      "url": "https://www.internazionale.it/opinione/christian-raimo/2026/09/11/scuola-novita-inizio-anno",
-      "image": "https://media.internazionale.it/images/2026/09/10/358284-hd.jpg",
-      "summary": "Dalle bocciature per cattiva condotta al latino alle medie, quest’anno le novità per chi torna in classe in Italia sono tante. E delineano un disegno preciso, e molto criticato Leggi",
-      "date": "2026-09-11T03:44:02.0000000Z"
     }
   ]
 }
