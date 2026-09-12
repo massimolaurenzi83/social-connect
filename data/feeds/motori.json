@@ -1,18 +1,42 @@
 {
   "category": "motori",
-  "updated": "2026-09-12T05:07:09.6139758Z",
+  "updated": "2026-09-12T09:17:42.0685293Z",
   "items": [
     {
-      "id": "insideevs:99029882a701",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
+      "id": "motor1:e8f9f0f49e81",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "La grafite sporca rischia di fermare il riciclo delle batterie",
-      "url": "https://insideevs.it/news/807830/grafite-riciclata-batterie-problema-impurita/",
-      "image": "https://cdn.motor1.com/images/mgl/G3b348/s3/la-grafite-sporca-rischia-di-fermare-il-riciclo-delle-batterie.jpg",
-      "summary": "Dal 95% al 99,95% di carbonio fisso, cosa cambia nella grafite recuperata per anodi e materiali tipo grafene",
-      "date": "2026-09-12T05:00:00.0000000Z"
+      "title": "Arriva un nuovo fuoristrada cinese: GWM Tank 300 da 46.500 euro",
+      "url": "https://it.motor1.com/news/807995/gwm-tank-300-prezzi-allestimenti/",
+      "image": "https://cdn.motor1.com/images/mgl/lE4KOJ/s3/gwm-tank-300.jpg",
+      "summary": "Il GWM Tank 300 arriva in Italia con prezzi da 46.500 euro per il diesel e fino a 51.400 euro per la plug-in hybrid da 408 CV",
+      "date": "2026-09-12T08:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:05969acd35b4",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla contromano in autostrada A26: “Perché dire la marca?”",
+      "url": "https://www.vaielettrico.it/tesla-contromano-in-autostrada-perche-dire-la-marca/",
+      "image": null,
+      "summary": "Tesla contromano in autostrada: è accaduto in A26, nel tratto più a nord del Piemonte, come segnala Paolo,… L'articolo Tesla contromano in autostrada A26: “Perché dire la marca?” proviene da Vaielettrico .",
+      "date": "2026-09-12T07:48:54.0000000Z"
+    },
+    {
+      "id": "hdmotori:73633869344d",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Red Bull sulle rotaie per il GP di Madrid, il video fa il giro del mondo",
+      "url": "https://www.hdmotori.it/red-bull-rotaie-gp-madrid/",
+      "image": null,
+      "summary": "Red Bull ha trasformato la monoposto RB8 in un mezzo ferroviario. I tecnici hanno dovuto affrontare una sfida tecnica inedita The post Red Bull sulle rotaie per il GP di Madrid, il video fa il giro del mondo appeared ...",
+      "date": "2026-09-12T07:00:20.0000000Z"
     },
     {
       "id": "motor1:4da5677b3720",
@@ -24,6 +48,18 @@
       "url": "https://it.motor1.com/news/806157/bedford-syp88-furgone-storia/",
       "image": "https://cdn.motor1.com/images/mgl/0egoRV/s3/bedford-syp88.jpg",
       "summary": "Lungo meno di 3,4 metri, il Bedford SYP88 rappresenta degli anni '60 rappresenta uno dei primissimi esempi di \"microvan\"",
+      "date": "2026-09-12T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:99029882a701",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La grafite sporca rischia di fermare il riciclo delle batterie",
+      "url": "https://insideevs.it/news/807830/grafite-riciclata-batterie-problema-impurita/",
+      "image": "https://cdn.motor1.com/images/mgl/G3b348/s3/la-grafite-sporca-rischia-di-fermare-il-riciclo-delle-batterie.jpg",
+      "summary": "Dal 95% al 99,95% di carbonio fisso, cosa cambia nella grafite recuperata per anodi e materiali tipo grafene",
       "date": "2026-09-12T05:00:00.0000000Z"
     },
     {
@@ -147,18 +183,6 @@
       "date": "2026-09-11T15:00:28.0000000Z"
     },
     {
-      "id": "insideevs:ed5ef0f4551d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Tesla Cybertruck riceve finalmente una funzione tanto attesa",
-      "url": "https://insideevs.it/news/807972/tesla-cybertruck-funzione-vehicle-home/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z1e1W/s3/tesla-cybertruck-powershare.jpg",
-      "summary": "La funzionalità più rimandata del pickup elettrico (3 anni!) è ora ufficialmente disponibile, secondo Tesla",
-      "date": "2026-09-11T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:deb47cedd7c2",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -168,6 +192,18 @@
       "url": "https://it.motor1.com/news/807977/itala-56-motore-interni-salone-torino-2026/",
       "image": "https://cdn.motor1.com/images/mgl/L360o3/s3/itala-56.jpg",
       "summary": "Debutta al Salone Auto Torino 2026 la Itala 56, disponibile con motore benzina o full hybrid da più di 230 CV",
+      "date": "2026-09-11T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ed5ef0f4551d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Tesla Cybertruck riceve finalmente una funzione tanto attesa",
+      "url": "https://insideevs.it/news/807972/tesla-cybertruck-funzione-vehicle-home/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z1e1W/s3/tesla-cybertruck-powershare.jpg",
+      "summary": "La funzionalità più rimandata del pickup elettrico (3 anni!) è ora ufficialmente disponibile, secondo Tesla",
       "date": "2026-09-11T15:00:00.0000000Z"
     },
     {
@@ -231,18 +267,6 @@
       "date": "2026-09-11T14:00:03.0000000Z"
     },
     {
-      "id": "motor1:a6046139d06c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Berlingo Van First debutta ad Hannover: meno costi, stesso carico",
-      "url": "https://it.motor1.com/news/807849/citroen-berlingo-van-first-iaa/",
-      "image": "https://cdn.motor1.com/images/mgl/ZnlKlK/s3/citroen-berlingo-van-first-2026.jpg",
-      "summary": "Allo stand Stellantis Pro One l’anteprima mondiale di Citroën Berlingo Van First, con allestimenti modulari, motori elettrici e diesel",
-      "date": "2026-09-11T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:7fc8eaf838d5",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -252,6 +276,18 @@
       "url": "https://insideevs.it/news/807818/motori-elettrici-3d-vetro-metallico/",
       "image": "https://cdn.motor1.com/images/mgl/xqOq46/s3/motori-elettrici-la-stampa-3d-che-promette-5-di-efficienza.jpg",
       "summary": "Il progetto europeo AM2SoftMag testa componenti in vetro metallico stampati in 3D, con un potenziale miglioramento dell’efficienza",
+      "date": "2026-09-11T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:a6046139d06c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Berlingo Van First debutta ad Hannover: meno costi, stesso carico",
+      "url": "https://it.motor1.com/news/807849/citroen-berlingo-van-first-iaa/",
+      "image": "https://cdn.motor1.com/images/mgl/ZnlKlK/s3/citroen-berlingo-van-first-2026.jpg",
+      "summary": "Allo stand Stellantis Pro One l’anteprima mondiale di Citroën Berlingo Van First, con allestimenti modulari, motori elettrici e diesel",
       "date": "2026-09-11T14:00:00.0000000Z"
     },
     {
@@ -339,18 +375,6 @@
       "date": "2026-09-11T12:30:00.0000000Z"
     },
     {
-      "id": "hdmotori:40cd3a06a485",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Audi non vuole indietro le sue BEV: offre fino a 10.000 dollari a chi decide di tenerle",
-      "url": "https://www.hdmotori.it/audi-paradosso-clienti-auto-elettriche/",
-      "image": null,
-      "summary": "La Casa tedesca ha puntato con fermezza a una strategia green con il lancio delle e-tron. Negli Usa è stata fatta una scoperta assurda The post Audi non vuole indietro le sue BEV: offre fino a 10.000 dollari a chi dec...",
-      "date": "2026-09-11T12:00:22.0000000Z"
-    },
-    {
       "id": "motor1:babb3d2f5024",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -372,18 +396,6 @@
       "url": "https://insideevs.it/news/807951/boring-company-fondi-tesla-tunnel/",
       "image": "https://cdn.motor1.com/images/mgl/W8b99r/s3/boring-company.jpg",
       "summary": "The Boring Company accelera i progetti negli Stati Uniti e negli Emirati, con il Dubai Loop al via entro fine 2026",
-      "date": "2026-09-11T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:aaf113299d53",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vi siete persi la BMW Z4? Ecco 99 esemplari della Bovensiepen Spider",
-      "url": "https://it.motor1.com/news/807910/bovensiepen-spider-99-esemplari-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/QeGYmO/s3/bovensiepen-spider.jpg",
-      "summary": "Design firmato Frank Stephenson e motore turbo 3.0 per la nuova Bovensiepen Spider, in vendita da 115.500 euro con consegne dal 2027",
       "date": "2026-09-11T11:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/1ZPZx7/s3/in-cina-le-10-auto-piu-vendute-sono-tutte-elettriche.jpg",
       "summary": "I dati di agosto confermano una tendenza individuata già da inizio anno. A dominare è ancora Geely",
       "date": "2026-09-10T11:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:f14a9abc2fac",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Arriva la Nissan Pixo, altra EV sotto i 20 mila €",
-      "url": "https://www.vaielettrico.it/arriva-la-nissan-pixo-altra-ev-sotto-i-20-mila-e/",
-      "image": null,
-      "summary": "Arriva la Nissan Pixo, altra modello elettrico con prezzo base sotto i 20 mila euro. Nasce sulla base… L'articolo Arriva la Nissan Pixo, altra EV sotto i 20 mila € proviene da Vaielettrico .",
-      "date": "2026-09-10T10:06:04.0000000Z"
     }
   ]
 }
