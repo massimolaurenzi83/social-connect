@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-09-12T12:56:16.7358863Z",
+  "updated": "2026-09-12T16:05:53.3603643Z",
   "items": [
+    {
+      "id": "vaielettrico:68d854bfe6a8",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nucleare sì nucleare no? La versione di Prandi",
+      "url": "https://www.vaielettrico.it/nucleare-si-nucleare-no-la-versione-di-prandi/",
+      "image": null,
+      "summary": "Nucleare sì nucleare no? Vaielettrico ha assunto una posizione di netta contrarietà. Richiamandosi alle motivazioni di studiosi eminenti… L'articolo Nucleare sì nucleare no? La versione di Prandi proviene da Vaielettr...",
+      "date": "2026-09-12T14:14:10.0000000Z"
+    },
+    {
+      "id": "vaielettrico:cb7486529c2f",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Specifiche del Tesla Semi, in arrivo in Europa",
+      "url": "https://www.vaielettrico.it/specifiche-del-tesla-semi-in-arrivo-in-europa/",
+      "image": null,
+      "summary": "Specifiche del Tesla Semi, in arrivo in Europa: annunciati i dati tecnici essenziali, a partire da autonomia, ricarica… L'articolo Specifiche del Tesla Semi, in arrivo in Europa proviene da Vaielettrico .",
+      "date": "2026-09-12T13:18:45.0000000Z"
+    },
+    {
+      "id": "motor1:d2be60ee41ce",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla Semi sbarca in Europa: autonomia 550 km e ricarica in 30'",
+      "url": "https://it.motor1.com/news/808031/tesla-semi-europeo-specifiche-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/ZnlK9N/s3/tesla-semi-sbarca-in-europa-550-km-e-ricarica-in-30-minuti.jpg",
+      "summary": "Alla IAA Transportation di Hannover debutta il Tesla Semi europeo, con 550 km di autonomia stimata e ricarica rapida fino a 800 kW",
+      "date": "2026-09-12T13:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:0a982d614bc3",
       "sourceId": "hdmotori",
@@ -147,18 +183,6 @@
       "date": "2026-09-11T16:00:28.0000000Z"
     },
     {
-      "id": "motor1:6d42d4aa09f7",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Come rivoluzionare le consegne in città? Ci pensa Stellantis",
-      "url": "https://it.motor1.com/news/807975/stellantis-box-on-wheels-logistica/",
-      "image": "https://cdn.motor1.com/images/mgl/nA8yzy/s3/stellantis-presenta-box-on-weels-allo-iaa-transportation-2026.jpg",
-      "summary": "Stellantis Pro One e UQI Robotics lavorano su Box-on-Wheels, veicolo autonomo per consegne urbane e clienti professionali in Europa",
-      "date": "2026-09-11T16:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:ba698813547c",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -168,6 +192,18 @@
       "url": "https://insideevs.it/news/807971/nuovo-impianto-terre-rare-arizona/",
       "image": "https://cdn.motor1.com/images/mgl/qk8oyZ/s3/terre-rare-cosi-gli-usa-provano-a-fare-a-meno-della-cina.jpg",
       "summary": "Un nuovo impianto in Arizona recupera magneti al neodimio da rifiuti elettronici per creare una filiera americana del riciclo",
+      "date": "2026-09-11T16:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:6d42d4aa09f7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come rivoluzionare le consegne in città? Ci pensa Stellantis",
+      "url": "https://it.motor1.com/news/807975/stellantis-box-on-wheels-logistica/",
+      "image": "https://cdn.motor1.com/images/mgl/nA8yzy/s3/stellantis-presenta-box-on-weels-allo-iaa-transportation-2026.jpg",
+      "summary": "Stellantis Pro One e UQI Robotics lavorano su Box-on-Wheels, veicolo autonomo per consegne urbane e clienti professionali in Europa",
       "date": "2026-09-11T16:00:00.0000000Z"
     },
     {
@@ -291,18 +327,6 @@
       "date": "2026-09-11T14:00:03.0000000Z"
     },
     {
-      "id": "insideevs:7fc8eaf838d5",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Motori elettrici: la stampa 3D che promette +5% di efficienza",
-      "url": "https://insideevs.it/news/807818/motori-elettrici-3d-vetro-metallico/",
-      "image": "https://cdn.motor1.com/images/mgl/xqOq46/s3/motori-elettrici-la-stampa-3d-che-promette-5-di-efficienza.jpg",
-      "summary": "Il progetto europeo AM2SoftMag testa componenti in vetro metallico stampati in 3D, con un potenziale miglioramento dell’efficienza",
-      "date": "2026-09-11T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:a6046139d06c",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -312,6 +336,18 @@
       "url": "https://it.motor1.com/news/807849/citroen-berlingo-van-first-iaa/",
       "image": "https://cdn.motor1.com/images/mgl/ZnlKlK/s3/citroen-berlingo-van-first-2026.jpg",
       "summary": "Allo stand Stellantis Pro One l’anteprima mondiale di Citroën Berlingo Van First, con allestimenti modulari, motori elettrici e diesel",
+      "date": "2026-09-11T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:7fc8eaf838d5",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Motori elettrici: la stampa 3D che promette +5% di efficienza",
+      "url": "https://insideevs.it/news/807818/motori-elettrici-3d-vetro-metallico/",
+      "image": "https://cdn.motor1.com/images/mgl/xqOq46/s3/motori-elettrici-la-stampa-3d-che-promette-5-di-efficienza.jpg",
+      "summary": "Il progetto europeo AM2SoftMag testa componenti in vetro metallico stampati in 3D, con un potenziale miglioramento dell’efficienza",
       "date": "2026-09-11T14:00:00.0000000Z"
     },
     {
@@ -351,18 +387,6 @@
       "date": "2026-09-11T13:30:00.0000000Z"
     },
     {
-      "id": "motor1:45c5a7769e34",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché Comprarla e Perché No, sabato vi presentiamo il restyling",
-      "url": "https://it.motor1.com/news/807004/perche-comprarla-restyling-2026-anticipazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/zx0gJE/s3/nuovo-perche-comprarla-e-perche-no.jpg",
-      "summary": "Nuova identità grafica, nuovo sistema di giudizio e una prima puntata con un'auto straordinaria per celebrare l'evento",
-      "date": "2026-09-11T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:a1e2bc624eb6",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -372,18 +396,6 @@
       "url": "https://insideevs.it/news/807954/batterie-litio-disolfuro-dicloruro-cambia/",
       "image": "https://cdn.motor1.com/images/mgl/9mW9Wg/s3/addio-batterie-al-litio-la-ricerca-prova-una-nuova-strada.jpg",
       "summary": "Il litio disolfuro dicloruro nasce per superare alcuni limiti delle batterie attuali, ma la tecnologia è ancora alle prime fasi",
-      "date": "2026-09-11T12:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:77fd651ce28e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Dacia Spring più economica è ancora senza schermo centrale",
-      "url": "https://it.motor1.com/news/807945/dacia-spring-2026-no-schermo-centrale/",
-      "image": "https://cdn.motor1.com/images/mgl/2N9NoB/s3/2027-dacia-spring-base-model.jpg",
-      "summary": "E va benissimo così, ecco perché",
       "date": "2026-09-11T12:30:00.0000000Z"
     },
     {
@@ -483,30 +495,6 @@
       "date": "2026-09-10T14:37:07.0000000Z"
     },
     {
-      "id": "vaielettrico:2ae02c0fd096",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Edison Next: 28 punti di ricarica ultra fast in 10 aree di servizio",
-      "url": "https://www.vaielettrico.it/edison-next-28-punti-di-ricarica-ultra-fast-in-10-aree-di-servizio/",
-      "image": null,
-      "summary": "Edison Next si è aggiudicata le gare indette da 5 concessionarie autostradali parte del Gruppo ASTM per la… L'articolo Edison Next: 28 punti di ricarica ultra fast in 10 aree di servizio proviene da Vaielettrico .",
-      "date": "2026-09-10T14:07:37.0000000Z"
-    },
-    {
-      "id": "vaielettrico:27eec33297c9",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Trentino Alto Adige: sconti per le escursioni in barca elettrica",
-      "url": "https://www.vaielettrico.it/trentino-alto-adige-sconti-per-le-escursioni-in-barca-elettrica/",
-      "image": null,
-      "summary": "In Trentino e Alto Adige da anni si punta sull’elettrico con incentivi, dalle auto alle wallbox, ma anche… L'articolo Trentino Alto Adige: sconti per le escursioni in barca elettrica proviene da Vaielettrico .",
-      "date": "2026-09-10T13:53:36.0000000Z"
-    },
-    {
       "id": "insideevs:e50a951ac14a",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -529,6 +517,18 @@
       "image": "https://cdn.motor1.com/images/mgl/1ZPZx7/s3/in-cina-le-10-auto-piu-vendute-sono-tutte-elettriche.jpg",
       "summary": "I dati di agosto confermano una tendenza individuata già da inizio anno. A dominare è ancora Geely",
       "date": "2026-09-10T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:6c4b955e0e28",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuova BMW X5, cambia tutta ma punta ancora sul diesel",
+      "url": "https://it.motor1.com/news/800177/bmw-x5-caratteristiche-motori/",
+      "image": "https://cdn.motor1.com/images/mgl/6Z8PQ7/s3/bmw-ix5-60-xdrive-2026.jpg",
+      "summary": "C'è anche plug-in, a idrogeno o elettrica con 840 km di autonomia. Ha fino a 612 CV e interni completamente rivisti",
+      "date": "2026-06-30T15:00:00.0000000Z"
     }
   ]
 }
