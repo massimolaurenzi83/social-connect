@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-09-13T10:09:32.7137840Z",
+  "updated": "2026-09-13T14:23:49.5133294Z",
   "items": [
+    {
+      "id": "ferrovie:1d7bfc7d50d6",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Treni, alta velocità e grandi opere: le principali notizie ferroviarie della settimana",
+      "url": "https://www.ferrovie.info/treni-reali/treni-alta-velocita-e-grandi-opere-le-principali-notizie-ferroviarie-della-settimana.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/11498/dimante_20_1.jpg",
+      "summary": "Una settimana particolarmente intensa per il mondo ferroviario, con novità che arrivano tanto dall’Italia quanto dall’estero. Tra nuovi rotabili, servizi internazionali, grandi opere infrastrutturali, tecnologie per l...",
+      "date": "2026-09-13T13:22:10.0000000Z"
+    },
     {
       "id": "ferrovie:39dda6ce8ddc",
       "sourceId": "ferrovie",
@@ -121,18 +133,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10702/FS_ETR1000_16_Piacenza.jpg",
       "summary": "Intervento dei soccorsi nella tarda serata dell’11 settembre: il giovane è stato trovato privo di sensi nei pressi di un convoglio fermo su un binario morto. Indagini in corso sulla dinamica dell’accaduto. Un ragazzo ...",
       "date": "2026-09-11T08:53:05.0000000Z"
-    },
-    {
-      "id": "ferrovie:e4f3852e1725",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Calabria, autunno difficile per i treni: stop sulla Jonica e servizi sostitutivi",
-      "url": "https://www.ferrovie.info/treni-reali/calabria-autunno-difficile-per-i-treni-stop-sulla-jonica-e-servizi-sostitutivi.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10529/HTR412_033_ICG_28229_risultato.jpg",
-      "summary": "Dal 13 settembre al 12 dicembre la circolazione ferroviaria sarà sospesa sulla tratta Sibari-Crotone per i lavori di potenziamento della linea Jonica. Cambiano anche i percorsi di quattro Intercity tra Calabria e Pugl...",
-      "date": "2026-09-11T08:36:38.0000000Z"
     },
     {
       "id": "ferrovie:f2bcfcf045e6",
