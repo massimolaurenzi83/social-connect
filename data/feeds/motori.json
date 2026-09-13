@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-13T21:46:10.3959713Z",
+  "updated": "2026-09-13T23:39:09.7528844Z",
   "items": [
+    {
+      "id": "vaielettrico:1c9868836a7d",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "TEST – Skoda Epiq, elettrica senza fronzoli a 26.400 €",
+      "url": "https://www.vaielettrico.it/test-skoda-epiq/",
+      "image": null,
+      "summary": "Compatta, spaziosa e senza inutili effetti speciali: Skoda Epiq porta la filosofia “Modern Solid” nel segmento B elettrico.… L'articolo TEST – Skoda Epiq, elettrica senza fronzoli a 26.400 € proviene da Vaielettrico .",
+      "date": "2026-09-13T22:03:36.0000000Z"
+    },
+    {
+      "id": "motor1:aa4d3aff1b76",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Skoda Epiq, la prova del nuovo SUV da 26.000 euro",
+      "url": "https://it.motor1.com/reviews/807348/skoda-epiq-2026-prova-informazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/ko8oXe/s3/skoda-epiq-photo-cover.jpg",
+      "summary": "In 4,17 metri di lunghezza offre tanto spazio, con 475 litri di bagagliaio. Ecco com'è fatta e come va",
+      "date": "2026-09-13T21:59:00.0000000Z"
+    },
     {
       "id": "motor1:75566c785143",
       "sourceId": "motor1",
@@ -159,18 +183,6 @@
       "date": "2026-09-12T07:00:20.0000000Z"
     },
     {
-      "id": "insideevs:99029882a701",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La grafite sporca rischia di fermare il riciclo delle batterie",
-      "url": "https://insideevs.it/news/807830/grafite-riciclata-batterie-problema-impurita/",
-      "image": "https://cdn.motor1.com/images/mgl/G3b348/s3/la-grafite-sporca-rischia-di-fermare-il-riciclo-delle-batterie.jpg",
-      "summary": "Dal 95% al 99,95% di carbonio fisso, cosa cambia nella grafite recuperata per anodi e materiali tipo grafene",
-      "date": "2026-09-12T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:4da5677b3720",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -180,6 +192,18 @@
       "url": "https://it.motor1.com/news/806157/bedford-syp88-furgone-storia/",
       "image": "https://cdn.motor1.com/images/mgl/0egoRV/s3/bedford-syp88.jpg",
       "summary": "Lungo meno di 3,4 metri, il Bedford SYP88 rappresenta degli anni '60 rappresenta uno dei primissimi esempi di \"microvan\"",
+      "date": "2026-09-12T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:99029882a701",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La grafite sporca rischia di fermare il riciclo delle batterie",
+      "url": "https://insideevs.it/news/807830/grafite-riciclata-batterie-problema-impurita/",
+      "image": "https://cdn.motor1.com/images/mgl/G3b348/s3/la-grafite-sporca-rischia-di-fermare-il-riciclo-delle-batterie.jpg",
+      "summary": "Dal 95% al 99,95% di carbonio fisso, cosa cambia nella grafite recuperata per anodi e materiali tipo grafene",
       "date": "2026-09-12T05:00:00.0000000Z"
     },
     {
@@ -243,18 +267,6 @@
       "date": "2026-09-11T16:00:28.0000000Z"
     },
     {
-      "id": "motor1:6d42d4aa09f7",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Come rivoluzionare le consegne in città? Ci pensa Stellantis",
-      "url": "https://it.motor1.com/news/807975/stellantis-box-on-wheels-logistica/",
-      "image": "https://cdn.motor1.com/images/mgl/nA8yzy/s3/stellantis-presenta-box-on-weels-allo-iaa-transportation-2026.jpg",
-      "summary": "Stellantis Pro One e UQI Robotics lavorano su Box-on-Wheels, veicolo autonomo per consegne urbane e clienti professionali in Europa",
-      "date": "2026-09-11T16:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:ba698813547c",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -264,6 +276,18 @@
       "url": "https://insideevs.it/news/807971/nuovo-impianto-terre-rare-arizona/",
       "image": "https://cdn.motor1.com/images/mgl/qk8oyZ/s3/terre-rare-cosi-gli-usa-provano-a-fare-a-meno-della-cina.jpg",
       "summary": "Un nuovo impianto in Arizona recupera magneti al neodimio da rifiuti elettronici per creare una filiera americana del riciclo",
+      "date": "2026-09-11T16:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:6d42d4aa09f7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come rivoluzionare le consegne in città? Ci pensa Stellantis",
+      "url": "https://it.motor1.com/news/807975/stellantis-box-on-wheels-logistica/",
+      "image": "https://cdn.motor1.com/images/mgl/nA8yzy/s3/stellantis-presenta-box-on-weels-allo-iaa-transportation-2026.jpg",
+      "summary": "Stellantis Pro One e UQI Robotics lavorano su Box-on-Wheels, veicolo autonomo per consegne urbane e clienti professionali in Europa",
       "date": "2026-09-11T16:00:00.0000000Z"
     },
     {
@@ -361,18 +385,6 @@
       "image": null,
       "summary": "GWM sceglie il Salone Auto Torino 2026 per presentare l’intera gamma italiana e annunciare i prezzi dei nuovi H7 e Tank 300 The post GWM, al Salone Auto Torino arrivano H7 e Tank 300: annunciati i prezzi appeared firs...",
       "date": "2026-09-11T14:30:03.0000000Z"
-    },
-    {
-      "id": "motor1:1a8856e99182",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Fa più chilometri ed è più veloce, ecco la Changan Deepal S07 2026",
-      "url": "https://it.motor1.com/news/807960/changan-deepal-s07-2026-informazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZPpPW/s3/changan-deepal-s07.jpg",
-      "summary": "Design sviluppato in Italia, 258 CV, autonomia fino a 500 km e ricarica a 200 kW. Le caratteristiche del nuovo SUV di segmento D",
-      "date": "2026-09-11T14:30:00.0000000Z"
     },
     {
       "id": "hdmotori:747918a80175",
@@ -481,18 +493,6 @@
       "image": "https://cdn.motor1.com/images/mgl/AkOk9N/s3/bmw-ix5-hydrogen-verso-la-produzione.jpg",
       "summary": "A Monaco parte una nuova fase di assemblaggio della cella a combustibile, mentre in Austria BMW prepara la produzione in serie",
       "date": "2026-09-10T16:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:3b2f026a0631",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Paradosso USA: Trump toglie gli incentivi ma il solare vola. Specie negli Stati repubblicani",
-      "url": "https://www.vaielettrico.it/paradosso-usa-trump-toglie-gli-incentivi-ma-il-solare-vola-specie-negli-stati-repubblicani/",
-      "image": null,
-      "summary": "Paradosso USA: nel secondo trimestre 2026 gli Stati Uniti hanno raggiunto una nuova soglia-record per il fotovoltaico. La… L'articolo Paradosso USA: Trump toglie gli incentivi ma il solare vola. Specie negli Stati rep...",
-      "date": "2026-09-10T15:22:33.0000000Z"
     },
     {
       "id": "insideevs:6677c4b9c2f6",
