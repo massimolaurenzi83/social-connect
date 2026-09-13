@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-09-13T14:23:49.5200144Z",
+  "updated": "2026-09-13T17:32:14.6237645Z",
   "items": [
+    {
+      "id": "motor1:75566c785143",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Geely presenta un nuovo fuoristrada per l'Europa",
+      "url": "https://it.motor1.com/news/807999/geely-ko11-anticipazioni-salone-torino-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/y21mnl/s3/geely-ko11-salone-di-torino.jpg",
+      "summary": "Arriverà probabilmente nel 2028 la Geely KO11, con powertrain plug-in e - forse - potenza superiore ai 1.000 CV",
+      "date": "2026-09-13T15:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:bf5d2eadf366",
       "sourceId": "vaielettrico",
@@ -147,18 +159,6 @@
       "date": "2026-09-12T07:00:20.0000000Z"
     },
     {
-      "id": "motor1:4da5677b3720",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "È lei la prima monovolume della storia?",
-      "url": "https://it.motor1.com/news/806157/bedford-syp88-furgone-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/0egoRV/s3/bedford-syp88.jpg",
-      "summary": "Lungo meno di 3,4 metri, il Bedford SYP88 rappresenta degli anni '60 rappresenta uno dei primissimi esempi di \"microvan\"",
-      "date": "2026-09-12T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:99029882a701",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -168,6 +168,18 @@
       "url": "https://insideevs.it/news/807830/grafite-riciclata-batterie-problema-impurita/",
       "image": "https://cdn.motor1.com/images/mgl/G3b348/s3/la-grafite-sporca-rischia-di-fermare-il-riciclo-delle-batterie.jpg",
       "summary": "Dal 95% al 99,95% di carbonio fisso, cosa cambia nella grafite recuperata per anodi e materiali tipo grafene",
+      "date": "2026-09-12T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:4da5677b3720",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "È lei la prima monovolume della storia?",
+      "url": "https://it.motor1.com/news/806157/bedford-syp88-furgone-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/0egoRV/s3/bedford-syp88.jpg",
+      "summary": "Lungo meno di 3,4 metri, il Bedford SYP88 rappresenta degli anni '60 rappresenta uno dei primissimi esempi di \"microvan\"",
       "date": "2026-09-12T05:00:00.0000000Z"
     },
     {
@@ -291,18 +303,6 @@
       "date": "2026-09-11T15:00:28.0000000Z"
     },
     {
-      "id": "motor1:deb47cedd7c2",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il nuovo SUV coupé anche ibrido che nasce in Italia",
-      "url": "https://it.motor1.com/news/807977/itala-56-motore-interni-salone-torino-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/L360o3/s3/itala-56.jpg",
-      "summary": "Debutta al Salone Auto Torino 2026 la Itala 56, disponibile con motore benzina o full hybrid da più di 230 CV",
-      "date": "2026-09-11T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:ed5ef0f4551d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -312,6 +312,18 @@
       "url": "https://insideevs.it/news/807972/tesla-cybertruck-funzione-vehicle-home/",
       "image": "https://cdn.motor1.com/images/mgl/7Z1e1W/s3/tesla-cybertruck-powershare.jpg",
       "summary": "La funzionalità più rimandata del pickup elettrico (3 anni!) è ora ufficialmente disponibile, secondo Tesla",
+      "date": "2026-09-11T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:deb47cedd7c2",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il nuovo SUV coupé anche ibrido che nasce in Italia",
+      "url": "https://it.motor1.com/news/807977/itala-56-motore-interni-salone-torino-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/L360o3/s3/itala-56.jpg",
+      "summary": "Debutta al Salone Auto Torino 2026 la Itala 56, disponibile con motore benzina o full hybrid da più di 230 CV",
       "date": "2026-09-11T15:00:00.0000000Z"
     },
     {
@@ -384,18 +396,6 @@
       "url": "https://insideevs.it/news/807818/motori-elettrici-3d-vetro-metallico/",
       "image": "https://cdn.motor1.com/images/mgl/xqOq46/s3/motori-elettrici-la-stampa-3d-che-promette-5-di-efficienza.jpg",
       "summary": "Il progetto europeo AM2SoftMag testa componenti in vetro metallico stampati in 3D, con un potenziale miglioramento dell’efficienza",
-      "date": "2026-09-11T14:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:a6046139d06c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Berlingo Van First debutta ad Hannover: meno costi, stesso carico",
-      "url": "https://it.motor1.com/news/807849/citroen-berlingo-van-first-iaa/",
-      "image": "https://cdn.motor1.com/images/mgl/ZnlKlK/s3/citroen-berlingo-van-first-2026.jpg",
-      "summary": "Allo stand Stellantis Pro One l’anteprima mondiale di Citroën Berlingo Van First, con allestimenti modulari, motori elettrici e diesel",
       "date": "2026-09-11T14:00:00.0000000Z"
     },
     {
