@@ -1,7 +1,79 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-14T07:09:03.3884235Z",
+  "updated": "2026-09-14T14:02:35.0980782Z",
   "items": [
+    {
+      "id": "cybersecurity360:8413456b7157",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cosa è ChatGPT Lockdown Mode e quanto è utile",
+      "url": "https://www.cybersecurity360.it/outlook/chatgpt-lockdown-mode/",
+      "image": null,
+      "summary": "ChatGPT Lockdown Mode è una funzione di sicurezza nata per contrastare la prompt injection. Un sistema pensato per professionisti e aziende che rappresenta un tassello necessario in un mosaico molto ampio. Non una pan...",
+      "date": "2026-09-14T13:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:111fef962256",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Rapporto Anthropic: l’AI non inventa il cybercrime, lo rende industriale",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/rapporto-anthropic-lai-non-inventa-il-cybercrime-lo-rende-industriale/",
+      "image": null,
+      "summary": "Il nuovo rapporto Anthropic mostra come l’AI stia riducendo tempi, costi e competenze necessari per condurre operazioni offensive complesse. Cybercrime, frodi, propaganda, sorveglianza e ricerca di vulnerabilità diven...",
+      "date": "2026-09-14T12:03:30.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d26669748d07",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "AI Act, il controllo umano può diventare un’illusione: cosa insegna HAL 9000",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/ai-act-il-controllo-umano-puo-diventare-unillusione-cosa-insegna-hal-9000/",
+      "image": null,
+      "summary": "Citando \"2001: odissea nello spazio\", HAL 9000 mostra il rischio di una supervisione solo apparente: l’uomo può restare nel processo e, allo stesso tempo, non avere informazioni, competenze o poteri reali per governar...",
+      "date": "2026-09-14T10:17:28.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:52a06a1ac55a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Hosting illimitato e strumenti AI: come valutare sicurezza, backup e continuità operativa nei piani cloud",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/hosting-illimitato-ai-sicurezza-backup-resilienza-cloud/",
+      "image": null,
+      "summary": "Hosting illimitato, strumenti AI, backup e servizi cloud entrano in un’unica offerta. Hostinger differenzia i piani per risorse, frequenza dei backup e livelli di gestione, con particolare attenzione alla continuità o...",
+      "date": "2026-09-14T09:27:27.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:3d76ef971382",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Agenti AI fuori controllo: la corsa dei big verso standard di sicurezza",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/agenti-ai-fuori-controllo-la-corsa-dei-big-verso-standard-di-sicurezza/",
+      "image": null,
+      "summary": "Le capacità cyber degli agenti AI stanno crescendo al punto da modificare il modo in cui vengono sviluppati i modelli frontier. OpenAI ha già rallentato alcune attività, mentre Anthropic propone checkpoint, verificato...",
+      "date": "2026-09-14T08:03:21.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:22e2e5785d33",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cloud native, modernizzare al tempo dell’AI: verso una governance incorporata nelle piattaforme",
+      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/cloud-native-modernizzare-al-tempo-dellai-verso-una-governance-incorporata-nelle-piattaforme/",
+      "image": null,
+      "summary": "Il mercato cloud è raddoppiato in valore rispetto al 2022, ma il contesto è cambiato. Geopolitica, regolazione, pressione sui costi, cyber security e sovranità del dato impongono scelte più selettive e misurabili. Ecc...",
+      "date": "2026-09-14T07:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:f423a71b9154",
       "sourceId": "cybersecurity360",
@@ -49,78 +121,6 @@
       "image": null,
       "summary": "Il caso del riconoscimento facciale allo stadio Olimpico rimette al centro le nuove regole sull'uso dell'AI nelle attività di polizia, dallo stadio alle piazze. Il punto più delicato è il riconoscimento biometrico. Ec...",
       "date": "2026-09-11T13:18:38.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a96b9c1f66bc",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "E-commerce con IA a 1 euro per 6 mesi e dominio gratis per 1 anno: la sicurezza nei canali di vendita digitali",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/ecommerce-ia-1-euro-6-mesi-dominio-gratis/",
-      "image": null,
-      "summary": "SINTESI L’offerta Ionos porta a 1 euro al mese per sei mesi un sito con negozio online e strumenti di IA. Incluso anche il dominio per il primo anno, insieme a e-mail, analytics e funzioni per contenuti e SEO L'artico...",
-      "date": "2026-09-11T10:45:18.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:7c60c973c6c0",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Aggiornamenti Android settembre 2026, corrette 180 vulnerabilità: cosa fare subito",
-      "url": "https://www.cybersecurity360.it/news/aggiornamenti-android-settembre-2026-corrette-180-vulnerabilita-cosa-fare-subito/",
-      "image": null,
-      "summary": "Google ha rilasciato il bollettino di sicurezza Android per il mese di settembre 2026 con patch per 180 vulnerabilità, tra cui otto Remote Code Execution critiche nel componente System e quattro falle critiche nel ker...",
-      "date": "2026-09-11T08:27:52.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ae04b1805c7b",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "La corsa all’IA e l’allarme di chi l’ha costruita: ecco dove sorge la dinamica pericolosa",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/la-corsa-allia-e-lallarme-di-chi-lha-costruita-ecco-dove-sorge-la-dinamica-pericolosa/",
-      "image": null,
-      "summary": "Jacob Coxon, ricercatore di Anthropic ed ex di OpenAI, ha lasciato il gruppo dei fratelli Amodei, accusando le due aziende di correre verso sistemi sempre più capaci, senza garanzie di sicurezza. Vediamo se sono credi...",
-      "date": "2026-09-11T07:30:41.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:208bd6dd5699",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Droni, la nuova linea del fronte: dall’Ucraina ai cieli d’Europa, cosa cambia con le regole Ue",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/droni-la-nuova-linea-del-fronte-dallucraina-ai-cieli-deuropa-cosa-cambia-con-le-regole-ue/",
-      "image": null,
-      "summary": "L'episodio recente più emblematico riguarda l'aereo del presidente ucraino Volodymyr Zelensky , sfiorato da un drone al momento del decollo dalla Moldavia, mentre era in rotta verso Oslo. Ecco perché l'escalation dei ...",
-      "date": "2026-09-11T07:15:18.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:b2441491de15",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Incidenti AI e alignment: la lezione di Anthropic per la cyber sicurezza",
-      "url": "https://www.cybersecurity360.it/news/incidenti-ai-e-alignment-la-lezione-di-anthropic-per-la-cyber-sicurezza/",
-      "image": null,
-      "summary": "Addestrare i modelli estremamente potenti del futuro affinché siano saldamente allineati è una sfida tecnica irrisolta che richiede una ricerca continua e un’eccellenza operativa per essere affrontata. Ecco come mitig...",
-      "date": "2026-09-10T15:28:37.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:c3bbe4483758",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Agenti AI fuori dal perimetro: il caso OpenAI riapre il confine tra misalignment e incidente cyber",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/agenti-ai-fuori-dal-perimetro-il-caso-openai-riapre-il-confine-tra-misalignment-e-incidente-cyber/",
-      "image": null,
-      "summary": "Agenti AI che usano un wiki pubblico come memoria esterna, condividono istruzioni e si adattano quando l’attività viene ostacolata. Il caso ricostruito da Reuters porta OpenAI a riconoscere una zona grigia tra misalig...",
-      "date": "2026-09-10T15:05:56.0000000Z"
     }
   ]
 }
