@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-09-14T14:02:35.1070760Z",
+  "updated": "2026-09-14T19:17:34.4108207Z",
   "items": [
+    {
+      "id": "ferrovie:19a228eb24c4",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Ancora un ETR 463 verso la demolizione: metà del gruppo è già scomparsa",
+      "url": "https://www.ferrovie.info/treni-reali/ancora-un-etr-463-verso-la-demolizione-meta-del-gruppo-e-gia-scomparsa.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10608/ETR463_21~1.JPG",
+      "summary": "Come ipotizzato nei giorni scorsi, arriva una nuova potenziale conferma dell'accelerazione impressa da Trenitalia alla dismissione dei Pendolino di seconda generazione . Oggi un altro esemplare è stato infatti inviato...",
+      "date": "2026-09-14T14:46:20.0000000Z"
+    },
     {
       "id": "ferrovie:3407207f305c",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.archivio.ferrovie.info/images/news18/taf_29_vigna_clara_8171.jpg",
       "summary": "La stazione di Vigna Clara resterà temporaneamente chiusa a seguito dei danni provocati dall'incendio verificatosi mercoledì 9 settembre . Le verifiche effettuate da Rete Ferroviaria Italiana hanno evidenziato condizi...",
       "date": "2026-09-12T04:40:51.0000000Z"
-    },
-    {
-      "id": "ferrovie:bddbc9c84777",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "European Sleeper, primo Bruxelles-Milano da dimenticare: 260 minuti di ritardo",
-      "url": "https://www.ferrovie.info/treni-reali/european-sleeper-primo-bruxelles-milano-da-dimenticare-260-minuti-di-ritardo.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10529/normal_Treno_European_Sleeper_Arenaways_Milano_2002.jpg",
-      "summary": "Il secondo viaggio di European Sleeper sulla nuova relazione Milano-Bruxelles è stato decisamente meno fortunato del primo. Dopo il debutto verso il Belgio, concluso con un ritardo di circa mezz'ora, il viaggio di rit...",
-      "date": "2026-09-11T17:00:54.0000000Z"
     }
   ]
 }
