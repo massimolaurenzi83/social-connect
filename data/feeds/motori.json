@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-14T19:17:34.3939906Z",
+  "updated": "2026-09-14T22:35:51.6223451Z",
   "items": [
+    {
+      "id": "motor1:b588644f64d4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "400 Actros: Mercedes lancia l'edizione \"130 anni\" all'IAA 2026",
+      "url": "https://it.motor1.com/news/806143/mercedes-actros-130-anni-edition/",
+      "image": "https://cdn.motor1.com/images/mgl/pbJVn1/s3/130-anni-di-camion-daimler-si-celabrano-allo-iaa-di-hannover.jpg",
+      "summary": "Mercedes Actros 130 anni Trucks Edition, limitato a 400 esemplari endotermici ed elettrici, debutta alla IAA Transportation",
+      "date": "2026-09-14T20:03:52.0000000Z"
+    },
+    {
+      "id": "motor1:043561c28f9d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Renault Trafic E-Tech Electric è International Van of the Year 2027",
+      "url": "https://it.motor1.com/news/808246/trafic-e-tech-electric-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/3WBQKY/s3/renault-trafic-e-tech-electric-ivoty-2027.jpg",
+      "summary": "Il nuovo Trafic E-Tech vince all'unanimità l'International Van of the Year 2027, sesto titolo IVOTY per Renault",
+      "date": "2026-09-14T19:58:30.0000000Z"
+    },
     {
       "id": "hdmotori:661884522af6",
       "sourceId": "hdmotori",
@@ -44,7 +68,7 @@
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Mercedes rinnova il diesel con il nuovo camion Powerliner",
+      "title": "Mercedes rinnova il diesel, nei camion, con Powerliner",
       "url": "https://it.motor1.com/news/808203/mercedes-powerliner-diesel-novita/",
       "image": "https://cdn.motor1.com/images/mgl/y21mjk/s3/mercedes-benz-trucks-powerliner.jpg",
       "summary": "La nuova catena cinematica debutta nel 2027 e promette fino al 4% di carburante in meno rispetto ai modelli precedenti",
@@ -135,18 +159,6 @@
       "date": "2026-09-14T15:00:25.0000000Z"
     },
     {
-      "id": "motor1:13bcb3f0d0b3",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Fiat 500 diventa Scattante",
-      "url": "https://it.motor1.com/news/808193/fiat-500-scattante-restomod-informazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/KbZnql/s3/500-scattante.jpg",
-      "summary": "Nasce in Inghilterra il nuovo restomod della Fiat 500: estetica aggiornata, motore della Fiat 126 e prezzo di circa 150.000 sterline",
-      "date": "2026-09-14T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:1d20a6f2466e",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -156,6 +168,18 @@
       "url": "https://insideevs.it/news/808136/batterie-ev-migliora-stima-stato/",
       "image": "https://cdn.motor1.com/images/mgl/7Z1e67/s3/l-ai-entra-nella-batteria-e-indovina-quanta-energia-resta.jpg",
       "summary": "Un nuovo modello simula il comportamento delle celle al litio e stima lo stato di carica con un errore inferiore all’1%",
+      "date": "2026-09-14T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:13bcb3f0d0b3",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Fiat 500 diventa Scattante",
+      "url": "https://it.motor1.com/news/808193/fiat-500-scattante-restomod-informazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/KbZnql/s3/500-scattante.jpg",
+      "summary": "Nasce in Inghilterra il nuovo restomod della Fiat 500: estetica aggiornata, motore della Fiat 126 e prezzo di circa 150.000 sterline",
       "date": "2026-09-14T15:00:00.0000000Z"
     },
     {
@@ -313,30 +337,6 @@
       "image": "https://cdn.motor1.com/images/mgl/BX1AJR/s3/bosch-all-iaa-transportation-2026.jpg",
       "summary": "Bosch stima che nel 2030 un camion pesante su quattro sarà alimentato da batterie o celle a combustibile. Nel 2035 sarà uno su due",
       "date": "2026-09-14T10:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:c8e1eb12879b",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "\"Perché Comprarla\", come un video orienta la scelta d'acquisto",
-      "url": "https://it.motor1.com/news/808046/perche-comprarla-restyling-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/P3Vo98/s3/perche-comprarla.jpg",
-      "summary": "Abbiamo fatto un profondo restyling al nostro format più famoso, e vi voglio spiegare perché",
-      "date": "2026-09-14T10:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:e59648c38112",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Kia PV7. il van che viene dal futuro diventa grande",
-      "url": "https://it.motor1.com/news/807952/kia-pv7-pbv-elettrico-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/BX1AV4/s3/nuovo-kia-pv7.jpg",
-      "summary": "Il nuovo Kia PV7 nasce sulla piattaforma E-GMP.S con batterie fino a 96,2 kWh, 460 km WLTP e fino a 23 varianti Cargo e Passenger",
-      "date": "2026-09-14T08:50:00.0000000Z"
     },
     {
       "id": "vaielettrico:b2372edeb8b5",
