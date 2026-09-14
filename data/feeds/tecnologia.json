@@ -1,7 +1,163 @@
 {
   "category": "tecnologia",
-  "updated": "2026-09-14T01:42:15.6037809Z",
+  "updated": "2026-09-14T07:09:03.3708877Z",
   "items": [
+    {
+      "id": "hdblog:3d26ac785f99",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Un chip da 1 watt riesce a far girare Tomb Raider | Video",
+      "url": "https://www.hdblog.it/games/articoli/n670238/chip-da-1-watt-gira-tomb-raider/",
+      "image": null,
+      "summary": "Tomb Raider gira su un microcontrollore ESP32-P4 che consuma circa 1 watt.",
+      "date": "2026-09-14T07:05:00.0000000Z"
+    },
+    {
+      "id": "tomshw:8dd7b7041371",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Mini PC e console su AliExpress: leggi bene l'annuncio",
+      "url": "https://www.tomshw.it/offerte/mini-pc-console-portatili-e-monitor-su-aliexpress-come-leggere-uninserzione-riga-per-riga-prima-di-spendere-30000eur",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113180/hub-ali-cover-1196567.png",
+      "summary": "È settembre, la scrivania torna al centro della giornata e sullo schermo ci sono tre schede aperte: un mini PC economico, una console portatile che sembra adatta anche al gioco moderno e un modello Ry...",
+      "date": "2026-09-14T07:00:41.0000000Z"
+    },
+    {
+      "id": "tomshw:972b8aa9d7bb",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Diablo 5 cambia le regole: e se l'Inferno avesse già vinto? | Anteprima",
+      "url": "https://www.tomshw.it/videogioco/diablo-5-cambia-le-regole-e-se-linferno-avesse-gia-vinto-anteprima",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/91869/diablo-4-trovato-il-gpp9lukdkjg12kS5fDC.webp",
+      "summary": "C'è un momento preciso, nell'esperienza di ogni giocatore di Diablo, in cui il massacro indiscriminato di demoni si interrompe per lasciare spazio alla totale quiete di un hub cittadino. D'altr...",
+      "date": "2026-09-14T07:00:00.0000000Z"
+    },
+    {
+      "id": "tomshw:a19bcbce5b5e",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Ma è vero che la raccolta differenziata viene buttata tutta insieme?",
+      "url": "https://www.tomshw.it/altro/ma-e-vero-che-la-raccolta-differenziata-viene-buttata-tutta-insieme",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112424/Muletto_balle_pet_colorato_00A0130.jpg",
+      "summary": "C'è una leggenda metropolitana che resiste al tempo, ai dati e alla logica. È quella frase che, prima o poi, tutti abbiamo sentito pronunciare (o magari abbiamo pensato) davanti ai bidon...",
+      "date": "2026-09-14T07:00:00.0000000Z"
+    },
+    {
+      "id": "hdblog:1342feb70106",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "iPhone Duo di Apple può aprire una nuova fase per gli smartphone pieghevoli",
+      "url": "https://www.hdblog.it/smartphone/articoli/n670237/iphone-duo-apple-smartphone-pieghevoli/",
+      "image": null,
+      "summary": "iPhone Duo può fare ai pieghevoli quello che iPhone fece agli smartphone",
+      "date": "2026-09-14T06:50:00.0000000Z"
+    },
+    {
+      "id": "tomshw:258bcfa565ca",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "230€ in meno sull’Apple iMac M4, display 4,5K per lavoro e creatività",
+      "url": "https://www.tomshw.it/offerte/230eur-in-meno-sullapple-imac-m4-display-45k-per-lavoro-e-creativita",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113181/tomshw-offer-1196607.png",
+      "summary": "Apple iMac 24 con chip M4 costa 1.599€ su Amazon, anziché 1.829€, con uno sconto del 13% e un risparmio di 230€. Il design all-in-one concentra prestazioni, display e sistema audio in una postazione p...",
+      "date": "2026-09-14T06:48:00.0000000Z"
+    },
+    {
+      "id": "hdblog:baf9c2f4e94f",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Linux Mint 23 avrà il suo calendario e un lettore di ebook",
+      "url": "https://www.hdblog.it/linux/articoli/n670226/linux-mint-23-clockenstein-xepub/",
+      "image": null,
+      "summary": "Linux Mint 23 aggiungerà un calendario completo e un lettore EPUB nativo.",
+      "date": "2026-09-14T06:35:00.0000000Z"
+    },
+    {
+      "id": "tomshw:a95d60b6cac7",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Soundcore Boom Go 3i porta 24 ore di musica ovunque per soli 49,99€",
+      "url": "https://www.tomshw.it/offerte/soundcore-boom-go-3i-porta-24-ore-di-musica-ovunque-per-soli-4999eur",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113178/tomshw-offer-1196482.png",
+      "summary": "Soundcore Boom Go 3i costa 49,99€ su Amazon, anziché 69,99€, con uno sconto del 32%. Il formato palmare, la protezione IP68 e l’autonomia estesa la rendono adatta alla musica fuori casa, dalla bicicle...",
+      "date": "2026-09-14T06:18:00.0000000Z"
+    },
+    {
+      "id": "hdblog:757fc276d401",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "WhatsApp prepara le chiamate anche per chi non ha un account",
+      "url": "https://www.hdblog.it/smartphone/articoli/n670234/whatsapp-prepara-chiamate-account/",
+      "image": null,
+      "summary": "WhatsApp sta lavorando a una funzione che permetterà di partecipare a una chiamata anche senza avere un account",
+      "date": "2026-09-14T06:10:00.0000000Z"
+    },
+    {
+      "id": "tomshw:dd34f6f7cbb9",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "A che ora escono iOS 27, iPadOS 27, macOS 27 e watchOS 27 oggi in Italia e dove scaricarli",
+      "url": "https://www.tomshw.it/smartphone/a-che-ora-escono-ios-27-ipados-27-macos-27-e-watchos-27-oggi-in-italia-e-dove-scaricarli",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113175/dqv-toms-cover-1196449-0.png",
+      "summary": "iOS 27, iPadOS 27, macOS 27 e watchOS 27 escono in Italia il 14 settembre via OTA, ma Apple non indica l’ora: le 19:00 restano indicative. Il download passa da Aggiornamento Software e dall’app Watch....",
+      "date": "2026-09-14T06:05:57.0000000Z"
+    },
+    {
+      "id": "hdblog:e8c92646d3aa",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "OpenAI, niente IPO nel 2026: Altman frena per i rischi dellAI",
+      "url": "https://www.hdblog.it/mercato/articoli/n670227/openai-ipo-2026-sam-altman/",
+      "image": null,
+      "summary": "OpenAI esclude la Borsa nel 2026 mentre crescono i problemi legati alla sicurezza dellAI",
+      "date": "2026-09-14T06:05:00.0000000Z"
+    },
+    {
+      "id": "hdblog:cec2dca6ea54",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "La NASA vuole una Space Academy per formare i leader dello spazio",
+      "url": "https://www.hdblog.it/mercato/articoli/n670228/nasa-space-academy-stati-uniti-2028/",
+      "image": null,
+      "summary": "La NASA prepara unaccademia per formare la nuova generazione di professionisti dello spazio.",
+      "date": "2026-09-14T05:45:00.0000000Z"
+    },
+    {
+      "id": "hdblog:9479215f175a",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Apple prepara due controller per iPhone, ma sotto il marchio Beats | rumor",
+      "url": "https://www.hdblog.it/apple/articoli/n670229/apple-controller-beats-iphone-gaming/",
+      "image": null,
+      "summary": "Due controller Beats potrebbero rendere liPhone una piattaforma gaming più completa.",
+      "date": "2026-09-14T05:35:00.0000000Z"
+    },
     {
       "id": "dday:f94755c145fc",
       "sourceId": "dday",
@@ -15,18 +171,6 @@
       "date": "2026-09-14T01:03:05.0000000Z"
     },
     {
-      "id": "dday:d8c338a92085",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Dai pavimenti alla piscina: così Roborock celebra il primo posto tra i produttori di robot e amplia il suo mondo a IFA 2026",
-      "url": "https://www.dday.it/redazione/58666/dai-pavimenti-alla-piscina-cosi-roborock-celebra-il-primo-posto-tra-i-produttori-di-robot-e-amplia-il-suo-mondo-a-ifa-2026",
-      "image": null,
-      "summary": "",
-      "date": "2026-09-14T01:03:05.0000000Z"
-    },
-    {
       "id": "dday:e59474bfce0e",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -34,6 +178,18 @@
       "category": "tecnologia",
       "title": "UGREEN MagFlow ad IFA 2026: la ricarica wireless magnetica che non scalda più",
       "url": "https://www.dday.it/redazione/58595/ugreen-magflow-ad-ifa-2026-la-ricarica-wireless-magnetica-che-non-scalda-piu",
+      "image": null,
+      "summary": "",
+      "date": "2026-09-14T01:03:05.0000000Z"
+    },
+    {
+      "id": "dday:d8c338a92085",
+      "sourceId": "dday",
+      "source": "DDay.it",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Dai pavimenti alla piscina: così Roborock celebra il primo posto tra i produttori di robot e amplia il suo mondo a IFA 2026",
+      "url": "https://www.dday.it/redazione/58666/dai-pavimenti-alla-piscina-cosi-roborock-celebra-il-primo-posto-tra-i-produttori-di-robot-e-amplia-il-suo-mondo-a-ifa-2026",
       "image": null,
       "summary": "",
       "date": "2026-09-14T01:03:05.0000000Z"
@@ -87,18 +243,6 @@
       "date": "2026-09-13T17:18:00.0000000Z"
     },
     {
-      "id": "tomshw:3115a9775950",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Quando esce State of Decay 3? Data e cosa sappiamo",
-      "url": "https://www.tomshw.it/videogioco/quando-esce-state-of-decay-3-data-e-cosa-sappiamo",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112236/cover.jpg",
-      "summary": "State of Decay 3 è previsto per il 2027: questa è la finestra ufficiale, mentre giorno e mese non sono ancora stati annunciati. Al 7 settembre 2026, il survival di Undead Labs ha anche un appuntamento...",
-      "date": "2026-09-13T17:00:00.0000000Z"
-    },
-    {
       "id": "tomshw:87652137d98f",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -111,40 +255,16 @@
       "date": "2026-09-13T17:00:00.0000000Z"
     },
     {
-      "id": "tomshw:e37dd803da4e",
+      "id": "tomshw:3115a9775950",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Anker Prime da 199,99€ a 169,99€, 300W per notebook e smartphone",
-      "url": "https://www.tomshw.it/offerte/anker-prime-da-19999eur-a-16999eur-300w-per-notebook-e-smartphone",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113164/tomshw-offer-1184746.png",
-      "summary": "Anker Prime Power Bank da 26.250 mAh costa 169,99€ su Amazon, invece dei 199,99€ di listino, con uno sconto del 15%. I 300W complessivi consentono di alimentare contemporaneamente notebook, smartphone...",
-      "date": "2026-09-13T16:48:00.0000000Z"
-    },
-    {
-      "id": "tomshw:99b2fef3dc8f",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Logitech G PRO X 60 a 109,99€, più spazio al mouse per gli FPS competitivi",
-      "url": "https://www.tomshw.it/offerte/logitech-g-pro-x-60-a-10999eur-piu-spazio-al-mouse-per-gli-fps-competitivi",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113163/tomshw-offer-1184684.png",
-      "summary": "Logitech G PRO X 60 costa 109,99€ su Amazon anziché 169,99€, con uno sconto del 35% e 60€ lasciati nel portafoglio. Il formato compatto libera l’area necessaria per muovere il mouse con ampiezza duran...",
-      "date": "2026-09-13T15:18:00.0000000Z"
-    },
-    {
-      "id": "tomshw:2321627dcb84",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Dreame Z30 a 303,73€ con 310 AW contro peli e polvere, ne vale la spesa",
-      "url": "https://www.tomshw.it/offerte/dreame-z30-a-30373eur-con-310-aw-contro-peli-e-polvere-ne-vale-la-spesa",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113162/tomshw-offer-1184675.png",
-      "summary": "Dreame Z30 costa 303,73€ su Amazon, contro i 359€ di listino e con il 15% di sconto. La combinazione di aspirazione da 310 AW, autonomia prolungata e accessori per i peli punta alle pulizie impegnativ...",
-      "date": "2026-09-13T14:49:00.0000000Z"
+      "title": "Quando esce State of Decay 3? Data e cosa sappiamo",
+      "url": "https://www.tomshw.it/videogioco/quando-esce-state-of-decay-3-data-e-cosa-sappiamo",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112236/cover.jpg",
+      "summary": "State of Decay 3 è previsto per il 2027: questa è la finestra ufficiale, mentre giorno e mese non sono ancora stati annunciati. Al 7 settembre 2026, il survival di Undead Labs ha anche un appuntamento...",
+      "date": "2026-09-13T17:00:00.0000000Z"
     },
     {
       "id": "hdblog:8f7fb5f5c93e",
@@ -157,30 +277,6 @@
       "image": null,
       "summary": "Lo Xiaomi Redmi Watch 6 è in offerta su Amazon e ora costa 85,99 euro: si tratta di un best buy tra gli smartwatch.",
       "date": "2026-09-13T14:30:00.0000000Z"
-    },
-    {
-      "id": "tomshw:fd1ffe5ba401",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "TP-Link Tapo C200 a 22,79€ controlla tutta la stanza dal telefono",
-      "url": "https://www.tomshw.it/offerte/tp-link-tapo-c200-a-2279eur-controlla-tutta-la-stanza-dal-telefono",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113161/tomshw-offer-1184652.png",
-      "summary": "La TP-Link Tapo C200 costa 22,79€ su Amazon, anziché 29,99€, grazie a uno sconto del 24%. Video Full HD, visuale panoramica e notifiche sul telefono permettono di sorvegliare un’intera stanza con una...",
-      "date": "2026-09-13T14:18:00.0000000Z"
-    },
-    {
-      "id": "tomshw:cf2cdd983526",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Oral-B Vitality Pro a soli 23,53€, tre modalità per lavarsi meglio i denti",
-      "url": "https://www.tomshw.it/offerte/oral-b-vitality-pro-a-soli-2353eur-tre-modalita-per-lavarsi-meglio-i-denti",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113159/tomshw-offer-1184622.png",
-      "summary": "Oral-B Vitality Pro costa 23,53€ su Amazon, invece di 34,99€, con uno sconto del 33%. Tre modalità e una testina rotonda permettono di rendere più accurata la pulizia quotidiana senza aggiungere passa...",
-      "date": "2026-09-13T13:18:00.0000000Z"
     },
     {
       "id": "hdblog:aad9d0de6c4f",
@@ -206,18 +302,6 @@
       "summary": "",
       "videoId": "OJHE4BUMLog",
       "date": "2026-09-13T13:05:30.0000000Z"
-    },
-    {
-      "id": "tomshw:c3012b2c74a9",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Canon SELPHY CP1500 a 159€ con 54 fogli, per stampare subito i ricordi",
-      "url": "https://www.tomshw.it/offerte/canon-selphy-cp1500-a-159eur-con-54-fogli-per-stampare-subito-i-ricordi",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113158/tomshw-offer-1184616.png",
-      "summary": "La Canon SELPHY CP1500 con kit da 54 fogli costa 159€ su Amazon: il listino è 169,99€, lo sconto è del 6% e il risparmio arriva a 10,99€. La vera comodità è portare su carta le foto dello smartphone i...",
-      "date": "2026-09-13T12:48:00.0000000Z"
     },
     {
       "id": "hdblog:af9becbbda84",
@@ -256,54 +340,6 @@
       "date": "2026-09-13T08:40:00.0000000Z"
     },
     {
-      "id": "hdblog:f6ea83ced13d",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Cavi USB-C a confronto: cosa incide sulla ricarica veloce dei dispositivi",
-      "url": "https://www.hdblog.it/smartphone/articoli/n669990/cavo-usb-c-confronto-per-ricarica-veloce/",
-      "image": null,
-      "summary": "Quali sono le reali differenze tra i cavi in commercio.",
-      "date": "2026-09-13T07:55:00.0000000Z"
-    },
-    {
-      "id": "hdblog:ce6c97ce0862",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Apple TV porta sul K2 la sfida che ha cambiato lalpinismo",
-      "url": "https://www.hdblog.it/apple/articoli/n670208/apple-tv-the-last-first-winter-k2/",
-      "image": null,
-      "summary": "Il K2 diventa il teatro di una storia di rischio, denaro e potere nellalpinismo moderno",
-      "date": "2026-09-13T07:35:00.0000000Z"
-    },
-    {
-      "id": "hdblog:efdd35093c42",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "L'AI va fermata prima che sia tropo tardi: il piano di Anthropic",
-      "url": "https://www.hdblog.it/tecnologia/articoli/n670209/rallentare-sviluppo-ai-piano-amodei/",
-      "image": null,
-      "summary": "Il CEO di Anthropic propone tre livelli di controllo per rallentare lo sviluppo dellAI.",
-      "date": "2026-09-13T06:55:00.0000000Z"
-    },
-    {
-      "id": "hdblog:95a3cbdc4e1e",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Motorola Moto G77, la versione da 256 GB in offerta a meno di 220 su eBay",
-      "url": "https://www.hdblog.it/smartphone/offerte/n670206/motorola-moto-g77-la-versione-da-256-gb-in-offerta-a-meno-di-220-su-ebay/",
-      "image": null,
-      "summary": "Equilibrio generale e rapporto qualità-prezzo al top.",
-      "date": "2026-09-13T05:02:00.0000000Z"
-    },
-    {
       "id": "techprincess:hdlID9wnCbM",
       "sourceId": "techprincess",
       "source": "Techprincess",
@@ -315,42 +351,6 @@
       "summary": "",
       "videoId": "hdlID9wnCbM",
       "date": "2026-09-12T15:00:34.0000000Z"
-    },
-    {
-      "id": "hdblog:2886a70ea9a2",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Samsung Galaxy S26 Ultra a meno di 900: è lui il flagship da scegliere oggi?",
-      "url": "https://www.hdblog.it/smartphone/offerte/n670203/samsung-gaaxy-s26-ultra-offerta-settebre26/",
-      "image": null,
-      "summary": "Il Samsung Galaxy S26 Ultra è in offerta ed è sempre uno dei best buy più interessanti nella fascia alta del mercato.",
-      "date": "2026-09-12T14:35:00.0000000Z"
-    },
-    {
-      "id": "hdblog:9a75e9e8208f",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "ECOVACS DEEBOT T90 Max Pro OMNI: il robot più completo a 599 euro",
-      "url": "https://www.hdblog.it/home/recensioni/n669580/ecovacs-deebot-t90-max-pro-omni-sfida-top-gamma/",
-      "image": null,
-      "summary": "La nostra prova del nuovo robot economico ECOVACS Deebot T90 Max Pro Omni.",
-      "date": "2026-09-12T14:31:00.0000000Z"
-    },
-    {
-      "id": "hdblog:36ba92cb18ed",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "iPhone 18 Pro: preordinabile da ora su Amazon",
-      "url": "https://www.hdblog.it/smartphone/offerte/n670100/iphone-18-pro-amazon-modelli-attesa-preordini/",
-      "image": null,
-      "summary": "Il nuovo iPhone 18 Pro sbarca su Amazon: tutti i modelli presto in preordine.",
-      "date": "2026-09-12T12:04:00.0000000Z"
     },
     {
       "id": "dday:a2722bd871b3",
