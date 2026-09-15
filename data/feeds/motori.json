@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-15T00:54:33.0546124Z",
+  "updated": "2026-09-15T05:45:39.8081865Z",
   "items": [
+    {
+      "id": "insideevs:86b732f55608",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Audi A2 e-tron vs Kia EV3, duello tra crossover compatti",
+      "url": "https://insideevs.it/news/807666/audi-a2-e-tron-vs-kia-ev3/",
+      "image": "https://cdn.motor1.com/images/mgl/0epemz/s3/audi-a2-e-tron-vs-kia-ev3.jpg",
+      "summary": "L'A2 torna in formato elettrico: una delle sue principali rivali è la Kia EV3",
+      "date": "2026-09-15T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:5543c23567ef",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Gli interni della nuova Dacia Spring",
+      "url": "https://it.motor1.com/news/807634/dacia-spring-2026-interni-bagagliaio/",
+      "image": "https://cdn.motor1.com/images/mgl/AkOkx2/s3/dacia-spring-2026-interni-e-bagagliaio.jpg",
+      "summary": "Più spaziosa e più tecnologia la Spring resta fedele a sé stessa con una dotazione semplice e concreta",
+      "date": "2026-09-15T05:00:00.0000000Z"
+    },
     {
       "id": "motor1:b588644f64d4",
       "sourceId": "motor1",
@@ -159,18 +183,6 @@
       "date": "2026-09-14T15:00:25.0000000Z"
     },
     {
-      "id": "insideevs:1d20a6f2466e",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L’AI entra nella batteria e indovina quanta energia resta",
-      "url": "https://insideevs.it/news/808136/batterie-ev-migliora-stima-stato/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z1e67/s3/l-ai-entra-nella-batteria-e-indovina-quanta-energia-resta.jpg",
-      "summary": "Un nuovo modello simula il comportamento delle celle al litio e stima lo stato di carica con un errore inferiore all’1%",
-      "date": "2026-09-14T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:13bcb3f0d0b3",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -183,12 +195,24 @@
       "date": "2026-09-14T15:00:00.0000000Z"
     },
     {
+      "id": "insideevs:1d20a6f2466e",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L’AI entra nella batteria e indovina quanta energia resta",
+      "url": "https://insideevs.it/news/808136/batterie-ev-migliora-stima-stato/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z1e67/s3/l-ai-entra-nella-batteria-e-indovina-quanta-energia-resta.jpg",
+      "summary": "Un nuovo modello simula il comportamento delle celle al litio e stima lo stato di carica con un errore inferiore all’1%",
+      "date": "2026-09-14T15:00:00.0000000Z"
+    },
+    {
       "id": "motor1:74a5403db041",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Codice della Strada, se il turista non paga la multa chi paga?",
+      "title": "Il nuovo codice della strada fa discutere, ecco perché",
       "url": "https://it.motor1.com/news/808164/codice-strada-riforma-multe-svizzere/",
       "image": "https://cdn.motor1.com/images/mgl/7Z1ewp/s3/codice-della-strada-se-il-turista-non-paga-la-multa-chi-paga.jpg",
       "summary": "La Pubblica Amministrazione potrebbe rivalersi sulle società per le multe non pagate. ANIASA chiede di cambiare la norma",
@@ -265,18 +289,6 @@
       "image": null,
       "summary": "Il nuovo Volkswagen Mission Efficiency raggiunge un coefficiente aerodinamico record di 0,158 Cx, il più basso mai ottenuto da un’auto omologata The post Volkswagen riscrive le regole dell’efficienza: l’elettrica che ...",
       "date": "2026-09-14T13:00:07.0000000Z"
-    },
-    {
-      "id": "motor1:b9d263a20c98",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova BMW Serie 3 è fatta così",
-      "url": "https://it.motor1.com/news/808146/nuova-bmw-serie-3-2027-foto-spia/",
-      "image": "https://cdn.motor1.com/images/mgl/9mW9Pl/s3/bmw-serie-3-g50.jpg",
-      "summary": "Le nuove foto spia della Serie 3 G50 mostrano quattro terminali. La gamma comprenderà benzina, diesel, ibride e versioni sportive",
-      "date": "2026-09-14T13:00:00.0000000Z"
     },
     {
       "id": "insideevs:9302eb87ff5d",
@@ -517,18 +529,6 @@
       "image": null,
       "summary": "Appuntamento il 29 settembre con la formula Elli Connect & Charge per la ricarica in hotel: tutte le… L'articolo Ricarica in hotel 2.0: ve la racconta Elli (e risponde alle vostra domande) proviene da Vaielettrico .",
       "date": "2026-09-11T15:08:58.0000000Z"
-    },
-    {
-      "id": "insideevs:ed5ef0f4551d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Tesla Cybertruck riceve finalmente una funzione tanto attesa",
-      "url": "https://insideevs.it/news/807972/tesla-cybertruck-funzione-vehicle-home/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z1e1W/s3/tesla-cybertruck-powershare.jpg",
-      "summary": "La funzionalità più rimandata del pickup elettrico (3 anni!) è ora ufficialmente disponibile, secondo Tesla",
-      "date": "2026-09-11T15:00:00.0000000Z"
     }
   ]
 }
