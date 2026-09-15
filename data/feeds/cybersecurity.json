@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-15T15:15:04.2271586Z",
+  "updated": "2026-09-15T19:04:41.1893462Z",
   "items": [
+    {
+      "id": "cybersecurity360:11a677cdf2e4",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Sensoristica IIoT e monitoraggio energetico: strategie per un’integrazione sicura nelle reti industriali",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/sensoristica-iiot-e-monitoraggio-energetico-strategie-per-unintegrazione-sicura-nelle-reti-industriali/",
+      "image": null,
+      "summary": "L’IIoT consente di monitorare consumi e prestazioni degli impianti in tempo reale, ma moltiplica anche dispositivi e connessioni da proteggere. Segmentazione, identità dei nodi, firmware sicuro e governance dei dati s...",
+      "date": "2026-09-15T16:15:22.0000000Z"
+    },
     {
       "id": "cybersecurity360:bae930b1e307",
       "sourceId": "cybersecurity360",
@@ -75,6 +87,18 @@
       "date": "2026-09-15T07:00:00.0000000Z"
     },
     {
+      "id": "cybersecurity360:103896012aed",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Accessi remoti dei fornitori: governance e tracciabilità nei siti produttivi distribuiti",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/accessi-remoti-dei-fornitori-governance-e-tracciabilita-nei-siti-produttivi-distribuiti/",
+      "image": null,
+      "summary": "L’accesso remoto dei fornitori è essenziale per manutenzione e assistenza degli impianti, ma può aprire percorsi privilegiati verso le reti OT. Zero Trust, MFA, privilegi temporanei e tracciamento delle sessioni perme...",
+      "date": "2026-09-14T15:59:45.0000000Z"
+    },
+    {
       "id": "cybersecurity360:a6dfb551effd",
       "sourceId": "cybersecurity360",
       "source": "Cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Pubblicati sul sito istituzionale e indicizzati sui motori di ricerca i nominativi di circa 700 iscritti alle liste di collocamento avviati a selezione ex art. 16 L. 56/1987: per il Garante quella pubblicità non era i...",
       "date": "2026-09-14T14:46:41.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:51786bacee87",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Videosorveglianza negli spogliatoi: per il Garante privacy la finalità legittima non basta",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/videosorveglianza-negli-spogliatoi-per-il-garante-privacy-la-finalita-legittima-non-basta/",
-      "image": null,
-      "summary": "Prevenire i furti è una finalità legittima, ma non rende automaticamente lecita una telecamera collocata in un luogo ad alta aspettativa di riservatezza. Il provvedimento del Garante mostra come proporzionalità, DPIA,...",
-      "date": "2026-09-14T14:25:39.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:9f6422202be9",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Revolut, dati esposti dopo una falsa richiesta governativa: il limite della fiducia digitale",
-      "url": "https://www.cybersecurity360.it/news/revolut-dati-esposti-dopo-una-falsa-richiesta-governativa-il-limite-della-fiducia-digitale/",
-      "image": null,
-      "summary": "Una casella istituzionale compromessa è utile per esfiltrare passaporti e informazioni finanziarie e farle finire nelle mani sbagliate. Il caso Revolut racconta uno dei problemi più difficili della sicurezza contempor...",
-      "date": "2026-09-14T13:59:37.0000000Z"
     }
   ]
 }

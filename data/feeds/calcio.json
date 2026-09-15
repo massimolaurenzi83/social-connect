@@ -1,7 +1,259 @@
 {
   "category": "calcio",
-  "updated": "2026-09-15T15:15:04.1513415Z",
+  "updated": "2026-09-15T19:04:41.1290278Z",
   "items": [
+    {
+      "id": "fcinternews:66685bb02c0e",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "De Rossi: \"Chivu dal fare bene a Parma al Double, succederà poche volte\"",
+      "url": "https://www.fcinternews.it/focus/de-rossi-chivu-parma-i-double-i-succedera-poche-volte-1018533",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/32/327f8fb96cd507849fd1a096cd30396b-09829-oooz0000.jpeg",
+      "summary": "Il Genoa batte il Südtirol 1-0 e vola agli ottavi di finale di Coppa Italia, dove affronterà l'Inter.",
+      "date": "2026-09-15T18:50:03.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:a4408fe98556",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "De Rossi: &quot;Vincere &egrave; positivo, atteggiamento corretto. El Shaarawy pi&ugrave; avanti rispetto a Traor&egrave;&quot;",
+      "url": "https://www.tuttosport.com/news/calcio/coppa-italia/2026/09/15-151266964/de_rossi_vincere_positivo_atteggiamento_corretto_el_shaarawy_pi_avanti_rispetto_a_traor/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/15/175834386-f2e4369b-5284-46e2-8210-ab4c7ae580fb.jpg",
+      "summary": "Il tecnico del Genoa è intervenuto ai microfoni di Mediaset per commentare il passaggio del turno in Coppa Italia",
+      "date": "2026-09-15T18:41:32.0000000Z"
+    },
+    {
+      "id": "fcinternews:688935895890",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Capocannoniere, Malen continua a volare in lavagna. Lautaro staccato a 6",
+      "url": "https://www.fcinternews.it/news/capocannoniere-malen-continua-volare-lautaro-1018527",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/40/40dbac4a2e8e0949853910b58e2662f0-04179-1067o35o1990o959z0fd3.jpeg",
+      "summary": "Quattro giornate di Serie A ed è già tempo di verdetti – almeno secondo i bookmaker - per il titolo di capocannoniere.",
+      "date": "2026-09-15T18:37:15.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:1f305f916679",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Mancuso e Lavelli lanciano l&#39;Inter U23: Crotone ko",
+      "url": "https://www.tuttosport.com/news/calcio/serie-c/2026/09/15-151267579/mancuso_e_lavelli_lanciano_l_inter_u23_crotone_ko/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/15/181940151-c8a02b97-8240-4376-8a01-633f06dce3b8.jpg",
+      "summary": "I nerazzurri ottengono la seconda vittoria stagionale e salgono così a quota 7 punti in classifica",
+      "date": "2026-09-15T18:33:58.0000000Z"
+    },
+    {
+      "id": "fcinternews:ca328e756a02",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Due perle di Mancuso e Lavelli: l'Inter U23 vince 2-0 a Crotone",
+      "url": "https://www.fcinternews.it/in-primo-piano/crotone-inter-u23-2-0-1018516",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e4/e40f98ded096e3ade812aff3c946d84d-95996-oooz0000.jpeg",
+      "summary": "Festa Inter U23 a Crotone: la seconda squadra nerazzurra passa 0-2 allo Scida e si toglie un'altra soddisfazione importante dopo la vittoria a Catania. A decidere la partita Mancuso e Lavelli.",
+      "date": "2026-09-15T18:25:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:195c44bdc5c1",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Genoa, El Shaarawy: \"Vittoria importante, contenti di giocare a San Siro\"",
+      "url": "https://www.fcinternews.it/news/genoa-el-shaaawy-vittoria-importante-contenti-giocare-san-siro-1018531",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/94/941f2535c6294ad2e525227643278ed7-58466-1295o227o2087o1019z1214.jpeg",
+      "summary": "Al termine della partita vinta contro il Südtirol che vale al Genoa la qualificazione agli ottavi di Coppa Italia dove sfiderà l'Inter a San Siro, Stephan El Shaarawy ha parlato ai microfoni di Sport Mediaset per comm...",
+      "date": "2026-09-15T18:22:11.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:de421f90a6f7",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "La verit&agrave; su Spalletti-Conte, chi debutta in Europa League e Zhegrova: l&rsquo;analisi Juve di Tuttosport",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/09/15-151265555/la_verit_su_spalletti-conte_chi_debutta_in_europa_league_e_zhegrova_lanalisi_di_tuttosport/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/15/180926100-01fa6c6f-11bf-422c-9796-3e36b9e58000.jpg",
+      "summary": "Il momento dei bianconeri ai raggi X nel corso di JU3: i problemi post Sassuolo, Nec-laboratorio, la corsa Champions e la posizione della dirigenza",
+      "date": "2026-09-15T18:11:14.0000000Z"
+    },
+    {
+      "id": "fcinternews:1b1e1ff4e05c",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Braglia: \"Martinez ha bisogno di tempo. Provedel al suo posto? No, ecco perché\"",
+      "url": "https://www.fcinternews.it/news/braglia-martinez-provedel-inter-news-1018515",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/11/11167e2f4c43005bb2137436cf407e8f-91905-oooz0000.jpeg",
+      "summary": "Intervenuto ai microfoni di Tuttomercatoweb, l'ex portiere Simone Braglia ha parlato della situazione tra i pali della porta nerazzurra, dopo le prestazioni di Josep Martinez contro Real Madrid e Udinese.",
+      "date": "2026-09-15T18:08:07.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:dfd5bdd7df83",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "<p>Vasquez decisivo nel finale, Sudtirol ko: Genoa agli ottavi contro l&#39;Inter</p>",
+      "url": "https://www.tuttosport.com/news/calcio/coppa-italia/2026/09/15-151266966/vasquez_decisivo_nel_finale_sudtirol_ko_genoa_agli_ottavi_contro_l_inter/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/15/180353866-f196a00f-cc73-4428-8291-7ec120c621ce.jpg",
+      "summary": "La squadra di De Rossi vince 1-0 in casa e supera i sedicesimi. Affronterà i nerazzurri nel prossimo turno",
+      "date": "2026-09-15T18:01:17.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:3290fe2c16db",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Dal Milan all’Al Nassr, colpo di scena improvviso: i dettagli",
+      "url": "https://www.calciomercato.it/2026/09/15/dal-milan-allal-nassr-colpo-di-scena-improvviso-i-dettagli/",
+      "image": null,
+      "summary": "L'articolo Dal Milan all’Al Nassr, colpo di scena improvviso: i dettagli proviene da CalcioMercato.it .",
+      "date": "2026-09-15T18:00:39.0000000Z"
+    },
+    {
+      "id": "fcinternews:b17496a6ecd6",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Vasquez all'87esimo: il Genoa vola agli ottavi di Coppa Italia con l'Inter",
+      "url": "https://www.fcinternews.it/news/vasquez-87esimo-genoa-vola-ottavi-coppa-italia-inter-1018530",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b2/b25f12df0b83fe92551e80fbe8bdbb03-32707-oooz0000.jpeg",
+      "summary": "Basta un colpo di testa a tre minuti dalla fine di Johan Vasquez al Genoa per superare il Sudtirol nella gara dei sedicesimi di finale di Coppa Italia e regalarsi l'accesso agli ottavi dove i rossoblu sfideranno l'Inter.",
+      "date": "2026-09-15T17:53:12.0000000Z"
+    },
+    {
+      "id": "fcinternews:c9917419b6be",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Le regine nerazzurre dell'atletica a San Siro: Iapichino e Fiorini guest star",
+      "url": "https://www.fcinternews.it/news/regine-nerazzurre-atletica-san-siro-iapichino-fiorini-guest-star-1018525",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/7d/7d0f58349c2b68c6238fdea69d293a4d-28092-523o142o1365o985z0bc7.jpeg",
+      "summary": "In occasione del match tra Inter e Udinese, valido per la quarta giornata di Serie A, San Siro ha accolto due ospiti d'onore come Larissa Iapichino e Sofia Fiorini, medaglie d'oro a Birmingham 2026 e grandi tifose ner...",
+      "date": "2026-09-15T17:39:12.0000000Z"
+    },
+    {
+      "id": "fcinternews:604ed67f422b",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Repubblica - Supercoppa, o San Siro o USA. Decisione entro settembre",
+      "url": "https://www.fcinternews.it/focus/i-repubblica-i-supercoppa-san-siro-usa-decisione-entro-settembre-1018528",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a9/a929d890da2c465fb560326d120d564c-74479-oooz0000.jpeg",
+      "summary": "La Supercoppa italiana tra Inter e Lazio potrebbe volare negli Stati Uniti.",
+      "date": "2026-09-15T17:26:03.0000000Z"
+    },
+    {
+      "id": "fcinternews:ce5865ec5a4a",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Abankwah: \"Nonostante il risultato, grato a Dio per questo momento\"",
+      "url": "https://www.fcinternews.it/l-avversario/abankwah-nonostante-risultato-grato-dio-momento-1018503",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/75/75bddde8c6e819d779adac3276619b6e-43572-590o192o1674o1277z0e95.jpeg",
+      "summary": "La sua squadra ha perso dopo aver cullato il sogno di mettere a segno un gran colpo in casa dei campioni d'Italia, come accaduto la scorsa stagione.",
+      "date": "2026-09-15T17:22:23.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:490da57b2f68",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "<p>&ldquo;Conte non mi ha aiutato, io infortunato e con lui non &egrave; stato facile&rdquo;: Morata netto</p>",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/09/15-151265831/conte_non_mi_ha_aiutato_io_infortunato_e_con_lui_non_stato_facile_morata_netto/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/15/171112582-2553b842-cd49-4537-9dd5-de197796518f.jpg",
+      "summary": "La punta spagnola è intervenuta ai microfoni del podcast \"El Partidazo de COPE\" dove ha parlato anche del suo rapporto con l'ex tecnico di Juve, Inter e Napoli",
+      "date": "2026-09-15T17:18:24.0000000Z"
+    },
+    {
+      "id": "fcinternews:a3697f850281",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Lazio, sfuma Icardi: l'ingaggio e le riserve di Gattuso alla base del no",
+      "url": "https://www.fcinternews.it/ex-nerazzurri/lazio-sfuma-icardi-ingaggio-riserve-gattuso-base-1018526",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fe/fec94ef7239b7327f5d7f220515bb63f-47453-oooz0000.jpeg",
+      "summary": "La pista che avrebbe potuto portare Mauro Icardi alla Lazio è tramontata in via definitiva.",
+      "date": "2026-09-15T17:08:20.0000000Z"
+    },
+    {
+      "id": "fcinternews:ff7ca7954536",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Lunedì a Lissone confronto tra Daniele Orsato e i tecnici di Serie A",
+      "url": "https://www.fcinternews.it/copertina/lunedi-lissone-confronto-daniele-orsato-tecnici-serie-1018524",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/2c/2ce3ce57200e9495085080c01b94fa80-36099-1213o276o2090o1153z127c.jpeg",
+      "summary": "Lunedì a Lissone ci sarà la prima occasione per Daniele Orsato per fare un bilancio del lavoro degli arbitri nel primo spicchio di campionato di Serie A.",
+      "date": "2026-09-15T16:54:15.0000000Z"
+    },
+    {
+      "id": "fcinternews:d2e7f05d7d90",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Tare: \"L'Inter resta favorita per lo Scudetto. A Roma gara interessante\"",
+      "url": "https://www.fcinternews.it/news/tare-l-inter-resta-favorita-scudetto-roma-gara-interessante-1018520",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/52/526aa4e696fe2caefed1f92b5ff7ab0f-08131-oooz0000.jpeg",
+      "summary": "\"Siamo davvero agli inizi del campionato, quattro giornate sono davvero poche per esprimere giudizi ma per quel che si è visto finora mi sembra che l’Inter resti la grande favorita allo Scudetto.",
+      "date": "2026-09-15T16:39:01.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:7c17e6d32276",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Juventus, Bremer fuori: la decisione di Spalletti",
+      "url": "https://www.calciomercato.it/2026/09/15/juventus-bremer-fuori-la-decisione-di-spalletti/",
+      "image": null,
+      "summary": "L'articolo Juventus, Bremer fuori: la decisione di Spalletti proviene da CalcioMercato.it .",
+      "date": "2026-09-15T16:27:28.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:1f5ab8b8a140",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "La promessa infranta, l&rsquo;ex di Torino post baratro, dickie-taka &quot;Kamikaze&quot;: Juve, che squadra &egrave; il Nec",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/09/15-151263088/la_promessa_infranta_lex_di_torino_post_baratro_dickie-taka_kamikaze_juve_che_squadra_il_nec/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/15/155700585-ded4740e-da14-48e8-bc3d-b3e2ae1df79f.jpg",
+      "summary": "I bianconeri affrontano gli olandesi all'esordio in Europa League: il calcio di Schreuder, le vecchie conoscenze della Serie A e un numero 10 che ricorda una notte amara",
+      "date": "2026-09-15T16:14:04.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:25b5c63a8224",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "&quot;Tagliato all&rsquo;improvviso. Grosso gi&agrave; esonerato, cose assurde&quot;: Gosens e la stoccata&hellip; su LinkedIn",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/bundesliga/schalke04/2026/09/15-151263603/tagliato_allimprovviso_grosso_gi_esonerato_cose_assurde_gosens_e_la_stoccata_su_linkedin/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/15/155018827-6b39c841-d15b-458c-ad7f-303a18012449.jpg",
+      "summary": "L'esterno non le manda a dire alla Fiorentina: \"Non mi era permesso allenarmi con i compagni\". Poi la chiamata dello Schalke: \"Il destino ha voluto questo\"",
+      "date": "2026-09-15T15:55:00.0000000Z"
+    },
     {
       "id": "tuttosport-calcio:0eaee87c5ec8",
       "sourceId": "tuttosport-calcio",
@@ -27,18 +279,6 @@
       "date": "2026-09-15T15:04:53.0000000Z"
     },
     {
-      "id": "fcinternews:b392ac997535",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "TRE ASSENZE contro la ROMA! CALHA e i DUBBI RINNOVO, che succede con STANKOVIC?",
-      "url": "https://www.fcinternews.it/in-primo-piano/roma-inter-assenze-calhanoglu-chivu-stankovic-1018514",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f4/f446fc3b783c192b0d91f9b292cae337-57175-oooz0000.jpeg",
-      "summary": "Chivu perde Calhanoglu e Stones in vista di Roma-Inter, mentre non arrivano notizie confortanti dal fronte Spence.",
-      "date": "2026-09-15T15:03:55.0000000Z"
-    },
-    {
       "id": "calciomercato-it:66c3c913a7a7",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -49,18 +289,6 @@
       "image": null,
       "summary": "L'articolo Napoli, allarme Lobotka: cambia il futuro del centrocampista proviene da CalcioMercato.it .",
       "date": "2026-09-15T14:53:02.0000000Z"
-    },
-    {
-      "id": "fcinternews:1c2270968b5f",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Pio Esposito mostra i muscoli anche sui social: \"Avanti\"",
-      "url": "https://www.fcinternews.it/inter-social-club/pio-esposito-inter-udinese-muscoli-1018511",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/84/845212cd7f44e0a252c770e0c6af6591-79238-oooz0000.jpeg",
-      "summary": "Maglia da titolare e gol contro l'Udinese. Francesco Pio Esposito è tornato alla grande e ha sfruttato al meglio la chance concessa da Chivu dopo la panchina a Madrid contro il Real.",
-      "date": "2026-09-15T14:50:58.0000000Z"
     },
     {
       "id": "tuttosport-calcio:49bbaf48cfdc",
@@ -75,78 +303,6 @@
       "date": "2026-09-15T14:45:21.0000000Z"
     },
     {
-      "id": "fcinternews:b2f0097141d6",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Kolarov, due turni di squalifica e multa: le motivazione del Giudice sportivo",
-      "url": "https://www.fcinternews.it/focus/kolarov-turni-squalifica-multa-motivazione-giudice-sportivo-1018513",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/0e/0ebe83640121cda8f3093ff17e21604e-11648-1152o12o2028o888z0ff0.jpeg",
-      "summary": "Due turni di squalifica e un'ammenda di cinquemila euro.",
-      "date": "2026-09-15T14:37:17.0000000Z"
-    },
-    {
-      "id": "fcinternews:4290dd2ce1ad",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "L'infortunio non spegne l'entusiasmo: Stones esulta sui social",
-      "url": "https://www.fcinternews.it/inter-social-club/stones-inter-udinese-1018509",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/bf/bf4b2661091b0c0809d620394e934f0e-80241-oooz0000.jpeg",
-      "summary": "La prima volta da titolare a San Siro al centro della difesa dell'Inter.",
-      "date": "2026-09-15T14:23:48.0000000Z"
-    },
-    {
-      "id": "fcinternews:443fcbc91721",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Ma quale doppia riserva, Carlos Augusto è un titolare in questa Inter: il rinnovo una priorità",
-      "url": "https://www.fcinternews.it/focus/carlos-augusto-inter-news-rinnovo-titolare-1018507",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fe/fe84e719baaa607bf223cc7269397ea0-10532-oooz0000.jpeg",
-      "summary": "Carlos Augusto non è più il dodicesimo uomo dell’Inter. E non lo è da tempo.",
-      "date": "2026-09-15T14:08:56.0000000Z"
-    },
-    {
-      "id": "fcinternews:d1c80a3e42d3",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Un'altra partita pazza dell'Inter, Jones: \"Entertainment\"",
-      "url": "https://www.fcinternews.it/inter-social-club/jones-altra-partita-pazza-maglia-inter-entertainment-1018508",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/1f/1fa92c788bbd7a0631e4492428ad2e52-56962-624o132o1680o1188z0e28.jpeg",
-      "summary": "Abituato ai ritmi e allo spettacolo della Premier League da ormai tanti anni, Curtis Jones non può dire di essersi annoiato nelle sue prime partite giocate in Italia con la maglia dell'Inter.",
-      "date": "2026-09-15T13:55:15.0000000Z"
-    },
-    {
-      "id": "fcinternews:7701f1930ebc",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Dimarco: \"In Italia tutti ci aspettano al varco. Champions? Mi piacerebbe riprovarci\"",
-      "url": "https://www.fcinternews.it/news/dimarco-in-italia-aspettano-varco-champions-piacerebbe-riprovarci-1018510",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/33/3349c36e57ba7584d1e896c28c9d92c8-43449-554o168o1469o1084z0ccb.jpeg",
-      "summary": "Mattatore del 'Gran Galà del Calcio AIC 2026', andato in scena al Teatro alla Scala di Milano due settimane fa, Federico Dimarco ha esternato tutta la sua fierezza per i premi individuali ricevuti durante la serata: \"...",
-      "date": "2026-09-15T13:48:07.0000000Z"
-    },
-    {
-      "id": "fcinternews:92102e509ca2",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Thuram in posa con il premio di MVP. Ma lo tiene... al contrario",
-      "url": "https://www.fcinternews.it/curiosita-gossip/thuram-posa-premio-mvp-tiene-contrario-1018506",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/fd/fdfd95d51c148f554a3a4586545e72be-33279-oooz0000.jpeg",
-      "summary": "Il gol del 3-2 che ha sancito il ribaltone in Inter-Udinese, ma anche tante altre giocate importanti per la squadra, sono valsi a Marcus Thuram il premio di MVP nella partita di ieri sera al Meazza tra i Campioni d'It...",
-      "date": "2026-09-15T13:41:41.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:f9e5c7fd3ef4",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -159,30 +315,6 @@
       "date": "2026-09-15T13:30:37.0000000Z"
     },
     {
-      "id": "fcinternews:368d2ab550e9",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Bookies - Scudetto, in lavagna Inter davanti alla Roma: le quote",
-      "url": "https://www.fcinternews.it/news/i-bookies-i-scudetto-lavagna-inter-roma-quote-1018501",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/34/34ec569bfb226d724812c1543aea770b-80207-oooz0000.jpeg",
-      "summary": "Due squadre in vetta alla classifica a punteggio pieno dopo quattro giornate, Roma e Inter, proprio alla vigilia dello spettacolare big-match in programma sabato pomeriggio all’Olimpico.",
-      "date": "2026-09-15T13:28:42.0000000Z"
-    },
-    {
-      "id": "fcinternews:e6372066abcb",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Toldo: \"Io Assessore allo Sport di Padova? Mai dire mai\"",
-      "url": "https://www.fcinternews.it/ex-nerazzurri/toldo-io-assessore-sport-padova-mai-1018498",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/6e/6e2e79e7aa91664290bf1de24c485451-98681-996o96o1956o1056z1008.jpeg",
-      "summary": "Francesco Toldo non esclude a priori un suo impegno in politica.",
-      "date": "2026-09-15T13:15:54.0000000Z"
-    },
-    {
       "id": "calciomercato-it:e861d1e670e9",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -193,30 +325,6 @@
       "image": null,
       "summary": "L'articolo De Rossi-Genoa, arriva la decisione definitiva: le ultime proviene da CalcioMercato.it .",
       "date": "2026-09-15T13:05:10.0000000Z"
-    },
-    {
-      "id": "fcinternews:16294bd4d849",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Giulini: \"Mancini crede nei giovani, Romano come Barella\"",
-      "url": "https://www.fcinternews.it/news/giulini-mancini-crede-giovani-romano-barella-1018504",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/f3/f31ac2586103d3a4b2f53d1b8bd2f107-92690-oooz0000.jpeg",
-      "summary": "A margine dell'assemblea di Lega Serie A odierna, il presidente del Cagliari, Tommaso Giulini, oltre alla situazione di Daniel Maldini ha affrontato altri discorsi, a partire da due giocatori, uno che ha lasciato la S...",
-      "date": "2026-09-15T13:02:17.0000000Z"
-    },
-    {
-      "id": "fcinternews:a99acd9cdcc9",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Matthäus convinto: \"Bisseck può fare il terzino destro in nazionale\"",
-      "url": "https://www.fcinternews.it/focus/matthaus-convinto-bisseck-terzino-destro-nazionale-1018505",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/af/afc0806b0f7fd89ae529d11747c8effb-24302-1630o311o2662o1343z173a.jpeg",
-      "summary": "Giovedì prossimo, Jürgen Klopp diramerà la prima lista dei convocati inaugurando così il nuovo corso come ct della nazionale tedesca.",
-      "date": "2026-09-15T12:47:28.0000000Z"
     },
     {
       "id": "calciomercato-it:5ac77f2b3ec3",
@@ -243,30 +351,6 @@
       "date": "2026-09-15T12:25:02.0000000Z"
     },
     {
-      "id": "tuttosport-calcio:3a972aa36444",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>McKennie-Cambiaso di nuovo in gruppo: allenamento Juve, cosa filtra verso il NEC e quando parla Spalletti</p>",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/09/15-151261058/mckennie-cambiaso_di_nuovo_in_gruppo_allenamento_juve_cosa_filtra_verso_il_nec_e_quando_parla_spalletti/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/15/113809332-9158933e-5538-4ee4-b443-a5bd95eb78e7.jpg",
-      "summary": "Le ultime novità dalla Continassa e il programma della vigilia della sfida di Europa League",
-      "date": "2026-09-15T11:46:20.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:86a427cb4de7",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>Mourinho, frecciata a Barcellona e Atletico: &ldquo;Strano, no?&rdquo;. E su Yamal non ci casca</p>",
-      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/liga/real-madrid/2026/09/15-151260972/mourinho_frecciata_a_barcellona_e_atletico_strano_no_e_su_yamal_non_ci_casca/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/15/112643099-b7e00d90-daf2-46ff-a1f7-282095e4bdad.jpg",
-      "summary": "Lo Special One torna sui tre mesi chiesti per costruire il suo Real e manda un messaggio alle rivali. Sul Pallone d’Oro del talento blaugrana, invece, sceglie il silenzio",
-      "date": "2026-09-15T11:39:37.0000000Z"
-    },
-    {
       "id": "calciomercato-it:df8c92d841c5",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -277,66 +361,6 @@
       "image": null,
       "summary": "L'articolo Conte pronto a tornare in panchina: beffata la Juve proviene da CalcioMercato.it .",
       "date": "2026-09-15T11:30:08.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:69b1d3bfd531",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>Pioli pu&ograve; ripartire da Salah: il Trabzonspor ci prova dopo il no di Palladino</p>",
-      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/09/15-151260879/pioli_pu_ripartire_da_salah_il_trabzonspor_ci_prova_dopo_il_no_di_palladino/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/15/110647793-10fce5c1-acfe-483a-853b-43846c91901c.jpg",
-      "summary": "Dialoghi avviati e apertura dell’ex Milan alla Super Lig: la proposta prevede due stagioni più una terza opzionale",
-      "date": "2026-09-15T11:23:48.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:a709018c9fd7",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>&ldquo;Quel gol non era valido&rdquo;: il Var chiede scusa allo United e sospende due arbitri</p>",
-      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/premier-league/2026/09/15-151260791/quel_gol_non_era_valido_il_var_chiede_scusa_allo_united_e_sospende_due_arbitri/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/15/110125202-8b9a04d0-88ba-41da-97b3-669bcdd8816c.jpg",
-      "summary": "L’errore nasce dal fuorigioco di Enzo Fernandez, ignorato nella revisione dell’azione decisiva. Pro Ref ammette lo sbaglio, mentre anche l’Arsenal prepara la protesta",
-      "date": "2026-09-15T11:18:09.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:ff4de410d340",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Johnse, l&rsquo;uomo della differenza. Inzaghi lo esalta",
-      "url": "https://www.tuttosport.com/news/calcio/serie-b/palermo/2026/09/15-151259250/johnse_luomo_della_differenza_inzaghi_lo_esalta/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/15/082339237-364b0604-943a-4fc0-bc47-2f9b003693c5.jpg",
-      "summary": "Il tecnico del Palermo non ha dubbi: \"Può segnare più di 10 gol\"",
-      "date": "2026-09-15T11:15:00.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:5b193525550c",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>Malag&ograve;, archiviazione e nodo elezione: ora la Figc attende le valutazioni del Coni</p>",
-      "url": "https://www.tuttosport.com/news/calcio/2026/09/15-151260779/malag_archiviazione_e_nodo_elezione_ora_la_figc_attende_le_valutazioni_del_coni/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/15/110611284-3c771709-ec44-47e5-aff3-91a0cd3ab44a.jpg",
-      "summary": "Taucer chiude il fronte disciplinare e trasmette gli atti a Mornati. Buonfiglio chiederà nuovi pareri prima di ogni decisione",
-      "date": "2026-09-15T11:06:22.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:cb5941ddfc0d",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Genoa e De Rossi: l&rsquo;ora della svolta",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/genoa/2026/09/15-151259070/genoa_e_de_rossi_lora_della_svolta/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/15/081905288-b00ac48a-c45d-4578-8f77-7a59cfe61d4c.jpg",
-      "summary": "Il club ribadisce la fiducia nel tecnico, ma i risultati pesano: Sudtirol e Parma da battere",
-      "date": "2026-09-15T11:00:00.0000000Z"
     },
     {
       "id": "calciomercato-it:a015b8ba54ac",
@@ -409,30 +433,6 @@
       "image": null,
       "summary": "L'articolo Il messaggio di Diouf a Chivu: il francese vuole cambiare ruolo proviene da CalcioMercato.it .",
       "date": "2026-09-14T21:30:31.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:3471ee4ed8c7",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "PAGELLE e TABELLINO Inter-Udinese 5-3: Barella guida la rimonta, Chivu cala il pokerissimo",
-      "url": "https://www.calciomercato.it/2026/09/14/pagelle-e-tabellino-inter-udinese-5-3-barella-guida-la-rimonta-chivu-cala-il-pokerissimo/",
-      "image": null,
-      "summary": "L'articolo PAGELLE e TABELLINO Inter-Udinese 5-3: Barella guida la rimonta, Chivu cala il pokerissimo proviene da CalcioMercato.it .",
-      "date": "2026-09-14T20:38:37.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:4dfae307b2e7",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Icardi-Lazio, contatti continui: decide Gattuso",
-      "url": "https://www.calciomercato.it/2026/09/14/icardi-lazio-contatti-continui-decide-gattuso/",
-      "image": null,
-      "summary": "L'articolo Icardi-Lazio, contatti continui: decide Gattuso proviene da CalcioMercato.it .",
-      "date": "2026-09-14T19:28:01.0000000Z"
     }
   ]
 }
