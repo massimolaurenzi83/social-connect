@@ -1,7 +1,19 @@
 {
   "category": "cripto",
-  "updated": "2026-09-16T21:30:50.0198480Z",
+  "updated": "2026-09-16T23:47:54.4054381Z",
   "items": [
+    {
+      "id": "cryptonomist:8ebfed423a60",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Le chain signatures di NEAR Protocol collegano 30 blockchain e 180 asset",
+      "url": "https://cryptonomist.ch/2026/09/17/chain-signatures-near-protocol/",
+      "image": null,
+      "summary": "NEAR Protocol ha acceso i riflettori sull’interoperabilità blockchain con il lancio delle chain signatures di NEAR Protocol, una funzione che collega oltre 30 blockchain e più di 180 asset sotto un unico account. La n...",
+      "date": "2026-09-16T22:20:38.0000000Z"
+    },
     {
       "id": "cryptonomist:09ed8c8b6d26",
       "sourceId": "cryptonomist",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Ieri il disegno di legge statunitense sulle criptovalute, conosciuto come Clarity Act, è stato bocciato al Senato. Questa bocciatura in teoria potrebbe anche decretarne la fine definitiva, ma in realtà c’è qualche pos...",
       "date": "2026-09-16T11:44:32.0000000Z"
-    },
-    {
-      "id": "cryptonomist:9c5e5cd6143f",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Circle lancia la blockchain Arc: BlackRock e Visa tra gli 11 validatori",
-      "url": "https://cryptonomist.ch/2026/09/16/lancio-blockchain-arc-circle/",
-      "image": null,
-      "summary": "Circle ha acceso i motori della sua nuova infrastruttura finanziaria. Il 16 settembre 2026 la società ha aperto al pubblico la mainnet di Arc, una blockchain di tipo Layer 1 pensata per far girare pagamenti e regolame...",
-      "date": "2026-09-16T11:10:46.0000000Z"
     }
   ]
 }

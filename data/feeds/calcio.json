@@ -1,7 +1,55 @@
 {
   "category": "calcio",
-  "updated": "2026-09-16T21:30:49.8869988Z",
+  "updated": "2026-09-16T23:47:54.4120204Z",
   "items": [
+    {
+      "id": "fcinternews:0598b0e7570a",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "'Entertainment': Curtis Jones ha riassunto l'Inter di Chivu in una sola parola",
+      "url": "https://www.fcinternews.it/editoriale/edit-1018613",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c7/c70fc92fb79b00863993430fca1b5fb5-22299-oooz0000.jpeg",
+      "summary": "'Entertainment''. Questa la parola che ha utilizzato Curtis Jones per riassumere Inter-Udinese 5-3, una delle cinque gare stagionali disputate dai campioni d’Italia in cui la noia non ha mai trovato posto.",
+      "date": "2026-09-16T22:00:05.0000000Z"
+    },
+    {
+      "id": "fcinternews:d408a0a50c96",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Schuurs torna a Torino per sfidare la Juve: \"Voglio lasciarmi alle spalle l'infortunio subito contro l'Inter\"",
+      "url": "https://www.fcinternews.it/news/schuurs-torna-torino-sfidare-juve-voglio-lasciarmi-spalle-infortunio-inter-1018618",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/85/856d7d112c3db878d1fb696797db3baf-83831-565o84o1312o830z0ae7.jpeg",
+      "summary": "Juve-NEC sarà una specie di derby per Perr Schuurs, ex difensore del Torino, che con la squadra olandese sta provando a ricostruire pezzo per pezzo la sua carriera che era rimasta in sospeso per il terribile infortuni...",
+      "date": "2026-09-16T21:56:33.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:baa868f5e92c",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Amorim dopo il ko Milan: &quot;Teniamo palla ma ci manca creativit&agrave; vicino all&#39;area.&nbsp;Abbiamo perso ma...&quot;",
+      "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/09/16-151290878/amorim_dopo_il_ko_milan_teniamo_palla_ma_ci_manca_creativit_vicino_all_area_abbiamo_perso_ma_/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/16/214825912-e3994642-f8f1-4f3e-9658-46d1bc6b1698.jpg",
+      "summary": "L'allenatore rossonero analizza la prestazione dei suoi, sconfitti 2-0 dal Benfica: \"Non siamo molto organizzati\"",
+      "date": "2026-09-16T21:49:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:e2316cc26175",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Marco Silva batte il Milan, poi ricorda che poteva diventare tecnico dell'Inter: \"Sono stato molto vicino\"",
+      "url": "https://www.fcinternews.it/focus/marco-silva-batte-milan-ricorda-poteva-tecnico-inter-sono-vicino-1018619",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/eb/ebc8fc0a99b9e2565b056ab99fe5c9f0-89007-oooz0000.jpeg",
+      "summary": "Dopo aver guidato il Benfica alla sua prima, storica vittoria, a San Siro, contro il Milan, Marco Silva si è presentato ai microfoni di Sky Sport per analizzare a caldo il 2-0 finale.",
+      "date": "2026-09-16T21:43:06.0000000Z"
+    },
     {
       "id": "calciomercato-it:2502eb7b74fa",
       "sourceId": "calciomercato-it",
@@ -15,16 +63,28 @@
       "date": "2026-09-16T21:29:19.0000000Z"
     },
     {
-      "id": "tuttosport-calcio:c052362fdc84",
+      "id": "fcinternews:a51e19e4ffed",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Roma-Inter è garanzia di tanti gol: ben 540 in 186 confronti",
+      "url": "https://www.fcinternews.it/stats/roma-inter-garanzia-tanti-gol-540-186-confronti-1018615",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/34/34ec569bfb226d724812c1543aea770b-80207-oooz0000.jpeg",
+      "summary": "Sono i due migliori attacchi di questa primissima porzione di Serie A. Stiamo parlando di Roma e Inter che, quando si affrontano, segnano tanto.",
+      "date": "2026-09-16T21:28:49.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:1bd36b2109e5",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
       "platform": "rss",
       "category": "calcio",
-      "title": "Conte dal Milan, allo stadio per il Benfica. San Siro riempie di fischi Amorim",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/09/16-151290792/conte_dal_milan_allo_stadio_per_il_benfica_san_siro_riempie_di_fischi_amorim/",
+      "title": "Conte dal Milan, allo stadio per il Benfica. San Siro riempie di fischi Amorim, social furiosi per il ko",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/09/16-151290792/conte_dal_milan_allo_stadio_per_il_benfica_san_siro_riempie_di_fischi_amorim_social_furiosi_per_il_ko/",
       "image": "https://cdn.tuttosport.com/img/800/600/2026/09/16/211313283-c3313974-429e-4407-9201-95d2141db81b.jpg",
       "summary": "L’ex tecnico di Juve, Inter e Napoli in tribuna per la sfida di Europa League: davanti a lui la figuraccia rossonera contro la squadra B dei portoghesi",
-      "date": "2026-09-16T21:20:00.0000000Z"
+      "date": "2026-09-16T21:25:00.0000000Z"
     },
     {
       "id": "fcinternews:77baaa00386c",
@@ -135,18 +195,6 @@
       "date": "2026-09-16T19:35:01.0000000Z"
     },
     {
-      "id": "fcinternews:ea23d90a01f3",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Dalmat: \"Chivu sta dando continuità al progetto, la sua Inter diverte\"",
-      "url": "https://www.fcinternews.it/focus/dalmat-chivu-dando-continuita-progetto-inter-diverte-1018612",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/0c/0c985db7c9d60367e0a20a3732cd9f94-15206-oooz0000.jpeg",
-      "summary": "E' ancora presto per chiamarlo scontro diretto per lo scudetto, ma Roma-Inter metterà di fronte, all'Olimpico, le due principali candidate alla vittoria del campionato, secondo Stephane Dalmat: \"Penso siano loro le fa...",
-      "date": "2026-09-16T19:21:00.0000000Z"
-    },
-    {
       "id": "calciomercato-it:28934f0618d2",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -159,40 +207,16 @@
       "date": "2026-09-16T19:20:50.0000000Z"
     },
     {
-      "id": "fcinternews:a696a0589caf",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Massa, non c'è due senza tre? Ha diretto gli ultimi Roma-Inter, i risultati...",
-      "url": "https://www.fcinternews.it/news/massa-tre-diretto-ultimi-roma-inter-risultati-1018575",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e5/e5561bbb2dd455177e41fa1e8245d7c5-11267-674o541o1420o1288z0f53.jpeg",
-      "summary": "Come vi abbiamo raccontato, Davide Massa ormai è diventato un habitué delle sfide tra Roma e Inter all'Olimpico: sarà infatti la sua terza presenza consecutiva da direttore di gara del confronto al vertice tra le due ...",
-      "date": "2026-09-16T19:07:26.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:412d079d81ce",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
       "platform": "rss",
       "category": "calcio",
-      "title": "David non si ferma pi&ugrave;: gol e assist, poker Atletico Madrid! Simeone a -2 dal Real di Mourinho",
+      "title": "David non si ferma pi&ugrave;, Barcellona esagerato: 7-2. Show dell&#39;ex Juve Alcaraz, United out in Carabao",
       "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/09/16-151286580/david_non_si_ferma_pi_gol_e_assist_poker_atletico_madrid_simeone_a_-2_dal_real_di_mourinho/",
       "image": "https://cdn.tuttosport.com/img/800/600/2026/09/16/184350563-1b4a287c-eae4-42ed-bf6b-9dfd21eb273d.jpg",
-      "summary": "L'attaccante canadese in prestito con diritto di riscatto dalla Juve apre le marcature nel successo contro l'Osasuna.",
+      "summary": "L'attaccante canadese in prestito con diritto di riscatto dalla Juve apre le marcature nel successo dell'Atletico contro l'Osasuna. I blaugrana travolgono il Santander. In Inghilterra, avanza l'Aston Villa, Red Devils...",
       "date": "2026-09-16T19:00:38.0000000Z"
-    },
-    {
-      "id": "fcinternews:df97b2ddcba8",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Commissariamento FIGC, Buonfiglio: \"Percorso da fare con serenità\"",
-      "url": "https://www.fcinternews.it/news/commissariamento-figc-buonfiglio-percorso-serenita-1018585",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/b0/b03f61cd33bf4c3a46bbb73fe6d6ae14-51391-oooz0000.jpeg",
-      "summary": "\"Ho usato le parole coraggio e coerenza. Ieri ho illustrato il cammino fatto e anche quello che dobbiamo fare, con molta serenità.",
-      "date": "2026-09-16T18:52:11.0000000Z"
     },
     {
       "id": "tuttosport-calcio:c64799c02ef7",
@@ -205,18 +229,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/09/16/205827471-8c8636c9-f354-4557-88eb-1296f7800d6b.jpg",
       "summary": "I ciprioti battono 1-0 gli spagnoli, che affronteranno i bianconeri nel prossimo turno. Poker Sparta Praga, ok Leverkusen",
       "date": "2026-09-16T18:44:08.0000000Z"
-    },
-    {
-      "id": "fcinternews:87d524a8c703",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Sky Sport acquisisce i diritti di trasmissione di Euro 2028, European Qualifiers e Nations League",
-      "url": "https://www.fcinternews.it/news/sky-sport-acquisisce-diritti-trasmissione-euro-2028-european-qualifiers-nations-league-1018577",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/72/72f950b28b47a81e81396259677a6cd8-79581-oooz0000.jpeg",
-      "summary": "Dopo le coppe europee, Sky Sport annuncia di aver acquisito i diritti di trasmissione di UEFA EURO 2028, European Qualifiers e UEFA Nations League 2026-2027.",
-      "date": "2026-09-16T18:38:03.0000000Z"
     },
     {
       "id": "tuttosport-calcio:52cb609e6257",
@@ -260,10 +272,10 @@
       "source": "Tuttosport",
       "platform": "rss",
       "category": "calcio",
-      "title": "<p>Milan-Benfica 0-2, diretta Europa League: Amorim, l&#39;esordio in Europa &egrave; amaro. Tutte le dichiarazioni</p>",
+      "title": "<p>Il Milan affonda a San Siro: Lukebakio-Kaminski gol, festa Benfica! Amorim, l&#39;esordio in Europa &egrave; amaro</p>",
       "url": "https://www.tuttosport.com/news/calcio/europa-league/2026/09/16-151285032/milan-benfica_diretta_europa_league_risultato_in_tempo_reale_amorim_sfida_marco_silva/",
       "image": "https://cdn.tuttosport.com/img/800/600/2026/09/16/205827879-6ee86488-a0f0-47ed-b25b-524c7225e4ba.jpg",
-      "summary": "I rossoneri perdono nel primo turno della fase campionato della competizione europea: i portoghesi sbancano San Siro con le reti di Lukebakio e Kaminski",
+      "summary": "I rossoneri perdono nel primo turno della fase campionato della competizione europea: i portoghesi trionfano 2-0",
       "date": "2026-09-16T17:30:06.0000000Z"
     },
     {
@@ -373,18 +385,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/09/16/120517066-8f42aa67-ebdb-41fa-bbff-e91ce8f88238.jpg",
       "summary": "La designazione per il big match dell'Olimpico fa storcere il naso ai giallorossi: precedenti ed episodi da dimenticare. A Torino arriva l'arbitro del derby della Mole da incubo",
       "date": "2026-09-16T12:02:30.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:953e7a8dd4bc",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Altro flop De Zerbi, buttato fuori in Coppa di Lega: &ldquo;&Egrave; ingiusto, credo ancora nel Tottenham&rdquo;",
-      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/premier-league/2026/09/16-151280364/altro_flop_de_zerbi_buttato_fuori_in_coppa_di_lega_ingiusto_credo_ancora_nel_tottenham/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/16/115635213-4cff38e2-ac65-4cca-a05f-28d6533d78c7.jpg",
-      "summary": "Il tecnico degli Spurs analizza l'avvio di stagione complesso: \"Se facciamo il click ci divertiremo\"",
-      "date": "2026-09-16T11:57:24.0000000Z"
     },
     {
       "id": "calciomercato-it:60791c5bcf08",
