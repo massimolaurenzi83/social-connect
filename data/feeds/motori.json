@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-09-16T18:24:08.1989982Z",
+  "updated": "2026-09-16T21:30:50.0033810Z",
   "items": [
+    {
+      "id": "motor1:27e8a7d6e274",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il nuovo taglio delle accise, ma ridotto",
+      "url": "https://it.motor1.com/news/808574/taglio-accise-diesel-settembre-ottobre-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/AYL1N/s3/woman-holding-fuel-nozzle-at-petrol-station.jpg",
+      "summary": "Sarà di 12,2 centesimi al litro dal 18 al 25 settembre, di 6,1 dal 26 settembre fino al 5 ottobre. E solo per il diesel",
+      "date": "2026-09-16T19:58:24.0000000Z"
+    },
     {
       "id": "vaielettrico:f97403e9d89a",
       "sourceId": "vaielettrico",
@@ -20,7 +32,7 @@
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Lancia Gamma, Urso: \"L’Europa non perda altro tempo\"",
+      "title": "La Lancia Gamma debutta a Roma",
       "url": "https://it.motor1.com/news/808546/lancia-gamma-melfi-strategia-europea/",
       "image": "https://cdn.motor1.com/images/mgl/wlk2JQ/s3/lancia-gamma-urso-l-europa-non-perda-altro-tempo.jpg",
       "summary": "Il Ministro delle Imprese e del Made in Italy chiede una revisione delle regole europee sull’auto: \"Serve una svolta organica e strutturale\"",
@@ -87,18 +99,6 @@
       "date": "2026-09-16T15:30:00.0000000Z"
     },
     {
-      "id": "motor1:8660c84140fe",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nissan Micra, la sospensione multilink che fa la differenza",
-      "url": "https://it.motor1.com/news/807630/nissan-micra-multilink-tecnica/",
-      "image": "https://cdn.motor1.com/images/mgl/P3Bnv8/s3/nissan-micra-la-prova-tra-le-strade-di-roma.jpg",
-      "summary": "Nissan Micra, retrotreno multilink di serie su tutte le versioni: comfort da segmento superiore e assetto piantato in curva",
-      "date": "2026-09-16T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:f4c91ee957c9",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -111,15 +111,27 @@
       "date": "2026-09-16T15:00:00.0000000Z"
     },
     {
+      "id": "motor1:8660c84140fe",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nissan Micra, la sospensione multilink che fa la differenza",
+      "url": "https://it.motor1.com/news/807630/nissan-micra-multilink-tecnica/",
+      "image": "https://cdn.motor1.com/images/mgl/P3Bnv8/s3/nissan-micra-la-prova-tra-le-strade-di-roma.jpg",
+      "summary": "Nissan Micra, retrotreno multilink di serie su tutte le versioni: comfort da segmento superiore e assetto piantato in curva",
+      "date": "2026-09-16T15:00:00.0000000Z"
+    },
+    {
       "id": "motor1:b16571596293",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Abolito il bollo auto, ecco chi non lo pagherà più",
+      "title": "Stop per un anno al bollo auto, ecco chi non lo pagherà più",
       "url": "https://it.motor1.com/news/808531/bollo-auto-abolito-chi-paga-2026/",
       "image": "https://cdn.motor1.com/images/mgl/vx7JvQ/s3/bollo-auto-abolito.jpg",
-      "summary": "Il Governo cancella il bollo per le auto di piccola e media potenza e per tutte le moto: l'esenzione riguarda 14,5 milioni di veicoli",
+      "summary": "Niente bollo auto nel 2027 per auto fino a 80 kW e tutte le moto",
       "date": "2026-09-16T14:46:43.0000000Z"
     },
     {
@@ -276,18 +288,6 @@
       "url": "https://insideevs.it/news/808467/colonnine-pnrr-crescita/",
       "image": "https://cdn.motor1.com/images/mgl/Ak3glW/s3/audi-ed-enel-insieme-per-la-ricarica-a-casa.jpg",
       "summary": "Daniela Biscarini, Head of Charging Point Operator Italia di Enel, ha spiegato all’ECO Festival cosa è cambiato nella rete italiana",
-      "date": "2026-09-16T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:154bac84b4e0",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto e Moto d'Epoca 2026: il programma completo",
-      "url": "https://it.motor1.com/news/808373/auto-moto-epoca-2026-biglietti-orari-informazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/YAgv3l/s3/auto-e-moto-d-epoca-2024.jpg",
-      "summary": "In programma dal 22 al 25 ottobre torna Auto e Moto d'Epoca 2026 a Bologna. Ecco tutto quello che c'è da sapere",
       "date": "2026-09-16T11:00:00.0000000Z"
     },
     {
