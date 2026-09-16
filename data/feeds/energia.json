@@ -1,7 +1,43 @@
 {
   "category": "energia",
-  "updated": "2026-09-16T05:02:22.4258708Z",
+  "updated": "2026-09-16T09:52:40.7633517Z",
   "items": [
+    {
+      "id": "qualenergia:3e8b68a1dc86",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Connessioni, meno richieste per le rinnovabili mentre i data center superano i 100 GW",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/connessioni-meno-richieste-rinnovabili-mentre-data-center-superano-100-gw/",
+      "image": null,
+      "summary": "I dati pubblicati da Terna sul portale Econnextion, aggiornati al 31 agosto 2026, confermano la tendenza degli ultimi mesi che riguarda le richieste di connessione: continuano a calare le domande relative alle rinnova...",
+      "date": "2026-09-16T08:00:29.0000000Z"
+    },
+    {
+      "id": "qualenergia:a5ed40247bf7",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Il vero potenziale dell’eolico a terra in Italia",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/vero-potenziale-eolico-a-terra-italia/",
+      "image": null,
+      "summary": "L’Italia potrebbe disporre di un potenziale eolico a terra molto più ampio di quello oggi previsto nella pianificazione energetica. Una analisi pubblicata su Ingegneria dell’ambiente da Luigi Moccia, ricercatore del C...",
+      "date": "2026-09-16T08:00:03.0000000Z"
+    },
+    {
+      "id": "qualenergia:2af271325cd3",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Inflazione e tassi Bce, qual è il conto per le rinnovabili",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/inflazione-tassi-bce-quale-conto-rinnovabili/",
+      "image": null,
+      "summary": "L’aumento dei tassi dello 0,25% deciso dalla Banca centrale europea (Bce) per contrastare le attuali pressioni inflazionistiche si trasmette anche agli investimenti energetici, aumentando il costo del capitale necessa...",
+      "date": "2026-09-16T07:00:34.0000000Z"
+    },
     {
       "id": "qualenergia:4899dfd66b8a",
       "sourceId": "qualenergia",
@@ -11,8 +47,44 @@
       "title": "Stabilising the Shock Market",
       "url": "https://www.qualenergia.it/pro/documenti/stabilising-the-shock-market/",
       "image": null,
-      "summary": "Un aumento del 50% dei prezzi dei prodotti petroliferi raffinati e dell’energia potrebbe aggiungere tra 0,8 e 1,8 punti percentuali all’inflazione complessiva nei Paesi Ue, ipotizzando che entro un anno venga trasferi...",
+      "summary": "Il legame tra politica monetaria, inflazione ed evoluzione del sistema energetico europeo e relativo impatto sulle diverse fonti. Un aumento del 50% dei prezzi dei prodotti petroliferi raffinati e dell’energia potrebb...",
       "date": "2026-09-16T05:00:34.0000000Z"
+    },
+    {
+      "id": "qualenergia:3fcfee09c7ea",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Revisione critica del potenziale eolico a terra in italia: effetti di sistema per la decarbonizzazione a basso costo",
+      "url": "https://www.qualenergia.it/pro/documenti/revisione-critica-del-potenziale-eolico-a-terra-in-italia-effetti-di-sistema-per-la-decarbonizzazione-a-basso-costo/",
+      "image": null,
+      "summary": "L’Italia disporrebbe di un potenziale eolico a terra molto più ampio di quello oggi incorporato nella pianificazione energetica. Si stima un potenziale onshore di 153 GW con un costo livellato dell’energia non superio...",
+      "date": "2026-09-16T05:00:02.0000000Z"
+    },
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-09-16T04:30:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-09-16T04:00:00.0000000Z"
     },
     {
       "id": "qualenergia:8f7b821c6146",
@@ -73,78 +145,6 @@
       "image": null,
       "summary": "È di ieri, 14 settembre, l’ultima zampata dell’amministrazione Trump alla lotta al cambiamento climatico, che per la Casa Bianca, come noto, è solo una bufala. L’Epa, l’agenzia per l’ambiente, ha cancellato gran parte...",
       "date": "2026-09-15T11:45:21.0000000Z"
-    },
-    {
-      "id": "qualenergia:afd20780a021",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Petrolio Basilicata, per ora il Governo estrae solo critiche",
-      "url": "https://www.qualenergia.it/articoli/petrolio-basilicata-ora-governo-estrae-solo-critiche/",
-      "image": null,
-      "summary": "Prima il videomessaggio del 10 settembre con cui la presidente Meloni ha annunciato di voler aumentare la produzione nazionale di petrolio e gas. Poi l’intervento del 12 settembre fatto dal vicepremier Antonio Tajani,...",
-      "date": "2026-09-15T11:00:59.0000000Z"
-    },
-    {
-      "id": "qualenergia:96cbe72909b2",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Fotovoltaico sui tetti, quando e come la Soprintendenza può dire “no”",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/fotovoltaico-tetti-quando-come-soprintendenza-puo-dire-no/",
-      "image": null,
-      "summary": "Il fotovoltaico su tetto non può essere considerato di per sé un elemento di disturbo del paesaggio, ma una Soprintendenza può ancora bocciare una determinata soluzione se motiva il pregiudizio e dimostra di avere con...",
-      "date": "2026-09-15T10:00:37.0000000Z"
-    },
-    {
-      "id": "qualenergia:2f1d218c9544",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Shikun & Binui e i progetti fotovoltaici in Toscana. Il caso arriva alla Camera",
-      "url": "https://www.qualenergia.it/articoli/shikun-binui-progetti-fotovoltaici-toscana-caso-alla-camera/",
-      "image": null,
-      "summary": "Dopo le proteste di inizio agosto di diversi comitati locali toscani, a partire da quello di Ribolla (GR), anche il Partito democratico ha acceso un faro sulle attività di aziende israeliane nella realizzazione di imp...",
-      "date": "2026-09-15T09:00:53.0000000Z"
-    },
-    {
-      "id": "qualenergia:8301df3d5085",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Nuova potenza da rinnovabili: da gennaio ad agosto è di 4.588 MW",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/nuova-potenza-rinnovabili-da-gennaio-agosto-4-588-mw/",
-      "image": null,
-      "summary": "La potenza installata di rinnovabili elettriche in Italia cresce ad agosto di circa 417 MW, rallentando nettamente rispetto al mese precedente. Secondo l’ultimo aggiornamento della dashboard Terna, riferito al 31 agos...",
-      "date": "2026-09-15T08:15:48.0000000Z"
-    },
-    {
-      "id": "qualenergia:88bca9839798",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "L’Industrial Accelerator Act e la possibile stretta sui prodotti di origine Usa",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/industrial-accelerator-act-possibile-stretta-prodotti-origine-usa/",
-      "image": null,
-      "summary": "L’Industrial Accelerator Act (Iaa), presentato dalla Commissione europea il 4 marzo, potrebbe escludere i prodotti di origine Usa dalla possibilità di essere considerati equivalenti a quelli di origine Ue nei progetti...",
-      "date": "2026-09-15T07:30:55.0000000Z"
-    },
-    {
-      "id": "qualenergia:31de0563e62a",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Emissioni camion, i costruttori chiedono di rinviare gli obiettivi Ue",
-      "url": "https://www.qualenergia.it/articoli/emissioni-camion-costruttori-chiedono-rinviare-obiettivi/",
-      "image": null,
-      "summary": "I camion elettrici sono disponibili sul mercato, ma le vendite procedono a rilento e le infrastrutture di ricarica sulle principali strade e autostrade sono ancora troppo limitate. Perciò l’Europa dovrebbe posticipare...",
-      "date": "2026-09-15T07:15:51.0000000Z"
     }
   ]
 }

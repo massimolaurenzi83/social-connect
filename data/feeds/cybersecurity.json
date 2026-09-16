@@ -1,7 +1,55 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-16T05:02:22.3810338Z",
+  "updated": "2026-09-16T09:52:40.7225981Z",
   "items": [
+    {
+      "id": "cybersecurity360:fd5513484bb9",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "VPN illimitata e sicura per 12 mesi: è il momento di attivare Total VPN per proteggere traffico, banda e privacy",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/total-vpn-illimitata-sicura-12-mesi-cifratura-privacy/",
+      "image": null,
+      "summary": "Total VPN è proposta a 19 euro per 12 mesi, con uno sconto dell’80%. L’offerta include anche Total Adblock e una licenza TotalAV. La VPN utilizza cifratura AES-256 e protegge il traffico anche sulle reti Wi-Fi pubblic...",
+      "date": "2026-09-16T09:21:12.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d250ea28ee8e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Data breach alla velocità dell’AI: il GDPR regge, ma la difesa deve accelerare",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/data-breach-alla-velocita-dellai-il-gdpr-regge-ma-la-difesa-deve-accelerare/",
+      "image": null,
+      "summary": "La nota pubblicata il 14 settembre dall’Autorità Garante spagnola offre lo spunto per verificare se fra l’accesso a un sistema e l’intervento della difesa ci sia abbastanza tempo per accorgersi di ciò che sta accadend...",
+      "date": "2026-09-16T08:56:55.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:e0237319cb7a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Come il gruppo Aurora ha usato un agente AI per violare sette aziende",
+      "url": "https://www.cybersecurity360.it/outlook/come-il-gruppo-aurora-ha-usato-un-agente-ai-per-violare-sette-aziende/",
+      "image": null,
+      "summary": "La compromissione dell'assistente di programmazione basato su intelligenza artificiale, da parte di criminali informatici russofoni, ha rivelato modalità insolite: Cursor è stato manipolato e convinto che le operazion...",
+      "date": "2026-09-16T07:24:24.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:3a956b56ec7c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Anthropic e i 4 incidenti cyber: l’enfasi sulla capacità di fermarsi",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/anthropic-e-i-4-incidenti-cyber-lenfasi-sulla-capacita-di-fermarsi/",
+      "image": null,
+      "summary": "Valutare un agente significa verificare quanto bene riesce a completare un task e come reagisce quando l’obiettivo diventa irraggiungibile, il perimetro si fa ambiguo o le informazioni iniziali non sono più affidabili...",
+      "date": "2026-09-16T07:16:28.0000000Z"
+    },
     {
       "id": "cybersecurity360:11a677cdf2e4",
       "sourceId": "cybersecurity360",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Proton VPN propone il piano Plus con uno sconto del 70% a 2,99 euro al mese per 24 mesi. L'offerta include oltre 20.000 server, 140 Paesi, 10 dispositivi e funzioni avanzate di sicurezza, tra cui ad-blocker, anti-malw...",
       "date": "2026-09-15T08:51:42.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2552e921066f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il “pulsante di aiuto” sui siti del Terzo settore: come progettarlo in linea con il GDPR",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/il-pulsante-di-aiuto-sui-siti-del-terzo-settore-come-progettarlo-in-linea-con-il-gdpr/",
-      "image": null,
-      "summary": "Nell'ambito della protezione dei dati personali nei servizi di ascolto e segnalazione per soggetti vulnerabili, il canale web, quello telefonico e i punti di contatto fisici devono rispettare il GDPR e il Codice Priva...",
-      "date": "2026-09-15T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:103896012aed",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Accessi remoti dei fornitori: governance e tracciabilità nei siti produttivi distribuiti",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/accessi-remoti-dei-fornitori-governance-e-tracciabilita-nei-siti-produttivi-distribuiti/",
-      "image": null,
-      "summary": "L’accesso remoto dei fornitori è essenziale per manutenzione e assistenza degli impianti, ma può aprire percorsi privilegiati verso le reti OT. Zero Trust, MFA, privilegi temporanei e tracciamento delle sessioni perme...",
-      "date": "2026-09-14T15:59:45.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a6dfb551effd",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Dossier sanitario e rapporto di lavoro: ecco il confine tra cura, organizzazione e controllo",
-      "url": "https://www.cybersecurity360.it/legal/dossier-sanitario-e-rapporto-di-lavoro-ecco-il-confine-tra-cura-organizzazione-e-controllo/",
-      "image": null,
-      "summary": "La decisione si inserisce in una linea interpretativa che il Garante porta avanti da anni, rafforzando i principi di finalità, minimizzazione, separazione dei ruoli e privacy by design. Ecco perché il dossier sanitari...",
-      "date": "2026-09-14T14:53:40.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:f35d0950dd60",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Graduatorie online: i perché della sanzione privacy a Regione Emilia-Romagna",
-      "url": "https://www.cybersecurity360.it/news/graduatorie-online-i-perche-della-sanzione-privacy-a-regione-emilia-romagna/",
-      "image": null,
-      "summary": "Pubblicati sul sito istituzionale e indicizzati sui motori di ricerca i nominativi di circa 700 iscritti alle liste di collocamento avviati a selezione ex art. 16 L. 56/1987: per il Garante quella pubblicità non era i...",
-      "date": "2026-09-14T14:46:41.0000000Z"
     }
   ]
 }
