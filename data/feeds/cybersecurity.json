@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-16T09:52:40.7225981Z",
+  "updated": "2026-09-16T14:30:36.2385453Z",
   "items": [
+    {
+      "id": "cybersecurity360:5db2402544f8",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "I costi del downtime industriale da attacco cyber: come quantificare l’impatto economico dei blocchi di produzione",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/i-costi-del-downtime-industriale-da-attacco-cyber-come-quantificare-limpatto-economico-dei-blocchi-di-produzione/",
+      "image": null,
+      "summary": "Il downtime causato da un attacco cyber può trasformare rapidamente un incidente OT in una perdita economica rilevante. Mancata produzione, ripristino, penali e danni alla supply chain devono essere misurati per quant...",
+      "date": "2026-09-16T14:27:27.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:37aa2f11310c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Caso Revolut, il giallo dei dati istituzionali italiani sottratti dai criminali",
+      "url": "https://www.cybersecurity360.it/news/caso-revolut-il-giallo-dei-dati-istituzionali-italiani-sottratti-dai-criminali/",
+      "image": null,
+      "summary": "Il caso Revolut porta dentro le infrastrutture istituzionali italiane: una PEC riconducibile alla Prefettura di Reggio Calabria sarebbe stata compromessa e gli attaccanti rivendicano 147 GB di dati sottratti alle forz...",
+      "date": "2026-09-16T10:09:46.0000000Z"
+    },
     {
       "id": "cybersecurity360:fd5513484bb9",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "La call ECCC del Digital Europe Programme mette a disposizione una dotazione complessiva fino a 96 milioni di euro destinata a sette ambiti di intervento per il rafforzamento delle capacità cyber europee. Ecco quali e...",
       "date": "2026-09-15T12:35:59.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:12181ffe5ba6",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Revolut: violati dati di alto profilo, la pista porta al Viminale",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/revolut-violati-dati-alto-profilo-la-pista-porta-al-viminale/",
-      "image": null,
-      "summary": "Il caso Revolut assume contorni sempre più particolari e porta direttamente in Italia, dentro le stanze delle autorità governative, da cui sembra partita la PEC che ha ottenuto i dati riservati di circa 680 clienti di...",
-      "date": "2026-09-15T10:21:43.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:0ca73d3967e4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Proton VPN in offerta al 70%: trasparenza open source e audit no-log",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/proton-vpn-sconto-70-sicurezza-open-source/",
-      "image": null,
-      "summary": "Proton VPN propone il piano Plus con uno sconto del 70% a 2,99 euro al mese per 24 mesi. L'offerta include oltre 20.000 server, 140 Paesi, 10 dispositivi e funzioni avanzate di sicurezza, tra cui ad-blocker, anti-malw...",
-      "date": "2026-09-15T08:51:42.0000000Z"
     }
   ]
 }

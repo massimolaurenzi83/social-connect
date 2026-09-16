@@ -1,7 +1,43 @@
 {
   "category": "cucina",
-  "updated": "2026-09-16T09:52:40.7580547Z",
+  "updated": "2026-09-16T14:30:36.1930574Z",
   "items": [
+    {
+      "id": "dissapore:7c44ae8500bd",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "«Non mangio mozzarella fuori dalla Puglia»: il Guardian ha appena dichiarato guerra alla Campania",
+      "url": "https://www.dissapore.com/notizie/non-mangio-mozzarella-fuori-dalla-puglia-il-guardian-ha-appena-dichiarato-guerra-alla-campania/",
+      "image": null,
+      "summary": "Da un reportage del Guardian una lezione importante su come si potrebbe lavorare sul turismo in Italia guadagnandoci tutti. L'articolo «Non mangio mozzarella fuori dalla Puglia»: il Guardian ha appena dichiarato guerr...",
+      "date": "2026-09-16T12:09:51.0000000Z"
+    },
+    {
+      "id": "giallozafferano:7cc12a548813",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Toast di gamberi",
+      "url": "https://ricette.giallozafferano.it/Toast-di-gamberi.html",
+      "image": "https://www.giallozafferano.it/images/366-36626/Toast-di-gamberi_1200x800.jpg",
+      "summary": "I toast di gamberi sono una ricetta cinese sfiziosa, perfetta da portare in tavola come antipasto per una cena dal gusto orientale. Due fette di pane racchiudono un morbido ripieno di gamberi, insaporito con zenzero e...",
+      "date": "2026-09-16T09:42:00.0000000Z"
+    },
+    {
+      "id": "giallozafferano:7c016fe37ffa",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Ravioli senza uova ai pomodori",
+      "url": "https://ricette.giallozafferano.it/Ravioli-senza-uova-ai-pomodori.html",
+      "image": "https://www.giallozafferano.it/images/366-36627/Ravioli-senza-uova-ai-pomodori_1200x800.jpg",
+      "summary": "I ravioli senza uova ai pomodori sono un primo piatto di pasta fresca originale e colorato, perfetto se volete portare in tavola una ricetta dal tocco gourmet. La particolarità parte proprio dall’impasto: una pasta fr...",
+      "date": "2026-09-16T09:30:00.0000000Z"
+    },
     {
       "id": "dissapore:f112cb3ddde7",
       "sourceId": "dissapore",
@@ -207,18 +243,6 @@
       "date": "2026-09-13T12:24:59.0000000Z"
     },
     {
-      "id": "dissapore:5cfed9b6625e",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Nelle scatolette di sgombro in UK non c’è alcuno sgombro",
-      "url": "https://www.dissapore.com/notizie/nelle-scatolette-di-sgombro-in-uk-non-ce-alcuno-sgombro/",
-      "image": null,
-      "summary": "Un misto di normative, dispute internazionali sulla pesca e dubbi sulla trasparenza della filiera hanno condotto a un paradosso che danneggia i consumatori. L'articolo Nelle scatolette di sgombro in UK non c’è alcuno ...",
-      "date": "2026-09-13T09:26:12.0000000Z"
-    },
-    {
       "id": "giallozafferano:9e268d7b5be0",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -265,30 +289,6 @@
       "image": "https://www.giallozafferano.it/images/366-36601/Calzone-dolce-di-cipolla_1200x800.jpg",
       "summary": "Il calzone dolce di cipolla è una specialità tipica di Valenzano, in provincia di Bari, che racchiude in ogni fetta i profumi e i sapori della cucina tradizionale pugliese. A prepararlo per noi è Nonna Anna, custode d...",
       "date": "2026-09-11T09:30:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:81cbb8812198",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Biscotti sacher",
-      "url": "https://ricette.giallozafferano.it/Biscotti-sacher.html",
-      "image": "https://www.giallozafferano.it/images/224-22451/Biscotti-sacher_1200x800.jpg",
-      "summary": "I biscotti sacher sono golosi dolcetti di frolla al cacao, farciti con confettura di albicocche e completati da una copertura di cioccolato fondente. Se amate i biscotti friabili e i sapori della classica torta Sacher...",
-      "date": "2026-09-11T07:26:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:7383ca3f82fa",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Torta salata con patate, zucchine e mozzarella",
-      "url": "https://ricette.giallozafferano.it/Torta-salata-con-patate-zucchine-e-mozzarella.html",
-      "image": "https://www.giallozafferano.it/images/366-36609/Torta-salata-con-patate-zucchine-e-mozzarella_1200x800.jpg",
-      "summary": "La torta salata con patate, zucchine e mozzarella è una ricetta sfiziosa e versatile che si presta a tante occasioni. Potete servirla come antipasto, prepararla per una cena con ospiti dell’ultimo minuto oppure propor...",
-      "date": "2026-09-10T11:22:00.0000000Z"
     }
   ]
 }
