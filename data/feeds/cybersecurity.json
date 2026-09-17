@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-17T06:48:07.2031825Z",
+  "updated": "2026-09-17T12:14:39.8526751Z",
   "items": [
+    {
+      "id": "cybersecurity360:7420f7d3acf3",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber sicurezza aziendale e gestione delle credenziali: NordPass Business spinge su Zero-Trust e promozione autunnale",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/nordpass-business-password-manager-promozione-autunno-2026/",
+      "image": null,
+      "summary": "NordPass propone una gestione centralizzata delle credenziali aziendali con crittografia XChaCha20, autenticatore TOTP e strumenti per controllare gli accessi. Il codice NPFALL26 consente di risparmiare fino al 10% su...",
+      "date": "2026-09-17T09:21:07.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:e514cba44474",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "AI e modello 231: il rischio penale entra nella governance dei sistemi ad alto rischio",
+      "url": "https://www.cybersecurity360.it/legal/ai-e-modello-231-il-rischio-penale-entra-nella-governance-dei-sistemi-ad-alto-rischio/",
+      "image": null,
+      "summary": "L’ingresso del nuovo art. 437-bis tra i reati presupposto 231 porta i sistemi AI ad alto rischio dentro la governance dell’impresa. Dalla loro classificazione alla sorveglianza umana, fino ai fornitori e ai controlli ...",
+      "date": "2026-09-17T08:19:35.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:bd9ef8ab97f0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il ciclo di vita dell’identità come superficie d’attacco",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/il-ciclo-di-vita-dellidentita-come-superficie-dattacco/",
+      "image": null,
+      "summary": "Le fasi di enrollment, recovery e sessione dipendono da controlli di natura diversa e proprio su queste si sta concentrando l'attenzione degli attaccanti. Ecco la gap analysis, le contromisure applicabili e ciò che NI...",
+      "date": "2026-09-17T07:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:78abb4d672e3",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "La compromissione dell'assistente di programmazione basato su intelligenza artificiale, da parte di criminali informatici russofoni, ha rivelato modalità insolite: Cursor è stato manipolato e convinto che le operazion...",
       "date": "2026-09-16T07:24:24.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3a956b56ec7c",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Anthropic e i 4 incidenti cyber: l’enfasi sulla capacità di fermarsi",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/anthropic-e-i-4-incidenti-cyber-lenfasi-sulla-capacita-di-fermarsi/",
-      "image": null,
-      "summary": "Valutare un agente significa verificare quanto bene riesce a completare un task e come reagisce quando l’obiettivo diventa irraggiungibile, il perimetro si fa ambiguo o le informazioni iniziali non sono più affidabili...",
-      "date": "2026-09-16T07:16:28.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:11a677cdf2e4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sensoristica IIoT e monitoraggio energetico: strategie per un’integrazione sicura nelle reti industriali",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/sensoristica-iiot-e-monitoraggio-energetico-strategie-per-unintegrazione-sicura-nelle-reti-industriali/",
-      "image": null,
-      "summary": "L’IIoT consente di monitorare consumi e prestazioni degli impianti in tempo reale, ma moltiplica anche dispositivi e connessioni da proteggere. Segmentazione, identità dei nodi, firmware sicuro e governance dei dati s...",
-      "date": "2026-09-15T16:15:22.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:bae930b1e307",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sanzione privacy a BBVA: quando il CRM vanifica il diritto di opposizione",
-      "url": "https://www.cybersecurity360.it/news/sanzione-privacy-a-bbva-quando-il-crm-vanifica-il-diritto-di-opposizione/",
-      "image": null,
-      "summary": "Il Garante privacy ha irrogato una sanzione di oltre 5,5 milioni di euro al Banco Bilbao Vizcaya Argentaria Italia (BBVA) per invio tramite app di comunicazioni commerciali benché l’utente reclamante avesse disattivat...",
-      "date": "2026-09-15T14:37:45.0000000Z"
     }
   ]
 }

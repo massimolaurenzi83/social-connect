@@ -1,7 +1,31 @@
 {
   "category": "cucina",
-  "updated": "2026-09-17T06:48:07.1728674Z",
+  "updated": "2026-09-17T12:14:39.8014404Z",
   "items": [
+    {
+      "id": "dissapore:bb22b9fd6357",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Trattoria Al Paradiso a Pocenia, recensione: la memoria del Friuli senza nostalgia",
+      "url": "https://www.dissapore.com/trattorie/trattoria-al-paradiso-a-pocenia-recensione/",
+      "image": null,
+      "summary": "Trattoria Al Paradiso racconta la cucina tipica friulana senza nostalgia. La nostra recensione completa di menu, prezzi, piatti da provare e opinioni. L'articolo Trattoria Al Paradiso a Pocenia, recensione: la memoria...",
+      "date": "2026-09-17T11:16:45.0000000Z"
+    },
+    {
+      "id": "giallozafferano:f9385e47a32c",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Churros cheesecake",
+      "url": "https://ricette.giallozafferano.it/Churros-cheesecake.html",
+      "image": "https://www.giallozafferano.it/images/366-36631/Churros-cheesecake_1200x800.jpg",
+      "summary": "La churros cheesecake è un dessert goloso e originale che unisce la cremosità della classica cheesecake al profumo irresistibile dei churros , i famosi dolcetti della cucina spagnola e latinoamericana. In questa ricet...",
+      "date": "2026-09-17T10:18:00.0000000Z"
+    },
     {
       "id": "dissapore:bea9d2595ac6",
       "sourceId": "dissapore",
@@ -231,18 +255,6 @@
       "date": "2026-09-14T07:27:54.0000000Z"
     },
     {
-      "id": "dissapore:b95d6258406c",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Louis Vuitton fa causa a una piccola azienda di tè cinese, e i cinesi si arrabbiano",
-      "url": "https://www.dissapore.com/notizie/luis-vuitton-fa-causa-a-una-piccola-azienda-di-te-cinese-e-i-cinesi-si-arrabbiano/",
-      "image": null,
-      "summary": "Molly tea ha nel logo un fiore che ricorda molto uno sei simboli del marchio francese, tuttavia il mercato cinese non ha apprezzato la mossa. L'articolo Louis Vuitton fa causa a una piccola azienda di tè cinese, e i c...",
-      "date": "2026-09-13T13:41:29.0000000Z"
-    },
-    {
       "id": "giallozafferano:9e268d7b5be0",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/366-36611/Pasta-con-crema-di-Parmigiano-e-speck_1200x800.jpg",
       "summary": "La pasta con crema di Parmigiano e speck è un primo piatto cremoso e saporito, facile da preparare e perfetto quando avete voglia di portare in tavola qualcosa di davvero appetitoso. La crema avvolge la pasta con la s...",
       "date": "2026-09-11T13:32:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:66610f6389a0",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Calzone dolce di cipolla",
-      "url": "https://ricette.giallozafferano.it/Calzone-dolce-di-cipolla.html",
-      "image": "https://www.giallozafferano.it/images/366-36601/Calzone-dolce-di-cipolla_1200x800.jpg",
-      "summary": "Il calzone dolce di cipolla è una specialità tipica di Valenzano, in provincia di Bari, che racchiude in ogni fetta i profumi e i sapori della cucina tradizionale pugliese. A prepararlo per noi è Nonna Anna, custode d...",
-      "date": "2026-09-11T09:30:00.0000000Z"
     }
   ]
 }

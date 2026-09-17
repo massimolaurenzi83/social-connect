@@ -1,7 +1,55 @@
 {
   "category": "ai",
-  "updated": "2026-09-17T06:48:07.2717579Z",
+  "updated": "2026-09-17T12:14:39.8123335Z",
   "items": [
+    {
+      "id": "ai4business:22dff114cb56",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Jacob Coxon, chi è il ricercatore che ha lasciato Anthropic e perché lo ha fatto",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/jacob-coxon-chi-e-il-ricercatore-che-ha-lasciato-anthropic-e-perche-lo-ha-fatto/",
+      "image": null,
+      "summary": "Matematico britannico di 27 anni, si è dimesso accusando i principali laboratori di AI di andare verso sistemi sempre più autonomi senza garanzie sufficienti. Prima di lui, altri ricercatori avevano abbandonato Anthro...",
+      "date": "2026-09-17T11:48:40.0000000Z"
+    },
+    {
+      "id": "ai4business:2a520c2d63dd",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Quantum computing: il mercato chiede prove concrete",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/quantum-computing-il-mercato-chiede-prove-concrete/",
+      "image": null,
+      "summary": "Il 2026 segna una fase più selettiva per il quantum computing. Una survey globale commissionata da QuEra mostra budget meno espansivi, forte attenzione alla correzione degli errori e crescente peso della sovranità tec...",
+      "date": "2026-09-17T09:31:54.0000000Z"
+    },
+    {
+      "id": "guerredirete:2542a1c9d485",
+      "sourceId": "guerredirete",
+      "source": "Guerre di Rete",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Il fronte cyber del porto",
+      "url": "https://www.guerredirete.it/il-fronte-cyber-del-porto/",
+      "image": null,
+      "summary": "Il colosso cinese ZPMC ha conquistato i porti di tutto il mondo con le sue gru iper-tecnologiche, connesse ed efficienti. E adesso si trova al centro dei timori geopolitici e di sicurezza informatica degli Stati Uniti...",
+      "date": "2026-09-17T09:00:00.0000000Z"
+    },
+    {
+      "id": "ai4business:7c5c5526124a",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "OpenAI rende pubblici gli episodi di disallineamento dei suoi modelli AI",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/openai-rende-pubblici-gli-episodi-di-disallineamento-dei-suoi-modelli-ai/",
+      "image": null,
+      "summary": "L'azienda ha già diffuso sei casi avvenuti negli ultimi sei mesi: istruzioni nascoste, errori occultati, uso di chiavi Api esposte e trasferimenti di file non autorizzati. Per aziende e regolatori cresce il peso econo...",
+      "date": "2026-09-17T08:48:27.0000000Z"
+    },
     {
       "id": "ai4business:52d4f05fe1fe",
       "sourceId": "ai4business",
@@ -85,42 +133,6 @@
       "image": null,
       "summary": "Una parte delle conversazioni degli utenti può essere usata da OpenAI per migliorare i modelli e arrivare a revisori umani. L’inchiesta di 404 Media su Project Lily chiarisce il processo, i limiti dei filtri sui dati ...",
       "date": "2026-09-15T16:00:19.0000000Z"
-    },
-    {
-      "id": "ai4business:0a3e8cd7e6b2",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Salesforce annuncia nuove strategie per l’AI Enterprise",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/agenti-ai/salesforce-annuncia-nuove-strategie-per-lai-enterprise/",
-      "image": null,
-      "summary": "L'AI aziendale si evolve dalla semplice risposta al completamento di processi complessi. Il vero valore non risiederà nei modelli LLM, destinati a diventare commodity, ma nel contesto proprietario dell’impresa. Tra go...",
-      "date": "2026-09-15T15:02:10.0000000Z"
-    },
-    {
-      "id": "ai4business:d1648a9c6427",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Quantum computing, la nuova scommessa per l’AI",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/quantum-computing-la-nuova-scommessa-per-lai/",
-      "image": null,
-      "summary": "Il calcolo quantistico prova a entrare nella filiera dell’intelligenza artificiale. Dalle molecole farmaceutiche ai modelli predittivi, le prime applicazioni combinano qpu, gpu e cpu. Ma il vantaggio sulle architettur...",
-      "date": "2026-09-15T11:36:28.0000000Z"
-    },
-    {
-      "id": "ai4business:0d430c9b7309",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "AI nelle imprese: il nodo è l’industrializzazione",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-nelle-imprese-il-nodo-e-lindustrializzazione/",
-      "image": null,
-      "summary": "Prototipi promettenti e casi d’uso isolati non bastano a rendere l’intelligenza artificiale un vantaggio competitivo. Le imprese devono integrare dati, validazione e competenze in architetture riutilizzabili, passando...",
-      "date": "2026-09-15T10:19:25.0000000Z"
     },
     {
       "id": "guerredirete:5913b477de89",
@@ -229,18 +241,6 @@
       "image": null,
       "summary": "La Cina ha già lanciato i primi satelliti per elaborare dati in orbita. Gli Stati Uniti, tra Pentagono, Google e SpaceX, stanno facendo lo stesso. Sta nascendo una nuova infrastruttura digitale globale, che però non a...",
       "date": "2026-06-11T09:00:00.0000000Z"
-    },
-    {
-      "id": "guerredirete:9828a8dc5ad2",
-      "sourceId": "guerredirete",
-      "source": "Guerre di Rete",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Guerre di Rete continua, in memoria di Carola Frediani",
-      "url": "https://www.guerredirete.it/guerre-di-rete-continua/",
-      "image": null,
-      "summary": "Guerre di Rete prosegue mantenendo inalterato il patto con il lettore. Il nostro continuerà a essere un giornalismo rigoroso, approfondito, autonomo e indipendente. L'articolo Guerre di Rete continua, in memoria di Ca...",
-      "date": "2026-06-10T09:00:00.0000000Z"
     }
   ]
 }
