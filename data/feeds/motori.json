@@ -1,7 +1,175 @@
 {
   "category": "motori",
-  "updated": "2026-09-17T12:14:39.8328129Z",
+  "updated": "2026-09-17T17:06:46.7320726Z",
   "items": [
+    {
+      "id": "hdmotori:3f5a2ceb4bf1",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Lancia Gamma, il grande ritorno: fino a 1.000 km e 375 CV",
+      "url": "https://www.hdmotori.it/nuova-lancia-gamma-motori-autonomia-melfi/",
+      "image": null,
+      "summary": "Presentata a Roma la nuova Lancia Gamma: il crossover fastback da 4,67 metri sarà prodotto a Melfi in versione ibrida ed elettrica con autonomia fino a 1.000 km The post Lancia Gamma, il grande ritorno: fino a 1.000 k...",
+      "date": "2026-09-17T17:00:14.0000000Z"
+    },
+    {
+      "id": "hdmotori:d2d69d102d1b",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Abarth 695 più folle di sempre: un mostro da 600 CV sulle ruote anteriori",
+      "url": "https://www.hdmotori.it/abarth-695-biposto-600-cv-time-attack/",
+      "image": null,
+      "summary": "Cesare Bassanini e Old School Garage trasformano la Abarth 695 Biposto in un mostro da Time Attack con 600 CV a trazione anteriore e cambio sequenziale The post La Abarth 695 più folle di sempre: un mostro da 600 CV s...",
+      "date": "2026-09-17T16:30:41.0000000Z"
+    },
+    {
+      "id": "hdmotori:2013f5d3bac3",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il camion a guida autonoma senza cabina, la proposta di Einride e Lidl",
+      "url": "https://www.hdmotori.it/camion-guida-autonoma-senza-cabina-einride-lidl/",
+      "image": null,
+      "summary": "In Germania si è ritornati a parlare del camion full electric a guida autonoma di Einride, battezzato Einride Pod The post Il camion a guida autonoma senza cabina, la proposta di Einride e Lidl appeared first on HDmot...",
+      "date": "2026-09-17T15:30:18.0000000Z"
+    },
+    {
+      "id": "motor1:cb0332cc175e",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Guidare senza mani in autostrada: con questo sistema Ford si può",
+      "url": "https://it.motor1.com/reviews/808475/ford-bluecruise-come-funziona-video/",
+      "image": "https://cdn.motor1.com/images/mgl/QeGXV8/s3/ford-bluecruise.jpg",
+      "summary": "Si chiama BlueCruise ed è un servizio in abbonamento pensato per rendere più rilassanti i viaggi: ecco come funziona e quanto costa",
+      "date": "2026-09-17T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:05a7587b3932",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tutti i motori della nuova Mercedes Classe C",
+      "url": "https://insideevs.it/news/808663/mercedes-classe-c-2026-motori-batterie-autonomia/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z1mLW/s3/tutti-i-motori-della-nuova-mercedes-classe-c.jpg",
+      "summary": "Due versioni integrali, batterie da 85 e 94 kWh e fino a 762 km di autonomia: ecco tutti i motori della nuova Mercedes Classe C",
+      "date": "2026-09-17T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:454777dff436",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Kia Open Lab debutta con il tennis e la nuova EV2 Long Range",
+      "url": "https://it.motor1.com/news/808651/kia-open-lab-contest-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/NG68RX/s3/kia-open-lab---ev2.jpg",
+      "summary": "Kia presenta Open Lab, la nuova piattaforma creativa che debutta con un contest dedicato al tennis e agli Australian Open 2027",
+      "date": "2026-09-17T14:30:00.0000000Z"
+    },
+    {
+      "id": "insideevs:1aa03e42e777",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La batteria al sodio che promette 50.000 cicli e ricarica record",
+      "url": "https://insideevs.it/news/808632/batterie-sodio-na3v2-po4-3/",
+      "image": "https://cdn.motor1.com/images/mgl/YAbY00/s3/una-batteria-al-sodio-che-dura-50.000-cicli-il-nuovo-studio.jpg",
+      "summary": "Un nuovo materiale sviluppato in laboratorio si ricarica in poco più di 100 secondi e conserva quasi tutta la capacità",
+      "date": "2026-09-17T14:04:08.0000000Z"
+    },
+    {
+      "id": "motor1:1f5290b478ba",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il maxi SUV da quasi 900 CV con un prezzo da ammiraglia",
+      "url": "https://it.motor1.com/news/808637/zeekr-9x-prezzi-allestimenti/",
+      "image": "https://cdn.motor1.com/images/mgl/W8K3vL/s3/zeekr-9x.jpg",
+      "summary": "La Zeekr 9X è ordinabile in Europa: 897 CV, sei posti, tecnologia a 900 Volt e un prezzo da capogiro",
+      "date": "2026-09-17T14:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:7406c54155e1",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Lamborghini Revuelto da 1065 CV paparazzata in strada: dettagli unici",
+      "url": "https://www.hdmotori.it/nuova-lamborghini-revuelto-1065-cv/",
+      "image": null,
+      "summary": "Alla Monterey Car Week aveva strappato applausi e finalmente la nuova Lamborghini Revuelto è apparsa nel traffico The post La nuova Lamborghini Revuelto da 1065 CV paparazzata in strada: dettagli unici appeared first ...",
+      "date": "2026-09-17T13:30:06.0000000Z"
+    },
+    {
+      "id": "vaielettrico:af0a284e88d1",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Schlein a Meloni: 14 miliardi su clima ed energia in 5 proposte",
+      "url": "https://www.vaielettrico.it/schlein-a-meloni-14-miliardi-su-clima-ed-energia-in-5-proposte/",
+      "image": null,
+      "summary": "Elly Schlein scrive a Giorgia Meloni e mette sul tavolo una proposta da 14 miliardi di euro per… L'articolo Schlein a Meloni: 14 miliardi su clima ed energia in 5 proposte proviene da Vaielettrico .",
+      "date": "2026-09-17T13:27:00.0000000Z"
+    },
+    {
+      "id": "motor1:9fa0c111c9fc",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Alfa Romeo mostra un dettaglio del nuovo concept di Parigi",
+      "url": "https://it.motor1.com/news/808648/alfa-romeo-concept-salone-parigi-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/ZnlM32/s3/alfa-romeo-mostra-un-dettaglio-del-nuovo-concept-di-parigi.jpg",
+      "summary": "Il primo teaser ufficiale lascia intravedere la nuova concept car del Biscione, attesa al Salone di Parigi 2026",
+      "date": "2026-09-17T12:55:02.0000000Z"
+    },
+    {
+      "id": "motor1:cea7e459dcd2",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Quindi, questa abolizione del bollo auto",
+      "url": "https://it.motor1.com/news/808628/bollo-auto-2027-sospensione-abolizione/",
+      "image": "https://cdn.motor1.com/images/mgl/g42J6N/s3/quindi-questa-abolizione-del-bollo-auto.jpg",
+      "summary": "Che abolizione non è ma sospensione per un anno. Poi forse diventerà strutturale",
+      "date": "2026-09-17T12:34:54.0000000Z"
+    },
+    {
+      "id": "hdmotori:7924d0067e91",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Un monopattino su due è fuorilegge: a Roma scattano seimila multe in tre mesi",
+      "url": "https://www.hdmotori.it/roma-monopattini-irregolari-multa-casco-assicurazione/",
+      "image": null,
+      "summary": "Su 12mila monopattini controllati a Roma, 6mila sono fuorilegge. Casco assente, mancanza di targa e assicurazione le infrazioni più diffuse. Il bilancio dei controlli The post Un monopattino su due è fuorilegge: a Rom...",
+      "date": "2026-09-17T12:30:37.0000000Z"
+    },
+    {
+      "id": "vaielettrico:c0b4d307f954",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Beffa esenzione bollo 2027: le elettriche con più di 5 anni pagano",
+      "url": "https://www.vaielettrico.it/beffa-esenzione-bollo-2027-le-elettriche-con-piu-di-5-anni-pagano/",
+      "image": null,
+      "summary": "Beffa esenzione bollo: non ci sarà alcun taglio per gli e‑driver. Esclusi dal provvedimento del Governo. Le auto… L'articolo Beffa esenzione bollo 2027: le elettriche con più di 5 anni pagano proviene da Vaielettrico .",
+      "date": "2026-09-17T12:20:33.0000000Z"
+    },
     {
       "id": "hdmotori:b41d9aa8a294",
       "sourceId": "hdmotori",
@@ -13,18 +181,6 @@
       "image": null,
       "summary": "Con una percorrenza in elettrico fino a 200 km, le Volvo XC60 e XC90 restyling ridefiniscono gli standard di autonomia per l’ibrido plug-in. Tra le novità anche l'integrazione di Google Gemini. The post Volvo XC60 e X...",
       "date": "2026-09-17T11:30:05.0000000Z"
-    },
-    {
-      "id": "hdmotori:4edeb2e91e71",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Bollo auto 2027, quali sono i modelli che non lo pagheranno",
-      "url": "https://www.hdmotori.it/abolizione-bollo-auto-2027-modelli-esenti/",
-      "image": null,
-      "summary": "Il decreto cancella la tassa dal 2027 per il 70% dei veicoli entro gli 80 kW. Sconto su utilitarie e citycar, ma per i motori con più di 110 CV l'imposta resta obbligatoria The post Bollo auto 2027, quali sono i model...",
-      "date": "2026-09-17T11:00:00.0000000Z"
     },
     {
       "id": "insideevs:1c5535a67262",
@@ -48,6 +204,18 @@
       "url": "https://it.motor1.com/news/808071/nuova-jeep-renegade-2027-render/",
       "image": "https://cdn.motor1.com/images/mgl/P3Voo2/s3/jeep-renegade-2027-il-render-di-motor1.com.jpg",
       "summary": "Potrebbe arrivare nel 2027 e basarsi sulla nuova piattaforma STLA One. Ecco le prime indicazioni sul ritorno della Renegade",
+      "date": "2026-09-17T11:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:4edeb2e91e71",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Bollo auto 2027, quali sono i modelli che non lo pagheranno",
+      "url": "https://www.hdmotori.it/abolizione-bollo-auto-2027-modelli-esenti/",
+      "image": null,
+      "summary": "Il decreto cancella la tassa dal 2027 per il 70% dei veicoli entro gli 80 kW. Sconto su utilitarie e citycar, ma per i motori con più di 110 CV l'imposta resta obbligatoria The post Bollo auto 2027, quali sono i model...",
       "date": "2026-09-17T11:00:00.0000000Z"
     },
     {
@@ -219,18 +387,6 @@
       "date": "2026-09-17T05:00:00.0000000Z"
     },
     {
-      "id": "motor1:27e8a7d6e274",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il nuovo taglio delle accise, ma ridotto",
-      "url": "https://it.motor1.com/news/808574/taglio-accise-diesel-settembre-ottobre-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/AYL1N/s3/woman-holding-fuel-nozzle-at-petrol-station.jpg",
-      "summary": "Sarà di 12,2 centesimi al litro dal 18 al 25 settembre, di 6,1 dal 26 settembre fino al 5 ottobre. E solo per il diesel",
-      "date": "2026-09-16T19:58:24.0000000Z"
-    },
-    {
       "id": "vaielettrico:f97403e9d89a",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -255,66 +411,6 @@
       "date": "2026-09-16T16:45:00.0000000Z"
     },
     {
-      "id": "hdmotori:4efe00979518",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Costruisce una replica di una FIAT 131 Abarth, l’impresa di un appassionato",
-      "url": "https://www.hdmotori.it/replica-fiat-131-abarth/",
-      "image": null,
-      "summary": "Un uomo ha impiegato 20 anni per partorire una fedele replica della FIAT 131 Abarth con l’idea di installarci un motore V8 Maserati The post Costruisce una replica di una FIAT 131 Abarth, l’impresa di un appassionato ...",
-      "date": "2026-09-16T16:30:47.0000000Z"
-    },
-    {
-      "id": "motor1:05b6f6077d15",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Addio città piene di auto? Pare di sì",
-      "url": "https://it.motor1.com/news/808540/citta-piene-auto-addio/",
-      "image": "https://cdn.motor1.com/images/mgl/0epVXz/s3/addio-citta-piene-di-auto-pare-di-si.jpg",
-      "summary": "A ECO Festival 2026 il confronto tra Roma, Parigi e nove città italiane",
-      "date": "2026-09-16T16:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:ffb3367d84f1",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Lotus pensa al ritorno dell'Esprit con motore V8",
-      "url": "https://it.motor1.com/news/808512/lotus-esprit-nuova-ibrida-informazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/KbZbKM/s3/2029-lotus-esprit-supercar-rendering-by-motor1.jpg",
-      "summary": "Lotus lavora a una nuova sportiva. Dovrebbe essere ibrida e avere 1.000 CV totali",
-      "date": "2026-09-16T16:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:c8552fc42e41",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "F1, Scheckter in problemi seri: guai con il fisco per l’ex campione Ferrari",
-      "url": "https://www.hdmotori.it/f1-scheckter-problemi-fisco-ferrari/",
-      "image": null,
-      "summary": "Jody Scheckter, vincitore del titolo nel 1979, dopo un flop della sua azienda di cibo biologico, ha accumulato un debito di 1,6 milioni di euro The post F1, Scheckter in problemi seri: guai con il fisco per l’ex campi...",
-      "date": "2026-09-16T15:30:57.0000000Z"
-    },
-    {
-      "id": "motor1:d851e3916f12",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Doccia separata e spazio in più per il nuovo van su base Sprinter",
-      "url": "https://it.motor1.com/news/808506/robeta-adonis-mercedes-sprinter-van/",
-      "image": "https://cdn.motor1.com/images/mgl/mMYMpr/s3/robeta-adonis-2026.jpg",
-      "summary": "Doccia separata e batteria enorme su base Mercedes per il Robeta Adonis. Chi vuole più spazio può scegliere l'Hercules.",
-      "date": "2026-09-16T15:30:00.0000000Z"
-    },
-    {
       "id": "insideevs:f4c91ee957c9",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -325,30 +421,6 @@
       "image": "https://cdn.motor1.com/images/mgl/wlqkvo/s3/tesla-cybercab-robotaxi.jpg",
       "summary": "Il nodo è piuttosto evidente: il Cybercab non ha volante, pedali e nemmeno i tradizionali specchietti retrovisori",
       "date": "2026-09-16T15:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:b16571596293",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Stop per un anno al bollo auto, ecco chi non lo pagherà più",
-      "url": "https://it.motor1.com/news/808531/bollo-auto-abolito-chi-paga-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/vx7JvQ/s3/bollo-auto-abolito.jpg",
-      "summary": "Niente bollo auto nel 2027 per auto fino a 80 kW e tutte le moto",
-      "date": "2026-09-16T14:46:43.0000000Z"
-    },
-    {
-      "id": "hdmotori:dd8dcc4387a0",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Fiat Panda e Pandina dal meccanico: i problemi più frequenti",
-      "url": "https://www.hdmotori.it/fiat-panda-pandina-affidabilita-difetti-meccanici/",
-      "image": null,
-      "summary": "L'analisi dei meccanici sulla Fiat Panda e Pandina: difetti ricorrenti, affidabilità dei motori e perché resta l'auto economica più facile da riparare The post Fiat Panda e Pandina dal meccanico: i problemi più freque...",
-      "date": "2026-09-16T14:30:24.0000000Z"
     },
     {
       "id": "vaielettrico:66ac490ce4b7",
@@ -375,18 +447,6 @@
       "date": "2026-09-16T14:04:10.0000000Z"
     },
     {
-      "id": "hdmotori:3989f27d1135",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Cambio automatico, il meccanico avverte: attenzione alla trappola manutenzione",
-      "url": "https://www.hdmotori.it/olio-cambio-automatico-manutenzione-guasti/",
-      "image": null,
-      "summary": "Automatico o manuale? Il meccanico social Ebenezer smentisce i costruttori sull'olio \"eterno\": senza manutenzione le riparazioni del cambio superano i 2.000 euro The post Cambio automatico, il meccanico avverte: atten...",
-      "date": "2026-09-16T13:30:01.0000000Z"
-    },
-    {
       "id": "vaielettrico:2bdd2349b8ce",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -397,18 +457,6 @@
       "image": null,
       "summary": "Electra ricarica in autostrada, con nuova stazioni di ricarica in A4 e A10. E con tempi di rifornimento… L'articolo Electra ricarica in autostrada, in A4 e A10 proviene da Vaielettrico .",
       "date": "2026-09-16T13:11:35.0000000Z"
-    },
-    {
-      "id": "hdmotori:c8cac045bdbd",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Land Rover Defender pick-up, c’è lo zampino di Stellantis: sorprenderà tutti",
-      "url": "https://www.hdmotori.it/land-rover-defender-pick-up-stellantis/",
-      "image": null,
-      "summary": "Dall’accordo tra il colosso italo-francese e Land Rover potrebbe prendere vita una muscolosa Defender pick-up The post Land Rover Defender pick-up, c’è lo zampino di Stellantis: sorprenderà tutti appeared first on HDm...",
-      "date": "2026-09-16T12:30:34.0000000Z"
     },
     {
       "id": "insideevs:ae5c5e307260",
@@ -459,18 +507,6 @@
       "date": "2026-09-16T09:00:00.0000000Z"
     },
     {
-      "id": "vaielettrico:9c9b95ff5c46",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Pro e contro gli impianti Fer, incontro a Mirano (17 settembre) con Energia per l’Italia",
-      "url": "https://www.vaielettrico.it/pro-e-contro-gli-impianti-fer-incontro-a-mirano-17-settembre-con-energia-per-litalia/",
-      "image": null,
-      "summary": "Impianti Fer, favorevoli e contrari. Si “scontreranno” nel convegno: “Crisi climatica e transizione energetica” l’incontro organizzato da Energia… L'articolo Pro e contro gli impianti Fer, incontro a Mirano (17 settem...",
-      "date": "2026-09-16T08:52:43.0000000Z"
-    },
-    {
       "id": "insideevs:192ab3ae62e7",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -493,42 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/RqbJbe/s3/elettriche-usate-cresce-la-domanda-ma-mancano-le-auto.jpg",
       "summary": "La quota delle BEV usate vendute sale all'3,06%, ma la loro presenza nei piazzali dei concessionari scende al 2,5%",
       "date": "2026-09-16T05:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:f032049f5ffb",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ricarica Ionity meno cara in Francia, perché?",
-      "url": "https://www.vaielettrico.it/ricarica-ionity-meno-cara-in-francia-perche/",
-      "image": null,
-      "summary": "Ricarica Ionity meno cara in Francia che in Italia, perché, visto che si tratta di colonnine della stessa… L'articolo Ricarica Ionity meno cara in Francia, perché? proviene da Vaielettrico .",
-      "date": "2026-09-15T19:47:46.0000000Z"
-    },
-    {
-      "id": "insideevs:616a85ce41b2",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "BYD promette: batterie allo stato solido a partire dal 2027",
-      "url": "https://insideevs.it/news/808335/byd-batteria-stato-solido-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/YAgell/s3/byd-blade-battery.jpg",
-      "summary": "Il colosso cinese partirà con la produzione già il prossimo anno. Piccoli volumi per i brand di lusso Yangwang e Denza",
-      "date": "2026-09-15T15:30:00.0000000Z"
-    },
-    {
-      "id": "insideevs:01fbb6e83a56",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Cybercab mi ha tenuto in ostaggio 70 minuti",
-      "url": "https://insideevs.it/news/808326/tesla-cybercab-austin-viaggio-10/",
-      "image": "https://cdn.motor1.com/images/mgl/9mWZXl/s3/tesla-cybercab-le-immagini-della-rider-guide.jpg",
-      "summary": "Il robotaxi di Tesla doveva impiegare dieci minuti, ma ha scelto una deviazione portando il passeggero a destinazione dopo oltre un'ora",
-      "date": "2026-09-15T13:00:00.0000000Z"
     }
   ]
 }

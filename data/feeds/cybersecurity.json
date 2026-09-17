@@ -1,7 +1,67 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-17T12:14:39.8526751Z",
+  "updated": "2026-09-17T17:06:46.7056615Z",
   "items": [
+    {
+      "id": "cybersecurity360:15281f924390",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber resilience nel manufacturing: perché semplificare la sicurezza è diventata una priorità",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-resilience-nel-manufacturing-perche-semplificare-la-sicurezza-e-diventata-una-priorita/",
+      "image": null,
+      "summary": "Nel manifatturiero la resilienza digitale non dipende solo dall'introduzione di nuove tecnologie, ma dalla capacità di governarle in modo integrato. Il progetto Fortinet per LAMPRE mostra come convergenza IT/OT, Zero ...",
+      "date": "2026-09-17T16:15:08.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d6fe9954b526",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber resilience industriale: perché l’AI deve parlare il linguaggio della fabbrica",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-resilience-industriale-perche-lai-deve-parlare-il-linguaggio-della-fabbrica/",
+      "image": null,
+      "summary": "Negli ambienti OT la sfida non è soltanto individuare un attacco, ma comprenderne l'impatto sui processi produttivi. Il progetto Elipsis OT Resilience introduce un modello che integra dati di processo ed eventi cyber ...",
+      "date": "2026-09-17T15:47:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:dbf957acd1ec",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Hugging Face e il precedente di RubyGems: è l’ora di  portare nell’AI i principi della cyber security",
+      "url": "https://www.cybersecurity360.it/news/hugging-face-e-il-precedente-di-rubygems-e-lora-di-portare-nellai-i-principi-della-cyber-security/",
+      "image": null,
+      "summary": "Per OpenAI l’attacco a RubyGems rappresenterebbe almeno il terzo caso rilevante in cui i suoi agenti hanno attaccato l’infrastruttura di un’altra azienda , dopo il caso Hugging Face. Anthropic ha contato finora quattr...",
+      "date": "2026-09-17T15:04:14.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:4968fc0053d3",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Architettura Zero Trust e falle di sicurezza",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/architettura-zero-trust-e-falle-di-sicurezza/",
+      "image": null,
+      "summary": "Le eccezioni aziendali e l'evoluzione dell'intelligenza artificiale mettono a dura prova l'efficacia dei modelli di Zero Trust, costringendo i responsabili della sicurezza a ridefinire la gestione delle identità e del...",
+      "date": "2026-09-17T13:40:22.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:4d5176e0e703",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Passkey e phishing, la nuova trappola per compromettere le identità cloud Microsoft",
+      "url": "https://www.cybersecurity360.it/news/passkey-e-phishing-la-nuova-trappola-per-compromettere-le-identita-cloud-microsoft/",
+      "image": null,
+      "summary": "Le passkey resistono al phishing, ma possono anche diventare il pretesto per renderlo più credibile. Microsoft ha individuato campagne in cui falsi aggiornamenti di sicurezza portano alla compromissione delle identità...",
+      "date": "2026-09-17T13:12:04.0000000Z"
+    },
     {
       "id": "cybersecurity360:7420f7d3acf3",
       "sourceId": "cybersecurity360",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "La NIS2 impone di estendere la gestione del rischio anche ai fornitori. Il progetto SupplyShield di Arsenalia mostra come trasformare il Third Party Risk Management da processo manuale e frammentato a modello continuo...",
       "date": "2026-09-16T15:18:48.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:5db2402544f8",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "I costi del downtime industriale da attacco cyber: come quantificare l’impatto economico dei blocchi di produzione",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/i-costi-del-downtime-industriale-da-attacco-cyber-come-quantificare-limpatto-economico-dei-blocchi-di-produzione/",
-      "image": null,
-      "summary": "Il downtime causato da un attacco cyber può trasformare rapidamente un incidente OT in una perdita economica rilevante. Mancata produzione, ripristino, penali e danni alla supply chain devono essere misurati per quant...",
-      "date": "2026-09-16T14:27:27.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:37aa2f11310c",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Caso Revolut, il giallo dei dati istituzionali italiani sottratti dai criminali",
-      "url": "https://www.cybersecurity360.it/news/caso-revolut-il-giallo-dei-dati-istituzionali-italiani-sottratti-dai-criminali/",
-      "image": null,
-      "summary": "Il caso Revolut porta dentro le infrastrutture istituzionali italiane: una PEC riconducibile alla Prefettura di Reggio Calabria sarebbe stata compromessa e gli attaccanti rivendicano 147 GB di dati sottratti alle forz...",
-      "date": "2026-09-16T10:09:46.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:fd5513484bb9",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "VPN illimitata e sicura per 12 mesi: è il momento di attivare Total VPN per proteggere traffico, banda e privacy",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/total-vpn-illimitata-sicura-12-mesi-cifratura-privacy/",
-      "image": null,
-      "summary": "Total VPN è proposta a 19 euro per 12 mesi, con uno sconto dell’80%. L’offerta include anche Total Adblock e una licenza TotalAV. La VPN utilizza cifratura AES-256 e protegge il traffico anche sulle reti Wi-Fi pubblic...",
-      "date": "2026-09-16T09:21:12.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d250ea28ee8e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Data breach alla velocità dell’AI: il GDPR regge, ma la difesa deve accelerare",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/data-breach-alla-velocita-dellai-il-gdpr-regge-ma-la-difesa-deve-accelerare/",
-      "image": null,
-      "summary": "La nota pubblicata il 14 settembre dall’Autorità Garante spagnola offre lo spunto per verificare se fra l’accesso a un sistema e l’intervento della difesa ci sia abbastanza tempo per accorgersi di ciò che sta accadend...",
-      "date": "2026-09-16T08:56:55.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:e0237319cb7a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Come il gruppo Aurora ha usato un agente AI per violare sette aziende",
-      "url": "https://www.cybersecurity360.it/outlook/come-il-gruppo-aurora-ha-usato-un-agente-ai-per-violare-sette-aziende/",
-      "image": null,
-      "summary": "La compromissione dell'assistente di programmazione basato su intelligenza artificiale, da parte di criminali informatici russofoni, ha rivelato modalità insolite: Cursor è stato manipolato e convinto che le operazion...",
-      "date": "2026-09-16T07:24:24.0000000Z"
     }
   ]
 }
