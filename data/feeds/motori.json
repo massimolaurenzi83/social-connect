@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-09-17T01:49:28.7628183Z",
+  "updated": "2026-09-17T06:48:07.2785811Z",
   "items": [
+    {
+      "id": "motor1:c54a755f96b7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il camper gigante che fa a meno del campeggio è autonomo in tutto",
+      "url": "https://it.motor1.com/news/808487/dethleffs-gigante-autonomia-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZPkK9/s3/dethleffs-graneo-a-6823-2-2026.jpg",
+      "summary": "Il nuovo Graneo A 6823-2 combina Mercedes-Sprinter, mansarda XXL e scorte enormi",
+      "date": "2026-09-17T06:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:5e10acf7f89c",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "E.ON e BYD insieme su ricarica intelligente e V2G: debutto in Germania",
+      "url": "https://www.vaielettrico.it/e-on-e-byd-insieme-su-ricarica-intelligente-e-v2g-debutto-in-germania/",
+      "image": null,
+      "summary": "Dopo Polestar con Octopus anche E.ON e BYD avviano una partnership strategica per integrare auto elettrica, ricarica intelligente… L'articolo E.ON e BYD insieme su ricarica intelligente e V2G: debutto in Germania prov...",
+      "date": "2026-09-17T05:40:48.0000000Z"
+    },
+    {
+      "id": "motor1:618e4f7a2da0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Stellantis più venduta nel mondo non è una Peugeot né una Fiat",
+      "url": "https://it.motor1.com/news/808299/stellantis-modelli-piu-venduti-2025/",
+      "image": "https://cdn.motor1.com/images/mgl/G3bZbE/s3/la-stellantis-piu-venduta-nel-mondo-non-e-una-peugeot-ne-una-fiat.jpg",
+      "summary": "I pick-up Ram conquistano il primo posto con oltre 435.000 unità. Sul podio anche Peugeot 208 e 2008, davanti alla Jeep Grand Cherokee",
+      "date": "2026-09-17T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:c2f578a255fa",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le nuove colonnine di ricarica di New York, piccole e semplici",
+      "url": "https://insideevs.it/news/808455/colonnine-ricarica-new-york-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/JOBXyM/s3/its_electric_curbside.jpg",
+      "summary": "New York ha scelto It's Electric, con sede a Brooklyn, per installare 700 colonnine di ricarica EV a bordo strada nei prossimi tre anni",
+      "date": "2026-09-17T05:00:00.0000000Z"
+    },
     {
       "id": "motor1:27e8a7d6e274",
       "sourceId": "motor1",
@@ -231,18 +279,6 @@
       "date": "2026-09-16T13:11:35.0000000Z"
     },
     {
-      "id": "motor1:5ec5c64b1a35",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Cosa fare per avere l'incredibile Ford Mustang GTD in Europa",
-      "url": "https://it.motor1.com/news/808478/ford-mustang-gtd-candidature-europee/",
-      "image": "https://cdn.motor1.com/images/mgl/3WBGRL/s3/ford-mustang-gtd-spirit-of-america.jpg",
-      "summary": "Le assegnazioni europee della Ford Mustang GTD riaprono con 500 auto, prezzo base di 370.000 euro e questioni aperte sull’uso stradale",
-      "date": "2026-09-16T13:00:00.0000000Z"
-    },
-    {
       "id": "hdmotori:c8cac045bdbd",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -253,18 +289,6 @@
       "image": null,
       "summary": "Dall’accordo tra il colosso italo-francese e Land Rover potrebbe prendere vita una muscolosa Defender pick-up The post Land Rover Defender pick-up, c’è lo zampino di Stellantis: sorprenderà tutti appeared first on HDm...",
       "date": "2026-09-16T12:30:34.0000000Z"
-    },
-    {
-      "id": "motor1:cc629a98a104",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La McLaren Artura ha i giorni contati",
-      "url": "https://it.motor1.com/news/808463/mclaren-artura-fine-produzione-anticipazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/9melZl/s3/mclaren-artura-spider-review.jpg",
-      "summary": "La supercar ibrida di Woking potrebbe non restare a lungo in circolazione.",
-      "date": "2026-09-16T12:00:00.0000000Z"
     },
     {
       "id": "hdmotori:366b0c2d5f51",
@@ -459,18 +483,6 @@
       "date": "2026-09-15T15:30:00.0000000Z"
     },
     {
-      "id": "vaielettrico:17a27dfdcff1",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Al via (22 settembre) il bonus colonnine: 80% a fondo perduto",
-      "url": "https://www.vaielettrico.it/al-via-22-settembre-il-bonus-colonnine-80-a-fondo-perduto/",
-      "image": null,
-      "summary": "Al via il bonus colonnine. Si parte alle 12 di martedì 22 settembre, quando si potrà presentare la… L'articolo Al via (22 settembre) il bonus colonnine: 80% a fondo perduto proviene da Vaielettrico .",
-      "date": "2026-09-15T14:46:44.0000000Z"
-    },
-    {
       "id": "insideevs:01fbb6e83a56",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/bgOz4m/s3/2026-vw-mission-efficiency-concept.jpg",
       "summary": "Il prototipo Mission Efficiency tiene fede al proprio nome: nessuna elettrica consuma meno di questa berlina filante con meccanica ID.Polo",
       "date": "2026-09-15T09:30:00.0000000Z"
-    },
-    {
-      "id": "insideevs:86b732f55608",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Audi A2 e-tron vs Kia EV3, duello tra crossover compatti",
-      "url": "https://insideevs.it/news/807666/audi-a2-e-tron-vs-kia-ev3/",
-      "image": "https://cdn.motor1.com/images/mgl/0epemz/s3/audi-a2-e-tron-vs-kia-ev3.jpg",
-      "summary": "L'A2 torna in formato elettrico: una delle sue principali rivali è la Kia EV3",
-      "date": "2026-09-15T05:00:00.0000000Z"
     }
   ]
 }
