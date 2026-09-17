@@ -1,6 +1,6 @@
 {
   "category": "mondo",
-  "updated": "2026-09-17T20:19:21.3785585Z",
+  "updated": "2026-09-17T22:55:39.1662944Z",
   "items": [
     {
       "id": "internazionale:20463c14a39c",
@@ -63,6 +63,66 @@
       "date": "2026-10-03T09:00:00.0000000Z"
     },
     {
+      "id": "ansa-mondo:7c6a7db3dde7",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Brasile, per Datafolha Lula al 39% e Flávio Bolsonaro 36% al primo turno",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/18/brasile-per-datafolha-lula-al-39-e-flavio-bolsonaro-36-al-primo-turno_727a3f92-3962-409b-8492-d918aef3acf4.html",
+      "image": null,
+      "summary": "Al ballottaggio il presidente progressista è al 46%, il senatore di destra al 44%",
+      "date": "2026-09-17T22:30:26.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:538f0e73c9cc",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Nbc, 'Pentagono valuta di ritirare 25.000 soldati dall'Europa'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/nbc-pentagono-valuta-di-ritirare-25.000-soldati-dalleuropa_8b0ff27c-41bc-4f9b-b65e-08e4a2949d10.html",
+      "image": null,
+      "summary": "Non è escluso che il taglio possa raggiungere le 40.000 unità",
+      "date": "2026-09-17T21:19:55.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:1cc1c9c005e1",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Nbc, 'Pentagono valuta di ritirare 25.000 soldati dall'Europa'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/nbc-pentagono-valuta-di-ritirare-25.000-soldati-dalleuropa_c61c5bd6-149e-476b-a95f-34bc8cdad1e1.html",
+      "image": null,
+      "summary": "Non è escluso che il taglio possa raggiungere le 40.000 unità",
+      "date": "2026-09-17T21:19:41.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:c333c9a48f5b",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Lula, 'posso vincere al primo turno, ma anche al ballottaggio'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/lula-posso-vincere-al-primo-turno-ma-anche-al-ballottaggio_e3d0f05a-c152-4b5c-b1dc-1123d56b139a.html",
+      "image": null,
+      "summary": "Il presidente brasiliano attacca Flávio Bolsonaro e lo accusa sul caso Banco Master",
+      "date": "2026-09-17T21:17:26.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:8a813a7a100e",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Lula, 'pronto a parlare con Trump, ma senza rinunciare alla sovranità'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/lula-pronto-a-parlare-con-trump-ma-senza-rinunciare-alla-sovranita_b2e4c76d-453c-4773-bcbb-3fa67c665ce6.html",
+      "image": null,
+      "summary": "Il presidente del Brasile: 'Il Paese non si piegherà all'arroganza di nessuno'",
+      "date": "2026-09-17T21:13:01.0000000Z"
+    },
+    {
       "id": "ansa-mondo:45c5dc78b6ff",
       "sourceId": "ansa-mondo",
       "source": "ANSA Mondo",
@@ -97,18 +157,6 @@
       "image": null,
       "summary": "Lo riferisce un funzionario del Dipartimento di Stato",
       "date": "2026-09-17T18:45:45.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:87d11350a849",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Trump vedrà i paesi del Golfo, 'devo decidere sull'Iran'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/trump-verso-un-momento-cruciale-in-iran-devo-prendere-unimportante-decisione_0dbd2166-0cb6-43cf-a0c6-cf489f522612.html",
-      "image": null,
-      "summary": "'Momento cruciale', e vende gli F-35 a Riad. Cina a Teheran: 'Fermi gli Houthi'",
-      "date": "2026-09-17T18:17:30.0000000Z"
     },
     {
       "id": "ansa-mondo:ee1479f7416e",
@@ -147,18 +195,6 @@
       "date": "2026-09-17T17:50:54.0000000Z"
     },
     {
-      "id": "ansa-mondo:d6380aa17c01",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Niente visto, da Usa nuovo stop per Abu Mazen all'Onu",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/niente-visto-da-usa-nuovo-stop-per-abu-mazen-allonu_6746ce0f-f078-46e2-b443-36f54b4a9f9c.html",
-      "image": null,
-      "summary": "Negato per il secondo anno di fila l'ingresso al presidente dell'Anp",
-      "date": "2026-09-17T17:39:10.0000000Z"
-    },
-    {
       "id": "ansa-mondo:ecc9241243eb",
       "sourceId": "ansa-mondo",
       "source": "ANSA Mondo",
@@ -169,42 +205,6 @@
       "image": null,
       "summary": "Lezioni all'aperto a Plaza de Mayo, ma prende corpo una nuova manifestazione nazionale",
       "date": "2026-09-17T17:37:19.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:26e8fdbcb113",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Trump, 'verso un momento cruciale in Iran, devo prendere un'importante decisione'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/trump-verso-un-momento-cruciale-in-iran-devo-prendere-unimportante-decisione_84ccac82-6fb4-45bf-81e3-70830bcbb919.html",
-      "image": null,
-      "summary": "Axios, 'Annientarli o no? Con me tutto è possibile'",
-      "date": "2026-09-17T17:10:34.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:7621e79ff31d",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Messico, l'uccisione della studentessa Erasmus parte di una scia di omicidi",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/messico-luccisione-della-studentessa-erasmus-parte-di-una-scia-di-omicidi_2c64fb62-a7eb-475b-8e54-5d5950844311.html",
-      "image": null,
-      "summary": "Cinque ragazze dell'ateneo di Morelos assassinate nell'ultimo anno",
-      "date": "2026-09-17T17:00:21.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:d2af7522afdb",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Il centrosinistra vince in Svezia, ma è rebus governo",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/il-centrosinistra-vince-in-svezia-ma-e-rebus-governo_4a7d2094-9a80-452e-af20-b4838ee9abba.html",
-      "image": null,
-      "summary": "Scrutino-maratona all'ultimo voto, Andersson spunta la maggioranza per un solo seggio",
-      "date": "2026-09-17T17:00:17.0000000Z"
     },
     {
       "id": "internazionale:404538dc10ec",
