@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-09-17T17:06:46.7320726Z",
+  "updated": "2026-09-17T20:19:21.3298541Z",
   "items": [
+    {
+      "id": "vaielettrico:a5ff5d62fb0d",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La UE alla Cina: mettete un freno alla vendita di ibride",
+      "url": "https://www.vaielettrico.it/la-ue-alla-cina-mettete-un-freno-alla-vendita-di-ibride/",
+      "image": null,
+      "summary": "La UE alla Cina: mettete un freno volontario all’esportazione di auto ibride in Europa. In caso contrario, dazi… L'articolo La UE alla Cina: mettete un freno alla vendita di ibride proviene da Vaielettrico .",
+      "date": "2026-09-17T18:39:41.0000000Z"
+    },
+    {
+      "id": "hdmotori:86369cf043d1",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen ID.3 GTI: con 326 CV è la più potente di sempre",
+      "url": "https://www.hdmotori.it/volkswagen-id-3-gti/",
+      "image": null,
+      "summary": "La Casa di Wolfsburg presenta il modello GTI più potente di sempre, realizzato su base ID.3 Neo: trazione posteriore, oltre 600 km di autonomia e soluzioni per ottimizzare le prestazioni. The post Volkswagen ID.3 GTI:...",
+      "date": "2026-09-17T18:30:43.0000000Z"
+    },
+    {
+      "id": "hdmotori:fa0c047b7025",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Rolls-Royce Phantom Hummingbird: l’iridescenza dell’abalone conquista Goodwood",
+      "url": "https://www.hdmotori.it/rolls-royce-phantom-hummingbird-abalone/",
+      "image": null,
+      "summary": "Rolls-Royce presenta la Phantom Hummingbird: un’opera d'arte su misura che introduce per la prima volta l'abalone negli intarsi, combinando alta sartoria e natura The post Rolls-Royce Phantom Hummingbird: l’iridescenz...",
+      "date": "2026-09-17T18:00:16.0000000Z"
+    },
+    {
+      "id": "motor1:e747ea0bbb6f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ecco la prova della \"cugina\" americana dell'Alfa Romeo Giulia",
+      "url": "https://it.motor1.com/reviews/808394/dodge-charger-2026-prova-informazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/jl82ve/s3/photo-cover-dodge-charger-2026.jpg",
+      "summary": "Sotto questa Dodge Charger c'è il motore 3.0 a 6 cilindri e la piattaforma STLA Large che avrebbe equipaggiato le prossime Alfa Romeo",
+      "date": "2026-09-17T18:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:3f5a2ceb4bf1",
       "sourceId": "hdmotori",
@@ -128,7 +176,7 @@
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Alfa Romeo mostra un dettaglio del nuovo concept di Parigi",
+      "title": "Un primo assaggio della nuova sportiva Alfa Romeo",
       "url": "https://it.motor1.com/news/808648/alfa-romeo-concept-salone-parigi-2026/",
       "image": "https://cdn.motor1.com/images/mgl/ZnlM32/s3/alfa-romeo-mostra-un-dettaglio-del-nuovo-concept-di-parigi.jpg",
       "summary": "Il primo teaser ufficiale lascia intravedere la nuova concept car del Biscione, attesa al Salone di Parigi 2026",
@@ -183,18 +231,6 @@
       "date": "2026-09-17T11:30:05.0000000Z"
     },
     {
-      "id": "insideevs:1c5535a67262",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "CATL vende celle così grandi che ne bastano 27 per fare 50 kWh",
-      "url": "https://insideevs.it/news/808614/catl-celle-lfp-giganti-sistemi-accumulo/",
-      "image": "https://cdn.motor1.com/images/mgl/NG68Xy/s3/catl-ecco-la-nuova-cella-xxl-lfp-587ah.jpg",
-      "summary": "Durano fino a 8.000 cicli e contendono quasi 2 kWh di energia ciascuna, na sono pensate per i sistemi di accumulo",
-      "date": "2026-09-17T11:00:00.0000000Z"
-    },
-    {
       "id": "motor1:82528104d34d",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -204,6 +240,18 @@
       "url": "https://it.motor1.com/news/808071/nuova-jeep-renegade-2027-render/",
       "image": "https://cdn.motor1.com/images/mgl/P3Voo2/s3/jeep-renegade-2027-il-render-di-motor1.com.jpg",
       "summary": "Potrebbe arrivare nel 2027 e basarsi sulla nuova piattaforma STLA One. Ecco le prime indicazioni sul ritorno della Renegade",
+      "date": "2026-09-17T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:1c5535a67262",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "CATL vende celle così grandi che ne bastano 27 per fare 50 kWh",
+      "url": "https://insideevs.it/news/808614/catl-celle-lfp-giganti-sistemi-accumulo/",
+      "image": "https://cdn.motor1.com/images/mgl/NG68Xy/s3/catl-ecco-la-nuova-cella-xxl-lfp-587ah.jpg",
+      "summary": "Durano fino a 8.000 cicli e contendono quasi 2 kWh di energia ciascuna, na sono pensate per i sistemi di accumulo",
       "date": "2026-09-17T11:00:00.0000000Z"
     },
     {
@@ -303,18 +351,6 @@
       "date": "2026-09-17T08:46:17.0000000Z"
     },
     {
-      "id": "hdmotori:36f4cdb9aaec",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ducati, presentata la livrea del super gommone da 1.500 CV che rivoluziona la nautica",
-      "url": "https://www.hdmotori.it/ducati-super-gommone-1-500-cv/",
-      "image": null,
-      "summary": "Con le collaborazioni di Pirelli, Sacs Marine e Mercury Racing la Casa di Borgo Panigale ha svelato un gommone con performance top The post Ducati, presentata la livrea del super gommone da 1.500 CV che rivoluziona la...",
-      "date": "2026-09-17T07:30:53.0000000Z"
-    },
-    {
       "id": "motor1:fbcd8b727368",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -325,18 +361,6 @@
       "image": "https://cdn.motor1.com/images/mgl/OoZzrY/s3/le-auto-che-non-pagano-il-bollo-nel-2027.jpg",
       "summary": "Il Consiglio dei Ministri ha confermato la sospensione del Bollo auto per l'anno 2027. Ecco i modelli che non pagheranno la tassa",
       "date": "2026-09-17T07:09:18.0000000Z"
-    },
-    {
-      "id": "hdmotori:a9a1173a7d1d",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Freni Brembo, la novità che abbatte le emissioni del 90%",
-      "url": "https://www.hdmotori.it/brembo-greenance-plus-kit-emissioni-freni-90/",
-      "image": null,
-      "summary": "Brembo presenta il Greenance Plus Kit: dischi e pastiglie riducono del 90% le emissioni di particolato per rientrare nei parametri della normativa Euro 7 The post Freni Brembo, la novità che abbatte le emissioni del 9...",
-      "date": "2026-09-17T06:30:04.0000000Z"
     },
     {
       "id": "motor1:c54a755f96b7",
@@ -372,18 +396,6 @@
       "url": "https://insideevs.it/news/808455/colonnine-ricarica-new-york-novita/",
       "image": "https://cdn.motor1.com/images/mgl/JOBXyM/s3/its_electric_curbside.jpg",
       "summary": "New York ha scelto It's Electric, con sede a Brooklyn, per installare 700 colonnine di ricarica EV a bordo strada nei prossimi tre anni",
-      "date": "2026-09-17T05:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:618e4f7a2da0",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Stellantis più venduta nel mondo non è una Peugeot né una Fiat",
-      "url": "https://it.motor1.com/news/808299/stellantis-modelli-piu-venduti-2025/",
-      "image": "https://cdn.motor1.com/images/mgl/G3bZbE/s3/la-stellantis-piu-venduta-nel-mondo-non-e-una-peugeot-ne-una-fiat.jpg",
-      "summary": "I pick-up Ram conquistano il primo posto con oltre 435.000 unità. Sul podio anche Peugeot 208 e 2008, davanti alla Jeep Grand Cherokee",
       "date": "2026-09-17T05:00:00.0000000Z"
     },
     {
@@ -481,18 +493,6 @@
       "image": "https://cdn.motor1.com/images/mgl/0epVr2/s3/denza-n8l-bev.jpg",
       "summary": "Debutta in Cina la Denza N8L, SUV da 5,2 metri che promette quasi 800 km di autonomia. E costa meno della versione plug-in",
       "date": "2026-09-16T10:30:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:a8e1bc6c4b25",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Stellantis sempre più giù in Borsa: che succede?",
-      "url": "https://www.vaielettrico.it/stellantis-sempre-piu-giu-in-borsa-che-succede/",
-      "image": null,
-      "summary": "Stellantis sempre più giù in Borsa: in un anno ha quasi dimezzato il valore (-46,5%), ma è solo… L'articolo Stellantis sempre più giù in Borsa: che succede? proviene da Vaielettrico .",
-      "date": "2026-09-16T09:57:06.0000000Z"
     },
     {
       "id": "insideevs:e84967efd547",
