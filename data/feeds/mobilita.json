@@ -1,7 +1,31 @@
 {
   "category": "mobilita",
-  "updated": "2026-09-18T14:36:52.5493901Z",
+  "updated": "2026-09-18T17:52:17.9892373Z",
   "items": [
+    {
+      "id": "ferrovie:c3a382b97d52",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Ordigno a Pontecagnano, cronaca di una giornata da incubo sui binari italiani",
+      "url": "https://www.ferrovie.info/treni-reali/ordigno-a-pontecagnano-cronaca-di-una-giornata-da-incubo-sui-binari-italiani.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10171/DSC_0533.JPG",
+      "summary": "È iniziato tutto poco dopo le 10 del mattino, con una notizia che in pochi minuti ha trasformato la Tirrenica Meridionale in uno dei punti più critici della rete ferroviaria italiana. A Pontecagnano, sulla linea tra B...",
+      "date": "2026-09-18T17:51:06.0000000Z"
+    },
+    {
+      "id": "ferrovie:e98bada90cc6",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Treni gratis per i grandi cammini del Lazio: Roma-Viterbo e Roma-Cassino con Caput Mundi",
+      "url": "https://www.ferrovie.info/eventi-e-manifestazioni/treni-gratis-per-i-grandi-cammini-del-lazio-roma-viterbo-e-roma-cassino-con-caput-mundi.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10928/tti_roma_8341_1.jpg",
+      "summary": "Treni gratuiti, posti riservati e collegamenti in autobus per raggiungere alcuni dei più importanti cammini del Lazio. È questa la proposta di FS Treni Turistici Italiani con il progetto Antichi Cammini d’Italia | Cap...",
+      "date": "2026-09-18T15:33:04.0000000Z"
+    },
     {
       "id": "ferrovie:fb448964dac2",
       "sourceId": "ferrovie",
@@ -121,30 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10001/torino_lione_839.jpg",
       "summary": "I lavori del tunnel di base della sezione transfrontaliera della Torino-Lione continuano ad avanzare, superando la soglia del 30% dei 164 km complessivi di gallerie da scavare . Attualmente sono 17 i fronti di scavo a...",
       "date": "2026-09-17T11:50:00.0000000Z"
-    },
-    {
-      "id": "ferrovie:c122e711b2c7",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "TUA, oltre 50.000 passeggeri sulla Lanciano-Pescara-Ancona nel primo anno",
-      "url": "https://www.ferrovie.info/treni-reali/tua-oltre-50-000-passeggeri-sulla-lanciano-pescara-ancona-nel-primo-anno.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_POP1.jpg",
-      "summary": "Oltre 50.000 passeggeri in un anno per il collegamento ferroviario TUA sulla direttrice Lanciano–Pescara–Ancona. È il bilancio diffuso dall'azienda in occasione del primo anniversario del servizio, avviato il 15 sette...",
-      "date": "2026-09-17T11:40:04.0000000Z"
-    },
-    {
-      "id": "ferrovie:ed8e13e1f37a",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Alta Velocità Bologna - Milano rallentata a Livraga: ritardi fino a oltre 60 minuti e variazioni ai Frecciarossa",
-      "url": "https://www.ferrovie.info/treni-reali/alta-velocita-bologna-milano-rallentata-a-livraga-ritardi-fino-a-oltre-60-minuti-e-variazioni-ai-frecciarossa.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10529/ETR400_01_-_ETR400_06.jpg",
-      "summary": "Giornata di disagi per i passeggeri dei treni Alta Velocità in viaggio sulla direttrice Bologna-Milano. Dalla mattina la circolazione ferroviaria risulta fortemente rallentata a causa di motivi tecnici in corso di acc...",
-      "date": "2026-09-17T11:02:24.0000000Z"
     }
   ]
 }
