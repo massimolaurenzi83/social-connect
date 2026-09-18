@@ -1,29 +1,137 @@
 {
   "category": "notizie",
-  "updated": "2026-09-18T01:05:15.1543169Z",
+  "updated": "2026-09-18T05:53:30.6138822Z",
   "items": [
     {
-      "id": "repubblica:3389364bbe52",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
+      "id": "open:230a7712b730",
+      "sourceId": "open",
+      "source": "Open",
       "platform": "rss",
       "category": "notizie",
-      "title": "Mar Rosso, il piano di Crosetto per scortare le navi italiane",
-      "url": "https://www.repubblica.it/politica/2026/09/18/news/crosetto_missione_mar_rosso_marina_scortera_navi_italiane-425591830/",
-      "image": null,
-      "summary": "Il ministro pensa di inviare un’imbarcazione in servizio per Aspides per blindare i cargo: “Non aspettiamo la burocrazia Ue”. In corso contatti tra l’intelligence e gli Houthi",
-      "date": "2026-09-17T23:00:00.0000000Z"
+      "title": "Vogliono rimuovere un nido di vespe e provocano un’esplosione nel palazzo",
+      "url": "https://www.open.online/2026/09/18/roma-rimozione-nido-vespe-esplosione-appartamento/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/esplosione-rimozione-nido-vespe-roma-1.jpg",
+      "summary": "Succede a Roma in zona Montesacro. Ferita un'inquilina, abitanti terrorizzati L'articolo Vogliono rimuovere un nido di vespe e provocano un’esplosione nel palazzo proviene da Open .",
+      "date": "2026-09-18T05:20:37.0000000Z"
     },
     {
-      "id": "repubblica:75213a220b59",
+      "id": "open:efaf27292fcf",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Perché Crosetto sfida l’Ue con le navi italiane a Bab el-Mandeb",
+      "url": "https://www.open.online/2026/09/18/crosetto-navi-italia-bab-el-mandeb-unione-europea/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/guido-crosetto-navi-italiane-bab-el-mandeb-unione-europea.jpg",
+      "summary": "Il ministro annuncia il piano per la protezione delle merci che devono raggiungere l'Italia. Dopo i tentativi a Bruxelles sempre frustrati: siamo rimasti soli e allora ci difendiamo da soli L'articolo Perché Crosetto ...",
+      "date": "2026-09-18T05:00:23.0000000Z"
+    },
+    {
+      "id": "repubblica:62164334ad78",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Lo stupore di Schlein per il fuoco amico: “Nessuna trattativa”",
-      "url": "https://www.repubblica.it/politica/2026/09/18/news/schlein_stupore_fuoco_amico_nessuna_trattativa_meloni-425591940/",
+      "title": "La pozione magica dei calciatori",
+      "url": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/09/18/news/la_pozione_magica_dei_calciatori-425592134/",
       "image": null,
-      "summary": "La mancata condivisione alla base dell’irritazione del capo del Movimento. Avs sta lavorando a una proposta di legge unitaria",
+      "summary": "I calciatori e i loro alimenti segreti",
+      "date": "2026-09-18T04:54:14.0000000Z"
+    },
+    {
+      "id": "open:7d7ee3d65032",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "«Sparavo per divertirmi»: la confessione del cecchino di Roma Prati",
+      "url": "https://www.open.online/2026/09/18/roma-prati-cecchino-edoardo-ciardiello-crescimanno-confessione/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/edoardo-ciardiello-crescimanno-cecchino-prati.jpg",
+      "summary": "Chi è Edoardo Ciardiello Crescimanno: l'abbonamento all'Hilton per piscina e palestra, la villa a Fregene e la famiglia L'articolo «Sparavo per divertirmi»: la confessione del cecchino di Roma Prati proviene da Open .",
+      "date": "2026-09-18T04:24:11.0000000Z"
+    },
+    {
+      "id": "open:785f93d548a8",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Insalata, pomodori, melanzane: ecco perché nei supermercati se ne trovano sempre meno",
+      "url": "https://www.open.online/2026/09/18/supermercati-scarsita-insalata-pomodori-alimenti/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/supermercati-alimenti-spariti.jpg",
+      "summary": "Gli avvisi nei negozi: caldo prolungato, siccità, alluvioni colpiscono la produzione L'articolo Insalata, pomodori, melanzane: ecco perché nei supermercati se ne trovano sempre meno proviene da Open .",
+      "date": "2026-09-18T03:43:51.0000000Z"
+    },
+    {
+      "id": "repubblica:cdb9e6161219",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Anthropic: “Il nostro chatbot Claude guida il 26% della nostra ricerca e sviluppo sull’Ia”",
+      "url": "https://www.repubblica.it/economia/2026/09/18/news/anthropic_il_nostro_chatbot_claude_guida_il_26_della_nostra_ricerca_e_sviluppo_sull_ia-425592124/",
+      "image": null,
+      "summary": "L’azienda ha spiegato anche come lo stesso assistente virtuale stia anche lavorando alla sua versione futura",
+      "date": "2026-09-18T03:40:41.0000000Z"
+    },
+    {
+      "id": "open:7aa48f247089",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Omicidi con la ricina, la certezza degli investigatori: «Il veleno negli alimenti»",
+      "url": "https://www.open.online/2026/09/18/pietracatella-omicidi-ricina-veleno-alimenti/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/omcidi-ricina-pietracatella-veleno-alimenti-1.jpg",
+      "summary": "Le indiscrezioni sui risultati delle analisi. E la persona accusata di favoreggiamento L'articolo Omicidi con la ricina, la certezza degli investigatori: «Il veleno negli alimenti» proviene da Open .",
+      "date": "2026-09-18T03:23:15.0000000Z"
+    },
+    {
+      "id": "repubblica:4d5223d77c73",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Smart working addio? Quando l'azienda è obbligata a dire sì",
+      "url": "https://www.repubblica.it/economia/diritti-e-consumi/lavoro/2026/09/18/news/smart_working_addio_azienda_obbligata-425591636/",
+      "image": null,
+      "summary": "Dal caso di Beatrice Baratto, che si è dimessa dopo essersi vista negare lavoro agile e part-time, alla stretta crescente delle aziende. Ecco tutte le risposte su un tema che genera molta confusione, soprattutto dopo ...",
+      "date": "2026-09-18T03:00:00.0000000Z"
+    },
+    {
+      "id": "open:c4703f5837c0",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il bacio tra Sigfrido Ranucci e Maria Rosaria Boccia: «È un uomo meraviglioso, lo stimo»",
+      "url": "https://www.open.online/2026/09/18/sigfrido-ranucci-bacio-maria-rosaria-boccia-lavitola-potenza/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/valter-lavitola-natalia-potenza-sigfrido-ranucci-maria-rosaria-boccia-bacio-libro.jpg",
+      "summary": "La storia raccontata da Natalia Potenza ai magistrati. Lavitola: «È scemo, ora non può più candidarsi». Le ipotesi su una foto che li ritrae e sulla provenienza. L'indagine per maltrattamenti e quella per stalking L'a...",
+      "date": "2026-09-18T02:40:39.0000000Z"
+    },
+    {
+      "id": "repubblica:ab898e000a24",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Manager di Microsoft: “L’addestramento dell'Ia è il più grande furto di lavoro della storia”",
+      "url": "https://www.repubblica.it/economia/2026/09/18/news/microsoft_openai_new_york_times_copyright_causa_addestramento_ia-425592023/",
+      "image": null,
+      "summary": "Le dichiarazioni sono contenute in alcuni documenti appena desecretati che riguardano la causa legale intentata dal New York Times per violazione del copyright",
+      "date": "2026-09-18T02:28:15.0000000Z"
+    },
+    {
+      "id": "repubblica:8693ec2a8059",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Energia, Marengo: “La politica si è svegliata, il governo è stato assente”",
+      "url": "https://www.repubblica.it/politica/2026/09/18/news/marengo_energia_politica_svegliata_governo_assente_intervista-425591946/",
+      "image": null,
+      "summary": "Il referente nazionale della Confapi: “Manca l’ascolto delle famiglie e delle imprese”",
       "date": "2026-09-17T23:00:00.0000000Z"
     },
     {
@@ -39,51 +147,15 @@
       "date": "2026-09-17T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:8693ec2a8059",
+      "id": "repubblica:75213a220b59",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Energia, Marengo: “La politica si è svegliata, il governo è stato assente”",
-      "url": "https://www.repubblica.it/politica/2026/09/18/news/marengo_energia_politica_svegliata_governo_assente_intervista-425591946/",
+      "title": "Lo stupore di Schlein per il fuoco amico: “Nessuna trattativa”",
+      "url": "https://www.repubblica.it/politica/2026/09/18/news/schlein_stupore_fuoco_amico_nessuna_trattativa_meloni-425591940/",
       "image": null,
-      "summary": "Il referente nazionale della Confapi: “Manca l’ascolto delle famiglie e delle imprese”",
-      "date": "2026-09-17T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:b66671ccc970",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Fertitta: “Trump e Meloni torneranno a parlarsi, l’Italia è un Paese amico”",
-      "url": "https://www.repubblica.it/esteri/2026/09/18/news/intervista_ambasciatore_usa_fertitta_trump_meloni_torneranno_a_parlarsi_italia_paese_amico-425591872/",
-      "image": null,
-      "summary": "L’ambasciatore degli Stati Uniti in Italia: “Non ho mai conosciuto Vannacci, lavoro con l’attuale governo. Gli Usa potrebbero spostare parte delle truppe in altre nazioni”",
-      "date": "2026-09-17T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:cba047d580b7",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "De Pascale: “Gli italiani non si fanno comprare. È solo propaganda”",
-      "url": "https://bologna.repubblica.it/cronaca/2026/09/18/news/bollo_auto_de_pascale_intervista-425591936/",
-      "image": null,
-      "summary": "Il presidente dell’Emilia-Romagna: “La norma è finanziata a debito. C’è il rischio che alla fine i cittadini finiscano per pagare più della riduzione della tassa”",
-      "date": "2026-09-17T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:59bb4bf58f84",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Bollo auto, conto medio di 163 euro a veicolo. Per Salvini 24 milioni di beneficiari",
-      "url": "https://www.repubblica.it/economia/2026/09/18/news/bollo_auto_conto_medio_di_163_euro_a_veicolo_per_salvini_24_milioni_di_beneficiari-425591899/",
-      "image": null,
-      "summary": "I numeri del Mit sono diversi da quelli di Palazzo Chigi: mercoledì si parlava di 14,5 milioni di vetture interessate",
+      "summary": "La mancata condivisione alla base dell’irritazione del capo del Movimento. Avs sta lavorando a una proposta di legge unitaria",
       "date": "2026-09-17T23:00:00.0000000Z"
     },
     {
@@ -99,6 +171,42 @@
       "date": "2026-09-17T23:00:00.0000000Z"
     },
     {
+      "id": "repubblica:59bb4bf58f84",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Bollo auto, conto medio di 163 euro a veicolo. Per Salvini 24 milioni di beneficiari",
+      "url": "https://www.repubblica.it/economia/2026/09/18/news/bollo_auto_conto_medio_di_163_euro_a_veicolo_per_salvini_24_milioni_di_beneficiari-425591899/",
+      "image": null,
+      "summary": "I numeri del Mit sono diversi da quelli di Palazzo Chigi: mercoledì si parlava di 14,5 milioni di vetture interessate",
+      "date": "2026-09-17T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:cba047d580b7",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "De Pascale: “Gli italiani non si fanno comprare. È solo propaganda”",
+      "url": "https://bologna.repubblica.it/cronaca/2026/09/18/news/bollo_auto_de_pascale_intervista-425591936/",
+      "image": null,
+      "summary": "Il presidente dell’Emilia-Romagna: “La norma è finanziata a debito. C’è il rischio che alla fine i cittadini finiscano per pagare più della riduzione della tassa”",
+      "date": "2026-09-17T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:b66671ccc970",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Fertitta: “Trump e Meloni torneranno a parlarsi, l’Italia è un Paese amico”",
+      "url": "https://www.repubblica.it/esteri/2026/09/18/news/intervista_ambasciatore_usa_fertitta_trump_meloni_torneranno_a_parlarsi_italia_paese_amico-425591872/",
+      "image": null,
+      "summary": "L’ambasciatore degli Stati Uniti in Italia: “Non ho mai conosciuto Vannacci, lavoro con l’attuale governo. Gli Usa potrebbero spostare parte delle truppe in altre nazioni”",
+      "date": "2026-09-17T23:00:00.0000000Z"
+    },
+    {
       "id": "repubblica:ab0008d2734b",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -108,42 +216,6 @@
       "url": "https://www.repubblica.it/economia/2026/09/18/news/benzina_rincari_gasolio_record_agosto_consumi_petrolieri_vendite-425591879/",
       "image": null,
       "summary": "Ad agosto vendite ai massimi da 15 anni, nuovo balzo anche per il gasolio. Da oggi sconti ridotti a 12,2 centesimi",
-      "date": "2026-09-17T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:14c12a3e190e",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Il dissidente: “La protesta cresce e ora Putin teme i voti contro la guerra”",
-      "url": "https://www.repubblica.it/esteri/2026/09/18/news/intervista_kara_murza_dissidente_russo_protesta_cresce_ora_putin_teme_voti_contro_guerra-425591789/",
-      "image": null,
-      "summary": "L’oppositore russo Kara-Murza invita a trasformare le elezioni della Duma in una protesta: “Tutti alle urne alle 12 per annullare la scheda”",
-      "date": "2026-09-17T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:64b59bcdd089",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Meloni agli europei su Mosca: “Non rispondere alle provocazioni”",
-      "url": "https://www.repubblica.it/politica/2026/09/18/news/meloni_europei_russia_non_rispondere_provocazioni-425591833/",
-      "image": null,
-      "summary": "La premier a Oslo ha incontrato il primo ministro norvegese Jonas Gahr Store. La presa di distanza dagli altri big continentali",
-      "date": "2026-09-17T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:334c0d70ce5a",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Sulle tv israeliane solo il 7 ottobre così Israele non si accorge di Gaza",
-      "url": "https://www.repubblica.it/esteri/2026/09/18/news/in_tv_solo_immagini_7_ottobre_perche_israele_non_vede_gaza-425591464/",
-      "image": null,
-      "summary": "Dopo l’attacco di Hamas le reti e molti quotidiani hanno sposato la narrativa del governo. E i civili palestinesi sono spariti dalla coscienza collettiva",
       "date": "2026-09-17T23:00:00.0000000Z"
     },
     {
@@ -181,6 +253,18 @@
       "image": null,
       "summary": "Woltemade e Kolo Muani si sbloccano tra gli svarioni degli olandesi",
       "date": "2026-09-17T21:03:20.0000000Z"
+    },
+    {
+      "id": "ansa:c33654ab5ebe",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Stop bollo auto, già si pensa ad allargarlo per le famiglie numerose",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/09/17/meloni-il-bollo-abolito-non-solo-per-il-2027-la-misura-e-strutturale.-le-stime_01a925ca-c780-4377-be0c-cc6e8f2b45e0.html",
+      "image": null,
+      "summary": "Nel decreto 1,7 miliardi di coperture da economie del Pnrr. Caccia a fondi per la manovra",
+      "date": "2026-09-17T20:47:56.0000000Z"
     },
     {
       "id": "open:b098c7effd0e",
@@ -279,18 +363,6 @@
       "date": "2026-09-17T19:37:39.0000000Z"
     },
     {
-      "id": "open:04879eb8a6c1",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Ricercatore di Teramo crea un’AI e lei gli regala un orologio da 30 euro (comprandolo con la sua carta di credito)",
-      "url": "https://www.open.online/2026/09/17/ricercatore-teramo-intelligenza-artificiale-compra-orologio-regalo/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/Giovanni-Micolucci.jpg",
-      "summary": "Il modello si chiama \"Fiore\": dopo aver memorizzato che il suo creatore fosse un appassionato di orologi, ha deciso di acquistarne uno contrattando con un venditore su Subito.it L'articolo Ricercatore di Teramo crea u...",
-      "date": "2026-09-17T19:33:18.0000000Z"
-    },
-    {
       "id": "ansa:ea9aa07f6021",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -303,30 +375,6 @@
       "date": "2026-09-17T19:07:05.0000000Z"
     },
     {
-      "id": "open:7195b92d382e",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Meloni risponde alla lettera di Schlein: «Valuterò senza pregiudizi, ma riconosce il nostro lavoro». Conte: «Nessun dialogo con questo governo»",
-      "url": "https://www.open.online/2026/09/17/meloni-risponde-lettera-schlein-transizione-energetica-oslo/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/giorgia-meloni-lettera-elly-schlein.jpeg",
-      "summary": "Da Oslo la premier apre all'analisi delle idee dem sui 14 miliardi per l'energia, ma punge la minoranza. Il leader del M5s prende le distanze dal Pd: «Non ci sono le condizioni per lavorare insieme a chi vuole le triv...",
-      "date": "2026-09-17T19:03:09.0000000Z"
-    },
-    {
-      "id": "ansa:e0e37a4b332a",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Il giudice: 'L'aggressione al rabbino violenta e dettata da odio religioso'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/il-giudice-laggressione-al-rabbino-violenta-e-dettata-da-odio-religioso_73a2b425-fbae-4767-a945-6e173ee23f83.html",
-      "image": null,
-      "summary": "'Un calcio e gesti di scherno', obbligo di firma a 20enne. Fratello, 'non siamo razzisti'",
-      "date": "2026-09-17T18:27:52.0000000Z"
-    },
-    {
       "id": "ansa:57934333d994",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -337,54 +385,6 @@
       "image": null,
       "summary": "Prime indicazioni da Berlino, ma la difesa non esclude l'incidente",
       "date": "2026-09-17T18:26:09.0000000Z"
-    },
-    {
-      "id": "open:7cf4366cd126",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Treni in tilt a Roma Termini, ritardi fino a 100 minuti per un guasto nel Livornese. Disagi anche in Puglia e Sicilia",
-      "url": "https://www.open.online/2026/09/17/roma-termini-treni-ritardi-guasto-livorno-vada-cecina/",
-      "image": "https://static.open.online/wp-content/uploads/2026/07/Caos-treni-ritardi-milano-firenze.jpeg",
-      "summary": "La circolazione è fortemente rallentata sulla linea Tirrenica per un inconveniente tecnico tra Vada e Cecina. Ripercussioni su Frecce e Intercity diretti nella Capitale, con altri blocchi segnalati a Castellaneta e Si...",
-      "date": "2026-09-17T18:20:48.0000000Z"
-    },
-    {
-      "id": "open:8c2f96e8b994",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Jet militari russi violano lo spazio aereo della Lituania: decollano i caccia italiani",
-      "url": "https://www.open.online/2026/09/17/jet-militari-russi-violano-spazio-aereo-lituania-decollano-caccia-italiani/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/caccia-italiani-nato-drone-lituania.jpg",
-      "summary": "Due Eurofighter dell'Aeronautica Militare sono partiti d'urgenza dalla base di Šiauliai per intercettare i due velivoli di Mosca. L'operazione della Task Force «Baltic Thunder III» è stata coordinata dal comando allea...",
-      "date": "2026-09-17T17:59:31.0000000Z"
-    },
-    {
-      "id": "open:66f536eb375a",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Grillo torna all’attacco di Conte, la stoccata a Pulp Podcast: «Il M5S? Di progressista ha solo la paralisi mentale»",
-      "url": "https://www.open.online/2026/09/17/beppe-grillo-conte-m5s-pulp-podcast-fedez-mr-marra/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/grillo-pulp-podcast.jpg",
-      "summary": "Il fondatore del Movimento 5 Stelle nell’anticipazione di Pulp Podcast con Fedez e Mr. Marra: «Oggi il M5s è in mano ad un reverendo che sussurra ai cavilli». E sul futuro avverte: «Andiamo verso un caos straordinario...",
-      "date": "2026-09-17T17:44:57.0000000Z"
-    },
-    {
-      "id": "open:1b1aaf58f795",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Guerra con l’Iran, Crosetto: «Pronti a far passare le navi italiane a Bab el-Mandeb senza aspettare l’Ue»",
-      "url": "https://www.open.online/2026/09/17/guerra-iran-crosetto-bab-el-mandeb-navi-italiane-aspides-ue/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/guido-crosetto.jpeg",
-      "summary": "Il ministro della Difesa annuncia al Forum \"Risorsa Mare\" che l'Italia è pronta a scortare i mercantili con la Marina contro le minacce Houthi: «La burocrazia europea ritarda l'economia». La decisione sull'invio delle...",
-      "date": "2026-09-17T17:21:49.0000000Z"
     },
     {
       "id": "ansa:d93c84fa80d6",

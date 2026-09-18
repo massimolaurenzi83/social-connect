@@ -1,7 +1,67 @@
 {
   "category": "tecnologia",
-  "updated": "2026-09-18T01:05:15.1851942Z",
+  "updated": "2026-09-18T05:53:30.6057018Z",
   "items": [
+    {
+      "id": "hdblog:978af8b7e5a4",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Euro-Office arriva su PC: la sfida europea a Microsoft Office",
+      "url": "https://www.hdblog.it/windows/articoli/n670811/euro-office-app-desktop-windows-linux-macos/",
+      "image": null,
+      "summary": "Euro-Office prepara lapp desktop per Windows, Linux e macOS.",
+      "date": "2026-09-18T05:45:00.0000000Z"
+    },
+    {
+      "id": "hdblog:24782ed47264",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "LAGI corre, DeepMind vuole nuove regole prima che sia tardi",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n670812/deepmind-istituto-agi-sicurezza-ai/",
+      "image": null,
+      "summary": "DeepMind apre un istituto per discutere sicurezza, controllo e regole dellAGI.",
+      "date": "2026-09-18T05:35:00.0000000Z"
+    },
+    {
+      "id": "tomshw:feb31da4e678",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Migliori PC assemblati gaming (2026)",
+      "url": "https://www.tomshw.it/guide/guida-acquisto-pc-assemblato",
+      "image": "https://cdn.tomshw.it/storage/media/2024/04/18691/Configurazione-NextHS-RTX-4070-SUPER-5.jpg",
+      "summary": "I migliori PC assemblati gaming sono configurazioni bilanciate per la risoluzione del monitor, con almeno 16GB di RAM, SSD NVMe e componenti standard aggiornabili. Per scegliere bene, partite dalla sc...",
+      "date": "2026-09-18T05:19:25.0000000Z"
+    },
+    {
+      "id": "hdblog:18246aa4b3d2",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Apple Store, confermato lo sciopero: stop nel giorno dei nuovi iPhone 18 Pro",
+      "url": "https://www.hdblog.it/smartphone/articoli/n670787/apple-store-confermato-sciopero-domani/",
+      "image": null,
+      "summary": "Domani i dipendenti di Apple Retail Italia incroceranno le braccia.",
+      "date": "2026-09-18T05:10:00.0000000Z"
+    },
+    {
+      "id": "dday:a98f8ffb3197",
+      "sourceId": "dday",
+      "source": "DDay.it",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Unieuro cambia lo store fisico: a Lissone il nuovo format che mette il cliente al centro. Letteralmente",
+      "url": "https://www.dday.it/redazione/58787/unieuro-cambia-lo-store-fisico-a-lissone-il-nuovo-format-che-il-cliente-al-centro-letteralmente",
+      "image": null,
+      "summary": "",
+      "date": "2026-09-18T05:00:00.0000000Z"
+    },
     {
       "id": "tomshw:351b18acacc6",
       "sourceId": "tomshw",
@@ -135,18 +195,6 @@
       "date": "2026-09-17T17:19:00.0000000Z"
     },
     {
-      "id": "hdblog:18246aa4b3d2",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Apple Store, confermato lo sciopero: domani stop nel giorno dei nuovi iPhone",
-      "url": "https://www.hdblog.it/smartphone/articoli/n670787/apple-store-confermato-sciopero-domani/",
-      "image": null,
-      "summary": "Domani i dipendenti di Apple Retail Italia incroceranno le braccia.",
-      "date": "2026-09-17T17:03:00.0000000Z"
-    },
-    {
       "id": "hdblog:3f5a2ceb4bf1",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -159,18 +207,6 @@
       "date": "2026-09-17T17:00:14.0000000Z"
     },
     {
-      "id": "tomshw:0c05b70cdbb4",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Meglio comprare AirPods 4 ora o aspettare AirPods 5?",
-      "url": "https://www.tomshw.it/smartphone/meglio-comprare-airpods-4-ora-o-aspettare-airpods-5",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113400/meglio-comprare-airpods-4-ora-o-aspettare-airpods-5.png",
-      "summary": "Gli AirPods 4 senza ANC si comprano nuovi in Italia nella fascia 110–130 €, ma gli AirPods 5 sono in preordine con cancellazione attiva del rumore e prezzo ufficiale di 149 €, in uscita il 18 settembr...",
-      "date": "2026-09-17T17:00:00.0000000Z"
-    },
-    {
       "id": "tomshw:f9890db310a5",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -180,6 +216,18 @@
       "url": "https://www.tomshw.it/smartphone/airpods-5-data-e-cosa-sappiamo-sulluscita",
       "image": "https://cdn.tomshw.it/storage/media/2026/09/113398/airpods-5-data-e-cosa-sappiamo-sull-uscita.png",
       "summary": "Le AirPods 5 escono venerdì 18 settembre 2026, anche in Italia. Apple le ha presentate il 9 settembre e ha già aperto i preordini: il calendario è quindi ufficiale. Per chi cerca una data, le ipotesi...",
+      "date": "2026-09-17T17:00:00.0000000Z"
+    },
+    {
+      "id": "tomshw:0c05b70cdbb4",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Meglio comprare AirPods 4 ora o aspettare AirPods 5?",
+      "url": "https://www.tomshw.it/smartphone/meglio-comprare-airpods-4-ora-o-aspettare-airpods-5",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113400/meglio-comprare-airpods-4-ora-o-aspettare-airpods-5.png",
+      "summary": "Gli AirPods 4 senza ANC si comprano nuovi in Italia nella fascia 110–130 €, ma gli AirPods 5 sono in preordine con cancellazione attiva del rumore e prezzo ufficiale di 149 €, in uscita il 18 settembr...",
       "date": "2026-09-17T17:00:00.0000000Z"
     },
     {
@@ -205,18 +253,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/09/114062/Porsche-Sportscar-Togheter-Day-2026-(7).jpg",
       "summary": "Il Porsche Experience Center (PEC) Franciacorta ha fatto da cornice allo Sportscar Together Day 2026, l'evento globale che lo scorso sabato 12 settembre ha riunito simultaneamente le community della C...",
       "date": "2026-09-17T16:54:00.0000000Z"
-    },
-    {
-      "id": "tomshw:ebcc47863ac3",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "ChatGPT, pubblicità nelle chat in forma di Agenti Sponsorizzati",
-      "url": "https://www.tomshw.it/business/chatgpt-pubblicita-nelle-chat-in-forma-di-agenti-sponsorizzati",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113920/03-chatgpt-agenti-sponsorizzati.jpg",
-      "summary": "OpenAI ha annunciato mercoledì 16 settembre di aver iniziato a testare gli Sponsored Agents, agenti AI sponsorizzati dalle aziende che conversano con chi clicca su un annuncio dentro ChatGPT. La conve...",
-      "date": "2026-09-17T16:50:09.0000000Z"
     },
     {
       "id": "hdblog:a0407a51bfd3",
@@ -265,30 +301,6 @@
       "image": null,
       "summary": "Cosa dice la proposta della Commissione europea, tra sicurezza e privacy.",
       "date": "2026-09-17T16:25:00.0000000Z"
-    },
-    {
-      "id": "hdblog:addcc1b2f6ea",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Honor MagicOS 11 è ufficiale: sì, con quegli effetti Liquid Glass somiglia tanto a iOS",
-      "url": "https://www.hdblog.it/smartphone/articoli/n670771/honor-magicos-11-liquid-glass-novita-modelli-quali/",
-      "image": null,
-      "summary": "A dettare la linea estetica di un sistema aperto all'interpretazione dei vari produttori come Android non è tanto Google, quanto Apple, specie per quanto riguarda i marchi cinesi. A...",
-      "date": "2026-09-17T16:20:00.0000000Z"
-    },
-    {
-      "id": "hdblog:7306d6cfbf0a",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "iPhone Duo, regalo a Samsung? Su del 10% le vendite di Galaxy Z Fold8",
-      "url": "https://www.hdblog.it/smartphone/articoli/n670775/galaxy-z-fold8-vendite-crescono-corea-iphone-duo/",
-      "image": null,
-      "summary": "Le vendite di Samsung Galaxy Z Fold8 in Corea del Sud sarebbero aumentate di circa il 10% nella settimana successiva alla presentazione di iPhone Duo, il primo pieghevole Apple",
-      "date": "2026-09-17T16:10:00.0000000Z"
     },
     {
       "id": "dday:bf6fbc1aa227",
@@ -421,18 +433,6 @@
       "image": null,
       "summary": "",
       "date": "2026-09-17T09:03:00.0000000Z"
-    },
-    {
-      "id": "dday:809f726de6f8",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Google Traduttore, la traduzione vocale offline arriva sui Pixel: la nostra (breve) prova",
-      "url": "https://www.dday.it/redazione/58776/google-traduttore-la-traduzione-vocale-offline-arriva-sui-pixel-la-nostra-breve-prova",
-      "image": null,
-      "summary": "",
-      "date": "2026-09-17T08:40:00.0000000Z"
     },
     {
       "id": "wired-it:e2c596a919a4",

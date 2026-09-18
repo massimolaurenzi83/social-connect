@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-09-18T01:05:15.1511810Z",
+  "updated": "2026-09-18T05:53:30.6159101Z",
   "items": [
+    {
+      "id": "insideevs:0149b5341eda",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Quanto si risparmia ricaricando l'auto di notte?",
+      "url": "https://insideevs.it/news/808631/auto-elettrica-quando-conviene-ricaricare-tariffe/",
+      "image": "https://cdn.motor1.com/images/mgl/JO6Xvg/s3/quanto-si-risparmia-ricaricando-l-auto-di-notte.jpg",
+      "summary": "Cosa significano le fasce orarie dell'elettricità F1, F2 e F3 e come usarle per spendere meno con auto elettrica e casa",
+      "date": "2026-09-18T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:a5ff5d62fb0d",
       "sourceId": "vaielettrico",
@@ -231,15 +243,15 @@
       "date": "2026-09-17T11:30:05.0000000Z"
     },
     {
-      "id": "motor1:82528104d34d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
+      "id": "hdmotori:4edeb2e91e71",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
       "platform": "rss",
       "category": "motori",
-      "title": "Come sarà la nuova Jeep Renegade",
-      "url": "https://it.motor1.com/news/808071/nuova-jeep-renegade-2027-render/",
-      "image": "https://cdn.motor1.com/images/mgl/P3Voo2/s3/jeep-renegade-2027-il-render-di-motor1.com.jpg",
-      "summary": "Potrebbe arrivare nel 2027 e basarsi sulla nuova piattaforma STLA One. Ecco le prime indicazioni sul ritorno della Renegade",
+      "title": "Bollo auto 2027, quali sono i modelli che non lo pagheranno",
+      "url": "https://www.hdmotori.it/abolizione-bollo-auto-2027-modelli-esenti/",
+      "image": null,
+      "summary": "Il decreto cancella la tassa dal 2027 per il 70% dei veicoli entro gli 80 kW. Sconto su utilitarie e citycar, ma per i motori con più di 110 CV l'imposta resta obbligatoria The post Bollo auto 2027, quali sono i model...",
       "date": "2026-09-17T11:00:00.0000000Z"
     },
     {
@@ -255,15 +267,15 @@
       "date": "2026-09-17T11:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:4edeb2e91e71",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "motor1:82528104d34d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Bollo auto 2027, quali sono i modelli che non lo pagheranno",
-      "url": "https://www.hdmotori.it/abolizione-bollo-auto-2027-modelli-esenti/",
-      "image": null,
-      "summary": "Il decreto cancella la tassa dal 2027 per il 70% dei veicoli entro gli 80 kW. Sconto su utilitarie e citycar, ma per i motori con più di 110 CV l'imposta resta obbligatoria The post Bollo auto 2027, quali sono i model...",
+      "title": "Come sarà la nuova Jeep Renegade",
+      "url": "https://it.motor1.com/news/808071/nuova-jeep-renegade-2027-render/",
+      "image": "https://cdn.motor1.com/images/mgl/P3Voo2/s3/jeep-renegade-2027-il-render-di-motor1.com.jpg",
+      "summary": "Potrebbe arrivare nel 2027 e basarsi sulla nuova piattaforma STLA One. Ecco le prime indicazioni sul ritorno della Renegade",
       "date": "2026-09-17T11:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/ojEbnb/s3/catl-tectrans-ii.jpg",
       "summary": "La TECTRANS II è progettata per i veicoli commerciali elettrici e punta a ridurre tempi e costi di sviluppo",
       "date": "2026-09-16T07:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:dd82a7426486",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Elettriche usate, cresce la domanda ma mancano le auto",
-      "url": "https://insideevs.it/news/808382/auto-elettriche-usate-domanda/",
-      "image": "https://cdn.motor1.com/images/mgl/RqbJbe/s3/elettriche-usate-cresce-la-domanda-ma-mancano-le-auto.jpg",
-      "summary": "La quota delle BEV usate vendute sale all'3,06%, ma la loro presenza nei piazzali dei concessionari scende al 2,5%",
-      "date": "2026-09-16T05:00:00.0000000Z"
     }
   ]
 }
