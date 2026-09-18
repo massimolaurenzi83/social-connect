@@ -1,7 +1,91 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-18T10:26:17.4577237Z",
+  "updated": "2026-09-18T14:36:52.4466996Z",
   "items": [
+    {
+      "id": "cybersecurity360:5709ba343dcf",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il SOC non basta più: perché la cyber resilience richiede un nuovo modello di Security Operations",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/il-soc-non-basta-piu-perche-la-cyber-resilience-richiede-un-nuovo-modello-di-security-operations/",
+      "image": null,
+      "summary": "L'evoluzione delle minacce, la convergenza tra IT/OT e gli obblighi normativi stanno ridefinendo il ruolo dei Security Operations Center. Il progetto HyperSOC di HWG Sababa propone un modello SOC-as-a-Service che inte...",
+      "date": "2026-09-18T14:26:59.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:89ce31fc69a3",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Controllo (dis)umano",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/controllo-disumano/",
+      "image": null,
+      "summary": "Quando c'è un incidente provocato da un modello di IA, o da un agente, il discorso viene convenientemente orientato verso il disallineamento evitando di parlare di gestione del rischio. Uno spostamento d'attenzione ch...",
+      "date": "2026-09-18T14:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:8b93acf59844",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber security e safety: perché la resilienza industriale passa dalla comprensione del contesto operativo",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-security-e-safety-perche-la-resilienza-industriale-passa-dalla-comprensione-del-contesto-operativo/",
+      "image": null,
+      "summary": "Negli ambienti industriali un incidente cyber può produrre conseguenze che vanno ben oltre il perimetro digitale. Il progetto sviluppato da Gyala mostra come integrare cyber, safety e resilienza operativa attraverso u...",
+      "date": "2026-09-18T13:38:32.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:c7c66d454721",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "La sovranità digitale richiede un modello operativo: perché ogni stakeholder ha il suo ruolo",
+      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/la-sovranita-digitale-richiede-un-modello-operativo-perche-ogni-stakeholder-ha-il-suo-ruolo/",
+      "image": null,
+      "summary": "Una dipendenza strategica può diventare particolarmente critica quando i quadri normativi divergono, l'accesso ai servizi viene messo in discussione o uno shock geopolitico riduce i margini di manovra. Ecco perché ser...",
+      "date": "2026-09-18T13:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:2fc3574c3600",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Kaspersky Small Office Security: la strategia di protezione e Security Awareness per le PMI",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/kaspersky-small-office-security-protezione-aziende-cybersecurity/",
+      "image": null,
+      "summary": "Kaspersky Small Office Security integra antivirus, protezione dei server, VPN, gestione delle password e strumenti contro phishing e ransomware. La versione Premium aggiunge assistenza IT e Security Awareness, con un’...",
+      "date": "2026-09-18T10:57:06.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d26adf20ee50",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il GDPR come disciplina delle soglie: proteggere i dati significa governare gli accessi",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/il-gdpr-come-disciplina-delle-soglie-proteggere-i-dati-significa-governare-gli-accessi/",
+      "image": null,
+      "summary": "Privacy by design e security by design non coincidono, ma convergono nel governo selettivo degli accessi. Ecco perché proteggere i dati non significa chiudere ogni porta, bensì disegnare soglie appropriate, tracciabil...",
+      "date": "2026-09-18T08:28:29.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:c292edd4645d",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Intelligenza artificiale e modello 231: cosa cambia per la compliance aziendale",
+      "url": "https://www.cybersecurity360.it/legal/intelligenza-artificiale-e-modello-231-cosa-cambia-per-la-compliance-aziendale/",
+      "image": null,
+      "summary": "Gli interventi normativi ridisegnano il perimetro della responsabilità delle imprese . Ecco cosa succede se un sistema di IA ad alto rischio causa un danno e l’azienda non ha predisposto adeguate misure, commisurate a...",
+      "date": "2026-09-18T07:52:46.0000000Z"
+    },
     {
       "id": "cybersecurity360:15281f924390",
       "sourceId": "cybersecurity360",
@@ -37,90 +121,6 @@
       "image": null,
       "summary": "Per OpenAI l’attacco a RubyGems rappresenterebbe almeno il terzo caso rilevante in cui i suoi agenti hanno attaccato l’infrastruttura di un’altra azienda , dopo il caso Hugging Face. Anthropic ha contato finora quattr...",
       "date": "2026-09-17T15:04:14.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:4968fc0053d3",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Architettura Zero Trust e falle di sicurezza",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/architettura-zero-trust-e-falle-di-sicurezza/",
-      "image": null,
-      "summary": "Le eccezioni aziendali e l'evoluzione dell'intelligenza artificiale mettono a dura prova l'efficacia dei modelli di Zero Trust, costringendo i responsabili della sicurezza a ridefinire la gestione delle identità e del...",
-      "date": "2026-09-17T13:40:22.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:4d5176e0e703",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Passkey e phishing, la nuova trappola per compromettere le identità cloud Microsoft",
-      "url": "https://www.cybersecurity360.it/news/passkey-e-phishing-la-nuova-trappola-per-compromettere-le-identita-cloud-microsoft/",
-      "image": null,
-      "summary": "Le passkey resistono al phishing, ma possono anche diventare il pretesto per renderlo più credibile. Microsoft ha individuato campagne in cui falsi aggiornamenti di sicurezza portano alla compromissione delle identità...",
-      "date": "2026-09-17T13:12:04.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:7420f7d3acf3",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber sicurezza aziendale e gestione delle credenziali: NordPass Business spinge su Zero-Trust e promozione autunnale",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/nordpass-business-password-manager-promozione-autunno-2026/",
-      "image": null,
-      "summary": "NordPass propone una gestione centralizzata delle credenziali aziendali con crittografia XChaCha20, autenticatore TOTP e strumenti per controllare gli accessi. Il codice NPFALL26 consente di risparmiare fino al 10% su...",
-      "date": "2026-09-17T09:21:07.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:e514cba44474",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "AI e modello 231: il rischio penale entra nella governance dei sistemi ad alto rischio",
-      "url": "https://www.cybersecurity360.it/legal/ai-e-modello-231-il-rischio-penale-entra-nella-governance-dei-sistemi-ad-alto-rischio/",
-      "image": null,
-      "summary": "L’ingresso del nuovo art. 437-bis tra i reati presupposto 231 porta i sistemi AI ad alto rischio dentro la governance dell’impresa. Dalla loro classificazione alla sorveglianza umana, fino ai fornitori e ai controlli ...",
-      "date": "2026-09-17T08:19:35.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:bd9ef8ab97f0",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il ciclo di vita dell’identità come superficie d’attacco",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/il-ciclo-di-vita-dellidentita-come-superficie-dattacco/",
-      "image": null,
-      "summary": "Le fasi di enrollment, recovery e sessione dipendono da controlli di natura diversa e proprio su queste si sta concentrando l'attenzione degli attaccanti. Ecco la gap analysis, le contromisure applicabili e ciò che NI...",
-      "date": "2026-09-17T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:78abb4d672e3",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Managed Detection & Response: perché la vera sfida oggi è personalizzare la detection",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/managed-detection-response-perche-la-vera-sfida-oggi-e-personalizzare-la-detection/",
-      "image": null,
-      "summary": "Nel settore finanziario, dove DORA e NIS2 impongono requisiti sempre più stringenti in materia di resilienza operativa, un MDR standard può non essere sufficiente. Il progetto sviluppato da Certego insieme a TrendAI m...",
-      "date": "2026-09-16T16:23:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:f6ad31796edb",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Supply chain cyber risk: come AI e automazione stanno cambiando il Vendor Risk Management",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/supply-chain-cyber-risk-come-ai-e-automazione-stanno-cambiando-il-vendor-risk-management/",
-      "image": null,
-      "summary": "La NIS2 impone di estendere la gestione del rischio anche ai fornitori. Il progetto SupplyShield di Arsenalia mostra come trasformare il Third Party Risk Management da processo manuale e frammentato a modello continuo...",
-      "date": "2026-09-16T15:18:48.0000000Z"
     }
   ]
 }

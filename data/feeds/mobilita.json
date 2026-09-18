@@ -1,7 +1,43 @@
 {
   "category": "mobilita",
-  "updated": "2026-09-18T10:26:17.4718570Z",
+  "updated": "2026-09-18T14:36:52.5493901Z",
   "items": [
+    {
+      "id": "ferrovie:fb448964dac2",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Ferrovia Cancello–Benevento, EAV indica l’autunno 2027 per la riapertura",
+      "url": "https://www.ferrovie.info/treni-reali/ferrovia-cancello-benevento-eav-indica-lautunno-2027-per-la-riapertura.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10002/761D3558.jpg",
+      "summary": "La riapertura della ferrovia Cancello–Benevento torna al centro del dibattito dopo il nuovo orizzonte temporale indicato da EAV. Il sindaco di Montesarchio, Carmelo Sandomenico, chiede chiarezza sul cronoprogramma per...",
+      "date": "2026-09-18T13:27:30.0000000Z"
+    },
+    {
+      "id": "ferrovie:468df2747816",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Trenord, Pay&Go arriva sulle linee per Asso e Camnago: basta un doppio tap",
+      "url": "https://www.ferrovie.info/treni-reali/trenord-pay-go-arriva-sulle-linee-per-asso-e-camnago-basta-un-doppio-tap.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10529/ETR421_022.jpg",
+      "summary": "Il biglietto del treno per Asso e Camnago si può ora acquistare direttamente con carta contactless o smartphone. Trenord ha esteso infatti il sistema Pay&Go alle linee Milano Cadorna–Asso e S4 Milano Cadorna–Camnago L...",
+      "date": "2026-09-18T13:21:44.0000000Z"
+    },
+    {
+      "id": "ferrovie:30b4c7599177",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Svizzera, prende il treno… con la microcar...",
+      "url": "https://www.ferrovie.info/treni-reali/svizzera-prende-il-treno-con-la-microcar.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10608/Re460_110-0_Mariaberg_Rupperswil.JPG",
+      "summary": "Immaginate di essere pendolari, arrivare in stazione, aspettare tranquillamente il vostro treno e vedere improvvisamente una microcar pronta a salire sul convoglio . Non è l'inizio di una barzelletta e nemmeno una sce...",
+      "date": "2026-09-18T10:49:52.0000000Z"
+    },
     {
       "id": "ferrovie:473bef558838",
       "sourceId": "ferrovie",
@@ -63,18 +99,6 @@
       "date": "2026-09-17T15:38:30.0000000Z"
     },
     {
-      "id": "ferrovie:036473f4a779",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Linea Milano - Mortara, lavori al ponte sul Naviglio Grande: circolazione sospesa nel weekend",
-      "url": "https://www.ferrovie.info/treni-reali/linea-milano-mortara-lavori-al-ponte-sul-naviglio-grande-circolazione-sospesa-nel-weekend.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10524/normal_IMG_20241025_090756.jpg",
-      "summary": "Rete Ferroviaria Italiana (Gruppo FS) eseguirà interventi di manutenzione alla travata del ponte sul Naviglio Grande, lungo la linea Milano-Mortara . Per consentire lo svolgimento delle attività sarà necessaria una te...",
-      "date": "2026-09-17T14:58:28.0000000Z"
-    },
-    {
       "id": "ferrovie:80c499bd8039",
       "sourceId": "ferrovie",
       "source": "Ferrovie.info",
@@ -121,30 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10529/ETR400_01_-_ETR400_06.jpg",
       "summary": "Giornata di disagi per i passeggeri dei treni Alta Velocità in viaggio sulla direttrice Bologna-Milano. Dalla mattina la circolazione ferroviaria risulta fortemente rallentata a causa di motivi tecnici in corso di acc...",
       "date": "2026-09-17T11:02:24.0000000Z"
-    },
-    {
-      "id": "ferrovie:4ddfff1cb8c8",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Bologna - Vignola, ritardi e cancellazioni dopo la riapertura: l’assessora Priolo convoca un incontro",
-      "url": "https://www.ferrovie.info/treni-reali/bologna-vignola-ritardi-e-cancellazioni-dopo-la-riapertura-lassessora-priolo-convoca-un-incontro.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10044/normal_TTX_ETR350_006_Carpi_2810129.JPG",
-      "summary": "La ripresa del servizio sulla linea ferroviaria Bologna-Vignola è accompagnata da nuove criticità. Dopo un mese di interruzione e lavori programmati, nei primi giorni successivi alla riapertura continuano infatti a es...",
-      "date": "2026-09-17T10:50:47.0000000Z"
-    },
-    {
-      "id": "ferrovie:da1f40cc948d",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Milano Greco Pirelli, carro merci sviato: circolazione ferroviaria sospesa nel nodo",
-      "url": "https://www.ferrovie.info/treni-reali/milano-greco-pirelli-carro-merci-sviato-circolazione-ferroviaria-sospesa-nel-nodo.html",
-      "image": "https://www.ferrovie.info/images/incidenti/svio_milano_greco_pirelli_treno_db_cargo_1609.jpg",
-      "summary": "Un carro merci è sviato nella serata di mercoledì 16 settembre nei pressi della stazione di Milano Greco Pirelli, provocando pesanti ripercussioni sulla circolazione ferroviaria nel nodo a nord di Milano. L'incidente ...",
-      "date": "2026-09-17T06:50:58.0000000Z"
     }
   ]
 }
