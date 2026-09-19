@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-09-18T22:38:09.0451419Z",
+  "updated": "2026-09-19T00:38:57.7510758Z",
   "items": [
+    {
+      "id": "motor1:4cce6d914f7f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Renault Twingo (2026), perché comprarla e perché no",
+      "url": "https://it.motor1.com/reviews/808376/renault-twingo-2026-perche-comprarla-recensione/",
+      "image": "https://cdn.motor1.com/images/mgl/KbZBvQ/s3/renault-twingo-2026-perche-comprarla.jpg",
+      "summary": "Renault Twingo (2026), perché comprarla e perché no",
+      "date": "2026-09-18T23:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:73b0f2882756",
       "sourceId": "hdmotori",
@@ -147,18 +159,6 @@
       "date": "2026-09-18T14:00:51.0000000Z"
     },
     {
-      "id": "motor1:7e207a9cf0fd",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Addio ai fogli Excel: ConnectPro centralizza le flotte VW",
-      "url": "https://it.motor1.com/news/808672/connectpro-volkswagen-veicoli-commerciali-flotte/",
-      "image": "https://cdn.motor1.com/images/mgl/vx7K7v/s3/connectpro-centralizza-le-flotte-volkswagen.jpg",
-      "summary": "All’IAA debutta ConnectPro, piattaforma digitale B2B di Volkswagen Veicoli Commerciali per gestire dati e manutenzione delle flotte",
-      "date": "2026-09-18T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:de96a428ebe4",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -168,6 +168,18 @@
       "url": "https://insideevs.it/news/808750/tesla-spacex-causa-marchio-terafab/",
       "image": "https://cdn.motor1.com/images/mgl/vxYY0b/s3/elon-musk.jpg",
       "summary": "TERA-print rivendica il marchio Tera-Fab e ha diffidato Tesla. Ora la disputa è arrivata davanti a un giudice",
+      "date": "2026-09-18T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:7e207a9cf0fd",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Addio ai fogli Excel: ConnectPro centralizza le flotte VW",
+      "url": "https://it.motor1.com/news/808672/connectpro-volkswagen-veicoli-commerciali-flotte/",
+      "image": "https://cdn.motor1.com/images/mgl/vx7K7v/s3/connectpro-centralizza-le-flotte-volkswagen.jpg",
+      "summary": "All’IAA debutta ConnectPro, piattaforma digitale B2B di Volkswagen Veicoli Commerciali per gestire dati e manutenzione delle flotte",
       "date": "2026-09-18T14:00:00.0000000Z"
     },
     {
@@ -243,18 +255,6 @@
       "date": "2026-09-18T11:00:12.0000000Z"
     },
     {
-      "id": "insideevs:7336b35473b5",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La batteria dei robotaxi sarà diversa da quella delle auto",
-      "url": "https://insideevs.it/news/808743/batteria-robotaxi-auto-biton-addionics/",
-      "image": "https://cdn.motor1.com/images/mgl/G3bBb8/s3/la-batteria-dei-robotaxi-sara-diversa-da-quella-delle-auto.jpg",
-      "summary": "Moshiel Biton, CEO di Addionics, spiega perché ricarica, durata e uso continuo cambieranno il modo di progettare le batterie",
-      "date": "2026-09-18T11:00:00.0000000Z"
-    },
-    {
       "id": "motor1:91aff3a0b911",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -264,6 +264,18 @@
       "url": "https://it.motor1.com/reviews/806980/dongfeng-z9-2026-prova-prezzi/",
       "image": "https://cdn.motor1.com/images/mgl/vx7K0Q/s3/yu6wkscda0.jpg",
       "summary": "Abbiamo provato il pick-up Dongfeng Z9 GT Plus: portata, 2.3 diesel da 190 CV e prezzi da 34.385 euro IVA esclusa",
+      "date": "2026-09-18T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:7336b35473b5",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La batteria dei robotaxi sarà diversa da quella delle auto",
+      "url": "https://insideevs.it/news/808743/batteria-robotaxi-auto-biton-addionics/",
+      "image": "https://cdn.motor1.com/images/mgl/G3bBb8/s3/la-batteria-dei-robotaxi-sara-diversa-da-quella-delle-auto.jpg",
+      "summary": "Moshiel Biton, CEO di Addionics, spiega perché ricarica, durata e uso continuo cambieranno il modo di progettare le batterie",
       "date": "2026-09-18T11:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": null,
       "summary": "Berlusconi prometteva la dentiera ai pensionati, Meloni taglia il bollo (per un anno) ad automobilisti e motociclisti. A… L'articolo Meloni taglia il bollo ad auto e moto, ricorda la dentiera elettorale di Berlusconi ...",
       "date": "2026-09-16T18:07:27.0000000Z"
-    },
-    {
-      "id": "motor1:e893f9cbae5f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tutte le novità auto attese al Salone di Parigi 2026",
-      "url": "https://it.motor1.com/news/803352/novita-auto-salone-parigi-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/Rqkzgx/s3/salone-di-parigi-2026-novita-auto.jpg",
-      "summary": "Da Alfa Romeo a Zeekr passando per Lancia, smart, Volkswagen e tutti i brand presenti al Salone di Parigi 2026",
-      "date": "2026-08-03T11:00:00.0000000Z"
     }
   ]
 }
