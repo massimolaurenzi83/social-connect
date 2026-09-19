@@ -1,7 +1,31 @@
 {
   "category": "calcio",
-  "updated": "2026-09-19T00:38:57.7425713Z",
+  "updated": "2026-09-19T05:05:41.3519054Z",
   "items": [
+    {
+      "id": "tuttosport-calcio:1ce4d8074ec5",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Milwall-West Ham: birra, punk e pugni!",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/2026/09/19-151323814/milwall-west_ham_birra_punk_e_pugni_/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/18/174115330-25688f25-e109-46dd-8242-835a649d0614.jpg",
+      "summary": "Si odiano da prima della Grande Guerra, ma entrambi sono sottoproletari. Bushwackers e ICF: risse e feriti",
+      "date": "2026-09-19T04:30:00.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:82cb66466b8f",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Dalla Juve al Bayern Monaco, clamoroso scenario in vista del prossimo anno",
+      "url": "https://www.calciomercato.it/2026/09/19/dalla-juve-al-bayern-monaco-clamoroso-scenario-in-vista-del-prossimo-anno/",
+      "image": null,
+      "summary": "L'articolo Dalla Juve al Bayern Monaco, clamoroso scenario in vista del prossimo anno proviene da CalcioMercato.it .",
+      "date": "2026-09-19T04:03:12.0000000Z"
+    },
     {
       "id": "fcinternews:4c34860ae06f",
       "sourceId": "fcinternews",
@@ -363,18 +387,6 @@
       "date": "2026-09-18T13:12:57.0000000Z"
     },
     {
-      "id": "tuttosport-calcio:dd4531939d05",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>Olanda, i convocati ufficiali di Xavi: la scelta su Koopmeiners, tutti i nomi</p>",
-      "url": "https://www.tuttosport.com/news/calcio/2026/09/18-151319443/olanda_i_convocati_ufficiali_di_xavi_la_scelta_su_koopmeiners_tutti_i_nomi/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/18/125046477-249b5bbc-1dce-449c-8b46-bc2cebd29225.jpg",
-      "summary": "L'ex tecnico del Barcellona ha diramato le convocazioni degli Orange in vista dei tre appuntamenti in Nations League",
-      "date": "2026-09-18T13:11:22.0000000Z"
-    },
-    {
       "id": "calciomercato-it:736f53c69ea1",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -421,18 +433,6 @@
       "image": null,
       "summary": "L'articolo USA, non convocato Pulisic: torna Musah proviene da CalcioMercato.it .",
       "date": "2026-09-18T08:01:09.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:435240395e1b",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Milan, Ramos non decolla: 35 milioni per l’attacco e sfida alla Juve",
-      "url": "https://www.calciomercato.it/2026/09/18/milan-ramos-non-decolla-35-milioni-per-lattacco-e-sfida-alla-juve/",
-      "image": null,
-      "summary": "L'articolo Milan, Ramos non decolla: 35 milioni per l’attacco e sfida alla Juve proviene da CalcioMercato.it .",
-      "date": "2026-09-18T07:01:35.0000000Z"
     }
   ]
 }
