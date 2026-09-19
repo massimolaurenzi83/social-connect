@@ -1,7 +1,31 @@
 {
   "category": "mobilita",
-  "updated": "2026-09-19T05:05:41.3504569Z",
+  "updated": "2026-09-19T09:27:21.9360469Z",
   "items": [
+    {
+      "id": "ferrovie:7973d7999618",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Trentino Alto Adige, lavori ferroviari: stop sulla Trento-Bassano e in Val Pusteria",
+      "url": "https://www.ferrovie.info/treni-reali/trentino-alto-adige-lavori-ferroviari-stop-sulla-trento-bassano-e-in-val-pusteria.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10002/761D7710.jpg",
+      "summary": "Domenica 20 settembre sono previste importanti modifiche alla circolazione ferroviaria tra Trentino e Alto Adige a causa di diversi interventi di manutenzione programmati sulla rete. Le principali ripercussioni riguar...",
+      "date": "2026-09-19T07:42:02.0000000Z"
+    },
+    {
+      "id": "ferrovie:6b297f51534b",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Metromare, in arrivo più corse: 21 nuovi addetti e test tecnici per la frequenza ogni 15 minuti",
+      "url": "https://www.ferrovie.info/treni-reali/metromare-in-arrivo-piu-corse-21-nuovi-addetti-e-test-tecnici-per-la-frequenza-ogni-15-minuti.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10635/metromare_7341_15.jpg",
+      "summary": "La Metromare si prepara a un possibile aumento della frequenza dei treni tra Roma e Ostia. L'obiettivo è arrivare a un convoglio ogni 15 minuti , intervenendo anche sulla disponibilità di personale per ridurre il risc...",
+      "date": "2026-09-19T07:40:14.0000000Z"
+    },
     {
       "id": "ferrovie:c3a382b97d52",
       "sourceId": "ferrovie",
@@ -121,30 +145,6 @@
       "image": "https://www.ferrovie.info/images/varie/treno_etr_245_trenord_2001.webp",
       "summary": "Cambia, svecchiandosi, anche la livrea degli ETR 425 di Trenord . Il primo esemplare del Gruppo è stato mostrato oggi dalla compagnia lombarda.",
       "date": "2026-09-17T15:38:30.0000000Z"
-    },
-    {
-      "id": "ferrovie:80c499bd8039",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Stazione di Avellino, ritorno in servizio previsto per l’estate 2027",
-      "url": "https://www.ferrovie.info/treni-reali/stazione-di-avellino-ritorno-in-servizio-previsto-per-lestate-2027.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1010908.JPG",
-      "summary": "La stazione ferroviaria di Avellino potrebbe tornare in esercizio a partire dall’ estate 2027 . L’obiettivo è stato indicato dal vicepresidente della Giunta regionale della Campania Mario Casillo durante un briefing c...",
-      "date": "2026-09-17T13:58:15.0000000Z"
-    },
-    {
-      "id": "ferrovie:8deff524091a",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Ferrovia Torino-Lione, il tunnel di base supera il 30% di scavo",
-      "url": "https://www.ferrovie.info/treni-reali/ferrovia-torino-lione-il-tunnel-di-base-supera-il-30-di-scavo.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/torino_lione_839.jpg",
-      "summary": "I lavori del tunnel di base della sezione transfrontaliera della Torino-Lione continuano ad avanzare, superando la soglia del 30% dei 164 km complessivi di gallerie da scavare . Attualmente sono 17 i fronti di scavo a...",
-      "date": "2026-09-17T11:50:00.0000000Z"
     }
   ]
 }
