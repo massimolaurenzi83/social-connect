@@ -1,6 +1,6 @@
 {
   "category": "mondo",
-  "updated": "2026-09-19T09:27:21.9314156Z",
+  "updated": "2026-09-19T13:20:18.9259611Z",
   "items": [
     {
       "id": "internazionale:20463c14a39c",
@@ -63,16 +63,76 @@
       "date": "2026-10-03T09:00:00.0000000Z"
     },
     {
-      "id": "ansa-mondo:c939fd26b3ea",
+      "id": "ansa-mondo:ad7ce3d7a666",
       "sourceId": "ansa-mondo",
       "source": "ANSA Mondo",
       "platform": "rss",
       "category": "mondo",
-      "title": "Trump annuncia l'accordo sulla Groenlandia: 'Controlleremo la sua sicurezza'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-accordo-con-danimarca-e-groenlandia-per-il-controllo-usa-della-sicurezza_1cca247f-3819-4ca1-8017-ce344cbcec44.html",
+      "title": "Dombrovskis, 'sugli asset russi aperti a diverse opzioni'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/dombrovskis-sugli-asset-russi-aperti-a-diverse-opzioni_9385a0fe-3ed4-43f8-af37-a43f9e7e04fd.html",
       "image": null,
-      "summary": "'Subito militari, nessun avversario potrà mettere basi'. La firma a New York la prossima settimana",
-      "date": "2026-09-19T08:22:15.0000000Z"
+      "summary": "Uso di un veicolo? 'Pronti a sostenere discussioni anche valutando diverse modalità'",
+      "date": "2026-09-19T12:53:05.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:161d64015c4a",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Media, 'fumo e fiamme vicino all'aeroporto di Riad'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/media-fumo-e-fiamme-vicino-allaeroporto-di-riad_7fde1739-face-4559-813b-386313361fb9.html",
+      "image": null,
+      "summary": "",
+      "date": "2026-09-19T12:52:00.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:5db56715abac",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Houthi, 'non siamo in guerra con l'Italia ma i vostri aerei sono in Arabia Saudita'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/houthi-non-siamo-in-guerra-con-litalia-ma-i-vostri-aerei-sono-in-arabia_5dbbcc40-a593-44ac-9f14-eb43bbadd2a5.html",
+      "image": null,
+      "summary": "Il governo di Sanaa all'ANSA: 'Non vogliamo coinvolgervi, ci difendiamo dall'aggressione'",
+      "date": "2026-09-19T12:39:04.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:fab665ee4fa8",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Messico taglia le accise per evitare i rincari dei carburanti",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/messico-taglia-le-accise-per-evitare-i-rincari-dei-carburanti_d9bf4bfa-c70f-4211-81d2-177c5d137320.html",
+      "image": null,
+      "summary": "Il governo rinuncia alle entrate fiscali, intanto cala il greggio",
+      "date": "2026-09-19T12:07:33.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:050cd948dbc8",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Strappo diplomatico totale tra Costa Rica e Cuba",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/strappo-diplomatico-totale-tra-costa-rica-e-cuba_9e71ee30-188d-45bb-8d2b-ab96f8c7bcd8.html",
+      "image": null,
+      "summary": "L'esecutivo dell'Avana condanna la mossa e denuncia ingerenze Usa",
+      "date": "2026-09-19T11:04:04.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:b639a1c896dd",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Media, Mosca denuncia un grave attacco informatico sul voto online",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/media-mosca-denuncia-un-grave-attacco-informatico-sul-voto-online_1c949bd1-45bf-4a33-b543-1de797994121.html",
+      "image": null,
+      "summary": "Commissione elettorale: 'In corso ma respinti con successo, situazione sotto controllo'",
+      "date": "2026-09-19T09:52:17.0000000Z"
     },
     {
       "id": "ansa-mondo:d2dac8b40d33",
@@ -181,66 +241,6 @@
       "image": null,
       "summary": "'Rafforza la nostra sicurezza condivisa nell'Artico e nella regione del Nord Atlantico'",
       "date": "2026-09-18T22:10:20.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:f2f0e345ea56",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Danimarca, 'sigla accordo con Usa e Groenlandia la prossima settimana a New York'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/danimarca-sigla-accordo-con-usa-e-groenlandia-la-prossima-settimana-a-new-york_4c04dda2-c048-40a2-80b6-2a950e39e76b.html",
-      "image": null,
-      "summary": "A margine dell'assemblea Onu",
-      "date": "2026-09-18T22:08:17.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:df5f784766d3",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Trump, nessun avversario potrà mettere basi o investire in Groenlandia senza ok Usa",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-nessun-avversario-potra-mettere-basi-o-investire-in-groenlandia-senza-ok-usa_17717de8-12cc-4764-9130-498e069e5972.html",
-      "image": null,
-      "summary": "",
-      "date": "2026-09-18T21:38:52.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:f3646f7b8a5f",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Cnn, 'il bando di Trump è un attacco illegittimo alla libertà di stampa'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/cnn-il-bando-di-trump-e-un-attacco-illegittimo-alla-liberta-di-stampa_f9d33827-c1a4-438a-850d-260fc38f93df.html",
-      "image": null,
-      "summary": "'I nostri diritti protetti dalla Costituzione'",
-      "date": "2026-09-18T21:17:50.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:c74511914d1f",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Trump bandisce dalla Casa Bianca Cnn, Politico e Msnow",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-bandisce-dalla-casa-bianca-cnn-politico-e-msnow_35f84d2f-2aa6-456d-a3d2-96eb6e05d3d8.html",
-      "image": null,
-      "summary": "",
-      "date": "2026-09-18T19:44:37.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:f83d1b35e139",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Putin, 'elettori in Europa hanno chiarito che non vogliono guerra con la Russia'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/putin-elettori-in-europa-hanno-chiarito-che-non-vogliono-guerra-con_87fbb488-ff75-4081-a20f-569e1b7b6179.html",
-      "image": null,
-      "summary": "",
-      "date": "2026-09-18T19:43:32.0000000Z"
     },
     {
       "id": "internazionale:1f646e039168",
