@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-09-20T19:55:30.3354686Z",
+  "updated": "2026-09-20T22:14:40.9787331Z",
   "items": [
+    {
+      "id": "vaielettrico:75d8ccdb404f",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "TEST – Skoda Peaq: sette posti, 600 km di autonomia e tanto comfort",
+      "url": "https://www.vaielettrico.it/test-skoda-peaq-sette-posti-600-km-di-autonomia-e-tanto-comfort/",
+      "image": null,
+      "summary": "La nuova ammiraglia elettrica di Skoda è un SUV lungo quasi 4,90 metri, disponibile in Italia solo a… L'articolo TEST – Skoda Peaq: sette posti, 600 km di autonomia e tanto comfort proviene da Vaielettrico .",
+      "date": "2026-09-20T21:59:51.0000000Z"
+    },
     {
       "id": "vaielettrico:8918a5edaa2e",
       "sourceId": "vaielettrico",
@@ -51,18 +63,6 @@
       "date": "2026-09-20T06:30:05.0000000Z"
     },
     {
-      "id": "motor1:bdea2fcfa1ba",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Tigra più folle di sempre aveva un V6 da 211 CV",
-      "url": "https://it.motor1.com/news/808740/opel-tigra-v6-1996-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/y212YK/s3/opel-tigra-v6-1996.jpg",
-      "summary": "Opel realizzò un solo esemplare della Tigra V6: motore centrale, trazione posteriore e 245 km/h per un progetto mai prodotto",
-      "date": "2026-09-20T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:6b5d91d6b92f",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -72,6 +72,18 @@
       "url": "https://insideevs.it/news/808751/nanodiamanti-batterie-auto-elettriche-punto/",
       "image": "https://cdn.motor1.com/images/mgl/AkOmwV/s3/la-batteria-dell-auto-elettrica-con-i-diamanti-ecco-la-scoperta.jpg",
       "summary": "Un nuovo studio mostra come i nanodiamanti possano facilitare il movimento degli ioni nei materiali usati per accumulare energia",
+      "date": "2026-09-20T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:bdea2fcfa1ba",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Tigra più folle di sempre aveva un V6 da 211 CV",
+      "url": "https://it.motor1.com/news/808740/opel-tigra-v6-1996-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/y212YK/s3/opel-tigra-v6-1996.jpg",
+      "summary": "Opel realizzò un solo esemplare della Tigra V6: motore centrale, trazione posteriore e 245 km/h per un progetto mai prodotto",
       "date": "2026-09-20T05:00:00.0000000Z"
     },
     {
@@ -171,18 +183,6 @@
       "date": "2026-09-19T06:00:00.0000000Z"
     },
     {
-      "id": "motor1:dfb9b16aa432",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La storia della Maserati che stregò l'America",
-      "url": "https://it.motor1.com/news/806395/maserati-8ctf-boyle-special-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/eo7Q88/s3/maserati-8ctf-boyle-special.jpg",
-      "summary": "La 8CTF è stata capace di vincere due 500 Miglia d'Indianapolis consecutive. Così è diventata una leggenda anche Oltreoceano",
-      "date": "2026-09-19T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:1b38bffb265c",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -192,6 +192,18 @@
       "url": "https://insideevs.it/reviews/808656/mg-im5-prova-informazioni-prezzo/",
       "image": "https://cdn.motor1.com/images/mgl/ko866x/s3/mg-im5-2026-im-test.jpg",
       "summary": "La nuova berlina elettrica cinese punta in alto con 751 CV, ricarica fino a 396 kW e un'autonomia WLTP fino a 710 km",
+      "date": "2026-09-19T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:dfb9b16aa432",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La storia della Maserati che stregò l'America",
+      "url": "https://it.motor1.com/news/806395/maserati-8ctf-boyle-special-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/eo7Q88/s3/maserati-8ctf-boyle-special.jpg",
+      "summary": "La 8CTF è stata capace di vincere due 500 Miglia d'Indianapolis consecutive. Così è diventata una leggenda anche Oltreoceano",
       "date": "2026-09-19T05:00:00.0000000Z"
     },
     {
@@ -469,18 +481,6 @@
       "image": "https://cdn.motor1.com/images/mgl/3WBAnL/s3/ricarica-auto-elettriche-arrivano-colonnine-da-600-kw-in-autostrada.jpg",
       "summary": "Electra ha ottenuto tre bandi per realizzare 12 punti di ricarica sulla A4 e sulla A10",
       "date": "2026-09-18T08:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:474c2cdc89fb",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il difetto delle Tesla? “Le ho provate, la guida assistita”",
-      "url": "https://www.vaielettrico.it/il-difetto-delle-tesla-la-guida-assistita/",
-      "image": null,
-      "summary": "Il difetto delle Tesla? Secondo Mauro, un lettore interessato ad acquistarne una, è nella guida assistita. Ritenuta da… L'articolo Il difetto delle Tesla? “Le ho provate, la guida assistita” proviene da Vaielettrico .",
-      "date": "2026-09-18T06:13:08.0000000Z"
     },
     {
       "id": "insideevs:0149b5341eda",
