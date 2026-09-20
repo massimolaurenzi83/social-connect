@@ -1,6 +1,6 @@
 {
   "category": "mondo",
-  "updated": "2026-09-20T17:51:21.4697353Z",
+  "updated": "2026-09-20T19:55:30.2703002Z",
   "items": [
     {
       "id": "internazionale:20463c14a39c",
@@ -63,6 +63,66 @@
       "date": "2026-10-03T09:00:00.0000000Z"
     },
     {
+      "id": "ansa-mondo:e5c159dd1f21",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Wsj, 'Trump si prepara a imporre sanzioni alla Cpi'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/20/wsj-trump-si-prepara-a-imporre-sanzioni-alla-cpi_46862b20-aa63-4c76-94aa-e84a7e63332d.html",
+      "image": null,
+      "summary": "Le impedirebbe operazioni in dollari escludendola da parte del sistema finanziario globale",
+      "date": "2026-09-20T18:44:41.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:b070e05e20fd",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Zelensky, 'ho appena parlato con Trump, ci vedremo a New York'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/zelensky-ho-appena-parlato-con-trump-ci-vedremo-a-new-york_b9528dcd-5290-4a52-aec7-2c1aa1b7c5c3.html",
+      "image": null,
+      "summary": "'Poi ringrazia il tycoon per la visita di Witkoff e Kushner a Kiev'",
+      "date": "2026-09-20T18:43:54.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:4a679f19cc0e",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Nuova escalation, Trump torna prima da Camp David: 'Devo decidere sull'Iran'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/nuova-escalation-trump-torna-prima-da-camp-david-devo-decidere-sulliran_d85ac995-09c8-4380-8a2c-330e9dd7d8ba.html",
+      "image": null,
+      "summary": "Gli Usa alzano allerta per gli americani. All'Onu vede Paesi del Golfo,apre anche a Pezeshkian",
+      "date": "2026-09-20T18:27:41.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:cbbca9236750",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Tv, il partito Russia Unita di Putin vince le elezioni con il 49,4%",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/tv-il-partito-russia-unita-di-putin-vince-le-elezioni-con-il-494_c432c1d6-de08-474a-b861-4f27f4ad33a2.html",
+      "image": null,
+      "summary": "Lo rivela un exit poll dell'emittente statale",
+      "date": "2026-09-20T18:10:30.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:1812b3d18dd6",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Kallas scrive ai 27 per rafforzare Aspides, strada in salita",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/kallas-scrive-ai-27-per-rafforzare-aspides-strada-in-salita-_10dc84e7-f0fa-4279-9237-3e50882bd55e.html",
+      "image": null,
+      "summary": "Il dossier verso il Consiglio Difesa. Italia disposta a altre navi, ma resta il nodo spese",
+      "date": "2026-09-20T17:51:04.0000000Z"
+    },
+    {
       "id": "ansa-mondo:e22181602a5f",
       "sourceId": "ansa-mondo",
       "source": "ANSA Mondo",
@@ -99,18 +159,6 @@
       "date": "2026-09-20T16:38:42.0000000Z"
     },
     {
-      "id": "ansa-mondo:23d807d8a9e7",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Lettera di Kallas ai 27: 'Rafforzare Aspides con più navi e mezzi aerei'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/lettera-di-kallas-ai-27-rafforzare-aspides-con-piu-navi-e-mezzi-aerei_10dc84e7-f0fa-4279-9237-3e50882bd55e.html",
-      "image": null,
-      "summary": "\"Aumentare sostanzialmente la presenza per garantire il mandato\"",
-      "date": "2026-09-20T16:37:43.0000000Z"
-    },
-    {
       "id": "ansa-mondo:fd1ceea50c97",
       "sourceId": "ansa-mondo",
       "source": "ANSA Mondo",
@@ -121,18 +169,6 @@
       "image": null,
       "summary": "Alle amministrative",
       "date": "2026-09-20T16:08:51.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:9862b0d4a9d8",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Trump: 'Deciderò se e quando far esplodere l'Iran, si comportino bene'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/trump-decidero-se-e-quando-far-esplodere-liran-si-comportino-bene_d85ac995-09c8-4380-8a2c-330e9dd7d8ba.html",
-      "image": null,
-      "summary": "Lettera di Kallas ai 27: 'Rafforzare Aspides con più navi e mezzi aerei'",
-      "date": "2026-09-20T16:06:58.0000000Z"
     },
     {
       "id": "ansa-mondo:d11060e1402a",
@@ -169,42 +205,6 @@
       "image": null,
       "summary": "Attivisti al seggio a Roma: 'L'Ue ci aiuti'. Ma c'è chi difende lo zar: 'Siamo patrioti'",
       "date": "2026-09-20T14:19:31.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:e4a58067f6fa",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Venezuela, Delcy Rodríguez vede il presidente del Paraguay e vola all'Onu da Trump",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/20/venezuela-delcy-rodriguez-vede-il-presidente-del-paraguay-e-vola-allonu-da-trump_1a933e16-ea03-4a48-ae0b-ec8266515fb6.html",
-      "image": null,
-      "summary": "Riprendono i rapporti tra i due Paesi, prosegue il dialogo interno con l'opposizione",
-      "date": "2026-09-20T13:45:52.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:e5f8d2efee90",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Media, 'a Ceuta circa 1.000 minori senza un posto in cui dormire'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/media-a-ceuta-circa-1.000-minori-senza-un-posto-in-cui-dormire_4adb5bbb-f36f-4920-8f76-adeb060b735d.html",
-      "image": null,
-      "summary": "El País, per strada gruppi di ragazzini nel limbo. Scontro politico sulla loro accoglienza",
-      "date": "2026-09-20T12:23:15.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:d19ed90abcc7",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Sybiha, da tanti colleghi stranieri complimenti per il 'burning day' di Mosca",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/sybiha-da-tanti-colleghi-stranieri-complimenti-per-il-burning-day-di-mosca_1524d81e-f1b7-4023-bd37-b8264adc5d04.html",
-      "image": null,
-      "summary": "Ministro Esteri ucraino, 'scene che Putin non si aspettava quando ha iniziato la guerra'",
-      "date": "2026-09-20T11:38:21.0000000Z"
     },
     {
       "id": "internazionale:43ca0ef4ec15",

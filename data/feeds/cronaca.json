@@ -1,7 +1,79 @@
 {
   "category": "cronaca",
-  "updated": "2026-09-20T17:51:21.5134802Z",
+  "updated": "2026-09-20T19:55:30.3330846Z",
   "items": [
+    {
+      "id": "ansa-cronaca:8145136074d8",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Fedriga dai lavoratori Electrolux che presenziano a Pordenonelegge",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/fedriga-dai-lavoratori-electrolux-che-presenziano-a-pordenonelegge_05a330a0-3482-4ef3-94f3-7068ec8b5cda.html",
+      "image": null,
+      "summary": "Al termine della cerimonia conclusiva della rassegna culturale",
+      "date": "2026-09-20T19:34:11.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:181f18f62f61",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "#AccadeOggi",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+      "image": null,
+      "summary": "I principali avvenimenti previsti per la giornata",
+      "date": "2026-09-20T19:20:46.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:a9f76d25c37a",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Insegue il pallone e viene travolto dal bus, 12enne gravissimo",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/insegue-il-pallone-e-viene-travolto-dal-bus-12enne-gravissimo_37663a97-b77b-447e-bafc-3a67057b3b4c.html",
+      "image": null,
+      "summary": "E' accaduto in provincia di Brescia",
+      "date": "2026-09-20T18:29:36.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:6f574c6e3f86",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Mattarella, la battaglia dei diritti è lungi dall'essere conclusa",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/mattarella-la-battaglia-dei-diritti-e-lungi-dallessere-conclusa_d4c01eee-dc8b-42fa-a677-2bb9f1c64d68.html",
+      "image": null,
+      "summary": "\"Da taluni, addirittura, è auspicato un arretramento\"",
+      "date": "2026-09-20T18:26:29.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:e5f814c4db74",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Minorenni in giro da soli di notte, denunciati i genitori per abbandono",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/minorenni-in-giro-da-soli-di-notte-denunciati-i-genitori-per-abbandono_e0d6df2e-f82e-4210-9f10-dc6e8f2dd282.html",
+      "image": null,
+      "summary": "L'episodio nel Frusinate, i ragazzini avevano prodotto schiamazzi e danneggiamenti",
+      "date": "2026-09-20T18:22:35.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:8e66a862d5e7",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Spara a ladro, la vittima identificata dai carabinieri",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/spara-a-ladro-la-vittima-identificata-dai-carabinieri_35ef656c-a581-41d7-87ec-d9ad7728b743.html",
+      "image": null,
+      "summary": "È un 36enne di origini albanesi, avrebbe precedenti penali",
+      "date": "2026-09-20T17:54:56.0000000Z"
+    },
     {
       "id": "ansa-cronaca:193825b45d29",
       "sourceId": "ansa-cronaca",
@@ -63,18 +135,6 @@
       "date": "2026-09-20T16:59:25.0000000Z"
     },
     {
-      "id": "ansa-cronaca:181f18f62f61",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "#AccadeOggi",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-      "image": null,
-      "summary": "I principali avvenimenti previsti per la giornata",
-      "date": "2026-09-20T16:46:20.0000000Z"
-    },
-    {
       "id": "ansa-cronaca:fe357b20c50c",
       "sourceId": "ansa-cronaca",
       "source": "ANSA Cronaca",
@@ -85,66 +145,6 @@
       "image": null,
       "summary": "Sulla questione burqa 'progressisti a corrente alternata'",
       "date": "2026-09-20T16:29:04.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:40bd35e692a3",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "In Italia 930mila alunni stranieri, sono oltre l'11%",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/in-italia-930mila-alunni-stranieri-sono-oltre-l11_d061dbc4-b6a2-409b-8ee9-1dab1317329a.html",
-      "image": null,
-      "summary": "Milano, Roma e Torino con la presenza maggiore",
-      "date": "2026-09-20T16:26:28.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:693ace85a292",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Spara e uccide un ladro, lui stesso ha allertato il 112",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/spara-e-uccide-un-ladro-lui-stesso-ha-allertato-il-112_0fb24fa2-b798-4031-8c64-f239678602ed.html",
-      "image": null,
-      "summary": "Indagano i carabinieri di Bra e di Cuneo, coordinati dalla Procura di Asti",
-      "date": "2026-09-20T15:49:48.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:fe7c371208bb",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Colto da malore, 21enne muore annegato a Cala Gonone in Sardegna",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/colto-da-malore-21enne-muore-annegato-a-cala-gonone-in-sardegna_4a91714f-7491-4474-bfe6-8d40b06aa89d.html",
-      "image": null,
-      "summary": "Vittima un lavoratore stagionale di un villaggio turistico della zona",
-      "date": "2026-09-20T15:21:21.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:6c2978276f51",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Spara e uccide un ladro, gli altri della banda scappati a piedi",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/spara-e-uccide-un-ladro-gli-altri-della-banda-scappati-a-piedi_9c6f19f8-f5b1-4b7f-85e4-ea7bf459e729.html",
-      "image": null,
-      "summary": "L'uomo avrebbe fatto fuoco spaventato, sventando così il furto",
-      "date": "2026-09-20T14:36:02.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:a8ce47455258",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Presidi, 'tetto stranieri condivisibile ma difficile da applicare'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/presidi-tetto-stranieri-condivisibile-ma-difficile-da-applicare_81ada149-5fb9-4f4e-b96f-3fcb8b2e1ca4.html",
-      "image": null,
-      "summary": "Giannelli, \"il criterio è la vicinanza della scuola, che facciamo, li mandiamo via?\"",
-      "date": "2026-09-20T14:30:34.0000000Z"
     }
   ]
 }
