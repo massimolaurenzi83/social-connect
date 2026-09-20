@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-09-20T06:21:58.4902950Z",
+  "updated": "2026-09-20T11:40:05.1502682Z",
   "items": [
+    {
+      "id": "ferrovie:ef5fe8da53a9",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Frecciarossa, ETR 700 e grandi opere: le principali notizie ferroviarie della settimana",
+      "url": "https://www.ferrovie.info/treni-reali/frecciarossa-etr-700-e-grandi-opere-le-principali-notizie-ferroviarie-della-settimana.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10648/aln6631005.jpg",
+      "summary": "Una settimana caratterizzata da diversi passaggi importanti per il trasporto ferroviario italiano, tra nuovi treni destinati ai servizi passeggeri e merci, cambiamenti nelle flotte e opere infrastrutturali che avanzan...",
+      "date": "2026-09-20T09:01:11.0000000Z"
+    },
     {
       "id": "ferrovie:7973d7999618",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10002/400_7326.jpg",
       "summary": "La fermata ferroviaria di Rudalza , nel territorio di Golfo Aranci, sarà interessata da un intervento di riqualificazione destinato a migliorare accessibilità, servizi e sicurezza. La Giunta comunale, con deliberazion...",
       "date": "2026-09-18T06:48:47.0000000Z"
-    },
-    {
-      "id": "ferrovie:98c71d20d19b",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Trenord, cambiano livrea anche gli ETR 425",
-      "url": "https://www.ferrovie.info/treni-reali/trenord-cambiano-livrea-anche-gli-etr-425.html",
-      "image": "https://www.ferrovie.info/images/varie/treno_etr_245_trenord_2001.webp",
-      "summary": "Cambia, svecchiandosi, anche la livrea degli ETR 425 di Trenord . Il primo esemplare del Gruppo è stato mostrato oggi dalla compagnia lombarda.",
-      "date": "2026-09-17T15:38:30.0000000Z"
     }
   ]
 }
