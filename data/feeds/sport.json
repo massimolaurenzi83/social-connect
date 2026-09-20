@@ -1,7 +1,19 @@
 {
   "category": "sport",
-  "updated": "2026-09-20T01:13:08.2672321Z",
+  "updated": "2026-09-20T06:21:58.4462326Z",
   "items": [
+    {
+      "id": "corrieresport:dd9c33366688",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Roma e Inter, mezzo scudetto a testa",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/09/20-151354539/roma_e_inter_mezzo_scudetto_a_testa/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/09/20/054545074-674161bb-71fe-4904-8b46-73957348ed7e.jpg",
+      "summary": "Leggi il commento del direttore del Corriere dello Sport-Stadio",
+      "date": "2026-09-20T06:08:57.0000000Z"
+    },
     {
       "id": "ansa-sport:a6e4081013ee",
       "sourceId": "ansa-sport",
@@ -277,18 +289,6 @@
       "image": "https://cdn.corrieredellosport.it/img/800/600/2026/09/19/165301492-8cd440da-6ebc-41e7-b841-ae2027b9324a.jpg",
       "summary": "Il designatore in tribuna all'Olimpico per Roma - Inter: cosa è successo al momento del 2-0 del francese",
       "date": "2026-09-19T16:53:41.0000000Z"
-    },
-    {
-      "id": "corrieresport:8c132b9996a2",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Juve senza pace, si infortuna anche Grabara: il portiere ko in allenamento",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/09/19-151346081/juve_senza_pace_si_infortuna_anche_grabara_il_portiere_ko_in_allenamento/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/09/19/165019641-33403211-e016-479a-a021-8627ebb5e7f2.jpg",
-      "summary": "L'estremo difensore, reduce dal debutto da titolare in bianconero, in Europa League contro il Nec, si è fatto male al ginocchio destro nel corso dell'allenamento pomeridiano: \"Lesione del legamento crociato anteriore\"",
-      "date": "2026-09-19T16:50:50.0000000Z"
     },
     {
       "id": "gazzetta:1f6295773752",

@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-20T01:13:08.2920112Z",
+  "updated": "2026-09-20T06:21:58.4637426Z",
   "items": [
+    {
+      "id": "insideevs:6b5d91d6b92f",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La batteria dell'auto elettrica con i diamanti: ecco la scoperta",
+      "url": "https://insideevs.it/news/808751/nanodiamanti-batterie-auto-elettriche-punto/",
+      "image": "https://cdn.motor1.com/images/mgl/AkOmwV/s3/la-batteria-dell-auto-elettrica-con-i-diamanti-ecco-la-scoperta.jpg",
+      "summary": "Un nuovo studio mostra come i nanodiamanti possano facilitare il movimento degli ioni nei materiali usati per accumulare energia",
+      "date": "2026-09-20T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:bdea2fcfa1ba",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Tigra più folle di sempre aveva un V6 da 211 CV",
+      "url": "https://it.motor1.com/news/808740/opel-tigra-v6-1996-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/y212YK/s3/opel-tigra-v6-1996.jpg",
+      "summary": "Opel realizzò un solo esemplare della Tigra V6: motore centrale, trazione posteriore e 245 km/h per un progetto mai prodotto",
+      "date": "2026-09-20T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:d6e38dfafacd",
       "sourceId": "vaielettrico",
@@ -231,18 +255,6 @@
       "date": "2026-09-18T15:00:57.0000000Z"
     },
     {
-      "id": "insideevs:4be8a3c8b463",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il problema del bollo per le auto elettriche",
-      "url": "https://insideevs.it/news/808745/bollo-auto-elettriche-abolizione-2027-problema/",
-      "image": "https://cdn.motor1.com/images/mgl/W87Mm3/s3/auto-elettrica-foglie.jpg",
-      "summary": "L'esenzione per il bollo auto del 2027 riguarda solo modelli con motori termici, quindi in molte Regioni le elettriche più vecchie pagheranno",
-      "date": "2026-09-18T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:e7260c893607",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -252,6 +264,18 @@
       "url": "https://it.motor1.com/features/808757/auto-potenti-senza-bollo-2027/",
       "image": "https://cdn.motor1.com/images/mgl/eoWbGV/s3/le-auto-piu-potenti-che-non-pagano-il-bollo-nel-2027.jpg",
       "summary": "La lista completa dei modelli ibridi che arrivano anche a 262 CV, ma sul libretto hanno una potenza inferiore agli 80 kW",
+      "date": "2026-09-18T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:4be8a3c8b463",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il problema del bollo per le auto elettriche",
+      "url": "https://insideevs.it/news/808745/bollo-auto-elettriche-abolizione-2027-problema/",
+      "image": "https://cdn.motor1.com/images/mgl/W87Mm3/s3/auto-elettrica-foglie.jpg",
+      "summary": "L'esenzione per il bollo auto del 2027 riguarda solo modelli con motori termici, quindi in molte Regioni le elettriche più vecchie pagheranno",
       "date": "2026-09-18T15:00:00.0000000Z"
     },
     {
@@ -279,18 +303,6 @@
       "date": "2026-09-18T14:00:51.0000000Z"
     },
     {
-      "id": "insideevs:de96a428ebe4",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Musk, Tesla finisce nei guai per il nome della maxi-fabbrica",
-      "url": "https://insideevs.it/news/808750/tesla-spacex-causa-marchio-terafab/",
-      "image": "https://cdn.motor1.com/images/mgl/vxYY0b/s3/elon-musk.jpg",
-      "summary": "TERA-print rivendica il marchio Tera-Fab e ha diffidato Tesla. Ora la disputa è arrivata davanti a un giudice",
-      "date": "2026-09-18T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:7e207a9cf0fd",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -300,6 +312,18 @@
       "url": "https://it.motor1.com/news/808672/connectpro-volkswagen-veicoli-commerciali-flotte/",
       "image": "https://cdn.motor1.com/images/mgl/vx7K7v/s3/connectpro-centralizza-le-flotte-volkswagen.jpg",
       "summary": "All’IAA debutta ConnectPro, piattaforma digitale B2B di Volkswagen Veicoli Commerciali per gestire dati e manutenzione delle flotte",
+      "date": "2026-09-18T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:de96a428ebe4",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Musk, Tesla finisce nei guai per il nome della maxi-fabbrica",
+      "url": "https://insideevs.it/news/808750/tesla-spacex-causa-marchio-terafab/",
+      "image": "https://cdn.motor1.com/images/mgl/vxYY0b/s3/elon-musk.jpg",
+      "summary": "TERA-print rivendica il marchio Tera-Fab e ha diffidato Tesla. Ora la disputa è arrivata davanti a un giudice",
       "date": "2026-09-18T14:00:00.0000000Z"
     },
     {
@@ -384,18 +408,6 @@
       "url": "https://insideevs.it/news/808743/batteria-robotaxi-auto-biton-addionics/",
       "image": "https://cdn.motor1.com/images/mgl/G3bBb8/s3/la-batteria-dei-robotaxi-sara-diversa-da-quella-delle-auto.jpg",
       "summary": "Moshiel Biton, CEO di Addionics, spiega perché ricarica, durata e uso continuo cambieranno il modo di progettare le batterie",
-      "date": "2026-09-18T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:91aff3a0b911",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Dongfeng Z9, perché comprarlo... e perché no",
-      "url": "https://it.motor1.com/reviews/806980/dongfeng-z9-2026-prova-prezzi/",
-      "image": "https://cdn.motor1.com/images/mgl/vx7K0Q/s3/yu6wkscda0.jpg",
-      "summary": "Abbiamo provato il pick-up Dongfeng Z9 GT Plus: portata, 2.3 diesel da 190 CV e prezzi da 34.385 euro IVA esclusa",
       "date": "2026-09-18T11:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/NG68Xy/s3/catl-ecco-la-nuova-cella-xxl-lfp-587ah.jpg",
       "summary": "Durano fino a 8.000 cicli e contendono quasi 2 kWh di energia ciascuna, na sono pensate per i sistemi di accumulo",
       "date": "2026-09-17T11:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:a953542a73bb",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volvo prepara una valanga di elettriche: 13 modelli entro il 2030",
-      "url": "https://insideevs.it/news/808610/volvo-nuove-auto-elettriche-2030/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z23oq/s3/volvo-ex90-model-year-2026.jpg",
-      "summary": "Il costruttore svedese rinnova la gamma come mai prima d'ora e punta sulle piattaforme SPA2 e SPA3 per i mercati occidentali",
-      "date": "2026-09-17T09:30:18.0000000Z"
     }
   ]
 }
