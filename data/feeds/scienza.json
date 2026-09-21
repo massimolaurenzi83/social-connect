@@ -1,7 +1,33 @@
 {
   "category": "scienza",
-  "updated": "2026-09-21T16:39:00.2413040Z",
+  "updated": "2026-09-21T20:37:30.0099714Z",
   "items": [
+    {
+      "id": "curiuss:odiBKK__wwM",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "La forma dell'Atomo - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=odiBKK__wwM",
+      "image": "https://i.ytimg.com/vi/odiBKK__wwM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "odiBKK__wwM",
+      "date": "2026-09-21T18:30:05.0000000Z"
+    },
+    {
+      "id": "geopop:9578Qxaclp0",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Gas Nervino a Tokyo, la ricostruzione 3D dell’attentato alla metropolitana del 1995",
+      "url": "https://www.youtube.com/watch?v=9578Qxaclp0",
+      "image": "https://i.ytimg.com/vi/9578Qxaclp0/hqdefault.jpg",
+      "summary": "",
+      "videoId": "9578Qxaclp0",
+      "date": "2026-09-21T16:30:35.0000000Z"
+    },
     {
       "id": "media-inaf:c469316c4e28",
       "sourceId": "media-inaf",
@@ -51,18 +77,6 @@
       "date": "2026-09-21T08:05:44.0000000Z"
     },
     {
-      "id": "focus:1251cc777ad8",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Una sera con Leonardo",
-      "url": "https://www.focus.it/focuslive/aspettando-focus-live-una-sera-con-leonardo",
-      "image": "https://www.focus.it/images/2026/09/18/aspettando-focus-live_w630.jpg?imbypass=true",
-      "summary": "Prima tappa \"di avvicinamento\" a Focus Live 2026: il 1° ottobre Focus entra nella sala della Biblioteca Ambrosiana che espone i fogli originali del Codice Atlantico. Con noi ci sarà Massimo Polidoro che ci guiderà nel...",
-      "date": "2026-09-21T08:00:00.0000000Z"
-    },
-    {
       "id": "focus:f715b82307c6",
       "sourceId": "focus",
       "source": "Focus",
@@ -72,6 +86,18 @@
       "url": "https://www.focus.it/ambiente/animali/il-tilcayo-il-primo-nuovo-felino-da-un-secolo",
       "image": "https://www.focus.it/images/2026/09/21/tilcayo_w630.jpg?imbypass=true",
       "summary": "Il tilcayo è la prima nuova specie di felino descritta da oltre un secolo: vive in Bolivia ed è più piccolo di un gatto.",
+      "date": "2026-09-21T08:00:00.0000000Z"
+    },
+    {
+      "id": "focus:1251cc777ad8",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Una sera con Leonardo",
+      "url": "https://www.focus.it/focuslive/aspettando-focus-live-una-sera-con-leonardo",
+      "image": "https://www.focus.it/images/2026/09/18/aspettando-focus-live_w630.jpg?imbypass=true",
+      "summary": "Prima tappa \"di avvicinamento\" a Focus Live 2026: il 1° ottobre Focus entra nella sala della Biblioteca Ambrosiana che espone i fogli originali del Codice Atlantico. Con noi ci sarà Massimo Polidoro che ci guiderà nel...",
       "date": "2026-09-21T08:00:00.0000000Z"
     },
     {
@@ -434,19 +460,6 @@
       "date": "2026-09-14T12:05:44.0000000Z"
     },
     {
-      "id": "geopop:IIMVFt83oOk",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "cos'è il caglio che si usa per fare i formaggi?",
-      "url": "https://www.youtube.com/watch?v=IIMVFt83oOk",
-      "image": "https://i.ytimg.com/vi/IIMVFt83oOk/hqdefault.jpg",
-      "summary": "",
-      "videoId": "IIMVFt83oOk",
-      "date": "2026-09-14T05:00:05.0000000Z"
-    },
-    {
       "id": "curiuss:gb1zStv8DVE",
       "sourceId": "curiuss",
       "source": "CURIUSS",
@@ -588,19 +601,6 @@
       "summary": "",
       "videoId": "tCdFpQMHUZw",
       "date": "2026-03-20T16:03:22.0000000Z"
-    },
-    {
-      "id": "curiuss:OY-d32j6ZFw",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "5 CURIUSS...ità sulla Matematica - Collage F&C - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=OY-d32j6ZFw",
-      "image": "https://i.ytimg.com/vi/OY-d32j6ZFw/hqdefault.jpg",
-      "summary": "",
-      "videoId": "OY-d32j6ZFw",
-      "date": "2026-03-16T19:00:24.0000000Z"
     }
   ]
 }
