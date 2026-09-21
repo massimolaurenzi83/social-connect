@@ -1,6 +1,6 @@
 {
   "category": "motori",
-  "updated": "2026-09-20T22:14:40.9787331Z",
+  "updated": "2026-09-21T00:19:15.0896704Z",
   "items": [
     {
       "id": "vaielettrico:75d8ccdb404f",
@@ -13,6 +13,18 @@
       "image": null,
       "summary": "La nuova ammiraglia elettrica di Skoda è un SUV lungo quasi 4,90 metri, disponibile in Italia solo a… L'articolo TEST – Skoda Peaq: sette posti, 600 km di autonomia e tanto comfort proviene da Vaielettrico .",
       "date": "2026-09-20T21:59:51.0000000Z"
+    },
+    {
+      "id": "motor1:b56a1b1bf2b6",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Skoda Peaq 2026, come va la nuova ammiraglia a 7 posti",
+      "url": "https://it.motor1.com/reviews/807487/skoda-peaq-2026-prova-motori/",
+      "image": "https://cdn.motor1.com/images/mgl/BX1Xjj/s3/photo-cover-skoda-peaq.jpg",
+      "summary": "È un SUV con tanto spazio interno e un bagagliaio super. Prezzi da poco meno di 50.000 euro",
+      "date": "2026-09-20T21:59:00.0000000Z"
     },
     {
       "id": "vaielettrico:8918a5edaa2e",
@@ -63,18 +75,6 @@
       "date": "2026-09-20T06:30:05.0000000Z"
     },
     {
-      "id": "insideevs:6b5d91d6b92f",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La batteria dell'auto elettrica con i diamanti: ecco la scoperta",
-      "url": "https://insideevs.it/news/808751/nanodiamanti-batterie-auto-elettriche-punto/",
-      "image": "https://cdn.motor1.com/images/mgl/AkOmwV/s3/la-batteria-dell-auto-elettrica-con-i-diamanti-ecco-la-scoperta.jpg",
-      "summary": "Un nuovo studio mostra come i nanodiamanti possano facilitare il movimento degli ioni nei materiali usati per accumulare energia",
-      "date": "2026-09-20T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:bdea2fcfa1ba",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -84,6 +84,18 @@
       "url": "https://it.motor1.com/news/808740/opel-tigra-v6-1996-storia/",
       "image": "https://cdn.motor1.com/images/mgl/y212YK/s3/opel-tigra-v6-1996.jpg",
       "summary": "Opel realizzò un solo esemplare della Tigra V6: motore centrale, trazione posteriore e 245 km/h per un progetto mai prodotto",
+      "date": "2026-09-20T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:6b5d91d6b92f",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La batteria dell'auto elettrica con i diamanti: ecco la scoperta",
+      "url": "https://insideevs.it/news/808751/nanodiamanti-batterie-auto-elettriche-punto/",
+      "image": "https://cdn.motor1.com/images/mgl/AkOmwV/s3/la-batteria-dell-auto-elettrica-con-i-diamanti-ecco-la-scoperta.jpg",
+      "summary": "Un nuovo studio mostra come i nanodiamanti possano facilitare il movimento degli ioni nei materiali usati per accumulare energia",
       "date": "2026-09-20T05:00:00.0000000Z"
     },
     {
@@ -315,18 +327,6 @@
       "date": "2026-09-18T15:00:57.0000000Z"
     },
     {
-      "id": "motor1:e7260c893607",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le auto più potenti (fino a 262 CV) che non pagano il bollo 2027",
-      "url": "https://it.motor1.com/features/808757/auto-potenti-senza-bollo-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/eoWbGV/s3/le-auto-piu-potenti-che-non-pagano-il-bollo-nel-2027.jpg",
-      "summary": "La lista completa dei modelli ibridi che arrivano anche a 262 CV, ma sul libretto hanno una potenza inferiore agli 80 kW",
-      "date": "2026-09-18T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:4be8a3c8b463",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -336,6 +336,18 @@
       "url": "https://insideevs.it/news/808745/bollo-auto-elettriche-abolizione-2027-problema/",
       "image": "https://cdn.motor1.com/images/mgl/W87Mm3/s3/auto-elettrica-foglie.jpg",
       "summary": "L'esenzione per il bollo auto del 2027 riguarda solo modelli con motori termici, quindi in molte Regioni le elettriche più vecchie pagheranno",
+      "date": "2026-09-18T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:e7260c893607",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le auto più potenti (fino a 262 CV) che non pagano il bollo 2027",
+      "url": "https://it.motor1.com/features/808757/auto-potenti-senza-bollo-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/eoWbGV/s3/le-auto-piu-potenti-che-non-pagano-il-bollo-nel-2027.jpg",
+      "summary": "La lista completa dei modelli ibridi che arrivano anche a 262 CV, ma sul libretto hanno una potenza inferiore agli 80 kW",
       "date": "2026-09-18T15:00:00.0000000Z"
     },
     {
@@ -433,18 +445,6 @@
       "image": null,
       "summary": "Il marchio del Fulmine presenterà a Parigi la nuova Astra GSE Line e un inedito concept chiamato ad anticipare i modelli del futuro. The post Opel al Salone di Parigi 2026 con la Astra GSE Line e una nuova concept app...",
       "date": "2026-09-18T12:00:21.0000000Z"
-    },
-    {
-      "id": "motor1:1fb7101c811f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Cambio di look per Motor1.com firmato RefrigiWear",
-      "url": "https://it.motor1.com/news/808736/refrigiwear-official-clothing-partner-motor1/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZP4wp/s3/refrigiwear-e-official-clothing-partner-di-motor1.com.jpg",
-      "summary": "Pronti a qualsiasi sfida meteo con il nuovo look di Motor1.com firmato RefrigiWear",
-      "date": "2026-09-18T12:00:00.0000000Z"
     },
     {
       "id": "insideevs:7336b35473b5",
