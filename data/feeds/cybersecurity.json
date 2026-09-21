@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-21T10:43:41.2328187Z",
+  "updated": "2026-09-21T16:39:00.1774186Z",
   "items": [
+    {
+      "id": "cybersecurity360:74c77bdebcfa",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber Exposure Management: perché conoscere il rischio non basta più",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-exposure-management-perche-conoscere-il-rischio-non-basta-piu/",
+      "image": null,
+      "summary": "Le organizzazioni dispongono oggi di una quantità crescente di dati sulla sicurezza, ma spesso faticano a trasformarli in decisioni operative. Il progetto Security Intelligence Platform di Kyndryl integra posture mana...",
+      "date": "2026-09-21T14:47:06.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:e9e68d6e2548",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber resilience e Zero Trust: perché fermare il movimento laterale è diventato decisivo",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-resilience-e-zero-trust-perche-fermare-il-movimento-laterale-e-diventato-decisivo/",
+      "image": null,
+      "summary": "Le strategie di difesa non possono più basarsi sull'idea che un attaccante rimanga sempre all'esterno del perimetro aziendale. Il progetto realizzato da Illumio per Gecina mostra come la microsegmentazione possa limit...",
+      "date": "2026-09-21T14:05:11.0000000Z"
+    },
     {
       "id": "cybersecurity360:e67680168814",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Kaspersky Small Office Security integra antivirus, protezione dei server, VPN, gestione delle password e strumenti contro phishing e ransomware. La versione Premium aggiunge assistenza IT e Security Awareness, con un’...",
       "date": "2026-09-18T10:57:06.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d26adf20ee50",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il GDPR come disciplina delle soglie: proteggere i dati significa governare gli accessi",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/il-gdpr-come-disciplina-delle-soglie-proteggere-i-dati-significa-governare-gli-accessi/",
-      "image": null,
-      "summary": "Privacy by design e security by design non coincidono, ma convergono nel governo selettivo degli accessi. Ecco perché proteggere i dati non significa chiudere ogni porta, bensì disegnare soglie appropriate, tracciabil...",
-      "date": "2026-09-18T08:28:29.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:c292edd4645d",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Intelligenza artificiale e modello 231: cosa cambia per la compliance aziendale",
-      "url": "https://www.cybersecurity360.it/legal/intelligenza-artificiale-e-modello-231-cosa-cambia-per-la-compliance-aziendale/",
-      "image": null,
-      "summary": "Gli interventi normativi ridisegnano il perimetro della responsabilità delle imprese . Ecco cosa succede se un sistema di IA ad alto rischio causa un danno e l’azienda non ha predisposto adeguate misure, commisurate a...",
-      "date": "2026-09-18T07:52:46.0000000Z"
     }
   ]
 }

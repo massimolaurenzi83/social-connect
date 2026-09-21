@@ -1,7 +1,31 @@
 {
   "category": "scienza",
-  "updated": "2026-09-21T10:43:41.2718350Z",
+  "updated": "2026-09-21T16:39:00.2413040Z",
   "items": [
+    {
+      "id": "media-inaf:c469316c4e28",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Studiare i Grb senza Swift e senza Theseus",
+      "url": "https://www.media.inaf.it/2026/09/21/intervista-giancarlo-ghirlanda/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/cover-gg-150x150.jpg",
+      "summary": "Con l’ormai imminente e inevitabile disintegrazione in atmosfera di Swift e con la notizia della mancata selezione di Theseus, le prospettive a breve e medio termine per l’osservazione dei lampi di raggi gamma dallo s...",
+      "date": "2026-09-21T15:38:13.0000000Z"
+    },
+    {
+      "id": "media-inaf:0b0d52fe65d0",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Buchi neri, quando le dimensioni non contano",
+      "url": "https://www.media.inaf.it/2026/09/21/regola-universale-buchi-neri/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/Low-Res_Tidal-disruption-event-close-up.-Credit-Science-Communication-Lab-150x150.jpg",
+      "summary": "Dai buchi neri di massa stellare a quelli supermassicci, la formazione dei getti sembra seguire la stessa regola. Uno studio pubblicato su Nature Astronomy individua una soglia critica nel tasso di accrescimento che p...",
+      "date": "2026-09-21T13:53:41.0000000Z"
+    },
     {
       "id": "focus:c5e2b91ad973",
       "sourceId": "focus",
@@ -197,19 +221,6 @@
       "date": "2026-09-18T11:00:36.0000000Z"
     },
     {
-      "id": "curiuss:oOKOMgt_bOU",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "20 settembre ore 11, politecnico di Milano",
-      "url": "https://www.youtube.com/watch?v=oOKOMgt_bOU",
-      "image": "https://i.ytimg.com/vi/oOKOMgt_bOU/hqdefault.jpg",
-      "summary": "",
-      "videoId": "oOKOMgt_bOU",
-      "date": "2026-09-18T10:29:15.0000000Z"
-    },
-    {
       "id": "geopop:gfpYUsuRvOo",
       "sourceId": "geopop",
       "source": "Geopop",
@@ -384,18 +395,6 @@
       "date": "2026-09-15T11:49:44.0000000Z"
     },
     {
-      "id": "media-inaf:1dedbd06d939",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Stelle che crescono nel deserto dei metalli",
-      "url": "https://www.media.inaf.it/2026/09/15/sh2-284-katia-biazzo/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/08/Sh2-284_VPHAS_image_eso2309a-150x150.png",
-      "summary": "Grazie ai dati del Large Binocular Telescope, un team guidato da Katia Biazzo dell’Inaf di Roma ha studiato in dettaglio la regione di formazione stellare a più bassa metallicità nota nella nostra galassia. I risultat...",
-      "date": "2026-09-15T08:42:52.0000000Z"
-    },
-    {
       "id": "geopop:B51so3HB0wM",
       "sourceId": "geopop",
       "source": "Geopop",
@@ -420,18 +419,6 @@
       "summary": "",
       "videoId": "fkRWjhgE038",
       "date": "2026-09-14T16:30:10.0000000Z"
-    },
-    {
-      "id": "media-inaf:8061651735ff",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Dalle cave del Vicentino alle grotte sulla Luna",
-      "url": "https://www.media.inaf.it/2026/09/14/dalle-cave-del-vicentino-alle-grotte-sulla-luna/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/cover-intervista-simioni-150x150.png",
-      "summary": "Il primo test sul campo per DaedalusCam, la camera immersiva iperemisferica destinata ad addentrarsi nelle grotte lunari, è stato effettuato a bordo di un drone, per sorvolare una cava basaltica dei Monti Lessini. Abb...",
-      "date": "2026-09-14T13:24:28.0000000Z"
     },
     {
       "id": "geopop:W4at5XxD9y0",
@@ -601,6 +588,19 @@
       "summary": "",
       "videoId": "tCdFpQMHUZw",
       "date": "2026-03-20T16:03:22.0000000Z"
+    },
+    {
+      "id": "curiuss:OY-d32j6ZFw",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "5 CURIUSS...ità sulla Matematica - Collage F&C - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=OY-d32j6ZFw",
+      "image": "https://i.ytimg.com/vi/OY-d32j6ZFw/hqdefault.jpg",
+      "summary": "",
+      "videoId": "OY-d32j6ZFw",
+      "date": "2026-03-16T19:00:24.0000000Z"
     }
   ]
 }
