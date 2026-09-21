@@ -1,6 +1,6 @@
 {
   "category": "mondo",
-  "updated": "2026-09-21T00:19:15.1650544Z",
+  "updated": "2026-09-21T05:09:15.4681225Z",
   "items": [
     {
       "id": "internazionale:20463c14a39c",
@@ -61,6 +61,18 @@
       "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
       "summary": "Chiara Alessi esperta di designe Giulia Siviero giornalista14-19 anni",
       "date": "2026-10-03T09:00:00.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:4a679f19cc0e",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Nuova escalation, Trump torna prima da Camp David: 'Devo decidere sull'Iran'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/nuova-escalation-trump-torna-prima-da-camp-david-devo-decidere-sulliran_d85ac995-09c8-4380-8a2c-330e9dd7d8ba.html",
+      "image": null,
+      "summary": "Gli Usa alzano allerta per gli americani. All'Onu vede Paesi del Golfo,apre anche a Pezeshkian",
+      "date": "2026-09-21T02:59:34.0000000Z"
     },
     {
       "id": "ansa-mondo:a3a933be8126",
@@ -135,18 +147,6 @@
       "date": "2026-09-20T18:43:54.0000000Z"
     },
     {
-      "id": "ansa-mondo:4a679f19cc0e",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Nuova escalation, Trump torna prima da Camp David: 'Devo decidere sull'Iran'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/nuova-escalation-trump-torna-prima-da-camp-david-devo-decidere-sulliran_d85ac995-09c8-4380-8a2c-330e9dd7d8ba.html",
-      "image": null,
-      "summary": "Gli Usa alzano allerta per gli americani. All'Onu vede Paesi del Golfo,apre anche a Pezeshkian",
-      "date": "2026-09-20T18:27:41.0000000Z"
-    },
-    {
       "id": "ansa-mondo:cbbca9236750",
       "sourceId": "ansa-mondo",
       "source": "ANSA Mondo",
@@ -217,42 +217,6 @@
       "image": "https://media.internazionale.it/images/2026/09/16/358638-hd.jpg",
       "summary": "Decolonizzazione, democrazia e colpi di stato le hanno spazzate via. Ma oltre che in Marocco, Lesotho ed Eswatini sopravvivono in forma simbolica anche negli stati governati da leader eletti Leggi",
       "date": "2026-09-20T03:33:02.0000000Z"
-    },
-    {
-      "id": "internazionale:1484d76d8f94",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Gloria Steinem amava le donne",
-      "url": "https://www.internazionale.it/notizie/rebecca-traister/2026/09/19/gloria-steinem-amava-le-donne",
-      "image": "https://media.internazionale.it/images/2026/09/11/358349-hd.jpg",
-      "summary": "Giornalista, autrice e attivista femminista, è morta il 2 settembre a New York, all’età di 92 anni. La sua vita ha abbracciato decenni di progresso esplosivo e di brutali passi indietro per le donne statunitensi Leggi",
-      "date": "2026-09-19T03:44:01.0000000Z"
-    },
-    {
-      "id": "internazionale:42fb66e4699a",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Sorprese e qualche dubbio alla Mostra di Venezia",
-      "url": "https://www.internazionale.it/opinione/piero-zardo/2026/09/19/film-venezia-recensioni",
-      "image": "https://media.internazionale.it/images/2026/09/17/358864-hd.jpg",
-      "summary": "Una guida veloce per conoscere i film che presto saranno nelle sale, da Possible love di Lee Chang-dong a Succederà questa notte di Nanni Moretti Leggi",
-      "date": "2026-09-19T03:33:02.0000000Z"
-    },
-    {
-      "id": "internazionale:00e107d63de1",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Dalla city di Londra ad Atene",
-      "url": "https://www.internazionale.it/notizie/alessandro-lubello/2026/09/19/chris-rokos-investitore-atene",
-      "image": "https://media.internazionale.it/images/2026/09/16/358663-hd.jpg",
-      "summary": "L’investitore Chris Rokos, il terzo contribuente britannico, ha deciso di trasferirsi in Grecia. Dove, tra i vari vantaggi, pagherà meno tasse Leggi",
-      "date": "2026-09-19T03:06:02.0000000Z"
     }
   ]
 }

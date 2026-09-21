@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-21T00:19:15.0896704Z",
+  "updated": "2026-09-21T05:09:15.4369548Z",
   "items": [
+    {
+      "id": "insideevs:9d09d4b3f891",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La batteria delle elettriche può durare molto più a lungo",
+      "url": "https://insideevs.it/news/808774/batterie-li-ion-silicene-possono/",
+      "image": "https://cdn.motor1.com/images/mgl/pb87XY/s3/il-silicio-puo-accumulare-molta-piu-energia-della-grafite-ma-si-espande-durante-la-carica-una-nuova-struttura-prova-a-fermare-il-problema.jpg",
+      "summary": "Il silicene prova a superare uno dei grandi limiti degli anodi al silicio",
+      "date": "2026-09-21T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:a0aa7f7ade94",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Quanto sono affidabili le auto cinesi? La classifica 2026",
+      "url": "https://it.motor1.com/news/808794/auto-cinesi-classifica-affidabilita-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/zxJLN4/s3/chery-tiggo-7-phev-2026.jpg",
+      "summary": "J.D. Power fotografa il miglioramento dei marchi cinesi, mentre elettronica, infotainment e assistenza alla guida creano problemi",
+      "date": "2026-09-21T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:75d8ccdb404f",
       "sourceId": "vaielettrico",
@@ -327,18 +351,6 @@
       "date": "2026-09-18T15:00:57.0000000Z"
     },
     {
-      "id": "insideevs:4be8a3c8b463",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il problema del bollo per le auto elettriche",
-      "url": "https://insideevs.it/news/808745/bollo-auto-elettriche-abolizione-2027-problema/",
-      "image": "https://cdn.motor1.com/images/mgl/W87Mm3/s3/auto-elettrica-foglie.jpg",
-      "summary": "L'esenzione per il bollo auto del 2027 riguarda solo modelli con motori termici, quindi in molte Regioni le elettriche più vecchie pagheranno",
-      "date": "2026-09-18T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:e7260c893607",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -348,6 +360,18 @@
       "url": "https://it.motor1.com/features/808757/auto-potenti-senza-bollo-2027/",
       "image": "https://cdn.motor1.com/images/mgl/eoWbGV/s3/le-auto-piu-potenti-che-non-pagano-il-bollo-nel-2027.jpg",
       "summary": "La lista completa dei modelli ibridi che arrivano anche a 262 CV, ma sul libretto hanno una potenza inferiore agli 80 kW",
+      "date": "2026-09-18T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:4be8a3c8b463",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il problema del bollo per le auto elettriche",
+      "url": "https://insideevs.it/news/808745/bollo-auto-elettriche-abolizione-2027-problema/",
+      "image": "https://cdn.motor1.com/images/mgl/W87Mm3/s3/auto-elettrica-foglie.jpg",
+      "summary": "L'esenzione per il bollo auto del 2027 riguarda solo modelli con motori termici, quindi in molte Regioni le elettriche più vecchie pagheranno",
       "date": "2026-09-18T15:00:00.0000000Z"
     },
     {
@@ -375,18 +399,6 @@
       "date": "2026-09-18T14:00:51.0000000Z"
     },
     {
-      "id": "motor1:7e207a9cf0fd",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Addio ai fogli Excel: ConnectPro centralizza le flotte VW",
-      "url": "https://it.motor1.com/news/808672/connectpro-volkswagen-veicoli-commerciali-flotte/",
-      "image": "https://cdn.motor1.com/images/mgl/vx7K7v/s3/connectpro-centralizza-le-flotte-volkswagen.jpg",
-      "summary": "All’IAA debutta ConnectPro, piattaforma digitale B2B di Volkswagen Veicoli Commerciali per gestire dati e manutenzione delle flotte",
-      "date": "2026-09-18T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:de96a428ebe4",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -399,16 +411,16 @@
       "date": "2026-09-18T14:00:00.0000000Z"
     },
     {
-      "id": "motor1:b314ae906de0",
+      "id": "motor1:7e207a9cf0fd",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Bollo auto gratis nel 2027? Ecco quanto puoi risparmiare",
-      "url": "https://it.motor1.com/news/808778/bollo-auto-gratis-2027-quanto-si-risparmia/",
-      "image": "https://cdn.motor1.com/images/mgl/P3VWvA/s3/bollo-auto-gratis-nel-2027-ecco-quanto-puoi-risparmiare.jpg",
-      "summary": "L'analisi Facile.it-Pratiche Auto Online stima un risparmio medio di 163,50 euro, ma per i diesel aumentano i costi del carburante",
-      "date": "2026-09-18T13:28:43.0000000Z"
+      "title": "Addio ai fogli Excel: ConnectPro centralizza le flotte VW",
+      "url": "https://it.motor1.com/news/808672/connectpro-volkswagen-veicoli-commerciali-flotte/",
+      "image": "https://cdn.motor1.com/images/mgl/vx7K7v/s3/connectpro-centralizza-le-flotte-volkswagen.jpg",
+      "summary": "All’IAA debutta ConnectPro, piattaforma digitale B2B di Volkswagen Veicoli Commerciali per gestire dati e manutenzione delle flotte",
+      "date": "2026-09-18T14:00:00.0000000Z"
     },
     {
       "id": "hdmotori:7e8d9f4de075",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/YAbY00/s3/una-batteria-al-sodio-che-dura-50.000-cicli-il-nuovo-studio.jpg",
       "summary": "Un nuovo materiale sviluppato in laboratorio si ricarica in poco più di 100 secondi e conserva quasi tutta la capacità",
       "date": "2026-09-17T14:04:08.0000000Z"
-    },
-    {
-      "id": "insideevs:1c5535a67262",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "CATL vende celle così grandi che ne bastano 27 per fare 50 kWh",
-      "url": "https://insideevs.it/news/808614/catl-celle-lfp-giganti-sistemi-accumulo/",
-      "image": "https://cdn.motor1.com/images/mgl/NG68Xy/s3/catl-ecco-la-nuova-cella-xxl-lfp-587ah.jpg",
-      "summary": "Durano fino a 8.000 cicli e contendono quasi 2 kWh di energia ciascuna, na sono pensate per i sistemi di accumulo",
-      "date": "2026-09-17T11:00:00.0000000Z"
     }
   ]
 }
