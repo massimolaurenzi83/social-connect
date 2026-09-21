@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-21T05:09:15.4250189Z",
+  "updated": "2026-09-21T10:43:41.2328187Z",
   "items": [
+    {
+      "id": "cybersecurity360:e67680168814",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Revolut: la paper compliance e la favola della PEC come e-mail sicura",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/revolut-la-paper-compliance-e-la-favola-della-pec-come-e-mail-sicura/",
+      "image": null,
+      "summary": "La compromissione di una PEC istituzionale può trasformare un canale considerato sicuro in uno strumento di social engineering. Il caso Revolut mostra perché certificazioni e procedure non bastano: servono verifiche o...",
+      "date": "2026-09-21T09:53:50.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:1ddd9f904f8b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Hosting WordPress gestito e sicurezza cloud: l’architettura ad alta disponibilità con AI integrata di Ionos",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/ionos-hosting-wordpress-sicurezza-cloud/",
+      "image": null,
+      "summary": "Ionos propone un’offerta di hosting WordPress con primo anno gratuito, 50 GB di storage SSD, strumenti di intelligenza artificiale e infrastruttura progettata per garantire una disponibilità del 99,99%. La sicurezza c...",
+      "date": "2026-09-21T09:37:22.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:6717eaadeddb",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Commerciale o open source, l’AI in azienda tra rischi noti e trappole nascoste",
+      "url": "https://www.cybersecurity360.it/outlook/commerciale-o-open-source-lai-in-azienda-tra-rischi-noti-e-trappole-nascoste/",
+      "image": null,
+      "summary": "Sempre più organizzazioni devono scegliere tra soluzioni in cloud e modelli installati internamente. Ma il dibattito sulla sicurezza è impostato male. Il perché ce lo spiega Mirco Marchetti, professore associato di Un...",
+      "date": "2026-09-21T07:02:49.0000000Z"
+    },
     {
       "id": "cybersecurity360:5709ba343dcf",
       "sourceId": "cybersecurity360",
@@ -23,7 +59,7 @@
       "title": "Controllo (dis)umano",
       "url": "https://www.cybersecurity360.it/nuove-minacce/controllo-disumano/",
       "image": null,
-      "summary": "Quando c'è un incidente provocato da un modello di IA, o da un agente, il discorso viene convenientemente orientato verso il disallineamento evitando di parlare di gestione del rischio. Uno spostamento d'attenzione ch...",
+      "summary": "Il controllo umano effettivo è e sarà uno degli argomenti di maggior rilievo nei dibattiti e, probabilmente, nell'attribuzione di responsabilità anche in sede processuale. Motivo per cui il mero posizionamento formale...",
       "date": "2026-09-18T14:00:00.0000000Z"
     },
     {
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Gli interventi normativi ridisegnano il perimetro della responsabilità delle imprese . Ecco cosa succede se un sistema di IA ad alto rischio causa un danno e l’azienda non ha predisposto adeguate misure, commisurate a...",
       "date": "2026-09-18T07:52:46.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:15281f924390",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber resilience nel manufacturing: perché semplificare la sicurezza è diventata una priorità",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-resilience-nel-manufacturing-perche-semplificare-la-sicurezza-e-diventata-una-priorita/",
-      "image": null,
-      "summary": "Nel manifatturiero la resilienza digitale non dipende solo dall'introduzione di nuove tecnologie, ma dalla capacità di governarle in modo integrato. Il progetto Fortinet per LAMPRE mostra come convergenza IT/OT, Zero ...",
-      "date": "2026-09-17T16:15:08.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d6fe9954b526",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber resilience industriale: perché l’AI deve parlare il linguaggio della fabbrica",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-resilience-industriale-perche-lai-deve-parlare-il-linguaggio-della-fabbrica/",
-      "image": null,
-      "summary": "Negli ambienti OT la sfida non è soltanto individuare un attacco, ma comprenderne l'impatto sui processi produttivi. Il progetto Elipsis OT Resilience introduce un modello che integra dati di processo ed eventi cyber ...",
-      "date": "2026-09-17T15:47:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:dbf957acd1ec",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Hugging Face e il precedente di RubyGems: è l’ora di  portare nell’AI i principi della cyber security",
-      "url": "https://www.cybersecurity360.it/news/hugging-face-e-il-precedente-di-rubygems-e-lora-di-portare-nellai-i-principi-della-cyber-security/",
-      "image": null,
-      "summary": "Per OpenAI l’attacco a RubyGems rappresenterebbe almeno il terzo caso rilevante in cui i suoi agenti hanno attaccato l’infrastruttura di un’altra azienda , dopo il caso Hugging Face. Anthropic ha contato finora quattr...",
-      "date": "2026-09-17T15:04:14.0000000Z"
     }
   ]
 }
