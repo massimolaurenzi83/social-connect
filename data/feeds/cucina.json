@@ -1,7 +1,31 @@
 {
   "category": "cucina",
-  "updated": "2026-09-22T12:38:15.8881630Z",
+  "updated": "2026-09-22T17:18:51.1251586Z",
   "items": [
+    {
+      "id": "dissapore:66b0a449be2f",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Perché andare da Aalis, la nuova bakery di Milano che si farà spazio tra le colazioni d’autore",
+      "url": "https://www.dissapore.com/notizie/perche-andare-da-aalis-la-nuova-bakery-di-milano-che-si-fara-spazio-tra-le-colazioni-dautore/",
+      "image": null,
+      "summary": "Vicinissima all'Università Cattolica, Aalis è una nuova bakery che vuole farsi spazio nella Milano delle colazioni d'autore. L'articolo Perché andare da Aalis, la nuova bakery di Milano che si farà spazio tra le colaz...",
+      "date": "2026-09-22T16:46:06.0000000Z"
+    },
+    {
+      "id": "giallozafferano:9267af6d660f",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Pasta con pesto di noci e miele",
+      "url": "https://ricette.giallozafferano.it/Pasta-con-pesto-di-noci-e-miele.html",
+      "image": "https://www.giallozafferano.it/images/366-36638/Pasta-con-pesto-di-noci-e-miele_1200x800.jpg",
+      "summary": "La pasta con pesto di noci e miele è un primo piatto sfizioso e originale, ideale per chi ama sperimentare nuovi abbinamenti in cucina! Ci siamo ispirati alla salsa alle noci , allontanandoci però dalla ricetta tradiz...",
+      "date": "2026-09-22T13:37:00.0000000Z"
+    },
     {
       "id": "dissapore:cd0b9a7df3db",
       "sourceId": "dissapore",
@@ -171,18 +195,6 @@
       "date": "2026-09-18T15:27:04.0000000Z"
     },
     {
-      "id": "dissapore:e8aa21fc5932",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "In Russia il governo ha preso il controllo dei 7 stabilimenti di Nestlè",
-      "url": "https://www.dissapore.com/notizie/in-russia-il-governo-ha-preso-il-controllo-dei-7-stabilimenti-di-nestle/",
-      "image": null,
-      "summary": "Il Cremlino dal 2023, con una legge ad hoc, espropria i beni delle società che appartengono a Paesi che considera ostili. L'articolo In Russia il governo ha preso il controllo dei 7 stabilimenti di Nestlè proviene da ...",
-      "date": "2026-09-18T12:21:26.0000000Z"
-    },
-    {
       "id": "giallozafferano:5d1ae1f48c80",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/366-36617/Torta-di-sfoglia-con-mele-e-ricotta_1200x800.jpg",
       "summary": "La torta di pasta sfoglia con mele e ricotta è un dolce facile e goloso, ideale quando si ha voglia di un dessert fatto in casa senza dover realizzare un impasto da zero. La pasta sfoglia già pronta permette di realiz...",
       "date": "2026-09-14T13:11:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:37ed6e647398",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Polpettone di manzo",
-      "url": "https://ricette.giallozafferano.it/Polpettone-di-manzo.html",
-      "image": "https://www.giallozafferano.it/images/366-36616/Polpettone-di-manzo_1200x800.jpg",
-      "summary": "Il polpettone di manzo è un grande classico della cucina casalinga, perfetto da portare in tavola come secondo piatto della domenica in famiglia. Una ricetta sostanziosa e genuina, caratterizzata da un impasto partico...",
-      "date": "2026-09-14T11:00:00.0000000Z"
     }
   ]
 }

@@ -1,18 +1,222 @@
 {
   "category": "motori",
-  "updated": "2026-09-22T12:38:15.9100013Z",
+  "updated": "2026-09-22T17:18:51.1214642Z",
   "items": [
     {
-      "id": "insideevs:a0a994725e5c",
+      "id": "hdmotori:8f43b698e023",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen ID. Polo, l’elettrica da 24.995 euro batte tutte le rivali in Germania",
+      "url": "https://www.hdmotori.it/volkswagen-id-polo-elettrica-anno-germania/",
+      "image": null,
+      "summary": "Volkswagen ID. Polo conquista la categoria Budget del German Car of the Year: l’elettrica compatta supera Renault Twingo e Clio e parte da 24.995 euro The post Volkswagen ID. Polo, l’elettrica da 24.995 euro batte tut...",
+      "date": "2026-09-22T17:00:37.0000000Z"
+    },
+    {
+      "id": "hdmotori:8a7be63298ea",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L’incredibile storia della superbike italiana tradita dal design: aveva un motore V8",
+      "url": "https://www.hdmotori.it/morbidelli-850-v8-storia-superbike/",
+      "image": null,
+      "summary": "La storia della Morbidelli 850 V8: la superbike italiana dal motore rivoluzionario stroncata dal design. Dagli elogi tecnici al flop commerciale fino al Guinness dei primati The post L’incredibile storia della superbi...",
+      "date": "2026-09-22T16:30:14.0000000Z"
+    },
+    {
+      "id": "motor1:30190a106169",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il nuovo allestimento top di gamma di Citroen",
+      "url": "https://it.motor1.com/news/809131/citroen-allestimento-outdoor-c3-c3-aircross-ami/",
+      "image": "https://cdn.motor1.com/images/mgl/eoWRl8/s3/citroen-allestimento-outdoor.jpg",
+      "summary": "La nuova linea Citroën OUTDOOR prevede paraurti dedicati, colori esclusivi, interni rivisti e tetto apribile su Ami",
+      "date": "2026-09-22T16:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:f19c38e91dd0",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BMW va oltre al touch: arrivano gli ologrammi 3D nell’abitacolo?",
+      "url": "https://www.hdmotori.it/bmw-brevetto-ologrammi-3d-abitacolo/",
+      "image": null,
+      "summary": "BMW deposita un brevetto che rivoluziona l'abitacolo: ologrammi 3D a mezz'aria, assistenti virtuali e tasti invisibili con feedback tattile ad aria The post BMW va oltre al touch: arrivano gli ologrammi 3D nell’abitac...",
+      "date": "2026-09-22T16:00:36.0000000Z"
+    },
+    {
+      "id": "motor1:dc98015fefa9",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Offerta MG3 e MG ZS con bollo auto incluso, quanto conviene?",
+      "url": "https://it.motor1.com/news/809076/mg-3-mg-zs-promozione-bollo-auto/",
+      "image": "https://cdn.motor1.com/images/mgl/Rqb9Px/s3/offerta-mg3-e-mg-zs-con-bollo-auto-incluso.jpg",
+      "summary": "La promozione riguarda MG3 e MG ZS Hybrid+ da 75 kW e consente di risparmiare il costo del bollo previsto per il 2027",
+      "date": "2026-09-22T16:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:97b6644f7dbc",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Audi A4, l’attesa cresce: il render mostra il design della nuova serie",
+      "url": "https://www.hdmotori.it/audi-a4-render-nuova-serie/",
+      "image": null,
+      "summary": "La nuova generazione elettrica dell’Audi A4 è stata rinviata al 2029. Verrà costruita sulla piattaforma SSP. The post Audi A4, l’attesa cresce: il render mostra il design della nuova serie appeared first on HDmotori.it .",
+      "date": "2026-09-22T15:30:04.0000000Z"
+    },
+    {
+      "id": "motor1:44909cf1168d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Asphaltica 2026 cresce: 140 espositori a BolognaFiere",
+      "url": "https://it.motor1.com/news/809128/asphaltica-2026-espositori-bolognafiere/",
+      "image": "https://cdn.motor1.com/images/mgl/XBbGok/s3/asphaltica.jpg",
+      "summary": "La fiera dedicata alle infrastrutture stradali aumenta gli spazi e punta su digitalizzazione, sostenibilità e nuovi materiali",
+      "date": "2026-09-22T15:30:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:ae10c9bed63f",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Esclusi bonus colonnine, ci ha risposto il Ministero",
+      "url": "https://www.vaielettrico.it/esclusi-bonus-colonnine-ci-ha-risposto-il-ministero/",
+      "image": null,
+      "summary": "Tanti lettori di Vaielettrico ci hanno scritto, e alcuni hanno segnalato direttamente al Ministero delle Imprese e del… L'articolo Esclusi bonus colonnine, ci ha risposto il Ministero proviene da Vaielettrico .",
+      "date": "2026-09-22T15:18:24.0000000Z"
+    },
+    {
+      "id": "hdmotori:a4c1a36dd68d",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Hyundai prepara il colpo grosso a Parigi: arrivano due SUV inediti e una sorpresa",
+      "url": "https://www.hdmotori.it/hyundai-salone-auto-parigi-2026/",
+      "image": null,
+      "summary": "Dal nuovo B-SUV al debutto europeo del C-SUV, Hyundai sfrutta il Salone di Parigi per mostrare l'evoluzione della gamma destinata all'Europa The post Hyundai prepara il colpo grosso a Parigi: arrivano due SUV inediti ...",
+      "date": "2026-09-22T15:00:07.0000000Z"
+    },
+    {
+      "id": "motor1:bb5adafe191a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "700 CV per 982 kg: la Praga Bohema provata a Monza",
+      "url": "https://it.motor1.com/reviews/807835/praga-bohema-prova-monza-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/BX1Q3w/s3/praga-bohema-la-prova-su-strada.jpg",
+      "summary": "Se da fuori incute timore, in pista è tutt'altra cosa. Un enorme go-kart che ti stampa un sorriso sulla faccia a ogni giro",
+      "date": "2026-09-22T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:c2b70c1dbecc",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Le auto cinesi si fanno mettere sotto: i test sono folli",
-      "url": "https://insideevs.it/news/809057/case-cinesi-test-qualita-affidabilita/",
-      "image": "https://cdn.motor1.com/images/mgl/jl89vo/s3/zeekr-009-mpv-s-seat-foam-was-run-over-by-20-ton-truck-and-remained-the-same-0-59-screenshot.jpg",
-      "summary": "Zeekr schiaccia i sedili con 40 tonnellate, Geely usa un carro armato e Chery immerge una batteria in acqua salata",
-      "date": "2026-09-22T12:30:00.0000000Z"
+      "title": "Un serbatoio di idrogeno prende fuoco: cosa succede è pazzesco",
+      "url": "https://insideevs.it/news/809102/idrogeno-liquido-test-serbatoio-fiamme/",
+      "image": "https://cdn.motor1.com/images/mgl/G3bB4E/s3/un-serbatoio-di-idrogeno-prende-fuoco-cosa-succede-e-pazzesco.jpg",
+      "summary": "Un test ha messo un serbatoio di idrogeno liquido davanti alle fiamme. E c'è un dettaglio che sorprende",
+      "date": "2026-09-22T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:1861f9d24ab4",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Tesla Roadster volerà? Un indizio arriva dal Texas",
+      "url": "https://insideevs.it/news/809101/tesla-roadster-faa-limita-spazio/",
+      "image": "https://cdn.motor1.com/images/mgl/ZnlmoA/s3/la-nuova-tesla-roadster-volera-un-indizio-arriva-dal-texas.jpg",
+      "summary": "La FAA ha imposto una restrizione sui cieli sopra SpaceX fino al 2 ottobre, un giorno dopo il debutto della sportiva Tesla a Waco",
+      "date": "2026-09-22T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:1023bb4c638b",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen Veicoli Commerciali: \"Si lavora sulla multinenergia\"",
+      "url": "https://it.motor1.com/news/808945/volkswagen-furgoni-elettrici-intervista/",
+      "image": "https://cdn.motor1.com/images/mgl/ojEB84/s3/lars-krause.jpg",
+      "summary": "A dirlo Lars Krause, Vice presidente del Brand e responsabile per le vendite, il marketing e l'aftersales",
+      "date": "2026-09-22T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:ab202650f33b",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Alfa Romeo ci ha detto qual è il nome della sua nuova sportiva",
+      "url": "https://it.motor1.com/news/809120/alfa-romeo-concept-sportiva-2026-nome/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z1mq7/s3/alfa-romeo-sportiva-2026-nome.jpg",
+      "summary": "Ma non è così facile individuarlo",
+      "date": "2026-09-22T13:52:57.0000000Z"
+    },
+    {
+      "id": "hdmotori:3312dfd69e95",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Bonus colonnine 2026: al via le domande, fino a 1.500 euro per i privati",
+      "url": "https://www.hdmotori.it/bonus-colonnine-2026-al-via-le-domande-fino-a-1-500-euro-per-i-privati/",
+      "image": null,
+      "summary": "Fino al 22 settembre è possibile richiedere il contributo per l’acquisto e l’installazione di infrastrutture di ricarica domestiche. Per i condomìni il rimborso può arrivare fino a 8.000 euro. The post Bonus colonnine...",
+      "date": "2026-09-22T13:45:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:c1a3ef1fd826",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Enel si conferma protagonista della transizione all’elettrico",
+      "url": "https://www.vaielettrico.it/enel-si-conferma-protagonista-della-transizione-allelettrico/",
+      "image": null,
+      "summary": "Enel si conferma protagonista della transizione alla mobilità elettrica, in un’Italia con più stazioni di ricarica e più… L'articolo Enel si conferma protagonista della transizione all’elettrico proviene da Vaielettri...",
+      "date": "2026-09-22T13:34:07.0000000Z"
+    },
+    {
+      "id": "hdmotori:65bdd0a81de5",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Lynk & Co 07, arriva in Europa la GT da 530 CV e 200 km in elettrico",
+      "url": "https://www.hdmotori.it/lynk-co-07-arriva-in-europa/",
+      "image": null,
+      "summary": "La Lynk & Co 07 GT esordirà a Parigi sul mercato europeo, affiancando le sorelle ibride plug-in 08, 01 e la 02 full electric. The post Lynk & Co 07, arriva in Europa la GT da 530 CV e 200 km in elettrico appeared firs...",
+      "date": "2026-09-22T13:00:18.0000000Z"
+    },
+    {
+      "id": "motor1:e50e6cd7aab9",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Frenata d'estate per i camion: solo i trattori stradali tengono",
+      "url": "https://it.motor1.com/news/809074/mercato-veicoli-industriali-unrae-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/ZnlmXz/s3/agosto-2026.jpg",
+      "summary": "UNRAE fotografa 2.863 immatricolazioni a luglio e 1.263 ad agosto 2026, con pesanti differenze tra veicoli leggeri e trattori stradali",
+      "date": "2026-09-22T13:00:00.0000000Z"
     },
     {
       "id": "motor1:83e921157d8d",
@@ -24,6 +228,18 @@
       "url": "https://it.motor1.com/news/809086/millennium-expo-ottobre-2026-date-biglietti/",
       "image": "https://cdn.motor1.com/images/mgl/ko8B3R/s3/auto-e-moto-d-epoca-il-millennium-expo-torna-a-capannelle.jpg",
       "summary": "Il 17 e 18 ottobre il Millennium Expo arriva alla 43esima edizione, con auto, moto d'epoca, Vespa, Lancia, ricambi e mostre",
+      "date": "2026-09-22T12:30:00.0000000Z"
+    },
+    {
+      "id": "insideevs:a0a994725e5c",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le auto cinesi si fanno mettere sotto: i test sono folli",
+      "url": "https://insideevs.it/news/809057/case-cinesi-test-qualita-affidabilita/",
+      "image": "https://cdn.motor1.com/images/mgl/jl89vo/s3/zeekr-009-mpv-s-seat-foam-was-run-over-by-20-ton-truck-and-remained-the-same-0-59-screenshot.jpg",
+      "summary": "Zeekr schiaccia i sedili con 40 tonnellate, Geely usa un carro armato e Chery immerge una batteria in acqua salata",
       "date": "2026-09-22T12:30:00.0000000Z"
     },
     {
@@ -123,18 +339,6 @@
       "date": "2026-09-22T10:13:15.0000000Z"
     },
     {
-      "id": "hdmotori:305e7517308d",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Techart: il restomod della Porsche 911 in stile vintage è un gioiello da collezione",
-      "url": "https://www.hdmotori.it/techart-restomod-porsche-911-vintage/",
-      "image": null,
-      "summary": "TECHART ha firmato un capolavoro che fonde il fascino storico di una Porsche 911 degli anni ’60 con la tecnologia moderna. The post Techart: il restomod della Porsche 911 in stile vintage è un gioiello da collezione a...",
-      "date": "2026-09-22T10:00:23.0000000Z"
-    },
-    {
       "id": "motor1:a309da40ee9e",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -159,66 +363,6 @@
       "date": "2026-09-22T09:01:06.0000000Z"
     },
     {
-      "id": "hdmotori:edc42f392ba5",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Zeekr 9X: il SUV plug-in da 897 CV arriva in Italia, prezzo da 122.610 euro",
-      "url": "https://www.hdmotori.it/zeekr-9x-italia-prezzo/",
-      "image": null,
-      "summary": "Zeekr 9X arriva in Italia nell'allestimento Ultra AWD da 897 CV: 179 km di autonomia elettrica, ricarica ultra-rapida a 900 V e 6 posti da prima classe a 122.610 euro. The post Zeekr 9X: il SUV plug-in da 897 CV arriv...",
-      "date": "2026-09-22T09:00:42.0000000Z"
-    },
-    {
-      "id": "motor1:f86b421db4be",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questo SUV cinese ha pure le eliche per muoversi in acqua",
-      "url": "https://it.motor1.com/news/809059/suv-geely-eliche-acqua/",
-      "image": "https://cdn.motor1.com/images/mgl/3WBAMR/s3/geely-battleship-700.jpg",
-      "summary": "La Geely Battleship 700 può galleggiare e persino attraversare l'acqua grazie alle eliche integrate",
-      "date": "2026-09-22T09:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:59667fe39912",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Porsche studia una supercar con motore boxer 8 cilindri",
-      "url": "https://it.motor1.com/news/809045/porsche-supercar-boxer-8-cilindri/",
-      "image": "https://cdn.motor1.com/images/mgl/6ZOz0r/s3/2017-porsche-919-clay-model.jpg",
-      "summary": "La presunta \"S1\" avrebbe un motore boxer a otto cilindri e un prezzo ben superiore a quello della 911",
-      "date": "2026-09-22T08:30:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:9ccdf4134b1d",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Pirelli: pneumatici Cyber Tyre sulle auto dei Carabinieri per rilevare le criticità della strada",
-      "url": "https://www.hdmotori.it/pirelli-pneumatici-cyber-tyre-carabinieri/",
-      "image": null,
-      "summary": "Gli pneumatici Cyber Tyre di Pirelli sarannno utilizzati su alcune vetture del Nucleo Radiomobile di Roma con lo scopo di monitorare lo “stato di salute” delle infrastrutture stradali di Roma. The post Pirelli: pneuma...",
-      "date": "2026-09-22T08:00:51.0000000Z"
-    },
-    {
-      "id": "motor1:6ed7b64b8257",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "I furgoni a noleggio ora hanno l'occhio elettronico di Locauto",
-      "url": "https://it.motor1.com/news/809033/locauto-dashcam-furgoni-noleggio/",
-      "image": "https://cdn.motor1.com/images/mgl/rK63Qr/s3/locauto-utilizza-le-dashcam-certificate-su-veicoli-commerciali-a-noleggio.jpg",
-      "summary": "Locauto Group è la prima azienda di noleggio in Italia a installare dashcam certificate su tutta la flotta di veicoli commerciali",
-      "date": "2026-09-22T08:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:d690155e2ae8",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -231,30 +375,6 @@
       "date": "2026-09-22T07:57:48.0000000Z"
     },
     {
-      "id": "hdmotori:7bad7ad7c652",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Vespa è inimitabile per legge: vittoria storica di Piaggio in Europa",
-      "url": "https://www.hdmotori.it/piaggio-vespa-primavera-marchio-registrato-ue/",
-      "image": null,
-      "summary": "L'EUIPO concede il marchio tridimensionale alla Vespa Primavera: Piaggio blinda l'iconico design dello scooter contro ogni tentativo di contraffazione in Europa. The post La Vespa è inimitabile per legge: vittoria sto...",
-      "date": "2026-09-22T07:00:05.0000000Z"
-    },
-    {
-      "id": "motor1:5313bf74b229",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Hyundai Inster diventa un furgoncino a batteria da lavoro",
-      "url": "https://it.motor1.com/news/809027/hyundai-inster-van-kit-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/ojEBeL/s3/hyundai-inster-van-2026.jpg",
-      "summary": "A 1.495 euro, il Kit Inster Van introduce un vano di carico separato da paratia in acciaio, mantenendo fino a 370 km di autonomia WLTP",
-      "date": "2026-09-22T07:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:cc76796c01c9",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -264,18 +384,6 @@
       "url": "https://insideevs.it/news/808960/batterie-prismatiche-ev-deformazione-carica/",
       "image": "https://cdn.motor1.com/images/mgl/zx09Y4/s3/le-batterie-per-auto-si-gonfiano-a-piena-carica-e-un-problema.jpg",
       "summary": "Lo stato di carica modifica lo spessore delle celle prismatiche al litio e condiziona durata, sicurezza e progettazione",
-      "date": "2026-09-22T06:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:03fa7eb68aca",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'Unimog cinese è un camper 4x4 assolutamente inarrestabile",
-      "url": "https://it.motor1.com/news/808959/beijing-monster-4x4-camper/",
-      "image": "https://cdn.motor1.com/images/mgl/OoZz1l/s3/beijing-monster-overlander-china.jpg",
-      "summary": "Il Beijing Monster è un mega camper cinese con un 6.7 turbodiesel, un serbatoio da 600 litri e tantissimo altro",
       "date": "2026-09-22T06:00:00.0000000Z"
     },
     {
@@ -291,18 +399,6 @@
       "date": "2026-09-22T05:42:52.0000000Z"
     },
     {
-      "id": "motor1:679cb6c10cea",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Come sono gli interni della nuova Audi A2",
-      "url": "https://it.motor1.com/news/807662/audi-a2-e-tron-interni-bagagliaio/",
-      "image": "https://cdn.motor1.com/images/mgl/3WBWZj/s3/audi-a2-e-tron-2026-interni-e-bagagliaio.jpg",
-      "summary": "Curata nei rivestimenti e spaziosa, l'A2 torna in formato elettrico con un crossover di segmento B",
-      "date": "2026-09-22T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:52ab6231ddcc",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -313,54 +409,6 @@
       "image": "https://cdn.motor1.com/images/mgl/9mWNJy/s3/dacia-spring-vs-leapmotor-t03-2026.jpg",
       "summary": "La nuova generazione della Spring torna a giocarsela con la T03, in un confronto tra elettriche a meno di 20.000 euro",
       "date": "2026-09-22T05:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:a13e14435663",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Honda Montesa: come cambiano le icone del Trial per il 2027",
-      "url": "https://www.hdmotori.it/nuova-gamma-montesa-trial-2027/",
-      "image": null,
-      "summary": "Svelata la nuova gamma Honda Montesa 2027. Livree inedite per Cota 301RR e 260R, confermata la turistica 4Ride e arriva la nuova linea di accessori ufficiali. The post Honda Montesa: come cambiano le icone del Trial p...",
-      "date": "2026-09-21T18:30:36.0000000Z"
-    },
-    {
-      "id": "hdmotori:37bd36059db2",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "McLaren, pronto il pensionamento di 3 modelli chiave: in arrivo il primo SUV",
-      "url": "https://www.hdmotori.it/mclaren-pensionamento-3-modelli-arrivo-suv/",
-      "image": null,
-      "summary": "La Casa di Woking ha scelto di ritirare entro il 2028 tre supercar per far spazio nella gamma a nuove proposte rivoluzionarie. The post McLaren, pronto il pensionamento di 3 modelli chiave: in arrivo il primo SUV appe...",
-      "date": "2026-09-21T18:00:05.0000000Z"
-    },
-    {
-      "id": "hdmotori:96f4e0827ccf",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il figlio di Arnault entra nel mondo delle hypercar: investe in un marchio storico",
-      "url": "https://www.hdmotori.it/delage-hypercar-arnault/",
-      "image": null,
-      "summary": "Antoine Arnault, figlio del miliardario Bernard Arnault, investe attraverso Marbeuf Capital in Delage, marchio francese rinato con la D12 da oltre 1.000 CV e 2 milioni di euro The post Il figlio di Arnault entra nel m...",
-      "date": "2026-09-21T16:30:13.0000000Z"
-    },
-    {
-      "id": "motor1:79fc355532de",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Alfa Romeo porta il Grand Tour sulle strade più belle d’Europa",
-      "url": "https://it.motor1.com/news/808980/alfa-romeo-grand-tour-europa-anantara/",
-      "image": "https://cdn.motor1.com/images/mgl/BX1Qk4/s3/alfa-romeo-porta-il-grand-tour-sulle-strade-piu-belle-d-europa.jpg",
-      "summary": "La casa italiana e Anantara lanciano viaggi in auto tra città d’arte, paesaggi iconici ed esperienze dedicate al territorio",
-      "date": "2026-09-21T16:30:00.0000000Z"
     },
     {
       "id": "insideevs:bcdc6ee72c0f",
@@ -469,54 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/XBb0L2/s3/musk-vuole-battere-il-traffico-con-un-tunnel-da-320-km-h.jpg",
       "summary": "The Boring Company torna a parlare di Hyperloop in Texas, ma il progetto è ancora preliminare",
       "date": "2026-09-21T11:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:3ab3075efed6",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Honda entra nel mercato delle e-MTB: la prima e-bike arriverà nel 2027",
-      "url": "https://www.vaielettrico.it/honda-entra-nel-mercato-delle-e-mtb-la-prima-e-bike-arrivera-nel-2027/",
-      "image": null,
-      "summary": "Honda allarga il proprio raggio d’azione nelle due ruote elettriche e conferma l’ingresso nel mondo delle mountain bike… L'articolo Honda entra nel mercato delle e-MTB: la prima e-bike arriverà nel 2027 proviene da Va...",
-      "date": "2026-09-21T09:49:11.0000000Z"
-    },
-    {
-      "id": "insideevs:31685dcaae09",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Un camion elettrico da 80 tonnellate che fa davvero 450 km?",
-      "url": "https://insideevs.it/news/808893/volvo-fh-electric-80-tonnellate/",
-      "image": "https://cdn.motor1.com/images/mgl/E6XPoz/s3/volvo-trucks-fh-electric-80-t.jpg",
-      "summary": "Volvo FH Electric porta a 640 kWh l’energia a bordo e usa la ricarica megawatt MCS: autonomia, tempi di sosta e carichi fino a 80 t",
-      "date": "2026-09-21T09:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:8afa22e2da27",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Emilia Romagna: passo indietro su stop euro 5 diesel. E la Lombardia?",
-      "url": "https://www.vaielettrico.it/emilia-romagna-passo-indietro-su-stop-euro-5-diesel-e-la-lombardia/",
-      "image": null,
-      "summary": "Anche in Emilia Romagna è saltato lo stop alla circolazione delle auto euro diesel 5. Come in Piemonte… L'articolo Emilia Romagna: passo indietro su stop euro 5 diesel. E la Lombardia? proviene da Vaielettrico .",
-      "date": "2026-09-21T08:42:20.0000000Z"
-    },
-    {
-      "id": "insideevs:4b244010f108",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Tesla Roadster si può prenotare (di nuovo) con 43.000 euro",
-      "url": "https://insideevs.it/news/808891/tesla-roadster-prenotazione-43000-euro/",
-      "image": "https://cdn.motor1.com/images/mgl/zx093K/s3/tesla-roadster-2026-la-schermata-del-sito-per-la-prenotazione.jpg",
-      "summary": "Riaprono le prenotazioni: anticipo di 4.000 euro con carta di credito più 39.000 euro con bonifico bancario",
-      "date": "2026-09-21T07:41:47.0000000Z"
     },
     {
       "id": "insideevs:14166eb6274d",

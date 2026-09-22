@@ -1,7 +1,19 @@
 {
   "category": "aviazione",
-  "updated": "2026-09-22T12:38:15.8862756Z",
+  "updated": "2026-09-22T17:18:51.1186964Z",
   "items": [
+    {
+      "id": "aviationreport:7c577e513be2",
+      "sourceId": "aviationreport",
+      "source": "Aviation Report",
+      "platform": "rss",
+      "category": "aviazione",
+      "title": "Dassault Aviation testa in volo 2 algoritmi AI sul Rafale",
+      "url": "https://www.aviation-report.com/dassault-aviation-testa-in-volo-2-algoritmi-ai-sul-rafale/",
+      "image": null,
+      "summary": "Dassault Aviation ha testato in volo due nuovi algoritmi AI sul Rafale. Il primo algoritmo è stato sviluppato dagli ingegneri dell’azienda francese, mentre il secondo algoritmo è stato sviluppato in collaborazione con...",
+      "date": "2026-09-22T15:00:10.0000000Z"
+    },
     {
       "id": "aviationreport:04efe2f26616",
       "sourceId": "aviationreport",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "L’US Air Force ha ufficialmente assegnato i nomi FQ-42 Vengeance e FQ-44 Fury ai due Collaborative Combat Aircraft selezionati per l’Increment 1 del programma CCA. L’annuncio è arrivato il 14 settembre 2026 dal Segret...",
       "date": "2026-09-17T09:02:23.0000000Z"
-    },
-    {
-      "id": "aviationreport:1253cd86e7a4",
-      "sourceId": "aviationreport",
-      "source": "Aviation Report",
-      "platform": "rss",
-      "category": "aviazione",
-      "title": "Finlandia aderisce alla dissuasione nucleare francese: cooperazione strategica e possibili dispiegamenti dei Rafale",
-      "url": "https://www.aviation-report.com/finlandia-aderisce-alla-dissuasione-nucleare-francese-cooperazione-strategica-e-possibili-dispiegamenti-dei-rafale/",
-      "image": null,
-      "summary": "La Finlandia ha deciso di aderire all’iniziativa francese di dissuasione nucleare, nota come “Forward Deterrence” o dissuasione avanzata. L’annuncio ufficiale arriva il 14 settembre 2026 attraverso una dichiarazione c...",
-      "date": "2026-09-15T19:57:34.0000000Z"
     }
   ]
 }

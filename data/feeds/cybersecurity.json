@@ -1,7 +1,55 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-22T12:38:15.8671478Z",
+  "updated": "2026-09-22T17:18:51.1261926Z",
   "items": [
+    {
+      "id": "cybersecurity360:4ddc234999b7",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber Asset Management: perché la resilienza inizia dalla conoscenza degli asset",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-asset-management-perche-la-resilienza-inizia-dalla-conoscenza-degli-asset/",
+      "image": null,
+      "summary": "La gestione del rischio non può prescindere da una visibilità completa dei sistemi IT/OT. Il progetto sviluppato da Lutech per un'importante azienda manifatturiera mostra come monitoraggio passivo, Cyber Asset Managem...",
+      "date": "2026-09-22T15:41:40.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:756cc4a99e13",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Automazione nella cyber security: quando non fidarsi della macchina diventa un rischio",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/automazione-nella-cyber-security-quando-non-fidarsi-della-macchina-diventa-un-rischio/",
+      "image": null,
+      "summary": "Un solo errore dell’algoritmo può bastare per spingere gli analisti a ricontrollare ogni decisione automatica. Ma la sfiducia ha un costo: rallenta l’incident response e può offrire agli attaccanti tempo prezioso. Per...",
+      "date": "2026-09-22T15:16:28.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:db7319f34e4a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Supervisione indipendente e sicurezza dei sistemi di AI: cosa cambia con l’ordine esecutivo della California",
+      "url": "https://www.cybersecurity360.it/legal/supervisione-indipendente-e-sicurezza-dei-sistemi-di-ai-cosa-cambia-con-lordine-esecutivo-della-california/",
+      "image": null,
+      "summary": "Con ponderazione ma con urgenza, il 18 settembre 2026 il governatore della California Gavin Newsom ha firmato l’ordine esecutivo N-9-26 dedicato ai modelli di frontiera. Ecco cosa comporta in termini di supervisione i...",
+      "date": "2026-09-22T14:32:10.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:9d376c891744",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "PAYLOAD, il ransomware che trasforma Active Directory in strumento d’attacco",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/payload-il-ransomware-che-trasforma-active-directory-in-strumento-dattacco/",
+      "image": null,
+      "summary": "Niente malware sui PC, nessun file cifrato e nessun processo sospetto da intercettare. In un incidente analizzato da Kaspersky, gli attaccanti hanno utilizzato le Group Policy di Active Directory per colpire contempor...",
+      "date": "2026-09-22T14:15:36.0000000Z"
+    },
     {
       "id": "cybersecurity360:27aa41328089",
       "sourceId": "cybersecurity360",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Le strategie di difesa non possono più basarsi sull'idea che un attaccante rimanga sempre all'esterno del perimetro aziendale. Il progetto realizzato da Illumio per Gecina mostra come la microsegmentazione possa limit...",
       "date": "2026-09-21T14:05:11.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:e67680168814",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Revolut: la paper compliance e la favola della PEC come e-mail sicura",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/revolut-la-paper-compliance-e-la-favola-della-pec-come-e-mail-sicura/",
-      "image": null,
-      "summary": "La compromissione di una PEC istituzionale può trasformare un canale considerato sicuro in uno strumento di social engineering. Il caso Revolut mostra perché certificazioni e procedure non bastano: servono verifiche o...",
-      "date": "2026-09-21T09:53:50.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:1ddd9f904f8b",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Hosting WordPress gestito e sicurezza cloud: l’architettura ad alta disponibilità con AI integrata di Ionos",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/ionos-hosting-wordpress-sicurezza-cloud/",
-      "image": null,
-      "summary": "Ionos propone un’offerta di hosting WordPress con primo anno gratuito, 50 GB di storage SSD, strumenti di intelligenza artificiale e infrastruttura progettata per garantire una disponibilità del 99,99%. La sicurezza c...",
-      "date": "2026-09-21T09:37:22.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:6717eaadeddb",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Commerciale o open source, l’AI in azienda tra rischi noti e trappole nascoste",
-      "url": "https://www.cybersecurity360.it/outlook/commerciale-o-open-source-lai-in-azienda-tra-rischi-noti-e-trappole-nascoste/",
-      "image": null,
-      "summary": "Sempre più organizzazioni devono scegliere tra soluzioni in cloud e modelli installati internamente. Ma il dibattito sulla sicurezza è impostato male. Il perché ce lo spiega Mirco Marchetti, professore associato di Un...",
-      "date": "2026-09-21T07:02:49.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:5709ba343dcf",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il SOC non basta più: perché la cyber resilience richiede un nuovo modello di Security Operations",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/il-soc-non-basta-piu-perche-la-cyber-resilience-richiede-un-nuovo-modello-di-security-operations/",
-      "image": null,
-      "summary": "L'evoluzione delle minacce, la convergenza tra IT/OT e gli obblighi normativi stanno ridefinendo il ruolo dei Security Operations Center. Il progetto HyperSOC di HWG Sababa propone un modello SOC-as-a-Service che inte...",
-      "date": "2026-09-18T14:26:59.0000000Z"
     }
   ]
 }
