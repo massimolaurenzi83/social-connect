@@ -1,7 +1,19 @@
 {
   "category": "cripto",
-  "updated": "2026-09-22T01:52:58.8551962Z",
+  "updated": "2026-09-22T07:11:24.4959483Z",
   "items": [
+    {
+      "id": "cryptonomist:f809d858ba3f",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Gli utenti di X negli USA possono ora fare trading crypto e azioni con un click",
+      "url": "https://cryptonomist.ch/2026/09/22/trading-crypto-azioni-su-x/",
+      "image": null,
+      "summary": "Bastano pochi secondi: si tocca un cashtag come $BTC o $TSLA sulla propria timeline e si passa dalla chiacchiera social all’ordine di acquisto vero e proprio. È questa la novità che sta ridisegnando il modo in cui si ...",
+      "date": "2026-09-22T05:50:02.0000000Z"
+    },
     {
       "id": "cryptonomist:b8629feb627e",
       "sourceId": "cryptonomist",
@@ -47,7 +59,7 @@
       "title": "Chainlink al Sibos: Nazarov dialoga con Microsoft e DTCC",
       "url": "https://cryptonomist.ch/2026/09/21/finanza-blockchain-chainlink/",
       "image": null,
-      "summary": "Il prossimo passo per la finanza blockchain Chainlink passa da una delle vetrine più prestigiose del settore bancario mondiale. Sergey Nazarov, co-fondatore di Chainlink, parteciperà la prossima settimana a tre sessio...",
+      "summary": "Il prossimo passo per la finanza blockchain di Chainlink passa da una delle vetrine più prestigiose del settore bancario mondiale. Sergey Nazarov, co-fondatore di Chainlink, parteciperà la prossima settimana a tre ses...",
       "date": "2026-09-21T20:38:34.0000000Z"
     },
     {
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Le azioni Google si attestano a 351,82 dollari nella seduta del 21 settembre, sopra la banda di Bollinger superiore del daily. Il movimento riporta il titolo sotto i riflettori dopo settimane di rotazione sui tecnolog...",
       "date": "2026-09-21T17:34:41.0000000Z"
-    },
-    {
-      "id": "cryptonomist:22116091d097",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Il Bitcoin wrapped di Circle debutta su Arc con 150 milioni in depositi lending",
-      "url": "https://cryptonomist.ch/2026/09/21/bitcoin-wrapped-circle/",
-      "image": null,
-      "summary": "Circle ha portato il collaterale in Bitcoin dentro un ambiente blockchain regolamentato e nativamente legato alle stablecoin, senza chiedere a nessun detentore di BTC di vendere un solo satoshi. Il Bitcoin wrapped di ...",
-      "date": "2026-09-21T17:27:01.0000000Z"
     }
   ]
 }

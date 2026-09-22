@@ -1,7 +1,79 @@
 {
   "category": "motori",
-  "updated": "2026-09-22T01:52:58.8311847Z",
+  "updated": "2026-09-22T07:11:24.4820806Z",
   "items": [
+    {
+      "id": "motor1:5313bf74b229",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Hyundai Inster diventa un furgoncino a batteria da lavoro",
+      "url": "https://it.motor1.com/news/809027/hyundai-inster-van-kit-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/ojEBeL/s3/hyundai-inster-van-2026.jpg",
+      "summary": "A 1.495 euro, il Kit Inster Van introduce un vano di carico separato da paratia in acciaio, mantenendo fino a 370 km di autonomia WLTP",
+      "date": "2026-09-22T07:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:cc76796c01c9",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le batterie per auto si gonfiano a piena carica: è un problema?",
+      "url": "https://insideevs.it/news/808960/batterie-prismatiche-ev-deformazione-carica/",
+      "image": "https://cdn.motor1.com/images/mgl/zx09Y4/s3/le-batterie-per-auto-si-gonfiano-a-piena-carica-e-un-problema.jpg",
+      "summary": "Lo stato di carica modifica lo spessore delle celle prismatiche al litio e condiziona durata, sicurezza e progettazione",
+      "date": "2026-09-22T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:03fa7eb68aca",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'Unimog cinese è un camper 4x4 assolutamente inarrestabile",
+      "url": "https://it.motor1.com/news/808959/beijing-monster-4x4-camper/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZz1l/s3/beijing-monster-overlander-china.jpg",
+      "summary": "Il Beijing Monster è un mega camper cinese con un 6.7 turbodiesel, un serbatoio da 600 litri e tantissimo altro",
+      "date": "2026-09-22T06:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:a50ee761ce03",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "The Science sui sussidi alle fossili: “La peggiore politica energetica al mondo”",
+      "url": "https://www.vaielettrico.it/the-science-sui-sussidi-alle-fossili-la-peggiore-politica-energetica-al-mondo/",
+      "image": null,
+      "summary": "Il taglio delle accise non è un errore solo italiano. La guerra in Iran ha spinto quasi la… L'articolo The Science sui sussidi alle fossili: “La peggiore politica energetica al mondo” proviene da Vaielettrico .",
+      "date": "2026-09-22T05:42:52.0000000Z"
+    },
+    {
+      "id": "insideevs:52ab6231ddcc",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dacia Spring vs Leapmotor T03, duello tra city car low cost",
+      "url": "https://insideevs.it/news/807763/dacia-spring-vs-leapmotor-t03-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/9mWNJy/s3/dacia-spring-vs-leapmotor-t03-2026.jpg",
+      "summary": "La nuova generazione della Spring torna a giocarsela con la T03, in un confronto tra elettriche a meno di 20.000 euro",
+      "date": "2026-09-22T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:679cb6c10cea",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Gli interni e il bagagliaio della nuova Audi A2",
+      "url": "https://it.motor1.com/news/807662/audi-a2-e-tron-interni-bagagliaio/",
+      "image": "https://cdn.motor1.com/images/mgl/3WBWZj/s3/audi-a2-e-tron-2026-interni-e-bagagliaio.jpg",
+      "summary": "Curata nei rivestimenti e spaziosa, l'A2 torna in formato elettrico con un crossover di segmento B",
+      "date": "2026-09-22T05:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:a13e14435663",
       "sourceId": "hdmotori",
@@ -195,18 +267,6 @@
       "date": "2026-09-21T14:22:11.0000000Z"
     },
     {
-      "id": "insideevs:0700f07a1813",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ciao diesel e benzina, anche qui la polizia passa all'elettrico",
-      "url": "https://insideevs.it/news/808949/polizia-islamabad-passa-byd-atto/",
-      "image": "https://cdn.motor1.com/images/mgl/JO69gn/s3/islamabadpolice.jpg",
-      "summary": "A Islamabad la Capital Patrol Force introduce 50 BYD Atto 2, con un risparmio sul carburante stimato in 34 milioni di rupie",
-      "date": "2026-09-21T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:93ab35844918",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -216,6 +276,18 @@
       "url": "https://it.motor1.com/news/808924/mazda-pietrantonio-intervista-torino-2026/",
       "image": "https://cdn.motor1.com/images/mgl/KbZBWG/s3/mazda-intervista-a-roberto-pietrantonio.jpg",
       "summary": "La nuova CX-5 punta sulla continuità, mentre la CX-6e apre una nuova fase tra elettrico, tecnologia cinese e design giapponese",
+      "date": "2026-09-21T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:0700f07a1813",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ciao diesel e benzina, anche qui la polizia passa all'elettrico",
+      "url": "https://insideevs.it/news/808949/polizia-islamabad-passa-byd-atto/",
+      "image": "https://cdn.motor1.com/images/mgl/JO69gn/s3/islamabadpolice.jpg",
+      "summary": "A Islamabad la Capital Patrol Force introduce 50 BYD Atto 2, con un risparmio sul carburante stimato in 34 milioni di rupie",
       "date": "2026-09-21T14:00:00.0000000Z"
     },
     {
@@ -327,30 +399,6 @@
       "date": "2026-09-21T12:30:49.0000000Z"
     },
     {
-      "id": "motor1:8ca8c7cd6862",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Fisco e auto aziendali, la proposta per rinnovare il parco",
-      "url": "https://it.motor1.com/news/808916/auto-aziendali-fisco-proposta/",
-      "image": "https://cdn.motor1.com/images/mgl/rK63bV/s3/fisco-e-auto-aziendali-la-proposta-per-rinnovare-il-parco.jpg",
-      "summary": "La misura punta a favorire 400.000 veicoli a zero e basse emissioni e a portare più auto recenti nel mercato dell'usato italiano",
-      "date": "2026-09-21T12:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:a1bbb5e4a07b",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Audi A4 arriverà nel 2029",
-      "url": "https://it.motor1.com/news/808917/nuova-audi-a4-elettrica-ritardo/",
-      "image": "https://cdn.motor1.com/images/mgl/QebrPB/s3/2025-audi-concept-c.jpg",
-      "summary": "Secondo i media tedeschi, la nuova generazione elettrica è ancora in fase di sviluppo e si baserà sulla piattaforma SSP.",
-      "date": "2026-09-21T11:30:00.0000000Z"
-    },
-    {
       "id": "insideevs:05c1775333f4",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -360,18 +408,6 @@
       "url": "https://insideevs.it/news/808928/elon-musk-rilancia-hyperloop-austin/",
       "image": "https://cdn.motor1.com/images/mgl/XBb0L2/s3/musk-vuole-battere-il-traffico-con-un-tunnel-da-320-km-h.jpg",
       "summary": "The Boring Company torna a parlare di Hyperloop in Texas, ma il progetto è ancora preliminare",
-      "date": "2026-09-21T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:d0d6a6c03ba7",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Kia Seltos vs Toyota Corolla Cross, confronto tra SUV ibridi",
-      "url": "https://it.motor1.com/news/807700/kia-seltos-vs-toyota-corolla-cross/",
-      "image": "https://cdn.motor1.com/images/mgl/g42lMw/s3/kia-seltos-vs-toyota-corolla-cross.jpg",
-      "summary": "Equipaggiate con motori ibridi e la trazione integrale, analizziamo nei dettagli la \"nuova\" Seltos e la Corolla Cross",
       "date": "2026-09-21T11:00:00.0000000Z"
     },
     {
@@ -483,18 +519,6 @@
       "date": "2026-09-20T05:00:00.0000000Z"
     },
     {
-      "id": "vaielettrico:d6e38dfafacd",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Prezzi Skoda Epiq da 27.700 euro (per ora)",
-      "url": "https://www.vaielettrico.it/prezzi-skoda-epiq-da-27-700-euro-per-ora/",
-      "image": null,
-      "summary": "Prezzi Skoda Epiq da 27.700 euro per la versione ’40′, definita ” il cuore dell’offerta del nuovo Urban Crossover… L'articolo Prezzi Skoda Epiq da 27.700 euro (per ora) proviene da Vaielettrico .",
-      "date": "2026-09-19T11:45:33.0000000Z"
-    },
-    {
       "id": "insideevs:1b38bffb265c",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -505,30 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/ko866x/s3/mg-im5-2026-im-test.jpg",
       "summary": "La nuova berlina elettrica cinese punta in alto con 751 CV, ricarica fino a 396 kW e un'autonomia WLTP fino a 710 km",
       "date": "2026-09-19T05:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:4be8a3c8b463",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il problema del bollo per le auto elettriche",
-      "url": "https://insideevs.it/news/808745/bollo-auto-elettriche-abolizione-2027-problema/",
-      "image": "https://cdn.motor1.com/images/mgl/W87Mm3/s3/auto-elettrica-foglie.jpg",
-      "summary": "L'esenzione per il bollo auto del 2027 riguarda solo modelli con motori termici, quindi in molte Regioni le elettriche più vecchie pagheranno",
-      "date": "2026-09-18T15:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:de96a428ebe4",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Musk, Tesla finisce nei guai per il nome della maxi-fabbrica",
-      "url": "https://insideevs.it/news/808750/tesla-spacex-causa-marchio-terafab/",
-      "image": "https://cdn.motor1.com/images/mgl/vxYY0b/s3/elon-musk.jpg",
-      "summary": "TERA-print rivendica il marchio Tera-Fab e ha diffidato Tesla. Ora la disputa è arrivata davanti a un giudice",
-      "date": "2026-09-18T14:00:00.0000000Z"
     }
   ]
 }
