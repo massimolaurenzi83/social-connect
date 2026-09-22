@@ -1,7 +1,55 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-22T07:11:24.4607642Z",
+  "updated": "2026-09-22T12:38:15.8671478Z",
   "items": [
+    {
+      "id": "cybersecurity360:27aa41328089",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Incogni Unlimited cancella i dati personali dal web",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/incogni-unlimited-cancella-dati-personali-dal-web/",
+      "image": null,
+      "summary": "Incogni Unlimited estende la rimozione automatizzata dei dati personali a oltre 420 data broker e aggiunge più di 3.000 siti coperti dal servizio personalizzato, con richieste illimitate e assistenza telefonica L'arti...",
+      "date": "2026-09-22T10:44:30.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d2ef6f6c91ad",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Rapporto CRIF 2026: il cybercrime non ruba più solo credenziali, costruisce identità digitali",
+      "url": "https://www.cybersecurity360.it/news/rapporto-crif-2026-il-cybercrime-non-ruba-piu-solo-credenziali-costruisce-identita-digitali/",
+      "image": null,
+      "summary": "Il vero rischio non è più il singolo dato rubato, ma ciò che i criminali possono costruire aggregandolo agli altri. Il rapporto CRIF 2026 mostra come infostealer, dark web e AI stiano trasformando credenziali e inform...",
+      "date": "2026-09-22T09:01:52.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:242aaf185e3c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Piano ispettivo del Garante privacy: dalle nuove tecnologie ai data breach, le priorità per le imprese",
+      "url": "https://www.cybersecurity360.it/news/piano-ispettivo-del-garante-privacy-dalle-nuove-tecnologie-ai-data-breach-le-priorita-per-le-imprese/",
+      "image": null,
+      "summary": "Data breach, tracking pixel, geomarketing, neuromarketing e dynamic pricing entrano tra le priorità ispettive del Garante. Per le imprese la sfida è dimostrare non solo la conformità documentale, ma la coerenza tra re...",
+      "date": "2026-09-22T08:05:46.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:a466b162dec0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Soggetti vulnerabili e GDPR: i limiti di anonimato e riservatezza nei servizi di ascolto",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/soggetti-vulnerabili-e-gdpr-i-limiti-di-anonimato-e-riservatezza-nei-servizi-di-ascolto/",
+      "image": null,
+      "summary": "Un’informativa privacy non protegge una persona vulnerabile se è incomprensibile o promette una riservatezza che l’Ente non può garantire. Anonimato, segnalazioni, minori e obblighi di comunicazione mostrano perché la...",
+      "date": "2026-09-22T07:31:33.0000000Z"
+    },
     {
       "id": "cybersecurity360:74c77bdebcfa",
       "sourceId": "cybersecurity360",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "L'evoluzione delle minacce, la convergenza tra IT/OT e gli obblighi normativi stanno ridefinendo il ruolo dei Security Operations Center. Il progetto HyperSOC di HWG Sababa propone un modello SOC-as-a-Service che inte...",
       "date": "2026-09-18T14:26:59.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:89ce31fc69a3",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Controllo (dis)umano",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/controllo-disumano/",
-      "image": null,
-      "summary": "Il controllo umano effettivo è e sarà uno degli argomenti di maggior rilievo nei dibattiti e, probabilmente, nell'attribuzione di responsabilità anche in sede processuale. Motivo per cui il mero posizionamento formale...",
-      "date": "2026-09-18T14:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:8b93acf59844",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber security e safety: perché la resilienza industriale passa dalla comprensione del contesto operativo",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-security-e-safety-perche-la-resilienza-industriale-passa-dalla-comprensione-del-contesto-operativo/",
-      "image": null,
-      "summary": "Negli ambienti industriali un incidente cyber può produrre conseguenze che vanno ben oltre il perimetro digitale. Il progetto sviluppato da Gyala mostra come integrare cyber, safety e resilienza operativa attraverso u...",
-      "date": "2026-09-18T13:38:32.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:c7c66d454721",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "La sovranità digitale richiede un modello operativo: perché ogni stakeholder ha il suo ruolo",
-      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/la-sovranita-digitale-richiede-un-modello-operativo-perche-ogni-stakeholder-ha-il-suo-ruolo/",
-      "image": null,
-      "summary": "Una dipendenza strategica può diventare particolarmente critica quando i quadri normativi divergono, l'accesso ai servizi viene messo in discussione o uno shock geopolitico riduce i margini di manovra. Ecco perché ser...",
-      "date": "2026-09-18T13:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2fc3574c3600",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Kaspersky Small Office Security: la strategia di protezione e Security Awareness per le PMI",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/kaspersky-small-office-security-protezione-aziende-cybersecurity/",
-      "image": null,
-      "summary": "Kaspersky Small Office Security integra antivirus, protezione dei server, VPN, gestione delle password e strumenti contro phishing e ransomware. La versione Premium aggiunge assistenza IT e Security Awareness, con un’...",
-      "date": "2026-09-18T10:57:06.0000000Z"
     }
   ]
 }
