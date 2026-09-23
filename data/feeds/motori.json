@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-23T16:50:19.7009541Z",
+  "updated": "2026-09-23T19:54:25.4937209Z",
   "items": [
+    {
+      "id": "motor1:f65b6d34c340",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Bentley è la più potente di sempre. Ed è fatta così",
+      "url": "https://it.motor1.com/news/809254/bentley-torcal-motore-interni-prezzo/",
+      "image": "https://cdn.motor1.com/images/mgl/JO6xk4/s3/bentley-torcal.jpg",
+      "summary": "Debutta al Bentley Torcal, SUV elettrico di Crewe offre fino a 888 CV, 600 km di autonomia e un design di svolta per il marchio britannico",
+      "date": "2026-09-23T18:31:16.0000000Z"
+    },
+    {
+      "id": "hdmotori:d74cc5fe7806",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "UNRAE amplia il proprio ruolo: dati e servizi a disposizione di tutti gli automobilisti",
+      "url": "https://www.hdmotori.it/unrae-dati-servizi-automobilisti/",
+      "image": null,
+      "summary": "L'Associazione rinnova la propria identità e offre nuovi servizi anche ai non addetti ai lavori, consentendo a tutti gli italiani di accedere a 75 anni di competenze automobilistiche. The post UNRAE amplia il proprio ...",
+      "date": "2026-09-23T17:00:33.0000000Z"
+    },
     {
       "id": "vaielettrico:bab414ba6a9e",
       "sourceId": "vaielettrico",
@@ -13,6 +37,18 @@
       "image": null,
       "summary": "Si chiama eFlexy, il minibus di Iveco su telaio Ducato e allestito da Olmedo, presentato in Spagna alla… L'articolo eFlexy, il primo minibus elettrico di Iveco proviene da Vaielettrico .",
       "date": "2026-09-23T16:35:31.0000000Z"
+    },
+    {
+      "id": "hdmotori:320578cbe32e",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Elon Musk vive in un’Airstream? Tra narrazione e realtà",
+      "url": "https://www.hdmotori.it/elon-musk-vive-airstream/",
+      "image": null,
+      "summary": "Il miliardario sostiene di risiedere in una roulotte a Memphis, ma le ricostruzioni tracciano delle abitudini abitative ben più articolate. The post Elon Musk vive in un’Airstream? Tra narrazione e realtà appeared fir...",
+      "date": "2026-09-23T16:30:01.0000000Z"
     },
     {
       "id": "motor1:e03ec3dc62c8",
@@ -92,7 +128,7 @@
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Suzuki Across: una ibrida plug-in bella da guidare",
+      "title": "La prova del nuovo SUV ibrido di Suzuki",
       "url": "https://it.motor1.com/reviews/809251/suzuki-across-2026-ibrida-prova/",
       "image": "https://cdn.motor1.com/images/mgl/KbZ10R/s3/photo-cover-suzuki-across-2026.jpg",
       "summary": "La batteria arriva a 22,7 kWh e l'autonomia elettrica a 129 km o 191 km in città. È ancora una delle plug-in più piacevoli da guidare",
@@ -171,18 +207,6 @@
       "date": "2026-09-23T14:00:34.0000000Z"
     },
     {
-      "id": "motor1:8d8006f660ec",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Bentley ha realizzato tre Continental one-off per Sole, Terra e Luna",
-      "url": "https://it.motor1.com/news/809262/bentley-continental-copernicus-collection-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/pb84Yr/s3/bentley-continental-copernicus-limited-edition-by-mulliner.jpg",
-      "summary": "Bentley Mulliner realizza tre esemplari one-off Continental GT S e GTC S per la Polonia, ispirati al Sole, alla Terra e alla Luna",
-      "date": "2026-09-23T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:e1add3d1d915",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -192,6 +216,18 @@
       "url": "https://insideevs.it/news/809269/tesla-semi-ordini-record-stati-uniti/",
       "image": "https://cdn.motor1.com/images/mgl/g42Eg8/s3/the-tesla-semi-is-the-main-beneficiary-of-the-largest-single-electric-truck-order-in-the-u.s..jpg",
       "summary": "L'ordine da record raddoppierà il numero di camion elettrici di Classe 8 negli Stati Uniti",
+      "date": "2026-09-23T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:8d8006f660ec",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Bentley ha realizzato tre Continental one-off per Sole, Terra e Luna",
+      "url": "https://it.motor1.com/news/809262/bentley-continental-copernicus-collection-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/pb84Yr/s3/bentley-continental-copernicus-limited-edition-by-mulliner.jpg",
+      "summary": "Bentley Mulliner realizza tre esemplari one-off Continental GT S e GTC S per la Polonia, ispirati al Sole, alla Terra e alla Luna",
       "date": "2026-09-23T14:00:00.0000000Z"
     },
     {
@@ -303,18 +339,6 @@
       "date": "2026-09-23T11:00:44.0000000Z"
     },
     {
-      "id": "hdmotori:f34e712c2030",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Toyota Yaris Cross, arrivano troppi ordini: lavoratori sommersi di lavoro",
-      "url": "https://www.hdmotori.it/toyota-yaris-cross-troppi-ordini/",
-      "image": null,
-      "summary": "Se per alcuni marchi gli ultimi anni sono stati da dimenticare, per Toyota c’è solo da celebrare il successo irrefrenabile della nuova Yaris Cross The post Toyota Yaris Cross, arrivano troppi ordini: lavoratori sommer...",
-      "date": "2026-09-23T10:30:07.0000000Z"
-    },
-    {
       "id": "motor1:0ba04485049c",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -327,18 +351,6 @@
       "date": "2026-09-23T10:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:ca43a3786f7a",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nissan PIXO punta sulla semplicità, fino a 259 km di autonomia e Google integrato",
-      "url": "https://www.hdmotori.it/nissan-pixo-autonomia/",
-      "image": null,
-      "summary": "La nuova Nissan PIXO porta l'elettrico nel segmento A con 259 km di autonomia, ricarica rapida di serie e tecnologie smart avanzate The post Nissan PIXO punta sulla semplicità, fino a 259 km di autonomia e Google inte...",
-      "date": "2026-09-23T09:30:22.0000000Z"
-    },
-    {
       "id": "insideevs:c53e516b39a0",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -348,18 +360,6 @@
       "url": "https://insideevs.it/news/809196/scania-camion-elettrico-720-km/",
       "image": "https://cdn.motor1.com/images/mgl/qk8Zvv/s3/scania-electric-truck-with-additional-behind-the-cab-batteries.jpg",
       "summary": "Batterie aggiuntive dietro la cabina aumentano la capacità installata di 356 kWh e consentono un'autonomia fino a 720 km",
-      "date": "2026-09-23T09:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:46c5ce300ec3",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Piccola con tanto spazio, ecco la nuova citycar di Nissan",
-      "url": "https://it.motor1.com/news/809208/nissan-pixo-2026-informazioni-interni-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/KbZ1ZG/s3/nissan-pixo-2027.jpg",
-      "summary": "Torna la Nissan Pixo, questa volta come elettrica basata sulla Renault Twingo e autonomia fino a 259 km",
       "date": "2026-09-23T09:00:00.0000000Z"
     },
     {
