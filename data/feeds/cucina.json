@@ -1,7 +1,43 @@
 {
   "category": "cucina",
-  "updated": "2026-09-23T12:03:06.5332200Z",
+  "updated": "2026-09-23T16:50:19.6956590Z",
   "items": [
+    {
+      "id": "giallozafferano:7bc472a380e2",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Zuppa di rana pescatrice",
+      "url": "https://ricette.giallozafferano.it/Zuppa-di-rana-pescatrice.html",
+      "image": "https://www.giallozafferano.it/images/366-36644/Zuppa-di-rana-pescatrice_1200x800.jpg",
+      "summary": "La zuppa di rana pescatrice è un piatto di pesce ricco e saporito che porta in tavola il gusto del mare in una versione calda e avvolgente. La rana pescatrice , o coda di rospo, è un pesce molto apprezzato per la sua ...",
+      "date": "2026-09-23T14:55:00.0000000Z"
+    },
+    {
+      "id": "dissapore:f9072606eb3f",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Brewdog, finalmente parla la nuova proprietà: priorità alle persone",
+      "url": "https://www.dissapore.com/notizie/brewdog-finalmente-parla-la-nuova-proprieta-priorita-alle-persone/",
+      "image": null,
+      "summary": "Tilray Brands, che ha acquisito il marchio, lancia una campagna con cui vuole prendere le distanze dal passato recente del birrificio. L'articolo Brewdog, finalmente parla la nuova proprietà: priorità alle persone pro...",
+      "date": "2026-09-23T13:08:38.0000000Z"
+    },
+    {
+      "id": "dissapore:5b3df08259f4",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Cari amici di Libero, non c’è nessun attacco comunista al gelato",
+      "url": "https://www.dissapore.com/notizie/cari-amici-di-libero-non-ce-nessun-attacco-comunista-al-gelato/",
+      "image": null,
+      "summary": "Un post social di un gelatiere viene preso (troppo) sul serio dall'ex ministro Storace, che grida all'allarme rosso sulle pagine di Libero. L'articolo Cari amici di Libero, non c’è nessun attacco comunista al gelato p...",
+      "date": "2026-09-23T12:25:42.0000000Z"
+    },
     {
       "id": "dissapore:934876608a75",
       "sourceId": "dissapore",
@@ -195,30 +231,6 @@
       "date": "2026-09-20T16:45:43.0000000Z"
     },
     {
-      "id": "dissapore:ed3a582853ca",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Mars studia nuovi cloni di cacao per combattere la crisi",
-      "url": "https://www.dissapore.com/notizie/mars-studia-nuovi-cloni-di-cacao-per-combattere-la-crisi/",
-      "image": null,
-      "summary": "Per far fronte alla crisi del cacao bisogna lavorare su più fronti: tecnologico, agronomico e sociale. L'articolo Mars studia nuovi cloni di cacao per combattere la crisi proviene da Dissapore .",
-      "date": "2026-09-20T12:12:45.0000000Z"
-    },
-    {
-      "id": "dissapore:934baaa37f96",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Le due migliori gelaterie del Trentino nel 2026",
-      "url": "https://www.dissapore.com/locali/le-due-migliori-gelaterie-del-trentino-nel-2026/",
-      "image": null,
-      "summary": "Le gelaterie artigianali trentine valide sono così davvero poche, ma meritano di essere provate. Quali sono e perché. L'articolo Le due migliori gelaterie del Trentino nel 2026 proviene da Dissapore .",
-      "date": "2026-09-19T13:26:46.0000000Z"
-    },
-    {
       "id": "giallozafferano:5d1ae1f48c80",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/366-36622/Strudel-alla-parmigiana_1200x800.jpg",
       "summary": "Lo strudel alla parmigiana è una sfiziosa rivisitazione della classica parmigiana di melanzane : un guscio di pasta sfoglia croccante e dorata racchiude una farcitura ricca e filante a base di melanzane , pomodoro, mo...",
       "date": "2026-09-15T10:14:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:468719a3ce95",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Focaccia con pomodorini e olive in friggitrice ad aria",
-      "url": "https://ricette.giallozafferano.it/Focaccia-con-pomodorini-e-olive-in-friggitrice-ad-aria.html",
-      "image": "https://www.giallozafferano.it/images/366-36623/Focaccia-con-pomodorini-e-olive-in-friggitrice-ad-aria_1200x800.jpg",
-      "summary": "La focaccia con pomodorini e olive in friggitrice ad aria è una versione facile e pratica della classica focaccia , perfetta quando volete portare in tavola qualcosa di sfizioso senza accendere il forno. La friggitric...",
-      "date": "2026-09-15T09:15:00.0000000Z"
     }
   ]
 }

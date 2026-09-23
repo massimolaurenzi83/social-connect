@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-23T12:03:06.5751754Z",
+  "updated": "2026-09-23T16:50:19.7467475Z",
   "items": [
+    {
+      "id": "cybersecurity360:7e2b8b4b16a6",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Attacco all’FBI, ShinyHunters rivendica il colpo: cosa sappiamo davvero",
+      "url": "https://www.cybersecurity360.it/news/attacco-allfbi-shinyhunters-rivendica-il-colpo-cosa-sappiamo-davvero/",
+      "image": null,
+      "summary": "ShinyHunters sostiene di essere riuscito a violare l'infrastruttura dell'FBI e di aver sottratto una grande quantità di informazioni relative ad agenti, dipendenti ed ex dipendenti, oltre a persone che avrebbero prese...",
+      "date": "2026-09-23T14:54:45.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:da6c58fa18a4",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Claude Opus 5.5 spinge l’AI nella cyber: più capacità, più controlli",
+      "url": "https://www.cybersecurity360.it/news/claude-opus-5-5-spinge-lai-nella-cyber-piu-capacita-piu-controlli/",
+      "image": null,
+      "summary": "Claude Opus 5.5 avvicina le capacità cyber dei modelli più avanzati a una platea molto più ampia e per questo Anthropic ha introdotto nuovi safeguard, routing delle richieste sensibili, sandbox e accessi verificati: p...",
+      "date": "2026-09-23T14:30:33.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:a80ec89b2758",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Norton 360 Advanced: anti-truffa Pro con IA per 10 dispositivi",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/norton-360-advanced-anti-truffa-pro-ia-10-dispositivi/",
+      "image": null,
+      "summary": "Norton 360 Advanced combina protezione antivirus, anti-truffa con IA, VPN, monitoraggio del Dark Web e assistenza per il ripristino dell’identità. L’offerta protegge fino a 10 dispositivi e parte da 44,99 euro per il ...",
+      "date": "2026-09-23T13:06:53.0000000Z"
+    },
     {
       "id": "cybersecurity360:2bcf2b28202d",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Con ponderazione ma con urgenza, il 18 settembre 2026 il governatore della California Gavin Newsom ha firmato l’ordine esecutivo N-9-26 dedicato ai modelli di frontiera. Ecco cosa comporta in termini di supervisione i...",
       "date": "2026-09-22T14:32:10.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:9d376c891744",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "PAYLOAD, il ransomware che trasforma Active Directory in strumento d’attacco",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/payload-il-ransomware-che-trasforma-active-directory-in-strumento-dattacco/",
-      "image": null,
-      "summary": "Niente malware sui PC, nessun file cifrato e nessun processo sospetto da intercettare. In un incidente analizzato da Kaspersky, gli attaccanti hanno utilizzato le Group Policy di Active Directory per colpire contempor...",
-      "date": "2026-09-22T14:15:36.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:27aa41328089",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Incogni Unlimited cancella i dati personali dal web",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/incogni-unlimited-cancella-dati-personali-dal-web/",
-      "image": null,
-      "summary": "Incogni Unlimited estende la rimozione automatizzata dei dati personali a oltre 420 data broker e aggiunge più di 3.000 siti coperti dal servizio personalizzato, con richieste illimitate e assistenza telefonica L'arti...",
-      "date": "2026-09-22T10:44:30.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d2ef6f6c91ad",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Rapporto CRIF 2026: il cybercrime non ruba più solo credenziali, costruisce identità digitali",
-      "url": "https://www.cybersecurity360.it/news/rapporto-crif-2026-il-cybercrime-non-ruba-piu-solo-credenziali-costruisce-identita-digitali/",
-      "image": null,
-      "summary": "Il vero rischio non è più il singolo dato rubato, ma ciò che i criminali possono costruire aggregandolo agli altri. Il rapporto CRIF 2026 mostra come infostealer, dark web e AI stiano trasformando credenziali e inform...",
-      "date": "2026-09-22T09:01:52.0000000Z"
     }
   ]
 }
