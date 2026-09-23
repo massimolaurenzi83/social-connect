@@ -1,7 +1,43 @@
 {
   "category": "mobilita",
-  "updated": "2026-09-23T06:29:29.8585044Z",
+  "updated": "2026-09-23T12:03:06.5131663Z",
   "items": [
+    {
+      "id": "ferrovie:603deeece4f3",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Alstom, debutta la nuova piattaforma Traxx Shunter per le locomotive da manovra",
+      "url": "https://www.ferrovie.info/treni-reali/alstom-debutta-la-nuova-piattaforma-traxx-shunter-per-le-locomotive-da-manovra.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_Alstom_Traxx_Northrail.jpg",
+      "summary": "Alstom presenta a InnoTrans 2026 la nuova Traxx Shunter , una piattaforma inedita di locomotive progettata per unire le caratteristiche dei tradizionali mezzi da manovra con quelle delle locomotive per i servizi di li...",
+      "date": "2026-09-23T08:12:58.0000000Z"
+    },
+    {
+      "id": "ferrovie:6fb0742520b4",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Trenitalia e Alstom presentano l’Intercity 200 a InnoTrans 2026",
+      "url": "https://www.ferrovie.info/treni-reali/trenitalia-e-alstom-presentano-lintercity-200-a-innotrans-2026.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10130/normal_Treni_InnoTrans_2026_1073.jpg",
+      "summary": "Trenitalia e Alstom hanno presentato a InnoTrans 2026 il nuovo Intercity 200 , il treno destinato ai servizi di media e lunga percorrenza con una velocità massima di 200 km/h. Il convoglio, progettato da Alstom per Tr...",
+      "date": "2026-09-23T07:01:56.0000000Z"
+    },
+    {
+      "id": "ferrovie:c38b110d7ec2",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Gruppo FS, nuovo piano industriale entro fine anno: Strisciuglio punta su ferrovia, sicurezza e innovazione",
+      "url": "https://www.ferrovie.info/treni-reali/gruppo-fs-nuovo-piano-industriale-entro-fine-anno-strisciuglio-punta-su-ferrovia-sicurezza-e-innovazione.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10130/normal_Treni_InnoTrans_2026_1088.jpg",
+      "summary": "Il Gruppo FS Italiane prepara un nuovo piano industriale, atteso entro la fine del 2026, con il sistema ferroviario e il miglioramento del servizio al centro delle strategie future. Ad annunciarlo è stato l’Amministra...",
+      "date": "2026-09-23T06:44:45.0000000Z"
+    },
     {
       "id": "ferrovie:92cc52579890",
       "sourceId": "ferrovie",
@@ -39,30 +75,6 @@
       "date": "2026-09-22T13:02:13.0000000Z"
     },
     {
-      "id": "ferrovie:ff189462fa95",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Milano, “Scuola in tram” di Atm e Visa: laboratori didattici a bordo di un tram storico",
-      "url": "https://www.ferrovie.info/tram/milano-scuola-in-tram-di-atm-e-visa-laboratori-didattici-a-bordo-di-un-tram-storico.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_ATM_Milano_1699_701.jpg",
-      "summary": "Un tram storico Atm si trasforma in un'aula mobile per portare la scuola tra le strade di Milano, con laboratori dedicati all'educazione finanziaria e alla sostenibilità. Si chiama “Scuola in tram” il progetto realizz...",
-      "date": "2026-09-22T12:55:24.0000000Z"
-    },
-    {
-      "id": "ferrovie:60cd2730e076",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "InnoTrans 2026, l’industria ferroviaria ceca punta sull’export tra batterie, alta velocità e digitale",
-      "url": "https://www.ferrovie.info/treni-reali/innotrans-2026-lindustria-ferroviaria-ceca-punta-sullexport-tra-batterie-alta-velocita-e-digitale.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10130/normal_Treni_InnoTrans_Berlino_2026_405.jpg",
-      "summary": "Treni a batteria, locomotive ibride, tecnologie per l'alta velocità, nuovi componenti e sistemi digitali. L'industria ferroviaria ceca arriva a InnoTrans 2026 con una presenza fortemente orientata ai mercati internazi...",
-      "date": "2026-09-22T12:35:05.0000000Z"
-    },
-    {
       "id": "ferrovie:2ecce1d60c0b",
       "sourceId": "ferrovie",
       "source": "Ferrovie.info",
@@ -75,15 +87,15 @@
       "date": "2026-09-22T12:21:17.0000000Z"
     },
     {
-      "id": "ferrovie:ec1533ff6979",
+      "id": "ferrovie:2bbb36048fce",
       "sourceId": "ferrovie",
       "source": "Ferrovie.info",
       "platform": "rss",
       "category": "mobilita",
-      "title": "Mantova - Piadena, FS Engineering prende in carico i lavori per il raddoppio ferroviario",
-      "url": "https://www.ferrovie.info/treni-reali/mantova-piadena-fs-engineering-prende-in-carico-i-lavori-per-il-raddoppio-ferroviario.html",
+      "title": "Mantova - Piadena, il raddoppio ferroviario passa a una nuova fase",
+      "url": "https://www.ferrovie.info/treni-reali/mantova-piadena-il-raddoppio-ferroviario-passa-a-una-nuova-fase.html",
       "image": "https://www.fotoferrovie.info/albums/userpics/10702/Trenord_ETR104_024_Olmeneta~0.jpg",
-      "summary": "Cambio di gestione per i lavori sul collegamento ferroviario Mantova-Piadena , interessato dal progetto di raddoppio dei binari. Secondo quanto comunicato dalle Ferrovie dello Stato, nel corso del mese di settembre le...",
+      "summary": "Cambio di gestione per i lavori sul collegamento ferroviario Mantova-Piadena , interessato dal progetto di raddoppio dei binari. Alla mandataria del Raggruppamento Temporaneo di Imprese è subentrata FS Rail Constructi...",
       "date": "2026-09-22T10:10:52.0000000Z"
     },
     {
@@ -121,18 +133,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10130/IMG_4280.jpg",
       "summary": "La S-Bahn Rhein-Main si prepara a cambiare volto con un importante programma di ammodernamento che coinvolgerà l'intera flotta di ET430. Il Rhein-Main-Verkehrsverbund (RMV), insieme a Deutsche Bahn, procederà infatti ...",
       "date": "2026-09-22T07:06:08.0000000Z"
-    },
-    {
-      "id": "ferrovie:7825d3ac8ea6",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Gusti di Frontiera 2026, 55 treni straordinari e collegamenti fino alle 3.30",
-      "url": "https://www.ferrovie.info/treni-reali/gusti-di-frontiera-2026-55-treni-straordinari-e-collegamenti-fino-alle-3-30.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/IMG_28129~1.jpg",
-      "summary": "Gorizia si prepara alla 21ª edizione di Gusti di Frontiera , in programma da giovedì 24 a domenica 27 settembre. In occasione della manifestazione sono stati predisposti interventi per la sicurezza, la mobilità e l'ac...",
-      "date": "2026-09-22T06:57:52.0000000Z"
     },
     {
       "id": "ferrovie:269af2b803d8",

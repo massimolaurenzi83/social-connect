@@ -1,7 +1,223 @@
 {
   "category": "motori",
-  "updated": "2026-09-23T06:29:29.8553180Z",
+  "updated": "2026-09-23T12:03:06.5669061Z",
   "items": [
+    {
+      "id": "hdmotori:9c1537a6df8d",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Alfa Romeo, cresce l’attesa: il teaser svela come si chiamerà il nuovo modello",
+      "url": "https://www.hdmotori.it/alfa-romeo-teaser-nuovo-modello/",
+      "image": null,
+      "summary": "La Casa del Biscione sta lavorando su un nuovo progetto che, sotto forma di concept, verrà esposto al Salone di Parigi 2026 The post Alfa Romeo, cresce l’attesa: il teaser svela come si chiamerà il nuovo modello appea...",
+      "date": "2026-09-23T12:00:05.0000000Z"
+    },
+    {
+      "id": "motor1:2642c9cfb868",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questo nuovo pick-up ibrido range extender nasce in Vietnam",
+      "url": "https://it.motor1.com/news/809209/vinfast-pickup-ibrido-range-extender/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZeyA/s3/vinfast-vf-wild.jpg",
+      "summary": "VinFast presenta VF Wild, pick-up range extender con più di 1.000 km di autonomia complessiva e prezzo di 28.800 euro in Vietnam",
+      "date": "2026-09-23T12:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:cac22040bae7",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il giro del mondo in 80 ricariche con un camion elettrico",
+      "url": "https://insideevs.it/news/809228/mercedes-eactros-600-giro-mondo/",
+      "image": "https://cdn.motor1.com/images/mgl/qk8Mwq/s3/il-giro-del-mondo-in-80-ricariche-con-un-eactros-600.jpg",
+      "summary": "Tobias Wagner parte da Hannover con il Mercedes-Benz eActros 600 per 45.000 km e meno di 80 soste di ricarica",
+      "date": "2026-09-23T12:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:172df25224df",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le novità di Renault al Salone di Parigi 2026",
+      "url": "https://it.motor1.com/news/809239/renault-novita-salone-parigi-2026-anticipazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/jl86Z1/s3/renault-salone-parigi-2026.jpg",
+      "summary": "Ci saranno in totale 50 modelli, 6 novità assolute, tra cui 4 concept",
+      "date": "2026-09-23T11:02:54.0000000Z"
+    },
+    {
+      "id": "hdmotori:4d5fd5b787e2",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Bollo auto non pagato: scatta la sanatoria che azzera sanzioni e interessi",
+      "url": "https://www.hdmotori.it/sanatoria-bollo-auto-regioni-scadenze/",
+      "image": null,
+      "summary": "Scatta la maxi-sanatoria sui vecchi tributi locali gestiti dall'Agenzia delle Entrate: si paga solo la tassa base. Tutte le regole, le delibere regionali e il modello Sicilia The post Bollo auto non pagato: scatta la ...",
+      "date": "2026-09-23T11:00:44.0000000Z"
+    },
+    {
+      "id": "hdmotori:f34e712c2030",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Toyota Yaris Cross, arrivano troppi ordini: lavoratori sommersi di lavoro",
+      "url": "https://www.hdmotori.it/toyota-yaris-cross-troppi-ordini/",
+      "image": null,
+      "summary": "Se per alcuni marchi gli ultimi anni sono stati da dimenticare, per Toyota c’è solo da celebrare il successo irrefrenabile della nuova Yaris Cross The post Toyota Yaris Cross, arrivano troppi ordini: lavoratori sommer...",
+      "date": "2026-09-23T10:30:07.0000000Z"
+    },
+    {
+      "id": "motor1:0ba04485049c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Opel sta per presentare una nuova station wagon",
+      "url": "https://it.motor1.com/news/809221/opel-stx-concept-salone-parigi-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/2N9LBM/s3/opel-vuole-rilanciare-le-station-wagon.jpg",
+      "summary": "Lo farà al Salone di Parigi 2026 con la Opel STX, visione di quello che sarà lo stile delle station di domani",
+      "date": "2026-09-23T10:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:ca43a3786f7a",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nissan PIXO punta sulla semplicità, fino a 259 km di autonomia e Google integrato",
+      "url": "https://www.hdmotori.it/nissan-pixo-autonomia/",
+      "image": null,
+      "summary": "La nuova Nissan PIXO porta l'elettrico nel segmento A con 259 km di autonomia, ricarica rapida di serie e tecnologie smart avanzate The post Nissan PIXO punta sulla semplicità, fino a 259 km di autonomia e Google inte...",
+      "date": "2026-09-23T09:30:22.0000000Z"
+    },
+    {
+      "id": "hdmotori:33c8d99d6aaa",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Esenzione bollo auto 2027, 1 kW e si è fuori: la lista delle auto a 81 kW escluse",
+      "url": "https://www.hdmotori.it/esenzione-bollo-auto-2027-lista-auto-81-kw/",
+      "image": null,
+      "summary": "Il Governo ha cancellato per alcuni modelli il bollo nel 2027. Scopriamo i principali veicoli che non rientrano nell’esenzione The post Esenzione bollo auto 2027, 1 kW e si è fuori: la lista delle auto a 81 kW escluse...",
+      "date": "2026-09-23T09:00:09.0000000Z"
+    },
+    {
+      "id": "motor1:46c5ce300ec3",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nissan ha una nuova citycar",
+      "url": "https://it.motor1.com/news/809208/nissan-pixo-2026-informazioni-interni-prezzo/",
+      "image": "https://cdn.motor1.com/images/mgl/KbZ1ZG/s3/nissan-pixo-2027.jpg",
+      "summary": "Torna la Nissan Pixo, questa volta come elettrica basata sulla Renault Twingo e autonomia fino a 259 km",
+      "date": "2026-09-23T09:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:c53e516b39a0",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Scania presenta un camion elettrico con autonomia fino a 720 km",
+      "url": "https://insideevs.it/news/809196/scania-camion-elettrico-720-km/",
+      "image": "https://cdn.motor1.com/images/mgl/qk8Zvv/s3/scania-electric-truck-with-additional-behind-the-cab-batteries.jpg",
+      "summary": "Batterie aggiuntive dietro la cabina aumentano la capacità installata di 356 kWh e consentono un'autonomia fino a 720 km",
+      "date": "2026-09-23T09:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:9c4bcd37e33f",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Targa polacca, automobilista italiano pagherà oltre un milione di euro dopo un incidente",
+      "url": "https://www.hdmotori.it/targa-polacca-risarcimento-milione-di-euro/",
+      "image": null,
+      "summary": "L’ufficio delle assicurazioni polacche procederà con un’azione di rivalsa per un incidente mortale accaduto in Italia The post Targa polacca, automobilista italiano pagherà oltre un milione di euro dopo un incidente a...",
+      "date": "2026-09-23T08:30:26.0000000Z"
+    },
+    {
+      "id": "motor1:420ebefa7b6f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Salone Auto Torino, Levy: “Le Case tornano a offrire più motorizzazioni”",
+      "url": "https://it.motor1.com/news/808947/andrea-levy-intervista-torino-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/bgOmkn/s3/andrea-levy-intervista.jpg",
+      "summary": "Il Presidente del Salone racconta l'edizione 2026 tra anteprime, pubblico e una formula sempre più aperta alla città",
+      "date": "2026-09-23T08:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:a764313120c1",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Renault Rafale Hypnotic, serie limitata da 300 CV: solo 100 esemplari per l’Italia",
+      "url": "https://www.hdmotori.it/renault-rafale-hypnotic-serie-limitata-prezzo/",
+      "image": null,
+      "summary": "Renault Rafale Hypnotic è la nuova serie limitata del SUV coupé: 1.500 esemplari in Europa, appena 100 per l’Italia, motore plug-in hybrid da 300 CV e prezzo di 60.700 euro The post Renault Rafale Hypnotic, serie limi...",
+      "date": "2026-09-23T08:00:45.0000000Z"
+    },
+    {
+      "id": "motor1:7536b1fcf65f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes avverte: due stabilimenti tedeschi potrebbero chiudere",
+      "url": "https://it.motor1.com/news/809185/mercedes-stabilimenti-tedeschi-rischio-chiusura/",
+      "image": "https://cdn.motor1.com/images/mgl/rKO9MO/s3/22-millionth-vehicle-produced-by-mercedes-benz-at-sindelfingen.jpg",
+      "summary": "Mercedes parla del rischio di chiusura per un sito di assemblaggio e un sito powertrain, legato alla riduzione del costo del lavoro",
+      "date": "2026-09-23T08:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:81eae9c485e5",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Troppi ordini di elettriche Volkswagen: è un problema in Germania",
+      "url": "https://insideevs.it/news/809192/volkswagen-ev-ordini-germania-problema/",
+      "image": "https://cdn.motor1.com/images/mgl/ojEB6q/s3/2026-vw-id.-polo.jpg",
+      "summary": "Ci sono problemi che fa piacere avere. Questo non è uno di quelli",
+      "date": "2026-09-23T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:cb311db6dcbd",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Toyota potrebbe lanciare presto la sua prima elettrica ad autonomia estesa",
+      "url": "https://it.motor1.com/news/809187/toyota-elettrica-erev-anticipazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/2N0ABn/s3/calty-design-toyota-ft-1.jpg",
+      "summary": "Secondo quanto riferito, la prima EREV di Toyota entrerà in produzione in Cina il prossimo anno",
+      "date": "2026-09-23T07:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:a1eec19b48d4",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I navigatori satellitari aumentano il traffico?",
+      "url": "https://www.hdmotori.it/navigatori-satellitari-aumentano-traffico/",
+      "image": null,
+      "summary": "Uno studio condotto da CNR-ISTI e Università di Pisa evidenzia come l'uso di massa delle app di navigazione concentri i veicoli e riduca fino al 14% la diversità dei percorsi. The post I navigatori satellitari aumenta...",
+      "date": "2026-09-23T06:30:21.0000000Z"
+    },
     {
       "id": "hdmotori:d559ce5beaa5",
       "sourceId": "hdmotori",
@@ -23,7 +239,7 @@
       "title": "Costa quasi come un’Alpine A110, ma è un SUV Renault",
       "url": "https://it.motor1.com/news/809066/renault-rafale-hypnotic-suv/",
       "image": "https://cdn.motor1.com/images/mgl/P3VWpA/s3/renault-rafale-hypnotic.jpg",
-      "summary": "Costa più di 60 mila euro, ha 300 CV ed è mossa da 3 motori elettrici: arriva la Renault Rafale Hypnotic. lapiù esclusiva di sempre",
+      "summary": "Costa più di 60 mila euro, ha 300 CV ed è mossa da 3 motori elettrici: arriva la Renault Rafale Hypnotic, la più esclusiva di sempre",
       "date": "2026-09-23T06:00:00.0000000Z"
     },
     {
@@ -39,18 +255,6 @@
       "date": "2026-09-23T05:53:14.0000000Z"
     },
     {
-      "id": "motor1:8065aa6bd761",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le auto diesel che consumano meno del 2026: la classifica",
-      "url": "https://it.motor1.com/reviews/808795/auto-diesel-consumi-classifica-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZP49L/s3/le-auto-diesel-che-consumano-meno-del-2026-la-classifica.jpg",
-      "summary": "La lista delle auto diesel che hanno consumato di meno da inizio anno. Ecco la vera efficienza delle nuove vetture a gasolio",
-      "date": "2026-09-23T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:644c1e03108c",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -60,6 +264,18 @@
       "url": "https://insideevs.it/news/809035/byd-produttore-batterie-sfida-catl/",
       "image": "https://cdn.motor1.com/images/mgl/YAgell/s3/byd-blade-battery.jpg",
       "summary": "LFP, sodio, stato solido e nuove applicazioni: il gruppo cinese prepara una gamma sempre più ampia di batterie",
+      "date": "2026-09-23T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:8065aa6bd761",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le auto diesel che consumano meno del 2026: la classifica",
+      "url": "https://it.motor1.com/reviews/808795/auto-diesel-consumi-classifica-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZP49L/s3/le-auto-diesel-che-consumano-meno-del-2026-la-classifica.jpg",
+      "summary": "La lista delle auto diesel che hanno consumato di meno da inizio anno. Ecco la vera efficienza delle nuove vetture a gasolio",
       "date": "2026-09-23T05:00:00.0000000Z"
     },
     {
@@ -75,30 +291,6 @@
       "date": "2026-09-22T18:00:28.0000000Z"
     },
     {
-      "id": "hdmotori:8f43b698e023",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volkswagen ID. Polo, l’elettrica da 24.995 euro batte tutte le rivali in Germania",
-      "url": "https://www.hdmotori.it/volkswagen-id-polo-elettrica-anno-germania/",
-      "image": null,
-      "summary": "Volkswagen ID. Polo conquista la categoria Budget del German Car of the Year: l’elettrica compatta supera Renault Twingo e Clio e parte da 24.995 euro The post Volkswagen ID. Polo, l’elettrica da 24.995 euro batte tut...",
-      "date": "2026-09-22T17:00:37.0000000Z"
-    },
-    {
-      "id": "hdmotori:8a7be63298ea",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L’incredibile storia della superbike italiana tradita dal design: aveva un motore V8",
-      "url": "https://www.hdmotori.it/morbidelli-850-v8-storia-superbike/",
-      "image": null,
-      "summary": "La storia della Morbidelli 850 V8: la superbike italiana dal motore rivoluzionario stroncata dal design. Dagli elogi tecnici al flop commerciale fino al Guinness dei primati The post L’incredibile storia della superbi...",
-      "date": "2026-09-22T16:30:14.0000000Z"
-    },
-    {
       "id": "motor1:30190a106169",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -109,18 +301,6 @@
       "image": "https://cdn.motor1.com/images/mgl/eoWRl8/s3/citroen-allestimento-outdoor.jpg",
       "summary": "La nuova linea Citroën OUTDOOR prevede paraurti dedicati, colori esclusivi, interni rivisti e tetto apribile su Ami",
       "date": "2026-09-22T16:30:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:f19c38e91dd0",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "BMW va oltre al touch: arrivano gli ologrammi 3D nell’abitacolo?",
-      "url": "https://www.hdmotori.it/bmw-brevetto-ologrammi-3d-abitacolo/",
-      "image": null,
-      "summary": "BMW deposita un brevetto che rivoluziona l'abitacolo: ologrammi 3D a mezz'aria, assistenti virtuali e tasti invisibili con feedback tattile ad aria The post BMW va oltre al touch: arrivano gli ologrammi 3D nell’abitac...",
-      "date": "2026-09-22T16:00:36.0000000Z"
     },
     {
       "id": "motor1:dc98015fefa9",
@@ -135,30 +315,6 @@
       "date": "2026-09-22T16:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:97b6644f7dbc",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Audi A4, l’attesa cresce: il render mostra il design della nuova serie",
-      "url": "https://www.hdmotori.it/audi-a4-render-nuova-serie/",
-      "image": null,
-      "summary": "La nuova generazione elettrica dell’Audi A4 è stata rinviata al 2029. Verrà costruita sulla piattaforma SSP. The post Audi A4, l’attesa cresce: il render mostra il design della nuova serie appeared first on HDmotori.it .",
-      "date": "2026-09-22T15:30:04.0000000Z"
-    },
-    {
-      "id": "motor1:44909cf1168d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Asphaltica 2026 cresce: 140 espositori a BolognaFiere",
-      "url": "https://it.motor1.com/news/809128/asphaltica-2026-espositori-bolognafiere/",
-      "image": "https://cdn.motor1.com/images/mgl/XBbGok/s3/asphaltica.jpg",
-      "summary": "La fiera dedicata alle infrastrutture stradali aumenta gli spazi e punta su digitalizzazione, sostenibilità e nuovi materiali",
-      "date": "2026-09-22T15:30:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:ae10c9bed63f",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -171,30 +327,6 @@
       "date": "2026-09-22T15:18:24.0000000Z"
     },
     {
-      "id": "hdmotori:a4c1a36dd68d",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Hyundai prepara il colpo grosso a Parigi: arrivano due SUV inediti e una sorpresa",
-      "url": "https://www.hdmotori.it/hyundai-salone-auto-parigi-2026/",
-      "image": null,
-      "summary": "Dal nuovo B-SUV al debutto europeo del C-SUV, Hyundai sfrutta il Salone di Parigi per mostrare l'evoluzione della gamma destinata all'Europa The post Hyundai prepara il colpo grosso a Parigi: arrivano due SUV inediti ...",
-      "date": "2026-09-22T15:00:07.0000000Z"
-    },
-    {
-      "id": "motor1:bb5adafe191a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "700 CV per 982 kg: la Praga Bohema provata a Monza",
-      "url": "https://it.motor1.com/reviews/807835/praga-bohema-prova-monza-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/BX1Q3w/s3/praga-bohema-la-prova-su-strada.jpg",
-      "summary": "Se da fuori incute timore, in pista è tutt'altra cosa. Un enorme go-kart che ti stampa un sorriso sulla faccia a ogni giro",
-      "date": "2026-09-22T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:c2b70c1dbecc",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -205,18 +337,6 @@
       "image": "https://cdn.motor1.com/images/mgl/G3bB4E/s3/un-serbatoio-di-idrogeno-prende-fuoco-cosa-succede-e-pazzesco.jpg",
       "summary": "Un test ha messo un serbatoio di idrogeno liquido davanti alle fiamme. E c'è un dettaglio che sorprende",
       "date": "2026-09-22T15:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:1023bb4c638b",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volkswagen Veicoli Commerciali: \"Si lavora sulla multinenergia\"",
-      "url": "https://it.motor1.com/news/808945/volkswagen-furgoni-elettrici-intervista/",
-      "image": "https://cdn.motor1.com/images/mgl/ojEB84/s3/lars-krause.jpg",
-      "summary": "A dirlo Lars Krause, Vice presidente del Brand e responsabile per le vendite, il marketing e l'aftersales",
-      "date": "2026-09-22T14:00:00.0000000Z"
     },
     {
       "id": "insideevs:1861f9d24ab4",
@@ -243,18 +363,6 @@
       "date": "2026-09-22T13:52:57.0000000Z"
     },
     {
-      "id": "hdmotori:3312dfd69e95",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Bonus colonnine 2026: al via le domande, fino a 1.500 euro per i privati",
-      "url": "https://www.hdmotori.it/bonus-colonnine-2026-al-via-le-domande-fino-a-1-500-euro-per-i-privati/",
-      "image": null,
-      "summary": "Fino al 22 settembre è possibile richiedere il contributo per l’acquisto e l’installazione di infrastrutture di ricarica domestiche. Per i condomìni il rimborso può arrivare fino a 8.000 euro. The post Bonus colonnine...",
-      "date": "2026-09-22T13:45:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:c1a3ef1fd826",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -265,42 +373,6 @@
       "image": null,
       "summary": "Enel si conferma protagonista della transizione alla mobilità elettrica, in un’Italia con più stazioni di ricarica e più… L'articolo Enel si conferma protagonista della transizione all’elettrico proviene da Vaielettri...",
       "date": "2026-09-22T13:34:07.0000000Z"
-    },
-    {
-      "id": "hdmotori:65bdd0a81de5",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Lynk & Co 07, arriva in Europa la GT da 530 CV e 200 km in elettrico",
-      "url": "https://www.hdmotori.it/lynk-co-07-arriva-in-europa/",
-      "image": null,
-      "summary": "La Lynk & Co 07 GT esordirà a Parigi sul mercato europeo, affiancando le sorelle ibride plug-in 08, 01 e la 02 full electric. The post Lynk & Co 07, arriva in Europa la GT da 530 CV e 200 km in elettrico appeared firs...",
-      "date": "2026-09-22T13:00:18.0000000Z"
-    },
-    {
-      "id": "motor1:e50e6cd7aab9",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Frenata d'estate per i camion: solo i trattori stradali tengono",
-      "url": "https://it.motor1.com/news/809074/mercato-veicoli-industriali-unrae-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/ZnlmXz/s3/agosto-2026.jpg",
-      "summary": "UNRAE fotografa 2.863 immatricolazioni a luglio e 1.263 ad agosto 2026, con pesanti differenze tra veicoli leggeri e trattori stradali",
-      "date": "2026-09-22T13:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:83e921157d8d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto e moto d'epoca, il Millennium Expo torna a Capannelle",
-      "url": "https://it.motor1.com/news/809086/millennium-expo-ottobre-2026-date-biglietti/",
-      "image": "https://cdn.motor1.com/images/mgl/ko8B3R/s3/auto-e-moto-d-epoca-il-millennium-expo-torna-a-capannelle.jpg",
-      "summary": "Il 17 e 18 ottobre il Millennium Expo arriva alla 43esima edizione, con auto, moto d'epoca, Vespa, Lancia, ricambi e mostre",
-      "date": "2026-09-22T12:30:00.0000000Z"
     },
     {
       "id": "insideevs:a0a994725e5c",
@@ -315,30 +387,6 @@
       "date": "2026-09-22T12:30:00.0000000Z"
     },
     {
-      "id": "hdmotori:37155cfe6435",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla FSD Supervised: via libera in Repubblica Ceca",
-      "url": "https://www.hdmotori.it/tesla-fsd-repubblica-ceca/",
-      "image": null,
-      "summary": "La Repubblica Ceca approva la Full Self Driving Supervised di Tesla: il sistema arriva per l'hardware HW 4 a 99 euro al mese in attesa del voto UE del 6 ottobre. The post Tesla FSD Supervised: via libera in Repubblica...",
-      "date": "2026-09-22T12:00:17.0000000Z"
-    },
-    {
-      "id": "motor1:d54695b8d567",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "McLaren cambia logo, preso da una vecchia stazione di servizio",
-      "url": "https://it.motor1.com/news/809071/mclaren-nuovo-logo-scritta-colori/",
-      "image": "https://cdn.motor1.com/images/mgl/E6XPr3/s3/nuovo-logo-mclaren.jpg",
-      "summary": "McLaren presenta una nuova identità visiva che unisce Automotive e Racing, con un logo ispirato alla stazione di servizio di famiglia",
-      "date": "2026-09-22T12:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:a60703ff382b",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -349,18 +397,6 @@
       "image": null,
       "summary": "Velettrica presenterà al Salone Nautico di Genova il nuovo Drive‑Pod‑16, un motore elettrico che consente le manovre in… L'articolo Velettrica lancia il Drive‑Pod‑16 per una vela a emissioni zero proviene da Vaielettr...",
       "date": "2026-09-22T11:48:24.0000000Z"
-    },
-    {
-      "id": "motor1:c8335e0eb6e7",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Mazda MX-5 con motore V6 e quel legame con Porsche",
-      "url": "https://it.motor1.com/news/809080/mazda-mx-5-motore-v6-rocketeer/",
-      "image": "https://cdn.motor1.com/images/mgl/QeGP81/s3/rocketeer-cars-mazda-mx-5-miata-nc.jpg",
-      "summary": "Arriva a 308 CV questa Mazda MX-5 mossa da un motore V6 sviluppato da Porsche e poi utilizzato da Jaguar",
-      "date": "2026-09-22T11:30:00.0000000Z"
     },
     {
       "id": "vaielettrico:a6efbb186790",
@@ -447,18 +483,6 @@
       "date": "2026-09-21T15:59:24.0000000Z"
     },
     {
-      "id": "insideevs:4238ba1a484e",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La BMW iX3 ha già 100.000 ordini: la fabbrica lavora 24 ore su 24",
-      "url": "https://insideevs.it/news/808961/bmw-ix3-fabbrica-ordini/",
-      "image": "https://cdn.motor1.com/images/mgl/Mk6J6X/s3/bmw-ix3-production-in-debrecen-hungary.jpg",
-      "summary": "La domanda della nuova elettrica supera le aspettative e BMW porta lo stabilimento di Debrecen alla produzione continua su tre turni",
-      "date": "2026-09-21T15:30:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:b4f11b5ef6fa",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -483,18 +507,6 @@
       "date": "2026-09-21T14:22:11.0000000Z"
     },
     {
-      "id": "insideevs:0700f07a1813",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ciao diesel e benzina, anche qui la polizia passa all'elettrico",
-      "url": "https://insideevs.it/news/808949/polizia-islamabad-passa-byd-atto/",
-      "image": "https://cdn.motor1.com/images/mgl/JO69gn/s3/islamabadpolice.jpg",
-      "summary": "A Islamabad la Capital Patrol Force introduce 50 BYD Atto 2, con un risparmio sul carburante stimato in 34 milioni di rupie",
-      "date": "2026-09-21T14:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:8de9a1dc20c9",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -505,18 +517,6 @@
       "image": null,
       "summary": "Il declino dell’Italia in Presa Diretta: il programma di Rai Tre ha spiegato bene perché paesi come la Spagna… L'articolo Il declino dell’Italia in Presa Diretta proviene da Vaielettrico .",
       "date": "2026-09-21T13:38:11.0000000Z"
-    },
-    {
-      "id": "insideevs:ef4f645ef5a8",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volkswagen ID. Polo vs Renault 5: la sfida dell'autonomia",
-      "url": "https://insideevs.it/news/808951/volkswagen-polo-renault-5-prova-autonomia/",
-      "image": "https://cdn.motor1.com/images/mgl/0ep7Yj/s3/vw-id.-polo-and-renault-5-e-tech-in-eurocharge.jpg",
-      "summary": "Stessa batteria da 52 kWh, ma consumi e tempi di ricarica diversi: la ID. Polo percorre più strada e passa meno tempo alle colonnine",
-      "date": "2026-09-21T13:00:00.0000000Z"
     },
     {
       "id": "insideevs:14166eb6274d",
