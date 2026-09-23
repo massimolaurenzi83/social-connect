@@ -1,7 +1,91 @@
 {
   "category": "cripto",
-  "updated": "2026-09-23T01:27:23.8764134Z",
+  "updated": "2026-09-23T06:29:29.8158626Z",
   "items": [
+    {
+      "id": "cryptonomist:fc43f4f7921a",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Nei 12 test, PQLN rende resistenti ai computer quantistici i livelli di comunicazione del Lightning Network di Bitcoin",
+      "url": "https://cryptonomist.ch/2026/09/23/bitcoin-lightning-resistente-computer-quantistici/",
+      "image": null,
+      "summary": "Un gruppo di ricercatori della East Texas A&M University ha pubblicato PQLN, il primo sistema che rende resistenti ai computer quantistici i livelli di comunicazione e instradamento del Lightning Network di Bitcoin: u...",
+      "date": "2026-09-23T06:01:39.0000000Z"
+    },
+    {
+      "id": "cryptonomist:7fe6e89cae23",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Migrazione account Binance: cosa cambia per depositi e prelievi?",
+      "url": "https://cryptonomist.ch/2026/09/23/migrazione-account-binance/",
+      "image": null,
+      "summary": "Il 23 settembre 2026 Binance ha annunciato la migrazione degli account che sposterà gli asset crypto degli utenti dai Funding Accounts agli Spot Accounts. Il cambiamento riguarda milioni di conti sulla piattaforma e r...",
+      "date": "2026-09-23T05:59:49.0000000Z"
+    },
+    {
+      "id": "cryptonomist:1f35985148ef",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "OpenAI taglia i prezzi di GPT-6 fino al 58%, sfida diretta ad Anthropic",
+      "url": "https://cryptonomist.ch/2026/09/23/prezzi-openai-gpt-6/",
+      "image": null,
+      "summary": "OpenAI ha lanciato due nuovi modelli della famiglia GPT-6, chiamati GPT-6 Sol e GPT-6 Luna, con prezzi ridotti del 50% rispetto alle tariffe promozionali di GPT-5.6. I nuovi prezzi di OpenAI per GPT-6 arrivano nello s...",
+      "date": "2026-09-23T05:59:15.0000000Z"
+    },
+    {
+      "id": "cryptonomist:abb1917c6aa7",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "La crescita delle azioni di Bending Spoons si scontra con i dubbi del WSJ sul debito",
+      "url": "https://cryptonomist.ch/2026/09/23/crescita-azioni-bending-spoons/",
+      "image": null,
+      "summary": "Bending Spoons ha completato una nuova acquisizione miliardaria e il titolo continua a salire in Borsa, mentre il Wall Street Journal solleva dubbi sui conti del gruppo. La crescita delle azioni di Bending Spoons rest...",
+      "date": "2026-09-23T05:53:10.0000000Z"
+    },
+    {
+      "id": "cryptonomist:2a08da6c7b10",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Solana testa l’upgrade sulla finalità: da 12,8 secondi a 150 millisecondi",
+      "url": "https://cryptonomist.ch/2026/09/23/upgrade-finalita-solana/",
+      "image": null,
+      "summary": "Solana ha avviato sulla sua testnet pubblica i test di un nuovo upgrade sulla finalità, chiamato Alpenglow, per rendere quasi istantanea la conferma dei pagamenti. L’obiettivo è tagliare drasticamente il tempo che una...",
+      "date": "2026-09-23T05:45:19.0000000Z"
+    },
+    {
+      "id": "cryptonomist:842f4f5ed1dc",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "BlackRock: l’impatto dell’AI sulla domanda di crypto è ancora sottovalutato",
+      "url": "https://cryptonomist.ch/2026/09/23/impatto-ai-domanda-crypto/",
+      "image": null,
+      "summary": "BlackRock ha pubblicato uno studio sull’impatto dell’AI sulla domanda di crypto, evidenziando come l’adozione dell’intelligenza artificiale possa aumentare la richiesta di asset digitali. Il colosso della gestione pat...",
+      "date": "2026-09-23T05:44:21.0000000Z"
+    },
+    {
+      "id": "cryptonomist:63fe1a3bd556",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Visa e Reap portano le carte di credito con stablecoin in 175 milioni di negozi",
+      "url": "https://cryptonomist.ch/2026/09/23/carte-di-credito-con-stablecoin/",
+      "image": null,
+      "summary": "Reap e Visa lanciano insieme le carte di credito con stablecoin in oltre 100 mercati nel mondo. La partnership porta l’infrastruttura di emissione Visa della fintech di Hong Kong anche in EMEA e Africa. Punti chiave R...",
+      "date": "2026-09-23T05:22:44.0000000Z"
+    },
     {
       "id": "cryptonomist:bc7669f4afb1",
       "sourceId": "cryptonomist",
@@ -37,90 +121,6 @@
       "image": null,
       "summary": "Grok Bot, l’assistente AI di SpaceXAI, ha superato i 400.000 utenti a circa un mese dal lancio. Ma la crescita di Grok Bot di SpaceXAI resta comunque lontana dai numeri messi a segno da Muse, la nuova app di Meta dedi...",
       "date": "2026-09-22T17:55:54.0000000Z"
-    },
-    {
-      "id": "cryptonomist:f0267e24ff19",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Tether frena su MiCA: la regolamentazione stablecoin in UE chiede il 60% in depositi",
-      "url": "https://cryptonomist.ch/2026/09/22/regolamentazione-stablecoin-ue/",
-      "image": null,
-      "summary": "Tether ha rifiutato di richiedere la licenza MiCA prevista dalla regolamentazione stablecoin in UE, per una regola sulle riserve giudicata troppo restrittiva dal CEO Paolo Ardoino. Punti chiave Tether ha rifiutato la ...",
-      "date": "2026-09-22T16:51:20.0000000Z"
-    },
-    {
-      "id": "cryptonomist:231d7a84122c",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "L’inflazione supera i dazi come prima preoccupazione dei family office",
-      "url": "https://cryptonomist.ch/2026/09/22/preoccupazioni-inflazione-family-office/",
-      "image": null,
-      "summary": "L’inflazione ha superato le tensioni commerciali come primo pensiero dei grandi patrimoni familiari, segnando un cambiamento netto rispetto a un anno fa. Le preoccupazioni inflazione family office emergono con forza d...",
-      "date": "2026-09-22T16:41:20.0000000Z"
-    },
-    {
-      "id": "cryptonomist:1ca2a7b153a9",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Azioni Google respinte a 359,98 dollari, ma il trend resta rialzista",
-      "url": "https://cryptonomist.ch/2026/09/22/azioni-google-respinte-a-35998-dollari-ma-il-trend-resta-rialzista/",
-      "image": null,
-      "summary": "Le azioni Google vivono una seduta complessa: rifiutate da 359,98 dollari, scambiano attualmente a 349,05. Il titolo resta sopra tutte le medie mobili giornaliere di lungo periodo — il trend di fondo non è compromesso...",
-      "date": "2026-09-22T16:38:29.0000000Z"
-    },
-    {
-      "id": "cryptonomist:2e32def16863",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Azioni Tesla a 376 dollari: la resistenza a 380 dollari decide il trend",
-      "url": "https://cryptonomist.ch/2026/09/22/azioni-tesla-a-376-dollari-la-resistenza-a-380-dollari-decide-il-trend/",
-      "image": null,
-      "summary": "Le azioni Tesla chiudono a 376,73 dollari, ai massimi di quasi tre settimane. Il titolo si confronta con un muro tecnico ben definito, in una zona che separa un daily ancora incerto da un momentum orario aggressivo. L...",
-      "date": "2026-09-22T16:37:20.0000000Z"
-    },
-    {
-      "id": "cryptonomist:69087169c666",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Azioni Micron: RSI orario a 80,38 e target a 1.099 dollari",
-      "url": "https://cryptonomist.ch/2026/09/22/azioni-micron-rsi-orario-a-8038-e-target-a-1-099-dollari/",
-      "image": null,
-      "summary": "Le azioni Micron segnano un prezzo intraday di 1.081,67 dollari nela seduta del 22 setembre, dato non ancora confermato in chiusura, sopra la banda superiore di Bollinger sul daily. Un eventuale breakout segnalerebe u...",
-      "date": "2026-09-22T16:30:33.0000000Z"
-    },
-    {
-      "id": "cryptonomist:11ce4adf6326",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Azioni Meta: rally dell’11%, ma l’RSI a 78 segnala ipercomprato",
-      "url": "https://cryptonomist.ch/2026/09/22/azioni-meta-rally-dell11-ma-lrsi-a-78-segnala-ipercomprato/",
-      "image": null,
-      "summary": "Le azioni Meta salgono il 22 settembre a 749,67 dollari, dopo aver toccato un massimo di 757,13 e un minimo di 730. Il balzo superiore all’11% di lunedì, trainato dall’entusiasmo per i prodotti AI come Muse e Muse Spa...",
-      "date": "2026-09-22T16:30:06.0000000Z"
-    },
-    {
-      "id": "cryptonomist:e0971b2d1791",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "564 tentativi di trasferimento senza consenso: i problemi di privacy dei dati di Z.ai",
-      "url": "https://cryptonomist.ch/2026/09/22/problemi-privacy-dati-z-ai/",
-      "image": null,
-      "summary": "Z.ai, colosso cinese dell’intelligenza artificiale, si è scusata pubblicamente dopo la scoperta dei problemi di privacy dei dati nel suo strumento ZCode. Lo strumento caricava spazi di lavoro degli utenti su Alibaba C...",
-      "date": "2026-09-22T16:20:57.0000000Z"
     }
   ]
 }

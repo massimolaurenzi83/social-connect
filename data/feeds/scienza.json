@@ -1,18 +1,18 @@
 {
   "category": "scienza",
-  "updated": "2026-09-23T01:27:23.8800057Z",
+  "updated": "2026-09-23T06:29:29.7955845Z",
   "items": [
     {
-      "id": "focus:685efe8e1eaa",
+      "id": "focus:d534f8a8cc81",
       "sourceId": "focus",
       "source": "Focus",
       "platform": "rss",
       "category": "scienza",
-      "title": "Il futuro dei soldi",
-      "url": "https://www.focus.it/mondo-focus///408",
-      "image": "https://www.focus.it/images/2026/09/22/cover-focus-408-orig.jpg?imbypass=true",
-      "summary": "",
-      "date": "2026-09-22T20:00:00.0000000Z"
+      "title": "Captato un segnale radio da un esopianeta",
+      "url": "https://www.focus.it/scienza/spazio/captato-per-la-prima-volta-un-segnale-radio-da-un-esopianeta-ma-gli-alieni-non-c-entrano",
+      "image": "https://www.focus.it/images/2026/09/22/esopianeta-segnale_w630.jpg?imbypass=true",
+      "summary": "I ricercatori sono riusciti a isolare il segnale giunto dall'esopianeta Beta Pictoris b: a generare gli impulsi però non è stata una civiltà extraterrestre, ma le sue spettacolari aurore e un campo magnetico record.",
+      "date": "2026-09-23T02:00:00.0000000Z"
     },
     {
       "id": "focus:6a9b9738b2bc",
@@ -27,17 +27,16 @@
       "date": "2026-09-22T20:00:00.0000000Z"
     },
     {
-      "id": "geopop:_kuPzNXF91U",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
+      "id": "focus:685efe8e1eaa",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
       "category": "scienza",
-      "title": "L’AI ci ucciderà tutti? Cosa vuol dire e perché, il vero pericolo, è l’uomo",
-      "url": "https://www.youtube.com/watch?v=_kuPzNXF91U",
-      "image": "https://i.ytimg.com/vi/_kuPzNXF91U/hqdefault.jpg",
+      "title": "Il futuro dei soldi",
+      "url": "https://www.focus.it/mondo-focus///408",
+      "image": "https://www.focus.it/images/2026/09/22/cover-focus-408-orig.jpg?imbypass=true",
       "summary": "",
-      "videoId": "_kuPzNXF91U",
-      "date": "2026-09-22T16:30:31.0000000Z"
+      "date": "2026-09-22T20:00:00.0000000Z"
     },
     {
       "id": "media-inaf:c83a490d50f3",
@@ -160,19 +159,6 @@
       "date": "2026-09-22T02:00:00.0000000Z"
     },
     {
-      "id": "geopop:9578Qxaclp0",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Gas Nervino a Tokyo, la ricostruzione 3D dell’attentato alla metropolitana del 1995",
-      "url": "https://www.youtube.com/watch?v=9578Qxaclp0",
-      "image": "https://i.ytimg.com/vi/9578Qxaclp0/hqdefault.jpg",
-      "summary": "",
-      "videoId": "9578Qxaclp0",
-      "date": "2026-09-21T16:30:35.0000000Z"
-    },
-    {
       "id": "media-inaf:c469316c4e28",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -221,18 +207,6 @@
       "date": "2026-09-21T08:05:44.0000000Z"
     },
     {
-      "id": "focus:1251cc777ad8",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Una sera con Leonardo",
-      "url": "https://www.focus.it/focuslive/aspettando-focus-live-una-sera-con-leonardo",
-      "image": "https://www.focus.it/images/2026/09/18/aspettando-focus-live_w630.jpg?imbypass=true",
-      "summary": "Prima tappa \"di avvicinamento\" a Focus Live 2026: il 1° ottobre Focus entra nella sala della Biblioteca Ambrosiana che espone i fogli originali del Codice Atlantico. Con noi ci sarà Massimo Polidoro che ci guiderà nel...",
-      "date": "2026-09-21T08:00:00.0000000Z"
-    },
-    {
       "id": "focus:f715b82307c6",
       "sourceId": "focus",
       "source": "Focus",
@@ -245,19 +219,6 @@
       "date": "2026-09-21T08:00:00.0000000Z"
     },
     {
-      "id": "geopop:6DJPh4ybU0E",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Perché prima di decolli e atterraggi viene chiesto di chiudere i tavolini?È per la nostra sicurezza.",
-      "url": "https://www.youtube.com/watch?v=6DJPh4ybU0E",
-      "image": "https://i.ytimg.com/vi/6DJPh4ybU0E/hqdefault.jpg",
-      "summary": "",
-      "videoId": "6DJPh4ybU0E",
-      "date": "2026-09-21T05:00:02.0000000Z"
-    },
-    {
       "id": "media-inaf:067e1699cace",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -268,45 +229,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/cover-55-cancri-e-150x150.jpg",
       "summary": "Recenti osservazioni del Jwst hanno messo in dubbio il modello “cosmic shoreline”, che ci dice fino a che distanza dalla propria stella possono orbitare i pianeti rocciosi senza perdere l’atmosfera. Nuovi dati hanno r...",
       "date": "2026-09-18T12:46:45.0000000Z"
-    },
-    {
-      "id": "geopop:OG2C8oJhp-k",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Come fare a lanciare la propria attività quando si è giovani e non si hanno risorse? Guarda qui",
-      "url": "https://www.youtube.com/watch?v=OG2C8oJhp-k",
-      "image": "https://i.ytimg.com/vi/OG2C8oJhp-k/hqdefault.jpg",
-      "summary": "",
-      "videoId": "OG2C8oJhp-k",
-      "date": "2026-09-18T11:00:36.0000000Z"
-    },
-    {
-      "id": "geopop:gfpYUsuRvOo",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "No, la Torre di Pisa non è la più inclinata del mondo.",
-      "url": "https://www.youtube.com/watch?v=gfpYUsuRvOo",
-      "image": "https://i.ytimg.com/vi/gfpYUsuRvOo/hqdefault.jpg",
-      "summary": "",
-      "videoId": "gfpYUsuRvOo",
-      "date": "2026-09-18T05:00:26.0000000Z"
-    },
-    {
-      "id": "geopop:QWHAe3LYtt0",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Perché gli adolescenti sono ribelli - i motivi biochimici",
-      "url": "https://www.youtube.com/watch?v=QWHAe3LYtt0",
-      "image": "https://i.ytimg.com/vi/QWHAe3LYtt0/hqdefault.jpg",
-      "summary": "",
-      "videoId": "QWHAe3LYtt0",
-      "date": "2026-09-17T16:30:07.0000000Z"
     },
     {
       "id": "media-inaf:897feeec767a",
@@ -345,19 +267,6 @@
       "date": "2026-09-17T10:15:14.0000000Z"
     },
     {
-      "id": "geopop:dtikahfhEzY",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "L’AI ci ha battuti? Come ha risolto (forse) un problema da un milione di dollari",
-      "url": "https://www.youtube.com/watch?v=dtikahfhEzY",
-      "image": "https://i.ytimg.com/vi/dtikahfhEzY/hqdefault.jpg",
-      "summary": "",
-      "videoId": "dtikahfhEzY",
-      "date": "2026-09-16T16:31:09.0000000Z"
-    },
-    {
       "id": "media-inaf:0e5e630972e2",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -380,71 +289,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/PIA00104-150x150.jpg",
       "summary": "Secondo un nuovo studio condotto da un team di ricerca dell’Università della California a Riverside, la lenta rotazione e la gravità di Venere spiegherebbero perché il pianeta non possiede lune: un eventuale satellite...",
       "date": "2026-09-16T12:50:40.0000000Z"
-    },
-    {
-      "id": "geopop:6jhGdT4QK7U",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Avete mai notato la telecamera sul parabrezza? Ecco a cosa serve e come farla funzionare bene",
-      "url": "https://www.youtube.com/watch?v=6jhGdT4QK7U",
-      "image": "https://i.ytimg.com/vi/6jhGdT4QK7U/hqdefault.jpg",
-      "summary": "",
-      "videoId": "6jhGdT4QK7U",
-      "date": "2026-09-16T11:00:19.0000000Z"
-    },
-    {
-      "id": "geopop:TGipVy-Zrms",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "4 persone con lesione midollare completa tornano in piedi e camminano grazie alle neurostimolazione",
-      "url": "https://www.youtube.com/watch?v=TGipVy-Zrms",
-      "image": "https://i.ytimg.com/vi/TGipVy-Zrms/hqdefault.jpg",
-      "summary": "",
-      "videoId": "TGipVy-Zrms",
-      "date": "2026-09-16T05:00:26.0000000Z"
-    },
-    {
-      "id": "geopop:mUiRUu_Ekao",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Come produrre energia rinnovabile se non hai spazio per i pannelli solari (c'entra la blockchain)",
-      "url": "https://www.youtube.com/watch?v=mUiRUu_Ekao",
-      "image": "https://i.ytimg.com/vi/mUiRUu_Ekao/hqdefault.jpg",
-      "summary": "",
-      "videoId": "mUiRUu_Ekao",
-      "date": "2026-09-15T16:30:12.0000000Z"
-    },
-    {
-      "id": "geopop:B51so3HB0wM",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Oggi dalle ore 21:30, vi aspettiamo sul @NOVE9  per  #GeopopRacconta: #chernobyl",
-      "url": "https://www.youtube.com/watch?v=B51so3HB0wM",
-      "image": "https://i.ytimg.com/vi/B51so3HB0wM/hqdefault.jpg",
-      "summary": "",
-      "videoId": "B51so3HB0wM",
-      "date": "2026-09-15T05:00:27.0000000Z"
-    },
-    {
-      "id": "geopop:fkRWjhgE038",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Cosa sta succedendo ai ghiacciai nel mondo e cosa possiamo fare",
-      "url": "https://www.youtube.com/watch?v=fkRWjhgE038",
-      "image": "https://i.ytimg.com/vi/fkRWjhgE038/hqdefault.jpg",
-      "summary": "",
-      "videoId": "fkRWjhgE038",
-      "date": "2026-09-14T16:30:10.0000000Z"
     }
   ]
 }

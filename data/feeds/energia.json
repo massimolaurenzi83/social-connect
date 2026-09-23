@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-09-23T01:27:23.8751388Z",
+  "updated": "2026-09-23T06:29:29.8653818Z",
   "items": [
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-09-23T04:30:00.0000000Z"
+    },
     {
       "id": "qualenergia:60db3e4e1e3e",
       "sourceId": "qualenergia",
@@ -27,18 +39,6 @@
       "date": "2026-09-22T12:15:52.0000000Z"
     },
     {
-      "id": "qualenergia:8091b77b2f92",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Via al bonus colonnine: attenzione a date e dispositivi ammessi",
-      "url": "https://www.qualenergia.it/articoli/via-bonus-colonnine-attenzione-date-dispositivi-ammessi/",
-      "image": null,
-      "summary": "Parte oggi, martedì 22 settembre, il nuovo bonus per installare colonnine domestiche per la ricarica dei veicoli elettrici nel periodo 2026-2030, con 68 milioni di euro complessivamente resi disponibili dal ministero ...",
-      "date": "2026-09-22T10:45:16.0000000Z"
-    },
-    {
       "id": "qualenergia:9be8f075a928",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -60,7 +60,19 @@
       "url": "https://www.qualenergia.it/pro/articoli-pro/fotovoltaico-blackout-come-funziona-backup-domestico/",
       "image": null,
       "summary": "Tra gli effetti del cambiamento climatico c’è anche un aumento del rischio di blackout elettrici. Questa estate diverse città italiane hanno registrato interruzioni di corrente nelle ore più calde, quando all’elevata ...",
-      "date": "2026-09-22T09:30:01.0000000Z"
+      "date": "2026-09-22T10:30:01.0000000Z"
+    },
+    {
+      "id": "qualenergia:8091b77b2f92",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Via al bonus colonnine: attenzione a date e dispositivi ammessi",
+      "url": "https://www.qualenergia.it/articoli/via-bonus-colonnine-attenzione-date-dispositivi-ammessi/",
+      "image": null,
+      "summary": "Parte oggi, martedì 22 settembre, il nuovo bonus per installare colonnine domestiche per la ricarica dei veicoli elettrici nel periodo 2026-2030, con 68 milioni di euro complessivamente resi disponibili dal ministero ...",
+      "date": "2026-09-22T10:00:16.0000000Z"
     },
     {
       "id": "qualenergia:9be7647052fa",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
       "date": "2026-09-22T06:30:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:ed359064492d",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "LA FORMAZIONE ENERGETICA IN ITALIA",
-      "url": "https://www.qualenergia.it/pro/documenti/formazione-energetica-in-italia/",
-      "image": null,
-      "summary": "Corsi universitari, master, ITS Academy, stage, seminari di formazione a vari livelli su tematiche energetiche, fonti rinnovabili, efficienza energetica e mobilità elettrica. Destinatari: studenti diplomati, universit...",
-      "date": "2026-09-22T05:15:30.0000000Z"
     }
   ]
 }

@@ -1,7 +1,67 @@
 {
   "category": "motori",
-  "updated": "2026-09-23T01:27:23.9039069Z",
+  "updated": "2026-09-23T06:29:29.8553180Z",
   "items": [
+    {
+      "id": "hdmotori:d559ce5beaa5",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le auto Alfa Romeo protagoniste dell’Anantara Grand Tour of Europe",
+      "url": "https://www.hdmotori.it/alfa-romeo-anantara-grand-tour-europe/",
+      "image": null,
+      "summary": "Il marchio del Biscione affianca il brand di luxury hospitality per reinterpretare in chiave contemporanea il ‘Gran Tour’ settecentesco tra eleganza, cultura e piacere di guida. The post Le auto Alfa Romeo protagonist...",
+      "date": "2026-09-23T06:00:19.0000000Z"
+    },
+    {
+      "id": "motor1:2fefe10af955",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Costa quasi come un’Alpine A110, ma è un SUV Renault",
+      "url": "https://it.motor1.com/news/809066/renault-rafale-hypnotic-suv/",
+      "image": "https://cdn.motor1.com/images/mgl/P3VWpA/s3/renault-rafale-hypnotic.jpg",
+      "summary": "Costa più di 60 mila euro, ha 300 CV ed è mossa da 3 motori elettrici: arriva la Renault Rafale Hypnotic. lapiù esclusiva di sempre",
+      "date": "2026-09-23T06:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:8f77302f2a34",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Africa: nei terreni aridi i mezzi agricoli elettrosolari",
+      "url": "https://www.vaielettrico.it/africa-nei-terreni-aridi-i-mezzi-agricoli-elettrosolari/",
+      "image": null,
+      "summary": "Aumentare la produttività agricola dell’Africa per ridurre la povertà è possibile, e la strada passa anche dai mezzi… L'articolo Africa: nei terreni aridi i mezzi agricoli elettrosolari proviene da Vaielettrico .",
+      "date": "2026-09-23T05:53:14.0000000Z"
+    },
+    {
+      "id": "motor1:8065aa6bd761",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le auto diesel che consumano meno del 2026: la classifica",
+      "url": "https://it.motor1.com/reviews/808795/auto-diesel-consumi-classifica-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZP49L/s3/le-auto-diesel-che-consumano-meno-del-2026-la-classifica.jpg",
+      "summary": "La lista delle auto diesel che hanno consumato di meno da inizio anno. Ecco la vera efficienza delle nuove vetture a gasolio",
+      "date": "2026-09-23T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:644c1e03108c",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BYD non si ferma alle Blade: ecco come sfida CATL",
+      "url": "https://insideevs.it/news/809035/byd-produttore-batterie-sfida-catl/",
+      "image": "https://cdn.motor1.com/images/mgl/YAgell/s3/byd-blade-battery.jpg",
+      "summary": "LFP, sodio, stato solido e nuove applicazioni: il gruppo cinese prepara una gamma sempre più ampia di batterie",
+      "date": "2026-09-23T05:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:605b6997797a",
       "sourceId": "hdmotori",
@@ -147,18 +207,6 @@
       "date": "2026-09-22T15:00:00.0000000Z"
     },
     {
-      "id": "insideevs:1861f9d24ab4",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Tesla Roadster volerà? Un indizio arriva dal Texas",
-      "url": "https://insideevs.it/news/809101/tesla-roadster-faa-limita-spazio/",
-      "image": "https://cdn.motor1.com/images/mgl/ZnlmoA/s3/la-nuova-tesla-roadster-volera-un-indizio-arriva-dal-texas.jpg",
-      "summary": "La FAA ha imposto una restrizione sui cieli sopra SpaceX fino al 2 ottobre, un giorno dopo il debutto della sportiva Tesla a Waco",
-      "date": "2026-09-22T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:1023bb4c638b",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -171,6 +219,18 @@
       "date": "2026-09-22T14:00:00.0000000Z"
     },
     {
+      "id": "insideevs:1861f9d24ab4",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Tesla Roadster volerà? Un indizio arriva dal Texas",
+      "url": "https://insideevs.it/news/809101/tesla-roadster-faa-limita-spazio/",
+      "image": "https://cdn.motor1.com/images/mgl/ZnlmoA/s3/la-nuova-tesla-roadster-volera-un-indizio-arriva-dal-texas.jpg",
+      "summary": "La FAA ha imposto una restrizione sui cieli sopra SpaceX fino al 2 ottobre, un giorno dopo il debutto della sportiva Tesla a Waco",
+      "date": "2026-09-22T14:00:00.0000000Z"
+    },
+    {
       "id": "motor1:ab202650f33b",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -178,7 +238,7 @@
       "category": "motori",
       "title": "Alfa Romeo ci ha detto qual è il nome della sua nuova sportiva",
       "url": "https://it.motor1.com/news/809120/alfa-romeo-concept-sportiva-2026-nome/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z1mq7/s3/alfa-romeo-sportiva-2026-nome.jpg",
+      "image": "https://cdn.motor1.com/images/mgl/E6XW3N/s3/alfa-romeo-sportiva-teaser.jpg",
       "summary": "Ma non è così facile individuarlo",
       "date": "2026-09-22T13:52:57.0000000Z"
     },
@@ -303,30 +363,6 @@
       "date": "2026-09-22T11:30:00.0000000Z"
     },
     {
-      "id": "hdmotori:3cf12b8c84f0",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto usate, aumentano le truffe con l’AI: annuncio perfetto, ma il veicolo non esiste",
-      "url": "https://www.hdmotori.it/auto-usate-truffe-ai/",
-      "image": null,
-      "summary": "Foto false, voci contraffatte e offerta a prezzo realistico. Ecco come l'intelligenza artificiale sta alimentando le truffe sui portali online. The post Auto usate, aumentano le truffe con l’AI: annuncio perfetto, ma ...",
-      "date": "2026-09-22T11:00:10.0000000Z"
-    },
-    {
-      "id": "motor1:d1022296c944",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Suzuki, Nalli: “Il futuro dell’auto non sarà solo elettrico”",
-      "url": "https://it.motor1.com/news/808929/suzuki-nalli-intervista-torino-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/Mk6Jo6/s3/suzuki-intervista-a-massimo-nalli.jpg",
-      "summary": "Dalla e-Vitara alla Across plug-in, la Casa punta su più soluzioni e continua a investire anche su ibrido, biocarburanti e idrogeno",
-      "date": "2026-09-22T11:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:a6efbb186790",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -337,18 +373,6 @@
       "image": null,
       "summary": "Auto troppo ingombranti e città invivibili: questo è il problema, al di là delle emissioni. È il parere… L'articolo Auto troppo ingombranti, questo è il problema proviene da Vaielettrico .",
       "date": "2026-09-22T10:13:15.0000000Z"
-    },
-    {
-      "id": "motor1:a309da40ee9e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Rolls-Royce più strana di sempre viaggia ai confini del mondo",
-      "url": "https://it.motor1.com/news/809061/rolls-royce-project-nightingale-test/",
-      "image": "https://cdn.motor1.com/images/mgl/xqObv2/s3/rolls-royce-project-nightingale-enters-testing.jpg",
-      "summary": "Rolls-Royce avvia i test su strada di Project Nightingale, scoperta biposto elettrica da 100 esemplari, con 350 settimane di collaudi",
-      "date": "2026-09-22T10:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:4b473e566623",
@@ -483,18 +507,6 @@
       "date": "2026-09-21T13:38:11.0000000Z"
     },
     {
-      "id": "vaielettrico:863a2ff6b0b8",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Royal Enfield Flying Flea C6 arriva in Italia: 104 km di autonomia a 5.990 €",
-      "url": "https://www.vaielettrico.it/royal-enfield-flying-flea-c6-arriva-in-italia-104-km-di-autonomia-a-5-990-e/",
-      "image": null,
-      "summary": "La prima elettrica del nuovo marchio di Royal Enfield debutta in Europa. Batteria da 3,91 kWh, 15,4 kW… L'articolo Royal Enfield Flying Flea C6 arriva in Italia: 104 km di autonomia a 5.990 € proviene da Vaielettrico .",
-      "date": "2026-09-21T13:34:24.0000000Z"
-    },
-    {
       "id": "insideevs:ef4f645ef5a8",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/0ep7Yj/s3/vw-id.-polo-and-renault-5-e-tech-in-eurocharge.jpg",
       "summary": "Stessa batteria da 52 kWh, ma consumi e tempi di ricarica diversi: la ID. Polo percorre più strada e passa meno tempo alle colonnine",
       "date": "2026-09-21T13:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:05c1775333f4",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Musk vuole battere il traffico con un tunnel da 320 km/h",
-      "url": "https://insideevs.it/news/808928/elon-musk-rilancia-hyperloop-austin/",
-      "image": "https://cdn.motor1.com/images/mgl/XBb0L2/s3/musk-vuole-battere-il-traffico-con-un-tunnel-da-320-km-h.jpg",
-      "summary": "The Boring Company torna a parlare di Hyperloop in Texas, ma il progetto è ancora preliminare",
-      "date": "2026-09-21T11:00:00.0000000Z"
     },
     {
       "id": "insideevs:14166eb6274d",
