@@ -1,6 +1,6 @@
 {
   "category": "salute",
-  "updated": "2026-09-23T19:54:25.4723702Z",
+  "updated": "2026-09-23T22:40:42.2557069Z",
   "items": [
     {
       "id": "repubblica-salute:1d4a968f9079",
@@ -87,6 +87,18 @@
       "date": "2026-09-23T04:00:00.0000000Z"
     },
     {
+      "id": "repubblica-salute:10ae89ddf012",
+      "sourceId": "repubblica-salute",
+      "source": "Repubblica Salute",
+      "platform": "rss",
+      "category": "salute",
+      "title": "Lo stress cronico “infiamma” il cuore e aumenta il rischio di infarto e ictus",
+      "url": "https://www.repubblica.it/salute/dossier/sportello-cuore/2026/09/22/news/stress_cronico_cuore_infarto_ictus-425597977/?rss",
+      "image": "https://www.repstatic.it/content/contenthub/img/2026/09/21/114350410-aad6ea50-e162-4ea7-9975-56dba7af16a2.jpg",
+      "summary": "L’infiammazione latente è il carburante della sofferenza cardiaca. La tensione emotiva e sociale nel tempo la determina e l’aumenta, aprendo la strada anche allo scompenso",
+      "date": "2026-09-23T02:00:00.0000000Z"
+    },
+    {
       "id": "repubblica-salute:1035bc0c051a",
       "sourceId": "repubblica-salute",
       "source": "Repubblica Salute",
@@ -133,18 +145,6 @@
       "image": "https://www.repstatic.it/content/contenthub/img/2026/09/22/111313339-d11fcc3d-ea40-467b-8957-99bffef3bddb.jpg",
       "summary": "L’indagine dell’Osservatorio di Pavia. Nei telegiornali copre solo l'1,8% delle notizie, con 7 servizi su 10 legati alla cronaca",
       "date": "2026-09-22T09:38:07.0000000Z"
-    },
-    {
-      "id": "repubblica-salute:f6d0610e5ebc",
-      "sourceId": "repubblica-salute",
-      "source": "Repubblica Salute",
-      "platform": "rss",
-      "category": "salute",
-      "title": "Non abbiamo un solo cervello, ma due: verso una svolta per la cura delle malattie neurologiche",
-      "url": "https://www.repubblica.it/salute/2026/09/21/news/due_cervelli_scoperta_cura_malattie_neurologiche-425598221/?rss",
-      "image": "https://www.repstatic.it/content/contenthub/img/2026/09/21/133002215-abfcd073-da65-47b4-8ee1-367b8a559526.jpg",
-      "summary": "L’organo è unico ma la parte anteriore e posteriore sarebbero state create da due distinte popolazioni di cellule. Lo studio dell’università di Stanford cambia il modo di interpretarne lo sviluppo. E apre nuove strade...",
-      "date": "2026-09-21T11:32:05.0000000Z"
     },
     {
       "id": "corriere-salute:133353e1bdf8",
