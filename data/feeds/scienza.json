@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-09-24T10:43:06.2583695Z",
+  "updated": "2026-09-24T15:31:45.8843548Z",
   "items": [
+    {
+      "id": "focus:199c93f34ae6",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Quando la Terra è diventata abitabile?",
+      "url": "https://www.focus.it/scienza/scienze/quando-la-terra-e-diventata-abitabile-la-svolta-4-3-miliardi-di-anni-fa",
+      "image": "https://www.focus.it/images/2026/09/24/terra-chimica-della-vita_w630.jpg?imbypass=true",
+      "summary": "Individuata la finestra temporale in cui la Terra ha smesso di essere un inferno di meteoriti, creando le prime zone stabili per la chimica della vita.",
+      "date": "2026-09-24T11:00:00.0000000Z"
+    },
     {
       "id": "media-inaf:355330602123",
       "sourceId": "media-inaf",
@@ -13,6 +25,18 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/cover-logos-150x150.jpg",
       "summary": "Dal giovedì 24 a domenica 27 settembre, a Villa Filippina, nel cuore del capoluogo siciliano, un viaggio dalla storia astronomica della città alla ricerca contemporanea, tra esopianeti, neutrini, raggi X e gamma, astr...",
       "date": "2026-09-24T08:13:15.0000000Z"
+    },
+    {
+      "id": "focus:0f018cc2dc52",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Il tursiope bullo che mangia il vomito dei pesci",
+      "url": "https://www.focus.it/ambiente/animali/il-tursiope-che-mangia-il-vomito-dei-pesci",
+      "image": "https://www.focus.it/images/2026/09/24/tursiope-bullo_w630.jpg?imbypass=true",
+      "summary": "Nella Grande Barriera Corallina vive un tursiope, Bubbles, che ha inventato un metodo disgustoso per procurarsi il cibo: farlo vomitare ai pesci.",
+      "date": "2026-09-24T08:00:00.0000000Z"
     },
     {
       "id": "focus:91942ae11ee9",
@@ -174,18 +198,6 @@
       "date": "2026-09-23T07:00:00.0000000Z"
     },
     {
-      "id": "focus:87d88a046518",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Il pipistrello “fantasma” scoperto in Italia",
-      "url": "https://www.focus.it/ambiente/animali/pipistrello-fantasma",
-      "image": "https://www.focus.it/images/2026/08/31/sonoro-pipistrello_w630.jpg?imbypass=true",
-      "summary": "Il nitteride di Tebe è un pipistrello africano, difficile da individuare. Ora gli scienziati lo hanno trovato a Pantelleria.",
-      "date": "2026-09-23T06:00:00.0000000Z"
-    },
-    {
       "id": "focus:5a2c824d8528",
       "sourceId": "focus",
       "source": "Focus",
@@ -195,6 +207,18 @@
       "url": "https://www.focus.it/ambiente/animali/tipi-italiani-l-avocetta",
       "image": "https://www.focus.it/images/2026/08/24/avocetta_w630.jpg?imbypass=true",
       "summary": "Così nascono le pagine di Focus dedicate agli animali che possiamo incontrare nel nostro Paese. Guarda, in questo timelapse, come è stato realizzato il disegno dell'avocetta.",
+      "date": "2026-09-23T06:00:00.0000000Z"
+    },
+    {
+      "id": "focus:87d88a046518",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Il pipistrello “fantasma” scoperto in Italia",
+      "url": "https://www.focus.it/ambiente/animali/pipistrello-fantasma",
+      "image": "https://www.focus.it/images/2026/08/31/sonoro-pipistrello_w630.jpg?imbypass=true",
+      "summary": "Il nitteride di Tebe è un pipistrello africano, difficile da individuare. Ora gli scienziati lo hanno trovato a Pantelleria.",
       "date": "2026-09-23T06:00:00.0000000Z"
     },
     {
@@ -221,30 +245,6 @@
       "image": "https://www.focus.it/images/2026/09/22/esopianeta-segnale_w630.jpg?imbypass=true",
       "summary": "I ricercatori sono riusciti a isolare il segnale giunto dall'esopianeta Beta Pictoris b: a generare gli impulsi però non è stata una civiltà extraterrestre, ma le sue spettacolari aurore e un campo magnetico record.",
       "date": "2026-09-23T02:00:00.0000000Z"
-    },
-    {
-      "id": "focus:685efe8e1eaa",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Il futuro dei soldi",
-      "url": "https://www.focus.it/mondo-focus///408",
-      "image": "https://www.focus.it/images/2026/09/22/cover-focus-408-orig.jpg?imbypass=true",
-      "summary": "",
-      "date": "2026-09-22T20:00:00.0000000Z"
-    },
-    {
-      "id": "focus:6a9b9738b2bc",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Il ritorno del dragone",
-      "url": "https://www.focus.it/mondo-focus///240",
-      "image": "https://www.focus.it/images/2026/09/22/focus-storia-cover-240-orig.jpg?imbypass=true",
-      "summary": "",
-      "date": "2026-09-22T20:00:00.0000000Z"
     },
     {
       "id": "geopop:_kuPzNXF91U",
