@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-24T00:54:17.5796903Z",
+  "updated": "2026-09-24T05:51:38.4031157Z",
   "items": [
+    {
+      "id": "insideevs:77183a842587",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'Europa ha un problema con le batterie (e se lo crea da sola)",
+      "url": "https://insideevs.it/news/809216/approvvigionamento-batterie-europa-scarso-problemi/",
+      "image": "https://cdn.motor1.com/images/mgl/9myKjm/s3/il-centro-bmw-dove-nascono-le-batterie-gen6.jpg",
+      "summary": "Uno studio dimostra che l'Industrial Acceleration Act non consentirà alle Case europee di avere abbastanza batterie per le auto elettriche",
+      "date": "2026-09-24T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:4d20f7c0e6cd",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Chi vince e chi perde tra le Big 3 dell'auto europea? I numeri",
+      "url": "https://it.motor1.com/news/808968/volkswagen-stellantis-renault-numeri-confronto-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/3WBvmj/s3/chi-vince-e-chi-perde-tra-le-big-3-dell-auto-europea-i-numeri.jpg",
+      "summary": "Volkswagen è in difficoltà, Renault mantiene la rotta e Stellantis migliora grazie anche all'espansione internazionale di Leapmotor",
+      "date": "2026-09-24T05:00:00.0000000Z"
+    },
     {
       "id": "motor1:f65b6d34c340",
       "sourceId": "motor1",
@@ -123,18 +147,6 @@
       "date": "2026-09-23T15:00:25.0000000Z"
     },
     {
-      "id": "motor1:237bfc5b68b0",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La prova del nuovo SUV ibrido di Suzuki",
-      "url": "https://it.motor1.com/reviews/809251/suzuki-across-2026-ibrida-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/KbZ10R/s3/photo-cover-suzuki-across-2026.jpg",
-      "summary": "La batteria arriva a 22,7 kWh e l'autonomia elettrica a 129 km o 191 km in città. È ancora una delle plug-in più piacevoli da guidare",
-      "date": "2026-09-23T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:86bf9d15b5c3",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -144,6 +156,18 @@
       "url": "https://insideevs.it/news/809275/nissan-pixo-2026-motore-batteria/",
       "image": "https://cdn.motor1.com/images/mgl/xqOpXw/s3/nissan-pixo-2027.jpg",
       "summary": "La nuova Nissan Pixo si basa sulla Renault Twingo, la ricarica di serie è di 50 kW e l'autonomia di 259 km",
+      "date": "2026-09-23T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:237bfc5b68b0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La prova del nuovo SUV ibrido di Suzuki",
+      "url": "https://it.motor1.com/reviews/809251/suzuki-across-2026-ibrida-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/KbZ10R/s3/photo-cover-suzuki-across-2026.jpg",
+      "summary": "La batteria arriva a 22,7 kWh e l'autonomia elettrica a 129 km o 191 km in città. È ancora una delle plug-in più piacevoli da guidare",
       "date": "2026-09-23T15:00:00.0000000Z"
     },
     {
@@ -188,7 +212,7 @@
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Bollo auto, il Governo vuole rendere strutturale l’abolizione",
+      "title": "Il Governo torna a parlare di bollo auto",
       "url": "https://it.motor1.com/news/809268/bollo-auto-abolizione-strutturale/",
       "image": "https://cdn.motor1.com/images/mgl/L36j1Q/s3/abolizione-bollo-auto-strutturale.jpg",
       "summary": "Giorgetti conferma l’intenzione di rendere permanente l’eliminazione del bollo nei casi previsti. A ottobre arrivano nuove indicazioni",
@@ -205,18 +229,6 @@
       "image": null,
       "summary": "Perché conviene sostituire il paraolio dell'albero motore insieme alla cinghia di distribuzione? Il consiglio del meccanico per non pagare due volte i lavori The post Cinghia di distribuzione, l’errore che ti fa pagar...",
       "date": "2026-09-23T14:00:34.0000000Z"
-    },
-    {
-      "id": "insideevs:e1add3d1d915",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Tesla Semi e il più grande ordine di camion elettrici mai fatto negli USA",
-      "url": "https://insideevs.it/news/809269/tesla-semi-ordini-record-stati-uniti/",
-      "image": "https://cdn.motor1.com/images/mgl/g42Eg8/s3/the-tesla-semi-is-the-main-beneficiary-of-the-largest-single-electric-truck-order-in-the-u.s..jpg",
-      "summary": "L'ordine da record raddoppierà il numero di camion elettrici di Classe 8 negli Stati Uniti",
-      "date": "2026-09-23T14:00:00.0000000Z"
     },
     {
       "id": "motor1:8d8006f660ec",
@@ -240,6 +252,18 @@
       "url": "https://it.motor1.com/news/809215/lojack-connect-sentinel-flotte-sicurezza/",
       "image": "https://cdn.motor1.com/images/mgl/7Z1vY6/s3/lojack-sfida-i-ladri-lai-che-promette-allarmi-piu-precisi.jpg",
       "summary": "I'ecosistema LoJack integra dati telematici, intelligenza artificiale e AI Theft Detection per monitorare flotte e prevenire i furti",
+      "date": "2026-09-23T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:e1add3d1d915",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Tesla Semi e il più grande ordine di camion elettrici mai fatto negli USA",
+      "url": "https://insideevs.it/news/809269/tesla-semi-ordini-record-stati-uniti/",
+      "image": "https://cdn.motor1.com/images/mgl/g42Eg8/s3/the-tesla-semi-is-the-main-beneficiary-of-the-largest-single-electric-truck-order-in-the-u.s..jpg",
+      "summary": "L'ordine da record raddoppierà il numero di camion elettrici di Classe 8 negli Stati Uniti",
       "date": "2026-09-23T14:00:00.0000000Z"
     },
     {
@@ -291,18 +315,6 @@
       "date": "2026-09-23T12:00:05.0000000Z"
     },
     {
-      "id": "insideevs:cac22040bae7",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il giro del mondo in 80 ricariche con un camion elettrico",
-      "url": "https://insideevs.it/news/809228/mercedes-eactros-600-giro-mondo/",
-      "image": "https://cdn.motor1.com/images/mgl/qk8Mwq/s3/il-giro-del-mondo-in-80-ricariche-con-un-eactros-600.jpg",
-      "summary": "Tobias Wagner parte da Hannover con il Mercedes-Benz eActros 600 per 45.000 km e meno di 80 soste di ricarica",
-      "date": "2026-09-23T12:00:00.0000000Z"
-    },
-    {
       "id": "motor1:2642c9cfb868",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -312,6 +324,18 @@
       "url": "https://it.motor1.com/news/809209/vinfast-pickup-ibrido-range-extender/",
       "image": "https://cdn.motor1.com/images/mgl/OoZeyA/s3/vinfast-vf-wild.jpg",
       "summary": "VinFast presenta VF Wild, pick-up range extender con più di 1.000 km di autonomia complessiva e prezzo di 28.800 euro in Vietnam",
+      "date": "2026-09-23T12:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:cac22040bae7",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il giro del mondo in 80 ricariche con un camion elettrico",
+      "url": "https://insideevs.it/news/809228/mercedes-eactros-600-giro-mondo/",
+      "image": "https://cdn.motor1.com/images/mgl/qk8Mwq/s3/il-giro-del-mondo-in-80-ricariche-con-un-eactros-600.jpg",
+      "summary": "Tobias Wagner parte da Hannover con il Mercedes-Benz eActros 600 per 45.000 km e meno di 80 soste di ricarica",
       "date": "2026-09-23T12:00:00.0000000Z"
     },
     {
@@ -337,18 +361,6 @@
       "image": null,
       "summary": "Scatta la maxi-sanatoria sui vecchi tributi locali gestiti dall'Agenzia delle Entrate: si paga solo la tassa base. Tutte le regole, le delibere regionali e il modello Sicilia The post Bollo auto non pagato: scatta la ...",
       "date": "2026-09-23T11:00:44.0000000Z"
-    },
-    {
-      "id": "motor1:0ba04485049c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Opel sta per presentare una nuova station wagon",
-      "url": "https://it.motor1.com/news/809221/opel-stx-concept-salone-parigi-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/2N9LBM/s3/opel-vuole-rilanciare-le-station-wagon.jpg",
-      "summary": "Lo farà al Salone di Parigi 2026 con la Opel STX, visione di quello che sarà lo stile delle station di domani",
-      "date": "2026-09-23T10:00:00.0000000Z"
     },
     {
       "id": "insideevs:c53e516b39a0",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/407m3Z/s3/bonus-colonnine-wallbox-2026.jpg",
       "summary": "1.500 euro per le persone fisiche, 8.000 per le richieste da parte di un condominio. Si parte alle 12.00 del 22 settembre",
       "date": "2026-09-22T07:57:48.0000000Z"
-    },
-    {
-      "id": "insideevs:cc76796c01c9",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le batterie per auto si gonfiano a piena carica: è un problema?",
-      "url": "https://insideevs.it/news/808960/batterie-prismatiche-ev-deformazione-carica/",
-      "image": "https://cdn.motor1.com/images/mgl/zx09Y4/s3/le-batterie-per-auto-si-gonfiano-a-piena-carica-e-un-problema.jpg",
-      "summary": "Lo stato di carica modifica lo spessore delle celle prismatiche al litio e condiziona durata, sicurezza e progettazione",
-      "date": "2026-09-22T06:00:00.0000000Z"
     },
     {
       "id": "insideevs:14166eb6274d",
