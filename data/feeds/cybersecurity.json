@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-24T05:51:38.4199515Z",
+  "updated": "2026-09-24T10:43:06.2505462Z",
   "items": [
+    {
+      "id": "cybersecurity360:5295d4e6f649",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "ENISA Threat Landscape 2026: il rischio cyber corre lungo la supply chain",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/enisa-threat-landscape-2026-il-rischio-cyber-corre-lungo-la-supply-chain/",
+      "image": null,
+      "summary": "Il nuovo rapporto ENISA conferma che le dipendenze digitali possono amplificare gli effetti di un incidente informatico. Per i soggetti NIS2, la gestione dei fornitori deve diventare parte integrante della governance ...",
+      "date": "2026-09-24T09:42:09.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:bda1d5ed38b8",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "L’era degli hacker “Gentlemen”: perché la lotta al ransomware richiede nuove strategie difensive",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/lera-degli-hacker-gentlemen-perche-la-lotta-al-ransomware-richiede-nuove-strategie-difensive/",
+      "image": null,
+      "summary": "Secondo Kaspersky, le statistiche sul crypto-ransomware mostrano la punta dell'ice.berg. Oggi gli autori degli attacchi conducono operazioni in più fasi, in cui la distribuzione del file eseguibile di crittografia è s...",
+      "date": "2026-09-24T08:28:52.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d65691322601",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "OT Security: la resilienza industriale nell’era della convergenza con l’IT",
+      "url": "https://www.cybersecurity360.it/legal/ot-security-la-resilienza-industriale-nellera-della-convergenza-con-lit/",
+      "image": null,
+      "summary": "La crescente esposizione degli ambienti OT alle minacce cyber impone un cambio di paradigma. Non basta più adottare soluzioni tecnologiche o perseguire la sola conformità normativa: occorre sviluppare una strategia in...",
+      "date": "2026-09-24T07:52:10.0000000Z"
+    },
     {
       "id": "cybersecurity360:7e2b8b4b16a6",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Le autorità statunitensi non hanno confermato se dietro gli attacchi vi sia l'Iran oppure altri attori statali, tra cui vengono citati come possibili Russia e Cina. Ma gli attacchi informatici alle navi Usa, mentre tr...",
       "date": "2026-09-23T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3ddfd9507743",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il dato tra GDPR e AI Act: filiera, lineage e accountability",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/il-dato-tra-gdpr-e-ai-act-filiera-lineage-e-accountability/",
-      "image": null,
-      "summary": "Dalla raccolta al modello, i dati attraversano fonti, sistemi, trasformazioni e riusi. GDPR e AI Act richiedono una governance capace non solo di mappare i trattamenti, ma di ricostruire e dimostrare la storia del dat...",
-      "date": "2026-09-23T07:21:16.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:756cc4a99e13",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Automazione nella cyber security: quando non fidarsi della macchina diventa un rischio",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/automazione-nella-cyber-security-quando-non-fidarsi-della-macchina-diventa-un-rischio/",
-      "image": null,
-      "summary": "Un solo errore dell’algoritmo può bastare per spingere gli analisti a ricontrollare ogni decisione automatica. Ma la sfiducia ha un costo: rallenta l’incident response e può offrire agli attaccanti tempo prezioso. Per...",
-      "date": "2026-09-22T15:16:28.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:db7319f34e4a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Supervisione indipendente e sicurezza dei sistemi di AI: cosa cambia con l’ordine esecutivo della California",
-      "url": "https://www.cybersecurity360.it/legal/supervisione-indipendente-e-sicurezza-dei-sistemi-di-ai-cosa-cambia-con-lordine-esecutivo-della-california/",
-      "image": null,
-      "summary": "Con ponderazione ma con urgenza, il 18 settembre 2026 il governatore della California Gavin Newsom ha firmato l’ordine esecutivo N-9-26 dedicato ai modelli di frontiera. Ecco cosa comporta in termini di supervisione i...",
-      "date": "2026-09-22T14:32:10.0000000Z"
     }
   ]
 }

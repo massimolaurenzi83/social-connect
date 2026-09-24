@@ -1,7 +1,68 @@
 {
   "category": "scienza",
-  "updated": "2026-09-24T05:51:38.4172267Z",
+  "updated": "2026-09-24T10:43:06.2583695Z",
   "items": [
+    {
+      "id": "media-inaf:355330602123",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "L’Inaf a Palermo per il festival Logos",
+      "url": "https://www.media.inaf.it/2026/09/24/inaf-festival-logos/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/cover-logos-150x150.jpg",
+      "summary": "Dal giovedì 24 a domenica 27 settembre, a Villa Filippina, nel cuore del capoluogo siciliano, un viaggio dalla storia astronomica della città alla ricerca contemporanea, tra esopianeti, neutrini, raggi X e gamma, astr...",
+      "date": "2026-09-24T08:13:15.0000000Z"
+    },
+    {
+      "id": "focus:91942ae11ee9",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Tumore al polmone: la genetica del rischio",
+      "url": "https://www.focus.it/scienza/salute/tumore-del-polmone-una-rara-mutazione-genetica-aumenta-il-rischio-in-chi-non-ha-mai-fumato",
+      "image": "https://www.focus.it/images/2026/09/16/tumore-del-polmone_w630.jpg?imbypass=true",
+      "summary": "Un passo avanti nella conoscenza dei fattori ereditari che facilitano la comparsa del tumore al polmone in chi non ha una storia di abitudine al fumo.",
+      "date": "2026-09-24T07:00:00.0000000Z"
+    },
+    {
+      "id": "focus:842dfa9a7cfb",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Dov’è la Menorah?",
+      "url": "https://www.focus.it/cultura/storia/dov-e-la-menorah-dal-saccheggio-di-gerusalemme-all-enigma-del-vaticano",
+      "image": "https://www.focus.it/images/2026/09/21/menorah--sacro-candelabro_w630.jpg?imbypass=true",
+      "summary": "Portata a Roma dai legionari o mai uscita dalla Terrasanta? Dalle teorie sul sacco dei Vandali all'ipotesi del nascondiglio segreto a San Pietro: ecco cosa sappiamo sulla fine della Menorah, il sacro candelabro d'oro ...",
+      "date": "2026-09-24T06:00:00.0000000Z"
+    },
+    {
+      "id": "geopop:DEaTs0Ws4ak",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Trovare un donatore di midollo compatibile è rarissimo, ma salva vite.",
+      "url": "https://www.youtube.com/watch?v=DEaTs0Ws4ak",
+      "image": "https://i.ytimg.com/vi/DEaTs0Ws4ak/hqdefault.jpg",
+      "summary": "",
+      "videoId": "DEaTs0Ws4ak",
+      "date": "2026-09-24T05:00:11.0000000Z"
+    },
+    {
+      "id": "focus:bc7b8233d5aa",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Cos’è la Pompei delle Ande",
+      "url": "https://www.focus.it/ambiente/natura/cos-e-la-pompei-delle-ande-e-perche-ci-parla-anche-di-clima",
+      "image": "https://www.focus.it/images/2026/09/21/ignimbrite-di-cardones_w630.jpeg?imbypass=true",
+      "summary": "Un'eruzione vulcanica di 22 milioni di anni fa ha congelato un pezzo di Ande cilene sotto uno strato di ignimbrite grande come il Molise.",
+      "date": "2026-09-24T02:00:00.0000000Z"
+    },
     {
       "id": "focus:205bad4d1339",
       "sourceId": "focus",
@@ -13,6 +74,32 @@
       "image": "https://www.focus.it/images/2026/09/23/libri_w630.jpeg?imbypass=true",
       "summary": "Per 7 professori universitari su 10 gli studenti arrivano agli esami meno preparati. Il motivo? Studiano su slide e riassunti, e i manuali restano chiusi.",
       "date": "2026-09-23T21:00:00.0000000Z"
+    },
+    {
+      "id": "curiuss:G6cP4_VrcDM",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "La deriva - 10 Ottobre - Bologna",
+      "url": "https://www.youtube.com/watch?v=G6cP4_VrcDM",
+      "image": "https://i.ytimg.com/vi/G6cP4_VrcDM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "G6cP4_VrcDM",
+      "date": "2026-09-23T18:04:06.0000000Z"
+    },
+    {
+      "id": "geopop:nK_WzU9sQOM",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Polpa di pomodoro: il lavoro che c'è dietro",
+      "url": "https://www.youtube.com/watch?v=nK_WzU9sQOM",
+      "image": "https://i.ytimg.com/vi/nK_WzU9sQOM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "nK_WzU9sQOM",
+      "date": "2026-09-23T16:30:16.0000000Z"
     },
     {
       "id": "media-inaf:28a3fe44d886",
@@ -111,6 +198,19 @@
       "date": "2026-09-23T06:00:00.0000000Z"
     },
     {
+      "id": "geopop:4jkmfE84WYw",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Perché l'autunno quest'anno inizia il 23 settembre e non il 21?",
+      "url": "https://www.youtube.com/watch?v=4jkmfE84WYw",
+      "image": "https://i.ytimg.com/vi/4jkmfE84WYw/hqdefault.jpg",
+      "summary": "",
+      "videoId": "4jkmfE84WYw",
+      "date": "2026-09-23T05:00:27.0000000Z"
+    },
+    {
       "id": "focus:d534f8a8cc81",
       "sourceId": "focus",
       "source": "Focus",
@@ -121,18 +221,6 @@
       "image": "https://www.focus.it/images/2026/09/22/esopianeta-segnale_w630.jpg?imbypass=true",
       "summary": "I ricercatori sono riusciti a isolare il segnale giunto dall'esopianeta Beta Pictoris b: a generare gli impulsi però non è stata una civiltà extraterrestre, ma le sue spettacolari aurore e un campo magnetico record.",
       "date": "2026-09-23T02:00:00.0000000Z"
-    },
-    {
-      "id": "focus:6a9b9738b2bc",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Il ritorno del dragone",
-      "url": "https://www.focus.it/mondo-focus///240",
-      "image": "https://www.focus.it/images/2026/09/22/focus-storia-cover-240-orig.jpg?imbypass=true",
-      "summary": "",
-      "date": "2026-09-22T20:00:00.0000000Z"
     },
     {
       "id": "focus:685efe8e1eaa",
@@ -147,6 +235,31 @@
       "date": "2026-09-22T20:00:00.0000000Z"
     },
     {
+      "id": "focus:6a9b9738b2bc",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Il ritorno del dragone",
+      "url": "https://www.focus.it/mondo-focus///240",
+      "image": "https://www.focus.it/images/2026/09/22/focus-storia-cover-240-orig.jpg?imbypass=true",
+      "summary": "",
+      "date": "2026-09-22T20:00:00.0000000Z"
+    },
+    {
+      "id": "geopop:_kuPzNXF91U",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "L’AI ci ucciderà tutti? Cosa vuol dire e perché, il vero pericolo, è l’uomo",
+      "url": "https://www.youtube.com/watch?v=_kuPzNXF91U",
+      "image": "https://i.ytimg.com/vi/_kuPzNXF91U/hqdefault.jpg",
+      "summary": "",
+      "videoId": "_kuPzNXF91U",
+      "date": "2026-09-22T16:30:31.0000000Z"
+    },
+    {
       "id": "media-inaf:c83a490d50f3",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -157,30 +270,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/Juice_flies_past_Earth-150x150.png",
       "summary": "Lunedì 28 settembre, circa tre anni dopo aver lasciato il nostro pianeta, la missione dell’Agenzia spaziale europea Juice (Jupiter Icy Moons Explorer) farà ritorno nei pressi della Terra per una manovra di assistenza ...",
       "date": "2026-09-22T16:02:14.0000000Z"
-    },
-    {
-      "id": "focus:5e031e408d77",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Codice sconto Norauto: offerte, codici esclusivi e promozioni di inizio estate!",
-      "url": "https://www.focus.it/comportamento/economia/codice-sconto-norauto-offerte-codici-esclusivi-e-promozioni",
-      "image": "https://www.focus.it/images/2025/10/09/codice-sconto-norauto_w630.jpg?imbypass=true",
-      "summary": "Trova il codice sconto Norauto più adatto alle tue esigenze nella selezione di Focus.it. La lista si aggiorna di continuo.",
-      "date": "2026-09-22T15:00:00.0000000Z"
-    },
-    {
-      "id": "focus:67454a9099e1",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Coupon Unieuro: risparmia su tecnologia, elettrodomestici e tanto altro!",
-      "url": "https://www.focus.it/focus-offerte/coupon-unieuro",
-      "image": "https://www.focus.it/images/2025/05/19/robot-da-cucina_w630.jpg?imbypass=true",
-      "summary": "Le migliori occasioni di settembre 2026 tra i coupon Unieuro, per risparmiare su tv, smartphone ed elettrodomestici.",
-      "date": "2026-09-22T15:00:00.0000000Z"
     },
     {
       "id": "media-inaf:283e07c39212",
@@ -195,18 +284,6 @@
       "date": "2026-09-22T14:02:03.0000000Z"
     },
     {
-      "id": "focus:e0f26a8b995a",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Qumran: la mappa del tesoro che nessuno sa leggere",
-      "url": "https://www.focus.it/cultura/storia/il-tesoro-perduto-di-qumran-la-mappa-incisa-nel-rame-che-nessuno-e-mai-riuscito-a-trovare",
-      "image": "https://www.focus.it/images/2026/09/22/rotoli-mar-morto-2_w630.jpg?imbypass=true",
-      "summary": "Trovato a Qumran (Cisgiordania) nel 1952, il manoscritto inciso nel rame \"3Q15\" elenca 64 nascondigli segreti ricchi d'oro e d'argento dell'antica Giudea. Come decifrarlo?",
-      "date": "2026-09-22T14:00:00.0000000Z"
-    },
-    {
       "id": "media-inaf:566f180fbd82",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -217,6 +294,32 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/TNG-Crediti-INAF_R-1-150x150.jpeg",
       "summary": "Inaugurato il 29 giugno 1996, il Telescopio nazionale Galileo – il principale telescopio ottico della comunità astronomica italiana – celebra a La Palma (Isole Canarie) dal 22 al 24 settembre il suo trentennale. Rober...",
       "date": "2026-09-22T11:33:26.0000000Z"
+    },
+    {
+      "id": "curiuss:odiBKK__wwM",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "La forma dell'Atomo - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=odiBKK__wwM",
+      "image": "https://i.ytimg.com/vi/odiBKK__wwM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "odiBKK__wwM",
+      "date": "2026-09-21T18:30:05.0000000Z"
+    },
+    {
+      "id": "geopop:9578Qxaclp0",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Gas Nervino a Tokyo, la ricostruzione 3D dell’attentato alla metropolitana del 1995",
+      "url": "https://www.youtube.com/watch?v=9578Qxaclp0",
+      "image": "https://i.ytimg.com/vi/9578Qxaclp0/hqdefault.jpg",
+      "summary": "",
+      "videoId": "9578Qxaclp0",
+      "date": "2026-09-21T16:30:35.0000000Z"
     },
     {
       "id": "media-inaf:c469316c4e28",
@@ -255,6 +358,19 @@
       "date": "2026-09-21T08:05:44.0000000Z"
     },
     {
+      "id": "geopop:6DJPh4ybU0E",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Perché prima di decolli e atterraggi viene chiesto di chiudere i tavolini?È per la nostra sicurezza.",
+      "url": "https://www.youtube.com/watch?v=6DJPh4ybU0E",
+      "image": "https://i.ytimg.com/vi/6DJPh4ybU0E/hqdefault.jpg",
+      "summary": "",
+      "videoId": "6DJPh4ybU0E",
+      "date": "2026-09-21T05:00:02.0000000Z"
+    },
+    {
       "id": "media-inaf:067e1699cace",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -265,6 +381,45 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/cover-55-cancri-e-150x150.jpg",
       "summary": "Recenti osservazioni del Jwst hanno messo in dubbio il modello “cosmic shoreline”, che ci dice fino a che distanza dalla propria stella possono orbitare i pianeti rocciosi senza perdere l’atmosfera. Nuovi dati hanno r...",
       "date": "2026-09-18T12:46:45.0000000Z"
+    },
+    {
+      "id": "geopop:OG2C8oJhp-k",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Come fare a lanciare la propria attività quando si è giovani e non si hanno risorse? Guarda qui",
+      "url": "https://www.youtube.com/watch?v=OG2C8oJhp-k",
+      "image": "https://i.ytimg.com/vi/OG2C8oJhp-k/hqdefault.jpg",
+      "summary": "",
+      "videoId": "OG2C8oJhp-k",
+      "date": "2026-09-18T11:00:36.0000000Z"
+    },
+    {
+      "id": "geopop:gfpYUsuRvOo",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "No, la Torre di Pisa non è la più inclinata del mondo.",
+      "url": "https://www.youtube.com/watch?v=gfpYUsuRvOo",
+      "image": "https://i.ytimg.com/vi/gfpYUsuRvOo/hqdefault.jpg",
+      "summary": "",
+      "videoId": "gfpYUsuRvOo",
+      "date": "2026-09-18T05:00:26.0000000Z"
+    },
+    {
+      "id": "geopop:QWHAe3LYtt0",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Perché gli adolescenti sono ribelli - i motivi biochimici",
+      "url": "https://www.youtube.com/watch?v=QWHAe3LYtt0",
+      "image": "https://i.ytimg.com/vi/QWHAe3LYtt0/hqdefault.jpg",
+      "summary": "",
+      "videoId": "QWHAe3LYtt0",
+      "date": "2026-09-17T16:30:07.0000000Z"
     },
     {
       "id": "media-inaf:897feeec767a",
@@ -279,16 +434,173 @@
       "date": "2026-09-17T13:27:57.0000000Z"
     },
     {
-      "id": "media-inaf:5a418678375c",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
+      "id": "geopop:dtikahfhEzY",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
       "category": "scienza",
-      "title": "Nane brune da record nel vivaio stellare di Webb",
-      "url": "https://www.media.inaf.it/2026/09/17/jwst-ic-348/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/STScI-01M2K51AAZQFYV9R5G0K19SXTN-150x150.jpeg",
-      "summary": "Il telescopio spaziale James Webb torna a osservare Ic 348, una regione di formazione stellare a circa mille anni luce da noi, nella costellazione di Perseo. Tra protostelle, getti e nubi di gas, emergono anche le nan...",
-      "date": "2026-09-17T12:16:15.0000000Z"
+      "title": "L’AI ci ha battuti? Come ha risolto (forse) un problema da un milione di dollari",
+      "url": "https://www.youtube.com/watch?v=dtikahfhEzY",
+      "image": "https://i.ytimg.com/vi/dtikahfhEzY/hqdefault.jpg",
+      "summary": "",
+      "videoId": "dtikahfhEzY",
+      "date": "2026-09-16T16:31:09.0000000Z"
+    },
+    {
+      "id": "geopop:6jhGdT4QK7U",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Avete mai notato la telecamera sul parabrezza? Ecco a cosa serve e come farla funzionare bene",
+      "url": "https://www.youtube.com/watch?v=6jhGdT4QK7U",
+      "image": "https://i.ytimg.com/vi/6jhGdT4QK7U/hqdefault.jpg",
+      "summary": "",
+      "videoId": "6jhGdT4QK7U",
+      "date": "2026-09-16T11:00:19.0000000Z"
+    },
+    {
+      "id": "geopop:TGipVy-Zrms",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "4 persone con lesione midollare completa tornano in piedi e camminano grazie alle neurostimolazione",
+      "url": "https://www.youtube.com/watch?v=TGipVy-Zrms",
+      "image": "https://i.ytimg.com/vi/TGipVy-Zrms/hqdefault.jpg",
+      "summary": "",
+      "videoId": "TGipVy-Zrms",
+      "date": "2026-09-16T05:00:26.0000000Z"
+    },
+    {
+      "id": "curiuss:gb1zStv8DVE",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Cosa ci Aspetta - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=gb1zStv8DVE",
+      "image": "https://i.ytimg.com/vi/gb1zStv8DVE/hqdefault.jpg",
+      "summary": "",
+      "videoId": "gb1zStv8DVE",
+      "date": "2026-09-09T18:30:01.0000000Z"
+    },
+    {
+      "id": "curiuss:xcCTQ5260HQ",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Il favoloso mondo di Vincent (Serie Completa) - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=xcCTQ5260HQ",
+      "image": "https://i.ytimg.com/vi/xcCTQ5260HQ/hqdefault.jpg",
+      "summary": "",
+      "videoId": "xcCTQ5260HQ",
+      "date": "2026-07-29T18:00:32.0000000Z"
+    },
+    {
+      "id": "curiuss:TxlLkRJFYMM",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "10 Aneddoti Parigini - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=TxlLkRJFYMM",
+      "image": "https://i.ytimg.com/vi/TxlLkRJFYMM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "TxlLkRJFYMM",
+      "date": "2026-07-14T16:51:55.0000000Z"
+    },
+    {
+      "id": "curiuss:TUtWtHsibU0",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Entropia (serie completa) - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=TUtWtHsibU0",
+      "image": "https://i.ytimg.com/vi/TUtWtHsibU0/hqdefault.jpg",
+      "summary": "",
+      "videoId": "TUtWtHsibU0",
+      "date": "2026-06-22T18:00:15.0000000Z"
+    },
+    {
+      "id": "curiuss:X9SoJKTyXs0",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "La donna che spezzò l'atomo - Geni Impolverati#08 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=X9SoJKTyXs0",
+      "image": "https://i.ytimg.com/vi/X9SoJKTyXs0/hqdefault.jpg",
+      "summary": "",
+      "videoId": "X9SoJKTyXs0",
+      "date": "2026-06-08T18:26:16.0000000Z"
+    },
+    {
+      "id": "curiuss:aDmbZzB0zI4",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Il Processo Haber - Bosch - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=aDmbZzB0zI4",
+      "image": "https://i.ytimg.com/vi/aDmbZzB0zI4/hqdefault.jpg",
+      "summary": "",
+      "videoId": "aDmbZzB0zI4",
+      "date": "2026-05-20T18:00:00.0000000Z"
+    },
+    {
+      "id": "curiuss:WhZs-4GwfsE",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Genio o Mostro? - Geni Impolverati#07 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=WhZs-4GwfsE",
+      "image": "https://i.ytimg.com/vi/WhZs-4GwfsE/hqdefault.jpg",
+      "summary": "",
+      "videoId": "WhZs-4GwfsE",
+      "date": "2026-05-04T18:00:27.0000000Z"
+    },
+    {
+      "id": "curiuss:DXAmnjHn-Hw",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Parigi Matematica - Paris#03 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=DXAmnjHn-Hw",
+      "image": "https://i.ytimg.com/vi/DXAmnjHn-Hw/hqdefault.jpg",
+      "summary": "",
+      "videoId": "DXAmnjHn-Hw",
+      "date": "2026-04-20T18:00:12.0000000Z"
+    },
+    {
+      "id": "curiuss:h4hq5okz5tQ",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Parigi Astronomica - Paris#02 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=h4hq5okz5tQ",
+      "image": "https://i.ytimg.com/vi/h4hq5okz5tQ/hqdefault.jpg",
+      "summary": "",
+      "videoId": "h4hq5okz5tQ",
+      "date": "2026-04-07T18:34:25.0000000Z"
+    },
+    {
+      "id": "curiuss:22_zSzhsjcw",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Parigi Chimica - Paris#01 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=22_zSzhsjcw",
+      "image": "https://i.ytimg.com/vi/22_zSzhsjcw/hqdefault.jpg",
+      "summary": "",
+      "videoId": "22_zSzhsjcw",
+      "date": "2026-03-25T06:45:35.0000000Z"
     }
   ]
 }
