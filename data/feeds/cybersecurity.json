@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-24T15:31:45.9242869Z",
+  "updated": "2026-09-24T19:29:22.1428990Z",
   "items": [
+    {
+      "id": "cybersecurity360:2941d5782c3e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Caso Revolut: girano documenti di ministeri, quanto è grave",
+      "url": "https://www.cybersecurity360.it/news/caso-revolut-girano-documenti-di-ministeri-quanto-e-grave/",
+      "image": null,
+      "summary": "Il sedicente hacker «IAmNotAVillain» ha pubblicato sample ovvero esempi contenenti informazioni derivanti dal ministero Interno e Giustizia. Ecco cosa mostrano le evidenze L'articolo Caso Revolut: girano documenti di ...",
+      "date": "2026-09-24T17:05:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:175d98eaafef",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "ShinyHunters sostiene di essere riuscito a violare l'infrastruttura dell'FBI e di aver sottratto una grande quantità di informazioni relative ad agenti, dipendenti ed ex dipendenti, oltre a persone che avrebbero prese...",
       "date": "2026-09-23T14:54:45.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:da6c58fa18a4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Claude Opus 5.5 spinge l’AI nella cyber: più capacità, più controlli",
-      "url": "https://www.cybersecurity360.it/news/claude-opus-5-5-spinge-lai-nella-cyber-piu-capacita-piu-controlli/",
-      "image": null,
-      "summary": "Claude Opus 5.5 avvicina le capacità cyber dei modelli più avanzati a una platea molto più ampia e per questo Anthropic ha introdotto nuovi safeguard, routing delle richieste sensibili, sandbox e accessi verificati: p...",
-      "date": "2026-09-23T14:30:33.0000000Z"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "category": "arte",
-  "updated": "2026-09-24T15:31:45.8533987Z",
+  "updated": "2026-09-24T19:29:22.1329242Z",
   "items": [
+    {
+      "id": "elledecor:dd78a234a833",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Un decennio fa era il giardino del Circolo Degli Artisti a Roma. Oggi è Spaziotempo",
+      "url": "https://www.elledecor.com/it/lifestyle/a73830441/spaziotempo-roma-ex-circolo-degli-artisti/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/09430296-4a72-4ffa-899b-498ddcfc92ca.jpg",
+      "summary": "Un progetto culturale multidisciplinare che unisce arte, musica, cinema e comicità in uno spazio restituito alla Capitale",
+      "date": "2026-09-24T18:30:00.0000000Z"
+    },
+    {
+      "id": "artribune:4970ca751402",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "A Prato c’è una mostra gestita a puntate: è già cambiata quattro volte. La recensione",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/09/mostra-promemoria-personale-prato/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/fabrizio-prevedello-1749-2014-courtesy-cardelli-fontana-e-z2o-sara-zanin-1.png",
+      "summary": "Si tiene a Villa Rospigliosi fino al 30 settembre 2026 e quello in corso è l’ultimo dei quattro atti pensati da associazione ChorAsis. Le opere dei 26 artisti si sono riconfigurate nel corso del tempo, dando sempre nu...",
+      "date": "2026-09-24T17:00:00.0000000Z"
+    },
     {
       "id": "artribune:0216bb409778",
       "sourceId": "artribune",
@@ -39,18 +63,6 @@
       "date": "2026-09-24T14:30:00.0000000Z"
     },
     {
-      "id": "artribune:1a7c6a323e99",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "A Civita di Bagnoregio arriva un nuovo festival di arte contemporanea (il curatore ce lo racconta)",
-      "url": "https://www.artribune.com/arti-visive/2026/09/eidos-fabio-sindici-civita-di-bagnoregio/",
-      "image": "https://www.artribune.com/wp-content/uploads/2021/01/Davide-Centofanti-una-panoramica-di-Civita-2020-IG-@davide_centofanti.jpg",
-      "summary": "Si intitola “Eidos” e nasce dall’idea di contribuire a riconfigurare la narrazione del borgo “da città che muore” a “città fenice” attraverso l’arte contemporanea. Parola a Fabio Sindici, il curatore del progetto che ...",
-      "date": "2026-09-24T14:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:13d69b24add7",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -63,16 +75,16 @@
       "date": "2026-09-24T14:00:00.0000000Z"
     },
     {
-      "id": "artribune:d23e948d1398",
+      "id": "artribune:1a7c6a323e99",
       "sourceId": "artribune",
       "source": "Artribune",
       "platform": "rss",
       "category": "arte",
-      "title": "Dopo importanti lavori riapre il Museo Archeologico Nazionale di Civitavecchia. Il porto di Traiano e altre storie",
-      "url": "https://www.artribune.com/arti-visive/archeologia-arte-antica/2026/09/museo-archeologico-nazionale-di-civitavecchia-riapertura-nuovo-allestimento/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/dsc8102-copia-scaled.jpg",
-      "summary": "Dopo un importante intervento di riqualificazione e riallestimento, del valore di 2 milioni di euro, il museo nato nel 1970 dove Traiano fondò il porto di Roma riapre raddoppiando gli spazi espositivi, e con approccio...",
-      "date": "2026-09-24T13:00:00.0000000Z"
+      "title": "A Civita di Bagnoregio arriva un nuovo festival di arte contemporanea (il curatore ce lo racconta)",
+      "url": "https://www.artribune.com/arti-visive/2026/09/eidos-fabio-sindici-civita-di-bagnoregio/",
+      "image": "https://www.artribune.com/wp-content/uploads/2021/01/Davide-Centofanti-una-panoramica-di-Civita-2020-IG-@davide_centofanti.jpg",
+      "summary": "Si intitola “Eidos” e nasce dall’idea di contribuire a riconfigurare la narrazione del borgo “da città che muore” a “città fenice” attraverso l’arte contemporanea. Parola a Fabio Sindici, il curatore del progetto che ...",
+      "date": "2026-09-24T14:00:00.0000000Z"
     },
     {
       "id": "elledecor:4a81b15c9c41",
@@ -87,16 +99,16 @@
       "date": "2026-09-24T13:00:00.0000000Z"
     },
     {
-      "id": "artribune:2070c22e4f1a",
+      "id": "artribune:d23e948d1398",
       "sourceId": "artribune",
       "source": "Artribune",
       "platform": "rss",
       "category": "arte",
-      "title": "L’artista Riccardo Benassi mette Internet in camera ardente a Torino (cosa stiamo davvero seppellendo?)",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/09/riccardo-benassi-torino/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/riccardo-benassi-le-ultime-fabbriche-rimaste-in-lontananza-intonano-gospel-ripetitivi-2.jpg",
-      "summary": "Alla Fondazione Merz, Benassi ha portato dentro FESTA di Xing una “camera ardente per Internet”. Ma è davvero Internet ciò da cui ci stiamo congedando? Ne abbiamo parlato con Silvia Fanti e Daniele Gasparinetti, diret...",
-      "date": "2026-09-24T12:00:00.0000000Z"
+      "title": "Dopo importanti lavori riapre il Museo Archeologico Nazionale di Civitavecchia. Il porto di Traiano e altre storie",
+      "url": "https://www.artribune.com/arti-visive/archeologia-arte-antica/2026/09/museo-archeologico-nazionale-di-civitavecchia-riapertura-nuovo-allestimento/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/dsc8102-copia-scaled.jpg",
+      "summary": "Dopo un importante intervento di riqualificazione e riallestimento, del valore di 2 milioni di euro, il museo nato nel 1970 dove Traiano fondò il porto di Roma riapre raddoppiando gli spazi espositivi, e con approccio...",
+      "date": "2026-09-24T13:00:00.0000000Z"
     },
     {
       "id": "elledecor:4fdea7decae1",
@@ -108,6 +120,18 @@
       "url": "https://www.elledecor.com/it/viaggi/a73807081/aziende-agricole-e-agriturismi-da-scoprire/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/5fa36c45-16fd-4db3-af3f-5d06c9124ee3.jpg",
       "summary": "Dal Gargano alle Canarie fino alla Norvegia, cinque indirizzi recuperano fattorie e nuclei rurali mettendo orti, vigne, allevamenti e paesaggio al centro dell’esperienza",
+      "date": "2026-09-24T12:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:2070c22e4f1a",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "L’artista Riccardo Benassi mette Internet in camera ardente a Torino (cosa stiamo davvero seppellendo?)",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/09/riccardo-benassi-torino/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/09/riccardo-benassi-le-ultime-fabbriche-rimaste-in-lontananza-intonano-gospel-ripetitivi-2.jpg",
+      "summary": "Alla Fondazione Merz, Benassi ha portato dentro FESTA di Xing una “camera ardente per Internet”. Ma è davvero Internet ciò da cui ci stiamo congedando? Ne abbiamo parlato con Silvia Fanti e Daniele Gasparinetti, diret...",
       "date": "2026-09-24T12:00:00.0000000Z"
     },
     {
@@ -135,18 +159,6 @@
       "date": "2026-09-24T11:00:00.0000000Z"
     },
     {
-      "id": "elledecor:5ef67e5762dd",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Le vetrine di Biffi a Milano diventano installazioni scenografiche per Hearst Italia",
-      "url": "https://www.elledecor.com/it/lifestyle/a73857644/le-vetrine-di-biffi-a-milano-diventano-installazioni-scenografiche-per-hearst-italia/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/61122ffe-e5e8-410a-96b7-e4ab55b3a9cc.jpg",
-      "summary": "Biffi Boutiques e Hearst Italia, con la collaborazione di NABA, presentano State of Mind - The September Issue : nonché quarto appuntamento di un lavoro che lega l'editoria alla moda e viceversa",
-      "date": "2026-09-24T10:00:00.0000000Z"
-    },
-    {
       "id": "artribune:b1e212066f7b",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -156,6 +168,18 @@
       "url": "https://www.artribune.com/arti-visive/2026/09/biennale-dello-stretto-2026-riflessioni/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/09/vista-sullo-stretto-di-messina-ph-antonio-spadaro.png",
       "summary": "Tra Reggio Calabria e Messina il paesaggio non si lascia fissare in una veduta: si avvista, e si ascolta. Dal dialogo “Vista Stretto”, alla terza edizione della Biennale dedicata alle Mutazioni e in corso fino al 13 d...",
+      "date": "2026-09-24T10:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:5ef67e5762dd",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Le vetrine di Biffi a Milano diventano installazioni scenografiche per Hearst Italia",
+      "url": "https://www.elledecor.com/it/lifestyle/a73857644/le-vetrine-di-biffi-a-milano-diventano-installazioni-scenografiche-per-hearst-italia/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/61122ffe-e5e8-410a-96b7-e4ab55b3a9cc.jpg",
+      "summary": "Biffi Boutiques e Hearst Italia, con la collaborazione di NABA, presentano State of Mind - The September Issue : nonché quarto appuntamento di un lavoro che lega l'editoria alla moda e viceversa",
       "date": "2026-09-24T10:00:00.0000000Z"
     },
     {
@@ -193,18 +217,6 @@
       "image": "https://www.artribune.com/wp-content/uploads/2026/09/5-alba-rohrwacherksenia-borzak-e-guido-caprino-dscf7314-scaled.jpg",
       "summary": "Dopo l’esordio nella sezione Orizzonti alla Mostra del Cinema di Venezia, arriva al cinema dal 24 settembre “Una storia”: individuale, di coppia e collettiva, su ciò che resta dopo la genitorialità, il lavoro, i ritua...",
       "date": "2026-09-24T08:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:92a3d6e323fd",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Quattro giorni di arte contemporanea. Torna il festival Divago nel centro di Genova",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/09/divago-festival-genova-quarta-edizione-via-del-campo/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/09/screenshot-2026-09-24-alle-121631.png",
-      "summary": "Dal 24 al 27 settembre 2026 torna a Genova Divago Festival, giunto alla quarta edizione. Tra Via del Campo e altri luoghi del centro storico, i progetti di Gaia Michela Russo e Vitalii Fedotov incontrano il quartiere ...",
-      "date": "2026-09-24T07:00:00.0000000Z"
     },
     {
       "id": "elledecor:2c179e75eba9",
@@ -253,18 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/7febd51e-1d95-4371-b378-bdf75c6f4300.jpg",
       "summary": "Oltre la soglia di casa dell'imprenditore milanese, un dromos avvia la passeggiata domestica alla scoperta di un paesaggio fatto di gusto e cultura",
       "date": "2026-09-23T18:30:00.0000000Z"
-    },
-    {
-      "id": "elledecor:006213981120",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Questo cottage su un’isola privata reinventa in chiave contemporanea il fascino delle case sul lago",
-      "url": "https://www.elledecor.com/it/case/a73818903/cottage-bellissimo-su-isola-privata/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/e80162db-6be8-485c-93fe-93ce4cf17736.jpg",
-      "summary": "Raggiungibile solo in barca, il progetto di Gil Schafer rilegge la tradizione dei cottage americani attraverso interni dal carattere vissuto e una relazione continua con l’acqua",
-      "date": "2026-09-23T14:30:00.0000000Z"
     }
   ]
 }
