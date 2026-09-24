@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-09-24T19:29:22.0829805Z",
+  "updated": "2026-09-24T22:42:11.8442162Z",
   "items": [
+    {
+      "id": "vaielettrico:6f4d18a65207",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il nucleare all’italiana corre sulla carta. Ma il 2033 è dietro l’angolo",
+      "url": "https://www.vaielettrico.it/il-nucleare-allitaliana-corre-sulla-carta-ma-il-2033-e-dietro-langolo/",
+      "image": null,
+      "summary": "Il Senato ha dato il via libera al disegno di legge delega sul nuovo nucleare all’italiana, mentre Newcleo… L'articolo Il nucleare all’italiana corre sulla carta. Ma il 2033 è dietro l’angolo proviene da Vaielettrico .",
+      "date": "2026-09-24T21:36:52.0000000Z"
+    },
     {
       "id": "hdmotori:e6abf98d67f9",
       "sourceId": "hdmotori",
@@ -44,7 +56,7 @@
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Il nuovo allestimento per tutte le Alfa Romeo",
+      "title": "Alfa Romeo ha novità per tutta la gamma",
       "url": "https://it.motor1.com/news/809417/alfa-romeo-edizione-luna-rossa-2026/",
       "image": "https://cdn.motor1.com/images/mgl/Rqb60w/s3/alfa-romeo-edizione-luna-rossa.jpg",
       "summary": "Nel contesto dell’America’s Cup 2027 la serie speciale Alfa Romeo Luna Rossa arriva in Italia con quattro modelli e listini da 37.800 euro",
@@ -159,18 +171,6 @@
       "date": "2026-09-24T15:00:49.0000000Z"
     },
     {
-      "id": "motor1:70eebb4bd9ca",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le auto più sostenibili del 2026: c'è posto anche per quelle a benzina",
-      "url": "https://it.motor1.com/news/809427/green-ncap-2026-risultati-auto-efficienti/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z1vxq/s3/renault-clio-i-test-green-ncap-di-settembre-2026.jpg",
-      "summary": "La Renault Clio TCe 115 ottiene 3,5 stelle, mentre la Kia EV4 raggiunge 5 stelle con il 90%. Ecco tutti i risultati dei nuovi test",
-      "date": "2026-09-24T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:3b9f8df17a8f",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -180,6 +180,18 @@
       "url": "https://insideevs.it/news/809409/auto-elettriche-vendite-europa-agosto-2026/",
       "image": "https://cdn.motor1.com/images/mgl/KbMoqN/s3/2026-tesla-model-y-standard.jpg",
       "summary": "Nei primi 8 mesi del 2026 le auto elettriche hanno venduto quanto le benzina, superandole ad agosto",
+      "date": "2026-09-24T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:70eebb4bd9ca",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le auto più sostenibili del 2026: c'è posto anche per quelle a benzina",
+      "url": "https://it.motor1.com/news/809427/green-ncap-2026-risultati-auto-efficienti/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z1vxq/s3/renault-clio-i-test-green-ncap-di-settembre-2026.jpg",
+      "summary": "La Renault Clio TCe 115 ottiene 3,5 stelle, mentre la Kia EV4 raggiunge 5 stelle con il 90%. Ecco tutti i risultati dei nuovi test",
       "date": "2026-09-24T15:00:00.0000000Z"
     },
     {
@@ -207,18 +219,6 @@
       "date": "2026-09-24T14:00:54.0000000Z"
     },
     {
-      "id": "motor1:0d385059ae24",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questo nuovo concept Nissan è in puro stile tuner Anni '90",
-      "url": "https://it.motor1.com/news/809378/nissan-concept-tuner-anni-90/",
-      "image": "https://cdn.motor1.com/images/mgl/0epNBp/s3/nissan-z-kaze-concept.jpg",
-      "summary": "Il concept Nissan Z Kaze combina tetto rimovibile, cerchi NISMO vintage e upgrade GReddy in una sportiva dal forte sapore nostalgico.",
-      "date": "2026-09-24T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:de516976434f",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -228,6 +228,18 @@
       "url": "https://insideevs.it/news/809433/mercedes-ricarica-orari-convenienti-mb-charge/",
       "image": "https://cdn.motor1.com/images/mgl/AkOmoW/s3/mbm-smart-charging-mercedes.jpg",
       "summary": "Due nuovi servizi MB.CHARGE spostano automaticamente la ricarica nelle fasce orarie più convenienti, uno include anche la tariffa elettrica",
+      "date": "2026-09-24T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:0d385059ae24",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questo nuovo concept Nissan è in puro stile tuner Anni '90",
+      "url": "https://it.motor1.com/news/809378/nissan-concept-tuner-anni-90/",
+      "image": "https://cdn.motor1.com/images/mgl/0epNBp/s3/nissan-z-kaze-concept.jpg",
+      "summary": "Il concept Nissan Z Kaze combina tetto rimovibile, cerchi NISMO vintage e upgrade GReddy in una sportiva dal forte sapore nostalgico.",
       "date": "2026-09-24T14:00:00.0000000Z"
     },
     {
@@ -327,18 +339,6 @@
       "date": "2026-09-24T11:00:05.0000000Z"
     },
     {
-      "id": "motor1:aaebfa02de04",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Come sarà il SUV Opel firmato Leapmotor",
-      "url": "https://it.motor1.com/news/808882/opel-suv-leapmotor-render-2028/",
-      "image": "https://cdn.motor1.com/images/mgl/Rqb9pg/s3/opel-midland-2028-il-render-di-motor1.com.jpg",
-      "summary": "In arrivo nel 2028, dovrebbe appartenere al segmento C e avere tanto in comune con la B10. Sarà elettrico e (forse) range extender",
-      "date": "2026-09-24T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:4adaacc820b9",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -348,6 +348,18 @@
       "url": "https://insideevs.it/news/809382/bentley-torcal-motori-batterie/",
       "image": "https://cdn.motor1.com/images/mgl/6ZOzBG/s3/2028-bentley-torcal-electric-suv-bright-design-spec.jpg",
       "summary": "Si arriva a 888 CV: mai una Bentley di serie era stata così potente",
+      "date": "2026-09-24T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:aaebfa02de04",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come sarà il SUV Opel firmato Leapmotor",
+      "url": "https://it.motor1.com/news/808882/opel-suv-leapmotor-render-2028/",
+      "image": "https://cdn.motor1.com/images/mgl/Rqb9pg/s3/opel-midland-2028-il-render-di-motor1.com.jpg",
+      "summary": "In arrivo nel 2028, dovrebbe appartenere al segmento C e avere tanto in comune con la B10. Sarà elettrico e (forse) range extender",
       "date": "2026-09-24T11:00:00.0000000Z"
     },
     {
@@ -457,18 +469,6 @@
       "image": "https://cdn.motor1.com/images/mgl/xqOpXw/s3/nissan-pixo-2027.jpg",
       "summary": "La nuova Nissan Pixo si basa sulla Renault Twingo, la ricarica di serie è di 50 kW e l'autonomia di 259 km",
       "date": "2026-09-23T15:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:2a64ed52756e",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Parlano gli esclusi dal bonus colonnine, inviperiti- VIDEO",
-      "url": "https://www.vaielettrico.it/parlano-gli-esclusi-dal-bonus-colonnine/",
-      "image": null,
-      "summary": "Parlano gli esclusi dal bonus colonnine, che ci scrivono delusi e arrabbiati. Il Ministero ci ha risposto che… L'articolo Parlano gli esclusi dal bonus colonnine, inviperiti- VIDEO proviene da Vaielettrico .",
-      "date": "2026-09-23T14:43:14.0000000Z"
     },
     {
       "id": "insideevs:e1add3d1d915",
