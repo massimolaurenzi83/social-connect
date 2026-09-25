@@ -1,7 +1,43 @@
 {
   "category": "scienza",
-  "updated": "2026-09-25T10:36:41.6051948Z",
+  "updated": "2026-09-25T15:33:58.4362878Z",
   "items": [
+    {
+      "id": "focus:e7b7e75365a3",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Cosa succede se un robotaxi prende una multa?",
+      "url": "https://www.focus.it/tecnologia/motori/auto-a-guida-autonoma-cosa-succede-se-un-robotaxi-prende-una-multa",
+      "image": "https://www.focus.it/images/2026/09/21/robotaxi-auto-a-guida-autonoma_w630.jpg?imbypass=true",
+      "summary": "Tra buchi normativi ed esperimenti internazionali: ecco cosa rischia un'auto a guida autonoma quando commette un'infrazione del codice della strada.",
+      "date": "2026-09-25T09:00:00.0000000Z"
+    },
+    {
+      "id": "focus:8f1eeb0b14f6",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Cani e umani scompongono le parole in modo simile",
+      "url": "https://www.focus.it/ambiente/animali/i-cani-scompongono-il-linguaggio-in-un-modo-simile-al-nostro",
+      "image": "https://www.focus.it/images/2026/09/24/cane-e-parole_w630.jpg?imbypass=true",
+      "summary": "Anche i cani si basano sulle consonanti per distinguere le parole in un discorso: l'esposizione al linguaggio influenza il funzionamento del cervello.",
+      "date": "2026-09-25T08:00:00.0000000Z"
+    },
+    {
+      "id": "focus:295354660069",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Dalla ricerca alla corsia: quando l’intelligenza artificiale diventa uno strumento clinico",
+      "url": "https://www.focus.it/native/dalla-ricerca-alla-corsia-quando-l-intelligenza-artificiale-diventa-uno-strumento-clinico",
+      "image": "https://www.focus.it/images/2026/09/24/esame-mammografico_w630.jpeg?imbypass=true",
+      "summary": "Dallo screening mammografico alla diagnostica oncologica, la ricerca punta a valutare il contributo concreto degli algoritmi",
+      "date": "2026-09-25T08:00:00.0000000Z"
+    },
     {
       "id": "media-inaf:ea1aadda78c0",
       "sourceId": "media-inaf",
@@ -247,18 +283,6 @@
       "date": "2026-09-23T10:00:00.0000000Z"
     },
     {
-      "id": "focus:a669822e43d2",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Aereo senza pilota sorvola gli USA per 5.000 km",
-      "url": "https://www.focus.it/tecnologia/motori/primo-volo-autonomo-coast-to-coast-un-cessna-senza-pilota-attraversa-gli-usa-per-oltre-5-000-km",
-      "image": "https://www.focus.it/images/2026/09/21/cessna-volo-senza-pilota_w630.jpg?imbypass=true",
-      "summary": "Un Cessna modificato ha completato una traversata storica di 5.150 km attraverso gli Stati Uniti, volando in totale autonomia e rendendo omaggio al primo volo dei fratelli Wright.",
-      "date": "2026-09-23T09:00:00.0000000Z"
-    },
-    {
       "id": "media-inaf:89836d063c2a",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -269,30 +293,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/protosuper-copia-150x150.jpg",
       "summary": "Si chiama Cosmos-z3.1-A ed è una struttura di galassie localizzata a 11.7 miliardi di anni luce dalla Terra. Secondo gli scienziati questo oggetto si evolverà in un superammasso di galassie. Cosmos-z3.1-A costituisce ...",
       "date": "2026-09-23T08:44:21.0000000Z"
-    },
-    {
-      "id": "focus:72785ca1685b",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Una nuova speranza contro l'epatite B",
-      "url": "https://www.focus.it/scienza/salute/c-e-una-nuova-speranza-contro-l-epatite-b-si-chiama-editing-epigenetico",
-      "image": "https://www.focus.it/images/2026/09/22/epatite-b_w630.jpg?imbypass=true",
-      "summary": "Silenziare l'attività genica del virus dell'epatite B sembra impedirgli di riprodursi: l'approccio potrebbe intaccare le forme latenti dell'infezione.",
-      "date": "2026-09-23T07:00:00.0000000Z"
-    },
-    {
-      "id": "focus:5a2c824d8528",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Tipi italiani: l'avocetta",
-      "url": "https://www.focus.it/ambiente/animali/tipi-italiani-l-avocetta",
-      "image": "https://www.focus.it/images/2026/08/24/avocetta_w630.jpg?imbypass=true",
-      "summary": "Così nascono le pagine di Focus dedicate agli animali che possiamo incontrare nel nostro Paese. Guarda, in questo timelapse, come è stato realizzato il disegno dell'avocetta.",
-      "date": "2026-09-23T06:00:00.0000000Z"
     },
     {
       "id": "geopop:4jkmfE84WYw",

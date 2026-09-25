@@ -1,7 +1,67 @@
 {
   "category": "energia",
-  "updated": "2026-09-25T10:36:41.6086486Z",
+  "updated": "2026-09-25T15:33:58.4041706Z",
   "items": [
+    {
+      "id": "qualenergia:54b267a61d09",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Nucleare, via libera alla delega tra proteste e tanti dubbi sugli Smr",
+      "url": "https://www.qualenergia.it/articoli/nucleare-via-libera-delega-proteste-dubbi-smr/",
+      "image": null,
+      "summary": "Il via libera definitivo alla legge delega sul nucleare incassa le critiche di associazioni ambientaliste e realtà del settore delle energie rinnovabili. Come noto, il Senato ha approvato il provvedimento il 23 settem...",
+      "date": "2026-09-25T14:30:43.0000000Z"
+    },
+    {
+      "id": "qualenergia:f3735d62785a",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Edifici residenziali italiani, la nuova mappa Enea di involucro e impianti",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/edifici-residenziali-italiani-nuova-mappa-enea-involucri-impianti/",
+      "image": null,
+      "summary": "L’Enea ha realizzato una nuova fotografia dettagliata del patrimonio residenziale italiano. Grazie a un lavoro condotto integrando diverse fonti informative, è stato pubblicato uno studio in cui gli edifici vengono di...",
+      "date": "2026-09-25T13:00:01.0000000Z"
+    },
+    {
+      "id": "qualenergia:c971ad64bc65",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Accumuli, Terna rivede le regole di connessione",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/accumuli-terna-rivede-regole-connessione/",
+      "image": null,
+      "summary": "Terna ha aperto fino al 26 ottobre la consultazione sulla revisione dell’Allegato A.79 al Codice di rete, che disciplina i requisiti tecnici degli impianti di accumulo elettrochimico connessi alle reti in alta e altis...",
+      "date": "2026-09-25T12:00:09.0000000Z"
+    },
+    {
+      "id": "qualenergia:9b13ad866189",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Idrogeno, pressing sull’Ue per mantenere gli obiettivi post 2030",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/idrogeno-pressing-ue-mantenere-obiettivi-post-2030/",
+      "image": null,
+      "summary": "La parziale marcia indietro ventilata dalla Commissione europea sugli obiettivi vincolanti dopo il 2030 per l’idrogeno non convince le aziende del settore energetico. Il 23 settembre, 170 compagnie, tra cui l’italiana...",
+      "date": "2026-09-25T10:45:16.0000000Z"
+    },
+    {
+      "id": "qualenergia:c40f5c75b1c2",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Comunità energetiche, l’ondata del PNRR vista da dentro",
+      "url": "https://www.qualenergia.it/articoli/comunita-energetiche-ondata-pnrr-vista-da-dentro/",
+      "image": null,
+      "summary": "Negli ultimi tre mesi le istanze presentate dalle CER al Gse sono state dieci volte superiori al livello ordinario, come è emerso dall’incontro del 16 settembre tra il Gestore e la Rete nazionale delle comunità energe...",
+      "date": "2026-09-25T10:15:31.0000000Z"
+    },
     {
       "id": "qualenergia:3b5e1c1cd10f",
       "sourceId": "qualenergia",
@@ -51,100 +111,40 @@
       "date": "2026-09-25T07:00:01.0000000Z"
     },
     {
-      "id": "qualenergia:9a9f405d7890",
+      "id": "qualenergia:18108a26663c",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "Germany’s Roadmap for Transitioning Away from Fossil Fuels",
-      "url": "https://www.qualenergia.it/pro/documenti/germanys-roadmap-for-transitioning-away-from-fossil-fuels/",
+      "title": "Horizon Europe: 227 milioni di euro per dieci nuovi bandi sull’energia",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/horizon-europe-227-milioni-euro-dieci-nuovi-bandi-energia/",
       "image": null,
-      "summary": "La Germania entra nel ristrettissimo club dei Paesi che hanno presentato alle Nazioni Unite un piano ufficiale per uscire progressivamente dai combustibili fossili, in cui figurano già la Francia e i Paesi Bassi. La R...",
-      "date": "2026-09-25T05:00:15.0000000Z"
+      "summary": "Sono 227,6 milioni di euro le risorse messe a disposizione da Horizon Europe per sostenere progetti di ricerca, innovazione e dimostrazione in diversi ambiti della transizione energetica. La call, identificata con il ...",
+      "date": "2026-09-25T06:55:33.0000000Z"
     },
     {
-      "id": "qualenergia:c806b8589e7b",
+      "id": "qualenergia:50d40d648ab7",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "INFODATA ENERGIA",
-      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "title": "Bandi e appalti del giorno (5)",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
       "image": null,
-      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
-      "date": "2026-09-25T04:30:00.0000000Z"
+      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
+      "date": "2026-09-25T06:30:17.0000000Z"
     },
     {
-      "id": "qualenergia:28c24aba79dc",
+      "id": "qualenergia:1789bd4a8b3d",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "BANDI E APPALTI",
-      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "title": "In Lombardia contributi a progetti di educazione ambientale ed energetica",
+      "url": "https://www.qualenergia.it/pro/documenti/in-lombardia-contributi-a-progetti-di-educazione-ambientale-ed-energetica/",
       "image": null,
-      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
-      "date": "2026-09-25T04:00:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:c6aad05b31b8",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "C’è del negazionismo climatico nelle scuole venete?",
-      "url": "https://www.qualenergia.it/articoli/negazionismo-climatico-scuole-venete/",
-      "image": null,
-      "summary": "“L’incremento di temperatura cui stiamo assistendo rientra nei naturali cicli climatici e non dalle emissioni antropiche“. Non è una frase che si legge tra le slide di un convegno di negazionisti del cambiamento clima...",
-      "date": "2026-09-24T14:45:59.0000000Z"
-    },
-    {
-      "id": "qualenergia:c6f1a2f4709f",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Reti elettriche sotto pressione: con digitale e nuove tecnologie fino a 330 GW di capacità in più",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/reti-elettriche-sotto-pressione-digitale-nuove-tecnologie-330-gw-capacita-in-piu/",
-      "image": null,
-      "summary": "La domanda elettrica mondiale corre più rapidamente delle infrastrutture necessarie a trasportarla. Uno squilibrio sottolineato dalla Iea nel nuovo report “Modernising Grids in the Age of Electricity”, dedicato a digi...",
-      "date": "2026-09-24T13:15:05.0000000Z"
-    },
-    {
-      "id": "qualenergia:feb4dbc53ca4",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Flessibilità e batterie, con gestione dei consumi ritorno dell’investimento oltre il 9%",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/flessibilita-batterie-gestione-consumi-ritorno-investimento-oltre-9/",
-      "image": null,
-      "summary": "Una batteria stand-alone che guadagna con il solo arbitraggio fatica ancora a generare ritorni interessanti. La stessa tecnologia, installata presso un sito di consumo e remunerata per più servizi, può invece superare...",
-      "date": "2026-09-24T12:30:42.0000000Z"
-    },
-    {
-      "id": "qualenergia:2d5f5eb8e20d",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "In Sicilia l’agrivoltaico dei record",
-      "url": "https://www.qualenergia.it/articoli/sicilia-agrivoltaico-record/",
-      "image": null,
-      "summary": "La società energetica Nadara, nata nel 2024 dall’unione dell’italiana Renantis (ex Falck Renewables) e della britannica Ventient Energy, ha completato la costruzione del più grande impianto agrivoltaico del nostro Pae...",
-      "date": "2026-09-24T10:15:04.0000000Z"
-    },
-    {
-      "id": "qualenergia:a3d4c77ba538",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Fotovoltaico alla Consulta, le nuove critiche al Dl Agricoltura",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/fotovoltaico-consulta-nuove-critiche-dl-agricoltura/",
-      "image": null,
-      "summary": "Seguendo la logica del divieto di installazione del fotovoltaico a terra in area agricola imposto dall’articolo 5 del decreto-legge Agricoltura, le Regioni potrebbero ritenersi legittimate a imporre limitazioni ancor ...",
-      "date": "2026-09-24T09:15:25.0000000Z"
+      "summary": "Contributi per la realizzazione di progetti di educazione ambientale, che promuovano l’educazione ecologica, lo sviluppo di competenze di sostenibilità e la diffusione di consapevolezza sui temi ambientali. Tra i temi...",
+      "date": "2026-09-25T05:00:32.0000000Z"
     }
   ]
 }
