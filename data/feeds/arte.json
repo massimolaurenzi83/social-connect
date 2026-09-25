@@ -1,7 +1,19 @@
 {
   "category": "arte",
-  "updated": "2026-09-25T00:54:09.4426882Z",
+  "updated": "2026-09-25T05:46:49.6694251Z",
   "items": [
+    {
+      "id": "elledecor:aef1683b55a4",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il metodo “una stanza, un’ora” promette di rimettere ordine in casa in quattro semplici mosse",
+      "url": "https://www.elledecor.com/it/lifestyle/a73826880/metodo-veloce-per-il-decluttering/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/619d4223-2286-4449-a654-fc031e89a449.jpeg",
+      "summary": "Un timer e quattro fasi da 15 minuti trasformano il decluttering in un esercizio rapido e concreto, pensato per affrontare una stanza alla volta",
+      "date": "2026-09-25T05:00:00.0000000Z"
+    },
     {
       "id": "artribune:9975cbd89f62",
       "sourceId": "artribune",
@@ -147,18 +159,6 @@
       "date": "2026-09-24T14:00:00.0000000Z"
     },
     {
-      "id": "elledecor:4a81b15c9c41",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Dopo quasi 170 anni è stato ritrovato il relitto di una goletta naufragata nel 1856",
-      "url": "https://www.elledecor.com/it/barche-motori/a73819142/mistero-barca-naufragata/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/7e92da01-7cf6-42ee-937a-6d49bc31daf4.jpeg",
-      "summary": "Sepolta per generazioni sulle rive del Lago Huron, l’imbarcazione è tornata alla luce quasi intatta. Gli archeologi hanno deciso di ricoprirla per conservarla",
-      "date": "2026-09-24T13:00:00.0000000Z"
-    },
-    {
       "id": "artribune:d23e948d1398",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -168,6 +168,18 @@
       "url": "https://www.artribune.com/arti-visive/archeologia-arte-antica/2026/09/museo-archeologico-nazionale-di-civitavecchia-riapertura-nuovo-allestimento/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/09/dsc8102-copia-scaled.jpg",
       "summary": "Dopo un importante intervento di riqualificazione e riallestimento, del valore di 2 milioni di euro, il museo nato nel 1970 dove Traiano fondò il porto di Roma riapre raddoppiando gli spazi espositivi, e con approccio...",
+      "date": "2026-09-24T13:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:4a81b15c9c41",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Dopo quasi 170 anni è stato ritrovato il relitto di una goletta naufragata nel 1856",
+      "url": "https://www.elledecor.com/it/barche-motori/a73819142/mistero-barca-naufragata/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/7e92da01-7cf6-42ee-937a-6d49bc31daf4.jpeg",
+      "summary": "Sepolta per generazioni sulle rive del Lago Huron, l’imbarcazione è tornata alla luce quasi intatta. Gli archeologi hanno deciso di ricoprirla per conservarla",
       "date": "2026-09-24T13:00:00.0000000Z"
     },
     {
@@ -253,18 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/air-mountain-pabellon-inflable-castillo-1561544192.jpg",
       "summary": "Poltrone e divani pieni d’aria tornano al centro della scena, tra icone storiche e nuove interpretazioni dal carattere leggero e scultoreo",
       "date": "2026-09-24T05:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:db82a5b74dad",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "La casa a Milano di Jeoffrey Romano è un'abitazione di quartiere dove l'equilibrio diventa design",
-      "url": "https://www.elledecor.com/it/case/a73821614/casa-milano-jeoffrey-romano/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/7febd51e-1d95-4371-b378-bdf75c6f4300.jpg",
-      "summary": "Oltre la soglia di casa dell'imprenditore milanese, un dromos avvia la passeggiata domestica alla scoperta di un paesaggio fatto di gusto e cultura",
-      "date": "2026-09-23T18:30:00.0000000Z"
     }
   ]
 }
