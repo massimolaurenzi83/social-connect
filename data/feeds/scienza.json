@@ -1,7 +1,44 @@
 {
   "category": "scienza",
-  "updated": "2026-09-25T15:33:58.4362878Z",
+  "updated": "2026-09-25T19:32:03.3694472Z",
   "items": [
+    {
+      "id": "media-inaf:844a59296027",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Se c’è vita su Encelado, non sarà difficile trovarla",
+      "url": "https://www.media.inaf.it/2026/09/25/ricerca-vita-su-encelado/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/enceladus-cover-150x150.jpg",
+      "summary": "Due studi pubblicati su Science Advances rafforzano Encelado come luogo in cui cercare la vita. Il primo mostra che nelle goccioline oceaniche, congelando lentamente, sali e composti organici si separano e si concentr...",
+      "date": "2026-09-25T18:00:22.0000000Z"
+    },
+    {
+      "id": "geopop:qbeXqZOrS80",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Donare il midollo osseo fa male? Come funzionano la donazione e il trapianto",
+      "url": "https://www.youtube.com/watch?v=qbeXqZOrS80",
+      "image": "https://i.ytimg.com/vi/qbeXqZOrS80/hqdefault.jpg",
+      "summary": "",
+      "videoId": "qbeXqZOrS80",
+      "date": "2026-09-25T16:30:24.0000000Z"
+    },
+    {
+      "id": "focus:bdb2f297f8c0",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Morte della Venere: la diagnosi dell'IA",
+      "url": "https://www.focus.it/cultura/arte/lo-strabismo-della-venere-non-era-bellezza-l-ia-svela-la-drammatica-verita-sulla-musa-di-botticelli",
+      "image": "https://www.focus.it/images/2026/09/25/venere-botticelli_w630.jpg?imbypass=true",
+      "summary": "Un'analisi con l'IA dei dipinti di Botticelli rivela che Simonetta Vespucci, la musa del Maestro, morì a 23 anni a causa di un tumore all'ipofisi. Gli indizi? Dettagli clinici nascosti nelle tele.",
+      "date": "2026-09-25T13:00:00.0000000Z"
+    },
     {
       "id": "focus:e7b7e75365a3",
       "sourceId": "focus",
@@ -15,6 +52,18 @@
       "date": "2026-09-25T09:00:00.0000000Z"
     },
     {
+      "id": "focus:295354660069",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Dalla ricerca alla corsia: quando l’intelligenza artificiale diventa uno strumento clinico",
+      "url": "https://www.focus.it/native/dalla-ricerca-alla-corsia-quando-l-intelligenza-artificiale-diventa-uno-strumento-clinico",
+      "image": "https://www.focus.it/images/2026/09/25/foto-di-uno-studio-medico-con-esame-mammografico-3_w630.jpg?imbypass=true",
+      "summary": "Dallo screening mammografico alla diagnostica oncologica, la ricerca punta a valutare il contributo concreto degli algoritmi",
+      "date": "2026-09-25T08:00:00.0000000Z"
+    },
+    {
       "id": "focus:8f1eeb0b14f6",
       "sourceId": "focus",
       "source": "Focus",
@@ -24,18 +73,6 @@
       "url": "https://www.focus.it/ambiente/animali/i-cani-scompongono-il-linguaggio-in-un-modo-simile-al-nostro",
       "image": "https://www.focus.it/images/2026/09/24/cane-e-parole_w630.jpg?imbypass=true",
       "summary": "Anche i cani si basano sulle consonanti per distinguere le parole in un discorso: l'esposizione al linguaggio influenza il funzionamento del cervello.",
-      "date": "2026-09-25T08:00:00.0000000Z"
-    },
-    {
-      "id": "focus:295354660069",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Dalla ricerca alla corsia: quando l’intelligenza artificiale diventa uno strumento clinico",
-      "url": "https://www.focus.it/native/dalla-ricerca-alla-corsia-quando-l-intelligenza-artificiale-diventa-uno-strumento-clinico",
-      "image": "https://www.focus.it/images/2026/09/24/esame-mammografico_w630.jpeg?imbypass=true",
-      "summary": "Dallo screening mammografico alla diagnostica oncologica, la ricerca punta a valutare il contributo concreto degli algoritmi",
       "date": "2026-09-25T08:00:00.0000000Z"
     },
     {
@@ -271,18 +308,6 @@
       "date": "2026-09-23T10:57:19.0000000Z"
     },
     {
-      "id": "focus:9ee10695296d",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Una nuova interfaccia neurale",
-      "url": "https://www.focus.it/tecnologia/intelligenza-artificiale/un-interfaccia-neurale-interpreta-gesti-e-parole-contemporaneamente",
-      "image": "https://www.focus.it/images/2026/09/22/avatar-persona-paralizzata_w630.jpg?imbypass=true",
-      "summary": "Un’interfaccia neurale decodifica insieme parole e gesti dal cervello di persone paralizzate, permettendo loro di comunicare tramite un avatar digitale.",
-      "date": "2026-09-23T10:00:00.0000000Z"
-    },
-    {
       "id": "media-inaf:89836d063c2a",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -383,18 +408,6 @@
       "date": "2026-09-21T16:30:35.0000000Z"
     },
     {
-      "id": "media-inaf:c469316c4e28",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Studiare i Grb senza Swift e senza Theseus",
-      "url": "https://www.media.inaf.it/2026/09/21/intervista-giancarlo-ghirlanda/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/cover-gg-150x150.jpg",
-      "summary": "Con l’ormai imminente e inevitabile disintegrazione in atmosfera di Swift e con la notizia della mancata selezione di Theseus, le prospettive a breve e medio termine per l’osservazione dei lampi di raggi gamma dallo s...",
-      "date": "2026-09-21T15:38:13.0000000Z"
-    },
-    {
       "id": "geopop:6DJPh4ybU0E",
       "sourceId": "geopop",
       "source": "Geopop",
@@ -458,19 +471,6 @@
       "summary": "",
       "videoId": "dtikahfhEzY",
       "date": "2026-09-16T16:31:09.0000000Z"
-    },
-    {
-      "id": "geopop:6jhGdT4QK7U",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Avete mai notato la telecamera sul parabrezza? Ecco a cosa serve e come farla funzionare bene",
-      "url": "https://www.youtube.com/watch?v=6jhGdT4QK7U",
-      "image": "https://i.ytimg.com/vi/6jhGdT4QK7U/hqdefault.jpg",
-      "summary": "",
-      "videoId": "6jhGdT4QK7U",
-      "date": "2026-09-16T11:00:19.0000000Z"
     },
     {
       "id": "curiuss:gb1zStv8DVE",
