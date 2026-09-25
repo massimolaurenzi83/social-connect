@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-25T05:46:49.6079589Z",
+  "updated": "2026-09-25T10:36:41.6070472Z",
   "items": [
+    {
+      "id": "cybersecurity360:18c52c9572a4",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Videosorveglianza: come distinguere tra GDPR e trattamento dati per finalità di polizia",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/videosorveglianza-come-distinguere-tra-gdpr-e-trattamento-dati-per-finalita-di-polizia/",
+      "image": null,
+      "summary": "La telecamera di un sistema di videosorveglianza per la sicurezza urbana può produrre un trattamento per finalità di polizia e altri per mondi giuridici diversi. Ecco come riconoscerli e come distinguere il D.lgs. 51/...",
+      "date": "2026-09-25T08:04:24.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:70e7c459a74e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Ecco come AI e guerra cibernetica ridefiniscono il nuovo rischio cyber",
+      "url": "https://www.cybersecurity360.it/outlook/ecco-come-ai-e-guerra-cibernetica-ridefiniscono-il-nuovo-rischio-cyber/",
+      "image": null,
+      "summary": "AI, supply chain e geopolitica cambiano lo scenario. La sovranità digitale è diventata questione di controllo su un rischio ormai sistemico . Perché i modelli tradizionali non bastano più e serve ripensare resilienza ...",
+      "date": "2026-09-25T07:41:55.0000000Z"
+    },
     {
       "id": "cybersecurity360:2941d5782c3e",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Secondo Kaspersky, le statistiche sul crypto-ransomware mostrano la punta dell'ice.berg. Oggi gli autori degli attacchi conducono operazioni in più fasi, in cui la distribuzione del file eseguibile di crittografia è s...",
       "date": "2026-09-24T08:28:52.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d65691322601",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "OT Security: la resilienza industriale nell’era della convergenza con l’IT",
-      "url": "https://www.cybersecurity360.it/legal/ot-security-la-resilienza-industriale-nellera-della-convergenza-con-lit/",
-      "image": null,
-      "summary": "La crescente esposizione degli ambienti OT alle minacce cyber impone un cambio di paradigma. Non basta più adottare soluzioni tecnologiche o perseguire la sola conformità normativa: occorre sviluppare una strategia in...",
-      "date": "2026-09-24T07:52:10.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:7e2b8b4b16a6",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Attacco all’FBI, ShinyHunters rivendica il colpo: cosa sappiamo davvero",
-      "url": "https://www.cybersecurity360.it/news/attacco-allfbi-shinyhunters-rivendica-il-colpo-cosa-sappiamo-davvero/",
-      "image": null,
-      "summary": "ShinyHunters sostiene di essere riuscito a violare l'infrastruttura dell'FBI e di aver sottratto una grande quantità di informazioni relative ad agenti, dipendenti ed ex dipendenti, oltre a persone che avrebbero prese...",
-      "date": "2026-09-23T14:54:45.0000000Z"
     }
   ]
 }
