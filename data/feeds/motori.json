@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-25T22:45:50.5564339Z",
+  "updated": "2026-09-26T00:57:32.6160021Z",
   "items": [
+    {
+      "id": "motor1:094eb2772318",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Cupra Raval (2026), perché comprarla...  e perché no",
+      "url": "https://it.motor1.com/reviews/809556/cupra-raval-2026-prova-prezzi/",
+      "image": "https://cdn.motor1.com/images/mgl/ZnlyLy/s3/cupra-raval-2026-perche-comprarla...-e-perche-no.jpg",
+      "summary": "Stile aggressivo e dinamica di guida affilata per la piccola spagnola, l'assetto rigido e i comandi touch chiedono qualche compromesso",
+      "date": "2026-09-25T23:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:96c5393b7333",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'Audi A3 cambia ancora e costa meno con la nuova Sportback Design",
+      "url": "https://it.motor1.com/news/809642/audi-a3-sportback-design-prezzo/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z1Q8V/s3/audi-a3-2026.jpg",
+      "summary": "Cerchi da 18 pollici, vetri oscurati e tecnologia di ultima generazione per la nuova porta d’ingresso alla gamma A3. Da 32.600 euro",
+      "date": "2026-09-25T22:01:00.0000000Z"
+    },
     {
       "id": "hdmotori:44c3fc43c9da",
       "sourceId": "hdmotori",
@@ -111,18 +135,6 @@
       "date": "2026-09-25T15:00:06.0000000Z"
     },
     {
-      "id": "motor1:f16dd9d9bb91",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mercedes GLB, la prova del nuovo SUV per la famiglia",
-      "url": "https://it.motor1.com/reviews/809470/mercedes-glb-2026-ibrida-prova-interni-prezzi/",
-      "image": "https://cdn.motor1.com/images/mgl/JO6BxA/s3/mercedes-glb-la-prova.jpg",
-      "summary": "Ho guidato la GLB 220 4MATIC tra autostrada e sterrato, scoprendo comfort, spazio a bordo, tecnologia e consumi reali",
-      "date": "2026-09-25T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:5412e783c81d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -132,6 +144,18 @@
       "url": "https://insideevs.it/news/809555/tesla-cybercab-batteria/",
       "image": "https://cdn.motor1.com/images/mgl/QeG3ON/s3/tesla-robotaxi.jpg",
       "summary": "Il primo Cybercab con materiale catodico prodotto da Tesla segna una svolta nella strategia dell’azienda per le batterie",
+      "date": "2026-09-25T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:f16dd9d9bb91",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes GLB, la prova del nuovo SUV per la famiglia",
+      "url": "https://it.motor1.com/reviews/809470/mercedes-glb-2026-ibrida-prova-interni-prezzi/",
+      "image": "https://cdn.motor1.com/images/mgl/JO6BxA/s3/mercedes-glb-la-prova.jpg",
+      "summary": "Ho guidato la GLB 220 4MATIC tra autostrada e sterrato, scoprendo comfort, spazio a bordo, tecnologia e consumi reali",
       "date": "2026-09-25T15:00:00.0000000Z"
     },
     {
@@ -373,30 +397,6 @@
       "image": "https://cdn.motor1.com/images/mgl/OoZ09L/s3/tesla-roadster-teaser-screenshot.jpg",
       "summary": "L’ultimo teaser della Tesla Roadster si concentra sulla barra luminosa LED anteriore",
       "date": "2026-09-25T07:29:30.0000000Z"
-    },
-    {
-      "id": "motor1:65d87e95615c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Land Rover mette un V8 da 405 CV nel Defender classico",
-      "url": "https://it.motor1.com/news/809529/land-rover-defender-v8-conversione/",
-      "image": "https://cdn.motor1.com/images/mgl/mMYEjq/s3/land-rover-defender-classic-works-v8-umbau.jpg",
-      "summary": "I proprietari di Land Rover Defender 90 e 110 possono ottenere un V8 da 405 CV e aggiornamenti a sospensioni e freni",
-      "date": "2026-09-25T07:02:08.0000000Z"
-    },
-    {
-      "id": "motor1:2c89f0c10c90",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il nuovo aggiornamento di Google Maps",
-      "url": "https://it.motor1.com/news/809460/google-maps-semafori-stop-aggiornamento-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/rK6Z3Y/s3/google-maps.jpg",
-      "summary": "Ora vengono mostrati semafori e stop agli incroci con un riquadro vicino al nome della strada",
-      "date": "2026-09-25T06:00:00.0000000Z"
     },
     {
       "id": "insideevs:c293fad5d80d",
