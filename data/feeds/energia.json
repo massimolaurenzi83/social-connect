@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-09-26T05:59:58.8202494Z",
+  "updated": "2026-09-26T11:16:12.3211682Z",
   "items": [
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-09-26T04:30:00.0000000Z"
+    },
     {
       "id": "qualenergia:28c24aba79dc",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "A partire dal 30 settembre sarà disponibile il portale telematico della Cassa servizi energetici e ambientali (Csea) per la costituzione dell’elenco 2027 delle imprese a forte consumo elettrico (lo stesso vale per i g...",
       "date": "2026-09-25T07:15:42.0000000Z"
-    },
-    {
-      "id": "qualenergia:4fb3e7c1cab2",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Germania, l’uscita dalle fossili entra nei piani, ma non ancora nelle nuove politiche",
-      "url": "https://www.qualenergia.it/articoli/germania-uscita-fossili-entra-piani-non-nuove-politiche/",
-      "image": null,
-      "summary": "La Germania entra nel ristrettissimo club dei Paesi che hanno presentato alle Nazioni Unite un piano ufficiale per uscire progressivamente dai combustibili fossili, in cui figurano già la Francia e i Paesi Bassi. Lo c...",
-      "date": "2026-09-25T07:00:01.0000000Z"
     }
   ]
 }

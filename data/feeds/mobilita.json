@@ -1,7 +1,43 @@
 {
   "category": "mobilita",
-  "updated": "2026-09-26T05:59:58.8700861Z",
+  "updated": "2026-09-26T11:16:12.3019964Z",
   "items": [
+    {
+      "id": "ferrovie:2fc4622a29ed",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Linea Messina - Catania - Siracusa, lavori RFI tra Bicocca e Siracusa fino a gennaio 2027",
+      "url": "https://www.ferrovie.info/treni-reali/linea-messina-catania-siracusa-lavori-rfi-tra-bicocca-e-siracusa-fino-a-gennaio-2027.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/cantiere_ct_me_5690.jpg",
+      "summary": "Dal 1° ottobre 2026 al 31 gennaio 2027 Rete Ferroviaria Italiana (Gruppo FS) eseguirà una serie di interventi di potenziamento infrastrutturale sulla linea Messina-Catania-Siracusa , nella tratta compresa tra le stazi...",
+      "date": "2026-09-26T09:22:29.0000000Z"
+    },
+    {
+      "id": "ferrovie:aec7dffff77c",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Linea Bologna - Ancona, circolazione sospesa tra Riccione e Cattolica per investimento",
+      "url": "https://www.ferrovie.info/treni-reali/linea-bologna-ancona-circolazione-sospesa-tra-riccione-e-cattolica-per-investimento.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10529/500_guasto_615.jpg",
+      "summary": "Mattinata di disagi sulla linea ferroviaria Bologna-Ancona , dove dalle 7 la circolazione è sospesa tra Riccione e Cattolica. L’interruzione si è resa necessaria dopo l’investimento di una persona avvenuto sui binari,...",
+      "date": "2026-09-26T09:07:16.0000000Z"
+    },
+    {
+      "id": "ferrovie:ffd34c14f40f",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Basilicata, Ferrandina - Matera e Potenza - Foggia: obiettivo completare gli interventi entro il 2028",
+      "url": "https://www.ferrovie.info/treni-reali/basilicata-ferrandina-matera-e-potenza-foggia-obiettivo-completare-gli-interventi-entro-il-2028.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/ferrandina-matera.jpg",
+      "summary": "La Basilicata punta a migliorare i collegamenti ferroviari con due interventi considerati prioritari: l'attivazione della linea Ferrandina-Matera e il completamento dell'elettrificazione della Potenza-Foggia . L'obiet...",
+      "date": "2026-09-26T08:51:19.0000000Z"
+    },
     {
       "id": "ferrovie:80d9d45033f4",
       "sourceId": "ferrovie",
@@ -97,42 +133,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10608/RABe_501_012_Solothurn_EC_Sestri_Levante_-_Zurigo_1.jpg",
       "summary": "Le FFS hanno deciso di acquistare 21 nuovi treni ad alta velocità destinati ad ampliare l’offerta nel segmento del traffico viaggiatori internazionale. Il programma prevede inoltre un'opzione per ulteriori 20 veicoli,...",
       "date": "2026-09-25T07:27:39.0000000Z"
-    },
-    {
-      "id": "ferrovie:ea9ebeaadebe",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Stadler presenta a InnoTrans il FLIRT Nordic Express: dal 2028 in servizio tra Oslo e Bergen",
-      "url": "https://www.ferrovie.info/treni-reali/stadler-presenta-a-innotrans-il-flirt-nordic-express-dal-2028-in-servizio-tra-oslo-e-bergen.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10130/Treni_InnoTrans_Berlino_2026_404.jpg",
-      "summary": "Stadler e Norske tog hanno presentato a InnoTrans 2026 il FLIRT Nordic Express , nuova generazione di treni sviluppata per il trasporto ferroviario a lunga percorrenza in Norvegia. Il primo veicolo è stato mostrato a ...",
-      "date": "2026-09-24T08:26:55.0000000Z"
-    },
-    {
-      "id": "ferrovie:19e26fc4b936",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Knorr-Bremse, primo contratto europeo per il Digital Automatic Coupler: al via il progetto PioDAC",
-      "url": "https://www.ferrovie.info/treni-reali/knorr-bremse-primo-contratto-europeo-per-il-digital-automatic-coupler-al-via-il-progetto-piodac.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_DAC_Talns_Treno_OeBB.jpg",
-      "summary": "Knorr-Bremse e ÖBB Rail Cargo Group hanno firmato il primo contratto commerciale in Europa per l’equipaggiamento con Digital Automatic Coupler , aprendo una nuova fase verso l’impiego operativo del DAC nel trasporto f...",
-      "date": "2026-09-24T06:25:16.0000000Z"
-    },
-    {
-      "id": "ferrovie:b38499a286d5",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Siemens presenta il nuovo ÖBB Railjet M, debutto mondiale a InnoTrans 2026",
-      "url": "https://www.ferrovie.info/treni-reali/siemens-presenta-il-nuovo-oebb-railjet-m-debutto-mondiale-a-innotrans-2026.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10130/normal_Treni_InnoTrans_Berlino_2026_374.jpg",
-      "summary": "Siemens Mobility ha presentato a InnoTrans 2026 il nuovo ÖBB Railjet M , la nuova EMU sviluppata per i servizi di lunga percorrenza nelle aree alpine austriache. Basato sulla piattaforma Mireo , il nuovo treno punta s...",
-      "date": "2026-09-24T06:07:49.0000000Z"
     },
     {
       "id": "ferrovie:3b838569d1fc",
