@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-09-26T11:16:12.2827651Z",
+  "updated": "2026-09-26T15:00:44.5405005Z",
   "items": [
+    {
+      "id": "focus:1a663fb354f9",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "La vipera con il ragno sulla coda",
+      "url": "https://www.focus.it/ambiente/animali/la-vipera-con-il-ragno-sulla-coda",
+      "image": "https://www.focus.it/images/2026/09/16/pseudocerastes-urarachnoides_w630.jpg?imbypass=true",
+      "summary": "In Iran vive una vipera che ha un finto ragno sulla punta della coda: lo usa per attirare gli uccelli.",
+      "date": "2026-09-26T10:00:00.0000000Z"
+    },
     {
       "id": "focus:7bc7c54ee9e9",
       "sourceId": "focus",
@@ -101,18 +113,6 @@
       "date": "2026-09-25T09:00:00.0000000Z"
     },
     {
-      "id": "focus:295354660069",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Dalla ricerca alla corsia: quando l’intelligenza artificiale diventa uno strumento clinico",
-      "url": "https://www.focus.it/native/dalla-ricerca-alla-corsia-quando-l-intelligenza-artificiale-diventa-uno-strumento-clinico",
-      "image": "https://www.focus.it/images/2026/09/25/foto-di-uno-studio-medico-con-esame-mammografico-3_w630.jpg?imbypass=true",
-      "summary": "Dallo screening mammografico alla diagnostica oncologica, la ricerca punta a valutare il contributo concreto degli algoritmi",
-      "date": "2026-09-25T08:00:00.0000000Z"
-    },
-    {
       "id": "focus:8f1eeb0b14f6",
       "sourceId": "focus",
       "source": "Focus",
@@ -122,6 +122,18 @@
       "url": "https://www.focus.it/ambiente/animali/i-cani-scompongono-il-linguaggio-in-un-modo-simile-al-nostro",
       "image": "https://www.focus.it/images/2026/09/24/cane-e-parole_w630.jpg?imbypass=true",
       "summary": "Anche i cani si basano sulle consonanti per distinguere le parole in un discorso: l'esposizione al linguaggio influenza il funzionamento del cervello.",
+      "date": "2026-09-25T08:00:00.0000000Z"
+    },
+    {
+      "id": "focus:295354660069",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Dalla ricerca alla corsia: quando l’intelligenza artificiale diventa uno strumento clinico",
+      "url": "https://www.focus.it/native/dalla-ricerca-alla-corsia-quando-l-intelligenza-artificiale-diventa-uno-strumento-clinico",
+      "image": "https://www.focus.it/images/2026/09/25/foto-di-uno-studio-medico-con-esame-mammografico-3_w630.jpg?imbypass=true",
+      "summary": "Dallo screening mammografico alla diagnostica oncologica, la ricerca punta a valutare il contributo concreto degli algoritmi",
       "date": "2026-09-25T08:00:00.0000000Z"
     },
     {
@@ -244,18 +256,6 @@
       "image": "https://www.focus.it/images/2026/09/24/tursiope-bullo_w630.jpg?imbypass=true",
       "summary": "Nella Grande Barriera Corallina vive un tursiope, Bubbles, che ha inventato un metodo disgustoso per procurarsi il cibo: farlo vomitare ai pesci.",
       "date": "2026-09-24T08:00:00.0000000Z"
-    },
-    {
-      "id": "focus:91942ae11ee9",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Tumore al polmone: la genetica del rischio",
-      "url": "https://www.focus.it/scienza/salute/tumore-del-polmone-una-rara-mutazione-genetica-aumenta-il-rischio-in-chi-non-ha-mai-fumato",
-      "image": "https://www.focus.it/images/2026/09/16/tumore-del-polmone_w630.jpg?imbypass=true",
-      "summary": "Un passo avanti nella conoscenza dei fattori ereditari che facilitano la comparsa del tumore al polmone in chi non ha una storia di abitudine al fumo.",
-      "date": "2026-09-24T07:00:00.0000000Z"
     },
     {
       "id": "geopop:DEaTs0Ws4ak",
