@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-26T00:57:32.6160021Z",
+  "updated": "2026-09-26T05:59:58.8267313Z",
   "items": [
+    {
+      "id": "insideevs:d1f8d54b430f",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes inizia i test delle batterie che ricaricano in 6 minuti",
+      "url": "https://insideevs.it/news/809549/mercedes-prologium-test-batteria-stato-solido/",
+      "image": "https://cdn.motor1.com/images/mgl/NGMORy/s3/batteria-stato-solido-prologium-con-elettrolita-inorganico.jpg",
+      "summary": "Le celle Gen4 allo stato solido di ProLogium hanno densità di circa 400 Wh/kg e resistono 1.000 cicli",
+      "date": "2026-09-26T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:a2a59c0f3038",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Toyota visionaria che pesa solo 420 kg",
+      "url": "https://it.motor1.com/news/806468/toyota-1x-concept-2007-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZ7Qj/s3/toyota-1-x-2007.jpg",
+      "summary": "Questo concept del 2007 pesa un terzo di una Prius e ha degli speciali microfoni per filtrare i suoni nell'abitacolo",
+      "date": "2026-09-26T05:00:00.0000000Z"
+    },
     {
       "id": "motor1:094eb2772318",
       "sourceId": "motor1",
@@ -279,18 +303,6 @@
       "date": "2026-09-25T12:00:29.0000000Z"
     },
     {
-      "id": "insideevs:42feae2d3e3f",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "I Paesi europei dove si vendono più auto elettriche",
-      "url": "https://insideevs.it/news/809444/auto-elettriche-vendite-paesi-europa-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/y21GPG/s3/i-paesi-europei-dove-si-vendono-piu-auto-elettriche.jpg",
-      "summary": "Abbiamo stilato la classifica dei Paesi \"più elettrici\" d'Europa, da inizio 2026. I numeri assoluti e le quote di mercato",
-      "date": "2026-09-25T11:00:00.0000000Z"
-    },
-    {
       "id": "motor1:760f65b39460",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -300,6 +312,18 @@
       "url": "https://it.motor1.com/news/809109/mercedes-benz-130-years-trucks/",
       "image": "https://cdn.motor1.com/images/mgl/OoZ36Y/s3/mercedes-benz-actros130-years-edition.jpg",
       "summary": "La 130 Years Trucks Edition su Actros L ed eActros 600: 400 esemplari con interni in pelle, Sketch storico e dettegli super esclusivi",
+      "date": "2026-09-25T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:42feae2d3e3f",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I Paesi europei dove si vendono più auto elettriche",
+      "url": "https://insideevs.it/news/809444/auto-elettriche-vendite-paesi-europa-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/y21GPG/s3/i-paesi-europei-dove-si-vendono-piu-auto-elettriche.jpg",
+      "summary": "Abbiamo stilato la classifica dei Paesi \"più elettrici\" d'Europa, da inizio 2026. I numeri assoluti e le quote di mercato",
       "date": "2026-09-25T11:00:00.0000000Z"
     },
     {
@@ -361,18 +385,6 @@
       "image": null,
       "summary": "Europa sempre più elettrica, Italia sempre più sola nel suo attacamento alle motorizzazioni tradizionali. La conferma dai dai… L'articolo Europa sempre più elettrica, Italia sempre più sola proviene da Vaielettrico .",
       "date": "2026-09-25T08:24:04.0000000Z"
-    },
-    {
-      "id": "motor1:662e850e0129",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mazda: i motori a benzina rimangono \"super importanti\"",
-      "url": "https://it.motor1.com/news/809546/mazda-motori-benzina-rilevanti/",
-      "image": "https://cdn.motor1.com/images/mgl/qkY2y1/s3/mazda-cx-60-2026-la-prova-su-strada.jpg",
-      "summary": "Mazda non è ancora pronta a rinunciare ai motori a combustione, sostenendo che la benzina ha ancora molto da offrire",
-      "date": "2026-09-25T08:04:03.0000000Z"
     },
     {
       "id": "vaielettrico:d50632980bc2",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/6ZOzBG/s3/2028-bentley-torcal-electric-suv-bright-design-spec.jpg",
       "summary": "Si arriva a 888 CV: mai una Bentley di serie era stata così potente",
       "date": "2026-09-24T11:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:c9bafb38d8eb",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova ricarica di Geely è assurdamente potente: 2,2 megawatt",
-      "url": "https://insideevs.it/news/809363/geely-caricabatterie-ev-2-gigawatt/",
-      "image": "https://cdn.motor1.com/images/mgl/vx7pBb/s3/sistema-di-ricarica-ev-geely-da-2-2-mw.jpg",
-      "summary": "BYD ha stupito il settore con i suoi caricabatterie Flash. Il sistema da 2,25 megawatt di Geely lascia indietro lei e tutti gli altri",
-      "date": "2026-09-24T09:00:00.0000000Z"
     }
   ]
 }

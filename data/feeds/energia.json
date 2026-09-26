@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-09-26T00:57:32.6244642Z",
+  "updated": "2026-09-26T05:59:58.8202494Z",
   "items": [
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-09-26T04:00:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:92dee9feb9f7",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI – Abbonati a QualEnergia.it PRO",
+      "url": "https://www.qualenergia.it/pro/documenti/bandi-e-appalti-promo/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-09-25T22:30:35.0000000Z"
+    },
     {
       "id": "qualenergia:54b267a61d09",
       "sourceId": "qualenergia",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "La Germania entra nel ristrettissimo club dei Paesi che hanno presentato alle Nazioni Unite un piano ufficiale per uscire progressivamente dai combustibili fossili, in cui figurano già la Francia e i Paesi Bassi. Lo c...",
       "date": "2026-09-25T07:00:01.0000000Z"
-    },
-    {
-      "id": "qualenergia:50d40d648ab7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Bandi e appalti del giorno (5)",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
-      "image": null,
-      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
-      "date": "2026-09-25T06:30:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:1789bd4a8b3d",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "In Lombardia contributi a progetti di educazione ambientale ed energetica",
-      "url": "https://www.qualenergia.it/pro/documenti/in-lombardia-contributi-a-progetti-di-educazione-ambientale-ed-energetica/",
-      "image": null,
-      "summary": "Contributi per la realizzazione di progetti di educazione ambientale, che promuovano l’educazione ecologica, lo sviluppo di competenze di sostenibilità e la diffusione di consapevolezza sui temi ambientali. Tra i temi...",
-      "date": "2026-09-25T05:00:32.0000000Z"
     }
   ]
 }
