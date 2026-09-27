@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-09-27T13:20:45.9318193Z",
+  "updated": "2026-09-27T17:51:31.5181237Z",
   "items": [
+    {
+      "id": "ferrovie:ceaa6fcd16f2",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Le notizie ferroviarie della settimana, nuovi treni e collegamenti internazionali",
+      "url": "https://www.ferrovie.info/treni-reali/le-notizie-ferroviarie-della-settimana-nuovi-treni-e-collegamenti-internazionali.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_ETR_108_023_Trenitalia_Intercity.jpeg",
+      "summary": "InnoTrans 2026 ha acceso i riflettori sulle principali novità dell’industria ferroviaria internazionale e monopolizzato la settimana. A Berlino costruttori e operatori hanno presentato nuovi treni, locomotive e tecnol...",
+      "date": "2026-09-27T15:59:07.0000000Z"
+    },
     {
       "id": "ferrovie:853811a53f29",
       "sourceId": "ferrovie",
@@ -61,18 +73,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10608/ETR104_200_1.JPG",
       "summary": "Momenti di paura nel pomeriggio lungo la linea convenzionale Firenze-Roma , dove un treno passeggeri ha urtato un convoglio merci nel tratto compreso tra Pontassieve e Sant’Ellero, in provincia di Firenze. Secondo le ...",
       "date": "2026-09-25T16:18:43.0000000Z"
-    },
-    {
-      "id": "ferrovie:3f9489f8a7e7",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Pescara - Roma, FS conferma l’impegno per l’Alta Velocità ferroviaria",
-      "url": "https://www.ferrovie.info/treni-reali/pescara-roma-fs-conferma-limpegno-per-lalta-velocita-ferroviaria.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/761D3268.jpg",
-      "summary": "Il potenziamento dei collegamenti ferroviari tra Abruzzo e Roma è stato al centro dell'intervento del presidente di Ferrovie dello Stato Italiane , Tommaso Tanzilli, all'Abruzzo Economy Summit. Il tema si inserisce ne...",
-      "date": "2026-09-25T14:14:11.0000000Z"
     },
     {
       "id": "ferrovie:0d9a60616c65",
