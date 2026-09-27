@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-09-27T07:44:25.3331413Z",
+  "updated": "2026-09-27T13:20:45.9318193Z",
   "items": [
+    {
+      "id": "ferrovie:853811a53f29",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "TGV, 45 anni di alta velocità: dalla Parigi-Lione ai nuovi treni di generazione",
+      "url": "https://www.ferrovie.info/rubriche/approfondimenti/tgv-45-anni-di-alta-velocita-dalla-parigi-lione-ai-nuovi-treni-di-generazione.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10421/SFIT01_029.jpg",
+      "summary": "Il TGV compie 45 anni . Era il 27 settembre 1981 quando il treno ad alta velocità francese effettuò il primo viaggio commerciale tra Parigi e Lione, inaugurando una nuova fase nel trasporto ferroviario. Da allora, le ...",
+      "date": "2026-09-27T08:20:24.0000000Z"
+    },
     {
       "id": "ferrovie:2fc4622a29ed",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10608/RABe_501_012_Solothurn_EC_Sestri_Levante_-_Zurigo_1.jpg",
       "summary": "Le FFS hanno deciso di acquistare 21 nuovi treni ad alta velocità destinati ad ampliare l’offerta nel segmento del traffico viaggiatori internazionale. Il programma prevede inoltre un'opzione per ulteriori 20 veicoli,...",
       "date": "2026-09-25T07:27:39.0000000Z"
-    },
-    {
-      "id": "ferrovie:3b838569d1fc",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "TX Logistik e Greenbrier, accordo per 50 piattaforme NIK per il trasporto intermodale",
-      "url": "https://www.ferrovie.info/treni-reali/tx-logistik-e-greenbrier-accordo-per-50-piattaforme-nik-per-il-trasporto-intermodale.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10608/E7193_339_TXL2BE7193_337_TXL_Rovereto_1.JPG",
-      "summary": "TX Logistik e Greenbrier Europe rafforzano la collaborazione sul sistema di trasbordo NIK, la soluzione progettata per trasferire su ferro anche i semirimorchi non gruabili. L’accordo, firmato a InnoTrans 2026 , preve...",
-      "date": "2026-09-24T05:45:40.0000000Z"
     }
   ]
 }
