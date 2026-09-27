@@ -1,7 +1,67 @@
 {
   "category": "motori",
-  "updated": "2026-09-27T01:55:56.5536684Z",
+  "updated": "2026-09-27T07:44:25.3713559Z",
   "items": [
+    {
+      "id": "hdmotori:4dc004041857",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "1000 Miglia 2027: svelato il percorso dell’edizione del centenario",
+      "url": "https://www.hdmotori.it/1000-miglia-2027-percorso/",
+      "image": null,
+      "summary": "Presentata storica ed attesissima edizione della Freccia Rossa che celebrerà i cento anni dalla prima corsa del 1927 con sei giornate di gara e il ritorno al percorso in senso antiorario. The post 1000 Miglia 2027: sv...",
+      "date": "2026-09-27T07:30:05.0000000Z"
+    },
+    {
+      "id": "hdmotori:ed35e71b99de",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto elettriche, 530 km sulle Dolomiti: torna l’ECOdolomitesGT",
+      "url": "https://www.hdmotori.it/auto-elettriche-ecodolomitesgt/",
+      "image": null,
+      "summary": "ECOdolomitesGT torna dal 16 al 18 ottobre 2026: 530 km sulle Dolomiti per auto elettriche, tra regolarità, consumi e autonomia The post Auto elettriche, 530 km sulle Dolomiti: torna l’ECOdolomitesGT appeared first on ...",
+      "date": "2026-09-27T07:00:34.0000000Z"
+    },
+    {
+      "id": "vaielettrico:79f8f869ce90",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I webinar di Vaielettrico/ Ricarica elettrica, un must per il settore turistico",
+      "url": "https://www.vaielettrico.it/i-webinar-di-vaielettrico-ricarica-elettrica-un-must-per-il-settore-turistico/",
+      "image": null,
+      "summary": "Boom dell’auto elettrica nei principali mercati del Nord Europa (leggi) e, di pari passo, dei turisti elettrici calati… L'articolo I webinar di Vaielettrico/ Ricarica elettrica, un must per il settore turistico provie...",
+      "date": "2026-09-27T05:03:42.0000000Z"
+    },
+    {
+      "id": "insideevs:cbcddc65bf32",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il componente invisibile che sta cambiando le batterie delle EV",
+      "url": "https://insideevs.it/news/809586/batterie-future-elettrolita-decisivo/",
+      "image": "https://cdn.motor1.com/images/mgl/rK6ZA1/s3/il-componente-invisibile-che-sta-cambiando-le-batterie-delle-ev.jpg",
+      "summary": "L'elettrolita è al centro dello sviluppo di anodi al silicio e batterie allo stato solido",
+      "date": "2026-09-27T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:b11c89b60f89",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa BMW M3 si guida ancora benissimo 30 anni dopo",
+      "url": "https://it.motor1.com/news/809079/bmw-m3-e36-prova-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/8A0ARP/s3/bmw-m3-limousine-1996.jpg",
+      "summary": "321 CV, spazio per bagagli e passeggeri e uno stile sobrio, ma riconoscibile. Ecco la nostra prova della M3 E36 del 1996",
+      "date": "2026-09-27T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:706deb4c59e3",
       "sourceId": "vaielettrico",
@@ -123,18 +183,6 @@
       "date": "2026-09-26T06:00:43.0000000Z"
     },
     {
-      "id": "motor1:a2a59c0f3038",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Toyota visionaria che pesa solo 420 kg",
-      "url": "https://it.motor1.com/news/806468/toyota-1x-concept-2007-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/BXZ7Qj/s3/toyota-1-x-2007.jpg",
-      "summary": "Questo concept del 2007 pesa un terzo di una Prius e ha degli speciali microfoni per filtrare i suoni nell'abitacolo",
-      "date": "2026-09-26T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:d1f8d54b430f",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -144,6 +192,18 @@
       "url": "https://insideevs.it/news/809549/mercedes-prologium-test-batteria-stato-solido/",
       "image": "https://cdn.motor1.com/images/mgl/NGMORy/s3/batteria-stato-solido-prologium-con-elettrolita-inorganico.jpg",
       "summary": "Le celle Gen4 allo stato solido di ProLogium hanno densità di circa 400 Wh/kg e resistono 1.000 cicli",
+      "date": "2026-09-26T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:a2a59c0f3038",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Toyota visionaria che pesa solo 420 kg",
+      "url": "https://it.motor1.com/news/806468/toyota-1x-concept-2007-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/BXZ7Qj/s3/toyota-1-x-2007.jpg",
+      "summary": "Questo concept del 2007 pesa un terzo di una Prius e ha degli speciali microfoni per filtrare i suoni nell'abitacolo",
       "date": "2026-09-26T05:00:00.0000000Z"
     },
     {
@@ -267,18 +327,6 @@
       "date": "2026-09-25T15:30:31.0000000Z"
     },
     {
-      "id": "hdmotori:80b17e5a5868",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ducati Multistrada V4 Pikes Peak 2027: tecnologia e livrea da MotoGP",
-      "url": "https://www.hdmotori.it/ducati-multistrada-v4-pikes-peak-2027/",
-      "image": null,
-      "summary": "Nell’anno speciale del suo Centenario, Borgo Panigale decide di celebrare le proprie origini e i propri successi vestendo di nuovo il modello che più di tutti incarna lo spirito competitivo su strada. Parliamo della n...",
-      "date": "2026-09-25T15:00:06.0000000Z"
-    },
-    {
       "id": "motor1:f16dd9d9bb91",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -303,18 +351,6 @@
       "date": "2026-09-25T15:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:4329c871ba42",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Diesel e accise, da domani cambia tutto: un pieno costerà 3 euro in più",
-      "url": "https://www.hdmotori.it/prezzi-diesel-stangata-accise/",
-      "image": null,
-      "summary": "L'ultimo decreto del Governo toglie le ultime speranze ai proprietari di auto diesel. Secondo il Codacons un pieno arriverà a costare 3 euro in più The post Diesel e accise, da domani cambia tutto: un pieno costerà 3 ...",
-      "date": "2026-09-25T14:30:47.0000000Z"
-    },
-    {
       "id": "insideevs:e5ee8d37e53c",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -327,18 +363,6 @@
       "date": "2026-09-25T14:00:00.0000000Z"
     },
     {
-      "id": "insideevs:43c16c1b4df9",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'app Tesla ora ti mostra i Supercharger e i posti liberi",
-      "url": "https://insideevs.it/news/809574/tesla-site-maps-supercharger-visibile/",
-      "image": "https://cdn.motor1.com/images/mgl/mM3Kp4/s3/tesla-supercharger.jpg",
-      "summary": "Con Site Maps, la normale mappa dei Supercharger lascia spazio a una planimetria dall'alto della stazione. Ma in Italia non c'è ancora",
-      "date": "2026-09-25T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:621e79b72efc",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -348,6 +372,18 @@
       "url": "https://it.motor1.com/news/809596/kia-pv5-chassis-cab-batteria/",
       "image": "https://cdn.motor1.com/images/mgl/2N21Bp/s3/kia-pv5-cargo-chassis-cab.jpg",
       "summary": "La variante da 71,2 kWh porta fino a 416 km WLTP sulla Cargo L2H1 e offre tempi di ricarica rapidi più adatti alle flotte urbane",
+      "date": "2026-09-25T13:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:43c16c1b4df9",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'app Tesla ora ti mostra i Supercharger e i posti liberi",
+      "url": "https://insideevs.it/news/809574/tesla-site-maps-supercharger-visibile/",
+      "image": "https://cdn.motor1.com/images/mgl/mM3Kp4/s3/tesla-supercharger.jpg",
+      "summary": "Con Site Maps, la normale mappa dei Supercharger lascia spazio a una planimetria dall'alto della stazione. Ma in Italia non c'è ancora",
       "date": "2026-09-25T13:00:00.0000000Z"
     },
     {
@@ -397,18 +433,6 @@
       "image": "https://cdn.motor1.com/images/mgl/YAb36J/s3/benzina-e-diesel-da-domani-il-pieno-costa-di-piu-perche.jpg",
       "summary": "Da domani lo sconto sulle accise del diesel scende da 12,2 a 6,1 centesimi al litro: un pieno costerà fino a 3 euro in più",
       "date": "2026-09-25T10:30:26.0000000Z"
-    },
-    {
-      "id": "motor1:d087b61116d9",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Carta di circolazione 2026: c'è un dettaglio che devi sapere",
-      "url": "https://it.motor1.com/features/806277/carta-circolazione-2026-obblighi-sanzioni/",
-      "image": "https://cdn.motor1.com/images/mgl/W8KmPg/s3/carta-di-circolazione-2026-rischi-gravi-se-non-la-aggiorni.jpg",
-      "summary": "Dal gancio traino al GPL: alcune modifiche devono essere annotate sul Documento Unico. Ecco cosa prevede la legge",
-      "date": "2026-09-25T10:00:00.0000000Z"
     },
     {
       "id": "insideevs:b72158b6e360",
@@ -471,18 +495,6 @@
       "date": "2026-09-25T05:00:00.0000000Z"
     },
     {
-      "id": "vaielettrico:d83e019276eb",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Regione Marche: 8mln per stazioni di ricarica alimentate dal sole",
-      "url": "https://www.vaielettrico.it/regione-marche-8mln-per-stazioni-di-ricarica-alimentate-dal-sole/",
-      "image": null,
-      "summary": "La Regione Marche ha pubblicato un bando da 8 milioni per realizzare stazioni di ricarica autosufficienti dal punto… L'articolo Regione Marche: 8mln per stazioni di ricarica alimentate dal sole proviene da Vaielettrico .",
-      "date": "2026-09-25T04:56:04.0000000Z"
-    },
-    {
       "id": "insideevs:3b9f8df17a8f",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/g42Ee8/s3/leapmotor-tech-day-2026.jpg",
       "summary": "Al Tech Day 2026, Leapmotor presenta la nuova architettura LEAP 5.0 e una batteria che elimina la tradizionale unità da 12 Volt",
       "date": "2026-09-24T13:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:4adaacc820b9",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tutti i motori della Bentley Torcal, il SUV elettrico di lusso",
-      "url": "https://insideevs.it/news/809382/bentley-torcal-motori-batterie/",
-      "image": "https://cdn.motor1.com/images/mgl/6ZOzBG/s3/2028-bentley-torcal-electric-suv-bright-design-spec.jpg",
-      "summary": "Si arriva a 888 CV: mai una Bentley di serie era stata così potente",
-      "date": "2026-09-24T11:00:00.0000000Z"
     }
   ]
 }
