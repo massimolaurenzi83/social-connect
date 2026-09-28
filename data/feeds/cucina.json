@@ -1,7 +1,19 @@
 {
   "category": "cucina",
-  "updated": "2026-09-28T16:07:07.5318731Z",
+  "updated": "2026-09-28T21:58:01.8641030Z",
   "items": [
+    {
+      "id": "giallozafferano:539e5fa7ca2c",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Biscotti al cioccolato al cucchiaio",
+      "url": "https://ricette.giallozafferano.it/Biscotti-al-cioccolato-al-cucchiaio.html",
+      "image": "https://www.giallozafferano.it/images/366-36662/Biscotti-al-cioccolato-al-cucchiaio_1200x800.jpg",
+      "summary": "I biscotti al cioccolato al cucchiaio sono una ricetta facile e veloce, perfetta quando avete voglia di preparare dei biscotti fatti in casa senza dover stendere l'impasto. A differenza dei classici biscotti di pasta ...",
+      "date": "2026-09-28T15:47:00.0000000Z"
+    },
     {
       "id": "dissapore:05a03dee5fcd",
       "sourceId": "dissapore",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/366-36637/Bocconcini-di-pesce-spada-alla-mediterranea_1200x800.jpg",
       "summary": "I bocconcini di pesce spada alla mediterranea sono un secondo piatto che riunisce in un’unica padella pesce e verdure di stagione. Il nome della ricetta richiama gli ingredienti tipici della cucina mediterranea : mela...",
       "date": "2026-09-21T13:00:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:5d1ae1f48c80",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Charlotte ai frutti di bosco",
-      "url": "https://ricette.giallozafferano.it/Charlotte-ai-frutti-di-bosco.html",
-      "image": "https://www.giallozafferano.it/images/366-36632/Charlotte-ai-frutti-di-bosco_1200x800.jpg",
-      "summary": "La charlotte ai frutti di bosco è un dolce senza forno goloso e scenografico, perfetto per festeggiare compleanni, anniversari e occasioni speciali. Elegante nell’aspetto ma più facile da preparare di quanto sembri, v...",
-      "date": "2026-09-17T14:02:00.0000000Z"
     }
   ]
 }

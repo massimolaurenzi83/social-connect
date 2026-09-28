@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-09-28T16:07:07.5494505Z",
+  "updated": "2026-09-28T21:58:01.8433111Z",
   "items": [
+    {
+      "id": "vaielettrico:b7dad0a84d38",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "1.338km con una ricarica: primato con l’Audi A6 Sportback",
+      "url": "https://www.vaielettrico.it/1-338km-con-una-ricarica-primato-con-laudi-a6-sportback/",
+      "image": null,
+      "summary": "1.338km con una ricarica: nuovo primato di percorrenza con l’Audi A6 Sportback. Al volante il Campione europeo rally… L'articolo 1.338km con una ricarica: primato con l’Audi A6 Sportback proviene da Vaielettrico .",
+      "date": "2026-09-28T17:43:11.0000000Z"
+    },
+    {
+      "id": "hdmotori:14b6f201913d",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Bosch, per allungare la vita delle elettriche servono batterie più economiche da riparare",
+      "url": "https://www.hdmotori.it/bosch-elettriche-batterie-economiche-riparare/",
+      "image": null,
+      "summary": "Il presidente della divisione Bosch Mobility Aftermarket dice la sua sulla vita utile dei veicoli elettrici e sul futuro del mercato autoriparativo con la diffusione massiva delle EV. The post Bosch, per allungare la ...",
+      "date": "2026-09-28T17:00:37.0000000Z"
+    },
+    {
+      "id": "motor1:82685bae3428",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Youtester 2026: i nomi di coloro che passano alla Fase 2",
+      "url": "https://it.motor1.com/news/809563/youtester-2026-nomi-candidati-fase-2/",
+      "image": "https://cdn.motor1.com/images/mgl/JO6B46/s3/youtester-2026-m1-seconda-fase-nomi.jpg",
+      "summary": "Ecco i 10 scelti dalla Redazione e dal pubblico social di Motor1, con Renault Clio e tanta voglia di diventare giornalisti dell'auto",
+      "date": "2026-09-28T16:26:01.0000000Z"
+    },
+    {
+      "id": "motor1:74512debf573",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Con i sensori nella gomma, guidare non sarà più come prima",
+      "url": "https://it.motor1.com/news/809872/pirelli-cyber-tyre-innovazione/",
+      "image": "https://cdn.motor1.com/images/mgl/L36kpm/s3/pirelli-cyber-tyre.jpg",
+      "summary": "Pirelli trasforma lo pneumatico in una fonte di dati per sicurezza, guida autonoma e strade connesse lavorando con altre aziende italiane",
+      "date": "2026-09-28T16:15:00.0000000Z"
+    },
     {
       "id": "hdmotori:bbe852ee0fb8",
       "sourceId": "hdmotori",
@@ -15,18 +63,6 @@
       "date": "2026-09-28T16:00:02.0000000Z"
     },
     {
-      "id": "motor1:5744bf7aca1e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Un pick-up diesel ibrido plug-in può funzionare?",
-      "url": "https://it.motor1.com/news/809877/chery-stockman-pick-up-plug-in-diesel/",
-      "image": "https://cdn.motor1.com/images/mgl/bgOBrM/s3/chery-stockman.jpg",
-      "summary": "La Chery Stockman è dotata di due serbatoi, una batteria ad alta tensione, trazione integrale e un’elevata capacità di traino.",
-      "date": "2026-09-28T16:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:28bf6484d8d8",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -36,6 +72,18 @@
       "url": "https://insideevs.it/news/809873/tesla-semi-consegne-prezzi-diesel/",
       "image": "https://cdn.motor1.com/images/mgl/9mW97p/s3/tesla-semi-european-specification.jpg",
       "summary": "Sta arrivando il camion elettrico di Tesla che promette di abbattere i costi del diesel e cambiare i conti del trasporto pesante",
+      "date": "2026-09-28T16:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:5744bf7aca1e",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Un pick-up diesel ibrido plug-in può funzionare?",
+      "url": "https://it.motor1.com/news/809877/chery-stockman-pick-up-plug-in-diesel/",
+      "image": "https://cdn.motor1.com/images/mgl/bgOBrM/s3/chery-stockman.jpg",
+      "summary": "La Chery Stockman è dotata di due serbatoi, una batteria ad alta tensione, trazione integrale e un’elevata capacità di traino.",
       "date": "2026-09-28T16:00:00.0000000Z"
     },
     {
@@ -51,18 +99,6 @@
       "date": "2026-09-28T15:00:02.0000000Z"
     },
     {
-      "id": "motor1:15d55676804d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'appello di Akio Toyoda a tutte le Case automobilistiche",
-      "url": "https://it.motor1.com/news/809870/akio-toyoda-discorso-hall-fame/",
-      "image": "https://cdn.motor1.com/images/mgl/zx0VN8/s3/akio-toyoda-inducted-into-the-automotive-hall-of-fame-2026.jpg",
-      "summary": "Il presidente di Toyoda è ora nell'Automotive Hall of Fame. E chiede ai marchi di tutto il mondo di collaborare",
-      "date": "2026-09-28T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:0452497084a6",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -72,6 +108,18 @@
       "url": "https://insideevs.it/news/809804/nio-geely-accordo-battery-swap/",
       "image": "https://cdn.motor1.com/images/mgl/Xx7nv/s3/nio-battery-swap-station---power-swap-station-2.0.jpg",
       "summary": "L'unico modo per combattere l'ascesa della ricarica ultra rapida e trovare standard comuni a più marchi automobilistici",
+      "date": "2026-09-28T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:15d55676804d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'appello di Akio Toyoda a tutte le Case automobilistiche",
+      "url": "https://it.motor1.com/news/809870/akio-toyoda-discorso-hall-fame/",
+      "image": "https://cdn.motor1.com/images/mgl/zx0VN8/s3/akio-toyoda-inducted-into-the-automotive-hall-of-fame-2026.jpg",
+      "summary": "Il presidente di Toyoda è ora nell'Automotive Hall of Fame. E chiede ai marchi di tutto il mondo di collaborare",
       "date": "2026-09-28T15:00:00.0000000Z"
     },
     {
@@ -135,39 +183,15 @@
       "date": "2026-09-28T13:55:09.0000000Z"
     },
     {
-      "id": "vaielettrico:0d30fcea520a",
+      "id": "vaielettrico:0a5b93e0e537",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
       "platform": "rss",
       "category": "motori",
-      "title": "Vaielettrico Awards categoria Novità moto e scooter elettrici",
-      "url": "https://www.vaielettrico.it/novita-moto-e-scooter-elettrici-vaielettrico-awards/",
+      "title": "Vaielettrico Awards categoria Trasporti pubblici e mezzi da lavoro",
+      "url": "https://www.vaielettrico.it/trasporti-pubblici-e-mezzi-da-lavoro-vaielettrico-awards/",
       "image": null,
-      "summary": "Piegare in curva col vento in faccia, sgusciare con agilità nel traffico cittadino e godersi la strada in… L'articolo Vaielettrico Awards categoria Novità moto e scooter elettrici proviene da Vaielettrico .",
-      "date": "2026-09-28T13:39:29.0000000Z"
-    },
-    {
-      "id": "vaielettrico:521fa5742de0",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vaielettrico Awards categoria Il concessionario più elettrico",
-      "url": "https://www.vaielettrico.it/il-concessionario-piu-elettrico-vaielettrico-awards/",
-      "image": null,
-      "summary": "Acquistare un’auto elettrica non significa soltanto scegliere un nuovo veicolo, ma abbracciare uno stile di vita e una… L'articolo Vaielettrico Awards categoria Il concessionario più elettrico proviene da Vaielettrico .",
-      "date": "2026-09-28T13:39:29.0000000Z"
-    },
-    {
-      "id": "vaielettrico:4d078d90ee52",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vaielettrico Awards categoria Flotte elettriche al top",
-      "url": "https://www.vaielettrico.it/flotte-elettriche-al-top-vaielettrico-awards/",
-      "image": null,
-      "summary": "Decarbonizzare i grandi parchi auto aziendali è la chiave di volta per accelerare la transizione ecologica su scala… L'articolo Vaielettrico Awards categoria Flotte elettriche al top proviene da Vaielettrico .",
+      "summary": "Elettrificare un’utilitaria è una bella sfida, ma portare la propulsione a zero emissioni nell’ambito dei trasporti pesanti, delle… L'articolo Vaielettrico Awards categoria Trasporti pubblici e mezzi da lavoro provien...",
       "date": "2026-09-28T13:39:29.0000000Z"
     },
     {
@@ -183,6 +207,42 @@
       "date": "2026-09-28T13:39:29.0000000Z"
     },
     {
+      "id": "vaielettrico:4d078d90ee52",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Vaielettrico Awards categoria Flotte elettriche al top",
+      "url": "https://www.vaielettrico.it/flotte-elettriche-al-top-vaielettrico-awards/",
+      "image": null,
+      "summary": "Decarbonizzare i grandi parchi auto aziendali è la chiave di volta per accelerare la transizione ecologica su scala… L'articolo Vaielettrico Awards categoria Flotte elettriche al top proviene da Vaielettrico .",
+      "date": "2026-09-28T13:39:29.0000000Z"
+    },
+    {
+      "id": "vaielettrico:521fa5742de0",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Vaielettrico Awards categoria Il concessionario più elettrico",
+      "url": "https://www.vaielettrico.it/il-concessionario-piu-elettrico-vaielettrico-awards/",
+      "image": null,
+      "summary": "Acquistare un’auto elettrica non significa soltanto scegliere un nuovo veicolo, ma abbracciare uno stile di vita e una… L'articolo Vaielettrico Awards categoria Il concessionario più elettrico proviene da Vaielettrico .",
+      "date": "2026-09-28T13:39:29.0000000Z"
+    },
+    {
+      "id": "vaielettrico:0d30fcea520a",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Vaielettrico Awards categoria Novità moto e scooter elettrici",
+      "url": "https://www.vaielettrico.it/novita-moto-e-scooter-elettrici-vaielettrico-awards/",
+      "image": null,
+      "summary": "Piegare in curva col vento in faccia, sgusciare con agilità nel traffico cittadino e godersi la strada in… L'articolo Vaielettrico Awards categoria Novità moto e scooter elettrici proviene da Vaielettrico .",
+      "date": "2026-09-28T13:39:29.0000000Z"
+    },
+    {
       "id": "vaielettrico:6c1a22f654cb",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -193,30 +253,6 @@
       "image": null,
       "summary": "Guardare un’auto elettrica oggi significa osservare l’evoluzione stessa dell’ingegneria, dove la potenza incontra la massima efficienza aerodinamica e… L'articolo Vaielettrico Awards categoria Novità auto elettrica de...",
       "date": "2026-09-28T13:39:29.0000000Z"
-    },
-    {
-      "id": "vaielettrico:0a5b93e0e537",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vaielettrico Awards categoria Trasporti pubblici e mezzi da lavoro",
-      "url": "https://www.vaielettrico.it/trasporti-pubblici-e-mezzi-da-lavoro-vaielettrico-awards/",
-      "image": null,
-      "summary": "Elettrificare un’utilitaria è una bella sfida, ma portare la propulsione a zero emissioni nell’ambito dei trasporti pesanti, delle… L'articolo Vaielettrico Awards categoria Trasporti pubblici e mezzi da lavoro provien...",
-      "date": "2026-09-28T13:39:29.0000000Z"
-    },
-    {
-      "id": "vaielettrico:6a183f2e49d2",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vaielettrico Awards categoria Novità nautica elettrica",
-      "url": "https://www.vaielettrico.it/novita-nautica-elettrica-vaielettrico-awards/",
-      "image": null,
-      "summary": "Solcare lo specchio d’acqua avvolti unicamente dal suono delle onde e della natura, lasciandosi alle spalle il rumore… L'articolo Vaielettrico Awards categoria Novità nautica elettrica proviene da Vaielettrico .",
-      "date": "2026-09-28T13:39:28.0000000Z"
     },
     {
       "id": "vaielettrico:ffbbe77d98d3",
@@ -267,18 +303,6 @@
       "date": "2026-09-28T13:00:07.0000000Z"
     },
     {
-      "id": "insideevs:a1b9855b9c65",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Hyundai: \"Non possiamo mollare adesso sulle batterie allo stato solido\"",
-      "url": "https://insideevs.it/news/809850/hyundai-batterie-stato-solido/",
-      "image": "https://cdn.motor1.com/images/mgl/YAOXxv/s3/hyundai-staria-electric-2026.jpg",
-      "summary": "Il responsabile R&S di Hyundai prevede che le auto prodotte in piccoli volumi con batterie allo stato solido arriveranno entro 5 anni",
-      "date": "2026-09-28T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:c0cfcedd4d14",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -291,6 +315,18 @@
       "date": "2026-09-28T13:00:00.0000000Z"
     },
     {
+      "id": "insideevs:a1b9855b9c65",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Hyundai: \"Non possiamo mollare adesso sulle batterie allo stato solido\"",
+      "url": "https://insideevs.it/news/809850/hyundai-batterie-stato-solido/",
+      "image": "https://cdn.motor1.com/images/mgl/YAOXxv/s3/hyundai-staria-electric-2026.jpg",
+      "summary": "Il responsabile R&S di Hyundai prevede che le auto prodotte in piccoli volumi con batterie allo stato solido arriveranno entro 5 anni",
+      "date": "2026-09-28T13:00:00.0000000Z"
+    },
+    {
       "id": "motor1:4949f20f8e8b",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -298,7 +334,7 @@
       "category": "motori",
       "title": "L'Alfa Romeo 33 Stradale con fibra di carbonio a vista è incredibile",
       "url": "https://it.motor1.com/news/809858/alfa-romeo-33-stradale-perla-nera/",
-      "image": "https://cdn.motor1.com/images/mgl/QeG3pN/s3/alfa-romeo-33-stradale-perla-nera.jpg",
+      "image": "https://cdn.motor1.com/images/mgl/6ZOQyr/s3/alfa-romeo-33-stradale-perla-nera.jpg",
       "summary": "Unico esemplare della serie, la Alfa Romeo 33 Stradale Perla Nera sfoggia carrozzeria in carbonio a vista e interni su misura in Alcantara",
       "date": "2026-09-28T12:49:47.0000000Z"
     },
@@ -339,16 +375,16 @@
       "date": "2026-09-28T12:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:51fa507ae686",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "motor1:20b457a9b57a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Un modello linguistico AI può guidare un’auto? La sfida vinta da GPT-6 Astra",
-      "url": "https://www.hdmotori.it/modello-linguistico-ai-guida-auto/",
-      "image": null,
-      "summary": "GPT-6 Astra di OpenAI completa per la prima volta un percorso reale al volante di un'auto vera. Ma tra lentezze e costi alle stelle, il traguardo è solo concettuale. The post Un modello linguistico AI può guidare un’a...",
-      "date": "2026-09-28T11:30:54.0000000Z"
+      "title": "Le auto ibride plug-in che fanno più strada in elettrico",
+      "url": "https://it.motor1.com/features/809091/auto-ibride-plug-in-autonomia/",
+      "image": "https://cdn.motor1.com/images/mgl/W8bG4g/s3/le-auto-ibride-plug-in-che-fanno-piu-strada-in-elettrico.jpg",
+      "summary": "Le nuove PHEV ed EREV fanno anche più di 300 km senza consumare benzina. La classifica di autonomia delle migliori vendute in Europa",
+      "date": "2026-09-28T11:00:00.0000000Z"
     },
     {
       "id": "insideevs:748c35540cac",
@@ -360,18 +396,6 @@
       "url": "https://insideevs.it/news/809760/fabbrica-texas-magneti-ev/",
       "image": "https://cdn.motor1.com/images/mgl/Znlyw3/s3/mp-materials-independence-factory.jpg",
       "summary": "La fabbrica di magneti alle terre rare di MP Materials è sul punto di fare la storia. Basterà?",
-      "date": "2026-09-28T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:20b457a9b57a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le auto ibride plug-in che fanno più strada in elettrico",
-      "url": "https://it.motor1.com/features/809091/auto-ibride-plug-in-autonomia/",
-      "image": "https://cdn.motor1.com/images/mgl/W8bG4g/s3/le-auto-ibride-plug-in-che-fanno-piu-strada-in-elettrico.jpg",
-      "summary": "Le nuove PHEV ed EREV fanno anche più di 300 km senza consumare benzina. La classifica di autonomia delle migliori vendute in Europa",
       "date": "2026-09-28T11:00:00.0000000Z"
     },
     {
@@ -421,30 +445,6 @@
       "image": "https://cdn.motor1.com/images/mgl/2N9NLz/s3/2027-bmw-3-series-camouflaged-prototype-of-m350-xdrive.jpg",
       "summary": "Un ultimo teaser della berlina sportiva ridisegnata svela la data di debutto",
       "date": "2026-09-28T09:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:1b47805a1792",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "I nuovi furgoni elettrici Delivan promettono di cambiare le flotte",
-      "url": "https://it.motor1.com/news/809769/delivan-furgoni-elettrici-europa-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/G3bnkE/s3/delivan-l2h3-iaa-transportation-2026.jpg",
-      "summary": "Il marchio di Chery Commercial Vehicle mostra a Hannover L1H1, L2H3 e il telaio L3CC con autonomia fino a 426 km WLTP",
-      "date": "2026-09-28T09:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:e43094378b61",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Così sarà la nuova Alpine A110",
-      "url": "https://it.motor1.com/news/809777/alpine-a110-scultura-anticipazione/",
-      "image": "https://cdn.motor1.com/images/mgl/P3V0eG/s3/alpine-a110-la-scultura-che-anticipa-la-nuova-generazione.jpg",
-      "summary": "Alpine svela una scultura che mostra le forme della nuova generazione elettrica attesa nel 2027",
-      "date": "2026-09-28T08:30:00.0000000Z"
     },
     {
       "id": "insideevs:8d40c762e7b1",
