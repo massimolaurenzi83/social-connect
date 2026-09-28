@@ -1,7 +1,91 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-28T07:48:50.4878401Z",
+  "updated": "2026-09-28T16:07:07.5338538Z",
   "items": [
+    {
+      "id": "cybersecurity360:e5cab06b8a86",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "La frode a Fideuram e la teoria della verità predefinita: cosa impariamo",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/la-frode-a-fideuram-e-la-teoria-della-verita-predefinita-cosa-impariamo/",
+      "image": null,
+      "summary": "Il voice cloning trasforma una voce familiare in uno strumento di social engineering capace di sfruttare fiducia e bias cognitivi. Il caso Fideuram mostra perché non basta formare i dipendenti: servono processi che se...",
+      "date": "2026-09-28T15:55:58.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:3b4ba9a08e8c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "AI, migliaia di incidenti cyber: è difficile governare sistemi sempre più autonomi",
+      "url": "https://www.cybersecurity360.it/news/ai-migliaia-di-incidenti-cyber-e-difficile-governare-sistemi-sempre-piu-autonomi/",
+      "image": null,
+      "summary": "Le società di intelligenza artificiale sono travolte da uno tsunami AI di incidenti di sicurezza. Sarebbero decine di migliaia. Ecco cosa qual è l'impatto e cosa significa per la cyber security di tutti L'articolo AI,...",
+      "date": "2026-09-28T15:02:20.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:177d41868221",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Tutto al DPO? L’AI Act riapre il problema della governance nelle aziende",
+      "url": "https://www.cybersecurity360.it/news/tutto-al-dpo-lai-act-riapre-il-problema-della-governance-nelle-aziende/",
+      "image": null,
+      "summary": "Un’indagine della CNIL sul ruolo del DPO e dell’impatto dell’intelligenza artificiale e dell’AI Act mostrano il crescente coinvolgimento di questa figura nella governance AI, a fronte di assetti organizzativi ancora p...",
+      "date": "2026-09-28T14:51:23.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:99c57d08f5f6",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Continuous compliance: perché la conformità cyber deve passare dalla fotografia al processo",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/continuous-compliance-perche-la-conformita-cyber-deve-passare-dalla-fotografia-al-processo/",
+      "image": null,
+      "summary": "NIS2 e gli altri framework di sicurezza rendono sempre meno efficace una compliance basata su assessment periodici, fogli Excel ed evidenze raccolte manualmente. Ecco la soluzione per collegare governance e sistemi IT...",
+      "date": "2026-09-28T13:40:20.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:10ee7e99d128",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Proton VPN: 168 euro di risparmio con l’offerta biennale a 2,99 euro al mese tra giurisdizione svizzera e codice open source",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/proton-vpn-risparmio-168-euro-piano-biennale-2-99-euro-mese/",
+      "image": null,
+      "summary": "Proton VPN propone il piano biennale a 2,99 euro al mese, con un risparmio indicato di 168 euro. L'offerta include oltre 20.000 server, più di 140 Paesi, protezione per 10 dispositivi e funzionalità avanzate di sicure...",
+      "date": "2026-09-28T11:08:16.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:5d9d2f6de14f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Gestione dei rischi cyber degli agenti IA: i 4 limiti delle regole europee",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/gestione-dei-rischi-cyber-degli-agenti-ia-i-4-limiti-delle-regole-europee/",
+      "image": null,
+      "summary": "Sistemi agentici, durante i test di valutazione condotti dalle stesse aziende, sono usciti dagli ambienti chiusi in cui erano confinati e hanno toccato infrastrutture reali, appartenenti a terzi ignari. Ecco cosa succ...",
+      "date": "2026-09-28T08:27:11.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:0e91cb901cfb",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Agenti AI sotto attacco: come la contaminazione dell’ambiente inganna le difese cyber",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/agenti-ai-sotto-attacco-come-la-contaminazione-dellambiente-inganna-le-difese-cyber/",
+      "image": null,
+      "summary": "Falsi log, endpoint esca e informazioni manipolate possono spingere gli agenti AI verso piste sbagliate, aumentando tempi, token e costi dell’analisi. Una nuova ricerca mostra perché proteggere il prompt non basta e q...",
+      "date": "2026-09-28T07:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:004b93b87eee",
       "sourceId": "cybersecurity360",
@@ -37,90 +121,6 @@
       "image": null,
       "summary": "WhatsApp, e-mail e una voce che avrebbe imitato quella di un professionista conosciuto: così sarebbero stati disposti trasferimenti per 95 milioni da Fideuram, di cui una buona parte già recuperati. Il caso mostra com...",
       "date": "2026-09-25T13:47:18.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:6a027b364b4e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "VPN e cybersecurity: Surfshark include dispositivi illimitati nella suite One con l’85% di sconto",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/surfshark-one-sconto-85-per-cento-dispositivi-illimitati/",
-      "image": null,
-      "summary": "Surfshark propone la suite One con VPN su dispositivi illimitati, antivirus, blocco di annunci e tracker, protezione dei dati personali e strumenti per rilevare le violazioni. L’offerta indicata prevede 2,49 euro al m...",
-      "date": "2026-09-25T10:52:34.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:18c52c9572a4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Videosorveglianza: come distinguere tra GDPR e trattamento dati per finalità di polizia",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/videosorveglianza-come-distinguere-tra-gdpr-e-trattamento-dati-per-finalita-di-polizia/",
-      "image": null,
-      "summary": "La telecamera di un sistema di videosorveglianza per la sicurezza urbana può produrre un trattamento per finalità di polizia e altri per mondi giuridici diversi. Ecco come riconoscerli e come distinguere il D.lgs. 51/...",
-      "date": "2026-09-25T08:04:24.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:70e7c459a74e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Ecco come AI e guerra cibernetica ridefiniscono il nuovo rischio cyber",
-      "url": "https://www.cybersecurity360.it/outlook/ecco-come-ai-e-guerra-cibernetica-ridefiniscono-il-nuovo-rischio-cyber/",
-      "image": null,
-      "summary": "AI, supply chain e geopolitica cambiano lo scenario. La sovranità digitale è diventata questione di controllo su un rischio ormai sistemico . Perché i modelli tradizionali non bastano più e serve ripensare resilienza ...",
-      "date": "2026-09-25T07:41:55.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2941d5782c3e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Caso Revolut: girano documenti di ministeri, quanto è grave",
-      "url": "https://www.cybersecurity360.it/news/caso-revolut-girano-documenti-di-ministeri-quanto-e-grave/",
-      "image": null,
-      "summary": "Il sedicente hacker «IAmNotAVillain» ha pubblicato sample ovvero esempi contenenti informazioni derivanti dal ministero Interno e Giustizia. Ecco cosa mostrano le evidenze L'articolo Caso Revolut: girano documenti di ...",
-      "date": "2026-09-24T17:05:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:175d98eaafef",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "OpenAI, un agente AI viola un sistema governativo australiano: cosa non ha funzionato",
-      "url": "https://www.cybersecurity360.it/news/openai-un-agente-ai-viola-un-sistema-governativo-australiano-cosa-non-ha-funzionato/",
-      "image": null,
-      "summary": "Un agente di OpenAI è riuscito a violare una banca dati sanitaria nazionale australiana. Il primo ministro dell'Australia, Anthony Albanese, lo ha definito il primo caso noto di hacking da parte di un'AI ai danni di u...",
-      "date": "2026-09-24T15:24:54.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:518d11553924",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Quantum-safe network: perché la cybersecurity deve prepararsi all’era post-quantistica",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/quantum-safe-network-perche-la-cybersecurity-deve-prepararsi-allera-post-quantistica/",
-      "image": null,
-      "summary": "Il calcolo quantistico rappresenta una sfida emergente, ma le organizzazioni che gestiscono dati critici iniziano già a ripensare le proprie infrastrutture crittografiche. Il progetto di TIM Enterprise per Cassa di Ri...",
-      "date": "2026-09-24T14:48:16.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ad15ecabd1cb",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Compliance e cyber security: perché la governance non può più essere gestita a silos",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/compliance-e-cyber-security-perche-la-governance-non-puo-piu-essere-gestita-a-silos/",
-      "image": null,
-      "summary": "NIS2, DORA, AI Act, standard ISO e nuovi obblighi regolatori stanno aumentando la complessità della governance della sicurezza. Ecco un approccio data driven che integra assessment, compliance, AI e roadmap di remedia...",
-      "date": "2026-09-24T13:00:00.0000000Z"
     }
   ]
 }
