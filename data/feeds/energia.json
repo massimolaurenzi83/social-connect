@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-09-28T01:50:45.2869451Z",
+  "updated": "2026-09-28T07:48:50.4661545Z",
   "items": [
+    {
+      "id": "qualenergia:d8f84e6c5de1",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Gigafactory di batterie Eni-Seri a Brindisi: formazione al via, serviranno oltre 1000 lavoratori",
+      "url": "https://www.qualenergia.it/articoli/batterie-gigafactory-eni-deri-brindisi-serviranno-1000-lavoratori/",
+      "image": null,
+      "summary": "Il polo produttivo di batterie che Eni e Seri stanno realizzando a Brindisi ha bisogno di una forza lavoro adeguata dal punto di vista numerico e sotto il profilo delle competenze. Per questo motivo le due società si ...",
+      "date": "2026-09-28T07:45:33.0000000Z"
+    },
+    {
+      "id": "qualenergia:be8921e9a5de",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Fotovoltaico e pompe di calore nelle case: perché le detrazioni non bastano",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/fotovoltaico-pompe-calore-case-perche-detrazioni-non-bastano/",
+      "image": null,
+      "summary": "L’Europa chiede di pianificare la decarbonizzazione degli edifici, aggregare gli investimenti e facilitare soprattutto l’accesso delle famiglie ai finanziamenti. In Italia, però, gli strumenti disponibili continuano a...",
+      "date": "2026-09-28T07:00:10.0000000Z"
+    },
     {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
@@ -12,7 +36,7 @@
       "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
       "image": null,
       "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
-      "date": "2026-09-27T04:30:00.0000000Z"
+      "date": "2026-09-28T04:30:00.0000000Z"
     },
     {
       "id": "qualenergia:28c24aba79dc",
@@ -24,7 +48,7 @@
       "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
       "image": null,
       "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
-      "date": "2026-09-26T04:00:00.0000000Z"
+      "date": "2026-09-28T04:00:00.0000000Z"
     },
     {
       "id": "qualenergia:92dee9feb9f7",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "La Commissione europea ha pubblicato ieri, 24 settembre, termini e condizioni finali della IF26 Heat Auction, l’asta Ue per la decarbonizzazione del calore di processo industriale. La gara, finanziata con 1 miliardo d...",
       "date": "2026-09-25T09:00:30.0000000Z"
-    },
-    {
-      "id": "qualenergia:18108a26663c",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Horizon Europe: 227 milioni di euro per dieci nuovi bandi sull’energia",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/horizon-europe-227-milioni-euro-dieci-nuovi-bandi-energia/",
-      "image": null,
-      "summary": "Sono 227,6 milioni di euro le risorse messe a disposizione da Horizon Europe per sostenere progetti di ricerca, innovazione e dimostrazione in diversi ambiti della transizione energetica. La call, identificata con il ...",
-      "date": "2026-09-25T07:30:33.0000000Z"
-    },
-    {
-      "id": "qualenergia:c556cfafbc2a",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Dal 30 settembre l’iscrizione agli elenchi energivori 2027",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/30-settembre-iscrizione-elenchi-energivori-2027/",
-      "image": null,
-      "summary": "A partire dal 30 settembre sarà disponibile il portale telematico della Cassa servizi energetici e ambientali (Csea) per la costituzione dell’elenco 2027 delle imprese a forte consumo elettrico (lo stesso vale per i g...",
-      "date": "2026-09-25T07:15:42.0000000Z"
     }
   ]
 }

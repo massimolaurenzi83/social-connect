@@ -1,7 +1,103 @@
 {
   "category": "motori",
-  "updated": "2026-09-28T01:50:45.2774489Z",
+  "updated": "2026-09-28T07:48:50.4903657Z",
   "items": [
+    {
+      "id": "vaielettrico:13e6d9777676",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Elettrificazione delle flotte secondo Geotab: sfida da gestire, non da subire",
+      "url": "https://www.vaielettrico.it/elettrificazione-delle-flotte-secondo-geotab-sfida-da-gestire-non-da-subire/",
+      "image": null,
+      "summary": "a tranzizione elettrica delle flotte aziendali è un processo virtuoso e inevitabile. Ma l’Italia rischia di subirlo, mentre… L'articolo Elettrificazione delle flotte secondo Geotab: sfida da gestire, non da subire pro...",
+      "date": "2026-09-28T07:23:30.0000000Z"
+    },
+    {
+      "id": "motor1:ff4666d6062f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Renault Megane restyling, prezzi e allestimenti",
+      "url": "https://it.motor1.com/news/809761/renault-megane-2026-prezzi-allestimenti/",
+      "image": "https://cdn.motor1.com/images/mgl/vx7ZXG/s3/renault-megane-e-tech-electric-2026.jpg",
+      "summary": "Recentemente aggiornata, la Megane E-Tech parte da 33.950 euro col ricco allestimento Esprit Alpine",
+      "date": "2026-09-28T07:12:42.0000000Z"
+    },
+    {
+      "id": "hdmotori:a84b416e0b92",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Carburanti, anche IP abbassa i prezzi: quanto si risparmia con il price cap",
+      "url": "https://www.hdmotori.it/carburanti-anche-ip-abbassa-i-prezzi-quanto-si-risparmia-con-il-price-cap/",
+      "image": null,
+      "summary": "Eni e IP introducono un limite ai prezzi di benzina e diesel. Coinvolti potenzialmente fino a 8.500 punti vendita, ma restano gli interrogativi su concorrenza e disponibilità The post Carburanti, anche IP abbassa i pr...",
+      "date": "2026-09-28T07:00:02.0000000Z"
+    },
+    {
+      "id": "insideevs:8d40c762e7b1",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Celle della batteria testate dopo 14 anni: ok per un altri 10 anni",
+      "url": "https://insideevs.it/news/809749/celle-batteria-test-14-anni/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZ0yX/s3/catl-prismatic-lfp-cell.jpg",
+      "summary": "CATL ha fornito le celle per il primo grande progetto di accumulo di energia. 14 anni dopo, non è stata sostituita neanche una batteria",
+      "date": "2026-09-28T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:b8b8ba384f41",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Anche IP sconterà i prezzi di benzina e gasolio",
+      "url": "https://it.motor1.com/news/809755/ip-taglio-prezzi-benzina-diesel-settembre-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/QeG38O/s3/ip-taglio-prezzi-benzina-diesel-settembre-2026.jpg",
+      "summary": "Si parte già da oggi ma ancora non si conosce di quanto verranno tagliati i prezzi dei carburanti",
+      "date": "2026-09-28T06:15:44.0000000Z"
+    },
+    {
+      "id": "motor1:d05279632e99",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ascoltate questo V8 con compressore volumetrico da 1013 CV",
+      "url": "https://it.motor1.com/news/809744/jensen-interceptor-suono-v8-video/",
+      "image": "https://cdn.motor1.com/images/mgl/NG6eWM/s3/jensen-interceptor-v8-engine-sound-video.jpg",
+      "summary": "Il V8 sovralimentato della Jensen Interceptor GTX è ancora in sviluppo e il suo ultimo collaudo ci offre un vero assaggio del sound",
+      "date": "2026-09-28T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:7b53dfc1c0f9",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Batterie al sodio, scoperto un modo per farle durare di più",
+      "url": "https://insideevs.it/news/809608/batterie-sodio-durata-tecnologia/",
+      "image": "https://cdn.motor1.com/images/mgl/VzbeQR/s3/il-carbonio-corallo-che-puo-avvicinare-il-sodio-al-litio.jpg",
+      "summary": "La struttura porosa di un nuovo materiale permette di ospitare più sodio mantenendo stabile l’anodo durante i cicli di ricarica",
+      "date": "2026-09-28T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:a1d428978dd0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BYD Atto 2 vs Toyota C-HR, duello tra SUV ibridi efficienti",
+      "url": "https://it.motor1.com/news/809084/byd-atto-2-vs-toyota-c-hr-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/9mWQ8g/s3/byd-atto-2-vs-toyota-c-hr-2026.jpg",
+      "summary": "Ibride (anche plug-in), sono tra le più vendute del segmento, ma sono molto diverse. Eccole a confronto",
+      "date": "2026-09-28T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:dfc19b752bc7",
       "sourceId": "vaielettrico",
@@ -243,18 +339,6 @@
       "date": "2026-09-26T09:00:21.0000000Z"
     },
     {
-      "id": "hdmotori:b6d5affdf788",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ferrari-F1, l’autunno “del nostro scontento”: adesso non bastano più nemmeno le curve",
-      "url": "https://www.hdmotori.it/ferrari-f1-lautunno-del-nostro-scontento-adesso-non-bastano-piu-nemmeno-le-curve/",
-      "image": null,
-      "summary": "La Rossa fatica a compensare i limiti del motore, mentre gli avversari crescono anche nei tratti guidati. Il Mondiale di F1 è andato The post Ferrari-F1, l’autunno “del nostro scontento”: adesso non bastano più nemmen...",
-      "date": "2026-09-26T08:00:05.0000000Z"
-    },
-    {
       "id": "motor1:0b97e645bf92",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -279,18 +363,6 @@
       "date": "2026-09-26T06:52:16.0000000Z"
     },
     {
-      "id": "insideevs:d1f8d54b430f",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mercedes inizia i test delle batterie che ricaricano in 6 minuti",
-      "url": "https://insideevs.it/news/809549/mercedes-prologium-test-batteria-stato-solido/",
-      "image": "https://cdn.motor1.com/images/mgl/NGMORy/s3/batteria-stato-solido-prologium-con-elettrolita-inorganico.jpg",
-      "summary": "Le celle Gen4 allo stato solido di ProLogium hanno densità di circa 400 Wh/kg e resistono 1.000 cicli",
-      "date": "2026-09-26T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:a2a59c0f3038",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -300,6 +372,18 @@
       "url": "https://it.motor1.com/news/806468/toyota-1x-concept-2007-storia/",
       "image": "https://cdn.motor1.com/images/mgl/BXZ7Qj/s3/toyota-1-x-2007.jpg",
       "summary": "Questo concept del 2007 pesa un terzo di una Prius e ha degli speciali microfoni per filtrare i suoni nell'abitacolo",
+      "date": "2026-09-26T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:d1f8d54b430f",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes inizia i test delle batterie che ricaricano in 6 minuti",
+      "url": "https://insideevs.it/news/809549/mercedes-prologium-test-batteria-stato-solido/",
+      "image": "https://cdn.motor1.com/images/mgl/NGMORy/s3/batteria-stato-solido-prologium-con-elettrolita-inorganico.jpg",
+      "summary": "Le celle Gen4 allo stato solido di ProLogium hanno densità di circa 400 Wh/kg e resistono 1.000 cicli",
       "date": "2026-09-26T05:00:00.0000000Z"
     },
     {
@@ -327,42 +411,6 @@
       "date": "2026-09-25T22:01:00.0000000Z"
     },
     {
-      "id": "motor1:180ad7313a87",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il pendolarismo ti costa una tredicesima: 27 giorni l'anno persi",
-      "url": "https://it.motor1.com/features/809622/mobilita-familiare-distanza-lavoro/",
-      "image": "https://cdn.motor1.com/images/mgl/ZnlyNy/s3/mobilita-e-pendolarismo-lo-studio-di-arval.jpg",
-      "summary": "Per Arval Italia e SDA Bocconi il tempo del pendolarismo vale come una mensilità e, ormai, incide sulla scelta dell’azienda",
-      "date": "2026-09-25T17:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:0cda79ac4641",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Eni blocca i prezzi: benzina 1,99€, gasolio 2,19€",
-      "url": "https://it.motor1.com/news/809640/carburanti-eni-tetto-prezzi-ottobre-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/YAb3NW/s3/eni-blocca-i-prezzi-benzina-1-99-gasolio-2-19.jpg",
-      "summary": "Il price cap di Eni sui distributori Enilive vale 30 giorni prorogabili e si aggancia al taglio delle accise sul diesel",
-      "date": "2026-09-25T16:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:470195e255d3",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Sospensione bollo auto. Ecco I modelli Stellantis esenti nel 2027",
-      "url": "https://it.motor1.com/news/809612/esenzione-bollo-2027-stellantis-modelli/",
-      "image": "https://cdn.motor1.com/images/mgl/Rqkr0m/s3/fiat-grande-panda-turbo-100.jpg",
-      "summary": "Tutti i modelli dei vari brand che restano sotto gli 80 kW con alimentazioni benzina, diesel e ibride",
-      "date": "2026-09-25T16:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:75b29656d816",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -373,30 +421,6 @@
       "image": null,
       "summary": "Viaggio nella Cina elettrica: Edoardo Benericetti, che fa parte dello staff di Vaielettrico, si è fatto più di… L'articolo Viaggio nella Cina elettrica: 4 mila km per capire dove vanno proviene da Vaielettrico .",
       "date": "2026-09-25T15:52:04.0000000Z"
-    },
-    {
-      "id": "vaielettrico:11983f3e3c79",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Eolico offshore: il governo taglia, Emilia Romagna e Puglia protestano",
-      "url": "https://www.vaielettrico.it/eolico-offshore-il-governo-taglia-emilia-romagna-e-puglia-protestano/",
-      "image": null,
-      "summary": "Sull’eolico offshore il Governo frena e taglia le risorse. Lo denunciano due regioni: Emilia‑Romagna e Puglia. Il governatore… L'articolo Eolico offshore: il governo taglia, Emilia Romagna e Puglia protestano proviene...",
-      "date": "2026-09-25T15:48:12.0000000Z"
-    },
-    {
-      "id": "motor1:f16dd9d9bb91",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mercedes GLB, la prova del nuovo SUV per la famiglia",
-      "url": "https://it.motor1.com/reviews/809470/mercedes-glb-2026-ibrida-prova-interni-prezzi/",
-      "image": "https://cdn.motor1.com/images/mgl/JO6BxA/s3/mercedes-glb-la-prova.jpg",
-      "summary": "Ho guidato la GLB 220 4MATIC tra autostrada e sterrato, scoprendo comfort, spazio a bordo, tecnologia e consumi reali",
-      "date": "2026-09-25T15:00:00.0000000Z"
     },
     {
       "id": "insideevs:5412e783c81d",
@@ -432,18 +456,6 @@
       "url": "https://insideevs.it/news/809574/tesla-site-maps-supercharger-visibile/",
       "image": "https://cdn.motor1.com/images/mgl/mM3Kp4/s3/tesla-supercharger.jpg",
       "summary": "Con Site Maps, la normale mappa dei Supercharger lascia spazio a una planimetria dall'alto della stazione. Ma in Italia non c'è ancora",
-      "date": "2026-09-25T13:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:621e79b72efc",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Kia PV5 Chassis Cab ora ha la batteria long-range",
-      "url": "https://it.motor1.com/news/809596/kia-pv5-chassis-cab-batteria/",
-      "image": "https://cdn.motor1.com/images/mgl/2N21Bp/s3/kia-pv5-cargo-chassis-cab.jpg",
-      "summary": "La variante da 71,2 kWh porta fino a 416 km WLTP sulla Cargo L2H1 e offre tempi di ricarica rapidi più adatti alle flotte urbane",
       "date": "2026-09-25T13:00:00.0000000Z"
     },
     {
@@ -507,28 +519,16 @@
       "date": "2026-09-24T15:00:00.0000000Z"
     },
     {
-      "id": "insideevs:de516976434f",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
+      "id": "motor1:cb31e87b6361",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Mercedes premia la ricarica intelligente con 10 centesimi per kWh",
-      "url": "https://insideevs.it/news/809433/mercedes-ricarica-orari-convenienti-mb-charge/",
-      "image": "https://cdn.motor1.com/images/mgl/AkOmoW/s3/mbm-smart-charging-mercedes.jpg",
-      "summary": "Due nuovi servizi MB.CHARGE spostano automaticamente la ricarica nelle fasce orarie più convenienti, uno include anche la tariffa elettrica",
-      "date": "2026-09-24T14:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:b7f38e7e4b06",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Leapmotor dice addio alla batteria da 12 Volt dopo 70 anni",
-      "url": "https://insideevs.it/news/809384/leapmotor-addio-batteria-12v-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/g42Ee8/s3/leapmotor-tech-day-2026.jpg",
-      "summary": "Al Tech Day 2026, Leapmotor presenta la nuova architettura LEAP 5.0 e una batteria che elimina la tradizionale unità da 12 Volt",
-      "date": "2026-09-24T13:00:00.0000000Z"
+      "title": "Perché benzina e diesel hanno questi prezzi?",
+      "url": "https://it.motor1.com/features/789764/prezzo-benzina-diesel-chi-decide/",
+      "image": "https://cdn.motor1.com/images/mgl/lEGKN1/s3/prezzi-benzina-gasolio.jpg",
+      "summary": "Brent, Platts, costi industriali, accise e IVA: spieghiamo perché i carburanti hanno questi prezzi",
+      "date": "2026-03-13T12:00:00.0000000Z"
     }
   ]
 }
