@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-29T14:19:39.5035533Z",
+  "updated": "2026-09-29T19:30:50.6518022Z",
   "items": [
+    {
+      "id": "cybersecurity360:65bccdf05734",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Errore umano nella cyber: perché non è quasi mai la vera causa dell’incidente",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/errore-umano-nella-cyber-perche-non-e-quasi-mai-la-vera-causa-dellincidente/",
+      "image": null,
+      "summary": "Dare la colpa all’utente è semplice, ma raramente impedisce al prossimo incidente di accadere. Se un errore umano è prevedibile e ripetibile, la Root Cause Analysis deve cercare più in profondità: nei controlli mancan...",
+      "date": "2026-09-29T16:18:57.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:251d3bc4d359",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "GPT-6.1 Astra, OpenAI blocca il rilascio per motivi di sicurezza: la posta in gioco",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/gpt-6-1-astra-openai-blocca-il-rilascio-per-motivi-di-sicurezza-la-posta-in-gioco/",
+      "image": null,
+      "summary": "OpenAI rinuncia a GPT-6.1 Astra e sospende il training dei modelli più avanzati dopo nuovi incidenti con agenti autonomi. L’episodio riapre il nodo di una governance AI condivisa, tra articolo 55 dell’AI Act, embedded...",
+      "date": "2026-09-29T14:52:15.0000000Z"
+    },
     {
       "id": "cybersecurity360:f168fc5c0e9d",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Le società di intelligenza artificiale sono travolte da uno tsunami AI di incidenti di sicurezza. Sarebbero decine di migliaia. Ecco cosa qual è l'impatto e cosa significa per la cyber security di tutti L'articolo AI,...",
       "date": "2026-09-28T15:02:20.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:177d41868221",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Tutto al DPO? L’AI Act riapre il problema della governance nelle aziende",
-      "url": "https://www.cybersecurity360.it/news/tutto-al-dpo-lai-act-riapre-il-problema-della-governance-nelle-aziende/",
-      "image": null,
-      "summary": "Un’indagine della CNIL sul ruolo del DPO e dell’impatto dell’intelligenza artificiale e dell’AI Act mostrano il crescente coinvolgimento di questa figura nella governance AI, a fronte di assetti organizzativi ancora p...",
-      "date": "2026-09-28T14:51:23.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:99c57d08f5f6",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Continuous compliance: perché la conformità cyber deve passare dalla fotografia al processo",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/continuous-compliance-perche-la-conformita-cyber-deve-passare-dalla-fotografia-al-processo/",
-      "image": null,
-      "summary": "NIS2 e gli altri framework di sicurezza rendono sempre meno efficace una compliance basata su assessment periodici, fogli Excel ed evidenze raccolte manualmente. Ecco la soluzione per collegare governance e sistemi IT...",
-      "date": "2026-09-28T13:40:20.0000000Z"
     }
   ]
 }
