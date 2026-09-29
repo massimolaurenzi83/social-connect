@@ -1,7 +1,19 @@
 {
   "category": "spazio",
-  "updated": "2026-09-29T07:33:20.8421460Z",
+  "updated": "2026-09-29T14:19:39.5158864Z",
   "items": [
+    {
+      "id": "astronautinews:9a093586bab2",
+      "sourceId": "astronautinews",
+      "source": "AstronautiNEWS",
+      "platform": "rss",
+      "category": "spazio",
+      "title": "Secondo flyby della Terra per Juice",
+      "url": "https://www.astronautinews.it/2026/09/secondo-flyby-della-terra-per-juice/",
+      "image": "https://www.astronautinews.it/wp-content/uploads/2026/09/ESA-Juice-Earth-flyby-2026.jpg",
+      "summary": "Ieri 28 settembre 2026, la sonda interplanetaria europea Juice, che dall'aprile 2023 è in viaggio per raggiungere il sistema gioviano, ha effettuato un passaggio ravvicinato del nostro Pianeta per acquisire velocità e...",
+      "date": "2026-09-29T10:00:00.0000000Z"
+    },
     {
       "id": "astronautinews:ac12ad1f2800",
       "sourceId": "astronautinews",
@@ -133,18 +145,6 @@
       "image": "https://www.astronautinews.it/wp-content/uploads/2026/08/Screenshot-198-e1785918839529.png",
       "summary": "Il programma Artemis , dedicato all'esplorazione umana della Luna da parte degli Stati Uniti, è molto complesso e strutturato in diversi sottoprogrammi con scopi precisi. Tuttavia, nel corso degli anni, è stato modifi...",
       "date": "2026-08-06T08:30:00.0000000Z"
-    },
-    {
-      "id": "astronautinews:1d100bedab38",
-      "sourceId": "astronautinews",
-      "source": "AstronautiNEWS",
-      "platform": "rss",
-      "category": "spazio",
-      "title": "Il terremoto in Venezuela visto da Sentinel-1",
-      "url": "https://www.astronautinews.it/2026/08/il-terremoto-in-venezuela-visto-da-sentinel-1/",
-      "image": "https://www.astronautinews.it/wp-content/uploads/2011/12/sentinel-1.jpg",
-      "summary": "A poco più di un mese dai due catastrofici terremoti che hanno colpito la parte settentrionale del Venezuela lo scorso 24 giugno 2026, i dati raccolti dai satelliti europei hanno evidenziato come lo spostamento del te...",
-      "date": "2026-08-05T13:00:00.0000000Z"
     }
   ]
 }

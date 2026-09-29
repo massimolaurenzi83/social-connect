@@ -1,7 +1,55 @@
 {
   "category": "ai",
-  "updated": "2026-09-29T07:33:20.8912020Z",
+  "updated": "2026-09-29T14:19:39.5255762Z",
   "items": [
+    {
+      "id": "ai4business:e0d2832ae4c9",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AMD compra World Labs per 8,2 mld di dollari: l’analisi tecnica, world model, simulazione e silicio",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/amd-compra-world-labs-per-82-miliardi-di-dollari-lanalisi-tecnica-world-model-simulazione-e-silicio/",
+      "image": null,
+      "summary": "Dentro l'operazione ci sono Atlas, un world model che ricostruisce spazi 3D da poche foto, un motore che addestra robot in simulazione e il co-design tra modelli e GPU Instinct. Le integrazioni possibili nei prossimi ...",
+      "date": "2026-09-29T11:18:02.0000000Z"
+    },
+    {
+      "id": "ai4business:adb71c1922e1",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Claude Sonnet 5.5, cosa dice la system card: cyber, guardrail, costi",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/claude-sonnet-5-5-cosa-dice-la-system-card-cyber-guardrail-costi/",
+      "image": null,
+      "summary": "La scheda di sistema di Sonnet 5.5, pubblicata il 28 settembre 2026, descrive un modello che tiene il prezzo di Sonnet 5 (2/10 dollari per milione di token) ma cambia il resto: un salto sul terreno cyber che porta i g...",
+      "date": "2026-09-29T10:43:48.0000000Z"
+    },
+    {
+      "id": "ai4business:c92e6e24531d",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "OpenAI ferma GPT-6.1 Astra per problemi di sicurezza",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/openai-ferma-gpt-6-1-astra-per-problemi-di-sicurezza/",
+      "image": null,
+      "summary": "OpenAI ha cancellato il lancio del nuovo modello dopo test di allineamento peggiori rispetto a GPT-6 Astra. La decisione arriva dopo incidenti che hanno coinvolto agenti autonomi, siti governativi e dati degli utenti....",
+      "date": "2026-09-29T10:13:10.0000000Z"
+    },
+    {
+      "id": "ai4business:3bb6ff208417",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Anthropic lancia Sonnet 5.5: più veloce, stesso prezzo",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/anthropic-lancia-sonnet-5-5-piu-veloce-stesso-prezzo/",
+      "image": null,
+      "summary": "Il nuovo modello mantiene i prezzi di Sonnet 5, migliora nei benchmark di coding e lavoro professionale e arriva subito sui principali cloud. Ma i test indipendenti mostrano che il costo reale dipende dal livello di e...",
+      "date": "2026-09-29T08:48:32.0000000Z"
+    },
     {
       "id": "ai4business:e120bcf85258",
       "sourceId": "ai4business",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "L’AI governance si evolve con la diffusione di GenAI e sistemi agentici. Massimo Ippoliti, executive director di GFT Italia spiega come definire responsabilità, controlli e modelli operativi capaci di governare rischi...",
       "date": "2026-09-28T09:39:26.0000000Z"
-    },
-    {
-      "id": "ai4business:aef5b58de2ba",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Marchesini (Confindustria): “Serve una politica di sostegno per l’intelligenza artificiale nelle imprese, un piano AI 5.0”",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-manager/marchesini-confindustria-serve-una-politica-di-sostegno-per-lintelligenza-artificiale-nelle-imprese-una-sorta-di-piano-ai-5-0/",
-      "image": null,
-      "summary": "Il presidente di Marchesini Group, vicepresidente di Confindustria e di Nomisma, indica ad AI4Business le mosse necessarie per incrementare lo sviluppo dell’AI nelle aziende: “occorre definire a livello europeo e nazi...",
-      "date": "2026-09-25T16:00:11.0000000Z"
-    },
-    {
-      "id": "ai4business:7a158ee9c432",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Claude: platform.claude.com, la console developer che cambia il rapporto con l’AI in produzione",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/claude-platform-claude-com-la-console-developer-che-cambia-il-rapporto-con-lai-in-produzione/",
-      "image": null,
-      "summary": "Workbench per testing strutturato dei prompt, prompt caching che taglia i costi del 90%, Batch API che dimezza il prezzo dei token, Files API, Skills via API, MCP Connector lato server, prompt sharing per team. Ottava...",
-      "date": "2026-09-25T15:46:37.0000000Z"
-    },
-    {
-      "id": "ai4business:f9b3d39274fc",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Pentagono Usa, 30 milioni di dollari per scoprire le bugie con l’AI",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/pentagono-usa-30-milioni-di-dollari-per-scoprire-le-bugie-con-lai/",
-      "image": null,
-      "summary": "Il Pentagono vuole investire 30,3 milioni di dollari in cinque anni per sviluppare Polygraph Next, un sistema che combina sensori fisiologici senza contatto e algoritmi di intelligenza artificiale. Il progetto mira or...",
-      "date": "2026-09-25T14:31:11.0000000Z"
-    },
-    {
-      "id": "ai4business:ebbfd825c5fd",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Cyber insurance e risk management: ottimizzare le polizze assicurative per i rischi infrastrutturali",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/cyber-insurance-e-risk-management-ottimizzare-le-polizze-assicurative-per-i-rischi-infrastrutturali/",
-      "image": null,
-      "summary": "Le polizze cyber trasferiscono una parte del rischio residuo, ma richiedono controlli documentabili e informazioni affidabili. Monitoraggio, gestione degli incidenti e metriche storiche possono migliorare il dialogo c...",
-      "date": "2026-09-25T11:40:30.0000000Z"
     },
     {
       "id": "guerredirete:119b0497de08",
