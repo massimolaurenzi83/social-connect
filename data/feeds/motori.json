@@ -1,7 +1,79 @@
 {
   "category": "motori",
-  "updated": "2026-09-29T01:43:38.0721290Z",
+  "updated": "2026-09-29T07:33:20.8389009Z",
   "items": [
+    {
+      "id": "motor1:6da55d11e574",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Lexus ES (2026), prezzi e allestimenti",
+      "url": "https://it.motor1.com/news/809963/lexus-es-2026-prezzo-allestimenti-motori/",
+      "image": "https://cdn.motor1.com/images/mgl/pb8301/s3/lexus-es-2026.jpg",
+      "summary": "La nuova Lexus ES arriva in Italia con motorizzazioni full hybrid ed elettriche, prezzi da 62.700 euro e fino a 581 km di autonomia EV",
+      "date": "2026-09-29T07:28:52.0000000Z"
+    },
+    {
+      "id": "insideevs:1c1b6d661bb6",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Un brevetto svela l'ala posteriore della Tesla Roadster",
+      "url": "https://insideevs.it/news/809883/tesla-roadster-ala-attiva-brevetto/",
+      "image": "https://cdn.motor1.com/images/mgl/AkOQxL/s3/tesla-roadster-active-aero-patent-illustration.jpg",
+      "summary": "Un brevetto anticipa un'ala posteriore attiva a due elementi, progettata per offrire velocità sul dritto e carico in curva",
+      "date": "2026-09-29T07:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:56e45fdc40cc",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La presentazione della Tesla Roadster è rinviata al 15 ottobre",
+      "url": "https://insideevs.it/news/809957/tesla-roadster-presentazione-rinviata-15-ottobre/",
+      "image": "https://cdn.motor1.com/images/mgl/6ZOQnZ/s3/tesla-roadster-concept.jpg",
+      "summary": "Tesla ha preso la \"difficile decisione\" di rinviare al 15 ottobre la presentazione della Roadster, citando problemi meteo",
+      "date": "2026-09-29T05:50:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:ebfdb7d2d7b0",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nautica: Paesi Bassi in vetta per cantieri elettrici e barche a batteria",
+      "url": "https://www.vaielettrico.it/nautica-paesi-bassi-in-vetta-per-cantieri-elettrici-e-barche-a-batteria/",
+      "image": null,
+      "summary": "Siamo il Paese della nautica a livello mondiale, ma non ancora di quella elettrica. Scorrendo Europe’s Electric Boat… L'articolo Nautica: Paesi Bassi in vetta per cantieri elettrici e barche a batteria proviene da Vai...",
+      "date": "2026-09-29T05:42:18.0000000Z"
+    },
+    {
+      "id": "motor1:b3bd9774042e",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Gli interni e il bagagliaio della nuova Mitsubishi Pajero",
+      "url": "https://it.motor1.com/news/807780/mitsubishi-pajero-2026-interni-bagagliaio/",
+      "image": "https://cdn.motor1.com/images/mgl/BX1Xoe/s3/mitsubishi-pajero-2026-interni-e-bagagliaio.jpg",
+      "summary": "Lo storico fuoristrada ritorna con un abitacolo moderno, ma sempre spazioso e molto pratico",
+      "date": "2026-09-29T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:5e846c86294e",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mazda 6e vs Hyundai Ioniq 6, confronto tra ammiraglie elettriche",
+      "url": "https://insideevs.it/news/807787/mazda-6e-vs-hyundai-ioniq-6/",
+      "image": "https://cdn.motor1.com/images/mgl/XBbYLV/s3/mazda-6e-vs-hyundai-ioniq-6.jpg",
+      "summary": "Grandi, spaziose, ben rifinite e ricche di tecnologia: ecco come si sfidano la 6e e la Ioniq 6",
+      "date": "2026-09-29T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:b7dad0a84d38",
       "sourceId": "vaielettrico",
@@ -63,18 +135,6 @@
       "date": "2026-09-28T16:00:02.0000000Z"
     },
     {
-      "id": "insideevs:28bf6484d8d8",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Tesla Semi è finalmente realtà",
-      "url": "https://insideevs.it/news/809873/tesla-semi-consegne-prezzi-diesel/",
-      "image": "https://cdn.motor1.com/images/mgl/9mW97p/s3/tesla-semi-european-specification.jpg",
-      "summary": "Sta arrivando il camion elettrico di Tesla che promette di abbattere i costi del diesel e cambiare i conti del trasporto pesante",
-      "date": "2026-09-28T16:00:00.0000000Z"
-    },
-    {
       "id": "motor1:5744bf7aca1e",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -84,6 +144,18 @@
       "url": "https://it.motor1.com/news/809877/chery-stockman-pick-up-plug-in-diesel/",
       "image": "https://cdn.motor1.com/images/mgl/bgOBrM/s3/chery-stockman.jpg",
       "summary": "La Chery Stockman è dotata di due serbatoi, una batteria ad alta tensione, trazione integrale e un’elevata capacità di traino.",
+      "date": "2026-09-28T16:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:28bf6484d8d8",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Tesla Semi è finalmente realtà",
+      "url": "https://insideevs.it/news/809873/tesla-semi-consegne-prezzi-diesel/",
+      "image": "https://cdn.motor1.com/images/mgl/9mW97p/s3/tesla-semi-european-specification.jpg",
+      "summary": "Sta arrivando il camion elettrico di Tesla che promette di abbattere i costi del diesel e cambiare i conti del trasporto pesante",
       "date": "2026-09-28T16:00:00.0000000Z"
     },
     {
@@ -99,18 +171,6 @@
       "date": "2026-09-28T15:00:02.0000000Z"
     },
     {
-      "id": "insideevs:0452497084a6",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Geely investe nel battery swap di NIO: l'unione fa la forza",
-      "url": "https://insideevs.it/news/809804/nio-geely-accordo-battery-swap/",
-      "image": "https://cdn.motor1.com/images/mgl/Xx7nv/s3/nio-battery-swap-station---power-swap-station-2.0.jpg",
-      "summary": "L'unico modo per combattere l'ascesa della ricarica ultra rapida e trovare standard comuni a più marchi automobilistici",
-      "date": "2026-09-28T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:15d55676804d",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -120,6 +180,18 @@
       "url": "https://it.motor1.com/news/809870/akio-toyoda-discorso-hall-fame/",
       "image": "https://cdn.motor1.com/images/mgl/zx0VN8/s3/akio-toyoda-inducted-into-the-automotive-hall-of-fame-2026.jpg",
       "summary": "Il presidente di Toyoda è ora nell'Automotive Hall of Fame. E chiede ai marchi di tutto il mondo di collaborare",
+      "date": "2026-09-28T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:0452497084a6",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Geely investe nel battery swap di NIO: l'unione fa la forza",
+      "url": "https://insideevs.it/news/809804/nio-geely-accordo-battery-swap/",
+      "image": "https://cdn.motor1.com/images/mgl/Xx7nv/s3/nio-battery-swap-station---power-swap-station-2.0.jpg",
+      "summary": "L'unico modo per combattere l'ascesa della ricarica ultra rapida e trovare standard comuni a più marchi automobilistici",
       "date": "2026-09-28T15:00:00.0000000Z"
     },
     {
@@ -195,30 +267,6 @@
       "date": "2026-09-28T13:39:29.0000000Z"
     },
     {
-      "id": "vaielettrico:be2e34ee32b2",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vaielettrico Awards categoria I campioni della filiera elettrica",
-      "url": "https://www.vaielettrico.it/i-campioni-della-filiera-elettrica-vaielettrico-awards/",
-      "image": null,
-      "summary": "Dietro la silhouette filante di ogni veicolo elettrico si nasconde un universo invisibile ma straordinario di competenze, ingegneria… L'articolo Vaielettrico Awards categoria I campioni della filiera elettrica provien...",
-      "date": "2026-09-28T13:39:29.0000000Z"
-    },
-    {
-      "id": "vaielettrico:4d078d90ee52",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vaielettrico Awards categoria Flotte elettriche al top",
-      "url": "https://www.vaielettrico.it/flotte-elettriche-al-top-vaielettrico-awards/",
-      "image": null,
-      "summary": "Decarbonizzare i grandi parchi auto aziendali è la chiave di volta per accelerare la transizione ecologica su scala… L'articolo Vaielettrico Awards categoria Flotte elettriche al top proviene da Vaielettrico .",
-      "date": "2026-09-28T13:39:29.0000000Z"
-    },
-    {
       "id": "vaielettrico:521fa5742de0",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -255,16 +303,28 @@
       "date": "2026-09-28T13:39:29.0000000Z"
     },
     {
-      "id": "vaielettrico:ffbbe77d98d3",
+      "id": "vaielettrico:be2e34ee32b2",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
       "platform": "rss",
       "category": "motori",
-      "title": "Vaielettrico Awards categoria La ricarica più innovativa",
-      "url": "https://www.vaielettrico.it/la-ricarica-piu-innovativa-vaielettrico-awards/",
+      "title": "Vaielettrico Awards categoria I campioni della filiera elettrica",
+      "url": "https://www.vaielettrico.it/i-campioni-della-filiera-elettrica-vaielettrico-awards/",
       "image": null,
-      "summary": "C’era una volta l’ansia da ricarica; oggi c’è un’infrastruttura intelligente capace di integrarsi perfettamente nelle nostre giornate e… L'articolo Vaielettrico Awards categoria La ricarica più innovativa proviene da ...",
-      "date": "2026-09-28T13:39:28.0000000Z"
+      "summary": "Dietro la silhouette filante di ogni veicolo elettrico si nasconde un universo invisibile ma straordinario di competenze, ingegneria… L'articolo Vaielettrico Awards categoria I campioni della filiera elettrica provien...",
+      "date": "2026-09-28T13:39:29.0000000Z"
+    },
+    {
+      "id": "vaielettrico:4d078d90ee52",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Vaielettrico Awards categoria Flotte elettriche al top",
+      "url": "https://www.vaielettrico.it/flotte-elettriche-al-top-vaielettrico-awards/",
+      "image": null,
+      "summary": "Decarbonizzare i grandi parchi auto aziendali è la chiave di volta per accelerare la transizione ecologica su scala… L'articolo Vaielettrico Awards categoria Flotte elettriche al top proviene da Vaielettrico .",
+      "date": "2026-09-28T13:39:29.0000000Z"
     },
     {
       "id": "vaielettrico:e561f2a76406",
@@ -303,18 +363,6 @@
       "date": "2026-09-28T13:00:07.0000000Z"
     },
     {
-      "id": "motor1:c0cfcedd4d14",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La trovata di Skoda che potrebbe cambiare il modo di vivere l’auto",
-      "url": "https://it.motor1.com/news/809634/skoda-stampa-3d-accessori/",
-      "image": "https://cdn.motor1.com/images/mgl/AkOQ3x/s3/skoda-zubehor-und-modelle-aus-dem-3d-drucker.jpg",
-      "summary": "La Casa ceca punta su un’idea semplice e sorprendente per rendere le sue auto ancora più pratiche anche dopo l’acquisto: la stampa 3D",
-      "date": "2026-09-28T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:a1b9855b9c65",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -324,6 +372,18 @@
       "url": "https://insideevs.it/news/809850/hyundai-batterie-stato-solido/",
       "image": "https://cdn.motor1.com/images/mgl/YAOXxv/s3/hyundai-staria-electric-2026.jpg",
       "summary": "Il responsabile R&S di Hyundai prevede che le auto prodotte in piccoli volumi con batterie allo stato solido arriveranno entro 5 anni",
+      "date": "2026-09-28T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:c0cfcedd4d14",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La trovata di Skoda che potrebbe cambiare il modo di vivere l’auto",
+      "url": "https://it.motor1.com/news/809634/skoda-stampa-3d-accessori/",
+      "image": "https://cdn.motor1.com/images/mgl/AkOQ3x/s3/skoda-zubehor-und-modelle-aus-dem-3d-drucker.jpg",
+      "summary": "La Casa ceca punta su un’idea semplice e sorprendente per rendere le sue auto ancora più pratiche anche dopo l’acquisto: la stampa 3D",
       "date": "2026-09-28T13:00:00.0000000Z"
     },
     {
@@ -423,30 +483,6 @@
       "date": "2026-09-28T10:15:00.0000000Z"
     },
     {
-      "id": "motor1:aaedce657fc7",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa è la nuova Volkswagen Tiguan",
-      "url": "https://it.motor1.com/news/809779/volkswagen-id-tiguan-sostituisce-id-4/",
-      "image": "https://cdn.motor1.com/images/mgl/vx7ZyG/s3/2027-volkswagen-id.-tiguan-camouflaged-prototype.jpg",
-      "summary": "O meglio la ID. Tiguan, che sostituisce la ID.4 ormai pronta per la pensione",
-      "date": "2026-09-28T10:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:cb15f9ff4ad7",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa settimana vedremo la nuova BMW Serie 3 a benzina",
-      "url": "https://it.motor1.com/news/809784/bmw-3-series-2027-debutto/",
-      "image": "https://cdn.motor1.com/images/mgl/2N9NLz/s3/2027-bmw-3-series-camouflaged-prototype-of-m350-xdrive.jpg",
-      "summary": "Un ultimo teaser della berlina sportiva ridisegnata svela la data di debutto",
-      "date": "2026-09-28T09:30:00.0000000Z"
-    },
-    {
       "id": "insideevs:8d40c762e7b1",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -493,42 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/NGMORy/s3/batteria-stato-solido-prologium-con-elettrolita-inorganico.jpg",
       "summary": "Le celle Gen4 allo stato solido di ProLogium hanno densità di circa 400 Wh/kg e resistono 1.000 cicli",
       "date": "2026-09-26T05:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:5412e783c81d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla si fa la batteria da sola: il Cybercab è il primo",
-      "url": "https://insideevs.it/news/809555/tesla-cybercab-batteria/",
-      "image": "https://cdn.motor1.com/images/mgl/QeG3ON/s3/tesla-robotaxi.jpg",
-      "summary": "Il primo Cybercab con materiale catodico prodotto da Tesla segna una svolta nella strategia dell’azienda per le batterie",
-      "date": "2026-09-25T15:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:e5ee8d37e53c",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Una nuova alleanza rende più facile ricaricare l'auto elettrica",
-      "url": "https://insideevs.it/news/809575/auto-elettrica-ricarica-alleanza-fastned/",
-      "image": "https://cdn.motor1.com/images/mgl/QeG3yN/s3/una-nuova-alleanza-rende-piu-facile-ricaricare-l-auto-elettrica.jpg",
-      "summary": "Fastned entra nel Preferred Partner Program di Digital Charging Solutions: oltre 430 stazioni saranno più visibili",
-      "date": "2026-09-25T14:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:43c16c1b4df9",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'app Tesla ora ti mostra i Supercharger e i posti liberi",
-      "url": "https://insideevs.it/news/809574/tesla-site-maps-supercharger-visibile/",
-      "image": "https://cdn.motor1.com/images/mgl/mM3Kp4/s3/tesla-supercharger.jpg",
-      "summary": "Con Site Maps, la normale mappa dei Supercharger lascia spazio a una planimetria dall'alto della stazione. Ma in Italia non c'è ancora",
-      "date": "2026-09-25T13:00:00.0000000Z"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-29T01:43:38.1105425Z",
+  "updated": "2026-09-29T07:33:20.8329480Z",
   "items": [
+    {
+      "id": "cybersecurity360:ae2b1d1d9ffd",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "GPT-6 Astra e l’attacco alla supply chain: quando l’AI viola le regole",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/gpt-6-astra-e-lattacco-alla-supply-chain-quando-lai-viola-le-regole/",
+      "image": null,
+      "summary": "GPT-6 Astra ha condotto attacchi supply chain simulati anche oltre i limiti assegnati. Il rapporto dell’UK AI Security Institute (AISI) mostra il nuovo rischio degli agenti AI: sistemi capaci di interpretare gli obiet...",
+      "date": "2026-09-29T07:17:13.0000000Z"
+    },
     {
       "id": "cybersecurity360:e5cab06b8a86",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "La resilienza dei sistemi ICT non è un argomento strettamente normativo ma di gestione, dal momento che impatta fortemente sulla capacità dell'organizzazione di rimanere sul mercato, comportando conseguenze non solo i...",
       "date": "2026-09-25T14:00:21.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:eed24ff8b4be",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Frode a Fideuram, persi 36 milioni: con l’AI la voce non basta più a verificare l’identità",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/frode-a-fideuram-persi-36-milioni-con-lai-la-voce-non-basta-piu-a-verificare-lidentita/",
-      "image": null,
-      "summary": "WhatsApp, e-mail e una voce che avrebbe imitato quella di un professionista conosciuto: così sarebbero stati disposti trasferimenti per 95 milioni da Fideuram, di cui una buona parte già recuperati. Il caso mostra com...",
-      "date": "2026-09-25T13:47:18.0000000Z"
     }
   ]
 }

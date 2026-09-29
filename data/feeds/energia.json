@@ -1,7 +1,43 @@
 {
   "category": "energia",
-  "updated": "2026-09-29T01:43:38.1014148Z",
+  "updated": "2026-09-29T07:33:20.8874421Z",
   "items": [
+    {
+      "id": "qualenergia:c1d66e01f6f4",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Solare a media temperatura per il teleriscaldamento",
+      "url": "https://www.qualenergia.it/articoli/solare-media-temperatura-per-teleriscaldamento/",
+      "image": null,
+      "summary": "Da ottobre 2024 gli abitanti di Groningen, una città di quasi 250mila abitanti dei Paesi Bassi settentrionali e capoluogo della provincia omonima, ricevono parte del loro calore da un nuovo impianto solare termico, un...",
+      "date": "2026-09-29T07:00:52.0000000Z"
+    },
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-09-29T04:30:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-09-29T04:00:00.0000000Z"
+    },
     {
       "id": "qualenergia:7db04b1722df",
       "sourceId": "qualenergia",
@@ -109,42 +145,6 @@
       "image": null,
       "summary": "Arera ha fissato a 27.000 €/MWh/anno il premio massimo per la seconda asta del Macse, il meccanismo di approvvigionamento a termine della capacità di stoccaggio elettrico, prevista per il 24 novembre 2026 e con anno d...",
       "date": "2026-09-28T08:30:47.0000000Z"
-    },
-    {
-      "id": "qualenergia:d8f84e6c5de1",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Gigafactory di batterie Eni-Seri a Brindisi: formazione al via, serviranno oltre 1000 lavoratori",
-      "url": "https://www.qualenergia.it/articoli/batterie-gigafactory-eni-deri-brindisi-serviranno-1000-lavoratori/",
-      "image": null,
-      "summary": "Il polo produttivo di batterie che Eni e Seri stanno realizzando a Brindisi ha bisogno di una forza lavoro adeguata dal punto di vista numerico e sotto il profilo delle competenze. Per questo motivo le due società si ...",
-      "date": "2026-09-28T07:45:33.0000000Z"
-    },
-    {
-      "id": "qualenergia:be8921e9a5de",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Fotovoltaico e pompe di calore nelle case: perché le detrazioni non bastano",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/fotovoltaico-pompe-calore-case-perche-detrazioni-non-bastano/",
-      "image": null,
-      "summary": "L’Europa chiede di pianificare la decarbonizzazione degli edifici, aggregare gli investimenti e facilitare soprattutto l’accesso delle famiglie ai finanziamenti. In Italia, però, gli strumenti disponibili continuano a...",
-      "date": "2026-09-28T07:00:10.0000000Z"
-    },
-    {
-      "id": "qualenergia:ad1efef48b95",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Aprono 4 bandi per la transizione energetica: contributi a imprese, enti pubblici e CER",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/aprono-bandi-transizione-energetica-contributi-imprese-enti-pubblici-cer/",
-      "image": null,
-      "summary": "Tra il 28 e il 30 settembre 2026 aprono quattro bandi che mettono complessivamente a disposizione circa 31,4 milioni di euro per sostenere investimenti e progetti a favore della transizione energetica. Le misure sono ...",
-      "date": "2026-09-28T06:55:40.0000000Z"
     }
   ]
 }
