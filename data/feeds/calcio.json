@@ -1,7 +1,199 @@
 {
   "category": "calcio",
-  "updated": "2026-09-29T19:30:50.7033360Z",
+  "updated": "2026-09-29T23:10:13.1133839Z",
   "items": [
+    {
+      "id": "fcinternews:93b0d9656375",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Giordano: \"Frattesi alla Lazio va bene così com'è. Restò all'Inter perché...\"",
+      "url": "https://www.fcinternews.it/news/giordano-frattesi-lazio-com-e-resto-inter-perche-1019611",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/8f/8f1754c49774d5485abe7831d10c7940-07135-910o31o1621o742z0ce8.jpeg",
+      "summary": "Bruno Giordano, ex attaccante della Lazio, ha parlato ai microfoni di RadioSei commentando le dichiarazioni di ieri di Davide Frattesi successive all'incontro con la Turchia: \"Chiaramente Frattesi ha voglia di miglior...",
+      "date": "2026-09-29T23:00:19.0000000Z"
+    },
+    {
+      "id": "fcinternews:949d9bbbf503",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Finalmente le Nazionali",
+      "url": "https://www.fcinternews.it/editoriale/nazionali-1019630",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/09/0993179268fa9e4600f025653c0ae962-06603-oooz0000.jpeg",
+      "summary": "Finalmente le nazionali. Io, a differenza di moltissimi colleghi e tifosi, sono contento quando gioca l’Italia.",
+      "date": "2026-09-29T22:00:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:ec3e29b35ecc",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Canovi: \"La Roma contenderà lo Scudetto fino alla fine all'Inter\"",
+      "url": "https://www.fcinternews.it/news/canovi-la-roma-contendera-scudetto-inter-1019635",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3e/3e77796d6ddd8dfa5b13a91723b44871-79673-oooz0000.jpeg",
+      "summary": "Il procuratore Alessandro Canovi ha parlato ai microfoni di TMW Radio, soffermandosi in particolare sulla Nazionale: \"È un momento di verificare cosa abbiamo, soprattutto tra i giovani.",
+      "date": "2026-09-29T21:55:12.0000000Z"
+    },
+    {
+      "id": "fcinternews:302903176b10",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Sucic inchioda la Croazia: \"Siamo stati pessimi. Ci sono cose non chiare\"",
+      "url": "https://www.fcinternews.it/in-primo-piano/sucic-inchioda-croazia-siamo-pessimi-cose-chiare-1019642",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/a4/a47b9b69fa09201032c77336724d4f9c-67512-526o168o1201o843z0ab2.jpeg",
+      "summary": "Giocatori della Croazia amareggiati dopo la brutta sconfitta di Siviglia contro la Spagna.",
+      "date": "2026-09-29T21:45:00.0000000Z"
+    },
+    {
+      "id": "fcinternews:930ed42b6661",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "SI - Il Bologna ha deciso: Darmian firma fino a fine stagione",
+      "url": "https://www.fcinternews.it/ex-nerazzurri/i-si-i-bologna-deciso-darmian-firma-stagione-1019641",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c9/c9856571cee45ee1f55e44f483121ace-55803-oooz0000.jpeg",
+      "summary": "Il Bologna ha rotto gli indugi: secondo Sportitalia, il club rossoblu ha deciso di tesserare Matteo Darmian.",
+      "date": "2026-09-29T21:39:03.0000000Z"
+    },
+    {
+      "id": "fcinternews:7646399824b1",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Akanji: \"Il gol di Rodriguez importante. Ci mancano Xhaka ed Embolo\"",
+      "url": "https://www.fcinternews.it/copertina/akanji-il-gol-rodriguez-importante-mancano-xhaka-embolo-1019640",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c4/c499b144847d19264e0dae5e25557373-76041-oooz0000.jpeg",
+      "summary": "Dopo la secca vittoria per 3-0 ai danni della Scozia da parte della sua Svizzera, Manuel Akanji, capitano della Nati in sostituzione di Granit Xhaka, racconta del terzo gol di Zeki Amdouni che ha chiuso la partita: \"H...",
+      "date": "2026-09-29T21:25:12.0000000Z"
+    },
+    {
+      "id": "fcinternews:888837f2684c",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "La Costa d'Avorio la sblocca nel finale, Somalia KO: Bonny in panchina",
+      "url": "https://www.fcinternews.it/news/costa-avorio-sblocca-finale-somalia-ko-bonny-panchina-1019639",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/81/816eccda3c5e4fd480bfc3722b98af22-23415-oooz0000.jpeg",
+      "summary": "La risolve soltanto nel finale di partita la Costa d'Avorio di Hervé Renard, che riesce ad avere ragione della Somalia solo nelle battute conclusive dell'incontro conquistando tre punti preziosi per rimanere in scia d...",
+      "date": "2026-09-29T21:10:20.0000000Z"
+    },
+    {
+      "id": "calciomercato-it:d2040ed1eae1",
+      "sourceId": "calciomercato-it",
+      "source": "Calciomercato.it",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Francia-Italia, un’assenza eccellente e due rientri tra gli azzurri",
+      "url": "https://www.calciomercato.it/2026/09/29/francia-italia-unassenza-eccellente-e-due-rientri-tra-gli-azzurri/",
+      "image": null,
+      "summary": "L'articolo Francia-Italia, un’assenza eccellente e due rientri tra gli azzurri proviene da CalcioMercato.it .",
+      "date": "2026-09-29T21:00:50.0000000Z"
+    },
+    {
+      "id": "fcinternews:8c1b35bcbc57",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Qui Parma - Primo allenamento per Gilardino. Il 2 ottobre test con l'Entella",
+      "url": "https://www.fcinternews.it/l-avversario/parma-allenamento-gilardino-2-ottobre-test-entella-1019637",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/24/2452ae819e749983171bf2719468ccb9-87454-oooz0000.jpeg",
+      "summary": "Si è svolto nel pomeriggio il primo allenamento del nuovo Parma di Alberto Gilardino.",
+      "date": "2026-09-29T20:57:18.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:33c02ff01b0e",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "A lezione da Rooney: &quot;Campione senza essere arrivato primo? Non sarei a mio agio&quot;",
+      "url": "https://www.tuttosport.com/news/calcio/calcio-estero/premier-league/2026/09/29-151561249/a_lezione_da_rooney_campione_senza_essere_arrivato_primo_non_sarei_a_mio_agio/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/29/204201622-d919d06e-dc33-455f-b2a5-d11ac4fc8ab9.jpg",
+      "summary": "L'ex leggenda del Manchester United ha parlato in merito alla questione relativa alla potenziale penalizzazione per i Citizens",
+      "date": "2026-09-29T20:44:01.0000000Z"
+    },
+    {
+      "id": "fcinternews:80ee5c9c3f08",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Spagna a valanga sulla Croazia, Sucic 81' con giallo. Sorride Akanji",
+      "url": "https://www.fcinternews.it/focus/spagna-valanga-croazia-sucic-81-giallo-sorride-akanji-1019638",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/25/25c67de75ff74cce8d3ab2ffa48fb3b8-66878-2124o143o2808o827z170e.jpeg",
+      "summary": "La Spagna è un rullo compressore: dopo le tre reti all'Inghilterra, le Furie Rosse tengono fede al loro soprannome e travolgono la malcapitata Croazia al Sanchez-Pizjuan di Siviglia.",
+      "date": "2026-09-29T20:43:12.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:1e9c3cdba03c",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Yamal incontenibile, doppietta e assist: poker Spagna sulla Croazia. Inghilterra ok",
+      "url": "https://www.tuttosport.com/news/calcio/uefa-nations-league/2026/09/29-151556687/yamal_incontenibile_doppietta_e_assist_poker_spagna_sulla_croazia_inghilterra_ok/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/29/204154941-80860f82-0e69-4dd9-a529-6e6c8a7cdd65.jpg",
+      "summary": "Il fenomeno del Barcellona trascina la Roja, Kane ancora a segno nella vittoria a Praga. Ricardo Rodriguez timbra nel tris della Svizzera alla Scozia",
+      "date": "2026-09-29T20:42:34.0000000Z"
+    },
+    {
+      "id": "fcinternews:b22a3266a505",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Montero: \"Avevo un accordo con l'Inter. Poi la telefonata di Lippi\"",
+      "url": "https://www.fcinternews.it/news/montero-avevo-accordo-inter-telefonata-lippi-1019599",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/4d/4d4b3b34020e9ab9d22cdedec9870728-51533-oooz0000.jpeg",
+      "summary": "L'ex difensore e allenatore di U20 e Next Gen della Juventus, Paolo Montero, nel corso di un'intervista a Diretta.",
+      "date": "2026-09-29T20:29:13.0000000Z"
+    },
+    {
+      "id": "fcinternews:25ce98356cdc",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Turchia-Italia, gli azzurri vincono anche in tv: 7,3 milioni di telespettatori",
+      "url": "https://www.fcinternews.it/news/turchia-italia-azzurri-vincono-tv-7-3-telespettatori-1019580",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/84/8435639cb50028b211a932346390beed-17596-oooz0000.jpeg",
+      "summary": "Ottimo risultato in termini di ascolti per la nazionale italiana di calcio. Come riporta il sito della FIGC, infatti, Turchia-Italia è stata vista da 7.",
+      "date": "2026-09-29T20:14:22.0000000Z"
+    },
+    {
+      "id": "fcinternews:49251abfd9ff",
+      "sourceId": "fcinternews",
+      "source": "FcInterNews",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Felipe Melo: \"Da allenatore vincerò Champions, Mondiale e Libertadores\"",
+      "url": "https://www.fcinternews.it/ex-nerazzurri/felipe-melo-da-allenatore-vincero-champions-mondiale-libertadores-1019606",
+      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/87/87150a5430774c6f3582acd2536fb9dd-32177-oooz0000.jpeg",
+      "summary": "Due anni fa aveva annunciato che, una volta appesi gli scarpini al chiodo, sarebbe diventato prima o dopo un allenatore.",
+      "date": "2026-09-29T20:00:26.0000000Z"
+    },
+    {
+      "id": "tuttosport-calcio:c16c804212d0",
+      "sourceId": "tuttosport-calcio",
+      "source": "Tuttosport",
+      "platform": "rss",
+      "category": "calcio",
+      "title": "Dybala e Molina da Messi, la Roma dice no: il comunicato ufficiale spiega i motivi",
+      "url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/09/29-151559228/dybala_e_molina_da_messi_la_roma_dice_no_il_comunicato_ufficiale_spiega_i_motivi/",
+      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/29/193322602-cbce067a-8754-4e35-8fdc-f8e24af4fbef.jpg",
+      "summary": "Attraverso una nota ufficiale, il club giallorosso ha comunicato la scelta sui due argentini rimasti a Trigoria: tutti i dettagli",
+      "date": "2026-09-29T19:33:35.0000000Z"
+    },
     {
       "id": "calciomercato-it:227a6d2d9e5b",
       "sourceId": "calciomercato-it",
@@ -15,30 +207,6 @@
       "date": "2026-09-29T19:22:27.0000000Z"
     },
     {
-      "id": "fcinternews:cec4d65c59ba",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Italia U18, vittoria in rimonta sulla Danimarca: a segno anche Donato",
-      "url": "https://www.fcinternews.it/giovanili/italia-u18-vittoria-rimonta-danimarca-segno-donato-1019618",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/2c/2cc14dba5a08763650771962eeae0d47-47682-oooz0000.jpeg",
-      "summary": "Dopo il successo di sabato per 2-1 contro il Cile, la Nazionale Under 18 supera per 3-1 in rimonta i pari età della Danimarca a Samobor, nel secondo dei quattro test match in programma in Croazia.",
-      "date": "2026-09-29T19:16:12.0000000Z"
-    },
-    {
-      "id": "fcinternews:9c1df13ae033",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Rothen: \"Gara eccezionale di Diouf? Io dico no, ma c'è da dire che...\"",
-      "url": "https://www.fcinternews.it/news/rothen-gara-eccezionale-diouf-dico-no-che-1019631",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/c7/c7ec3c21341ad4d887a97df077cddee1-69878-oooz0000.jpeg",
-      "summary": "Dagli studi di RMC Sport, l'ex giocatore del PSG Jerome Rothen, oggi apprezzato opinionista radiofonico in Francia, ha commentato quella che è stata la performance di Andy Diouf al suo debutto con la maglia della Nazi...",
-      "date": "2026-09-29T19:02:02.0000000Z"
-    },
-    {
       "id": "tuttosport-calcio:199f76f047ce",
       "sourceId": "tuttosport-calcio",
       "source": "Tuttosport",
@@ -49,42 +217,6 @@
       "image": "https://cdn.tuttosport.com/img/800/600/2026/09/29/184324492-737c94ea-1374-4e26-a49f-edccb2d3ae23.jpg",
       "summary": "L'attaccante dell'Atalanta saluta Coverciano: un problema muscolare lo terrà lontano dal campo per le prossime gare",
       "date": "2026-09-29T18:54:10.0000000Z"
-    },
-    {
-      "id": "fcinternews:c43181ea1779",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Argentina, Scaloni: \"I capitani saranno Romero, il Dibu e Lautaro\"",
-      "url": "https://www.fcinternews.it/news/argentina-scaloni-i-capitani-romero-dibu-lautaro-1019629",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/1a/1a2d26b25756562974eaada46f13b1d0-69328-oooz0000.jpeg",
-      "summary": "Indiscutibile leader dell'Inter, destinato a essere sempre più protagonista con l'Argentina: la carriera di Lautaro Martinez continua ad arricchirsi.",
-      "date": "2026-09-29T18:47:16.0000000Z"
-    },
-    {
-      "id": "fcinternews:67fba6bcdbb6",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Nazionale, lavoro a Coverciano. Problema per Raspadori: torna a Bergamo",
-      "url": "https://www.fcinternews.it/news/nazionale-lavoro-coverciano-problema-raspadori-torna-bergamo-1019628",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/d1/d1d6ac6fa2e5c59976278c3321358f44-27049-650o120o1529o999z0ce2.jpeg",
-      "summary": "Dopo il successo di Bursa con la Turchia, la Nazionale di Roberto Mancini è rientrata nella notte al Centro Tecnico Federale di Coverciano, dove nel pomeriggio è tornata ad allenarsi in vista del terzo incontro del gi...",
-      "date": "2026-09-29T18:34:14.0000000Z"
-    },
-    {
-      "id": "fcinternews:c8bca1885cf5",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Argentina, Scaloni: \"Samuel ha rifiutato un'offerta dell'Inter per esserci al Mondiale\"",
-      "url": "https://www.fcinternews.it/focus/scaloni-samuel-rifiutato-offerta-inter-esserci-mondiale-1019627",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/e9/e941d0bd279d82fcd8b86f00e1cf09cc-77330-oooz0000.jpeg",
-      "summary": "Nonostante il futuro incerto, il CT dell'Argentina Lionel Scaloni ha speso parole al miele per Walter Samuel in conferenza stampa. Parte del suo staff, l'ex Inter potrebbe continuare la sua carriera con un ruolo da al...",
-      "date": "2026-09-29T18:20:15.0000000Z"
     },
     {
       "id": "tuttosport-calcio:de545a329d55",
@@ -111,18 +243,6 @@
       "date": "2026-09-29T18:06:06.0000000Z"
     },
     {
-      "id": "fcinternews:6ee237f4925a",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Sucic trequartista in Spagna-Croazia, Akanji capitano con la Svizzera",
-      "url": "https://www.fcinternews.it/news/sucic-trequartista-spagna-croazia-akanji-capitano-svizzera-1019626",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/9d/9d0931df211ea2f3421af7b91a7cb32c-22814-oooz0000.jpeg",
-      "summary": "Le partite di Nations League proseguono con un doppio impegno per quanto riguarda i giocatori dell'Inter. Petar Sucic partirà titolare in Spagna-Croazia, così come due ex Inter, Perisic e Kovacic.",
-      "date": "2026-09-29T18:05:01.0000000Z"
-    },
-    {
       "id": "calciomercato-it:028de39077e5",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -133,78 +253,6 @@
       "image": null,
       "summary": "L'articolo Inter, buone notizie per Chivu: come stanno Spence, Dimarco e Calhanoglu proviene da CalcioMercato.it .",
       "date": "2026-09-29T18:01:12.0000000Z"
-    },
-    {
-      "id": "fcinternews:549af1bd4ba9",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Kayode brilla in azzurro. L'Inter ci aveva pensato, ma il Brentford sparò alto",
-      "url": "https://www.fcinternews.it/copertina/kayode-brilla-azzurro-inter-pensato-brentford-sparo-alto-1019623",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/3b/3b18c2d6def0fd4d6fabb674930dd910-06773-469o289o1336o1156z0cb2.jpeg",
-      "summary": "Debutto in Nazionale coi fiocchi per Michael Kayode, entrato tra i marcatori della partita contro la Turchia.",
-      "date": "2026-09-29T17:51:13.0000000Z"
-    },
-    {
-      "id": "fcinternews:547013815f7a",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "L'Inter verso il Parma: Spence ok, recupero di Stones in dubbio",
-      "url": "https://www.fcinternews.it/focus/inter-parma-spence-ok-recupero-stones-dubbio-1019624",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/bb/bbb3f9392457dfd64837d8947f6f8703-72746-oooz0000.jpeg",
-      "summary": "Giornata di allenamento ad Appiano Gentile, la seconda dopo gli otto giorni di riposo concessi da Cristian Chivu.",
-      "date": "2026-09-29T17:42:00.0000000Z"
-    },
-    {
-      "id": "fcinternews:3717d3099c53",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Juventus, in rosso anche il bilancio 2025-2026. Ricavi in calo del 10,4%",
-      "url": "https://www.fcinternews.it/il-resto-della-a/juventus-rosso-bilancio-2025-2026-ricavi-calo-10-4-1019620",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/14/1483116771db2fac813d857de79b853e-79279-oooz0000.jpeg",
-      "summary": "La Juventus ha chiuso con una nuova perdita di 66 milioni il bilancio 2025-26: si tratta del nono esercizio consecutivo in rosso. Nel 2024-25 il deficit era stato di 58 milioni.",
-      "date": "2026-09-29T17:36:11.0000000Z"
-    },
-    {
-      "id": "fcinternews:7ed448e97759",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "La sosta non ferma l'Inter: il 3 ottobre amichevole con il Lumezzane",
-      "url": "https://www.fcinternews.it/in-primo-piano/sosta-ferma-inter-3-ottobre-amichevole-lumezzane-1019621",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/91/91a5d558f69cb3d4ca90657abcf857a9-40677-oooz0000.jpeg",
-      "summary": "L'Inter, nonostante tanti giocatori impegnati con le rispettive nazionali, guarda già al dopo-sosta.",
-      "date": "2026-09-29T17:28:01.0000000Z"
-    },
-    {
-      "id": "fcinternews:e9ca666dccb6",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Salvatore, Seba e Pio: gli Esposito sono il primo trio di fratelli nella storia della Nazionale",
-      "url": "https://www.fcinternews.it/news/salvatore-seba-pio-esposito-trio-fratelli-storia-nazionale-1019619",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/36/36853a36dc0cfeaa133d995032104816-94186-252o156o1312o1216z0b78.jpeg",
-      "summary": "Salvatore, Sebastiano e Francesco Pio: i fratelli Esposito entrano nella storia del calcio italiano. I tre ragazzi di Castellammare di Stabia, nati nel 2000, nel 2002 e nel 2005, sono infatti il primo trio di fratelli...",
-      "date": "2026-09-29T17:22:41.0000000Z"
-    },
-    {
-      "id": "fcinternews:bbe452d85e69",
-      "sourceId": "fcinternews",
-      "source": "FcInterNews",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "De Siervo: \"Cerchiamo di aiutare gli arbitri a fare al meglio il loro lavoro\"",
-      "url": "https://www.fcinternews.it/news/de-siervo-cerchiamo-aiutare-arbitri-lavoro-1019616",
-      "image": "https://net-storage-auto.tcccdn.com/storage/fcinternews.it/img_notizie/thumb3/4b/4be12aa5f6d0f15583ed752a36a94acb-84464-oooz0000.jpeg",
-      "summary": "\"Cerchiamo di aiutare gli arbitri a fare al meglio il loro lavoro come stanno facendo e li ringrazio perchè il prodotto dal punto di vista tecnico è cresciuto molto. Ci sono stati dei benefici in tutte le parti del gi...",
-      "date": "2026-09-29T17:07:19.0000000Z"
     },
     {
       "id": "tuttosport-calcio:290a29d4e3bb",
@@ -303,42 +351,6 @@
       "date": "2026-09-29T14:39:58.0000000Z"
     },
     {
-      "id": "tuttosport-calcio:9ef5f2ccf48c",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Milan, infortunio per Saelemaekers: problema alla caviglia, attesa per gli esami",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/milan/2026/09/29-151550610/milan_infortunio_per_saelemaekers_problema_alla_caviglia_attesa_per_gli_esami/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/29/141236981-b2b39637-fda2-4c7a-87b4-aa52546d8a53.jpg",
-      "summary": "Brutte notizie per Amorim: l'esterno belga si è fatto male durante l'allenamento e nelle prossime ore verrà sottoposto agli accertamenti medici",
-      "date": "2026-09-29T14:13:10.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:a13625ba7acf",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Zaniolo si ferma di nuovo, Udinese nei guai: ecco quanto star&agrave; fuori",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/udinese/2026/09/29-151550136/zaniolo_si_ferma_di_nuovo_udinese_nei_guai_ecco_quanto_star_fuori/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/29/134716587-4800ee8f-287b-444d-9f3a-5e33f8baed7c.jpg",
-      "summary": "Runjaic costretto a rinunciare ancora all'esterno ex Roma. Problemi anche per Gueye nel test amichevole contro il Pogon",
-      "date": "2026-09-29T13:51:02.0000000Z"
-    },
-    {
-      "id": "tuttosport-calcio:2aa3eefda475",
-      "sourceId": "tuttosport-calcio",
-      "source": "Tuttosport",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "<p>Gilardino torna a Parma, &egrave; ufficiale: i dettagli dell&#39;accordo e chi c&#39;&egrave; nello staff tecnico</p>",
-      "url": "https://www.tuttosport.com/news/calcio/serie-a/parma/2026/09/29-151550129/gilardino_torna_a_parma_ufficiale_i_dettagli_dell_accordo_e_chi_c_nello_staff_tecnico/",
-      "image": "https://cdn.tuttosport.com/img/800/600/2026/09/29/134154684-fda3f61d-2ab6-4184-8464-415e2dca09c4.jpg",
-      "summary": "L'allenatore, arrivato in città nella serata di lunedì 28 settembre, firma il contratto con il club gialloblù e dopo 21 anni ritorna in Emilia",
-      "date": "2026-09-29T13:49:59.0000000Z"
-    },
-    {
       "id": "calciomercato-it:6190a2f3d10c",
       "sourceId": "calciomercato-it",
       "source": "Calciomercato.it",
@@ -421,18 +433,6 @@
       "image": null,
       "summary": "L'articolo PAGELLE e TABELLINO Turchia-Italia 1-4: Mancini travolge Montella, riscatto Bastoni proviene da CalcioMercato.it .",
       "date": "2026-09-28T20:37:34.0000000Z"
-    },
-    {
-      "id": "calciomercato-it:8787d4683eeb",
-      "sourceId": "calciomercato-it",
-      "source": "Calciomercato.it",
-      "platform": "rss",
-      "category": "calcio",
-      "title": "Carvajal nel mirino del Bologna, l’infortunio di Holm porta i rossoblu sul mercato",
-      "url": "https://www.calciomercato.it/2026/09/28/carvajal-nel-mirino-del-bologna-linfortunio-di-holm-porta-i-rossoblu-sul-mercato/",
-      "image": null,
-      "summary": "L'articolo Carvajal nel mirino del Bologna, l’infortunio di Holm porta i rossoblu sul mercato proviene da CalcioMercato.it .",
-      "date": "2026-09-28T19:34:26.0000000Z"
     }
   ]
 }

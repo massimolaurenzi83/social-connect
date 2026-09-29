@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-09-29T19:30:50.6466394Z",
+  "updated": "2026-09-29T23:10:13.0675083Z",
   "items": [
+    {
+      "id": "motor1:ef9a715e4b5d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nasce la Range Rover Sport da 550 CV con più coppia che mai",
+      "url": "https://it.motor1.com/news/809551/range-rover-sport-electric-2026-informazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/qk86KG/s3/range-rover-sport-ev.jpg",
+      "summary": "Arriva a 850 Nm e non fa rumore, perché questa è la Range Rover Sport elettrica",
+      "date": "2026-09-29T23:01:00.0000000Z"
+    },
+    {
+      "id": "motor1:249f1f0c80a1",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuova BMW Serie 3, fino a 443 CV (ma senza diesel)",
+      "url": "https://it.motor1.com/news/809996/bmw-serie-3-2027-benzina-elettrica/",
+      "image": "https://cdn.motor1.com/images/mgl/P3Vg18/s3/bmw-m350-xdrive-2027.jpg",
+      "summary": "Debutta la nuova Serie 3 termica. Ora è solo mild hybrid a benzina fino a 443 CV o elettrica",
+      "date": "2026-09-29T22:03:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:0400c7dbf162",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Zero compie 20 anni: una SR/F in soli 20 esemplari per celebrare l’anniversario",
+      "url": "https://www.vaielettrico.it/zero-compie-20-anni-una-sr-f-in-soli-20-esemplari-per-celebrare-lanniversario/",
+      "image": null,
+      "summary": "Vent’anni di moto elettriche celebrati con una serie decisamente esclusiva. Zero Motorcycles realizzerà appena 20 SR/F 20th Anniversary,… L'articolo Zero compie 20 anni: una SR/F in soli 20 esemplari per celebrare l’a...",
+      "date": "2026-09-29T21:48:44.0000000Z"
+    },
+    {
+      "id": "motor1:43e80cf6c9d7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Alfa Romeo ha scelto il nome della sua prossima auto",
+      "url": "https://it.motor1.com/news/810086/alfa-romeo-cuorerosso-nome-svelato/",
+      "image": "https://cdn.motor1.com/images/mgl/NG6gxX/s3/alfa-romeo-cuorerosso.jpg",
+      "summary": "Si chiamerà Alfa Romeo Cuorerosso e verrà presentata al Salone di Parigi 2026",
+      "date": "2026-09-29T19:45:05.0000000Z"
+    },
     {
       "id": "vaielettrico:d7f47fd1bda3",
       "sourceId": "vaielettrico",
@@ -387,30 +435,6 @@
       "date": "2026-09-28T17:43:11.0000000Z"
     },
     {
-      "id": "motor1:82685bae3428",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Youtester 2026: i nomi di coloro che passano alla Fase 2",
-      "url": "https://it.motor1.com/news/809563/youtester-2026-nomi-candidati-fase-2/",
-      "image": "https://cdn.motor1.com/images/mgl/JO6B46/s3/youtester-2026-m1-seconda-fase-nomi.jpg",
-      "summary": "Ecco i 10 scelti dalla Redazione e dal pubblico social di Motor1, con Renault Clio e tanta voglia di diventare giornalisti dell'auto",
-      "date": "2026-09-28T16:26:01.0000000Z"
-    },
-    {
-      "id": "motor1:74512debf573",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Con i sensori nella gomma, guidare non sarà più come prima",
-      "url": "https://it.motor1.com/news/809872/pirelli-cyber-tyre-innovazione/",
-      "image": "https://cdn.motor1.com/images/mgl/L36kpm/s3/pirelli-cyber-tyre.jpg",
-      "summary": "Pirelli trasforma lo pneumatico in una fonte di dati per sicurezza, guida autonoma e strade connesse lavorando con altre aziende italiane",
-      "date": "2026-09-28T16:15:00.0000000Z"
-    },
-    {
       "id": "insideevs:28bf6484d8d8",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -420,18 +444,6 @@
       "url": "https://insideevs.it/news/809873/tesla-semi-consegne-prezzi-diesel/",
       "image": "https://cdn.motor1.com/images/mgl/9mW97p/s3/tesla-semi-european-specification.jpg",
       "summary": "Sta arrivando il camion elettrico di Tesla che promette di abbattere i costi del diesel e cambiare i conti del trasporto pesante",
-      "date": "2026-09-28T16:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:5744bf7aca1e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Un pick-up diesel ibrido plug-in può funzionare?",
-      "url": "https://it.motor1.com/news/809877/chery-stockman-pick-up-plug-in-diesel/",
-      "image": "https://cdn.motor1.com/images/mgl/bgOBrM/s3/chery-stockman.jpg",
-      "summary": "La Chery Stockman è dotata di due serbatoi, una batteria ad alta tensione, trazione integrale e un’elevata capacità di traino.",
       "date": "2026-09-28T16:00:00.0000000Z"
     },
     {
@@ -459,18 +471,6 @@
       "date": "2026-09-28T13:55:09.0000000Z"
     },
     {
-      "id": "vaielettrico:521fa5742de0",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vaielettrico Awards categoria Il concessionario più elettrico",
-      "url": "https://www.vaielettrico.it/il-concessionario-piu-elettrico-vaielettrico-awards/",
-      "image": null,
-      "summary": "Acquistare un’auto elettrica non significa soltanto scegliere un nuovo veicolo, ma abbracciare uno stile di vita e una… L'articolo Vaielettrico Awards categoria Il concessionario più elettrico proviene da Vaielettrico .",
-      "date": "2026-09-28T13:39:29.0000000Z"
-    },
-    {
       "id": "vaielettrico:4d078d90ee52",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -495,15 +495,15 @@
       "date": "2026-09-28T13:39:29.0000000Z"
     },
     {
-      "id": "vaielettrico:0d30fcea520a",
+      "id": "vaielettrico:521fa5742de0",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
       "platform": "rss",
       "category": "motori",
-      "title": "Vaielettrico Awards categoria Novità moto e scooter elettrici",
-      "url": "https://www.vaielettrico.it/novita-moto-e-scooter-elettrici-vaielettrico-awards/",
+      "title": "Vaielettrico Awards categoria Il concessionario più elettrico",
+      "url": "https://www.vaielettrico.it/il-concessionario-piu-elettrico-vaielettrico-awards/",
       "image": null,
-      "summary": "Piegare in curva col vento in faccia, sgusciare con agilità nel traffico cittadino e godersi la strada in… L'articolo Vaielettrico Awards categoria Novità moto e scooter elettrici proviene da Vaielettrico .",
+      "summary": "Acquistare un’auto elettrica non significa soltanto scegliere un nuovo veicolo, ma abbracciare uno stile di vita e una… L'articolo Vaielettrico Awards categoria Il concessionario più elettrico proviene da Vaielettrico .",
       "date": "2026-09-28T13:39:29.0000000Z"
     },
     {
