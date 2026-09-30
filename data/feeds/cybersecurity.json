@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-30T02:08:14.2976755Z",
+  "updated": "2026-09-30T08:31:23.2770375Z",
   "items": [
+    {
+      "id": "cybersecurity360:515103c2938a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "GitLost: così la prompt injection negli agenti AI può esfiltrare repository privati",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/gitlost-cosi-la-prompt-injection-negli-agenti-ai-puo-esfiltrare-repository-privati/",
+      "image": null,
+      "summary": "Al momento del lancio dei GitHub Agent Workflows, chi si occupa della sicurezza dei sistemi agentici si è chiesto: cosa succederebbe se l'agente leggesse qualcosa di cui non dovrebbe fidarsi. GitLost è un promemoria d...",
+      "date": "2026-09-30T07:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:65bccdf05734",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Il voice cloning trasforma una voce familiare in uno strumento di social engineering capace di sfruttare fiducia e bias cognitivi. Il caso Fideuram mostra perché non basta formare i dipendenti: servono processi che se...",
       "date": "2026-09-28T15:55:58.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3b4ba9a08e8c",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "AI, migliaia di incidenti cyber: è difficile governare sistemi sempre più autonomi",
-      "url": "https://www.cybersecurity360.it/news/ai-migliaia-di-incidenti-cyber-e-difficile-governare-sistemi-sempre-piu-autonomi/",
-      "image": null,
-      "summary": "Le società di intelligenza artificiale sono travolte da uno tsunami AI di incidenti di sicurezza. Sarebbero decine di migliaia. Ecco cosa qual è l'impatto e cosa significa per la cyber security di tutti L'articolo AI,...",
-      "date": "2026-09-28T15:02:20.0000000Z"
     }
   ]
 }

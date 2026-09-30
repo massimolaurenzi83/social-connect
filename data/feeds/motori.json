@@ -1,7 +1,103 @@
 {
   "category": "motori",
-  "updated": "2026-09-30T02:08:14.2999625Z",
+  "updated": "2026-09-30T08:31:23.3310970Z",
   "items": [
+    {
+      "id": "hdmotori:1d0084a25d6f",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto blu per comprare droga e trasportare il gatto: scatta la condanna per uso improprio",
+      "url": "https://www.hdmotori.it/auto-blu-droga-gatto/",
+      "image": null,
+      "summary": "La Corte dei Conti ha condannato l’ex presidente dell’Ars, Gianfranco Miccichè, per un uso improprio dell’auto blu The post Auto blu per comprare droga e trasportare il gatto: scatta la condanna per uso improprio appe...",
+      "date": "2026-09-30T08:00:19.0000000Z"
+    },
+    {
+      "id": "motor1:4349fd70f2b1",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Jeep prepara una novità per il Salone di Parigi",
+      "url": "https://it.motor1.com/news/810194/jeep-novita-salone-parigi-2026-anticipazione/",
+      "image": "https://cdn.motor1.com/images/mgl/KbZ8Vl/s3/jeep-salone-parigi-2026.jpg",
+      "summary": "Per ora è chiusa in una scatola. Potrebbe essere la nuova Jeep Renegade",
+      "date": "2026-09-30T07:23:26.0000000Z"
+    },
+    {
+      "id": "motor1:a6f3581f340c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Più Porsche classiche possono avere Apple CarPlay e Android Auto",
+      "url": "https://it.motor1.com/news/810168/porsche-classiche-connettivita-wireless-infotainment/",
+      "image": "https://cdn.motor1.com/images/mgl/W8bY6q/s3/porsche-911-cabriolet-991-interieur-pccm-plus.jpg",
+      "summary": "La nuova generazione del PCCM Plus è disponibile in due versioni come infotainment retrofit per 911, Boxster e Cayman (2009-2016)",
+      "date": "2026-09-30T07:03:08.0000000Z"
+    },
+    {
+      "id": "hdmotori:3feac21bbfb7",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Brabus AB110: lo yacht da 7.800 CV che porta sul mare la filosofia del tuner tedesco",
+      "url": "https://www.hdmotori.it/brabus-ab110-yacht/",
+      "image": null,
+      "summary": "Dalla collaborazione tra il tuner di Bottrop e i cantieri italiani di AB Yachts nasce uno yacht in carbonio da 33,7 metri capace di toccare i 48 nodi di velocità massima. The post Brabus AB110: lo yacht da 7.800 CV ch...",
+      "date": "2026-09-30T07:00:58.0000000Z"
+    },
+    {
+      "id": "insideevs:767c882393e0",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "General Motors va avanti con la batteria EV di nuova generazione",
+      "url": "https://insideevs.it/news/810160/general-motors-batteria-ev-lmr/",
+      "image": "https://cdn.motor1.com/images/mgl/KbMrKq/s3/gm-forward-event-2025.jpg",
+      "summary": "La casa automobilistica ha confermato la fabbrica in cui produrrà in serie le celle ricche di litio e manganese",
+      "date": "2026-09-30T07:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:e5f6f2cfff50",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Non le vogliono vendere le Renault elettriche: “Io ho la R5 e…”",
+      "url": "https://www.vaielettrico.it/non-le-vogliono-vendere-le-renault-elettriche-io-ho-la-r5-e/",
+      "image": null,
+      "summary": "Non le vogliono vendere le Renault elettriche. Quello che segue è un commento postato da un proprietario di… L'articolo Non le vogliono vendere le Renault elettriche: “Io ho la R5 e…” proviene da Vaielettrico .",
+      "date": "2026-09-30T06:32:43.0000000Z"
+    },
+    {
+      "id": "motor1:5b225962012f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "A 4,76 milioni di euro questa è la Bugatti Veyron più costosa",
+      "url": "https://it.motor1.com/news/810157/bugatti-veyron-wimille-record-asta/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z1oeq/s3/2014-bugatti-veyron-16.4-grand-sport-vitesse-jean-pierre-wimille.jpg",
+      "summary": "La Bugatti Veyron Grand Sport Vitesse Wimille ha stracciato la stima d'asta e stabilito un nuovo record con 4,76 milioni di euro",
+      "date": "2026-09-30T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:42b3da30ff0b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tutti i motori della BMW i3",
+      "url": "https://insideevs.it/news/810001/bmw-i3-motori-batterie/",
+      "image": "https://cdn.motor1.com/images/mgl/0epNmz/s3/bmw-i3-50-xdrive-2027.jpg",
+      "summary": "Due varianti a trazione integrale e autonomia monstre per la berlina bavarese. Ecco tutti i dati",
+      "date": "2026-09-30T05:00:00.0000000Z"
+    },
     {
       "id": "motor1:ef9a715e4b5d",
       "sourceId": "motor1",
@@ -20,10 +116,10 @@
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Nuova BMW Serie 3, fino a 443 CV (ma senza diesel)",
+      "title": "Nuova BMW Serie 3: la berlina si rinnova completamente e perde il diesel",
       "url": "https://it.motor1.com/news/809996/bmw-serie-3-2027-benzina-elettrica/",
       "image": "https://cdn.motor1.com/images/mgl/P3Vg18/s3/bmw-m350-xdrive-2027.jpg",
-      "summary": "Debutta la nuova Serie 3 termica. Ora è solo mild hybrid a benzina fino a 443 CV o elettrica",
+      "summary": "Debutta la nuova Serie 3 termica. Ora è solo mild hybrid a benzina fino a 443 CV",
       "date": "2026-09-29T22:03:00.0000000Z"
     },
     {
@@ -279,30 +375,6 @@
       "date": "2026-09-29T10:56:23.0000000Z"
     },
     {
-      "id": "hdmotori:d844e9ebb0bf",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Megane E-Tech Electric si aggiorna: allestimenti e prezzi",
-      "url": "https://www.hdmotori.it/renault-megane-e-tech-electric-prezzi/",
-      "image": null,
-      "summary": "Il brand francese ha mostrato le linee della nuova E-Tech Electric e da ogni angolazione sembra un netto passo in avanti. The post La Megane E-Tech Electric si aggiorna: allestimenti e prezzi appeared first on HDmotor...",
-      "date": "2026-09-29T10:30:17.0000000Z"
-    },
-    {
-      "id": "hdmotori:7f074a6cb33d",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perdere la patente senza aver mai guidato: il caso che fa discutere in Francia",
-      "url": "https://www.hdmotori.it/perdere-patente-senza-aver-mai-guidato/",
-      "image": null,
-      "summary": "La sicurezza stradale in Francia arriva al punto tale che si potrà confiscare la patente di guida a coloro che ancora devono mettere in moto un’auto. The post Perdere la patente senza aver mai guidato: il caso che fa ...",
-      "date": "2026-09-29T10:00:19.0000000Z"
-    },
-    {
       "id": "motor1:321e7055bd51",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -327,18 +399,6 @@
       "date": "2026-09-29T09:13:26.0000000Z"
     },
     {
-      "id": "motor1:846b53bbbe29",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa Honda Prelude è per pochissimi",
-      "url": "https://it.motor1.com/news/809987/honda-prelude-limited-edition/",
-      "image": "https://cdn.motor1.com/images/mgl/y21Grb/s3/2027-honda-prelude-limited-edition-europe.jpg",
-      "summary": "La Limited Edition arriverà anche in Italia a febbraio 2027 e ha una verniciatura esclusiva e tanti dettagli unici",
-      "date": "2026-09-29T09:08:35.0000000Z"
-    },
-    {
       "id": "insideevs:c8db31e32907",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -349,18 +409,6 @@
       "image": "https://cdn.motor1.com/images/mgl/W8bYGo/s3/prezzi-benzina-motus-e-propone-4-misure-per-ridurre-i-costi.jpg",
       "summary": "L’associazione ha presentato al Mef quattro misure per accelerare l’elettrificazione e ridurre il consumo italiano di benzina e gasolio",
       "date": "2026-09-29T08:54:58.0000000Z"
-    },
-    {
-      "id": "motor1:6da55d11e574",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "I prezzi della nuova berlina Lexus",
-      "url": "https://it.motor1.com/news/809963/lexus-es-2026-prezzo-allestimenti-motori/",
-      "image": "https://cdn.motor1.com/images/mgl/pb8301/s3/lexus-es-2026.jpg",
-      "summary": "La nuova Lexus ES arriva in Italia con motorizzazioni full hybrid ed elettriche, prezzi da 62.700 euro e fino a 581 km di autonomia EV",
-      "date": "2026-09-29T07:28:52.0000000Z"
     },
     {
       "id": "insideevs:1c1b6d661bb6",
@@ -408,18 +456,6 @@
       "url": "https://insideevs.it/news/807787/mazda-6e-vs-hyundai-ioniq-6/",
       "image": "https://cdn.motor1.com/images/mgl/XBbYLV/s3/mazda-6e-vs-hyundai-ioniq-6.jpg",
       "summary": "Grandi, spaziose, ben rifinite e ricche di tecnologia: ecco come si sfidano la 6e e la Ioniq 6",
-      "date": "2026-09-29T05:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:b3bd9774042e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Gli interni e il bagagliaio della nuova Mitsubishi Pajero",
-      "url": "https://it.motor1.com/news/807780/mitsubishi-pajero-2026-interni-bagagliaio/",
-      "image": "https://cdn.motor1.com/images/mgl/BX1Xoe/s3/mitsubishi-pajero-2026-interni-e-bagagliaio.jpg",
-      "summary": "Lo storico fuoristrada ritorna con un abitacolo moderno, ma sempre spazioso e molto pratico",
       "date": "2026-09-29T05:00:00.0000000Z"
     },
     {
@@ -493,42 +529,6 @@
       "image": null,
       "summary": "Dietro la silhouette filante di ogni veicolo elettrico si nasconde un universo invisibile ma straordinario di competenze, ingegneria… L'articolo Vaielettrico Awards categoria I campioni della filiera elettrica provien...",
       "date": "2026-09-28T13:39:29.0000000Z"
-    },
-    {
-      "id": "vaielettrico:521fa5742de0",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vaielettrico Awards categoria Il concessionario più elettrico",
-      "url": "https://www.vaielettrico.it/il-concessionario-piu-elettrico-vaielettrico-awards/",
-      "image": null,
-      "summary": "Acquistare un’auto elettrica non significa soltanto scegliere un nuovo veicolo, ma abbracciare uno stile di vita e una… L'articolo Vaielettrico Awards categoria Il concessionario più elettrico proviene da Vaielettrico .",
-      "date": "2026-09-28T13:39:29.0000000Z"
-    },
-    {
-      "id": "insideevs:a1b9855b9c65",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Hyundai: \"Non possiamo mollare adesso sulle batterie allo stato solido\"",
-      "url": "https://insideevs.it/news/809850/hyundai-batterie-stato-solido/",
-      "image": "https://cdn.motor1.com/images/mgl/YAOXxv/s3/hyundai-staria-electric-2026.jpg",
-      "summary": "Il responsabile R&S di Hyundai prevede che le auto prodotte in piccoli volumi con batterie allo stato solido arriveranno entro 5 anni",
-      "date": "2026-09-28T13:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:748c35540cac",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Dentro la fabbrica texana che sfida i cinesi sui magneti per EV",
-      "url": "https://insideevs.it/news/809760/fabbrica-texas-magneti-ev/",
-      "image": "https://cdn.motor1.com/images/mgl/Znlyw3/s3/mp-materials-independence-factory.jpg",
-      "summary": "La fabbrica di magneti alle terre rare di MP Materials è sul punto di fare la storia. Basterà?",
-      "date": "2026-09-28T11:00:00.0000000Z"
     }
   ]
 }
