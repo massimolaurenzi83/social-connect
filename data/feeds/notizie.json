@@ -1,18 +1,210 @@
 {
   "category": "notizie",
-  "updated": "2026-09-30T20:07:28.9406756Z",
+  "updated": "2026-09-30T23:46:42.5982762Z",
   "items": [
     {
-      "id": "open:6b22a3075661",
+      "id": "ansa:cf1217089d95",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Vittorio Sgarbi ricoverato in terapia intensiva al Gemelli di Roma",
+      "url": "https://www.ansa.it/sito/notizie/cultura/2026/10/01/vittorio-sgarbi-ricoverato-in-terapia-intensiva-al-gemelli-di-roma_6894d528-7aab-4afb-9082-4e0533d05c8a.html",
+      "image": null,
+      "summary": "Secondo il sito 'ilgraffio.net' sarebbe in gravi condizioni",
+      "date": "2026-09-30T22:42:57.0000000Z"
+    },
+    {
+      "id": "ansa:251365fd1267",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "++ Vittorio Sgarbi ricoverato al Gemelli di Roma ++",
+      "url": "https://www.ansa.it/sito/notizie/flash/2026/10/01/-vittorio-sgarbi-ricoverato-al-gemelli-di-roma-_05143b32-86a9-4234-b329-adbd3c0efb71.html",
+      "image": null,
+      "summary": "Secondo il sito 'ilgraffio.net' sarebbe in gravi condizioni in terapia intensiva",
+      "date": "2026-09-30T22:38:07.0000000Z"
+    },
+    {
+      "id": "ansa:b57bb353ca29",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Detenuti in rivolta nel carcere di Pisa, scontri con gli agenti",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/30/detenuti-in-rivolta-a-pisa-hanno-trovato-microspie-nelle-celle_27b34c45-def5-46b2-a5f1-d5505ec76841.html",
+      "image": null,
+      "summary": "Partita con una live su TikTok, hanno chiesto aiuto all'esterno. Trovate microspie nelle celle",
+      "date": "2026-09-30T22:15:10.0000000Z"
+    },
+    {
+      "id": "repubblica:9d637de981ff",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Vittorio Sgarbi ricoverato al Gemelli in terapia intensiva",
+      "url": "https://www.repubblica.it/politica/2026/10/01/news/vittorio_sgarbi_ricoverato_al_gemelli_in_terapia_intensiva_gravi_condizioni-425618311/",
+      "image": null,
+      "summary": "Sarebbe in gravi condizioni",
+      "date": "2026-09-30T22:09:38.0000000Z"
+    },
+    {
+      "id": "open:ade688f7f42a",
       "sourceId": "open",
       "source": "Open",
       "platform": "rss",
       "category": "notizie",
-      "title": "Ferrara, entra armato in un liceo e tenta di colpire 15enne. Arrestato 20enne",
-      "url": "https://www.open.online/2026/09/30/ferrara-liceo-ariosto-tentata-aggressione-studente-arrestato/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/liceo-ariosto.jpg",
-      "summary": "Vittima e aggressore, un giovane maggiorenne del luogo, non si conoscevano. Tutte le piste restano aperte: inclusa quella di un accoltellamento ispirato da gruppi on line. L'articolo Ferrara, entra armato in un liceo ...",
-      "date": "2026-09-30T20:01:18.0000000Z"
+      "title": "«Vittorio Sgarbi ricoverato al Gemelli: è in terapia intensiva»",
+      "url": "https://www.open.online/2026/10/01/vittorio-sgarbi-ricoverato-al-gemelli-e-in-terapia-intensiva/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/vittorio-sgarbi-.jpg",
+      "summary": "La notizia data dal sito Il Graffio e rilanciata da LaPresse. Fu ricoverato nel 2025 sempre nella struttura romana per una grave forma di depressione L'articolo «Vittorio Sgarbi ricoverato al Gemelli: è in terapia int...",
+      "date": "2026-09-30T22:02:01.0000000Z"
+    },
+    {
+      "id": "open:eceb25de5849",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La foto della bambina ferita a Gaza sfruttata dai complottisti QAnon",
+      "url": "https://www.open.online/2026/09/30/panda-eyes-foto-bambina-gaza-qanon-fact-check/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/foto-bambina-palestinese-occhi-panda-qanon-fact-checking-0.jpg",
+      "summary": "Nessuna fonte medica collega quei lividi a degli abusi durante riti satanici L'articolo La foto della bambina ferita a Gaza sfruttata dai complottisti QAnon proviene da Open .",
+      "date": "2026-09-30T21:45:27.0000000Z"
+    },
+    {
+      "id": "open:c05f7ef65af6",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Baby gang, Piantedosi e la stretta sui sussidi alle famiglie: «Il governo condivide»",
+      "url": "https://www.open.online/2026/09/30/baby-gang-piantedosi-ok-stretta-sussidi-famiglie/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/GOLF_20260930201857951_a63c6137d794727df15d2f301410d460-scaled.jpg",
+      "summary": "Il ministro dell’Interno apre alla proposta di Fratelli d'Italia, dopo il caso del sindaco di Legnago: «Piena assunzione della responsabilità dei genitori». Padovani: il sostegno di Piantedosi «un altro tassello impor...",
+      "date": "2026-09-30T21:30:36.0000000Z"
+    },
+    {
+      "id": "ansa:82ea1ae27386",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Arriva il parental control su WhatsApp, serve un Pin per modificarlo",
+      "url": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/09/30/arriva-il-parental-control-per-i-teenager-su-whatsapp-anche-in-italia_127783fe-26f4-4b74-a9de-7962555b01ba.html",
+      "image": null,
+      "summary": "Controlli opzionali per account over 13. Chiamate e messaggi tra ragazzi rimangono privati",
+      "date": "2026-09-30T21:26:00.0000000Z"
+    },
+    {
+      "id": "open:cad96833b8bc",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "«La crisi climatica è già qui»: 9 italiani su 10 hanno vissuto in prima persona eventi estremi",
+      "url": "https://www.open.online/2026/09/30/eventi-estremi-cambiamento-climatico-italia-wwf-rapporto/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/clima-eventi-meterologici.jpeg",
+      "summary": "L'indagine WWF e CMCC: l'89% degli italiani ha vissuto eventi meteo estremi negli ultimi 5 anni. Il report su danni, spese e prevenzione L'articolo «La crisi climatica è già qui»: 9 italiani su 10 hanno vissuto in pri...",
+      "date": "2026-09-30T21:23:28.0000000Z"
+    },
+    {
+      "id": "open:c69677408958",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "WhatsApp, arriva il parental control per gli adolescenti: cosa possono vedere i genitori e come funziona",
+      "url": "https://www.open.online/2026/09/30/whatsapp-parental-control-italia-come-funziona/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/whatsapp.jpg",
+      "summary": "Dopo le protezioni introdotte su Instagram e Facebook, la nuova funzione arriva anche su WhatsApp. Ecco cosa possono controllare i genitori sugli account degli adolescenti dai 13 anni in su e quali contenuti restano p...",
+      "date": "2026-09-30T21:14:23.0000000Z"
+    },
+    {
+      "id": "open:f02290cf2b60",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Perché online è nata la coppia Kimi Antonelli e Olivia Rodrigo: lo scambio di persona e la finta ship apprezzata dai fan – Il video",
+      "url": "https://www.open.online/2026/09/30/perche-online-coppia-kimi-antonelli-olivia-rodrigo-scambio-persona-ship-fan-video/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/kimi-e-olivia.jpg",
+      "summary": "Durante il concerto della cantante, il pilota di Formula 1 era stato avvistato tra il pubblico. La notizia della nuova storia d'amore era già circolata sui social, ma poi è stata smentita L'articolo Perché online è na...",
+      "date": "2026-09-30T21:10:06.0000000Z"
+    },
+    {
+      "id": "open:de7d6e239be9",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La Corte Suprema USA non ha stabilito che i vaccinati diventano «non umani» o «beni brevettati»",
+      "url": "https://www.open.online/2026/09/30/corte-suprema-usa-vaccinati-non-umani-brevettati-fact-check/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/sentenza-usa-vaccinati-Fact-checking.jpg",
+      "summary": "I giudici non hanno mai citato i vaccini né la definizione legale di essere umano all'interno della decisione L'articolo La Corte Suprema USA non ha stabilito che i vaccinati diventano «non umani» o «beni brevettati» ...",
+      "date": "2026-09-30T20:50:38.0000000Z"
+    },
+    {
+      "id": "open:34be45ba3b7a",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il Ratanà di Cesare Battisti cambia i turni di lavoro e piovono curriculum. Cosa ha fatto per catturare più dipendenti",
+      "url": "https://www.open.online/2026/09/30/cucina-aperta-pomeriggio-turno-spezzato-ratana-cesare-battisti-clienti-personale/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/ratana-battisti.jpg",
+      "summary": "Lo chef punta a crescere \"in orizzontale\" con un orario di servizio più ampio e 55 dipendenti a tempo indeterminato. Sfatato il mito che «i giovani non vogliono lavorare». L'articolo Il Ratanà di Cesare Battisti cambi...",
+      "date": "2026-09-30T20:42:04.0000000Z"
+    },
+    {
+      "id": "open:9c80ddb13b0c",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Cos’è davvero il Simpsonwood Memo e perché non dimostra che i vaccini pediatrici causano autismo",
+      "url": "https://www.open.online/2026/09/30/vaccini-thimerosal-autismo-simpsonwood-fact-check/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/Simpsonwood-Memo-vaccini-autismo-Fact-checking.jpg",
+      "summary": "Un video virale rilancia vecchie teorie del complotto sul Thimerosal e sul Simpsonwood Memo, ma studi rigorosi e indagini ufficiali hanno ampiamente smentito il legame con l'autismo L'articolo Cos’è davvero il Simpson...",
+      "date": "2026-09-30T20:35:06.0000000Z"
+    },
+    {
+      "id": "repubblica:e4f779afd66c",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Detenuti in rivolta a Pisa, hanno trovato microspie nelle celle",
+      "url": "https://firenze.repubblica.it/cronaca/2026/09/30/news/pisa_detenuti_rivolta_carcere_microspie_celle-425618240/",
+      "image": null,
+      "summary": "La protesta sarebbe partita da un live su TikTok realizzata da un detenuto",
+      "date": "2026-09-30T20:33:50.0000000Z"
+    },
+    {
+      "id": "open:64071b07a697",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Rivolta al carcere di Pisa: un reparto sotto il controllo dei detenuti, la protesta in diretta su TikTok. «Ci sono le microspie nelle celle»",
+      "url": "https://www.open.online/2026/09/30/rivolta-carcere-pisa-microspie-celle-diretta-tiktok/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/carcere-pisa.jpg",
+      "summary": "Una quarantina di detenuti ha dato vita a una violenta protesta arrivando a prendere il controllo di un intero reparto. La rabbia esplosa per delle cimici installate L'articolo Rivolta al carcere di Pisa: un reparto s...",
+      "date": "2026-09-30T20:33:27.0000000Z"
+    },
+    {
+      "id": "open:56694b2b5a48",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Il falso video di un bombardamento iraniano all’aeroporto Ben Gurion di Tel Aviv",
+      "url": "https://www.open.online/2026/09/30/video-attacco-aeroporto-tel-aviv-ia-fact-check/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/video-bombardamento-iran-tel-aviv-fact-checking.jpg",
+      "summary": "l filmato circola almeno da marzo 2026 e presenta delle anomalie tipiche dell'AI L'articolo Il falso video di un bombardamento iraniano all’aeroporto Ben Gurion di Tel Aviv proviene da Open .",
+      "date": "2026-09-30T20:21:48.0000000Z"
     },
     {
       "id": "ansa:b83ca48dcd20",
@@ -24,55 +216,67 @@
       "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/paura-in-volo-copilota-accoltella-comandante.-israele-evoca-l119-katz-tentato_ba82b692-fb5f-4d67-98ba-c75431c1bda0.html",
       "image": null,
       "summary": "Copilota omanita aggredisce comandante FlyDubai, 'voleva far cadere l'aereo. È terrorismo'",
-      "date": "2026-09-30T19:51:45.0000000Z"
+      "date": "2026-09-30T20:21:43.0000000Z"
     },
     {
-      "id": "open:ba4cad6ea030",
+      "id": "open:cb9dfb9482c1",
       "sourceId": "open",
       "source": "Open",
       "platform": "rss",
       "category": "notizie",
-      "title": "La falsa storia dei piloti non vaccinati per il WEF, smentita dalla stessa fonte",
-      "url": "https://www.open.online/2026/09/30/piloti-non-vaccinati-wef-davos-yoder-fact-check/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/wef-piloti-non-vaccinati-davos-fact-checking.jpg",
-      "summary": "Dietro la bufala c'è un noto sito di notizie false, il quale ha attribuito frasi mai dette al rappresentante di un gruppo di piloti americano L'articolo La falsa storia dei piloti non vaccinati per il WEF, smentita da...",
-      "date": "2026-09-30T19:47:52.0000000Z"
+      "title": "Arrestato a Napoli Del Prete, il latitante del clan Mazzarella che da otto mesi si nascondeva nell’armadio di casa sua – Il video",
+      "url": "https://www.open.online/2026/09/30/arrestato-napoli-del-prete-armadio-nascondiglio-video/",
+      "image": "https://static.open.online/wp-content/uploads/2026/09/latitante-napoli.jpg",
+      "summary": "Era latitante dal 3 marzo scorso quando si era sottratto al carcere disposto dal gip del Tribunale di Napoli L'articolo Arrestato a Napoli Del Prete, il latitante del clan Mazzarella che da otto mesi si nascondeva nel...",
+      "date": "2026-09-30T20:20:46.0000000Z"
     },
     {
-      "id": "open:3d634d2c4e58",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Muore a 100 anni Peppino Mazzullo: era stato per 45 anni la voce di Topo Gigio",
-      "url": "https://www.open.online/2026/09/30/morto-peppino-mazzullo-voce-topo-gigio-ricordo/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/voce-topo-gigio.jpeg",
-      "summary": "Creò il tormentone \"Ma cosa mi dici mai\" rendendo il personaggio un fenomeno internazionale L'articolo Muore a 100 anni Peppino Mazzullo: era stato per 45 anni la voce di Topo Gigio proviene da Open .",
-      "date": "2026-09-30T19:31:46.0000000Z"
-    },
-    {
-      "id": "ansa:416fbb3598e0",
+      "id": "ansa:f56dea3d314c",
       "sourceId": "ansa",
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "CR7 rompe con il Portogallo, 'al momento giusto spiegherò perché'",
-      "url": "https://www.ansa.it/sito/notizie/sport/2026/09/30/rottura-fra-cr7-e-il-ct-del-portogallo-lattaccante-lascia-la-squadra_d37e4a0d-2d82-474d-88a6-c6708259e461.html",
+      "title": "Troppi social e chat, no dei pediatri allo smartphone personale sotto 13 anni",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/notizie_dai_pediatri/2026/09/30/pediatri-contro-dipendenze-da-social-e-chat-no-smartphone-personale-sotto-13-anni_aee0c72f-ea6a-4ea0-84db-78c9cfa7b8c1.html",
       "image": null,
-      "summary": "Il ct Jesus lo esclude ancora: 'Decido io chi gioca'. Il giocatore: 'Presto la verità'",
-      "date": "2026-09-30T19:23:51.0000000Z"
+      "summary": "L'uso problematico già a 11 anni nel 15% dei ragazzi. Al Bambino Gesù ambulatorio ad hoc",
+      "date": "2026-09-30T20:10:39.0000000Z"
     },
     {
-      "id": "open:59239776b873",
-      "sourceId": "open",
-      "source": "Open",
+      "id": "repubblica:50b06bac59e9",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Ronaldo lascia la Nazionale. La lite con il ct del Portogallo: «Decido io chi gioca». E lui abbandona il ritiro: «A tempo debito dirò la verità»",
-      "url": "https://www.open.online/2026/09/30/ronaldo-lascia-portogallo-scontro-jesus-dichiarazioni/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/cristiano-ronaldo-1.jpg",
-      "summary": "Clamoroso: il capitano, simbolo e recordman di gol e presenze della nazionale portoghese, ha lasciato improvvisamente la Danimarca per decollare alla volta di Madrid con il suo aereo privato. Lo sfogo del bomber sui s...",
-      "date": "2026-09-30T19:15:19.0000000Z"
+      "title": "Il governo tratta con Tamoil per il tetto ai carburanti. Incognita Trump sul diesel",
+      "url": "https://www.repubblica.it/economia/2026/09/30/news/il_governo_tratta_con_tamoil_per_il_tetto_ai_carburanti_incognita_trump_sul_diesel-425618172/",
+      "image": null,
+      "summary": "",
+      "date": "2026-09-30T20:07:00.0000000Z"
+    },
+    {
+      "id": "ansa:e041e57ad81c",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La rotta del volo Flydubai, dalla picchiata alla ripresa verso Tabuk",
+      "url": "https://www.ansa.it/sito/videogallery/mondo/2026/09/30/la-rotta-del-volo-flydubai-dalla-picchiata-alla-ripresa-verso-tabuk_20d084bd-1bc5-423d-bfb6-a8ac6fd3ed3c.html",
+      "image": null,
+      "summary": "Attimi di terrore sull'FZ1073 diretto a Tel Aviv dopo l’accoltellamento del comandante",
+      "date": "2026-09-30T19:54:13.0000000Z"
+    },
+    {
+      "id": "ansa:023aca8c9538",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Piloti fuori servizio e passeggeri, gli eroi del volo FZ1073",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/piloti-fuori-servizio-e-passeggeri-gli-eroi-del-volo-fz1073_ced653ec-5b52-4152-86ea-be02a6823156.html",
+      "image": null,
+      "summary": "Hanno bloccato l'assalitore e portato in salvo il volo, 'un miracolo grazie a loro'",
+      "date": "2026-09-30T19:29:27.0000000Z"
     },
     {
       "id": "repubblica:513353af9cf4",
@@ -87,30 +291,6 @@
       "date": "2026-09-30T19:14:24.0000000Z"
     },
     {
-      "id": "open:00d2771e64e9",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Il MEI celebra La fine dei vent’anni di Motta: «Sono finito per sbaglio nel mainstream» – L’intervista",
-      "url": "https://www.open.online/2026/09/30/mei-la-fine-dei-ventanni-motta-intervista/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-30-at-16.42.40.jpeg",
-      "summary": "Al Meeting delle Etichette Indipendenti il cantautore toscano festeggerà i dieci anni di un disco generazionale: \"La fine dei vent'anni\" L'articolo Il MEI celebra La fine dei vent’anni di Motta: «Sono finito per sbagl...",
-      "date": "2026-09-30T19:13:41.0000000Z"
-    },
-    {
-      "id": "ansa:6f9206e57fb3",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Governo: 'Risarcimento dopo la Cassazione su Regeni'. L'opposizione attacca",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/09/30/i-media-egiziani-telefonata-roma-cairo-prima-della-sentenza-regeni.-palazzo_e9edcd01-b12e-42a3-ac02-4dcfbad8f03f.html",
-      "image": null,
-      "summary": "Palazzo Chigi smentisce telefonata con il Cairo prima del verdetto",
-      "date": "2026-09-30T19:08:37.0000000Z"
-    },
-    {
       "id": "ansa:99caedf8b3d8",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -123,100 +303,16 @@
       "date": "2026-09-30T19:08:18.0000000Z"
     },
     {
-      "id": "open:0867133e7a64",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Ultimi giorni d’estate, poi l’autunno arriva davvero: previsti pioggia e crollo delle temperature",
-      "url": "https://www.open.online/2026/09/30/meteo-ottobre-previsioni-caldo-pioggia-quando-arriva-autunno/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/Nuvole-def.jpeg",
-      "summary": "Primi giorni del mese ancora soleggiati e con temperature sopra la media del periodo grazie all'alta pressione. Poi, secondo Meteo Giuliacci, due ondate di pioggia e un deciso calo delle temperature, con massime sotto...",
-      "date": "2026-09-30T19:02:58.0000000Z"
-    },
-    {
-      "id": "open:56d9de5246bf",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Euro 2032, la Figc propone 14 stadi alla Uefa: 4 non esistono ancora. Solo l’Allianz Stadium è già in regola",
-      "url": "https://www.open.online/2026/09/30/euro-2032-14-stadi-candidati-italia/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/stadi-euro-2032.jpg",
-      "summary": "Roma candida due stadi: oltre allo Stadio Olimpico, anche la nuova casa dei giallorossi a Pietralata. Milano offre il nuovo San Siro. Presenti anche Bari, Bologna e Verona L'articolo Euro 2032, la Figc propone 14 stad...",
-      "date": "2026-09-30T18:46:52.0000000Z"
-    },
-    {
-      "id": "ansa:7f2b132c90e3",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Nuovo stop a Schengen con la Spagna, ancora una proroga di 15 giorni",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/09/30/viminale-prorogato-di-15-giorni-lo-stop-a-schengen-con-la-spagna_273398e5-c4e2-4429-b5ff-3834783ad0e6.html",
-      "image": null,
-      "summary": "Viminale: 'Su Ceuta le criticità restano'. Il governo va avanti sui 6 nuovi Cpr in varie regioni",
-      "date": "2026-09-30T18:46:15.0000000Z"
-    },
-    {
-      "id": "open:b63a023634d5",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Sagre, eventi e rivalità coi consiglieri regionali. I piani dei deputati in vista della nuova legge elettorale (con le preferenze)",
-      "url": "https://www.open.online/2026/09/30/legge-elettorale-voto-timori-peones-preferenze/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/manifesti-elettorali.jpeg",
-      "summary": "La nuova legge elettorale torna in Aula alla Camera, domani il primo voto sulle pregiudiziali. Con il capolista bloccato e le preferenze dal secondo eletto, cresce la competizione nei collegi L'articolo Sagre, eventi ...",
-      "date": "2026-09-30T18:44:14.0000000Z"
-    },
-    {
       "id": "repubblica:1082a3ccbc1b",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Diana Bianchedi si dimette dal ruolo di capodelegazione della Nazionale: Abodi l'aveva attaccata",
+      "title": "Scontro con Abodi, Bianchedi lascia la Nazionale: può votare per Malagò",
       "url": "https://www.repubblica.it/sport/calcio/2026/09/30/news/diana_bianchedi_si_dimette_capodelegazione_nazionale_abodi_attacchi-425617827/",
       "image": null,
-      "summary": "L’ex campionessa olimpica di scherma è anche vicepresidente del Coni",
+      "summary": "La capodelegazione azzurra si dimette in polemica con il ministro. Resta nella Giunta Coni che il 6 ottobre deciderà sulla Figc",
       "date": "2026-09-30T18:39:10.0000000Z"
-    },
-    {
-      "id": "open:cbe501191345",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Strage di Brandizzo, udienza preliminare tra le polemiche: dalle aule divise al risarcimento ingiusto a una delle famiglie",
-      "url": "https://www.open.online/2026/09/30/strage-bradizzo-udienza-preliminare-polemiche-aule-videocollegamento-risarcimento-famiglie/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/processo-strage-di-brandizzo-scaled.jpg",
-      "summary": "I famigliari delle vittime vogliono giustizia: «I ragazzi sono stati mandati lì a morire». In Tribunale uno degli indagati, Antonio Massa, caposcorta di Rfi L'articolo Strage di Brandizzo, udienza preliminare tra le p...",
-      "date": "2026-09-30T18:21:52.0000000Z"
-    },
-    {
-      "id": "ansa:a1d5b51c961b",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Un passeggero cerca di fermare l'aggressore sul volo FlyDubai, la foto con il sangue sulla t-shirt",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/passeggero-cerca-di-fermare-rissa-tra-piloti-volo-flydubai-foto-con_bb302a75-1440-42dd-b811-3ccc860a2710.html",
-      "image": null,
-      "summary": "Media: 'La prima immagine diffusa sui social'. Le testimonianze: 'Stavamo precipitando, pensavo fosse finita'",
-      "date": "2026-09-30T18:16:12.0000000Z"
-    },
-    {
-      "id": "open:92088f37be68",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "A Tokyo piove da 35 giorni consecutivi: il record di maltempo causato da El Niño e le conseguenze su economia e salute",
-      "url": "https://www.open.online/2026/09/30/tokyo-record-pioggia-35-giorni/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/tokyo.jpg",
-      "summary": "Nell'ultimo mese la capitale del Giappone ha visto spuntare il sole solo per 45 ore. Ed è in arrivo un nuovo tifone L'articolo A Tokyo piove da 35 giorni consecutivi: il record di maltempo causato da El Niño e le cons...",
-      "date": "2026-09-30T18:15:39.0000000Z"
     },
     {
       "id": "skytg24:ziUcu3IU-to",
@@ -270,18 +366,6 @@
       "date": "2026-09-30T17:44:25.0000000Z"
     },
     {
-      "id": "open:bfbd311ccce0",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Caso Regeni, Foti: «Lo Stato chiederà un risarcimento». Poi precisa: «A sentenza passata in giudicato»",
-      "url": "https://www.open.online/2026/09/30/caso-regeni-tommaso-foti-stato-risarcimento/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/tommaso-foti-1.jpg",
-      "summary": "L'annuncio del ministro per gli Affari europei a Tagadà sembra stridere con la posizione della premier e del collega della Farnesina. In serata la postilla: fedele alla linea L'articolo Caso Regeni, Foti: «Lo Stato ch...",
-      "date": "2026-09-30T17:38:21.0000000Z"
-    },
-    {
       "id": "breakingitaly:UKobnbZVqJA",
       "sourceId": "breakingitaly",
       "source": "Breaking Italy",
@@ -295,18 +379,6 @@
       "date": "2026-09-30T17:35:35.0000000Z"
     },
     {
-      "id": "repubblica:06d1dcef9337",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Ddl Concorrenza, la lite sui bilanci fra commercialisti e consulenti spacca la maggioranza",
-      "url": "https://www.repubblica.it/economia/2026/09/30/news/ddl_concorrenza_la_lite_sui_bilanci_fra_commercialisti_e_consulenti_spacca_la_maggioranza-425617670/",
-      "image": null,
-      "summary": "Da una parte il deputato della Lega, dall’altra la senatrice di FdI. Il testo della norma non è stato scritto dal ministero di Urso. Ed è arrivato a Chigi senza quella norma. Una manina l’ha inserita dopo",
-      "date": "2026-09-30T17:34:33.0000000Z"
-    },
-    {
       "id": "breakingitaly:RcvwV_iNvog",
       "sourceId": "breakingitaly",
       "source": "Breaking Italy",
@@ -318,18 +390,6 @@
       "summary": "",
       "videoId": "RcvwV_iNvog",
       "date": "2026-09-30T17:28:05.0000000Z"
-    },
-    {
-      "id": "open:8bedb2d6d93e",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Meloni su ETS, ZES e caro energia: «L’Europa riveda le regole o rischia la deindustrializzazione». E scrive a von der Leyen",
-      "url": "https://www.open.online/2026/09/30/meloni-von-der-leyen-flessibilita-ets-zes/",
-      "image": "https://static.open.online/wp-content/uploads/2026/09/giorgia-meloni-gazzettino.jpg",
-      "summary": "Intervenendo in videocollegamento all'evento del Gazzettino \"Oltre le Radici\", la premier Giorgia Meloni ha tracciato le linee prioritarie dell'azione di governo tra riforme interne ed emergenze europee L'articolo Mel...",
-      "date": "2026-09-30T17:26:39.0000000Z"
     },
     {
       "id": "repubblica:e35ab0e80c2d",
@@ -484,18 +544,6 @@
       "date": "2026-09-30T16:00:02.0000000Z"
     },
     {
-      "id": "ansa:b6de1d5d8fd8",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Lo zucchero aggrava i danni degli antibiotici alla salute intestinale",
-      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/09/30/lo-zucchero-aggrava-i-danni-degli-antibiotici-alla-salute-intestinale_2bf384ef-7912-4599-92fa-b130c6f8b556.html",
-      "image": null,
-      "summary": "Un'alimentazione troppo dolce rende più vulnerabili i batteri buoni",
-      "date": "2026-09-30T15:52:04.0000000Z"
-    },
-    {
       "id": "repubblica:d38351046f28",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -532,30 +580,6 @@
       "date": "2026-09-30T15:08:53.0000000Z"
     },
     {
-      "id": "repubblica:c8c647b8f4f1",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Occhiuto punge Tajani: “Forse sua comunicazione andrebbe rivista, Forza Italia un po’ ingiallita”",
-      "url": "https://www.repubblica.it/politica/2026/09/30/news/occhiuto_tajani_comunicazione_fi_partito_moderno-425617253/",
-      "image": null,
-      "summary": "Il presidente della regione Calabria ha presentato il suo libro “Il coraggio di governare”",
-      "date": "2026-09-30T15:02:58.0000000Z"
-    },
-    {
-      "id": "repubblica:e8e5b3557057",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Nasce il bonus carburante comunale. E’ ideato da un piccolo comune per combattere il caro prezzi",
-      "url": "https://www.repubblica.it/economia/2026/09/30/news/nasce_il_bonus_carburante_comunale_e__ideato_da_un_piccolo_comune_per_combattere_il_caro_prezzi-425617222/",
-      "image": null,
-      "summary": "Succede a Laurenzana (Potenza). Il contributo sarà destinato ai residenti in possesso della patente di guida e sarà modulato in base alla fascia di reddito",
-      "date": "2026-09-30T14:49:04.0000000Z"
-    },
-    {
       "id": "skytg24:Kz0DogXFjc4",
       "sourceId": "skytg24",
       "source": "Sky TG24",
@@ -567,31 +591,6 @@
       "summary": "",
       "videoId": "Kz0DogXFjc4",
       "date": "2026-09-30T14:16:53.0000000Z"
-    },
-    {
-      "id": "skytg24:eHWv35fMl3A",
-      "sourceId": "skytg24",
-      "source": "Sky TG24",
-      "platform": "youtube",
-      "category": "notizie",
-      "title": "Cuba, crisi idrica all'Avana: cresce l’emergenza sanitaria",
-      "url": "https://www.youtube.com/watch?v=eHWv35fMl3A",
-      "image": "https://i.ytimg.com/vi/eHWv35fMl3A/hqdefault.jpg",
-      "summary": "",
-      "videoId": "eHWv35fMl3A",
-      "date": "2026-09-30T14:09:22.0000000Z"
-    },
-    {
-      "id": "ansa:e041e57ad81c",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La rotta del volo Flydubai, dalla picchiata alla ripresa verso Tabuk",
-      "url": "https://www.ansa.it/sito/videogallery/mondo/2026/09/30/la-rotta-del-volo-flydubai-dalla-picchiata-alla-ripresa-verso-tabuk_20d084bd-1bc5-423d-bfb6-a8ac6fd3ed3c.html",
-      "image": null,
-      "summary": "Attimi di terrore sull'FZ1073 diretto a Tel Aviv dopo l’accoltellamento del comandante",
-      "date": "2026-09-30T13:31:18.0000000Z"
     }
   ]
 }

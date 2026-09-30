@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-09-30T20:07:28.8279022Z",
+  "updated": "2026-09-30T23:46:42.6144117Z",
   "items": [
+    {
+      "id": "motor1:c7dbe969c1cc",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Aston Martin DBX per passare \"inosservati\"",
+      "url": "https://it.motor1.com/news/810208/aston-martin-dbx-gt-motore/",
+      "image": "https://cdn.motor1.com/images/mgl/eoWKOV/s3/aston-martin-dbx-gt-2026.jpg",
+      "summary": "Debutta la DBX GT, versione con look più \"sobrio\", interni rivisti e sospensioni aggiornate. Ha sempre il V8 da 727 CV",
+      "date": "2026-09-30T23:01:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:4a82813efa18",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto elettriche usate:  ok, ora il prezzo è (più) giusto",
+      "url": "https://www.vaielettrico.it/auto-elettriche-usate-ok-ora-il-prezzo-e-piu-giusto/",
+      "image": null,
+      "summary": "Le auto elettriche usate si deprezzano meno di quanto indicano le stime oggi utilizzate dal mercato. Secondo una… L'articolo Auto elettriche usate: ok, ora il prezzo è (più) giusto proviene da Vaielettrico .",
+      "date": "2026-09-30T20:31:15.0000000Z"
+    },
     {
       "id": "hdmotori:f48eb37ad95c",
       "sourceId": "hdmotori",
@@ -315,18 +339,6 @@
       "date": "2026-09-30T12:00:00.0000000Z"
     },
     {
-      "id": "motor1:4e9d9b807aa9",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "I SUV che consumano meno del 2026: classifica per alimentazione",
-      "url": "https://it.motor1.com/reviews/809983/consumi-reali-suv-classifica-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/y214Go/s3/i-suv-che-consumano-meno-del-2026-classifica-per-alimentazione.jpg",
-      "summary": "I nuovi SUV e crossover a benzina, diesel, GPL, mild hybrid, full hybrid e plug-in hybrid provati da inizio 2026: chi consuma di meno?",
-      "date": "2026-09-30T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:a74213776e8a",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -505,18 +517,6 @@
       "image": null,
       "summary": "Siamo il Paese della nautica a livello mondiale, ma non ancora di quella elettrica. Scorrendo Europe’s Electric Boat… L'articolo Nautica: Paesi Bassi in vetta per cantieri elettrici e barche a batteria proviene da Vai...",
       "date": "2026-09-29T05:42:18.0000000Z"
-    },
-    {
-      "id": "vaielettrico:b7dad0a84d38",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "1.338km con una ricarica: primato con l’Audi A6 Sportback",
-      "url": "https://www.vaielettrico.it/1-338km-con-una-ricarica-primato-con-laudi-a6-sportback/",
-      "image": null,
-      "summary": "1.338km con una ricarica: nuovo primato di percorrenza con l’Audi A6 Sportback. Al volante il Campione europeo rally… L'articolo 1.338km con una ricarica: primato con l’Audi A6 Sportback proviene da Vaielettrico .",
-      "date": "2026-09-28T17:43:11.0000000Z"
     },
     {
       "id": "insideevs:f84967fd0842",
