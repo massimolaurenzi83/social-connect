@@ -1,18 +1,30 @@
 {
   "category": "scienza",
-  "updated": "2026-09-30T08:31:23.2903387Z",
+  "updated": "2026-09-30T15:14:58.9735020Z",
   "items": [
     {
-      "id": "focus:bd6dd02da929",
+      "id": "media-inaf:269db980bd91",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Ngc 362d, due primati per le pulsar millisecondo",
+      "url": "https://www.media.inaf.it/2026/09/30/ngc-362d-due-primati-per-le-pulsar-millisecondo/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/Figura2-150x150.png",
+      "summary": "Un team guidato dall'Inaf e dall'Università di Bologna ha scoperto un sistema binario in una fase rarissima della sua evoluzione, formato da una pulsar millisecondo e dalla più giovane nana bianca finora osservata in ...",
+      "date": "2026-09-30T10:05:05.0000000Z"
+    },
+    {
+      "id": "focus:9088da5f2583",
       "sourceId": "focus",
       "source": "Focus",
       "platform": "rss",
       "category": "scienza",
-      "title": "Esiste un aeroporto senza aria condizionata?",
-      "url": "https://www.focus.it/tecnologia/innovazione/in-attesa-immagine-su-un-isola-tropicale-c-e-un-aeroporto-senza-aria-condizionata",
-      "image": "https://www.focus.it/images/2026/09/30/la-reunion-aeroporto-2_w630.jpg?imbypass=true",
-      "summary": "Niente aria condizionata quando si arriva all'aeroporto della Riunione: grazie a un'architettura sostenibile, bollette ed emissioni di CO2 calano drasticamente. E in Europa?",
-      "date": "2026-09-30T07:00:00.0000000Z"
+      "title": "I \"terremoti lenti\" innescati da Sole e Luna",
+      "url": "https://www.focus.it/scienza/scienze/il-sole-e-la-luna-scatenano-i-terremoti-silenziosi-sulla-terra",
+      "image": "https://www.focus.it/images/2026/09/30/sole-luna_w630.jpg?imbypass=true",
+      "summary": "Sole e Luna non sollevano solo gli oceani: le forze di marea entrano in risonanza con le faglie terrestri, innescando \"terremoti lenti\" che rilasciano energia senza fare rumore.",
+      "date": "2026-09-30T10:00:00.0000000Z"
     },
     {
       "id": "focus:d4eb3e9f4549",
@@ -24,6 +36,18 @@
       "url": "https://www.focus.it/scienza/salute/trapianti-i-cuori-piu-anziani-ringiovaniscono-nei-riceventi-piu-giovani",
       "image": "https://www.focus.it/images/2026/09/29/donazione-di-cuore_w630.jpg?imbypass=true",
       "summary": "Gli organi donati nei trapianti si adattano all'età biologica del paziente che li riceve: se confermato, si potrebbe ampliare la platea dei donatori.",
+      "date": "2026-09-30T07:00:00.0000000Z"
+    },
+    {
+      "id": "focus:bd6dd02da929",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Esiste un aeroporto senza aria condizionata",
+      "url": "https://www.focus.it/tecnologia/innovazione/in-attesa-immagine-su-un-isola-tropicale-c-e-un-aeroporto-senza-aria-condizionata",
+      "image": "https://www.focus.it/images/2026/09/30/la-reunion-aeroporto-2_w630.jpg?imbypass=true",
+      "summary": "Niente aria condizionata quando si arriva all'aeroporto della Riunione: grazie a un'architettura sostenibile, bollette ed emissioni di CO2 calano drasticamente. E in Europa?",
       "date": "2026-09-30T07:00:00.0000000Z"
     },
     {
@@ -247,18 +271,6 @@
       "date": "2026-09-28T11:00:00.0000000Z"
     },
     {
-      "id": "focus:7cfa1f021450",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "SpaceX: oggi il primo volo orbitale di Starship",
-      "url": "https://www.focus.it/scienza/spazio/starship-verso-il-primo-volo-in-orbita-oggi-la-svolta-storica-per-il-gigante-di-spacex",
-      "image": "https://www.focus.it/images/2026/09/28/starship-spacex_w630.jpg?imbypass=true",
-      "summary": "Oggi prende il via il primo storico volo orbitale di Starship. La missione durerà quasi dieci ore, portando in orbita 26 satelliti Starlink V3 e si concluderà con un ammaraggio nel Pacifico. Ecco orari, dettagli del l...",
-      "date": "2026-09-28T08:00:00.0000000Z"
-    },
-    {
       "id": "geopop:fvGJjZvwMH8",
       "sourceId": "geopop",
       "source": "Geopop",
@@ -407,18 +419,6 @@
       "summary": "",
       "videoId": "nK_WzU9sQOM",
       "date": "2026-09-23T16:30:16.0000000Z"
-    },
-    {
-      "id": "media-inaf:28a3fe44d886",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Scoperto il primo microblazar della Via Lattea",
-      "url": "https://www.media.inaf.it/2026/09/23/microblazar-iras-18293%e2%88%920941/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/IRAS-illustration-en-150x150.png",
-      "summary": "È un sistema stellare formato da una stella massiccia e da un buco nero il cui getto è rivolto verso la Terra. Nella regione in cui il getto colpisce la nube molecolare le particelle vengono accelerate a energie altis...",
-      "date": "2026-09-23T11:23:48.0000000Z"
     },
     {
       "id": "geopop:4jkmfE84WYw",
