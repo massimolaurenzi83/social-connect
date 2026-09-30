@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-09-30T15:14:58.9656247Z",
+  "updated": "2026-09-30T20:07:28.8706758Z",
   "items": [
+    {
+      "id": "cybersecurity360:6ff942e05d78",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Agenti AI, il rischio è nel perimetro: cosa insegnano gli ultimi incidenti",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/agenti-ai-il-rischio-e-nel-perimetro-cosa-insegnano-gli-ultimi-incidenti/",
+      "image": null,
+      "summary": "Dalla fuga dalla sandbox al blocco di GPT-6.1 Astra, fra agosto e settembre si sono moltiplicati gli incidenti cyber. Ecco perché i casi degli Agenti AI di OpenAI e Anthropic costringono a spostare l’attenzione dal co...",
+      "date": "2026-09-30T16:45:40.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:9615d5b31a6d",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Oxygen Forensics, il caso USA riapre il rischio supply chain nel software critico",
+      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/oxygen-forensics-il-caso-usa-riapre-il-rischio-supply-chain-nel-software-critico/",
+      "image": null,
+      "summary": "Il sequestro dell’infrastruttura di Oxygen Forensics non nasce, allo stato, da una compromissione tecnica del software, ma dalle contestazioni sulla proprietà societaria e sulla provenienza dello sviluppo. Il caso mos...",
+      "date": "2026-09-30T15:44:19.0000000Z"
+    },
     {
       "id": "cybersecurity360:833b22f1e88f",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "NIS2, Cyber Resilience Act, AI Act e nuove minacce stanno trasformando la cyber security in una questione di governance e continuità operativa. A it-sa Expo&Congress 2026 il confronto si sposta sugli strumenti necessa...",
       "date": "2026-09-29T14:10:31.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:9fd7c7871e15",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Servizi di ascolto e GDPR: come proteggere i dati durante il ciclo di vita della segnalazione",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/servizi-di-ascolto-e-gdpr-come-proteggere-i-dati-durante-il-ciclo-di-vita-della-segnalazione/",
-      "image": null,
-      "summary": "Una segnalazione può esporre una persona vulnerabile anche dopo la presa in carico. Accessi, comunicazioni a terzi, richieste dell’interessato e tempi di conservazione devono essere governati lungo l’intero ciclo di v...",
-      "date": "2026-09-29T13:58:04.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:411c5ed09a7c",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Kaspersky Small Office Security Premium: protezione ransomware, VPN e Security Awareness per le PMI senza team IT",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/kaspersky-small-office-security-premium-protezione-pmi-ransomware/",
-      "image": null,
-      "summary": "Kaspersky Small Office Security Premium offre alle piccole imprese protezione contro malware, phishing e ransomware, VPN, password manager e Security Awareness. Il piano Premium include anche assistenza IT e configura...",
-      "date": "2026-09-29T12:30:23.0000000Z"
     }
   ]
 }
