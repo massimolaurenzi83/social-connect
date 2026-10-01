@@ -1,7 +1,43 @@
 {
   "category": "cucina",
-  "updated": "2026-10-01T09:23:30.7647464Z",
+  "updated": "2026-10-01T16:37:34.6257498Z",
   "items": [
+    {
+      "id": "dissapore:d9af224ab49e",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "La clientela del ristorante fa il prezzo del panino: la nuova strategia di McDonald’s",
+      "url": "https://www.dissapore.com/notizie/la-clientela-del-ristorante-fa-il-prezzo-del-panino-la-nuova-strategia-di-mcdonalds/",
+      "image": null,
+      "summary": "Un Big Mac come un biglietto aereo: McDonald's sta spingendo sempre di più i prezzi dinamici, e né gli affiliati né l'antitrust sembrano contenti. L'articolo La clientela del ristorante fa il prezzo del panino: la nuo...",
+      "date": "2026-10-01T14:01:23.0000000Z"
+    },
+    {
+      "id": "dissapore:2fcd29a46656",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Nell’epoca dell’AI, Adam Sandler s’è mangiato mezza Torino",
+      "url": "https://www.dissapore.com/notizie/nellepoca-dellai-adam-sandler-se-mangiato-mezza-torino/",
+      "image": null,
+      "summary": "La situazione di Adam Sandler a Torino è sfuggita di mano. A noi, non a lui. L'articolo Nell’epoca dell’AI, Adam Sandler s’è mangiato mezza Torino proviene da Dissapore .",
+      "date": "2026-10-01T11:18:55.0000000Z"
+    },
+    {
+      "id": "giallozafferano:cdcd354dfcfa",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Crocchette di patate dolci",
+      "url": "https://ricette.giallozafferano.it/Crocchette-di-patate-dolci.html",
+      "image": "https://www.giallozafferano.it/images/366-36666/Crocchette-di-patate-dolci_1200x800.jpg",
+      "summary": "Le crocchette di patate dolci sono una variante sfiziosa delle classiche crocchette di patate , ideale per chi vuole sperimentare un gusto diverso dal solito. La naturale dolcezza delle patate americane si abbina al s...",
+      "date": "2026-10-01T10:14:00.0000000Z"
+    },
     {
       "id": "dissapore:c88e94e44b92",
       "sourceId": "dissapore",
@@ -207,30 +243,6 @@
       "date": "2026-09-28T12:50:58.0000000Z"
     },
     {
-      "id": "dissapore:69e43e00d569",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Il Granchio Blu arriva pure su una pizza firmata",
-      "url": "https://www.dissapore.com/notizie/il-granchio-blu-arriva-pure-su-una-pizza-firmata/",
-      "image": null,
-      "summary": "Ci aveva già provato Sorbillo, ora ritenta Berberè: arriva la pizza al granchio blu, e questa volta è firmata dalla chef più cool del momento. L'articolo Il Granchio Blu arriva pure su una pizza firmata proviene da Di...",
-      "date": "2026-09-28T10:13:41.0000000Z"
-    },
-    {
-      "id": "dissapore:b72e02a381d4",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "In Italia chiudono 11 bar al giorno",
-      "url": "https://www.dissapore.com/notizie/in-italia-chiudono-11-bar-al-giorno/",
-      "image": null,
-      "summary": "Negli ultimi 6 anni hanno chiuso moltissimi bar, soprattutto al Centro e al Nord Italia, creando un problema di comunità soprattutto nei paesi più piccoli. L'articolo In Italia chiudono 11 bar al giorno proviene da Di...",
-      "date": "2026-09-28T09:51:16.0000000Z"
-    },
-    {
       "id": "giallozafferano:56b97431bf48",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/366-36636/Torta-di-compleanno-senza-cottura-Regina-dei-Ghiacci-con-Pavesini-mascarpone-e-mirtilli_1200x800.jpg",
       "summary": "La torta di compleanno senza cottura Regina dei Ghiacci con Pavesini, mascarpone e mirtilli è una ricetta golosa e scenografica che Loredana ha condiviso con noi in occasione di una puntata del vodcast \" Ti mando un v...",
       "date": "2026-09-24T09:30:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:7bc472a380e2",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Zuppa di rana pescatrice",
-      "url": "https://ricette.giallozafferano.it/Zuppa-di-rana-pescatrice.html",
-      "image": "https://www.giallozafferano.it/images/366-36644/Zuppa-di-rana-pescatrice_1200x800.jpg",
-      "summary": "La zuppa di rana pescatrice è un piatto di pesce ricco e saporito che porta in tavola il gusto del mare in una versione calda e avvolgente. La rana pescatrice , o coda di rospo, è un pesce molto apprezzato per la sua ...",
-      "date": "2026-09-23T14:55:00.0000000Z"
     }
   ]
 }

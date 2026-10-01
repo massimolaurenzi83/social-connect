@@ -1,7 +1,67 @@
 {
   "category": "energia",
-  "updated": "2026-10-01T09:23:30.7950496Z",
+  "updated": "2026-10-01T16:37:34.6807177Z",
   "items": [
+    {
+      "id": "qualenergia:f832ca18049f",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Direttiva Case Green, Bruxelles richiama ancora l’Italia",
+      "url": "https://www.qualenergia.it/articoli/direttiva-case-green-bruxelles-richiama-ancora-italia/",
+      "image": null,
+      "summary": "L’Italia, insieme ad altri otto Stati membri, continua a essere nel mirino della Commissione europea per non aver presentato a Bruxelles il progetto del Piano nazionale di ristrutturazione degli edifici, considerato u...",
+      "date": "2026-10-01T14:15:58.0000000Z"
+    },
+    {
+      "id": "qualenergia:abc3ba0b9951",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Valutazioni ambientali, il piano del Consiglio Ue per accelerare i progetti",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/valutazioni-ambientali-piano-consiglio-ue-accelerare-progetti/",
+      "image": null,
+      "summary": "Tempi precisi per i procedimenti ambientali e per la digitalizzazione dei relativi dati, sportelli unici facoltativi (ma con l’obbligo di garantire sempre un unico punto di contatto per singolo progetto), ampliamento ...",
+      "date": "2026-10-01T12:15:28.0000000Z"
+    },
+    {
+      "id": "qualenergia:c0d15e33bb55",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Concessioni idroelettriche, Foti: “quarta via” dal 2027",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/concessioni-idroelettriche-foti-apre-quarta-via-2027/",
+      "image": null,
+      "summary": "Potrebbe essere imboccata l’anno prossimo la cosiddetta “quarta via”, cioè la soluzione che il governo, dopo la sentenza CgUe sulle piccole derivazioni, ha reso chiaro di preferire per risolvere il problema delle gran...",
+      "date": "2026-10-01T10:30:54.0000000Z"
+    },
+    {
+      "id": "qualenergia:67292de9c2ca",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Valutazioni ambientali: gli esiti di settembre per le rinnovabili",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/valutazioni-ambientali-esiti-settembre-per-rinnovabili-2/",
+      "image": null,
+      "summary": "Settembre sembra agosto sul portale Via-Vas-Aia del Mase, almeno per quanto riguarda l’agrivoltaico. Le autorizzazioni concesse nell’ultimo mese sono infatti molto simili per volumi a quelle del mese precedente: 584,9...",
+      "date": "2026-10-01T10:00:31.0000000Z"
+    },
+    {
+      "id": "qualenergia:61f389f7f5f2",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Mancata produzione rinnovabile, al 30 novembre le istanze retroattive",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/mancata-produzione-fer-30-novembre-istanze-retroattive-dopo-cambio-brp/",
+      "image": null,
+      "summary": "Il Gse ha prorogato al 30 novembre 2026 il termine per presentare le istanze per la remunerazione della mancata produzione da fonti rinnovabili non programmabili, Mprin, con effetto retroattivo dal 1° aprile 2025. La ...",
+      "date": "2026-10-01T09:00:32.0000000Z"
+    },
     {
       "id": "qualenergia:9b43f2e7f2ec",
       "sourceId": "qualenergia",
@@ -13,6 +73,18 @@
       "image": null,
       "summary": "Il costo di produzione dell’idrogeno verde in Italia potrebbe scendere dai 2,37 €/kg stimati per il 2030 a 1,49-2,05 €/kg nel 2050, in un sistema energetico interamente rinnovabile. Ma il risultato dipende non solo da...",
       "date": "2026-10-01T08:45:48.0000000Z"
+    },
+    {
+      "id": "qualenergia:398423ea400b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Energivori, la nuova delibera Arera sui “soggetti ospitati”",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/energivori-nuova-delibera-arera-soggetti-ospitati/",
+      "image": null,
+      "summary": "L’Autorità per l’Energia chiude il cerchio sul tema delle imprese energivore titolari di punti di prelievo che alimentano anche altri soggetti. Dopo i chiarimenti resi il 23 settembre a seguito di alcune segnalazioni ...",
+      "date": "2026-10-01T08:00:43.0000000Z"
     },
     {
       "id": "qualenergia:0f0f65fd81b3",
@@ -27,124 +99,52 @@
       "date": "2026-10-01T07:45:15.0000000Z"
     },
     {
-      "id": "qualenergia:d589e216c1ee",
+      "id": "qualenergia:a2247cff8404",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
       "title": "Eolico e fotovoltaico superano i fossili nell’Ue, ora la sfida è la flessibilità",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/eolico-fotovoltaico-superano-fossili-ue-sfida-flessibilita/",
+      "url": "https://www.qualenergia.it/articoli/eolico-fotovoltaico-superano-fossili-ue-sfida-flessibilita/",
       "image": null,
       "summary": "Nel 2025 eolico e fotovoltaico hanno prodotto insieme circa il 30% dell’elettricità dell’Unione europea, superando la quota complessiva dell’elettricità da fonti fossili, scesa sotto il 30%. Il resto del mix è stato c...",
       "date": "2026-10-01T07:00:17.0000000Z"
     },
     {
-      "id": "qualenergia:83d3c44946e7",
+      "id": "qualenergia:e9d9e4fce6db",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "Power Barometer 2026",
-      "url": "https://www.qualenergia.it/pro/documenti/power-barometer-2026/",
+      "title": "Aprono 3 bandi in Emilia-Romagna, Umbria e Trento: contributi a imprese per efficienza energetica e innovazione",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/aprono-tre-bandi-contributi-imprese-efficienza-energetica-innovazione/",
       "image": null,
-      "summary": "Una panoramica del sistema elettrico europeo: crescita di eolico e fotovoltaico, maggiore bisogno di reti, accumuli e flessibilità, ruolo del gas sempre più legato al bilanciamento e prezzi ancora esposti ai fossili. ...",
-      "date": "2026-10-01T05:00:33.0000000Z"
+      "summary": "Aprono oggi, 1° ottobre 2026, tre bandi che mettono complessivamente a disposizione quasi 29 milioni di euro per sostenere investimenti delle imprese in innovazione, efficienza energetica, fonti rinnovabili e tecnolog...",
+      "date": "2026-10-01T06:55:46.0000000Z"
     },
     {
-      "id": "qualenergia:2e0f9f510dde",
+      "id": "qualenergia:50d40d648ab7",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "Assessing the future cost of hydrogen in a fully decarbonised Italian energy system",
-      "url": "https://www.qualenergia.it/pro/documenti/assessing-the-future-cost-of-hydrogen-in-a-fully-decarbonised-italian-energy-system-a-comparison-of-myopic-and-perfect-foresight-optimisation-approaches/",
+      "title": "Bandi e appalti del giorno (3)",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
       "image": null,
-      "summary": "Titolo completo: Assessing the future cost of hydrogen in a fully decarbonised Italian energy system: a comparison of myopic and perfect foresight optimisation approaches Studio sul costo di produzione dell’idrogeno v...",
-      "date": "2026-10-01T05:00:27.0000000Z"
+      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
+      "date": "2026-10-01T06:30:17.0000000Z"
     },
     {
-      "id": "qualenergia:c806b8589e7b",
+      "id": "qualenergia:7c70df76062a",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "INFODATA ENERGIA",
-      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "title": "Installazione e gestione colonnine di ricarica veicoli elettrici a Valperga (TO)",
+      "url": "https://www.qualenergia.it/pro/documenti/installazione-e-gestione-colonnine-di-ricarica-veicoli-elettrici-a-valperga-to/",
       "image": null,
-      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
-      "date": "2026-10-01T04:30:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:28c24aba79dc",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "BANDI E APPALTI",
-      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
-      "image": null,
-      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
-      "date": "2026-10-01T04:00:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:92dee9feb9f7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "BANDI E APPALTI – Abbonati a QualEnergia.it PRO",
-      "url": "https://www.qualenergia.it/pro/documenti/bandi-e-appalti-promo/",
-      "image": null,
-      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
-      "date": "2026-09-30T22:30:35.0000000Z"
-    },
-    {
-      "id": "qualenergia:242e280019df",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Fer X, si punta al bando manifestazioni d’interesse per il 15 ottobre",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/fer-x-bando-manifestazioni-interesse-verso-15-ottobre/",
-      "image": null,
-      "summary": "Quasi 6,4 GW di fotovoltaico e 3,5 GW di eolico. È la prima fotografia fornita dal Gse sulle pratiche verso la prima asta del Fer X definitivo. Il dato è stato riferito dall’amministratore delegato Vinicio Vigilante i...",
-      "date": "2026-09-30T14:00:50.0000000Z"
-    },
-    {
-      "id": "qualenergia:4db6f0031825",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Camion elettrici, verso la parità di costo con il diesel entro il 2030",
-      "url": "https://www.qualenergia.it/articoli/camion-elettrici-verso-parita-costo-diesel-entro-2030/",
-      "image": null,
-      "summary": "La parità di costo tra camion elettrici e diesel potrebbe arrivare in Europa prima di quanto previsto, aprendo la strada a un’accelerazione molto rapida delle vendite di veicoli pesanti a batteria. È la tesi di “Truck...",
-      "date": "2026-09-30T13:00:16.0000000Z"
-    },
-    {
-      "id": "qualenergia:3cc51581bafa",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Comunità energetiche, preoccupazione per il post 2027",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/cer-preoccupazione-post-2027/",
-      "image": null,
-      "summary": "Portare al 31 dicembre 2030 la scadenza per accedere agli incentivi per le comunità energetiche e l’autoconsumo diffuso, fermandosi prima solo se verrà raggiunto il contingente di 5 GW. Ma anche decidere la proroga gi...",
-      "date": "2026-09-30T11:00:26.0000000Z"
-    },
-    {
-      "id": "qualenergia:44101b1f442c",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Aree idonee, la nuova legge della Liguria è a rischio",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/aree-idonee-nuova-legge-liguria-a-rischio/",
-      "image": null,
-      "summary": "La partita delle aree idonee in Liguria, nonostante il via libera dato alla legge regionale di settore, potrebbe essere tutt’altro che finita. Il Consiglio regionale ha infatti approvato ieri, 29 settembre, il disegno...",
-      "date": "2026-09-30T10:45:21.0000000Z"
+      "summary": "Concessione di suolo pubblico per l’installazione e la gestione di n. 2 colonnine di ricarica per veicoli elettrici per dieci anni, eventualmente rinnovabile. Comune di Valperga (TO). Importo: n.d. Scadenza: 10/10/202...",
+      "date": "2026-10-01T05:00:44.0000000Z"
     }
   ]
 }

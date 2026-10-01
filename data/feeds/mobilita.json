@@ -1,7 +1,79 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-01T09:23:30.8414607Z",
+  "updated": "2026-10-01T16:37:34.6755471Z",
   "items": [
+    {
+      "id": "ferrovie:a34ef4923bc4",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Sicilia, i treni storici tornano sulla Ferrovia dei Templi: due appuntamenti ad Agrigento",
+      "url": "https://www.ferrovie.info/eventi-e-manifestazioni/sicilia-i-treni-storici-tornano-sulla-ferrovia-dei-templi-due-appuntamenti-ad-agrigento.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10002/normal_400_0303.jpg",
+      "summary": "Le storiche carrozze \"Terrazzini\" e \"Centoporte\" tornano a viaggiare sulla Ferrovia dei Templi. Sono due gli appuntamenti inseriti nel nuovo programma dei treni storici in Sicilia che interesseranno direttamente l'Agr...",
+      "date": "2026-10-01T15:13:51.0000000Z"
+    },
+    {
+      "id": "ferrovie:894823ee0cb3",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Valle d’Aosta, consegnati i sei nuovi treni elettrici Stadler FLIRT ETR 814",
+      "url": "https://www.ferrovie.info/treni-reali/valle-daosta-consegnati-i-sei-nuovi-treni-elettrici-stadler-flirt-etr-814.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10738/etr_814_tv.jpg",
+      "summary": "Sono stati consegnati alla Regione Valle d’Aosta i sei nuovi elettrotreni ETR 814 costruiti da Stadler Rail . A darne notizia è l’assessorato regionale ai Trasporti.",
+      "date": "2026-10-01T14:14:27.0000000Z"
+    },
+    {
+      "id": "ferrovie:2c61e8e4df38",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "TGV INOUI, aperte le vendite per viaggiare tra Milano, Torino e Parigi in inverno",
+      "url": "https://www.ferrovie.info/treni-reali/tgv-inoui-aperte-le-vendite-per-viaggiare-tra-milano-torino-e-parigi-in-inverno.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10841/Milano_Centrale_105.jpg",
+      "summary": "Sono aperte le vendite dei biglietti TGV INOUI per viaggiare durante la stagione invernale tra Milano, Torino e Parigi. È possibile prenotare i collegamenti per le partenze comprese tra il 13 dicembre 2026 e il 28 mar...",
+      "date": "2026-10-01T14:01:28.0000000Z"
+    },
+    {
+      "id": "ferrovie:993696671bd7",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Ferrovia della Val Venosta, disservizi dopo l’elettrificazione e il debutto dei nuovi treni",
+      "url": "https://www.ferrovie.info/treni-reali/ferrovia-della-val-venosta-disservizi-dopo-lelettrificazione-e-il-debutto-dei-nuovi-treni.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10002/normal_ETR_160_SAD_Alstom_Coradia_Stream_Brennero_uvag.jpg",
+      "summary": "La regolarità del servizio ferroviario in Val Venosta e le difficoltà seguite all’introduzione dei nuovi treni elettrici sono state al centro di un incontro che si è svolto il 30 settembre a Silandro. Al confronto han...",
+      "date": "2026-10-01T13:56:15.0000000Z"
+    },
+    {
+      "id": "ferrovie:d005e36a517f",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Sardegna, nuovi lavori sulla rete ferroviaria nei primi due weekend di ottobre",
+      "url": "https://www.ferrovie.info/treni-reali/sardegna-nuovi-lavori-sulla-rete-ferroviaria-nei-primi-due-weekend-di-ottobre.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10318/atr365_3434.jpg",
+      "summary": "Proseguono in Sardegna i lavori di ammodernamento della rete ferroviaria realizzati da Rete Ferroviaria Italiana (Gruppo FS). Nuove attività sono in programma nei primi due fine settimana di ottobre e interesseranno d...",
+      "date": "2026-10-01T13:24:03.0000000Z"
+    },
+    {
+      "id": "ferrovie:1134158e8dc6",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Palermo - Agrigento, riaperta l’intera linea dopo i lavori di potenziamento",
+      "url": "https://www.ferrovie.info/treni-reali/palermo-agrigento-riaperta-lintera-linea-dopo-i-lavori-di-potenziamento.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10625/etr_104_005_palermo.jpg",
+      "summary": "Dopo mesi di interruzioni torna interamente percorribile la ferrovia tra Palermo e Agrigento . Da oggi è infatti ripresa la circolazione ferroviaria tra Lercara Diramazione e Agrigento Centrale, ultimo tratto della li...",
+      "date": "2026-10-01T13:01:09.0000000Z"
+    },
     {
       "id": "ferrovie:f91a24a3f122",
       "sourceId": "ferrovie",
@@ -73,78 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10001/TraxxUniversal1.jpg",
       "summary": "Dopo la pausa estiva, sono riprese le consegne delle locomotive TRAXX DC3 costruite da Alstom per Mercitalia Rail. Nella giornata di oggi, mercoledì 30 settembre, altre tre unità hanno lasciato Savona Parco Doria per ...",
       "date": "2026-09-30T13:32:26.0000000Z"
-    },
-    {
-      "id": "ferrovie:814296127fe4",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Variante ferroviaria della Val di Riga, lavori oltre il 50% e nuova fase per il ponte sull’Isarco",
-      "url": "https://www.ferrovie.info/treni-reali/variante-ferroviaria-della-val-di-riga-lavori-oltre-il-50-e-nuova-fase-per-il-ponte-sullisarco.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/variante_di_riga.jpg",
-      "summary": "La Variante ferroviaria della Val di Riga , in Alto Adige, ha superato il 50% di avanzamento dei lavori . Il punto sullo stato del cantiere è stato fatto durante un sopralluogo con l’assessore provinciale alle Infrast...",
-      "date": "2026-09-30T11:02:56.0000000Z"
-    },
-    {
-      "id": "ferrovie:01c69aa820cc",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Strage di Brandizzo, al via l’udienza preliminare",
-      "url": "https://www.ferrovie.info/treni-reali/strage-di-brandizzo-al-via-ludienza-preliminare.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10555/2018-10-27_02-00-05.jpg",
-      "summary": "Si apre a Ivrea il procedimento giudiziario per la strage ferroviaria di Brandizzo, costata la vita a cinque operai nella notte tra il 30 e il 31 agosto 2023. Tra gli imputati figurano anche RFI e le società coinvolte...",
-      "date": "2026-09-30T09:43:48.0000000Z"
-    },
-    {
-      "id": "ferrovie:8518b1f40af6",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Frecciarossa tra Sicilia e Roma, la proposta della CGIL e i dubbi sulla sua realizzazione",
-      "url": "https://www.ferrovie.info/treni-reali/frecciarossa-tra-sicilia-e-roma-la-proposta-della-cgil-e-i-dubbi-sulla-sua-realizzazione.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1850107.JPG",
-      "summary": "Un collegamento ferroviario più rapido tra la Sicilia e Roma, da utilizzare anche quando l’aeroporto di Catania è fermo o fortemente limitato. È la proposta avanzata da Cgil, Fillea e Filt Sicilia, che punta a sfrutta...",
-      "date": "2026-09-30T09:25:43.0000000Z"
-    },
-    {
-      "id": "ferrovie:ae5668aa2380",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "AV/AC Napoli - Bari, 145 km di nuova linea per collegare il Mezzogiorno",
-      "url": "https://www.ferrovie.info/rubriche/approfondimenti/av-ac-napoli-bari-145-km-di-nuova-linea-per-collegare-il-mezzogiorno.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/galleria_aglio.jpg",
-      "summary": "La nuova linea Alta Velocità/Alta Capacità Napoli-Bari è destinata a modificare i collegamenti ferroviari tra il Mezzogiorno e il resto d’Italia, aumentando la capacità e riducendo i tempi di percorrenza lungo l’asse ...",
-      "date": "2026-09-30T09:05:56.0000000Z"
-    },
-    {
-      "id": "ferrovie:441222e280c6",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Treni Bianchi UNITALSI, la stagione 2026 verso la conclusione con gli ultimi rientri da Lourdes",
-      "url": "https://www.ferrovie.info/treni-reali/treni-bianchi-unitalsi-la-stagione-2026-verso-la-conclusione-con-gli-ultimi-rientri-da-lourdes.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10834/normal_e_402B_105_trenitalia_roma_ostiense_pado.jpg",
-      "summary": "La stagione 2026 dei Treni Bianchi dell’ UNITALSI , i convogli che collegano l’Italia con Lourdes per i pellegrinaggi in Francia, si avvia alla conclusione. Tra ieri e oggi, infatti, sono rientrati in Italia due treni...",
-      "date": "2026-09-30T08:56:05.0000000Z"
-    },
-    {
-      "id": "ferrovie:c9ba36ae997d",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Ferrovienord, dalla Regione Lombardia 81,9 milioni per potenziare la rete",
-      "url": "https://www.ferrovie.info/treni-reali/ferrovienord-dalla-regione-lombardia-81-9-milioni-per-potenziare-la-rete.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10470/TSR_R5_Trenord.jpg",
-      "summary": "Regione Lombardia stanzia oltre 81,9 milioni di euro per il potenziamento e la riqualificazione della rete ferroviaria gestita da Ferrovienord . Le risorse, previste dall’aggiornamento 2026 del Contratto di Programma ...",
-      "date": "2026-09-30T06:37:17.0000000Z"
     }
   ]
 }

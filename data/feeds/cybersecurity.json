@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-01T09:23:30.7844682Z",
+  "updated": "2026-10-01T16:37:34.6594468Z",
   "items": [
+    {
+      "id": "cybersecurity360:549d63ae8cbf",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Microsoft Digital Defense Report 2026: l’AI accelera gli attacchi e amplia il perimetro",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/microsoft-digital-defense-report-2026-lai-accelera-gli-attacchi-e-amplia-il-perimetro/",
+      "image": null,
+      "summary": "Il Microsoft Digital Defense Report 2026 fotografa un rischio cyber sempre più interconnesso: l’AI accelera gli attacchi, l’identità resta il principale punto di controllo e gli agenti aprono una nuova superficie da p...",
+      "date": "2026-10-01T16:18:41.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:c631e6e8d0c3",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Agenti di OpenAI: nascoste le attività di hacking nelle violazioni governative USA",
+      "url": "https://www.cybersecurity360.it/news/agenti-di-openai-nascoste-le-attivita-di-hacking-nelle-violazioni-governative-usa/",
+      "image": null,
+      "summary": "Modelli di OpenAI hanno estratto dati da 55 siti web, fra cui la SEC, la Consob americana. Alla persistenza dell’obiettivo, all'esplorazione autonoma dell’ambiente e all'aggiramento degli ostacol i, ora si affianca la...",
+      "date": "2026-10-01T15:51:04.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:788fad6f8e17",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Meta AI Glasses: tanti i rischi privacy, ecco perché",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/meta-ai-glasses-tanti-i-rischi-privacy-ecco-perche/",
+      "image": null,
+      "summary": "L’autorità privacy di Amburgo ha sottoposto i Ray-Ban Meta AI Glasses a un’analisi tecnica e giuridica che solleva dubbi sulla liceità delle riprese di terzi, sulla trasparenza e sull’uso dei dati per il training dell...",
+      "date": "2026-10-01T15:40:32.0000000Z"
+    },
     {
       "id": "cybersecurity360:38e074d43de8",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "L’accumulo di debito tecnico mina la sicurezza informatica e l'ingresso dell'AI ne accelera la visibilità richiedendo nuove strategie di leadership, automazione dei processi e revisione della governance aziendale L'ar...",
       "date": "2026-09-30T09:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:329cfb8be184",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sovranità digitale: perché l’Europa si muove contro la dipendenza dal software statunitense",
-      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/sovranita-digitale-perche-leuropa-si-muove-contro-la-dipendenza-dal-software-statunitense/",
-      "image": null,
-      "summary": "La dipendenza europea dal software americano ha ripercussioni sul mercato dell'AI e dei semiconduttori. Ma è sul piano geopolitico che la questione si complica ulteriormente per le recenti incertezze riguardo alla fut...",
-      "date": "2026-09-30T08:39:42.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:515103c2938a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "GitLost: così la prompt injection negli agenti AI può esfiltrare repository privati",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/gitlost-cosi-la-prompt-injection-negli-agenti-ai-puo-esfiltrare-repository-privati/",
-      "image": null,
-      "summary": "Al momento del lancio dei GitHub Agent Workflows, chi si occupa della sicurezza dei sistemi agentici si è chiesto: cosa succederebbe se l'agente leggesse qualcosa di cui non dovrebbe fidarsi. GitLost è un promemoria d...",
-      "date": "2026-09-30T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:65bccdf05734",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Errore umano nella cyber: perché non è quasi mai la vera causa dell’incidente",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/errore-umano-nella-cyber-perche-non-e-quasi-mai-la-vera-causa-dellincidente/",
-      "image": null,
-      "summary": "Dare la colpa all’utente è semplice, ma raramente impedisce al prossimo incidente di accadere. Se un errore umano è prevedibile e ripetibile, la Root Cause Analysis deve cercare più in profondità: nei controlli mancan...",
-      "date": "2026-09-29T16:18:57.0000000Z"
     }
   ]
 }
