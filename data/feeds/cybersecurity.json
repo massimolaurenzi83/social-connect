@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-01T02:30:55.8941310Z",
+  "updated": "2026-10-01T09:23:30.7844682Z",
   "items": [
+    {
+      "id": "cybersecurity360:38e074d43de8",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il lato nascosto della cybersecurity: costi umani e danni operativi",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/il-lato-nascosto-della-cybersecurity-costi-umani-e-danni-operativi/",
+      "image": null,
+      "summary": "Dietro la gestione quotidiana della sicurezza si nascondono costi che i bilanci raramente registrano: strumenti ridondanti, processi frammentati e sovraccarico cognitivo. Andrea Coli, Incident Response Manager di Cybe...",
+      "date": "2026-10-01T08:04:11.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:59fc7bf6b70c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Tutti i limiti della verifica dell’età, schiacciata fra tecnologia e politica",
+      "url": "https://www.cybersecurity360.it/outlook/limiti-verifica-eta/",
+      "image": null,
+      "summary": "Le autorità mirano a sapere l’età di un utente senza conoscerne l'identità. È un problema morale che le tecnologie possono risolvere soltanto in parte. Qualche riflessione sui limiti della verifica dell’età così come ...",
+      "date": "2026-10-01T07:27:03.0000000Z"
+    },
     {
       "id": "cybersecurity360:6ff942e05d78",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Dare la colpa all’utente è semplice, ma raramente impedisce al prossimo incidente di accadere. Se un errore umano è prevedibile e ripetibile, la Root Cause Analysis deve cercare più in profondità: nei controlli mancan...",
       "date": "2026-09-29T16:18:57.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:251d3bc4d359",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "GPT-6.1 Astra, OpenAI blocca il rilascio per motivi di sicurezza: la posta in gioco",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/gpt-6-1-astra-openai-blocca-il-rilascio-per-motivi-di-sicurezza-la-posta-in-gioco/",
-      "image": null,
-      "summary": "OpenAI rinuncia a GPT-6.1 Astra e sospende il training dei modelli più avanzati dopo nuovi incidenti con agenti autonomi. L’episodio riapre il nodo di una governance AI condivisa, tra articolo 55 dell’AI Act, embedded...",
-      "date": "2026-09-29T14:52:15.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:f168fc5c0e9d",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber security, compliance e resilienza: a it-sa 2026 la sicurezza diventa governance",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/cyber-security-compliance-e-resilienza-a-it-sa-2026-la-sicurezza-diventa-governance/",
-      "image": null,
-      "summary": "NIS2, Cyber Resilience Act, AI Act e nuove minacce stanno trasformando la cyber security in una questione di governance e continuità operativa. A it-sa Expo&Congress 2026 il confronto si sposta sugli strumenti necessa...",
-      "date": "2026-09-29T14:10:31.0000000Z"
     }
   ]
 }

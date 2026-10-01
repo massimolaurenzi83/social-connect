@@ -1,7 +1,19 @@
 {
   "category": "spazio",
-  "updated": "2026-10-01T02:30:55.8562328Z",
+  "updated": "2026-10-01T09:23:30.7966509Z",
   "items": [
+    {
+      "id": "astronautinews:ae3af6bfafe8",
+      "sourceId": "astronautinews",
+      "source": "AstronautiNEWS",
+      "platform": "rss",
+      "category": "spazio",
+      "title": "La missione Crew 13 in partenza per la ISS",
+      "url": "https://www.astronautinews.it/2026/10/la-missione-crew-13-in-partenza-per-la-iss/",
+      "image": "https://www.astronautinews.it/wp-content/uploads/2026/09/jsc2026e401203large.jpg",
+      "summary": "Se tutto procederà secondo i piani di NASA, tra poche ore prenderà il via la missione Crew 13 , che porterà tre astronauti e un cosmonauta alla Stazione Spaziale Internazionale. Il decollo, meteo permettendo, è previs...",
+      "date": "2026-10-01T09:00:00.0000000Z"
+    },
     {
       "id": "astronautinews:3a30f185f00c",
       "sourceId": "astronautinews",
@@ -133,18 +145,6 @@
       "image": "https://www.astronautinews.it/wp-content/uploads/2026/08/Ariane_6_with_Phoebus_ESA.jpg",
       "summary": "L'Agenzia spaziale europea ( ESA ) ha confermato l'intenzione di non voler più procedere con lo sviluppo della versione Block 3 del lanciatore Ariane 6 , fermandosi temporaneamente all'attuale secondo pacchetto di agg...",
       "date": "2026-08-22T09:08:09.0000000Z"
-    },
-    {
-      "id": "astronautinews:5cd0a52a0e2d",
-      "sourceId": "astronautinews",
-      "source": "AstronautiNEWS",
-      "platform": "rss",
-      "category": "spazio",
-      "title": "Aggiornamenti dal sistema solare: luglio 2026",
-      "url": "https://www.astronautinews.it/2026/08/aggiornamenti-dal-sistema-solare-luglio-2026/",
-      "image": "https://www.astronautinews.it/wp-content/uploads/2017/05/edu_solar_system_large_0.png",
-      "summary": "Nel mese di luglio sono stati gli asteroidi i protagonisti dell'esplorazione del sistema solare. Hayabusa 2# ha raggiunto infatti il suo secondo obiettivo, Torifune, mentre Tianwen-2 ha sorvolato Kamoʻoalewa. Altre mi...",
-      "date": "2026-08-06T18:11:00.0000000Z"
     }
   ]
 }

@@ -1,7 +1,43 @@
 {
   "category": "scienza",
-  "updated": "2026-10-01T02:30:55.8522254Z",
+  "updated": "2026-10-01T09:23:30.8361895Z",
   "items": [
+    {
+      "id": "focus:21c26b484eeb",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "La Luna del Raccolto tra Nicosia e l'Etna",
+      "url": "https://www.focus.it/scienza/spazio/la-luna-del-raccolto-tra-nicosia-e-l-etna-uno-scatto-italiano-scelto-dalla-nasa-come-foto-del-giorno",
+      "image": "https://www.focus.it/images/2026/10/01/luna-piena-etna_w630.jpg?imbypass=true",
+      "summary": "Uno scatto composito, immortalato in Sicilia, mostra il sorgere della Luna piena tra la Cintura di Venere e le ceneri dell'Etna in eruzione.",
+      "date": "2026-10-01T08:00:00.0000000Z"
+    },
+    {
+      "id": "focus:691350805b3b",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "La mappa del riscaldamento globale",
+      "url": "https://www.focus.it/ambiente/ecologia/la-mappa-del-global-warming",
+      "image": "https://www.focus.it/images/2026/09/29/mappa-global-warming-2_w630.jpg?imbypass=true",
+      "summary": "Una ricerca ha mappato le aree dove il global warming è aumentato più velocemente, ipotizzando anche un colpevole insospettabile: l'aria più pulita.",
+      "date": "2026-10-01T07:00:00.0000000Z"
+    },
+    {
+      "id": "focus:d9558a261ea5",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Pompei è un \"orologio geologico\"",
+      "url": "https://www.focus.it/cultura/storia/pompei-e-una-macchina-del-tempo-le-ceneri-del-vesuvio-svelano-i-segreti-della-terra",
+      "image": "https://www.focus.it/images/2026/09/30/pompei-geologia_w630.jpg?imbypass=true",
+      "summary": "L'analisi di campioni di sanidino, un minerale ricco di potassio prelevato a Pompei, trasforma l'eruzione del Vesuvio in un \"orologio geologico\".",
+      "date": "2026-10-01T03:00:00.0000000Z"
+    },
     {
       "id": "geopop:CS0WGcKoQ3M",
       "sourceId": "geopop",
@@ -14,18 +50,6 @@
       "summary": "",
       "videoId": "CS0WGcKoQ3M",
       "date": "2026-09-30T16:30:26.0000000Z"
-    },
-    {
-      "id": "focus:9a32d6f3621c",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Codice sconto Yamamay: dove trovarlo e come risparmiare davvero sui tuoi acquisti",
-      "url": "https://www.focus.it/comportamento/economia/codice-sconto-yamamay-dove-trovarlo-e-come-risparmiare-davvero-sui-tuoi-acquisti",
-      "image": "https://www.focus.it/images/2025/07/22/pigiameria-orig.png?imbypass=true",
-      "summary": "Come ottenere un codice sconto Yamamay, dove trovarlo e come risparmiare online con promozioni e consigli targati Focus.it.",
-      "date": "2026-09-30T15:00:00.0000000Z"
     },
     {
       "id": "focus:ca03d85b0857",
@@ -49,6 +73,18 @@
       "url": "https://www.focus.it/scienza/salute/ridurre-gli-zuccheri-durante-i-trattamenti-antibiotici-protegge-il-microbioma-intestinale",
       "image": "https://www.focus.it/images/2026/09/28/zuccheri-e-antibiotici_w630.jpg?imbypass=true",
       "summary": "Una dieta ricca di zuccheri mentre si assumono antibiotici limita la diversità dei batteri nell'intestino e porta al prevalere di ceppi aggressivi.",
+      "date": "2026-09-30T15:00:00.0000000Z"
+    },
+    {
+      "id": "focus:9a32d6f3621c",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Codice sconto Yamamay: dove trovarlo e come risparmiare davvero sui tuoi acquisti",
+      "url": "https://www.focus.it/comportamento/economia/codice-sconto-yamamay-dove-trovarlo-e-come-risparmiare-davvero-sui-tuoi-acquisti",
+      "image": "https://www.focus.it/images/2025/07/22/pigiameria-orig.png?imbypass=true",
+      "summary": "Come ottenere un codice sconto Yamamay, dove trovarlo e come risparmiare online con promozioni e consigli targati Focus.it.",
       "date": "2026-09-30T15:00:00.0000000Z"
     },
     {
@@ -76,18 +112,6 @@
       "date": "2026-09-30T10:00:00.0000000Z"
     },
     {
-      "id": "focus:d4eb3e9f4549",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Trapianti: i cuori anziani possono ringiovanire",
-      "url": "https://www.focus.it/scienza/salute/trapianti-i-cuori-piu-anziani-ringiovaniscono-nei-riceventi-piu-giovani",
-      "image": "https://www.focus.it/images/2026/09/29/donazione-di-cuore_w630.jpg?imbypass=true",
-      "summary": "Gli organi donati nei trapianti si adattano all'età biologica del paziente che li riceve: se confermato, si potrebbe ampliare la platea dei donatori.",
-      "date": "2026-09-30T07:00:00.0000000Z"
-    },
-    {
       "id": "focus:bd6dd02da929",
       "sourceId": "focus",
       "source": "Focus",
@@ -97,6 +121,18 @@
       "url": "https://www.focus.it/tecnologia/innovazione/in-attesa-immagine-su-un-isola-tropicale-c-e-un-aeroporto-senza-aria-condizionata",
       "image": "https://www.focus.it/images/2026/09/30/la-reunion-aeroporto-2_w630.jpg?imbypass=true",
       "summary": "Niente aria condizionata quando si arriva all'aeroporto della Riunione: grazie a un'architettura sostenibile, bollette ed emissioni di CO2 calano drasticamente. E in Europa?",
+      "date": "2026-09-30T07:00:00.0000000Z"
+    },
+    {
+      "id": "focus:d4eb3e9f4549",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Trapianti: i cuori anziani possono ringiovanire",
+      "url": "https://www.focus.it/scienza/salute/trapianti-i-cuori-piu-anziani-ringiovaniscono-nei-riceventi-piu-giovani",
+      "image": "https://www.focus.it/images/2026/09/29/donazione-di-cuore_w630.jpg?imbypass=true",
+      "summary": "Gli organi donati nei trapianti si adattano all'età biologica del paziente che li riceve: se confermato, si potrebbe ampliare la platea dei donatori.",
       "date": "2026-09-30T07:00:00.0000000Z"
     },
     {
@@ -195,42 +231,6 @@
       "image": "https://www.focus.it/images/2026/09/28/caffe-bollente_w630.jpg?imbypass=true",
       "summary": "Bere tè o caffè molto caldi triplica il rischio di carcinoma squamocellulare dell'esofago. Il problema non è il caffè in sé, ma il danno termico sulla mucosa. La buona notizia? Basta aspettare pochi minuti prima di fa...",
       "date": "2026-09-29T08:00:00.0000000Z"
-    },
-    {
-      "id": "focus:11a0d29d0ac2",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Starship in orbita: i retroscena della missione",
-      "url": "https://www.focus.it/scienza/spazio/starship-raggiunge-l-orbita-per-la-prima-volta-e-lancia-26-satelliti-starlink-i-retroscena-della-missione",
-      "image": "https://www.focus.it/images/2026/09/29/starship-missione_w630.jpg?imbypass=true",
-      "summary": "Il colosso di SpaceX supera gli imprevisti ai motori Raptor e completa il primo volo orbitale operativo. Dal rientro anticipato all'esplosione programmata nell'oceano: ecco com'è andato il test di Starship.",
-      "date": "2026-09-29T07:00:00.0000000Z"
-    },
-    {
-      "id": "focus:dd1ce5a2385f",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Un cimitero di mammut sotto un cantiere",
-      "url": "https://www.focus.it/ambiente/animali/cimitero-mammut-trovato-sotto-cantiere",
-      "image": "https://www.focus.it/images/2026/09/25/mammut_w630.jpg?imbypass=true",
-      "summary": "In Repubblica Ceca, un cantiere per la costruzione di un palazzo ha portato alla luce migliaia di ossa di mammut vissuti 27.000 anni fa.",
-      "date": "2026-09-29T07:00:00.0000000Z"
-    },
-    {
-      "id": "focus:9a1a71acc977",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Geronimo Stilton alla Centrale dell'Acqua (Milano)",
-      "url": "https://www.focus.it/focuslive/aspettando-focus-live-geronimo-stilton-alla-centrale-dell-acqua-di-milano",
-      "image": "https://www.focus.it/images/2026/09/29/geronimo-stilton_w630.jpg?imbypass=true",
-      "summary": "Una tappa di avvicinamento a Focus Live all'insegna della sostenibilità: l'11 ottobre la Centrale dell'Acqua di Milano ospita l'evento per famiglie con il celebre roditore.",
-      "date": "2026-09-29T05:00:00.0000000Z"
     },
     {
       "id": "geopop:GmAKhMSDj3A",
