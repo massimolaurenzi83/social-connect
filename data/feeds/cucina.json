@@ -1,7 +1,31 @@
 {
   "category": "cucina",
-  "updated": "2026-10-02T06:53:43.5590769Z",
+  "updated": "2026-10-02T13:30:19.0192918Z",
   "items": [
+    {
+      "id": "dissapore:7e5f2bc9f5cb",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Le 12 migliori pasticcerie di Bari e provincia nel 2026",
+      "url": "https://www.dissapore.com/locali/le-12-migliori-pasticcerie-di-bari-e-provincia-nel-2026/",
+      "image": null,
+      "summary": "Le 12 migliori pasticcerie di Bari e della sua provincia. Il territorio barese attraverso il meglio della tradizione dolciaria e dell'artigianato contemporaneo, rigorosamente testato e recensito da Dissapore. L'artico...",
+      "date": "2026-10-02T10:39:36.0000000Z"
+    },
+    {
+      "id": "giallozafferano:3a922b47d490",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Pasta con cime di rapa e ombrina",
+      "url": "https://ricette.giallozafferano.it/Pasta-con-cime-di-rapa-e-ombrina.html",
+      "image": "https://www.giallozafferano.it/images/366-36602/Pasta-con-cime-di-rapa-e-ombrina_1200x800.jpg",
+      "summary": "La pasta con cime di rapa e ombrina è un primo piatto di mare dal carattere deciso, in cui la delicatezza del pesce incontra il gusto leggermente amarognolo, tipico di questa verdura. Le fettuccine vengono avvolte dal...",
+      "date": "2026-10-02T06:59:00.0000000Z"
+    },
     {
       "id": "dissapore:d9af224ab49e",
       "sourceId": "dissapore",
@@ -44,10 +68,10 @@
       "source": "Dissapore",
       "platform": "rss",
       "category": "cucina",
-      "title": "The Great Pizza Tour fa tappa a Ischia: come partecipare alla serata",
+      "title": "The Great Pizza Tour fa tappa a Ischia: come partecipare al pranzo",
       "url": "https://www.dissapore.com/notizie/the-great-pizza-tour-fa-tappa-a-ischia-come-partecipare-alla-serata/",
       "image": null,
-      "summary": "Il prossimo 5 ottobre la terza tappa di The Great Pizza Tour, l'evento itinerante che mappa il panorama contemporaneo della pizza italiana. L'articolo The Great Pizza Tour fa tappa a Ischia: come partecipare alla sera...",
+      "summary": "Il prossimo 5 ottobre la terza tappa di The Great Pizza Tour, l'evento itinerante che mappa il panorama contemporaneo della pizza italiana. L'articolo The Great Pizza Tour fa tappa a Ischia: come partecipare al pranzo...",
       "date": "2026-10-01T08:56:50.0000000Z"
     },
     {
@@ -231,18 +255,6 @@
       "date": "2026-09-28T15:47:00.0000000Z"
     },
     {
-      "id": "dissapore:05a03dee5fcd",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Come El Niño sta cambiando la ristorazione",
-      "url": "https://www.dissapore.com/notizie/come-el-nino-sta-cambiando-la-ristorazione/",
-      "image": null,
-      "summary": "Quique Dacosta e Gianfranco Pascucci sono solo alcuni degli chef che si sono espressi su come il cambiamento climatico stia imponendo cambiamenti profondi anche sull'alta ristorazione, influendo su materie prime e abi...",
-      "date": "2026-09-28T12:50:58.0000000Z"
-    },
-    {
       "id": "giallozafferano:56b97431bf48",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/366-36652/Torta-di-mele-con-farina-di-mandorle_1200x800.jpg",
       "summary": "La torta di mele con farina di mandorle è una variante soffice e profumata della classica torta di mele che trasformerà la vostra colazione o merenda in un momento speciale. L’aggiunta del latte di mandorla e della fa...",
       "date": "2026-09-24T09:34:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:fac51f8c3b6e",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Torta di compleanno senza cottura Regina dei Ghiacci con Pavesini, mascarpone e mirtilli",
-      "url": "https://ricette.giallozafferano.it/Torta-di-compleanno-senza-cottura-Regina-dei-Ghiacci-con-Pavesini-mascarpone-e-mirtilli.html",
-      "image": "https://www.giallozafferano.it/images/366-36636/Torta-di-compleanno-senza-cottura-Regina-dei-Ghiacci-con-Pavesini-mascarpone-e-mirtilli_1200x800.jpg",
-      "summary": "La torta di compleanno senza cottura Regina dei Ghiacci con Pavesini, mascarpone e mirtilli è una ricetta golosa e scenografica che Loredana ha condiviso con noi in occasione di una puntata del vodcast \" Ti mando un v...",
-      "date": "2026-09-24T09:30:00.0000000Z"
     }
   ]
 }

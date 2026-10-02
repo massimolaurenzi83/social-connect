@@ -1,7 +1,55 @@
 {
   "category": "ai",
-  "updated": "2026-10-02T06:53:43.5317992Z",
+  "updated": "2026-10-02T13:30:19.0346211Z",
   "items": [
+    {
+      "id": "ai4business:f7c4338fa659",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "M&A e due diligence: valutare il debito tecnologico prima di un’acquisizione societaria",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ma-e-due-diligence-valutare-il-debito-tecnologico-prima-di-unacquisizione-societaria/",
+      "image": null,
+      "summary": "Il debito tecnologico può nascondere costi di modernizzazione, fragilità operative e dipendenze da fornitori o competenze rare. Una due diligence IT efficace deve trasformare questi elementi in scenari economici e pri...",
+      "date": "2026-10-02T11:19:02.0000000Z"
+    },
+    {
+      "id": "ai4business:41d1c94ce45c",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Atlas ora ha quattro dita per usare meglio gli utensili in fabbrica",
+      "url": "https://www.ai4business.it/robotica/atlas-ora-ha-quattro-dita-per-usare-meglio-gli-utensili-in-fabbrica/",
+      "image": null,
+      "summary": "Boston Dynamics riprogetta le mani di Atlas: quattro dita, 13 gradi di libertà, sensori tattili e attuazione diretta per usare utensili e imparare in simulazione. La scelta punta a ridurre costi, guasti e complessità ...",
+      "date": "2026-10-02T10:56:24.0000000Z"
+    },
+    {
+      "id": "ai4business:2b1363c72cf6",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "OpenAI licenzia tre ricercatori: gestione impropria di informazioni riservate",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/openai-licenzia-tre-ricercatori-gestione-impropria-di-informazioni-riservate/",
+      "image": null,
+      "summary": "Il caso arriva dopo gli incidenti di sicurezza degli agenti AI e mentre il settore apre ai controlli indipendenti. I tre avrebbero condiviso materiale aziendale con un’organizzazione esterna impegnata nella sicurezza ...",
+      "date": "2026-10-02T09:14:49.0000000Z"
+    },
+    {
+      "id": "ai4business:9dfe388d6987",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AI nelle sentenze tributarie: tutti i rischi degli errori",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-nelle-sentenze-tributarie-tutti-i-rischi-degli-errori/",
+      "image": null,
+      "summary": "Uno studio di MassimarIA ha letto il testo integrale di oltre 300mila provvedimenti tributari per cercare le tracce che gli assistenti conversazionali lasciano nelle sentenze quando nessuno le rilegge. I casi sono poc...",
+      "date": "2026-10-02T08:24:11.0000000Z"
+    },
     {
       "id": "ai4business:afe500a54bfe",
       "sourceId": "ai4business",
@@ -75,18 +123,6 @@
       "date": "2026-10-01T10:00:00.0000000Z"
     },
     {
-      "id": "ai4business:cb55008dd0b7",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "AI e procurement: la vera sfida non è automatizzare, ma decidere meglio",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-e-procurement-la-vera-sfida-non-e-automatizzare-ma-decidere-meglio/",
-      "image": null,
-      "summary": "Nel procurement l’AI accelera analisi, controlli e gestione dei rischi, però il vero valore nasce dalla qualità delle decisioni. Dati più affidabili, governance, responsabilità chiare e giudizio umano diventano quindi...",
-      "date": "2026-10-01T08:52:51.0000000Z"
-    },
-    {
       "id": "ai4business:91d670471916",
       "sourceId": "ai4business",
       "source": "AI4Business",
@@ -97,42 +133,6 @@
       "image": null,
       "summary": "Google presenta il suo modello di punta per coding, finanza, diritto e cybersecurity. Il gruppo punta sul mercato enterprise con prezzi iniziali di 2 dollari per milione di token in input e 10 in output, mentre l’acce...",
       "date": "2026-10-01T08:08:30.0000000Z"
-    },
-    {
-      "id": "ai4business:4d1b0c0611f0",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Agenti AI, cresce il valore ma manca la governance",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/agenti-ai-cresce-il-valore-ma-manca-la-governance/",
-      "image": null,
-      "summary": "Gli agenti AI producono già il 22% del valore generato dall’intelligenza artificiale nelle imprese e BCG stima che arriveranno al 39% entro il 2030. Ma solo il 5% delle aziende dispone oggi di controlli completi. Cres...",
-      "date": "2026-09-30T16:09:21.0000000Z"
-    },
-    {
-      "id": "ai4business:adc9ab7d6786",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "GPT-6.1 Sol, Codex e dots: il costo del lavoro agentico secondo OpenAI",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/gpt-6-1-sol-codex-e-dots-il-costo-del-lavoro-agentico-secondo-openai/",
-      "image": null,
-      "summary": "Al DevDay 2026 OpenAI lancia GPT-6.1 Sol, quasi alla pari con Astra a un quinto del prezzo, porta Codex nel cloud e presenta dots, agenti sempre attivi. Il giorno prima aveva fermato GPT-6.1 Astra per problemi di peri...",
-      "date": "2026-09-30T15:34:38.0000000Z"
-    },
-    {
-      "id": "ai4business:609215080194",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "AI e risorse umane, oltre l’automazione: la sfida è costruire fiducia",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-e-risorse-umane-oltre-lautomazione-la-sfida-e-costruire-fiducia/",
-      "image": null,
-      "summary": "Per la funzione HR, l'AI rappresenta un'opportunità straordinaria: migliorare l'esperienza dei dipendenti, elevare la qualità delle decisioni, liberare le persone dal lavoro a basso valore. La partita, però, non si gi...",
-      "date": "2026-09-30T13:18:51.0000000Z"
     },
     {
       "id": "guerredirete:119b0497de08",
