@@ -1,18 +1,90 @@
 {
   "category": "politica",
-  "updated": "2026-10-02T13:30:19.0181660Z",
+  "updated": "2026-10-02T18:39:57.9961607Z",
   "items": [
+    {
+      "id": "ansa-politica:8ebfb391be7e",
+      "sourceId": "ansa-politica",
+      "source": "ANSA Politica",
+      "platform": "rss",
+      "category": "politica",
+      "title": "Sala attacca Majorino: 'La cementificazione è una bufala'",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/02/sala-attacca-majorino-la-cementificazione-e-una-bufala_d49b0906-117c-44e0-a5aa-2971d8d1513b.html",
+      "image": null,
+      "summary": "Scontro a sinistra verso le amministrative. Il capogruppo dem replica, 'sono sorpreso'",
+      "date": "2026-10-02T18:27:10.0000000Z"
+    },
+    {
+      "id": "ansa-politica:1d0532ecf57b",
+      "sourceId": "ansa-politica",
+      "source": "ANSA Politica",
+      "platform": "rss",
+      "category": "politica",
+      "title": "'Come usare le armi responsabilmente', sabato al poligono per Futuro Nazionale",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/02/come-usare-le-armi-responsabilmente-sabato-al-poligono-per-futuro-nazionale_7b1d236c-7a4b-4d90-9e95-8c6025e9577a.html",
+      "image": null,
+      "summary": "Teoria, pratica e trofeo, in Basilicata l'iniziativa dell'Accademia dei futuristi",
+      "date": "2026-10-02T18:25:08.0000000Z"
+    },
     {
       "id": "ansa-politica:19058a78fabb",
       "sourceId": "ansa-politica",
       "source": "ANSA Politica",
       "platform": "rss",
       "category": "politica",
-      "title": "Scontro Schlein-Meloni. La leader dem: 'Vuole una critica vera? Gliene dico 10'. La replica: 'Solo falsità'",
+      "title": "Affondo di Schlein a Meloni, 'hai fallito'. Si riaccende duello con la premier",
       "url": "https://www.ansa.it/sito/notizie/politica/2026/10/02/schlein-nel-programma-uno-non-vale-uno-il-pd-ha-il-doppio-dei-voti_fa1bb90e-f6eb-42a0-a88f-17f20a37e1c2.html",
       "image": null,
-      "summary": "La segretaria del Pd direzione del partito: 'Nel programma uno non vale uno, il Pd ha il doppio dei voti. Affiniamo il programma comune, che sia un patto vincolante'",
-      "date": "2026-10-02T13:14:39.0000000Z"
+      "summary": "La replica, \"dieci giorni per rispondermi con dieci falsità\"",
+      "date": "2026-10-02T18:06:50.0000000Z"
+    },
+    {
+      "id": "ansa-politica:0f12124f9fd5",
+      "sourceId": "ansa-politica",
+      "source": "ANSA Politica",
+      "platform": "rss",
+      "category": "politica",
+      "title": "Al via la Leopolda, a Firenze il campo largo di Renzi",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/02/renzi-alla-leopolda-litaca-da-riprendere-e-litalia_e590cef1-3313-4797-873b-0d9eb87266b4.html",
+      "image": null,
+      "summary": "'Candidato Iv alle primarie'. E apprezza le parole di Schlein. Intervento dello 'sceriffo' De Luca",
+      "date": "2026-10-02T18:03:24.0000000Z"
+    },
+    {
+      "id": "ansa-politica:6c5198c16e18",
+      "sourceId": "ansa-politica",
+      "source": "ANSA Politica",
+      "platform": "rss",
+      "category": "politica",
+      "title": "Il Papa, 'l'amore non è un'emozione passeggera, è una decisione'",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/02/il-papa-lamore-non-e-unemozione-passeggera-e-una-decisione_4f707469-33d3-4a44-a88c-006a18025c64.html",
+      "image": null,
+      "summary": "La prefazione al nuovo Youcat Love Forever, sarà presentato il 6 ottobre",
+      "date": "2026-10-02T15:33:52.0000000Z"
+    },
+    {
+      "id": "ansa-politica:7f5b83939352",
+      "sourceId": "ansa-politica",
+      "source": "ANSA Politica",
+      "platform": "rss",
+      "category": "politica",
+      "title": "Decreto scuola, slitta il bonus libri per il 2026",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/02/dl-scuola-slitta-il-bonus-libri-per-il-2026_01c07ec6-5fc8-4bfa-91f1-fe479eebee4c.html",
+      "image": null,
+      "summary": "Risorse ai Comuni per la gratuità dei volumi, 20 milioni dal 2027 con Isee a 40mila",
+      "date": "2026-10-02T14:13:15.0000000Z"
+    },
+    {
+      "id": "ansa-politica:2bfdcd3c3ee1",
+      "sourceId": "ansa-politica",
+      "source": "ANSA Politica",
+      "platform": "rss",
+      "category": "politica",
+      "title": "Crosetto, comprendo le ragioni degli 8 miliardi in meno alla Difesa",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/02/crosetto-comprendo-le-ragioni-degli-8-miliardi-in-meno-alla-difesa_89153dba-ad39-49fd-89c7-3e007a29833a.html",
+      "image": null,
+      "summary": "Importante è che lo 0,3% resti per il 2027. Previsto per il 2028 un altro 0,3%",
+      "date": "2026-10-02T14:06:15.0000000Z"
     },
     {
       "id": "ansa-politica:171ea3c748d5",
@@ -25,18 +97,6 @@
       "image": null,
       "summary": "\"Il confronto fra le parti sia ricondotto alla sua sede naturale, le aule di giustizia\"",
       "date": "2026-10-02T12:55:00.0000000Z"
-    },
-    {
-      "id": "ansa-politica:a7649a5d7d27",
-      "sourceId": "ansa-politica",
-      "source": "ANSA Politica",
-      "platform": "rss",
-      "category": "politica",
-      "title": "Mattarella a Montecarlo: 'Con il principato di Monaco legami storici e collaborazione molto alta'",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/02/mattarella-a-montecarlo-al-via-la-visita-di-stato-nel-principato_63eebfba-c8b3-4cb1-98b7-5c47247a771e.html",
-      "image": null,
-      "summary": "Visita di Stato di due giorni",
-      "date": "2026-10-02T12:31:49.0000000Z"
     },
     {
       "id": "ansa-politica:f4a70d29bb56",
@@ -85,66 +145,6 @@
       "image": null,
       "summary": "In un poligono della Basilicata una giornata sulla conoscenza e l'utilizzo responsabile",
       "date": "2026-10-02T10:44:46.0000000Z"
-    },
-    {
-      "id": "ansa-politica:70e046e834b7",
-      "sourceId": "ansa-politica",
-      "source": "ANSA Politica",
-      "platform": "rss",
-      "category": "politica",
-      "title": "Comitato Vele Scampia, 'oggi si realizza un sogno frutto della lotta'",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/02/comitato-vele-scampia-oggi-si-realizza-un-sogno-frutto-della-lotta_e1305426-9d67-487e-a147-370d1bc18c10.html",
-      "image": null,
-      "summary": "'Proseguire affinchè tutte le famiglie tornino a Scampia'",
-      "date": "2026-10-02T10:18:55.0000000Z"
-    },
-    {
-      "id": "ansa-politica:95d333c86368",
-      "sourceId": "ansa-politica",
-      "source": "ANSA Politica",
-      "platform": "rss",
-      "category": "politica",
-      "title": "Gabrielli entra in politica: 'Ho deciso di impegnarmi senza chiedere garanzie'",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/02/gabrielli-entra-in-politica-ho-deciso-di-impegnarmi-senza-chiedere-garanzie_7505e928-b4f2-440b-b6bf-3a4d77a1babc.html",
-      "image": null,
-      "summary": "L'ex capo della Polizia: \"Voglio rendere più largo il centrosinistra\"",
-      "date": "2026-10-02T08:43:40.0000000Z"
-    },
-    {
-      "id": "ansa-politica:1dca61597649",
-      "sourceId": "ansa-politica",
-      "source": "ANSA Politica",
-      "platform": "rss",
-      "category": "politica",
-      "title": "La legge elettorale supera il primo scoglio, la maggioranza compatta nel voto segreto",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/01/la-legge-elettorale-supera-il-primo-scoglio-la-maggioranza-compatta-nel-voto-segreto_afc2a0af-fc7e-4d3d-97eb-4fcafc26cbb0.html",
-      "image": null,
-      "summary": "Ora faro sull'8 ottobre. Sulle pregiudiziali FnV col centrodestra. Le opposizioni: 'Sarà battaglia'",
-      "date": "2026-10-01T20:02:21.0000000Z"
-    },
-    {
-      "id": "ansa-politica:bf1bcf407fde",
-      "sourceId": "ansa-politica",
-      "source": "ANSA Politica",
-      "platform": "rss",
-      "category": "politica",
-      "title": "Meloni: 'Chiudere i rapporti con l'Egitto non aiuta'",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/01/meloni-chiudere-i-rapporti-con-legitto-non-aiuta_9e476a2d-eea5-4754-bdd5-b2fb72594969.html",
-      "image": null,
-      "summary": "La premier: 'Ci sono tre gradi di giudizio'. I Regeni: 'Provvisionale è già esecutiva'",
-      "date": "2026-10-01T17:30:34.0000000Z"
-    },
-    {
-      "id": "ansa-politica:0ffa25d824c2",
-      "sourceId": "ansa-politica",
-      "source": "ANSA Politica",
-      "platform": "rss",
-      "category": "politica",
-      "title": "La chiamata alle armi di Meloni, pienone in Aula tra sospetti e vedette",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/01/la-chiamata-alle-armi-di-meloni-pienone-in-aula-tra-sospetti-e-vedette_45500742-4981-4187-aa6f-b12e120bc068.html",
-      "image": null,
-      "summary": "Spuntano i 'fantasmi di Montecitorio'. Pd: 'maggiorenti di Fdi in ultima fila per controllare'",
-      "date": "2026-10-01T17:01:15.0000000Z"
     }
   ]
 }

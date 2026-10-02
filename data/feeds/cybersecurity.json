@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-02T13:30:19.0056733Z",
+  "updated": "2026-10-02T18:39:57.9646176Z",
   "items": [
+    {
+      "id": "cybersecurity360:3d1e1d4bf65f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Agenti OpenAI, è escalation di incidenti: che succede ora",
+      "url": "https://www.cybersecurity360.it/news/agenti-openai-e-escalation-di-incidenti-che-succede-ora/",
+      "image": null,
+      "summary": "OpenAI ha avvisato oltre 100 organizzazioni potenzialmente impattate in incidenti con suoi agenti AI fuori controllo, mentre la California ha appena aperto un’indagine. Da questione solo tecnica e politica, il caso mo...",
+      "date": "2026-10-02T15:23:22.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d0fdb6323ae1",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Quella colpevole ricerca del colpevole",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/quella-colpevole-ricerca-del-colpevole/",
+      "image": null,
+      "summary": "Se l'approccio nella gestione di un incidente è la ricerca del colpevole, probabilmente non ci sarà alcuna lezione appresa e anzi l'organizzazione esprimerà, prima o poi, la propria colpa con sintomi quali il reiterar...",
+      "date": "2026-10-02T14:22:55.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:45188b1dbe3d",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Custom GPT malevoli: così ChatGPT diventa il primo anello di un attacco ClickFix",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/custom-gpt-malevoli-cosi-chatgpt-diventa-il-primo-anello-di-un-attacco-clickfix/",
+      "image": null,
+      "summary": "Un Custom GPT ospitato su ChatGPT convince le vittime a raggiungere una falsa verifica di sicurezza che avvia una catena ClickFix fino all’installazione di un trojan ad accesso remoto (RAT). La campagna mostra come gl...",
+      "date": "2026-10-02T13:48:56.0000000Z"
+    },
     {
       "id": "cybersecurity360:8a9ab9c7b4fa",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "L’autorità privacy di Amburgo ha sottoposto i Ray-Ban Meta AI Glasses a un’analisi tecnica e giuridica che solleva dubbi sulla liceità delle riprese di terzi, sulla trasparenza e sull’uso dei dati per il training dell...",
       "date": "2026-10-01T15:40:32.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:38e074d43de8",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il lato nascosto della cybersecurity: costi umani e danni operativi",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/il-lato-nascosto-della-cybersecurity-costi-umani-e-danni-operativi/",
-      "image": null,
-      "summary": "Dietro la gestione quotidiana della sicurezza si nascondono costi che i bilanci raramente registrano: strumenti ridondanti, processi frammentati e sovraccarico cognitivo. Andrea Coli, Incident Response Manager di Cybe...",
-      "date": "2026-10-01T08:04:11.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:59fc7bf6b70c",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Tutti i limiti della verifica dell’età, schiacciata fra tecnologia e politica",
-      "url": "https://www.cybersecurity360.it/outlook/limiti-verifica-eta/",
-      "image": null,
-      "summary": "Le autorità mirano a sapere l’età di un utente senza conoscerne l'identità. È un problema morale che le tecnologie possono risolvere soltanto in parte. Qualche riflessione sui limiti della verifica dell’età così come ...",
-      "date": "2026-10-01T07:27:03.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:6ff942e05d78",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Agenti AI, il rischio è nel perimetro: cosa insegnano gli ultimi incidenti",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/agenti-ai-il-rischio-e-nel-perimetro-cosa-insegnano-gli-ultimi-incidenti/",
-      "image": null,
-      "summary": "Dalla fuga dalla sandbox al blocco di GPT-6.1 Astra, fra agosto e settembre si sono moltiplicati gli incidenti cyber. Ecco perché i casi degli Agenti AI di OpenAI e Anthropic costringono a spostare l’attenzione dal co...",
-      "date": "2026-09-30T16:45:40.0000000Z"
     }
   ]
 }

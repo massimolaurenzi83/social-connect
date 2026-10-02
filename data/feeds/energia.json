@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-10-02T13:30:19.0065659Z",
+  "updated": "2026-10-02T18:39:57.9660570Z",
   "items": [
+    {
+      "id": "qualenergia:0ee121e9bd18",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "In Germania nuove regole su flessibilità, reti e rinnovabili",
+      "url": "https://www.qualenergia.it/articoli/germania-interviene-flessibilita-reti-rinnovabili/",
+      "image": null,
+      "summary": "L’Agenzia federale per le reti della Germania ha adottato un regolamento “atteso con impazienza dal mercato” che semplifica la fornitura di servizi di flessibilità alla rete da parte di prosumer, imprese e grandi indu...",
+      "date": "2026-10-02T13:45:10.0000000Z"
+    },
     {
       "id": "qualenergia:7be830bb3c4d",
       "sourceId": "qualenergia",
@@ -61,18 +73,6 @@
       "image": null,
       "summary": "Condividere energia rinnovabile senza dover ricorrere necessariamente alle configurazioni oggi più note, come Cer e gruppi di autoconsumatori, e arrivare ad avere più fornitori sullo stesso punto di connessione. Sono ...",
       "date": "2026-10-02T07:45:18.0000000Z"
-    },
-    {
-      "id": "qualenergia:18a0ed08a906",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Data center workload flexibility for power system demand response: Evidence from Alibaba traces",
-      "url": "https://www.qualenergia.it/pro/documenti/data-center-workload-flexibility-for-power-system-demand-response-evidence-from-alibaba-traces/",
-      "image": null,
-      "summary": "Studio sul contributo dei centri dati alla flessibilità del sistema elettrico. Lo studio è basato su oltre un milione di attività del sistema di Alibaba, associa più del 20% della potenza delle unità grafiche a carich...",
-      "date": "2026-10-02T07:38:39.0000000Z"
     },
     {
       "id": "qualenergia:3b02eace283f",
@@ -135,15 +135,15 @@
       "date": "2026-10-02T05:00:48.0000000Z"
     },
     {
-      "id": "qualenergia:c4368035488b",
+      "id": "qualenergia:18a0ed08a906",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "Efficientamento energetico edifici comunali a Bugnara (AQ)",
-      "url": "https://www.qualenergia.it/pro/documenti/efficientamento-energetico-edifici-comunali-a-bugnara-aq/",
+      "title": "Data center workload flexibility for power system demand response: Evidence from Alibaba traces",
+      "url": "https://www.qualenergia.it/pro/documenti/data-center-workload-flexibility-for-power-system-demand-response-evidence-from-alibaba-traces/",
       "image": null,
-      "summary": "Manifestazione di interesse per la realizzazione di interventi di efficientamento energetico degli edifici comunali: palazzo municipale in via Vittorio Clementi n. 1 e casa di riposo comunale a via Madonna degli Angel...",
+      "summary": "Studio sul contributo dei centri dati alla flessibilità del sistema elettrico. Lo studio è basato su oltre un milione di attività del sistema di Alibaba, associa più del 20% della potenza delle unità grafiche a carich...",
       "date": "2026-10-02T05:00:39.0000000Z"
     }
   ]

@@ -1,7 +1,43 @@
 {
   "category": "cucina",
-  "updated": "2026-10-02T13:30:19.0192918Z",
+  "updated": "2026-10-02T18:39:58.0009304Z",
   "items": [
+    {
+      "id": "dissapore:d3254f6fb8f6",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Negli USA è scontro tra Kennedy e l’industria alimentare",
+      "url": "https://www.dissapore.com/notizie/negli-usa-e-scontro-tra-kennedy-e-lindustria-alimentare/",
+      "image": null,
+      "summary": "Il piano \"Make America Healthy Again\" non piace all'industria alimentare che passa al contrattacco ingaggiando un esercito di influencer in uno scontro tra governo e lobby. L'articolo Negli USA è scontro tra Kennedy e...",
+      "date": "2026-10-02T14:22:30.0000000Z"
+    },
+    {
+      "id": "giallozafferano:aee3a31419e8",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Tiramisù ai fichi con Pavesini",
+      "url": "https://ricette.giallozafferano.it/Tiramisu-ai-fichi-con-Pavesini.html",
+      "image": "https://www.giallozafferano.it/images/366-36635/Tiramisu-ai-fichi-con-Pavesini_1200x800.jpg",
+      "summary": "Il tiramisù ai fichi con Pavesini è una golosa variante di fine estate del classico tiramisù , servita in eleganti coppette monoporzione. I Pavesini al cioccolato vengono leggermente inzuppati in una bagna al caffè e ...",
+      "date": "2026-10-02T14:16:00.0000000Z"
+    },
+    {
+      "id": "giallozafferano:a994c149124b",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Malfatti al cavolo nero",
+      "url": "https://ricette.giallozafferano.it/Malfatti-al-cavolo-nero.html",
+      "image": "https://www.giallozafferano.it/images/366-36675/Malfatti-al-cavolo-nero_1200x800.jpg",
+      "summary": "I malfatti al cavolo nero sono un primo piatto rustico e genuino, preparato con un impasto morbido a base di ricotta. Il loro nome racconta già una delle caratteristiche della ricetta: non occorre infatti ottenere pez...",
+      "date": "2026-10-02T13:33:00.0000000Z"
+    },
     {
       "id": "dissapore:7e5f2bc9f5cb",
       "sourceId": "dissapore",
@@ -231,18 +267,6 @@
       "date": "2026-09-29T10:04:19.0000000Z"
     },
     {
-      "id": "dissapore:6c21264fe90b",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Hanno inventato la banana che non annerisce",
-      "url": "https://www.dissapore.com/notizie/hanno-inventato-la-banana-che-non-annerisce/",
-      "image": null,
-      "summary": "Una società di biotecnologie ha applicato la tecnica NTG alla banana per ridurre gli sprechi alimentari e le emissioni di co2 legati alla filiera. L'articolo Hanno inventato la banana che non annerisce proviene da Dis...",
-      "date": "2026-09-29T08:39:11.0000000Z"
-    },
-    {
       "id": "giallozafferano:539e5fa7ca2c",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -265,30 +289,6 @@
       "image": "https://www.giallozafferano.it/images/366-36657/Cotolette-di-verdure_1200x800.jpg",
       "summary": "Le cotolette di verdure sono un secondo piatto vegetariano sfizioso e versatile, perfetto da portare in tavola durante tutto l’anno! In questa ricetta abbiamo utilizzato zucchine, carote, patate, porri e spinaci, ma p...",
       "date": "2026-09-25T13:46:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:4616896177c4",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Pasta al forno cremosa",
-      "url": "https://ricette.giallozafferano.it/Pasta-al-forno-cremosa.html",
-      "image": "https://www.giallozafferano.it/images/366-36655/Pasta-al-forno-cremosa_1200x800.jpg",
-      "summary": "La pasta al forno cremosa con funghi e provola è un primo piatto perfetto per il pranzo della domenica in famiglia, ricco, filante e irresistibilmente sfizioso. Una coccola da concedersi con l’arrivo delle prime giorn...",
-      "date": "2026-09-24T12:57:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:f6412d44d281",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Torta di mele con farina di mandorle",
-      "url": "https://ricette.giallozafferano.it/Torta-di-mele-con-farina-di-mandorle.html",
-      "image": "https://www.giallozafferano.it/images/366-36652/Torta-di-mele-con-farina-di-mandorle_1200x800.jpg",
-      "summary": "La torta di mele con farina di mandorle è una variante soffice e profumata della classica torta di mele che trasformerà la vostra colazione o merenda in un momento speciale. L’aggiunta del latte di mandorla e della fa...",
-      "date": "2026-09-24T09:34:00.0000000Z"
     }
   ]
 }
