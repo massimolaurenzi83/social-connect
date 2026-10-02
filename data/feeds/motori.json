@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-10-02T18:39:57.9611539Z",
+  "updated": "2026-10-02T22:35:09.1388595Z",
   "items": [
+    {
+      "id": "vaielettrico:1e7bf586e792",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L’estate 2026 dei record: caldo estremo, fiumi in secca e mari bollenti",
+      "url": "https://www.vaielettrico.it/estate-2026-da-record-caldo-estremo-fiumi-in-secca-e-mari-bollenti/",
+      "image": null,
+      "summary": "E’ ufficiale: l’estate 2026 ha segnato nuovi record climatici in Europa occidentale, superando anche il precedente primato del… L'articolo L’estate 2026 dei record: caldo estremo, fiumi in secca e mari bollenti provie...",
+      "date": "2026-10-02T21:29:42.0000000Z"
+    },
     {
       "id": "vaielettrico:e0db96d02d81",
       "sourceId": "vaielettrico",
@@ -123,18 +135,6 @@
       "date": "2026-10-02T15:00:35.0000000Z"
     },
     {
-      "id": "motor1:f52d96fb7b75",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Coppia e cavalli per la Subaru a cui piace tanto il fuoristrada",
-      "url": "https://it.motor1.com/reviews/810404/subaru-eoutback-2026-prova-prezzi/",
-      "image": "https://cdn.motor1.com/images/mgl/BX1yBR/s3/subaru-e-outback-2026-la-prova-su-strada.jpg",
-      "summary": "E-Outback, due motori elettrici, 536 Nm e 523 km di autonomia: l'ho guidata on e off road el o sconnesso è il suo ambiente naturale",
-      "date": "2026-10-02T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:9ef4d8393bb1",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -144,6 +144,18 @@
       "url": "https://insideevs.it/news/809164/tesla-model-3-motori-batterie/",
       "image": "https://cdn.motor1.com/images/mgl/jl6mjR/s3/2024-tesla-model-3-highland.jpg",
       "summary": "Passano gli anni, ma la Model 3 resta una delle più vendute in Italia. Ecco i suoi powertrain",
+      "date": "2026-10-02T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:f52d96fb7b75",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Coppia e cavalli per la Subaru a cui piace tanto il fuoristrada",
+      "url": "https://it.motor1.com/reviews/810404/subaru-eoutback-2026-prova-prezzi/",
+      "image": "https://cdn.motor1.com/images/mgl/BX1yBR/s3/subaru-e-outback-2026-la-prova-su-strada.jpg",
+      "summary": "E-Outback, due motori elettrici, 536 Nm e 523 km di autonomia: l'ho guidata on e off road el o sconnesso è il suo ambiente naturale",
       "date": "2026-10-02T15:00:00.0000000Z"
     },
     {
@@ -183,18 +195,6 @@
       "date": "2026-10-02T14:00:00.0000000Z"
     },
     {
-      "id": "insideevs:b572697bd985",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Batterie al litio-zolfo, trovato un trucco per fermare il degrado",
-      "url": "https://insideevs.it/news/810562/batterie-litio-zolfo-elettrodo-gel/",
-      "image": "https://cdn.motor1.com/images/mgl/KbZY7q/s3/batterie-al-litio-zolfo-trovato-un-trucco-per-fermare-il-degrado.jpg",
-      "summary": "Un nuovo metodo di polimerizzazione crea un elettrodo più stabile, ma il risultato è ancora lontano da una batteria pronta per le auto",
-      "date": "2026-10-02T13:30:00.0000000Z"
-    },
-    {
       "id": "motor1:0cc524c47e84",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -204,6 +204,18 @@
       "url": "https://it.motor1.com/news/810590/volkswagen-ig-metall-contratti/",
       "image": "https://cdn.motor1.com/images/mgl/OoZJ9o/s3/lo-stabilimento-volkswagen-di-zwickau.jpg",
       "summary": "La casa tedesca invia la disdetta per vari accordi collettivi, ma per ora i dipendenti Volkswagen AG non vedranno cambiamenti concreti",
+      "date": "2026-10-02T13:30:00.0000000Z"
+    },
+    {
+      "id": "insideevs:b572697bd985",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Batterie al litio-zolfo, trovato un trucco per fermare il degrado",
+      "url": "https://insideevs.it/news/810562/batterie-litio-zolfo-elettrodo-gel/",
+      "image": "https://cdn.motor1.com/images/mgl/KbZY7q/s3/batterie-al-litio-zolfo-trovato-un-trucco-per-fermare-il-degrado.jpg",
+      "summary": "Un nuovo metodo di polimerizzazione crea un elettrodo più stabile, ma il risultato è ancora lontano da una batteria pronta per le auto",
       "date": "2026-10-02T13:30:00.0000000Z"
     },
     {
@@ -279,18 +291,6 @@
       "date": "2026-10-02T12:00:12.0000000Z"
     },
     {
-      "id": "motor1:8ae0837fecfb",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La BMW X3 M50 diventa più potente (e tutta nera)",
-      "url": "https://it.motor1.com/news/810413/bmw-x3-m50-xdrive-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/wlkqNV/s3/bmw-x3-m50-xdrive-black-package-2026.jpg",
-      "summary": "Sulla X3 M50 debutta il Black Package, mentre il sei cilindri ibrido raggiunge i 443 CV",
-      "date": "2026-10-02T12:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:9630603532eb",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -300,6 +300,18 @@
       "url": "https://insideevs.it/news/810556/volkswagen-wayne-accordo-guida-autonoma-intelligenza-artificiale/",
       "image": "https://cdn.motor1.com/images/mgl/mM3lYP/s3/volkswagen-id.buzz-a-guida-autonoma.jpg",
       "summary": "La Casa tedesca tratta con la startup britannica Wayne per sviluppare software di guida autonoma dotati di intelligenza artificiale",
+      "date": "2026-10-02T12:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:8ae0837fecfb",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La BMW X3 M50 diventa più potente (e tutta nera)",
+      "url": "https://it.motor1.com/news/810413/bmw-x3-m50-xdrive-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/wlkqNV/s3/bmw-x3-m50-xdrive-black-package-2026.jpg",
+      "summary": "Sulla X3 M50 debutta il Black Package, mentre il sei cilindri ibrido raggiunge i 443 CV",
       "date": "2026-10-02T12:00:00.0000000Z"
     },
     {
@@ -481,18 +493,6 @@
       "image": "https://cdn.motor1.com/images/mgl/P3VJ1G/s3/polestar-la-ricarica-si-fa-piu-ricca-arrivano-due-abbonamenti.jpg",
       "summary": "Due nuovi piani promettono sconti sulla ricarica rapida e l'accesso a oltre 1,25 milioni di punti in Europa, Tesla inclusa",
       "date": "2026-10-01T15:30:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:07dac56373d1",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Rincaro ai clienti luce “in maggior tutela”: non conviene più?",
-      "url": "https://www.vaielettrico.it/rincaro-ai-clienti-luce-in-maggior-tutela-non-conviene-piu/",
-      "image": null,
-      "summary": "Il rincaro ai clienti luce in maggior tutela rilancia la concorrenza tra operatori: Subito.it sostiene che ora conviene… L'articolo Rincaro ai clienti luce “in maggior tutela”: non conviene più? proviene da Vaielettri...",
-      "date": "2026-10-01T14:42:14.0000000Z"
     },
     {
       "id": "insideevs:49d3353cac06",
