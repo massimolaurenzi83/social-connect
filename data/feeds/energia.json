@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-10-02T00:57:54.8921948Z",
+  "updated": "2026-10-02T06:53:43.5080690Z",
   "items": [
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-10-02T04:30:00.0000000Z"
+    },
     {
       "id": "qualenergia:f832ca18049f",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
       "date": "2026-10-01T06:30:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:7c70df76062a",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Installazione e gestione colonnine di ricarica veicoli elettrici a Valperga (TO)",
-      "url": "https://www.qualenergia.it/pro/documenti/installazione-e-gestione-colonnine-di-ricarica-veicoli-elettrici-a-valperga-to/",
-      "image": null,
-      "summary": "Concessione di suolo pubblico per l’installazione e la gestione di n. 2 colonnine di ricarica per veicoli elettrici per dieci anni, eventualmente rinnovabile. Comune di Valperga (TO). Importo: n.d. Scadenza: 10/10/202...",
-      "date": "2026-10-01T05:00:44.0000000Z"
     }
   ]
 }

@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-10-02T00:57:54.8557391Z",
+  "updated": "2026-10-02T06:53:43.5411518Z",
   "items": [
+    {
+      "id": "motor1:da2474947ca0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Fiat Grande Panda si trasforma così per il Sudamerica",
+      "url": "https://it.motor1.com/news/810526/fiat-grande-panda-sudamerica-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z1oOp/s3/fiat-argo-x-em-testes-pre-lancamento.jpg",
+      "summary": "La nuova Fiat Argo X che sarà prodotta in Brasile continua la sua fase di messa a punto. Quanto è diversa dalla Grande Panda?",
+      "date": "2026-10-02T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:f4da25d36cf8",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "1.200 Volt per le auto elettriche: cosa cambia davvero",
+      "url": "https://insideevs.it/news/810458/auto-elettriche-1200-volt/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZ2pL/s3/1.200-volt-per-le-auto-elettriche-cosa-cambia-davvero.jpg",
+      "summary": "Il nuovo sistema di L&T utilizza il carburo di silicio per rendere più efficiente l'elettronica di potenza delle EV",
+      "date": "2026-10-02T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:965bc4d612e4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La forma di un'auto comincia da ciò che non si vede",
+      "url": "https://it.motor1.com/news/810068/forma-auto-carrozziera-motore/",
+      "image": "https://cdn.motor1.com/images/mgl/P3VJl2/s3/la-forma-di-un-auto-comincia-da-cio-che-non-si-vede.jpg",
+      "summary": "Motore davanti, dietro o sotto il pavimento: vi racconto come la meccanica può cambiare completamente le proporzioni di un'auto",
+      "date": "2026-10-02T05:00:00.0000000Z"
+    },
     {
       "id": "motor1:927a3a45c01d",
       "sourceId": "motor1",
@@ -267,18 +303,6 @@
       "date": "2026-10-01T13:00:05.0000000Z"
     },
     {
-      "id": "insideevs:0dedf8917360",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché le auto elettriche cinesi costano molto meno in Cina",
-      "url": "https://insideevs.it/news/810435/auto-elettriche-cinesi-europa-avanzano/",
-      "image": "https://cdn.motor1.com/images/mgl/KbZ89M/s3/perche-le-auto-elettriche-cinesi-costano-molto-meno-in-cina.jpg",
-      "summary": "Nei primi mesi del 2026 le importazioni dall’Europa sono cresciute del 70%, mentre l’offerta cinese continua ad allargarsi",
-      "date": "2026-10-01T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:de0df38be611",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -288,6 +312,18 @@
       "url": "https://it.motor1.com/news/810425/bmw-annuncia-nuovo-maxi-suv/",
       "image": "https://cdn.motor1.com/images/mgl/7Z1ow7/s3/bmw-annuncia-l-arrivo-di-un-nuovo-maxi-suv-per-il-mercato-americano.jpg",
       "summary": "La Casa riorganizza la gamma, taglia alcuni modelli e punta su un maxi SUV per gli USA e sulla Neue Klasse per le future elettriche",
+      "date": "2026-10-01T13:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:0dedf8917360",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché le auto elettriche cinesi costano molto meno in Cina",
+      "url": "https://insideevs.it/news/810435/auto-elettriche-cinesi-europa-avanzano/",
+      "image": "https://cdn.motor1.com/images/mgl/KbZ89M/s3/perche-le-auto-elettriche-cinesi-costano-molto-meno-in-cina.jpg",
+      "summary": "Nei primi mesi del 2026 le importazioni dall’Europa sono cresciute del 70%, mentre l’offerta cinese continua ad allargarsi",
       "date": "2026-10-01T13:00:00.0000000Z"
     },
     {
@@ -349,30 +385,6 @@
       "image": "https://cdn.motor1.com/images/mgl/qk8lyR/s3/mg2-2027-il-render-di-motor1.com.jpg",
       "summary": "La MG2 arriverà nel 2027 e rappresenterà l'elettrica più compatta della gamma. Potrebbe costare circa 20.000 euro",
       "date": "2026-10-01T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:c0dff880e410",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La prima foto della nuova monovolume Fiat erede della Multipla",
-      "url": "https://it.motor1.com/news/810440/fiat-multiplay-concept-anticipazione-parigi-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/BX1xMA/s3/fiat-multiplay.jpg",
-      "summary": "Si chiama Fiat Multiplay, è lunga 3,5 metri e anticipa la nuova E-Car della Casa. Sarà presentata al Salone di Parigi 2026",
-      "date": "2026-10-01T10:22:58.0000000Z"
-    },
-    {
-      "id": "motor1:1d7b564ad7bd",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché più cavalli non rendono sempre un'auto più veloce",
-      "url": "https://it.motor1.com/news/810383/cavalli-auto-velocita/",
-      "image": "https://cdn.motor1.com/images/mgl/0epWyj/s3/dodge-challenger-srt.jpg",
-      "summary": "Un'auto con più cavalli non è sempre più veloce. Ecco perché peso, rapporti del cambio, trazione e coppia possono cambiare il risultato",
-      "date": "2026-10-01T10:00:00.0000000Z"
     },
     {
       "id": "insideevs:f49dd95bf68a",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/Rqb2OK/s3/volkswagen-punta-sulle-batterie-lfp-nasce-una-nuova-alleanza.jpg",
       "summary": "Volkswagen, PowerCo e Gotion uniscono le forze per produrre batterie LFP in Europa e rafforzare una filiera oggi ancora poco sviluppata",
       "date": "2026-09-30T14:16:45.0000000Z"
-    },
-    {
-      "id": "insideevs:b0221cc2ca53",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto elettrica, cambia un dettaglio negli elettrodi delle batterie",
-      "url": "https://insideevs.it/news/810231/studio-leganti-elettrodi-carbonio-correzione/",
-      "image": "https://cdn.motor1.com/images/mgl/jl8wXk/s3/auto-elettrica-cambia-un-dettaglio-negli-elettrodi-delle-batterie.jpg",
-      "summary": "Una ricerca sui materiali per l’energia è stata corretta dagli stessi autori: ecco cosa è successo",
-      "date": "2026-09-30T13:00:00.0000000Z"
     },
     {
       "id": "insideevs:1aeda1033b77",
