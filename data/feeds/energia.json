@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-10-03T01:25:27.1800230Z",
+  "updated": "2026-10-03T06:53:22.4309952Z",
   "items": [
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-10-03T04:00:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:92dee9feb9f7",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI – Abbonati a QualEnergia.it PRO",
+      "url": "https://www.qualenergia.it/pro/documenti/bandi-e-appalti-promo/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-10-02T22:30:35.0000000Z"
+    },
     {
       "id": "qualenergia:0ee121e9bd18",
       "sourceId": "qualenergia",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
       "date": "2026-10-02T06:30:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:72915d7f528e",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Impianto fotovoltaico per Consorzio Sviluppo Industriale Provincia di Matera",
-      "url": "https://www.qualenergia.it/pro/documenti/impianto-fotovoltaico-per-consorzio-sviluppo-industriale-provincia-di-matera/",
-      "image": null,
-      "summary": "Procedura aperta telematica per l’affidamento di contratti pubblici di lavori nei settori ordinari, con il criterio del minor prezzo per i lavori di realizzazione dell’impianto fotovoltaico di potenza pari a 1 MW pres...",
-      "date": "2026-10-02T05:00:48.0000000Z"
-    },
-    {
-      "id": "qualenergia:18a0ed08a906",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Data center workload flexibility for power system demand response: Evidence from Alibaba traces",
-      "url": "https://www.qualenergia.it/pro/documenti/data-center-workload-flexibility-for-power-system-demand-response-evidence-from-alibaba-traces/",
-      "image": null,
-      "summary": "Studio sul contributo dei centri dati alla flessibilità del sistema elettrico. Lo studio è basato su oltre un milione di attività del sistema di Alibaba, associa più del 20% della potenza delle unità grafiche a carich...",
-      "date": "2026-10-02T05:00:39.0000000Z"
     }
   ]
 }

@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-10-03T01:25:27.1472332Z",
+  "updated": "2026-10-03T06:53:22.3125304Z",
   "items": [
+    {
+      "id": "hdmotori:c2be16115be2",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le auto più vendute in Italia a settembre 2026",
+      "url": "https://www.hdmotori.it/auto-piu-vendute-italia-settembre-2026/",
+      "image": null,
+      "summary": "Come sempre Pandina guida la classifica mensile delle auto più vendute, davanti alla Jeep Avenger. La vera sorpresa è la Peugeot 3008, che balza in terza posizione. Ecco la classifica dei 50 modelli più venduti. The p...",
+      "date": "2026-10-03T06:30:18.0000000Z"
+    },
+    {
+      "id": "motor1:58900e00c9d9",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa Porsche 356 B del 1960 è rarissima",
+      "url": "https://it.motor1.com/news/809656/porsche-356-b-storia-asta/",
+      "image": "https://cdn.motor1.com/images/mgl/eoWOeK/s3/porsche-356-b-1600-super-roadster-by-drauz-1960.jpg",
+      "summary": "Venduta per oltre 160.000 euro rappresenta una versione esclusiva della mitica 356. Ecco perché è così rara",
+      "date": "2026-10-03T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:20d691a46366",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come fa la nuova batteria Geely a gestire 1 MW di potenza di ricarica",
+      "url": "https://insideevs.it/news/810389/geely-batteria-ev-1-mw-degrado-tecnica/",
+      "image": "https://cdn.motor1.com/images/mgl/XBbqme/s3/geely-golden-brick-battery---ultra-short-series.jpg",
+      "summary": "La casa automobilistica ha una soluzione innovativa per rallentare il degrado della batteria. Ecco cosa sappiamo.",
+      "date": "2026-10-03T05:00:00.0000000Z"
+    },
     {
       "id": "motor1:ab6cd4281bc6",
       "sourceId": "motor1",
@@ -11,7 +47,7 @@
       "title": "Land Rover Defender 90 (2026), perché comprarla e perché no",
       "url": "https://it.motor1.com/reviews/810276/land-rover-defender-90-recensione-prova/",
       "image": "https://cdn.motor1.com/images/mgl/P3VAv2/s3/land-rover-defender-90.jpg",
-      "summary": "Icona di stile, è comoda per viaggiare ed efficace in fuoristrada. Corta e agile, ha però il bagagliaio è piccolo",
+      "summary": "Icona di stile, è comoda per viaggiare ed efficace in fuoristrada. Corta e agile, ha però il bagagliaio piccolo",
       "date": "2026-10-02T23:00:00.0000000Z"
     },
     {
@@ -147,18 +183,6 @@
       "date": "2026-10-02T15:00:35.0000000Z"
     },
     {
-      "id": "motor1:f52d96fb7b75",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Coppia e cavalli per la Subaru a cui piace tanto il fuoristrada",
-      "url": "https://it.motor1.com/reviews/810404/subaru-eoutback-2026-prova-prezzi/",
-      "image": "https://cdn.motor1.com/images/mgl/BX1yBR/s3/subaru-e-outback-2026-la-prova-su-strada.jpg",
-      "summary": "E-Outback, due motori elettrici, 536 Nm e 523 km di autonomia: l'ho guidata on e off road el o sconnesso è il suo ambiente naturale",
-      "date": "2026-10-02T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:9ef4d8393bb1",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -168,6 +192,18 @@
       "url": "https://insideevs.it/news/809164/tesla-model-3-motori-batterie/",
       "image": "https://cdn.motor1.com/images/mgl/jl6mjR/s3/2024-tesla-model-3-highland.jpg",
       "summary": "Passano gli anni, ma la Model 3 resta una delle più vendute in Italia. Ecco i suoi powertrain",
+      "date": "2026-10-02T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:f52d96fb7b75",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Coppia e cavalli per la Subaru a cui piace tanto il fuoristrada",
+      "url": "https://it.motor1.com/reviews/810404/subaru-eoutback-2026-prova-prezzi/",
+      "image": "https://cdn.motor1.com/images/mgl/BX1yBR/s3/subaru-e-outback-2026-la-prova-su-strada.jpg",
+      "summary": "E-Outback, due motori elettrici, 536 Nm e 523 km di autonomia: l'ho guidata on e off road el o sconnesso è il suo ambiente naturale",
       "date": "2026-10-02T15:00:00.0000000Z"
     },
     {
@@ -327,18 +363,6 @@
       "date": "2026-10-02T12:00:00.0000000Z"
     },
     {
-      "id": "motor1:c373c6a20b11",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Ferrari di Micheal Jordan vale una fortuna, ecco quanto è costata",
-      "url": "https://it.motor1.com/news/810553/ferrari-michael-jordan-asta-record/",
-      "image": "https://cdn.motor1.com/images/mgl/G3bAJE/s3/michael-jordan-s-1997-ferrari-550-maranello.jpg",
-      "summary": "La 550 Maranello del 1997 di Michael Jordan è stata venduta per 2,7 milioni di dollari, oltre quattro volte il record d’asta del modello",
-      "date": "2026-10-02T11:30:00.0000000Z"
-    },
-    {
       "id": "hdmotori:b82e2fe965cb",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -361,18 +385,6 @@
       "image": null,
       "summary": "Motore elettrico da sostituire dopo poco più di due anni di vita e a garanzia appena scaduta. Eduardo… L'articolo DS E-Tense da 4 mesi in officina: zero informazioni e una stima da brividi proviene da Vaielettrico .",
       "date": "2026-10-02T10:39:22.0000000Z"
-    },
-    {
-      "id": "hdmotori:4a6361aa96a4",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nuova Hyundai Tucson, il SUV cresce in tutto: più spazio, tecnologia e motori fino a 292 CV",
-      "url": "https://www.hdmotori.it/nuova-hyundai-tucson-dimensioni-motori/",
-      "image": null,
-      "summary": "Nuova Hyundai Tucson cresce nelle dimensioni e nello spazio, cambia design e abitacolo e offre motori benzina e ibridi fino a 292 CV The post Nuova Hyundai Tucson, il SUV cresce in tutto: più spazio, tecnologia e moto...",
-      "date": "2026-10-02T10:30:08.0000000Z"
     },
     {
       "id": "insideevs:2ee19ab5a05d",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/vx7n1q/s3/elon-musk-torna-da-trump.jpg",
       "summary": "L'incontro con Trump è solo un tassello della strategia che lega xAI, SpaceX e Tesla attraverso enormi infrastrutture di calcolo",
       "date": "2026-10-01T13:44:37.0000000Z"
-    },
-    {
-      "id": "insideevs:0dedf8917360",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Perché le auto elettriche cinesi costano molto meno in Cina",
-      "url": "https://insideevs.it/news/810435/auto-elettriche-cinesi-europa-avanzano/",
-      "image": "https://cdn.motor1.com/images/mgl/KbZ89M/s3/perche-le-auto-elettriche-cinesi-costano-molto-meno-in-cina.jpg",
-      "summary": "Nei primi mesi del 2026 le importazioni dall’Europa sono cresciute del 70%, mentre l’offerta cinese continua ad allargarsi",
-      "date": "2026-10-01T13:00:00.0000000Z"
     },
     {
       "id": "insideevs:1aeda1033b77",

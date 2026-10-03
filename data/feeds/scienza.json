@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-10-03T01:25:27.1929880Z",
+  "updated": "2026-10-03T06:53:22.4098647Z",
   "items": [
+    {
+      "id": "focus:272fe443f812",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Se al posto della luna ci fosse un buco nero?",
+      "url": "https://www.focus.it/scienza/spazio/fantascenari-e-se-al-posto-della-luna-ci-fosse-un-buco-nero",
+      "image": "https://www.focus.it/images/2026/10/01/luna-buco-nero_w630.jpg?imbypass=true",
+      "summary": "Senza luna cambierebbe cambierebbe la vita notturna e non ci sarebbero state le missioni Apollo. Ma forse avremmo accelerato la corsa verso Marte.",
+      "date": "2026-10-03T02:00:00.0000000Z"
+    },
     {
       "id": "media-inaf:43d62322be04",
       "sourceId": "media-inaf",
@@ -135,18 +147,6 @@
       "date": "2026-10-02T09:00:00.0000000Z"
     },
     {
-      "id": "focus:f856fd59d570",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Quando fu l’ultima condanna a morte in Italia?",
-      "url": "https://www.focus.it/cultura/storia/quando-fu-eseguita-l-ultima-condanna-a-morte-in-italia",
-      "image": "https://www.focus.it/images/2026/08/21/pena-di-morte-italia_w630.jpg?imbypass=true",
-      "summary": "Il 4 marzo 1947 venivano condannati a morte a Torino i tre responsabili della strage di Villarbasse. Un delitto atroce che segnò la fine della pena capitale prima dell'entrata in vigore della Costituzione.",
-      "date": "2026-10-02T08:00:00.0000000Z"
-    },
-    {
       "id": "focus:873a6d7d604c",
       "sourceId": "focus",
       "source": "Focus",
@@ -159,16 +159,16 @@
       "date": "2026-10-02T08:00:00.0000000Z"
     },
     {
-      "id": "focus:8c64a7b878a7",
+      "id": "focus:f856fd59d570",
       "sourceId": "focus",
       "source": "Focus",
       "platform": "rss",
       "category": "scienza",
-      "title": "La voce è un orologio preciso di come invecchiamo",
-      "url": "https://www.focus.it/scienza/salute/la-voce-e-un-orologio-preciso-di-come-invecchiamo",
-      "image": "https://www.focus.it/images/2026/09/30/voce-senior_w630.jpg?imbypass=true",
-      "summary": "Centinaia di caratteristiche di voce e linguaggio, elaborate dal machine learning, stimano in modo preciso età biologica, salute cognitiva e sociale.",
-      "date": "2026-10-02T07:00:00.0000000Z"
+      "title": "Quando fu l’ultima condanna a morte in Italia?",
+      "url": "https://www.focus.it/cultura/storia/quando-fu-eseguita-l-ultima-condanna-a-morte-in-italia",
+      "image": "https://www.focus.it/images/2026/08/21/pena-di-morte-italia_w630.jpg?imbypass=true",
+      "summary": "Il 4 marzo 1947 venivano condannati a morte a Torino i tre responsabili della strage di Villarbasse. Un delitto atroce che segnò la fine della pena capitale prima dell'entrata in vigore della Costituzione.",
+      "date": "2026-10-02T08:00:00.0000000Z"
     },
     {
       "id": "media-inaf:305569929f52",
