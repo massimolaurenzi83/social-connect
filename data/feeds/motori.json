@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-10-03T06:53:22.3125304Z",
+  "updated": "2026-10-03T12:11:30.4189357Z",
   "items": [
+    {
+      "id": "motor1:20bc947dc937",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ecco lo sguardo della nuova Citroen da 15.000 euro",
+      "url": "https://it.motor1.com/news/810684/citroen-2cv-teaser-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z13jp/s3/citroen-2-cv-il-teaser.jpg",
+      "summary": "Nuovi dettagli sulla nuova 2 CV che debutta al Salone di Parigi 2026 come concept. Forse sarà fatta in Italia",
+      "date": "2026-10-03T10:09:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:335454660bf6",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Alfa Romeo porta Luna Rossa al Salone Nautico: quattro modelli speciali in mostra",
+      "url": "https://www.hdmotori.it/alfa-romeo-luna-rossa-salone-nautico/",
+      "image": null,
+      "summary": "Alfa Romeo è Official Car del Salone Nautico di Genova 2026 e porta la gamma Luna Rossa, compresa la Giulia Quadrifoglio prodotta in 10 esemplari The post Alfa Romeo porta Luna Rossa al Salone Nautico: quattro modelli...",
+      "date": "2026-10-03T08:00:11.0000000Z"
+    },
+    {
+      "id": "hdmotori:f110bdb9db2a",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ferrari Hypersail, a Livorno nasce l’hub della barca a vela volante",
+      "url": "https://www.hdmotori.it/ferrari-hypersail-livorno-hub-barca-a-vela/",
+      "image": null,
+      "summary": "Si avvicina il debutto del rivoluzionario progetto del monoscafo volante di 100 piedi creato da Ferrari per sfidare gli oceani The post Ferrari Hypersail, a Livorno nasce l’hub della barca a vela volante appeared firs...",
+      "date": "2026-10-03T07:00:28.0000000Z"
+    },
     {
       "id": "hdmotori:c2be16115be2",
       "sourceId": "hdmotori",
@@ -15,18 +51,6 @@
       "date": "2026-10-03T06:30:18.0000000Z"
     },
     {
-      "id": "motor1:58900e00c9d9",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa Porsche 356 B del 1960 è rarissima",
-      "url": "https://it.motor1.com/news/809656/porsche-356-b-storia-asta/",
-      "image": "https://cdn.motor1.com/images/mgl/eoWOeK/s3/porsche-356-b-1600-super-roadster-by-drauz-1960.jpg",
-      "summary": "Venduta per oltre 160.000 euro rappresenta una versione esclusiva della mitica 356. Ecco perché è così rara",
-      "date": "2026-10-03T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:20d691a46366",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -36,6 +60,18 @@
       "url": "https://insideevs.it/news/810389/geely-batteria-ev-1-mw-degrado-tecnica/",
       "image": "https://cdn.motor1.com/images/mgl/XBbqme/s3/geely-golden-brick-battery---ultra-short-series.jpg",
       "summary": "La casa automobilistica ha una soluzione innovativa per rallentare il degrado della batteria. Ecco cosa sappiamo.",
+      "date": "2026-10-03T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:58900e00c9d9",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa Porsche 356 B del 1960 è rarissima",
+      "url": "https://it.motor1.com/news/809656/porsche-356-b-storia-asta/",
+      "image": "https://cdn.motor1.com/images/mgl/eoWOeK/s3/porsche-356-b-1600-super-roadster-by-drauz-1960.jpg",
+      "summary": "Venduta per oltre 160.000 euro rappresenta una versione esclusiva della mitica 356. Ecco perché è così rara",
       "date": "2026-10-03T05:00:00.0000000Z"
     },
     {
@@ -123,18 +159,6 @@
       "date": "2026-10-02T16:00:08.0000000Z"
     },
     {
-      "id": "insideevs:5edce9d0e671",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova BMW i3 ha una fabbrica di batterie tutta sua",
-      "url": "https://insideevs.it/news/810616/bmw-i3-batterie-gen6-prodotte/",
-      "image": "https://cdn.motor1.com/images/mgl/YAbqxl/s3/lo-stabilimento-bmw-in-baviera.jpg",
-      "summary": "In Baviera è iniziata la produzione dei pacchi ad alta tensione con celle Gen6. La nuova i3 utilizza una batteria da 108,7 kWh",
-      "date": "2026-10-02T16:00:00.0000000Z"
-    },
-    {
       "id": "motor1:73f140c9f182",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -144,6 +168,18 @@
       "url": "https://it.motor1.com/features/810601/recuperare-punti-patente-guida-pratica/",
       "image": "https://cdn.motor1.com/images/mgl/E6Xpv3/s3/recupero-punti-patente-guida.jpg",
       "summary": "Chi ha perso punti sulla patente può controllare il saldo, scegliere il corso corretto e verificare l’avvenuto reintegro dopo la frequenza",
+      "date": "2026-10-02T16:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:5edce9d0e671",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova BMW i3 ha una fabbrica di batterie tutta sua",
+      "url": "https://insideevs.it/news/810616/bmw-i3-batterie-gen6-prodotte/",
+      "image": "https://cdn.motor1.com/images/mgl/YAbqxl/s3/lo-stabilimento-bmw-in-baviera.jpg",
+      "summary": "In Baviera è iniziata la produzione dei pacchi ad alta tensione con celle Gen6. La nuova i3 utilizza una batteria da 108,7 kWh",
       "date": "2026-10-02T16:00:00.0000000Z"
     },
     {
@@ -183,18 +219,6 @@
       "date": "2026-10-02T15:00:35.0000000Z"
     },
     {
-      "id": "insideevs:9ef4d8393bb1",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tutti i motori e le batterie della Tesla Model 3",
-      "url": "https://insideevs.it/news/809164/tesla-model-3-motori-batterie/",
-      "image": "https://cdn.motor1.com/images/mgl/jl6mjR/s3/2024-tesla-model-3-highland.jpg",
-      "summary": "Passano gli anni, ma la Model 3 resta una delle più vendute in Italia. Ecco i suoi powertrain",
-      "date": "2026-10-02T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:f52d96fb7b75",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -204,6 +228,18 @@
       "url": "https://it.motor1.com/reviews/810404/subaru-eoutback-2026-prova-prezzi/",
       "image": "https://cdn.motor1.com/images/mgl/BX1yBR/s3/subaru-e-outback-2026-la-prova-su-strada.jpg",
       "summary": "E-Outback, due motori elettrici, 536 Nm e 523 km di autonomia: l'ho guidata on e off road el o sconnesso è il suo ambiente naturale",
+      "date": "2026-10-02T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:9ef4d8393bb1",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tutti i motori e le batterie della Tesla Model 3",
+      "url": "https://insideevs.it/news/809164/tesla-model-3-motori-batterie/",
+      "image": "https://cdn.motor1.com/images/mgl/jl6mjR/s3/2024-tesla-model-3-highland.jpg",
+      "summary": "Passano gli anni, ma la Model 3 resta una delle più vendute in Italia. Ecco i suoi powertrain",
       "date": "2026-10-02T15:00:00.0000000Z"
     },
     {
@@ -327,18 +363,6 @@
       "date": "2026-10-02T12:30:00.0000000Z"
     },
     {
-      "id": "hdmotori:296fe095a7f8",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "KOVE blocca i prezzi: gli sconti di ottobre 2026 per 625X PRO e 450RR",
-      "url": "https://www.hdmotori.it/kove-sconti-ottobre-2026-625x-pro-450rr/",
-      "image": null,
-      "summary": "Prorogate fino al 31 ottobre 2026 le promozioni KOVE: sconti fino a 400€ su 625X PRO, anche con tris valigie incluso, e sulla quattro cilindri 450RR. The post KOVE blocca i prezzi: gli sconti di ottobre 2026 per 625X ...",
-      "date": "2026-10-02T12:00:12.0000000Z"
-    },
-    {
       "id": "insideevs:9630603532eb",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -349,30 +373,6 @@
       "image": "https://cdn.motor1.com/images/mgl/mM3lYP/s3/volkswagen-id.buzz-a-guida-autonoma.jpg",
       "summary": "La Casa tedesca tratta con la startup britannica Wayne per sviluppare software di guida autonoma dotati di intelligenza artificiale",
       "date": "2026-10-02T12:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:8ae0837fecfb",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La BMW X3 M50 diventa più potente (e tutta nera)",
-      "url": "https://it.motor1.com/news/810413/bmw-x3-m50-xdrive-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/wlkqNV/s3/bmw-x3-m50-xdrive-black-package-2026.jpg",
-      "summary": "Sulla X3 M50 debutta il Black Package, mentre il sei cilindri ibrido raggiunge i 443 CV",
-      "date": "2026-10-02T12:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:b82e2fe965cb",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Che emozioni trasmette la Ferrari 12Cilindri Manuale? Il test al limite di Hamilton e Leclerc",
-      "url": "https://www.hdmotori.it/ferrari-12cilindri-manuale-test-al-limite-hamilton-leclerc/",
-      "image": null,
-      "summary": "Con un filmato spettacolare la Casa modenese ha mostrato la reazione alla guida dei piloti ufficiali della Scuderia Ferrari, Leclerc e Hamilton. The post Che emozioni trasmette la Ferrari 12Cilindri Manuale? Il test a...",
-      "date": "2026-10-02T11:00:17.0000000Z"
     },
     {
       "id": "vaielettrico:9110f0fe38ea",
