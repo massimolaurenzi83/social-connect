@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-10-02T22:35:09.1388595Z",
+  "updated": "2026-10-03T01:25:27.1472332Z",
   "items": [
+    {
+      "id": "motor1:ab6cd4281bc6",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Land Rover Defender 90 (2026), perché comprarla e perché no",
+      "url": "https://it.motor1.com/reviews/810276/land-rover-defender-90-recensione-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/P3VAv2/s3/land-rover-defender-90.jpg",
+      "summary": "Icona di stile, è comoda per viaggiare ed efficace in fuoristrada. Corta e agile, ha però il bagagliaio è piccolo",
+      "date": "2026-10-02T23:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:1e7bf586e792",
       "sourceId": "vaielettrico",
@@ -135,18 +147,6 @@
       "date": "2026-10-02T15:00:35.0000000Z"
     },
     {
-      "id": "insideevs:9ef4d8393bb1",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tutti i motori e le batterie della Tesla Model 3",
-      "url": "https://insideevs.it/news/809164/tesla-model-3-motori-batterie/",
-      "image": "https://cdn.motor1.com/images/mgl/jl6mjR/s3/2024-tesla-model-3-highland.jpg",
-      "summary": "Passano gli anni, ma la Model 3 resta una delle più vendute in Italia. Ecco i suoi powertrain",
-      "date": "2026-10-02T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:f52d96fb7b75",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -156,6 +156,18 @@
       "url": "https://it.motor1.com/reviews/810404/subaru-eoutback-2026-prova-prezzi/",
       "image": "https://cdn.motor1.com/images/mgl/BX1yBR/s3/subaru-e-outback-2026-la-prova-su-strada.jpg",
       "summary": "E-Outback, due motori elettrici, 536 Nm e 523 km di autonomia: l'ho guidata on e off road el o sconnesso è il suo ambiente naturale",
+      "date": "2026-10-02T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:9ef4d8393bb1",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tutti i motori e le batterie della Tesla Model 3",
+      "url": "https://insideevs.it/news/809164/tesla-model-3-motori-batterie/",
+      "image": "https://cdn.motor1.com/images/mgl/jl6mjR/s3/2024-tesla-model-3-highland.jpg",
+      "summary": "Passano gli anni, ma la Model 3 resta una delle più vendute in Italia. Ecco i suoi powertrain",
       "date": "2026-10-02T15:00:00.0000000Z"
     },
     {
@@ -325,18 +337,6 @@
       "image": "https://cdn.motor1.com/images/mgl/G3bAJE/s3/michael-jordan-s-1997-ferrari-550-maranello.jpg",
       "summary": "La 550 Maranello del 1997 di Michael Jordan è stata venduta per 2,7 milioni di dollari, oltre quattro volte il record d’asta del modello",
       "date": "2026-10-02T11:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:958b25b1f788",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Maserati sta davvero parlando con dei costruttori cinesi",
-      "url": "https://it.motor1.com/news/810574/maserati-jac-hauwei-trattative-conferme/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z1LNV/s3/maserati-grecale.jpg",
-      "summary": "In un documento Jac Motors ha confermato la trattativa con Maserati e Huawei per una futura collaborazione, ma nulla è ancora deciso",
-      "date": "2026-10-02T11:24:17.0000000Z"
     },
     {
       "id": "hdmotori:b82e2fe965cb",
