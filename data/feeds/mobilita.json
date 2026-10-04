@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-04T12:44:59.5466753Z",
+  "updated": "2026-10-04T17:05:59.6069877Z",
   "items": [
+    {
+      "id": "ferrovie:8bd251345960",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Le notizie ferroviarie della settimana tra nuovi treni, infrastrutture e servizi",
+      "url": "https://www.ferrovie.info/treni-reali/le-notizie-ferroviarie-della-settimana-tra-nuovi-treni-infrastrutture-e-servizi.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10529/normal_trasferimento_ETR_814_aosta_stadler_rail_6502.jpg",
+      "summary": "È stata una settimana ricca di novità per il settore ferroviario, con consegne, trasferimenti e cambiamenti che interessano sia le flotte italiane sia quelle internazionali. Tra nuovi convogli destinati al servizio pa...",
+      "date": "2026-10-04T13:28:00.0000000Z"
+    },
     {
       "id": "ferrovie:f9208ad0a390",
       "sourceId": "ferrovie",
@@ -109,18 +121,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10002/normal_ETR_160_SAD_Alstom_Coradia_Stream_Brennero_uvag.jpg",
       "summary": "La regolarità del servizio ferroviario in Val Venosta e le difficoltà seguite all’introduzione dei nuovi treni elettrici sono state al centro di un incontro che si è svolto il 30 settembre a Silandro. Al confronto han...",
       "date": "2026-10-01T13:56:15.0000000Z"
-    },
-    {
-      "id": "ferrovie:816e0e743fe2",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Museo di Pietrarsa, il 3 ottobre si celebrano i 187 anni della Napoli-Portici",
-      "url": "https://www.ferrovie.info/eventi-e-manifestazioni/museo-di-pietrarsa-il-3-ottobre-si-celebrano-i-187-anni-della-napoli-portici.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/650_2649.jpg",
-      "summary": "Il Museo Nazionale Ferroviario di Pietrarsa celebra sabato 3 ottobre 2026 i 187 anni dall’inaugurazione della ferrovia Napoli-Portici , la prima linea ferroviaria della Penisola, aperta all’esercizio il 3 ottobre 1839...",
-      "date": "2026-10-01T08:51:13.0000000Z"
     },
     {
       "id": "ferrovie:8be3ef801a5c",
