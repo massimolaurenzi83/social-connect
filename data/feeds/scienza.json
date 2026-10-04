@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-10-04T00:43:57.3969530Z",
+  "updated": "2026-10-04T06:24:47.0370728Z",
   "items": [
+    {
+      "id": "focus:6d66bf22e427",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Chi ha assassinato Francesco de' Medici?",
+      "url": "https://www.focus.it/cultura/storia/chi-ha-assassinato-francesco-de-medici-incastrato-dalla-genetica-dopo-439-anni",
+      "image": "https://www.focus.it/images/2026/09/30/francesco-i-de-medici-ritratto_w630.jpg?imbypass=true",
+      "summary": "Per secoli si è parlato del veleno del fratello cardinale, ma le analisi del DNA sulle costole del Granduca di Toscana hanno svelato com'è morto veramente Francesco de' Medici (e la moglie Bianca Cappello).",
+      "date": "2026-10-04T02:00:00.0000000Z"
+    },
     {
       "id": "focus:093ca6969765",
       "sourceId": "focus",
@@ -75,18 +87,6 @@
       "date": "2026-10-02T15:00:00.0000000Z"
     },
     {
-      "id": "focus:aebd56a616ef",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Una batteria da 8340 mAh che ti lascia dimenticare il cavetto per giorni: questo Redmi 5G costa il 27% in meno",
-      "url": "https://www.focus.it/focus-offerte/redmi-note-17-pro-5g-batteria-8340-mah-sconto-27",
-      "image": "https://www.focus.it/images/2026/10/02/Note-17-Pro-5G-Smartphone_w630.jpg?imbypass=true",
-      "summary": "",
-      "date": "2026-10-02T14:00:00.0000000Z"
-    },
-    {
       "id": "focus:b531ebeedd55",
       "sourceId": "focus",
       "source": "Focus",
@@ -147,16 +147,16 @@
       "date": "2026-10-02T14:00:00.0000000Z"
     },
     {
-      "id": "focus:45e74331d34d",
+      "id": "focus:aebd56a616ef",
       "sourceId": "focus",
       "source": "Focus",
       "platform": "rss",
       "category": "scienza",
-      "title": "Come nascono le amicizie?",
-      "url": "https://www.focus.it/comportamento/psicologia/come-nascono-le-amicizie",
-      "image": "https://www.focus.it/images/2026/10/02/amicizia-psicologia_w630.jpg?imbypass=true",
-      "summary": "La \"banalità delle amicizie\": secondo la psicologia sociale, la nascita dei legami più stretti dipende da fattori molto più prevedibili di quanto pensiamo, a partire dalla vicinanza fisica.",
-      "date": "2026-10-02T13:00:00.0000000Z"
+      "title": "Una batteria da 8340 mAh che ti lascia dimenticare il cavetto per giorni: questo Redmi 5G costa il 27% in meno",
+      "url": "https://www.focus.it/focus-offerte/redmi-note-17-pro-5g-batteria-8340-mah-sconto-27",
+      "image": "https://www.focus.it/images/2026/10/02/Note-17-Pro-5G-Smartphone_w630.jpg?imbypass=true",
+      "summary": "",
+      "date": "2026-10-02T14:00:00.0000000Z"
     },
     {
       "id": "media-inaf:ecfc883ecb69",
@@ -289,162 +289,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/09/cover-agapito-150x150.jpg",
       "summary": "È stata definita la strategia di controllo di Morfeo, il sistema di ottica adattiva più grande e complesso mai progettato, destinato a essere utilizzato per l’Extremely Large Telescope. L’articolo che la illustra è st...",
       "date": "2026-09-29T09:59:02.0000000Z"
-    },
-    {
-      "id": "curiuss:G6cP4_VrcDM",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "La deriva - 10 Ottobre - Bologna",
-      "url": "https://www.youtube.com/watch?v=G6cP4_VrcDM",
-      "image": "https://i.ytimg.com/vi/G6cP4_VrcDM/hqdefault.jpg",
-      "summary": "",
-      "videoId": "G6cP4_VrcDM",
-      "date": "2026-09-23T18:04:06.0000000Z"
-    },
-    {
-      "id": "curiuss:odiBKK__wwM",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "La forma dell'Atomo - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=odiBKK__wwM",
-      "image": "https://i.ytimg.com/vi/odiBKK__wwM/hqdefault.jpg",
-      "summary": "",
-      "videoId": "odiBKK__wwM",
-      "date": "2026-09-21T18:30:05.0000000Z"
-    },
-    {
-      "id": "curiuss:gb1zStv8DVE",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Cosa ci Aspetta - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=gb1zStv8DVE",
-      "image": "https://i.ytimg.com/vi/gb1zStv8DVE/hqdefault.jpg",
-      "summary": "",
-      "videoId": "gb1zStv8DVE",
-      "date": "2026-09-09T18:30:01.0000000Z"
-    },
-    {
-      "id": "curiuss:xcCTQ5260HQ",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Il favoloso mondo di Vincent (Serie Completa) - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=xcCTQ5260HQ",
-      "image": "https://i.ytimg.com/vi/xcCTQ5260HQ/hqdefault.jpg",
-      "summary": "",
-      "videoId": "xcCTQ5260HQ",
-      "date": "2026-07-29T18:00:32.0000000Z"
-    },
-    {
-      "id": "curiuss:TxlLkRJFYMM",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "10 Aneddoti Parigini - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=TxlLkRJFYMM",
-      "image": "https://i.ytimg.com/vi/TxlLkRJFYMM/hqdefault.jpg",
-      "summary": "",
-      "videoId": "TxlLkRJFYMM",
-      "date": "2026-07-14T16:51:55.0000000Z"
-    },
-    {
-      "id": "curiuss:TUtWtHsibU0",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Entropia (serie completa) - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=TUtWtHsibU0",
-      "image": "https://i.ytimg.com/vi/TUtWtHsibU0/hqdefault.jpg",
-      "summary": "",
-      "videoId": "TUtWtHsibU0",
-      "date": "2026-06-22T18:00:15.0000000Z"
-    },
-    {
-      "id": "curiuss:X9SoJKTyXs0",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "La donna che spezzò l'atomo - Geni Impolverati#08 - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=X9SoJKTyXs0",
-      "image": "https://i.ytimg.com/vi/X9SoJKTyXs0/hqdefault.jpg",
-      "summary": "",
-      "videoId": "X9SoJKTyXs0",
-      "date": "2026-06-08T18:26:16.0000000Z"
-    },
-    {
-      "id": "curiuss:aDmbZzB0zI4",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Il Processo Haber - Bosch - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=aDmbZzB0zI4",
-      "image": "https://i.ytimg.com/vi/aDmbZzB0zI4/hqdefault.jpg",
-      "summary": "",
-      "videoId": "aDmbZzB0zI4",
-      "date": "2026-05-20T18:00:00.0000000Z"
-    },
-    {
-      "id": "curiuss:WhZs-4GwfsE",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Genio o Mostro? - Geni Impolverati#07 - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=WhZs-4GwfsE",
-      "image": "https://i.ytimg.com/vi/WhZs-4GwfsE/hqdefault.jpg",
-      "summary": "",
-      "videoId": "WhZs-4GwfsE",
-      "date": "2026-05-04T18:00:27.0000000Z"
-    },
-    {
-      "id": "curiuss:DXAmnjHn-Hw",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Parigi Matematica - Paris#03 - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=DXAmnjHn-Hw",
-      "image": "https://i.ytimg.com/vi/DXAmnjHn-Hw/hqdefault.jpg",
-      "summary": "",
-      "videoId": "DXAmnjHn-Hw",
-      "date": "2026-04-20T18:00:12.0000000Z"
-    },
-    {
-      "id": "curiuss:h4hq5okz5tQ",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Parigi Astronomica - Paris#02 - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=h4hq5okz5tQ",
-      "image": "https://i.ytimg.com/vi/h4hq5okz5tQ/hqdefault.jpg",
-      "summary": "",
-      "videoId": "h4hq5okz5tQ",
-      "date": "2026-04-07T18:34:25.0000000Z"
-    },
-    {
-      "id": "curiuss:22_zSzhsjcw",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Parigi Chimica - Paris#01 - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=22_zSzhsjcw",
-      "image": "https://i.ytimg.com/vi/22_zSzhsjcw/hqdefault.jpg",
-      "summary": "",
-      "videoId": "22_zSzhsjcw",
-      "date": "2026-03-25T06:45:35.0000000Z"
     }
   ]
 }

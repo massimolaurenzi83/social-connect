@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-10-04T00:43:57.3582377Z",
+  "updated": "2026-10-04T06:24:47.0310793Z",
   "items": [
+    {
+      "id": "insideevs:3a35ae0e09fa",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "In California basta una presa di casa per farsi il solare da balcone",
+      "url": "https://insideevs.it/news/810624/california-solare-balcone-ricarica-auto/",
+      "image": "https://cdn.motor1.com/images/mgl/jl80BR/s3/in-california-basta-una-presa-di-casa-per-farsi-il-solare-da-balcone.jpg",
+      "summary": "Dal 2027 bastano una presa e un pannello certificato per produrre energia in casa, fino a 1.200 watt e senza permessi tradizionali",
+      "date": "2026-10-04T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:34ad79c3f7bd",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Mercedes Classe G che costava quanto una Porsche 911",
+      "url": "https://it.motor1.com/news/810432/mercedes-300-gd-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/ko8o9B/s3/mercedes-300-gd-1982-von-franz-josef-strauss-im-fahrbericht.jpg",
+      "summary": "Nel 1979 nasce come fuoristrada robusto e senza fronzoli. Poi arriva la 300 GD di Franz Josef Strauß, con una dotazione speciale",
+      "date": "2026-10-04T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:574c0c311d2b",
       "sourceId": "vaielettrico",
@@ -219,18 +243,6 @@
       "date": "2026-10-02T16:00:08.0000000Z"
     },
     {
-      "id": "insideevs:5edce9d0e671",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova BMW i3 ha una fabbrica di batterie tutta sua",
-      "url": "https://insideevs.it/news/810616/bmw-i3-batterie-gen6-prodotte/",
-      "image": "https://cdn.motor1.com/images/mgl/YAbqxl/s3/lo-stabilimento-bmw-in-baviera.jpg",
-      "summary": "In Baviera è iniziata la produzione dei pacchi ad alta tensione con celle Gen6. La nuova i3 utilizza una batteria da 108,7 kWh",
-      "date": "2026-10-02T16:00:00.0000000Z"
-    },
-    {
       "id": "motor1:73f140c9f182",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -240,6 +252,18 @@
       "url": "https://it.motor1.com/features/810601/recuperare-punti-patente-guida-pratica/",
       "image": "https://cdn.motor1.com/images/mgl/E6Xpv3/s3/recupero-punti-patente-guida.jpg",
       "summary": "Chi ha perso punti sulla patente può controllare il saldo, scegliere il corso corretto e verificare l’avvenuto reintegro dopo la frequenza",
+      "date": "2026-10-02T16:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:5edce9d0e671",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova BMW i3 ha una fabbrica di batterie tutta sua",
+      "url": "https://insideevs.it/news/810616/bmw-i3-batterie-gen6-prodotte/",
+      "image": "https://cdn.motor1.com/images/mgl/YAbqxl/s3/lo-stabilimento-bmw-in-baviera.jpg",
+      "summary": "In Baviera è iniziata la produzione dei pacchi ad alta tensione con celle Gen6. La nuova i3 utilizza una batteria da 108,7 kWh",
       "date": "2026-10-02T16:00:00.0000000Z"
     },
     {
@@ -279,18 +303,6 @@
       "date": "2026-10-02T15:00:35.0000000Z"
     },
     {
-      "id": "insideevs:9ef4d8393bb1",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tutti i motori e le batterie della Tesla Model 3",
-      "url": "https://insideevs.it/news/809164/tesla-model-3-motori-batterie/",
-      "image": "https://cdn.motor1.com/images/mgl/jl6mjR/s3/2024-tesla-model-3-highland.jpg",
-      "summary": "Passano gli anni, ma la Model 3 resta una delle più vendute in Italia. Ecco i suoi powertrain",
-      "date": "2026-10-02T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:f52d96fb7b75",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -300,6 +312,18 @@
       "url": "https://it.motor1.com/reviews/810404/subaru-eoutback-2026-prova-prezzi/",
       "image": "https://cdn.motor1.com/images/mgl/BX1yBR/s3/subaru-e-outback-2026-la-prova-su-strada.jpg",
       "summary": "E-Outback, due motori elettrici, 536 Nm e 523 km di autonomia: l'ho guidata on e off road el o sconnesso è il suo ambiente naturale",
+      "date": "2026-10-02T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:9ef4d8393bb1",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tutti i motori e le batterie della Tesla Model 3",
+      "url": "https://insideevs.it/news/809164/tesla-model-3-motori-batterie/",
+      "image": "https://cdn.motor1.com/images/mgl/jl6mjR/s3/2024-tesla-model-3-highland.jpg",
+      "summary": "Passano gli anni, ma la Model 3 resta una delle più vendute in Italia. Ecco i suoi powertrain",
       "date": "2026-10-02T15:00:00.0000000Z"
     },
     {
@@ -339,18 +363,6 @@
       "date": "2026-10-02T14:00:00.0000000Z"
     },
     {
-      "id": "motor1:0cc524c47e84",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volkswagen rompe con IG Metall su salari e contratti, ma i posti sono garantiti",
-      "url": "https://it.motor1.com/news/810590/volkswagen-ig-metall-contratti/",
-      "image": "https://cdn.motor1.com/images/mgl/OoZJ9o/s3/lo-stabilimento-volkswagen-di-zwickau.jpg",
-      "summary": "La casa tedesca invia la disdetta per vari accordi collettivi, ma per ora i dipendenti Volkswagen AG non vedranno cambiamenti concreti",
-      "date": "2026-10-02T13:30:00.0000000Z"
-    },
-    {
       "id": "insideevs:b572697bd985",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -360,6 +372,18 @@
       "url": "https://insideevs.it/news/810562/batterie-litio-zolfo-elettrodo-gel/",
       "image": "https://cdn.motor1.com/images/mgl/KbZY7q/s3/batterie-al-litio-zolfo-trovato-un-trucco-per-fermare-il-degrado.jpg",
       "summary": "Un nuovo metodo di polimerizzazione crea un elettrodo più stabile, ma il risultato è ancora lontano da una batteria pronta per le auto",
+      "date": "2026-10-02T13:30:00.0000000Z"
+    },
+    {
+      "id": "motor1:0cc524c47e84",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen rompe con IG Metall su salari e contratti, ma i posti sono garantiti",
+      "url": "https://it.motor1.com/news/810590/volkswagen-ig-metall-contratti/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZJ9o/s3/lo-stabilimento-volkswagen-di-zwickau.jpg",
+      "summary": "La casa tedesca invia la disdetta per vari accordi collettivi, ma per ora i dipendenti Volkswagen AG non vedranno cambiamenti concreti",
       "date": "2026-10-02T13:30:00.0000000Z"
     },
     {
@@ -385,18 +409,6 @@
       "image": null,
       "summary": "KTM e Husqvarna sveleranno le carte a EICMA 2026: appuntamento il 3 novembre allo Stand E08 tra prestazioni offroad, design e le prime indicazioni sulla gamma futura. The post EICMA 2026: KTM e Husqvarna accendono i m...",
       "date": "2026-10-02T13:00:11.0000000Z"
-    },
-    {
-      "id": "motor1:1959e8873024",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Porsche: la Macan a benzina torna nel 2028 e la 911 non sarà EV",
-      "url": "https://it.motor1.com/news/810586/porsche-strategia-ev-911-benzina/",
-      "image": "https://cdn.motor1.com/images/mgl/xNogv/s3/porsche-macan-s-2021.jpg",
-      "summary": "Michael Leiters rilancia la Macan a benzina, taglia 9.000 posti di lavoro e conferma il no alla 911 elettrica",
-      "date": "2026-10-02T13:00:00.0000000Z"
     },
     {
       "id": "hdmotori:991f9df6ac00",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/P3VJ1G/s3/polestar-la-ricarica-si-fa-piu-ricca-arrivano-due-abbonamenti.jpg",
       "summary": "Due nuovi piani promettono sconti sulla ricarica rapida e l'accesso a oltre 1,25 milioni di punti in Europa, Tesla inclusa",
       "date": "2026-10-01T15:30:00.0000000Z"
-    },
-    {
-      "id": "insideevs:49d3353cac06",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Elon Musk torna da Trump con un incarico al Pentagono",
-      "url": "https://insideevs.it/news/810457/musk-trump-tesla-incarico-pentagono-ia/",
-      "image": "https://cdn.motor1.com/images/mgl/vx7n1q/s3/elon-musk-torna-da-trump.jpg",
-      "summary": "L'incontro con Trump è solo un tassello della strategia che lega xAI, SpaceX e Tesla attraverso enormi infrastrutture di calcolo",
-      "date": "2026-10-01T13:44:37.0000000Z"
     },
     {
       "id": "insideevs:1aeda1033b77",
