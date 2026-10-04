@@ -1,7 +1,31 @@
 {
   "category": "cripto",
-  "updated": "2026-10-04T06:24:47.0265851Z",
+  "updated": "2026-10-04T12:44:59.6081080Z",
   "items": [
+    {
+      "id": "cryptonomist:0487a2c43d65",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Le azioni IonQ scendono dello 0,5% a 43,77 dollari, testando l’EMA200 a 43,78 dollari",
+      "url": "https://cryptonomist.ch/2026/10/04/ionq-azioni-chiudono-ema200/",
+      "image": null,
+      "summary": "Il titolo IonQ ha chiuso a 43,77 dollari venerdì 2 ottobre 2026, in calo dello 0,5% rispetto alla chiusura precedente. Il titolo ha aperto a 45,16 dollari…",
+      "date": "2026-10-04T09:00:44.0000000Z"
+    },
+    {
+      "id": "cryptonomist:b9514567a0a8",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Prezzo di Starknet sale a 0,0537 $: RSI ipercomprato, rischio frenata",
+      "url": "https://cryptonomist.ch/2026/10/04/prezzo-di-starknet-sale-rsi-ipercomprato-rischio-frenata-4-ottobre-2026/",
+      "image": null,
+      "summary": "Al 4 ottobre 2026 il prezzo di Starknet mostra una spinta rialzista intensa ma con segnali contrastanti. STRK quota 0,05372 $ su Binance, a contatto con la banda di Bollinger superiore dopo una chiusura a 0,05428 $. I...",
+      "date": "2026-10-04T08:58:41.0000000Z"
+    },
     {
       "id": "cryptonomist:3f344f63f3b1",
       "sourceId": "cryptonomist",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Il Security Council di Arbitrum ha fatto scattare una pausa sulle attivazioni Stylus su Arbitrum One e Nova, in vigore dal 2 ottobre 2026. La mossa è una risposta d’emergenza al rischio di attacchi assistiti da intell...",
       "date": "2026-10-03T10:10:52.0000000Z"
-    },
-    {
-      "id": "cryptonomist:2c4f50d5e59e",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Ethereum Foundation porta online i pagamenti privati API a consumo con zkAPI",
-      "url": "https://cryptonomist.ch/2026/10/03/pagamenti-privati-api-a-consumo/",
-      "image": null,
-      "summary": "Un nuovo sistema di pagamento è sbarcato in silenzio sulla mainnet di Ethereum, pensato per i pagamenti privati API a consumo senza legare le richieste a un’identità fissa. L’Ethereum Foundation e l’Open Anonymity Pro...",
-      "date": "2026-10-03T09:51:29.0000000Z"
-    },
-    {
-      "id": "cryptonomist:4d854ca0e023",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Attacco a Bybit: la pausa prelievi suggerita da CZ di Binance non è stata seguita",
-      "url": "https://cryptonomist.ch/2026/10/03/pausa-prelievi-binance-cz/",
-      "image": null,
-      "summary": "Fermare i prelievi durante un attacco hacker o lasciarli attivi e sperare che il peggio sia passato? È il dilemma che CZ, fondatore di Binance, ha raccontato in un’intervista al podcast When Shift Happens, condotto da...",
-      "date": "2026-10-03T09:49:46.0000000Z"
     }
   ]
 }
