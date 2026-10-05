@@ -1,7 +1,55 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-05T08:52:11.8360049Z",
+  "updated": "2026-10-05T17:35:57.5944931Z",
   "items": [
+    {
+      "id": "cybersecurity360:e1a9e65ea5b0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "PEC e fiducia digitale: cosa insegna il caso Revolut",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/pec-e-fiducia-digitale-cosa-insegna-il-caso-revolut/",
+      "image": null,
+      "summary": "Il caso Revolut è solo lo spunto per una riflessione più generale. La questione non è stabilire se la PEC sia “sicura” o “insicura”. Ecco quali garanzie occorre costruire e come assicurare la fiducia digitale nelle co...",
+      "date": "2026-10-05T15:13:30.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:8891c9810036",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Deepfake, Meloni deposita la sua voce: l’identità diventa un rischio cyber",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/deepfake-meloni-deposita-la-sua-voce-lidentita-diventa-un-rischio-cyber/",
+      "image": null,
+      "summary": "Giorgia Meloni ha depositato all’Euipo un marchio sonoro con la propria voce per contrastarne gli utilizzi falsi attraverso l’AI. Una tutela legale che apre un problema molto più ampio: voice cloning, impersonation e ...",
+      "date": "2026-10-05T13:49:56.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:b9d30a63536d",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "GenAI Security Gap: l’AI Act corre più veloce della governance aziendale",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/genai-security-gap-lai-act-corre-piu-veloce-della-governance-aziendale/",
+      "image": null,
+      "summary": "Il Rapporto Clusit 2026 segnala un +42% di incidenti gravi in Italia, spinti anche dalla GenAI usata dagli attaccanti. I dati degli Osservatori del Politecnico di Milano mostrano che la governance della sicurezza non ...",
+      "date": "2026-10-05T13:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:efa19f07efa9",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Ionos PEC europea: casella REM-ready in offerta a 1 euro per il primo anno",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/ionos-pec-europea-1-euro-standard-rem-eidas-sicurezza/",
+      "image": null,
+      "summary": "Ionos propone la PEC europea a 1 euro IVA esclusa per il primo anno. La casella è REM-ready, conforme agli standard europei e include 1 GB di spazio, notifiche, accesso da più dispositivi e, in alcuni pacchetti, funzi...",
+      "date": "2026-10-05T09:14:38.0000000Z"
+    },
     {
       "id": "cybersecurity360:4fbe3deb90ae",
       "sourceId": "cybersecurity360",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Dall’acquisto di firewall e servizi cloud alla compliance al Cyber Resilience Act, fino ai grandi progetti europei su AI, NIS2 e infrastrutture critiche: tre bandi cyber mettono in campo 257,5 milioni, ma richiedono a...",
       "date": "2026-10-02T10:18:12.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ccf5c5b8615f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Proton Pass Plus, password manager in promozione: crittografia zero-knowledge, alias email e monitoraggio del dark web al 50% di sconto",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/proton-pass-plus-sconto-gestore-password-crittografia-zero-knowledge/",
-      "image": null,
-      "summary": "Proton Pass Plus dimezza il prezzo dell'abbonamento annuale, portandolo a 2,49 euro al mese per i primi 12 mesi. Inclusi archiviazione crittografata, alias email, autenticazione 2FA e monitoraggio del dark web L'artic...",
-      "date": "2026-10-02T10:00:35.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:63fb380d8927",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sicurezza per agentic AI: la gestione dei dati cloud",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/sicurezza-per-agentic-ai-la-gestione-dei-dati-cloud/",
-      "image": null,
-      "summary": "L'integrazione di sistemi di agentic AI negli ambienti cloud di Microsoft e Google svela gravi debolezze di data governance e limiti del protocollo OAuth nell'accesso a terabyte di dati aziendali non strutturati L'art...",
-      "date": "2026-10-02T08:53:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:cd964a8f675e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Trattamenti per finalità di Polizia: come governare la circolazione dei dati",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/trattamenti-per-finalita-di-polizia-come-governare-la-circolazione-dei-dati/",
-      "image": null,
-      "summary": "Quando un dato passa dalla Polizia Locale alle Forze di Polizia non cambia soltanto destinatario: può entrare in un diverso sistema di responsabilità. Distinguere movimento interno e comunicazione è il primo passo per...",
-      "date": "2026-10-02T08:09:44.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:549d63ae8cbf",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Microsoft Digital Defense Report 2026: l’AI accelera gli attacchi e amplia il perimetro",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/microsoft-digital-defense-report-2026-lai-accelera-gli-attacchi-e-amplia-il-perimetro/",
-      "image": null,
-      "summary": "Il Microsoft Digital Defense Report 2026 fotografa un rischio cyber sempre più interconnesso: l’AI accelera gli attacchi, l’identità resta il principale punto di controllo e gli agenti aprono una nuova superficie da p...",
-      "date": "2026-10-01T16:18:41.0000000Z"
     }
   ]
 }

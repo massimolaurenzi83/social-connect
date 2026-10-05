@@ -1,7 +1,19 @@
 {
   "category": "aviazione",
-  "updated": "2026-10-05T02:00:48.2139015Z",
+  "updated": "2026-10-05T17:35:57.5477333Z",
   "items": [
+    {
+      "id": "aviationreport:63e3b03df4be",
+      "sourceId": "aviationreport",
+      "source": "Aviation Report",
+      "platform": "rss",
+      "category": "aviazione",
+      "title": "Northrop Grumman YFQ-48A Talon Blue: completato il primo volo autonomo",
+      "url": "https://www.aviation-report.com/northrop-grumman-yfq-48a-talon-blue-completato-il-primo-volo-autonomo/",
+      "image": null,
+      "summary": "Northrop Grumman ha completato il primo volo autonomo del suo YFQ-48A Talon Blue, un velivolo senza pilota sviluppato internamente dall’azienda come dimostratore per le future capacità di Collaborative Combat Aircraft...",
+      "date": "2026-10-05T10:11:29.0000000Z"
+    },
     {
       "id": "aviationreport:c0903c3c5ac2",
       "sourceId": "aviationreport",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "La United States Air Force esamina di nuovo l’ipotesi di acquistare caccia F-16 di nuova costruzione. Fonti multiple citate da Air & Space Forces Magazine e Aviation Week indicano che la forza armata includerà questa ...",
       "date": "2026-09-29T08:59:08.0000000Z"
-    },
-    {
-      "id": "aviationreport:701ae0c243e1",
-      "sourceId": "aviationreport",
-      "source": "Aviation Report",
-      "platform": "rss",
-      "category": "aviazione",
-      "title": "Eurofighter al Portogallo: Airbus propone il caccia europeo come miglior sostituto degli F-16",
-      "url": "https://www.aviation-report.com/eurofighter-al-portogallo-airbus-propone-caccia-europeo-come-miglior-sostituto-degli-f-16/",
-      "image": null,
-      "summary": "Secondo quanto riportato da Reuters, Airbus ha dichiarato giovedì scorso di voler presentare una proposta non sollecitata al Portogallo tra la fine di ottobre e l’inizio di novembre per la fornitura di aerei Eurofight...",
-      "date": "2026-09-28T08:09:25.0000000Z"
     }
   ]
 }
