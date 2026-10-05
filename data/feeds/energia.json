@@ -1,7 +1,55 @@
 {
   "category": "energia",
-  "updated": "2026-10-05T02:00:48.2216780Z",
+  "updated": "2026-10-05T08:52:11.8084667Z",
   "items": [
+    {
+      "id": "qualenergia:dd8075926bff",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "L’accumulo ad aria compressa punta a un salto di scala",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/accumulo-aria-compressa-punta-salto-scala/",
+      "image": null,
+      "summary": "L’accumulo ad aria compressa sta provando a passare da tecnologia di nicchia a infrastruttura di grande scala per l’accumulo elettrico di lunga durata. Nel gennaio 2026, è entrato integralmente in esercizio in Cina Hu...",
+      "date": "2026-10-05T08:00:47.0000000Z"
+    },
+    {
+      "id": "qualenergia:4b51f0fd0ef2",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Fer X, in vigore il decreto con i contingenti delle prime due aste",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/fer-x-vigore-decreto-contingenti-prime-due-aste/",
+      "image": null,
+      "summary": "È entrato in vigore sabato 3 ottobre il decreto direttoriale n. 93 pubblicato il 2 ottobre dal ministero dell’Ambiente e della Sicurezza energetica che approva le Regole operative, i contingenti di potenza e i coeffic...",
+      "date": "2026-10-05T07:45:52.0000000Z"
+    },
+    {
+      "id": "qualenergia:56b559a6d3b2",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "DiversifyEU: come ridurre le “dipendenze pericolose” nelle filiere strategiche",
+      "url": "https://www.qualenergia.it/articoli/diversifyeu-come-ridurre-le-dipendenze-pericolose-nelle-filiere-strategiche/",
+      "image": null,
+      "summary": "Per rafforzare la sicurezza economica europea è necessario diversificare le catene di approvvigionamento strategiche per la difesa, la cybersicurezza, l’energia, la connettività e le infrastrutture. È il presupposto d...",
+      "date": "2026-10-05T07:00:40.0000000Z"
+    },
+    {
+      "id": "qualenergia:cd0764219a55",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Heat pumps for Italy: Aligning energy policy to support the transition to clean heating",
+      "url": "https://www.qualenergia.it/pro/documenti/heat-pumps-for-italy/",
+      "image": null,
+      "summary": "Nel 2024 il gas ha coperto circa il 55% della domanda residenziale di riscaldamento e acqua calda sanitaria in Italia, seguito da bioenergia e solare termico (24% combinato), dall’elettricità diretta (7%), dal gasolio...",
+      "date": "2026-10-05T05:00:10.0000000Z"
+    },
     {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
@@ -12,7 +60,7 @@
       "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
       "image": null,
       "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
-      "date": "2026-10-04T04:30:00.0000000Z"
+      "date": "2026-10-05T04:30:00.0000000Z"
     },
     {
       "id": "qualenergia:28c24aba79dc",
@@ -24,7 +72,7 @@
       "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
       "image": null,
       "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
-      "date": "2026-10-03T04:00:00.0000000Z"
+      "date": "2026-10-05T04:00:00.0000000Z"
     },
     {
       "id": "qualenergia:92dee9feb9f7",
@@ -97,54 +145,6 @@
       "image": null,
       "summary": "Incentivi anche nei Comuni sotto 5.000 abitanti, ampliamento degli interventi ammissibili nei prossimi bandi, tra cui pompe di calore e solare termico, oltre 270 milioni da destinare alle reti e alle interconnessioni....",
       "date": "2026-10-02T09:45:58.0000000Z"
-    },
-    {
-      "id": "qualenergia:c2c063eca0ae",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Imprese, in Italia il rapporto tra prezzi elettrici e del gas è il più alto d’Europa",
-      "url": "https://www.qualenergia.it/articoli/imprese-italia-rapporto-prezzi-elettricita-gas-piu-alto-europa/",
-      "image": null,
-      "summary": "Per le imprese italiane il prezzo dell’elettricità continua a rappresentare un ostacolo all’elettrificazione dei consumi. Nel 2025, tra i clienti non domestici, il rapporto tra il prezzo finale dell’elettricità e quel...",
-      "date": "2026-10-02T09:45:55.0000000Z"
-    },
-    {
-      "id": "qualenergia:6dd860f409c5",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Scorporo in bolletta e multi-vendor: cosa può cambiare per il fotovoltaico",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/scorporo-bolletta-multi-vendor-cosa-puo-cambiare-fotovoltaico/",
-      "image": null,
-      "summary": "Condividere energia rinnovabile senza dover ricorrere necessariamente alle configurazioni oggi più note, come Cer e gruppi di autoconsumatori, e arrivare ad avere più fornitori sullo stesso punto di connessione. Sono ...",
-      "date": "2026-10-02T07:45:18.0000000Z"
-    },
-    {
-      "id": "qualenergia:3b02eace283f",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Successo per la prima edizione del REM-Renewable Energy Meeting con oltre 150 partecipanti",
-      "url": "https://www.qualenergia.it/articoli/successo-prima-edizione-rem-renewable-energy-meeting-oltre-150-partecipanti/",
-      "image": null,
-      "summary": "Si è conclusa con un grande successo di pubblico e di contenuti la prima edizione del REM – Renewable Energy Meeting, l’evento tenutasi il 29 settembre a Taranto. Con oltre 150 partecipanti tra relatori, istituzioni, ...",
-      "date": "2026-10-02T07:30:29.0000000Z"
-    },
-    {
-      "id": "qualenergia:cecd6abfc2bd",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Centri dati AI: da carico elettrico a risorsa energetica",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/centri-dati-ai-carico-elettrico-risorsa-energetica/",
-      "image": null,
-      "summary": "Un centro dati per l’intelligenza artificiale può ridurre il proprio assorbimento quando la rete è sotto stress, contribuendo alla flessibilità e alla sicurezza del sistema elettrico. Contestualmente, in presenza di r...",
-      "date": "2026-10-02T07:00:37.0000000Z"
     }
   ]
 }

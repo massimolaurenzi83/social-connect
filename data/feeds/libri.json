@@ -1,7 +1,67 @@
 {
   "category": "libri",
-  "updated": "2026-10-05T02:00:48.2474648Z",
+  "updated": "2026-10-05T08:52:11.8001252Z",
   "items": [
+    {
+      "id": "illibraio:7252b37d4621",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "Editoria: novità per la saggistica di Giunti",
+      "url": "https://www.illibraio.it/news/editoria/editoria-saggistica-giunti-1510093/",
+      "image": null,
+      "summary": "In vista dell'avvio della Buchmesse di Francoforte, Giunti annuncia l'arrivo di Emanuele Basile con il ruolo di consulente per la saggistica, \"portando con sé un bagaglio di 24 anni di esperienza maturata in Mondadori...",
+      "date": "2026-10-05T07:59:07.0000000Z"
+    },
+    {
+      "id": "illibraio:11a188d1e543",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "Frasi sulla pioggia, alcune fra le più belle tratte dalla letteratura",
+      "url": "https://www.illibraio.it/news/storie/frasi-sulla-pioggia-1463349/",
+      "image": null,
+      "summary": "Da Friedrich Nietzsche a Gabriele D'Annunzio, passando per Yamamoto Tsunetomo, Susan Ertz e Anton Čechov, ecco alcune tra le più belle frasi sulla pioggia tratte dalla letteratura, per tornare a percepirla (nonostante...",
+      "date": "2026-10-05T07:35:26.0000000Z"
+    },
+    {
+      "id": "illibraio:8d1bbf4ad99f",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "99 racconti da non perdere (consigliati da Luca Ricci)",
+      "url": "https://www.illibraio.it/news/narrativa/99-racconti-consigliati-1506260/",
+      "image": null,
+      "summary": "Da E. T. A. Hoffmann a Lucia Berlin, passando per Edgar Allan Poe, Herman Melville e Virginia Woolf... La storia del racconto moderno in 99 testi, consigliati dallo scrittore Luca Ricci, che firma la raccolta di racco...",
+      "date": "2026-10-05T06:56:51.0000000Z"
+    },
+    {
+      "id": "illibraio:988ae4a130a4",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "“Madonna di rabbia” di Simona Vinci: il quaderno segreto delle madri non adatte",
+      "url": "https://www.illibraio.it/news/dautore/madonna-di-rabbia-simona-vinci-1508878/",
+      "image": null,
+      "summary": "Un quaderno nascosto in una scatola di calze spaiate, un profilo su un'app di incontri con il nickname Toxic Mary, un bicchiere di vino bevuto di nascosto mentre la figlia bussa alla porta del bagno: è da qui che part...",
+      "date": "2026-10-05T02:43:52.0000000Z"
+    },
+    {
+      "id": "illibraio:61def71b476f",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "L’eredità di una madre: “La regina della notte” di Lukas Bärfuss è la storia di un disamore",
+      "url": "https://www.illibraio.it/news/dautore/la-regina-della-notte-lukas-barfuss-1503864/",
+      "image": null,
+      "summary": "Quanto la presenza di una madre, o la sua assenza, condiziona la nostra vita adulta? Questa è la domanda a monte di \"La regina della notte\", il nuovo romanzo di Lukas Bärfuss, autore di diverse opere, come \"Hagard\", \"...",
+      "date": "2026-10-05T00:17:00.0000000Z"
+    },
     {
       "id": "illibraio:1aa84231d606",
       "sourceId": "illibraio",
@@ -15,13 +75,13 @@
       "date": "2026-10-04T06:06:17.0000000Z"
     },
     {
-      "id": "illibraio:09fb3194eb19",
+      "id": "illibraio:fc13d60d0ca7",
       "sourceId": "illibraio",
       "source": "Il Libraio",
       "platform": "rss",
       "category": "libri",
-      "title": "Balthazar Páramo, “aliènimo” autore di “Anarchica la morte” – di Giordano Meazzi",
-      "url": "https://www.illibraio.it/news/dautore/anarchica-la-morte-meazzi-1509154/",
+      "title": "Balthazar Páramo, “aliènimo” autore di “Anarchica la morte” – di Giordano Meacci",
+      "url": "https://www.illibraio.it/news/dautore/anarchica-la-morte-meacci-1509154/",
       "image": null,
       "summary": "\"È come se avessi trovato, nella Biblioteca che mi porto in testa, un romanzo intitolato 'Anarchica la morte'\": lo racconta in questa riflessione Giordano Meacci, che nel suo nuovo libro narra il rapporto tra una donn...",
       "date": "2026-10-04T00:45:36.0000000Z"
@@ -49,66 +109,6 @@
       "image": null,
       "summary": "A Venezia la serata finale del Premio Campiello 2026. A vincere la 64esima edizione è lo scrittore sardo Marcello Fois, che ottiene 3 voti in più di Alcide Pierantozzi. Dopo lo Strega a Michele Mari, Einaudi quest'ann...",
       "date": "2026-10-03T18:05:23.0000000Z"
-    },
-    {
-      "id": "illibraio:0b0da2ad60ae",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "La malinconica e appassionata tenerezza di “Ingram”: alla scoperta del primo romanzo di Louis C.K.",
-      "url": "https://www.illibraio.it/news/dautore/ingram-louis-ck-1502224/",
-      "image": null,
-      "summary": "La storia di un bambino solo e abbandonato in un'America profonda e devastata, che guarda con occhi infantili il mondo dei dimenticati e degli sconfitti, e cerca di sopravvivere e diventare grande senza perdere l'amor...",
-      "date": "2026-10-03T01:43:21.0000000Z"
-    },
-    {
-      "id": "illibraio:786f655c47f1",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Conoscersi attraverso i gusti letterari: “readme”, una nuova app di dating",
-      "url": "https://www.illibraio.it/news/narrativa/app-dating-readme-1508343/",
-      "image": null,
-      "summary": "\"readme\", nuova applicazione d'incontri, mette in contatto gli utenti attraverso i libri. L'app, infatti, si pone l'obiettivo di far conoscere persone con gusti letterari affini: per poter procedere, infatti, bisogna ...",
-      "date": "2026-10-03T01:28:58.0000000Z"
-    },
-    {
-      "id": "illibraio:1513efddf377",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "“Che noia la morale della favola…”: la letteratura per ragazzi per Alice Basso",
-      "url": "https://www.illibraio.it/news/narrativa/la-morale-della-favola-1486067/",
-      "image": null,
-      "summary": "\"A me della letteratura per ragazzi piace tutto. L'avventura, la possibilità di ficcarci dentro la magia o elementi surreali, l'ironia. Tutto... tranne una cosa, che poi a ben guardare non è neanche colpa della letter...",
-      "date": "2026-10-03T01:11:59.0000000Z"
-    },
-    {
-      "id": "illibraio:9f7660b8d6ec",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "Colson Whitehead aprirà BookCity 2026 (e riceverà il Sigillo della Città di Milano)",
-      "url": "https://www.illibraio.it/news/editoria/bookcity-milano-2026-inaugurazione-1510019/",
-      "image": null,
-      "summary": "Il 23 novembre, lo scrittore statunitense Colson Whitehead sarà in dialogo con Francesco Costa al Teatro Dal Verme per l'evento inaugurale della 15esima edizione di BookCity Milano. L'autore riceverà per l’occasione i...",
-      "date": "2026-10-02T10:53:06.0000000Z"
-    },
-    {
-      "id": "illibraio:41f62e102dec",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "“Non sentivo di appartenere alle città. Nel bosco mi sento in comunità”: in dialogo con Chandra Candiani",
-      "url": "https://www.illibraio.it/news/dautore/intervista-chandra-candiani-1509099/",
-      "image": null,
-      "summary": "\"La conoscenza è l’unica via che porta fuori dall’oscurità della violenza, l’ignoranza è il veleno più distruttivo che esista e significa ignorare l’altro e noi stessi\". Chandra Candiani si racconta in occasione dell'...",
-      "date": "2026-10-02T01:32:50.0000000Z"
     }
   ]
 }

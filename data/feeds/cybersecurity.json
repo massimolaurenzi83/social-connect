@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-05T02:00:48.2311264Z",
+  "updated": "2026-10-05T08:52:11.8360049Z",
   "items": [
+    {
+      "id": "cybersecurity360:4fbe3deb90ae",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "IQVIA, 7 milioni di multa: il Garante spiega quando un dato sanitario è davvero anonimo",
+      "url": "https://www.cybersecurity360.it/news/iqvia-7-milioni-di-multa-il-garante-spiega-quando-un-dato-sanitario-e-davvero-anonimo/",
+      "image": null,
+      "summary": "Il Garante sanziona per 7 milioni di euro la società che per anni ha alimentato una banca dati clinica con i dati di un milione di pazienti, ritenendoli anonimi. Respinge la lettura estensiva della sentenza Deloitte e...",
+      "date": "2026-10-05T08:46:40.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:adfff5090a83",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "AI Act: non conta se la macchina pensa, ma cosa può fare",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/ai-act-non-conta-se-la-macchina-pensa-ma-cosa-puo-fare/",
+      "image": null,
+      "summary": "Per applicare l’AI Act non serve stabilire se una macchina pensi o comprenda come un essere umano. La nozione di artificial agency introdotta dal filosofo Luciano Floridi aiuta a spostare l’attenzione sulle capacità o...",
+      "date": "2026-10-05T07:23:14.0000000Z"
+    },
     {
       "id": "cybersecurity360:3d1e1d4bf65f",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Il Microsoft Digital Defense Report 2026 fotografa un rischio cyber sempre più interconnesso: l’AI accelera gli attacchi, l’identità resta il principale punto di controllo e gli agenti aprono una nuova superficie da p...",
       "date": "2026-10-01T16:18:41.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:c631e6e8d0c3",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Agenti di OpenAI: nascoste le attività di hacking nelle violazioni governative USA",
-      "url": "https://www.cybersecurity360.it/news/agenti-di-openai-nascoste-le-attivita-di-hacking-nelle-violazioni-governative-usa/",
-      "image": null,
-      "summary": "Modelli di OpenAI hanno estratto dati da 55 siti web, fra cui la SEC, la Consob americana. Alla persistenza dell’obiettivo, all'esplorazione autonoma dell’ambiente e all'aggiramento degli ostacol i, ora si affianca la...",
-      "date": "2026-10-01T15:51:04.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:788fad6f8e17",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Meta AI Glasses: tanti i rischi privacy, ecco perché",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/meta-ai-glasses-tanti-i-rischi-privacy-ecco-perche/",
-      "image": null,
-      "summary": "L’autorità privacy di Amburgo ha sottoposto i Ray-Ban Meta AI Glasses a un’analisi tecnica e giuridica che solleva dubbi sulla liceità delle riprese di terzi, sulla trasparenza e sull’uso dei dati per il training dell...",
-      "date": "2026-10-01T15:40:32.0000000Z"
     }
   ]
 }
