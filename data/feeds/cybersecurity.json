@@ -1,7 +1,55 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-06T03:10:59.7806146Z",
+  "updated": "2026-10-06T16:52:25.0228748Z",
   "items": [
+    {
+      "id": "cybersecurity360:ceeec1f3823a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "L’evoluzione del ransomware: come l’AI potenzia le negoziazioni",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/levoluzione-del-ransomware-come-lai-potenzia-le-negoziazioni/",
+      "image": null,
+      "summary": "Analisi approfondita sull'impiego strategico dell'intelligenza artificiale da parte dei gruppi ransomware moderni, concentrandosi sulle trattative avanzate, sull'estorsione di dati sensibili e sul caso emblematico del...",
+      "date": "2026-10-06T14:41:53.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:e86ff67cc6df",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cybertech Europe 2026: AI e resilienza ridisegnano la cyber security europea",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/cybertech-europe-2026-ai-e-resilienza-ridisegnano-la-cyber-security-europea/",
+      "image": null,
+      "summary": "AI, infrastrutture critiche, Zero Trust, quantum e sistemi autonomi stanno modificando priorità e modelli di difesa. Cybertech Europe 2026 porta a Roma il confronto sulla nuova cyber security europea, sempre più legat...",
+      "date": "2026-10-06T10:39:10.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:4a0f0cfe3964",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Dipendenza cognitiva dall’AI: quando deleghiamo alla macchina anche il dubbio",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/dipendenza-cognitiva-dallai-quando-deleghiamo-alla-macchina-anche-il-dubbio/",
+      "image": null,
+      "summary": "Affidare all’AI sintesi e analisi complesse riduce il carico cognitivo, ma può indebolire la capacità di verificare ciò che il modello ha escluso o semplificato. Per i CISO, il rischio non è quindi delegare alla macch...",
+      "date": "2026-10-06T09:34:42.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:173e6ab58509",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Servizi di ascolto e GDPR: dalla DPIA alla gestione del rischio, come costruire l’accountability",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/servizi-di-ascolto-e-gdpr-dalla-dpia-alla-gestione-del-rischio-come-costruire-laccountability/",
+      "image": null,
+      "summary": "Nei servizi rivolti a persone vulnerabili, la DPIA non è un adempimento formale: serve a decidere prima cosa accadrà quando qualcosa andrà storto. Data breach, fornitori, formazione e rischio residuo diventano così el...",
+      "date": "2026-10-06T08:25:39.0000000Z"
+    },
     {
       "id": "cybersecurity360:e1a9e65ea5b0",
       "sourceId": "cybersecurity360",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Per applicare l’AI Act non serve stabilire se una macchina pensi o comprenda come un essere umano. La nozione di artificial agency introdotta dal filosofo Luciano Floridi aiuta a spostare l’attenzione sulle capacità o...",
       "date": "2026-10-05T07:23:14.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3d1e1d4bf65f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Agenti OpenAI, è escalation di incidenti: che succede ora",
-      "url": "https://www.cybersecurity360.it/news/agenti-openai-e-escalation-di-incidenti-che-succede-ora/",
-      "image": null,
-      "summary": "OpenAI ha avvisato oltre 100 organizzazioni potenzialmente impattate in incidenti con suoi agenti AI fuori controllo, mentre la California ha appena aperto un’indagine. Da questione solo tecnica e politica, il caso mo...",
-      "date": "2026-10-02T15:23:22.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d0fdb6323ae1",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Quella colpevole ricerca del colpevole",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/quella-colpevole-ricerca-del-colpevole/",
-      "image": null,
-      "summary": "Se l'approccio nella gestione di un incidente è la ricerca del colpevole, probabilmente non ci sarà alcuna lezione appresa e anzi l'organizzazione esprimerà, prima o poi, la propria colpa con sintomi quali il reiterar...",
-      "date": "2026-10-02T14:22:55.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:45188b1dbe3d",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Custom GPT malevoli: così ChatGPT diventa il primo anello di un attacco ClickFix",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/custom-gpt-malevoli-cosi-chatgpt-diventa-il-primo-anello-di-un-attacco-clickfix/",
-      "image": null,
-      "summary": "Un Custom GPT ospitato su ChatGPT convince le vittime a raggiungere una falsa verifica di sicurezza che avvia una catena ClickFix fino all’installazione di un trojan ad accesso remoto (RAT). La campagna mostra come gl...",
-      "date": "2026-10-02T13:48:56.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:8a9ab9c7b4fa",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber security, tre bandi tra Italia e UE: fondi per PMI, CRA e innovazione",
-      "url": "https://www.cybersecurity360.it/news/cyber-security-tre-bandi-tra-italia-e-ue-fondi-per-pmi-cra-e-innovazione/",
-      "image": null,
-      "summary": "Dall’acquisto di firewall e servizi cloud alla compliance al Cyber Resilience Act, fino ai grandi progetti europei su AI, NIS2 e infrastrutture critiche: tre bandi cyber mettono in campo 257,5 milioni, ma richiedono a...",
-      "date": "2026-10-02T10:18:12.0000000Z"
     }
   ]
 }
