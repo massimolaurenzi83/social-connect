@@ -1,7 +1,19 @@
 {
   "category": "aviazione",
-  "updated": "2026-10-05T23:22:25.7319966Z",
+  "updated": "2026-10-06T03:10:59.7781174Z",
   "items": [
+    {
+      "id": "aviationreport:8250c4db2d7a",
+      "sourceId": "aviationreport",
+      "source": "Aviation Report",
+      "platform": "rss",
+      "category": "aviazione",
+      "title": "Boeing avvia la produzione a pieno regime dell’MH-139A Grey Wolf",
+      "url": "https://www.aviation-report.com/boeing-avvia-la-produzione-a-pieno-regime-dellmh-139a-grey-wolf/",
+      "image": null,
+      "summary": "Boeing ha ricevuto dalla U.S. Air Force il primo ordine per la produzione a pieno regime (Full-Rate Production, FRP) dell’MH-139A Grey Wolf. Il contratto riguarda quattro elicotteri e rappresenta un nuovo passaggio ne...",
+      "date": "2026-10-05T14:20:25.0000000Z"
+    },
     {
       "id": "aviationreport:63e3b03df4be",
       "sourceId": "aviationreport",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "La U.S. Navy ha assegnato a Boeing il primo contratto di produzione per l’MQ-25A Stingray, il nuovo drone imbarcato. L’accordo, del valore di 562 milioni di dollari, segna un passaggio fondamentale nel programma desti...",
       "date": "2026-09-29T16:50:39.0000000Z"
-    },
-    {
-      "id": "aviationreport:91bb4d04ae9e",
-      "sourceId": "aviationreport",
-      "source": "Aviation Report",
-      "platform": "rss",
-      "category": "aviazione",
-      "title": "USAF valuta l’acquisto di nuovi “F-16G” per rafforzare la flotta",
-      "url": "https://www.aviation-report.com/usaf-valuta-acquisto-di-nuovi-f-16g-per-rafforzare-la-flotta/",
-      "image": null,
-      "summary": "La United States Air Force esamina di nuovo l’ipotesi di acquistare caccia F-16 di nuova costruzione. Fonti multiple citate da Air & Space Forces Magazine e Aviation Week indicano che la forza armata includerà questa ...",
-      "date": "2026-09-29T08:59:08.0000000Z"
     }
   ]
 }
