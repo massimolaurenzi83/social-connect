@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-10-07T14:05:01.7174133Z",
+  "updated": "2026-10-07T19:57:33.2357785Z",
   "items": [
+    {
+      "id": "qualenergia:1124a04ff918",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Idroelettrico, il modello francese supera l’esame di Bruxelles",
+      "url": "https://www.qualenergia.it/articoli/idroelettrico-modello-francese-supera-esame-bruxelles/",
+      "image": null,
+      "summary": "La Commissione europea ha chiuso il lungo contenzioso con la Francia sull’idroelettrico, dopo che Parigi ha sostituito il vecchio sistema delle concessioni con un regime di autorizzazioni e introdotto un meccanismo pe...",
+      "date": "2026-10-07T14:00:00.0000000Z"
+    },
     {
       "id": "qualenergia:326ac2d80f3f",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Sistema accentrato delle manutenzioni intervento n. 7256 pg 2016 lavori di ristrutturazione edile ed impianti idrico, termico, antincendio, elettrico, telefonico e speciali presso il Palazzo della Prefettura sito in B...",
       "date": "2026-10-07T05:00:37.0000000Z"
-    },
-    {
-      "id": "qualenergia:d2a63e700ac3",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Installazione impianti a rinnovabili per FLAG Riviera Jonica Etnea a Riposto (CT)",
-      "url": "https://www.qualenergia.it/pro/documenti/installazione-impianti-a-rinnovabili-per-flag-riviera-jonica-etnea-a-riposto-ct/",
-      "image": null,
-      "summary": "Il servizio da affidare consiste nella realizzazione di uno studio dal punto di vista energetico e funzionale sulla tipologia delle imbarcazioni del GALP – FLAG Riviera Jonica Etnea e la successiva fornitura e install...",
-      "date": "2026-10-07T05:00:22.0000000Z"
     }
   ]
 }

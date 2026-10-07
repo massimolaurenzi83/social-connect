@@ -1,7 +1,31 @@
 {
   "category": "cucina",
-  "updated": "2026-10-07T14:05:01.7305477Z",
+  "updated": "2026-10-07T19:57:33.2334744Z",
   "items": [
+    {
+      "id": "dissapore:c89fcd1b0bf6",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "La Corte d’Appello difende l’Asiago DOP negli Stati Uniti",
+      "url": "https://www.dissapore.com/notizie/la-corte-dappello-difende-lasiago-dop-negli-stati-uniti/",
+      "image": null,
+      "summary": "Una sentenza della corte d'appello dà ragione al Consorzio dell'Asiago DOP contro la sezione americana di Citterio, che vendeva Asiago non Asiago. L'articolo La Corte d’Appello difende l’Asiago DOP negli Stati Uniti p...",
+      "date": "2026-10-07T17:43:52.0000000Z"
+    },
+    {
+      "id": "giallozafferano:b46ee90bb322",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Mandarini di Halloween",
+      "url": "https://ricette.giallozafferano.it/Mandarini-di-Halloween.html",
+      "image": "https://www.giallozafferano.it/images/366-36686/Mandarini-di-Halloween_1200x800.jpg",
+      "summary": "I mandarini di Halloween sono dei dolcetti simpatici e scenografici, pensati per rendere ancora più divertente il buffet della festa. L’idea è quella di trasformare i mandarini in tante piccole zucche di Halloween : b...",
+      "date": "2026-10-07T14:35:00.0000000Z"
+    },
     {
       "id": "dissapore:c5a5c3e6fbd5",
       "sourceId": "dissapore",
@@ -183,18 +207,6 @@
       "date": "2026-10-04T10:19:57.0000000Z"
     },
     {
-      "id": "dissapore:c5fad4bc9b72",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "L’ Altlante Alimentare dei Piatti Liguri è un’idea da copiare per parlare di cucina tradizionale oggi",
-      "url": "https://www.dissapore.com/cucina/laltlante-alimentare-dei-piatti-liguri-e-unidea-da-copiare-per-parlare-di-cucina-tradizionale-oggi/",
-      "image": null,
-      "summary": "Partire dalle porzioni, e non dalla grammatura, per orientarsi nell'apporto nutrizionale della cucina tradizionale, stando al passo con le esigenze di oggi. Un'idea che si fa libro di piatti liguri esemplificativi. L'...",
-      "date": "2026-10-03T14:31:15.0000000Z"
-    },
-    {
       "id": "giallozafferano:aee3a31419e8",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/366-36628/Crostata-morbida-al-pistacchio-e-lamponi_1200x800.jpg",
       "summary": "La crostata morbida al pistacchio e lamponi non è la solita crostata: al posto della classica pasta frolla qui preparerete una morbida base al pistacchio già pronta ad accogliere una farcitura ricca e cremosa, grazie ...",
       "date": "2026-09-30T13:14:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:49f15d8c34f5",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Ciambella mele, zucca e frutta secca",
-      "url": "https://ricette.giallozafferano.it/Ciambella-mele-zucca-e-frutta-secca.html",
-      "image": "https://www.giallozafferano.it/images/366-36665/Ciambella-mele-zucca-e-frutta-secca_1200x800.jpg",
-      "summary": "La ciambella mele, zucca e frutta secca è un dolce autunnale morbido e profumato, ideale per portare in tavola tutti i sapori della stagione. L’impasto alla zucca, aromatizzato con la cannella, è arricchito con mele a...",
-      "date": "2026-09-30T10:06:00.0000000Z"
     }
   ]
 }
