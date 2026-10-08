@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-10-08T13:09:04.8550955Z",
+  "updated": "2026-10-08T19:17:49.3105935Z",
   "items": [
+    {
+      "id": "qualenergia:21fc189d6586",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Nasce Open SB, dal fotovoltaico ai servizi energetici per le imprese",
+      "url": "https://www.qualenergia.it/articoli/nasce-open-sb-fotovoltaico-servizi-energetici-imprese/",
+      "image": null,
+      "summary": "È stata presentata il 6 ottobre a Napoli Open SB, “Be One of Us”, la società benefit che riunisce ECO The Photovoltaic Group, Aurea, 3E e Zani Group. Il gruppo amplia le attività dal fotovoltaico a un’offerta integrat...",
+      "date": "2026-10-08T13:00:02.0000000Z"
+    },
+    {
+      "id": "qualenergia:c429147c827d",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Data center AI, la sfida italiana passa dall’energia",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/data-center-ai-sfida-italiana-passa-energia/",
+      "image": null,
+      "summary": "Core Stack e Green Arrow Capital puntano a realizzare entro il 2030 una rete di 13 centri dati distribuiti per l’intelligenza artificiale (AI) in Italia, per circa 90 MW di potenza informatica complessiva, oltre 1 mil...",
+      "date": "2026-10-08T12:30:48.0000000Z"
+    },
     {
       "id": "qualenergia:cfe5f5c913a7",
       "sourceId": "qualenergia",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Accordo quadro volto all’affidamento del servizio di manutenzione ordinaria, straordinaria e pronto intervento su cabine elettriche di MT/BT. L’appalto é suddiviso in 2 lotti. Ente appaltante: Acque Veronesi Scarl. Im...",
       "date": "2026-10-08T05:00:53.0000000Z"
-    },
-    {
-      "id": "qualenergia:7b5567ca065b",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Fornitura energia elettrica e servizi per GEAL a Lucca",
-      "url": "https://www.qualenergia.it/pro/documenti/fornitura-energia-elettrica-e-servizi-per-geal-a-lucca/",
-      "image": null,
-      "summary": "Fornitura di energia elettrica e servizi associati per l’anno 2027, per il 100% del totale proveniente da fonti rinnovabili certificate. Comune di Lucca. Ente appaltante: GEAL SPA. Importo: 3.215.000 € Scadenza: 9/11/...",
-      "date": "2026-10-08T05:00:48.0000000Z"
-    },
-    {
-      "id": "qualenergia:53a73d2405fb",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Lombardia, contributi per messa in sicurezza delle scuole nei piccoli comuni",
-      "url": "https://www.qualenergia.it/pro/documenti/lombardia-contributi-per-messa-in-sicurezza-delle-scuole-nei-piccoli-comuni/",
-      "image": null,
-      "summary": "Contributo regionale a sostegno di investimenti per interventi di messa in sicurezza e di riqualificazione delle scuole primarie e secondarie di primo grado di proprietà dei Comuni della Lombardia, con popolazione fin...",
-      "date": "2026-10-08T05:00:46.0000000Z"
     }
   ]
 }

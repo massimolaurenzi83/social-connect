@@ -1,7 +1,31 @@
 {
   "category": "cucina",
-  "updated": "2026-10-08T13:09:04.8469462Z",
+  "updated": "2026-10-08T19:17:49.2713436Z",
   "items": [
+    {
+      "id": "giallozafferano:3189da39e9df",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Matcha latte",
+      "url": "https://ricette.giallozafferano.it/Matcha-latte.html",
+      "image": "https://www.giallozafferano.it/images/366-36695/Matcha-latte_1200x800.jpg",
+      "summary": "Dal caratteristico colore verde brillante e dalla consistenza cremosa e spumosa, il matcha latte è una bevanda che ha conquistato le caffetterie di tutto il mondo. Le sue radici affondano nella tradizione giapponese, ...",
+      "date": "2026-10-08T14:21:00.0000000Z"
+    },
+    {
+      "id": "dissapore:675cfb8e01fa",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Flegrea compie 50 anni: com’è oggi la pizzeria che ha portato Napoli a Torino?",
+      "url": "https://www.dissapore.com/pizzerie/flegrea-a-torino-recensione/",
+      "image": null,
+      "summary": "Cinquant'anni di storia e una pizza napoletana che non teme il tempo: siamo tornati alla Flegrea di Torino, tra impasti digeribili e condimenti riusciti. Ecco com'è oggi. L'articolo Flegrea compie 50 anni: com’è oggi ...",
+      "date": "2026-10-08T13:23:52.0000000Z"
+    },
     {
       "id": "dissapore:5656e8af9961",
       "sourceId": "dissapore",
@@ -219,18 +243,6 @@
       "date": "2026-10-05T09:25:41.0000000Z"
     },
     {
-      "id": "dissapore:cbe253e297a3",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Dalle salsicce al pet food, la carne coltivata cambia strategia",
-      "url": "https://www.dissapore.com/notizie/dalle-salsicce-al-pet-food-la-carne-coltivata-cambia-strategia/",
-      "image": null,
-      "summary": "La rivoluzione promessa non è arrivata, ma la carne da coltura cellulare sia sparita: vediamo in quali nicchie di mercato sta trovando il suo posto, in attesa di essere competitiva e accettata L'articolo Dalle salsicc...",
-      "date": "2026-10-04T12:32:56.0000000Z"
-    },
-    {
       "id": "giallozafferano:aee3a31419e8",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/366-36666/Crocchette-di-patate-dolci_1200x800.jpg",
       "summary": "Le crocchette di patate dolci sono una variante sfiziosa delle classiche crocchette di patate , ideale per chi vuole sperimentare un gusto diverso dal solito. La naturale dolcezza delle patate americane si abbina al s...",
       "date": "2026-10-01T10:14:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:b39e87003156",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Crostata alla zucca e cioccolato",
-      "url": "https://ricette.giallozafferano.it/Crostata-alla-zucca-e-cioccolato.html",
-      "image": "https://www.giallozafferano.it/images/366-36671/Crostata-alla-zucca-e-cioccolato_1200x800.jpg",
-      "summary": "La crostata alla zucca e cioccolato è un dessert autunnale goloso e scenografico, perfetto per esaltare uno degli abbinamenti più irresistibili della stagione. Il gusto deciso del cioccolato fondente incontra la dolce...",
-      "date": "2026-09-30T15:16:00.0000000Z"
     }
   ]
 }

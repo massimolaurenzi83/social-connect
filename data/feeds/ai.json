@@ -1,15 +1,39 @@
 {
   "category": "ai",
-  "updated": "2026-10-08T13:09:04.8368024Z",
+  "updated": "2026-10-08T19:17:49.3362672Z",
   "items": [
     {
-      "id": "ai4business:617b49eebcc3",
+      "id": "ai4business:b0feb278a285",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Data center: presentata la rete “made in Italy” da 1 mld di euro",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/big-data/data-center-presentata-la-rete-made-in-italy/",
+      "image": null,
+      "summary": "Core Stack, società del Gruppo Lazzari, e Green Arrow Capital lanciano una rete di 13 data center in Italia, con investimenti previsti in quattro anni. I primi impianti, tra Cremona e Verona, sono attesi nel 2028. Il ...",
+      "date": "2026-10-08T16:24:39.0000000Z"
+    },
+    {
+      "id": "ai4business:36e3c676befa",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Budgeting IT: bilanciare costi fissi e variabili nella trasformazione digitale dell’impresa",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/budgeting-it-bilanciare-costi-fissi-e-variabili-nella-trasformazione-digitale-dellimpresa/",
+      "image": null,
+      "summary": "Cloud, SaaS e servizi a consumo rendono il budget tecnologico più flessibile ma anche più volatile. FinOps e AIOps permettono di attribuire la spesa, prevedere la capacità e distinguere risorse necessarie da sprechi i...",
+      "date": "2026-10-08T15:34:54.0000000Z"
+    },
+    {
+      "id": "ai4business:dcec607481b0",
       "sourceId": "ai4business",
       "source": "AI4Business",
       "platform": "rss",
       "category": "ai",
       "title": "Quantum computing: ricavi a 1,1 miliardi nel 2027",
-      "url": "https://www.ai4business.it/quantum-computing/quantum-computing-ricavi-a-11-miliardi-nel-2027/",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/quantum-computing-ricavi-a-11-miliardi-nel-2027/",
       "image": null,
       "summary": "Secondo Gartner, il settore pubblico guida la spesa ma sarà superato da banche e assicurazioni a partire dal 2028. Entro il 2030 oltre metà delle startup potrebbe uscire dal mercato. Intanto, investimenti, infrastrutt...",
       "date": "2026-10-08T11:36:08.0000000Z"
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Il nuovo modello di frontiera di Mistral punta sulla sovranità tecnologica europea, con architettura Mixture-of-Experts, input multimodale e ragionamento regolabile. In attesa dei pesi e della licenza, i test sul camp...",
       "date": "2026-10-07T09:57:40.0000000Z"
-    },
-    {
-      "id": "ai4business:518b46638872",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Matematica e AI, OpenAI alza il livello della competizione",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/matematica-e-ai-openai-alza-il-livello-della-competizione/",
-      "image": null,
-      "summary": "L'azienda ha pubblicato su GitHub 722 paper organizzati in 372 famiglie di risultati prodotti da un modello interno ancora non disponibile al pubblico. Dopo il caso Navier-Stokes, la matematica diventa terreno di comp...",
-      "date": "2026-10-07T09:05:53.0000000Z"
-    },
-    {
-      "id": "ai4business:65b6180183e6",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "L’AI può essere rallentata? Quali responsabilità, controlli e costi per le imprese",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/lai-puo-essere-rallentata-quali-responsabilita-controlli-e-costi-per-le-imprese/",
-      "image": null,
-      "summary": "Tre ricercatori dell'HAI di Stanford - Surya Ganguli, Diyi Yang e Rob Reich - hanno esaminato il comportamento degli agenti emergenti, il miglioramento ricorsivo, la valutazione indipendente. E se un interruttore pote...",
-      "date": "2026-10-07T08:34:25.0000000Z"
     },
     {
       "id": "guerredirete:dd31219299b9",
