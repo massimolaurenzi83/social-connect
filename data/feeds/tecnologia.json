@@ -1,7 +1,67 @@
 {
   "category": "tecnologia",
-  "updated": "2026-10-07T19:57:33.2277051Z",
+  "updated": "2026-10-08T00:06:32.5473437Z",
   "items": [
+    {
+      "id": "tomshw:fe5b966c45f3",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Anthropic annuncia Haiku 5.5: 75% più economico e prestazioni superiori",
+      "url": "https://www.tomshw.it/hardware/anthropic-annuncia-haiku-55-75-piu-economico-e-prestazioni-superiori-2026-10-07",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117268/HAIKU-5-5.png",
+      "summary": "Anthropic amplia la propria offerta di modelli linguistici con il lancio di Claude Haiku 5.5, presentato dall'azienda come il modello di piccole dimensioni più economico, veloce e capace mai ri...",
+      "date": "2026-10-07T20:53:00.0000000Z"
+    },
+    {
+      "id": "tomshw:a9cd3e817692",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "-42% sul Philips Serie 3000, un affare per raderti anche sotto la doccia",
+      "url": "https://www.tomshw.it/altro/42-sul-philips-serie-3000-un-affare-per-raderti-anche-sotto-la-doccia",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117267/tomshw-offer-1543522.png",
+      "summary": "Il Philips Serie 3000 costa 49,99€ su Amazon, con uno sconto del 42% sul listino di 85,99€. Il modello S3145/00 ti lascia scegliere tra una rasatura a secco e una sotto la doccia, con testine flessibi...",
+      "date": "2026-10-07T20:20:00.0000000Z"
+    },
+    {
+      "id": "tomshw:ba12650c32b5",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Surface Laptop Ultra con RTX Spark: l'IA torna sul PC, ma a che prezzo?",
+      "url": "https://www.tomshw.it/hardware/surface-laptop-ultra-con-rtx-spark-lia-torna-sul-pc-ma-a-che-prezzo",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117265/Windows-RTX-Spark-event-6.jpg",
+      "summary": "1,6 milioni di token in ingresso, 10.500 in uscita, zero dollari spesi. Il numero mostrato con più orgoglio all'evento di San Francisco organizzato da Microsoft e NVIDIA non era un benchmark, m...",
+      "date": "2026-10-07T20:10:00.0000000Z"
+    },
+    {
+      "id": "dday:0550e2634c10",
+      "sourceId": "dday",
+      "source": "DDay.it",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Il futuro di Windows 11 è un PC con Copilot che usa il computer al posto tuo",
+      "url": "https://www.dday.it/redazione/59024/il-futuro-di-windows-11-e-un-pc-con-copilot-che-usa-il-computer-al-posto-tuo",
+      "image": null,
+      "summary": "",
+      "date": "2026-10-07T20:00:00.0000000Z"
+    },
+    {
+      "id": "tomshw:7c73328a5be4",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Computer desktop Dell Slim a 469€, per lavorare e studiare a casa",
+      "url": "https://www.tomshw.it/offerte/computer-desktop-dell-slim-a-469eur-per-lavorare-e-studiare-a-casa",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116284/B0F4FSTXS3.webp",
+      "summary": "Il computer desktop Dell Slim costa 469,00 € su Amazon, con uno sconto del 6,01%. Con la Festa delle Offerte Prime è pensato per lavoro quotidiano, studio e videochiamate, grazie al processore Intel C...",
+      "date": "2026-10-07T20:00:00.0000000Z"
+    },
     {
       "id": "tomshw:fb18466649c3",
       "sourceId": "tomshw",
@@ -51,18 +111,6 @@
       "date": "2026-10-07T19:15:00.0000000Z"
     },
     {
-      "id": "tomshw:586d2ada6a44",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Intel Core Ultra 5 250KF Plus al minimo storico, per assemblare un PC",
-      "url": "https://www.tomshw.it/offerte/intel-core-ultra-5-250kf-plus-al-minimo-storico-per-assemblare-un-pc",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116279/B0GMLFFHS1.webp",
-      "summary": "Intel Core Ultra 5 250KF Plus è al minimo storico di 194,99 € su Amazon, con uno sconto del 6,2%. Con la Festa delle Offerte Prime diventa una base conveniente per assemblare un PC da gioco o da lavor...",
-      "date": "2026-10-07T19:00:00.0000000Z"
-    },
-    {
       "id": "tomshw:d692fc46ea18",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -72,6 +120,18 @@
       "url": "https://www.tomshw.it/hardware/windows-search-ora-e-piu-rapido-che-mai-con-queste-novita",
       "image": "https://cdn.tomshw.it/storage/media/2026/10/117258/Nuovo-Windows-Search.jpg",
       "summary": "Microsoft ha cambiato radicalmente una delle funzioni più utilizzate di Windows: la casella di ricerca che compare sulla barra delle applicazioni. A partire da oggi, gli Insider iscritti al can...",
+      "date": "2026-10-07T19:00:00.0000000Z"
+    },
+    {
+      "id": "tomshw:586d2ada6a44",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Intel Core Ultra 5 250KF Plus al minimo storico, per assemblare un PC",
+      "url": "https://www.tomshw.it/offerte/intel-core-ultra-5-250kf-plus-al-minimo-storico-per-assemblare-un-pc",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116279/B0GMLFFHS1.webp",
+      "summary": "Intel Core Ultra 5 250KF Plus è al minimo storico di 194,99 € su Amazon, con uno sconto del 6,2%. Con la Festa delle Offerte Prime diventa una base conveniente per assemblare un PC da gioco o da lavor...",
       "date": "2026-10-07T19:00:00.0000000Z"
     },
     {
@@ -87,18 +147,6 @@
       "date": "2026-10-07T18:49:00.0000000Z"
     },
     {
-      "id": "hdblog:9b3d010d144e",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Amazon spegne una funzione storica di Alexa sui vecchi Echo",
-      "url": "https://www.hdblog.it/tv/articoli/n672884/amazon-alexa-echo-comandi-aux-rimossi/",
-      "image": null,
-      "summary": "Alexa non può più controllare via voce lingresso AUX di alcuni vecchi Amazon Echo.",
-      "date": "2026-10-07T18:45:00.0000000Z"
-    },
-    {
       "id": "tomshw:426efbc01a9c",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -108,6 +156,18 @@
       "url": "https://www.tomshw.it/offerte/soundbar-sony-ht-sf150-al-minimo-storico-di-89eur-per-migliorare-laudio-tv",
       "image": "https://cdn.tomshw.it/storage/media/2026/10/116278/B078Y5Q6W9.webp",
       "summary": "Soundbar Sony HT-SF150 è al minimo storico di 89,00 € su Amazon, con uno sconto del 9,09%. Durante la Festa delle Offerte Prime, è una soluzione semplice per rendere più chiari dialoghi, film e progra...",
+      "date": "2026-10-07T18:45:00.0000000Z"
+    },
+    {
+      "id": "hdblog:9b3d010d144e",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Amazon spegne una funzione storica di Alexa sui vecchi Echo",
+      "url": "https://www.hdblog.it/tv/articoli/n672884/amazon-alexa-echo-comandi-aux-rimossi/",
+      "image": null,
+      "summary": "Alexa non può più controllare via voce lingresso AUX di alcuni vecchi Amazon Echo.",
       "date": "2026-10-07T18:45:00.0000000Z"
     },
     {
@@ -184,30 +244,6 @@
       "date": "2026-10-07T18:20:00.0000000Z"
     },
     {
-      "id": "tomshw:a54e3bbd70fa",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Gioca con comandi da console: Razer Kishi V3 a 105,79€, il minimo di sempre",
-      "url": "https://www.tomshw.it/videogioco/gioca-con-comandi-da-console-razer-kishi-v3-a-10579eur-il-minimo-di-sempre",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117256/tomshw-offer-1543457.png",
-      "summary": "Razer Kishi V3 Phantom White costa 105,79€ su Amazon, contro i 119,99€ di listino, con uno sconto del 12%. Le impugnature full-size e le levette anti-drift portano sullo smartphone controlli ed ergono...",
-      "date": "2026-10-07T18:19:00.0000000Z"
-    },
-    {
-      "id": "tomshw:4a377a8a4cf4",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "TP-Link Archer AX18 a 33,99€, per collegare i dispositivi di casa",
-      "url": "https://www.tomshw.it/offerte/tp-link-archer-ax18-a-3399eur-per-collegare-i-dispositivi-di-casa",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116276/B0CFYJSQ62.webp",
-      "summary": "TP-Link Archer AX18 costa 33,99 € su Amazon, con uno sconto dell’8.11% e il prezzo più basso degli ultimi 30 giorni. Durante la Festa delle Offerte Prime, il Wi-Fi 6 dual-band fino a 1,5 Gbps offre un...",
-      "date": "2026-10-07T18:15:00.0000000Z"
-    },
-    {
       "id": "hdblog:0a4471954063",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -220,18 +256,6 @@
       "date": "2026-10-07T18:05:00.0000000Z"
     },
     {
-      "id": "tomshw:56a3f0049b8c",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Quando mandi gli agenti a lavorare nel web per te ma quelli tornano a mani vuote",
-      "url": "https://www.tomshw.it/business/quando-mandi-gli-agenti-a-lavorare-nel-web-per-te-ma-quelli-tornano-a-mani-vuote",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117231/02-agenti-ai-accesso-siti-web.jpg",
-      "summary": "Per molti di noi è ormai normale, o quasi, usare agenti AI e mandarli sul web a fare cose per noi. È senz'altro una tra le loro capacità più interessanti, ma si scontra con il fatto che molti siti ne...",
-      "date": "2026-10-07T18:00:22.0000000Z"
-    },
-    {
       "id": "hdblog:c89ba3034e5c",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -242,18 +266,6 @@
       "image": null,
       "summary": "Honda aggiorna la gamma 2027: la CMX500 Rebel guadagna la frizione elettronica E-Clutch e display TFT, mentre la Rebel 1100 e la Gold Wing rinnovano le colorazioni.",
       "date": "2026-10-07T18:00:21.0000000Z"
-    },
-    {
-      "id": "tomshw:5ff4519f9920",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Wi-Fi lento col notebook a batteria? Ecco cosa controllare",
-      "url": "https://www.tomshw.it/hardware/wifi-lento-notebook-batteria-controlli-scheda-driver",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116861/cover.png",
-      "summary": "Se il Wi-Fi lento sul notebook si manifesta soltanto a batteria, prima di acquistare una nuova scheda confronta alimentazione e batteria mantenendo posizione, access point e banda identici. Il ritorno...",
-      "date": "2026-10-07T18:00:00.0000000Z"
     },
     {
       "id": "hdblog:0b70190d7e6b",
@@ -434,18 +446,6 @@
       "image": null,
       "summary": "",
       "date": "2026-10-07T12:47:00.0000000Z"
-    },
-    {
-      "id": "dday:57d70a3b805b",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "OpenAI ha rilasciato un modello che non scrive, serve solo a decidere. Ha copiato Jev",
-      "url": "https://www.dday.it/redazione/59012/openai-ha-rilasciato-un-modello-che-non-scrive-serve-solo-a-decidere-ha-copiato-jev",
-      "image": null,
-      "summary": "",
-      "date": "2026-10-07T12:30:00.0000000Z"
     },
     {
       "id": "techprincess:hVsPEAhyj8c",
