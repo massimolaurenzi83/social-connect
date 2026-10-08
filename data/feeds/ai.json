@@ -1,7 +1,55 @@
 {
   "category": "ai",
-  "updated": "2026-10-08T05:57:32.8207267Z",
+  "updated": "2026-10-08T13:09:04.8368024Z",
   "items": [
+    {
+      "id": "ai4business:617b49eebcc3",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Quantum computing: ricavi a 1,1 miliardi nel 2027",
+      "url": "https://www.ai4business.it/quantum-computing/quantum-computing-ricavi-a-11-miliardi-nel-2027/",
+      "image": null,
+      "summary": "Secondo Gartner, il settore pubblico guida la spesa ma sarà superato da banche e assicurazioni a partire dal 2028. Entro il 2030 oltre metà delle startup potrebbe uscire dal mercato. Intanto, investimenti, infrastrutt...",
+      "date": "2026-10-08T11:36:08.0000000Z"
+    },
+    {
+      "id": "ai4business:cc29fb55476d",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Claude Haiku 5.5: Anthropic cala i prezzi per sfidare OpenAI",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/claude-haiku-5-5-anthropic-cala-i-prezzi-per-sfidare-openai/",
+      "image": null,
+      "summary": "Il costo medio scende del 75% rispetto a Haiku 4.5, mentre crescono le prestazioni nei benchmark. Arrivano sconti sulla cache di Sonnet 5.5 e crediti API mensili per Max e Team. I prezzi sono in concorrenza con GPT-6 ...",
+      "date": "2026-10-08T10:43:17.0000000Z"
+    },
+    {
+      "id": "ai4business:6bda41f1b73c",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Physical AI e robotica: come BMW utilizza i robot di Figure AI",
+      "url": "https://www.ai4business.it/storie/physical-ai-e-robotica-come-bmw-utilizza-i-robot-di-figure-ai/",
+      "image": null,
+      "summary": "L’applicazione dell’intelligenza artificiale ‘fisica’ al mondo della robotica industriale è un settore che muove i primi passi ed è in piena espansione. Un esempio è quello sviluppato dal Gruppo BMW con i robot umanoi...",
+      "date": "2026-10-08T09:21:41.0000000Z"
+    },
+    {
+      "id": "ai4business:8db5528a304b",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "GPT-6 arriva su ChatGPT: cosa cambia per il lavoro in azienda",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/gpt-6-arriva-su-chatgpt-cosa-cambia-per-il-lavoro-in-azienda/",
+      "image": null,
+      "summary": "OpenAI porta GPT-6 su ChatGPT con i modelli Sol e Luna e nuove risposte interattive. I test indicano progressi contro allucinazioni, attacchi informatici e comportamenti ingannevoli, ma registrano arretramenti nella t...",
+      "date": "2026-10-08T08:59:57.0000000Z"
+    },
     {
       "id": "ai4business:f32b7df727a6",
       "sourceId": "ai4business",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Tre ricercatori dell'HAI di Stanford - Surya Ganguli, Diyi Yang e Rob Reich - hanno esaminato il comportamento degli agenti emergenti, il miglioramento ricorsivo, la valutazione indipendente. E se un interruttore pote...",
       "date": "2026-10-07T08:34:25.0000000Z"
-    },
-    {
-      "id": "ai4business:0bf26f367651",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "GPT-6: meno prompt, più confini per gli agenti",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/gpt-6-meno-prompt-piu-confini-per-gli-agenti/",
-      "image": null,
-      "summary": "La guida di OpenAI ai modelli GPT-6 fa della scelta del modello un lavoro di ingegneria dei costi: cento volte di prezzo tra Luna e Astra, cache scontata fino al 95%, ragionamento regolabile. Chiede prompt più snelli ...",
-      "date": "2026-10-06T16:39:17.0000000Z"
-    },
-    {
-      "id": "ai4business:5dce671a9a4e",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "AI, il nodo sicurezza arriva al pettine: ora le cause possono frenare la corsa",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-il-nodo-sicurezza-arriva-al-pettine-ora-le-cause-possono-frenare-la-corsa/",
-      "image": null,
-      "summary": "California, Florida, FTC, Australia e Commissione europea stanno affrontando la stessa domanda: chi risponde quando un sistema AI agisce autonomamente e provoca un danno? La risposta potrebbe diventare uno dei princip...",
-      "date": "2026-10-06T16:09:05.0000000Z"
-    },
-    {
-      "id": "ai4business:7c2d1891d25d",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "ROI dell’AI, la metodologia AWS per misurare il valore generato",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/roi-dellai-la-metodologia-aws-per-misurare-il-valore-generato/",
-      "image": null,
-      "summary": "L’aumento della spesa per l’AI non indica necessariamente inefficienza. Per comprenderne il valore occorre calcolare quanto costa ogni risultato aggiuntivo, confrontarlo con ricavi e benefici per il business e monitor...",
-      "date": "2026-10-06T11:24:49.0000000Z"
-    },
-    {
-      "id": "ai4business:652d5f67c6f2",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "OpenAI introduce il watermark nei testi ChatGPT nella Ue",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/openai-introduce-il-watermark-nei-testi-chatgpt-nella-ue/",
-      "image": null,
-      "summary": "L'azienda introdurrà nelle prossime settimane textGrain, un watermark invisibile nei testi di ChatGPT e Codex nell’Unione europea, per adeguarsi all’articolo 50 dell’AI Act. Il watermark inserisce un segnale statistic...",
-      "date": "2026-10-06T09:47:29.0000000Z"
     },
     {
       "id": "guerredirete:dd31219299b9",

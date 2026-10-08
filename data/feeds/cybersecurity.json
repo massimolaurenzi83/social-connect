@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-08T05:57:32.8775064Z",
+  "updated": "2026-10-08T13:09:04.8503322Z",
   "items": [
+    {
+      "id": "cybersecurity360:35ddefbc3ae0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "VPN a 2,99€ al mese con lo sconto del 70%: l’analisi dell’offerta e quanto costa davvero il rinnovo",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/cybersecurity-vpn-offerte-sconto-2-anni-analisi-costi/",
+      "image": null,
+      "summary": "Proton VPN propone un'offerta biennale con sconto del 70%: il costo effettivo è di 2,99 euro al mese. Il primo pagamento ammonta a 71,76 euro, mentre il rinnovo successivo sale a 83,88 euro per 12 mesi L'articolo VPN ...",
+      "date": "2026-10-08T10:13:46.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:274b0faa2cd7",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber security e agentic AI: perché il costo dei token diventa un rischio operativo",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-security-e-agentic-ai-perche-il-costo-dei-token-diventa-un-rischio-operativo/",
+      "image": null,
+      "summary": "Con gli agenti AI, il costo della cybersecurity dipende sempre più dai token consumati durante analisi e investigazioni. Un budget esaurito può interrompere un'indagine proprio quando serve. Per questo capacity planni...",
+      "date": "2026-10-08T08:24:55.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:be3200f5ceb6",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Privacy by design: progettare l’errore, non dipendere da utenti perfetti",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/privacy-by-design-progettare-lerrore-non-dipendere-da-utenti-perfetti/",
+      "image": null,
+      "summary": "La privacy by design non può basarsi sull'infallibilità delle persone. L'errore umano deve diventare un requisito di progettazione, attraverso sistemi capaci di prevenire le condotte rischiose, limitarne le conseguenz...",
+      "date": "2026-10-08T07:33:04.0000000Z"
+    },
     {
       "id": "cybersecurity360:fd77a3b442f6",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Affidare all’AI sintesi e analisi complesse riduce il carico cognitivo, ma può indebolire la capacità di verificare ciò che il modello ha escluso o semplificato. Per i CISO, il rischio non è quindi delegare alla macch...",
       "date": "2026-10-06T09:34:42.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:173e6ab58509",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Servizi di ascolto e GDPR: dalla DPIA alla gestione del rischio, come costruire l’accountability",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/servizi-di-ascolto-e-gdpr-dalla-dpia-alla-gestione-del-rischio-come-costruire-laccountability/",
-      "image": null,
-      "summary": "Nei servizi rivolti a persone vulnerabili, la DPIA non è un adempimento formale: serve a decidere prima cosa accadrà quando qualcosa andrà storto. Data breach, fornitori, formazione e rischio residuo diventano così el...",
-      "date": "2026-10-06T08:25:39.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:e1a9e65ea5b0",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "PEC e fiducia digitale: cosa insegna il caso Revolut",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/pec-e-fiducia-digitale-cosa-insegna-il-caso-revolut/",
-      "image": null,
-      "summary": "Il caso Revolut è solo lo spunto per una riflessione più generale. La questione non è stabilire se la PEC sia “sicura” o “insicura”. Ecco quali garanzie occorre costruire e come assicurare la fiducia digitale nelle co...",
-      "date": "2026-10-05T15:13:30.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:8891c9810036",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Deepfake, Meloni deposita la sua voce: l’identità diventa un rischio cyber",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/deepfake-meloni-deposita-la-sua-voce-lidentita-diventa-un-rischio-cyber/",
-      "image": null,
-      "summary": "Giorgia Meloni ha depositato all’Euipo un marchio sonoro con la propria voce per contrastarne gli utilizzi falsi attraverso l’AI. Una tutela legale che apre un problema molto più ampio: voice cloning, impersonation e ...",
-      "date": "2026-10-05T13:49:56.0000000Z"
     }
   ]
 }
