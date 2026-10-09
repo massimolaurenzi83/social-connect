@@ -1,7 +1,43 @@
 {
   "category": "ai",
-  "updated": "2026-10-09T03:10:15.7094617Z",
+  "updated": "2026-10-09T10:33:26.0174502Z",
   "items": [
+    {
+      "id": "ai4business:3756aafb61d7",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Agenti AI: come gestire il controllo post-deployment e garantire il ROI aziendale",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/agenti-ai/agenti-ai-come-gestire-il-controllo-post-deployment-e-garantire-il-roi-aziendale/",
+      "image": null,
+      "summary": "Una guida su come affrontare la responsabilizzazione e il controllo degli agenti autonomi aziendali dopo l'implementazione iniziale, evitando sprechi di risorse e definendo una chiara struttura operativa per garantire...",
+      "date": "2026-10-09T09:21:45.0000000Z"
+    },
+    {
+      "id": "ai4business:ca2d4c7d0647",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "OpenAI e Anthropic verso la Borsa: è guerra dei prezzi",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/openai-e-anthropic-verso-la-borsa-e-guerra-dei-prezzi/",
+      "image": null,
+      "summary": "OpenAI recupera terreno su Anthropic nei servizi di intelligenza artificiale per le imprese grazie a modelli più economici. Dati di OpenRouter e Ramp mostrano un mercato mobile, mentre Claude risponde con nuovi tagli ...",
+      "date": "2026-10-09T09:00:50.0000000Z"
+    },
+    {
+      "id": "guerredirete:a9e36bbeb8fd",
+      "sourceId": "guerredirete",
+      "source": "Guerre di Rete",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Chi protegge i nostri pagamenti?",
+      "url": "https://www.guerredirete.it/chi-protegge-i-nostri-pagamenti/",
+      "image": null,
+      "summary": "Dai controlli antifrode alle blacklist, fino alla threat intelligence: che cosa succede davvero nei pochi secondi necessari ad autorizzare un pagamento. L'articolo Chi protegge i nostri pagamenti? proviene da Guerre d...",
+      "date": "2026-10-09T09:00:00.0000000Z"
+    },
     {
       "id": "ai4business:b0feb278a285",
       "sourceId": "ai4business",
@@ -97,30 +133,6 @@
       "image": null,
       "summary": "La sovranità dei dati non coincide con la sola posizione del server. Comprende giurisdizione, controllo operativo, accessi, portabilità e dipendenza tecnologica. Strategie multi-cloud e backup devono rispettare requis...",
       "date": "2026-10-07T15:10:33.0000000Z"
-    },
-    {
-      "id": "ai4business:26d1e6bea578",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Manus, capire l’agente autonomo: ecosistema, modello, scelta",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/manus-capire-lagente-autonomo-ecosistema-modello-scelta/",
-      "image": null,
-      "summary": "Un general AI agent, non un chatbot conversazionale. La differenza non è di marketing: l'architettura prevede un computer virtuale completo nel cloud, un browser reale, un terminale e un filesystem persistente. Una gu...",
-      "date": "2026-10-07T14:51:12.0000000Z"
-    },
-    {
-      "id": "ai4business:30ef37388521",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Mistral Large 4, prime prove del modello europeo da un trilione di parametri",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/mistral-large-4-prime-prove-del-modello-europeo-da-un-trilione-di-parametri/",
-      "image": null,
-      "summary": "Il nuovo modello di frontiera di Mistral punta sulla sovranità tecnologica europea, con architettura Mixture-of-Experts, input multimodale e ragionamento regolabile. In attesa dei pesi e della licenza, i test sul camp...",
-      "date": "2026-10-07T09:57:40.0000000Z"
     },
     {
       "id": "guerredirete:dd31219299b9",
@@ -229,18 +241,6 @@
       "image": null,
       "summary": "Organizzazioni, collettivi e istituzioni fuori dal mondo occidentale si interrogano su come sfruttare le potenzialità delle intelligenze artificiali generative e svincolarsi da Big Tech. Ma il valore della sfida polit...",
       "date": "2026-07-08T09:00:00.0000000Z"
-    },
-    {
-      "id": "guerredirete:840e1b2c2abe",
-      "sourceId": "guerredirete",
-      "source": "Guerre di Rete",
-      "platform": "rss",
-      "category": "ai",
-      "title": "L’economia dei token e il vero prezzo dell’intelligenza artificiale",
-      "url": "https://www.guerredirete.it/leconomia-dei-token-e-il-vero-prezzo-dellintelligenza-artificiale/",
-      "image": null,
-      "summary": "Quanto sareste disposti a pagare per usare Claude e ChatGPT? Il passaggio dalle tariffe fisse a quelle a consumo ha fatto esplodere i budget aziendali e sta mostrando la fragilità del sistema AI L'articolo L’economia ...",
-      "date": "2026-06-24T12:00:00.0000000Z"
     }
   ]
 }
