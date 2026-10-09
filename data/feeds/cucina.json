@@ -1,7 +1,31 @@
 {
   "category": "cucina",
-  "updated": "2026-10-09T10:33:26.0269741Z",
+  "updated": "2026-10-09T17:11:02.8082219Z",
   "items": [
+    {
+      "id": "giallozafferano:96f2127c9c28",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Torta 5 minuti alla marmellata",
+      "url": "https://ricette.giallozafferano.it/Torta-5-minuti-alla-marmellata.html",
+      "image": "https://www.giallozafferano.it/images/366-36694/Torta-5-minuti-alla-marmellata_1200x800.jpg",
+      "summary": "La torta 5 minuti alla marmellata è un dolce soffice, goloso e facilissimo da preparare per la colazione o la merenda di tutta la famiglia. Il suo nome deriva proprio dalla rapidità della preparazione, poiché bastano ...",
+      "date": "2026-10-09T14:09:00.0000000Z"
+    },
+    {
+      "id": "giallozafferano:ca8c692018e6",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Panino al salame con crema di provolone e melanzane",
+      "url": "https://ricette.giallozafferano.it/Panino-al-salame-con-crema-di-provolone-e-melanzane.html",
+      "image": "https://www.giallozafferano.it/images/366-36681/Panino-al-salame-con-crema-di-provolone-e-melanzane_1200x800.jpg",
+      "summary": "Il panino al salame con crema di provolone e melanzane è una ricetta ricca e sfiziosa che Giuliana ha condiviso con noi in occasione di una puntata del vodcast \" Ti mando un vocale \". Un panino farcito dai sapori deci...",
+      "date": "2026-10-09T10:30:00.0000000Z"
+    },
     {
       "id": "dissapore:6dd603a554a2",
       "sourceId": "dissapore",
@@ -265,30 +289,6 @@
       "image": "https://www.giallozafferano.it/images/366-36635/Tiramisu-ai-fichi-con-Pavesini_1200x800.jpg",
       "summary": "Il tiramisù ai fichi con Pavesini è una golosa variante di fine estate del classico tiramisù , servita in eleganti coppette monoporzione. I Pavesini al cioccolato vengono leggermente inzuppati in una bagna al caffè e ...",
       "date": "2026-10-02T14:16:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:a994c149124b",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Malfatti al cavolo nero",
-      "url": "https://ricette.giallozafferano.it/Malfatti-al-cavolo-nero.html",
-      "image": "https://www.giallozafferano.it/images/366-36675/Malfatti-al-cavolo-nero_1200x800.jpg",
-      "summary": "I malfatti al cavolo nero sono un primo piatto rustico e genuino, preparato con un impasto morbido a base di ricotta. Il loro nome racconta già una delle caratteristiche della ricetta: non occorre infatti ottenere pez...",
-      "date": "2026-10-02T13:33:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:3a922b47d490",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Pasta con cime di rapa e ombrina",
-      "url": "https://ricette.giallozafferano.it/Pasta-con-cime-di-rapa-e-ombrina.html",
-      "image": "https://www.giallozafferano.it/images/366-36602/Pasta-con-cime-di-rapa-e-ombrina_1200x800.jpg",
-      "summary": "La pasta con cime di rapa e ombrina è un primo piatto di mare dal carattere deciso, in cui la delicatezza del pesce incontra il gusto leggermente amarognolo, tipico di questa verdura. Le fettuccine vengono avvolte dal...",
-      "date": "2026-10-02T06:59:00.0000000Z"
     }
   ]
 }
