@@ -1,6 +1,6 @@
 {
   "category": "scienza",
-  "updated": "2026-10-09T17:11:02.8366052Z",
+  "updated": "2026-10-09T21:42:14.5059983Z",
   "items": [
     {
       "id": "media-inaf:b0b14467e996",
@@ -172,6 +172,18 @@
       "date": "2026-10-08T14:00:00.0000000Z"
     },
     {
+      "id": "focus:b15c2980f6b8",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "La longevità? La vera rivoluzione del nostro tempo",
+      "url": "https://www.focus.it/cultura/curiosita/la-longevita-la-vera-rivoluzione-del-nostro-tempo",
+      "image": "https://www.focus.it/images/2026/10/09/cover-argento-vivo_w630.jpg?imbypass=true",
+      "summary": "Federico Rampini, nel nuovo libro \"Argento vivo\", ribalta il catastrofismo demografico: vivere più a lungo non è un costo ma la più grande conquista della storia.",
+      "date": "2026-10-08T14:00:00.0000000Z"
+    },
+    {
       "id": "focus:3673a33b1a3a",
       "sourceId": "focus",
       "source": "Focus",
@@ -206,18 +218,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/second-generation-planet-artwork.-credit.-dr-snehalata-sahu_university-of-warwick-150x150.webp",
       "summary": "Un team di astronomi dell’Università di Warwick (Regno Unito) ha scoperto il primo esempio di un pianeta di seconda generazione in orbita attorno a una nana bianca: un mondo che sembra essersi formato dai resti della ...",
       "date": "2026-10-08T09:55:06.0000000Z"
-    },
-    {
-      "id": "focus:3e53517f18c8",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Il riscaldamento globale allunga le giornate",
-      "url": "https://www.focus.it/scienza/scienze/il-riscaldamento-globale-sta-allungando-le-nostre-giornate-ecco-perche-la-terra-ruota-piu-lentamente",
-      "image": "https://www.focus.it/images/2026/10/06/rotazione-terrestre_w630.jpg?imbypass=true",
-      "summary": "I cambiamenti nella circolazione atmosferica guidati dal clima rallentano la rotazione della Terra, provocando un aumento della durata del giorno entro la fine del secolo.",
-      "date": "2026-10-08T09:00:00.0000000Z"
     },
     {
       "id": "media-inaf:b9a26fc43159",
