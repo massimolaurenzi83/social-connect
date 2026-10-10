@@ -1,7 +1,56 @@
 {
   "category": "tecnologia",
-  "updated": "2026-10-10T18:08:51.6441475Z",
+  "updated": "2026-10-10T21:42:54.5626432Z",
   "items": [
+    {
+      "id": "techprincess:NrF9W04saNY",
+      "sourceId": "techprincess",
+      "source": "Techprincess",
+      "platform": "youtube",
+      "category": "tecnologia",
+      "title": "Hbada E3 Pro: La rivoluzione dei nuovi braccioli",
+      "url": "https://www.youtube.com/watch?v=NrF9W04saNY",
+      "image": "https://i.ytimg.com/vi/NrF9W04saNY/hqdefault.jpg",
+      "summary": "",
+      "videoId": "NrF9W04saNY",
+      "date": "2026-10-10T21:10:38.0000000Z"
+    },
+    {
+      "id": "tomshw:67ab6fb80bf5",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "-49% su Samsung Galaxy Z Flip 8, un affare nella versione da 256GB",
+      "url": "https://www.tomshw.it/smartphone/49-su-samsung-galaxy-z-flip-8-un-affare-nella-versione-da-256gb",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117657/tomshw-offer-1605837.png",
+      "summary": "A 709,99€ su Amazon, Samsung Galaxy Z Flip 8 256GB Graphite raggiunge il prezzo più basso di sempre, con il 49% di sconto. La versione da 256GB offre spazio per app, foto e video: una configurazione d...",
+      "date": "2026-10-10T19:49:00.0000000Z"
+    },
+    {
+      "id": "tomshw:f4a449f3eba5",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Stampe in quattro colori con Anycubic Kobra X, a soli 319,99€",
+      "url": "https://www.tomshw.it/hardware/stampe-in-quattro-colori-con-anycubic-kobra-x-a-soli-31999eur",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117656/tomshw-offer-1605810.png",
+      "summary": "Anycubic Kobra X, a 319,99€ su Amazon, stampa in quattro colori senza dispositivi esterni. Puoi realizzare modelli, decorazioni e oggetti personalizzati con dettagli cromatici direttamente durante la...",
+      "date": "2026-10-10T18:48:00.0000000Z"
+    },
+    {
+      "id": "tomshw:7fcac457fc5f",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Logitech MX Ergo S a 63,17€, il minimo di sempre per lavorare più comodi",
+      "url": "https://www.tomshw.it/hardware/logitech-mx-ergo-s-a-6317eur-il-minimo-di-sempre-per-lavorare-piu-comodi",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117655/tomshw-offer-1605786.png",
+      "summary": "A 63,17€ su Amazon, Logitech MX Ergo S raggiunge il suo minimo di sempre, con uno sconto del 37% sul prezzo di listino di 99,99€. La trackball permette di controllare il cursore con il pollice, limita...",
+      "date": "2026-10-10T18:18:00.0000000Z"
+    },
     {
       "id": "tomshw:4a6471de08f2",
       "sourceId": "tomshw",
@@ -51,18 +100,6 @@
       "date": "2026-10-10T16:20:00.0000000Z"
     },
     {
-      "id": "tomshw:104ba7e9e265",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Galaxy Book6 Pro vs Galaxy Book5 Pro: quale scegliere?",
-      "url": "https://www.tomshw.it/hardware/galaxy-book6-pro-vs-galaxy-book5-pro-quale-scegliere",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116711/galaxy-book6-pro-vs-galaxy-book5-pro-quale-scegliere.png",
-      "summary": "Galaxy Book6 Pro giustifica il sovrapprezzo soprattutto per chi usa il portatile lontano dalla presa e guarda contenuti HDR: offre maggiore autonomia dichiarata e un picco di luminosità superiore. Ris...",
-      "date": "2026-10-10T16:00:00.0000000Z"
-    },
-    {
       "id": "tomshw:0d19d58147d2",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -72,6 +109,18 @@
       "url": "https://www.tomshw.it/hardware/microsoft-ripensa-la-ricerca-di-windows-11-finiranno-le-attese",
       "image": "https://cdn.tomshw.it/storage/media/2026/10/117624/microsoft-ripensa-la-ricerca-di-windows-11-finiranno-le-attese.png",
       "summary": "Microsoft ha avviato la distribuzione di una nuova esperienza di ricerca per Windows 11 agli utenti Windows Insider del canale Experimental. La revisione interviene sulla velocità di apertura, sul con...",
+      "date": "2026-10-10T16:00:00.0000000Z"
+    },
+    {
+      "id": "tomshw:104ba7e9e265",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Galaxy Book6 Pro vs Galaxy Book5 Pro: quale scegliere?",
+      "url": "https://www.tomshw.it/hardware/galaxy-book6-pro-vs-galaxy-book5-pro-quale-scegliere",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116711/galaxy-book6-pro-vs-galaxy-book5-pro-quale-scegliere.png",
+      "summary": "Galaxy Book6 Pro giustifica il sovrapprezzo soprattutto per chi usa il portatile lontano dalla presa e guarda contenuti HDR: offre maggiore autonomia dichiarata e un picco di luminosità superiore. Ris...",
       "date": "2026-10-10T16:00:00.0000000Z"
     },
     {
@@ -99,18 +148,6 @@
       "date": "2026-10-10T15:19:00.0000000Z"
     },
     {
-      "id": "tomshw:8a21897379c1",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Meglio comprare Xbox Series X ora o aspettare Project Helix?",
-      "url": "https://www.tomshw.it/hardware/meglio-comprare-xbox-series-x-ora-o-aspettare-project-helix",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116814/meglio-comprare-xbox-series-x-ora-o-aspettare-project-helix.png",
-      "summary": "Xbox Series X è acquistabile nuova in Italia, ma nella fascia indicativa di 750-800 € richiede una spesa importante per un hardware della generazione attuale. Project Helix è il successore annunciato...",
-      "date": "2026-10-10T15:00:00.0000000Z"
-    },
-    {
       "id": "tomshw:83dc8073bd41",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -121,30 +158,6 @@
       "image": "https://cdn.tomshw.it/storage/media/2026/10/117621/dynamic-island-potrebbe-gestire-la-smart-home-bastera-avvicinarsi.png",
       "summary": "Apple starebbe sviluppando una funzione per richiamare i controlli della casa connessa avvicinando l’iPhone a un accessorio compatibile. Il leaker pdfu ha individuato nel codice di iOS 27.2 riferiment...",
       "date": "2026-10-10T15:00:00.0000000Z"
-    },
-    {
-      "id": "tomshw:fed4f337915d",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Dreame Ecceluxe Master, sei bevande con un tocco a soli 446,25€",
-      "url": "https://www.tomshw.it/altro/dreame-ecceluxe-master-sei-bevande-con-un-tocco-a-soli-44625eur",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117649/tomshw-offer-1605602.png",
-      "summary": "A 446,25€ su Amazon, Dreame Ecceluxe Master è scontata del 31% e prepara sei bevande al caffè con un solo tocco. Per chi alterna espresso, cappuccino e caffè freddo, permette di scegliere la preparazi...",
-      "date": "2026-10-10T14:18:00.0000000Z"
-    },
-    {
-      "id": "tomshw:f3efaac05351",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Il van di Huawei perde il pedale del freno nei test: cosa è successo",
-      "url": "https://www.tomshw.it/automotive/maextro-v800-perde-il-pedale-del-freno-nei-test-come-si-ferma",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117620/maextro-v800-perde-il-pedale-del-freno-nei-test-come-si-ferma.png",
-      "summary": "Tre esemplari del Maextro V800, il van elettrico di lusso realizzato da JAC Group e Huawei, hanno subito la rottura del pedale del freno durante prove di arresto da circa 97 km/h. I cedimenti hanno co...",
-      "date": "2026-10-10T14:00:00.0000000Z"
     },
     {
       "id": "hdblog:098b30e8f330",
@@ -576,19 +589,6 @@
       "summary": "",
       "videoId": "3AYUPOSn6xo",
       "date": "2026-10-03T11:35:01.0000000Z"
-    },
-    {
-      "id": "techprincess:0aE7WRU8oGM",
-      "sourceId": "techprincess",
-      "source": "Techprincess",
-      "platform": "youtube",
-      "category": "tecnologia",
-      "title": "iPhone 18 Pro: Cambia tutto senza cambiare niente",
-      "url": "https://www.youtube.com/watch?v=0aE7WRU8oGM",
-      "image": "https://i.ytimg.com/vi/0aE7WRU8oGM/hqdefault.jpg",
-      "summary": "",
-      "videoId": "0aE7WRU8oGM",
-      "date": "2026-10-02T16:57:19.0000000Z"
     }
   ]
 }
