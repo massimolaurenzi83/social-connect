@@ -1,18 +1,18 @@
 {
   "category": "mondo",
-  "updated": "2026-10-10T01:18:37.4809617Z",
+  "updated": "2026-10-10T07:18:20.7721527Z",
   "items": [
     {
-      "id": "ansa-mondo:b3fb76e9fed4",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
+      "id": "internazionale:70d0f0e44094",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
       "platform": "rss",
       "category": "mondo",
-      "title": "'Trump si è accordato con Putin dopo che Zelensky ha ignorato le sue richieste'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-si-e-accordato-con-putin-dopo-che-zelensky-ha-ignorato-le-sue-richieste_a35e6e0e-af53-4758-81f2-64e7d0b42a00.html",
-      "image": null,
-      "summary": "Axios, sugli attacchi alle raffinerie, voleva lo stop unilaterale",
-      "date": "2026-10-10T01:10:15.0000000Z"
+      "title": "Reporter di guerra e droni kamikaze",
+      "url": "https://www.internazionale.it/notizie/melissa-jollivet/2026/10/10/reporter-guerra-droni-kamikaze",
+      "image": "https://media.internazionale.it/images/2026/10/02/360195-hd.jpg",
+      "summary": "I droni di ultima generazione sono un rischio in più per fotografi e giornalisti che lavorano in zone di conflitto Leggi",
+      "date": "2026-10-10T03:56:02.0000000Z"
     },
     {
       "id": "ansa-mondo:e2ef48f55826",
@@ -24,7 +24,103 @@
       "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/il-marito-di-kamala-harris-confida-preferirei-non-si-candidasse-alla-casa-bianca_353dc1ae-5a4f-4cce-b2a4-4a10d6f9e06e.html",
       "image": null,
       "summary": "Wsj, scettici anche i donatori, avrebbe scarse probabilità di successo",
-      "date": "2026-10-10T00:48:59.0000000Z"
+      "date": "2026-10-10T03:43:57.0000000Z"
+    },
+    {
+      "id": "internazionale:f1bcdd96eef5",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Lo scandalo che scuote le materie prime",
+      "url": "https://www.internazionale.it/notizie/alessandro-lubello/2026/10/10/scandalo-materie-prime-radiant-world",
+      "image": "https://media.internazionale.it/images/2026/10/08/360785-hd.jpg",
+      "summary": "La Radiant World, un importante intermediario nel commercio del ferro, è travolta da accuse per fatture false e documenti contraffatti. In ballo ci sono miliardi di dollari Leggi",
+      "date": "2026-10-10T03:34:01.0000000Z"
+    },
+    {
+      "id": "internazionale:5d5785820a53",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Zeynab Jalalian e le altre detenute nelle carceri iraniane",
+      "url": "https://www.internazionale.it/notizie/francesca-gnetti/2026/10/10/zeynab-jalalian-detenute-iran",
+      "image": "https://media.internazionale.it/images/2026/10/07/360575-hd.jpg",
+      "summary": "L’attivista per i diritti delle donne è in prigione da diciott’anni. È il momento di aumentare le pressioni sul regime di Teheran, mentre crescono le condanne a morte e peggiorano le condizioni nelle carceri Leggi",
+      "date": "2026-10-10T03:14:01.0000000Z"
+    },
+    {
+      "id": "internazionale:dc9ae8510760",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "La Casa Bianca fa propaganda con i videogiochi",
+      "url": "https://www.internazionale.it/notizie/2026/10/10/trump-propaganda-videogiochi-arcade",
+      "image": "https://media.internazionale.it/images/2026/10/07/360581-hd.jpg",
+      "summary": "A settembre l’amministrazione Trump ha pubblicato online alcuni videogiochi in stile anni novanta che trasformano le sue politiche in intrattenimento Leggi",
+      "date": "2026-10-10T03:04:01.0000000Z"
+    },
+    {
+      "id": "internazionale:d56b37df4ad0",
+      "sourceId": "internazionale",
+      "source": "Internazionale",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Cosa c’entra l’Eritrea con il conflitto in Etiopia",
+      "url": "https://www.internazionale.it/notizie/francesca-sibani/2026/10/10/guerra-eritrea-etiopia",
+      "image": "https://media.internazionale.it/images/2026/10/09/360866-hd.jpg",
+      "summary": "La presenza dei soldati di Asmara in Tigrai, l’ambizione etiope di ottenere un accesso al mare, il ruolo strategico del mar Rosso. Come sta evolvendo la guerra, secondo i giornali stranieri Leggi",
+      "date": "2026-10-10T03:01:02.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:9f972bde25af",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "L'uragano Isaias tocca terra in Florida come categoria 2, migliaia senza elettricità",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/luragano-isaias-tocca-terra-in-florida-come-categoria-2-migliaia-senza-elettricita_e5fa177c-af4e-4cf0-9f98-ae4b8a1be79a.html",
+      "image": null,
+      "summary": "Allerta alta negli stati che si affacciano sul Golfo del Messico",
+      "date": "2026-10-10T01:51:21.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:20c2e2c1619f",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Trump attacca la Norvegia sul Nobel: 'E' una macchia indelebile, non dimenticheremo'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-attacca-la-norvegia-sul-nobel-e-una-macchia-indelebile-non-dimenticheremo_ce60d4a1-3283-4888-aa0e-f3409e6e4aa9.html",
+      "image": null,
+      "summary": "'Ho risolto 8 guerre, ce ne voleva uno per ognuna'",
+      "date": "2026-10-10T01:36:06.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:5731de36a292",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Messico, altri due morti nel carcere di Mazatlán, 12 in due giorni",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/10/messico-altri-due-morti-nel-carcere-di-mazatlan-12-in-due-giorni_ebd3618f-4420-4fe7-bb26-ac2af4c09894.html",
+      "image": null,
+      "summary": "Nuova rissa nel penitenziario di El Castillo dopo i dieci decessi di giovedì",
+      "date": "2026-10-10T01:17:18.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:b3fb76e9fed4",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "'Trump si è accordato con Putin dopo che Zelensky ha ignorato le sue richieste'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-si-e-accordato-con-putin-dopo-che-zelensky-ha-ignorato-le-sue-richieste_a35e6e0e-af53-4758-81f2-64e7d0b42a00.html",
+      "image": null,
+      "summary": "Axios, sugli attacchi alle raffinerie, voleva lo stop unilaterale",
+      "date": "2026-10-10T01:10:15.0000000Z"
     },
     {
       "id": "ansa-mondo:e3f696b291e2",
@@ -111,42 +207,6 @@
       "date": "2026-10-09T21:42:08.0000000Z"
     },
     {
-      "id": "ansa-mondo:f6c282565857",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Trump, l'accordo con la Russia sul diesel importante, voglio ringraziare Putin",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/09/trump-laccordo-con-la-russia-sul-diesel-importante-voglio-ringraziare-putin_1ba12655-4ae0-4d6d-953e-1ed9741c548c.html",
-      "image": null,
-      "summary": "",
-      "date": "2026-10-09T21:17:12.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:e4f408f76f2d",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Zelensky, 'dagli Usa una decisione indegna e disonesta'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/09/zelensky-dagli-usa-una-decisione-indegna-e-disonesta_c8efa85d-8f1c-4fbe-a427-32d6468a82ea.html",
-      "image": null,
-      "summary": "",
-      "date": "2026-10-09T20:40:38.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:3837814394f6",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Axios, Ucraina sorpresa dall'annuncio di Trump per il diesel russo",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/09/axios-ucraina-sorpresa-dallannuncio-di-trump-per-il-diesel-russo_62de278a-f236-45ca-b58c-7ffa54b67fb4.html",
-      "image": null,
-      "summary": "In queste ore negoziatori ucraini sono a Miami per incontrare Witkoff e Kushner",
-      "date": "2026-10-09T19:46:25.0000000Z"
-    },
-    {
       "id": "internazionale:6101e9b857a0",
       "sourceId": "internazionale",
       "source": "Internazionale",
@@ -229,66 +289,6 @@
       "image": "https://media.internazionale.it/images/2026/10/08/360770-hd.jpg",
       "summary": "La vicenda di Christa Pike non è un caso isolato. Le ragioni sono diverse: procedure in mano a funzionari incapaci e senza scrupoli, e farmaci inadeguati Leggi",
       "date": "2026-10-09T03:44:01.0000000Z"
-    },
-    {
-      "id": "internazionale:b0a6ed93484e",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Una classe in cui si parlano tante lingue aiuta tutti",
-      "url": "https://www.internazionale.it/notizie/marzia-minore/2026/10/09/plurilinguismo-scuola-stranieri",
-      "image": "https://media.internazionale.it/images/2026/10/06/360532-hd.jpg",
-      "summary": "Non ci sono prove che la presenza di più lingue incida negativamente sulle prestazioni scolastiche. Anzi, dagli studi e dalle esperienze emerge il contrario: se si lavora bene, il plurilinguismo è un vantaggio Leggi",
-      "date": "2026-10-09T03:33:02.0000000Z"
-    },
-    {
-      "id": "internazionale:67603640ce82",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Venti volte Ferrara",
-      "url": "https://www.internazionale.it/foto/2026/10/08/venti-volte-ferrara-festival",
-      "image": "https://media.internazionale.it/images/2026/10/07/360617-hd.jpg",
-      "summary": "La ventesima edizione di Internazionale a Ferrara ha richiamato l’attenzione sulla necessità di agire per affrontare le sfide globali Leggi",
-      "date": "2026-10-08T11:07:25.0000000Z"
-    },
-    {
-      "id": "internazionale:5aa65fa2cd36",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Naza manda in frantumi le illusioni della società israeliana",
-      "url": "https://www.internazionale.it/notizie/sebastian-ben-daniel/2026/10/08/naza-illusioni-societa-israele",
-      "image": "https://media.internazionale.it/images/2026/10/07/360624-hd.jpg",
-      "summary": "Il film dimostra che dietro al genocidio dei palestinesi a Gaza ci siano istituzioni composte da israeliani laici e istruiti. E smonta l’alibi secondo cui non sapevano Leggi",
-      "date": "2026-10-08T10:59:09.0000000Z"
-    },
-    {
-      "id": "internazionale:7a7df7024e7f",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Le promesse tardive della classe politica",
-      "url": "https://www.internazionale.it/magazine/cecile-bourgneuf/2026/10/08/le-promesse-tardive-della-classe-politica",
-      "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-      "summary": "Le proteste hanno costretto il governo di Sébastien Lecornu ad ascoltare le richieste degli studenti e degli insegnanti Leggi",
-      "date": "2026-10-08T10:00:00.0000000Z"
-    },
-    {
-      "id": "internazionale:642360a53a40",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Una conquista da difendere",
-      "url": "https://www.internazionale.it/magazine/claudio-rossi-marcelli/2026/10/08/una-conquista-da-difendere",
-      "image": "https://media.internazionale.it/images/2026/10/08/360799-hd.jpg",
-      "summary": "Mio figlio di quindici anni ha fatto coming out con me e suo padre. Non è stato nulla di inatteso ma, ora che quella possibilità è diventata reale, mi ritrovo piena di… Leggi",
-      "date": "2026-10-08T10:00:00.0000000Z"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-10-10T01:18:37.4015441Z",
+  "updated": "2026-10-10T07:18:20.7295703Z",
   "items": [
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-10-10T04:00:00.0000000Z"
+    },
     {
       "id": "qualenergia:8f2ba497e557",
       "sourceId": "qualenergia",
@@ -121,18 +133,6 @@
       "image": null,
       "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
       "date": "2026-10-09T06:30:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:a7bf8d6a59f6",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Lazio, contributi alle imprese per attività extra-agricole attente agli aspetti energetici",
-      "url": "https://www.qualenergia.it/pro/documenti/lazio-contributi-alle-imprese-per-attivita-extra-agricole-attente-agli-aspetti-energetici/",
-      "image": null,
-      "summary": "Dalla Regione Lazio contributi alle imprese agricole per diversificare le loro attività con: Agriturismo; Attività educative/didattiche; trasformazione e vendita di prodotti agricoli; enoturismo e/o oleoturismo. Il l ...",
-      "date": "2026-10-09T05:00:51.0000000Z"
     },
     {
       "id": "qualenergia:f077a9176788",
