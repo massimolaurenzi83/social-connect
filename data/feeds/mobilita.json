@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-10T07:18:20.7350306Z",
+  "updated": "2026-10-10T13:52:49.1509468Z",
   "items": [
+    {
+      "id": "ferrovie:d5ac5a4bdcdc",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Veneto, torna il Treno della Salute con visite gratuite nelle stazioni",
+      "url": "https://www.ferrovie.info/treni-reali/veneto-torna-il-treno-della-salute-con-visite-gratuite-nelle-stazioni.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10738/normal_treno_della_salute_1001.jpg",
+      "summary": "La prevenzione torna protagonista sui binari del Veneto con un’iniziativa che porta servizi e informazioni direttamente nelle stazioni ferroviarie. Un progetto che unisce mobilità, sanità e sensibilizzazione, con l’ob...",
+      "date": "2026-10-10T08:42:28.0000000Z"
+    },
     {
       "id": "ferrovie:f6c968e9c331",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10421/SFIT06_109.jpg",
       "summary": "Regione Lombardia lavora alla realizzazione del primo Museo regionale dei Trasporti , con la stazione dismessa di Milano Porta Genova indicata come possibile sede. Il progetto è stato presentato nel corso di un conveg...",
       "date": "2026-10-09T06:08:35.0000000Z"
-    },
-    {
-      "id": "ferrovie:5e6549032c39",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "H2iseO, completati gli impianti a idrogeno di Edolo e Iseo",
-      "url": "https://www.ferrovie.info/treni-reali/h2iseo-completati-gli-impianti-a-idrogeno-di-edolo-e-iseo.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/hmu_214_526.jpg",
-      "summary": "Sono stati completati a giugno 2026 i lavori di costruzione dei due impianti di produzione e distribuzione dell’idrogeno di Edolo e Iseo , realizzati da FERROVIENORD nell’ambito del progetto H2iseO. Ieri, 7 ottobre, i...",
-      "date": "2026-10-08T07:37:18.0000000Z"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-10-10T07:18:20.7295703Z",
+  "updated": "2026-10-10T13:52:49.0609474Z",
   "items": [
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-10-10T04:30:00.0000000Z"
+    },
     {
       "id": "qualenergia:28c24aba79dc",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
       "date": "2026-10-09T06:30:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:f077a9176788",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Efficientamento energetico e rinnovabili presso edifici pubblici a Moneglia (GE)",
-      "url": "https://www.qualenergia.it/pro/documenti/efficientamento-energetico-e-rinnovabili-presso-edifici-pubblici-a-moneglia-ge/",
-      "image": null,
-      "summary": "Esecuzione delle opere di efficientamento energetico e di incremento della produzione da fonti rinnovabili presso plessi ed edifici pubblici del comune di Moneglia (GE), comprensive di fornitura, posa in opera, pratic...",
-      "date": "2026-10-09T05:00:51.0000000Z"
     }
   ]
 }

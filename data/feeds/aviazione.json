@@ -1,7 +1,19 @@
 {
   "category": "aviazione",
-  "updated": "2026-10-10T07:18:20.7309669Z",
+  "updated": "2026-10-10T13:52:48.7737798Z",
   "items": [
+    {
+      "id": "aviationreport:f7bd72717824",
+      "sourceId": "aviationreport",
+      "source": "Aviation Report",
+      "platform": "rss",
+      "category": "aviazione",
+      "title": "Intelligenza artificiale in aviazione: che cosa vuol dire davvero un’AI «supervisionata» in cabina",
+      "url": "https://www.aviation-report.com/intelligenza-artificiale-in-aviazione-che-cosa-vuol-dire-davvero-un-ai-supervisionata-in-cabina/",
+      "image": null,
+      "summary": "Dassault Aviation ha provato in volo sul Rafale due algoritmi di AI, uno sviluppato in casa e l’altro con Thales e cortAIx. La formula scelta per descrivere l’obiettivo è precisa. Un’AI «controllata e supervisionata» ...",
+      "date": "2026-10-10T07:48:20.0000000Z"
+    },
     {
       "id": "aviationreport:8ab836d1e751",
       "sourceId": "aviationreport",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Il 2 ottobre 2026 due F-16V Block 70, con numeri di serie 6727 e 6728, sono atterrati intorno a mezzogiorno alla base aerea di Chihhang, nella contea di Taitung, sulla costa orientale di Taiwan. Questi aerei rappresen...",
       "date": "2026-10-06T21:05:22.0000000Z"
-    },
-    {
-      "id": "aviationreport:2e5c93a5f506",
-      "sourceId": "aviationreport",
-      "source": "Aviation Report",
-      "platform": "rss",
-      "category": "aviazione",
-      "title": "Crisi di prontezza della flotta ucraina di F-16",
-      "url": "https://www.aviation-report.com/crisi-di-prontezza-della-flotta-ucraina-di-f-16/",
-      "image": null,
-      "summary": "La flotta ucraina di F-16 rappresenta oggi un pilastro della difesa aerea di Kiev contro i crescenti attacchi russi con droni e missili da crociera. Tuttavia, fonti occidentali e dichiarazioni ufficiali recenti deline...",
-      "date": "2026-10-06T20:32:52.0000000Z"
     }
   ]
 }
