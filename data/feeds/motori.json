@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-10-09T21:42:14.5030245Z",
+  "updated": "2026-10-10T01:18:37.5048514Z",
   "items": [
+    {
+      "id": "motor1:109c12bccf09",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Jeep Compass (2026), perché comprarla e perché no",
+      "url": "https://it.motor1.com/reviews/811314/jeep-compass-2026-recensione-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/Mk6g0E/s3/jeep-compass-2026-perche-comprarla-e-perche-no.jpg",
+      "summary": "Spaziosa e confortevole, la nuova Jeep Compass convince per abitabilità e praticità. Il 1.2 ibrido però è un po' sottodimensionato",
+      "date": "2026-10-09T23:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:fe55411ae501",
       "sourceId": "vaielettrico",
@@ -111,6 +123,18 @@
       "date": "2026-10-09T15:30:00.0000000Z"
     },
     {
+      "id": "insideevs:19550773a94a",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il ritorno sulla Terra della navetta di SpaceX è spettacolare",
+      "url": "https://insideevs.it/news/811371/spacex-crew-12-rientro-foto-nasa/",
+      "image": "https://cdn.motor1.com/images/mgl/XBbzj6/s3/l-ammaraggio-dell-equipaggio-crew-12-della-nasa.jpg",
+      "summary": "La Crew Dragon Freedom è ammarata nel Pacifico con quattro astronauti a bordo. Le foto raccontano le fasi finali della missione Crew-12",
+      "date": "2026-10-09T15:00:00.0000000Z"
+    },
+    {
       "id": "hdmotori:d19a3e7ea3a6",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -132,18 +156,6 @@
       "url": "https://it.motor1.com/reviews/811334/gac-aion-v-prova-interni-prezzo/",
       "image": "https://cdn.motor1.com/images/mgl/XBbzyl/s3/gac-aion-v-prova.jpg",
       "summary": "La GAC Aion V arriva in Italia con prezzo sotto i 34.000 euro e tra gli optional c'è un vano che arriva fino a 50° o -15",
-      "date": "2026-10-09T15:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:19550773a94a",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il ritorno sulla Terra della navetta di SpaceX è spettacolare",
-      "url": "https://insideevs.it/news/811371/spacex-crew-12-rientro-foto-nasa/",
-      "image": "https://cdn.motor1.com/images/mgl/XBbzj6/s3/l-ammaraggio-dell-equipaggio-crew-12-della-nasa.jpg",
-      "summary": "La Crew Dragon Freedom è ammarata nel Pacifico con quattro astronauti a bordo. Le foto raccontano le fasi finali della missione Crew-12",
       "date": "2026-10-09T15:00:00.0000000Z"
     },
     {
@@ -288,18 +300,6 @@
       "url": "https://insideevs.it/news/811293/prologium-batteria-elettrolita-solido-liquido/",
       "image": "https://cdn.motor1.com/images/mgl/NGMORy/s3/batteria-stato-solido-prologium-con-elettrolita-inorganico.jpg",
       "summary": "Prologium presenta una tecnologia rivoluzionaria che cambia lo stato dell'elettrolita in base alle condizioni di utilizzo",
-      "date": "2026-10-09T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:c647802c4ad1",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La tua auto è vecchia? Ecco quanto potresti pagare per un guasto",
-      "url": "https://it.motor1.com/news/811309/assistenza-stradale-auto-costi-panne/",
-      "image": "https://cdn.motor1.com/images/mgl/g42Oqw/s3/la-tua-auto-e-vecchia-ecco-quanto-potresti-pagare-per-un-guasto.jpg",
-      "summary": "Batteria scarica, gomme bucate e guasti al motore: nell'ultimo anno 11,7 milioni di automobilisti sono rimasti bloccati",
       "date": "2026-10-09T11:00:00.0000000Z"
     },
     {
