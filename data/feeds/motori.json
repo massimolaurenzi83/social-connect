@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-10-10T13:52:49.1012843Z",
+  "updated": "2026-10-10T18:08:51.6133236Z",
   "items": [
+    {
+      "id": "vaielettrico:f5a4bb63638d",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L’Autobus che si ricarica dalle ruote, un progetto svizzero",
+      "url": "https://www.vaielettrico.it/lautobus-che-si-ricarica-dalle-ruote-un-progetto-svizzero/",
+      "image": null,
+      "summary": "La ricarica dell’autobus arriva direttamente dalle ruote, riducendo così il tempo necessario per l’alimentazione notturna in deposito e… L'articolo L’Autobus che si ricarica dalle ruote, un progetto svizzero proviene ...",
+      "date": "2026-10-10T15:29:13.0000000Z"
+    },
     {
       "id": "motor1:4e3d924c969e",
       "sourceId": "motor1",
@@ -267,18 +279,6 @@
       "date": "2026-10-09T15:30:00.0000000Z"
     },
     {
-      "id": "hdmotori:d19a3e7ea3a6",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mazda BT-50, confermata la nuova generazione: addio al diesel?",
-      "url": "https://www.hdmotori.it/mazda-bt-50-nuova-generazione-anticipazioni/",
-      "image": null,
-      "summary": "Mazda conferma la nuova generazione del pick-up BT-50. Incertezza sulla piattaforma: si rinnova la partnership con Isuzu o spunta l'ipotesi cinese con Changan? The post Mazda BT-50, confermata la nuova generazione: ad...",
-      "date": "2026-10-09T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:fefb6c11f598",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -300,6 +300,18 @@
       "url": "https://insideevs.it/news/811371/spacex-crew-12-rientro-foto-nasa/",
       "image": "https://cdn.motor1.com/images/mgl/XBbzj6/s3/l-ammaraggio-dell-equipaggio-crew-12-della-nasa.jpg",
       "summary": "La Crew Dragon Freedom è ammarata nel Pacifico con quattro astronauti a bordo. Le foto raccontano le fasi finali della missione Crew-12",
+      "date": "2026-10-09T15:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:d19a3e7ea3a6",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mazda BT-50, confermata la nuova generazione: addio al diesel?",
+      "url": "https://www.hdmotori.it/mazda-bt-50-nuova-generazione-anticipazioni/",
+      "image": null,
+      "summary": "Mazda conferma la nuova generazione del pick-up BT-50. Incertezza sulla piattaforma: si rinnova la partnership con Isuzu o spunta l'ipotesi cinese con Changan? The post Mazda BT-50, confermata la nuova generazione: ad...",
       "date": "2026-10-09T15:00:00.0000000Z"
     },
     {
@@ -469,18 +481,6 @@
       "image": "https://cdn.motor1.com/images/mgl/mMYgrq/s3/la-galleria-del-vento-del-politecnico-di-milano-compie-25-anni.jpg",
       "summary": "Dal CityWave agli eVTOL, fino alle turbine e agli atleti: così il Politecnico di Milano studia gli effetti del vento da 25 anni",
       "date": "2026-10-08T15:30:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:646777bfab05",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "BMW iX4, il SUV coupé elettrico da 828 km",
-      "url": "https://www.vaielettrico.it/bmw-ix4-il-suv-coupe-elettrico-da-828-km/",
-      "image": null,
-      "summary": "BMW iX4: la marca di Monaco rilancia la formula del SUV coupé annunciando l’arrivo del nuovo modello. Sarà… L'articolo BMW iX4, il SUV coupé elettrico da 828 km proviene da Vaielettrico .",
-      "date": "2026-10-08T14:18:35.0000000Z"
     },
     {
       "id": "insideevs:3e749375706a",
