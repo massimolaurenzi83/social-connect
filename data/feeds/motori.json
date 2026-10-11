@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-10-11T18:07:47.0201488Z",
+  "updated": "2026-10-11T21:55:42.3601614Z",
   "items": [
+    {
+      "id": "insideevs:8e4c8d52da3a",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Peugeot con le batterie allo stato solido si ricarica in 10 minuti",
+      "url": "https://insideevs.it/news/811481/peugeot-rcz-batterie-stato-solido/",
+      "image": "https://cdn.motor1.com/images/mgl/L36yll/s3/peugeot-vision-rcz-concept.jpg",
+      "summary": "La RCZ Vision abbina le celle sviluppate con Factorial Energy a un sistema a 1.000 Volt per ridurre i tempi di ricarica",
+      "date": "2026-10-11T18:31:26.0000000Z"
+    },
+    {
+      "id": "motor1:93046e3aa451",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Alfa Romeo: \"Ripartiamo con Cuorerosso. E su Giulietta, Giulia e Stelvio...\"",
+      "url": "https://it.motor1.com/news/810642/alfa-romeo-intervista-ficili-cuorerosso-futuro/",
+      "image": "https://cdn.motor1.com/images/mgl/bgOPKr/s3/alfa-romeo-intervista.jpg",
+      "summary": "Santo Ficili, CEO di Alfa Romeo, racconta come la Cuorerosso segna la strada per il futuro prossimo, tra sinergie e scelte difficili",
+      "date": "2026-10-11T18:00:00.0000000Z"
+    },
     {
       "id": "motor1:d4d76559d5cb",
       "sourceId": "motor1",
@@ -27,18 +51,6 @@
       "date": "2026-10-11T17:23:52.0000000Z"
     },
     {
-      "id": "motor1:e66c8ccc6286",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Alfa Romeo anticipa il suo futuro, anche con il V6",
-      "url": "https://it.motor1.com/news/810617/alfa-romeo-cuorerosso-informazioni-foto/",
-      "image": "https://cdn.motor1.com/images/mgl/Mk6gP8/s3/alfa-romeo-cuorerosso.jpg",
-      "summary": "Il concept anticipa i prossimi modelli, tra stile e nuovi brevetti, con un abitacolo bellissimo. È pensata per essere multi energia",
-      "date": "2026-10-11T17:00:00.0000000Z"
-    },
-    {
       "id": "motor1:dae0bb851a75",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -56,7 +68,7 @@
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Con questa 2CV Citroën vuole riportare l’auto europea sulla strada giusta",
+      "title": "La nuova Citroen 2 CV sarà fatta così e arriverà nel 2028",
       "url": "https://it.motor1.com/news/811251/citroen-2cv-parigi-2026-caratteristiche/",
       "image": "https://cdn.motor1.com/images/mgl/1ZPwNw/s3/citroen-2cv-concept-2026.jpg",
       "summary": "Debutta il prototipo della futura Citroën 2CV, la piccola che dal 2028 reinterpreta un’icona per le nuove regole dell’auto europea",
@@ -84,6 +96,18 @@
       "url": "https://it.motor1.com/news/811470/fiat-multiplay-concept-parigi/",
       "image": "https://cdn.motor1.com/images/mgl/407YlK/s3/fiat-multiplay-concept.jpg",
       "summary": "La Multiplay è un concept che si può trasformare da SUV a pick-up. Ed è ricco di particolarità a bordo",
+      "date": "2026-10-11T17:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:e66c8ccc6286",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Alfa Romeo anticipa il suo futuro, anche con il V6",
+      "url": "https://it.motor1.com/news/810617/alfa-romeo-cuorerosso-informazioni-foto/",
+      "image": "https://cdn.motor1.com/images/mgl/Mk6gP8/s3/alfa-romeo-cuorerosso.jpg",
+      "summary": "Il concept anticipa i prossimi modelli, tra stile e nuovi brevetti, con un abitacolo bellissimo. È pensata per essere multi energia",
       "date": "2026-10-11T17:00:00.0000000Z"
     },
     {
@@ -229,18 +253,6 @@
       "image": null,
       "summary": "Se non ti informi non risparmi nelle ricariche, ma è semplice. Michele racconta i vantaggi del suo passaggio… L'articolo Se non ti informi non risparmi, ma è semplice… proviene da Vaielettrico .",
       "date": "2026-10-10T12:51:09.0000000Z"
-    },
-    {
-      "id": "motor1:10215df16570",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ecco fari e volante della nuova Alfa Romeo",
-      "url": "https://it.motor1.com/news/811432/alfa-romeo-cuorerosso-teaser/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZPwBM/s3/alfa-romeo-cuorerosso-i-teaser.jpg",
-      "summary": "La Casa diffonde nuovi teaser del concept che sarà svelato al Salone di Parigi e che anticipa i nuovi modelli",
-      "date": "2026-10-10T12:32:00.0000000Z"
     },
     {
       "id": "hdmotori:098b30e8f330",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/eoWzQV/s3/clamoroso-trump-incorona-elon-musk-eroe-della-scienza-americana.jpg",
       "summary": "È la prima volta che Trump assegna da Presidente la più alta onoreficenza degli Stati Uniti per gli scienziati",
       "date": "2026-10-08T14:03:44.0000000Z"
-    },
-    {
-      "id": "insideevs:f2abcfedef00",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La porta del Tesla Cybercab vola via e restano solo i cavi",
-      "url": "https://insideevs.it/news/811200/tesla-cybercab-pannello-porta-strappato/",
-      "image": "https://cdn.motor1.com/images/mgl/BX1OLw/s3/tesla-cybercab-le-immagini-della-rider-guide.jpg",
-      "summary": "Le immagini sui social mostrano la portiera scoperta del Tesla Cybercab",
-      "date": "2026-10-08T14:00:00.0000000Z"
     }
   ]
 }
