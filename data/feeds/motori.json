@@ -1,18 +1,66 @@
 {
   "category": "motori",
-  "updated": "2026-10-11T06:23:03.3010431Z",
+  "updated": "2026-10-11T13:13:23.6980637Z",
   "items": [
     {
-      "id": "insideevs:cf3cea247ac3",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
+      "id": "vaielettrico:9d420517b2fb",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
       "platform": "rss",
       "category": "motori",
-      "title": "Batterie più economiche senza cambiare le fabbriche: la novità",
-      "url": "https://insideevs.it/news/811323/nanoramic-nxsp-otto-materiali-batterie/",
-      "image": "https://cdn.motor1.com/images/mgl/ko8KLx/s3/batterie-piu-economiche-senza-cambiare-le-fabbriche-la-novita.jpg",
-      "summary": "Il catalogo Nanoramic NXSP punta su catodi e anodi al silicio compatibili con le linee di rivestimento già in funzione",
-      "date": "2026-10-11T05:00:00.0000000Z"
+      "title": "Col fotovoltaico non ricarichi l’auto? Ma quando mai…",
+      "url": "https://www.vaielettrico.it/col-fotovoltaico-non-ricarichi-lauto-ma-quando-mai/",
+      "image": null,
+      "summary": "Col fotovoltaico non ricarichi? “L’ho letto in un post sul Fatto Quotidiano, nel post di un lettore che… L'articolo Col fotovoltaico non ricarichi l’auto? Ma quando mai… proviene da Vaielettrico .",
+      "date": "2026-10-11T11:01:11.0000000Z"
+    },
+    {
+      "id": "motor1:a8b1a545b021",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "GAC AION UT, i prezzi e gli allestimenti",
+      "url": "https://it.motor1.com/news/811311/gac-aion-ut-prezzi-allestimenti/",
+      "image": "https://cdn.motor1.com/images/mgl/vx78NK/s3/gac-aion-ut.jpg",
+      "summary": "Prezzi da 25.750 euro e due versioni per il crossover elettrico cinese con autonomia di 430 km distribuito in Italia da ATFlow",
+      "date": "2026-10-11T09:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:03e98d4ea6e1",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Retrofit bus in Uk, stop diesel da 2030. La strategia di di PETL con Kleandrive",
+      "url": "https://www.vaielettrico.it/retrofit-bus-in-uk-stop-diesel-da-2030-la-strategia-di-di-petl-con-kleandrive/",
+      "image": null,
+      "summary": "Grandi chance per il retrofit elettrico degli autobus nel Regno Unito grazie al Bus Services Act, che dal… L'articolo Retrofit bus in Uk, stop diesel da 2030. La strategia di di PETL con Kleandrive proviene da Vaielet...",
+      "date": "2026-10-11T08:55:54.0000000Z"
+    },
+    {
+      "id": "hdmotori:05e3c8e72b84",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nissan Frontier Pro e Navara Pro: il nuovo pick-up globale prodotto in Cina",
+      "url": "https://www.hdmotori.it/nissan-frontier-navara-pro-pick-up-cina/",
+      "image": null,
+      "summary": "Sviluppato in Cina dal marchio giapponese, il nuovo modello combina la tecnologia ibrida ricaricabile con oltre novant'anni di grande tradizione nel settore dei veicoli da lavoro. The post Nissan Frontier Pro e Navara...",
+      "date": "2026-10-11T07:00:11.0000000Z"
+    },
+    {
+      "id": "hdmotori:025bd125af3f",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tomasi Auto sbarca a Parma: inaugurato un maxistore dell’usato nella Motor Valley",
+      "url": "https://www.hdmotori.it/tomasi-auto-parma-usato/",
+      "image": null,
+      "summary": "Il gruppo automobilistico apre il suo quinto showroom italiano, integrando l'esperienza phygital e rendendo omaggio a due icone della storia dell'automobilismo come Giampaolo Dallara e Andrea de Adamich. The post Toma...",
+      "date": "2026-10-11T06:30:54.0000000Z"
     },
     {
       "id": "motor1:4dfc47ada5b1",
@@ -24,6 +72,18 @@
       "url": "https://it.motor1.com/news/811381/alfa-romeo-giulia-gt-prova-storia/",
       "image": "https://cdn.motor1.com/images/mgl/XBbXbv/s3/alfa-romeo-giulia-gt-1300-junior-1970.jpg",
       "summary": "Con la Giulia GT 1300 Junior riscopriamo il piacere della guida analogica: 87 CV, trazione posteriore e una linea che non invecchia mai",
+      "date": "2026-10-11T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:cf3cea247ac3",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Batterie più economiche senza cambiare le fabbriche: la novità",
+      "url": "https://insideevs.it/news/811323/nanoramic-nxsp-otto-materiali-batterie/",
+      "image": "https://cdn.motor1.com/images/mgl/ko8KLx/s3/batterie-piu-economiche-senza-cambiare-le-fabbriche-la-novita.jpg",
+      "summary": "Il catalogo Nanoramic NXSP punta su catodi e anodi al silicio compatibili con le linee di rivestimento già in funzione",
       "date": "2026-10-11T05:00:00.0000000Z"
     },
     {
@@ -303,18 +363,6 @@
       "date": "2026-10-09T15:30:00.0000000Z"
     },
     {
-      "id": "motor1:fefb6c11f598",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ho provato un SUV e nel mentre avrei anche potuto cucinare",
-      "url": "https://it.motor1.com/reviews/811334/gac-aion-v-prova-interni-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/XBbzyl/s3/gac-aion-v-prova.jpg",
-      "summary": "La GAC Aion V arriva in Italia con prezzo sotto i 34.000 euro e tra gli optional c'è un vano che arriva fino a 50° o -15",
-      "date": "2026-10-09T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:19550773a94a",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -327,40 +375,16 @@
       "date": "2026-10-09T15:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:d19a3e7ea3a6",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mazda BT-50, confermata la nuova generazione: addio al diesel?",
-      "url": "https://www.hdmotori.it/mazda-bt-50-nuova-generazione-anticipazioni/",
-      "image": null,
-      "summary": "Mazda conferma la nuova generazione del pick-up BT-50. Incertezza sulla piattaforma: si rinnova la partnership con Isuzu o spunta l'ipotesi cinese con Changan? The post Mazda BT-50, confermata la nuova generazione: ad...",
-      "date": "2026-10-09T15:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:12fb9f1d9858",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Calano i veli sulla Volkswagen l’ID. Tiguan, più autonomia e nuovo look",
-      "url": "https://www.hdmotori.it/volkswagen-id-tiguan-autonomia/",
-      "image": null,
-      "summary": "Il Gruppo Volkswagen punta a una maggiore autonomia per convincere gli scettici. Scopriamo le caratteristiche della ID. Tiguan, erede della ID.4 The post Calano i veli sulla Volkswagen l’ID. Tiguan, più autonomia e nu...",
-      "date": "2026-10-09T14:30:21.0000000Z"
-    },
-    {
-      "id": "motor1:1a1db144bc5d",
+      "id": "motor1:fefb6c11f598",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "La nuova Kia Sportage vista su strada",
-      "url": "https://it.motor1.com/news/811370/kia-sportage-2027-foto-spia-test/",
-      "image": "https://cdn.motor1.com/images/mgl/L3yAqj/s3/kia-sportage-tri-fuel-gpl-full-hybrid.jpg",
-      "summary": "Debutterà nel 2027 con motorizzazioni ibride e uno stile rinnovato sia dentro sia fuori",
-      "date": "2026-10-09T14:30:00.0000000Z"
+      "title": "Ho provato un SUV e nel mentre avrei anche potuto cucinare",
+      "url": "https://it.motor1.com/reviews/811334/gac-aion-v-prova-interni-prezzo/",
+      "image": "https://cdn.motor1.com/images/mgl/XBbzyl/s3/gac-aion-v-prova.jpg",
+      "summary": "La GAC Aion V arriva in Italia con prezzo sotto i 34.000 euro e tra gli optional c'è un vano che arriva fino a 50° o -15",
+      "date": "2026-10-09T15:00:00.0000000Z"
     },
     {
       "id": "insideevs:08223224d794",
@@ -457,30 +481,6 @@
       "image": "https://cdn.motor1.com/images/mgl/jl8Rzo/s3/quanti-anni-durera-la-batteria-dell-auto-elettrica.jpg",
       "summary": "Un nuovo modello unisce stato di salute e vita residua delle batterie in un'unica previsione",
       "date": "2026-10-09T05:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:b485cfa11214",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Sardegna: ai Comuni 70 milioni in pannelli e batterie",
-      "url": "https://www.vaielettrico.it/sardegna-ai-comuni-70-milioni-in-pannelli-e-batterie/",
-      "image": null,
-      "summary": "La Regione Sardegna dopo aver assegnato più di 80 milioni a 5300 famiglie per realizzare altrettanti impianti… L'articolo Sardegna: ai Comuni 70 milioni in pannelli e batterie proviene da Vaielettrico .",
-      "date": "2026-10-08T16:34:33.0000000Z"
-    },
-    {
-      "id": "vaielettrico:c946c33c5b9e",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "TEST Aion V. Più di 500 km a meno di 34.000 €",
-      "url": "https://www.vaielettrico.it/test-aion-v-piu-di-500-km-a-meno-di-34-000-e/",
-      "image": null,
-      "summary": "Gac Aion V: lunga 4,60 metri, batteria LFP da 75 kWh, 510 km di autonomia WLTP e ricarica… L'articolo TEST Aion V. Più di 500 km a meno di 34.000 € proviene da Vaielettrico .",
-      "date": "2026-10-08T16:32:48.0000000Z"
     },
     {
       "id": "insideevs:fa10c1a86709",
