@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-10-11T00:32:09.4214093Z",
+  "updated": "2026-10-11T06:23:03.3010431Z",
   "items": [
+    {
+      "id": "insideevs:cf3cea247ac3",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Batterie più economiche senza cambiare le fabbriche: la novità",
+      "url": "https://insideevs.it/news/811323/nanoramic-nxsp-otto-materiali-batterie/",
+      "image": "https://cdn.motor1.com/images/mgl/ko8KLx/s3/batterie-piu-economiche-senza-cambiare-le-fabbriche-la-novita.jpg",
+      "summary": "Il catalogo Nanoramic NXSP punta su catodi e anodi al silicio compatibili con le linee di rivestimento già in funzione",
+      "date": "2026-10-11T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:4dfc47ada5b1",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'Alfa Romeo che ti insegna a goderti la strada senza fretta",
+      "url": "https://it.motor1.com/news/811381/alfa-romeo-giulia-gt-prova-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/XBbXbv/s3/alfa-romeo-giulia-gt-1300-junior-1970.jpg",
+      "summary": "Con la Giulia GT 1300 Junior riscopriamo il piacere della guida analogica: 87 CV, trazione posteriore e una linea che non invecchia mai",
+      "date": "2026-10-11T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:f5a4bb63638d",
       "sourceId": "vaielettrico",
@@ -351,18 +375,6 @@
       "date": "2026-10-09T14:26:47.0000000Z"
     },
     {
-      "id": "motor1:c1428c3212e8",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il nuovo SUV cinese è pronto per un test su strada di 1.324 km",
-      "url": "https://it.motor1.com/news/811310/xpeng-g9l-produzione-europea-graz/",
-      "image": "https://cdn.motor1.com/images/mgl/407YpY/s3/xpeng-g9l-prima-prova-di-produzione-europea-a-graz.jpg",
-      "summary": "La prima G9L di preserie destinata all'Europa supera il collaudo a Graz. Il prossimo test sarà il viaggio fino a Parigi per il Salone",
-      "date": "2026-10-09T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:58539561b8d2",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/BX1OLw/s3/tesla-cybercab-le-immagini-della-rider-guide.jpg",
       "summary": "Le immagini sui social mostrano la portiera scoperta del Tesla Cybercab",
       "date": "2026-10-08T14:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:13a98954cb75",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova e-bike si piega in 10 secondi e fa 100 km",
-      "url": "https://insideevs.it/news/811187/honor-ado-air-20-pro/",
-      "image": "https://cdn.motor1.com/images/mgl/3WBm9p/s3/la-nuova-e-bike-si-piega-in-10-secondi-e-fa-100-km.jpg",
-      "summary": "La Honor CHOICE Folding E-Bike ADO Air 20 Pro ha motore da 250 W, cambio automatico a due rapporti e batteria da 370 Wh",
-      "date": "2026-10-08T13:22:33.0000000Z"
     },
     {
       "id": "motor1:e893f9cbae5f",

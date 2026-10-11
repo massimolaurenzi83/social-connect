@@ -1,7 +1,19 @@
 {
   "category": "arte",
-  "updated": "2026-10-11T00:32:09.4235678Z",
+  "updated": "2026-10-11T06:23:03.2796433Z",
   "items": [
+    {
+      "id": "elledecor:259fc641367d",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Questi piatti verdi a forma di cavolo sono la tendenza più curiosa del 2026 per arredare casa",
+      "url": "https://www.elledecor.com/it/lifestyle/a74089916/piatti-verdi-forma-cavolo-tendenza-casa-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/cabbageware-charish-690b8704e11fb.png",
+      "summary": "Dalle celebri ceramiche di Bordallo Pinheiro alle collezioni vintage, il cabbageware torna protagonista dell'interior design",
+      "date": "2026-10-11T05:00:00.0000000Z"
+    },
     {
       "id": "artribune:c0bc373c4c78",
       "sourceId": "artribune",
@@ -87,18 +99,6 @@
       "date": "2026-10-10T14:00:00.0000000Z"
     },
     {
-      "id": "artribune:d0ff09e0d65d",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Due scuole, un teatro e una città ricucita: 5 progetti per raccontare la Toscana contemporanea",
-      "url": "https://www.artribune.com/progettazione/architettura/2026/10/premio-architettura-toscana-vincitori-2026/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/10/0-scuola-primaria-achille-sclavo-siena-fabbricanove-ph-deep-blue-studio-1.jpg",
-      "summary": "A dieci anni dall’istituzione, il biennale PAT - Premio Architettura Toscana punta a consolidare il suo ruolo di osservatorio dei processi di trasformazione urbana che attraversano il contesto regionale toscano. Tra i...",
-      "date": "2026-10-10T13:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:bbcd63589b0e",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -108,6 +108,18 @@
       "url": "https://www.elledecor.com/it/tech/novita/a74051955/la-casa-del-futuro-usa-lintelligenza-artificiale/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/f548fcd8-d82e-46fe-8ef5-a6ee22580077.jpeg",
       "summary": "Modulare, prefabbricata per l’80% e completamente connessa, la Smart Modular House di Samsung integra tecnologia e architettura per ripensare l’esperienza dell’abitare",
+      "date": "2026-10-10T13:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:d0ff09e0d65d",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Due scuole, un teatro e una città ricucita: 5 progetti per raccontare la Toscana contemporanea",
+      "url": "https://www.artribune.com/progettazione/architettura/2026/10/premio-architettura-toscana-vincitori-2026/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/10/0-scuola-primaria-achille-sclavo-siena-fabbricanove-ph-deep-blue-studio-1.jpg",
+      "summary": "A dieci anni dall’istituzione, il biennale PAT - Premio Architettura Toscana punta a consolidare il suo ruolo di osservatorio dei processi di trasformazione urbana che attraversano il contesto regionale toscano. Tra i...",
       "date": "2026-10-10T13:00:00.0000000Z"
     },
     {
@@ -253,18 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/36afbc8c-a92f-431d-b8f9-77d8201546d3.jpg",
       "summary": "Sul Lago di Annone, il ristorante gastronomico del Bianca Relais costruisce un’esperienza contemporanea e stagionale, tra percorsi degustazione tailor made e ingredienti del territorio",
       "date": "2026-10-09T11:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:cd764de5f758",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "La Parigi di Robert Doisneau arriva a Modena con una mostra di 135 fotografie in bianco e nero",
-      "url": "https://www.elledecor.com/it/arte/a74078400/robert-doisneau-mostra-modena-fotografie/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/78ab746d-1094-42e3-8bf3-bf30f6b41fe1.jpg",
-      "summary": "Al Palazzo dei Musei, fino al 24 gennaio 2027, un'esposizione ripercorre lo sguardo del grande fotografo francese, dal celebre bacio davanti all'Hôtel de Ville alla vita quotidiana nelle strade della capitale",
-      "date": "2026-10-09T10:00:00.0000000Z"
     }
   ]
 }
