@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-11T13:13:23.6994899Z",
+  "updated": "2026-10-11T18:07:47.1045457Z",
   "items": [
+    {
+      "id": "ferrovie:d907d77fd87c",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Le notizie ferroviarie della settimana tra nuovi treni, servizi e infrastrutture",
+      "url": "https://www.ferrovie.info/treni-reali/le-notizie-ferroviarie-della-settimana-tra-nuovi-treni-servizi-e-infrastrutture.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_Treno_ETR_814_Stadler_Rail_1001.jpg",
+      "summary": "Il panorama ferroviario della settimana è caratterizzato da nuovi treni, cambiamenti nei servizi e importanti aggiornamenti sui cantieri italiani ed europei. Dalle flotte regionali alle linee ad alta velocità, passand...",
+      "date": "2026-10-11T14:04:50.0000000Z"
+    },
     {
       "id": "ferrovie:26a3a69b0d19",
       "sourceId": "ferrovie",
@@ -25,18 +37,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10738/normal_treno_della_salute_1001.jpg",
       "summary": "La prevenzione torna protagonista sui binari del Veneto con un’iniziativa che porta servizi e informazioni direttamente nelle stazioni ferroviarie. Un progetto che unisce mobilità, sanità e sensibilizzazione, con l’ob...",
       "date": "2026-10-10T08:42:28.0000000Z"
-    },
-    {
-      "id": "ferrovie:f6c968e9c331",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "GoVolta denuncia ostacoli ai nuovi collegamenti ferroviari internazionali",
-      "url": "https://www.ferrovie.info/treni-reali/govolta-denuncia-ostacoli-ai-nuovi-collegamenti-ferroviari-internazionali.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/go_volta_1~0.jpg",
-      "summary": "L’ingresso di nuovi operatori nel mercato ferroviario internazionale europeo continua a porre interrogativi sulle condizioni di accesso alla rete e sulla gestione dei servizi in caso di perturbazioni. Nei Paesi Bassi,...",
-      "date": "2026-10-09T13:52:02.0000000Z"
     },
     {
       "id": "ferrovie:da75daacb3ce",

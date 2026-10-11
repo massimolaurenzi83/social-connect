@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-10-11T13:13:23.7170733Z",
+  "updated": "2026-10-11T18:07:47.0288163Z",
   "items": [
+    {
+      "id": "focus:7d0f73b6b183",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Meno ultraprocessati, migliore salute mentale?",
+      "url": "https://www.focus.it/scienza/salute/ridurre-gli-ultraprocessati-migliora-anche-la-salute-mentale",
+      "image": "https://www.focus.it/images/2026/09/23/ultraprocessati-patatine_w630.jpg?imbypass=true",
+      "summary": "Un piccolo studio preliminare esplora il rapporto tra una minore dipendenza dagli ultraprocessati e la depressione: una dieta più sana sembra giovare.",
+      "date": "2026-10-11T10:00:00.0000000Z"
+    },
     {
       "id": "focus:f7bc296bb269",
       "sourceId": "focus",
@@ -172,18 +184,6 @@
       "date": "2026-10-09T10:52:47.0000000Z"
     },
     {
-      "id": "focus:bf66941243c6",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Super El Niño, il calendario dei disastri",
-      "url": "https://www.focus.it/ambiente/ecologia/super-el-nino-il-calendario-dei-disastri-cosa-ci-aspetta-fino-all-estate-2027",
-      "image": "https://www.focus.it/images/2026/10/08/incendi-indonesia_w630.jpg?imbypass=true",
-      "summary": "Tifoni in Asia, alluvioni in Africa e Perù, malattie infettive e virali: mese per mese, ecco gli effetti previsti del Super El Niño, che durerà almeno fino alla primavera.",
-      "date": "2026-10-09T10:00:00.0000000Z"
-    },
-    {
       "id": "media-inaf:7756ef707cfd",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -280,19 +280,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/MIT-Slow-Stellar-Feeding-01-press_0-150x150.jpg",
       "summary": "Un sistema binario in cui una nana rossa sottrae materia alla propria compagna, una nana bruna, in modo lento e costante: è la scoperta di un team di ricercatori guidato dal Mit, che ha osservato per la prima volta qu...",
       "date": "2026-10-07T15:11:21.0000000Z"
-    },
-    {
-      "id": "curiuss:2BAt6Od2k-g",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Aggiornamento La Deriva - 10 ottobre",
-      "url": "https://www.youtube.com/watch?v=2BAt6Od2k-g",
-      "image": "https://i.ytimg.com/vi/2BAt6Od2k-g/hqdefault.jpg",
-      "summary": "",
-      "videoId": "2BAt6Od2k-g",
-      "date": "2026-10-07T10:02:45.0000000Z"
     },
     {
       "id": "media-inaf:cb126638176e",
@@ -486,19 +473,6 @@
       "date": "2026-09-28T11:00:39.0000000Z"
     },
     {
-      "id": "curiuss:G6cP4_VrcDM",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "La deriva - 10 Ottobre - Bologna",
-      "url": "https://www.youtube.com/watch?v=G6cP4_VrcDM",
-      "image": "https://i.ytimg.com/vi/G6cP4_VrcDM/hqdefault.jpg",
-      "summary": "",
-      "videoId": "G6cP4_VrcDM",
-      "date": "2026-09-23T18:04:06.0000000Z"
-    },
-    {
       "id": "curiuss:odiBKK__wwM",
       "sourceId": "curiuss",
       "source": "CURIUSS",
@@ -601,6 +575,32 @@
       "summary": "",
       "videoId": "WhZs-4GwfsE",
       "date": "2026-05-04T18:00:27.0000000Z"
+    },
+    {
+      "id": "curiuss:DXAmnjHn-Hw",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Parigi Matematica - Paris#03 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=DXAmnjHn-Hw",
+      "image": "https://i.ytimg.com/vi/DXAmnjHn-Hw/hqdefault.jpg",
+      "summary": "",
+      "videoId": "DXAmnjHn-Hw",
+      "date": "2026-04-20T18:00:12.0000000Z"
+    },
+    {
+      "id": "curiuss:h4hq5okz5tQ",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Parigi Astronomica - Paris#02 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=h4hq5okz5tQ",
+      "image": "https://i.ytimg.com/vi/h4hq5okz5tQ/hqdefault.jpg",
+      "summary": "",
+      "videoId": "h4hq5okz5tQ",
+      "date": "2026-04-07T18:34:25.0000000Z"
     }
   ]
 }
