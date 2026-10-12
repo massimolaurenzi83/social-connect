@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-10-12T01:04:11.1573981Z",
+  "updated": "2026-10-12T07:18:17.6523286Z",
   "items": [
+    {
+      "id": "qualenergia:c42aab0ea5e8",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "La domanda elettrica accelera: quali risposte da rinnovabili, gas e nucleare?",
+      "url": "https://www.qualenergia.it/articoli/domanda-elettrica-accelera-quali-risposte-da-rinnovabili-gas-nucleare/",
+      "image": null,
+      "summary": "Importanti novità caratterizzano gli scenari energetici mondiali. Vediamoli in sequenza insieme ai possibili collegamenti tra loro. Intelligenza artificiale: opportunità e rischi Sul lato della domanda, la spinta dell...",
+      "date": "2026-10-12T06:15:51.0000000Z"
+    },
     {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
@@ -12,7 +24,7 @@
       "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
       "image": null,
       "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
-      "date": "2026-10-11T04:30:00.0000000Z"
+      "date": "2026-10-12T04:30:00.0000000Z"
     },
     {
       "id": "qualenergia:28c24aba79dc",
@@ -24,7 +36,7 @@
       "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
       "image": null,
       "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
-      "date": "2026-10-10T04:00:00.0000000Z"
+      "date": "2026-10-12T04:00:00.0000000Z"
     },
     {
       "id": "qualenergia:8f2ba497e557",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Aprirà il 25 novembre 2026 il bando del Ministero delle Imprese e del Made in Italy (Mimit) che sostiene i progetti di ricerca e sviluppo delle imprese, finalizzati allo sviluppo di tecnologie avanzate per una mobilit...",
       "date": "2026-10-09T06:55:51.0000000Z"
-    },
-    {
-      "id": "qualenergia:50d40d648ab7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Bandi e appalti del giorno (5)",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
-      "image": null,
-      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
-      "date": "2026-10-09T06:30:17.0000000Z"
     }
   ]
 }
