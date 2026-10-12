@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-10-11T21:55:42.3601614Z",
+  "updated": "2026-10-12T01:04:11.0927329Z",
   "items": [
+    {
+      "id": "motor1:a2b343849b20",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Stellantis mostra il suo futuro al Salone di Parigi 2026",
+      "url": "https://it.motor1.com/news/811490/stellantis-piano-industriale-salone-di-parigi-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/Mk6gXn/s3/anonio-filosa-stellantis.jpg",
+      "summary": "Fatto di E-Car e non solo, con una ampia scelta di motorizzazioni. E chiede all'Europa di fare la sua parte",
+      "date": "2026-10-11T20:30:00.0000000Z"
+    },
     {
       "id": "insideevs:8e4c8d52da3a",
       "sourceId": "insideevs",
@@ -32,7 +44,7 @@
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "La sportiva Peugeot con 500 CV e il volante rettangolare",
+      "title": "La nuova Peugeot RCZ debutta al Salone di Parigi",
       "url": "https://it.motor1.com/news/811474/peugeot-rcz-vision-concept-salone-parigi-2026/",
       "image": "https://cdn.motor1.com/images/mgl/W8bKkg/s3/peugeot-rcz-vision-concept.jpg",
       "summary": "La RCZ Vision Concept anticipa alcune soluzioni tecniche dei futuri modelli del Leone, incluso il volante Hypersquare",
@@ -56,22 +68,10 @@
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Opel immagina così le sue prossime station wagon",
+      "title": "Opel punta ancora sulle station wagon",
       "url": "https://it.motor1.com/news/811215/opel-stx-concept-station-wagon-futuro/",
       "image": "https://cdn.motor1.com/images/mgl/W8b7x3/s3/opel-stx-concept-2026.jpg",
       "summary": "Vedremo al Salone di Parigi 2026 la futura Opel Astra Sports Tourer? È probabile, con la Opel STX Concept",
-      "date": "2026-10-11T17:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:c890d631f194",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Citroen 2 CV sarà fatta così e arriverà nel 2028",
-      "url": "https://it.motor1.com/news/811251/citroen-2cv-parigi-2026-caratteristiche/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZPwNw/s3/citroen-2cv-concept-2026.jpg",
-      "summary": "Debutta il prototipo della futura Citroën 2CV, la piccola che dal 2028 reinterpreta un’icona per le nuove regole dell’auto europea",
       "date": "2026-10-11T17:00:00.0000000Z"
     },
     {
@@ -82,7 +82,7 @@
       "category": "motori",
       "title": "La DS3 sta per tornare? Forse, con questa hot hatch",
       "url": "https://it.motor1.com/news/811253/ds-fever-hot-hatch-elettrica/",
-      "image": "https://cdn.motor1.com/images/mgl/ko8Kex/s3/ds-fever.jpg",
+      "image": "https://cdn.motor1.com/images/mgl/y21lXq/s3/f3ver-side.jpg",
       "summary": "Il concept DS Fever è una compatta da 4,19 metri sulla piattaforma STLA One, stile accattivante. La vedremo a Parigi",
       "date": "2026-10-11T17:00:00.0000000Z"
     },
@@ -96,6 +96,18 @@
       "url": "https://it.motor1.com/news/811470/fiat-multiplay-concept-parigi/",
       "image": "https://cdn.motor1.com/images/mgl/407YlK/s3/fiat-multiplay-concept.jpg",
       "summary": "La Multiplay è un concept che si può trasformare da SUV a pick-up. Ed è ricco di particolarità a bordo",
+      "date": "2026-10-11T17:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:c890d631f194",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Citroen 2 CV sarà fatta così e arriverà nel 2028",
+      "url": "https://it.motor1.com/news/811251/citroen-2cv-parigi-2026-caratteristiche/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZPwNw/s3/citroen-2cv-concept-2026.jpg",
+      "summary": "Debutta il prototipo della futura Citroën 2CV, la piccola che dal 2028 reinterpreta un’icona per le nuove regole dell’auto europea",
       "date": "2026-10-11T17:00:00.0000000Z"
     },
     {
@@ -229,18 +241,6 @@
       "image": null,
       "summary": "La ricarica dell’autobus arriva direttamente dalle ruote, riducendo così il tempo necessario per l’alimentazione notturna in deposito e… L'articolo L’Autobus che si ricarica dalle ruote, un progetto svizzero proviene ...",
       "date": "2026-10-10T15:29:13.0000000Z"
-    },
-    {
-      "id": "motor1:4e3d924c969e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Dacia Sandero, prezzi e allestimenti",
-      "url": "https://it.motor1.com/news/809431/dacia-sandero-prezzi-allestimenti-motori/",
-      "image": "https://cdn.motor1.com/images/mgl/bgGpr6/s3/dacia-sandero-eco-g-120-la-prova-su-strada-di-motor1.com.jpg",
-      "summary": "Disponibile nelle carrozzerie Streetway e Stepway, è anche GPL e ibrida e parte da meno di 17.000 euro",
-      "date": "2026-10-10T13:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:37076917f051",
