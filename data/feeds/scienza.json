@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-10-12T16:51:00.4057225Z",
+  "updated": "2026-10-12T23:19:05.4822806Z",
   "items": [
+    {
+      "id": "media-inaf:bb614b4533b1",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Eclissi, lo spettacolo più straordinario del cielo",
+      "url": "https://www.media.inaf.it/2026/10/12/piccolo-libro-eclissi/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/bastoni-cover-150x150.jpg",
+      "summary": "«Sappiamo che non ci sono i draghi che mangiano il Sole, ma non possiamo restare indifferenti. È madre natura al suo meglio», scrive l’astrofisica Patrizia Caraveo in questa recensione del libro di Marco Bastoni “Il p...",
+      "date": "2026-10-12T19:48:58.0000000Z"
+    },
     {
       "id": "geopop:pW_M50Qzzgo",
       "sourceId": "geopop",
@@ -368,18 +380,6 @@
       "summary": "",
       "videoId": "hm6gOTm75Zg",
       "date": "2026-10-06T16:30:32.0000000Z"
-    },
-    {
-      "id": "media-inaf:377a51a90b09",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Supernova o buco nero? È una questione di sapore",
-      "url": "https://www.media.inaf.it/2026/10/06/supernova-buco-nero-lo-decide-il-sapore-del-neutrino/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/cover-tamborrra-150x150.jpg",
-      "summary": "Il cambiamento di “sapore” dei neutrini potrebbe influenzare il destino delle stelle massicce, favorendo l’esplosione della stella come supernova o il suo collasso in un buco nero. Un nuovo studio mostra che questo pr...",
-      "date": "2026-10-06T14:14:01.0000000Z"
     },
     {
       "id": "geopop:X9gUdD2qYhw",

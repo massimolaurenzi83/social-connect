@@ -1,18 +1,30 @@
 {
   "category": "cronaca",
-  "updated": "2026-10-12T16:51:00.3599043Z",
+  "updated": "2026-10-12T23:19:05.5276141Z",
   "items": [
     {
-      "id": "ansa-cronaca:2cbe3bbd4443",
+      "id": "ansa-cronaca:8aebbdb478e4",
       "sourceId": "ansa-cronaca",
       "source": "ANSA Cronaca",
       "platform": "rss",
       "category": "cronaca",
-      "title": "Estratto vivo lo speleologo in grotta in Sardegna",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/raggiunto-dai-soccorritori-speleologo-intrappolato-in-grotta-in-sardegna-_988b1426-26b0-444c-8a90-394563d38022.html",
+      "title": "Estratto vivo lo speleologo bloccato nella grotta in Sardegna",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/estratto-vivo-lo-speleologo-bloccato-nella-grotta-in-sardegna_988b1426-26b0-444c-8a90-394563d38022.html",
       "image": null,
-      "summary": "Luca Olmetto stabilizzato dagli operatori sanitari, andrà in ospedale",
-      "date": "2026-10-12T16:35:04.0000000Z"
+      "summary": "Luca Olmetto è salvo. I soccorritori sono stati impegnati per 27 ore per rimuovere la frana che l'ha intrappolato",
+      "date": "2026-10-12T18:50:55.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:e0d77a409415",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Al decimo piano del Gemelli tutto pronto per accogliere papa Leone",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/al-decimo-piano-del-gemelli-tutto-pronto-per-accogliere-papa-leone_a832df25-45f9-4941-a10f-2471308f405d.html",
+      "image": null,
+      "summary": "E' un mini reparto dedicato ai pontefici con uno speciale appartamento, studio e cappella",
+      "date": "2026-10-12T18:44:38.0000000Z"
     },
     {
       "id": "ansa-cronaca:bc9a561d6138",
@@ -20,11 +32,83 @@
       "source": "ANSA Cronaca",
       "platform": "rss",
       "category": "cronaca",
-      "title": "Neonato abbandonato in un sacchetto per strada nel Milanese",
+      "title": "Neonato abbandonato in un sacchetto, 'è in discrete condizioni'",
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/neonato-abbandonato-in-un-sacchetto-per-strada-nel-milanese-_d0f85aff-cf59-42f2-97aa-f4baeefaef1a.html",
       "image": null,
-      "summary": "Portato in ospedale. Trovato da una donna che ha sentito i vagiti",
-      "date": "2026-10-12T16:21:40.0000000Z"
+      "summary": "Trovato per strada a Cinisello da una passante. Ora è in all'ospedale Niguarda",
+      "date": "2026-10-12T18:30:41.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:43f5d5736b95",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "#AccadeOggi",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+      "image": null,
+      "summary": "I principali avvenimenti previsti per la giornata",
+      "date": "2026-10-12T17:46:41.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:7fed978e6eef",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Morti due giovani ricoverati dopo lo scontro tra auto e camion in Umbria",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/morti-due-giovani-ricoverati-dopo-scontro-tra-auto-e-camion-in-umbria_a2e26a7d-e49b-422c-8a4a-32ae24f19b4f.html",
+      "image": null,
+      "summary": "",
+      "date": "2026-10-12T17:36:52.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:5a2430c7e521",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Ospedale Niguarda: 'Il neonato abbandonato è in discrete condizioni'",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/ospedale-niguarda-il-neonato-abbandonato-e-in-discrete-condizioni_46b8aa12-c6db-47b9-ba1e-538a4e93d553.html",
+      "image": null,
+      "summary": "E' un maschio di 4 kg, aveva una lieve ipotermia",
+      "date": "2026-10-12T17:31:20.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:d3a7c37e1526",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Morti due giovani dopo uno scontro tra un'auto e un camion in Umbria",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/morti-due-giovani-dopo-uno-scontro-tra-unauto-e-un-camion-in-umbria_c7fb542a-962a-4b51-86a9-aedbe3433f61.html",
+      "image": null,
+      "summary": "L'incidente sul raccordo Perugia-Bettolle, circolazione è a doppio senso per lavori",
+      "date": "2026-10-12T17:24:47.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:1f30cdf179f9",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Bimbo di 5 anni investito da un'auto in provincia di Varese, gravissimo",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/bimbo-di-5-anni-investito-da-unauto-in-provincia-di-varese-gravissimo_9a2f839d-99e3-4506-bc6a-6fbaffb0e7da.html",
+      "image": null,
+      "summary": "Portato in ospedale in elicottero, alla guida un'anziana di 80 anni",
+      "date": "2026-10-12T17:19:29.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:bdba3af039ad",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Attestato dell'Arma a volontario 84enne aggredito a mensa dei poveri",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/attestato-dellarma-a-volontario-84enne-aggredito-a-mensa-dei-poveri_4412ff16-9256-4429-9923-9ab1ff75c3f4.html",
+      "image": null,
+      "summary": "Empoli, comandante Luongo ha telefonato all'ex maresciallo Antonino Turrisi",
+      "date": "2026-10-12T17:07:16.0000000Z"
     },
     {
       "id": "ansa-cronaca:c5f5863aa539",
@@ -61,90 +145,6 @@
       "image": null,
       "summary": "Obiettivo trasparenza per capire se prendono decisioni per favorire loro interessi",
       "date": "2026-10-12T15:44:26.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:8d665934e3bd",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Le tende arrivano a Montecitorio, a Milano e in 10 atenei",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/le-tende-arrivano-a-montecitorio-a-milano-e-in-10-atenei_56b96fd7-2204-4477-8227-f7899807e135.html",
-      "image": null,
-      "summary": "L'Unione degli Universitari 'Con il Pnrr create camere a 1000 euro al mese'",
-      "date": "2026-10-12T15:36:00.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:4ca97f29747e",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Fermato dai carabinieri muore dopo un malore, indaga la Procura di Lodi",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/fermato-dai-carabinieri-muore-dopo-un-malore-indaga-la-procura-di-lodi_e606ab1a-e369-4fab-928e-839ae4b59bd8.html",
-      "image": null,
-      "summary": "Bloccato presumibilmente dopo un tentato furto, i militari lo hanno subito soccorso",
-      "date": "2026-10-12T15:31:33.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:0e0440bf9481",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Fermato dai carabinieri muore dopo un malore, la Procura di Lodi indaga",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/fermato-dai-carabinieri-muore-dopo-un-malore-la-procura-di-lodi-indaga_b4873077-70fe-4d13-9d9c-3b2966dc7f7d.html",
-      "image": null,
-      "summary": "Bloccato presumibilmente dopo un tentato furto, militari lo hanno subito soccorso",
-      "date": "2026-10-12T15:31:19.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:67ef73a966b5",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Insulti e offese a Matteo Bassetti, prosciolti quattro novax",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/insulti-e-offese-a-matteo-bassetti-prosciolti-quattro-novax_b52d9c16-7744-44de-a5b2-9eb966076af4.html",
-      "image": null,
-      "summary": "Il giudice, fatti lievi. Il medico potrà comunque chiedere il risarcimento",
-      "date": "2026-10-12T15:27:46.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:f9c6e7cbff96",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Liberi di scegliere, circa 200 i minorenni già sottratti a mafie",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/liberi-di-scegliere-circa-200-i-minorenni-gia-sottratti-a-mafie_d654f6d9-f689-4767-b159-a4d0e12d8ed5.html",
-      "image": null,
-      "summary": "Colosimo: 'Lo Stato c'è'. Di Bella: 'Tocchiamo il sentimento filiale'",
-      "date": "2026-10-12T15:21:30.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:09523fbc6647",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Raggiunto dai soccorritori speleologo intrappolato in grotta in Sardegna",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/raggiunto-dai-soccorritori-speleologo-intrappolato-in-grotta-in-sardegna_f1ced62d-ca26-4fc0-9591-1af58dcedd10.html",
-      "image": null,
-      "summary": "I tecnici del Soccorso alpino e i vigili del fuoco ora devono liberarlo dalla frana",
-      "date": "2026-10-12T15:18:13.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:9031fc697b3d",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Comune Marsala nega teatro a neomelodico, Tar respinge ricorso cantante",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/comune-marsala-nega-teatro-a-neomelodico-tar-respinge-ricorso-cantante_6f51bc4b-aa87-46ee-996b-a18a69542fd0.html",
-      "image": null,
-      "summary": "Giudici: \"Operato legittimo\". Sindaca: \"Città segnata da lotta alla mafia\"",
-      "date": "2026-10-12T14:22:15.0000000Z"
     }
   ]
 }
