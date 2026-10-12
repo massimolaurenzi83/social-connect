@@ -1,7 +1,19 @@
 {
   "category": "spazio",
-  "updated": "2026-10-12T07:18:17.6115645Z",
+  "updated": "2026-10-12T16:51:00.3915872Z",
   "items": [
+    {
+      "id": "astronautinews:0c6e79f4d138",
+      "sourceId": "astronautinews",
+      "source": "AstronautiNEWS",
+      "platform": "rss",
+      "category": "spazio",
+      "title": "È rientrato l’equipaggio della missione SpaceX Crew-12",
+      "url": "https://www.astronautinews.it/2026/10/e-rientrato-lequipaggio-della-missione-spacex-crew-12/",
+      "image": "https://www.astronautinews.it/wp-content/uploads/2026/10/unnamed2.jpg",
+      "summary": "Dopo oltre sette mesi a bordo della Stazione Spaziale Internazionale ( ISS ), la missione SpaceX Crew-12 della NASA è ammarata giovedì 8 ottobre nell’Oceano Pacifico, al largo della costa di Los Angeles. «Jessica, Jac...",
+      "date": "2026-10-12T09:00:00.0000000Z"
+    },
     {
       "id": "astronautinews:a5da18845364",
       "sourceId": "astronautinews",
@@ -133,18 +145,6 @@
       "image": "https://www.astronautinews.it/wp-content/uploads/2026/08/NHQ20260830_admin_0002large.jpg",
       "summary": "Sono ormai trascorsi più di trentasei anni da quando lo Space Shuttle Discovery rilasciò in orbita terrestre bassa il telescopio spaziale Hubble (HST), facendolo diventare da quel momento uno dei principali artefici d...",
       "date": "2026-08-30T12:51:14.0000000Z"
-    },
-    {
-      "id": "astronautinews:9ff4fdac89ed",
-      "sourceId": "astronautinews",
-      "source": "AstronautiNEWS",
-      "platform": "rss",
-      "category": "spazio",
-      "title": "FLEX fa il pieno e riceve l’adattatore per il lancio",
-      "url": "https://www.astronautinews.it/2026/08/flex-fa-il-pieno-e-riceve-ladattatore-per-il-lancio/",
-      "image": "https://www.astronautinews.it/wp-content/uploads/2026/08/FLEX_brings_plant_health_into_focus_pillars.jpg",
-      "summary": "Il satellite dell'Agenzia spaziale europea (ESA) FLEX per lo studio della salute della vegetazione terrestre, nei giorni scorsi è stato rifornito di propellenti ed è stato unito al suo adattatore per il lancio. Queste...",
-      "date": "2026-08-23T16:00:00.0000000Z"
     }
   ]
 }

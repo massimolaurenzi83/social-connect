@@ -1,7 +1,79 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-12T07:18:17.5999055Z",
+  "updated": "2026-10-12T16:51:00.3966466Z",
   "items": [
+    {
+      "id": "cybersecurity360:ba1b61345488",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber security nel fotovoltaico: come proteggere impianti e rete",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-security-nel-fotovoltaico-come-proteggere-impianti-e-rete/",
+      "image": null,
+      "summary": "La digitalizzazione del fotovoltaico espone inverter, sistemi di monitoraggio e reti elettriche a nuovi rischi informatici. Dai casi reali alle norme europee, la protezione degli impianti diventa decisiva per garantir...",
+      "date": "2026-10-12T14:57:24.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:8d81c32fb368",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "I CISO sono più ottimisti, ma lanciano l’allarme: “il nostro lavoro sempre più complesso”",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/i-ciso-sono-piu-ottimisti-ma-lanciano-lallarme-il-nostro-lavoro-sempre-piu-complesso/",
+      "image": null,
+      "summary": "Una ricerca di Proofpoint fotografa la situazione attraverso gli occhi degli addetti ai lavori. Maggiore confidenza nei propri mezzi, ma AI e fattore umano rimangono degli elementi di preoccupazione L'articolo I CISO ...",
+      "date": "2026-10-12T14:04:01.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:937e022c4d2b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cybersecurity per micro-imprese senza team IT: Kaspersky rinnova la protezione Small Office tra anti-ransomware e Security Awareness",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/kaspersky-small-office-security-premium-protezione-pmi-piva-ransomware/",
+      "image": null,
+      "summary": "Kaspersky Small Office Security Premium propone una protezione per le piccole imprese con cinque utenti, assistenza IT e formazione sulla sicurezza informatica. Il prezzo promozionale scende a 227,50 euro e include un...",
+      "date": "2026-10-12T12:24:26.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:8ba4ccb773f6",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Sicurezza degli LLM: quando ridurre i costi significa aumentare la superficie d’attacco",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/sicurezza-degli-llm-quando-ridurre-i-costi-significa-aumentare-la-superficie-dattacco/",
+      "image": null,
+      "summary": "Ridurre i costi degli LLM attraverso caching, RAG, routing e integrazione dei tool può introdurre nuove vulnerabilità. Dalla prompt injection al cache poisoning, le tecniche di ottimizzazione ampliano la superficie d'...",
+      "date": "2026-10-12T10:07:33.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:fe1ad231e6d0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Oltre le passkey: cos’è l’Authorization Phishing",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/oltre-le-passkey-cose-lauthorization-phishing/",
+      "image": null,
+      "summary": "L'adozione di passkey e autenticazione a più fattori ha spinto i criminali informatici a evolvere il phishing verso l'autorizzazione post-login attraverso tecniche insidiose come il device code phishing e il consent f...",
+      "date": "2026-10-12T09:06:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:e372e3c66881",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Ci pensa l’AI?",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/ci-pensa-lai/",
+      "image": null,
+      "summary": "Delegare all'intelligenza artificiale non significa smettere di pensare. Dietro la promessa di sistemi sempre più autonomi si nasconde il rischio di perdere il controllo delle decisioni. Perché l'AI può fare molto al ...",
+      "date": "2026-10-12T06:30:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:33b3b9164516",
       "sourceId": "cybersecurity360",
@@ -49,78 +121,6 @@
       "image": null,
       "summary": "Proteggere gli impianti industriali oggi significa coordinare le necessità IT e OT, mantenendone la necessaria segregazione. Il progetto di A2A Smart City mostra come standardizzazione, monitoraggio continuo e governa...",
       "date": "2026-10-09T13:11:33.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2fcb6c78a21a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Midnight Mimosa, il malware preinstallato nel firmware degli smartphone Android",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/midnight-mimosa-il-malware-preinstallato-nel-firmware-degli-smartphone-android/",
-      "image": null,
-      "summary": "È stato ribattezzato Midnight Mimosa il malware per Android che, a differenza delle comuni infezioni che richiedono il download o l’installazione di un’app malevola, arriva direttamente preinstallato nel firmware di a...",
-      "date": "2026-10-09T13:00:56.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:c065415bd55a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Privacy su scala globale: come ExpressVPN integra protezione post-quantistica, server RAM e offuscamento del traffico",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/expressvpn-sconto-80-vpn-sicurezza-post-quantistica/",
-      "image": null,
-      "summary": "ExpressVPN propone abbonamenti con sconti fino all'80% sui piani biennali, protezione della connessione e strumenti per la privacy digitale. L'offerta comprende tre livelli, con prezzi promozionali da 2,49 euro al mes...",
-      "date": "2026-10-09T09:22:18.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:60d4314d0e70",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Videosorveglianza urbana: il nuovo Patto per la sicurezza chiarisce le responsabilità privacy",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/videosorveglianza-urbana-il-nuovo-patto-per-la-sicurezza-chiarisce-le-responsabilita-privacy/",
-      "image": null,
-      "summary": "Quando Comuni e Forze di Polizia condividono le telecamere, chi è titolare del trattamento dei dati? Il nuovo modello di Patto per la sicurezza urbana supera l'ambiguità degli accessi indistinti e distingue finalità, ...",
-      "date": "2026-10-09T09:02:58.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:5cffbd317991",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Ray-Ban Meta alla prova del GDPR: il dilemma della contitolarità",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/ray-ban-meta-alla-prova-del-gdpr-il-dilemma-della-contitolarita/",
-      "image": null,
-      "summary": "Il caso Ray-Ban Meta solleva una questione che va oltre gli smart glasses. Vediamo se il mancato opt-out al training dell’IA basta a rendere l’utente contitolare del trattamento L'articolo Ray-Ban Meta alla prova del ...",
-      "date": "2026-10-09T07:11:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:851c79cadb6e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Phishing, la nuova trappola dei falsi servizi AI: il login diventa un attacco interattivo",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/phishing-la-nuova-trappola-dei-falsi-servizi-ai-il-login-diventa-un-attacco-interattivo/",
-      "image": null,
-      "summary": "Falsi strumenti pubblicitari che imitano servizi AI conducono le vittime verso finestre di autenticazione contraffatte. Gli attaccanti seguono ogni passaggio e decidono in tempo reale quali credenziali o verifiche ric...",
-      "date": "2026-10-08T16:25:30.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:c013e7362c9a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Customer Advocacy: come costruire relazioni di fiducia durature",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/customer-advocacy-come-costruire-relazioni-di-fiducia-durature/",
-      "image": null,
-      "summary": "Nel settore della sicurezza informatica le relazioni trasformano gli acquirenti B2B in alleati strategici. Analisi delle dinamiche di customer advocacy, dalla protezione dei dati riservati alla misurazione dell'impatt...",
-      "date": "2026-10-08T14:29:00.0000000Z"
     }
   ]
 }
