@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-10-13T18:17:30.2830576Z",
+  "updated": "2026-10-13T22:55:53.8316962Z",
   "items": [
+    {
+      "id": "vaielettrico:ee1b9a28e133",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "In campagna arriva Thor, il robot di Voltrac con 4 motori elettrici",
+      "url": "https://www.vaielettrico.it/in-campagna-arriva-thor-il-robot-di-voltrac-con-4-motori-elettrici/",
+      "image": null,
+      "summary": "Thor, il robot elettrico autonomo sviluppato da Voltrac, passa ufficialmente dalla sperimentazione in campo alla produzione pre‑serie. La… L'articolo In campagna arriva Thor, il robot di Voltrac con 4 motori elettrici...",
+      "date": "2026-10-13T19:21:12.0000000Z"
+    },
     {
       "id": "hdmotori:9ac19a32f4ba",
       "sourceId": "hdmotori",
@@ -15,6 +27,18 @@
       "date": "2026-10-13T17:30:47.0000000Z"
     },
     {
+      "id": "motor1:d2e7bb651b69",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Denza? Dire che siamo Premium è facile. Più difficile esserlo",
+      "url": "https://it.motor1.com/news/811796/denza-premium-byd-flashcharging-parigi2026/",
+      "image": "https://cdn.motor1.com/images/mgl/zx00K4/s3/stella-li-e-alfredo-altavilla-di-byd-e-denza.jpg",
+      "summary": "Alla tavola rotonda con la stampa, Stella Li e Alfredo Altavilla hanno tracciato i punti di sviluppo dell'azienda",
+      "date": "2026-10-13T17:30:00.0000000Z"
+    },
+    {
       "id": "hdmotori:cb309646387d",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -25,6 +49,18 @@
       "image": null,
       "summary": "Una Mercedes C 230 Kompressor, appartenuta al pilota austriaco Niki Lauda, potrebbe diventare un affare per un fan The post In vendita una vecchia Mercedes di Niki Lauda, prevista un’asta rovente appeared first on HDm...",
       "date": "2026-10-13T17:00:26.0000000Z"
+    },
+    {
+      "id": "motor1:c99f7b3a7672",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "smart #2, com’è fatta dentro la \"nuova\" icona",
+      "url": "https://it.motor1.com/news/811803/smart-2-interni-parigi-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/P3VVmW/s3/smart-2-gli-interni.jpg",
+      "summary": "Abbiamo guardato da vicino l’abitacolo della nuova smart #2: materiali soft touch, due display, tasti fisici e un bagagliaio da 305 l",
+      "date": "2026-10-13T17:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:c172623b2c20",
@@ -51,6 +87,18 @@
       "date": "2026-10-13T16:30:34.0000000Z"
     },
     {
+      "id": "motor1:400f8ba084b5",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Flotte aziendali, senza regole fiscali chiare il rinnovo del parco rischia di fermarsi",
+      "url": "https://it.motor1.com/news/811760/mobility-riforma-fiscale-flotte-aziendali/",
+      "image": "https://cdn.motor1.com/images/mgl/xqOOYv/s3/flotte-aziendali-senza-regole-fiscali-chiare-il-rinnovo-del-parco-rischia-di-fermarsi.jpg",
+      "summary": "L’associazione dei fleet e mobility manager appoggia la riforma fiscale proposta per accelerare rinnovo flotte aziendali e transizione energetica",
+      "date": "2026-10-13T16:30:00.0000000Z"
+    },
+    {
       "id": "hdmotori:f3eaf0ac7e7f",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -75,18 +123,6 @@
       "date": "2026-10-13T15:00:45.0000000Z"
     },
     {
-      "id": "insideevs:cff551f4c464",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto elettrica economica: ora la sfida è fissata a 15.000 euro",
-      "url": "https://insideevs.it/news/811768/auto-elettirca-economica-stellantis-150000-euro/",
-      "image": "https://cdn.motor1.com/images/mgl/0epgy3/s3/citroen-2cv-concept.jpg",
-      "summary": "Con la Citroen 2 CV Concept, Stellantis fissa nuovi standard per rendere accessibile la mobilità a zero emissioni. Gli altri inseguono",
-      "date": "2026-10-13T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:3e1e13c698f4",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -96,6 +132,18 @@
       "url": "https://it.motor1.com/reviews/811693/geely-e2-prova-recensione-video/",
       "image": "https://cdn.motor1.com/images/mgl/nA888j/s3/geely-e2-prova.jpg",
       "summary": "È una segmento B da città ma dentro è super spaziosa e ha tanta tecnologia. Il prezzo? Da 20.900 euro",
+      "date": "2026-10-13T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:cff551f4c464",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto elettrica economica: ora la sfida è fissata a 15.000 euro",
+      "url": "https://insideevs.it/news/811768/auto-elettirca-economica-stellantis-150000-euro/",
+      "image": "https://cdn.motor1.com/images/mgl/0epgy3/s3/citroen-2cv-concept.jpg",
+      "summary": "Con la Citroen 2 CV Concept, Stellantis fissa nuovi standard per rendere accessibile la mobilità a zero emissioni. Gli altri inseguono",
       "date": "2026-10-13T15:00:00.0000000Z"
     },
     {
@@ -195,18 +243,6 @@
       "date": "2026-10-13T13:00:40.0000000Z"
     },
     {
-      "id": "motor1:f0c17ca0005a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'Alfa Romeo Cuorerosso raccontata da chi l'ha disegnata",
-      "url": "https://it.motor1.com/news/811353/alfa-romeo-cuorerosso-mesonero-intervista/",
-      "image": "https://cdn.motor1.com/images/mgl/qk8YrL/s3/alfa-romeo-intervista-a-alejandro-mesonero.jpg",
-      "summary": "Alejandro Mesonero, a capo del design Alfa, racconta la concept tra stile e dettagli che vedremo sulle prossime auto",
-      "date": "2026-10-13T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:8d7a5a87e6f4",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -216,6 +252,18 @@
       "url": "https://insideevs.it/news/811744/renault-edf-auto-elettrica-v2g/",
       "image": "https://cdn.motor1.com/images/mgl/eo7KxK/s3/renault-twingo-electric-2026-im-test.jpg",
       "summary": "Chi ricarica a casa potrà anche restituire energia alla rete e ottenere un compenso, anche se la tariffa non è ancora nota",
+      "date": "2026-10-13T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:f0c17ca0005a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'Alfa Romeo Cuorerosso raccontata da chi l'ha disegnata",
+      "url": "https://it.motor1.com/news/811353/alfa-romeo-cuorerosso-mesonero-intervista/",
+      "image": "https://cdn.motor1.com/images/mgl/qk8YrL/s3/alfa-romeo-intervista-a-alejandro-mesonero.jpg",
+      "summary": "Alejandro Mesonero, a capo del design Alfa, racconta la concept tra stile e dettagli che vedremo sulle prossime auto",
       "date": "2026-10-13T13:00:00.0000000Z"
     },
     {
@@ -315,18 +363,6 @@
       "date": "2026-10-13T11:00:30.0000000Z"
     },
     {
-      "id": "motor1:a1ff76cb17af",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Salone di Parigi 2026, l'Europa reagisce facendo quello che può",
-      "url": "https://it.motor1.com/news/810266/salone-parigi-2026-brand-europei/",
-      "image": "https://cdn.motor1.com/images/mgl/jl88Wg/s3/alfa-romeo-al-salone-di-parigi-2026.jpg",
-      "summary": "Dopo anni di presenze con il contagocce i grandi Gruppi europei tornano ai saloni",
-      "date": "2026-10-13T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:3f12861d16e0",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -336,6 +372,18 @@
       "url": "https://insideevs.it/news/811742/gm-battery-cell-development-center/",
       "image": "https://cdn.motor1.com/images/mgl/Rqbbrr/s3/queste-batterie-potrebbero-cambiare-i-suv-elettrici-americani.jpg",
       "summary": "Nel nuovo Battery Cell Development Center di GM le celle LMR fanno il salto dal laboratorio agli impianti Ultium di Spring Hill",
+      "date": "2026-10-13T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:a1ff76cb17af",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Salone di Parigi 2026, l'Europa reagisce facendo quello che può",
+      "url": "https://it.motor1.com/news/810266/salone-parigi-2026-brand-europei/",
+      "image": "https://cdn.motor1.com/images/mgl/jl88Wg/s3/alfa-romeo-al-salone-di-parigi-2026.jpg",
+      "summary": "Dopo anni di presenze con il contagocce i grandi Gruppi europei tornano ai saloni",
       "date": "2026-10-13T11:00:00.0000000Z"
     },
     {
@@ -349,30 +397,6 @@
       "image": null,
       "summary": "Ultime ore per partecipare ai Vaielettrico Community Awards: le votazioni sono aperte fino a domani, 14 ottobre, alle… L'articolo Community Awards: votate i vostri progetti preferiti entro domani alle 13 proviene da V...",
       "date": "2026-10-13T10:52:56.0000000Z"
-    },
-    {
-      "id": "motor1:33d9e77a2ae2",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Pneumatici invernali per SUV, arriva il nuovo Pirelli Scorpion",
-      "url": "https://it.motor1.com/news/811741/pirelli-scorpion-winter-3-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/Znllwr/s3/scorpion-winter-3.jpg",
-      "summary": "Lo Scorpion Winter 3 debutta con 30 misure e soluzioni per neve, pioggia e asfalto asciutto",
-      "date": "2026-10-13T10:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:b0c07e9a15fa",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Skoda compatta diventa più sportiva",
-      "url": "https://it.motor1.com/news/811724/skoda-epiq-sportline-allestimento/",
-      "image": "https://cdn.motor1.com/images/mgl/E6XXvR/s3/skoda-epiq-sportline.jpg",
-      "summary": "A Parigi debutta la Epiq in allestimento Sportline, con un'estetica dedicata e tanti inserti sportivi",
-      "date": "2026-10-13T09:30:00.0000000Z"
     },
     {
       "id": "vaielettrico:a79882c4dcd2",
@@ -435,18 +459,6 @@
       "date": "2026-10-13T07:00:00.0000000Z"
     },
     {
-      "id": "motor1:de9e80812d29",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Raval CUSTOM CUPRA by ABT: look sportivo per la city car",
-      "url": "https://it.motor1.com/news/811650/cupra-raval-abt-custom/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z113A/s3/custom-cupra-raval-2026-von-abt.jpg",
-      "summary": "Dopo León e Formentor, il bestseller CUPRA Raval è il prossimo a passare tra le mani di ABT. Già ordinabile da 33.720 euro",
-      "date": "2026-10-13T07:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:597acc218ded",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -481,18 +493,6 @@
       "image": "https://cdn.motor1.com/images/mgl/zx00Aq/s3/byd-atto-8.jpg",
       "summary": "Due versioni elettriche con Blade Battery da 115 kWh, fino a 775 CV e autonomia di 653 km nel ciclo WLTP",
       "date": "2026-10-12T14:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:11319ce49590",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Un installatore fa il punto su ricarica e doppio contatore a casa",
-      "url": "https://www.vaielettrico.it/un-installatore-fa-il-punto-su-ricarica-e-doppio-contatore/",
-      "image": null,
-      "summary": "Un installatore fa il punto sulla ricarica a casa e sul problema, sollevato nei giorni scorsi, del doppio… L'articolo Un installatore fa il punto su ricarica e doppio contatore a casa proviene da Vaielettrico .",
-      "date": "2026-10-12T13:28:51.0000000Z"
     },
     {
       "id": "insideevs:b2d8070cb388",
