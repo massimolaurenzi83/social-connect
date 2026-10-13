@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-10-13T11:08:41.9009853Z",
+  "updated": "2026-10-13T18:17:30.2782251Z",
   "items": [
+    {
+      "id": "focus:45cc39af09b5",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Come funziona il pungiglione delle api",
+      "url": "https://www.focus.it/ambiente/animali/il-pungiglione-delle-api-pompa-veleno-anche-dopo-il-distacco-abbiamo-scoperto-come-fa",
+      "image": "https://www.focus.it/images/2026/10/13/pungiglione_w630.jpg?imbypass=true",
+      "summary": "Sapevamo già da tempo che il pungiglione delle api continua a pompare veleno anche dopo il distacco dall’animale: ora abbiamo scoperto il meccanismo.",
+      "date": "2026-10-13T12:00:00.0000000Z"
+    },
     {
       "id": "geopop:dN-D-8byhNA",
       "sourceId": "geopop",
@@ -26,6 +38,18 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/Comunicato-stampa-34-carosello-x2-slide-3-150x150.png",
       "summary": "Un team a guida Inaf ha analizzato la popolazione dei sistemi multi-pianeta, scoprendo che si divide in due distinte famiglie nate attorno a stelle diverse tra loro. Lo studio, pubblicato oggi su Nature Astronomy, dim...",
       "date": "2026-10-13T09:00:44.0000000Z"
+    },
+    {
+      "id": "focus:c2eabb663508",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Scambi di saliva e relazioni",
+      "url": "https://www.focus.it/comportamento/psicologia/per-un-bambino-di-4-mesi-chi-si-scambia-saliva-ha-una-relazione-stretta",
+      "image": "https://www.focus.it/images/2026/10/10/bambina-nutre-pupazzi_w630.jpg?imbypass=true",
+      "summary": "Un cucchiaio condiviso, un panino mangiato in due: i bambini piccolissimi osservano gli scambi di saliva per capire quanto è intimo il legame tra due persone.",
+      "date": "2026-10-13T09:00:00.0000000Z"
     },
     {
       "id": "focus:3f3768ade9b9",
@@ -246,30 +270,6 @@
       "summary": "",
       "videoId": "5jfIiL42w3s",
       "date": "2026-10-11T05:00:03.0000000Z"
-    },
-    {
-      "id": "focus:21e379aeac5f",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Un \"microblazar\" puntato verso di noi",
-      "url": "https://www.focus.it/scienza/spazio/via-lattea-primo-microblazar-buco-nero-con-il-getto-puntato-dritto-verso-la-terra",
-      "image": "https://www.focus.it/images/2026/10/07/buco-nero--microblazar_w630.jpg?imbypass=true",
-      "summary": "A 12.000 anni luce da noi, l'oggetto IRAS 18293−0941 conferma una teoria formulata trent'anni fa. Si tratta di un buco nero che divora una stella e spara getti di materia a velocità della luce nella nostra direzione.",
-      "date": "2026-10-11T03:00:00.0000000Z"
-    },
-    {
-      "id": "focus:f9ed2d1c3424",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Un tubo su misura",
-      "url": "https://www.focus.it/scienza/salute/un-tubo-su-misura",
-      "image": "https://www.focus.it/images/2026/10/10/intubazione_w630.jpeg?imbypass=true",
-      "summary": "Quasi un paziente grave su due ha complicazioni serie mentre viene collegato al respiratore, e il rischio sale se il primo tentativo fallisce. Due giovani italiani hanno brevettato un condotto a diametro regolabile.",
-      "date": "2026-10-10T18:00:00.0000000Z"
     },
     {
       "id": "media-inaf:b0b14467e996",

@@ -1,7 +1,19 @@
 {
   "category": "aviazione",
-  "updated": "2026-10-13T03:40:19.2307337Z",
+  "updated": "2026-10-13T18:17:30.2502130Z",
   "items": [
+    {
+      "id": "aviationreport:e649960bf777",
+      "sourceId": "aviationreport",
+      "source": "Aviation Report",
+      "platform": "rss",
+      "category": "aviazione",
+      "title": "L’USAF dona un F-117A Nighthawk allo Smithsonian",
+      "url": "https://www.aviation-report.com/usaf-dona-un-f-117a-nighthawk-allo-smithsonian/",
+      "image": null,
+      "summary": "Lo scorso 6 ottobre 2026 un C-5M Super Galaxy dell’Air Force Reserve, callsign HAGAR91, è atterrato a Dulles International Airport in Virginia. A bordo non ha trasportato munizioni o veicoli, ma la fusoliera e le ali ...",
+      "date": "2026-10-13T10:15:30.0000000Z"
+    },
     {
       "id": "aviationreport:002ae03badbe",
       "sourceId": "aviationreport",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Leonardo, MAFA e BELTCON si sono aggiudicate un contratto per l’automazione del sistema di movimentazione bagagli del Terminal 2 dell’aeroporto internazionale Prince Mohammed bin Abdulaziz di Medina. L’installazione d...",
       "date": "2026-10-09T10:03:41.0000000Z"
-    },
-    {
-      "id": "aviationreport:6d6108afec9d",
-      "sourceId": "aviationreport",
-      "source": "Aviation Report",
-      "platform": "rss",
-      "category": "aviazione",
-      "title": "Paesi Bassi: avviata in Francia la costruzione del primo elicottero H225M Caracal",
-      "url": "https://www.aviation-report.com/paesi-bassi-avviata-in-francia-la-costruzione-del-primo-elicottero-h225m-caracal/",
-      "image": null,
-      "summary": "Airbus Helicopters ha avviato la produzione del primo H225M Caracal destinato alla Koninklijke Luchtmacht. I nuovi elicotteri saranno impiegati principalmente a supporto delle forze per operazioni speciali olandesi, c...",
-      "date": "2026-10-09T08:26:36.0000000Z"
     }
   ]
 }

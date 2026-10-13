@@ -1,7 +1,55 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-13T11:08:41.8814744Z",
+  "updated": "2026-10-13T18:17:30.2866435Z",
   "items": [
+    {
+      "id": "cybersecurity360:79a086f803cf",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Normalizzare la devianza: il rischio cyber comincia quando l’eccezione diventa regola",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/normalizzare-la-devianza-il-rischio-cyber-comincia-quando-leccezione-diventa-regola/",
+      "image": null,
+      "summary": "Una regola firewall temporanea, un accesso privilegiato mai revocato, un alert ignorato perché considerato innocuo. La normalizzazione della devianza trasforma le eccezioni di sicurezza in abitudini accettate, prepara...",
+      "date": "2026-10-13T15:04:50.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:95e1e8cecf3e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Tianfu Cup, la gara di hacking cinese che trasforma gli zero-day in risorsa strategica",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/tianfu-cup-la-gara-di-hacking-cinese-che-trasforma-gli-zero-day-in-risorsa-strategica/",
+      "image": null,
+      "summary": "La Tianfu Cup torna nel 2026 sotto una maggiore influenza delle autorità cinesi e con meno trasparenza sulle vulnerabilità scoperte. Una competizione di hacking che riapre il dibattito sul controllo statale degli zero...",
+      "date": "2026-10-13T13:55:07.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d499e3550bbe",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Diritto all’oblio, Google deve cambiare le regole entro il 15 novembre: i dinieghi vanno motivati",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/diritto-alloblio-google-deve-cambiare-le-regole-entro-il-15-novembre-i-dinieghi-vanno-motivati/",
+      "image": null,
+      "summary": "Il Tribunale di Milano ordina a Google di modificare entro il 15 novembre le procedure per il diritto all'oblio: gli utenti dovranno poter allegare documenti e ricevere risposte motivate. Una decisione che mette in di...",
+      "date": "2026-10-13T13:20:12.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:2dd1d57617de",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cybersecurity per le piccole imprese: Norton Small Business con backup cloud fino a 500 GB e monitoraggio del dark web",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/norton-small-business-premium-sicurezza-pmi-backup-dark-web/",
+      "image": null,
+      "summary": "Backup cloud fino a 500 GB, VPN e monitoraggio del dark web sono tra le funzionalità incluse nel piano Premium di Norton Small Business. Il servizio costa 139,99 euro per il primo anno, contro un prezzo di rinnovo di ...",
+      "date": "2026-10-13T10:08:45.0000000Z"
+    },
     {
       "id": "cybersecurity360:fccc8407789b",
       "sourceId": "cybersecurity360",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Kaspersky Small Office Security Premium propone una protezione per le piccole imprese con cinque utenti, assistenza IT e formazione sulla sicurezza informatica. Il prezzo promozionale scende a 227,50 euro e include un...",
       "date": "2026-10-12T12:24:26.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:8ba4ccb773f6",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sicurezza degli LLM: quando ridurre i costi significa aumentare la superficie d’attacco",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/sicurezza-degli-llm-quando-ridurre-i-costi-significa-aumentare-la-superficie-dattacco/",
-      "image": null,
-      "summary": "Ridurre i costi degli LLM attraverso caching, RAG, routing e integrazione dei tool può introdurre nuove vulnerabilità. Dalla prompt injection al cache poisoning, le tecniche di ottimizzazione ampliano la superficie d'...",
-      "date": "2026-10-12T10:07:33.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:fe1ad231e6d0",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Oltre le passkey: cos’è l’Authorization Phishing",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/oltre-le-passkey-cose-lauthorization-phishing/",
-      "image": null,
-      "summary": "L'adozione di passkey e autenticazione a più fattori ha spinto i criminali informatici a evolvere il phishing verso l'autorizzazione post-login attraverso tecniche insidiose come il device code phishing e il consent f...",
-      "date": "2026-10-12T09:06:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:e372e3c66881",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Ci pensa l’AI?",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/ci-pensa-lai/",
-      "image": null,
-      "summary": "Delegare all'intelligenza artificiale non significa smettere di pensare. Dietro la promessa di sistemi sempre più autonomi si nasconde il rischio di perdere il controllo delle decisioni. Perché l'AI può fare molto al ...",
-      "date": "2026-10-12T06:30:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:33b3b9164516",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Guerra cyber e AI agentica: quando anche gli attaccanti perdono il controllo",
-      "url": "https://www.cybersecurity360.it/news/guerra-cyber-e-ai-agentica-quando-anche-gli-attaccanti-perdono-il-controllo/",
-      "image": null,
-      "summary": "L'AI agentica cambia le regole della guerra cyber: l'incertezza non riguarda più soltanto chi difende, ma anche chi attacca. Gli agenti autonomi possono rendere imprevedibili intenzioni e conseguenze delle operazioni,...",
-      "date": "2026-10-09T15:38:26.0000000Z"
     }
   ]
 }
