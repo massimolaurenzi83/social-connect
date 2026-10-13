@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-13T03:40:19.2002539Z",
+  "updated": "2026-10-13T11:08:41.8814744Z",
   "items": [
+    {
+      "id": "cybersecurity360:fccc8407789b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Così l’evoluzione delle AI agentiche sta ridisegnando la cyber security",
+      "url": "https://www.cybersecurity360.it/outlook/cosi-levoluzione-delle-ai-agentiche-sta-ridisegnando-la-cyber-security/",
+      "image": null,
+      "summary": "L'intelligenza artificiale agentica sta trasformando l’ecosistema della sicurezza informatica, sia sul fronte degli attaccanti (con la barriera di ingresso al crimine informatico che si è abbassata drasticamente) sia ...",
+      "date": "2026-10-13T09:51:49.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:2d5cc60070d4",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Attacco ai supermercati francesi: la vulnerabilità OT che mette a rischio la catena del freddo",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/attacco-ai-supermercati-francesi-la-vulnerabilita-ot-che-mette-a-rischio-la-catena-del-freddo/",
+      "image": null,
+      "summary": "Un attacco cyber ha manipolato i sistemi di refrigerazione di centinaia di supermercati francesi, causando la perdita di prodotti alimentari e danni milionari. L'incidente mostra come controllori OT obsoleti, firmware...",
+      "date": "2026-10-13T09:16:19.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:1d9e706ec04d",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Safety e Security: due domini, un unico ecosistema della sicurezza",
+      "url": "https://www.cybersecurity360.it/legal/safety-e-security-due-domini-un-unico-ecosistema-della-sicurezza/",
+      "image": null,
+      "summary": "I domini di Safety e Security rientrano in unico ecosistema, in un contesto segnato da profonde trasformazioni digitali e normative. Ecco come individuare i criteri che li distinguono e perché la loro convergenza non ...",
+      "date": "2026-10-13T07:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:ba1b61345488",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "L'AI agentica cambia le regole della guerra cyber: l'incertezza non riguarda più soltanto chi difende, ma anche chi attacca. Gli agenti autonomi possono rendere imprevedibili intenzioni e conseguenze delle operazioni,...",
       "date": "2026-10-09T15:38:26.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:98ee81ab21a1",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Caso Publica, la Svizzera colpita attraverso un fornitore: la lezione sulla supply chain per l’Italia",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/attacco-cyber-alla-cassa-pensioni-svizzera-il-rischio-nascosto-nella-supply-chain/",
-      "image": null,
-      "summary": "L'attacco al fornitore della cassa pensioni svizzera Publica riaccende l'attenzione sui rischi della supply chain. I dati previdenziali potenzialmente sottratti possono alimentare furti d'identità e frodi anche a dist...",
-      "date": "2026-10-09T14:49:23.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:cc6842f79d59",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Videosorveglianza comunale, il regolamento conta, ma non basta: bocciate le finalità “tuttofare”",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/videosorveglianza-comunale-il-regolamento-conta-ma-non-basta-bocciate-le-finalita-tuttofare/",
-      "image": null,
-      "summary": "Il Garante privacy sanziona un piccolo Comune valdostano. Nel mirino basi giuridiche generiche, riprese indebite di abitazioni private, informative inadeguate e DPIA ridotta a una riga di Excel. Il provvedimento richi...",
-      "date": "2026-10-09T14:12:48.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:74eef9189e68",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "OT Security 4.0, il modello A2A Smart City per proteggere le infrastrutture nell’era della convergenza IT/OT",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/ot-security-4-0-il-modello-a2a-smart-city-per-proteggere-le-infrastrutture-critiche-nellera-della-convergenza-it-ot/",
-      "image": null,
-      "summary": "Proteggere gli impianti industriali oggi significa coordinare le necessità IT e OT, mantenendone la necessaria segregazione. Il progetto di A2A Smart City mostra come standardizzazione, monitoraggio continuo e governa...",
-      "date": "2026-10-09T13:11:33.0000000Z"
     }
   ]
 }
