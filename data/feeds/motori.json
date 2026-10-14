@@ -1,7 +1,247 @@
 {
   "category": "motori",
-  "updated": "2026-10-14T06:43:59.9100104Z",
+  "updated": "2026-10-14T12:28:16.8662599Z",
   "items": [
+    {
+      "id": "hdmotori:06279161b85d",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Jaguar prepara il riscatto, la Type 01 interessa a più di 50.000 persone",
+      "url": "https://www.hdmotori.it/jaguar-type-01-50000-ordini/",
+      "image": null,
+      "summary": "Nonostante siano piovute critiche senza precedenti sul rebranding del marchio inglese, la nuova Jaguar Type 01 avrebbe stimolato decine di migliaia di appassionati The post Jaguar prepara il riscatto, la Type 01 inter...",
+      "date": "2026-10-14T12:00:57.0000000Z"
+    },
+    {
+      "id": "motor1:0b07a31be1e5",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il numero uno di Stellantis chiarisce: Maserati non è in vendita",
+      "url": "https://it.motor1.com/news/811918/maserati-non-vendita-stellantis/",
+      "image": "https://cdn.motor1.com/images/mgl/jl8841/s3/il-tridente-simbolo-di-maserati.jpg",
+      "summary": "Antonio Filosa esclude anche la separazione dei marchi europei e americani",
+      "date": "2026-10-14T12:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:2f275aab77b8",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BMW Concept 7 Protection: la Serie 7 blindata che non si fa notare",
+      "url": "https://www.hdmotori.it/bmw-concept-7-protection/",
+      "image": null,
+      "summary": "Presentata sulla base della M760e ibrida da 612 CV, la nuova vettura bavarese garantisce protezione contro le armi corte senza rinunciare all'eleganza e alla discrezione. The post BMW Concept 7 Protection: la Serie 7 ...",
+      "date": "2026-10-14T11:00:41.0000000Z"
+    },
+    {
+      "id": "insideevs:5903cef9f329",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tutti i motori della Geely E2",
+      "url": "https://insideevs.it/news/811755/geely-e2-motori-batterie/",
+      "image": "https://cdn.motor1.com/images/mgl/W8bbrN/s3/geely-e2.jpg",
+      "summary": "Due powertrain elettrici a trazione posteriore, batterie LFP da 35,35 e 47,14 kWh e autonomia fino a 345 km WLTP",
+      "date": "2026-10-14T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:cc18a4297330",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Bocciate le auto con troppi schermi: cosa dice Euro NCAP 2026",
+      "url": "https://it.motor1.com/news/811876/euro-ncap-2026-comandi-fisici/",
+      "image": "https://cdn.motor1.com/images/mgl/G3bbgV/s3/le-auto-con-troppi-schermi-finiscono-bocciate-cosa-dice-davvero-euro-ncap-2026.jpg",
+      "summary": "Audi Q7, Kia EV2 e Xpeng X9 prendono cinque stelle Euro NCAP 2026, ma sui comandi fisici emergono differenze nette tra Europa e Cina",
+      "date": "2026-10-14T11:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:74b52f36d660",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Porsche Macan a benzina, il prototipo si traveste da Audi",
+      "url": "https://it.motor1.com/news/811901/porsche-macan-termica-video-test/",
+      "image": "https://cdn.motor1.com/images/mgl/E6XXno/s3/porsche-macan.jpg",
+      "summary": "Un nuovo video mostra un prototipo con la scocca dell’Audi Q5, con carreggiate allargate e assetto rialzato, arrivo previsto nel 2028",
+      "date": "2026-10-14T10:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:a1ddc033fd5f",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Smart #2, torna anche la versione Brabus: quando arriverà in Italia",
+      "url": "https://www.hdmotori.it/smart-2-versione-brabus/",
+      "image": null,
+      "summary": "La gamma Smart ha riaccolto la citycar due posti più nota al mondo. La versione pepata firmata Brabus potrebbe arrivare nel 2027. The post Smart #2, torna anche la versione Brabus: quando arriverà in Italia appeared f...",
+      "date": "2026-10-14T10:00:16.0000000Z"
+    },
+    {
+      "id": "motor1:54155ffe0eaf",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Torna la sportiva leggera britannica e questa volta ha 385 CV",
+      "url": "https://it.motor1.com/news/811891/zenos-e10-motori-prezzi/",
+      "image": "https://cdn.motor1.com/images/mgl/y211w7/s3/zenos-e10-2027.jpg",
+      "summary": "La nuova Zenos E10 ha il 2.3 da 304 CV o il 2.0 da 385 CV, entrambi con cambio manuale a 6 rapporti e peso di 790 kg",
+      "date": "2026-10-14T10:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:4f8a8ed55c61",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nucleare senza veli (e ideologia): «Non è indispensabile, ma non va escluso»",
+      "url": "https://www.vaielettrico.it/nucleare-senza-veli-e-ideologia-non-e-indispensabile-ma-non-va-escluso/",
+      "image": null,
+      "summary": "Favorevole a discutere il ritorno dell’atomo, ma contrario a trasformarlo in una priorità assoluta della transizione energetica. Giovanni… L'articolo Nucleare senza veli (e ideologia): «Non è indispensabile, ma non va...",
+      "date": "2026-10-14T09:45:28.0000000Z"
+    },
+    {
+      "id": "motor1:58a2884dab10",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Parigi, Giugiaro: \"Alfa e Fiat coraggiose, ma mi ha colpito una cinese...\"",
+      "url": "https://it.motor1.com/news/811811/salone-parigi-2026-giugiaro-intervista/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZPPBp/s3/fabrizio-giugiaro.jpg",
+      "summary": "Il designer commenta i concept e le novità di questo Salone di Parigi 2026, non senza qualche sorpresa",
+      "date": "2026-10-14T09:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:702adb1dbe4f",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Xpeng G9L: il maxi-SUV elettrico tra lusso e intelligenza artificiale",
+      "url": "https://www.hdmotori.it/xpeng-g9l-maxi-suv-elettrico/",
+      "image": null,
+      "summary": "La nuova ammiraglia firmata Xpeng unisce la piattaforma a 800V a tecnologie di bordo da prima classe gestite dall'AI. The post Xpeng G9L: il maxi-SUV elettrico tra lusso e intelligenza artificiale appeared first on HD...",
+      "date": "2026-10-14T09:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:d0f57a817dd3",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Batterie auto elettriche, così possono durare oltre il 20% in più",
+      "url": "https://insideevs.it/news/811781/batterie-auto-elettriche-durata/",
+      "image": "https://cdn.motor1.com/images/mgl/YAbbEW/s3/batterie-auto-elettriche-cosi-possono-durare-oltre-il-20-in-piu.jpg",
+      "summary": "Una ricerca svedese propone di isolare le celle più deboli senza fermare le altre",
+      "date": "2026-10-14T09:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:3747924da74f",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il supercomputer Leonardo alimentato dall’agrivoltaico di Hera a Bologna",
+      "url": "https://www.vaielettrico.it/il-supercomputer-leonardo-alimentato-dallagrivoltaico-di-hera-a-bologna/",
+      "image": null,
+      "summary": "L’agrivoltaico alimenterà il supercomputer Leonardo, gestito da CINECA e ospitato al Tecnopolo DAMA di Bologna. L’impianto sorgerà su… L'articolo Il supercomputer Leonardo alimentato dall’agrivoltaico di Hera a Bologn...",
+      "date": "2026-10-14T08:31:31.0000000Z"
+    },
+    {
+      "id": "motor1:9a840ef88fcc",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Seat Leon cambia dentro: schermo maxi e gadget tecnologici",
+      "url": "https://it.motor1.com/news/811884/seat-leon-2027-schermo-pacchetti/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZZ4o/s3/seat-leon-e-seat-leon-sportstourer.jpg",
+      "summary": "Seat Leon 2027 introduce lo schermo da 12,9 pollici di serie e nuovi pacchetti con videocamera posteriore e assistenti alla guida",
+      "date": "2026-10-14T08:31:11.0000000Z"
+    },
+    {
+      "id": "hdmotori:2c1b3295399d",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Denza Z, arriva in Italia l’anti-Ferrari low cost: 1.604 CV e 350 km/h",
+      "url": "https://www.hdmotori.it/denza-z-anti-ferrari-low-cost/",
+      "image": null,
+      "summary": "Dalla Cina è sbarcata sul nostro mercato italiano una supercar elettrica in grado di raggiungere performance che oscurano anche i bolidi di Maranello. The post Denza Z, arriva in Italia l’anti-Ferrari low cost: 1.604 ...",
+      "date": "2026-10-14T08:30:11.0000000Z"
+    },
+    {
+      "id": "motor1:5fb62c2830f5",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuove Porsche Cayman e Boxster: batterie dove c'era il motore a benzina",
+      "url": "https://it.motor1.com/news/811877/porsche-718-elettrica-batterie-al-posto-del-motore/",
+      "image": "https://cdn.motor1.com/images/mgl/bgOOwM/s3/porsche-718-ev.jpg",
+      "summary": "Le Boxster e Cayman elettriche monteranno le batterie dietro i sedili in un'interpretazione non ortodossa dello schema a motore centrale",
+      "date": "2026-10-14T08:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:3a9530464e48",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dacia Striker: full hybrid e mild hybrid GPL con prezzi da 24.600 euro",
+      "url": "https://www.hdmotori.it/dacia-striker-full-mild-hybrid-gpl-prezzi/",
+      "image": null,
+      "summary": "Dacia apre gli ordini della nuova Striker: la wagon-crossover parte da 24.600 euro con motori Mild Hybrid GPL, Full Hybrid e trazione 4x4. Scopri allestimenti e prezzi. The post Dacia Striker: full hybrid e mild hybri...",
+      "date": "2026-10-14T07:30:20.0000000Z"
+    },
+    {
+      "id": "motor1:66091ab17304",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Gruppo BIG amplia l'offerta per le imprese con MAN TGE",
+      "url": "https://it.motor1.com/news/811858/gruppo-big-rete-man-tge/",
+      "image": "https://cdn.motor1.com/images/mgl/zx00GL/s3/foto-sede-big.jpg",
+      "summary": "Il Gruppo BIG amplia i servizi B2B entrando nella rete Van di MAN Truck & Bus, con il TGE, allestimenti, assistenza e gestione flotte",
+      "date": "2026-10-14T07:25:31.0000000Z"
+    },
+    {
+      "id": "insideevs:0f02977671c4",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla Roadster, la supercar promessa da nove anni adesso si gioca tutto",
+      "url": "https://insideevs.it/news/811869/tesla-roadster-promesse-2017-manca/",
+      "image": "https://cdn.motor1.com/images/mgl/6ZOOPE/s3/tesla-roadster.jpg",
+      "summary": "Nove anni dopo il primo prototipo Tesla Roadster resta senza data certa di consegna e con molte specifiche ancora solo promesse",
+      "date": "2026-10-14T07:12:40.0000000Z"
+    },
+    {
+      "id": "motor1:5919b55c4e9c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuovo Codice della strada, le multe arriveranno prima a casa",
+      "url": "https://it.motor1.com/features/811862/nuovo-codice-strada-2028-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/wlkkg4/s3/autovelox.jpg",
+      "summary": "Il decreto sul Codice della strada riscrive notifiche delle multe, termini di riscossione e calendario di entrata in vigore fino al 2028",
+      "date": "2026-10-14T06:46:18.0000000Z"
+    },
     {
       "id": "motor1:be9b8d021ecb",
       "sourceId": "motor1",
@@ -87,18 +327,6 @@
       "date": "2026-10-13T17:00:26.0000000Z"
     },
     {
-      "id": "motor1:c99f7b3a7672",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "smart #2, com’è fatta dentro la \"nuova\" icona",
-      "url": "https://it.motor1.com/news/811803/smart-2-interni-parigi-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/P3VVmW/s3/smart-2-gli-interni.jpg",
-      "summary": "Abbiamo guardato da vicino l’abitacolo della nuova smart #2: materiali soft touch, due display, tasti fisici e un bagagliaio da 305 l",
-      "date": "2026-10-13T17:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:c172623b2c20",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -123,18 +351,6 @@
       "date": "2026-10-13T16:30:34.0000000Z"
     },
     {
-      "id": "motor1:400f8ba084b5",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Flotte aziendali, senza regole fiscali chiare il rinnovo del parco rischia di fermarsi",
-      "url": "https://it.motor1.com/news/811760/mobility-riforma-fiscale-flotte-aziendali/",
-      "image": "https://cdn.motor1.com/images/mgl/xqOOYv/s3/flotte-aziendali-senza-regole-fiscali-chiare-il-rinnovo-del-parco-rischia-di-fermarsi.jpg",
-      "summary": "L’associazione dei fleet e mobility manager appoggia la riforma fiscale proposta per accelerare rinnovo flotte aziendali e transizione energetica",
-      "date": "2026-10-13T16:30:00.0000000Z"
-    },
-    {
       "id": "hdmotori:f3eaf0ac7e7f",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -145,18 +361,6 @@
       "image": null,
       "summary": "tark Future chiude le prenotazioni della VARG SM Sköll: 500 unità vendute in 48 ore dopo il record sull'ovale di Terramar. Nessuna riedizione per la Supermotard elettrica The post 500 moto vendute in 48 ore: la superm...",
       "date": "2026-10-13T16:00:12.0000000Z"
-    },
-    {
-      "id": "hdmotori:afa92d042ef8",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Inverte due cifre della targa nel pass ZTL: becca 165 multe per 10.800 euro",
-      "url": "https://www.hdmotori.it/bologna-165-multe-errore-targa-pass-disabili/",
-      "image": null,
-      "summary": "A Bologna due cifre invertite nel pass disabili trasformano l'accesso alla ZTL in un incubo: recapitate 165 multe per oltre 10.800 euro. Il Giudice di Pace le annulla The post Inverte due cifre della targa nel pass ZT...",
-      "date": "2026-10-13T15:00:45.0000000Z"
     },
     {
       "id": "insideevs:cff551f4c464",
@@ -171,18 +375,6 @@
       "date": "2026-10-13T15:00:00.0000000Z"
     },
     {
-      "id": "motor1:3e1e13c698f4",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La prova in anteprima della Geely E2, l'auto più venduta in Cina",
-      "url": "https://it.motor1.com/reviews/811693/geely-e2-prova-recensione-video/",
-      "image": "https://cdn.motor1.com/images/mgl/nA888j/s3/geely-e2-prova.jpg",
-      "summary": "È una segmento B da città ma dentro è super spaziosa e ha tanta tecnologia. Il prezzo? Da 20.900 euro",
-      "date": "2026-10-13T15:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:3bb07872e211",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -193,30 +385,6 @@
       "image": null,
       "summary": "La crisi dell’industria auto europea va ben oltre le oscillazioni del mercato: è una trasformazione strutturale che presenta… L'articolo La crisi dell’auto europea è strutturale. Componentistica italiana a rischio pro...",
       "date": "2026-10-13T14:07:40.0000000Z"
-    },
-    {
-      "id": "hdmotori:58936193bf03",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Lancia Ypsilon e Gamma non bastano: il CEO Belloni “rispolvera” il segmento A",
-      "url": "https://www.hdmotori.it/lancia-nuovi-modelli-segmento-a-belloni/",
-      "image": null,
-      "summary": "Arnaud Belloni fa il punto sul futuro di Lancia al Salone di Parigi 2026: il ruolo di sub-brand Fiat, l'espansione all'estero e i piani per le nuove vetture The post Lancia Ypsilon e Gamma non bastano: il CEO Belloni ...",
-      "date": "2026-10-13T14:00:24.0000000Z"
-    },
-    {
-      "id": "motor1:abfa2271a758",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Flotte di camion, i numeri di settembre nascondono un paradosso",
-      "url": "https://it.motor1.com/news/811739/mercato-veicoli-industriali-settembre-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/nA88Qy/s3/settembre-2026.jpg",
-      "summary": "UNRAE chiede lo sblocco del Fondo straordinario per l'autotrasporto e il recepimento della Direttiva Eurovignette in Italia",
-      "date": "2026-10-13T14:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:4ef95d77019f",
@@ -243,42 +411,6 @@
       "date": "2026-10-13T13:47:55.0000000Z"
     },
     {
-      "id": "motor1:85c0decc5bce",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Selenia compie 35 anni e promette oli motore “su misura”",
-      "url": "https://it.motor1.com/news/811749/selenia-oli-motore-stellantis-dr/",
-      "image": "https://cdn.motor1.com/images/mgl/ko88QM/s3/selenia-compie-35-anni.jpg",
-      "summary": "Nato come prodotto dedicato a Fiat, oggi il marchio copre tutta la gamma Stellantis e arriva anche ai veicoli DR Automobiles.",
-      "date": "2026-10-13T13:30:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:3765a1cd0dc0",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Lascia la Ferrari in giardino per anni: quando sollevano il telo, la sorpresa è enorme",
-      "url": "https://www.hdmotori.it/ferrari-ritrovata-giardino-restauro/",
-      "image": null,
-      "summary": "Dopo averla comprata 41 anni fa, un appassionato ha affrontato a bordo di una Ferrari 308 GTS appena 6.800 km per poi metterla sotto un telo The post Lascia la Ferrari in giardino per anni: quando sollevano il telo, l...",
-      "date": "2026-10-13T13:09:58.0000000Z"
-    },
-    {
-      "id": "hdmotori:2fbb0d7c08fe",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Yamaha scuote l’EICMA: in arrivo un monocilindrico da 430 cc?",
-      "url": "https://www.hdmotori.it/yamaha-monocilindrico-430-eicma-anticipazioni/",
-      "image": null,
-      "summary": "In arrivo il nuovo 430 cc Yamaha per sfidare Honda, BMW e Triumph tra le piccole cilindrate A2? Ipotesi Ténéré 450 e indiscrezioni su un nuovo CP2 800 e V4 The post Yamaha scuote l’EICMA: in arrivo un monocilindrico d...",
-      "date": "2026-10-13T13:00:40.0000000Z"
-    },
-    {
       "id": "insideevs:8d7a5a87e6f4",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -289,30 +421,6 @@
       "image": "https://cdn.motor1.com/images/mgl/eo7KxK/s3/renault-twingo-electric-2026-im-test.jpg",
       "summary": "Chi ricarica a casa potrà anche restituire energia alla rete e ottenere un compenso, anche se la tariffa non è ancora nota",
       "date": "2026-10-13T13:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:f0c17ca0005a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'Alfa Romeo Cuorerosso raccontata da chi l'ha disegnata",
-      "url": "https://it.motor1.com/news/811353/alfa-romeo-cuorerosso-mesonero-intervista/",
-      "image": "https://cdn.motor1.com/images/mgl/qk8YrL/s3/alfa-romeo-intervista-a-alejandro-mesonero.jpg",
-      "summary": "Alejandro Mesonero, a capo del design Alfa, racconta la concept tra stile e dettagli che vedremo sulle prossime auto",
-      "date": "2026-10-13T13:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:c923c27e2202",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "smart #2 Brabus, la versione sportiva è già in arrivo",
-      "url": "https://it.motor1.com/news/811783/nuova-smart-2-brabus-teaser/",
-      "image": "https://cdn.motor1.com/images/mgl/BX11VM/s3/smart-2-brabus-la-versione-sportiva-e-gia-in-arrivo.jpg",
-      "summary": "La nuova citycar avrà una variante dal look più grintoso che potrebbe essere pronta già l'anno prossimo",
-      "date": "2026-10-13T12:58:59.0000000Z"
     },
     {
       "id": "vaielettrico:636f57c2e307",
@@ -327,42 +435,6 @@
       "date": "2026-10-13T12:30:29.0000000Z"
     },
     {
-      "id": "motor1:401b13ee42f3",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Jaguar Type 01 interessa a più di 50.000 persone",
-      "url": "https://it.motor1.com/news/811747/jaguar-type-01-vendite/",
-      "image": "https://cdn.motor1.com/images/mgl/rK674E/s3/jaguar-type-01.jpg",
-      "summary": "Jaguar dichiara che oltre 50.000 persone in tutto il mondo vogliono saperne di più sulla GT e sui piani del brand",
-      "date": "2026-10-13T12:30:17.0000000Z"
-    },
-    {
-      "id": "motor1:bc9f4d0f6633",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "I prezzi e gli allestimenti della Dacia Striker",
-      "url": "https://it.motor1.com/news/811743/dacia-striker-prezzi-allestimenti/",
-      "image": "https://cdn.motor1.com/images/mgl/W8KwML/s3/dacia-striker-joruney-hybrid-155-2026.jpg",
-      "summary": "Il crossover rumeno ibrido e GPL parte da 24.600 euro. Tre allestimenti e anche una versione 4x4",
-      "date": "2026-10-13T12:30:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:cc4ab90854f6",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Harley-Davidson travolta da un’auto: motociclista invalido, risarcimento da 500.000 euro",
-      "url": "https://www.hdmotori.it/incidente-harley-davidson-maxi-risarcimento/",
-      "image": null,
-      "summary": "Un operaio specializzato ha subito una invalidità permanente del 48% dopo lo schianto in sella a una Harley Davidson con un automobilista colpevole The post Harley-Davidson travolta da un’auto: motociclista invalido, ...",
-      "date": "2026-10-13T12:00:19.0000000Z"
-    },
-    {
       "id": "insideevs:9104783d3b96",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -373,18 +445,6 @@
       "image": "https://cdn.motor1.com/images/mgl/0epp6n/s3/il-mega-centro-segreto-di-batterie-catl-di-oslo.jpg",
       "summary": "Il polo YES-EU NING Service da 10.000 metri quadtrati diventa hub europeo per service, formazione e gestione del ciclo delle batterie",
       "date": "2026-10-13T12:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:659dfbf14c49",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Oltre 580.000 km su una sola moto: l’incredibile impresa con una monocilindrica",
-      "url": "https://www.hdmotori.it/giro-del-mondo-moto-royal-enfield-bullet-350/",
-      "image": null,
-      "summary": "Dal 1984 Benno e Thecla Graas hanno percorso 580.000 km su una Royal Enfield Bullet 350. Un’epopea tra deserto, riparazioni e la ricerca della libertà assoluta The post Oltre 580.000 km su una sola moto: l’incredibile...",
-      "date": "2026-10-13T11:00:30.0000000Z"
     },
     {
       "id": "insideevs:3f12861d16e0",
@@ -423,18 +483,6 @@
       "date": "2026-10-13T09:13:37.0000000Z"
     },
     {
-      "id": "vaielettrico:b70737404eab",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "VLF Strada, 250 km con due batterie estraibili. Il debutto in India",
-      "url": "https://www.vaielettrico.it/vlf-strada-250-km-con-due-batterie-estraibili-il-debutto-in-india/",
-      "image": null,
-      "summary": "Il nuovo scooter elettrico VLF Strada debutta in India in due versioni: fino a 85 km/h, batterie LFP… L'articolo VLF Strada, 250 km con due batterie estraibili. Il debutto in India proviene da Vaielettrico .",
-      "date": "2026-10-13T09:08:51.0000000Z"
-    },
-    {
       "id": "insideevs:3f311b781550",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -445,18 +493,6 @@
       "image": "https://cdn.motor1.com/images/mgl/wlkkQo/s3/batterie-la-francia-fa-sul-serio-5-milioni-di-celle-prodotte.jpg",
       "summary": "ACC festeggia il traguardo nella fabbrica di Douvrin. Le celle equipaggiano quasi 40.000 auto elettriche",
       "date": "2026-10-13T08:50:40.0000000Z"
-    },
-    {
-      "id": "vaielettrico:2fa5523f2ea1",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Impazzano le cinesone al Salone di Parigi",
-      "url": "https://www.vaielettrico.it/impazzano-le-cinesone-al-salone-di-parigi/",
-      "image": null,
-      "summary": "Impazzano le cinesone al Salone di Parigi, altro che citycar primo-prezzo. Con Suv elettrici da 5 metri e… L'articolo Impazzano le cinesone al Salone di Parigi proviene da Vaielettrico .",
-      "date": "2026-10-13T07:45:48.0000000Z"
     },
     {
       "id": "insideevs:1fb2b399d624",
@@ -493,42 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/y2mmeb/s3/citroen-oli-concept.jpg",
       "summary": "Filosa rilancia la E-Car al Salone di Parigi: niente nuove categorie di veicoli, ma supercrediti UE per favorire le piccole elettriche",
       "date": "2026-10-12T15:30:00.0000000Z"
-    },
-    {
-      "id": "insideevs:bc98454a9e14",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tutti i motori della BYD Atto 8",
-      "url": "https://insideevs.it/news/811619/byd-atto-8-motori-batterie/",
-      "image": "https://cdn.motor1.com/images/mgl/zx00Aq/s3/byd-atto-8.jpg",
-      "summary": "Due versioni elettriche con Blade Battery da 115 kWh, fino a 775 CV e autonomia di 653 km nel ciclo WLTP",
-      "date": "2026-10-12T14:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:b2d8070cb388",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Xpeng lancia YOYO, il robotaxi che fa a meno del LiDAR",
-      "url": "https://insideevs.it/news/811586/xpeng-yoyo-robotaxi-senza-lidar/",
-      "image": "https://cdn.motor1.com/images/mgl/NG66Ol/s3/il-robotaxi-di-xpeng-yoyo.jpg",
-      "summary": "Il SUV GX modificato usa telecamere e quattro chip proprietari per guidare senza conducente",
-      "date": "2026-10-12T12:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:73f5ebd10d0e",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "A Parigi anche un quadriciclo elettrico diventa un salotto",
-      "url": "https://insideevs.it/news/811581/linktour-alumi-salone-parigi/",
-      "image": "https://cdn.motor1.com/images/mgl/8A0093/s3/linktour-alumi-by-spinzi.jpg",
-      "summary": "Linktour presenta tre versioni del quadriciclo elettrico ALUMI: una con SPINZI STUDIO, una nuova tinta Atlas Blue e la VIA per le gite",
-      "date": "2026-10-12T10:16:08.0000000Z"
     }
   ]
 }
