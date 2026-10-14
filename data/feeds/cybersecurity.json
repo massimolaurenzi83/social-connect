@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-14T01:41:16.6431925Z",
+  "updated": "2026-10-14T06:43:59.9118609Z",
   "items": [
+    {
+      "id": "cybersecurity360:e5f471e932a1",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Android, Google corregge 25 vulnerabilità: sette sono critiche, i rischi per le aziende",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/android-google-corregge-25-vulnerabilita-sette-sono-critiche-i-rischi-per-le-aziende/",
+      "image": null,
+      "summary": "Il bollettino Android di ottobre 2026 corregge 25 vulnerabilità, sette delle quali critiche. Tra escalation di privilegi, denial of service e rischi di esecuzione remota di codice, l'aggiornamento richiama l'attenzion...",
+      "date": "2026-10-13T15:39:34.0000000Z"
+    },
     {
       "id": "cybersecurity360:79a086f803cf",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Una ricerca di Proofpoint fotografa la situazione attraverso gli occhi degli addetti ai lavori. Maggiore confidenza nei propri mezzi, ma AI e fattore umano rimangono degli elementi di preoccupazione L'articolo I CISO ...",
       "date": "2026-10-12T14:04:01.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:937e022c4d2b",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cybersecurity per micro-imprese senza team IT: Kaspersky rinnova la protezione Small Office tra anti-ransomware e Security Awareness",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/kaspersky-small-office-security-premium-protezione-pmi-piva-ransomware/",
-      "image": null,
-      "summary": "Kaspersky Small Office Security Premium propone una protezione per le piccole imprese con cinque utenti, assistenza IT e formazione sulla sicurezza informatica. Il prezzo promozionale scende a 227,50 euro e include un...",
-      "date": "2026-10-12T12:24:26.0000000Z"
     }
   ]
 }

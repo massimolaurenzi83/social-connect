@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-10-14T01:41:16.5919484Z",
+  "updated": "2026-10-14T06:43:59.9100104Z",
   "items": [
+    {
+      "id": "motor1:be9b8d021ecb",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questo camper da 440 CV e 1,2 milioni di euro è un vero mostro",
+      "url": "https://it.motor1.com/news/811850/kodiak-6x6-2026-camper-fuoristrada/",
+      "image": "https://cdn.motor1.com/images/mgl/KbZZ7Q/s3/r-truck-france-kodiak-6x6-expeditions-lkw-2026.jpg",
+      "summary": "L'R Truck-France Kodiak 6x6 Kodiak 6x6 pesa 26 tonnellate, ha sei ruote motrici, 440 CV e un intero appartamento di lusso",
+      "date": "2026-10-14T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:67b3097e752f",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto elettriche, le officine perderanno lavoro entro il 2035?",
+      "url": "https://insideevs.it/news/811780/auto-elettriche-officine-previsione-lavoro/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z11VJ/s3/auto-elettriche-le-officine-perderanno-lavoro-entro-il-2035.jpg",
+      "summary": "Meno tagliandi tradizionali, più elettronica e riparazioni specializzate",
+      "date": "2026-10-14T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:94c5291a60df",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Jeep Avenger 4xe mild hybrid (2026), la prova dei consumi reali",
+      "url": "https://it.motor1.com/reviews/811700/jeep-avenger-4xe-mild-hybrid-2026-consumi/",
+      "image": "https://cdn.motor1.com/images/mgl/L366r3/s3/jeep-avenger-4xe-mild-hybrid-2026-la-prova-consumi.jpg",
+      "summary": "Con due motori elettrici, trazione integrale e 1.2 turbo benzina da 145 CV, la piccola Jeep viaggia tanto in elettrico e consuma poco",
+      "date": "2026-10-14T05:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:ee1b9a28e133",
       "sourceId": "vaielettrico",
@@ -123,18 +159,6 @@
       "date": "2026-10-13T15:00:45.0000000Z"
     },
     {
-      "id": "motor1:3e1e13c698f4",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La prova in anteprima della Geely E2, l'auto più venduta in Cina",
-      "url": "https://it.motor1.com/reviews/811693/geely-e2-prova-recensione-video/",
-      "image": "https://cdn.motor1.com/images/mgl/nA888j/s3/geely-e2-prova.jpg",
-      "summary": "È una segmento B da città ma dentro è super spaziosa e ha tanta tecnologia. Il prezzo? Da 20.900 euro",
-      "date": "2026-10-13T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:cff551f4c464",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -144,6 +168,18 @@
       "url": "https://insideevs.it/news/811768/auto-elettirca-economica-stellantis-150000-euro/",
       "image": "https://cdn.motor1.com/images/mgl/0epgy3/s3/citroen-2cv-concept.jpg",
       "summary": "Con la Citroen 2 CV Concept, Stellantis fissa nuovi standard per rendere accessibile la mobilità a zero emissioni. Gli altri inseguono",
+      "date": "2026-10-13T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:3e1e13c698f4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La prova in anteprima della Geely E2, l'auto più venduta in Cina",
+      "url": "https://it.motor1.com/reviews/811693/geely-e2-prova-recensione-video/",
+      "image": "https://cdn.motor1.com/images/mgl/nA888j/s3/geely-e2-prova.jpg",
+      "summary": "È una segmento B da città ma dentro è super spaziosa e ha tanta tecnologia. Il prezzo? Da 20.900 euro",
       "date": "2026-10-13T15:00:00.0000000Z"
     },
     {
@@ -327,18 +363,6 @@
       "date": "2026-10-13T12:00:19.0000000Z"
     },
     {
-      "id": "motor1:484112891ee9",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il fleet manager diventa regista della mobilità aziendale",
-      "url": "https://it.motor1.com/news/811731/arval-mobility-observatory-corporate-mobility/",
-      "image": "https://cdn.motor1.com/images/mgl/JO66KJ/s3/beyond-fleet---the-hidden-work-of-mobility.jpg",
-      "summary": "Arval Mobility Observatory mappa nuovi compiti e complessità che spingono il fleet manager oltre la semplice gestione delle flotte",
-      "date": "2026-10-13T12:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:9104783d3b96",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -372,18 +396,6 @@
       "url": "https://insideevs.it/news/811742/gm-battery-cell-development-center/",
       "image": "https://cdn.motor1.com/images/mgl/Rqbbrr/s3/queste-batterie-potrebbero-cambiare-i-suv-elettrici-americani.jpg",
       "summary": "Nel nuovo Battery Cell Development Center di GM le celle LMR fanno il salto dal laboratorio agli impianti Ultium di Spring Hill",
-      "date": "2026-10-13T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:a1ff76cb17af",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Salone di Parigi 2026, l'Europa reagisce facendo quello che può",
-      "url": "https://it.motor1.com/news/810266/salone-parigi-2026-brand-europei/",
-      "image": "https://cdn.motor1.com/images/mgl/jl88Wg/s3/alfa-romeo-al-salone-di-parigi-2026.jpg",
-      "summary": "Dopo anni di presenze con il contagocce i grandi Gruppi europei tornano ai saloni",
       "date": "2026-10-13T11:00:00.0000000Z"
     },
     {
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/8A0093/s3/linktour-alumi-by-spinzi.jpg",
       "summary": "Linktour presenta tre versioni del quadriciclo elettrico ALUMI: una con SPINZI STUDIO, una nuova tinta Atlas Blue e la VIA per le gite",
       "date": "2026-10-12T10:16:08.0000000Z"
-    },
-    {
-      "id": "insideevs:3b00517b89cb",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Salone di Parigi: l'invasione delle Case cinesi fa davvero paura?",
-      "url": "https://insideevs.it/news/811457/salone-parigi-20-brand-cinesi/",
-      "image": "https://cdn.motor1.com/images/mgl/OoZZ1o/s3/salone-di-parigi-2026.jpg",
-      "summary": "I brand del Paese del Dragone devono vendere in Europa per sopravvivere. L'Europa corre dei rischi, ma può cogliere delle opportunità",
-      "date": "2026-10-12T09:30:00.0000000Z"
     }
   ]
 }
