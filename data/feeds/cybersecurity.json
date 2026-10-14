@@ -1,7 +1,55 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-14T12:28:16.8157092Z",
+  "updated": "2026-10-14T17:32:36.3592041Z",
   "items": [
+    {
+      "id": "cybersecurity360:e07abb9d6b0e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Attacco ai supermercati francesi: perché la OT security è prima di tutto questione di governance",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/attacco-ai-supermercati-francesi-perche-la-ot-security-e-prima-di-tutto-questione-di-governance/",
+      "image": null,
+      "summary": "L'attacco ai sistemi di refrigerazione dei supermercati francesi mostra come una debolezza condivisa possa compromettere centinaia di impianti. Tra dispositivi obsoleti, accessi remoti e fornitori, la sicurezza OT div...",
+      "date": "2026-10-14T15:15:29.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:0dd3b3cecd1a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Patch Tuesday ottobre 2026: oltre 1.400 falle e uno zero-day sfruttato, le priorità per le aziende",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/patch-tuesday-ottobre-2026-oltre-1-400-falle-e-uno-zero-day-sfruttato-le-priorita-per-le-aziende/",
+      "image": null,
+      "summary": "Microsoft corregge oltre 1.400 vulnerabilità nel Patch Tuesday di ottobre 2026, tra cui uno zero-day già sfruttato e due falle divulgate pubblicamente. Il numero record di CVE impone alle aziende di ripensare priorità...",
+      "date": "2026-10-14T13:54:26.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:76d3f91fe60e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber Mission di Anthropic: l’AI scopre le vulnerabilità, la sfida è correggerle",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/cyber-mission-di-anthropic-lai-scopre-le-vulnerabilita-la-sfida-e-correggerle/",
+      "image": null,
+      "summary": "Anthropic presenta Cyber Mission per rafforzare la difesa delle infrastrutture critiche e del software open source con l'intelligenza artificiale. Tra modelli Claude, nuovi strumenti di scansione e programmi dedicati,...",
+      "date": "2026-10-14T10:44:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:0dd46823dcd0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cybertech Europe 2026: l’AI moltiplica i rischi cyber, ma il vero problema è perdere il controllo",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/cybertech-europe-2026-lai-moltiplica-i-rischi-cyber-ma-il-vero-problema-e-perdere-il-controllo/",
+      "image": null,
+      "summary": "Dalla Shadow AI alla Physical AI, fino alla dipendenza da pochi fornitori tecnologici: Cybertech Europe 2026 mette in luce rischi vecchi e nuovi della trasformazione digitale. Il denominatore comune è la progressiva r...",
+      "date": "2026-10-14T08:23:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:b7774f2b6f5c",
       "sourceId": "cybersecurity360",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Backup cloud fino a 500 GB, VPN e monitoraggio del dark web sono tra le funzionalità incluse nel piano Premium di Norton Small Business. Il servizio costa 139,99 euro per il primo anno, contro un prezzo di rinnovo di ...",
       "date": "2026-10-13T10:08:45.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:fccc8407789b",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Così l’evoluzione delle AI agentiche sta ridisegnando la cyber security",
-      "url": "https://www.cybersecurity360.it/outlook/cosi-levoluzione-delle-ai-agentiche-sta-ridisegnando-la-cyber-security/",
-      "image": null,
-      "summary": "L'intelligenza artificiale agentica sta trasformando l’ecosistema della sicurezza informatica, sia sul fronte degli attaccanti (con la barriera di ingresso al crimine informatico che si è abbassata drasticamente) sia ...",
-      "date": "2026-10-13T09:51:49.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2d5cc60070d4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Attacco ai supermercati francesi: la vulnerabilità OT che mette a rischio la catena del freddo",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/attacco-ai-supermercati-francesi-la-vulnerabilita-ot-che-mette-a-rischio-la-catena-del-freddo/",
-      "image": null,
-      "summary": "Un attacco cyber ha manipolato i sistemi di refrigerazione di centinaia di supermercati francesi, causando la perdita di prodotti alimentari e danni milionari. L'incidente mostra come controllori OT obsoleti, firmware...",
-      "date": "2026-10-13T09:16:19.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:1d9e706ec04d",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Safety e Security: due domini, un unico ecosistema della sicurezza",
-      "url": "https://www.cybersecurity360.it/legal/safety-e-security-due-domini-un-unico-ecosistema-della-sicurezza/",
-      "image": null,
-      "summary": "I domini di Safety e Security rientrano in unico ecosistema, in un contesto segnato da profonde trasformazioni digitali e normative. Ecco come individuare i criteri che li distinguono e perché la loro convergenza non ...",
-      "date": "2026-10-13T07:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ba1b61345488",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber security nel fotovoltaico: come proteggere impianti e rete",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cyber-security-nel-fotovoltaico-come-proteggere-impianti-e-rete/",
-      "image": null,
-      "summary": "La digitalizzazione del fotovoltaico espone inverter, sistemi di monitoraggio e reti elettriche a nuovi rischi informatici. Dai casi reali alle norme europee, la protezione degli impianti diventa decisiva per garantir...",
-      "date": "2026-10-12T14:57:24.0000000Z"
     }
   ]
 }
