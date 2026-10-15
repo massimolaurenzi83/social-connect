@@ -1,7 +1,55 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-15T07:00:46.3076678Z",
+  "updated": "2026-10-15T12:37:13.5125391Z",
   "items": [
+    {
+      "id": "cybersecurity360:60836ee3e7f6",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Avast One Premium e Ultimate per 10 dispositivi: protezione multi-device da virus, ransomware e truffe deepfake",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/avast-one-10-dispositivi-antivirus-vpn-protezione-deepfake/",
+      "image": null,
+      "summary": "Avast One propone due piani per proteggere fino a 10 dispositivi, con antivirus, strumenti antifrode e funzionalità per la privacy. I prezzi del primo anno partono da 39,99 euro per Premium Security e 55,99 euro per U...",
+      "date": "2026-10-15T10:45:39.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:0c57ce5ecf8c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "NIS2, finito il tempo degli adeguamenti: ora la sicurezza va dimostrata",
+      "url": "https://www.cybersecurity360.it/legal/nis2-finito-il-tempo-degli-adeguamenti-ora-la-sicurezza-va-dimostrata/",
+      "image": null,
+      "summary": "Scaduti i 18 mesi previsti per adottare le misure di sicurezza di base della NIS2, per le aziende si apre la fase della conformità sostanziale. Non bastano più policy e procedure sulla carta: servono controlli effetti...",
+      "date": "2026-10-15T10:40:26.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:b767f6d25650",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber security aziendale: la protezione come un processo continuo",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/cybersecurity-aziendale-la-protezione-come-un-processo-continuo/",
+      "image": null,
+      "summary": "La crescita degli attacchi informatici e gli obblighi della NIS2 impongono alle aziende di superare una sicurezza basata sui singoli strumenti. Dalla prevenzione al monitoraggio continuo, fino alla risposta agli incid...",
+      "date": "2026-10-15T09:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:3997bfef6797",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "IA, responsabilità penali e civili: l’impatto per le aziende",
+      "url": "https://www.cybersecurity360.it/legal/ia-responsabilita-penali-e-civili-limpatto-per-le-aziende/",
+      "image": null,
+      "summary": "Fallita la proposta di direttiva europea sulla responsabilità da intelligenza artificiale, ritirata nel febbraio 2025, il legislatore italiano è intervenuto su diversi fronti contemporaneamente con una norma su tre li...",
+      "date": "2026-10-15T07:45:18.0000000Z"
+    },
     {
       "id": "cybersecurity360:e07abb9d6b0e",
       "sourceId": "cybersecurity360",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Il bollettino Android di ottobre 2026 corregge 25 vulnerabilità, sette delle quali critiche. Tra escalation di privilegi, denial of service e rischi di esecuzione remota di codice, l'aggiornamento richiama l'attenzion...",
       "date": "2026-10-13T15:39:34.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:79a086f803cf",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Normalizzare la devianza: il rischio cyber comincia quando l’eccezione diventa regola",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/normalizzare-la-devianza-il-rischio-cyber-comincia-quando-leccezione-diventa-regola/",
-      "image": null,
-      "summary": "Una regola firewall temporanea, un accesso privilegiato mai revocato, un alert ignorato perché considerato innocuo. La normalizzazione della devianza trasforma le eccezioni di sicurezza in abitudini accettate, prepara...",
-      "date": "2026-10-13T15:04:50.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:95e1e8cecf3e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Tianfu Cup, la gara di hacking cinese che trasforma gli zero-day in risorsa strategica",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/tianfu-cup-la-gara-di-hacking-cinese-che-trasforma-gli-zero-day-in-risorsa-strategica/",
-      "image": null,
-      "summary": "La Tianfu Cup torna nel 2026 sotto una maggiore influenza delle autorità cinesi e con meno trasparenza sulle vulnerabilità scoperte. Una competizione di hacking che riapre il dibattito sul controllo statale degli zero...",
-      "date": "2026-10-13T13:55:07.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d499e3550bbe",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Diritto all’oblio, Google deve cambiare le regole entro il 15 novembre: i dinieghi vanno motivati",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/diritto-alloblio-google-deve-cambiare-le-regole-entro-il-15-novembre-i-dinieghi-vanno-motivati/",
-      "image": null,
-      "summary": "Il Tribunale di Milano ordina a Google di modificare entro il 15 novembre le procedure per il diritto all'oblio: gli utenti dovranno poter allegare documenti e ricevere risposte motivate. Una decisione che mette in di...",
-      "date": "2026-10-13T13:20:12.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2dd1d57617de",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cybersecurity per le piccole imprese: Norton Small Business con backup cloud fino a 500 GB e monitoraggio del dark web",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/norton-small-business-premium-sicurezza-pmi-backup-dark-web/",
-      "image": null,
-      "summary": "Backup cloud fino a 500 GB, VPN e monitoraggio del dark web sono tra le funzionalità incluse nel piano Premium di Norton Small Business. Il servizio costa 139,99 euro per il primo anno, contro un prezzo di rinnovo di ...",
-      "date": "2026-10-13T10:08:45.0000000Z"
     }
   ]
 }
