@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-10-15T01:54:54.8336501Z",
+  "updated": "2026-10-15T07:00:46.2361150Z",
   "items": [
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-10-15T04:30:00.0000000Z"
+    },
     {
       "id": "qualenergia:7404d2ac52b1",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Un impianto fotovoltaico in Sicilia potrebbe risultare più competitivo di uno al Nord anche dopo la penalizzazione geografica del Fer X definitivo. È questa l’ipotesi avanzata da Carlo Montella, di Green Horse Advisor...",
       "date": "2026-10-14T07:00:25.0000000Z"
-    },
-    {
-      "id": "qualenergia:3633f7f356db",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Piemonte, agevolazioni alle imprese per l’efficientamento produttivo e la digitalizzazione green",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/piemonte-agevolazioni-imprese-efficientamento-produttivo-digitalizzazione-green/",
-      "image": null,
-      "summary": "Sono aperti gli sportelli per accedere alle agevolazioni della Regione Piemonte per l’innovazione tecnologica e digitale delle imprese, in chiave sostenibile. Il bando (allegato in fondo) ha una dotazione complessiva ...",
-      "date": "2026-10-14T06:55:31.0000000Z"
     }
   ]
 }

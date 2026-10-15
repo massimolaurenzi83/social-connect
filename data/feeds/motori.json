@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-10-15T01:54:54.8563417Z",
+  "updated": "2026-10-15T07:00:46.2332161Z",
   "items": [
+    {
+      "id": "motor1:3b5d57439f7c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come il rosso è diventato il colore di Ferrari",
+      "url": "https://it.motor1.com/news/811956/ferrari-colore-rosso-nascita-perche/",
+      "image": "https://cdn.motor1.com/images/mgl/KbgO0R/s3/ferrari-458-italia.jpg",
+      "summary": "Rosso Corsa, Scuderia Ferrari 1929, Formula 1 1950: da Enzo Ferrari a Michael Schumacher, il rosso diventa mito",
+      "date": "2026-10-15T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:7ec019f63b1c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Ineos Grenadier diventa Helmsman e veste alla marinara",
+      "url": "https://it.motor1.com/news/812001/grenadier-helmsman-edizione-nautica-dettagli/",
+      "image": "https://cdn.motor1.com/images/mgl/AkOOrN/s3/ineos-grenadier-helmsman.jpg",
+      "summary": "Ineos Grenadier Helmsman porta una vernice blu intenso, opzioni per il tetto a contrasto e finiture esclusive per il 2027",
+      "date": "2026-10-15T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:ebd979c4e02f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Stellantis ha dato un concept a tutti i brand, ma non a Lancia",
+      "url": "https://it.motor1.com/news/811932/salone-parigi-2026-lancia-concept/",
+      "image": "https://cdn.motor1.com/images/mgl/rK668r/s3/lancia-gamma-sotto-i-riflettori.jpg",
+      "summary": "I brand parlano del proprio futuro, Lancia resta in silenzio. La strategia è da rifare?",
+      "date": "2026-10-15T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:e8712f13d7e9",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto elettriche: 20 miliardi di petrolio risparmiati e l’Italia sorpassa gli USA",
+      "url": "https://insideevs.it/news/811953/auto-elettriche-italia-davanti-usa/",
+      "image": "https://cdn.motor1.com/images/mgl/8A00E2/s3/auto-elettriche-20-miliardi-dollari-di-petrolio-risparmiati-nel-2026.jpg",
+      "summary": "Tra marzo e agosto 2026 Ember stima 200 milioni di barili risparmiati, con l’Italia nel gruppo che supera gli Stati Uniti sulle BEV",
+      "date": "2026-10-15T05:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:127ef13599ba",
       "sourceId": "hdmotori",
@@ -99,18 +147,6 @@
       "date": "2026-10-14T15:00:26.0000000Z"
     },
     {
-      "id": "motor1:462c7652f2bb",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'elettrica a benzina che sfida il fuoristrada: prova Nissan X-Trail",
-      "url": "https://it.motor1.com/reviews/811933/nissan-x-trail-2026-prova-motore-interni-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/zx00nW/s3/nissan-x-trail-la-prova-su-strada.jpg",
-      "summary": "Per i 25 anni di X-Trail torna N-Trek con dettagli esclusivi. Confermato il motore e-POWER (anche e-4ORCE), esce di scena il mild-hybrid",
-      "date": "2026-10-14T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:2b69947bd358",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -120,6 +156,18 @@
       "url": "https://insideevs.it/news/811946/moto-elettrica-zero-ds-record-autonomia/",
       "image": "https://cdn.motor1.com/images/mgl/zx00NW/s3/zero-ds-il-record-di-autonomia-di-436-5-km.jpg",
       "summary": "Una Zero DS con Power Tank opzionale ha viaggiato dalle Alpi francesi al Mediterraneo con una sola carica",
+      "date": "2026-10-14T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:462c7652f2bb",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come va la Nissan X-Trail 2026, non solo su asfalto",
+      "url": "https://it.motor1.com/reviews/811933/nissan-x-trail-2026-prova-motore-interni-prezzo/",
+      "image": "https://cdn.motor1.com/images/mgl/zx00nW/s3/nissan-x-trail-la-prova-su-strada.jpg",
+      "summary": "Per i 25 anni di X-Trail torna N-Trek con dettagli esclusivi. Confermato il motore e-POWER (anche e-4ORCE), esce di scena il mild-hybrid",
       "date": "2026-10-14T15:00:00.0000000Z"
     },
     {
@@ -243,18 +291,6 @@
       "date": "2026-10-14T10:30:00.0000000Z"
     },
     {
-      "id": "motor1:54155ffe0eaf",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Torna la sportiva leggera britannica e questa volta ha 385 CV",
-      "url": "https://it.motor1.com/news/811891/zenos-e10-motori-prezzi/",
-      "image": "https://cdn.motor1.com/images/mgl/y211w7/s3/zenos-e10-2027.jpg",
-      "summary": "La nuova Zenos E10 ha il 2.3 da 304 CV o il 2.0 da 385 CV, entrambi con cambio manuale a 6 rapporti e peso di 790 kg",
-      "date": "2026-10-14T10:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:4f8a8ed55c61",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -265,18 +301,6 @@
       "image": null,
       "summary": "Favorevole a discutere il ritorno dell’atomo, ma contrario a trasformarlo in una priorità assoluta della transizione energetica. Giovanni… L'articolo Nucleare senza veli (e ideologia): «Non è indispensabile, ma non va...",
       "date": "2026-10-14T09:45:28.0000000Z"
-    },
-    {
-      "id": "motor1:58a2884dab10",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Parigi, Giugiaro: \"Alfa e Fiat coraggiose, ma mi ha colpito una cinese...\"",
-      "url": "https://it.motor1.com/news/811811/salone-parigi-2026-giugiaro-intervista/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZPPBp/s3/fabrizio-giugiaro.jpg",
-      "summary": "Il designer commenta i concept e le novità di questo Salone di Parigi 2026, non senza qualche sorpresa",
-      "date": "2026-10-14T09:30:00.0000000Z"
     },
     {
       "id": "insideevs:d0f57a817dd3",
@@ -301,18 +325,6 @@
       "image": null,
       "summary": "L’agrivoltaico alimenterà il supercomputer Leonardo, gestito da CINECA e ospitato al Tecnopolo DAMA di Bologna. L’impianto sorgerà su… L'articolo Il supercomputer Leonardo alimentato dall’agrivoltaico di Hera a Bologn...",
       "date": "2026-10-14T08:31:31.0000000Z"
-    },
-    {
-      "id": "motor1:9a840ef88fcc",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Seat Leon cambia dentro: schermo maxi e gadget tecnologici",
-      "url": "https://it.motor1.com/news/811884/seat-leon-2027-schermo-pacchetti/",
-      "image": "https://cdn.motor1.com/images/mgl/OoZZ4o/s3/seat-leon-e-seat-leon-sportstourer.jpg",
-      "summary": "Seat Leon 2027 introduce lo schermo da 12,9 pollici di serie e nuovi pacchetti con videocamera posteriore e assistenti alla guida",
-      "date": "2026-10-14T08:31:11.0000000Z"
     },
     {
       "id": "insideevs:0f02977671c4",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/wlkkQo/s3/batterie-la-francia-fa-sul-serio-5-milioni-di-celle-prodotte.jpg",
       "summary": "ACC festeggia il traguardo nella fabbrica di Douvrin. Le celle equipaggiano quasi 40.000 auto elettriche",
       "date": "2026-10-13T08:50:40.0000000Z"
-    },
-    {
-      "id": "insideevs:1fb2b399d624",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "BYD promette 100 colonnine Flash in Europa entro il 2026",
-      "url": "https://insideevs.it/news/811701/byd-europa-piano-100-colonnine/",
-      "image": "https://cdn.motor1.com/images/mgl/vx77KR/s3/byd-atto-8-with-flash-charging.jpg",
-      "summary": "La rete Flash promessa da BYD resta piccola rispetto alle colonnine CCS europee e i nove minuti valgono solo sulle stazioni dedicate",
-      "date": "2026-10-13T07:00:00.0000000Z"
     },
     {
       "id": "motor1:154bac84b4e0",

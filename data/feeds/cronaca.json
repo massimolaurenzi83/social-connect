@@ -1,7 +1,67 @@
 {
   "category": "cronaca",
-  "updated": "2026-10-15T01:54:54.8404390Z",
+  "updated": "2026-10-15T07:00:46.3106871Z",
   "items": [
+    {
+      "id": "ansa-cronaca:0cccb50ddde1",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Schiaffi, insulti e violenze sessuali a anziane in una residenza per anziani",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/schiaffi-insulti-e-violenze-sessuali-a-anziane-in-una-residenza-per-anziani_9247c583-ca7f-4baf-8614-021324fe48c5.html",
+      "image": null,
+      "summary": "Interdetti dalla professione tre operatori sociosanitari, indagine di Nas e procura Lodi",
+      "date": "2026-10-15T06:24:47.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:6935dbd5665d",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "ActionAid, in Italia 430mila minori costretti a rinunce su cibo e socialità",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/actionaid-in-italia-430mila-minori-costretti-a-rinunce-su-cibo-e-socialita_8ff582b6-7eed-4d64-99b7-ede1024b23ee.html",
+      "image": null,
+      "summary": "\"L'allarme più forte riguarda i bambini tra i 6 e gli 11 anni\"",
+      "date": "2026-10-15T06:01:52.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:b72aa360b117",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Schiaffi, insulti e violenze sessuali a anziane in Rsa",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/schiaffi-insulti-e-violenze-sessuali-a-anziane-in-rsa_ae62ff2e-750f-48fc-8eb7-a4a36b7ecf16.html",
+      "image": null,
+      "summary": "Interdetti dalla professione tre operatori sociosanitari, indagine di Nas e procura Lodi",
+      "date": "2026-10-15T06:00:58.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:c3d8b962a07e",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Save The Children, 1 bambino su 4 nel mondo in grave povertà alimentare",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/save-the-children-1-bambino-su-4-nel-mondo-in-grave-poverta-alimentare_5203f41b-0d2a-485f-9004-60a161756ff9.html",
+      "image": null,
+      "summary": "Metà dei decessi per malnutrizione. Killer infanzia: clima, guerre e tagli agli aiuti",
+      "date": "2026-10-15T05:14:30.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:7a374e372cf2",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Verbale Di Vita al Tg1: Portammo a casa le cozze dal pranzo di Natale'",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/verbale-di-vita-al-tg1-portammo-a-casa-le-cozze-dal-pranzo-di-natale_26d40b05-ad8b-486f-a9eb-747d80abd5f9.html",
+      "image": null,
+      "summary": "L'ex sindaco di Pietracatella racconta poi di non ricordare con esattezza quando hanno poi mangiato quei mitili",
+      "date": "2026-10-15T05:08:56.0000000Z"
+    },
     {
       "id": "ansa-cronaca:6b2593e95150",
       "sourceId": "ansa-cronaca",
@@ -51,18 +111,6 @@
       "date": "2026-10-14T19:17:14.0000000Z"
     },
     {
-      "id": "ansa-cronaca:7a374e372cf2",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Verbale Di Vita al Tg1: Portammo a casa le cozze dal pranzo di Natale'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/verbale-di-vita-al-tg1-portammo-a-casa-le-cozze-dal-pranzo-di-natale_26d40b05-ad8b-486f-a9eb-747d80abd5f9.html",
-      "image": null,
-      "summary": "L'ex sindaco di Pietracatella racconta poi di non ricordare con esattezza quando hanno poi mangiato quei mitili",
-      "date": "2026-10-14T18:53:20.0000000Z"
-    },
-    {
       "id": "ansa-cronaca:3ac74b9d2343",
       "sourceId": "ansa-cronaca",
       "source": "ANSA Cronaca",
@@ -97,54 +145,6 @@
       "image": null,
       "summary": "Sequestrata l'auto da carabinieri e polizia locale. I due accusati di sei aggressioni nella Capitale",
       "date": "2026-10-14T18:41:37.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:9e63b42ab1e8",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Arrestato 19enne nel Pavese, messaggi nazisti in una chat di scuola",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/arrestato-19enne-nel-pavese-messaggi-nazisti-in-una-chat-di-scuola_5f322de8-0633-4899-a5c7-4d292131f378.html",
-      "image": null,
-      "summary": "Decreto di perquisizione, gruppo WhatsApp composto da 68 membri",
-      "date": "2026-10-14T17:29:56.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:5403dbc715f2",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Comunità ebraica Roma, 'Anpi fuori dalle commemorazioni del 16 ottobre'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/comunita-ebraica-roma-anpi-fuori-dalle-commemorazioni-del-16-ottobre_36420f1e-579c-4743-8f99-645a16f6148b.html",
-      "image": null,
-      "summary": "'Ha escluso le bandiere della Brigata Ebraica e di Israele. Facciano un passo indietro'",
-      "date": "2026-10-14T17:25:50.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:13bf416e7efb",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "La mamma di Pamela Genini, 'un anno dopo è come se fosse successo ieri'",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/la-mamma-di-pamela-genini-un-anno-dopo-e-come-se-fosse-successo-ieri_5e4720b7-69c3-457f-abc4-392e0e7ac41a.html",
-      "image": null,
-      "summary": "Intervista a 'Dentro la notizia': 'Motivi della profanazione? Ossessione o vendetta'",
-      "date": "2026-10-14T17:14:22.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:61137d10607e",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Al Nobel Parisi laurea magistralis in fisica dei sistemi complessi",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/al-nobel-parisi-laurea-magistralis-in-fisica-dei-sistemi-complessi_1bb08e4a-a63c-445d-8a5c-5d363381887e.html",
-      "image": null,
-      "summary": "Il riconoscimento delle Università di Torino e del Piemonte Orientale",
-      "date": "2026-10-14T16:52:53.0000000Z"
     }
   ]
 }
