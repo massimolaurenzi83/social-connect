@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-10-16T01:25:19.3163713Z",
+  "updated": "2026-10-16T06:09:42.1862865Z",
   "items": [
+    {
+      "id": "qualenergia:5bff566a5381",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Europe’s SMR strategy needs a theory of time",
+      "url": "https://www.qualenergia.it/pro/documenti/europes-smr-strategy-needs-a-theory-of-time/",
+      "image": null,
+      "summary": "Nell’intera Ue a metà degli anni Trenta potrebbero essere operativi non più di 1-3 GW di piccoli reattori modulari (Smr) e già arrivare a 20 GW nel 2050 sarebbe molto ambizioso e richiederebbe aiuti pubblici ingenti e...",
+      "date": "2026-10-16T05:00:55.0000000Z"
+    },
     {
       "id": "qualenergia:a2112e36dbaf",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Gara a procedura telematica per l’affidamento dei lavori di intervento di manutenzione straordinaria degli impianti di pubblica illuminazione nel comune di Piana di Monte Verna (CE). Importo: 161.000 € Scadenza: 9/11/...",
       "date": "2026-10-15T05:00:46.0000000Z"
-    },
-    {
-      "id": "qualenergia:3c4258a458fb",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Provincia di Treviso: contributi per impianti fotovoltaici nelle abitazioni",
-      "url": "https://www.qualenergia.it/pro/documenti/provincia-di-treviso-contributi-per-impianti-fotovoltaici-nelle-abitazioni/",
-      "image": null,
-      "summary": "La Provincia di Treviso ha emanato un bando dedicato ai cittadini per l’installazione di impianti fotovoltaici e di sistemi di accumulo, in abitazioni unifamiliari e condomini. Importo: 1.000.000 € Scadenza: 26/11/202...",
-      "date": "2026-10-15T05:00:00.0000000Z"
     }
   ]
 }

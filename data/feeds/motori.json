@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-10-16T01:25:19.3392763Z",
+  "updated": "2026-10-16T06:09:42.2352578Z",
   "items": [
+    {
+      "id": "motor1:95933bec02e3",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Debutta la nuova Tesla Roadster, e non è un'auto",
+      "url": "https://it.motor1.com/news/812159/tesla-roadster-2026-motore-prezzo-razzi/",
+      "image": "https://cdn.motor1.com/images/mgl/407XXZ/s3/2028-tesla-roadster-reveal.jpg",
+      "summary": "La supercar di Tesla può volare, accelera da 0 a 100 in meno di 1 secondo e non solo",
+      "date": "2026-10-16T05:54:51.0000000Z"
+    },
+    {
+      "id": "insideevs:de05a3fe038d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla svela la Roadster con un salto folle. Ecco cosa c'è da sapere",
+      "url": "https://insideevs.it/news/812160/tesla-roadster-2028-motori-prezzi/",
+      "image": "https://cdn.motor1.com/images/mgl/rK6yJr/s3/tesla-roadster-demo.jpg",
+      "summary": "La nuova Roadster può saltare sopra un camion Semi e accelerare da 0 a 97 km/h in 0,81 secondi. Ma in realtà non è ancora disponibile.",
+      "date": "2026-10-16T05:50:00.0000000Z"
+    },
+    {
+      "id": "insideevs:1d469ee961cd",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Rivian porta il riciclo delle batterie a un livello superiore",
+      "url": "https://insideevs.it/news/812081/rivian-riciclo-batterie-tecnologia/",
+      "image": "https://cdn.motor1.com/images/mgl/xqOOWy/s3/rivian-r2-battery.jpg",
+      "summary": "Dagli scarti di produzione alle batterie che non sono più adatte agli EV, nulla viene sprecato",
+      "date": "2026-10-16T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:fe2804fb3b8f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Alfa Romeo Stelvio continua i test",
+      "url": "https://it.motor1.com/news/812117/alfaromeo-stelvio-quadrifoglio-2027-foto-spia/",
+      "image": "https://cdn.motor1.com/images/mgl/1Z2LLW/s3/alfa-romeo-giulia-quadrifoglio-collezione-2025.jpg",
+      "summary": "È la Alfa Romeo Stelvio Quadrifoglio 2027, con motore Euro 7",
+      "date": "2026-10-16T05:00:00.0000000Z"
+    },
     {
       "id": "motor1:1f959b082c52",
       "sourceId": "motor1",
@@ -135,18 +183,6 @@
       "date": "2026-10-15T15:00:05.0000000Z"
     },
     {
-      "id": "motor1:3cadb3e9262c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Torna \"Save The Manuals\", il progetto emozionale di Motor1: il trailer",
-      "url": "https://it.motor1.com/news/811942/save-the-manuals-trailer/",
-      "image": "https://cdn.motor1.com/images/mgl/ojEE4q/s3/save-the-manuals-2026---il-trailer.jpg",
-      "summary": "Dopo dieci anni, è tempo di tornare a divertirsi. Godetevi il teaser e segnatevi l'appuntamento: domenica 18 ottobre ore 12",
-      "date": "2026-10-15T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:d4983c4bfff8",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -156,6 +192,18 @@
       "url": "https://insideevs.it/features/812080/auto-elettriche-400-volt-ricarica-veloce/",
       "image": "https://cdn.motor1.com/images/mgl/jl88z7/s3/collage-vier-400-volt-elektroautos-mit-hoher-ladegeschwindigkeit.jpg",
       "summary": "Mercedes e BMW sono in testa. Ma anche le auto elettriche più economiche raggiungono potenze di ricarica medie elevate.",
+      "date": "2026-10-15T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:3cadb3e9262c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Torna \"Save The Manuals\", il progetto emozionale di Motor1: il trailer",
+      "url": "https://it.motor1.com/news/811942/save-the-manuals-trailer/",
+      "image": "https://cdn.motor1.com/images/mgl/ojEE4q/s3/save-the-manuals-2026---il-trailer.jpg",
+      "summary": "Dopo dieci anni, è tempo di tornare a divertirsi. Godetevi il teaser e segnatevi l'appuntamento: domenica 18 ottobre ore 12",
       "date": "2026-10-15T15:00:00.0000000Z"
     },
     {
@@ -279,18 +327,6 @@
       "date": "2026-10-15T12:09:24.0000000Z"
     },
     {
-      "id": "motor1:f6c362e5cd4e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le piccole economiche di Stellantis nasceranno in Italia su base cinese",
-      "url": "https://it.motor1.com/news/812077/stellantis-e-car-pomigliano-leapmotor/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z1EzV/s3/citroen-2cv-concept-2026.jpg",
-      "summary": "Saranno prodotte nello stabillimento di Pomigliano e utilizzeranno una piattaforma sviluppata con Leapmotor",
-      "date": "2026-10-15T12:00:00.0000000Z"
-    },
-    {
       "id": "motor1:922aa2e57c79",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -300,6 +336,18 @@
       "url": "https://it.motor1.com/news/812045/alcantara-novita-salone-parigi-2026/",
       "image": "https://cdn.motor1.com/images/mgl/XBbb4E/s3/alcantara-al-salone-di-parigi-2026-peugeot-rcz-vision.jpg",
       "summary": "Alcantara riveste concept racing, sportive elettriche, spazi esperienziali e supercar esclusive al Salone di Parigi 2026",
+      "date": "2026-10-15T12:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:f6c362e5cd4e",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le piccole economiche di Stellantis nasceranno in Italia su base cinese",
+      "url": "https://it.motor1.com/news/812077/stellantis-e-car-pomigliano-leapmotor/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z1EzV/s3/citroen-2cv-concept-2026.jpg",
+      "summary": "Saranno prodotte nello stabillimento di Pomigliano e utilizzeranno una piattaforma sviluppata con Leapmotor",
       "date": "2026-10-15T12:00:00.0000000Z"
     },
     {
@@ -351,18 +399,6 @@
       "date": "2026-10-15T11:00:00.0000000Z"
     },
     {
-      "id": "motor1:67b865c0440f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Così l'Audi A3 diventerà squadratissima",
-      "url": "https://it.motor1.com/news/810752/audi-a3-2028-render/",
-      "image": "https://cdn.motor1.com/images/mgl/G3bbRx/s3/audi-a3-2028-il-render-di-motor1.com.jpg",
-      "summary": "Design ereditato dalla Nuvolari e interni focalizzati sulla qualità. Ecco come potrebbe essere la nuova generazione",
-      "date": "2026-10-15T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:c2f40a41fe19",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -385,18 +421,6 @@
       "image": "https://cdn.motor1.com/images/mgl/OoZZlB/s3/ezi-em05-und-em06-auf-dem-pariser-autosalon-2026.jpg",
       "summary": "I veicoli elettrici leggeri offrono fino a 180 km di autonomia, un design retrò o un look moderno. Prime consegne nel 2027",
       "date": "2026-10-15T07:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:ebd979c4e02f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Stellantis ha dato un concept a tutti i marchi ma non a Lancia",
-      "url": "https://it.motor1.com/news/811932/salone-parigi-2026-lancia-concept/",
-      "image": "https://cdn.motor1.com/images/mgl/rK668r/s3/lancia-gamma-sotto-i-riflettori.jpg",
-      "summary": "I brand parlano del proprio futuro, Lancia resta in silenzio. La strategia è da rifare?",
-      "date": "2026-10-15T05:00:00.0000000Z"
     },
     {
       "id": "insideevs:e8712f13d7e9",
@@ -459,18 +483,6 @@
       "date": "2026-10-14T09:45:28.0000000Z"
     },
     {
-      "id": "insideevs:d0f57a817dd3",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Batterie auto elettriche, così possono durare oltre il 20% in più",
-      "url": "https://insideevs.it/news/811781/batterie-auto-elettriche-durata/",
-      "image": "https://cdn.motor1.com/images/mgl/YAbbEW/s3/batterie-auto-elettriche-cosi-possono-durare-oltre-il-20-in-piu.jpg",
-      "summary": "Una ricerca svedese propone di isolare le celle più deboli senza fermare le altre",
-      "date": "2026-10-14T09:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:3747924da74f",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -481,18 +493,6 @@
       "image": null,
       "summary": "L’agrivoltaico alimenterà il supercomputer Leonardo, gestito da CINECA e ospitato al Tecnopolo DAMA di Bologna. L’impianto sorgerà su… L'articolo Il supercomputer Leonardo alimentato dall’agrivoltaico di Hera a Bologn...",
       "date": "2026-10-14T08:31:31.0000000Z"
-    },
-    {
-      "id": "insideevs:0f02977671c4",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla Roadster, la supercar promessa da nove anni adesso si gioca tutto",
-      "url": "https://insideevs.it/news/811869/tesla-roadster-promesse-2017-manca/",
-      "image": "https://cdn.motor1.com/images/mgl/6ZOOPE/s3/tesla-roadster.jpg",
-      "summary": "Nove anni dopo il primo prototipo Tesla Roadster resta senza data certa di consegna e con molte specifiche ancora solo promesse",
-      "date": "2026-10-14T07:12:40.0000000Z"
     },
     {
       "id": "vaielettrico:ee1b9a28e133",

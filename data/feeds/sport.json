@@ -1,7 +1,19 @@
 {
   "category": "sport",
-  "updated": "2026-10-16T01:25:19.3365150Z",
+  "updated": "2026-10-16T06:09:42.2109797Z",
   "items": [
+    {
+      "id": "corrieresport:b324101a6ba2",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Vittorie, sconfitte e incoerenze: quando il bello &egrave; brutto e il brutto &egrave; bello",
+      "url": "https://www.corrieredellosport.it/news/calcio/2026/10/16-151926247/vittorie_sconfitte_e_incoerenze_quando_il_bello_brutto_e_il_brutto_bello/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/16/050736738-7501fdb4-cc78-4013-a095-cb756b72edd1.jpg",
+      "summary": "Leggi il commento del Direttore del Corriere dello Sport-Stadio",
+      "date": "2026-10-16T05:41:54.0000000Z"
+    },
     {
       "id": "ansa-sport:4f5eeb859e4e",
       "sourceId": "ansa-sport",
@@ -277,18 +289,6 @@
       "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/15/162321139-8d9c95c0-22b8-4ca1-8d82-a7161aa6ab42.jpg",
       "summary": "Dall'Inghilterra arrivano conferme sull'imminente annuncio del club bavarese: l'attaccante inglese vestirà ancora la maglia dei campioni di Germania",
       "date": "2026-10-15T16:33:10.0000000Z"
-    },
-    {
-      "id": "corrieresport:bd4dd9ce6178",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Venezia, ufficiale il rinnovo di Yeboah fino al 2030: i dettagli",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/venezia/2026/10/15-151914038/venezia_ufficiale_il_rinnovo_di_yeboah_fino_al_2030_i_dettagli/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/15/161446583-0b9fe3a1-507d-4eb4-95f1-788320e5e8be.jpg",
-      "summary": "L'accordo con il nazionale ecuadoriano prevede anche un'opzione di rinnovo in favore del club lagunare",
-      "date": "2026-10-15T16:16:11.0000000Z"
     },
     {
       "id": "gazzetta:1f6295773752",
