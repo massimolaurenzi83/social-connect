@@ -1,7 +1,43 @@
 {
   "category": "cucina",
-  "updated": "2026-10-16T15:27:01.5063723Z",
+  "updated": "2026-10-16T18:56:25.4062838Z",
   "items": [
+    {
+      "id": "dissapore:1ce633297f1d",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "I 50 migliori birrifici artigianali d’Italia del 2026",
+      "url": "https://www.dissapore.com/bere/i-50-migliori-birrifici-artigianali-ditalia-del-2026/",
+      "image": null,
+      "summary": "In rigoroso ordine alfabetico, i 50 migliori birrifici artigianali d'Italia secondo Dissapore. Una selezione basata su costanza produttiva, identità, sostenibilità, materie prime e comunicazione. L'articolo I 50 migli...",
+      "date": "2026-10-16T17:48:18.0000000Z"
+    },
+    {
+      "id": "giallozafferano:92d2c3318975",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Tiramisù vegano di anacardi",
+      "url": "https://ricette.giallozafferano.it/Tiramisu-vegano-di-anacardi.html",
+      "image": "https://www.giallozafferano.it/images/367-36729/Tiramisu-vegano-di-anacardi_1200x800.jpg",
+      "summary": "Il tiramisù vegano di anacardi è una rivisitazione del classico tiramisù, preparata senza uova, latte e mascarpone. In questa versione vi mostriamo come realizzare anche i savoiardi vegani fatti in casa , utilizzando ...",
+      "date": "2026-10-16T15:37:00.0000000Z"
+    },
+    {
+      "id": "giallozafferano:88cb25ad67b3",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Muffin yogurt e cacao",
+      "url": "https://ricette.giallozafferano.it/Muffin-yogurt-e-cacao.html",
+      "image": "https://www.giallozafferano.it/images/367-36725/Muffin-yogurt-e-cacao_1200x800.jpg",
+      "summary": "I muffin yogurt e cacao sono dei dolcetti soffici e irresistibili, preparati con ingredienti molto semplici. L'impasto a base di yogurt e olio di semi permette di ottenere dei muffin senza burro dalla consistenza legg...",
+      "date": "2026-10-16T13:45:00.0000000Z"
+    },
     {
       "id": "dissapore:455d1ea9bffe",
       "sourceId": "dissapore",
@@ -243,18 +279,6 @@
       "date": "2026-10-12T14:07:20.0000000Z"
     },
     {
-      "id": "dissapore:44e8e2816360",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Carlsberg e il “tour della distruzione”, ovvero come l’industria cancella la storia della birra",
-      "url": "https://www.dissapore.com/bere/carlsberg-e-il-tour-della-distruzione-ovvero-come-lindustria-cancella-la-storia-della-birra/",
-      "image": null,
-      "summary": "Il gruppo danese stacca la spina a Marton's, storico birrificio artigianale del Regno Unito, ma è solo l'ultimo di una lunga serie di tagli, che mettono a rischio la tradizione birraria britannica. L'articolo Carlsber...",
-      "date": "2026-10-12T11:47:56.0000000Z"
-    },
-    {
       "id": "giallozafferano:96f2127c9c28",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -265,30 +289,6 @@
       "image": "https://www.giallozafferano.it/images/366-36694/Torta-5-minuti-alla-marmellata_1200x800.jpg",
       "summary": "La torta 5 minuti alla marmellata è un dolce soffice, goloso e facilissimo da preparare per la colazione o la merenda di tutta la famiglia. Il suo nome deriva proprio dalla rapidità della preparazione, poiché bastano ...",
       "date": "2026-10-09T14:09:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:ca8c692018e6",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Panino al salame con crema di provolone e melanzane",
-      "url": "https://ricette.giallozafferano.it/Panino-al-salame-con-crema-di-provolone-e-melanzane.html",
-      "image": "https://www.giallozafferano.it/images/366-36681/Panino-al-salame-con-crema-di-provolone-e-melanzane_1200x800.jpg",
-      "summary": "Il panino al salame con crema di provolone e melanzane è una ricetta ricca e sfiziosa che Giuliana ha condiviso con noi in occasione di una puntata del vodcast \" Ti mando un vocale \". Un panino farcito dai sapori deci...",
-      "date": "2026-10-09T10:30:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:1a42e797d506",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Pizza in teglia con il cucchiaio",
-      "url": "https://ricette.giallozafferano.it/Pizza-in-teglia-con-il-cucchiaio.html",
-      "image": "https://www.giallozafferano.it/images/366-36682/Pizza-in-teglia-con-il-cucchiaio_1200x800.jpg",
-      "summary": "La pizza in teglia con il cucchiaio è la ricetta perfetta per chi vuole preparare una pizza fatta in casa senza complicarsi troppo la vita. L’impasto, morbido e molto idratato, non richiede una lunga lavorazione a man...",
-      "date": "2026-10-09T07:00:00.0000000Z"
     }
   ]
 }

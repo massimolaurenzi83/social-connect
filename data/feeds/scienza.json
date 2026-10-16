@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-10-16T15:27:01.4093467Z",
+  "updated": "2026-10-16T18:56:25.4119742Z",
   "items": [
+    {
+      "id": "media-inaf:81a411900337",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Juice: la Terra oggi, Giove domani",
+      "url": "https://www.media.inaf.it/2026/10/16/juice-flyby-terra-2026-2/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/01_earth_madagascar_true_colour-150x150.png",
+      "summary": "La manovra di flyby sulla Terra compiuta il mese scorso dalla sonda Esa Juice per sfruttare il nostro pianeta come fionda gravitazionale e instradarsi correttamente verso Giove, complice una lunga eclissi, ha rapprese...",
+      "date": "2026-10-16T17:15:30.0000000Z"
+    },
     {
       "id": "geopop:eV74a-D8KLM",
       "sourceId": "geopop",
@@ -222,18 +234,6 @@
       "date": "2026-10-14T09:47:31.0000000Z"
     },
     {
-      "id": "focus:3f3768ade9b9",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "ExpoMedicina 2026, la salute in fiera",
-      "url": "https://www.focus.it/scienza/salute/expomedicina-2026-la-salute-in-fiera",
-      "image": "https://www.focus.it/images/2026/10/13/expo-medicina_w630.jpeg?imbypass=true",
-      "summary": "Screening gratuiti, intelligenza artificiale in corsia, malattie croniche ed emergenze climatiche: dal 25 al 28 ottobre ExpoMedicina torna alle Ciminiere di Catania. Con un pomeriggio firmato Focus.",
-      "date": "2026-10-14T08:00:00.0000000Z"
-    },
-    {
       "id": "focus:6357b56f185e",
       "sourceId": "focus",
       "source": "Focus",
@@ -243,6 +243,18 @@
       "url": "https://www.focus.it/ambiente/animali/un-pugno-nello-stomaco-la-foto-che-ha-vinto-il-wildlife-photographer-of-the-year-2026-e-di-un-italiano",
       "image": "https://www.focus.it/images/2026/10/14/elefante-wildlife-photographer-of-the-year-2026_w630.jpg?imbypass=true",
       "summary": "Realizzata in Namibia dal fotografo Federico Veronesi, l'immagine che ha vinto il Wildlife Photographer of the Year immortala una madre elefantessa e il dramma della morte del suo cucciolo.",
+      "date": "2026-10-14T08:00:00.0000000Z"
+    },
+    {
+      "id": "focus:3f3768ade9b9",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "ExpoMedicina 2026, la salute in fiera",
+      "url": "https://www.focus.it/scienza/salute/expomedicina-2026-la-salute-in-fiera",
+      "image": "https://www.focus.it/images/2026/10/13/expo-medicina_w630.jpeg?imbypass=true",
+      "summary": "Screening gratuiti, intelligenza artificiale in corsia, malattie croniche ed emergenze climatiche: dal 25 al 28 ottobre ExpoMedicina torna alle Ciminiere di Catania. Con un pomeriggio firmato Focus.",
       "date": "2026-10-14T08:00:00.0000000Z"
     },
     {
@@ -381,18 +393,6 @@
       "summary": "",
       "videoId": "RdYCpVDPr20",
       "date": "2026-10-12T07:00:17.0000000Z"
-    },
-    {
-      "id": "media-inaf:532e1eda0705",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Tre candidate galassie backsplash per una matricola",
-      "url": "https://www.media.inaf.it/2026/10/12/galassie-backsplash-shapiro/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/backsplash_galaxies-150x150.jpg",
-      "summary": "Sono tre galassie nane isolate e quiescenti, possibili candidate a galassie “backsplash”: galassie entrate in passato nella regione dominata gravitazionalmente da una galassia più massiccia per poi uscirne avendo, per...",
-      "date": "2026-10-12T06:59:21.0000000Z"
     },
     {
       "id": "geopop:5jfIiL42w3s",
