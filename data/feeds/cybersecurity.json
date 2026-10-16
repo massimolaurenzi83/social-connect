@@ -1,7 +1,55 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-16T06:09:42.1725000Z",
+  "updated": "2026-10-16T11:23:00.1085568Z",
   "items": [
+    {
+      "id": "cybersecurity360:8c8686e69719",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Promozioni VPN fino al 75% di sconto e 3 mesi gratis: protezione dati e privacy online a costi ridotti",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/promozioni-vpn-sconto-75-mesi-gratis-privacy-online/",
+      "image": null,
+      "summary": "Sconti fino al 75% e tre mesi aggiuntivi sui piani biennali: la promozione NordVPN riduce il costo iniziale della protezione online. Ecco tariffe, funzionalità incluse e condizioni di rinnovo L'articolo Promozioni VPN...",
+      "date": "2026-10-16T10:31:53.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:a1a2f80480f8",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Shadow AI in azienda: perché le policy tradizionali falliscono e come difendersi",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/shadow-ai-in-azienda-perche-le-policy-tradizionali-falliscono-e-come-difendersi/",
+      "image": null,
+      "summary": "L'adozione non autorizzata di strumenti di intelligenza artificiale evidenzia i limiti delle policy aziendali. Un'analisi tecnica con i leader della cyber security rivela perché il controllo dell'infrastruttura batte ...",
+      "date": "2026-10-16T10:19:15.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:b4932ed6fc48",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "CRA, pubblicato lo schema di decreto italiano: controlli, certificazioni e sanzioni",
+      "url": "https://www.cybersecurity360.it/legal/cra-pubblicato-lo-schema-di-decreto-italiano-controlli-certificazioni-e-sanzioni/",
+      "image": null,
+      "summary": "Pubblicato lo schema di decreto italiano sul Cyber Resilience Act. Il testo chiarisce il ruolo di ACN e Accredia, il coordinamento con l'AI Act, le procedure di segnalazione e le sanzioni. Previste anche una Sandbox-C...",
+      "date": "2026-10-16T10:12:26.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:df393e841ae9",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Trattamenti dati per finalità di Polizia: dalla DPIA ai controlli che garantiscono sicurezza e tracciabilità",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/trattamenti-dati-per-finalita-di-polizia-dalla-dpia-ai-controlli-che-garantiscono-sicurezza-e-tracciabilita/",
+      "image": null,
+      "summary": "Nei trattamenti di dati personali per finalità di Polizia, la DPIA è il punto di partenza per costruire un sistema di garanzie effettive. Dalla limitazione degli accessi alla gestione dei log, fino alla conservazione ...",
+      "date": "2026-10-16T08:20:07.0000000Z"
+    },
     {
       "id": "cybersecurity360:2a64deed672a",
       "sourceId": "cybersecurity360",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Fallita la proposta di direttiva europea sulla responsabilità da intelligenza artificiale, ritirata nel febbraio 2025, il legislatore italiano è intervenuto su diversi fronti contemporaneamente con una norma su tre li...",
       "date": "2026-10-15T07:45:18.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:e07abb9d6b0e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Attacco ai supermercati francesi: perché la OT security è prima di tutto questione di governance",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/attacco-ai-supermercati-francesi-perche-la-ot-security-e-prima-di-tutto-questione-di-governance/",
-      "image": null,
-      "summary": "L'attacco ai sistemi di refrigerazione dei supermercati francesi mostra come una debolezza condivisa possa compromettere centinaia di impianti. Tra dispositivi obsoleti, accessi remoti e fornitori, la sicurezza OT div...",
-      "date": "2026-10-14T15:15:29.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:0dd3b3cecd1a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Patch Tuesday ottobre 2026: oltre 1.400 falle e uno zero-day sfruttato, le priorità per le aziende",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/patch-tuesday-ottobre-2026-oltre-1-400-falle-e-uno-zero-day-sfruttato-le-priorita-per-le-aziende/",
-      "image": null,
-      "summary": "Microsoft corregge oltre 1.400 vulnerabilità nel Patch Tuesday di ottobre 2026, tra cui uno zero-day già sfruttato e due falle divulgate pubblicamente. Il numero record di CVE impone alle aziende di ripensare priorità...",
-      "date": "2026-10-14T13:54:26.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:76d3f91fe60e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber Mission di Anthropic: l’AI scopre le vulnerabilità, la sfida è correggerle",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/cyber-mission-di-anthropic-lai-scopre-le-vulnerabilita-la-sfida-e-correggerle/",
-      "image": null,
-      "summary": "Anthropic presenta Cyber Mission per rafforzare la difesa delle infrastrutture critiche e del software open source con l'intelligenza artificiale. Tra modelli Claude, nuovi strumenti di scansione e programmi dedicati,...",
-      "date": "2026-10-14T10:44:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:0dd46823dcd0",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cybertech Europe 2026: l’AI moltiplica i rischi cyber, ma il vero problema è perdere il controllo",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/cybertech-europe-2026-lai-moltiplica-i-rischi-cyber-ma-il-vero-problema-e-perdere-il-controllo/",
-      "image": null,
-      "summary": "Dalla Shadow AI alla Physical AI, fino alla dipendenza da pochi fornitori tecnologici: Cybertech Europe 2026 mette in luce rischi vecchi e nuovi della trasformazione digitale. Il denominatore comune è la progressiva r...",
-      "date": "2026-10-14T08:23:00.0000000Z"
     }
   ]
 }
