@@ -1,7 +1,31 @@
 {
   "category": "cucina",
-  "updated": "2026-10-16T11:23:00.0740651Z",
+  "updated": "2026-10-16T15:27:01.5063723Z",
   "items": [
+    {
+      "id": "dissapore:455d1ea9bffe",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Il pollo fritto di KFC ha lasciato Pepsi per la Coca Cola",
+      "url": "https://www.dissapore.com/notizie/il-pollo-fritto-di-kfc-ha-lasciato-pepsi-per-la-coca-cola/",
+      "image": null,
+      "summary": "Un nuovo colpo per PepsiCo, che perde la partnership con KFC che durava da 40 anni, per ora però solo nel mercato statunitense. L'articolo Il pollo fritto di KFC ha lasciato Pepsi per la Coca Cola proviene da Dissapore .",
+      "date": "2026-10-16T12:08:14.0000000Z"
+    },
+    {
+      "id": "giallozafferano:c3d0a9884dbd",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Funghi portobello ripieni vegetariani",
+      "url": "https://ricette.giallozafferano.it/Funghi-portobello-ripieni-vegetariani.html",
+      "image": "https://www.giallozafferano.it/images/367-36728/Funghi-portobello-ripieni-vegetariani_1200x800.jpg",
+      "summary": "I funghi portobello ripieni vegetariani sono un secondo piatto al forno semplice e saporito, ideale per chi cerca un'alternativa senza carne, ma ricca di gusto. Grazie alle loro dimensioni generose e alla consistenza ...",
+      "date": "2026-10-16T09:37:00.0000000Z"
+    },
     {
       "id": "dissapore:625a34661394",
       "sourceId": "dissapore",
@@ -231,18 +255,6 @@
       "date": "2026-10-12T11:47:56.0000000Z"
     },
     {
-      "id": "dissapore:b6a82f14700f",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Bruno Barbieri e l’intervista a Verissimo con cui ha smesso per sempre di essere chef",
-      "url": "https://www.dissapore.com/tv/bruno-barbieri-e-lintervista-a-verissimo-con-cui-ha-smesso-per-sempre-di-essere-chef/",
-      "image": null,
-      "summary": "L'intervista a Verissimo di Bruno Barbieri segna una svolta definitiva nella sua carriera. L'articolo Bruno Barbieri e l’intervista a Verissimo con cui ha smesso per sempre di essere chef proviene da Dissapore .",
-      "date": "2026-10-12T10:10:33.0000000Z"
-    },
-    {
       "id": "giallozafferano:96f2127c9c28",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/366-36682/Pizza-in-teglia-con-il-cucchiaio_1200x800.jpg",
       "summary": "La pizza in teglia con il cucchiaio è la ricetta perfetta per chi vuole preparare una pizza fatta in casa senza complicarsi troppo la vita. L’impasto, morbido e molto idratato, non richiede una lunga lavorazione a man...",
       "date": "2026-10-09T07:00:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:3189da39e9df",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Matcha latte",
-      "url": "https://ricette.giallozafferano.it/Matcha-latte.html",
-      "image": "https://www.giallozafferano.it/images/366-36695/Matcha-latte_1200x800.jpg",
-      "summary": "Dal caratteristico colore verde brillante e dalla consistenza cremosa e spumosa, il matcha latte è una bevanda che ha conquistato le caffetterie di tutto il mondo. Le sue radici affondano nella tradizione giapponese, ...",
-      "date": "2026-10-08T14:21:00.0000000Z"
     }
   ]
 }

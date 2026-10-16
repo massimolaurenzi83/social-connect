@@ -1,7 +1,31 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-16T11:23:00.1296559Z",
+  "updated": "2026-10-16T15:27:01.5079599Z",
   "items": [
+    {
+      "id": "ferrovie:bfca60b08cdc",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Cornino, 120mila euro per riqualificare la fermata sulla Sacile - Gemona",
+      "url": "https://www.ferrovie.info/treni-reali/cornino-120mila-euro-per-riqualificare-la-fermata-sulla-sacile-gemona.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/Cornino.jpg",
+      "summary": "La fermata ferroviaria di Cornino, nel Comune di Forgaria nel Friuli, sarà interessata da un intervento di riqualificazione da 120mila euro lungo la linea Sacile-Gemona. Il progetto, sostenuto dalla Regione Friuli Ven...",
+      "date": "2026-10-16T13:05:44.0000000Z"
+    },
+    {
+      "id": "ferrovie:31330954b850",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Villabassa, 1,23 milioni per ampliare il centro di mobilità vicino alla stazione",
+      "url": "https://www.ferrovie.info/treni-reali/villabassa-1-23-milioni-per-ampliare-il-centro-di-mobilita-vicino-alla-stazione.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10002/650D2394.jpg",
+      "summary": "Più parcheggi, infrastrutture per la ricarica dei veicoli elettrici e servizi migliorati per chi sceglie il treno. Il centro di mobilità di Villabassa, in Val Pusteria, sarà ampliato e riqualificato grazie a un finanz...",
+      "date": "2026-10-16T12:57:50.0000000Z"
+    },
     {
       "id": "ferrovie:78a575d5d945",
       "sourceId": "ferrovie",
@@ -63,18 +87,6 @@
       "date": "2026-10-16T09:50:00.0000000Z"
     },
     {
-      "id": "ferrovie:f330b6fc6f59",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Škoda 109E, tre storie diverse e un futuro sempre più incerto",
-      "url": "https://www.ferrovie.info/treni-reali/skoda-109e-tre-storie-diverse-e-un-futuro-sempre-piu-incerto.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10608/102_002_Fahlenbach.JPG",
-      "summary": "Ci sono locomotive che, nonostante le buone premesse, finiscono per lasciare un’eredità ben diversa da quella immaginata al momento dell’ordine. È il caso delle Škoda 109E , una famiglia nata per i servizi passeggeri ...",
-      "date": "2026-10-16T08:26:18.0000000Z"
-    },
-    {
       "id": "ferrovie:c93982005b33",
       "sourceId": "ferrovie",
       "source": "Ferrovie.info",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1820942.JPG",
       "summary": "Treno e nave sempre più integrati per semplificare gli spostamenti dei viaggiatori e promuovere un turismo sostenibile. Trenitalia e Costa Crociere avviano una collaborazione per collegare in modo più efficace le staz...",
       "date": "2026-10-16T06:46:09.0000000Z"
-    },
-    {
-      "id": "ferrovie:15d46b9f38e0",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "TGV M, debutto commerciale il 6 novembre sulla Parigi-Marsiglia",
-      "url": "https://www.ferrovie.info/treni-reali/tgv-m-debutto-commerciale-il-6-novembre-sulla-parigi-marsiglia.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10054/tgv_m_301.jpg",
-      "summary": "Il debutto della nuova generazione di treni ad alta velocità francesi è ormai vicino, dopo una lunga attesa e diversi rinvii rispetto al programma iniziale. Il nuovo convoglio si prepara a entrare in servizio su una d...",
-      "date": "2026-10-15T06:58:13.0000000Z"
     }
   ]
 }

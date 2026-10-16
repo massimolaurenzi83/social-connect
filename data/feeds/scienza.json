@@ -1,7 +1,20 @@
 {
   "category": "scienza",
-  "updated": "2026-10-16T11:23:00.1355235Z",
+  "updated": "2026-10-16T15:27:01.4093467Z",
   "items": [
+    {
+      "id": "geopop:eV74a-D8KLM",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "A proposito dell’Aeroporto di Firenze",
+      "url": "https://www.youtube.com/watch?v=eV74a-D8KLM",
+      "image": "https://i.ytimg.com/vi/eV74a-D8KLM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "eV74a-D8KLM",
+      "date": "2026-10-16T14:00:15.0000000Z"
+    },
     {
       "id": "geopop:gvINM1-i5cA",
       "sourceId": "geopop",
@@ -16,16 +29,16 @@
       "date": "2026-10-16T11:00:15.0000000Z"
     },
     {
-      "id": "focus:0e2f42c58b54",
+      "id": "focus:9fe8f8bd7938",
       "sourceId": "focus",
       "source": "Focus",
       "platform": "rss",
       "category": "scienza",
-      "title": "Decarbonizzazione: la mappa mondiale dei vantaggi",
-      "url": "https://www.focus.it/scienza/energia/addio-ai-combustibili-fossili-la-mappa-dei-vantaggi-paese-per-paese",
-      "image": "https://www.focus.it/images/2026/10/15/pannelli-solari-in-cina_w630.jpg?imbypass=true",
-      "summary": "L'abbandono dei combustibili fossili può creare nuovi interessi e risorse, non per tutti uguali: capirlo potrà favorire i futuri accordi climatici.",
-      "date": "2026-10-16T07:00:00.0000000Z"
+      "title": "Cibo per animali: come si legge l’etichetta?",
+      "url": "https://www.focus.it/ambiente/animali/cibo-per-animali-come-leggere-l-etichetta",
+      "image": "https://www.focus.it/images/2026/10/13/cibo-animali_w630.jpg?imbypass=true",
+      "summary": "Dalle percentuali alle le voci \"grezze\": una guida rapida per decifrare la composizione e i componenti analitici del cibo per animali.",
+      "date": "2026-10-16T09:00:00.0000000Z"
     },
     {
       "id": "focus:c27bc74de5c1",
@@ -37,6 +50,18 @@
       "url": "https://www.focus.it/scienza/salute/l-esposizione-precoce-alla-nicotina-aumenta-la-gravita-dell-influenza-in-eta-adulta",
       "image": "https://www.focus.it/images/2026/10/15/non-fumare_w630.jpg?imbypass=true",
       "summary": "Topi entrati a contatto con la nicotina durante la gravidanza della madre o appena dopo la nascita ne portano le conseguenze sul sistema immunitario.",
+      "date": "2026-10-16T07:00:00.0000000Z"
+    },
+    {
+      "id": "focus:0e2f42c58b54",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Decarbonizzazione: la mappa mondiale dei vantaggi",
+      "url": "https://www.focus.it/scienza/energia/addio-ai-combustibili-fossili-la-mappa-dei-vantaggi-paese-per-paese",
+      "image": "https://www.focus.it/images/2026/10/15/pannelli-solari-in-cina_w630.jpg?imbypass=true",
+      "summary": "L'abbandono dei combustibili fossili può creare nuovi interessi e risorse, non per tutti uguali: capirlo potrà favorire i futuri accordi climatici.",
       "date": "2026-10-16T07:00:00.0000000Z"
     },
     {
@@ -258,18 +283,6 @@
       "date": "2026-10-14T05:00:00.0000000Z"
     },
     {
-      "id": "focus:2ab60b4e5140",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Oltre le rughe: gli usi dell’acido ialuronico",
-      "url": "https://www.focus.it/scienza/salute/che-cos-e-l-acido-ialuronico-la-molecola-spugna-che-protegge-e-rigenera-il-nostro-corpo",
-      "image": "https://www.focus.it/images/2026/09/15/acido-ialuronico-medicina_w630.jpg?imbypass=true",
-      "summary": "Capace di legare fino a 1.000 volte il suo peso in acqua, l'acido ialuronico non serve solo a contrastare le rughe. Dalla chirurgia oculare alla cicatrizzazione delle ferite: tutte le applicazioni cliniche e dermatolo...",
-      "date": "2026-10-14T03:00:00.0000000Z"
-    },
-    {
       "id": "geopop:dN-D-8byhNA",
       "sourceId": "geopop",
       "source": "Geopop",
@@ -445,19 +458,6 @@
       "summary": "",
       "videoId": "X9gUdD2qYhw",
       "date": "2026-10-05T16:30:06.0000000Z"
-    },
-    {
-      "id": "geopop:DtfViM923eU",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Il 4 ottobre diventa festa nazionale in onore di San Francesco, patrono d'Italia.",
-      "url": "https://www.youtube.com/watch?v=DtfViM923eU",
-      "image": "https://i.ytimg.com/vi/DtfViM923eU/hqdefault.jpg",
-      "summary": "",
-      "videoId": "DtfViM923eU",
-      "date": "2026-10-04T05:00:18.0000000Z"
     },
     {
       "id": "barbascura:J0w-SlR8V8M",
