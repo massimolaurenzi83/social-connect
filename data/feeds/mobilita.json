@@ -1,7 +1,55 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-17T04:40:26.0029494Z",
+  "updated": "2026-10-17T08:50:18.5173071Z",
   "items": [
+    {
+      "id": "ferrovie:cf1f03be1562",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Terzo Valico dei Giovi, costi aggiuntivi e cassa integrazione mettono a rischio i lavori",
+      "url": "https://www.ferrovie.info/treni-reali/terzo-valico-dei-giovi-costi-aggiuntivi-e-cassa-integrazione-mettono-a-rischio-i-lavori.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/Terzo_Valico_300.jpg",
+      "summary": "Un’infrastruttura ormai vicina al completamento degli scavi si trova a fare i conti con nuove incertezze economiche e occupazionali. Sul Terzo Valico dei Giovi cresce la preoccupazione per la prosecuzione delle attivi...",
+      "date": "2026-10-17T08:08:50.0000000Z"
+    },
+    {
+      "id": "ferrovie:13ff1c681804",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Linea 6 Napoli, arrivato il primo treno Hitachi: quando entrerà in servizio",
+      "url": "https://www.ferrovie.info/altri-mezzi/metropolitane/linea-6-napoli-arrivato-il-primo-treno-hitachi-quando-entrera-in-servizio.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_linea_6_metro_napoli.jpg",
+      "summary": "La Linea 6 della metropolitana di Napoli compie un passo avanti verso il rinnovo della flotta. Il primo dei 22 nuovi treni realizzati da Hitachi Rail è arrivato in città ed è stato trasferito a piazzale Tecchio, nell'...",
+      "date": "2026-10-17T07:44:26.0000000Z"
+    },
+    {
+      "id": "ferrovie:c9e29767dbae",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Ferrovia Alessandria-Ovada, avviata la procedura per il ritorno dei treni passeggeri",
+      "url": "https://www.ferrovie.info/treni-reali/ferrovia-alessandria-ovada-avviata-la-procedura-per-il-ritorno-dei-treni-passeggeri.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10421/Img0111_103.jpg",
+      "summary": "Una linea ferroviaria può restare fuori dal servizio passeggeri per anni, ma continuare a rappresentare una risorsa per il territorio. Per la Alessandria-Ovada si apre ora una nuova fase, con l’avvio della procedura c...",
+      "date": "2026-10-17T07:35:39.0000000Z"
+    },
+    {
+      "id": "ferrovie:162235e0ca15",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Elettrificazione della linea per Campobasso, aggiudicati i lavori per le gallerie",
+      "url": "https://www.ferrovie.info/treni-reali/elettrificazione-della-linea-per-campobasso-aggiudicati-i-lavori-per-le-gallerie.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10002/450_0051~6.jpg",
+      "summary": "Il percorso verso il ritorno dei treni sulla linea per Campobasso compie un nuovo passo, con la conclusione di una procedura attesa per superare uno degli ostacoli infrastrutturali legati all’elettrificazione. Rete Fe...",
+      "date": "2026-10-17T07:25:31.0000000Z"
+    },
     {
       "id": "ferrovie:bfca60b08cdc",
       "sourceId": "ferrovie",
@@ -51,18 +99,6 @@
       "date": "2026-10-16T10:31:38.0000000Z"
     },
     {
-      "id": "ferrovie:13576623225a",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Ferrovia dei Parchi, la storia della Transiberiana d’Italia dalle origini ai treni storici",
-      "url": "https://www.ferrovie.info/rubriche/approfondimenti/ferrovia-dei-parchi-la-storia-della-transiberiana-ditalia-dalle-origini-ai-treni-storici.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/aln_668_gnl_103.jpg",
-      "summary": "Attraversa alcuni degli scenari montani più suggestivi dell'Appennino centrale, superando valichi elevati, gallerie e imponenti opere d'ingegneria. È la Ferrovia dei Parchi , conosciuta un tempo anche come Transiberia...",
-      "date": "2026-10-16T10:06:19.0000000Z"
-    },
-    {
       "id": "ferrovie:f56c5e956fd9",
       "sourceId": "ferrovie",
       "source": "Ferrovie.info",
@@ -87,30 +123,6 @@
       "date": "2026-10-16T09:50:00.0000000Z"
     },
     {
-      "id": "ferrovie:c93982005b33",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Siemens Mobility, maxi ordine per 113 treni a batteria in Bassa Sassonia",
-      "url": "https://www.ferrovie.info/treni-reali/siemens-mobility-maxi-ordine-per-113-treni-a-batteria-in-bassa-sassonia.html",
-      "image": "https://www.ferrovie.info/images/varie/siemens-mobility-mireo-Plus-B.webp",
-      "summary": "Un investimento di ampia portata punta a trasformare il trasporto regionale su linee non completamente elettrificate, combinando nuovi treni a batteria, manutenzione a lungo termine e infrastrutture dedicate. Siemens ...",
-      "date": "2026-10-16T08:02:33.0000000Z"
-    },
-    {
-      "id": "ferrovie:f27ade26f14c",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Alstom, contratto da quasi un miliardo di euro per la manutenzione dei treni Greater Anglia",
-      "url": "https://www.ferrovie.info/treni-reali/alstom-contratto-da-quasi-un-miliardo-di-euro-per-la-manutenzione-dei-treni-greater-anglia.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_Aventra_Greater_Anglia_1000.jpg",
-      "summary": "Un accordo di lungo periodo rafforza la collaborazione tra un costruttore ferroviario e un operatore britannico, puntando su affidabilità, disponibilità della flotta e qualità del servizio per i passeggeri. Alstom ha ...",
-      "date": "2026-10-16T07:57:05.0000000Z"
-    },
-    {
       "id": "ferrovie:1480a8778e70",
       "sourceId": "ferrovie",
       "source": "Ferrovie.info",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10002/RX100474.jpg",
       "summary": "Un’occasione per viaggiare e fotografare uno dei complessi più particolari del parco ferroviario italiano attuale, con un’iniziativa dedicata agli appassionati e a chi desidera salire a bordo un’ultima volta. Domenica...",
       "date": "2026-10-16T06:59:25.0000000Z"
-    },
-    {
-      "id": "ferrovie:48b6ef75928c",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Trenitalia e Costa Crociere, dal 2027 treno e nave con un’unica prenotazione",
-      "url": "https://www.ferrovie.info/treni-reali/trenitalia-e-costa-crociere-dal-2027-treno-e-nave-con-ununica-prenotazione.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1820942.JPG",
-      "summary": "Treno e nave sempre più integrati per semplificare gli spostamenti dei viaggiatori e promuovere un turismo sostenibile. Trenitalia e Costa Crociere avviano una collaborazione per collegare in modo più efficace le staz...",
-      "date": "2026-10-16T06:46:09.0000000Z"
     }
   ]
 }
