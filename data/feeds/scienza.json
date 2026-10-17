@@ -1,7 +1,31 @@
 {
   "category": "scienza",
-  "updated": "2026-10-17T15:53:51.9332153Z",
+  "updated": "2026-10-17T18:08:06.0011206Z",
   "items": [
+    {
+      "id": "focus:6580446e5dac",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Il medico chiede all’IA",
+      "url": "https://www.focus.it/tecnologia/innovazione/Il-medico-chiede-all-IA",
+      "image": "https://www.focus.it/images/2026/04/15/medico-ia_w630.jpg?imbypass=true",
+      "summary": "L'intelligenza artificiale generativa è già usata da 6 medici su 10, ma pochi ne conoscono i limiti. Lo racconta un nuovo podcast con i dati del Politecnico di Milano.",
+      "date": "2026-10-17T12:00:00.0000000Z"
+    },
+    {
+      "id": "focus:0391ad244432",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Cicap Fest, il futuro è a Padova",
+      "url": "https://www.focus.it/cultura/curiosita/cicap-fest-il-futuro-e-a-padova",
+      "image": "https://www.focus.it/images/2026/10/17/cicap-fest-26_w630.jpg?imbypass=true",
+      "summary": "Due settimane dopo Focus Live, la scienza si sposta a Padova: dal 6 all'8 novembre torna il CICAP Fest, dedicato al futuro che arriva prima del previsto. E Focus è media partner.",
+      "date": "2026-10-17T12:00:00.0000000Z"
+    },
     {
       "id": "focus:a376e06a74ae",
       "sourceId": "focus",
@@ -126,18 +150,6 @@
       "date": "2026-10-16T09:00:00.0000000Z"
     },
     {
-      "id": "focus:0e2f42c58b54",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Decarbonizzazione: la mappa mondiale dei vantaggi",
-      "url": "https://www.focus.it/scienza/energia/addio-ai-combustibili-fossili-la-mappa-dei-vantaggi-paese-per-paese",
-      "image": "https://www.focus.it/images/2026/10/15/pannelli-solari-in-cina_w630.jpg?imbypass=true",
-      "summary": "L'abbandono dei combustibili fossili può creare nuovi interessi e risorse, non per tutti uguali: capirlo potrà favorire i futuri accordi climatici.",
-      "date": "2026-10-16T07:00:00.0000000Z"
-    },
-    {
       "id": "focus:c27bc74de5c1",
       "sourceId": "focus",
       "source": "Focus",
@@ -147,6 +159,18 @@
       "url": "https://www.focus.it/scienza/salute/l-esposizione-precoce-alla-nicotina-aumenta-la-gravita-dell-influenza-in-eta-adulta",
       "image": "https://www.focus.it/images/2026/10/15/non-fumare_w630.jpg?imbypass=true",
       "summary": "Topi entrati a contatto con la nicotina durante la gravidanza della madre o appena dopo la nascita ne portano le conseguenze sul sistema immunitario.",
+      "date": "2026-10-16T07:00:00.0000000Z"
+    },
+    {
+      "id": "focus:0e2f42c58b54",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Decarbonizzazione: la mappa mondiale dei vantaggi",
+      "url": "https://www.focus.it/scienza/energia/addio-ai-combustibili-fossili-la-mappa-dei-vantaggi-paese-per-paese",
+      "image": "https://www.focus.it/images/2026/10/15/pannelli-solari-in-cina_w630.jpg?imbypass=true",
+      "summary": "L'abbandono dei combustibili fossili può creare nuovi interessi e risorse, non per tutti uguali: capirlo potrà favorire i futuri accordi climatici.",
       "date": "2026-10-16T07:00:00.0000000Z"
     },
     {
@@ -220,30 +244,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/MMX_at_Mars_and_Phobos_article-150x150.png",
       "summary": "Al via il 19 ottobre la missione giapponese Mmx, che esplorerà le lune di Marte per indagarne l’origine e la composizione. Per la prima volta, una sonda raccoglierà campioni da Phobos e li riporterà sulla Terra, dove ...",
       "date": "2026-10-15T08:28:54.0000000Z"
-    },
-    {
-      "id": "focus:d9db2a0726e3",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "La Luna si sta restringendo",
-      "url": "https://www.focus.it/scienza/spazio/la-luna-si-sta-restringendo-e-ora-sappiamo-anche-a-che-velocita",
-      "image": "https://www.focus.it/images/2026/10/15/luna-faglie_w630.jpg?imbypass=true",
-      "summary": "Un nuovo studio misura il ritmo del rimpicciolimento della Luna. Il raffreddamento interno sta spezzando la crosta lunare, creando oltre 10.000 faglie e scosse sismiche.",
-      "date": "2026-10-15T08:00:00.0000000Z"
-    },
-    {
-      "id": "focus:ced4b448cf34",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Bolotana, in Sardegna, è il paese delle centenarie",
-      "url": "https://www.focus.it/scienza/salute/scoperta-una-nuova-zona-blu-in-sardegna-bolotana",
-      "image": "https://www.focus.it/images/2026/10/12/anziana-sarda_w630.jpg?imbypass=true",
-      "summary": "In questo paesino alle pendici della catena del Marghine, in Sardegna, il 13,8% delle donne che compie 70 anni arriva poi ai 100. Qual è il loro segreto?",
-      "date": "2026-10-15T07:00:00.0000000Z"
     },
     {
       "id": "geopop:Rba9SnD4EZw",

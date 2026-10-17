@@ -1,7 +1,79 @@
 {
   "category": "tecnologia",
-  "updated": "2026-10-17T15:53:51.9410715Z",
+  "updated": "2026-10-17T18:08:06.0158038Z",
   "items": [
+    {
+      "id": "tomshw:f0b493a90840",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Il tasto Windows apre la ricerca? Ecco come rimediare",
+      "url": "https://www.tomshw.it/hardware/tasto-windows-apre-ricerca-invece-start",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117954/cover.png",
+      "summary": "Se in Windows 11 il tasto Windows apre subito la ricerca invece di Start, verifica prima che non venga inviato anche un altro comando: confronta la pressione singola con Windows+S, Ctrl+Esc e il clic...",
+      "date": "2026-10-17T18:00:00.0000000Z"
+    },
+    {
+      "id": "tomshw:9adca38f9af0",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Cloud Stinger II Core al -43%, giochi e parli al PC per 28,49€",
+      "url": "https://www.tomshw.it/hardware/cloud-stinger-ii-core-al-43-giochi-e-parli-al-pc-per-2849eur",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118838/tomshw-offer-1733035.png",
+      "summary": "Le Cloud Stinger II Core costano 28,49€ su Amazon, con uno sconto del 43% sul prezzo di listino di 49,99€. Collegamento cablato e microfono con disattivazione tramite rotazione dell’asta permettono di...",
+      "date": "2026-10-17T17:48:00.0000000Z"
+    },
+    {
+      "id": "tomshw:77feb343c667",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Jackery Explorer 1000 v2, a 1699€ hai anche il pannello solare per il camper",
+      "url": "https://www.tomshw.it/altro/jackery-explorer-1000-v2-a-1699eur-hai-anche-il-pannello-solare-per-il-camper",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118837/tomshw-offer-1733026.png",
+      "summary": "Jackery Explorer 1000 v2 costa 1699€ su Amazon nel kit con pannello solare da 200 W, pensato per alimentare dispositivi e piccoli elettrodomestici anche lontano dalle prese. In camper e in campeggio,...",
+      "date": "2026-10-17T17:18:00.0000000Z"
+    },
+    {
+      "id": "tomshw:893cc44efa71",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Tapo RV30 Max Plus sotto i 170€, fino a due mesi senza svuotare la polvere",
+      "url": "https://www.tomshw.it/altro/tapo-rv30-max-plus-sotto-i-170eur-fino-a-due-mesi-senza-svuotare-la-polvere",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118836/tomshw-offer-1732981.png",
+      "summary": "Tapo RV30 Max Plus a 169,99€ su Amazon porta lo svuotamento automatico sotto i 170€, con uno sconto del 15% sul listino di 199,99€. La base raccoglie la polvere per consentire fino a due mesi di puliz...",
+      "date": "2026-10-17T16:18:00.0000000Z"
+    },
+    {
+      "id": "tomshw:95fc073bbdcf",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "MacBook Pro 16 M5 Pro vs M4 Pro: quale scegliere?",
+      "url": "https://www.tomshw.it/hardware/macbook-pro-16-m5-pro-vs-m4-pro-quale-scegliere",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117940/macbook-pro-16-m5-pro-vs-m4-pro-quale-scegliere.png",
+      "summary": "MacBook Pro 16 M5 Pro rende più interessante la configurazione base: offre archiviazione raddoppiata e una CPU da 18 core contro i 14 del precedente. Schermo e porte restano identici: il nuovo è il ca...",
+      "date": "2026-10-17T16:00:00.0000000Z"
+    },
+    {
+      "id": "tomshw:a50552138113",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "UFL supporta i controller su smartphone: puoi usare il tuo?",
+      "url": "https://www.tomshw.it/videogioco/ufl-supporta-i-controller-su-smartphone-puoi-usare-il-tuo",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118791/ufl-supporta-i-controller-su-smartphone-puoi-usare-il-tuo.png",
+      "summary": "Strikerz Inc. ha introdotto il supporto controller nella versione smartphone di UFL: il gioco di calcio permette ora di disputare le partite con un pad, aggiungendo un'alternativa ai comandi sul touch...",
+      "date": "2026-10-17T16:00:00.0000000Z"
+    },
     {
       "id": "tomshw:a7acc0474c83",
       "sourceId": "tomshw",
@@ -63,18 +135,6 @@
       "date": "2026-10-17T14:10:00.0000000Z"
     },
     {
-      "id": "hdblog:183624165ff7",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "iPhone 18 Pro è già in offerta: un'occasione da cogliere al volo (-111)",
-      "url": "https://www.hdblog.it/smartphone/offerte/n674038/iphone-18-pro-offerta-ottobre-2026/",
-      "image": null,
-      "summary": "iPhone 18 Pro è in offerta e diventa subito protagonista di una promo da cogliere al volo con 111 euro di sconto.",
-      "date": "2026-10-17T14:00:00.0000000Z"
-    },
-    {
       "id": "tomshw:82377a29f761",
       "sourceId": "tomshw",
       "source": "Tom's Hardware",
@@ -84,6 +144,18 @@
       "url": "https://www.tomshw.it/smartphone/fairbuds-2-ottengono-1010-da-ifixit-perche-ripararli-e-facile",
       "image": "https://cdn.tomshw.it/storage/media/2026/10/118788/fairbuds-2-ottengono-10-10-da-ifixit-perche-ripararli-e-facile.png",
       "summary": "I Fairbuds 2 di Fairphone hanno ottenuto il massimo punteggio di riparabilità da iFixit: 10/10 dopo uno smontaggio che mostra l'accesso alle batterie degli auricolari senza attrezzi. Nel video, l'estr...",
+      "date": "2026-10-17T14:00:00.0000000Z"
+    },
+    {
+      "id": "hdblog:183624165ff7",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "iPhone 18 Pro è già in offerta: un'occasione da cogliere al volo (-111)",
+      "url": "https://www.hdblog.it/smartphone/offerte/n674038/iphone-18-pro-offerta-ottobre-2026/",
+      "image": null,
+      "summary": "iPhone 18 Pro è in offerta e diventa subito protagonista di una promo da cogliere al volo con 111 euro di sconto.",
       "date": "2026-10-17T14:00:00.0000000Z"
     },
     {
@@ -111,30 +183,6 @@
       "date": "2026-10-17T13:38:00.0000000Z"
     },
     {
-      "id": "tomshw:09b9156ecd83",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Xiaomi Scooter 6 Pro a 604,45€, tieni d’occhio velocità e batteria",
-      "url": "https://www.tomshw.it/automotive/xiaomi-scooter-6-pro-a-60445eur-tieni-docchio-velocita-e-batteria",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118829/tomshw-offer-1732794.png",
-      "summary": "Xiaomi Scooter 6 Pro GL costa 604,45€ su Amazon e mostra sul display LED velocità, livello della batteria e modalità di guida. Tre informazioni utili per chi cerca un monopattino elettrico da inserire...",
-      "date": "2026-10-17T13:18:00.0000000Z"
-    },
-    {
-      "id": "tomshw:6fe1d23e5a0a",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "È nato il primo negozio self-service per occhiali AI",
-      "url": "https://www.tomshw.it/altro/nato-il-primo-negozio-self-service-per-occhiali-ai",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118831/Rokid-negozio-self-service-occhiali-IA.jpg",
-      "summary": "Rokid ha inaugurato a Harbour City, Hong Kong, quello che l’azienda presenta come il primo negozio al mondo interamente self-service dedicato agli occhiali con intelligenza artificiale. Il nuovo...",
-      "date": "2026-10-17T13:15:00.0000000Z"
-    },
-    {
       "id": "hdblog:d682963edc03",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -147,42 +195,6 @@
       "date": "2026-10-17T13:11:00.0000000Z"
     },
     {
-      "id": "tomshw:0285378fb91c",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Iridium entra nei chip Altair ALT1350 e ALT1550: chi ne beneficia?",
-      "url": "https://www.tomshw.it/hardware/iridium-entra-nei-chip-altair-alt1350-e-alt1550-chi-ne-beneficia",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118787/iridium-entra-nei-chip-altair-alt1350-e-alt1550-chi-ne-beneficia.png",
-      "summary": "Iridium ha annunciato che Altair Semiconductor sta integrando la connettività satellitare NTN Direct nelle piattaforme IoT ALT1350 e ALT1550. L'obiettivo è riunire sullo stesso chipset il collegamento...",
-      "date": "2026-10-17T13:00:00.0000000Z"
-    },
-    {
-      "id": "tomshw:ffd4f5475fa3",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "LG QNED MiniLED da 65 pollici, da 1.299€ a 799€ per il cinema a casa",
-      "url": "https://www.tomshw.it/altro/lg-qned-miniled-da-65-pollici-da-1299eur-a-799eur-per-il-cinema-a-casa",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118819/tomshw-offer-1732728.png",
-      "summary": "LG QNED86B da 65 pollici costa 799€ su Amazon, contro un listino di 1.299€, con uno sconto del 38% e 500€ di risparmio. Il modello della gamma 2026 abbina un grande pannello MiniLED 4K al Dolby Vision...",
-      "date": "2026-10-17T12:18:00.0000000Z"
-    },
-    {
-      "id": "tomshw:cd9c007d4c04",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Il nuovo malware per Windows ti ruba i dati e si diverte a spaventarti",
-      "url": "https://www.tomshw.it/hardware/kgb-rat-spaventa-chi-usa-windows-i-crash-diventano-unarma",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118786/kgb-rat-spaventa-chi-usa-windows-i-crash-diventano-un-arma.png",
-      "summary": "Un nuovo malware chiamato KGB RAT prende di mira gli utenti Windows affiancando al furto di dati schermate blu fasulle e spaventi improvvisi. I ricercatori di Group-IB hanno evidenziato come gli opera...",
-      "date": "2026-10-17T12:00:00.0000000Z"
-    },
-    {
       "id": "hdblog:20ed4e2e60fa",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -193,18 +205,6 @@
       "image": null,
       "summary": "Abbiamo provato in anteprima i nuovi super notebook con chipset NVIDIA e sistema operativo Windows On Arm. Il risultato finale è incredibile.",
       "date": "2026-10-17T12:00:00.0000000Z"
-    },
-    {
-      "id": "tomshw:1e79ecfbbfda",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Ducati Pro-II Plus costa 465,92€ e ammortizza i tuoi spostamenti in città",
-      "url": "https://www.tomshw.it/automotive/ducati-pro-ii-plus-costa-46592eur-e-ammortizza-i-tuoi-spostamenti-in-citta",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118818/tomshw-offer-1732662.png",
-      "summary": "Il Ducati Pro-II Plus costa 465,92€ su Amazon e abbina pneumatici tubeless da 10 pollici e sospensione posteriore per gli spostamenti urbani. È una combinazione da considerare se nel tragitto quotidia...",
-      "date": "2026-10-17T11:18:00.0000000Z"
     },
     {
       "id": "hdblog:91cd5ab00e78",
