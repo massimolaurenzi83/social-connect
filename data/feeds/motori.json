@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-10-16T21:57:34.7136228Z",
+  "updated": "2026-10-17T00:16:30.5546528Z",
   "items": [
+    {
+      "id": "motor1:a0ac7ed4280b",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Merceces GLB (2026), perché comprarla e perché no",
+      "url": "https://it.motor1.com/reviews/812218/mercedes-glb-elettrica-2026-recensione-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZbKL/s3/mercedes-glb-2026-perche-comprarla.jpg",
+      "summary": "Grande fuori e dentro si guida bene e può ospitare fino a 7 persone. Fatta bene, a volte distrae un po' con i monitor",
+      "date": "2026-10-16T23:01:00.0000000Z"
+    },
     {
       "id": "hdmotori:c7663a860aa0",
       "sourceId": "hdmotori",
@@ -279,18 +291,6 @@
       "date": "2026-10-16T12:00:34.0000000Z"
     },
     {
-      "id": "insideevs:31c1d3823b04",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nella pinza freno delle elettriche c’è un sensore che cambia tutto",
-      "url": "https://insideevs.it/news/812120/sensata-sensore-freni-elettromeccanici-ev/",
-      "image": "https://cdn.motor1.com/images/mgl/KbZoBG/s3/i-sensori-brake-force-di-sensata-technologies.jpg",
-      "summary": "Il sensore di forza frenante Sensata misura la pressione nella pinza in tempo reale e prepara i freni elettromeccanici delle auto elettriche di serie",
-      "date": "2026-10-16T12:00:00.0000000Z"
-    },
-    {
       "id": "motor1:a02d07cfdcaa",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -300,6 +300,18 @@
       "url": "https://it.motor1.com/news/812176/jaguar-addio-modelli-a-benzina/",
       "image": "https://cdn.motor1.com/images/mgl/XBovB6/s3/2021-jaguar-xf-exterior.jpg",
       "summary": "Il ceo di Jaguar spiega la decisione di andare all-in sull'elettrico e rompere i legami col passato",
+      "date": "2026-10-16T12:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:31c1d3823b04",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nella pinza freno delle elettriche c’è un sensore che cambia tutto",
+      "url": "https://insideevs.it/news/812120/sensata-sensore-freni-elettromeccanici-ev/",
+      "image": "https://cdn.motor1.com/images/mgl/KbZoBG/s3/i-sensori-brake-force-di-sensata-technologies.jpg",
+      "summary": "Il sensore di forza frenante Sensata misura la pressione nella pinza in tempo reale e prepara i freni elettromeccanici delle auto elettriche di serie",
       "date": "2026-10-16T12:00:00.0000000Z"
     },
     {
@@ -327,18 +339,6 @@
       "date": "2026-10-16T10:30:29.0000000Z"
     },
     {
-      "id": "motor1:bbb86a7fe6ce",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Potete acquistare la Maybach di Lebron James",
-      "url": "https://it.motor1.com/news/812182/maybach-mercedes-lebron-james-asta/",
-      "image": "https://cdn.motor1.com/images/mgl/jl8nxy/s3/lebron-james-2027-mercedes-maybach-s-680.jpg",
-      "summary": "All'asta la S 680 tutta personalizzata dalla leggenda NBA. L'intero ricavato della vendita andrà in beneficenza",
-      "date": "2026-10-16T10:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:2f3ad0973878",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -348,6 +348,18 @@
       "url": "https://insideevs.it/news/809536/leapmotor-b10-motori-batterie/",
       "image": "https://cdn.motor1.com/images/mgl/rKqQ0x/s3/leapmotor-b10-laterale.jpg",
       "summary": "Due batterie e motore da 218 CV per il SUV cinese, per cui viene dichiarata un'autonomia fino a 434 km",
+      "date": "2026-10-16T10:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:bbb86a7fe6ce",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Potete acquistare la Maybach di Lebron James",
+      "url": "https://it.motor1.com/news/812182/maybach-mercedes-lebron-james-asta/",
+      "image": "https://cdn.motor1.com/images/mgl/jl8nxy/s3/lebron-james-2027-mercedes-maybach-s-680.jpg",
+      "summary": "All'asta la S 680 tutta personalizzata dalla leggenda NBA. L'intero ricavato della vendita andrà in beneficenza",
       "date": "2026-10-16T10:00:00.0000000Z"
     },
     {
@@ -408,18 +420,6 @@
       "url": "https://insideevs.it/news/812166/tesla-roadster-volante-omologazione-stadale/",
       "image": "https://cdn.motor1.com/images/mgl/XBbMb6/s3/tesla-roadster.jpg",
       "summary": "Durante la presentazione della Tesla Roadster, il CEO di Tesla è stato evasivo sul fatto che sarebbe legale guidarla su strade pubbliche",
-      "date": "2026-10-16T08:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:a728231538e6",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Sulla Honda Civic arriva il cambio \"simulato\"",
-      "url": "https://it.motor1.com/news/812173/honda-civic-aggiornamento-cambio-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/Mk6xqm/s3/honda-civic-model-year-2027.jpg",
-      "summary": "Arriva sulla Civic l'S+ Shift della Prelude, che simula un cambio automatico a 8 rapporti. E ci sono tante altre novità",
       "date": "2026-10-16T08:00:00.0000000Z"
     },
     {
