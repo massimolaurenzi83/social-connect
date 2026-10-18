@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-18T13:19:38.0637375Z",
+  "updated": "2026-10-18T16:38:03.4585773Z",
   "items": [
+    {
+      "id": "ferrovie:cb22cb5b724f",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Le notizie ferroviarie della settimana tra nuovi treni, servizi e collegamenti internazionali",
+      "url": "https://www.ferrovie.info/treni-reali/le-notizie-ferroviarie-della-settimana-tra-nuovi-treni-servizi-e-collegamenti-internazionali.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_srhe_113_Stadler_Rail_ARST_treno_idrogeno_1.jpg",
+      "summary": "Il settore ferroviario continua a evolversi tra sperimentazioni tecnologiche, cambiamenti nel servizio passeggeri e nuovi progetti destinati a modificare il panorama dei trasporti. Anche questa settimana arrivano aggi...",
+      "date": "2026-10-18T15:07:59.0000000Z"
+    },
     {
       "id": "ferrovie:cf1f03be1562",
       "sourceId": "ferrovie",
@@ -61,18 +73,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10001/Cornino.jpg",
       "summary": "La fermata ferroviaria di Cornino, nel Comune di Forgaria nel Friuli, sarà interessata da un intervento di riqualificazione da 120mila euro lungo la linea Sacile-Gemona. Il progetto, sostenuto dalla Regione Friuli Ven...",
       "date": "2026-10-16T13:05:44.0000000Z"
-    },
-    {
-      "id": "ferrovie:31330954b850",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Villabassa, 1,23 milioni per ampliare il centro di mobilità vicino alla stazione",
-      "url": "https://www.ferrovie.info/treni-reali/villabassa-1-23-milioni-per-ampliare-il-centro-di-mobilita-vicino-alla-stazione.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/650D2394.jpg",
-      "summary": "Più parcheggi, infrastrutture per la ricarica dei veicoli elettrici e servizi migliorati per chi sceglie il treno. Il centro di mobilità di Villabassa, in Val Pusteria, sarà ampliato e riqualificato grazie a un finanz...",
-      "date": "2026-10-16T12:57:50.0000000Z"
     },
     {
       "id": "ferrovie:78a575d5d945",
