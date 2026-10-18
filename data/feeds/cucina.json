@@ -1,7 +1,19 @@
 {
   "category": "cucina",
-  "updated": "2026-10-18T04:48:57.9968555Z",
+  "updated": "2026-10-18T09:10:42.4304910Z",
   "items": [
+    {
+      "id": "dissapore:353cb007c8b9",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "La Cina produce così tanto pollo che non sa più a chi venderlo: e ora il problema è nostro",
+      "url": "https://www.dissapore.com/spesa/la-cina-produce-cosi-tanto-pollo-che-non-sa-piu-a-chi-venderlo-e-ora-il-problema-e-nostro/",
+      "image": null,
+      "summary": "La Cina produce pollo a prezzi così bassi da aver saturato il mercato interno. Ora punta sull'export, conquistando quote di mercato in Europa e mettendo in difficoltà gli allevatori locali. Ma il vero problema è un al...",
+      "date": "2026-10-18T08:56:05.0000000Z"
+    },
     {
       "id": "dissapore:c41a1d9bbd22",
       "sourceId": "dissapore",
@@ -147,18 +159,6 @@
       "date": "2026-10-15T10:55:00.0000000Z"
     },
     {
-      "id": "giallozafferano:d94719b65eb6",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Pasta con crema di patate, fagioli e zafferano",
-      "url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-patate-fagioli-e-zafferano.html",
-      "image": "https://www.giallozafferano.it/images/367-36711/Pasta-con-crema-di-patate-fagioli-e-zafferano_1200x800.jpg",
-      "summary": "La pasta con crema di patate, fagioli e zafferano è un primo piatto ricco di sapore, cremoso e avvolgente, che rivisita la tradizionale pasta e patate in un modo sfizioso e originale. Una ricetta che parte da ingredie...",
-      "date": "2026-10-15T10:30:00.0000000Z"
-    },
-    {
       "id": "giallozafferano:9e0393970eb1",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -168,6 +168,18 @@
       "url": "https://ricette.giallozafferano.it/Pasta-con-porcini-e-zafferano.html",
       "image": "https://www.giallozafferano.it/images/367-36715/Pasta-con-porcini-e-zafferano_1200x800.jpg",
       "summary": "Portate in tavola i sapori dell’autunno in una veste raffinata con la ricetta della pasta con porcini e zafferano ! Un primo piatto cremoso e aromatico, in cui il gusto intenso dei funghi freschi incontra il profumo i...",
+      "date": "2026-10-15T10:30:00.0000000Z"
+    },
+    {
+      "id": "giallozafferano:d94719b65eb6",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Pasta con crema di patate, fagioli e zafferano",
+      "url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-patate-fagioli-e-zafferano.html",
+      "image": "https://www.giallozafferano.it/images/367-36711/Pasta-con-crema-di-patate-fagioli-e-zafferano_1200x800.jpg",
+      "summary": "La pasta con crema di patate, fagioli e zafferano è un primo piatto ricco di sapore, cremoso e avvolgente, che rivisita la tradizionale pasta e patate in un modo sfizioso e originale. Una ricetta che parte da ingredie...",
       "date": "2026-10-15T10:30:00.0000000Z"
     },
     {
@@ -241,18 +253,6 @@
       "image": null,
       "summary": "L'ultima trovata di marketing di Pringles sembra un macabro scherzo, ma pare che non lo sia. L'articolo Quanto valgono la tua morte e la tua vita eterna per Pringles proviene da Dissapore .",
       "date": "2026-10-14T07:12:07.0000000Z"
-    },
-    {
-      "id": "dissapore:44f81618bfd4",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Baladin, Teo Musso fa il colpaccio: 16 milioni da un socio misterioso, senza vendere l’anima artigianale",
-      "url": "https://www.dissapore.com/bere/baladin-teo-musso-fa-il-colpaccio-16-milioni-da-un-socio-misterioso-senza-vendere-lanima-artigianale/",
-      "image": null,
-      "summary": "Proprio nel trentennale del birrificio di Piozzo, un nuovo socio permetterà a Baladin una nuova, ambiziosa espansione, mentre l'industria continua a chiudere birrifici storici. L'articolo Baladin, Teo Musso fa il colp...",
-      "date": "2026-10-13T15:54:28.0000000Z"
     },
     {
       "id": "giallozafferano:ca6a47262ee6",
