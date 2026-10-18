@@ -1,18 +1,42 @@
 {
   "category": "notizie",
-  "updated": "2026-10-18T21:21:13.1480812Z",
+  "updated": "2026-10-18T23:25:17.7928944Z",
   "items": [
     {
-      "id": "ansa:2ed2d9fe9894",
+      "id": "repubblica:2da4f95976a1",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Lazio, 3-0 alla Juve e Inter raggiunta in vetta: notte fonda per Spalletti",
+      "url": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/18/news/juventus_lazio_gol-425657191/",
+      "image": null,
+      "summary": "Provstgaard, Isaksen (un gol del quale lo scorso anno fece esonerare Tudor) e Dele-Bashiru sanciscono con i loro gol il dominio della capolista sui bianconeri. Fischi dello Stadium",
+      "date": "2026-10-18T21:29:12.0000000Z"
+    },
+    {
+      "id": "repubblica:0881c9891f26",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La pagelle di Juventus-Lazio: Sarr non ne azzecca una, Nuno Tavares dominante",
+      "url": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/18/news/pagelle_juventus_lazio-425657179/",
+      "image": null,
+      "summary": "Promossi e bocciati della gara dello Stadium",
+      "date": "2026-10-18T21:14:22.0000000Z"
+    },
+    {
+      "id": "ansa:3364ad33498e",
       "sourceId": "ansa",
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
-      "title": "Serie A: Lazio da sogno e Juve da incubo, allo Stadium finisce 0-3",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-lazio-da-sogno-e-juve-da-incubo-allo-stadium-finisce-0-3_02c6a963-1886-4a93-92ec-be0857426a7b.html",
+      "title": "Serie A: la Juve crolla, la Lazio vola ed è in testa con l'Inter",
+      "url": "https://www.ansa.it/sito/notizie/sport/2026/10/18/serie-a-la-juve-crolla-la-lazio-vola-ed-e-in-testa-con-linter_fbbef75c-2606-4c53-a729-a23a275d3dd6.html",
       "image": null,
-      "summary": "Gattuso macina record, i bianconeri fischiati e sempre più giù",
-      "date": "2026-10-18T21:12:11.0000000Z"
+      "summary": "Fischi allo Stadium, vincono il Como e il Milan. Il Lecce mette ko l'Udinese",
+      "date": "2026-10-18T21:10:33.0000000Z"
     },
     {
       "id": "ansa:1852a75f548e",
@@ -481,30 +505,6 @@
       "image": null,
       "summary": "Successo pesante della squadra di Di Francesco grazie ai gol di Gaspar, N’Dri e Siebert",
       "date": "2026-10-18T12:43:45.0000000Z"
-    },
-    {
-      "id": "repubblica:664ffdbb5eb6",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "A Washington alla cena degli italoamericani tra rapporti in crisi, Trump e le elezioni di Midterm",
-      "url": "https://www.repubblica.it/esteri/2026/10/18/news/cena_niaf_italoamericani_usa_trump_meloni-425656448/",
-      "image": null,
-      "summary": "Al 51esimo anniversario della National Italian American Foundation l’amicizia in difficoltà tra i due Paesi e i dilemmi della comunità verso il voto di novembre",
-      "date": "2026-10-18T12:16:21.0000000Z"
-    },
-    {
-      "id": "repubblica:69888774022a",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Morte per la ricina, Gianni Di Vita ammise il tradimento. Ma il marito di lei non lo sapeva",
-      "url": "https://www.repubblica.it/cronaca/2026/10/18/news/morte_ricina_gianni_di_vita_tradimento-425656445/",
-      "image": null,
-      "summary": "Risale al 2018 la prima crisi matrimoniale, il tradimento è più recente. Gli inquirenti per ora hanno come unico movente quello passionale",
-      "date": "2026-10-18T12:14:56.0000000Z"
     },
     {
       "id": "open:abcdc586a421",
