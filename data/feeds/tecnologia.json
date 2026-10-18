@@ -1,7 +1,19 @@
 {
   "category": "tecnologia",
-  "updated": "2026-10-18T18:57:01.0710499Z",
+  "updated": "2026-10-18T21:21:13.1302375Z",
   "items": [
+    {
+      "id": "tomshw:8c05c89f343c",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "ELEGOO Centauri Carbon sotto i 350€ per stampare i tuoi pezzi tecnici",
+      "url": "https://www.tomshw.it/hardware/elegoo-centauri-carbon-sotto-i-350eur-per-stampare-i-tuoi-pezzi-tecnici",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118874/tomshw-offer-1754532.png",
+      "summary": "Con ELEGOO Centauri Carbon a 342,94€ su Amazon, puoi iniziare a stampare pezzi tecnici con una CoreXY già assemblata. Camera chiusa e ugello fino a 320 °C permettono di lavorare anche con filamenti ri...",
+      "date": "2026-10-18T19:19:00.0000000Z"
+    },
     {
       "id": "tomshw:d6762b5fdc26",
       "sourceId": "tomshw",
@@ -159,18 +171,6 @@
       "date": "2026-10-18T13:20:00.0000000Z"
     },
     {
-      "id": "tomshw:dc05f8117d9f",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "-42% su HyperX SoloCast 2, la voce di live e podcast a 34,99€",
-      "url": "https://www.tomshw.it/hardware/42-su-hyperx-solocast-2-la-voce-di-live-e-podcast-a-3499eur",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118857/tomshw-offer-1754277.png",
-      "summary": "HyperX SoloCast 2 a 34,99€ su Amazon: il microfono USB-C per gaming, streaming e podcast raggiunge il minimo storico, con uno sconto del 42% sui 59,99€ di listino. Filtro anti-pop integrato e comando...",
-      "date": "2026-10-18T13:17:00.0000000Z"
-    },
-    {
       "id": "hdblog:a0a7241cd67a",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -183,18 +183,6 @@
       "date": "2026-10-18T11:55:00.0000000Z"
     },
     {
-      "id": "hdblog:b56268c8b141",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "PS5 in offerta su Amazon con sconto al check-out: la promo giusta in attesa di GTA VI",
-      "url": "https://www.hdblog.it/hardware/offerte/n674049/ps5-digital-offerta-amazon-ottobre-2026/",
-      "image": null,
-      "summary": "Su Amazon è disponibile la PS5 Digital in offerta con uno sconto al check-out: si tratta della promo giusta in attesa dell'arrivo di GTA VI",
-      "date": "2026-10-18T10:55:00.0000000Z"
-    },
-    {
       "id": "hdblog:c5c842154a8e",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -204,6 +192,18 @@
       "url": "https://www.hdblog.it/microsoft/articoli/n673892/windows-11-modalita-ultimate-performance-nascosta/",
       "image": null,
       "summary": "Potrebbe tornarvi utile in determinati carichi di lavoro \"Pro\".",
+      "date": "2026-10-18T10:55:00.0000000Z"
+    },
+    {
+      "id": "hdblog:b56268c8b141",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "PS5 in offerta su Amazon con sconto al check-out: la promo giusta in attesa di GTA VI",
+      "url": "https://www.hdblog.it/hardware/offerte/n674049/ps5-digital-offerta-amazon-ottobre-2026/",
+      "image": null,
+      "summary": "Su Amazon è disponibile la PS5 Digital in offerta con uno sconto al check-out: si tratta della promo giusta in attesa dell'arrivo di GTA VI",
       "date": "2026-10-18T10:55:00.0000000Z"
     },
     {
@@ -303,18 +303,6 @@
       "date": "2026-10-18T07:55:00.0000000Z"
     },
     {
-      "id": "dday:b2695f15ff5d",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Roomba 115, 415, 515 e 575, in promo i robot multifunzione che arrivano dove gli altri si fermano",
-      "url": "https://www.dday.it/redazione/59078/roomba-115-415-515-e-575-in-promo-i-robot-multifunzione-che-arrivano-dove-gli-altri-si-fermano",
-      "image": null,
-      "summary": "",
-      "date": "2026-10-18T01:03:06.0000000Z"
-    },
-    {
       "id": "dday:7e9922176481",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -322,6 +310,18 @@
       "category": "tecnologia",
       "title": "Roborock Saros 20, tre robot e un solo obiettivo: fare quasi tutto da soli",
       "url": "https://www.dday.it/redazione/59061/roborock-saros-20-tre-robot-e-un-solo-obiettivo-fare-quasi-tutto-da-soli",
+      "image": null,
+      "summary": "",
+      "date": "2026-10-18T01:03:06.0000000Z"
+    },
+    {
+      "id": "dday:b2695f15ff5d",
+      "sourceId": "dday",
+      "source": "DDay.it",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Roomba 115, 415, 515 e 575, in promo i robot multifunzione che arrivano dove gli altri si fermano",
+      "url": "https://www.dday.it/redazione/59078/roomba-115-415-515-e-575-in-promo-i-robot-multifunzione-che-arrivano-dove-gli-altri-si-fermano",
       "image": null,
       "summary": "",
       "date": "2026-10-18T01:03:06.0000000Z"
