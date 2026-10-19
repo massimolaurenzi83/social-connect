@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-19T14:03:26.6850499Z",
+  "updated": "2026-10-19T19:50:35.6555385Z",
   "items": [
+    {
+      "id": "cybersecurity360:c0145b30a4e4",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Guida alla cyber security: endpoint, network e cloud compliance",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/guida-alla-cyber-security-endpoint-network-e-cloud-compliance/",
+      "image": null,
+      "summary": "Una guida alla cyber security aziendale che integra Endpoint Security, Network Security e Cloud Compliance in un'unica strategia di difesa. Dalla protezione dei dispositivi alla governance dei dati, ecco come ridurre ...",
+      "date": "2026-10-19T14:20:50.0000000Z"
+    },
     {
       "id": "cybersecurity360:cef92226ff53",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Pubblicato lo schema di decreto italiano sul Cyber Resilience Act. Il testo chiarisce il ruolo di ACN e Accredia, il coordinamento con l'AI Act, le procedure di segnalazione e le sanzioni. Previste anche una Sandbox-C...",
       "date": "2026-10-16T10:12:26.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:df393e841ae9",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Trattamenti dati per finalità di Polizia: dalla DPIA ai controlli che garantiscono sicurezza e tracciabilità",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/trattamenti-dati-per-finalita-di-polizia-dalla-dpia-ai-controlli-che-garantiscono-sicurezza-e-tracciabilita/",
-      "image": null,
-      "summary": "Nei trattamenti di dati personali per finalità di Polizia, la DPIA è il punto di partenza per costruire un sistema di garanzie effettive. Dalla limitazione degli accessi alla gestione dei log, fino alla conservazione ...",
-      "date": "2026-10-16T08:20:07.0000000Z"
     }
   ]
 }

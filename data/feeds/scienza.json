@@ -1,7 +1,32 @@
 {
   "category": "scienza",
-  "updated": "2026-10-19T14:03:26.6643497Z",
+  "updated": "2026-10-19T19:50:35.7106364Z",
   "items": [
+    {
+      "id": "focus:59dbd400274f",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Cos’è l’albero dinamite?",
+      "url": "https://www.focus.it/ambiente/natura/cos-e-l-albero-dinamite",
+      "image": "https://www.focus.it/images/2026/07/27/albero-dinamite_w630.jpg?imbypass=true",
+      "summary": "L'albero dinamite è una pianta che scaglia lontano i suoi semi fino a oltre 40 metri di distanza, a una velocità di 70 metri al secondo, con la forza di un'esplosione.",
+      "date": "2026-10-19T17:00:00.0000000Z"
+    },
+    {
+      "id": "geopop:7bieEUoKpH8",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "La storia Geologica della Sardegna da 30 milioni di anni fa ad oggi",
+      "url": "https://www.youtube.com/watch?v=7bieEUoKpH8",
+      "image": "https://i.ytimg.com/vi/7bieEUoKpH8/hqdefault.jpg",
+      "summary": "",
+      "videoId": "7bieEUoKpH8",
+      "date": "2026-10-19T16:30:28.0000000Z"
+    },
     {
       "id": "media-inaf:4c359868399d",
       "sourceId": "media-inaf",
@@ -135,18 +160,6 @@
       "date": "2026-10-18T03:00:00.0000000Z"
     },
     {
-      "id": "focus:6580446e5dac",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Il medico chiede all’IA",
-      "url": "https://www.focus.it/tecnologia/innovazione/Il-medico-chiede-all-IA",
-      "image": "https://www.focus.it/images/2026/04/15/medico-ia_w630.jpg?imbypass=true",
-      "summary": "L'intelligenza artificiale generativa è già usata da 6 medici su 10, ma pochi ne conoscono i limiti. Lo racconta un nuovo podcast con i dati del Politecnico di Milano.",
-      "date": "2026-10-17T12:00:00.0000000Z"
-    },
-    {
       "id": "focus:0391ad244432",
       "sourceId": "focus",
       "source": "Focus",
@@ -156,6 +169,18 @@
       "url": "https://www.focus.it/cultura/curiosita/cicap-fest-il-futuro-e-a-padova",
       "image": "https://www.focus.it/images/2026/10/17/cicap-fest-26_w630.jpg?imbypass=true",
       "summary": "Due settimane dopo Focus Live, la scienza si sposta a Padova: dal 6 all'8 novembre torna il CICAP Fest, dedicato al futuro che arriva prima del previsto. E Focus è media partner.",
+      "date": "2026-10-17T12:00:00.0000000Z"
+    },
+    {
+      "id": "focus:6580446e5dac",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Il medico chiede all’IA",
+      "url": "https://www.focus.it/tecnologia/innovazione/Il-medico-chiede-all-IA",
+      "image": "https://www.focus.it/images/2026/04/15/medico-ia_w630.jpg?imbypass=true",
+      "summary": "L'intelligenza artificiale generativa è già usata da 6 medici su 10, ma pochi ne conoscono i limiti. Lo racconta un nuovo podcast con i dati del Politecnico di Milano.",
       "date": "2026-10-17T12:00:00.0000000Z"
     },
     {
@@ -169,18 +194,6 @@
       "image": "https://www.focus.it/images/2026/10/15/infedelta-coppia_w630.jpg?imbypass=true",
       "summary": "Chi ha tradito in passato ha una probabilità 3 volte superiore di rifarlo. Ecco come si ripetono gli schemi dell'infedeltà di coppia.",
       "date": "2026-10-17T10:00:00.0000000Z"
-    },
-    {
-      "id": "focus:68c181d65621",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Come si parlano tra loro gli elefanti?",
-      "url": "https://www.focus.it/ambiente/animali/gli-elefanti-armonizzano-i-loro-richiami",
-      "image": "https://www.focus.it/images/2026/10/02/elefanti_w630.jpg?imbypass=true",
-      "summary": "Il rombo degli elefanti è un metodo di comunicazione potentissimo: abbiamo scoperto che i pachidermi li armonizzano quando parlano tra loro.",
-      "date": "2026-10-17T09:00:00.0000000Z"
     },
     {
       "id": "geopop:EDXmtLtqo3g",
@@ -445,19 +458,6 @@
       "summary": "",
       "videoId": "0uBfpln1RB4",
       "date": "2026-10-07T16:30:26.0000000Z"
-    },
-    {
-      "id": "geopop:hm6gOTm75Zg",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Ha davvero senso assumere proteine in polvere?",
-      "url": "https://www.youtube.com/watch?v=hm6gOTm75Zg",
-      "image": "https://i.ytimg.com/vi/hm6gOTm75Zg/hqdefault.jpg",
-      "summary": "",
-      "videoId": "hm6gOTm75Zg",
-      "date": "2026-10-06T16:30:32.0000000Z"
     },
     {
       "id": "barbascura:J0w-SlR8V8M",
