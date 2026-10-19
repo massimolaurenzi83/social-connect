@@ -1,7 +1,55 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-19T06:45:08.8007550Z",
+  "updated": "2026-10-19T14:03:26.6850499Z",
   "items": [
+    {
+      "id": "cybersecurity360:cef92226ff53",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cybertech Europe 2026, la nuova sfida cyber: difendere i dati alla velocità dell’AI",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/cybertech-europe-2026-la-nuova-sfida-cyber-difendere-i-dati-alla-velocita-dellai/",
+      "image": null,
+      "summary": "Dai dark data al reverse engineering, l'intelligenza artificiale amplia la superficie d'attacco e riduce i tempi di compromissione ed esfiltrazione. A Cybertech Europe 2026 emerge la necessità di ripensare la difesa d...",
+      "date": "2026-10-19T13:15:25.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d811f3dd3c09",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "La cyber security non si costruisce punendo chi scopre le vulnerabilità",
+      "url": "https://www.cybersecurity360.it/legal/la-cyber-security-non-si-costruisce-punendo-chi-scopre-le-vulnerabilita/",
+      "image": null,
+      "summary": "La nuova politica nazionale sulla divulgazione coordinata delle vulnerabilità dell'ACN è un passo avanti per la cyber security italiana. Ma senza adeguate tutele per i ricercatori che operano in buona fede, il rischio...",
+      "date": "2026-10-19T10:05:54.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:0fc69269e97f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Avvelenare un modello LLM è diventato facile ed economico",
+      "url": "https://www.cybersecurity360.it/outlook/adesso-basta-davvero-poco-per-avvelenare-un-modello-llm/",
+      "image": null,
+      "summary": "Grazie allo sviluppo dell'IA generativa, possiamo farci scrivere software dai modelli linguistici di grandi dimensioni. Ma quanto si può essere certi che al suo interno non vi sia del codice maligno? Ecco i rischi che...",
+      "date": "2026-10-19T07:04:24.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:e8884f1cf4b7",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Voucher cloud e cybersecurity: le offerte delle big telco, ma resta il nodo della sicurezza reale",
+      "url": "https://www.cybersecurity360.it/news/voucher-cloud-e-cybersecurity-le-offerte-delle-big-tlc-ma-resta-il-nodo-della-sicurezza-reale/",
+      "image": null,
+      "summary": "Il MIMIT mette a disposizione 150 milioni di euro per sostenere gli investimenti in cloud e cybersecurity delle PMI, con voucher fino a 20mila euro. TIM, Retelit, Fastweb+Vodafone e WindTre presentano le proprie offer...",
+      "date": "2026-10-16T15:43:50.0000000Z"
+    },
     {
       "id": "cybersecurity360:4af9a5e7f02f",
       "sourceId": "cybersecurity360",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Nei trattamenti di dati personali per finalità di Polizia, la DPIA è il punto di partenza per costruire un sistema di garanzie effettive. Dalla limitazione degli accessi alla gestione dei log, fino alla conservazione ...",
       "date": "2026-10-16T08:20:07.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2a64deed672a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Caso Discover-Tech: il cyber spionaggio passa dagli annunci online, senza bisogno di un clic",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/caso-discover-tech-il-cyber-spionaggio-passa-dagli-annunci-online-senza-bisogno-di-un-clic/",
-      "image": null,
-      "summary": "L'azienda israeliana Discover-Tech è accusata di aver sfruttato oltre 120mila siti web e 75mila app per attività di sorveglianza e attacchi spyware zero-click. Le indagini di Citizen Lab e Confiant mostrano come la pu...",
-      "date": "2026-10-15T15:56:36.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:0bc68107c4be",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il nuovo bersaglio del ransomware sono le persone",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/il-nuovo-bersaglio-del-ransomware-sono-le-persone/",
-      "image": null,
-      "summary": "Per accedere ai sistemi informatici della vittima, i cyber criminali non si fanno scrupoli nel minacciare e ricattare i dipendenti dell’azienda L'articolo Il nuovo bersaglio del ransomware sono le persone proviene da ...",
-      "date": "2026-10-15T14:08:43.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:60836ee3e7f6",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Avast One Premium e Ultimate per 10 dispositivi: protezione multi-device da virus, ransomware e truffe deepfake",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/avast-one-10-dispositivi-antivirus-vpn-protezione-deepfake/",
-      "image": null,
-      "summary": "Avast One propone due piani per proteggere fino a 10 dispositivi, con antivirus, strumenti antifrode e funzionalità per la privacy. I prezzi del primo anno partono da 39,99 euro per Premium Security e 55,99 euro per U...",
-      "date": "2026-10-15T10:45:39.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:0c57ce5ecf8c",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "NIS2, finito il tempo degli adeguamenti: ora la sicurezza va dimostrata",
-      "url": "https://www.cybersecurity360.it/legal/nis2-finito-il-tempo-degli-adeguamenti-ora-la-sicurezza-va-dimostrata/",
-      "image": null,
-      "summary": "Scaduti i 18 mesi previsti per adottare le misure di sicurezza di base della NIS2, per le aziende si apre la fase della conformità sostanziale. Non bastano più policy e procedure sulla carta: servono controlli effetti...",
-      "date": "2026-10-15T10:40:26.0000000Z"
     }
   ]
 }

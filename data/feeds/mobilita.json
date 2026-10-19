@@ -1,7 +1,91 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-19T06:45:08.8167506Z",
+  "updated": "2026-10-19T14:03:26.6236630Z",
   "items": [
+    {
+      "id": "ferrovie:f10bd578addf",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Basilicata, la Regione punta a potenziare i collegamenti Frecciarossa",
+      "url": "https://www.ferrovie.info/treni-reali/basilicata-la-regione-punta-a-potenziare-i-collegamenti-frecciarossa.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1770337.JPG",
+      "summary": "La Regione Basilicata punta a rafforzare i collegamenti ferroviari ad alta velocità e a migliorare l'offerta di trasporto pubblico per cittadini e viaggiatori. Il potenziamento dei servizi Frecciarossa, gli interventi...",
+      "date": "2026-10-19T13:51:15.0000000Z"
+    },
+    {
+      "id": "ferrovie:b85a7e2de6ce",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Italo punta a ridurre del 90% le emissioni entro il 2050, target climatici validati da SBTi",
+      "url": "https://www.ferrovie.info/treni-reali/italo-punta-a-ridurre-del-90-le-emissioni-entro-il-2050-target-climatici-validati-da-sbti.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1820245.JPG",
+      "summary": "Ridurre l'impatto ambientale del trasporto passeggeri richiede obiettivi misurabili e un percorso di lungo periodo, che coinvolga non soltanto i treni ma anche le attività collegate. Italo ha annunciato la validazione...",
+      "date": "2026-10-19T13:36:09.0000000Z"
+    },
+    {
+      "id": "ferrovie:ee8788916287",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "FFS, 97 deformazioni dei binari nell’estate 2026 a causa del caldo eccezionale",
+      "url": "https://www.ferrovie.info/treni-reali/ffs-97-deformazioni-dei-binari-nellestate-2026-a-causa-del-caldo-eccezionale.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10608/RABDe500_012-0_Jean_Rudolf_von_Salis2BRABDe500_0XX_Oberbuchsiten.JPG",
+      "summary": "L'estate eccezionalmente calda del 2026 ha messo a dura prova la rete ferroviaria svizzera, con numerosi episodi legati alle temperature elevate e alla stabilità dei binari. Le Ferrovie Federali Svizzere (FFS) hanno r...",
+      "date": "2026-10-19T09:42:40.0000000Z"
+    },
+    {
+      "id": "ferrovie:a786a08a327c",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Fondazione FS, il Settebello tornerà nel 2028 e si guarda alla Valle d’Aosta",
+      "url": "https://www.ferrovie.info/treni-reali/fondazione-fs-il-settebello-tornera-nel-2028-e-si-guarda-alla-valle-daosta.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/settebello_4341.jpg",
+      "summary": "Il ritorno del Settebello e nuove prospettive per le ferrovie storiche della Valle d'Aosta sono tra i temi affrontati da Luigi Cantamessa, Direttore Generale di Fondazione FS Italiane. In un'intervista rilasciata a Il...",
+      "date": "2026-10-19T09:26:21.0000000Z"
+    },
+    {
+      "id": "ferrovie:700eba306975",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Ferrovia dei Parchi, completati i rimborsi dopo l’incidente di Roccaraso",
+      "url": "https://www.ferrovie.info/treni-reali/ferrovia-dei-parchi-completati-i-rimborsi-dopo-lincidente-di-roccaraso.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10034/DSC_3776_5.jpg",
+      "summary": "Si chiude la fase amministrativa legata alle partenze annullate della Ferrovia dei Parchi , mentre resta aperta l'inchiesta sull'incidente che ha coinvolto il treno storico della ex Transiberiana d'Italia. Pallenium T...",
+      "date": "2026-10-19T07:16:14.0000000Z"
+    },
+    {
+      "id": "ferrovie:5a1f1069a13f",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Paesi Bassi, bambini mettono pietre sui binari: ProRail lancia l’allarme",
+      "url": "https://www.ferrovie.info/treni-reali/paesi-bassi-bambini-mettono-pietre-sui-binari-prorail-lancia-lallarme.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/icng_ns_2.jpg",
+      "summary": "Un comportamento apparentemente innocuo può trasformarsi in un serio pericolo per la circolazione ferroviaria, con conseguenze per chi lo mette in atto e per i passeggeri a bordo dei treni. Nei Paesi Bassi ProRail , l...",
+      "date": "2026-10-19T07:04:59.0000000Z"
+    },
+    {
+      "id": "ferrovie:aa4c4742333b",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "ATR 220 TPER, quattro treni lasciano l’Italia e tornano in Polonia",
+      "url": "https://www.ferrovie.info/treni-reali/atr-220-tper-quattro-treni-lasciano-litalia-e-tornano-in-polonia.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10002/G12_6135.jpg",
+      "summary": "Prosegue il trasferimento verso la Polonia degli ATR 220 che per anni hanno circolato sulle linee ferroviarie italiane. Dopo le unità appartenute a Ferrovie Nord Milano e utilizzate da Trenord, anche altri quattro con...",
+      "date": "2026-10-19T06:45:43.0000000Z"
+    },
     {
       "id": "ferrovie:dbfc0e243852",
       "sourceId": "ferrovie",
@@ -25,18 +109,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_srhe_113_Stadler_Rail_ARST_treno_idrogeno_1.jpg",
       "summary": "Il settore ferroviario continua a evolversi tra sperimentazioni tecnologiche, cambiamenti nel servizio passeggeri e nuovi progetti destinati a modificare il panorama dei trasporti. Anche questa settimana arrivano aggi...",
       "date": "2026-10-18T15:07:59.0000000Z"
-    },
-    {
-      "id": "ferrovie:cf1f03be1562",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Terzo Valico dei Giovi, costi aggiuntivi e cassa integrazione mettono a rischio i lavori",
-      "url": "https://www.ferrovie.info/treni-reali/terzo-valico-dei-giovi-costi-aggiuntivi-e-cassa-integrazione-mettono-a-rischio-i-lavori.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/Terzo_Valico_300.jpg",
-      "summary": "Un’infrastruttura ormai vicina al completamento degli scavi si trova a fare i conti con nuove incertezze economiche e occupazionali. Sul Terzo Valico dei Giovi cresce la preoccupazione per la prosecuzione delle attivi...",
-      "date": "2026-10-17T08:08:50.0000000Z"
     },
     {
       "id": "ferrovie:13ff1c681804",
@@ -73,78 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10002/450_0051~6.jpg",
       "summary": "Il percorso verso il ritorno dei treni sulla linea per Campobasso compie un nuovo passo, con la conclusione di una procedura attesa per superare uno degli ostacoli infrastrutturali legati all’elettrificazione. Rete Fe...",
       "date": "2026-10-17T07:25:31.0000000Z"
-    },
-    {
-      "id": "ferrovie:78a575d5d945",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Stadler avvia i test del treno a idrogeno per la Sardegna su un nuovo binario",
-      "url": "https://www.ferrovie.info/treni-reali/stadler-avvia-i-test-del-treno-a-idrogeno-per-la-sardegna-su-un-nuovo-binario.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_srhe_113_Stadler_Rail_ARST_treno_idrogeno_1.jpg",
-      "summary": "Preparare un nuovo treno al servizio commerciale significa anche poterlo provare nelle condizioni più vicine possibile a quelle in cui dovrà circolare. Per i convogli destinati alle reti regionali a scartamento ridott...",
-      "date": "2026-10-16T11:14:29.0000000Z"
-    },
-    {
-      "id": "ferrovie:7f303a780127",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Italo in Germania dal 2028: nominati i manager e investimento da 3,6 miliardi",
-      "url": "https://www.ferrovie.info/treni-reali/italo-in-germania-dal-2028-nominati-i-manager-e-investimento-da-3-6-miliardi.html",
-      "image": "https://www.ferrovie.info/images/ai/treno_italo_germania_ai_7800.webp",
-      "summary": "Italo accelera i preparativi per l'ingresso nel mercato ferroviario tedesco, in vista dell'avvio dei servizi previsto per la metà del 2028. La società ha annunciato la nomina di due manager locali alla guida delle str...",
-      "date": "2026-10-16T10:31:38.0000000Z"
-    },
-    {
-      "id": "ferrovie:f56c5e956fd9",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Ferrovia dei Parchi, riapre il tratto Sulmona-Campo di Giove",
-      "url": "https://www.ferrovie.info/treni-reali/ferrovia-dei-parchi-riapre-il-tratto-sulmona-campo-di-giove.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/aln_668_gnl_101.jpg",
-      "summary": "Dopo lo stop seguito all’incidente avvenuto a Roccaraso, la Ferrovia dei Parchi si prepara a riprendere parte della propria attività turistica. La riapertura di una tratta della linea consentirà di riorganizzare il pr...",
-      "date": "2026-10-16T09:55:35.0000000Z"
-    },
-    {
-      "id": "ferrovie:e0e486a3bcbc",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "FHP Intermodal apre un nuovo collegamento ferroviario tra Padova e Foggia",
-      "url": "https://www.ferrovie.info/treni-reali/fhp-intermodal-apre-un-nuovo-collegamento-ferroviario-tra-padova-e-foggia.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1720177.JPG",
-      "summary": "La rete ferroviaria intermodale di FHP si arricchisce di una nuova relazione tra il Nord e il Sud Italia, con l’obiettivo di offrire alle imprese ulteriori possibilità per organizzare il trasporto delle merci. Il nuov...",
-      "date": "2026-10-16T09:50:00.0000000Z"
-    },
-    {
-      "id": "ferrovie:1480a8778e70",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Linea Napoli-Salerno, riapre la tratta Nocera Inferiore-Salerno dopo la frana",
-      "url": "https://www.ferrovie.info/treni-reali/linea-napoli-salerno-riapre-la-tratta-nocera-inferiore-salerno-dopo-la-frana.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10476/37395266182_a3416cce81_o.jpg",
-      "summary": "Si avvicina il ripristino della circolazione ferroviaria sulla linea convenzionale Napoli-Salerno, interrotta nei giorni scorsi a causa del maltempo. Da oggi, venerdì 16 ottobre, i treni torneranno a circolare tra Noc...",
-      "date": "2026-10-16T07:04:44.0000000Z"
-    },
-    {
-      "id": "ferrovie:00d016cc3885",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "ALe 801/940, treni speciali sulla Arezzo-Stia per l’ultimo complesso in servizio",
-      "url": "https://www.ferrovie.info/treni-reali/ale-801-940-treni-speciali-sulla-arezzo-stia-per-lultimo-complesso-in-servizio.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/RX100474.jpg",
-      "summary": "Un’occasione per viaggiare e fotografare uno dei complessi più particolari del parco ferroviario italiano attuale, con un’iniziativa dedicata agli appassionati e a chi desidera salire a bordo un’ultima volta. Domenica...",
-      "date": "2026-10-16T06:59:25.0000000Z"
     }
   ]
 }

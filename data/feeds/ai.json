@@ -1,7 +1,55 @@
 {
   "category": "ai",
-  "updated": "2026-10-19T06:45:08.8423721Z",
+  "updated": "2026-10-19T14:03:26.6254240Z",
   "items": [
+    {
+      "id": "ai4business:7430a9e236cd",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Agenti AI, le PMI italiane crescono 10,8 volte in cinque mesi",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/agenti-ai-le-pmi-italiane-crescono-108-volte-in-cinque-mesi/",
+      "image": null,
+      "summary": "Secondo il rapporto OpenAI Economic Research, gli utenti attivi settimanali degli agenti AI nelle PMI italiane crescono da maggio, secondo risultato nell’UE dopo il Belgio. L’Italia registra inoltre il 65% di token az...",
+      "date": "2026-10-19T11:26:07.0000000Z"
+    },
+    {
+      "id": "ai4business:936bcdf805bc",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AI per avvocati: le piattaforme disponibili in Italia e come sceglierle",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-per-avvocati-le-piattaforme-disponibili-in-italia-e-come-sceglierle/",
+      "image": null,
+      "summary": "Dalle banche dati giuridiche italiane ai sistemi per grandi studi e uffici legali, l'offerta di AI per avvocati si amplia. Lexroom, Libra, Sapient-IA, Harvey e Legora si confrontano su ricerca, documenti e workflow. F...",
+      "date": "2026-10-19T09:18:13.0000000Z"
+    },
+    {
+      "id": "ai4business:394f193e88b9",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Yuval Noah Harari: “La trappola dell’algoritmo e il nodo della fiducia”",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/yuval-noah-harari-la-trappola-dellalgoritmo-e-il-nodo-della-fiducia/",
+      "image": null,
+      "summary": "Dall'analisi del filosofo e saggista di fama mondiale, emerge un monito per i manager: l’AI non è un semplice strumento, ma un agente autonomo che prospera nelle burocrazie. Per governarla occorre superare la trappola...",
+      "date": "2026-10-19T08:42:42.0000000Z"
+    },
+    {
+      "id": "ai4business:254c8056bcc7",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Neolab AI per le imprese: modelli, API e casi d’uso concreti",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/neolab-ai-per-le-imprese-modelli-api-e-casi-duso-concreti/",
+      "image": null,
+      "summary": "Beam, Tinker, Jev, Mercury e Marble portano in azienda modelli aperti, post-training, decisioni strutturate e world model, con livelli di maturità molto diversi. A confronto, impieghi, requisiti hardware, costi e le v...",
+      "date": "2026-10-19T08:21:47.0000000Z"
+    },
     {
       "id": "ai4business:40006b56d838",
       "sourceId": "ai4business",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Il cloud italiano in crescita del 17% nel 2026, grazie alla domanda di intelligenza artificiale e cybersecurity. Le aziende adottano servizi AI pronti all'uso, ma crescono i costi da governare e la dipendenza dai colo...",
       "date": "2026-10-16T09:55:02.0000000Z"
-    },
-    {
-      "id": "ai4business:403b05b2ec7d",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Data center: Google e Amazon cercano intese locali",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/data-center-google-e-amazon-cercano-intese-locali/",
-      "image": null,
-      "summary": "Le due big tech presentano in anticipo i progetti dei nuovi data center per ridurre le opposizioni delle comunità. Nel New Mexico il confronto riguarda soprattutto acqua, elettricità e ricadute economiche. I dati di P...",
-      "date": "2026-10-16T09:12:35.0000000Z"
-    },
-    {
-      "id": "ai4business:a5e1dac9ba91",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Agenti AI, perché i test vanno ripetuti dopo ogni aggiornamento",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/agenti-ai-perche-i-test-vanno-ripetuti-dopo-ogni-aggiornamento/",
-      "image": null,
-      "summary": "Un agente AI già collaudato può introdurre errori quando cambia la configurazione. Registrare versioni, ripetere i casi più delicati, confrontare gli esiti precedenti e verificare le azioni nei sistemi collegati conse...",
-      "date": "2026-10-16T08:46:55.0000000Z"
-    },
-    {
-      "id": "ai4business:5f08270f2b09",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "AI agentica e sicurezza: solo il 30% delle imprese italiane ha una governance adeguata",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-agentica-e-sicurezza-solo-il-30-delle-imprese-italiane-ha-una-governance-adeguata/",
-      "image": null,
-      "summary": "Secondo uno studio IBM su 3.221 dirigenti in 8 Paesi, l’80% segnala incidenti legati all’intelligenza artificiale giunti ai vertici, ma solo il 40% ha rivisto la governance. In Italia gli agenti autonomi sono già in p...",
-      "date": "2026-10-15T17:24:20.0000000Z"
-    },
-    {
-      "id": "ai4business:8f5f59c09040",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Manifattura italiana, l’AI cresce: la sfida è scalarne il valore",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/manifattura-italiana-lai-cresce-la-sfida-e-scalarne-il-valore/",
-      "image": null,
-      "summary": "Le imprese manifatturiere investono nell’AI per migliorare processi, qualità e continuità produttiva. Ora guardano agli agenti autonomi e a nuovi servizi basati sui dati. L’analisi Deloitte indica opportunità e ostaco...",
-      "date": "2026-10-15T15:46:38.0000000Z"
     },
     {
       "id": "guerredirete:87ff7bd49a35",
