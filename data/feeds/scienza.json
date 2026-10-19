@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-10-19T01:31:30.4565921Z",
+  "updated": "2026-10-19T06:45:08.7886016Z",
   "items": [
+    {
+      "id": "focus:cf69f9d80a7e",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Che aria respiravano i dinosauri?",
+      "url": "https://www.focus.it/scienza/scienze/che-aria-respiravano-i-dinosauri-i-loro-denti-svelano-un-pianeta-irriconoscibile",
+      "image": "https://www.focus.it/images/2026/10/13/dinaosauri-eruzioni_w630.jpg?imbypass=true",
+      "summary": "Analizzando lo smalto fossile dei dinosauri, uno studio rivela livelli di CO₂ fino a tre volte superiori a quelli attuali: colpa dell'intensa attività vulcanica che infiammava il Mesozoico.",
+      "date": "2026-10-19T03:00:00.0000000Z"
+    },
     {
       "id": "focus:b5d6dd3c972e",
       "sourceId": "focus",
@@ -145,18 +157,6 @@
       "image": "https://www.focus.it/images/2026/10/17/anziane_w630.jpeg?imbypass=true",
       "summary": "Le donne italiane vivono in media quattro anni più degli uomini, ma ne passano tre in meno in buona salute. Dove nasce il paradosso della longevità e che cosa si può fare.",
       "date": "2026-10-16T11:00:00.0000000Z"
-    },
-    {
-      "id": "focus:9fe8f8bd7938",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Cibo per animali: come si legge l’etichetta?",
-      "url": "https://www.focus.it/ambiente/animali/cibo-per-animali-come-leggere-l-etichetta",
-      "image": "https://www.focus.it/images/2026/10/13/cibo-animali_w630.jpg?imbypass=true",
-      "summary": "Dalle percentuali alle le voci \"grezze\": una guida rapida per decifrare la composizione e i componenti analitici del cibo per animali.",
-      "date": "2026-10-16T09:00:00.0000000Z"
     },
     {
       "id": "media-inaf:83e0dc392c81",
