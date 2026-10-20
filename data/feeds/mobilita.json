@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-20T17:23:31.8976086Z",
+  "updated": "2026-10-20T20:46:58.9874915Z",
   "items": [
+    {
+      "id": "ferrovie:a12c8ae229b2",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "ALn 776, per due automotrici italiane si apre un nuovo futuro all’estero",
+      "url": "https://www.ferrovie.info/treni-reali/aln-776-per-due-automotrici-italiane-si-apre-un-nuovo-futuro-allestero.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/11487/normal_DE520_ALn_776_Busitalia_Pianabella.jpeg",
+      "summary": "Per alcuni rotabili ferroviari, il ritiro dal servizio non rappresenta necessariamente la fine della carriera. Anche quando in Italia non sembrano esserci più prospettive di impiego, infatti, possono emergere opportun...",
+      "date": "2026-10-20T17:43:59.0000000Z"
+    },
     {
       "id": "ferrovie:126f634513d0",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10002/normal_Frecciarossa1000_Direttissima_Settebagni_4370.jpg",
       "summary": "Cambia l'offerta commerciale dell'Alta Velocità e per chi viaggia in treno più volte al mese, senza spostarsi ogni giorno, si apre una fase di incertezza sui costi. Dal 1° novembre 2026 Trenitalia non venderà più i Ca...",
       "date": "2026-10-20T06:28:30.0000000Z"
-    },
-    {
-      "id": "ferrovie:aa4c4742333b",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "ATR 220 TPER, quattro treni lasciano l’Italia e tornano in Polonia",
-      "url": "https://www.ferrovie.info/treni-reali/atr-220-tper-quattro-treni-lasciano-litalia-e-tornano-in-polonia.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/G12_6135.jpg",
-      "summary": "Prosegue il trasferimento verso la Polonia degli ATR 220 che per anni hanno circolato sulle linee ferroviarie italiane. Dopo le unità appartenute a Ferrovie Nord Milano e utilizzate da Trenord, anche altri quattro con...",
-      "date": "2026-10-19T06:45:43.0000000Z"
     }
   ]
 }
