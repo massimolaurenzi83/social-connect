@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-10-20T01:51:57.5626600Z",
+  "updated": "2026-10-20T06:49:30.6432884Z",
   "items": [
+    {
+      "id": "qualenergia:4c29b78f72be",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Storage Target Ambition is Rising, but not Fast enough to Reach the Goal",
+      "url": "https://www.qualenergia.it/pro/documenti/storage-target-ambition-is-rising-but-not-fast-enough-to-reach-the-goal/",
+      "image": null,
+      "summary": "Gli obiettivi relativi allo stoccaggio di energia per il 2030 sono quasi triplicati rispetto alla COP29, ma restano ben al di sotto dell’impegno globale di 1.500 GW assunto nel 2024. Nel 2025, la nuova potenza di accu...",
+      "date": "2026-10-20T05:00:40.0000000Z"
+    },
     {
       "id": "qualenergia:43fb4e57d4b0",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
       "date": "2026-10-19T06:30:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:d2c1e83b0fff",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Infrastrutture ricarica per veicoli elettrici a San Cataldo (CL)",
-      "url": "https://www.qualenergia.it/pro/documenti/infrastrutture-ricarica-per-veicoli-elettrici-a-san-cataldo-cl/",
-      "image": null,
-      "summary": "Manifestazione di interesse per l’installazione, gestione e manutenzione di infrastrutture di ricarica per veicoli elettrici nel territorio comunale di San Cataldo (CL). Importo: n.d. Scadenza: 15/11/2026 Bando (pdf) ...",
-      "date": "2026-10-19T05:00:41.0000000Z"
     }
   ]
 }

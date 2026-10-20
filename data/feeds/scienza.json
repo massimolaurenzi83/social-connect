@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-10-20T01:51:57.5512592Z",
+  "updated": "2026-10-20T06:49:30.7121899Z",
   "items": [
+    {
+      "id": "focus:35f8d123c483",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Abbiamo scoperto una nuova specie di yak",
+      "url": "https://www.focus.it/ambiente/animali/abbiamo-scoperto-una-nuova-specie-estinta-di-yak",
+      "image": "https://www.focus.it/images/2026/10/07/yak_w630.jpg?imbypass=true",
+      "summary": "In Siberia, nella grotta di Denisova, abbiamo rinvenuto le ossa di una specie di yak ancora sconosciuta, estintasi 27.000 anni fa.",
+      "date": "2026-10-20T03:00:00.0000000Z"
+    },
     {
       "id": "focus:59dbd400274f",
       "sourceId": "focus",
@@ -13,18 +25,6 @@
       "image": "https://www.focus.it/images/2026/07/27/albero-dinamite_w630.jpg?imbypass=true",
       "summary": "L'albero dinamite è una pianta che scaglia lontano i suoi semi fino a oltre 40 metri di distanza, a una velocità di 70 metri al secondo, con la forza di un'esplosione.",
       "date": "2026-10-19T17:00:00.0000000Z"
-    },
-    {
-      "id": "media-inaf:4c359868399d",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Prima cometa per il detective dell’universo oscuro",
-      "url": "https://www.media.inaf.it/2026/10/19/una-cometa-per-euclid/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/ec0001_short_vis_annotated-150x150.png",
-      "summary": "La missione spaziale Euclid, che normalmente osserva galassie per studiare la storia di espansione dell'universo e scoprire i misteri della materia oscura e dell'energia oscura, ha scoperto la sua prima cometa. Chiama...",
-      "date": "2026-10-19T12:05:56.0000000Z"
     },
     {
       "id": "focus:61eda6748b94",
@@ -39,18 +39,6 @@
       "date": "2026-10-19T10:00:00.0000000Z"
     },
     {
-      "id": "media-inaf:534a70f2e04e",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Come si tiene accesa una batteria sulla Luna",
-      "url": "https://www.media.inaf.it/2026/10/19/come-si-tiene-accesa-una-batteria-sulla-luna/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/moon-battery-150x150.jpg",
-      "summary": "Sulla Luna non basta avere una batteria: bisogna anche fare in modo che sopravviva al gelo e al caldo estremi. È la sfida di SpearS, il progetto Nasa che sta testando celle allo stato solido capaci di resistere a escu...",
-      "date": "2026-10-19T09:36:51.0000000Z"
-    },
-    {
       "id": "focus:00316cec08d5",
       "sourceId": "focus",
       "source": "Focus",
@@ -61,18 +49,6 @@
       "image": "https://www.focus.it/images/2026/10/16/acquedotto-roma_w630.jpg?imbypass=true",
       "summary": "Acquedotti, giornali, calcestruzzo e welfare: molte delle infrastrutture e dei servizi che diamo per scontati oggi sono nati proprio nell'Urbe. Ecco l'eredità che i Romani ci hanno lasciato.",
       "date": "2026-10-19T09:00:00.0000000Z"
-    },
-    {
-      "id": "media-inaf:302d48099dcf",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Come nascono i colpi di frusta magnetici del Sole",
-      "url": "https://www.media.inaf.it/2026/10/19/origine-switchback-magnetici-solar-orbiter/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/Zooming_in_on_a_solar_switchback-150x150.png",
-      "summary": "La sonda Solar Orbiter ha analizzato le particelle in uno switchback solare, una perturbazione del campo magnetico che, come sotto l’effetto di una frusta, si propaga a grandi distanze nello spazio interplanetario. Lo...",
-      "date": "2026-10-19T08:57:26.0000000Z"
     },
     {
       "id": "focus:eb996f69b99f",
@@ -169,126 +145,6 @@
       "image": "https://www.focus.it/images/2026/04/15/medico-ia_w630.jpg?imbypass=true",
       "summary": "L'intelligenza artificiale generativa è già usata da 6 medici su 10, ma pochi ne conoscono i limiti. Lo racconta un nuovo podcast con i dati del Politecnico di Milano.",
       "date": "2026-10-17T12:00:00.0000000Z"
-    },
-    {
-      "id": "focus:a376e06a74ae",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "I traditori seriali esistono davvero?",
-      "url": "https://www.focus.it/comportamento/psicologia/coppia-chi-tradisce-una-volta-e-piu-poratato-a-farlo-ancora",
-      "image": "https://www.focus.it/images/2026/10/15/infedelta-coppia_w630.jpg?imbypass=true",
-      "summary": "Chi ha tradito in passato ha una probabilità 3 volte superiore di rifarlo. Ecco come si ripetono gli schemi dell'infedeltà di coppia.",
-      "date": "2026-10-17T10:00:00.0000000Z"
-    },
-    {
-      "id": "media-inaf:81a411900337",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Juice: la Terra oggi, Giove domani",
-      "url": "https://www.media.inaf.it/2026/10/16/juice-flyby-terra-2026-2/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/01_earth_madagascar_true_colour-150x150.png",
-      "summary": "La manovra di flyby sulla Terra compiuta il mese scorso dalla sonda Esa Juice per sfruttare il nostro pianeta come fionda gravitazionale e instradarsi correttamente verso Giove, complice una lunga eclissi, ha rapprese...",
-      "date": "2026-10-16T17:15:30.0000000Z"
-    },
-    {
-      "id": "media-inaf:83e0dc392c81",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "La prima stella verde è una nana bianca",
-      "url": "https://www.media.inaf.it/2026/10/16/colori-nana-bianca/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/WD_colours_final-150x150.png",
-      "summary": "Il vero colore di una nana bianca su trenta sarebbe rosa, viola, giallo o addirittura verde. È quanto emerge dall’analisi spettrale di nane bianche di diversa temperatura, composizione e tipo spettrale. Secondo gli au...",
-      "date": "2026-10-16T05:58:19.0000000Z"
-    },
-    {
-      "id": "media-inaf:89208cdc75c0",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "La silhouette a uovo di Wasp-17b",
-      "url": "https://www.media.inaf.it/2026/10/15/la-silhouette-a-uovo-di-wasp-17b/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/figure1_wasp-17b_shape-of-the-atmosphere-150x150.png",
-      "summary": "Grazie alle osservazioni del telescopio James Webb e a un nuovo metodo di analisi, un team internazionale guidato dalla Cornell University ha ricostruito per la prima volta la vera forma tridimensionale dell'atmosfera...",
-      "date": "2026-10-15T15:51:03.0000000Z"
-    },
-    {
-      "id": "media-inaf:54f7f9f5a17d",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Ctao-Nord: inaugurato il sub-array degli Lst",
-      "url": "https://www.media.inaf.it/2026/10/15/ctao-nord-large-sized-telescopes/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/EDIT-BEEDRONRECORD-12-de-14_small-150x150.jpg",
-      "summary": "Duecentocinquanta tra scienziati e rappresentanti delle principali istituzioni di ricerca hanno celebrato a La Palma l’inaugurazione del sottosistema di quattro Large-Sized Telescope (Lst) del sito Nord del Cherenkov ...",
-      "date": "2026-10-15T14:59:12.0000000Z"
-    },
-    {
-      "id": "media-inaf:08fa8247b9a1",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Martian moons exploration è sulla rampa di lancio",
-      "url": "https://www.media.inaf.it/2026/10/15/martian-moons-exploration-e-sulla-rampa-di-lancio/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/MMX_at_Mars_and_Phobos_article-150x150.png",
-      "summary": "Al via il 19 ottobre la missione giapponese Mmx, che esplorerà le lune di Marte per indagarne l’origine e la composizione. Per la prima volta, una sonda raccoglierà campioni da Phobos e li riporterà sulla Terra, dove ...",
-      "date": "2026-10-15T08:28:54.0000000Z"
-    },
-    {
-      "id": "media-inaf:2ecf0f322133",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Quel treno fermato dal Sole, 178 anni fa",
-      "url": "https://www.media.inaf.it/2026/10/14/quel-treno-fermato-dal-sole-178-anni-fa/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/image-1-150x150.png",
-      "summary": "Un nuovo studio guidato dalla Lancaster University dimostra che il celebre ritardo ferroviario di Exeter del 1841, considerato finora il primo caso documentato di impatto della meteorologia spaziale sulla tecnologia, ...",
-      "date": "2026-10-14T16:00:24.0000000Z"
-    },
-    {
-      "id": "media-inaf:e8dec218a1a3",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Chiave di violino cosmica dietro alla Via Lattea",
-      "url": "https://www.media.inaf.it/2026/10/14/treble-clef-radio-phoenix/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/trebleClef-150x150.jpg",
-      "summary": "Una nuova immagine rilasciata dall’osservatorio a raggi X Chandra della Nasa combina raggi X, onde radio e infrarosso per raccontare una curiosa radiosorgente la cui forma richiama una chiave di violino. Uno studio gu...",
-      "date": "2026-10-14T14:00:38.0000000Z"
-    },
-    {
-      "id": "media-inaf:3716b5ca091e",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Su Westerlund 1 il bozzo d’uno scontro galattico",
-      "url": "https://www.media.inaf.it/2026/10/14/westerlund-1-impronta-collisione/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/lp-150x150.jpeg",
-      "summary": "Nella struttura e nella dinamica del superammasso stellare Westerlund 1 potrebbe celarsi l’impronta della collisione con il piano della Via Lattea, avvenuta due milioni di anni fa. È il risultato di uno studio guidato...",
-      "date": "2026-10-14T09:47:31.0000000Z"
-    },
-    {
-      "id": "media-inaf:0aadae24dfc0",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Tranquilli o turbolenti? Dipende dalla stella madre",
-      "url": "https://www.media.inaf.it/2026/10/13/famiglie-esopianeti-stella-madre/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/Comunicato-stampa-34-carosello-x2-slide-3-150x150.png",
-      "summary": "Un team a guida Inaf ha analizzato la popolazione dei sistemi multi-pianeta, scoprendo che si divide in due distinte famiglie nate attorno a stelle diverse tra loro. Lo studio, pubblicato oggi su Nature Astronomy, dim...",
-      "date": "2026-10-13T09:00:44.0000000Z"
     }
   ]
 }

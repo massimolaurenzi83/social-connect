@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-20T01:51:57.5269290Z",
+  "updated": "2026-10-20T06:49:30.7108403Z",
   "items": [
+    {
+      "id": "ferrovie:ba5c6361b8e4",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Trenitalia elimina i Carnet Smart dal 1° novembre, proteste per i costi dei viaggi",
+      "url": "https://www.ferrovie.info/treni-reali/trenitalia-elimina-i-carnet-smart-dal-1-novembre-proteste-per-i-costi-dei-viaggi.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10002/normal_Frecciarossa1000_Direttissima_Settebagni_4370.jpg",
+      "summary": "Cambia l'offerta commerciale dell'Alta Velocità e per chi viaggia in treno più volte al mese, senza spostarsi ogni giorno, si apre una fase di incertezza sui costi. Dal 1° novembre 2026 Trenitalia non venderà più i Ca...",
+      "date": "2026-10-20T06:28:30.0000000Z"
+    },
     {
       "id": "ferrovie:19d850124280",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/11405/rialzo_milano_100.jpg",
       "summary": "Il patrimonio ferroviario può diventare una risorsa per il turismo e per la riscoperta dei territori, affiancando alla conservazione della memoria nuove opportunità di viaggio. In Lombardia, questo percorso passa dai ...",
       "date": "2026-10-19T05:44:37.0000000Z"
-    },
-    {
-      "id": "ferrovie:cb22cb5b724f",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Le notizie ferroviarie della settimana tra nuovi treni, servizi e collegamenti internazionali",
-      "url": "https://www.ferrovie.info/treni-reali/le-notizie-ferroviarie-della-settimana-tra-nuovi-treni-servizi-e-collegamenti-internazionali.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_srhe_113_Stadler_Rail_ARST_treno_idrogeno_1.jpg",
-      "summary": "Il settore ferroviario continua a evolversi tra sperimentazioni tecnologiche, cambiamenti nel servizio passeggeri e nuovi progetti destinati a modificare il panorama dei trasporti. Anche questa settimana arrivano aggi...",
-      "date": "2026-10-18T15:07:59.0000000Z"
     }
   ]
 }
