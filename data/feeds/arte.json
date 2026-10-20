@@ -1,7 +1,19 @@
 {
   "category": "arte",
-  "updated": "2026-10-20T20:46:59.0213069Z",
+  "updated": "2026-10-20T23:29:00.1199727Z",
   "items": [
+    {
+      "id": "artribune:447090f2f6f9",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "La Galleria Nazionale d’Arte Moderna andrà a fare compere alla fiera Artissima di Torino per ampliare la collezione",
+      "url": "https://www.artribune.com/professioni-e-professionisti/mercato/2026/10/gnamc-acquisto-opere-artissima-2026/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/10/screenshot-2026-10-20-alle-224526-scaled.png",
+      "summary": "La Galleria Nazionale d’Arte Moderna e Contemporanea di Roma potrà selezionare opere da proporre all’acquisto durante la fiera torinese, grazie a un accordo con la Direzione Generale Creatività Contemporanea. Ma Artis...",
+      "date": "2026-10-20T21:00:00.0000000Z"
+    },
     {
       "id": "artribune:35116d10a9b6",
       "sourceId": "artribune",
@@ -75,18 +87,6 @@
       "date": "2026-10-20T14:30:00.0000000Z"
     },
     {
-      "id": "artribune:beaf62d3583d",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Provincia Cosmica. Piero Roccasalvo Rub e il richiamo della Sicilia",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/10/provincia-cosmica-intervista-piero-roccasalvo-rub/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/10/piero-roccasalvo-rub-ritratto-courtesy-piero-roccasalvo-rub.jpg",
-      "summary": "Dallo studio di Santa Maria del Focallo al dialogo con la scena artistica della provincia di Ragusa, Piero Roccasalvo Rub racconta il legame tra arte e territorio, tra realtà e sogno, tra periferia e resistenza cultur...",
-      "date": "2026-10-20T14:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:93f31b16259a",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -99,16 +99,16 @@
       "date": "2026-10-20T14:00:00.0000000Z"
     },
     {
-      "id": "elledecor:8d0e52b8b77d",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
+      "id": "artribune:beaf62d3583d",
+      "sourceId": "artribune",
+      "source": "Artribune",
       "platform": "rss",
       "category": "arte",
-      "title": "Il blu antico sarà il colore del giardino nel 2027 e queste 15 piante lo faranno fiorire",
-      "url": "https://www.elledecor.com/it/lifestyle/a74170793/colore-giardino-2027-blu-antico/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/e45efe24-409f-4094-a18e-690ab8a5657e.jpeg",
-      "summary": "Si chiama Ancient Blue ed è una tonalità profonda, tra indaco e lapislazzuli, ispirata agli antichi pigmenti egizi. Dai giacinti alle salvie, ecco le 15 piante da coltivare in vaso e in giardino per seguire la tendenz...",
-      "date": "2026-10-20T13:00:00.0000000Z"
+      "title": "Provincia Cosmica. Piero Roccasalvo Rub e il richiamo della Sicilia",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/10/provincia-cosmica-intervista-piero-roccasalvo-rub/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/10/piero-roccasalvo-rub-ritratto-courtesy-piero-roccasalvo-rub.jpg",
+      "summary": "Dallo studio di Santa Maria del Focallo al dialogo con la scena artistica della provincia di Ragusa, Piero Roccasalvo Rub racconta il legame tra arte e territorio, tra realtà e sogno, tra periferia e resistenza cultur...",
+      "date": "2026-10-20T14:00:00.0000000Z"
     },
     {
       "id": "artribune:b13fc0872e16",
@@ -120,6 +120,18 @@
       "url": "https://www.artribune.com/progettazione/moda/2026/10/mostra-parma-cucina-moda-made-in-italy/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/10/moda-e-cibo.png",
       "summary": "Al Laboratorio Aperto nel Complesso Monumentale di San Paolo, il progetto della Fondazione Gentili Mosconi mette in dialogo due eccellenze del Made in Italy. Come? Attraverso opere contemporanee, ricerca tessile e mem...",
+      "date": "2026-10-20T13:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:8d0e52b8b77d",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il blu antico sarà il colore del giardino nel 2027 e queste 15 piante lo faranno fiorire",
+      "url": "https://www.elledecor.com/it/lifestyle/a74170793/colore-giardino-2027-blu-antico/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/e45efe24-409f-4094-a18e-690ab8a5657e.jpeg",
+      "summary": "Si chiama Ancient Blue ed è una tonalità profonda, tra indaco e lapislazzuli, ispirata agli antichi pigmenti egizi. Dai giacinti alle salvie, ecco le 15 piante da coltivare in vaso e in giardino per seguire la tendenz...",
       "date": "2026-10-20T13:00:00.0000000Z"
     },
     {
@@ -135,18 +147,6 @@
       "date": "2026-10-20T12:55:00.0000000Z"
     },
     {
-      "id": "artribune:9c05dabb3429",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Trentatré anni in carcere da innocente: la storia di Beniamino Zuncheddu diventa un film",
-      "url": "https://www.artribune.com/arti-performative/cinema/2026/10/beniamino-zuncheddu-zustissia/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/10/still-dal-film-zustissia-di-francesco-piras.jpeg",
-      "summary": "L’opera prima di Francesco Piras ricostruisce uno dei più drammatici errori giudiziari della storia italiana recente: la vicenda di Beniamino Zuncheddu condannato ingiustamente all’ergastolo. Un film che, pur confront...",
-      "date": "2026-10-20T12:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:9d20246064aa",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -156,6 +156,18 @@
       "url": "https://www.elledecor.com/it/architettura/a74174504/nuovo-palazzo-di-giustizia-di-lille-oma/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/c667f408-19ed-4524-b5c5-f4e568f45fd2.jpg",
       "summary": "Un basamento pubblico, una torre triangolare e un anello sospeso di uffici: OMA rilegge la monumentalità dei luoghi della giustizia e il loro rapporto con la città contemporanea",
+      "date": "2026-10-20T12:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:9c05dabb3429",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Trentatré anni in carcere da innocente: la storia di Beniamino Zuncheddu diventa un film",
+      "url": "https://www.artribune.com/arti-performative/cinema/2026/10/beniamino-zuncheddu-zustissia/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/10/still-dal-film-zustissia-di-francesco-piras.jpeg",
+      "summary": "L’opera prima di Francesco Piras ricostruisce uno dei più drammatici errori giudiziari della storia italiana recente: la vicenda di Beniamino Zuncheddu condannato ingiustamente all’ergastolo. Un film che, pur confront...",
       "date": "2026-10-20T12:00:00.0000000Z"
     },
     {
@@ -181,18 +193,6 @@
       "image": "https://www.artribune.com/wp-content/uploads/2026/10/gli-orologi-della-collezione-accornero-nella-teca-alla-reggia-di-venaria-prima-del-furto.jpg",
       "summary": "La residenza sabauda alle porte di Torino è stata violata da tre ladri professionisti nella notte tra il 18 e il 19 ottobre. Ai malviventi è stato sufficiente un tempo brevissimo per rubare i 26 orologi da taschino do...",
       "date": "2026-10-20T10:30:00.0000000Z"
-    },
-    {
-      "id": "artribune:598618c8213a",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Quando il disagio sociale diventa conflitto ci sono responsabilità della cultura (che non se ne accorge)",
-      "url": "https://www.artribune.com/attualita/2026/10/disagio-sociale-responsabilita-cultura/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/10/la-protesta-per-il-carovita-diventa-guerriglia-milano-un-campo-di-battaglia.webp",
-      "summary": "La cultura da sempre rappresenta un termometro sociale della comunità da cui le istituzioni potrebbero lasciarsi guidare per riconoscere le manifestazioni del disagio sociale e intervenire prima che si trasformino in ...",
-      "date": "2026-10-20T10:00:00.0000000Z"
     },
     {
       "id": "elledecor:e4c6c0418363",
