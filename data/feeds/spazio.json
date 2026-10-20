@@ -1,7 +1,19 @@
 {
   "category": "spazio",
-  "updated": "2026-10-20T12:20:45.5370156Z",
+  "updated": "2026-10-20T17:23:31.8829926Z",
   "items": [
+    {
+      "id": "astronautinews:e562311e4e05",
+      "sourceId": "astronautinews",
+      "source": "AstronautiNEWS",
+      "platform": "rss",
+      "category": "spazio",
+      "title": "È partita la missione MMX verso la luna marziana Fobos",
+      "url": "https://www.astronautinews.it/2026/10/e-partita-la-missione-mmx-verso-la-luna-marziana-fobos/",
+      "image": "https://www.astronautinews.it/wp-content/uploads/2026/10/JAXA-mmx-mars-mission.jpg",
+      "summary": "È finalmente iniziata la missione robotica giapponese Martian Moons eXploration (MMX) che, per la prima volta, tenterà di riportare a Terra campioni di suolo da Fobos , la maggiore delle due lune marziane. Il decollo,...",
+      "date": "2026-10-20T17:00:00.0000000Z"
+    },
     {
       "id": "astronautinews:0c6e79f4d138",
       "sourceId": "astronautinews",
@@ -133,18 +145,6 @@
       "image": "https://www.astronautinews.it/wp-content/uploads/2026/08/MTG-I2_begins_its_journey-1.jpg",
       "summary": "Lo scorso 27 agosto alle 22:11 CEST è decollata la missione MTG-I2, il terzo satellite della costellazione Meteosat Third Generation, destinato a portare numerosi miglioramenti alle previsioni meteorologiche, al monit...",
       "date": "2026-08-31T07:00:00.0000000Z"
-    },
-    {
-      "id": "astronautinews:27924284b537",
-      "sourceId": "astronautinews",
-      "source": "AstronautiNEWS",
-      "platform": "rss",
-      "category": "spazio",
-      "title": "Guida all’uso: il Nancy Grace Roman Space Telescope",
-      "url": "https://www.astronautinews.it/2026/08/guida-alluso-il-nancy-grace-roman-space-telescope/",
-      "image": "https://www.astronautinews.it/wp-content/uploads/2026/08/NHQ20260830_admin_0002large.jpg",
-      "summary": "Sono ormai trascorsi più di trentasei anni da quando lo Space Shuttle Discovery rilasciò in orbita terrestre bassa il telescopio spaziale Hubble (HST), facendolo diventare da quel momento uno dei principali artefici d...",
-      "date": "2026-08-30T12:51:14.0000000Z"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "category": "cucina",
-  "updated": "2026-10-20T12:20:45.5030925Z",
+  "updated": "2026-10-20T17:23:31.8867218Z",
   "items": [
+    {
+      "id": "giallozafferano:07116664964a",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Lasagne zucca e porri",
+      "url": "https://ricette.giallozafferano.it/Lasagne-zucca-e-porri.html",
+      "image": "https://www.giallozafferano.it/images/367-36735/Lasagne-zucca-e-porri_1200x800.jpg",
+      "summary": "Le lasagne zucca e porri sono un primo piatto vegetariano dai sapori autunnali, perfetto per il pranzo della domenica in famiglia o per una cena speciale. Una ricetta che porta in tavola ingredienti semplici in una ve...",
+      "date": "2026-10-20T13:04:00.0000000Z"
+    },
+    {
+      "id": "dissapore:4f84bde931b1",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Il mercato dei profumi che sanno di cibo sta andando fortissimo",
+      "url": "https://www.dissapore.com/notizie/il-mercato-dei-profumi-che-sanno-di-cibo-sta-andando-fortissimo/",
+      "image": null,
+      "summary": "Il motivo è sempre il proliferare dei farmaci GLP-1 che sebra cambino anche le nostre percezioni olfattive, spingendoci verso nuovi odori. L'articolo Il mercato dei profumi che sanno di cibo sta andando fortissimo pro...",
+      "date": "2026-10-20T12:50:42.0000000Z"
+    },
     {
       "id": "dissapore:c8cfc2048c1c",
       "sourceId": "dissapore",
@@ -171,18 +195,6 @@
       "date": "2026-10-16T13:45:00.0000000Z"
     },
     {
-      "id": "dissapore:455d1ea9bffe",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Il pollo fritto di KFC ha lasciato Pepsi per la Coca Cola",
-      "url": "https://www.dissapore.com/notizie/il-pollo-fritto-di-kfc-ha-lasciato-pepsi-per-la-coca-cola/",
-      "image": null,
-      "summary": "Un nuovo colpo per PepsiCo, che perde la partnership con KFC che durava da 40 anni, per ora però solo nel mercato statunitense. L'articolo Il pollo fritto di KFC ha lasciato Pepsi per la Coca Cola proviene da Dissapore .",
-      "date": "2026-10-16T12:08:14.0000000Z"
-    },
-    {
       "id": "giallozafferano:c3d0a9884dbd",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/366-36699/Pizzette-di-patate-bollite_1200x800.jpg",
       "summary": "Le pizzette di patate bollite sono un'idea originale e gustosa per portare in tavola un antipasto diverso dal solito, oppure un semplice aperitivo in compagnia! Il condimento richiama i profumi e i sapori della cucina...",
       "date": "2026-10-13T14:07:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:9301569d51c7",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Cheesecake leggera con frutti di bosco",
-      "url": "https://ricette.giallozafferano.it/Cheesecake-leggera-con-frutti-di-bosco.html",
-      "image": "https://www.giallozafferano.it/images/367-36703/Cheesecake-leggera-con-frutti-di-bosco_1200x800.jpg",
-      "summary": "La cheesecake leggera con frutti di bosco è un dolce light goloso e scenografico, perfetto quando desiderate portare in tavola un dessert fresco senza rinunciare al piacere di una fetta cremosa. Preparatela con una ba...",
-      "date": "2026-10-13T09:30:00.0000000Z"
     }
   ]
 }
