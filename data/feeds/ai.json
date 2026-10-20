@@ -1,7 +1,55 @@
 {
   "category": "ai",
-  "updated": "2026-10-20T06:49:30.7013817Z",
+  "updated": "2026-10-20T12:20:45.4827504Z",
   "items": [
+    {
+      "id": "ai4business:b665fb38c641",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Modelli AI cinesi, controlli all’export: ecco i rischi per le imprese",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/modelli-ai-cinesi-controlli-allexport-ecco-i-rischi-per-le-imprese/",
+      "image": null,
+      "summary": "La Cina propone nuovi controlli sull’esportazione di 23 tecnologie AI. Per le imprese europee che utilizzano Qwen, DeepSeek e altri modelli a pesi aperti, la novità riguarda soprattutto l’accesso alle future versioni,...",
+      "date": "2026-10-20T10:56:07.0000000Z"
+    },
+    {
+      "id": "ai4business:fd4c2d41af7c",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "L’adozione dell’AI in azienda dipende dai manager più che dalle licenze",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ladozione-dellai-in-azienda-dipende-dai-manager-piu-che-dalle-licenze/",
+      "image": null,
+      "summary": "Dove il responsabile sostiene l'AI, il 78% dei collaboratori la usa più volte a settimana; dove non lo fa, il 44%. Microsoft attribuisce due terzi dell'impatto a fattori organizzativi, BCG trova il 66% dei lavoratori ...",
+      "date": "2026-10-20T09:52:00.0000000Z"
+    },
+    {
+      "id": "ai4business:561266ec79de",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AI Act, guida alla compliance: un vademecum per le PMI",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-act-guida-alla-compliance-un-vademecum-per-le-pmi/",
+      "image": null,
+      "summary": "Abbiamo stilato una checklist in 7 punti per aiutare le piccole e medie imprese a mappare e classificare i sistemi di AI, verificare i divieti, applicare la trasparenza, gestire la marcatura dei contenuti, formare il ...",
+      "date": "2026-10-20T08:45:31.0000000Z"
+    },
+    {
+      "id": "ai4business:4776b89c9e30",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "EN 18286 in Gazzetta: l’AI Act presume il sistema qualità, il modello no",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/en-18286-in-gazzetta-lai-act-presume-il-sistema-qualita-il-modello-no/",
+      "image": null,
+      "summary": "La EN 18286 è la prima norma armonizzata dell'AI Act: dà presunzione di conformità all'articolo 17 a chi costruisce su di essa il sistema di gestione della qualità. Accuratezza, robustezza, dati e cybersicurezza sono ...",
+      "date": "2026-10-20T08:11:15.0000000Z"
+    },
     {
       "id": "ai4business:a6cad51423cd",
       "sourceId": "ai4business",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Dall'analisi del filosofo e saggista di fama mondiale, emerge un monito per i manager: l’AI non è un semplice strumento, ma un agente autonomo che prospera nelle burocrazie. Per governarla occorre superare la trappola...",
       "date": "2026-10-19T08:42:42.0000000Z"
-    },
-    {
-      "id": "ai4business:254c8056bcc7",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Neolab AI per le imprese: modelli, API e casi d’uso concreti",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/neolab-ai-per-le-imprese-modelli-api-e-casi-duso-concreti/",
-      "image": null,
-      "summary": "Beam, Tinker, Jev, Mercury e Marble portano in azienda modelli aperti, post-training, decisioni strutturate e world model, con livelli di maturità molto diversi. A confronto, impieghi, requisiti hardware, costi e le v...",
-      "date": "2026-10-19T08:21:47.0000000Z"
-    },
-    {
-      "id": "ai4business:40006b56d838",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "AI Act, dal 23 ottobre 2026 in Italia entrano in vigore poteri, procedure e sanzioni",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-act-dal-23-ottobre-2026-in-italia-entrano-in-vigore-poteri-procedure-e-sanzioni/",
-      "image": null,
-      "summary": "Il d.lgs. n. 179/2026 completa il quadro nazionale: sanzioni fino a 35 milioni di euro o 7% per pratiche vietate; obblighi su trasparenza e incidenti. Nel resto d’Europa, però, la vigilanza resta frammentata: solo nov...",
-      "date": "2026-10-16T15:37:16.0000000Z"
-    },
-    {
-      "id": "ai4business:82634c6d1fe0",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Muse Spark Open: il miglior open weight americano insegue ancora i cinesi",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/muse-spark-open-il-miglior-open-weight-americano-insegue-ancora-i-cinesi/",
-      "image": null,
-      "summary": "Meta pubblica i pesi di Muse Spark Open, 816 miliardi di parametri e un milione di token di contesto. È il più capace tra gli open americani, ma sull'indice di Artificial Analysis si piazza dietro GLM 5.3, Kimi K3 e Q...",
-      "date": "2026-10-16T14:47:12.0000000Z"
-    },
-    {
-      "id": "ai4business:11cb1ce32b49",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Chip e datacenter tremano in Borsa: che significa per l’AI",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/chip-e-datacenter-tremano-in-borsa-che-significa-per-lai/",
-      "image": null,
-      "summary": "Forte calo delle azioni dei chip e soprattutto delle obbligazioni dei data center. Crescono i dubbi degli investitori sulla redditività di alcuni investimenti nell’AI. Gartner prevede un divario di circa 5mila miliard...",
-      "date": "2026-10-16T14:24:21.0000000Z"
     },
     {
       "id": "guerredirete:87ff7bd49a35",
