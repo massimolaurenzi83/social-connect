@@ -1,31 +1,7 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-21T18:00:02.6501384Z",
+  "updated": "2026-10-21T21:34:08.3534861Z",
   "items": [
-    {
-      "id": "cybersecurity360:444b8a9aff41",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Identità non umane e sicurezza degli accessi, le nuove sfide cyber",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/identita-non-umane-e-sicurezza-degli-accessi-le-nuove-sfide-cyber/",
-      "image": null,
-      "summary": "Account di servizio, applicazioni e agenti AI moltiplicano le identità non umane da proteggere, aumentando la complessità della sicurezza aziendale. Andrea Solaroli di SailPoint spiega perché i tradizionali modelli IA...",
-      "date": "2026-10-21T17:07:53.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:0efe78061a13",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "AI Data Leakage Prevention: proteggere i dati dall’AI",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/ai-data-leakage-prevention-proteggere-i-dati-dallai/",
-      "image": null,
-      "summary": "Come prevenire la fuga di dati sensibili attraverso ChatGPT, Copilot e altri strumenti di intelligenza artificiale generativa: architetture DLP, controllo dei prompt e compliance al GDPR L'articolo AI Data Leakage Pre...",
-      "date": "2026-10-21T16:49:06.0000000Z"
-    },
     {
       "id": "cybersecurity360:1c6689801c12",
       "sourceId": "cybersecurity360",
@@ -121,6 +97,30 @@
       "image": null,
       "summary": "Un messaggio frettoloso, un errore di battitura o un punto esclamativo possono rendere credibile una falsa richiesta del proprio superiore. È il digital body language, un insieme di segnali comunicativi che gli attacc...",
       "date": "2026-10-20T13:38:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:2d7c4984aa40",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber security e interesse nazionale: il costo strategico delle vulnerabilità che restano invisibili",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/cyber-security-e-interesse-nazionale-il-costo-strategico-delle-vulnerabilita-che-restano-invisibili/",
+      "image": null,
+      "summary": "Le vulnerabilità informatiche sono diventate una risorsa strategica nella competizione tra Stati. La nuova politica nazionale dell'ACN ne favorisce la segnalazione, ma resta irrisolto il nodo delle tutele per i ricerc...",
+      "date": "2026-10-20T10:34:44.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:0dd238248bac",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "GDPR e NIS 2: quando la convergenza tra Safety e Security diventa obbligo giuridico",
+      "url": "https://www.cybersecurity360.it/legal/gdpr-e-nis-2-quando-la-convergenza-tra-safety-e-security-diventa-obbligo-giuridico/",
+      "image": null,
+      "summary": "Il principio di integrità e riservatezza del GDPR e l’approccio multirischio della disciplina NIS convergono nel pretendere una protezione che intrecci, insieme, il rischio accidentale e quello intenzionale, le person...",
+      "date": "2026-10-20T09:33:51.0000000Z"
     }
   ]
 }
