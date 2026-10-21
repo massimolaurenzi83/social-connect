@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-21T07:18:22.2706312Z",
+  "updated": "2026-10-21T13:01:42.6827056Z",
   "items": [
+    {
+      "id": "cybersecurity360:3cd47f7c1931",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "La vulnerabilità dell’AI tra sycophancy e guerra geopolitica",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/la-vulnerabilita-dellai-tra-sycophancy-e-guerra-geopolitica/",
+      "image": null,
+      "summary": "Una vulnerabilità epistemica e sistemica di primaria grandezza, la sycophancy (o piaggeria algoritmica), costituisce un effetto collaterale strutturale e matematicamente connaturato alle attuali metodologie di allinea...",
+      "date": "2026-10-21T09:02:25.0000000Z"
+    },
     {
       "id": "cybersecurity360:8d7fcc5f050b",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Come conciliare sovranità digitale, innovazione e cybersecurity? Aldo Di Mattia di Fortinet analizza il ruolo delle architetture SASE sovrane e le nuove esigenze di protezione degli LLM privati e dei sistemi di agenti...",
       "date": "2026-10-19T14:40:40.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:c0145b30a4e4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Guida alla cyber security: endpoint, network e cloud compliance",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/guida-alla-cyber-security-endpoint-network-e-cloud-compliance/",
-      "image": null,
-      "summary": "Una guida alla cyber security aziendale che integra Endpoint Security, Network Security e Cloud Compliance in un'unica strategia di difesa. Dalla protezione dei dispositivi alla governance dei dati, ecco come ridurre ...",
-      "date": "2026-10-19T14:20:50.0000000Z"
     }
   ]
 }

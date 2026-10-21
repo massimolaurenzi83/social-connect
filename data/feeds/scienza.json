@@ -1,18 +1,42 @@
 {
   "category": "scienza",
-  "updated": "2026-10-21T07:18:22.2939562Z",
+  "updated": "2026-10-21T13:01:42.6509728Z",
   "items": [
     {
-      "id": "focus:2f1de4cc4818",
+      "id": "media-inaf:b9f6d0af3676",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Prospettiva Inaf sul Festival della scienza di Genova",
+      "url": "https://www.media.inaf.it/2026/10/21/inaf-festival-genova-2026/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/locandina_orizzontale-150x150.png",
+      "summary": "L’Istituto nazionale di astrofisica rinnova la sua presenza alla ventiquattresima edizione del Festival della scienza di Genova con laboratori, spettacoli, incontri, momenti di arte partecipativa e serate di gioco sci...",
+      "date": "2026-10-21T09:32:23.0000000Z"
+    },
+    {
+      "id": "focus:f75a804be762",
       "sourceId": "focus",
       "source": "Focus",
       "platform": "rss",
       "category": "scienza",
-      "title": "Depressione: scoperto un nuovo sottotipo",
-      "url": "https://www.focus.it/scienza/salute/scoperto-un-nuovo-sottotipo-di-depressione-legato-ai-ritmi-circadiani",
-      "image": "https://www.focus.it/images/2026/10/19/depressione-circadiana_w630.jpg?imbypass=true",
-      "summary": "La depressione circadiana è associata ai ritmi che scandiscono l'orologio biologico nell'arco delle 24 ore e riguarda un quarto delle forme resistenti.",
-      "date": "2026-10-21T06:00:00.0000000Z"
+      "title": "L’insetto estinto che si chiama come un Teletubby",
+      "url": "https://www.focus.it/ambiente/animali/l-insetto-estinto-che-si-chiama-come-un-teletubby",
+      "image": "https://www.focus.it/images/2026/10/08/cretodorus-noonoo_w630.jpg?imbypass=true",
+      "summary": "Abbiamo scoperto, intrappolato nell’ambra come in Jurassic Park, un insetto estinto che abbiamo battezzato come un personaggio dei Teletubbies.",
+      "date": "2026-10-21T09:00:00.0000000Z"
+    },
+    {
+      "id": "focus:041814ce0979",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Perché lo stress rafforza la memoria?",
+      "url": "https://www.focus.it/comportamento/psicologia/perche-lo-stress-rafforza-la-memoria",
+      "image": "https://www.focus.it/images/2026/10/19/sinapsi-tra-neuroni_w630.jpg?imbypass=true",
+      "summary": "Il cortisolo, l'ormone dello stress prodotto in situazioni emotivamente intense, può aiutare a ricordare. Ma come agisce sul cervello?",
+      "date": "2026-10-21T08:00:00.0000000Z"
     },
     {
       "id": "focus:262b47ac6f53",
@@ -24,6 +48,18 @@
       "url": "https://www.focus.it/focus-offerte/case-pieghevoli-su-amazon-le-tiny-house-da-7-800-euro",
       "image": "https://www.focus.it/images/2026/10/19/casa-pieghevole-prefabbricata-amazon_w630.jpg?imbypass=true",
       "summary": "Si spediscono chiuse e si aprono sul posto, con bagno e cucina già pronti. Ecco come sono fatte le case pieghevoli prefabbricate su Amazon, quanto costano e che cosa serve per poterci vivere.",
+      "date": "2026-10-21T06:00:00.0000000Z"
+    },
+    {
+      "id": "focus:2f1de4cc4818",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Depressione: scoperto un nuovo sottotipo",
+      "url": "https://www.focus.it/scienza/salute/scoperto-un-nuovo-sottotipo-di-depressione-legato-ai-ritmi-circadiani",
+      "image": "https://www.focus.it/images/2026/10/19/depressione-circadiana_w630.jpg?imbypass=true",
+      "summary": "La depressione circadiana è associata ai ritmi che scandiscono l'orologio biologico nell'arco delle 24 ore e riguarda un quarto delle forme resistenti.",
       "date": "2026-10-21T06:00:00.0000000Z"
     },
     {
@@ -235,30 +271,6 @@
       "date": "2026-10-19T08:57:26.0000000Z"
     },
     {
-      "id": "focus:eb996f69b99f",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Menopausa: e se non fosse così graduale?",
-      "url": "https://www.focus.it/scienza/salute/menopausa-e-se-non-fosse-una-transizione-cosi-graduale",
-      "image": "https://www.focus.it/images/2026/10/13/menopausa-salute_w630.jpg?imbypass=true",
-      "summary": "L'inizio della menopausa potrebbe coincidere con un brusco cambiamento fisiologico in sistemi che coinvolgono ossa, fegato, reni e metabolismo.",
-      "date": "2026-10-19T07:00:00.0000000Z"
-    },
-    {
-      "id": "focus:cf69f9d80a7e",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Che aria respiravano i dinosauri?",
-      "url": "https://www.focus.it/scienza/scienze/che-aria-respiravano-i-dinosauri-i-loro-denti-svelano-un-pianeta-irriconoscibile",
-      "image": "https://www.focus.it/images/2026/10/13/dinaosauri-eruzioni_w630.jpg?imbypass=true",
-      "summary": "Analizzando lo smalto fossile dei dinosauri, uno studio rivela livelli di CO₂ fino a tre volte superiori a quelli attuali: colpa dell'intensa attività vulcanica che infiammava il Mesozoico.",
-      "date": "2026-10-19T03:00:00.0000000Z"
-    },
-    {
       "id": "geopop:EDXmtLtqo3g",
       "sourceId": "geopop",
       "source": "Geopop",
@@ -381,18 +393,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/image-1-150x150.png",
       "summary": "Un nuovo studio guidato dalla Lancaster University dimostra che il celebre ritardo ferroviario di Exeter del 1841, considerato finora il primo caso documentato di impatto della meteorologia spaziale sulla tecnologia, ...",
       "date": "2026-10-14T16:00:24.0000000Z"
-    },
-    {
-      "id": "media-inaf:e8dec218a1a3",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Chiave di violino cosmica dietro alla Via Lattea",
-      "url": "https://www.media.inaf.it/2026/10/14/treble-clef-radio-phoenix/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/trebleClef-150x150.jpg",
-      "summary": "Una nuova immagine rilasciata dall’osservatorio a raggi X Chandra della Nasa combina raggi X, onde radio e infrarosso per raccontare una curiosa radiosorgente la cui forma richiama una chiave di violino. Uno studio gu...",
-      "date": "2026-10-14T14:00:38.0000000Z"
     },
     {
       "id": "geopop:Uat8tLqv8io",
