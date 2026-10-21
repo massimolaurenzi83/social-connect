@@ -1,7 +1,32 @@
 {
   "category": "scienza",
-  "updated": "2026-10-21T13:01:42.6509728Z",
+  "updated": "2026-10-21T18:00:02.5357333Z",
   "items": [
+    {
+      "id": "media-inaf:f94138f695b1",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Così l’intelligenza artificiale cancella le nuvole",
+      "url": "https://www.media.inaf.it/2026/10/21/ai-oltre-le-nuvole/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-16.06.39-150x150.png",
+      "summary": "Si chiama GeoCore-9B ed è un nuovo modello di intelligenza artificiale sviluppato al Kaist, in Corea del Sud. Addestrato su dieci milioni di immagini satellitari e relative descrizioni, riesce a ricostruire i paesaggi...",
+      "date": "2026-10-21T16:31:05.0000000Z"
+    },
+    {
+      "id": "geopop:NNOo_ubmJtE",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "L’incubo del cyberbullismo: i numeri (alti) del fenomeno",
+      "url": "https://www.youtube.com/watch?v=NNOo_ubmJtE",
+      "image": "https://i.ytimg.com/vi/NNOo_ubmJtE/hqdefault.jpg",
+      "summary": "",
+      "videoId": "NNOo_ubmJtE",
+      "date": "2026-10-21T16:30:21.0000000Z"
+    },
     {
       "id": "media-inaf:b9f6d0af3676",
       "sourceId": "media-inaf",
@@ -383,18 +408,6 @@
       "date": "2026-10-14T16:30:14.0000000Z"
     },
     {
-      "id": "media-inaf:2ecf0f322133",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Quel treno fermato dal Sole, 178 anni fa",
-      "url": "https://www.media.inaf.it/2026/10/14/quel-treno-fermato-dal-sole-178-anni-fa/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/image-1-150x150.png",
-      "summary": "Un nuovo studio guidato dalla Lancaster University dimostra che il celebre ritardo ferroviario di Exeter del 1841, considerato finora il primo caso documentato di impatto della meteorologia spaziale sulla tecnologia, ...",
-      "date": "2026-10-14T16:00:24.0000000Z"
-    },
-    {
       "id": "geopop:Uat8tLqv8io",
       "sourceId": "geopop",
       "source": "Geopop",
@@ -432,19 +445,6 @@
       "summary": "",
       "videoId": "pW_M50Qzzgo",
       "date": "2026-10-12T16:30:03.0000000Z"
-    },
-    {
-      "id": "geopop:xZCRXny5o6o",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "È uscito \"Figo! Non lo sapevo!\" il nuovo libro di Geopop, a cura di Stefano Gandelli",
-      "url": "https://www.youtube.com/watch?v=xZCRXny5o6o",
-      "image": "https://i.ytimg.com/vi/xZCRXny5o6o/hqdefault.jpg",
-      "summary": "",
-      "videoId": "xZCRXny5o6o",
-      "date": "2026-10-12T10:30:37.0000000Z"
     },
     {
       "id": "curiuss:e8p5tg55yDE",

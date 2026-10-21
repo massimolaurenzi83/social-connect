@@ -1,7 +1,55 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-21T13:01:42.6827056Z",
+  "updated": "2026-10-21T18:00:02.6501384Z",
   "items": [
+    {
+      "id": "cybersecurity360:444b8a9aff41",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Identità non umane e sicurezza degli accessi, le nuove sfide cyber",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/identita-non-umane-e-sicurezza-degli-accessi-le-nuove-sfide-cyber/",
+      "image": null,
+      "summary": "Account di servizio, applicazioni e agenti AI moltiplicano le identità non umane da proteggere, aumentando la complessità della sicurezza aziendale. Andrea Solaroli di SailPoint spiega perché i tradizionali modelli IA...",
+      "date": "2026-10-21T17:07:53.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:0efe78061a13",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "AI Data Leakage Prevention: proteggere i dati dall’AI",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/ai-data-leakage-prevention-proteggere-i-dati-dallai/",
+      "image": null,
+      "summary": "Come prevenire la fuga di dati sensibili attraverso ChatGPT, Copilot e altri strumenti di intelligenza artificiale generativa: architetture DLP, controllo dei prompt e compliance al GDPR L'articolo AI Data Leakage Pre...",
+      "date": "2026-10-21T16:49:06.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:1c6689801c12",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "I modelli OpenAI auto-disabilitano i controlli di sicurezza",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/i-modelli-piu-potenti-di-openai-auto-disabilitano-i-controlli-di-sicurezza/",
+      "image": null,
+      "summary": "OpenAI ha documentato due incidenti avvenuti il 3 e il 6 ottobre. Un agente AI ha silenziato le notifiche alla sicurezza, un altro ha eliminato il monitoraggio di un programma e poi ha negato la modifica. I casi mostr...",
+      "date": "2026-10-21T14:41:06.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d97e3ada824f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "PHP2Shell, due vulnerabilità critiche in PHP: come proteggere i server in attesa delle patch",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/php2shell-due-vulnerabilita-critiche-in-php-come-proteggere-i-server-in-attesa-delle-patch/",
+      "image": null,
+      "summary": "Il PHP Security Team annuncia due vulnerabilità critiche, entrambe con punteggio CVSS di 9,2, e prepara un aggiornamento d'emergenza. Tra possibili attacchi RCE, mitigazioni non confermate e versioni fuori supporto, e...",
+      "date": "2026-10-21T13:29:45.0000000Z"
+    },
     {
       "id": "cybersecurity360:3cd47f7c1931",
       "sourceId": "cybersecurity360",
@@ -13,6 +61,18 @@
       "image": null,
       "summary": "Una vulnerabilità epistemica e sistemica di primaria grandezza, la sycophancy (o piaggeria algoritmica), costituisce un effetto collaterale strutturale e matematicamente connaturato alle attuali metodologie di allinea...",
       "date": "2026-10-21T09:02:25.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:2c2ddc198716",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "SneakPeek, la falla in Claude Code Desktop che poteva esporre le credenziali degli sviluppatori",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/sneakpeek-la-falla-in-claude-code-desktop-che-poteva-esporre-le-credenziali-degli-sviluppatori/",
+      "image": null,
+      "summary": "Una vulnerabilità ad alta gravità in Claude Code Desktop consentiva a file HTML malevoli di accedere a dati locali ed esfiltrare credenziali degli sviluppatori. Scoperta da Noma Labs e corretta da Anthropic, SneakPeek...",
+      "date": "2026-10-21T07:04:00.0000000Z"
     },
     {
       "id": "cybersecurity360:8d7fcc5f050b",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "Un messaggio frettoloso, un errore di battitura o un punto esclamativo possono rendere credibile una falsa richiesta del proprio superiore. È il digital body language, un insieme di segnali comunicativi che gli attacc...",
       "date": "2026-10-20T13:38:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2d7c4984aa40",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber security e interesse nazionale: il costo strategico delle vulnerabilità che restano invisibili",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/cyber-security-e-interesse-nazionale-il-costo-strategico-delle-vulnerabilita-che-restano-invisibili/",
-      "image": null,
-      "summary": "Le vulnerabilità informatiche sono diventate una risorsa strategica nella competizione tra Stati. La nuova politica nazionale dell'ACN ne favorisce la segnalazione, ma resta irrisolto il nodo delle tutele per i ricerc...",
-      "date": "2026-10-20T10:34:44.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:0dd238248bac",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "GDPR e NIS 2: quando la convergenza tra Safety e Security diventa obbligo giuridico",
-      "url": "https://www.cybersecurity360.it/legal/gdpr-e-nis-2-quando-la-convergenza-tra-safety-e-security-diventa-obbligo-giuridico/",
-      "image": null,
-      "summary": "Il principio di integrità e riservatezza del GDPR e l’approccio multirischio della disciplina NIS convergono nel pretendere una protezione che intrecci, insieme, il rischio accidentale e quello intenzionale, le person...",
-      "date": "2026-10-20T09:33:51.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:b6a891f871e4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Voucher cloud e cyber: sfruttare al meglio i fondi per ridurre il gap delle pmi italiane",
-      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/voucher-cloud-e-cyber-sfruttare-al-meglio-i-fondi-per-ridurre-il-gap-delle-pmi-italiane/",
-      "image": null,
-      "summary": "Dal 20 ottobre 2026 le PMI e i professionisti possono predisporre la domanda per il voucher cloud e cybersecurity del Mimit: fino a 20mila euro a fondo perduto, su 150 milioni disponibili. Invio dal 10 novembre. Requi...",
-      "date": "2026-10-20T07:01:32.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:6eaf14139ac6",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Digital360 e Cybersecurity360 Awards 2026: tutti i vincitori e le sfide dell’innovazione",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/digital360-e-cybersecurity360-awards-2026-tutti-i-vincitori-e-le-sfide-dellinnovazione/",
-      "image": null,
-      "summary": "UNGUESS e Neurafense conquistano i premi assoluti dei Cybersecurity360 e Digital360 Awards 2026. Dai progetti vincitori emergono le nuove priorità di CIO e CISO: intelligenza artificiale, governance, resilienza, moder...",
-      "date": "2026-10-19T17:08:19.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:53fc768798a3",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sovranità digitale, SASE, AI security: le nuove sfide per le aziende",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/sovranita-digitale-sase-ai-security-le-nuove-sfide-per-le-aziende/",
-      "image": null,
-      "summary": "Come conciliare sovranità digitale, innovazione e cybersecurity? Aldo Di Mattia di Fortinet analizza il ruolo delle architetture SASE sovrane e le nuove esigenze di protezione degli LLM privati e dei sistemi di agenti...",
-      "date": "2026-10-19T14:40:40.0000000Z"
     }
   ]
 }

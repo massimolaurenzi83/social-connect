@@ -1,7 +1,43 @@
 {
   "category": "cucina",
-  "updated": "2026-10-21T13:01:42.6569836Z",
+  "updated": "2026-10-21T18:00:02.6227188Z",
   "items": [
+    {
+      "id": "dissapore:e4601dbc0e16",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Ci stavamo dimenticando di Paolo Lopriore",
+      "url": "https://www.dissapore.com/ristoranti/ci-stavamo-dimenticando-di-paolo-lopriore/",
+      "image": null,
+      "summary": "Buonissima 2026 si apre con il premio Bob Noto, e a vincerlo quest'anno è lo chef de Il Portico di Appiano Gentile che torna, finalmente, al centro del dibattito gastronomico. L'articolo Ci stavamo dimenticando di Pao...",
+      "date": "2026-10-21T17:01:36.0000000Z"
+    },
+    {
+      "id": "dissapore:084cf6441784",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "La birra analcolica conquista i pub inglesi",
+      "url": "https://www.dissapore.com/notizie/la-birra-analcolica-conquista-i-pub-inglesi/",
+      "image": null,
+      "summary": "Uno studio dell'Università di York ha dimostrato come ai pub possa giovare l'introduzione di birra senza alcool, senza impattare negativamente sulle vendite dei prodotti tradizionali. L'articolo La birra analcolica co...",
+      "date": "2026-10-21T13:39:43.0000000Z"
+    },
+    {
+      "id": "giallozafferano:5be6fc48942b",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Torta 2 ingredienti pere e cioccolato",
+      "url": "https://ricette.giallozafferano.it/Torta-2-ingredienti-pere-e-cioccolato.html",
+      "image": "https://www.giallozafferano.it/images/367-36742/Torta-2-ingredienti-pere-e-cioccolato_1200x800.jpg",
+      "summary": "La torta 2 ingredienti pere e cioccolato è un dolce sorprendente: per prepararla bastano soltanto pere e cioccolato fondente , senza aggiungere farina, uova, burro o zucchero. Il risultato è una torta dalla consistenz...",
+      "date": "2026-10-21T11:00:00.0000000Z"
+    },
     {
       "id": "dissapore:fb64106f2abb",
       "sourceId": "dissapore",
@@ -171,30 +207,6 @@
       "date": "2026-10-18T12:11:58.0000000Z"
     },
     {
-      "id": "dissapore:353cb007c8b9",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "La Cina produce così tanto pollo che non sa più a chi venderlo: e ora il problema è nostro",
-      "url": "https://www.dissapore.com/spesa/la-cina-produce-cosi-tanto-pollo-che-non-sa-piu-a-chi-venderlo-e-ora-il-problema-e-nostro/",
-      "image": null,
-      "summary": "La Cina produce pollo a prezzi così bassi da aver saturato il mercato interno. Ora punta sull'export, conquistando quote di mercato in Europa e mettendo in difficoltà gli allevatori locali. Ma il vero problema è un al...",
-      "date": "2026-10-18T08:56:05.0000000Z"
-    },
-    {
-      "id": "dissapore:c41a1d9bbd22",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Il programma di Sherbeth 2026, che vuole portare il gelato nel futuro",
-      "url": "https://www.dissapore.com/notizie/il-programma-di-sherbeth-2026-che-vuole-portare-il-gelato-nel-futuro/",
-      "image": null,
-      "summary": "Tra dati scientifici, diplomazia gastronomica e strategie d'impresa, l'evento giunto alla 18esima edizione vuole fare un cambio di passo, dando un'anticipazione su dove andrà il gelato artigianale nei prossimi anni. L...",
-      "date": "2026-10-17T15:59:58.0000000Z"
-    },
-    {
       "id": "giallozafferano:92d2c3318975",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/367-36715/Pasta-con-porcini-e-zafferano_1200x800.jpg",
       "summary": "Portate in tavola i sapori dell’autunno in una veste raffinata con la ricetta della pasta con porcini e zafferano ! Un primo piatto cremoso e aromatico, in cui il gusto intenso dei funghi freschi incontra il profumo i...",
       "date": "2026-10-15T10:30:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:ae3f1b3eb70d",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Alici fritte ripiene",
-      "url": "https://ricette.giallozafferano.it/Alici-fritte-ripiene.html",
-      "image": "https://www.giallozafferano.it/images/367-36706/Alici-fritte-ripiene_1200x800.jpg",
-      "summary": "Le alici fritte ripiene sono una reinterpretazione gourmet di un grande classico della cucina mediterranea, proposto in una veste originale e scenografica. Una ricetta che unisce la croccantezza della frittura a un ri...",
-      "date": "2026-10-15T09:43:00.0000000Z"
     }
   ]
 }
