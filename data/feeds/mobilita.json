@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-22T14:42:47.6256524Z",
+  "updated": "2026-10-22T18:53:05.1228515Z",
   "items": [
+    {
+      "id": "ferrovie:b8b2363a1282",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Trenitalia, sospesa la cancellazione dei carnet Smart: confronto con i consumatori",
+      "url": "https://www.ferrovie.info/treni-reali/trenitalia-sospesa-la-cancellazione-dei-carnet-smart-confronto-con-i-consumatori.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10834/etr_410_1.jpg",
+      "summary": "Trenitalia sospende, almeno per il momento, la prevista cancellazione dei carnet Smart per i treni Frecciarossa e Frecciargento. La decisione di interrompere la vendita di questi pacchetti di viaggio, annunciata nei g...",
+      "date": "2026-10-22T16:00:00.0000000Z"
+    },
     {
       "id": "ferrovie:1709fdc3daf5",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10002/760D2373.jpg",
       "summary": "Nuovi interventi di manutenzione e potenziamento interesseranno la rete ferroviaria della Sardegna nel corso dell’ultimo fine settimana di ottobre. Le attività si concentreranno sulla linea Cagliari–Decimomannu e rigu...",
       "date": "2026-10-22T07:02:47.0000000Z"
-    },
-    {
-      "id": "ferrovie:36d49c721d65",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Gruppo FS, assunzioni a ottobre: posizioni aperte in tutta Italia",
-      "url": "https://www.ferrovie.info/offerte-di-lavoro/gruppo-fs-assunzioni-a-ottobre-posizioni-aperte-in-tutta-italia.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1820942.JPG",
-      "summary": "Nuove opportunità di lavoro nel settore ferroviario: anche a ottobre sono numerose le posizioni aperte in diverse regioni italiane, con possibilità di inserimento in vari ambiti professionali. Tra i profili più ricerc...",
-      "date": "2026-10-21T08:20:30.0000000Z"
     }
   ]
 }

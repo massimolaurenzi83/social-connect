@@ -1,7 +1,103 @@
 {
   "category": "cripto",
-  "updated": "2026-10-22T14:42:47.6241989Z",
+  "updated": "2026-10-22T18:53:05.1089889Z",
   "items": [
+    {
+      "id": "cryptonomist:bfc26d01719f",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "La bozza punta a ridurre di almeno 4 volte i tempi di finalità su Ethereum",
+      "url": "https://cryptonomist.ch/2026/10/22/riduzione-finalita-ethereum/",
+      "image": null,
+      "summary": "La riduzione della finalità su Ethereum ha una nuova proposta: la bozza EIP-8453, depositata il 21 ottobre 2026, vuole accorciare i tempi di almeno quattro volte dividendo i voti dei validator. Il traguardo, però, non...",
+      "date": "2026-10-22T18:44:15.0000000Z"
+    },
+    {
+      "id": "cryptonomist:545dcf42ea8c",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "J.P. Morgan porta i fondi monetari tokenizzati sulla blockchain Solana",
+      "url": "https://cryptonomist.ch/2026/10/22/fondi-monetari-tokenizzati-2/",
+      "image": null,
+      "summary": "J.P. Morgan Asset Management ha lanciato il 22 ottobre 2026 i fondi monetari tokenizzati sulla blockchain Solana, portando prodotti d’investimento tradizionali su una rete decentralizzata. Punti chiave I fondi MONY e ...",
+      "date": "2026-10-22T18:44:11.0000000Z"
+    },
+    {
+      "id": "cryptonomist:2e4e577ee9ec",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Gulf International Bank mantiene 19.842 azioni Strategy nell’investimento in Bitcoin",
+      "url": "https://cryptonomist.ch/2026/10/22/investimento-bitcoin-gulf-international-bank/",
+      "image": null,
+      "summary": "L’investimento legato a Bitcoin di Gulf International Bank (UK) resta fermo. A fine settembre 2026 la banca contava ancora 19.842 azioni Strategy, secondo un modulo 13F depositato alla SEC. Cosa possiede davvero la ba...",
+      "date": "2026-10-22T18:25:35.0000000Z"
+    },
+    {
+      "id": "cryptonomist:bb5955384988",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "RedStone porta su Filecoin un nuovo feed del prezzo di FIL per le app",
+      "url": "https://cryptonomist.ch/2026/10/22/feed-prezzo-fil/",
+      "image": null,
+      "summary": "RedStone ha attivato sulla mainnet di Filecoin un feed del prezzo di FIL, il 22 ottobre 2026. Per le applicazioni sulla Filecoin Virtual Machine (FVM) è una fonte di prezzo onchain in più. Punti chiave L’oracle FIL/US...",
+      "date": "2026-10-22T18:24:47.0000000Z"
+    },
+    {
+      "id": "cryptonomist:b19335234880",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Il trading su Pump.fun per EVM ora offre ordini automatici su sei reti",
+      "url": "https://cryptonomist.ch/2026/10/22/trading-su-pump-fun-per-evm/",
+      "image": null,
+      "summary": "Il trading su Pump.fun per EVM si arricchisce di ordini automatici: dal 22 ottobre gli utenti possono fissare in anticipo il prezzo di vendita dei propri token su sei reti. La piattaforma di lancio di memecoin Pump.fu...",
+      "date": "2026-10-22T17:47:20.0000000Z"
+    },
+    {
+      "id": "cryptonomist:2bc02e31dd47",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Il software Nvidia per operazioni AI riunisce gli avvisi e indica la causa probabile",
+      "url": "https://cryptonomist.ch/2026/10/22/software-nvidia-per-operazioni-ai/",
+      "image": null,
+      "summary": "Nvidia ha lanciato giovedì 22 ottobre 2026 Minerva, un software per le operazioni AI che monitora insieme hardware e carichi di lavoro nei grandi data center. Punti chiave Minerva incrocia i dati dell’hardware con que...",
+      "date": "2026-10-22T17:47:06.0000000Z"
+    },
+    {
+      "id": "cryptonomist:67cdbee54851",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "L’autorizzazione di Robinhood a Dubai copre 10 classi di asset, con lancio nel 2027",
+      "url": "https://cryptonomist.ch/2026/10/22/autorizzazione-robinhood-dubai/",
+      "image": null,
+      "summary": "L’autorizzazione di Robinhood a Dubai apre la strada al lancio della piattaforma di investimento retail in Medio Oriente, previsto per il 2027. Punti chiave Il via libera della DFSA riguarda 10 classi di asset, tra cu...",
+      "date": "2026-10-22T16:46:50.0000000Z"
+    },
+    {
+      "id": "cryptonomist:e0797b5c89f3",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Agenti AI non autorizzati avrebbero spostato fondi dai conti: chi paga?",
+      "url": "https://cryptonomist.ch/2026/10/22/agenti-ai-non-autorizzati/",
+      "image": null,
+      "summary": "Le grandi banche statunitensi hanno rilevato agenti AI non autorizzati dentro i conti dei clienti, secondo quanto riferito da Axios il 22 ottobre 2026. La notizia si basa su persone a conoscenza della vicenda. Gli age...",
+      "date": "2026-10-22T16:45:06.0000000Z"
+    },
     {
       "id": "cryptonomist:45a3707086b4",
       "sourceId": "cryptonomist",
@@ -25,102 +121,6 @@
       "image": null,
       "summary": "Uniswap v4 può ora indirizzare gli scambi verso liquidità esterna: gli aggregatori di Uniswap con hooks sono attivi su Ethereum, Base e Robinhood Chain. Il protocollo confronta così le rotte tra piattaforme diverse. P...",
       "date": "2026-10-22T14:23:53.0000000Z"
-    },
-    {
-      "id": "cryptonomist:24bb4473b35c",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Perceptron sposta oltre 800.000 nodi su Walrus per verificare l’integrità dei dati AI",
-      "url": "https://cryptonomist.ch/2026/10/22/integrita-dati-ai/",
-      "image": null,
-      "summary": "Perceptron sposta su Walrus la sua rete di oltre 800.000 nodi, con l’obiettivo di rendere l’integrità dei dati AI verificabile direttamente dai clienti. Punti chiave Lo storage decentralizzato di Walrus sostituisce qu...",
-      "date": "2026-10-22T14:23:34.0000000Z"
-    },
-    {
-      "id": "cryptonomist:60a6dedb16bf",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Trasferimento di Bitcoin del governo: 1,01 miliardi, custodia secondo gli analisti",
-      "url": "https://cryptonomist.ch/2026/10/22/trasferimento-bitcoin-governo/",
-      "image": null,
-      "summary": "Il trasferimento di Bitcoin del governo USA dell’8 ottobre 2026 ha portato 12.267,02 BTC, circa 1,01 miliardi di dollari, a Coinbase Prime. Il wallet di partenza era legato al sequestro dell’hack Bitfinex del 2016. Pu...",
-      "date": "2026-10-22T14:22:57.0000000Z"
-    },
-    {
-      "id": "cryptonomist:0ab5225fc57f",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Lo sblocco delle azioni SpaceX rende negoziabili fino a 1,3 miliardi di titoli",
-      "url": "https://cryptonomist.ch/2026/10/22/sblocco-azioni-spacex/",
-      "image": null,
-      "summary": "Fino a 1,3 miliardi di azioni SpaceX diventano negoziabili oggi, 22 ottobre 2026: è il più grande sblocco di azioni SpaceX dalla quotazione al Nasdaq di giugno. Ma negoziabili non significa vendute. Lo sblocco amplia ...",
-      "date": "2026-10-22T13:56:44.0000000Z"
-    },
-    {
-      "id": "cryptonomist:92bd9b8025ae",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Il deposito tokenizzato SoFi paga il 4,40% APY sui dollari per le crypto",
-      "url": "https://cryptonomist.ch/2026/10/22/deposito-tokenizzato-sofi/",
-      "image": null,
-      "summary": "Il deposito tokenizzato di SoFi, SoFi Earn (SOFIE), debutta il 22 ottobre 2026 e paga il 4,40% APY sui dollari digitali detenuti presso SoFi Bank. SoFi lo descrive come il primo deposito tokenizzato per i consumatori ...",
-      "date": "2026-10-22T13:41:30.0000000Z"
-    },
-    {
-      "id": "cryptonomist:a74d3f0c175a",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "La licenza VARA di Bybit a Dubai, del regolatore locale, copre solo lo spot",
-      "url": "https://cryptonomist.ch/2026/10/22/licenza-vara-bybit-dubai/",
-      "image": null,
-      "summary": "La licenza VARA di Bybit a Dubai copre il trading spot, mentre i derivati richiedono un’autorizzazione a parte. Punti chiave Bybit Fintech FZE può offrire servizi di exchange spot a Dubai. Possono usarli clienti retai...",
-      "date": "2026-10-22T13:30:41.0000000Z"
-    },
-    {
-      "id": "cryptonomist:1d6ace587f81",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Western Union punta a ridurre da giorni a ore i tempi dei payout in stablecoin",
-      "url": "https://cryptonomist.ch/2026/10/22/payout-stablecoin-western-union/",
-      "image": null,
-      "summary": "Western Union porta i payout in stablecoin nelle rimesse: con Receiver Redirect chi riceve un trasferimento può ritirarlo in USDPT. L’accordo con Noah per l’infrastruttura bancaria è stato annunciato il 21 ottobre 202...",
-      "date": "2026-10-22T11:32:39.0000000Z"
-    },
-    {
-      "id": "cryptonomist:9eb4d53fb11c",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Su Bitfinex, i fondi tokenizzati su blockchain avranno scambi 24 ore su 24",
-      "url": "https://cryptonomist.ch/2026/10/22/fondi-tokenizzati-su-blockchain/",
-      "image": null,
-      "summary": "Crest e LBAF stanno per diventare i primi fondi tokenizzati su blockchain quotati su Bitfinex Securities, piattaforma regolamentata per raccogliere capitale e scambiare titoli. Punti chiave Crest e LBAF sono i primi f...",
-      "date": "2026-10-22T11:01:03.0000000Z"
-    },
-    {
-      "id": "cryptonomist:568e8b077f4d",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Trump cita oltre 20 mld di perdite alla tavola rotonda della Casa Bianca sul cybercrime",
-      "url": "https://cryptonomist.ch/2026/10/22/tavola-rotonda-casa-bianca-cybercrime/",
-      "image": null,
-      "summary": "Donald Trump ha citato oltre 20 miliardi di dollari di perdite da cybercrime degli americani nel 2025. Alla tavola rotonda della Casa Bianca sul cybercrime del 21 ottobre 2026 non ha mai detto «crypto». Punti chiave S...",
-      "date": "2026-10-22T10:15:59.0000000Z"
     }
   ]
 }

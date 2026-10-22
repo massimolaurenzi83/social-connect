@@ -1,7 +1,55 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-22T14:42:47.6049624Z",
+  "updated": "2026-10-22T18:53:05.1248741Z",
   "items": [
+    {
+      "id": "cybersecurity360:cbd1238dda1d",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "NDR e Network Traffic Analysis per la difesa di rete",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/ndr-e-network-traffic-analysis-per-la-difesa-di-rete/",
+      "image": null,
+      "summary": "Come rilevare e bloccare le minacce che aggirano i controlli tradizionali, analizzando il traffico di rete in tempo reale L'articolo NDR e Network Traffic Analysis per la difesa di rete proviene da Cyber Security 360 .",
+      "date": "2026-10-22T16:14:50.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:ddde7c6b1fe7",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Banche sotto attacco dall’AI, l’allarme è globale",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/banche-sotto-attacco-dallai-lallarme-e-globale/",
+      "image": null,
+      "summary": "Usati agenti basati su Claude e Grok contro oltre 400 bersagli finanziari in America Latina. Anche intrusioni nelle banche sudcoreane e attacchi con AI in Giappone mostrano come la minaccia si stia diffondendo. In Eur...",
+      "date": "2026-10-22T15:53:30.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:105712cecaa5",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Lazarus usa già la crittografia post-quantistica nei malware: come cambia la sfida cyber",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/lazarus-usa-gia-la-crittografia-post-quantistica-nei-malware-come-cambia-la-sfida-cyber/",
+      "image": null,
+      "summary": "La campagna di spionaggio FlashHole, scoperta da Kaspersky e attribuita al gruppo criminale Lazarus, combina tecniche di ingegneria sociale assistite dall'AI e malware che sfruttano la crittografia post-quantistica pe...",
+      "date": "2026-10-22T15:31:28.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:e11e5d045826",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "AI e cyber security, come cambiano le minacce e le strategie di difesa",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/ai-e-cyber-security-come-cambiano-le-minacce-e-le-strategie-di-difesa/",
+      "image": null,
+      "summary": "L'intelligenza artificiale accelera gli attacchi informatici, rende più insidiose le tecniche di phishing e social engineering, ma offre anche nuove opportunità di difesa. Andrea Ferrazzi di Relatech analizza l'evoluz...",
+      "date": "2026-10-22T15:11:41.0000000Z"
+    },
     {
       "id": "cybersecurity360:931b5006b2fc",
       "sourceId": "cybersecurity360",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Come prevenire la fuga di dati sensibili attraverso ChatGPT, Copilot e altri strumenti di intelligenza artificiale generativa: architetture DLP, controllo dei prompt e compliance al GDPR L'articolo AI Data Leakage Pre...",
       "date": "2026-10-21T16:49:06.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:1c6689801c12",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "I modelli OpenAI auto-disabilitano i controlli di sicurezza",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/i-modelli-piu-potenti-di-openai-auto-disabilitano-i-controlli-di-sicurezza/",
-      "image": null,
-      "summary": "OpenAI ha documentato due incidenti avvenuti il 3 e il 6 ottobre. Un agente AI ha silenziato le notifiche alla sicurezza, un altro ha eliminato il monitoraggio di un programma e poi ha negato la modifica. I casi mostr...",
-      "date": "2026-10-21T14:41:06.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d97e3ada824f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "PHP2Shell, due vulnerabilità critiche in PHP: come proteggere i server",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/php2shell-due-vulnerabilita-critiche-in-php-come-proteggere-i-server-in-attesa-delle-patch/",
-      "image": null,
-      "summary": "Il PHP Security Team annuncia due vulnerabilità critiche, entrambe con punteggio CVSS di 9,2, e prepara un aggiornamento d'emergenza. Tra possibili attacchi RCE, mitigazioni non confermate e versioni fuori supporto, e...",
-      "date": "2026-10-21T13:29:45.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3cd47f7c1931",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "La vulnerabilità dell’AI tra sycophancy e guerra geopolitica",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/la-vulnerabilita-dellai-tra-sycophancy-e-guerra-geopolitica/",
-      "image": null,
-      "summary": "Una vulnerabilità epistemica e sistemica di primaria grandezza, la sycophancy (o piaggeria algoritmica), costituisce un effetto collaterale strutturale e matematicamente connaturato alle attuali metodologie di allinea...",
-      "date": "2026-10-21T09:02:25.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2c2ddc198716",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "SneakPeek, la falla in Claude Code Desktop che poteva esporre le credenziali degli sviluppatori",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/sneakpeek-la-falla-in-claude-code-desktop-che-poteva-esporre-le-credenziali-degli-sviluppatori/",
-      "image": null,
-      "summary": "Una vulnerabilità ad alta gravità in Claude Code Desktop consentiva a file HTML malevoli di accedere a dati locali ed esfiltrare credenziali degli sviluppatori. Scoperta da Noma Labs e corretta da Anthropic, SneakPeek...",
-      "date": "2026-10-21T07:04:00.0000000Z"
     }
   ]
 }
