@@ -1,7 +1,31 @@
 {
   "category": "tecnologia",
-  "updated": "2026-10-22T18:53:05.1343337Z",
+  "updated": "2026-10-22T22:02:46.6719345Z",
   "items": [
+    {
+      "id": "tomshw:489438b312f1",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Apple iPhone Air costa 929€: 5,6 mm e potenza Pro da portare ovunque",
+      "url": "https://www.tomshw.it/smartphone/apple-iphone-air-costa-929eur-56-mm-e-potenza-pro-da-portare-ovunque",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/119860/tomshw-offer-1827796.png",
+      "summary": "Apple iPhone Air 256 GB costa 929€ su Amazon, anziché 1339€, con uno sconto del 31% sulla versione Celeste. I suoi 5,6 mm di spessore racchiudono il chip A19 Pro: una combinazione interessante se vuoi...",
+      "date": "2026-10-22T20:18:00.0000000Z"
+    },
+    {
+      "id": "hdblog:f1852fcd1751",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "iPhone Duo, la nostra anteprima: tra ambizione e qualche compromesso | VIDEO",
+      "url": "https://www.hdblog.it/smartphone/recensioni/n674583/iphone-duo-anteprima-video-prezzo-test-ita/",
+      "image": null,
+      "summary": "Abbiamo provato per un paio d'ore in anteprima il nuovo iPhone Duo: ecco le nostre prime impressioni sul primo pieghevole di Apple",
+      "date": "2026-10-22T19:00:00.0000000Z"
+    },
     {
       "id": "tomshw:83ad72d21993",
       "sourceId": "tomshw",
@@ -255,18 +279,6 @@
       "date": "2026-10-22T16:00:24.0000000Z"
     },
     {
-      "id": "tomshw:f74f6ec9c77b",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "L’attacco hacker ai supermercati francesi: GDPR, NIS2 e responsabilità delle imprese",
-      "url": "https://www.tomshw.it/business/lattacco-hacker-ai-supermercati-francesi-gdpr-nis2-e-responsabilita-delle-imprese",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/119847/01-attacco-hacker-supermercati-francesi.jpg",
-      "summary": "Avv. Giuseppe Croari – Dott.ssa Emma Roberti Nella notte tra l’11 e il 12 ottobre 2026, un attacco informatico ha colpito i sistemi di refrigerazione di centinaia di supermercati in Francia, coinvolg...",
-      "date": "2026-10-22T16:00:00.0000000Z"
-    },
-    {
       "id": "hdblog:4bd37e255732",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -289,18 +301,6 @@
       "image": null,
       "summary": "Come funziona la nuova offerta Plenitude per le case unifamiliari.",
       "date": "2026-10-22T15:40:00.0000000Z"
-    },
-    {
-      "id": "hdblog:315d7cb60441",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Colossale violazione della rete TOR: 333 server hackerati in un colpo",
-      "url": "https://www.hdblog.it/sicurezza/articoli/n674619/attacco-hacer-tor-onion-ring-333-server-violati/",
-      "image": null,
-      "summary": "Non si sa chi sia stato né come abbia fatto a far capitolare così tanti nodi in una volta sola. A quanto pare ha intercettato connessioni SSH e email non criptate.",
-      "date": "2026-10-22T15:35:00.0000000Z"
     },
     {
       "id": "dday:9978ba63339a",
@@ -375,18 +375,6 @@
       "date": "2026-10-22T13:11:00.0000000Z"
     },
     {
-      "id": "dday:e72475c1b1f2",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Kinsey Fabrizio (CES): “Le regole europee un freno all'innovazione. In Cina non c'è privacy, gli USA un buon compromesso\"",
-      "url": "https://www.dday.it/redazione/59182/kinsey-fabrizio-ces-le-regole-europee-un-freno-allinnovazione-in-cina-non-ce-privacy-gli-usa-un-buon-compromesso",
-      "image": null,
-      "summary": "",
-      "date": "2026-10-22T12:55:00.0000000Z"
-    },
-    {
       "id": "dday:aa2478e7caf6",
       "sourceId": "dday",
       "source": "DDay.it",
@@ -394,6 +382,18 @@
       "category": "tecnologia",
       "title": "iliad ha attivato le chiamate Wi-Fi per i primi clienti, ma solo con la propria rete",
       "url": "https://www.dday.it/redazione/59193/iliad-ha-attivato-le-chiamate-wi-fi-per-i-primi-clienti-ma-solo-con-la-propria-rete",
+      "image": null,
+      "summary": "",
+      "date": "2026-10-22T12:55:00.0000000Z"
+    },
+    {
+      "id": "dday:e72475c1b1f2",
+      "sourceId": "dday",
+      "source": "DDay.it",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Kinsey Fabrizio (CES): “Le regole europee un freno all'innovazione. In Cina non c'è privacy, gli USA un buon compromesso\"",
+      "url": "https://www.dday.it/redazione/59182/kinsey-fabrizio-ces-le-regole-europee-un-freno-allinnovazione-in-cina-non-ce-privacy-gli-usa-un-buon-compromesso",
       "image": null,
       "summary": "",
       "date": "2026-10-22T12:55:00.0000000Z"
