@@ -1,7 +1,43 @@
 {
   "category": "scienza",
-  "updated": "2026-10-22T04:48:52.2558938Z",
+  "updated": "2026-10-22T09:42:43.6369400Z",
   "items": [
+    {
+      "id": "media-inaf:f70cf320d430",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Così nascono i getti dei buchi neri supermassicci",
+      "url": "https://www.media.inaf.it/2026/10/22/cosi-nascono-i-getti-dei-buchi-neri-supermassicci/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/227_supermassiveblackholes_t-150x150.jpg",
+      "summary": "Le osservazioni a raggi X, radio e millimetriche della galassia attiva 3C 120 rivelano le condizioni che permettono a un buco nero supermassiccio di alimentarsi rapidamente e generare potenti getti di plasma. I risult...",
+      "date": "2026-10-22T08:17:05.0000000Z"
+    },
+    {
+      "id": "focus:31cafbb70233",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Che cantanti, quei lemuri",
+      "url": "https://www.focus.it/ambiente/animali/il-canto-degli-indri",
+      "image": "https://www.focus.it/images/2026/09/28/indri_w630.jpg?imbypass=true",
+      "summary": "Nelle foreste del Madagascar, si può sentire un concerto molto particolare: è il canto degli indri, i più grandi tra i lemuri. Che, per farsi sentire meglio, sfruttano una tecnica simile a quella usata dai cantanti li...",
+      "date": "2026-10-22T06:00:00.0000000Z"
+    },
+    {
+      "id": "focus:f9eaabc40caf",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Tipi italiani: l'aquila reale",
+      "url": "https://www.focus.it/ambiente/animali/tipi-italiani-aquila-reale",
+      "image": "https://www.focus.it/images/2026/09/23/aquila-reale_w630.jpg?imbypass=true",
+      "summary": "Così nascono le pagine di Focus dedicate agli animali che possiamo incontrare nel nostro Paese. Guarda, in questo timelapse, come è stato realizzato il disegno dell'aquila reale.",
+      "date": "2026-10-22T06:00:00.0000000Z"
+    },
     {
       "id": "focus:08efd70f5900",
       "sourceId": "focus",
@@ -13,18 +49,6 @@
       "image": "https://www.focus.it/images/2026/10/16/bambina-che-disegna_w630.jpg?imbypass=true",
       "summary": "Pensate che i bambini siano più creativi degli adulti? Uno studio dice il contrario: le idee dei grandi sono più originali, ma i piccoli si divertono di più a crearle.",
       "date": "2026-10-22T02:00:00.0000000Z"
-    },
-    {
-      "id": "focus:6501e0391704",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Gli aeroporti italiani più e meno puntuali",
-      "url": "https://www.focus.it/cultura/curiosita/aeroporti-classifica-italia-ritardi",
-      "image": "https://www.focus.it/images/2026/10/18/aeroporto-londra_w630.jpg?imbypass=true",
-      "summary": "Ancona l'aeroporto meno puntuale, Reggio Calabria il migliore: i dati Eurocontrol sui ritardi aerei in Italia tra meteo, vulcani e traffico record.",
-      "date": "2026-10-21T20:00:00.0000000Z"
     },
     {
       "id": "focus:cb50f27477b9",
@@ -39,6 +63,18 @@
       "date": "2026-10-21T20:00:00.0000000Z"
     },
     {
+      "id": "focus:6501e0391704",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Gli aeroporti italiani più e meno puntuali",
+      "url": "https://www.focus.it/cultura/curiosita/aeroporti-classifica-italia-ritardi",
+      "image": "https://www.focus.it/images/2026/10/18/aeroporto-londra_w630.jpg?imbypass=true",
+      "summary": "Ancona l'aeroporto meno puntuale, Reggio Calabria il migliore: i dati Eurocontrol sui ritardi aerei in Italia tra meteo, vulcani e traffico record.",
+      "date": "2026-10-21T20:00:00.0000000Z"
+    },
+    {
       "id": "media-inaf:f94138f695b1",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -49,6 +85,19 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-16.06.39-150x150.png",
       "summary": "Si chiama GeoCore-9B ed è un nuovo modello di intelligenza artificiale sviluppato al Kaist, in Corea del Sud. Addestrato su dieci milioni di immagini satellitari e relative descrizioni, riesce a ricostruire i paesaggi...",
       "date": "2026-10-21T16:31:05.0000000Z"
+    },
+    {
+      "id": "geopop:NNOo_ubmJtE",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "L’incubo del cyberbullismo: i numeri (alti) del fenomeno",
+      "url": "https://www.youtube.com/watch?v=NNOo_ubmJtE",
+      "image": "https://i.ytimg.com/vi/NNOo_ubmJtE/hqdefault.jpg",
+      "summary": "",
+      "videoId": "NNOo_ubmJtE",
+      "date": "2026-10-21T16:30:21.0000000Z"
     },
     {
       "id": "focus:c428313b0f21",
@@ -99,6 +148,18 @@
       "date": "2026-10-21T08:00:00.0000000Z"
     },
     {
+      "id": "focus:262b47ac6f53",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Ordinare una casa con un click? Su Amazon arrivano le tiny house da aggiungere al carrello",
+      "url": "https://www.focus.it/focus-offerte/case-pieghevoli-su-amazon-le-tiny-house-da-7-800-euro",
+      "image": "https://www.focus.it/images/2026/10/19/casa-pieghevole-prefabbricata-amazon_w630.jpg?imbypass=true",
+      "summary": "Si spediscono chiuse e si aprono sul posto, con bagno e cucina già pronti. Ecco come sono fatte le case pieghevoli prefabbricate su Amazon, quanto costano e che cosa serve per poterci vivere.",
+      "date": "2026-10-21T06:00:00.0000000Z"
+    },
+    {
       "id": "focus:2f1de4cc4818",
       "sourceId": "focus",
       "source": "Focus",
@@ -111,16 +172,17 @@
       "date": "2026-10-21T06:00:00.0000000Z"
     },
     {
-      "id": "focus:262b47ac6f53",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
+      "id": "geopop:RgrxPFd7NVM",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
       "category": "scienza",
-      "title": "Ordinare una casa con un click? Su Amazon arrivano le tiny house da aggiungere al carrello",
-      "url": "https://www.focus.it/focus-offerte/case-pieghevoli-su-amazon-le-tiny-house-da-7-800-euro",
-      "image": "https://www.focus.it/images/2026/10/19/casa-pieghevole-prefabbricata-amazon_w630.jpg?imbypass=true",
-      "summary": "Si spediscono chiuse e si aprono sul posto, con bagno e cucina già pronti. Ecco come sono fatte le case pieghevoli prefabbricate su Amazon, quanto costano e che cosa serve per poterci vivere.",
-      "date": "2026-10-21T06:00:00.0000000Z"
+      "title": "Quante cose usiamo ogni giorno senza sapere davvero come funzionano?",
+      "url": "https://www.youtube.com/watch?v=RgrxPFd7NVM",
+      "image": "https://i.ytimg.com/vi/RgrxPFd7NVM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "RgrxPFd7NVM",
+      "date": "2026-10-21T05:00:03.0000000Z"
     },
     {
       "id": "focus:7d83fcb9c4f9",
@@ -135,6 +197,19 @@
       "date": "2026-10-21T02:00:00.0000000Z"
     },
     {
+      "id": "geopop:asUt8jayPDE",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Come funziona l’auto “volante” di Tesla: l’analisi tecnica della Roadster, tra ventole e propulsori",
+      "url": "https://www.youtube.com/watch?v=asUt8jayPDE",
+      "image": "https://i.ytimg.com/vi/asUt8jayPDE/hqdefault.jpg",
+      "summary": "",
+      "videoId": "asUt8jayPDE",
+      "date": "2026-10-20T16:30:26.0000000Z"
+    },
+    {
       "id": "media-inaf:55b531233ff5",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -145,6 +220,19 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/IMG_7047-150x150.jpeg",
       "summary": "Lo splendore folgorante dell'aurora polare e gli impatti, non sempre piacevoli, dell’attività solare sulla Terra animano le pagine di Frammenti di cielo 2 – Bagliori spaziali, il nuovo fumetto pubblicato dall'Istituto...",
       "date": "2026-10-20T12:17:25.0000000Z"
+    },
+    {
+      "id": "geopop:3bnDyONMbu4",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Scarpe da ginnastica VS scarpa da trekking. Cosa cambia?",
+      "url": "https://www.youtube.com/watch?v=3bnDyONMbu4",
+      "image": "https://i.ytimg.com/vi/3bnDyONMbu4/hqdefault.jpg",
+      "summary": "",
+      "videoId": "3bnDyONMbu4",
+      "date": "2026-10-20T12:06:48.0000000Z"
     },
     {
       "id": "focus:2a9b98110d0a",
@@ -171,28 +259,17 @@
       "date": "2026-10-20T08:12:16.0000000Z"
     },
     {
-      "id": "focus:92113850cf0d",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
+      "id": "geopop:7bieEUoKpH8",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
       "category": "scienza",
-      "title": "I bambini ereditano il sessismo dai genitori",
-      "url": "https://www.focus.it/comportamento/psicologia/i-bambini-ereditano-il-sessismo-dai-genitori",
-      "image": "https://www.focus.it/images/2026/10/19/uguaglianza-uomini-e-donne_w630.jpg?imbypass=true",
-      "summary": "Già a otto anni i bambini la pensano sulle donne come mamma e papà. E il sessismo benevolo inganna anche loro: lo giudicano tutto sommato giusto.",
-      "date": "2026-10-20T08:00:00.0000000Z"
-    },
-    {
-      "id": "focus:7d15cd4ae802",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Candida auris: svelato un trucco di evasione",
-      "url": "https://www.focus.it/scienza/salute/candida-auris-scoperto-un-nuovo-meccanismo-di-resistenza-ai-trattamenti",
-      "image": "https://www.focus.it/images/2026/10/16/candida-auris_w630.jpg?imbypass=true",
-      "summary": "Smascherata una strategia che il fungo letale Candida auris usa per sfuggire ai farmaci antimicotici: la speranza è di indebolire la sua resistenza.",
-      "date": "2026-10-20T07:00:00.0000000Z"
+      "title": "La storia Geologica della Sardegna da 30 milioni di anni fa ad oggi",
+      "url": "https://www.youtube.com/watch?v=7bieEUoKpH8",
+      "image": "https://i.ytimg.com/vi/7bieEUoKpH8/hqdefault.jpg",
+      "summary": "",
+      "videoId": "7bieEUoKpH8",
+      "date": "2026-10-19T16:30:28.0000000Z"
     },
     {
       "id": "media-inaf:4c359868399d",
@@ -231,6 +308,19 @@
       "date": "2026-10-19T08:57:26.0000000Z"
     },
     {
+      "id": "geopop:EDXmtLtqo3g",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "La Prince Rupert’s drop non è una goccia di vetro come tante: non si rompe con un martello!",
+      "url": "https://www.youtube.com/watch?v=EDXmtLtqo3g",
+      "image": "https://i.ytimg.com/vi/EDXmtLtqo3g/hqdefault.jpg",
+      "summary": "",
+      "videoId": "EDXmtLtqo3g",
+      "date": "2026-10-17T05:00:18.0000000Z"
+    },
+    {
       "id": "media-inaf:81a411900337",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -241,6 +331,32 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/01_earth_madagascar_true_colour-150x150.png",
       "summary": "La manovra di flyby sulla Terra compiuta il mese scorso dalla sonda Esa Juice per sfruttare il nostro pianeta come fionda gravitazionale e instradarsi correttamente verso Giove, complice una lunga eclissi, ha rapprese...",
       "date": "2026-10-16T17:15:30.0000000Z"
+    },
+    {
+      "id": "geopop:eV74a-D8KLM",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "A proposito dell’Aeroporto di Firenze",
+      "url": "https://www.youtube.com/watch?v=eV74a-D8KLM",
+      "image": "https://i.ytimg.com/vi/eV74a-D8KLM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "eV74a-D8KLM",
+      "date": "2026-10-16T14:00:15.0000000Z"
+    },
+    {
+      "id": "geopop:gvINM1-i5cA",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Cos'è la menopausa e perché si verificano le vampate di calore: vediamo cosa accade al corpo",
+      "url": "https://www.youtube.com/watch?v=gvINM1-i5cA",
+      "image": "https://i.ytimg.com/vi/gvINM1-i5cA/hqdefault.jpg",
+      "summary": "",
+      "videoId": "gvINM1-i5cA",
+      "date": "2026-10-16T11:00:15.0000000Z"
     },
     {
       "id": "media-inaf:83e0dc392c81",
@@ -279,16 +395,212 @@
       "date": "2026-10-15T14:59:12.0000000Z"
     },
     {
-      "id": "media-inaf:08fa8247b9a1",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
+      "id": "geopop:Rba9SnD4EZw",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
       "category": "scienza",
-      "title": "Martian moons exploration è sulla rampa di lancio",
-      "url": "https://www.media.inaf.it/2026/10/15/martian-moons-exploration-e-sulla-rampa-di-lancio/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/MMX_at_Mars_and_Phobos_article-150x150.png",
-      "summary": "Al via il 19 ottobre la missione giapponese Mmx, che esplorerà le lune di Marte per indagarne l’origine e la composizione. Per la prima volta, una sonda raccoglierà campioni da Phobos e li riporterà sulla Terra, dove ...",
-      "date": "2026-10-15T08:28:54.0000000Z"
+      "title": "L’attentato a Hitler del 20 luglio 1944: la ricostruzione 3D del piano segreto",
+      "url": "https://www.youtube.com/watch?v=Rba9SnD4EZw",
+      "image": "https://i.ytimg.com/vi/Rba9SnD4EZw/hqdefault.jpg",
+      "summary": "",
+      "videoId": "Rba9SnD4EZw",
+      "date": "2026-10-14T16:30:14.0000000Z"
+    },
+    {
+      "id": "geopop:Uat8tLqv8io",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Quanto ci metti a risolvere un cubo di Rubik? Sapete chi ha il record mondiale?",
+      "url": "https://www.youtube.com/watch?v=Uat8tLqv8io",
+      "image": "https://i.ytimg.com/vi/Uat8tLqv8io/hqdefault.jpg",
+      "summary": "",
+      "videoId": "Uat8tLqv8io",
+      "date": "2026-10-14T05:00:11.0000000Z"
+    },
+    {
+      "id": "geopop:dN-D-8byhNA",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "\"Resto al Sud 2.0\": un sostegno economico per giovani dai 18 ai 34, che avviano attività al Sud.",
+      "url": "https://www.youtube.com/watch?v=dN-D-8byhNA",
+      "image": "https://i.ytimg.com/vi/dN-D-8byhNA/hqdefault.jpg",
+      "summary": "",
+      "videoId": "dN-D-8byhNA",
+      "date": "2026-10-13T11:00:14.0000000Z"
+    },
+    {
+      "id": "geopop:pW_M50Qzzgo",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "La chitarra dei Queen costruita da un CAMINETTO: il suono della Red Special di Brian May",
+      "url": "https://www.youtube.com/watch?v=pW_M50Qzzgo",
+      "image": "https://i.ytimg.com/vi/pW_M50Qzzgo/hqdefault.jpg",
+      "summary": "",
+      "videoId": "pW_M50Qzzgo",
+      "date": "2026-10-12T16:30:03.0000000Z"
+    },
+    {
+      "id": "curiuss:e8p5tg55yDE",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Big Bang (serie completa) - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=e8p5tg55yDE",
+      "image": "https://i.ytimg.com/vi/e8p5tg55yDE/hqdefault.jpg",
+      "summary": "",
+      "videoId": "e8p5tg55yDE",
+      "date": "2026-10-08T19:00:00.0000000Z"
+    },
+    {
+      "id": "barbascura:J0w-SlR8V8M",
+      "sourceId": "barbascura",
+      "source": "Barbascura X",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Quello che NON volevi sapere sulle LONTRE - SCIENZA BRUTTA",
+      "url": "https://www.youtube.com/watch?v=J0w-SlR8V8M",
+      "image": "https://i.ytimg.com/vi/J0w-SlR8V8M/hqdefault.jpg",
+      "summary": "",
+      "videoId": "J0w-SlR8V8M",
+      "date": "2026-09-28T12:00:06.0000000Z"
+    },
+    {
+      "id": "curiuss:odiBKK__wwM",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "La forma dell'Atomo - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=odiBKK__wwM",
+      "image": "https://i.ytimg.com/vi/odiBKK__wwM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "odiBKK__wwM",
+      "date": "2026-09-21T18:30:05.0000000Z"
+    },
+    {
+      "id": "curiuss:gb1zStv8DVE",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Cosa ci Aspetta - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=gb1zStv8DVE",
+      "image": "https://i.ytimg.com/vi/gb1zStv8DVE/hqdefault.jpg",
+      "summary": "",
+      "videoId": "gb1zStv8DVE",
+      "date": "2026-09-09T18:30:01.0000000Z"
+    },
+    {
+      "id": "curiuss:xcCTQ5260HQ",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Il favoloso mondo di Vincent (Serie Completa) - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=xcCTQ5260HQ",
+      "image": "https://i.ytimg.com/vi/xcCTQ5260HQ/hqdefault.jpg",
+      "summary": "",
+      "videoId": "xcCTQ5260HQ",
+      "date": "2026-07-29T18:00:32.0000000Z"
+    },
+    {
+      "id": "curiuss:TxlLkRJFYMM",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "10 Aneddoti Parigini - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=TxlLkRJFYMM",
+      "image": "https://i.ytimg.com/vi/TxlLkRJFYMM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "TxlLkRJFYMM",
+      "date": "2026-07-14T16:51:55.0000000Z"
+    },
+    {
+      "id": "curiuss:TUtWtHsibU0",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Entropia (serie completa) - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=TUtWtHsibU0",
+      "image": "https://i.ytimg.com/vi/TUtWtHsibU0/hqdefault.jpg",
+      "summary": "",
+      "videoId": "TUtWtHsibU0",
+      "date": "2026-06-22T18:00:15.0000000Z"
+    },
+    {
+      "id": "curiuss:X9SoJKTyXs0",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "La donna che spezzò l'atomo - Geni Impolverati#08 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=X9SoJKTyXs0",
+      "image": "https://i.ytimg.com/vi/X9SoJKTyXs0/hqdefault.jpg",
+      "summary": "",
+      "videoId": "X9SoJKTyXs0",
+      "date": "2026-06-08T18:26:16.0000000Z"
+    },
+    {
+      "id": "curiuss:aDmbZzB0zI4",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Il Processo Haber - Bosch - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=aDmbZzB0zI4",
+      "image": "https://i.ytimg.com/vi/aDmbZzB0zI4/hqdefault.jpg",
+      "summary": "",
+      "videoId": "aDmbZzB0zI4",
+      "date": "2026-05-20T18:00:00.0000000Z"
+    },
+    {
+      "id": "curiuss:WhZs-4GwfsE",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Genio o Mostro? - Geni Impolverati#07 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=WhZs-4GwfsE",
+      "image": "https://i.ytimg.com/vi/WhZs-4GwfsE/hqdefault.jpg",
+      "summary": "",
+      "videoId": "WhZs-4GwfsE",
+      "date": "2026-05-04T18:00:27.0000000Z"
+    },
+    {
+      "id": "curiuss:DXAmnjHn-Hw",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Parigi Matematica - Paris#03 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=DXAmnjHn-Hw",
+      "image": "https://i.ytimg.com/vi/DXAmnjHn-Hw/hqdefault.jpg",
+      "summary": "",
+      "videoId": "DXAmnjHn-Hw",
+      "date": "2026-04-20T18:00:12.0000000Z"
+    },
+    {
+      "id": "curiuss:h4hq5okz5tQ",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Parigi Astronomica - Paris#02 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=h4hq5okz5tQ",
+      "image": "https://i.ytimg.com/vi/h4hq5okz5tQ/hqdefault.jpg",
+      "summary": "",
+      "videoId": "h4hq5okz5tQ",
+      "date": "2026-04-07T18:34:25.0000000Z"
     }
   ]
 }

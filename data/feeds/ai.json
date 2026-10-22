@@ -1,7 +1,55 @@
 {
   "category": "ai",
-  "updated": "2026-10-22T04:48:52.2139519Z",
+  "updated": "2026-10-22T09:42:43.5925919Z",
   "items": [
+    {
+      "id": "ai4business:ca195c4ee6fa",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Data streaming nell’era dell’AI: come portare i dati dove e quando servono",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/data-streaming-nellera-dellai-come-portare-i-dati-dove-e-quando-servono/",
+      "image": null,
+      "summary": "L’AI accelera l’esigenza di accedere a dati e informazioni in tempo reale, ma non tutte le aziende sono pronte. Approfondiamo l’approccio di Blue Reply e il ruolo della piattaforma Confluent. Se ne parla a Tech Excell...",
+      "date": "2026-10-22T09:35:57.0000000Z"
+    },
+    {
+      "id": "ai4business:99089ad9de7e",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Gestione delle HR e AI: come guidare l’innovazione con visione e responsabilità",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-hr/gestione-delle-hr-e-ai-come-guidare-linnovazione-con-visione-e-responsabilita/",
+      "image": null,
+      "summary": "Tra AI generativa e agentica, le aziende stanno riprogettando la gestione del personale. L’analisi tra le imprese evidenzia come la digitalizzazione dei processi HR richieda un approccio trasparente: nessuna decisione...",
+      "date": "2026-10-22T09:14:54.0000000Z"
+    },
+    {
+      "id": "ai4business:978380b68abd",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Claude Duet, l’agente AI per professionisti e Pmi",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/claude-duet-lagente-ai-per-professionisti-e-pmi/",
+      "image": null,
+      "summary": "Si tratta di un agente che lavora autonomamente, controlla email, gestisce attività aziendali e prepara analisi finanziarie. Disponibile inizialmente negli Stati Uniti, punta a professionisti e piccole imprese. Ecco c...",
+      "date": "2026-10-22T08:45:59.0000000Z"
+    },
+    {
+      "id": "ai4business:f7058defff86",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "PHP2Shell: l’AI scopre falle critiche in PHP, attacchi già iniziati",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/php2shell-lai-scopre-falle-critiche-in-php-attacchi-gia-iniziati/",
+      "image": null,
+      "summary": "L’intelligenza artificiale ha aiutato Calif e Wiz a scoprire due vulnerabilità critiche nel motore PHP. Le patch sono disponibili dal 21 ottobre, mentre Amazon segnala tentativi di attacco già dal 17. Per le imprese l...",
+      "date": "2026-10-22T07:28:03.0000000Z"
+    },
     {
       "id": "ai4business:517f39995e53",
       "sourceId": "ai4business",
@@ -85,54 +133,6 @@
       "image": null,
       "summary": "Una ricerca Gartner su oltre duemila CIO e dirigenti tecnologici rivela che soltanto il 13% delle organizzazioni ha ottenuto benefici significativi o trasformativi dall'AI. Il rapporto individua tre pratiche associate...",
       "date": "2026-10-21T08:31:21.0000000Z"
-    },
-    {
-      "id": "ai4business:8b368aaea691",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Sovranità digitale: il controllo nelle aziende e gli aggiornamenti di Microsoft per l’Europa",
-      "url": "https://www.ai4business.it/sicurezza/sovranita-digitale-il-controllo-nelle-aziende-e-gli-aggiornamenti-di-microsoft-per-leuropa/",
-      "image": null,
-      "summary": "Mentre sistemi e agenti AI interagiscono con dati aziendali sensibili, cresce l’esigenza di governare la tecnologia lungo l’intero flusso. “La sovranità digitale non riguarda più soltanto la residenza dei dati, ma il ...",
-      "date": "2026-10-20T15:20:45.0000000Z"
-    },
-    {
-      "id": "ai4business:68659e4b9f22",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Come scegliere la piattaforma di AI agentica 2027",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/come-scegliere-la-piattaforma-di-ai-agentica-2027/",
-      "image": null,
-      "summary": "La scelta di una piattaforma AI agentica richiede un'analisi delle capacità di orchestrazione, dell'integrazione con i sistemi aziendali e delle garanzie di sicurezza. Una guida ai criteri tecnologici per confrontare ...",
-      "date": "2026-10-20T14:40:26.0000000Z"
-    },
-    {
-      "id": "ai4business:b665fb38c641",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Modelli AI cinesi, controlli all’export: ecco i rischi per le imprese",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/modelli-ai-cinesi-controlli-allexport-ecco-i-rischi-per-le-imprese/",
-      "image": null,
-      "summary": "La Cina propone nuovi controlli sull’esportazione di 23 tecnologie AI. Per le imprese europee che utilizzano Qwen, DeepSeek e altri modelli a pesi aperti, la novità riguarda soprattutto l’accesso alle future versioni ...",
-      "date": "2026-10-20T10:56:07.0000000Z"
-    },
-    {
-      "id": "ai4business:fd4c2d41af7c",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "L’adozione dell’AI in azienda dipende dai manager più che dalle licenze",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/ladozione-dellai-in-azienda-dipende-dai-manager-piu-che-dalle-licenze/",
-      "image": null,
-      "summary": "Dove il responsabile sostiene l'AI, il 78% dei collaboratori la usa più volte a settimana; dove non lo fa, il 44%. Microsoft attribuisce due terzi dell'impatto a fattori organizzativi, BCG trova il 66% dei lavoratori ...",
-      "date": "2026-10-20T09:52:00.0000000Z"
     },
     {
       "id": "guerredirete:87ff7bd49a35",
