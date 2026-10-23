@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-23T15:13:02.8763830Z",
+  "updated": "2026-10-23T19:17:56.2070720Z",
   "items": [
+    {
+      "id": "cybersecurity360:eb43e473ee7c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Endpoint isolation e microsegmentazione per la rete B2B",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/endpoint-isolation-e-microsegmentazione-per-la-rete-b2b/",
+      "image": null,
+      "summary": "Come contenere ransomware e spostamento laterale isolando i dispositivi compromessi e riducendo la superficie d'attacco L'articolo Endpoint isolation e microsegmentazione per la rete B2B proviene da Cyber Security 360 .",
+      "date": "2026-10-23T16:41:08.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:b0f035eee289",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Plan, Do, Check… Quack!",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/plan-do-check-quack/",
+      "image": null,
+      "summary": "Non tutto va sempre come previsto, e sebbene nessuna norma imponga di prevedere l'imprevedibile, la capacità di saper gestire un imprevisto e tutto ciò che può essere fuori da un qualsivoglia \"piano\", qual è classicam...",
+      "date": "2026-10-23T15:58:47.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:474e4aee80bb",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Svizzera sotto attacco: il furto di dati mette a nudo i segreti della Confederazione",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/svizzera-sotto-attacco-il-furto-di-dati-mette-a-nudo-i-segreti-della-confederazione/",
+      "image": null,
+      "summary": "L'attacco alla cassa pensioni svizzera, che ha causato l'esfiltrazione dei dati personali di oltre 100mila persone ovvero tutti i dipendenti federali elvetici, non è un semplice attacco informatico, ma rappresenta un ...",
+      "date": "2026-10-23T15:41:43.0000000Z"
+    },
     {
       "id": "cybersecurity360:92755105261e",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Come rilevare e bloccare le minacce che aggirano i controlli tradizionali, analizzando il traffico di rete in tempo reale L'articolo NDR e Network Traffic Analysis per la difesa di rete proviene da Cyber Security 360 .",
       "date": "2026-10-22T16:14:50.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ddde7c6b1fe7",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Banche sotto attacco dall’AI, l’allarme è globale",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/banche-sotto-attacco-dallai-lallarme-e-globale/",
-      "image": null,
-      "summary": "Usati agenti basati su Claude e Grok contro oltre 400 bersagli finanziari in America Latina. Anche intrusioni nelle banche sudcoreane e attacchi con AI in Giappone mostrano come la minaccia si stia diffondendo. In Eur...",
-      "date": "2026-10-22T15:53:30.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:105712cecaa5",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Lazarus usa già la crittografia post-quantistica nei malware: come cambia la sfida cyber",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/lazarus-usa-gia-la-crittografia-post-quantistica-nei-malware-come-cambia-la-sfida-cyber/",
-      "image": null,
-      "summary": "La campagna di spionaggio FlashHole, scoperta da Kaspersky e attribuita al gruppo criminale Lazarus, combina tecniche di ingegneria sociale assistite dall'AI e malware che sfruttano la crittografia post-quantistica pe...",
-      "date": "2026-10-22T15:31:28.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:e11e5d045826",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "AI e cyber security, come cambiano le minacce e le strategie di difesa",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/ai-e-cyber-security-come-cambiano-le-minacce-e-le-strategie-di-difesa/",
-      "image": null,
-      "summary": "L'intelligenza artificiale accelera gli attacchi informatici, rende più insidiose le tecniche di phishing e social engineering, ma offre anche nuove opportunità di difesa. Andrea Ferrazzi di Relatech analizza l'evoluz...",
-      "date": "2026-10-22T15:11:41.0000000Z"
     }
   ]
 }
