@@ -1,18 +1,186 @@
 {
   "category": "motori",
-  "updated": "2026-10-23T05:20:18.0135760Z",
+  "updated": "2026-10-23T10:16:30.8267486Z",
   "items": [
     {
-      "id": "insideevs:8da302b76a35",
+      "id": "hdmotori:24b8228bc715",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Alfa Romeo, il capo del design: «Eliminiamo gli schermi»",
+      "url": "https://www.hdmotori.it/alfa-romeo-capo-design-schermi/",
+      "image": null,
+      "summary": "La prossima generazione di Alfa Romeo potrebbe optare per l’eliminazione dei maxi-schermi che distraggono i guidatori. The post Alfa Romeo, il capo del design: «Eliminiamo gli schermi» appeared first on HDmotori.it .",
+      "date": "2026-10-23T10:00:29.0000000Z"
+    },
+    {
+      "id": "motor1:eca87dae34c3",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volvo Trucks a Ecomondo 2026 con il claim “Power the Future”: elettrico da 700 km e bio-LNG",
+      "url": "https://it.motor1.com/news/812612/volvo-trucks-auto-ecomondo-2026-novita/",
+      "image": "https://cdn.motor1.com/images/mgl/qkY4ly/s3/volvo-fh-100-years-anniversary.jpg",
+      "summary": "A Rimini dal 3 al 6 novembre Volvo Trucks presenta l'FH Aero Electric da 700 km, l'FH Aero a bio-LNG e la 100 Years Edition",
+      "date": "2026-10-23T10:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:9589356057b2",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Batteria zinco-iodio, trovata la svolta per farla durare",
-      "url": "https://insideevs.it/news/812910/batterie-zinco-iodio-elettrolita-quattro/",
-      "image": "https://cdn.motor1.com/images/mgl/W8bAKN/s3/batteria-zinco-iodio-trovata-la-svolta-per-farla-durare.jpg",
-      "summary": "Un singolo atomo di rame tiene ferma una reazione chimica che di solito si decompone nell'acqua",
-      "date": "2026-10-23T05:00:00.0000000Z"
+      "title": "Tutti i motori della Ford Puma Gen-E",
+      "url": "https://insideevs.it/news/809603/ford-puma-gen-e-motori/",
+      "image": "https://cdn.motor1.com/images/mgl/E6xGN3/s3/ford-puma-gen-e-2025-das-exterieur.jpg",
+      "summary": "Motore da 168 CV e batteria (aggiornata) da 46,8 kWh. Tutto quello da sapere sulla Puma elettrica",
+      "date": "2026-10-23T10:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:3626a87b7104",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Renault 4 E-Tech Electric 2027: più autonomia e prezzi da 29.950 euro",
+      "url": "https://www.hdmotori.it/renault-r4-2027-autonomia-prezzi/",
+      "image": null,
+      "summary": "Renault aggiorna la R4 elettrica: arrivano ritocchi aerodinamici per l'autonomia, l'esclusiva serie Roland-Garros e l'allestimento economico Jogging da fine anno. The post Renault 4 E-Tech Electric 2027: più autonomia...",
+      "date": "2026-10-23T09:00:55.0000000Z"
+    },
+    {
+      "id": "insideevs:2946f0f59217",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'elettrico fa la storia in Europa e supera la benzina",
+      "url": "https://insideevs.it/news/813020/mercato-auto-europa-settembre-elettrico-sorpasso-benzina/",
+      "image": "https://cdn.motor1.com/images/mgl/6ZO10X/s3/auto-elettriche-sorpasso-benzina-europa-settembre-2026.jpg",
+      "summary": "A settembre le BEV hanno rappresentato quasi il 30% delle vendite contro il 17,4 delle benzina",
+      "date": "2026-10-23T09:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:05be813622d0",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Wallbox nel garage condominiale: cosa dice la legge?",
+      "url": "https://www.vaielettrico.it/wallbox-nel-garage-condominiale-cosa-dice-la-legge/",
+      "image": null,
+      "summary": "Auto elettrica, garage condominiale, fotovoltaico con accumulo. Ma un condomino si mette di traverso impedendo a Fabio di… L'articolo Wallbox nel garage condominiale: cosa dice la legge? proviene da Vaielettrico .",
+      "date": "2026-10-23T08:48:25.0000000Z"
+    },
+    {
+      "id": "motor1:0b771cd454ee",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il pick-up più folle e costoso si chiama Brabus P 900 Rocket Edition",
+      "url": "https://it.motor1.com/news/812996/brabus-p-900-rocket-edition/",
+      "image": "https://cdn.motor1.com/images/mgl/bgObm3/s3/brabus-p-900-rocket-edition-2026-auf-basis-mercedes-amg-g-63.jpg",
+      "summary": "Il super pick-up su base Mercedes G è lungo ben 5,38 metri, ha 900 CV e costa più di 800.000 euro",
+      "date": "2026-10-23T08:30:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:019e827328f4",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Non le sanno riparare le auto elettriche",
+      "url": "https://www.vaielettrico.it/non-le-sanno-riparare-le-auto-elettriche/",
+      "image": null,
+      "summary": "Non le sanno riparare le auto elettriche: questo lo sfogo di un lettore che ha sta vivendo una… L'articolo Non le sanno riparare le auto elettriche proviene da Vaielettrico .",
+      "date": "2026-10-23T08:16:44.0000000Z"
+    },
+    {
+      "id": "hdmotori:cbc64bb13148",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Plenitude, tre nuovi abbonamenti per la ricarica dell’auto",
+      "url": "https://www.hdmotori.it/plenitude-tre-nuovi-abbonamenti-per-la-ricarica-dellauto/",
+      "image": null,
+      "summary": "Smart Road, Fast Road e Open Road: tre formule in abbonamento con canone mensile pensate per adattarsi a diverse esigenze di utilizzo, dalla mobilità quotidiana ai viaggi più lunghi* | HD Motori in collaborazione con ...",
+      "date": "2026-10-23T08:00:41.0000000Z"
+    },
+    {
+      "id": "motor1:59e4715901ab",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Subaru anticipa una nuova WRX con cambio manuale, ma solo per il Giappone",
+      "url": "https://it.motor1.com/news/812995/subaru-wrx-cambio-manuale-giappone-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/QeGOZY/s3/subaru-wrx-manual-teaser.jpg",
+      "summary": "È la prima di tre nuove auto in arrivo con il pedale della frizione",
+      "date": "2026-10-23T08:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:b61da90e984f",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Bambino di 11 anni su una moto mascherata da e-bike: 7000 euro di multa",
+      "url": "https://www.hdmotori.it/bambino-moto-mascherata-e-bike-multa/",
+      "image": null,
+      "summary": "A Cologno Monzese è stato fermato un bambino di 11 anni in sella a una moto da cross che sembrava una bicicletta. I genitori ora dovranno pagare la cifra astronomica. The post Bambino di 11 anni su una moto mascherata...",
+      "date": "2026-10-23T07:30:36.0000000Z"
+    },
+    {
+      "id": "motor1:2766bac3153b",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes-AMG sta sviluppando una nuova C 63 e potrebbero esserci due modelli",
+      "url": "https://it.motor1.com/news/812994/mercedes-amg-c63-sviluppo/",
+      "image": "https://cdn.motor1.com/images/mgl/JON344/s3/dead-cars-2027-mercedes-amg-c63.jpg",
+      "summary": "La prossima C63 è in fase di sviluppo, con gli ingegneri che stanno valutando versioni sia a benzina sia elettriche",
+      "date": "2026-10-23T07:30:00.0000000Z"
+    },
+    {
+      "id": "insideevs:0300d05f452d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Chery Volt-Dragon promette 500 km in 5 minuti con la ricarica da 1,44 MW",
+      "url": "https://insideevs.it/news/812989/chery-volt-dragon-ricarica-minuti/",
+      "image": "https://cdn.motor1.com/images/mgl/rK62WO/s3/chery-icar-v23.jpg",
+      "summary": "Il sistema Chery Volt-Dragon punta su 1,44 MW di picco ma restano dubbi su modelli compatibili e prestazioni al freddo",
+      "date": "2026-10-23T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:09516ea563ab",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Quanto ti distrae la tua auto? La risposta è nel cruscotto",
+      "url": "https://it.motor1.com/news/812943/distrazione-volante-design-cruscotto/",
+      "image": "https://cdn.motor1.com/images/mgl/QeGON7/s3/quanto-ti-distrae-la-tua-auto-la-risposta-e-nel-cruscotto.jpg",
+      "summary": "Dal climatizzatore alle funzioni di sicurezza, il modo in cui sono organizzati schermi e pulsanti cambia l'attenzione",
+      "date": "2026-10-23T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:1b7c8c8771a7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Anche la Hyundai Kona si prepara a cambiare, ecco come",
+      "url": "https://it.motor1.com/news/812894/hyundai-kona-2027-video-spia-anticipazioni/",
+      "image": "https://cdn.motor1.com/images/mgl/NGO9wG/s3/hyundai-kona-x-class.jpg",
+      "summary": "Il video spia della nuova Hyundai Kona mostra un muletto durante alcuni test su strada. Arriverà nel 2027",
+      "date": "2026-10-23T06:00:00.0000000Z"
     },
     {
       "id": "motor1:cd3562c5f26b",
@@ -24,6 +192,18 @@
       "url": "https://it.motor1.com/news/811500/fiat-multiplay-design-storia-monovolume/",
       "image": "https://cdn.motor1.com/images/mgl/407vk1/s3/fiat-multiplay-la-rivincita-della-monovolume.jpg",
       "summary": "Dopo anni di SUV, Fiat torna a disegnare lo spazio: vi racconto perché la Multiplay concept recupera lo spirito delle Multipla storiche",
+      "date": "2026-10-23T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:8da302b76a35",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Batteria zinco-iodio, trovata la svolta per farla durare",
+      "url": "https://insideevs.it/news/812910/batterie-zinco-iodio-elettrolita-quattro/",
+      "image": "https://cdn.motor1.com/images/mgl/W8bAKN/s3/batteria-zinco-iodio-trovata-la-svolta-per-farla-durare.jpg",
+      "summary": "Un singolo atomo di rame tiene ferma una reazione chimica che di solito si decompone nell'acqua",
       "date": "2026-10-23T05:00:00.0000000Z"
     },
     {
@@ -195,18 +375,6 @@
       "date": "2026-10-22T15:00:43.0000000Z"
     },
     {
-      "id": "motor1:fe51f3c2a203",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mazda MX-5 2027: cambia poco, e va benissimo cosi!",
-      "url": "https://it.motor1.com/reviews/812909/mazda-mx-5-2027-prova-recensione/",
-      "image": "https://cdn.motor1.com/images/mgl/Mk69xw/s3/mazda-mx-5-2027.jpg",
-      "summary": "136 CV, assetto Bilstein e dettagli di fino. Arriva anche una tinta nuova, ma tra le strade, rimane sempre lei. Certo, il prezzo...",
-      "date": "2026-10-22T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:0e16fa29c198",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -219,40 +387,16 @@
       "date": "2026-10-22T15:00:00.0000000Z"
     },
     {
-      "id": "motor1:3146c7a4b853",
+      "id": "motor1:fe51f3c2a203",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Quanta roba c’è nella Bentley Torcal First Edition",
-      "url": "https://it.motor1.com/news/812915/bentley-torcal-first-edition-dotazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/rK62y1/s3/bentley-torcal-first-edition.jpg",
-      "summary": "La Bentley Torcal First Edition nasce con 888 CV, cerchi da 22 pollici, interni firmati Mulliner e impianto audio Naim dedicato",
-      "date": "2026-10-22T14:30:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:9d480c3c0326",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il postino che consegnava telegrammi a Senna e Prost: ora si emoziona con Hamilton",
-      "url": "https://www.hdmotori.it/portalettere-autodromo-monza-hamilton/",
-      "image": null,
-      "summary": "Si chiama Paolo e, nel corso della sua vita, si è tolto la soddisfazione di conoscere i piloti più forti della storia recente della F1 The post Il postino che consegnava telegrammi a Senna e Prost: ora si emoziona con...",
-      "date": "2026-10-22T14:00:31.0000000Z"
-    },
-    {
-      "id": "motor1:96cca859284a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volkswagen voleva una Bugatti elettrica, Rimac ha detto di no",
-      "url": "https://it.motor1.com/news/812907/bugatti-tourbillon-elettrica-rimac/",
-      "image": "https://cdn.motor1.com/images/mgl/Kb8KbQ/s3/bugatti-tourbillon-in-japan-und-singapur.jpg",
-      "summary": "Il Gruppo Volkswagen immaginava un modello totalmente diverso. Ma Mate Rimac si è opposto",
-      "date": "2026-10-22T14:00:00.0000000Z"
+      "title": "Mazda MX-5 2027: cambia poco, e va benissimo cosi!",
+      "url": "https://it.motor1.com/reviews/812909/mazda-mx-5-2027-prova-recensione/",
+      "image": "https://cdn.motor1.com/images/mgl/Mk69xw/s3/mazda-mx-5-2027.jpg",
+      "summary": "136 CV, assetto Bilstein e dettagli di fino. Arriva anche una tinta nuova, ma tra le strade, rimane sempre lei. Certo, il prezzo...",
+      "date": "2026-10-22T15:00:00.0000000Z"
     },
     {
       "id": "insideevs:87819e75c6dd",
@@ -267,42 +411,6 @@
       "date": "2026-10-22T14:00:00.0000000Z"
     },
     {
-      "id": "motor1:acfebcfb2241",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Chi ha venduto più auto in Europa a settembre 2026: la classifica",
-      "url": "https://it.motor1.com/news/812913/auto-vendute-europa-settembre-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/Vzb2xl/s3/chi-ha-venduto-piu-auto-in-europa-a-settembre-2026-la-classifica.jpg",
-      "summary": "Regno Unito, Italia e Spagna guidano la crescita continentale del 10,2%. Salgono elettriche e ibride, oltre a Stellantis e Renault",
-      "date": "2026-10-22T13:45:00.0000000Z"
-    },
-    {
-      "id": "motor1:0c1f75229b71",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Skoda Kodiaq diventa più lussuosa e potente: 272 CV e Laurin & Klement",
-      "url": "https://it.motor1.com/news/812889/skoda-kodiaq-laurin-klement-plug/",
-      "image": "https://cdn.motor1.com/images/mgl/y2173k/s3/skoda-kodiaq-laurin-klement-2026.jpg",
-      "summary": "Il SUV Skoda di seconda generazione introduce l’allestimento Laurin & Klement e un’ibrida plug-in più potente da 272 CV",
-      "date": "2026-10-22T13:30:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:6a046e34265c",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Robotaxi Tesla, svelati i numeri: oltre 5 milioni di Km e zero feriti",
-      "url": "https://www.hdmotori.it/tesla-robotaxi-report-dati-sicurezza-nuove-citta/",
-      "image": null,
-      "summary": "I Robotaxi Tesla accelerano negli USA: zero sinistri registrati e nuove tratte in arrivo. A Dallas il servizio senza conducente parte il mese prossimo The post Robotaxi Tesla, svelati i numeri: oltre 5 milioni di Km e...",
-      "date": "2026-10-22T13:00:21.0000000Z"
-    },
-    {
       "id": "insideevs:76b9b025bbad",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -315,42 +423,6 @@
       "date": "2026-10-22T13:00:00.0000000Z"
     },
     {
-      "id": "motor1:36cdd555fb76",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ford Mustang Dark Horse, il cambio manuale è una provocazione nell'era dell'automatico",
-      "url": "https://it.motor1.com/reviews/812489/ford-mustang-dark-horse-manuale/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZPYjL/s3/ford-mustang-stm-articolo.jpg",
-      "summary": "La Dark Horse V8 dimostra che il cambio manuale non serve a essere più veloci, ma a rendere la guida un'esperienza da vivere",
-      "date": "2026-10-22T13:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:ecf4578e1b85",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Bollo auto 2027, chi perde davvero l’esenzione per immatricolazione e arretrati",
-      "url": "https://it.motor1.com/features/812880/bollo-auto-2027-tassa-automobilistica-funzionamento/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZwblW/s3/bollo-e-superbollo-auto.jpg",
-      "summary": "Date di prima immatricolazione e arretrati cambiano l’esenzione sul bollo auto 2027 per chi possiede più veicoli intestati",
-      "date": "2026-10-22T12:30:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:c539e4d1110b",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Brabus P 900 Rocket Edition, il pick-up estremo da 900 CV che costa 847.000 euro",
-      "url": "https://www.hdmotori.it/brabus-p-900-rocket-edition/",
-      "image": null,
-      "summary": "Brabus P 900 Rocket Edition, il pick-up derivato dalla Mercedes-AMG G 63 con V8 da 900 CV, velocità di 280 km/h e prezzo di 847.000 euro The post Brabus P 900 Rocket Edition, il pick-up estremo da 900 CV che costa 847...",
-      "date": "2026-10-22T12:00:01.0000000Z"
-    },
-    {
       "id": "insideevs:7f4aa70ce7da",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -361,18 +433,6 @@
       "image": "https://cdn.motor1.com/images/mgl/xqKyJ6/s3/il-tesla-cybercab-visto-dal-vivo.jpg",
       "summary": "Tesla vuole vendere il Cybercab ai privati entro fine anno, ma l'agenzia federale USA al momento è un ostacolo da superare",
       "date": "2026-10-22T12:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:f931566db889",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nuovo Codice della Strada: la stretta sulle bici fa discutere, bufera sul Garda",
-      "url": "https://www.hdmotori.it/nuove-regole-ciclisti-problema-lago-di-garda/",
-      "image": null,
-      "summary": "La bozza del nuovo Codice della Strada fissa il limite di 8 bici in gruppo e distanze di 50 metri. Ma tra i sindaci e l'ex campione Visentini cresce lo scetticismo The post Nuovo Codice della Strada: la stretta sulle ...",
-      "date": "2026-10-22T11:00:41.0000000Z"
     },
     {
       "id": "insideevs:2bea67d7291f",
@@ -447,18 +507,6 @@
       "date": "2026-10-22T08:02:46.0000000Z"
     },
     {
-      "id": "vaielettrico:f69adfc13352",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "In Belgio il postino arriva in elettrico, 42% della flotta a batteria",
-      "url": "https://www.vaielettrico.it/in-belgio-il-postino-arriva-in-elettrico-42-della-flotta-a-batteria/",
-      "image": null,
-      "summary": "Il postino arriva in silenzio e non lascia gas di scarico dietro di sé. In Belgio l’elettrificazione delle… L'articolo In Belgio il postino arriva in elettrico, 42% della flotta a batteria proviene da Vaielettrico .",
-      "date": "2026-10-22T07:42:33.0000000Z"
-    },
-    {
       "id": "insideevs:670bd2fbfadf",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -481,54 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/QeGyg7/s3/la-smart-2-parte-da-19.900-euro-quali-sono-le-concorrenti.jpg",
       "summary": "DR 1.0 EV, Dacia Spring, Citroen C3, Geely E2, BYD Dolphin Surf, Fiat 500e e le microcar a 2 o 4 posti. La piccole EV a basso prezzo",
       "date": "2026-10-22T05:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:80d72c4e0a28",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Emissioni record nel mondo (e in Italia). L’Onu avverte: verso 2,8 gradi in più",
-      "url": "https://www.vaielettrico.it/emissioni-record-nel-mondo-e-in-italia-lonu-avverte-verso-28-gradi-in-piu/",
-      "image": null,
-      "summary": "Emissioni globali record nel 2025. I piani climatici dei governi non bastano a contenere il riscaldamento globale: secondo… L'articolo Emissioni record nel mondo (e in Italia). L’Onu avverte: verso 2,8 gradi in più pr...",
-      "date": "2026-10-21T21:43:48.0000000Z"
-    },
-    {
-      "id": "insideevs:1fbd84d6fcc4",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto elettrica, tu sai come mantenerla in forma?",
-      "url": "https://insideevs.it/news/812774/auto-elettrica-manutenzione-controlli/",
-      "image": "https://cdn.motor1.com/images/mgl/ko8kXY/s3/auto-elettrica-tu-sai-come-mantenerla-in-forma.jpg",
-      "summary": "Il 28% degli automobilisti non ha le idee chiare sulla manutenzione. Ecco qualche dritta",
-      "date": "2026-10-21T15:30:00.0000000Z"
-    },
-    {
-      "id": "insideevs:1f3a26c3c216",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova piccola di BYD che si ricarica in 5 minuti",
-      "url": "https://insideevs.it/news/812772/byd-seagull-2027-debutto-cina-ricarica/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z1QMJ/s3/byd-seagull-dolphin-mini-de-segunda-geracao-aparece-na-china.jpg",
-      "summary": "Presentata in Cina la BYD Seagull, capace di passare dal 10 al 70% della capacità delle batterie in un tempo record",
-      "date": "2026-10-21T15:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:97cd5395eda0",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La fusione tra Tesla e SpaceX è \"una buona idea\"",
-      "url": "https://insideevs.it/news/812766/tesla-spacex-fusione-musk-buona-idea/",
-      "image": "https://cdn.motor1.com/images/mgl/407XXZ/s3/2028-tesla-roadster-reveal.jpg",
-      "summary": "Lo ha detto Elon Musk durante la call con gli azionisti Tesla",
-      "date": "2026-10-21T14:00:00.0000000Z"
     }
   ]
 }
