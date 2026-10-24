@@ -1,7 +1,67 @@
 {
   "category": "notizie",
-  "updated": "2026-10-24T00:53:47.8915828Z",
+  "updated": "2026-10-24T05:19:19.5781263Z",
   "items": [
+    {
+      "id": "ansa:9918663f6be1",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Da Milano a Castel Volturno, la mappa delle piazze",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/da-milano-a-castel-volturno-la-mappa-delle-piazze_4b093092-5d16-474b-ad7e-21a60f02d95f.html",
+      "image": null,
+      "summary": "Cortei contro la guerra a Roma e Torino, anche i vescovi contro il Cpr in Campania",
+      "date": "2026-10-24T05:13:08.0000000Z"
+    },
+    {
+      "id": "open:2dc0fede24ef",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "A fuoco il “Nido dell’Aquila” di Hitler, arrestato un sospettato per l’incendio sulle Alpi title",
+      "url": "https://www.open.online/2026/10/24/nido-aquila-hitler-incendio-indagini/",
+      "image": "https://static.open.online/wp-content/uploads/2026/10/nido-aquila-hitler-incendio.jpg",
+      "summary": "La polizia tedesca non esclude che si sia trattato di un atto doloso. Perché la struttura è diventata famosa come «Nido d'Aquila» e cosa c'è adesso L'articolo A fuoco il “Nido dell’Aquila” di Hitler, arrestato un sosp...",
+      "date": "2026-10-24T05:10:53.0000000Z"
+    },
+    {
+      "id": "open:36d2a4fe431b",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Dopo il blocco dei tir «servirà una settimana per tornare alla normalità». Perché c’è il rischio tsunami sui prezzi al supermercato title",
+      "url": "https://www.open.online/2026/10/24/blocco-tir-aumento-prezzi-cibo/",
+      "image": "https://static.open.online/wp-content/uploads/2026/10/scaffali-vuoti-frutta-verdura.jpg",
+      "summary": "I prezzi di frutta e verdura erano già in evidente rialzo. Dopo il prolungato blocco dei tir, quintali di cibo sono finiti al macero. E il prezzo del gasolio può completare il quadro per un'ondata di rincari che risch...",
+      "date": "2026-10-24T04:47:24.0000000Z"
+    },
+    {
+      "id": "open:ec962ae6691e",
+      "sourceId": "open",
+      "source": "Open",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Le tre piazze segrete, il «metodo rave» per i raduni e il manuale per restare invisibili prima degli scontri: il rischio degli scontri maranza-ultras title",
+      "url": "https://www.open.online/2026/10/24/scontri-24-ottobre-piazze-segrete-cosa-puo-succedere/",
+      "image": "https://static.open.online/wp-content/uploads/2026/10/scontri-24-ottobre.jpg",
+      "summary": "Puntuali tornano a circolare guide essenziali all'«autodifesa in protesta», in cui si consiglia di portare con sé Maalox, sapone e aceto per proteggersi dai lacrimogeni. E come osservare le tattiche della polizia per ...",
+      "date": "2026-10-24T04:08:06.0000000Z"
+    },
+    {
+      "id": "repubblica:5bac5fcbd67f",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Keret: “Gli israeliani all’estero stanno rientrando per votare. Può iniziare una storia nuova”",
+      "url": "https://www.repubblica.it/esteri/2026/10/29/news/intervista_keret_israeliani_all_estero_stanno_rientrando_per_votare_puo_iniziare_storia_nuova-425671327/",
+      "image": null,
+      "summary": "Lo scrittore racconta le sue sensazioni in questa fase cruciale: “Se Bibi fosse rieletto potrei decidere di lasciare il mio Paese”",
+      "date": "2026-10-23T23:01:00.0000000Z"
+    },
     {
       "id": "repubblica:9cf705bd5ae5",
       "sourceId": "repubblica",
@@ -24,6 +84,18 @@
       "url": "https://www.repubblica.it/economia/2026/10/24/news/el_nino_godzilla_economia_globale_danni_per_7mila_miliardi-425671460/",
       "image": null,
       "summary": "Sarà il più potente. Ribattezzato Godzilla porterà siccità e alluvioni. In Europa inverno più mite. I prezzi degli alimentari rischiano una crescita dell’11% e le banche centrali già corrono ai ripari",
+      "date": "2026-10-23T23:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:425966bbeb58",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Piazze blindate, la sfida dei ribelli: “Ne sceglieremo altre a sorpresa”",
+      "url": "https://www.repubblica.it/cronaca/2026/10/24/news/manifestazioni_movimento_17_ottobre_piazze-425671218/",
+      "image": null,
+      "summary": "Il Viminale: via ai fermi preventivi. Il movimento 17 ottobre annulla i cortei di oggi. Forze dell’ordine in allerta da Nord a Sud. Vigilia di perquisizioni in diciotto città: cento identificati, sequestrati bastoni e...",
       "date": "2026-10-23T23:00:00.0000000Z"
     },
     {
@@ -51,18 +123,6 @@
       "date": "2026-10-23T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:425966bbeb58",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Piazze blindate, la sfida dei ribelli: “Ne sceglieremo altre a sorpresa”",
-      "url": "https://www.repubblica.it/cronaca/2026/10/24/news/manifestazioni_movimento_17_ottobre_piazze-425671218/",
-      "image": null,
-      "summary": "Il Viminale: via ai fermi preventivi. Il movimento 17 ottobre annulla i cortei di oggi. Forze dell’ordine in allerta da Nord a Sud. Vigilia di perquisizioni in diciotto città: cento identificati, sequestrati bastoni e...",
-      "date": "2026-10-23T23:00:00.0000000Z"
-    },
-    {
       "id": "repubblica:fec4b08ca591",
       "sourceId": "repubblica",
       "source": "la Repubblica",
@@ -75,27 +135,15 @@
       "date": "2026-10-23T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:d23f97999d1d",
+      "id": "repubblica:6d0cdf4ee7a1",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "Saracinesche giù e vetrine vuote, a Milano scatta il coprifuoco. Sala: non diffondiamo il panico",
-      "url": "https://milano.repubblica.it/cronaca/2026/10/24/news/negozi_chiusi_coprifuoco_sala_scontri_sabato-425671481/",
+      "title": "L’Eni proroga il tetto contro il caro carburanti. Schlein: “Serve una legge”",
+      "url": "https://www.repubblica.it/economia/2026/10/24/news/eni_proroga_tetto_carburanti_schlein_serve_legge-425671405/",
       "image": null,
-      "summary": "Nel quadrilatero della moda molti negozi si fermano. La Rinascente chiude alle 15in via precauzionale. Il sindaco: ma io farò shopping. Gli uomini schierati sono 1400",
-      "date": "2026-10-23T23:00:00.0000000Z"
-    },
-    {
-      "id": "repubblica:b72fb580ff15",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Cesare Cremonini: “Il successo, che bellissimo errore. Adesso sogno una vita”",
-      "url": "https://www.repubblica.it/cronaca/2026/10/24/news/cesare_cremonini_intervista_successo_famiglia_nuovo_album-425671487/",
-      "image": null,
-      "summary": "L’artista si racconta: “Preferisco portare la mia musica in un altro luogo. È il primo passo per liberarmi di una farsa che non mi interessa più”",
+      "summary": "Descalzi: il blocco resterà fino a dicembre ma vediamo a che livello. Critica l’opposizione, Conte: occorrono subito interventi strutturali. Intanto rientra la protesta dei tir, file ai distributori del Sud. Ma da lun...",
       "date": "2026-10-23T23:00:00.0000000Z"
     },
     {
@@ -123,15 +171,15 @@
       "date": "2026-10-23T23:00:00.0000000Z"
     },
     {
-      "id": "repubblica:6d0cdf4ee7a1",
+      "id": "repubblica:d23f97999d1d",
       "sourceId": "repubblica",
       "source": "la Repubblica",
       "platform": "rss",
       "category": "notizie",
-      "title": "L’Eni proroga il tetto contro il caro carburanti. Schlein: “Serve una legge”",
-      "url": "https://www.repubblica.it/economia/2026/10/24/news/eni_proroga_tetto_carburanti_schlein_serve_legge-425671405/",
+      "title": "Saracinesche giù e vetrine vuote, a Milano scatta il coprifuoco. Sala: non diffondiamo il panico",
+      "url": "https://milano.repubblica.it/cronaca/2026/10/24/news/negozi_chiusi_coprifuoco_sala_scontri_sabato-425671481/",
       "image": null,
-      "summary": "Descalzi: il blocco resterà fino a dicembre ma vediamo a che livello. Critica l’opposizione, Conte: occorrono subito interventi strutturali. Intanto rientra la protesta dei tir, file ai distributori del Sud. Ma da lun...",
+      "summary": "Nel quadrilatero della moda molti negozi si fermano. La Rinascente chiude alle 15in via precauzionale. Il sindaco: ma io farò shopping. Gli uomini schierati sono 1400",
       "date": "2026-10-23T23:00:00.0000000Z"
     },
     {
@@ -243,18 +291,6 @@
       "date": "2026-10-23T20:09:11.0000000Z"
     },
     {
-      "id": "ansa:9918663f6be1",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Da Milano a Castel Volturno, la mappa delle piazze",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/da-milano-a-castel-volturno-la-mappa-delle-piazze_4b093092-5d16-474b-ad7e-21a60f02d95f.html",
-      "image": null,
-      "summary": "Cortei contro la guerra a Roma e Torino, anche i vescovi contro il Cpr in Campania",
-      "date": "2026-10-23T19:41:53.0000000Z"
-    },
-    {
       "id": "ansa:1a866237208b",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -315,6 +351,18 @@
       "date": "2026-10-23T18:54:03.0000000Z"
     },
     {
+      "id": "ansa:041ff55d940d",
+      "sourceId": "ansa",
+      "source": "ANSA",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "La 'Lega di lotta e di governo' va al congresso, è lite Salvini-Garavaglia",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/23/salvini-stupito-da-garavaglia-ci-siamo-sentiti-martedi-scorso_6dcde883-7dd3-4737-b1b3-671e0031c6c7.html",
+      "image": null,
+      "summary": "Il leader torna alle origini col nuovo logo. Attilio Fontana: 'Sorprese possibili con il voto segreto'",
+      "date": "2026-10-23T18:30:44.0000000Z"
+    },
+    {
       "id": "ansa:d14359bf7a41",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -351,18 +399,6 @@
       "date": "2026-10-23T18:11:09.0000000Z"
     },
     {
-      "id": "open:4377be5b9066",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Carburanti, Q8 verso la proroga del price cap: l’intesa Italia-Kuwait, tra Meloni e l’Emiro title",
-      "url": "https://www.open.online/2026/10/23/carburanti-kuwait-price-cap-q8-bilaterale-meloni-emiro/",
-      "image": "https://static.open.online/wp-content/uploads/2026/10/price-cap-kuwait.jpg",
-      "summary": "La misura era stata introdotta nelle scorse settimane: l'esito dell'incontro con la premier L'articolo Carburanti, Q8 verso la proroga del price cap: l’intesa Italia-Kuwait, tra Meloni e l’Emiro proviene da Open.",
-      "date": "2026-10-23T17:43:31.0000000Z"
-    },
-    {
       "id": "ansa:d50ffcb4c82a",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -373,30 +409,6 @@
       "image": null,
       "summary": "'Torcia, acqua, cibo e una radio. Prepararsi alle minacce, anche straniere'",
       "date": "2026-10-23T17:10:56.0000000Z"
-    },
-    {
-      "id": "open:08d1647266d7",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Kimi Antonelli, venduta all’asta per quasi 900mila dollari la sua rara carta da collezione title",
-      "url": "https://www.open.online/2026/10/23/venduta-asta-carta-kimi-antonelli-900mila-euro/",
-      "image": "https://static.open.online/wp-content/uploads/2026/10/carta-antonelli.jpg",
-      "summary": "Il pezzo unico del 2025 autografato dal pilota della Mercedes rappresenta la seconda transazione nella storie delle carte della Formula 1 L'articolo Kimi Antonelli, venduta all’asta per quasi 900mila dollari la sua ra...",
-      "date": "2026-10-23T17:04:02.0000000Z"
-    },
-    {
-      "id": "open:ba3e6fd66afa",
-      "sourceId": "open",
-      "source": "Open",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Napoli, in 20 chiamano il Centro Antiveleni per aver ingoiato della benzina: l’ipotesi del travaso artigianale dalle taniche ai serbatoi per la crisi carburante in Campania title",
-      "url": "https://www.open.online/2026/10/23/napoli-20-chiamano-centro-antiveleni-ingoiato-benzina-crisi-carburante/",
-      "image": "https://static.open.online/wp-content/uploads/2026/10/ingestione-carburante.jpg",
-      "summary": "Le persone hanno richiesto una consulenza medica all'ospedale Cardarelli per aver ingerito piccole quantità di carburante in poche ore L'articolo Napoli, in 20 chiamano il Centro Antiveleni per aver ingoiato della ben...",
-      "date": "2026-10-23T17:01:10.0000000Z"
     },
     {
       "id": "ansa:aff5df175eb5",
@@ -421,18 +433,6 @@
       "image": null,
       "summary": "Firmata una lettera di intenti con le aziende finlandesi Nokia e Iceye",
       "date": "2026-10-23T14:21:51.0000000Z"
-    },
-    {
-      "id": "ansa:b63632c787da",
-      "sourceId": "ansa",
-      "source": "ANSA",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "C'era una volta il furgone, oggi c'è l'offerta Toyota",
-      "url": "https://www.ansa.it/native/ansacom/2026/10/23/cera-una-volta-il-furgone-oggi-ce-lofferta-toyota_a4544187-8d38-4f7f-a2a5-7e3fd1c549a3.html",
-      "image": null,
-      "summary": "",
-      "date": "2026-10-23T05:36:08.0000000Z"
     },
     {
       "id": "corriere:fd46d2a5841f",

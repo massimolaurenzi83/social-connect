@@ -1,7 +1,19 @@
 {
   "category": "libri",
-  "updated": "2026-10-24T00:53:47.8850029Z",
+  "updated": "2026-10-24T05:19:19.5330276Z",
   "items": [
+    {
+      "id": "illibraio:a4f04bf6b758",
+      "sourceId": "illibraio",
+      "source": "Il Libraio",
+      "platform": "rss",
+      "category": "libri",
+      "title": "Quante pagine di un libro si leggono in treno in un’ora?",
+      "url": "https://www.illibraio.it/news/storie/ricerca-libri-treno-1511548/",
+      "image": null,
+      "summary": "\"7 viaggiatori italiani su 10 considerano il tempo a bordo come un momento esclusivo da dedicare a sé stessi\". Stando a uno studio condotto da Ipsos Doxa per Trainline, lettrici e lettori italiani recuperano fino a un...",
+      "date": "2026-10-23T13:26:18.0000000Z"
+    },
     {
       "id": "illibraio:db69ff3b301a",
       "sourceId": "illibraio",
@@ -97,18 +109,6 @@
       "image": null,
       "summary": "Affrontare la perdita dei genitori non è mai un momento facile, a qualsiasi età avvenga. Accanto al carico emotivo legato a un evento simile, c'è anche la gestione pratica di tutto ciò che a loro è appartenuto: ricord...",
       "date": "2026-10-22T01:57:43.0000000Z"
-    },
-    {
-      "id": "illibraio:1fbbde05b4ee",
-      "sourceId": "illibraio",
-      "source": "Il Libraio",
-      "platform": "rss",
-      "category": "libri",
-      "title": "È un libro… è un gioco di ruolo… è il fenomeno “Dungeon Crawler Carl”",
-      "url": "https://www.illibraio.it/news/narrativa/dungeon-crawler-carl-1506299/",
-      "image": null,
-      "summary": "Dall'autopubblicazione alle classifiche di vendita: in attesa dell'uscita del quarto volume (il 27 ottobre) ripercorriamo la storia di \"Dungeon Crawler Carl\" di Matt Dinniman, serie di romanzi LitRPG, inizialmente aut...",
-      "date": "2026-10-21T12:15:29.0000000Z"
     }
   ]
 }

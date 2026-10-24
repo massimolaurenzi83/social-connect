@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-10-24T00:53:47.8889686Z",
+  "updated": "2026-10-24T05:19:19.5968742Z",
   "items": [
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-10-24T04:00:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:92dee9feb9f7",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI – Abbonati a QualEnergia.it PRO",
+      "url": "https://www.qualenergia.it/pro/documenti/bandi-e-appalti-promo/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-10-23T22:30:35.0000000Z"
+    },
     {
       "id": "qualenergia:db02e49bcdaa",
       "sourceId": "qualenergia",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "La Regione Veneto mette a disposizione 20 milioni di euro per sostenere gli investimenti delle aziende agricole nell’ambito del bando SRD01, che finanzia anche interventi di miglioramento dell’efficienza energetica de...",
       "date": "2026-10-23T06:55:57.0000000Z"
-    },
-    {
-      "id": "qualenergia:50d40d648ab7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Bandi e appalti del giorno (5)",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
-      "image": null,
-      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
-      "date": "2026-10-23T06:30:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:cf7a5b528653",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Concessione parcheggi pubblici per pensiline fotovoltaiche a Marsciano (PG)",
-      "url": "https://www.qualenergia.it/pro/documenti/concessione-parcheggi-pubblici-per-pensiline-fotovoltaiche-a-marsciano-pg/",
-      "image": null,
-      "summary": "Indagine di mercato finalizzata all’acquisizione di manifestazione di interesse di operatori economici a cui assegnare in concessione d’uso aree pubbliche adibite a parcheggio per la progettazione, realizzazione, manu...",
-      "date": "2026-10-23T05:00:55.0000000Z"
     }
   ]
 }

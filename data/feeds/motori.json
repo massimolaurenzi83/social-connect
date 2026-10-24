@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-10-24T00:53:47.9007398Z",
+  "updated": "2026-10-24T05:19:19.5887392Z",
   "items": [
+    {
+      "id": "motor1:da5ad725e169",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Vi ricordate l'Opel Agila? Ecco com'era all'inizio",
+      "url": "https://it.motor1.com/news/809771/opel-agila-concept-a-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/bgOB9v/s3/opel-concept-a-1999.jpg",
+      "summary": "Nel 1999 Opel presenta una piccola monovolume: compatta fuori e pensata per cambiare configurazione in pochi istanti",
+      "date": "2026-10-24T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:9ce4a43a19ad",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Fotovoltaico e auto elettrica, così il sole ricarica davvero la batteria",
+      "url": "https://insideevs.it/news/813082/fotovoltaico-auto-elettrica-funziona-ricarica/",
+      "image": "https://cdn.motor1.com/images/mgl/2N9Bjk/s3/fotovoltaico-e-auto-elettrica-cosi-il-sole-ricarica-davvero-la-batteria.jpg",
+      "summary": "La wallbox dialoga con l'inverter e sposta l'energia in eccesso verso l'auto invece che in rete",
+      "date": "2026-10-24T05:00:00.0000000Z"
+    },
     {
       "id": "motor1:14426df24f1a",
       "sourceId": "motor1",
@@ -135,18 +159,6 @@
       "date": "2026-10-23T15:00:25.0000000Z"
     },
     {
-      "id": "motor1:3924544095d5",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "I segreti delle auto di Justin Bieber, Jason Momoa e Snoop Dogg",
-      "url": "https://it.motor1.com/news/812608/justin-bieber-snoop-dogg-auto-vip-hollywood/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZPY9p/s3/i-segreti-delle-auto-di-justin-bieber-jason-momoa-e-snoop-dogg.jpg",
-      "summary": "Abbiamo intervistato Alex Manos, che vende auto classiche alle star di Hollywood, per capire cosa cercano i collezionisti",
-      "date": "2026-10-23T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:60505a269d7a",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -156,6 +168,18 @@
       "url": "https://insideevs.it/news/813073/auto-elettriche-marchi-clienti-soddisfatti/",
       "image": "https://cdn.motor1.com/images/mgl/0epPzn/s3/auto-elettriche-ecco-i-marchi-con-i-clienti-piu-soddisfatti-e-perche.jpg",
       "summary": "Una nuova ricerca mette a confronto 24 marchi e racconta cosa convince davvero chi guida un'auto elettrica",
+      "date": "2026-10-23T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:3924544095d5",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I segreti delle auto di Justin Bieber, Jason Momoa e Snoop Dogg",
+      "url": "https://it.motor1.com/news/812608/justin-bieber-snoop-dogg-auto-vip-hollywood/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZPY9p/s3/i-segreti-delle-auto-di-justin-bieber-jason-momoa-e-snoop-dogg.jpg",
+      "summary": "Abbiamo intervistato Alex Manos, che vende auto classiche alle star di Hollywood, per capire cosa cercano i collezionisti",
       "date": "2026-10-23T15:00:00.0000000Z"
     },
     {
@@ -289,18 +313,6 @@
       "image": "https://cdn.motor1.com/images/mgl/xqOBwG/s3/settembre-2026.jpg",
       "summary": "In Italia UNRAE registra 15.737 immatricolazioni a settembre e un calo del 6,9% con quota elettriche pure ferma al 5,3%",
       "date": "2026-10-23T13:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:66755c839675",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Calendario Pirelli 2027: la protagonista è l’India, la nuova terra di conquista per l'auto",
-      "url": "https://it.motor1.com/news/812988/calendario-pirelli-2027-foto-immagini/",
-      "image": "https://cdn.motor1.com/images/mgl/xqOBQy/s3/the-cal-2027---il-calendario-pirelli-2027.jpg",
-      "summary": "Presentato a Nuova Delhi, l'opera celebra la nazione in crescita con gli scatti tra tradizione e contemporaneità",
-      "date": "2026-10-23T12:30:00.0000000Z"
     },
     {
       "id": "hdmotori:9bc9e720a6dd",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/2N9B0k/s3/il-robot-umanoide-optimus-di-tesla.jpg",
       "summary": "Optimus è uscito dalle linee produttive di Fremont, in California. Tesla punta a 20.000 unità a settimana entro la fine del 2027",
       "date": "2026-10-22T13:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:7f4aa70ce7da",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla è pronta a vendere il Cybercab, ma c'è un problema",
-      "url": "https://insideevs.it/news/812886/tesla-cybercab-consegne-clienti-entro/",
-      "image": "https://cdn.motor1.com/images/mgl/xqKyJ6/s3/il-tesla-cybercab-visto-dal-vivo.jpg",
-      "summary": "Tesla vuole vendere il Cybercab ai privati entro fine anno, ma l'agenzia federale USA al momento è un ostacolo da superare",
-      "date": "2026-10-22T12:00:00.0000000Z"
     }
   ]
 }

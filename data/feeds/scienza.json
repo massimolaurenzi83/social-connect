@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-10-24T00:53:47.8772218Z",
+  "updated": "2026-10-24T05:19:19.5803496Z",
   "items": [
+    {
+      "id": "focus:a1f779de1eae",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "In India manca lo zucchero",
+      "url": "https://www.focus.it/comportamento/economia/india-manca-zucchero-problema-per-benzina",
+      "image": "https://www.focus.it/images/2026/10/20/uomo-con-canna-da-zucchero_w630.jpg?imbypass=true",
+      "summary": "El Niño e i cambiamenti climatici mettono a rischio il raccolto di zucchero di molti Paesi: i prezzi salgono in tutto il mondo, ma in India c'è in gioco anche la benzina.",
+      "date": "2026-10-24T02:00:00.0000000Z"
+    },
     {
       "id": "focus:104aaa68016f",
       "sourceId": "focus",
@@ -159,18 +171,6 @@
       "date": "2026-10-22T08:17:05.0000000Z"
     },
     {
-      "id": "focus:c210b579c189",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Fascismo e censura",
-      "url": "https://www.focus.it/mondo-focus///241",
-      "image": "https://www.focus.it/images/2026/10/18/focus-storia-241-cover-orig.jpg?imbypass=true",
-      "summary": "",
-      "date": "2026-10-22T08:00:00.0000000Z"
-    },
-    {
       "id": "focus:2fda94c33035",
       "sourceId": "focus",
       "source": "Focus",
@@ -183,16 +183,16 @@
       "date": "2026-10-22T08:00:00.0000000Z"
     },
     {
-      "id": "focus:f9eaabc40caf",
+      "id": "focus:c210b579c189",
       "sourceId": "focus",
       "source": "Focus",
       "platform": "rss",
       "category": "scienza",
-      "title": "Tipi italiani: l'aquila reale",
-      "url": "https://www.focus.it/ambiente/animali/tipi-italiani-aquila-reale",
-      "image": "https://www.focus.it/images/2026/09/23/aquila-reale_w630.jpg?imbypass=true",
-      "summary": "Così nascono le pagine di Focus dedicate agli animali che possiamo incontrare nel nostro Paese. Guarda, in questo timelapse, come è stato realizzato il disegno dell'aquila reale.",
-      "date": "2026-10-22T06:00:00.0000000Z"
+      "title": "Fascismo e censura",
+      "url": "https://www.focus.it/mondo-focus///241",
+      "image": "https://www.focus.it/images/2026/10/18/focus-storia-241-cover-orig.jpg?imbypass=true",
+      "summary": "",
+      "date": "2026-10-22T08:00:00.0000000Z"
     },
     {
       "id": "focus:194ea457c1f0",
