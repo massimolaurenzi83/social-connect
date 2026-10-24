@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-10-24T13:36:38.8404118Z",
+  "updated": "2026-10-24T16:56:52.8144048Z",
   "items": [
+    {
+      "id": "focus:38d7aa6f9781",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Maturazione del cervello e salute mentale",
+      "url": "https://www.focus.it/comportamento/psicologia/depressione-e-ansia-in-adolescenza-potrebbero-essere-legate-alla-velocita-di-maturazione-del-cervello",
+      "image": "https://www.focus.it/images/2026/10/23/cervello-adolescente_w630.jpg?imbypass=true",
+      "summary": "La velocità con cui certe aree del cervello si trasformano in adolescenza può predire la comparsa di disturbi mentali anche anni prima dei sintomi.",
+      "date": "2026-10-24T11:00:00.0000000Z"
+    },
     {
       "id": "focus:d8febf588fac",
       "sourceId": "focus",
@@ -123,18 +135,6 @@
       "date": "2026-10-23T08:00:00.0000000Z"
     },
     {
-      "id": "focus:1693ed79506d",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Dormire meno di 4 ore riduce la resistenza fisica",
-      "url": "https://www.focus.it/scienza/scienze/dormire-meno-di-4-ore-riduce-la-resistenza-fisica-e-la-colpa-non-e-dei-muscoli",
-      "image": "https://www.focus.it/images/2026/10/20/donna-fa-plank_w630.jpg?imbypass=true",
-      "summary": "Se dormiamo poco la nostra resistenza fisica peggiora, anche se i muscoli si stancano come sempre. Il motivo? Il cervello assonnato cambia le proprie connessioni.",
-      "date": "2026-10-23T07:00:00.0000000Z"
-    },
-    {
       "id": "focus:6ffad5140234",
       "sourceId": "focus",
       "source": "Focus",
@@ -144,6 +144,18 @@
       "url": "https://www.focus.it/focuslive/focus-live-2026-oggi-al-via-tre-giorni-per-esplorare-le-intelligenze-tra-scienza-e-spettacolo",
       "image": "https://www.focus.it/images/2026/10/23/focus-live-2026_w630.jpg?imbypass=true",
       "summary": "Al via Focus Live 2026 al Museo Scienza e Tecnologia di Milano. Scopri il programma sul tema Intelligenze, gli ospiti e come prenotare i biglietti gratuiti.",
+      "date": "2026-10-23T07:00:00.0000000Z"
+    },
+    {
+      "id": "focus:1693ed79506d",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Dormire meno di 4 ore riduce la resistenza fisica",
+      "url": "https://www.focus.it/scienza/scienze/dormire-meno-di-4-ore-riduce-la-resistenza-fisica-e-la-colpa-non-e-dei-muscoli",
+      "image": "https://www.focus.it/images/2026/10/20/donna-fa-plank_w630.jpg?imbypass=true",
+      "summary": "Se dormiamo poco la nostra resistenza fisica peggiora, anche se i muscoli si stancano come sempre. Il motivo? Il cervello assonnato cambia le proprie connessioni.",
       "date": "2026-10-23T07:00:00.0000000Z"
     },
     {
@@ -182,18 +194,6 @@
       "summary": "",
       "videoId": "fXJUvLFzLFQ",
       "date": "2026-10-22T16:30:24.0000000Z"
-    },
-    {
-      "id": "focus:8e136e82f1a2",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "La Notte stellata: il 22 luglio 1889",
-      "url": "https://www.focus.it/cultura/arte/la-notte-stellata-di-van-gogh-potrebbe-essere-stata-quella-del-22-luglio-1889",
-      "image": "https://www.focus.it/images/2026/10/20/notte-stellata_w630.jpg?imbypass=true",
-      "summary": "Stelle, Luna e pianeti della Notte stellata corrispondono a quelli del cielo prima dell'alba di una data diversa da quelle proposte in precedenza.",
-      "date": "2026-10-22T15:00:00.0000000Z"
     },
     {
       "id": "media-inaf:0a6f6e37dd8b",

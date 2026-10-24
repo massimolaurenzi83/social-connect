@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-10-24T13:36:38.8172373Z",
+  "updated": "2026-10-24T16:56:52.7747161Z",
   "items": [
+    {
+      "id": "motor1:45cffe409114",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "All'asta la Ferrari da 8 milioni, la KITT di Supercar e altre rarità",
+      "url": "https://it.motor1.com/news/813047/asta-auto-piu-costose/",
+      "image": "https://cdn.motor1.com/images/mgl/2N9Bqz/s3/le-auto-da-sogno-all-asta-a-zurigo-tra-ferrari-e-rarita-da-collezione.jpg",
+      "summary": "La Ferrari LaFerrari, la KITT di Supercar e la BMW di Nick Heidfeld sono tra le protagoniste dell'asta di auto da collezione a Zurigo",
+      "date": "2026-10-24T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:708a3b34dced",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Jeep Avenger, i prezzi e gli allestimenti",
+      "url": "https://it.motor1.com/news/809653/jeep-avenger-2026-prezzo-motori-allestimenti/",
+      "image": "https://cdn.motor1.com/images/mgl/0eg6xp/s3/novo-jeep-avenger-2027---europa.jpg",
+      "summary": "A benzina, mild hybrid ed elettrica, l'Avenger è stata rinnovata di recente. Ecco il listino completo",
+      "date": "2026-10-24T13:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:b98f6a9c844d",
       "sourceId": "hdmotori",
@@ -99,18 +123,6 @@
       "date": "2026-10-24T07:00:54.0000000Z"
     },
     {
-      "id": "motor1:da5ad725e169",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vi ricordate l'Opel Agila? Ecco com'era all'inizio",
-      "url": "https://it.motor1.com/news/809771/opel-agila-concept-a-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/bgOB9v/s3/opel-concept-a-1999.jpg",
-      "summary": "Nel 1999 Opel presenta una piccola monovolume: compatta fuori e pensata per cambiare configurazione in pochi istanti",
-      "date": "2026-10-24T05:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:9ce4a43a19ad",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -120,6 +132,18 @@
       "url": "https://insideevs.it/news/813082/fotovoltaico-auto-elettrica-funziona-ricarica/",
       "image": "https://cdn.motor1.com/images/mgl/2N9Bjk/s3/fotovoltaico-e-auto-elettrica-cosi-il-sole-ricarica-davvero-la-batteria.jpg",
       "summary": "La wallbox dialoga con l'inverter e sposta l'energia in eccesso verso l'auto invece che in rete",
+      "date": "2026-10-24T05:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:da5ad725e169",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Vi ricordate l'Opel Agila? Ecco com'era all'inizio",
+      "url": "https://it.motor1.com/news/809771/opel-agila-concept-a-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/bgOB9v/s3/opel-concept-a-1999.jpg",
+      "summary": "Nel 1999 Opel presenta una piccola monovolume: compatta fuori e pensata per cambiare configurazione in pochi istanti",
       "date": "2026-10-24T05:00:00.0000000Z"
     },
     {
@@ -363,18 +387,6 @@
       "date": "2026-10-23T14:00:00.0000000Z"
     },
     {
-      "id": "motor1:df502dbf1c01",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Chery Tiggo 8, prezzi e allestimenti del nuovo SUV ibrido a 7 posti",
-      "url": "https://it.motor1.com/news/812605/chery-tiggo-8-prezzi-allestimenti/",
-      "image": "https://cdn.motor1.com/images/mgl/3WBEeX/s3/chery-tiggo-8-2026.jpg",
-      "summary": "Il grande SUV cinese ibrido plug-in parte da 37.800 euro con una dotazione già completa. Ecco la gamma",
-      "date": "2026-10-23T13:30:00.0000000Z"
-    },
-    {
       "id": "hdmotori:e63048d3516f",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -396,18 +408,6 @@
       "url": "https://insideevs.it/news/813015/gm-stabilimento-batterie-detroit-chiusura/",
       "image": "https://cdn.motor1.com/images/mgl/9mWgkb/s3/gm-battery-factory.jpg",
       "summary": "Lo stabilimento è utilizzato per produrre batterie per la Cadillac Celestiq, nonché unità di propulsione per la Chevy Corvette E-Ray",
-      "date": "2026-10-23T13:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:b1fddeb09c10",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Veicoli commerciali leggeri, cosa non sta funzionando davvero con incentivi ed elettrico",
-      "url": "https://it.motor1.com/news/813034/mercato-veicoli-commerciali-leggeri-settembre/",
-      "image": "https://cdn.motor1.com/images/mgl/xqOBwG/s3/settembre-2026.jpg",
-      "summary": "In Italia UNRAE registra 15.737 immatricolazioni a settembre e un calo del 6,9% con quota elettriche pure ferma al 5,3%",
       "date": "2026-10-23T13:00:00.0000000Z"
     },
     {
