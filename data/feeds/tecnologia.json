@@ -1,7 +1,235 @@
 {
   "category": "tecnologia",
-  "updated": "2026-10-24T09:38:50.9520717Z",
+  "updated": "2026-10-24T13:36:38.8846968Z",
   "items": [
+    {
+      "id": "tomshw:3cfc0e97e4cb",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Stampi supporti e organizer con Bambu Lab A1, bastano 279€",
+      "url": "https://www.tomshw.it/hardware/stampi-supporti-e-organizer-con-bambu-lab-a1-bastano-279eur",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120130/tomshw-offer-1871150.png",
+      "summary": "Bambu Lab A1 a 279€ su Amazon: una stampante 3D con cui realizzare supporti, organizer e piccoli ricambi personalizzati. La calibrazione completamente automatica gestisce le regolazioni iniziali, così...",
+      "date": "2026-10-24T13:19:00.0000000Z"
+    },
+    {
+      "id": "tomshw:1951e00d510a",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Un monitor a forma di sfera? Esiste davvero e costa parecchio",
+      "url": "https://www.tomshw.it/hardware/time-planet-debutta-un-monitor-sferico-vale-740-dollari",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120101/time-planet-debutta-un-monitor-sferico-vale-740-dollari.png",
+      "summary": "Retro Lab ha messo in vendita Time Planet, un monitor sferico da 740 dollari che riprende il design del televisore JVC Videosphere del 1970. L'involucro è realizzato con la stampa 3D e ospita uno sche...",
+      "date": "2026-10-24T13:00:00.0000000Z"
+    },
+    {
+      "id": "tomshw:d98c35e3e538",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "34mila anni di test simulati sulle prossime batterie per auto",
+      "url": "https://www.tomshw.it/business/34mila-anni-di-test-simulati-sulle-prossime-batterie-per-auto",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/119969/08-gm-34000-anni-test-batterie.jpg",
+      "summary": "GM ha simulato al computer più di 300.000 progetti di batteria prima di costruirne un solo prototipo, e dal primo concept del pacco batteria all'approvazione formale del programma è passato un mese. I...",
+      "date": "2026-10-24T12:53:06.0000000Z"
+    },
+    {
+      "id": "hdblog:0d4c0249ca88",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Com'è nata davvero l'intelligenza artificiale: storia dell'AI da Babbage a ChatGPT",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n672480/storia-intelligenza-artificiale-babbage-chatgpt/",
+      "image": null,
+      "summary": "Il prossimo capitolo è ancora tutto da scrivere",
+      "date": "2026-10-24T12:31:00.0000000Z"
+    },
+    {
+      "id": "tomshw:62763ce28f7c",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Il caricatore Samsung da 25W è al -45%, con il cavo già incluso",
+      "url": "https://www.tomshw.it/smartphone/il-caricatore-samsung-da-25w-e-al-45-con-il-cavo-gia-incluso",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120129/tomshw-offer-1871081.png",
+      "summary": "Il caricatore Samsung 25W costa 17,89€ su Amazon, con uno sconto del 45% rispetto ai 32,90€ di listino. Il cavo USB-C è già incluso, così avete l'occorrente per collegare e ricaricare un Galaxy compat...",
+      "date": "2026-10-24T12:19:00.0000000Z"
+    },
+    {
+      "id": "hdblog:b98f6a9c844d",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Volvo: in arrivo un nuovo modello elettrico compatto nel 2027",
+      "url": "https://www.hdmotori.it/volvo-nuovo-modello-elettrico-compatto-2027/",
+      "image": null,
+      "summary": "Il costruttore svedese prepara un secondo modello elettrico globale sulla piattaforma modulare SPA3 per conquistare un segmento di mercato più ampio ed accessibile.",
+      "date": "2026-10-24T12:00:23.0000000Z"
+    },
+    {
+      "id": "tomshw:0ced5065890f",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Le RTX 5090 finiscono smontate a centinaia: ecco cosa succede",
+      "url": "https://www.tomshw.it/hardware/le-rtx-5090-finiscono-nei-server-ai-cinesi-perche-vengono-smontate",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120100/le-rtx-5090-finiscono-nei-server-ai-cinesi-perche-vengono-smontate.png",
+      "summary": "Alcuni laboratori cinesi stanno trasformando le GeForce RTX 5090 da schede per il gaming in acceleratori destinati ai server AI. Filmati circolati di recente mostrano centinaia di schede accumulate ne...",
+      "date": "2026-10-24T12:00:00.0000000Z"
+    },
+    {
+      "id": "hdblog:91641add93ef",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Hard disk esterno guasto, cosa non fare per non perdere i dati",
+      "url": "https://www.hdblog.it/hardware/articoli/n674464/hard-disk-esterno-guasto-cosa-fare/",
+      "image": null,
+      "summary": "Utilizzare ununità danneggiata può compromettere i file.",
+      "date": "2026-10-24T11:55:00.0000000Z"
+    },
+    {
+      "id": "tomshw:9d74eb3efb7d",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Shelly 1 Gen3 rende smart gli interruttori che hai già per soli 15,30€",
+      "url": "https://www.tomshw.it/altro/shelly-1-gen3-rende-smart-gli-interruttori-che-hai-gia-per-soli-1530eur",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120128/tomshw-offer-1871018.png",
+      "summary": "Shelly 1 Gen3 costa 15,30€ su Amazon e aggiunge il controllo da smartphone agli interruttori di casa. Il contatto pulito permette di usarlo anche per comandare garage, cancelli o caldaie compatibili,...",
+      "date": "2026-10-24T11:19:00.0000000Z"
+    },
+    {
+      "id": "tomshw:52a49d5de2e9",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "I titoli AI trascinano le Borse verso il basso, e ci si mette pure il petrolio",
+      "url": "https://www.tomshw.it/business/i-titoli-ai-trascinano-le-borse-verso-il-basso-e-ci-si-mette-pure-il-petrolio",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/119967/07-borse-ai-petrolio.jpg",
+      "summary": "L'S&P 500 ha perso l'1,2%, la giornata peggiore da luglio, e il Nasdaq il 2,6%, ma a spingere gli indici verso il basso sono stati pochi titoli molto grandi del settore tecnologico. NVIDIA ha cedu...",
+      "date": "2026-10-24T11:02:47.0000000Z"
+    },
+    {
+      "id": "tomshw:fdbb784dae3f",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "La prima stella verde è stata trovata: ecco perché non la vediamo",
+      "url": "https://www.tomshw.it/scienze/la-prima-stella-verde-e-stata-trovata-ecco-perche-non-la-vediamo",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120093/la-prima-stella-verde-e-stata-trovata-ecco-perche-non-la-vediamo.png",
+      "summary": "Gli astronomi hanno individuato nane bianche che apparirebbero di colori inattesi, compreso il verde: il caso presentato dalla NASA è WD J1330+6435. A modificare il colore sono elementi accumulati nel...",
+      "date": "2026-10-24T11:00:00.0000000Z"
+    },
+    {
+      "id": "tomshw:5b16be01ac0f",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "DJI ROMO P al -43%, aspira e lava arrivando anche ai bordi",
+      "url": "https://www.tomshw.it/altro/dji-romo-p-al-43-aspira-e-lava-arrivando-anche-ai-bordi",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120127/tomshw-offer-1870992.png",
+      "summary": "DJI ROMO P costa 799€ su Amazon, con uno sconto del 43% sui 1409€ di listino. Questo robot aspirapolvere e lavapavimenti combina il riconoscimento degli ostacoli con due bracci estensibili, per raccog...",
+      "date": "2026-10-24T10:48:00.0000000Z"
+    },
+    {
+      "id": "hdblog:3e30050a1aa1",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Carte di credito scadute? Ecco come trasformarle in tag NFC per la domotica",
+      "url": "https://www.hdblog.it/apple/articoli/n674731/carte-di-credito-scadute-tag-nfc-domotica/",
+      "image": null,
+      "summary": "Potresti avere in tasca delle utili risorse per la tua smart home. Gratis, soprattutto",
+      "date": "2026-10-24T10:35:00.0000000Z"
+    },
+    {
+      "id": "tomshw:b2f797c2699f",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Micro VM al posto dei container per contenere gli agenti AI, Google in prima linea",
+      "url": "https://www.tomshw.it/business/micro-vm-al-posto-dei-container-per-contenere-gli-agenti-ai-google-in-prima-linea",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/119965/05-isolamento-agenti-micro-vm.jpg",
+      "summary": "Nella demo con cui ha lanciato i Cloud Sandboxes, Docker ha avviato Claude dentro un container normale e gli ha chiesto di trovare un segreto custodito fuori dal container. L'agente ci è riuscito perc...",
+      "date": "2026-10-24T10:34:08.0000000Z"
+    },
+    {
+      "id": "dday:4aaa6ffd3a47",
+      "sourceId": "dday",
+      "source": "DDay.it",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "I dati di Gmail e Foto potranno servire a personalizzare gli annunci: com’è cambiata la privacy Google e cosa succede in UE",
+      "url": "https://www.dday.it/redazione/59210/i-dati-di-gmail-e-foto-potranno-servire-a-personalizzare-gli-annunci-come-cambiata-la-privacy-google-e-cosa-succede-in-ue",
+      "image": null,
+      "summary": "",
+      "date": "2026-10-24T10:33:00.0000000Z"
+    },
+    {
+      "id": "tomshw:fa4904648762",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Stampa a colori con Bambu Lab P1S Combo e AMS, tutto a 559€",
+      "url": "https://www.tomshw.it/hardware/stampa-a-colori-con-bambu-lab-p1s-combo-e-ams-tutto-a-559eur",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120126/tomshw-offer-1870941.png",
+      "summary": "Bambu Lab P1S Combo costa 559€ su Amazon e include il sistema AMS per realizzare stampe multicolore senza cambiare manualmente il filamento a ogni passaggio. Il telaio chiuso e le regolazioni automati...",
+      "date": "2026-10-24T10:18:00.0000000Z"
+    },
+    {
+      "id": "tomshw:b0a14c8be5cb",
+      "sourceId": "tomshw",
+      "source": "Tom's Hardware",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Il cervello può generare dolore e nausea: ecco le aree coinvolte",
+      "url": "https://www.tomshw.it/scienze/il-cervello-puo-generare-dolore-e-nausea-ecco-le-aree-coinvolte",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120094/il-cervello-puo-generare-dolore-e-nausea-ecco-le-aree-coinvolte.png",
+      "summary": "Un gruppo di ricercatori della Stanford University, con il medico e neuroscienziato Josef Parvizi, ha mappato in dettaglio la corteccia insulare, una regione cerebrale coinvolta nelle sensazioni del c...",
+      "date": "2026-10-24T10:00:00.0000000Z"
+    },
+    {
+      "id": "hdblog:96b9df79877d",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Un vecchio smartphone Android diventa una dash cam. Basta un'app",
+      "url": "https://www.hdblog.it/smartphone/articoli/n674360/smartphone-android-dashcam-app-droid-dashcam/",
+      "image": null,
+      "summary": "Una soluzione per recuperare i dispositivi inutilizzati.",
+      "date": "2026-10-24T09:55:00.0000000Z"
+    },
+    {
+      "id": "hdblog:0666b55c4f7e",
+      "sourceId": "hdblog",
+      "source": "HDblog",
+      "platform": "rss",
+      "category": "tecnologia",
+      "title": "Missioni Artemis: la NASA rivoluziona i piani di SpaceX e Blue Origin",
+      "url": "https://www.hdblog.it/tecnologia/articoli/n674776/nasa-artemis-nuovo-piano-luna-2028/",
+      "image": null,
+      "summary": "La NASA cambia Artemis: nuova strategia per Orion, Starship e Blue Moon in vista del 2028.",
+      "date": "2026-10-24T09:40:00.0000000Z"
+    },
     {
       "id": "hdblog:83ff4e4a01ff",
       "sourceId": "hdblog",
@@ -13,42 +241,6 @@
       "image": null,
       "summary": "Una guida per installare VitaWave e trasformare PS Vita in un lettore musicale offline.",
       "date": "2026-10-24T09:20:00.0000000Z"
-    },
-    {
-      "id": "tomshw:9bc8325da9b2",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Friggitrice ad aria Ariete da 16 litri a 76,99€, cuoci anche allo spiedo",
-      "url": "https://www.tomshw.it/altro/friggitrice-ad-aria-ariete-da-16-litri-a-7699eur-cuoci-anche-allo-spiedo",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120125/tomshw-offer-1870872.png",
-      "summary": "Ariete Vintage costa 76,99€ su Amazon, con uno sconto del 6% sul listino di 81,9€. Il modello 4632 unisce friggitrice ad aria e forno da 16 litri, con una dotazione che permette di passare dalle patat...",
-      "date": "2026-10-24T09:19:00.0000000Z"
-    },
-    {
-      "id": "tomshw:be0007b89e19",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "EaseUS: fino al 55% di sconto, ultima settimana delle offerte Halloween",
-      "url": "https://www.tomshw.it/offerte/easeus-fino-al-55-di-sconto-ultima-settimana-delle-offerte-halloween",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118655/halloween-sale-cover.png",
-      "summary": "Ultima settimana per le offerte Halloween di EaseUS: fino al 31 ottobre 2026 potete acquistare i suoi bestseller con sconti fino al 55%. La promozione comprende EaseUS VoiceWave, strumenti di recupero...",
-      "date": "2026-10-24T09:07:00.0000000Z"
-    },
-    {
-      "id": "tomshw:ef85e8f753f2",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Il Logitech M720 Triathlon costa 45€ e accompagna chi lavora su più computer",
-      "url": "https://www.tomshw.it/hardware/il-logitech-m720-triathlon-costa-45eur-e-accompagna-chi-lavora-su-piu-computer",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120124/merchant-offer-1870858.png",
-      "summary": "Logitech M720 Triathlon a 44,99€ su Logitech: il mouse wireless per chi lavora con più computer. Il suo impiego più interessante è nella postazione dove portatile e desktop si alternano durante la gio...",
-      "date": "2026-10-24T09:07:00.0000000Z"
     },
     {
       "id": "hdblog:0a9c5418bfc5",
@@ -63,18 +255,6 @@
       "date": "2026-10-24T09:00:29.0000000Z"
     },
     {
-      "id": "tomshw:d2f1c79b7eb0",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Il melanoma torna meno con il vaccino Moderna: chi può riceverlo?",
-      "url": "https://www.tomshw.it/scienze/il-melanoma-torna-meno-con-il-vaccino-moderna-chi-puo-riceverlo",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120091/il-melanoma-torna-meno-con-il-vaccino-moderna-chi-puo-riceverlo.png",
-      "summary": "Moderna e Merck hanno diffuso i risultati di uno studio clinico di fase III nel quale il vaccino personalizzato intismeran, aggiunto a un farmaco immunoterapico, ha ridotto del 42% il rischio di ricom...",
-      "date": "2026-10-24T09:00:00.0000000Z"
-    },
-    {
       "id": "hdblog:39cdea251d5c",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -85,18 +265,6 @@
       "image": null,
       "summary": "La Top 6 della settimana.",
       "date": "2026-10-24T08:55:00.0000000Z"
-    },
-    {
-      "id": "tomshw:6e0b1927fcdf",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Fino a 80 dispositivi con NETGEAR Nighthawk RS200, WiFi 7 a 206,09€",
-      "url": "https://www.tomshw.it/hardware/fino-a-80-dispositivi-con-netgear-nighthawk-rs200-wifi-7-a-20609eur",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120123/tomshw-offer-1870813.png",
-      "summary": "NETGEAR Nighthawk RS200 costa 206,09€ su Amazon, con il 18% di sconto sul listino di 249,99€. È un router WiFi 7 pensato per le case in cui streaming, partite online e videochiamate si dividono la ste...",
-      "date": "2026-10-24T08:49:00.0000000Z"
     },
     {
       "id": "hdblog:cdd20f236e98",
@@ -111,18 +279,6 @@
       "date": "2026-10-24T08:40:00.0000000Z"
     },
     {
-      "id": "tomshw:7c2cd00a9b6a",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "L'agente AI legge contratti e termini d'uso, diventa un superpotere in mano al cliente",
-      "url": "https://www.tomshw.it/business/lagente-ai-legge-contratti-e-termini-duso-diventa-un-superpotere-in-mano-al-cliente",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/119963/03-agenti-clienti-clausole.jpg",
-      "summary": "Negli Stati Uniti un cliente può già affidare a un agente AI il compito di trattare al posto suo: Muse di Meta, in circolazione da poche settimane, apre il browser, compila i moduli e negozia per cont...",
-      "date": "2026-10-24T08:36:08.0000000Z"
-    },
-    {
       "id": "hdblog:bfb63403cf64",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -135,54 +291,6 @@
       "date": "2026-10-24T08:20:00.0000000Z"
     },
     {
-      "id": "tomshw:6c698aa3b518",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Migliori termocamere per smartphone e casa (2026)",
-      "url": "https://www.tomshw.it/hardware/migliori-termocamere-per-smartphone-e-casa",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120120/guide-thw-1870675.png",
-      "summary": "HIKMICRO Mini2 V3 è la nostra prima scelta tra le migliori termocamere per smartphone e casa: combina un sensore nativo da 256×192 pixel, sensibilità di 30 mK e collegamento USB-C, con adattatore Ligh...",
-      "date": "2026-10-24T08:20:00.0000000Z"
-    },
-    {
-      "id": "tomshw:9ed7dbdaaf43",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "NAVEE NT5Max IT, fino a 85 km a 699€ per chi si muove ogni giorno",
-      "url": "https://www.tomshw.it/automotive/navee-nt5max-it-fino-a-85-km-a-699eur-per-chi-si-muove-ogni-giorno",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120122/tomshw-offer-1870743.png",
-      "summary": "Il NAVEE NT5Max IT costa 699€ su Amazon. La batteria da 561,6 Wh offre un’autonomia dichiarata fino a 85 km a 15 km/h, interessante per chi usa il monopattino ogni giorno e vuole distanziare le ricari...",
-      "date": "2026-10-24T08:18:00.0000000Z"
-    },
-    {
-      "id": "tomshw:50a89e9c3953",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Le migliori lavasciuga consigliate dagli esperti 2026",
-      "url": "https://www.tomshw.it/offerte/lavasciuga-migliore",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/86861/migliori-lavasciuga-copertina.jpg",
-      "summary": "La scelta a pompa di calore è Hisense WD5I1245BWRH: lava 12 kg, asciuga 8 kg e dichiara 184 kWh per 100 cicli completi. LG D2R3S08AIDD privilegia l’ingombro ridotto; Candy BWR 4128BL8-S offre 12/8 kg...",
-      "date": "2026-10-24T08:11:59.0000000Z"
-    },
-    {
-      "id": "tomshw:721b4a7d0e1e",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "I migliori joystick per Microsoft Flight Simulator (2026)",
-      "url": "https://www.tomshw.it/videogioco/i-migliori-joystick-per-microsoft-flight-simulator",
-      "image": "https://cdn.tomshw.it/storage/media/2024/07/27284/Screenshot-2024-07-07-alle-20-02-32.png",
-      "summary": "Il joystick giusto per Microsoft Flight Simulator dipende dalla piattaforma e dal velivolo: uno stick basta per iniziare, un HOTAS aggiunge una manetta dedicata, mentre i comandi ispirati ad Airbus pr...",
-      "date": "2026-10-24T08:04:47.0000000Z"
-    },
-    {
       "id": "hdblog:33f69ada03a7",
       "sourceId": "hdblog",
       "source": "HDblog",
@@ -193,102 +301,6 @@
       "image": null,
       "summary": "A un anno dall'inaugurazione, l'I-25 Greenland overpass ha permesso di ridurre gli scontri con animali di oltre il 90%. Ora gli Usa si preparano ad aprire un ponte simile a Los Angeles.",
       "date": "2026-10-24T08:00:39.0000000Z"
-    },
-    {
-      "id": "tomshw:6a30b0d81171",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Gli scienziati provano a salvare i coralli usando il suono",
-      "url": "https://www.tomshw.it/scienze/i-suoni-aiutano-i-coralli-a-insediarsi-bastera-a-salvare-le-barriere",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120090/i-suoni-aiutano-i-coralli-a-insediarsi-bastera-a-salvare-le-barriere.png",
-      "summary": "Nel Mar dei Caraibi, i ricercatori della Woods Hole Oceanographic Institution (WHOI) stanno usando altoparlanti subacquei per favorire l’insediamento dei coralli sulle barriere degradate. Le registraz...",
-      "date": "2026-10-24T08:00:00.0000000Z"
-    },
-    {
-      "id": "tomshw:99c154a799ae",
-      "sourceId": "tomshw",
-      "source": "Tom's Hardware",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Migliori periferiche per Microsoft Flight Simulator (2026)",
-      "url": "https://www.tomshw.it/videogioco/migliori-periferiche-microsoft-flight-simulator",
-      "image": "https://cdn.tomshw.it/storage/media/2023/12/7058/07_microsoft-flight-simulator-premium-deluxe.jpg",
-      "summary": "Per scegliere una cloche per aereo su PC, partite dai velivoli: la cloche riproduce i comandi di molti Cessna e Boeing; il joystick è adatto agli Airbus e occupa meno spazio. Un HOTAS aggiunge la mane...",
-      "date": "2026-10-24T07:58:51.0000000Z"
-    },
-    {
-      "id": "hdblog:5d2b5934633a",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Stanotte torna l'ora solare: salute e risparmio a confronto",
-      "url": "https://www.hdblog.it/curiosita/articoli/n674778/ora-solare-2026-cambio-ora-salute-risparmio-energe/",
-      "image": null,
-      "summary": "Stanotte torna l'ora solare: gli scienziati la preferiscono, ma l'ora legale fa risparmiare.",
-      "date": "2026-10-24T07:55:00.0000000Z"
-    },
-    {
-      "id": "hdblog:61eebf2f88f1",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Ci sono già i primi iPhone Duo rotti: casi isolati o problema sistemico?",
-      "url": "https://www.hdblog.it/smartphone/articoli/n674765/apple-iphone-duo-rotti-display-interno-difetto/",
-      "image": null,
-      "summary": "Un utente australiano si è trovato il display interno KO appena sei ore dopo averlo ritirato in negozio. E a quanto pare casi analoghi sono stati segnalati sui social cinesi.",
-      "date": "2026-10-24T07:40:00.0000000Z"
-    },
-    {
-      "id": "hdblog:a57057b4b1f6",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Google Gemini, l'interfaccia cambia ancora: ecco le novità",
-      "url": "https://www.hdblog.it/google/articoli/n674773/google-gemini-android-restyling-menu-impostazioni/",
-      "image": null,
-      "summary": "Un paio di interventi per rendere tutto più semplice e ordinato.",
-      "date": "2026-10-24T07:20:00.0000000Z"
-    },
-    {
-      "id": "hdblog:04473ec89445",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "L&rsquo;AD di Ferrari pazzo della nuova Tesla, elogio inaspettato a Elon Musk",
-      "url": "https://www.hdmotori.it/ferrari-elogio-nuova-tesla/",
-      "image": null,
-      "summary": "Benedetto Vigna, amministratore delegato di Ferrari, ha attribuito un punteggio altissimo alla nuova Tesla Roadster",
-      "date": "2026-10-24T07:00:54.0000000Z"
-    },
-    {
-      "id": "hdblog:177fd76b0540",
-      "sourceId": "hdblog",
-      "source": "HDblog",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Nintendo lavora a una Switch 2 Lite? Filtrano indizi sul chip per contenere i costi",
-      "url": "https://www.hdblog.it/nintendo/articoli/n674763/nintendo-switch-2-lite-chip-samsung-8-nm-leak/",
-      "image": null,
-      "summary": "Non dovrebbe essere prodotto da Nvidia, ma da Samsung.",
-      "date": "2026-10-24T06:55:00.0000000Z"
-    },
-    {
-      "id": "dday:443afd04fd6a",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Roborock Saros 20 Neo è il robot aspirapolvere lavapavimenti che toglie di mezzo anche gli imprevisti",
-      "url": "https://www.dday.it/redazione/59120/roborock-saros-20-neo-e-il-robot-aspirapolvere-lavapavimenti-che-toglie-di-mezzo-anche-gli-imprevisti",
-      "image": null,
-      "summary": "",
-      "date": "2026-10-24T01:03:06.0000000Z"
     },
     {
       "id": "dday:d85f37811b8c",
@@ -315,16 +327,16 @@
       "date": "2026-10-24T01:03:06.0000000Z"
     },
     {
-      "id": "hdblog:8ba176df5f3a",
-      "sourceId": "hdblog",
-      "source": "HDblog",
+      "id": "dday:443afd04fd6a",
+      "sourceId": "dday",
+      "source": "DDay.it",
       "platform": "rss",
       "category": "tecnologia",
-      "title": "Anche in Europa dovremmo seguire l'esempio degli USA su TikTok?",
-      "url": "https://www.hdblog.it/mercato/articoli/n674762/tiktok-europa-scorporo-bytedance-modello-usa/",
+      "title": "Roborock Saros 20 Neo è il robot aspirapolvere lavapavimenti che toglie di mezzo anche gli imprevisti",
+      "url": "https://www.dday.it/redazione/59120/roborock-saros-20-neo-e-il-robot-aspirapolvere-lavapavimenti-che-toglie-di-mezzo-anche-gli-imprevisti",
       "image": null,
-      "summary": "Il proprietario e CEO dell'editore Axel Springer ne avrebbe parlato addirittura con l'ambasciatore francese degli USA, peraltro consuocero di Donald Trump.",
-      "date": "2026-10-23T17:45:00.0000000Z"
+      "summary": "",
+      "date": "2026-10-24T01:03:06.0000000Z"
     },
     {
       "id": "dday:1ffaf0452ef5",
@@ -421,18 +433,6 @@
       "image": null,
       "summary": "",
       "date": "2026-10-23T09:53:00.0000000Z"
-    },
-    {
-      "id": "dday:dfad2606fb9b",
-      "sourceId": "dday",
-      "source": "DDay.it",
-      "platform": "rss",
-      "category": "tecnologia",
-      "title": "Il rally può essere elettrificato: lo dimostra Opel con il debutto italiano dell'ADAC Opel GSe Rally Cup. Ci siamo stati",
-      "url": "https://www.dmove.it/reportage/il-rally-puo-essere-elettrificato-lo-dimostra-opel-con-il-debutto-italiano-delladac-opel-gse-rally-cup-ci-siamo-stati",
-      "image": null,
-      "summary": "",
-      "date": "2026-10-23T09:25:00.0000000Z"
     },
     {
       "id": "techprincess:Mdo9wm9rkts",
