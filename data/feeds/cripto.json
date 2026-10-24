@@ -1,7 +1,43 @@
 {
   "category": "cripto",
-  "updated": "2026-10-24T16:56:52.8159983Z",
+  "updated": "2026-10-24T19:21:03.6057825Z",
   "items": [
+    {
+      "id": "cryptonomist:88f06866f4f0",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Il problema di sicurezza del portafoglio Electrum è corretto dopo una perdita",
+      "url": "https://cryptonomist.ch/2026/10/24/problema-sicurezza-portafoglio-electrum/",
+      "image": null,
+      "summary": "Electrum ha rilasciato il 24 ottobre 2026 la versione 4.8.3 per correggere un problema di sicurezza del portafoglio Electrum. I server malevoli possono far firmare pagamenti agli attaccanti durante un aumento delle co...",
+      "date": "2026-10-24T18:32:00.0000000Z"
+    },
+    {
+      "id": "cryptonomist:dbe8bdeb24ac",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Il flusso in uscita di USDT da Binance segna il massimo orario di ottobre",
+      "url": "https://cryptonomist.ch/2026/10/24/flusso-in-uscita-usdt-binance/",
+      "image": null,
+      "summary": "Un flusso netto in uscita di USDT da Binance, pari a 49,9571 milioni in una sola ora, è il massimo orario di ottobre per l’exchange. Il movimento di Tether ha superato di oltre 3 milioni di USDT il precedente massimo ...",
+      "date": "2026-10-24T17:00:59.0000000Z"
+    },
+    {
+      "id": "cryptonomist:9a7aa81825d7",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "La stablecoin USBDC di US Bank su Stellar entra in un pilot dal vivo tra USA e UE",
+      "url": "https://cryptonomist.ch/2026/10/24/stablecoin-usbdc-us-bank-stellar/",
+      "image": null,
+      "summary": "La stablecoin USBDC di US Bank su Stellar mette la conformità US Bank ha scelto Stellar per la sua stablecoin USBDC e l’ha già testata in un pilot dal vivo tra Stati Uniti e UE. Tra i motivi della scelta ci sono il bl...",
+      "date": "2026-10-24T17:00:40.0000000Z"
+    },
     {
       "id": "cryptonomist:8e9fbbe1a876",
       "sourceId": "cryptonomist",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Nell’exploit su Initia non sono stati creati nuovi token: Agora ha spiegato il 23 ottobre 2026 che non è stato coniato AUSD su Initia, mentre i registri Ethereum mostrano 1,4 milioni di AUSD già esistenti spostati su ...",
       "date": "2026-10-24T11:16:58.0000000Z"
-    },
-    {
-      "id": "cryptonomist:1c8f3b0b18b9",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "La dominanza di Bitcoin nel mercato crypto tocca il 60%, BTC scende sotto 82.000 $",
-      "url": "https://cryptonomist.ch/2026/10/24/dominanza-bitcoin-mercato-crypto/",
-      "image": null,
-      "summary": "I flussi degli ETF e la riunione della Federal Reserve La dominanza di Bitcoin nel mercato crypto ha toccato il 60% il 21 ottobre, il livello più alto da maggio 2026. Il prezzo di BTC, intanto, fatica a tenere i guada...",
-      "date": "2026-10-24T11:16:10.0000000Z"
-    },
-    {
-      "id": "cryptonomist:fed3634aa592",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Vanguard S&P 500 ETF chiude in calo dello 0,53%, con la banda inferiore di Bollinger a 696,83 dollari in primo piano",
-      "url": "https://cryptonomist.ch/2026/10/24/voo-etf-vanguard-sp500-ribassista/",
-      "image": null,
-      "summary": "L'ETF Vanguard S&P 500 ha chiuso venerdì con un orientamento giornaliero ribassista di breve periodo…",
-      "date": "2026-10-24T11:15:43.0000000Z"
-    },
-    {
-      "id": "cryptonomist:220d2a013d30",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Il ritardo dell’aggiornamento Glamsterdam su Ethereum rinvia l’attivazione su Hoodi",
-      "url": "https://cryptonomist.ch/2026/10/24/ritardo-aggiornamento-glamsterdam-su-ethereum/",
-      "image": null,
-      "summary": "Gli sviluppatori hanno rinviato l’attivazione di Glamsterdam sulla testnet Hoodi, prevista per il 26 ottobre 2026. Il ritardo dell’aggiornamento Glamsterdam su Ethereum segue i problemi sul gas segnalati da ChainSecur...",
-      "date": "2026-10-24T11:15:27.0000000Z"
     }
   ]
 }
