@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-10-23T22:22:24.2763500Z",
+  "updated": "2026-10-24T00:53:47.9007398Z",
   "items": [
+    {
+      "id": "motor1:14426df24f1a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Leapmotor B03X (2026), perché comprarla e perché no",
+      "url": "https://it.motor1.com/reviews/812448/leapmotor-b03x-recensione-prova-video/",
+      "image": "https://cdn.motor1.com/images/mgl/P3Vk24/s3/leapmotor-b03x-2026-perche-comprarla-e-perche-no.jpg",
+      "summary": "Spaziosa, comoda e ben fatta, la B03X punta alla sostanza. Peccato per gli ADAS troppo invasivi",
+      "date": "2026-10-23T23:01:00.0000000Z"
+    },
     {
       "id": "motor1:1bd2518f3c98",
       "sourceId": "motor1",
@@ -123,18 +135,6 @@
       "date": "2026-10-23T15:00:25.0000000Z"
     },
     {
-      "id": "insideevs:60505a269d7a",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto elettriche, ecco i marchi con i clienti più soddisfatti (e perché)",
-      "url": "https://insideevs.it/news/813073/auto-elettriche-marchi-clienti-soddisfatti/",
-      "image": "https://cdn.motor1.com/images/mgl/0epPzn/s3/auto-elettriche-ecco-i-marchi-con-i-clienti-piu-soddisfatti-e-perche.jpg",
-      "summary": "Una nuova ricerca mette a confronto 24 marchi e racconta cosa convince davvero chi guida un'auto elettrica",
-      "date": "2026-10-23T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:3924544095d5",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -144,6 +144,18 @@
       "url": "https://it.motor1.com/news/812608/justin-bieber-snoop-dogg-auto-vip-hollywood/",
       "image": "https://cdn.motor1.com/images/mgl/1ZPY9p/s3/i-segreti-delle-auto-di-justin-bieber-jason-momoa-e-snoop-dogg.jpg",
       "summary": "Abbiamo intervistato Alex Manos, che vende auto classiche alle star di Hollywood, per capire cosa cercano i collezionisti",
+      "date": "2026-10-23T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:60505a269d7a",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto elettriche, ecco i marchi con i clienti più soddisfatti (e perché)",
+      "url": "https://insideevs.it/news/813073/auto-elettriche-marchi-clienti-soddisfatti/",
+      "image": "https://cdn.motor1.com/images/mgl/0epPzn/s3/auto-elettriche-ecco-i-marchi-con-i-clienti-piu-soddisfatti-e-perche.jpg",
+      "summary": "Una nuova ricerca mette a confronto 24 marchi e racconta cosa convince davvero chi guida un'auto elettrica",
       "date": "2026-10-23T15:00:00.0000000Z"
     },
     {
@@ -255,18 +267,6 @@
       "date": "2026-10-23T13:00:11.0000000Z"
     },
     {
-      "id": "motor1:b1fddeb09c10",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Veicoli commerciali leggeri, cosa non sta funzionando davvero con incentivi ed elettrico",
-      "url": "https://it.motor1.com/news/813034/mercato-veicoli-commerciali-leggeri-settembre/",
-      "image": "https://cdn.motor1.com/images/mgl/xqOBwG/s3/settembre-2026.jpg",
-      "summary": "In Italia UNRAE registra 15.737 immatricolazioni a settembre e un calo del 6,9% con quota elettriche pure ferma al 5,3%",
-      "date": "2026-10-23T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:ddd2c5714567",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -279,16 +279,16 @@
       "date": "2026-10-23T13:00:00.0000000Z"
     },
     {
-      "id": "motor1:20583c3ecf20",
+      "id": "motor1:b1fddeb09c10",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "A Roma i diesel Euro 4 ed Euro 5 non si fermano più",
-      "url": "https://it.motor1.com/news/813055/stop-blocco-diesel-roma-ztl-fascia-verde-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/P3gVbG/s3/strade-roma.jpg",
-      "summary": "Dal 1° novembre a Roma le auto diesel Euro 4 ed Euro 5 potranno continuare a circolare",
-      "date": "2026-10-23T12:30:00.0000000Z"
+      "title": "Veicoli commerciali leggeri, cosa non sta funzionando davvero con incentivi ed elettrico",
+      "url": "https://it.motor1.com/news/813034/mercato-veicoli-commerciali-leggeri-settembre/",
+      "image": "https://cdn.motor1.com/images/mgl/xqOBwG/s3/settembre-2026.jpg",
+      "summary": "In Italia UNRAE registra 15.737 immatricolazioni a settembre e un calo del 6,9% con quota elettriche pure ferma al 5,3%",
+      "date": "2026-10-23T13:00:00.0000000Z"
     },
     {
       "id": "motor1:66755c839675",
