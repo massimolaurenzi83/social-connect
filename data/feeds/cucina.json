@@ -1,7 +1,19 @@
 {
   "category": "cucina",
-  "updated": "2026-10-24T05:19:19.5186108Z",
+  "updated": "2026-10-24T09:38:50.8924917Z",
   "items": [
+    {
+      "id": "dissapore:e2aafe1c79a5",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Il carovita colpisce soprattutto la spesa per il cibo, e il peggio deve ancora venire",
+      "url": "https://www.dissapore.com/spesa/il-carovita-colpisce-soprattutto-la-spesa-per-il-cibo-e-il-peggio-deve-ancora-venire/",
+      "image": null,
+      "summary": "Negli ultimi quattro anni i prezzi alimentari sono aumentati del 24,9%, e secondo le previsioni della BCE continueranno a salire nel 2027. Tra crisi energetica, cambiamento climatico e salari fermi, fare la spesa dive...",
+      "date": "2026-10-24T08:03:00.0000000Z"
+    },
     {
       "id": "dissapore:430186691216",
       "sourceId": "dissapore",
@@ -183,18 +195,6 @@
       "date": "2026-10-21T15:12:00.0000000Z"
     },
     {
-      "id": "giallozafferano:910938456f1b",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Fantasmini biscotto",
-      "url": "https://ricette.giallozafferano.it/Fantasmini-biscotto.html",
-      "image": "https://www.giallozafferano.it/images/367-36705/Fantasmini-biscotto_1200x800.jpg",
-      "summary": "I fantasmini biscotto sono dei dolcetti di Halloween preparati con una friabile pasta frolla e un goloso ripieno di ganache al cioccolato fondente e latte condensato. La loro particolarità è proprio la forma che ricor...",
-      "date": "2026-10-21T15:11:00.0000000Z"
-    },
-    {
       "id": "giallozafferano:792607831f32",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -204,6 +204,18 @@
       "url": "https://ricette.giallozafferano.it/Dolce-al-cucchiaio-di-Halloween.html",
       "image": "https://www.giallozafferano.it/images/366-36698/Dolce-al-cucchiaio-di-Halloween_1200x800.jpg",
       "summary": "Per Halloween anche il dessert si traveste! Il dolce al cucchiaio di Halloween è un'idea golosa e divertente, perfetta per sorprendere grandi e piccoli con un pizzico di creatività. In questi bicchierini si alternano ...",
+      "date": "2026-10-21T15:11:00.0000000Z"
+    },
+    {
+      "id": "giallozafferano:910938456f1b",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Fantasmini biscotto",
+      "url": "https://ricette.giallozafferano.it/Fantasmini-biscotto.html",
+      "image": "https://www.giallozafferano.it/images/367-36705/Fantasmini-biscotto_1200x800.jpg",
+      "summary": "I fantasmini biscotto sono dei dolcetti di Halloween preparati con una friabile pasta frolla e un goloso ripieno di ganache al cioccolato fondente e latte condensato. La loro particolarità è proprio la forma che ricor...",
       "date": "2026-10-21T15:11:00.0000000Z"
     },
     {
@@ -277,18 +289,6 @@
       "image": null,
       "summary": "Il motivo è sempre il proliferare dei farmaci GLP-1 che sebra cambino anche le nostre percezioni olfattive, spingendoci verso nuovi odori. L'articolo Il mercato dei profumi che sanno di cibo sta andando fortissimo pro...",
       "date": "2026-10-20T12:50:42.0000000Z"
-    },
-    {
-      "id": "dissapore:c8cfc2048c1c",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "I consumi calano, ma la birra artigianale italiana è in crescita",
-      "url": "https://www.dissapore.com/bere/i-consumi-calano-ma-la-birra-artigianale-italiana-e-in-crescita/",
-      "image": null,
-      "summary": "Nell'anno del trentennale, la birra artigianale italiana conquista quote di mercato, seppur piccole, superando finalmente anche una storica soglia psicologica. L'articolo I consumi calano, ma la birra artigianale ital...",
-      "date": "2026-10-20T09:29:41.0000000Z"
     }
   ]
 }

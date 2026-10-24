@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-10-24T05:19:19.5968742Z",
+  "updated": "2026-10-24T09:38:51.0047000Z",
   "items": [
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-10-24T04:30:00.0000000Z"
+    },
     {
       "id": "qualenergia:28c24aba79dc",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "I prezzi dei moduli fotovoltaici importati in Europa sono rimasti sostanzialmente stabili nel corso di ottobre. Dietro questa apparente stabilità, tuttavia, stanno aumentando le pressioni sui costi lungo la filiera, m...",
       "date": "2026-10-23T07:00:57.0000000Z"
-    },
-    {
-      "id": "qualenergia:0f1e7131d22e",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Veneto: contributi ai giovani agricoltori anche per l’efficientamento energetico dell’azienda",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/veneto-contributi-giovani-agricoltori-efficientamento-energetica-azienda/",
-      "image": null,
-      "summary": "La Regione Veneto mette a disposizione 20 milioni di euro per sostenere gli investimenti delle aziende agricole nell’ambito del bando SRD01, che finanzia anche interventi di miglioramento dell’efficienza energetica de...",
-      "date": "2026-10-23T06:55:57.0000000Z"
     }
   ]
 }
