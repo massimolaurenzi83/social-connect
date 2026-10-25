@@ -1,18 +1,54 @@
 {
   "category": "arte",
-  "updated": "2026-10-25T12:30:50.7829263Z",
+  "updated": "2026-10-25T16:46:20.7648510Z",
   "items": [
     {
-      "id": "artribune:712c9bb39610",
+      "id": "elledecor:d09cd2e92334",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Una casa di campagna del '700 che riunisce colori audaci, pezzi vintage e un'anima bohémien",
+      "url": "https://www.elledecor.com/it/case/a74231051/casa-campagna-bohemien-bellissima/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ed0909-francer25-069-6619493baeaa9.jpg",
+      "summary": "Nella campagna del Connecticut, lo stilista Istvan Francer e il compagno John Cummins hanno trasformato una dimora del 1740 in un rifugio eclettico, dove il fascino degli arredi d'epoca incontra la libertà degli accos...",
+      "date": "2026-10-25T15:30:00.0000000Z"
+    },
+    {
+      "id": "artribune:ded2421a516e",
       "sourceId": "artribune",
       "source": "Artribune",
       "platform": "rss",
       "category": "arte",
-      "title": "La mostra di Luciano Fabro all’HangarBicocca di Milano: un compendio prezioso",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/10/hangar-bicocca-milano-grande-mostra-luciano-fabro/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/10/dji202610051516060002d-scaled.jpg",
-      "summary": "Fino al 21 febbraio 2027 è aperta “Abitare lo spazio”, la prima retrospettiva museale dedicata a Luciano Fabro in Italia dopo la scomparsa. Un percorso ricercato ma accessibile, che restituisce la grandezza dell'artis...",
-      "date": "2026-10-25T12:00:00.0000000Z"
+      "title": "Uccidi i tuoi maestri. Demoni di Goya e corpi di scarto: la genealogia inquieta dell’artista Giulia Cenci",
+      "url": "https://www.artribune.com/arti-visive/2026/10/uccidi-tuoi-maestri-giulia-cenci-spazio-taverna/",
+      "image": "https://www.artribune.com/wp-content/uploads/2025/11/lopera-di-giulia-cenci-per-frescobaldi-photo-nicola-gnesi-1-1-scaled.jpg",
+      "summary": "I giovani artisti italiani a confronto con i propri maestri sono al centro di “Uccidi i tuoi maestri”, la nuova rubrica che presenta i risultati della ricognizione sull’arte italiana del XXI Secolo condotta da Spazio ...",
+      "date": "2026-10-25T15:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:6f0fff79403e",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Tesla Roadster, quando il design automobilistico incontra l’ingegneria aerospaziale",
+      "url": "https://www.elledecor.com/it/barche-motori/motori/a74212875/tesla-roadster-quando-il-design-automobilistico-incontra-lingegneria-aerospaziale/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a5164af6-15d3-43ff-876c-b9dc5a966b0e.jpg",
+      "summary": "Presentata in Texas, la nuova Tesla Roadster unisce design automobilistico e tecnologia aerospaziale, trasformando una sportiva elettrica in un manifesto del futuro",
+      "date": "2026-10-25T14:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:3b85eaaa3ef0",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Archivi, corpi e denaro. 5 nuovi libri d‘arte e dintorni per capire il potere delle immagini",
+      "url": "https://www.artribune.com/editoria/libri/2026/10/5-nuovi-libri-autunno-2026/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/10/5-nuovi-libri-darte-e-cultura-da-leggere-nellautunno-2026.png",
+      "summary": "Nuovo appuntamento con i nostri consigli di lettura: dal viaggio di Franco Basaglia in Brasile alla rocambolesca vicenda del mercante d’arte Inigo Philbrick, fino al restauro delle opere d’arte digitali e altro ancora...",
+      "date": "2026-10-25T13:00:00.0000000Z"
     },
     {
       "id": "elledecor:5815b665b08f",
@@ -27,16 +63,16 @@
       "date": "2026-10-25T12:00:00.0000000Z"
     },
     {
-      "id": "elledecor:59605ccb120b",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
+      "id": "artribune:712c9bb39610",
+      "sourceId": "artribune",
+      "source": "Artribune",
       "platform": "rss",
       "category": "arte",
-      "title": "Archive Unlocked: dentro lo studio di Vico Magistretti a Milano",
-      "url": "https://www.elledecor.com/it/design/a74225804/fondazione-vico-magistretti-milano/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/cecda5da-1445-48b0-b222-c6688fa007fb.jpg",
-      "summary": "Il secondo capitolo della serie targata Elledecor.it ci porta al civico 1 di via Bellini dove Margherita Pellino, nipote del grande progettista, racconta memoria, intenti e promesse dello spazio, oggi Fondazione e mus...",
-      "date": "2026-10-25T11:00:00.0000000Z"
+      "title": "La mostra di Luciano Fabro all’HangarBicocca di Milano: un compendio prezioso",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/10/hangar-bicocca-milano-grande-mostra-luciano-fabro/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/10/dji202610051516060002d-scaled.jpg",
+      "summary": "Fino al 21 febbraio 2027 è aperta “Abitare lo spazio”, la prima retrospettiva museale dedicata a Luciano Fabro in Italia dopo la scomparsa. Un percorso ricercato ma accessibile, che restituisce la grandezza dell'artis...",
+      "date": "2026-10-25T12:00:00.0000000Z"
     },
     {
       "id": "artribune:47d8cbb5102e",
@@ -48,6 +84,18 @@
       "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/10/arthur-jafa-new-york/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/10/new-museum-arthur-jafa-i-am-tony0227.jpeg",
       "summary": "Il New Museum dedica ad Arthur Jafa una grande mostra che ripercorre la sua carriera e i temi che l’attraversano. Una mostra a cui fanno eco le opere di Taryn Simon, Deana Lawson e Cady Noland tra il Guggenheim e le g...",
+      "date": "2026-10-25T11:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:59605ccb120b",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Archive Unlocked: dentro lo studio di Vico Magistretti a Milano",
+      "url": "https://www.elledecor.com/it/design/a74225804/fondazione-vico-magistretti-milano/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/cecda5da-1445-48b0-b222-c6688fa007fb.jpg",
+      "summary": "Il secondo capitolo della serie targata Elledecor.it ci porta al civico 1 di via Bellini dove Margherita Pellino, nipote del grande progettista, racconta memoria, intenti e promesse dello spazio, oggi Fondazione e mus...",
       "date": "2026-10-25T11:00:00.0000000Z"
     },
     {
@@ -159,18 +207,6 @@
       "date": "2026-10-24T17:00:00.0000000Z"
     },
     {
-      "id": "artribune:517081bf01da",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Siamo stati alla Fashion Week di Taipei: la moda taiwanese tra identità e mercato. Il reportage",
-      "url": "https://www.artribune.com/progettazione/moda/2026/10/taipei-fashion-week-ss27/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/10/1-4-scaled.jpg",
-      "summary": "Tra Oriente e Occidente, artigianato e materiali artificiali: la moda taiwanese ridefinisce la propria posizione in uno spazio nuovo recentemente rigenerato L’articolo \" Siamo stati alla Fashion Week di Taipei: la mod...",
-      "date": "2026-10-24T16:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:b78abb03cb07",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -181,18 +217,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/99384f58-62fb-48d5-9c47-2767a0ee9702.jpg",
       "summary": "In Normandia, Studio Guma trasforma un’antica fattoria in una casa contemporanea, conservando le pareti in pietra e introducendo interni minimalisti, materiali naturali e arredi su misura",
       "date": "2026-10-24T14:30:00.0000000Z"
-    },
-    {
-      "id": "artribune:dfcbb83fd6a9",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Perché il lavoro di cura è tema culturale e cosa ha a che vedere con genere e razza. Se ne parla in un festival a Caserta",
-      "url": "https://www.artribune.com/arti-visive/2026/10/sabrina-efionayi-nadeesha-uyangoda-intervista-chimera-fest/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/10/casertavecchia-chimera-fest-scaled-e1759347381394.jpg",
-      "summary": "Sabrina Efionayi, scrittrice campana afrodiscendente e Nadeesha Uyangoda, nata in Sri Lanka e cresciuta in Lombardia, Premio Campiello Opera prima nel 2026 si incontrano al Chimera Fest di Caserta per ragionare su lav...",
-      "date": "2026-10-24T14:00:00.0000000Z"
     },
     {
       "id": "elledecor:6028325c0e60",
@@ -241,30 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/fdc5391d-9bb2-4468-a084-4390b0de22d8.jpg",
       "summary": "Dai canali del Delta dell'Okavango ai fiordi norvegesi, dall'Amazzonia alle lagune della Polinesia fino alle isole di Palau: 5 itinerari in cui l'acqua determina il ritmo e la direzione del viaggio",
       "date": "2026-10-24T10:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:a9965aa1dae0",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Una casa contemporanea dove il cemento disegna le soglie e il legno scandisce gli interni",
-      "url": "https://www.elledecor.com/it/case/a74236590/casa-in-cemento-bellissima/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/42723513-41c0-4b52-a97e-81a310a5f708.jpg",
-      "summary": "A Valencia, Viruta Lab progetta Casa Tossal, una residenza in cui materiali e geometrie attraversano tutti gli ambienti, dal giardino alle camere da letto, tra grandi vetrate, dettagli materici e arredi su misura",
-      "date": "2026-10-24T07:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:58201a0a0cae",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Una casa di 90mq a Milano è un appartamento minimalista costruito sulla misura di una famiglia",
-      "url": "https://www.elledecor.com/it/case/a74229568/casa-90mq-milano-minimalista/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/91ba004b-dbd9-4c81-ac58-1251e5e29be8.jpg",
-      "summary": "Gli architetti dello studio AADN firmano la ristrutturazione di questo appartamento meneghino con un approccio essenziale che fa spazio alla luce",
-      "date": "2026-10-24T06:00:00.0000000Z"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-25T12:30:50.7676783Z",
+  "updated": "2026-10-25T16:46:20.7545689Z",
   "items": [
+    {
+      "id": "ferrovie:75c259823cbf",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Le notizie ferroviarie della settimana tra locomotive, infrastrutture e treni storici",
+      "url": "https://www.ferrovie.info/treni-reali/le-notizie-ferroviarie-della-settimana-tra-locomotive-infrastrutture-e-treni-storici.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/11522/normal_ALn_776_Busitalia_Fidene.jpeg",
+      "summary": "Il mondo ferroviario chiude la settimana con aggiornamenti che riguardano locomotive, automotrici e treni destinati a nuovi impieghi. Tra interventi tecnologici, acquisizioni e trasferimenti oltre confine, il panorama...",
+      "date": "2026-10-25T16:15:53.0000000Z"
+    },
     {
       "id": "ferrovie:4edf9ff9742f",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10555/50963883902_ef32b6f3fd_o.jpg",
       "summary": "Due notizie di segno opposto interessano il mondo delle locomotive storiche Diesel italiane e, in particolare, un Gruppo che continua a essere protagonista dei treni turistici. Da una parte c’è una vicenda che desta p...",
       "date": "2026-10-23T06:34:47.0000000Z"
-    },
-    {
-      "id": "ferrovie:c588bb7ba21b",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "MIT, il bilancio dei quattro anni di Governo tra cantieri ferroviari e investimenti",
-      "url": "https://www.ferrovie.info/treni-reali/mit-il-bilancio-dei-quattro-anni-di-governo-tra-cantieri-ferroviari-e-investimenti.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1840353.JPG",
-      "summary": "Il Ministero delle Infrastrutture e dei Trasporti ha diffuso un bilancio delle attività svolte nei quattro anni dall’insediamento del Governo, indicando le risorse stanziate, i cantieri avviati e gli interventi realiz...",
-      "date": "2026-10-23T06:09:43.0000000Z"
     }
   ]
 }
