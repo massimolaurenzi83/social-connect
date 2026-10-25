@@ -1,7 +1,19 @@
 {
   "category": "spazio",
-  "updated": "2026-10-25T16:46:20.7557735Z",
+  "updated": "2026-10-25T19:20:32.0378308Z",
   "items": [
+    {
+      "id": "astronautinews:69e995bdf6db",
+      "sourceId": "astronautinews",
+      "source": "AstronautiNEWS",
+      "platform": "rss",
+      "category": "spazio",
+      "title": "Perduto uno dei modelli di sviluppo del mini shuttle europeo Space Rider",
+      "url": "https://www.astronautinews.it/2026/10/perduto-uno-dei-modelli-di-sviluppo-del-mini-shuttle-europeo-space-rider/",
+      "image": "https://www.astronautinews.it/wp-content/uploads/2026/10/First_full-size_Space_Rider_test_model_assembled_pillars.jpg",
+      "summary": "Lo scorso 22 ottobre, nel corso della rituale conferenza stampa convocata al termine del trentacinquesimo Consiglio dell'ESA, la direttrice del settore Space Transportation di ESA Géraldine Naja ha fornito vari aggior...",
+      "date": "2026-10-25T17:30:00.0000000Z"
+    },
     {
       "id": "astronautinews:e562311e4e05",
       "sourceId": "astronautinews",
@@ -133,18 +145,6 @@
       "image": "https://www.astronautinews.it/wp-content/uploads/2026/09/ESA-BepiC-MTM-sep-0926-scaled.jpg",
       "summary": "Dopo quasi 8 anni di viaggio il trenino sonda BepiColombo , realizzato dall’Agenzia spaziale europea ( ESA ) in collaborazione con quella giapponese JAXA , ha effettuato la prima manovra che segna l'inizio delle fasi ...",
       "date": "2026-09-03T20:21:38.0000000Z"
-    },
-    {
-      "id": "astronautinews:821fb8285f82",
-      "sourceId": "astronautinews",
-      "source": "AstronautiNEWS",
-      "platform": "rss",
-      "category": "spazio",
-      "title": "Lanciato MTG-I2, si completa la tripletta dei Meteosat di ultima generazione",
-      "url": "https://www.astronautinews.it/2026/08/lanciato-mtg-i2-si-completa-la-tripletta-dei-meteosat-di-ultima-generazione/",
-      "image": "https://www.astronautinews.it/wp-content/uploads/2026/08/MTG-I2_begins_its_journey-1.jpg",
-      "summary": "Lo scorso 27 agosto alle 22:11 CEST è decollata la missione MTG-I2, il terzo satellite della costellazione Meteosat Third Generation, destinato a portare numerosi miglioramenti alle previsioni meteorologiche, al monit...",
-      "date": "2026-08-31T07:00:00.0000000Z"
     }
   ]
 }
