@@ -1,18 +1,78 @@
 {
   "category": "motori",
-  "updated": "2026-10-25T07:00:01.5452902Z",
+  "updated": "2026-10-25T12:30:50.7609505Z",
   "items": [
     {
-      "id": "insideevs:8c0bd0a69928",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
+      "id": "motor1:5532f8914eaf",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Batterie allo stato solido, parte la corsa alla produzione di serie",
-      "url": "https://insideevs.it/news/812997/quantumscape-produzione-batterie-stato-solido/",
-      "image": "https://cdn.motor1.com/images/mgl/Vzvv4G/s3/quantumscape-battery-prototype.jpg",
-      "summary": "QuantumScape punta a una linea commerciale da 100 MWh nel 2028",
-      "date": "2026-10-25T06:00:00.0000000Z"
+      "title": "La prova della muscle car \"demoniaca\" con un V8 da 727 CV",
+      "url": "https://it.motor1.com/reviews/803448/dodge-challenger-hellcat-prova-guida/",
+      "image": "https://cdn.motor1.com/images/mgl/jl876k/s3/dodge-challenger-hellcat-la-prova.jpg",
+      "summary": "Potentissima, indisciplinata e inconfondibilmente americana: ecco la prova della Dodge Challenger Hellcat, un'icona fra le muscle USA",
+      "date": "2026-10-25T11:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:0560d7d9bd8d",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Elettriche cinesi usate: sconti e caro carburanti fanno più 280% in Europa",
+      "url": "https://www.vaielettrico.it/elettriche-cinesi-usate-sconti-e-caro-carburanti-fanno-piu-280-in-europa/",
+      "image": null,
+      "summary": "Dazi sulle elettriche cinesi nuove, limiti alle importazioni di ibride plug-in e caro carburanti spingono gli acquirenti verso… L'articolo Elettriche cinesi usate: sconti e caro carburanti fanno più 280% in Europa pro...",
+      "date": "2026-10-25T09:32:43.0000000Z"
+    },
+    {
+      "id": "vaielettrico:d55d6b4a4259",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Furgoni elettrici, calo dopo picco estivo. Unrae: «Aiuti per colonnine fast»",
+      "url": "https://www.vaielettrico.it/furgoni-elettrici-calo-dopo-picco-estivo-unrae-aiuti-per-colonnine-fast/",
+      "image": null,
+      "summary": "Sui furgoni elettrici si affievolisce l’effetto degli incentivi, condivisi con i veicoli endotermici. Dopo il picco del 7%… L'articolo Furgoni elettrici, calo dopo picco estivo. Unrae: «Aiuti per colonnine fast» provi...",
+      "date": "2026-10-25T09:19:12.0000000Z"
+    },
+    {
+      "id": "hdmotori:3f1cbbe45300",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mazda, da Hiroshima ad Aielli: un murale per raccontare la pace attraverso l’arte",
+      "url": "https://www.hdmotori.it/mazda-da-hiroshima-ad-aielli-un-murale-per-raccontare-la-pace-attraverso-larte/",
+      "image": null,
+      "summary": "A Borgo Universo, in Abruzzo, l’artista Kotè firma un’opera ispirata a Sadako Sasaki. Un progetto di Mazda Italia che intreccia memoria storica, solidarietà e speranza in un messaggio rivolto alle nuove generazioni. T...",
+      "date": "2026-10-25T08:00:50.0000000Z"
+    },
+    {
+      "id": "hdmotori:21510a2cbcd1",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Sicurezza: la NHTSA propone luci ciano per le auto a guida autonoma",
+      "url": "https://www.hdmotori.it/nhtsa-propone-luci-ciano-auto-guida-autonoma/",
+      "image": null,
+      "summary": "La nuova proposta di aggiornamento della norma FMVSS n. 108 introduce indicatori turchese opzionali per i veicoli senza conducente come il Cybercab. The post Sicurezza: la NHTSA propone luci ciano per le auto a guida ...",
+      "date": "2026-10-25T07:30:17.0000000Z"
+    },
+    {
+      "id": "hdmotori:50bea8d30fcb",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Eni proroga il price cap sui carburanti fino al 31 dicembre 2026",
+      "url": "https://www.hdmotori.it/eni-price-cap-carburanti-31-dicembre-2026/",
+      "image": null,
+      "summary": "Confermato il tetto a 1,99 euro per la benzina e 2,25 euro per il diesel, il gruppo rivendica la responsabilità sociale d'impresa mentre i consumatori sollecitano il Governo. The post Eni proroga il price cap sui carb...",
+      "date": "2026-10-25T07:00:11.0000000Z"
     },
     {
       "id": "motor1:352612ec2a2a",
@@ -24,6 +84,18 @@
       "url": "https://it.motor1.com/news/812924/toyota-corolla-storia-60-anni/",
       "image": "https://cdn.motor1.com/images/mgl/XBbm7v/s3/la-storia-della-toyota-corolla.jpg",
       "summary": "Introdotta nel 1966, è stata prodotta in 57 milioni di esemplari. Ripercorriamo la sua evoluzione lunga oltre mezzo secolo",
+      "date": "2026-10-25T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:8c0bd0a69928",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Batterie allo stato solido, parte la corsa alla produzione di serie",
+      "url": "https://insideevs.it/news/812997/quantumscape-produzione-batterie-stato-solido/",
+      "image": "https://cdn.motor1.com/images/mgl/Vzvv4G/s3/quantumscape-battery-prototype.jpg",
+      "summary": "QuantumScape punta a una linea commerciale da 100 MWh nel 2028",
       "date": "2026-10-25T06:00:00.0000000Z"
     },
     {
@@ -147,18 +219,6 @@
       "date": "2026-10-24T07:00:54.0000000Z"
     },
     {
-      "id": "insideevs:9ce4a43a19ad",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Fotovoltaico e auto elettrica, così il sole ricarica davvero la batteria",
-      "url": "https://insideevs.it/news/813082/fotovoltaico-auto-elettrica-funziona-ricarica/",
-      "image": "https://cdn.motor1.com/images/mgl/2N9Bjk/s3/fotovoltaico-e-auto-elettrica-cosi-il-sole-ricarica-davvero-la-batteria.jpg",
-      "summary": "La wallbox dialoga con l'inverter e sposta l'energia in eccesso verso l'auto invece che in rete",
-      "date": "2026-10-24T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:da5ad725e169",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -168,6 +228,18 @@
       "url": "https://it.motor1.com/news/809771/opel-agila-concept-a-storia/",
       "image": "https://cdn.motor1.com/images/mgl/bgOB9v/s3/opel-concept-a-1999.jpg",
       "summary": "Nel 1999 Opel presenta una piccola monovolume: compatta fuori e pensata per cambiare configurazione in pochi istanti",
+      "date": "2026-10-24T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:9ce4a43a19ad",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Fotovoltaico e auto elettrica, così il sole ricarica davvero la batteria",
+      "url": "https://insideevs.it/news/813082/fotovoltaico-auto-elettrica-funziona-ricarica/",
+      "image": "https://cdn.motor1.com/images/mgl/2N9Bjk/s3/fotovoltaico-e-auto-elettrica-cosi-il-sole-ricarica-davvero-la-batteria.jpg",
+      "summary": "La wallbox dialoga con l'inverter e sposta l'energia in eccesso verso l'auto invece che in rete",
       "date": "2026-10-24T05:00:00.0000000Z"
     },
     {
@@ -303,18 +375,6 @@
       "date": "2026-10-23T15:00:25.0000000Z"
     },
     {
-      "id": "motor1:3924544095d5",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ha venduto auto d'epoca alle star di Hollywood, ecco il suo garage",
-      "url": "https://it.motor1.com/news/812608/justin-bieber-snoop-dogg-auto-vip-hollywood/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZPY9p/s3/i-segreti-delle-auto-di-justin-bieber-jason-momoa-e-snoop-dogg.jpg",
-      "summary": "Abbiamo intervistato Alex Manos, che vende auto classiche alle star di Hollywood, per capire cosa cercano i collezionisti",
-      "date": "2026-10-23T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:60505a269d7a",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -324,6 +384,18 @@
       "url": "https://insideevs.it/news/813073/auto-elettriche-marchi-clienti-soddisfatti/",
       "image": "https://cdn.motor1.com/images/mgl/0epPzn/s3/auto-elettriche-ecco-i-marchi-con-i-clienti-piu-soddisfatti-e-perche.jpg",
       "summary": "Una nuova ricerca mette a confronto 24 marchi e racconta cosa convince davvero chi guida un'auto elettrica",
+      "date": "2026-10-23T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:3924544095d5",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ha venduto auto d'epoca alle star di Hollywood, ecco il suo garage",
+      "url": "https://it.motor1.com/news/812608/justin-bieber-snoop-dogg-auto-vip-hollywood/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZPY9p/s3/i-segreti-delle-auto-di-justin-bieber-jason-momoa-e-snoop-dogg.jpg",
+      "summary": "Abbiamo intervistato Alex Manos, che vende auto classiche alle star di Hollywood, per capire cosa cercano i collezionisti",
       "date": "2026-10-23T15:00:00.0000000Z"
     },
     {
@@ -351,42 +423,6 @@
       "date": "2026-10-23T14:34:13.0000000Z"
     },
     {
-      "id": "motor1:d78fe052c8e7",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il futuro di Lepas passa da questo concept ed è una hot hatch",
-      "url": "https://it.motor1.com/news/813079/lepas-aura-concept-informazioni-foto/",
-      "image": "https://cdn.motor1.com/images/mgl/XBbmWE/s3/lepas-aura---apresentacao-na-china.jpg",
-      "summary": "Il concept Lepas Aura anticipa il design di Chery, mentre cinque prototipi svelano le novità in arrivo",
-      "date": "2026-10-23T14:32:25.0000000Z"
-    },
-    {
-      "id": "hdmotori:83a8cfbd61f9",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volkswagen T-Roc Full Hybrid, Porte Aperte il 24 e 25 ottobre: in offerta da 30.500 euro",
-      "url": "https://www.hdmotori.it/volkswagen-t-roc-full-hybrid-porte-aperte/",
-      "image": null,
-      "summary": "Volkswagen T-Roc Hybrid protagonista del Porte Aperte del 24 e 25 ottobre: test drive nelle concessionarie italiane e offerta speciale di lancio The post Volkswagen T-Roc Full Hybrid, Porte Aperte il 24 e 25 ottobre: ...",
-      "date": "2026-10-23T14:30:09.0000000Z"
-    },
-    {
-      "id": "hdmotori:2f50777fae87",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Batteria auto scarica? Hyundai KONA e TUCSON ibride ripartono premendo un pulsante",
-      "url": "https://www.hdmotori.it/batteria-auto-scarica-hyundai-kona-tucson-ibride/",
-      "image": null,
-      "summary": "Hyundai Battery Reset permette di riavviare KONA e TUCSON ibride quando la batteria da 12 V si scollega. Come funziona e quando usare il pulsante The post Batteria auto scarica? Hyundai KONA e TUCSON ibride ripartono ...",
-      "date": "2026-10-23T14:00:06.0000000Z"
-    },
-    {
       "id": "insideevs:3565d5d0f0f9",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -399,18 +435,6 @@
       "date": "2026-10-23T14:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:e63048d3516f",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Yamaha MT-125 2027: affilata, connessa e sempre più Hyper Naked",
-      "url": "https://www.hdmotori.it/yamaha-mt-125-2027-novita-design-uscita/",
-      "image": null,
-      "summary": "Restyling profondo per la 125 di Yamaha, tra fari LED a lama, cruscotto smart da 5\" e la nuova livrea Redline White. Invariati motore VVA e ciclistica Deltabox. The post Yamaha MT-125 2027: affilata, connessa e sempre...",
-      "date": "2026-10-23T13:00:11.0000000Z"
-    },
-    {
       "id": "insideevs:ddd2c5714567",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -421,18 +445,6 @@
       "image": "https://cdn.motor1.com/images/mgl/9mWgkb/s3/gm-battery-factory.jpg",
       "summary": "Lo stabilimento è utilizzato per produrre batterie per la Cadillac Celestiq, nonché unità di propulsione per la Chevy Corvette E-Ray",
       "date": "2026-10-23T13:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:617391c08e4c",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Blocco tir? Il paradosso degli incentivi ai camion inquinanti",
-      "url": "https://www.vaielettrico.it/blocco-tir-il-paradosso-degli-incentivi-ai-camion-inquinanti/",
-      "image": null,
-      "summary": "Il blocco degli autotrasportatori ha svuotato i supermercati e provocato pesanti danni all’agricoltura, costringendo molti produttori a distruggere… L'articolo Blocco tir? Il paradosso degli incentivi ai camion inquin...",
-      "date": "2026-10-23T11:29:23.0000000Z"
     },
     {
       "id": "insideevs:e0fbe8319df3",
@@ -469,18 +481,6 @@
       "image": "https://cdn.motor1.com/images/mgl/6ZO10X/s3/auto-elettriche-sorpasso-benzina-europa-settembre-2026.jpg",
       "summary": "A settembre le BEV hanno rappresentato quasi il 30% delle vendite contro il 17,4 delle benzina",
       "date": "2026-10-23T09:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:05be813622d0",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Wallbox nel garage condominiale: cosa dice la legge?",
-      "url": "https://www.vaielettrico.it/wallbox-nel-garage-condominiale-cosa-dice-la-legge/",
-      "image": null,
-      "summary": "Auto elettrica, garage condominiale, fotovoltaico con accumulo. Ma un condomino si mette di traverso impedendo a Fabio di… L'articolo Wallbox nel garage condominiale: cosa dice la legge? proviene da Vaielettrico .",
-      "date": "2026-10-23T08:48:25.0000000Z"
     },
     {
       "id": "insideevs:0300d05f452d",

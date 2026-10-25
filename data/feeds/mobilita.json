@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-25T07:00:01.5760622Z",
+  "updated": "2026-10-25T12:30:50.7676783Z",
   "items": [
+    {
+      "id": "ferrovie:4edf9ff9742f",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Piastra logistica Terni-Narni, lavori al completamento nel 2027 e attivazione dal 2028",
+      "url": "https://www.ferrovie.info/treni-reali/piastra-logistica-terni-narni-lavori-al-completamento-nel-2027-e-attivazione-dal-2028.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10074/E189_400_CFI_03_06_2013_006.jpg",
+      "summary": "La Piastra logistica intermodale Terni-Narni torna al centro dell’attenzione per il suo ruolo nello sviluppo del trasporto merci e del sistema produttivo umbro. Dopo una fase caratterizzata da incertezze sulle tempist...",
+      "date": "2026-10-25T08:31:23.0000000Z"
+    },
     {
       "id": "ferrovie:6de32446531a",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1840353.JPG",
       "summary": "Il Ministero delle Infrastrutture e dei Trasporti ha diffuso un bilancio delle attività svolte nei quattro anni dall’insediamento del Governo, indicando le risorse stanziate, i cantieri avviati e gli interventi realiz...",
       "date": "2026-10-23T06:09:43.0000000Z"
-    },
-    {
-      "id": "ferrovie:b8b2363a1282",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Trenitalia, sospesa la cancellazione dei carnet Smart: confronto con i consumatori",
-      "url": "https://www.ferrovie.info/treni-reali/trenitalia-sospesa-la-cancellazione-dei-carnet-smart-confronto-con-i-consumatori.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10834/etr_410_1.jpg",
-      "summary": "Trenitalia sospende, almeno per il momento, la prevista cancellazione dei carnet Smart per i treni Frecciarossa e Frecciargento. La decisione di interrompere la vendita di questi pacchetti di viaggio, annunciata nei g...",
-      "date": "2026-10-22T16:00:00.0000000Z"
     }
   ]
 }
