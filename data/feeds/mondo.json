@@ -1,7 +1,31 @@
 {
   "category": "mondo",
-  "updated": "2026-10-25T01:47:20.8169482Z",
+  "updated": "2026-10-25T07:00:01.5092359Z",
   "items": [
+    {
+      "id": "ansa-mondo:023462711a0d",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Media: 'Un morto e dieci feriti in un attacco ucraino a Belgorod'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/25/media-un-morto-e-dieci-feriti-in-un-attacco-ucraino-a-belgorod_cb30db24-8a32-45b0-b227-400aa396a888.html",
+      "image": null,
+      "summary": "Otto persone sono state trasportate in ospedale",
+      "date": "2026-10-25T05:09:51.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:ddd6420f9c2a",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Il Brasile alle urne, Lula voterà a San Paolo e Bolsonaro a Rio",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/25/il-brasile-alle-urne-lula-votera-a-san-paolo-e-bolsonaro-a-rio_ea540d39-870d-4f1b-92b7-f310f9e356a8.html",
+      "image": null,
+      "summary": "Lula seguirà lo spoglio nello stesso hotel di quando vinse nel '22. Flavio a Brasilia",
+      "date": "2026-10-25T03:33:43.0000000Z"
+    },
     {
       "id": "ansa-mondo:1d5c317b3058",
       "sourceId": "ansa-mondo",
@@ -123,30 +147,6 @@
       "date": "2026-10-24T16:19:17.0000000Z"
     },
     {
-      "id": "ansa-mondo:a7c930bb32c3",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Scontri alla fine del corteo di Parigi, polizia con lacrimogeni e idranti",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/24/scontri-alla-fine-del-corteo-di-parigi-polizia-con-lacrimogeni-e-idranti_84bfa3ba-bce0-4cf5-8211-be7258e3c97b.html",
-      "image": null,
-      "summary": "Alla Porte de Vincennes, giovani con il volto coperto contro gli agenti",
-      "date": "2026-10-24T15:57:13.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:fed54711b170",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": ">ANSA-SCHEDA/ Tutto pronto in Brasile per il ballottaggio, 159 milioni al voto",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/24/ansa-scheda-tutto-pronto-in-brasile-per-il-ballottaggio-159-milioni-al-voto_c84ed99e-63c4-44b0-be14-8a92ec43755c.html",
-      "image": null,
-      "summary": "Domani urne aperte tra le 12 alle 21 italiane. Vietati gli exit poll",
-      "date": "2026-10-24T14:18:37.0000000Z"
-    },
-    {
       "id": "internazionale:0cf3034a89cc",
       "sourceId": "internazionale",
       "source": "Internazionale",
@@ -229,42 +229,6 @@
       "image": "https://media.internazionale.it/images/2026/10/23/362065-hd.jpg",
       "summary": "Per capire cos’ha spinto agricoltori e autotrasportatori a bloccare tutto bisogna guardare a un sistema che penalizza loro ma fa guadagnare altri Leggi",
       "date": "2026-10-23T12:04:44.0000000Z"
-    },
-    {
-      "id": "internazionale:25511ea42a63",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Guida alle elezioni in Israele",
-      "url": "https://www.internazionale.it/notizie/francesca-gnetti/2026/10/23/guida-elezioni-israele",
-      "image": "https://media.internazionale.it/images/2026/10/21/361817-hd.jpg",
-      "summary": "Quali sono i partiti e i candidati che si sfidano il 27 ottobre. E quali sono le caratteristiche e le anomalie del sistema israeliano Leggi",
-      "date": "2026-10-23T03:44:01.0000000Z"
-    },
-    {
-      "id": "internazionale:4654b24d2054",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Stefano Rapone torna alle origini",
-      "url": "https://www.internazionale.it/notizie/giovanni-ansaldo/2026/10/23/stefano-rapone-intervista-spettacolo",
-      "image": "https://media.internazionale.it/images/2026/10/22/362000-hd.jpg",
-      "summary": "Dopo Tintoria e il GialappaShow, il comico è tornato nei teatri, dove sta portando il suo nuovo spettacolo Leggi",
-      "date": "2026-10-23T03:41:01.0000000Z"
-    },
-    {
-      "id": "internazionale:d81f5572738a",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Le violenze dei coloni in Cisgiordania non finiranno con le elezioni",
-      "url": "https://www.internazionale.it/notizie/pierre-haski/2026/10/23/elezioni-israele-violenze-coloni",
-      "image": "https://media.internazionale.it/images/2026/10/22/361996-hd.jpg",
-      "summary": "A pochi giorni dal voto in Israele quasi nessuno si preoccupa dell’aumento degli attacchi contro i palestinesi Leggi",
-      "date": "2026-10-23T03:04:02.0000000Z"
     }
   ]
 }

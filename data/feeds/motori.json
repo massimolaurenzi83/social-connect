@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-10-25T01:47:20.7763420Z",
+  "updated": "2026-10-25T07:00:01.5452902Z",
   "items": [
+    {
+      "id": "insideevs:8c0bd0a69928",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Batterie allo stato solido, parte la corsa alla produzione di serie",
+      "url": "https://insideevs.it/news/812997/quantumscape-produzione-batterie-stato-solido/",
+      "image": "https://cdn.motor1.com/images/mgl/Vzvv4G/s3/quantumscape-battery-prototype.jpg",
+      "summary": "QuantumScape punta a una linea commerciale da 100 MWh nel 2028",
+      "date": "2026-10-25T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:352612ec2a2a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I 60 anni di storia della Toyota Corolla",
+      "url": "https://it.motor1.com/news/812924/toyota-corolla-storia-60-anni/",
+      "image": "https://cdn.motor1.com/images/mgl/XBbm7v/s3/la-storia-della-toyota-corolla.jpg",
+      "summary": "Introdotta nel 1966, è stata prodotta in 57 milioni di esemplari. Ripercorriamo la sua evoluzione lunga oltre mezzo secolo",
+      "date": "2026-10-25T06:00:00.0000000Z"
+    },
     {
       "id": "motor1:45cffe409114",
       "sourceId": "motor1",
@@ -351,18 +375,6 @@
       "date": "2026-10-23T14:30:09.0000000Z"
     },
     {
-      "id": "motor1:024653d63dad",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il canone del noleggio lungo termine non basta, ecco come capire quanto paghi davvero",
-      "url": "https://it.motor1.com/features/813074/noleggio-lungo-termine-calcolare-costo/",
-      "image": "https://cdn.motor1.com/images/mgl/Mkg8vn/s3/come-rinegoziare-i-contratti-di-noleggio-lungo-termine-di-una-flotta.jpg",
-      "summary": "Anticipo, durata, chilometri inclusi e servizi incidono davvero sul canone del noleggio lungo termine e sui possibili addebiti finali",
-      "date": "2026-10-23T14:30:00.0000000Z"
-    },
-    {
       "id": "hdmotori:2f50777fae87",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/ko87KM/s3/batterie-al-litio-il-trucco-per-guardare-dentro-la-sei-senza-rovinarla.jpg",
       "summary": "Un mix di raggi X e freddo estremo permette di studiare lo strato che protegge il litio metallico senza cambiarlo mentre lo si osserva",
       "date": "2026-10-22T14:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:76b9b025bbad",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ci siamo: il robot di Tesla è in produzione",
-      "url": "https://insideevs.it/news/812901/tesla-optimus-produzione-utili-calo/",
-      "image": "https://cdn.motor1.com/images/mgl/2N9B0k/s3/il-robot-umanoide-optimus-di-tesla.jpg",
-      "summary": "Optimus è uscito dalle linee produttive di Fremont, in California. Tesla punta a 20.000 unità a settimana entro la fine del 2027",
-      "date": "2026-10-22T13:00:00.0000000Z"
     }
   ]
 }

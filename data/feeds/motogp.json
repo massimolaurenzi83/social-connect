@@ -1,7 +1,91 @@
 {
   "category": "motogp",
-  "updated": "2026-10-25T01:47:20.8027465Z",
+  "updated": "2026-10-25T07:00:01.5378998Z",
   "items": [
+    {
+      "id": "gpone:61be6d9c06c9",
+      "sourceId": "gpone",
+      "source": "GPone",
+      "platform": "rss",
+      "category": "motogp",
+      "title": "GP cancellato, i piloti salutano Phillip Island dopo la parata: “Peccato finire così”",
+      "url": "https://www.gpone.com/it/2026/10/25/motogp/gp-cancellato-i-piloti-salutano-phillip-island-dopo-la-parata-peccato-finire-cosi.html",
+      "image": null,
+      "summary": "Da Miller a Morbidelli, passando per Bagnaia, Bastianini e Bezzecchi, i piloti della MotoGP non hanno nascosto il loro dispiacere per non essersi potuti congedare dalla pista australiana con un’altra battaglia",
+      "date": "2026-10-25T06:37:28.0000000Z"
+    },
+    {
+      "id": "gpone:4d41b95f3606",
+      "sourceId": "gpone",
+      "source": "GPone",
+      "platform": "rss",
+      "category": "motogp",
+      "title": "VIDEO - GP cancellato a Phillip Island: l'ultimo saluto di Miller e dei piloti",
+      "url": "https://www.gpone.com/it/2026/10/25/motogp/video-lultimo-saluto-dei-piloti-a-phillip-island.html",
+      "image": null,
+      "summary": "Il maltempo cancella l'ultima gara della MotoGP a Phillip Island. I piloti salutano il pubblico con un giro d'onore: il racconto dalla griglia.",
+      "date": "2026-10-25T05:20:16.0000000Z"
+    },
+    {
+      "id": "gpone:78036cfbf8cc",
+      "sourceId": "gpone",
+      "source": "GPone",
+      "platform": "rss",
+      "category": "motogp",
+      "title": "LIVE MotoGP Phillip Island: CANCELLATO, nessuna ultima danza",
+      "url": "https://www.gpone.com/it/2026/10/24/motogp/live-motogp-phillip-island-la-diretta-del-gran-premio-daustralia.html",
+      "image": null,
+      "summary": "Non c'è stata la possibilità di vivere un ultimo e magari leggendario GP a Phillip island, il meteo ha reso impossibile l'ultimo ruggito",
+      "date": "2026-10-25T04:57:00.0000000Z"
+    },
+    {
+      "id": "gpone:dc569807c7a6",
+      "sourceId": "gpone",
+      "source": "GPone",
+      "platform": "rss",
+      "category": "motogp",
+      "title": "La pioggia fa un regalo a Martín e uno a Márquez: il paradosso del Mondiale",
+      "url": "https://www.gpone.com/it/2026/10/25/motogp/la-pioggia-fa-un-regalo-a-martin-e-uno-a-marquez-il-paradosso-del-mondiale.html",
+      "image": null,
+      "summary": "Il GP d'Australia cancellato evita a Jorge di perdere altri 25 punti contro Marc. Ma se salta anche il Qatar, resteranno soltanto 111 punti da assegnare: il vantaggio del ducatista peserà sempre di più",
+      "date": "2026-10-25T04:55:25.0000000Z"
+    },
+    {
+      "id": "gpone:f82c5d4251a4",
+      "sourceId": "gpone",
+      "source": "GPone",
+      "platform": "rss",
+      "category": "motogp",
+      "title": "MotoGP, cancellato il GP d'Australia: elicottero medico bloccato per la scarsa visibilità",
+      "url": "https://www.gpone.com/it/2026/10/25/motogp/ultimora-il-gran-premio-di-australia-e-stato-cancellato.html",
+      "image": null,
+      "summary": "La scarsa visibilità non consente all'elicottero medico di volare. I piloti faranno un giro dietro alla Safety Car per salutare i tifosi",
+      "date": "2026-10-25T04:40:20.0000000Z"
+    },
+    {
+      "id": "gpone:5b6598f4bffb",
+      "sourceId": "gpone",
+      "source": "GPone",
+      "platform": "rss",
+      "category": "motogp",
+      "title": "Infortunio Martín, l'avvertimento di Phillip Island: da Fogarty al precedente Márquez",
+      "url": "https://www.gpone.com/it/2026/10/25/wsbk/phillip-island-da-fogarty-a-martin-quando-una-caduta-puo-cambiare-una-carriera.html",
+      "image": null,
+      "summary": "Nel 2000 Carl Fogarty si fratturò l'omero sinistro a Phillip Island. Ventisei anni dopo, sullo stesso circuito, Jorge Martín deve fare i conti con un'altra grave frattura",
+      "date": "2026-10-25T03:49:30.0000000Z"
+    },
+    {
+      "id": "gpone:c07dc3bfea0e",
+      "sourceId": "gpone",
+      "source": "GPone",
+      "platform": "rss",
+      "category": "motogp",
+      "title": "Maltempo a Phillip Island: gara MotoGP alle 6.30 italiane, cancellate Moto2 e Moto3",
+      "url": "https://www.gpone.com/it/2026/10/25/motogp/phillip-island-la-gara-della-motogp-partira-alle-6-italiane-moto2-e-moto3-cancellate.html",
+      "image": null,
+      "summary": "L'ultimo aggiornamento ufficiale ha fissato l'orario di partenza del GP della classe regina, mentre le classi minori non correranno",
+      "date": "2026-10-25T03:07:35.0000000Z"
+    },
     {
       "id": "gpone:06640910656a",
       "sourceId": "gpone",
@@ -20,23 +104,11 @@
       "source": "GPone",
       "platform": "rss",
       "category": "motogp",
-      "title": "Non c'è l'elicottero medico: tutto fermo a Phillip Island",
+      "title": "Non c'è l'elicottero medico per il maltempo: tutto fermo a Phillip Island",
       "url": "https://www.gpone.com/it/2026/10/25/motogp/non-ce-lelicottero-medico-tutto-fermo-a-phillip-island.html",
       "image": null,
-      "summary": "NOTIZIA IN AGGIORNAMENTO - A causa della scarsa visibilità il mezzo di soccorso non può volare. La pista aprirà solo alle 15, ora locale, nel migliore dei casi",
+      "summary": "NOTIZIA IN AGGIORNAMENTO - A causa della scarsa visibilità il mezzo di soccorso non può volare. La pista aprirà solo alle 15. Gara Moto3 cancellata",
       "date": "2026-10-24T22:52:11.0000000Z"
-    },
-    {
-      "id": "gpone:78036cfbf8cc",
-      "sourceId": "gpone",
-      "source": "GPone",
-      "platform": "rss",
-      "category": "motogp",
-      "title": "LIVE MotoGP Phillip Island: la diretta del Gran Premio d'Australia",
-      "url": "https://www.gpone.com/it/2026/10/24/motogp/live-motogp-phillip-island-la-diretta-del-gran-premio-daustralia.html",
-      "image": null,
-      "summary": "Márquez torna leader del mondiale dopo la Sprint, ma Martín è fuori per infortunio e rischia di saltare altri GP. Bezzecchi cerca la rimonta, Ducati sogna l'allungo",
-      "date": "2026-10-24T17:11:00.0000000Z"
     },
     {
       "id": "gpone:4652d73b6d86",
@@ -73,78 +145,6 @@
       "image": null,
       "summary": "VIDEO - La caduta di Martín a Phillip Island rischia di decidere il Mondiale. Marc torna leader e Jorge potrebbe saltare anche i prossimi GP, Bezzecchi è a -50. Ne parliamo con Carlo Pernat.",
       "date": "2026-10-24T09:47:00.0000000Z"
-    },
-    {
-      "id": "gpone:99a316169fae",
-      "sourceId": "gpone",
-      "source": "GPone",
-      "platform": "rss",
-      "category": "motogp",
-      "title": "Miller: “Andare a punti nella Sprint è più di quanto potessimo chiedere”",
-      "url": "https://www.gpone.com/it/2026/10/24/motogp/miller-andare-a-punti-nella-sprint-e-piu-di-quanto-potessimo-chiedere.html",
-      "image": null,
-      "summary": "“Speravo in un pomeriggio più umido. Ero un bersaglio facile in rettilineo e mi sono bloccato dietro a Binder, ma è stata una buona gara. Le previsioni per domani sembrano buone, partire davanti sarà d’aiuto”",
-      "date": "2026-10-24T08:27:33.0000000Z"
-    },
-    {
-      "id": "gpone:403fd101fe28",
-      "sourceId": "gpone",
-      "source": "GPone",
-      "platform": "rss",
-      "category": "motogp",
-      "title": "Zarco: \"Quando corri coi ragazzi davanti diventa chiaro cosa manca sulla moto\"",
-      "url": "https://www.gpone.com/it/2026/10/24/motogp/zarco-quando-corri-coi-ragazzi-davanti-diventa-chiaro-cosa-manca-sulla-moto.html",
-      "image": null,
-      "summary": "\"E' stata una sfortuna, un guasto elettronico. Mi sono fermato per non correre rischi stupidi. Domani spero si corra sul bagnato, è l'unica chance che abbiamo di fare podio da qui a fine stagione\"",
-      "date": "2026-10-24T07:20:23.0000000Z"
-    },
-    {
-      "id": "gpone:74a7f13968fc",
-      "sourceId": "gpone",
-      "source": "GPone",
-      "platform": "rss",
-      "category": "motogp",
-      "title": "Marc Marquez vince la sprint e va in testa: “Non avrei lottato così se non fosse stato Martin”",
-      "url": "https://www.gpone.com/it/2026/10/24/motogp/marc-marquez-non-avrei-lottato-cosi-se-non-fosse-stato-martin.html",
-      "image": null,
-      "summary": "“Dieci anni fa mi buttavo in qualunque battaglia. Ora cerco di gestire meglio queste situazioni, ma oggi era il momento di rischiare. Alex era più veloce di me, forse non mi ha attaccato perché ero io”",
-      "date": "2026-10-24T07:17:33.0000000Z"
-    },
-    {
-      "id": "gpone:3d03e8ea8342",
-      "sourceId": "gpone",
-      "source": "GPone",
-      "platform": "rss",
-      "category": "motogp",
-      "title": "Bagnaia: \"Non cambia niente: non ho velocità né sul bagnato, né sull'asciutto\"",
-      "url": "https://www.gpone.com/it/2026/10/24/motogp/bagnaia-non-cambia-niente-non-ho-velocita-ne-sul-bagnato-ne-sullasciutto.html",
-      "image": null,
-      "summary": "\"Purtroppo mi sono fermato per un problema tecnico, sono cose che possono succedere. In qualifica abbiamo sbagliato strategia\"",
-      "date": "2026-10-24T07:01:21.0000000Z"
-    },
-    {
-      "id": "gpone:f93c38468f7f",
-      "sourceId": "gpone",
-      "source": "GPone",
-      "platform": "rss",
-      "category": "motogp",
-      "title": "Acosta deluso dalla KTM: \"La moto era molto instabile, mi sono limitato a portarla al traguardo\"",
-      "url": "https://www.gpone.com/it/2026/10/24/motogp/acosta-la-ktm-era-molto-instabile-mi-sono-limitato-a-portarla-al-traguardo.html",
-      "image": null,
-      "summary": "\"Oggi non c'era molto altro da fare. La moto si muoveva dappertutto e non girava neanche così bene. Sul bagnato? Andiamo bene solo con tanta acqua\"",
-      "date": "2026-10-24T06:57:54.0000000Z"
-    },
-    {
-      "id": "gpone:c6118d86982e",
-      "sourceId": "gpone",
-      "source": "GPone",
-      "platform": "rss",
-      "category": "motogp",
-      "title": "Alex Marquez: \"Potevo attaccare Marc, ma il rischio era troppo grande\"",
-      "url": "https://www.gpone.com/it/2026/10/24/motogp/alex-marquez-potevo-attaccare-marc-ma-il-rischio-era-troppo-grande.html",
-      "image": null,
-      "summary": "\"Non è che Marc non sbagli mai: siamo tutti esseri umani e anche lui può commettere errori. Il fatto è che Marc trasforma la paura in motivazione\"",
-      "date": "2026-10-24T06:38:23.0000000Z"
     }
   ]
 }
