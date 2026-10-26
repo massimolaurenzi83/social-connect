@@ -1,7 +1,43 @@
 {
   "category": "energia",
-  "updated": "2026-10-26T04:29:11.2095290Z",
+  "updated": "2026-10-26T10:26:06.3712337Z",
   "items": [
+    {
+      "id": "qualenergia:cff3da5a3c0c",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Batterie EV dismesse: quando conviene la seconda vita?",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/batterie-ev-dismesse-quando-conviene-seconda-vita/",
+      "image": null,
+      "summary": "Le batterie ritirate dalle auto elettriche (EV) possono rendere meno costoso l’accumulo di energia da fonte rinnovabile, ma solo se il risparmio rispetto alle nuove batterie supera i costi di verifica, adattamento e g...",
+      "date": "2026-10-26T09:30:54.0000000Z"
+    },
+    {
+      "id": "qualenergia:375976edeb33",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Rinnovabili, nuovi obblighi di comunicazione: gli installatori chiedono chiarimenti al Mase",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/rinnovabili-nuovi-obblighi-comunicazione-installatori-chiedono-chiarimenti-mase/",
+      "image": null,
+      "summary": "I nuovi obblighi di comunicazione per gli impianti a fonti rinnovabili rischiano di tradursi in ulteriori oneri burocratici e incertezze per le imprese installatrici, a causa di alcune disposizioni normative ancora po...",
+      "date": "2026-10-26T08:45:49.0000000Z"
+    },
+    {
+      "id": "qualenergia:a7b935f1fe7f",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Emissioni metano, il Parlamento Ue è per un maxi rinvio dei nuovi obblighi",
+      "url": "https://www.qualenergia.it/articoli/emissioni-metano-parlamento-ue-maxi-rinvio-nuovi-obblighi/",
+      "image": null,
+      "summary": "Non uno ma tre anni di rinvio per l’attuazione di alcune disposizioni del regolamento Ue 2024/1787 sulle emissioni di metano. La proposta arriva dal Parlamento europeo e supera ampiamente quella presentata il 15 ottob...",
+      "date": "2026-10-26T08:00:48.0000000Z"
+    },
     {
       "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
@@ -12,7 +48,7 @@
       "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
       "image": null,
       "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
-      "date": "2026-10-25T05:30:00.0000000Z"
+      "date": "2026-10-26T05:30:00.0000000Z"
     },
     {
       "id": "qualenergia:28c24aba79dc",
@@ -24,7 +60,7 @@
       "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
       "image": null,
       "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
-      "date": "2026-10-24T04:00:00.0000000Z"
+      "date": "2026-10-26T05:00:00.0000000Z"
     },
     {
       "id": "qualenergia:92dee9feb9f7",
@@ -87,6 +123,18 @@
       "date": "2026-10-23T10:00:57.0000000Z"
     },
     {
+      "id": "qualenergia:949e61ca2b7f",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Moduli FV in Europa, prezzi stabili ma pressioni in aumento",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/moduli-fotovoltaici-europa-prezzi-stabili-pressioni-aumento/",
+      "image": null,
+      "summary": "I prezzi dei moduli fotovoltaici importati in Europa sono rimasti sostanzialmente stabili nel corso di ottobre. Dietro questa apparente stabilità, tuttavia, stanno aumentando le pressioni sui costi lungo la filiera, m...",
+      "date": "2026-10-23T09:15:57.0000000Z"
+    },
+    {
       "id": "qualenergia:b9dbe5131193",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -97,54 +145,6 @@
       "image": null,
       "summary": "Nel 2025 l’Unione europea ha importato pannelli fotovoltaici, biocarburanti liquidi e turbine eoliche da Paesi extra-Ue per un valore complessivo di 11,4 miliardi di euro, a fronte di esportazioni per 4,6 miliardi, co...",
       "date": "2026-10-23T09:15:52.0000000Z"
-    },
-    {
-      "id": "qualenergia:9e2d83b4e249",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Il decoupling italiano: calano le emissioni, aumenta il Pil",
-      "url": "https://www.qualenergia.it/articoli/decoupling-italiano-calano-emissioni-gas-serra-aumenta-pil/",
-      "image": null,
-      "summary": "Le emissioni di gas serra in Italia dovrebbero diminuire dell’1,5% nel 2026 rispetto al 2025, mentre il Pil dovrebbe aumentare dello 0,8% circa quest’anno. La previsione è di Ispra (Istituto Superiore per la Protezion...",
-      "date": "2026-10-23T08:30:05.0000000Z"
-    },
-    {
-      "id": "qualenergia:b065e9460bd7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Il decreto sulla qualità dell’aria resta nell’aria",
-      "url": "https://www.qualenergia.it/articoli/decreto-qualita-aria-resta-aria/",
-      "image": null,
-      "summary": "Il nuovo decreto sulla qualità dell’aria si è scontrato con le Regioni. Nella seduta di ieri, 22 ottobre, la Conferenza Unificata ha rinviato il parere sullo schema di decreto legislativo recante attuazione della dire...",
-      "date": "2026-10-23T08:00:41.0000000Z"
-    },
-    {
-      "id": "qualenergia:3187bc38ebd2",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Rinnovabili, quando l’impianto si considera realmente in esercizio",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/rinnovabili-quando-impianto-considera-realmente-esercizio/",
-      "image": null,
-      "summary": "Secondo il Consiglio di Stato si può affermare che un impianto a fonte rinnovabile sia entrato in esercizio quando avviene il funzionamento in parallelo con il sistema elettrico, cioè con l’effettiva produzione e immi...",
-      "date": "2026-10-23T07:30:55.0000000Z"
-    },
-    {
-      "id": "qualenergia:949e61ca2b7f",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Moduli FV in Europa, prezzi stabili ma pressioni in aumento",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/moduli-fotovoltaici-europa-prezzi-stabili-pressioni-aumento/",
-      "image": null,
-      "summary": "I prezzi dei moduli fotovoltaici importati in Europa sono rimasti sostanzialmente stabili nel corso di ottobre. Dietro questa apparente stabilità, tuttavia, stanno aumentando le pressioni sui costi lungo la filiera, m...",
-      "date": "2026-10-23T07:00:57.0000000Z"
     }
   ]
 }

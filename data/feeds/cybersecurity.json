@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-26T04:29:11.1534348Z",
+  "updated": "2026-10-26T10:26:06.3696878Z",
   "items": [
+    {
+      "id": "cybersecurity360:9c3cc48a6294",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Sicurezza dei modelli AI, perché l’allineamento non basta a fermare i comportamenti pericolosi",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/sicurezza-dei-modelli-ai-perche-lallineamento-non-basta-a-fermare-i-comportamenti-pericolosi/",
+      "image": null,
+      "summary": "I test condotti da OpenAI e Anthropic mostrano che anche i modelli AI più avanzati possono oltrepassare i limiti operativi previsti. La sicurezza non dipende soltanto dall'allineamento, ma anche dal controllo di privi...",
+      "date": "2026-10-26T09:01:18.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:38defa1817d1",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il senso relativo del riconoscimento facciale con l’incubo dei falsi positivi",
+      "url": "https://www.cybersecurity360.it/outlook/riconoscimento-facciale-propaganda/",
+      "image": null,
+      "summary": "Si succedono gli interventi governativi nelle varie nazioni. Con i legislatori che non sfuggono alla retorica sul riconoscimento facciale concentrandosi sugli effetti positivi e non sui limiti di questa tecnologia. Pe...",
+      "date": "2026-10-26T08:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:600c5ea2bd3d",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Come l’AI sta cambiando gli attacchi cyber e come difendersi",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/come-lai-sta-cambiando-gli-attacchi-cyber-e-come-difendersi/",
+      "image": null,
+      "summary": "Gli attacchi informatici con AI cambiano velocità e scala. Microsoft documenta campagne con ARTEX capaci di ottenere privilegi cloud in meno di tre ore, mentre Sophos osserva agenti AI usati per sviluppare attacchi. P...",
+      "date": "2026-10-26T07:58:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:eb43e473ee7c",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Le vulnerabilità critiche PHP2Shell espongono i sistemi al rischio di esecuzione di codice da remoto. Ma installare gli aggiornamenti non basta: occorre verificare runtime, container e servizi cloud, individuare event...",
       "date": "2026-10-23T09:35:01.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:454d992d0be2",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "La cooperazione come cultura nei trattamenti dati per finalità di Polizia",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/la-cooperazione-come-cultura-nei-trattamenti-dati-per-finalita-di-polizia/",
-      "image": null,
-      "summary": "Nel trattamento dei dati personali per finalità di Polizia, esistono buone pratiche che trasformano la grammatica comune in comportamento quotidiano. Ecco perché privacy ed efficacia operativa non sono avversarie L'ar...",
-      "date": "2026-10-23T08:37:33.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:728538ffbd39",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "AI Act, il decreto italiano entra in vigore: nuovi poteri di controllo e rischi per le aziende",
-      "url": "https://www.cybersecurity360.it/legal/ai-act-il-decreto-italiano-entra-in-vigore-nuovi-poteri-di-controllo-e-rischi-per-le-aziende/",
-      "image": null,
-      "summary": "Dal 23 ottobre 2026 entra in vigore il D.lgs. 179/2026, che definisce il sistema italiano di vigilanza sull'AI Act. ACN, AgID e autorità settoriali avranno compiti specifici su controlli e sanzioni. Per le imprese div...",
-      "date": "2026-10-23T06:30:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:cbd1238dda1d",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "NDR e Network Traffic Analysis per la difesa di rete",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/ndr-e-network-traffic-analysis-per-la-difesa-di-rete/",
-      "image": null,
-      "summary": "Come rilevare e bloccare le minacce che aggirano i controlli tradizionali, analizzando il traffico di rete in tempo reale L'articolo NDR e Network Traffic Analysis per la difesa di rete proviene da Cyber Security 360 .",
-      "date": "2026-10-22T16:14:50.0000000Z"
     }
   ]
 }

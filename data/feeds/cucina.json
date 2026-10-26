@@ -1,7 +1,31 @@
 {
   "category": "cucina",
-  "updated": "2026-10-26T04:29:11.2077366Z",
+  "updated": "2026-10-26T10:26:06.3665568Z",
   "items": [
+    {
+      "id": "giallozafferano:174abd44f158",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Frittata di patate e tonno",
+      "url": "https://ricette.giallozafferano.it/Frittata-di-patate-e-tonno.html",
+      "image": "https://www.giallozafferano.it/images/367-36736/Frittata-di-patate-e-tonno_1200x800.jpg",
+      "summary": "La frittata di patate e tonno è la dimostrazione che bastano pochi elementi, combinati nel modo giusto, per realizzare un piatto ricco e sostanzioso, perfetto per tutta la famiglia. Le patate, morbide e delicate, inco...",
+      "date": "2026-10-26T10:15:00.0000000Z"
+    },
+    {
+      "id": "dissapore:7b6186e34f26",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Il basilico può essere un antidepressivo?",
+      "url": "https://www.dissapore.com/notizie/il-basilico-puo-essere-un-antidepressivo/",
+      "image": null,
+      "summary": "Un recente studio apre a nuove possibilità per il supporto dei trattamenti per ansia e depressione. L'articolo Il basilico può essere un antidepressivo? proviene da Dissapore .",
+      "date": "2026-10-26T09:53:05.0000000Z"
+    },
     {
       "id": "dissapore:3c72aed3da98",
       "sourceId": "dissapore",
@@ -231,18 +255,6 @@
       "date": "2026-10-21T15:12:00.0000000Z"
     },
     {
-      "id": "giallozafferano:910938456f1b",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Fantasmini biscotto",
-      "url": "https://ricette.giallozafferano.it/Fantasmini-biscotto.html",
-      "image": "https://www.giallozafferano.it/images/367-36705/Fantasmini-biscotto_1200x800.jpg",
-      "summary": "I fantasmini biscotto sono dei dolcetti di Halloween preparati con una friabile pasta frolla e un goloso ripieno di ganache al cioccolato fondente e latte condensato. La loro particolarità è proprio la forma che ricor...",
-      "date": "2026-10-21T15:11:00.0000000Z"
-    },
-    {
       "id": "giallozafferano:792607831f32",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -255,16 +267,16 @@
       "date": "2026-10-21T15:11:00.0000000Z"
     },
     {
-      "id": "dissapore:084cf6441784",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
+      "id": "giallozafferano:910938456f1b",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
       "platform": "rss",
       "category": "cucina",
-      "title": "La birra analcolica conquista i pub inglesi",
-      "url": "https://www.dissapore.com/notizie/la-birra-analcolica-conquista-i-pub-inglesi/",
-      "image": null,
-      "summary": "Uno studio dell'Università di York ha dimostrato come ai pub possa giovare l'introduzione di birra senza alcool, senza impattare negativamente sulle vendite dei prodotti tradizionali. L'articolo La birra analcolica co...",
-      "date": "2026-10-21T13:39:43.0000000Z"
+      "title": "Fantasmini biscotto",
+      "url": "https://ricette.giallozafferano.it/Fantasmini-biscotto.html",
+      "image": "https://www.giallozafferano.it/images/367-36705/Fantasmini-biscotto_1200x800.jpg",
+      "summary": "I fantasmini biscotto sono dei dolcetti di Halloween preparati con una friabile pasta frolla e un goloso ripieno di ganache al cioccolato fondente e latte condensato. La loro particolarità è proprio la forma che ricor...",
+      "date": "2026-10-21T15:11:00.0000000Z"
     },
     {
       "id": "giallozafferano:5be6fc48942b",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/367-36742/Torta-2-ingredienti-pere-e-cioccolato_1200x800.jpg",
       "summary": "La torta 2 ingredienti pere e cioccolato è un dolce sorprendente: per prepararla bastano soltanto pere e cioccolato fondente , senza aggiungere farina, uova, burro o zucchero. Il risultato è una torta dalla consistenz...",
       "date": "2026-10-21T11:00:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:a058e20e341e",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Ciambella agli agrumi e zenzero",
-      "url": "https://ricette.giallozafferano.it/Ciambella-agli-agrumi-e-zenzero.html",
-      "image": "https://www.giallozafferano.it/images/367-36737/Ciambella-agli-agrumi-e-zenzero_1200x800.jpg",
-      "summary": "La ciambella agli agrumi e zenzero è un dolce soffice e profumato, che unisce la freschezza di arancia e mandarino alle note speziate e leggermente pungenti dello zenzero. Una combinazione originale, perfetta per valo...",
-      "date": "2026-10-20T15:20:00.0000000Z"
     }
   ]
 }
