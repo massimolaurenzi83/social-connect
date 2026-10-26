@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-26T10:26:06.3696878Z",
+  "updated": "2026-10-26T16:53:22.5386833Z",
   "items": [
+    {
+      "id": "cybersecurity360:24ff6772eb1f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Ombre russe sugli scontri in Europa: fra ipotesi di guerra ibrida e fattore umano sul campo",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ombre-russe-sugli-scontri-in-europa-fra-ipotesi-di-guerra-ibrida-e-fattore-umano-sul-campo/",
+      "image": null,
+      "summary": "Mentre continuano gli scontri che interessano capitali europee, Milano e altre città italiane, si affaccia l’ipotesi che dietro vi si nasconda un’orchestrazione russa che abbia incitato alla guerra ibrida attraverso l...",
+      "date": "2026-10-26T14:34:36.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:ea4430955275",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il ransomware cambia bersaglio: sempre più in alto nella gerarchia aziendale",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/il-ransomware-cambia-bersaglio-sempre-piu-in-alto-nella-gerarchia-aziendale/",
+      "image": null,
+      "summary": "Secondo una ricerca di Zscaler, il ransomware è sempre più un problema di accesso alle risorse aziendali. Ecco perché i gruppi ransomware riescono a ottenere un accesso ai sistemi, sfruttando gerarchie aziendali, tras...",
+      "date": "2026-10-26T11:47:50.0000000Z"
+    },
     {
       "id": "cybersecurity360:9c3cc48a6294",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Negli Stati Uniti alcuni agenti AI di terze parti accedono ai conti con le credenziali fornite dai clienti. Le banche ne limitano l’uso temendo danni sui conti e sistemici. Il rischio riguarda anche l’Italia, in un cl...",
       "date": "2026-10-23T12:52:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:6919ac5cf7c6",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "TotalVPN con antivirus e adblock inclusi a 1,59 euro al mese: protezione multi-dispositivo e crittografia per la sicurezza online",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/totalav-antivirus-adblock-offerta-sicurezza-online/",
-      "image": null,
-      "summary": "TotalVPN propone una soluzione di sicurezza digitale che integra antivirus, VPN e blocco delle pubblicità. L'offerta da 1,59 euro al mese richiede però una verifica delle condizioni promozionali, dei dispositivi suppo...",
-      "date": "2026-10-23T11:41:17.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2f5a229a3530",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "PHP2Shell, perché applicare le patch non basta a mettere in sicurezza i sistemi",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/php2shell-perche-applicare-le-patch-non-basta-a-mettere-in-sicurezza-i-sistemi/",
-      "image": null,
-      "summary": "Le vulnerabilità critiche PHP2Shell espongono i sistemi al rischio di esecuzione di codice da remoto. Ma installare gli aggiornamenti non basta: occorre verificare runtime, container e servizi cloud, individuare event...",
-      "date": "2026-10-23T09:35:01.0000000Z"
     }
   ]
 }
