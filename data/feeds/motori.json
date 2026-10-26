@@ -1,19 +1,7 @@
 {
   "category": "motori",
-  "updated": "2026-10-25T23:58:05.0185082Z",
+  "updated": "2026-10-26T04:29:11.1334303Z",
   "items": [
-    {
-      "id": "motor1:a6408d7140b1",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Come va la nuova BMW Serie 7 (2026)",
-      "url": "https://it.motor1.com/reviews/813023/bmw-serie-7-2026-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/OoZ7VM/s3/photo-cover-bmw-serie-7-2026.jpg",
-      "summary": "Ritoccata esternamente, riceve interni e tecnologia dalle BMW Neue Klasse ix3 e i3",
-      "date": "2026-10-25T23:01:00.0000000Z"
-    },
     {
       "id": "hdmotori:491d3048639f",
       "sourceId": "hdmotori",
@@ -255,18 +243,6 @@
       "date": "2026-10-24T07:00:54.0000000Z"
     },
     {
-      "id": "insideevs:9ce4a43a19ad",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Fotovoltaico e auto elettrica, così il sole ricarica davvero la batteria",
-      "url": "https://insideevs.it/news/813082/fotovoltaico-auto-elettrica-funziona-ricarica/",
-      "image": "https://cdn.motor1.com/images/mgl/2N9Bjk/s3/fotovoltaico-e-auto-elettrica-cosi-il-sole-ricarica-davvero-la-batteria.jpg",
-      "summary": "La wallbox dialoga con l'inverter e sposta l'energia in eccesso verso l'auto invece che in rete",
-      "date": "2026-10-24T05:00:00.0000000Z"
-    },
-    {
       "id": "motor1:da5ad725e169",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -276,6 +252,18 @@
       "url": "https://it.motor1.com/news/809771/opel-agila-concept-a-storia/",
       "image": "https://cdn.motor1.com/images/mgl/bgOB9v/s3/opel-concept-a-1999.jpg",
       "summary": "Nel 1999 Opel presenta una piccola monovolume: compatta fuori e pensata per cambiare configurazione in pochi istanti",
+      "date": "2026-10-24T05:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:9ce4a43a19ad",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Fotovoltaico e auto elettrica, così il sole ricarica davvero la batteria",
+      "url": "https://insideevs.it/news/813082/fotovoltaico-auto-elettrica-funziona-ricarica/",
+      "image": "https://cdn.motor1.com/images/mgl/2N9Bjk/s3/fotovoltaico-e-auto-elettrica-cosi-il-sole-ricarica-davvero-la-batteria.jpg",
+      "summary": "La wallbox dialoga con l'inverter e sposta l'energia in eccesso verso l'auto invece che in rete",
       "date": "2026-10-24T05:00:00.0000000Z"
     },
     {
@@ -408,6 +396,18 @@
       "url": "https://insideevs.it/news/813073/auto-elettriche-marchi-clienti-soddisfatti/",
       "image": "https://cdn.motor1.com/images/mgl/0epPzn/s3/auto-elettriche-ecco-i-marchi-con-i-clienti-piu-soddisfatti-e-perche.jpg",
       "summary": "Una nuova ricerca mette a confronto 24 marchi e racconta cosa convince davvero chi guida un'auto elettrica",
+      "date": "2026-10-23T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:3924544095d5",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ha venduto auto d'epoca alle star di Hollywood, ecco il suo garage",
+      "url": "https://it.motor1.com/news/812608/justin-bieber-snoop-dogg-auto-vip-hollywood/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZPY9p/s3/i-segreti-delle-auto-di-justin-bieber-jason-momoa-e-snoop-dogg.jpg",
+      "summary": "Abbiamo intervistato Alex Manos, che vende auto classiche alle star di Hollywood, per capire cosa cercano i collezionisti",
       "date": "2026-10-23T15:00:00.0000000Z"
     },
     {
