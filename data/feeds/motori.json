@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-10-26T21:17:53.6030059Z",
+  "updated": "2026-10-27T00:36:21.5228901Z",
   "items": [
+    {
+      "id": "motor1:29375ac63d05",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes Classe C (2026): prova su strada, consumi e prezzi",
+      "url": "https://it.motor1.com/reviews/813253/mercedes-classe-c-2027-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/wlkw2G/s3/prova-mercedes-classe-c-2027.jpg",
+      "summary": "MB.OS, MBUX con IA e assetto rivisto: la Mercedes Classe C cambia sotto pelle. Abbiamo messo alla prova la C 300 da 258 CV, ecco come va",
+      "date": "2026-10-26T23:01:00.0000000Z"
+    },
     {
       "id": "hdmotori:1120f51282db",
       "sourceId": "hdmotori",
@@ -243,18 +255,6 @@
       "date": "2026-10-26T14:00:33.0000000Z"
     },
     {
-      "id": "insideevs:8a07bb36d65a",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il nuovo affare nascosto delle batterie EV usate vale già miliardi",
-      "url": "https://insideevs.it/news/813218/batterie-ev-prima-generazione-aftermarket/",
-      "image": "https://cdn.motor1.com/images/mgl/QeGOj7/s3/nissan-leaf-2010.jpg",
-      "summary": "Le batterie delle Nissan Leaf e Renault Zoe più anziane entrano in un mercato parallelo tra riuso, storage stazionario e riciclo",
-      "date": "2026-10-26T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:603a4022f269",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -264,6 +264,18 @@
       "url": "https://it.motor1.com/news/813200/porsche-nuovi-modelli-one-off/",
       "image": "https://cdn.motor1.com/images/mgl/L36mWM/s3/porsche-mission-s-in-new-york-city.jpg",
       "summary": "La Casa vuole puntare su one-off e \"few-off\" per aumentare la redditività. Sul piatto ci sono anche i restauri delle auto storiche",
+      "date": "2026-10-26T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:8a07bb36d65a",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il nuovo affare nascosto delle batterie EV usate vale già miliardi",
+      "url": "https://insideevs.it/news/813218/batterie-ev-prima-generazione-aftermarket/",
+      "image": "https://cdn.motor1.com/images/mgl/QeGOj7/s3/nissan-leaf-2010.jpg",
+      "summary": "Le batterie delle Nissan Leaf e Renault Zoe più anziane entrano in un mercato parallelo tra riuso, storage stazionario e riciclo",
       "date": "2026-10-26T14:00:00.0000000Z"
     },
     {
@@ -396,18 +408,6 @@
       "url": "https://insideevs.it/news/813198/rivian-acquisizione-dati-sintetici-autonomia/",
       "image": "https://cdn.motor1.com/images/mgl/BXZj2Z/s3/rivian-software-update-adds-waze-real-time-alerts.jpg",
       "summary": "L'acquisizione di una startup di dati sintetici potrebbe consentire di simulare casi limite prima che si verifichino nel mondo reale.",
-      "date": "2026-10-26T10:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:5b0f7259cdfa",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa Ferrari F50 ha percorso appena 171 km in quasi 30 anni",
-      "url": "https://it.motor1.com/news/813168/ferrari-f50-con-meno-chilometri/",
-      "image": "https://cdn.motor1.com/images/mgl/BX1vqe/s3/ferrari-f50-170-percorsi-in-trent-anni.jpg",
-      "summary": "Consegnata nel 1997, questa F50 conserva accessori originali e condizioni eccezionali, come se fosse appena uscita da Maranello",
       "date": "2026-10-26T10:00:00.0000000Z"
     },
     {

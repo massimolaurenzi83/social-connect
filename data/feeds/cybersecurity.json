@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-26T21:17:53.6401437Z",
+  "updated": "2026-10-27T00:36:21.4600776Z",
   "items": [
+    {
+      "id": "cybersecurity360:cf788581fb9d",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Threat Intelligence: anticipare i vettori d’attacco",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/threat-intelligence-anticipare-i-vettori-dattacco/",
+      "image": null,
+      "summary": "Come trasformare i dati sulle minacce in decisioni operative per aggiornare le difese, ridurre i rischi e colpire gli attaccanti prima che agiscano L'articolo Threat Intelligence: anticipare i vettori d’attacco provie...",
+      "date": "2026-10-26T15:45:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:24ff6772eb1f",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Oltre 740mila email di phishing rilevate da Check Point in una campagna che ha preso di mira più di 40mila organizzazioni. I cyber criminali sfruttano falsi inviti di calendario e riunioni Microsoft Teams per sottrarr...",
       "date": "2026-10-23T14:13:30.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:509639c612de",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Agenti AI nei conti bancari USA: quali rischi, anche in Italia",
-      "url": "https://www.cybersecurity360.it/news/agenti-ai-nei-conti-bancari-usa-quali-rischi-anche-in-italia/",
-      "image": null,
-      "summary": "Negli Stati Uniti alcuni agenti AI di terze parti accedono ai conti con le credenziali fornite dai clienti. Le banche ne limitano l’uso temendo danni sui conti e sistemici. Il rischio riguarda anche l’Italia, in un cl...",
-      "date": "2026-10-23T12:52:00.0000000Z"
     }
   ]
 }
