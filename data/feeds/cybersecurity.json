@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-27T16:19:20.6526818Z",
+  "updated": "2026-10-27T20:48:50.3252706Z",
   "items": [
+    {
+      "id": "cybersecurity360:5fdf9a7b0a11",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "SLA e Downtime: calcolare i costi dell’inattività IT",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/sla-e-downtime-calcolare-i-costi-dellinattivita-it/",
+      "image": null,
+      "summary": "Ogni minuto di fermo ha un prezzo: come misurarlo, contrattualizzarlo e ridurlo prima che presenti il conto L'articolo SLA e Downtime: calcolare i costi dell’inattività IT proviene da Cyber Security 360 .",
+      "date": "2026-10-27T17:14:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:2a0a69e99439",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Phishing, superare i test non significa essere pronti agli attacchi reali",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/phishing-superare-i-test-non-significa-essere-pronti-agli-attacchi-reali/",
+      "image": null,
+      "summary": "Le simulazioni di phishing riducono gli errori, ma non garantiscono comportamenti sicuri davanti ad attacchi reali. Per rafforzare la resilienza aziendale occorre andare oltre i corsi di awareness, sviluppando capacit...",
+      "date": "2026-10-27T16:04:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:fc7699163fd0",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Mentre continuano gli scontri che interessano capitali europee, Milano e altre città italiane, si affaccia l’ipotesi che dietro vi si nasconda un’orchestrazione russa che abbia incitato alla guerra ibrida attraverso l...",
       "date": "2026-10-26T14:34:36.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ea4430955275",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il ransomware cambia bersaglio: sempre più in alto nella gerarchia aziendale",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/il-ransomware-cambia-bersaglio-sempre-piu-in-alto-nella-gerarchia-aziendale/",
-      "image": null,
-      "summary": "Secondo una ricerca di Zscaler, il ransomware è sempre più un problema di accesso alle risorse aziendali. Ecco perché i gruppi ransomware riescono a ottenere un accesso ai sistemi, sfruttando gerarchie aziendali, tras...",
-      "date": "2026-10-26T11:47:50.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:9c3cc48a6294",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sicurezza dei modelli AI, perché l’allineamento non basta a fermare i comportamenti pericolosi",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/sicurezza-dei-modelli-ai-perche-lallineamento-non-basta-a-fermare-i-comportamenti-pericolosi/",
-      "image": null,
-      "summary": "I test condotti da OpenAI e Anthropic mostrano che anche i modelli AI più avanzati possono oltrepassare i limiti operativi previsti. La sicurezza non dipende soltanto dall'allineamento, ma anche dal controllo di privi...",
-      "date": "2026-10-26T09:01:18.0000000Z"
     }
   ]
 }
