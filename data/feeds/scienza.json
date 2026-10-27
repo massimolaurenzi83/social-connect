@@ -1,7 +1,31 @@
 {
   "category": "scienza",
-  "updated": "2026-10-27T05:35:31.3349853Z",
+  "updated": "2026-10-27T10:57:47.6122096Z",
   "items": [
+    {
+      "id": "media-inaf:b51383fb8e38",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "All’ombra del disco del buco nero",
+      "url": "https://www.media.inaf.it/2026/10/27/ombra-disco-buco-nero-maxi-j0637%e2%88%92430/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/preview-maxi-150x150.jpg",
+      "summary": "Più materia trangugia e più energia produce, meno appare luminoso. È un fenomeno apparentemente paradossale, quello osservato nei dintorni del sistema binario Maxi J0637−430. Ora un team guidato da Montserrat Armas Pa...",
+      "date": "2026-10-27T10:10:51.0000000Z"
+    },
+    {
+      "id": "media-inaf:df9826c17ad3",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Nettuno non è un pianeta a km zero",
+      "url": "https://www.media.inaf.it/2026/10/27/origine-urano-nettuno/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/Uranus__Neptune_Formulation-112551-150x150.png",
+      "summary": "Apparentemente mondi gemelli, è invece probabile che Urano e Nettuno siano piuttosto due “cugini” dalla storia diversa. È quanto emerge da un’analisi chimica del rapporto fra carbonio e ossigeno nelle loro atmosfere g...",
+      "date": "2026-10-27T06:58:48.0000000Z"
+    },
     {
       "id": "focus:e2f4a88d8c8c",
       "sourceId": "focus",
@@ -27,6 +51,19 @@
       "date": "2026-10-27T04:00:00.0000000Z"
     },
     {
+      "id": "geopop:VZ_SUkXMz1Y",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Come è stato trovato e ucciso bin Laden: la ricostruzione dell’Operazione Neptune Spear",
+      "url": "https://www.youtube.com/watch?v=VZ_SUkXMz1Y",
+      "image": "https://i.ytimg.com/vi/VZ_SUkXMz1Y/hqdefault.jpg",
+      "summary": "",
+      "videoId": "VZ_SUkXMz1Y",
+      "date": "2026-10-26T17:30:06.0000000Z"
+    },
+    {
       "id": "focus:a6b96d2c17a9",
       "sourceId": "focus",
       "source": "Focus",
@@ -37,6 +74,19 @@
       "image": "https://www.focus.it/images/2026/10/26/mose-michelangelo_w630.jpg?imbypass=true",
       "summary": "Dalla celebre scultura alle miniature medievali: come una svista linguistica di san Girolamo nel IV secolo ha trasformato Mosè in un'icona dotata di corna.",
       "date": "2026-10-26T14:00:00.0000000Z"
+    },
+    {
+      "id": "geopop:z80sN_gaTW8",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Il compost perfetto non è fatto solo di scarti gettati in un vaso: ecco la guida pratica",
+      "url": "https://www.youtube.com/watch?v=z80sN_gaTW8",
+      "image": "https://i.ytimg.com/vi/z80sN_gaTW8/hqdefault.jpg",
+      "summary": "",
+      "videoId": "z80sN_gaTW8",
+      "date": "2026-10-26T12:00:08.0000000Z"
     },
     {
       "id": "focus:748dda9ba734",
@@ -51,18 +101,6 @@
       "date": "2026-10-26T11:00:00.0000000Z"
     },
     {
-      "id": "focus:18c1c83e2028",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "L'Universo primordiale simulato al computer",
-      "url": "https://www.focus.it/scienza/scienze/ecco-lumina-la-simulazione-piu-avanzata-dell-universo-primordiale",
-      "image": "https://www.focus.it/images/2026/10/26/lumina-universo-primordiale_w630.jpg?imbypass=true",
-      "summary": "Sviluppato con il supercomputer Frontier, il modello Lumina ricostruisce l'interazione tra materia ordinaria, materia oscura e radiazione nei primi 2 miliardi di anni dopo il Big Bang .",
-      "date": "2026-10-26T10:00:00.0000000Z"
-    },
-    {
       "id": "focus:d1cf033c495e",
       "sourceId": "focus",
       "source": "Focus",
@@ -72,6 +110,18 @@
       "url": "https://www.focus.it/cultura/curiosita/possibile-essere-ingoiati-da-un-capodoglio",
       "image": "https://www.focus.it/images/2026/10/22/balena-sub_w630.jpg?imbypass=true",
       "summary": "Al cinema Whalefall: nella balena ci racconta di un subacqueo che viene intrappolato nello stomaco di un capodoglio: ma nella realtà sarebbe possibile?",
+      "date": "2026-10-26T10:00:00.0000000Z"
+    },
+    {
+      "id": "focus:18c1c83e2028",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "L'Universo primordiale simulato al computer",
+      "url": "https://www.focus.it/scienza/scienze/ecco-lumina-la-simulazione-piu-avanzata-dell-universo-primordiale",
+      "image": "https://www.focus.it/images/2026/10/26/lumina-universo-primordiale_w630.jpg?imbypass=true",
+      "summary": "Sviluppato con il supercomputer Frontier, il modello Lumina ricostruisce l'interazione tra materia ordinaria, materia oscura e radiazione nei primi 2 miliardi di anni dopo il Big Bang .",
       "date": "2026-10-26T10:00:00.0000000Z"
     },
     {
@@ -109,6 +159,19 @@
       "image": "https://www.focus.it/images/2026/10/22/genoma-umano_w630.jpg?imbypass=true",
       "summary": "Una nuova analisi del genoma umano \"medio\" fornisce informazioni sulla normale variabilità genetica tra gli individui e sul rischio di malattie.",
       "date": "2026-10-26T08:00:00.0000000Z"
+    },
+    {
+      "id": "geopop:FzdmudtoKfg",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Dove si trovano i ponti raffigurati sulle banconote?",
+      "url": "https://www.youtube.com/watch?v=FzdmudtoKfg",
+      "image": "https://i.ytimg.com/vi/FzdmudtoKfg/hqdefault.jpg",
+      "summary": "",
+      "videoId": "FzdmudtoKfg",
+      "date": "2026-10-26T06:00:05.0000000Z"
     },
     {
       "id": "focus:1404b4a77a76",
@@ -195,6 +258,19 @@
       "date": "2026-10-23T05:58:27.0000000Z"
     },
     {
+      "id": "geopop:fXJUvLFzLFQ",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Cosa sta succedendo in Italia? Le cause della crisi dagli autotrasportatori ai supermercati",
+      "url": "https://www.youtube.com/watch?v=fXJUvLFzLFQ",
+      "image": "https://i.ytimg.com/vi/fXJUvLFzLFQ/hqdefault.jpg",
+      "summary": "",
+      "videoId": "fXJUvLFzLFQ",
+      "date": "2026-10-22T16:30:24.0000000Z"
+    },
+    {
       "id": "media-inaf:0a6f6e37dd8b",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -231,6 +307,19 @@
       "date": "2026-10-21T16:31:05.0000000Z"
     },
     {
+      "id": "geopop:NNOo_ubmJtE",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "L’incubo del cyberbullismo: i numeri (alti) del fenomeno",
+      "url": "https://www.youtube.com/watch?v=NNOo_ubmJtE",
+      "image": "https://i.ytimg.com/vi/NNOo_ubmJtE/hqdefault.jpg",
+      "summary": "",
+      "videoId": "NNOo_ubmJtE",
+      "date": "2026-10-21T16:30:21.0000000Z"
+    },
+    {
       "id": "media-inaf:b9f6d0af3676",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -241,6 +330,32 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/locandina_orizzontale-150x150.png",
       "summary": "L’Istituto nazionale di astrofisica rinnova la sua presenza alla ventiquattresima edizione del Festival della scienza di Genova con laboratori, spettacoli, incontri, momenti di arte partecipativa e serate di gioco sci...",
       "date": "2026-10-21T09:32:23.0000000Z"
+    },
+    {
+      "id": "geopop:RgrxPFd7NVM",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Quante cose usiamo ogni giorno senza sapere davvero come funzionano?",
+      "url": "https://www.youtube.com/watch?v=RgrxPFd7NVM",
+      "image": "https://i.ytimg.com/vi/RgrxPFd7NVM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "RgrxPFd7NVM",
+      "date": "2026-10-21T05:00:03.0000000Z"
+    },
+    {
+      "id": "geopop:asUt8jayPDE",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Come funziona l’auto “volante” di Tesla: l’analisi tecnica della Roadster, tra ventole e propulsori",
+      "url": "https://www.youtube.com/watch?v=asUt8jayPDE",
+      "image": "https://i.ytimg.com/vi/asUt8jayPDE/hqdefault.jpg",
+      "summary": "",
+      "videoId": "asUt8jayPDE",
+      "date": "2026-10-20T16:30:26.0000000Z"
     },
     {
       "id": "media-inaf:55b531233ff5",
@@ -255,6 +370,19 @@
       "date": "2026-10-20T12:17:25.0000000Z"
     },
     {
+      "id": "geopop:3bnDyONMbu4",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Scarpe da ginnastica VS scarpa da trekking. Cosa cambia?",
+      "url": "https://www.youtube.com/watch?v=3bnDyONMbu4",
+      "image": "https://i.ytimg.com/vi/3bnDyONMbu4/hqdefault.jpg",
+      "summary": "",
+      "videoId": "3bnDyONMbu4",
+      "date": "2026-10-20T12:06:48.0000000Z"
+    },
+    {
       "id": "media-inaf:e642c48e97b3",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -267,28 +395,212 @@
       "date": "2026-10-20T08:12:16.0000000Z"
     },
     {
-      "id": "media-inaf:4c359868399d",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
+      "id": "geopop:7bieEUoKpH8",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
       "category": "scienza",
-      "title": "Prima cometa per il detective dell’universo oscuro",
-      "url": "https://www.media.inaf.it/2026/10/19/una-cometa-per-euclid/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/ec0001_short_vis_annotated-150x150.png",
-      "summary": "La missione spaziale Euclid, che normalmente osserva galassie per studiare la storia di espansione dell'universo e scoprire i misteri della materia oscura e dell'energia oscura, ha scoperto la sua prima cometa. Chiama...",
-      "date": "2026-10-19T12:05:56.0000000Z"
+      "title": "La storia Geologica della Sardegna da 30 milioni di anni fa ad oggi",
+      "url": "https://www.youtube.com/watch?v=7bieEUoKpH8",
+      "image": "https://i.ytimg.com/vi/7bieEUoKpH8/hqdefault.jpg",
+      "summary": "",
+      "videoId": "7bieEUoKpH8",
+      "date": "2026-10-19T16:30:28.0000000Z"
     },
     {
-      "id": "media-inaf:534a70f2e04e",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
+      "id": "geopop:EDXmtLtqo3g",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
       "category": "scienza",
-      "title": "Come si tiene accesa una batteria sulla Luna",
-      "url": "https://www.media.inaf.it/2026/10/19/come-si-tiene-accesa-una-batteria-sulla-luna/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/moon-battery-150x150.jpg",
-      "summary": "Sulla Luna non basta avere una batteria: bisogna anche fare in modo che sopravviva al gelo e al caldo estremi. È la sfida di SpearS, il progetto Nasa che sta testando celle allo stato solido capaci di resistere a escu...",
-      "date": "2026-10-19T09:36:51.0000000Z"
+      "title": "La Prince Rupert’s drop non è una goccia di vetro come tante: non si rompe con un martello!",
+      "url": "https://www.youtube.com/watch?v=EDXmtLtqo3g",
+      "image": "https://i.ytimg.com/vi/EDXmtLtqo3g/hqdefault.jpg",
+      "summary": "",
+      "videoId": "EDXmtLtqo3g",
+      "date": "2026-10-17T05:00:18.0000000Z"
+    },
+    {
+      "id": "geopop:eV74a-D8KLM",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "A proposito dell’Aeroporto di Firenze",
+      "url": "https://www.youtube.com/watch?v=eV74a-D8KLM",
+      "image": "https://i.ytimg.com/vi/eV74a-D8KLM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "eV74a-D8KLM",
+      "date": "2026-10-16T14:00:15.0000000Z"
+    },
+    {
+      "id": "geopop:gvINM1-i5cA",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Cos'è la menopausa e perché si verificano le vampate di calore: vediamo cosa accade al corpo",
+      "url": "https://www.youtube.com/watch?v=gvINM1-i5cA",
+      "image": "https://i.ytimg.com/vi/gvINM1-i5cA/hqdefault.jpg",
+      "summary": "",
+      "videoId": "gvINM1-i5cA",
+      "date": "2026-10-16T11:00:15.0000000Z"
+    },
+    {
+      "id": "curiuss:e8p5tg55yDE",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Big Bang (serie completa) - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=e8p5tg55yDE",
+      "image": "https://i.ytimg.com/vi/e8p5tg55yDE/hqdefault.jpg",
+      "summary": "",
+      "videoId": "e8p5tg55yDE",
+      "date": "2026-10-08T19:00:00.0000000Z"
+    },
+    {
+      "id": "barbascura:J0w-SlR8V8M",
+      "sourceId": "barbascura",
+      "source": "Barbascura X",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Quello che NON volevi sapere sulle LONTRE - SCIENZA BRUTTA",
+      "url": "https://www.youtube.com/watch?v=J0w-SlR8V8M",
+      "image": "https://i.ytimg.com/vi/J0w-SlR8V8M/hqdefault.jpg",
+      "summary": "",
+      "videoId": "J0w-SlR8V8M",
+      "date": "2026-09-28T12:00:06.0000000Z"
+    },
+    {
+      "id": "curiuss:odiBKK__wwM",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "La forma dell'Atomo - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=odiBKK__wwM",
+      "image": "https://i.ytimg.com/vi/odiBKK__wwM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "odiBKK__wwM",
+      "date": "2026-09-21T18:30:05.0000000Z"
+    },
+    {
+      "id": "curiuss:gb1zStv8DVE",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Cosa ci Aspetta - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=gb1zStv8DVE",
+      "image": "https://i.ytimg.com/vi/gb1zStv8DVE/hqdefault.jpg",
+      "summary": "",
+      "videoId": "gb1zStv8DVE",
+      "date": "2026-09-09T18:30:01.0000000Z"
+    },
+    {
+      "id": "curiuss:xcCTQ5260HQ",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Il favoloso mondo di Vincent (Serie Completa) - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=xcCTQ5260HQ",
+      "image": "https://i.ytimg.com/vi/xcCTQ5260HQ/hqdefault.jpg",
+      "summary": "",
+      "videoId": "xcCTQ5260HQ",
+      "date": "2026-07-29T18:00:32.0000000Z"
+    },
+    {
+      "id": "curiuss:TxlLkRJFYMM",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "10 Aneddoti Parigini - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=TxlLkRJFYMM",
+      "image": "https://i.ytimg.com/vi/TxlLkRJFYMM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "TxlLkRJFYMM",
+      "date": "2026-07-14T16:51:55.0000000Z"
+    },
+    {
+      "id": "curiuss:TUtWtHsibU0",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Entropia (serie completa) - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=TUtWtHsibU0",
+      "image": "https://i.ytimg.com/vi/TUtWtHsibU0/hqdefault.jpg",
+      "summary": "",
+      "videoId": "TUtWtHsibU0",
+      "date": "2026-06-22T18:00:15.0000000Z"
+    },
+    {
+      "id": "curiuss:X9SoJKTyXs0",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "La donna che spezzò l'atomo - Geni Impolverati#08 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=X9SoJKTyXs0",
+      "image": "https://i.ytimg.com/vi/X9SoJKTyXs0/hqdefault.jpg",
+      "summary": "",
+      "videoId": "X9SoJKTyXs0",
+      "date": "2026-06-08T18:26:16.0000000Z"
+    },
+    {
+      "id": "curiuss:aDmbZzB0zI4",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Il Processo Haber - Bosch - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=aDmbZzB0zI4",
+      "image": "https://i.ytimg.com/vi/aDmbZzB0zI4/hqdefault.jpg",
+      "summary": "",
+      "videoId": "aDmbZzB0zI4",
+      "date": "2026-05-20T18:00:00.0000000Z"
+    },
+    {
+      "id": "curiuss:WhZs-4GwfsE",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Genio o Mostro? - Geni Impolverati#07 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=WhZs-4GwfsE",
+      "image": "https://i.ytimg.com/vi/WhZs-4GwfsE/hqdefault.jpg",
+      "summary": "",
+      "videoId": "WhZs-4GwfsE",
+      "date": "2026-05-04T18:00:27.0000000Z"
+    },
+    {
+      "id": "curiuss:DXAmnjHn-Hw",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Parigi Matematica - Paris#03 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=DXAmnjHn-Hw",
+      "image": "https://i.ytimg.com/vi/DXAmnjHn-Hw/hqdefault.jpg",
+      "summary": "",
+      "videoId": "DXAmnjHn-Hw",
+      "date": "2026-04-20T18:00:12.0000000Z"
+    },
+    {
+      "id": "curiuss:h4hq5okz5tQ",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Parigi Astronomica - Paris#02 - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=h4hq5okz5tQ",
+      "image": "https://i.ytimg.com/vi/h4hq5okz5tQ/hqdefault.jpg",
+      "summary": "",
+      "videoId": "h4hq5okz5tQ",
+      "date": "2026-04-07T18:34:25.0000000Z"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-27T05:35:31.3006337Z",
+  "updated": "2026-10-27T10:57:47.6375391Z",
   "items": [
+    {
+      "id": "cybersecurity360:e95d50587e2e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Piattaforma Aruba SuperSite: creazione di siti ed e-commerce con intelligenza artificiale generativa",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/aruba-supersite-creazione-siti-web-intelligenza-artificiale/",
+      "image": null,
+      "summary": "Aruba SuperSite integra strumenti di intelligenza artificiale generativa per creare siti web, produrre contenuti e gestire progetti online senza competenze di programmazione. Due i piani disponibili, Easy e Profession...",
+      "date": "2026-10-27T09:52:11.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:03a86485e5bf",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Governare la sicurezza integrata: DPO, CISO e Safety Manager alla prova dell’AI in cantiere",
+      "url": "https://www.cybersecurity360.it/legal/governare-la-sicurezza-integrata-dpo-ciso-e-safety-manager-alla-prova-dellai-in-cantiere/",
+      "image": null,
+      "summary": "Traducendo l’obbligo in organizzazione, si definisce il modello integrato di sicurezza, delineando i compiti e le interazioni di DPO, CISO e Safety Manager. Ecco un caso d’uso dell’AI per la sicurezza in cantiere: pre...",
+      "date": "2026-10-27T08:24:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:cf788581fb9d",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Non tutto va sempre come previsto, e sebbene nessuna norma imponga di prevedere l'imprevedibile, la capacità di saper gestire un imprevisto e tutto ciò che può essere fuori da un qualsivoglia \"piano\", qual è classicam...",
       "date": "2026-10-23T15:58:47.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:474e4aee80bb",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Svizzera sotto attacco: il furto di dati mette a nudo i segreti della Confederazione",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/svizzera-sotto-attacco-il-furto-di-dati-mette-a-nudo-i-segreti-della-confederazione/",
-      "image": null,
-      "summary": "L'attacco alla cassa pensioni svizzera, che ha causato l'esfiltrazione dei dati personali di oltre 100mila persone ovvero tutti i dipendenti federali elvetici, non è un semplice attacco informatico, ma rappresenta un ...",
-      "date": "2026-10-23T15:41:43.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:92755105261e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Falsi inviti Microsoft Teams e calendari trappola: così il phishing ruba le credenziali aziendali",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/falsi-inviti-microsoft-teams-e-calendari-trappola-cosi-il-phishing-ruba-le-credenziali-aziendali/",
-      "image": null,
-      "summary": "Oltre 740mila email di phishing rilevate da Check Point in una campagna che ha preso di mira più di 40mila organizzazioni. I cyber criminali sfruttano falsi inviti di calendario e riunioni Microsoft Teams per sottrarr...",
-      "date": "2026-10-23T14:13:30.0000000Z"
     }
   ]
 }
