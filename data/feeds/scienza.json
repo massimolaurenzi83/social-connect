@@ -1,7 +1,31 @@
 {
   "category": "scienza",
-  "updated": "2026-10-27T10:57:47.6122096Z",
+  "updated": "2026-10-27T16:19:20.6899696Z",
   "items": [
+    {
+      "id": "media-inaf:3187f8208b11",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Nana bianca con due anelli",
+      "url": "https://www.media.inaf.it/2026/10/27/nana-bianca-con-due-anelli/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/eso2613b-150x150.jpg",
+      "summary": "Arriva da un team di astronomi guidato da Nicola Gentile Fusillo dell’Università di Trieste la scoperta del primo disco di detriti doppio mai osservato attorno a una nana bianca: J1328−1450, una stella morta con corpi...",
+      "date": "2026-10-27T13:03:10.0000000Z"
+    },
+    {
+      "id": "focus:1a649ddadc20",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Ritorno sulla Luna: la NASA svela i piani",
+      "url": "https://www.focus.it/scienza/spazio/ritorno-sulla-luna-la-nasa-svela-i-piani-per-artemis-iii-e-iv-e-le-tante-incognite-dell-allunaggio",
+      "image": "https://www.focus.it/images/2026/10/27/artemis-iii-luna_w630.jpg?imbypass=true",
+      "summary": "Nel 2027 l'equipaggio con a bordo Parmitano piloterà l'attracco ai due lander commerciali. Ma per sbarcare davvero nel 2028, la NASA ha molti nodi da sciogliere...",
+      "date": "2026-10-27T11:00:00.0000000Z"
+    },
     {
       "id": "media-inaf:b51383fb8e38",
       "sourceId": "media-inaf",
@@ -13,6 +37,18 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/preview-maxi-150x150.jpg",
       "summary": "Più materia trangugia e più energia produce, meno appare luminoso. È un fenomeno apparentemente paradossale, quello osservato nei dintorni del sistema binario Maxi J0637−430. Ora un team guidato da Montserrat Armas Pa...",
       "date": "2026-10-27T10:10:51.0000000Z"
+    },
+    {
+      "id": "focus:2a605d2bc72a",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Perché i cani grandi invecchiano prima?",
+      "url": "https://www.focus.it/ambiente/animali/perche-i-cani-grandi-invecchiano-prima",
+      "image": "https://www.focus.it/images/2026/10/22/cane_w630.jpg?imbypass=true",
+      "summary": "I cani di grossa taglia invecchiano e muoiono prima di quelli piccoli: potremmo aver scoperto il meccanismo genetico che causa questa differenza.",
+      "date": "2026-10-27T09:00:00.0000000Z"
     },
     {
       "id": "media-inaf:df9826c17ad3",
@@ -198,30 +234,6 @@
       "date": "2026-10-25T13:00:00.0000000Z"
     },
     {
-      "id": "focus:839183e8ddb7",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "La scienza della pasta: perché ci rende felici?",
-      "url": "https://www.focus.it/focuslive/la-scienza-della-pasta-perche-ci-rende-felici-e-come-la-tecnologia-reinventa-gli-spaghetti",
-      "image": "https://www.focus.it/images/2026/10/25/focus-live-2026-2_w630.jpg?imbypass=true",
-      "summary": "Dalla nutrizione alla progettazione di nuovi formati, fino alla pasta 3D: a Focus Live, Intelligenze, gli esperti hanno svelato quanta ricerca si nasconde dietro uno dei piatti più amati dagli italiani.",
-      "date": "2026-10-25T12:00:00.0000000Z"
-    },
-    {
-      "id": "focus:a54b325bbcff",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Che cos’è la prosopometamorfopsia?",
-      "url": "https://www.focus.it/comportamento/psicologia/che-cos-e-la-prosopometamorfopsia",
-      "image": "https://www.focus.it/images/2026/10/21/prosopometamorfopsia-volto-deformato_w630.jpg?imbypass=true",
-      "summary": "Chi soffre di prosopometamorfopsia vede le persone intorno a sé con i lineamenti del volto completamente deformati o inquietanti. Ecco come funziona questo raro disturbo neurologico e da cosa può essere causato.",
-      "date": "2026-10-25T10:00:00.0000000Z"
-    },
-    {
       "id": "media-inaf:405770a02f69",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -381,18 +393,6 @@
       "summary": "",
       "videoId": "3bnDyONMbu4",
       "date": "2026-10-20T12:06:48.0000000Z"
-    },
-    {
-      "id": "media-inaf:e642c48e97b3",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "La particella dimenticata",
-      "url": "https://www.media.inaf.it/2026/10/20/neutrino-pesante-disaccoppiato/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/neu-150x150.jpg",
-      "summary": "Un nuovo studio teorico analizza come un particolare neutrino pesante, sempre trascurato nelle altre teorie del modello standard, possa giocare un ruolo importante per spiegare l’asimmetria materia-antimateria. L’arti...",
-      "date": "2026-10-20T08:12:16.0000000Z"
     },
     {
       "id": "geopop:7bieEUoKpH8",

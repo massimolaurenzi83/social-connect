@@ -1,7 +1,67 @@
 {
   "category": "energia",
-  "updated": "2026-10-27T10:57:47.6581567Z",
+  "updated": "2026-10-27T16:19:20.7056236Z",
   "items": [
+    {
+      "id": "qualenergia:c941165404fd",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Nuovo quadro europeo per il clima, con 4,5 mld di garanzie per reti e Fer",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/energia-nuovo-quadro-europeo-clima-4-5-mld-garanzie-fer/",
+      "image": null,
+      "summary": "La prevenzione dei blackout e la resilienza del sistema elettrico sono tra i grandi protagonisti del pacchetto sui cambiamenti climatici che la Commissione europea ha pubblicato il 27 ottobre. Si tratta di un doppio i...",
+      "date": "2026-10-27T15:00:13.0000000Z"
+    },
+    {
+      "id": "qualenergia:93bb6ce3cc34",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "L’agrivoltore, la nuova figura professionale che unisce agricoltura ed energia",
+      "url": "https://www.qualenergia.it/articoli/agrivoltore-nuova-figura-professionale-unisce-agricoltura-energia/",
+      "image": null,
+      "summary": "L’impianto agrivoltaico richiede di integrare la produzione agricola e quella di energia solare, tenendo conto delle esigenze di entrambe fin dalla progettazione. Per farlo al meglio servono competenze trasversali, ca...",
+      "date": "2026-10-27T14:45:10.0000000Z"
+    },
+    {
+      "id": "qualenergia:4dd37aa1d738",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Sonnen in insolvenza, verso la liquidazione le attività italiane",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/sonnen-insolvenza-verso-liquidazione-attivita-italiane/",
+      "image": null,
+      "summary": "Sonnen GmbH ha presentato lo scorso 22 ottobre domanda di insolvenza in Germania, meno di due mesi dopo la cessione da Shell all’investitore Tiven. L’azienda ha confermato la richiesta di amministrazione autonoma, con...",
+      "date": "2026-10-27T14:00:45.0000000Z"
+    },
+    {
+      "id": "qualenergia:9ddac9b6fcf3",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Le Regioni vogliono clausole climatiche per l’idroelettrico",
+      "url": "https://www.qualenergia.it/articoli/regioni-vogliono-clausole-climatiche-idroelettrico/",
+      "image": null,
+      "summary": "Il rinnovo delle concessioni idroelettriche potrebbe arricchirsi di un ulteriore parametro da tenere in considerazione. Si tratta delle “clausole climatiche” che le Regioni vorrebbero inserire in questa partita per gu...",
+      "date": "2026-10-27T13:00:35.0000000Z"
+    },
+    {
+      "id": "qualenergia:aaa010d11aea",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Terna, nuovi cavi tra Sicilia e Calabria: scambi elettrici fino a 2 GW",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/terna-nuovi-cavi-sicilia-calabria-scambi-elettrici-fino-2-gw/",
+      "image": null,
+      "summary": "Terna ha avviato la posa dei cavi sottomarini del nuovo elettrodotto Bolano-Annunziata, che consentirà di aumentare di 500 MW, fino a raggiungere i 2 GW, la capacità complessiva di scambio elettrico tra Sicilia e Cala...",
+      "date": "2026-10-27T11:15:55.0000000Z"
+    },
     {
       "id": "qualenergia:97870039fe90",
       "sourceId": "qualenergia",
@@ -13,6 +73,30 @@
       "image": null,
       "summary": "La produzione e l’utilizzo di idrogeno “verde”, quello ricavato dall’elettrolisi dell’acqua con un processo alimentato da energia elettrica rinnovabile, e di idrogeno a basse emissioni di CO2 si stanno sviluppando più...",
       "date": "2026-10-27T10:00:48.0000000Z"
+    },
+    {
+      "id": "qualenergia:7b3ded7bb123",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Bonus colonnine, già terminate le risorse per il 2026",
+      "url": "https://www.qualenergia.it/articoli/bonus-colonnine-terminate-risorse-2026/",
+      "image": null,
+      "summary": "Lo sportello per chiedere il bonus colonnine chiude alle ore 12 di oggi, martedì 27 ottobre. Lo comunica il ministero delle Imprese e del Made in Italy (Mimit), precisando che in poco più di un mese (lo sportello ha a...",
+      "date": "2026-10-27T10:00:01.0000000Z"
+    },
+    {
+      "id": "qualenergia:83ea30dac294",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Fotovoltaico residenziale, con EcoFlow OCEAN 2 un accumulo modulare da 8 kWh",
+      "url": "https://www.qualenergia.it/articoli/fotovoltaico-residenziale-ecoflow-ocean2-accumulo-modulare-8-kwh/",
+      "image": null,
+      "summary": "La progettazione di un impianto fotovoltaico con accumulo richiede di mettere in relazione la produzione dell’impianto, il profilo di consumo dell’utenza e la capacità della batteria. Dimensionare il sistema in modo d...",
+      "date": "2026-10-27T09:30:39.0000000Z"
     },
     {
       "id": "qualenergia:4328bfa990e3",
@@ -61,90 +145,6 @@
       "image": null,
       "summary": "La Regione Liguria apre un nuovo bando per sostenere gli enti locali negli interventi di riqualificazione energetica degli edifici pubblici. Il bando (allegato in fondo) ha disponibili 7 milioni di euro finanziato att...",
       "date": "2026-10-27T07:55:07.0000000Z"
-    },
-    {
-      "id": "qualenergia:c806b8589e7b",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "INFODATA ENERGIA",
-      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
-      "image": null,
-      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
-      "date": "2026-10-27T05:30:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:28c24aba79dc",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "BANDI E APPALTI",
-      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
-      "image": null,
-      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
-      "date": "2026-10-27T05:00:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:92dee9feb9f7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "BANDI E APPALTI – Abbonati a QualEnergia.it PRO",
-      "url": "https://www.qualenergia.it/pro/documenti/bandi-e-appalti-promo/",
-      "image": null,
-      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
-      "date": "2026-10-26T23:30:35.0000000Z"
-    },
-    {
-      "id": "qualenergia:a21954bfa41d",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Il Nobel Philippe Aghion: “per la transizione ecologica serve cambiare la crescita, non fermarla”",
-      "url": "https://www.qualenergia.it/articoli/nobel-philippe-aghion-transizione-ecologica-serve-cambiare-crescita-non-fermarla/",
-      "image": null,
-      "summary": "La crescita economica può essere compatibile con la lotta al cambiamento climatico, ma per riuscirci occorre cambiare la direzione dell’innovazione tecnologica, orientandola verso produzioni e consumi a minore impatto...",
-      "date": "2026-10-26T16:00:55.0000000Z"
-    },
-    {
-      "id": "qualenergia:cd196f319ccc",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Data center, in Lombardia nuove regole su rinnovabili e reti",
-      "url": "https://www.qualenergia.it/articoli/data-center-lombardia-nuove-regole-rinnovabili-reti/",
-      "image": null,
-      "summary": "A poco più di quattro mesi dall’entrata in vigore della prima legge regionale italiana sui data center, la Lombardia interviene nuovamente sulla disciplina del settore, introducendo obblighi più stringenti sull’approv...",
-      "date": "2026-10-26T14:15:49.0000000Z"
-    },
-    {
-      "id": "qualenergia:8b0953fe2d55",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "L’energia in Parlamento questa settimana: 26-30 ottobre 2026",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/energia-in-parlamento-settimana-26-30-ottobre-2026/",
-      "image": null,
-      "summary": "Questa settimana, alla Camera, le commissioni Ambiente e Attività produttive proseguiranno l’esame del DL Carburanti, che contiene anche disposizioni sulle infrastrutture energetiche strategiche, e dello schema di dec...",
-      "date": "2026-10-26T14:00:35.0000000Z"
-    },
-    {
-      "id": "qualenergia:f16029037c75",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Autorizzazioni, il dissenso tra ministeri non può essere eterno",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/autorizzazioni-rinnovabili-dissenso-ministeri-non-eterno/",
-      "image": null,
-      "summary": "Il Tar Marche si è pronunciato sulle modalità di ricomposizione del dissenso tra ministeri della Sicurezza energetica e della Cultura in seno alla Presidenza del Consiglio, ampliando i paletti già fissati dal Consigli...",
-      "date": "2026-10-26T11:00:28.0000000Z"
     }
   ]
 }

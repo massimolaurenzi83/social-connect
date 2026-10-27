@@ -1,7 +1,151 @@
 {
   "category": "arte",
-  "updated": "2026-10-27T10:57:47.6263930Z",
+  "updated": "2026-10-27T16:19:20.6951676Z",
   "items": [
+    {
+      "id": "elledecor:78b73c167989",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Una casa di 90 mq ritrova carattere con una cucina azzurra e dettagli rossi progettati su misura",
+      "url": "https://www.elledecor.com/it/case/a74256754/casa-di-90mq-cucina-azzurra-rosso/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/eaba397b-c1f0-4b5c-b83c-03e2570caa71.jpg",
+      "summary": "Lo studio No Architects trasforma un edificio da ristrutturare in due appartamenti indipendenti, dove il colore diventa protagonista tra arredi su misura e soluzioni di design",
+      "date": "2026-10-27T15:30:00.0000000Z"
+    },
+    {
+      "id": "elledecor:28bb09b84e36",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Editor's pick: la design gallery della settimana in 5 arredi belli da paura (per halloween)",
+      "url": "https://www.elledecor.com/it/design/a74256836/arredi-design-halloween/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f8954652-cd40-4d0f-8223-3ac4f2fb9861.jpg",
+      "summary": "Una selezione di 5 arredi che immaginano la casa perfetta per il 31 ottobre",
+      "date": "2026-10-27T15:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:95d380e306ba",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Copiare non è sempre ripetere. Al Mart di Rovereto una mostra sull’arte della citazione",
+      "url": "https://www.artribune.com/arti-visive/2026/10/copia-citazione-mart-rovereto/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/10/veduta-della-mostradi-quadro-in-quadro-larte-della-citazioneph-mart-rovereto-luca-meneghel-2026-3.jpg",
+      "summary": "“Di quadro in quadro” è la mostra che fino al 1° novembre al Mart di Rovereto analizza l'arte della citazione. Spaziando tra le epoche, si incontrano così immagini note e sorprendenti richiami L’articolo \" Copiare non...",
+      "date": "2026-10-27T15:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:47b5c86deba9",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "È morto Italo Zannier. L’uomo che insegnò all’Italia a leggere la fotografia aveva 94 anni",
+      "url": "https://www.artribune.com/arti-visive/fotografia/2026/10/morto-italo-zannier-fotografo-94-anni/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/10/screenshot-2026-10-27-alle-153317.png",
+      "summary": "Lo storico, fotografo e docente friulano è stato tra i protagonisti del riconoscimento della fotografia come disciplina di studio nel nostro Paese. Dalla ricerca sul territorio alla nascita di nuovi centri di ricerca,...",
+      "date": "2026-10-27T14:30:00.0000000Z"
+    },
+    {
+      "id": "elledecor:6ac84f8615a0",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "7 idee creative per riutilizzare le vecchie riviste e trasformarle in oggetti utili per la casa",
+      "url": "https://www.elledecor.com/it/lifestyle/a74245849/idee-creative-su-come-riutilizzare-vecchie-riviste/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/1c38f183-f0b8-4225-b52d-4aff99125061.jpeg",
+      "summary": "Dalla carta da regalo ai rivestimenti per i cassetti, fino a un tavolino fai da te: sette modi semplici e originali per recuperare le riviste accumulate in casa",
+      "date": "2026-10-27T14:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:b60ad018442b",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Una casa di 70 metri quadrati a Milano è un appartamento del 1927 ristrutturato per la prima volta",
+      "url": "https://www.elledecor.com/it/case/a74256746/casa-70mq-milano-1927/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/8fc2ae07-b704-49f1-8f55-633aeec6609c.jpg",
+      "summary": "La progettista Ludovica Donvito ha valorizzato l'esistente con un progetto fra recupero e lungimiranza",
+      "date": "2026-10-27T13:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:c44c276f068b",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Tra le ville della Riviera del Brenta c’è una residenza d’artista esplora il corpo digitale",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/10/anna-lena-krause-ca-riviera-mira/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/10/anna-lena-krause-artista-in-residenza-presso-ca-riviera-mira-2026-scaled.jpg",
+      "summary": "La prima edizione del programma di residenze internazionali di Ca’ Riviera, in due ville cinquecentesche nell’entroterra veneziano, ha ospitato l’artista tedesca Anna-Lena Krause. Una ricerca che tra scultura e perfor...",
+      "date": "2026-10-27T13:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:7e6a68794eb5",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Muore il critico d’arte e curatore Rudi Fuchs. Negli Anni Ottanta fu il primo direttore del Castello di Rivoli",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/10/addio-rudi-fuchs-direttore-castello-di-rivoli-curatore/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/10/screenshot-2026-10-27-alle-152741.png",
+      "summary": "Scomparso ad Amsterdam a 84 anni, lo storico dell’arte e curatore fu il primo direttore del museo piemontese, contribuendo a definirne l’identità internazionale. La sua lezione torna attuale alla vigilia della Torino ...",
+      "date": "2026-10-27T12:30:00.0000000Z"
+    },
+    {
+      "id": "artribune:0ee55da752dc",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il passato incontra i nuovi collezionisti. A Milano torna la fiera dell’antiquariato AMART",
+      "url": "https://www.artribune.com/professioni-e-professionisti/mercato/2026/10/milano-museo-permanente-fiera-antiquariato-amart/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/10/screenshot-2026-10-27-alle-115936.png",
+      "summary": "Per l'edizione 2026, la rassegna dedicata all'antiquariato raccoglie a Milano oltre 60 gallerie per offrire il meglio dell'arte antica con uno sguardo tutto contemporaneo L’articolo \" Il passato incontra i nuovi colle...",
+      "date": "2026-10-27T12:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:b9126a62b407",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "La Biennale di Architettura di Rotterdam indaga le questioni che cambiano le nostre città",
+      "url": "https://www.elledecor.com/it/design/a74250760/la-biennale-di-architettura-di-rotterdam-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/74cd5133-db86-4e4f-b1de-fb4a97c43f0d.jpg",
+      "summary": "Con Systems of Support, la dodicesima edizione della biennale indaga i meccanismi economici, sociali e ambientali che determinano il modo in cui costruiamo e abitiamo le città",
+      "date": "2026-10-27T12:00:00.0000000Z"
+    },
+    {
+      "id": "artribune:574cac917f2e",
+      "sourceId": "artribune",
+      "source": "Artribune",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Quanto cambia un’opera quando scopriamo chi l’ha fatta? Una mostra a Torino per rifletterci",
+      "url": "https://www.artribune.com/arti-visive/2026/10/outsider-art-mostra-torino/",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/10/eugalleria-gliacrobati17-settembre-1-novembre-2026-1risultato-1.jpg",
+      "summary": "Alla Galleria Gliacrobati, artisti outsider, autori contemporanei e nomi storicizzati vengono messi fino al 1° novembre 2026 sullo stesso piano. Il risultato non cancella le differenze, ma costringe a chiedersi chi ab...",
+      "date": "2026-10-27T11:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:22cb87b323f0",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Boffi | DePadova: un casa, il mondo",
+      "url": "https://www.elledecor.com/it/design/a74202833/boffi-depadova-un-casa-il-mondo/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d3c89839-4b41-4a70-b1af-311418c33e14.jpg",
+      "summary": "Dalla rete internazionale di showroom al rapporto con architetti e clienti, Roberto Gavazzi — CEO e Presidente — ci racconta il percorso di crescita di Boffi | DePadova e le sfide di un progetto sempre più globale.",
+      "date": "2026-10-27T11:00:00.0000000Z"
+    },
     {
       "id": "artribune:61c24780cb92",
       "sourceId": "artribune",
@@ -27,18 +171,6 @@
       "date": "2026-10-27T09:00:00.0000000Z"
     },
     {
-      "id": "elledecor:b5d4bed47ff4",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Il nuovo ponte pedonale più alto d’Italia è lungo 450 metri ed è sospeso a 204 metri sopra il vuot",
-      "url": "https://www.elledecor.com/it/viaggi/a74256436/ponte-pedonale-piu-alto-italia/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/cdc1b6b5-34f0-438a-8d9b-8d2de2db0651.jpeg",
-      "summary": "In provincia di Lecco, il nuovo Ponte dei Minatori attraversa la Valvarrone ed è una passerella sospesa che conduce a un antico borgo minerario",
-      "date": "2026-10-27T08:00:00.0000000Z"
-    },
-    {
       "id": "artribune:17a2be234370",
       "sourceId": "artribune",
       "source": "Artribune",
@@ -48,6 +180,18 @@
       "url": "https://www.artribune.com/professioni-e-professionisti/fiere/2026/10/torino-art-week-2026-fiere-da-non-perdere/",
       "image": "https://www.artribune.com/wp-content/uploads/2026/10/torino-centro.jpg",
       "summary": "Da Artissima a The Others, passando per Flashback e APART FAIR: dal 28 ottobre al 1° novembre Torino diventa il centro del sistema artistico, tra ricerca contemporanea, spazi indipendenti e dialoghi tra antico e prese...",
+      "date": "2026-10-27T08:00:00.0000000Z"
+    },
+    {
+      "id": "elledecor:b5d4bed47ff4",
+      "sourceId": "elledecor",
+      "source": "Elle Decor",
+      "platform": "rss",
+      "category": "arte",
+      "title": "Il nuovo ponte pedonale più alto d’Italia è lungo 450 metri ed è sospeso a 204 metri sopra il vuot",
+      "url": "https://www.elledecor.com/it/viaggi/a74256436/ponte-pedonale-piu-alto-italia/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/cdc1b6b5-34f0-438a-8d9b-8d2de2db0651.jpeg",
+      "summary": "In provincia di Lecco, il nuovo Ponte dei Minatori attraversa la Valvarrone ed è una passerella sospesa che conduce a un antico borgo minerario",
       "date": "2026-10-27T08:00:00.0000000Z"
     },
     {
@@ -87,18 +231,6 @@
       "date": "2026-10-26T22:00:00.0000000Z"
     },
     {
-      "id": "artribune:94b975baf5ed",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Zucche, mostri e un contadino scomparso: Shaun festeggia Halloween al cinema",
-      "url": "https://www.artribune.com/arti-performative/cinema/2026/10/shaun-vita-da-pecora-cinema-italia-fine-ottobre-2026/",
-      "image": "https://www.youtube.com/embed/O2HYVsoDX3Y",
-      "summary": "Il nuovo film dello studio britannico Aardman, che nel 2026 festeggia 50 anni, inaugura Lucca Comics & Games e arriva nelle sale dal 28 ottobre. Ecco una clip in anteprima esclusiva L’articolo \" Zucche, mostri e un co...",
-      "date": "2026-10-26T21:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:4e063e0c28c1",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -109,30 +241,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/45cfaac2-5894-4377-87ea-5ce5e5d4c8a6.jpg",
       "summary": "Pittura, installazioni, video e fotografia: gli appuntamenti tra gallerie, spazi museali, fondazioni e archivi d'autore",
       "date": "2026-10-26T19:30:00.0000000Z"
-    },
-    {
-      "id": "artribune:6dda10cfd2c0",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Ferite, colori e amanti d’argilla. Dentro la scultura di Leoncillo a Milano, la recensione",
-      "url": "https://www.artribune.com/arti-visive/2026/10/leoncillo-mostra-milano/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/10/ph-roberto-marossi.webp",
-      "summary": "Fino al 14 novembre 2026 la galleria Thaddaeus Ropac ospita le opere di Leoncillo, con anche un lavoro inedito. Dagli esordi agli ultimi anni, nell’evoluzione della sua ricerca c’è sempre un punto fermo: il corpo L’ar...",
-      "date": "2026-10-26T18:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:1b30b1cdc6ad",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Intervista a Rossella Farinotti, nuova direttrice artistica del museo MACTE di Termoli in Molise",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/10/rossella-farinotti-nuova-direttrice-macte-termoli/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/10/screenshot-2026-10-26-alle-171036.png",
-      "summary": "In carica dal 1° dicembre 2026, la curatrice e critica d’arte raccoglie il testimone di Caterina Riva, che ha guidato l’istituzione per due mandati. Al centro della prossima stagione, il patrimonio del Premio Termoli,...",
-      "date": "2026-10-26T16:00:00.0000000Z"
     },
     {
       "id": "elledecor:a8c08a07a264",
@@ -147,18 +255,6 @@
       "date": "2026-10-26T15:30:00.0000000Z"
     },
     {
-      "id": "artribune:3d808a919dd3",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "“L’allestimento della collezione Terrae Motus alla Reggia di Caserta non va cambiato”. Parla lo storico collaboratore di Lucio Amelio",
-      "url": "https://www.artribune.com/arti-visive/2026/10/terrae-motus-caserta/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/10/screenshot-2026-01-30-alle-154045.png",
-      "summary": "Tomas Arana, attore ad Hollywood, storico amico e collaboratore di Lucio Amelio, si esprime sul ruolo della commissione di esperti attorno alla collezione del celebre gallerista napoletano e sull’attuale allestimento ...",
-      "date": "2026-10-26T15:00:00.0000000Z"
-    },
-    {
       "id": "elledecor:bbdc3f524920",
       "sourceId": "elledecor",
       "source": "Elle Decor",
@@ -169,102 +265,6 @@
       "image": "https://hips.hearstapps.com/hmg-prod/images/14579b36-11af-491b-8286-f35a94df5be3.png",
       "summary": "Il gruppo automobilistico ha trasformato il Salone parigino in un laboratorio di design, tra memoria e futuro",
       "date": "2026-10-26T15:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:1f9ed6bf8bf3",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Riapre al pubblico Sant’Ivo alla Sapienza a Roma. Come visitare una delle più straordinarie chiese di Borromini",
-      "url": "https://www.artribune.com/progettazione/architettura/2026/10/riapertura-chiesa-santivo-alla-sapienza-roma-borromini/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/10/la-chiesa-di-santivo-alla-sapienza-vista-dal-cortile.jpg",
-      "summary": "Chiusa da molti anni per un articolato intervento di restauro, la chiesa progettata alla metà del Seicento da Francesco Borromini è custodita all’interno del complesso della Sapienza. La riapertura grazie alla collabo...",
-      "date": "2026-10-26T14:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:082327b51087",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Dimore storiche, cottage e paesaggi di \"Ragione e Sentimento\" nell'Inghilterra di Jane Austen",
-      "url": "https://www.elledecor.com/it/lifestyle/a74240129/dimore-storiche-cottage-e-paesaggi-di-ragione-e-sentimento-nellinghilterra-di-jane-austen/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/50edc364-d41a-4ccf-bae3-be54e5a3e93f.jpg",
-      "summary": "Tutte le location del nuovo adattamento cinematografico",
-      "date": "2026-10-26T14:00:00.0000000Z"
-    },
-    {
-      "id": "artribune:f1350400be11",
-      "sourceId": "artribune",
-      "source": "Artribune",
-      "platform": "rss",
-      "category": "arte",
-      "title": "5 videogiochi da scoprire a ottobre 2026. L’horror italiano sulla violenza domestica e altre storie",
-      "url": "https://www.artribune.com/progettazione/new-media/2026/10/videogiochi-ottobre-2026/",
-      "image": "https://www.artribune.com/wp-content/uploads/2026/10/feed-it-di-games-on-a-chair-e-pretty-soon-1.jpg",
-      "summary": "Da treni usati come skateboard al nuovo videogioco di Wolverine, passando attraverso un horror sulla violenza domestica. Ecco cinque recenti videogiochi selezionati e provati per voi L’articolo \" 5 videogiochi da scop...",
-      "date": "2026-10-26T13:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:88ecbbbc54d3",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Un piccolo fioraio nel parco prende la forma di un padiglione di legno con un tetto verde",
-      "url": "https://www.elledecor.com/it/architettura/a74245171/fioraio-architettura-di-legno/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/fda426cc-f8a9-4be9-b090-d00e28a30dba.jpg",
-      "summary": "Nel parco di Haidian, a Pechino, LUO studio progetta un negozio di fiori di dove sottili nervature di legno si aprono come gli steli di un bouquet e sostengono una copertura vegetale",
-      "date": "2026-10-26T13:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:a339dc0e8e9a",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "L'Orto Giardino della Chiesa del Santissimo Redentore a Venezia﻿, fra i luoghi più belli della città",
-      "url": "https://www.elledecor.com/it/viaggi/a74245960/orto-giardino-nascosto-giudecca-venezia/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/a9a28b16-be53-4d90-a9a8-9025d0c72292.jpeg",
-      "summary": "L'indirizzo verde e culturale, realizzato da Venice Gardens Foundation, è una chicca da visitare nella Serenissima: un posto (bellissimo) in cui stare",
-      "date": "2026-10-26T12:31:00.0000000Z"
-    },
-    {
-      "id": "elledecor:e6f69cfeabdc",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Abitare il fuori senza rinunciare al comfort è la nuova frontiera del luxury travel",
-      "url": "https://www.elledecor.com/it/viaggi/a74078116/dormire-sotto-le-stelle-cenare-nel-deserto/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/dfa297a6-1751-444d-a0d3-cf848ea5a92b.jpg",
-      "summary": "Dormire sotto le stelle, cenare nel deserto, vivere in una tenda immersa nella natura, cenare tra i templi e aspettare l’alba nel bush: cinque modi diversi di viaggiare in cui il vero privilegio è avere spazio, tempo ...",
-      "date": "2026-10-26T11:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:c3226daaf09c",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "Una notte allo Shiroiya Hotel, un’antica locanda trasformata da Sou Fujimoto con camere d’autore",
-      "url": "https://www.elledecor.com/it/architettura/a74243059/shiroiya-hotel-di-sou-fujimoto/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/cover-1-shiroiya-hotel-green-tower-1-cshinya-kigure-1605532824.jpg",
-      "summary": "A Maebashi, in Giappone, un albergo storico diventa un laboratorio di architettura contemporanea, con stanze progettate da Michele De Lucchi, Jasper Morrison e Leandro Erlich",
-      "date": "2026-10-26T08:00:00.0000000Z"
-    },
-    {
-      "id": "elledecor:950ebed0bda1",
-      "sourceId": "elledecor",
-      "source": "Elle Decor",
-      "platform": "rss",
-      "category": "arte",
-      "title": "A Madrid, la nuova vita di un appartamento d’epoca",
-      "url": "https://www.elledecor.com/it/case/a74175994/a-madrid-la-nuova-vita-di-un-appartamento-depoca/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/72225a89-a44d-4112-8116-879f060b5336.jpg",
-      "summary": "In un edificio storico, l’architetto Laura Gärna rilegge un interno domestico intrecciando arredi e opere d’arte",
-      "date": "2026-10-26T07:00:00.0000000Z"
     }
   ]
 }
