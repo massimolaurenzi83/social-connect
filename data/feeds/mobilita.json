@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-28T17:22:44.8429701Z",
+  "updated": "2026-10-28T21:48:51.5728023Z",
   "items": [
+    {
+      "id": "ferrovie:63a607bd188d",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Micronews ferroviarie, le ultime notizie al 28 ottobre 2026",
+      "url": "https://www.ferrovie.info/treni-reali/micronews-ferroviarie-le-ultime-notizie-al-28-ottobre-2026.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10834/normal_etr_104_tua_roma_san_pietro.jpeg",
+      "summary": "Le principali novità dal mondo ferroviario, tra trasferimenti di materiale rotabile, nuovi accessi alle stazioni, logistica e sicurezza dei passeggeri. Le micronews ferroviarie del 28 ottobre 2026 raccolgono aggiornam...",
+      "date": "2026-10-28T18:05:10.0000000Z"
+    },
     {
       "id": "ferrovie:b517155fd295",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1800480.JPG",
       "summary": "Nuove opportunità di lavoro nel settore ferroviario con il Gruppo Ferrovie dello Stato Italiane . Trenitalia ha pubblicato quattro offerte per la formazione e l'inserimento di diplomati nei profili di Capotreno e Cust...",
       "date": "2026-10-27T08:01:11.0000000Z"
-    },
-    {
-      "id": "ferrovie:d24fbebb0797",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Rail Baltica, la Lettonia valuta costi e finanziamenti per proseguire il progetto",
-      "url": "https://www.ferrovie.info/treni-reali/rail-baltica-la-lettonia-valuta-costi-e-finanziamenti-per-proseguire-il-progetto.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/452_1048.jpg",
-      "summary": "Il futuro di Rail Baltica torna al centro del dibattito politico nei Paesi baltici, con particolare attenzione alle risorse necessarie per portare avanti uno dei principali progetti ferroviari europei. L'aumento dei c...",
-      "date": "2026-10-27T07:32:02.0000000Z"
     }
   ]
 }

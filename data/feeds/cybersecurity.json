@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-28T17:22:44.8267131Z",
+  "updated": "2026-10-28T21:48:51.6326742Z",
   "items": [
+    {
+      "id": "cybersecurity360:12ff2df121de",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "L’evoluzione del SOC: dal limite del SOAR agli agenti AI",
+      "url": "https://www.cybersecurity360.it/corsi-cybersecurity/levoluzione-del-soc-dal-limite-del-soar-agli-agenti-ai/",
+      "image": null,
+      "summary": "L'evoluzione del SOC analizzata attraverso l'esperienza di Adobe: dal superamento dei limiti rigidi del SOAR all'adozione di agenti AI specializzati in grado di esaminare oltre 140 rilevamenti in meno di quattro ore L...",
+      "date": "2026-10-28T16:24:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:77b7c8530213",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Le vulnerabilità PHP2Shell non colpiscono direttamente Android e iOS, ma possono esporre dati e servizi delle app mobili attraverso backend PHP vulnerabili. L'analisi di NowSecure evidenzia i rischi per API e componen...",
       "date": "2026-10-27T14:02:42.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3a2fe4e0feef",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "ACN, eventi cyber a +57%: il ransomware pesa sulla continuità dei servizi",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/acn-eventi-cyber-a-57-il-ransomware-pesa-sulla-continuita-dei-servizi/",
-      "image": null,
-      "summary": "A settembre 2026 ACN registra 485 eventi cyber e 235 incidenti confermati. DDoS e defacement alimentano la crescita degli eventi, mentre il ransomware resta la minaccia con il maggiore impatto operativo, con attacchi ...",
-      "date": "2026-10-27T11:49:48.0000000Z"
     }
   ]
 }
