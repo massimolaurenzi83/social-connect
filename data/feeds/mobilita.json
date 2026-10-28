@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-28T11:36:06.5832021Z",
+  "updated": "2026-10-28T17:22:44.8429701Z",
   "items": [
+    {
+      "id": "ferrovie:b517155fd295",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Trentino-Alto Adige, consegnati due nuovi treni Alstom Coradia Stream ETR 104",
+      "url": "https://www.ferrovie.info/treni-reali/trentino-alto-adige-consegnati-due-nuovi-treni-alstom-coradia-stream-etr-104.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10529/normal_ETR_104_318_Trentino_Alstom_1.jpeg",
+      "summary": "Prosegue la consegna dei treni Alstom Coradia Stream destinati al rinnovo della flotta ferroviaria del Trentino-Alto Adige . Dopo il primo convoglio ETR 104 n.245 , arrivato nel dicembre 2024, sono stati consegnati a ...",
+      "date": "2026-10-28T13:45:06.0000000Z"
+    },
     {
       "id": "ferrovie:d60ed8da7f3c",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10002/452_1048.jpg",
       "summary": "Il futuro di Rail Baltica torna al centro del dibattito politico nei Paesi baltici, con particolare attenzione alle risorse necessarie per portare avanti uno dei principali progetti ferroviari europei. L'aumento dei c...",
       "date": "2026-10-27T07:32:02.0000000Z"
-    },
-    {
-      "id": "ferrovie:3991ba2ae49f",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Portogallo, 170 anni di ferrovie con un anno di eventi",
-      "url": "https://www.ferrovie.info/treni-reali/portogallo-170-anni-di-ferrovie-con-un-anno-di-eventi.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/650_1832.jpg",
-      "summary": "Il 28 ottobre 1856 segnò una svolta nella storia dei trasporti portoghesi, con l’apertura del primo collegamento ferroviario del Paese. Da allora, la rete su rotaia ha accompagnato lo sviluppo economico e sociale del ...",
-      "date": "2026-10-27T07:24:16.0000000Z"
     }
   ]
 }
