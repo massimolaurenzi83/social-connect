@@ -1,7 +1,271 @@
 {
   "category": "motori",
-  "updated": "2026-10-28T05:32:52.1106579Z",
+  "updated": "2026-10-28T11:36:06.5780425Z",
   "items": [
+    {
+      "id": "motor1:cd554df7903a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Per fare il pieno alla Tesla Roadster ci vogliono fino a 6 ore",
+      "url": "https://it.motor1.com/news/813528/tesla-rifornimento-bombole-azoto/",
+      "image": "https://cdn.motor1.com/images/mgl/JO6ymX/s3/tesla-roadster-performs-autonomous-flying-stunts.jpg",
+      "summary": "Riempire il serbatoio di azoto da 200 litri che alimenta i propulsori della Tesla Roadster non è così rapido",
+      "date": "2026-10-28T11:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:4fad63a9d2c3",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuovo Codice della strada: guerra alle auto fantasma e alla beffa dei prestanome",
+      "url": "https://www.hdmotori.it/prestanome-auto-nuovo-codice-strada-isee/",
+      "image": null,
+      "summary": "Dalle centinaia di vetture intestate a persone indigenti alla nuova presunzione di simulazione: ecco come il Codice della strada vuole fermare le auto fantasma The post Nuovo Codice della strada: guerra alle auto fant...",
+      "date": "2026-10-28T11:00:56.0000000Z"
+    },
+    {
+      "id": "motor1:9c0111bbc29f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volvo EX60 MY28, tutti i prezzi e gli allestimenti",
+      "url": "https://it.motor1.com/news/813513/volvo-ex60-my28-prezzi-allestimenti/",
+      "image": "https://cdn.motor1.com/images/mgl/VzbQJz/s3/volvo-ex60.jpg",
+      "summary": "La gamma Volvo EX60 Model Year 28 riduce la potenza di ricarica di serie sulle P6 e P10 AWD e aggiorna dotazioni e prezzi",
+      "date": "2026-10-28T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:5942d455e4f4",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen vuole il software cinese per risparmiare 5 miliardi",
+      "url": "https://insideevs.it/news/813491/volkswagen-tecnologia-cinese-confronto-cea/",
+      "image": "https://cdn.motor1.com/images/mgl/rK6Ybr/s3/volkswagen-id.-unyx-07.jpg",
+      "summary": "Per i futuri modelli Volkswagen e Skoda la CEA cinese promette fino a 5 miliardi di risparmi sui costi",
+      "date": "2026-10-28T11:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:6f98d8982f26",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "China Zorrilla debutta in Sud America, il traghetto da 40 MWh di batterie",
+      "url": "https://www.vaielettrico.it/china-zorrilla-debutta-in-sud-america-il-traghetto-da-40-mwh-di-batterie/",
+      "image": null,
+      "summary": "China Zorrilla è entrata in servizio tra Uruguay e Argentina. Quando abbiamo scritto del traghetto elettrico più grande… L'articolo China Zorrilla debutta in Sud America, il traghetto da 40 MWh di batterie proviene da...",
+      "date": "2026-10-28T10:43:52.0000000Z"
+    },
+    {
+      "id": "motor1:e5cc949c297e",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Perché questa Porsche 911 potrebbe valere 8 milioni di dollari?",
+      "url": "https://it.motor1.com/news/813510/ruf-project-dragon-asta-porsche-911/",
+      "image": "https://cdn.motor1.com/images/mgl/Rqbkmm/s3/1998-ruf-porshe-911-project-dragon.jpg",
+      "summary": "Perché è la Ruf Project Dragon, una delle rare one-off del costruttore tedesco, basata sulla meccanica della CTR2 Sport",
+      "date": "2026-10-28T10:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:bb00551c736d",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "F1, Mercedes e McLaren si scambiano le filosofie: aerodinamica ancora da scoprire",
+      "url": "https://www.hdmotori.it/f1-2026-mercedes-mclaren-aerodinamica/",
+      "image": null,
+      "summary": "F1 2026, Mercedes e McLaren cambiano le proprie pance e le filosofie aerodinamiche. Il nuovo regolamento sta rivoluzionando lo sviluppo delle monoposto The post F1, Mercedes e McLaren si scambiano le filosofie: aerodi...",
+      "date": "2026-10-28T10:00:21.0000000Z"
+    },
+    {
+      "id": "insideevs:61ef39c8681f",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Non solo stato solido, Mercedes prepara batterie al manganese",
+      "url": "https://insideevs.it/news/813514/batterie-stato-solido-manganese-mercedes/",
+      "image": "https://cdn.motor1.com/images/mgl/qk8wxJ/s3/26c0306_207.jpg",
+      "summary": "La Casa tedesca esplora diverse strade per migliorare le auto elettriche: le celle LNMO potrebbero offrire il 30% di autonomia in più",
+      "date": "2026-10-28T10:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:ad30d9d969ac",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes, il turbo elettrico della Formula 1 in arrivo sulla GLB",
+      "url": "https://it.motor1.com/news/813523/motore-benzina-turbo-elettrico-mercedes/",
+      "image": "https://cdn.motor1.com/images/mgl/407woZ/s3/26c0306_150.jpg",
+      "summary": "Il nuovo 1.5 da 231 CV ha un compressore a 48 volt derivato dalle corse. Risposta più pronta e il 17% di emissioni in meno",
+      "date": "2026-10-28T10:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:d2b3f212d91c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Diesel, tornano gli sconti sulle accise: quanto si risparmia",
+      "url": "https://it.motor1.com/news/813527/diesel-taglio-accise-sconti-risparmio-novembre-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/zx0AWq/s3/pompe-di-carburante-diesel-e-benzina.jpg",
+      "summary": "Il governo riattiva il taglio per undici giorni: lo sconto è di 4,9 centesimi al litro, Iva inclusa. Eni abbassa il tetto sul gasolio",
+      "date": "2026-10-28T09:48:25.0000000Z"
+    },
+    {
+      "id": "hdmotori:5bec004184de",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Zeekr 9X, tra lusso e tecnologia sfida i grandi SUV europei",
+      "url": "https://www.hdmotori.it/zeekr-9x-suv-prezzo-dimensioni/",
+      "image": null,
+      "summary": "Dopo un primo sguardo al Salone di Parigi, Zeekr porta in Italia la nuova 9X. Vettura che vuole competere nel segmento del vero lusso con le ammiraglie rialzate europee The post Zeekr 9X, tra lusso e tecnologia sfida ...",
+      "date": "2026-10-28T09:30:50.0000000Z"
+    },
+    {
+      "id": "motor1:408963195d27",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen si prepara a far tornare la Up",
+      "url": "https://it.motor1.com/news/813521/volkswagen-id-up-registrazione-nome-citycar/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z3e1A/s3/volkswagen-id.every1.jpg",
+      "summary": "Ma in chiave elettrica con il nome di ID. Up, nella scia di ID. Polo e ID. Tiguan",
+      "date": "2026-10-28T09:30:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:841e84760fd2",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L’idrogeno come il GNL: “Se non fai i distributori…”",
+      "url": "https://www.vaielettrico.it/lidrogeno-come-il-gnl-se-non-fai-i-distributori/",
+      "image": null,
+      "summary": "L’idrogeno come il GNL, il gas naturale liquefatto: se non fai i distributori, nessuno lo adotterà. È la… L'articolo L’idrogeno come il GNL: “Se non fai i distributori…” proviene da Vaielettrico .",
+      "date": "2026-10-28T09:09:24.0000000Z"
+    },
+    {
+      "id": "hdmotori:1fe0fb8203c5",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mancanza di diesel in Svizzera, Berna studia la stretta: autostrade a 80 km/h",
+      "url": "https://www.hdmotori.it/diesel-svizzera-limite-autostrade/",
+      "image": null,
+      "summary": "La Svizzera valuta un limite di 80 km/h sulle autostrade per ridurre il consumo di diesel. Sbloccati 45 milioni di litri dalle riserve nazionali The post Mancanza di diesel in Svizzera, Berna studia la stretta: autost...",
+      "date": "2026-10-28T09:00:52.0000000Z"
+    },
+    {
+      "id": "motor1:2cd98a4eca99",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Altro che gomme invernali, questi Toyota montano i cingoli",
+      "url": "https://it.motor1.com/news/813417/toyota-concept-cingoli-neve-debutto/",
+      "image": "https://cdn.motor1.com/images/mgl/qk8wBy/s3/toyota-tacoma-snowhunter-concept.jpg",
+      "summary": "Cingoli, assetto rialzato e accessori dedicati per affrontare la neve più profonda. Il debutto al SEMA Show 2026.",
+      "date": "2026-10-28T09:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:84c5f1142a6e",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I prezzi e gli allestimenti della prima Range Rover Sport senza benzina",
+      "url": "https://it.motor1.com/news/813422/range-rover-sport-electric-prezzi/",
+      "image": "https://cdn.motor1.com/images/mgl/2N9vrB/s3/range-rover-sport-electric.jpg",
+      "summary": "Prezzo base di 155.400 euro per la ricca Range Rover Sport EV550 First Edition",
+      "date": "2026-10-28T08:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:20b29cd3c8d4",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BYD svela il nome della super berlina che sfida Rolls-Royce: è la Yangwang Altior",
+      "url": "https://insideevs.it/news/813487/byd-yangwang-altior-berlina-elettrica/",
+      "image": "https://cdn.motor1.com/images/mgl/qk8wvJ/s3/il-teaser-della-yangwang-altior.jpg",
+      "summary": "La nuova BYD Yangwang Altior punta al lusso tipo Rolls-Royce Ghost, con debutto internazionale previsto al salone di Dubai",
+      "date": "2026-10-28T08:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:e3c92d7d01de",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Yamaha a EICMA 2026: tutte le novità",
+      "url": "https://www.hdmotori.it/yamaha-eicma-2026-novita/",
+      "image": null,
+      "summary": "Dalla manutenzione guidata all'arte dal vivo sulla XSR900: allo stand Yamaha la passione per le due ruote si racconta attraverso l'esperienza di tutti i giorni. The post Yamaha a EICMA 2026: tutte le novità appeared f...",
+      "date": "2026-10-28T08:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:324a3919054f",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "GWM produrrà in Europa: la svolta in Bulgaria e i segreti dell’H7",
+      "url": "https://www.hdmotori.it/gwm-produzione-europa-bulgaria-ora-h7/",
+      "image": null,
+      "summary": "GWM sceglie la Bulgaria per produrre la ORA 5 dal 2027 ed evitare i dazi. Debutta l'architettura AI GuiYuan con il nuovo SUV H7 ibrido Hi2 e Hi4 da 435 CV. The post GWM produrrà in Europa: la svolta in Bulgaria e i se...",
+      "date": "2026-10-28T07:30:17.0000000Z"
+    },
+    {
+      "id": "motor1:c6a5b4491167",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Mitsubishi da 465 CV (no, non è una Lancer)",
+      "url": "https://it.motor1.com/news/813409/mitsubishi-asx-vr-e-debutto-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/ojEln2/s3/2027-mitsubishi-asx-vr-e.jpg",
+      "summary": "Nasce l'ASX VR-e, SUV elettrico pensato per l'Australia e disegnato da Pininfarina",
+      "date": "2026-10-28T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:eb0ff0af3a15",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Omoda 7 ibrida plug-in (2026), la prova dei consumi reali",
+      "url": "https://it.motor1.com/reviews/813216/omoda-7-plug-in-hybrid-2026-consumi/",
+      "image": "https://cdn.motor1.com/images/mgl/AkOPq2/s3/omoda-7-ibrida-plug-in-2026-la-prova-consumi.jpg",
+      "summary": "Con questo SUV ho viaggiato comodo e nel silenzio, con ottime finiture interne e tanto spazio di carico, consumando anche poco",
+      "date": "2026-10-28T06:01:47.0000000Z"
+    },
+    {
+      "id": "insideevs:edefb106b59f",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "C'è un costruttore europeo che batte i cinesi sulla fornitura di batterie",
+      "url": "https://insideevs.it/news/813362/rimac-fornisce-batterie-bmw-i7/",
+      "image": "https://cdn.motor1.com/images/mgl/L3yyLW/s3/batterie-rimac-per-la-bmw-i7.jpg",
+      "summary": "Il fornitore croato ha investito nella fabbrica di Zagabria prima del contratto, producendo 48.000 sistemi batteria l'anno per BMW i7",
+      "date": "2026-10-28T06:00:00.0000000Z"
+    },
     {
       "id": "motor1:782122ddc17b",
       "sourceId": "motor1",
@@ -75,30 +339,6 @@
       "date": "2026-10-27T17:00:07.0000000Z"
     },
     {
-      "id": "motor1:b3cf90ed313c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La NSX di Tony Stark va all'asta, ma c'è un problema che cambia tutto",
-      "url": "https://it.motor1.com/news/813363/la-macchina-di-tony-stark-%C3%A8-in-vendita/",
-      "image": "https://cdn.motor1.com/images/mgl/W8bQ6q/s3/acura-nsx-roadster-from-marvel-s-the-avengers.jpg",
-      "summary": "Creata per The Avengers partendo da una NSX del 1991, questa roadster è un pezzo unico da collezione che non può circolare su strada",
-      "date": "2026-10-27T17:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:81e5ff6cf9da",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il non SUV di Range Rover nel suo primo video ufficiale",
-      "url": "https://it.motor1.com/news/813407/range-rover-gt-teaser-video/",
-      "image": "https://cdn.motor1.com/images/mgl/E6NeEw/s3/range-rover-gt-2027-exterieur-detail.jpg",
-      "summary": "La Range Rover GT prosegue i test al Nurburgring, nell'attesa di scoprirla senza veli nei prossimi mesi",
-      "date": "2026-10-27T16:30:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:ea9923e4bf56",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -135,18 +375,6 @@
       "date": "2026-10-27T16:00:55.0000000Z"
     },
     {
-      "id": "motor1:92cb99c324e9",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il pick-up ibrido plug-in da 436 CV va forte sia nel fango sia su asfalto, la prova del BYD Shark",
-      "url": "https://it.motor1.com/reviews/813360/byd-shark-2026-prova-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/0epj82/s3/dv985rt3o44.jpg",
-      "summary": "Il primo pick-up BYD per l’Europa ha tanta potenza, 90 km in elettrico e un solo allestimento: l’abbiamo provato su strada e nel fango",
-      "date": "2026-10-27T16:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:ded1e3052912",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -157,18 +385,6 @@
       "image": "https://cdn.motor1.com/images/mgl/0egZK3/s3/nio-lancia-il-battey-swap-5.0-compatibile-con-la-firefly.jpg",
       "summary": "CATL e BAIC rilanciano il battery swapping in Cina: più auto nuove compatibili e una rete di stazioni sempre più capillare",
       "date": "2026-10-27T16:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:70a8c71b642a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Governo pensa alla totale abolizione del bollo auto",
-      "url": "https://it.motor1.com/news/813435/bollo-auto-cancellato-2027-tutte-auto/",
-      "image": "https://cdn.motor1.com/images/mgl/0egnkn/s3/bollo-auto-toscana-come-verificare-online-se-hai-pagato.jpg",
-      "summary": "Sul tavolo l'idea di estenderla a tutte le auto senza limiti di potenza, ma c'è il nodo coperture",
-      "date": "2026-10-27T15:36:31.0000000Z"
     },
     {
       "id": "vaielettrico:4939e1d2fc34",
@@ -183,42 +399,6 @@
       "date": "2026-10-27T15:35:07.0000000Z"
     },
     {
-      "id": "hdmotori:39f034a8a118",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto elettriche: come cambia la ricarica con le nuove tariffe Electra",
-      "url": "https://www.hdmotori.it/electra-tariffe-dinamiche-ricarica-auto-elettriche/",
-      "image": null,
-      "summary": "Electra lancia in Italia le tariffe dinamiche per la ricarica rapida delle auto elettriche. Prezzi a fasce orarie, sconti in app e penale per chi occupa le colonnine. The post Auto elettriche: come cambia la ricarica ...",
-      "date": "2026-10-27T15:30:43.0000000Z"
-    },
-    {
-      "id": "motor1:6817cc1d6cef",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Potete comprare la Ferrari che ha vinto la 24 Ore di Le Mans",
-      "url": "https://it.motor1.com/news/813364/ferrari-499p-modificata-asta/",
-      "image": "https://cdn.motor1.com/images/mgl/eoWNn8/s3/ferrari-499p-modificata-all-asta.jpg",
-      "summary": "Una 499P Modificata è in vendita all'asta e potrebbe valere una fortuna. Incluso nel prezzo c'è anche l'assistenza tecnica in pista",
-      "date": "2026-10-27T15:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:8327af6b0f6b",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Sogni un lavoro nel settore auto? Ecco le competenze più richieste",
-      "url": "https://it.motor1.com/news/813425/lavoro-auto-competenze-richieste/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZPNrw/s3/sogni-un-lavoro-nel-settore-auto-ecco-le-competenze-piu-richieste.jpg",
-      "summary": "La ricerca Youtrend per Geely fotografa le competenze richieste nei prossimi tre anni. Al centro anche sostenibilità e digitalizzazione",
-      "date": "2026-10-27T15:15:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:59e1fab8fc75",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -231,30 +411,6 @@
       "date": "2026-10-27T15:10:23.0000000Z"
     },
     {
-      "id": "hdmotori:61dd2ee7750a",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "F1, Kimi Antonelli a un passo dalla gloria mondiale: in arrivo un incasso stellare",
-      "url": "https://www.hdmotori.it/f1-kimi-antonelli-mondiale-incasso/",
-      "image": null,
-      "summary": "Il bolognese della Mercedes sta per ricevere una somma extra per la conquista del Mondiale. Scopriamo come funzionano i bonus in F1. The post F1, Kimi Antonelli a un passo dalla gloria mondiale: in arrivo un incasso s...",
-      "date": "2026-10-27T15:00:28.0000000Z"
-    },
-    {
-      "id": "motor1:ffd5894a954e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Così Chery va alla ricerca dell’identità per i suoi marchi",
-      "url": "https://it.motor1.com/news/813279/chery-stile-modelli-futuro/",
-      "image": "https://cdn.motor1.com/images/mgl/W8bQ6g/s3/lepas-aura-concept.jpg",
-      "summary": "Il costruttore di Wuhu presenta, per la prima volta, due concept che segnalano l’inizio di un percorso di definizione di tutti i brand del Gruppo",
-      "date": "2026-10-27T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:4e2d57b39e3f",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -265,30 +421,6 @@
       "image": "https://cdn.motor1.com/images/mgl/0epjrp/s3/auto-elettriche-non-servono-solo-ingegneri-ecco-i-lavori-del-futuro.jpg",
       "summary": "Dallo sviluppo software alla gestione dell'energia, la transizione elettrica cambia le competenze richieste dall'automotive",
       "date": "2026-10-27T14:45:30.0000000Z"
-    },
-    {
-      "id": "motor1:41cf37d29687",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Renault Clio si prende Auto Europa 2027, ecco le sette auto simbolo del cambiamento secondo UIGA",
-      "url": "https://it.motor1.com/news/813424/renault-clio-auto-europa-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/XBbvw2/s3/renault-clio-si-prende-auto-europa-2026-ecco-le-sette-auto-simbolo-del-cambiamen.jpg",
-      "summary": "La compatta Renault Clio di sesta generazione conquista Auto Europa 2026 a Milano davanti a Hyundai Ioniq 3 e Lancia Gamma",
-      "date": "2026-10-27T14:38:39.0000000Z"
-    },
-    {
-      "id": "motor1:c1af92c1b6e0",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le date del Salone Auto Torino 2027",
-      "url": "https://it.motor1.com/news/813414/salone-auto-torino-2027-date/",
-      "image": "https://cdn.motor1.com/images/mgl/BX12ZR/s3/salone-auto-torino-2026.jpg",
-      "summary": "Appuntamento dal 24 al 26 settembre 2027 con ingresso gratuito, test drive e appuntamenti per appassionati",
-      "date": "2026-10-27T14:30:00.0000000Z"
     },
     {
       "id": "vaielettrico:b9539a1c2fbe",
@@ -327,18 +459,6 @@
       "date": "2026-10-27T14:01:25.0000000Z"
     },
     {
-      "id": "hdmotori:ce2be3f36e95",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Dacia Sandero arriverà nel 2028: stile ancora più ricercato",
-      "url": "https://www.hdmotori.it/nuova-dacia-sandero-2028/",
-      "image": null,
-      "summary": "La prossima serie di Sandero risulterà ancora più curata. Valutiamo dai primi render le caratteristiche scelte da Dacia. The post La nuova Dacia Sandero arriverà nel 2028: stile ancora più ricercato appeared first on ...",
-      "date": "2026-10-27T14:00:24.0000000Z"
-    },
-    {
       "id": "insideevs:1a23f37e562c",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -349,30 +469,6 @@
       "image": "https://cdn.motor1.com/images/mgl/2N9vJ4/s3/tesla-fsd.jpg",
       "summary": "Su Turo i proprietari Tesla ottengono un mese di prova FSD, chi guida trova annunci verificati tramite collegamento diretto",
       "date": "2026-10-27T14:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:fbe6c9ed5bc3",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tutti i motori della Citroen C3",
-      "url": "https://it.motor1.com/news/809967/citroen-c3-motori-batterie-consumi/",
-      "image": "https://cdn.motor1.com/images/mgl/W8GXAq/s3/citroen-c3-2023.jpg",
-      "summary": "Motori a benzina, mild hybrid e 100% elettrici: ecco la gamma completa della C3",
-      "date": "2026-10-27T14:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:b5ec698a336c",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mercato auto usate in Italia: -1,4% ad agosto, ma +1,2% nei primi otto mesi del 2026",
-      "url": "https://www.hdmotori.it/mercato-auto-usate-italia-agosto-2026/",
-      "image": null,
-      "summary": "I dati diffusi dall'UNRAE evidenziano un mese estivo in flessione con 293.924 passaggi di proprietà, mentre il diesel mantiene la quota maggioritaria e le ibride continuano la loro crescita. The post Mercato auto usat...",
-      "date": "2026-10-27T13:00:27.0000000Z"
     },
     {
       "id": "vaielettrico:d97d29fe940d",
@@ -387,18 +483,6 @@
       "date": "2026-10-27T12:47:54.0000000Z"
     },
     {
-      "id": "hdmotori:c861fc199eb6",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Porsche 911 Turbo Brundle Edition: capolavoro racing firmato Gunther Werks",
-      "url": "https://www.hdmotori.it/porsche-911-turbo-brundle-edition-gunther-werks/",
-      "image": null,
-      "summary": "Pensata per 5 eletti dal portafoglio pesantissimo, la nuova Porsche 911 Turbo special è un omaggio all’ex pilota di F1 Martin Brundle. The post Porsche 911 Turbo Brundle Edition: capolavoro racing firmato Gunther Werk...",
-      "date": "2026-10-27T12:00:45.0000000Z"
-    },
-    {
       "id": "insideevs:5c073139a2f8",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -411,18 +495,6 @@
       "date": "2026-10-27T11:23:58.0000000Z"
     },
     {
-      "id": "hdmotori:334c87bd5a58",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Renault Trafic, evoluzione della specie: più tecnologia e più comfort",
-      "url": "https://www.hdmotori.it/renault-trafic-evoluzione-tecnologia/",
-      "image": null,
-      "summary": "Per rimanere leader del segmento dei veicoli commerciali leggeri di medie dimensioni in Francia Renault ha rinnovato il Trafic. The post Renault Trafic, evoluzione della specie: più tecnologia e più comfort appeared f...",
-      "date": "2026-10-27T11:00:16.0000000Z"
-    },
-    {
       "id": "insideevs:98eb109a9d3b",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -433,30 +505,6 @@
       "image": "https://cdn.motor1.com/images/mgl/P3VQXX/s3/batteria-svolt-dragon-armor.jpg",
       "summary": "Nel sito di Changzhou parte la produzione della Dragon Armor da 100 kWh, con architettura a 900 V e 3.000 cicli dichiarati",
       "date": "2026-10-27T10:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:3a4027944f5e",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Bonus colonnine: soldi esauriti con 16mila domande",
-      "url": "https://www.vaielettrico.it/bonus-colonnine-soldi-esauriti-con-16mila-domande/",
-      "image": null,
-      "summary": "Bonus colonnine, fondi esauriti per il 2026. In poco più di un mese sono arrivate a Invitalia 16… L'articolo Bonus colonnine: soldi esauriti con 16mila domande proviene da Vaielettrico .",
-      "date": "2026-10-27T09:01:18.0000000Z"
-    },
-    {
-      "id": "vaielettrico:2c8a39b2dbae",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Electra, cosa ci combini con la tariffa variabile?",
-      "url": "https://www.vaielettrico.it/electra-cosa-ci-combini-con-la-tariffa-variabile/",
-      "image": null,
-      "summary": "«Ottime notizie» annuncia trionfalmente la rete di ricarica Electra a tutti gli utenti registrati sulla sua App. L’ottima… L'articolo Electra, cosa ci combini con la tariffa variabile? proviene da Vaielettrico .",
-      "date": "2026-10-27T08:31:15.0000000Z"
     },
     {
       "id": "insideevs:fa9ec46ddcb4",
@@ -481,54 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/XBbmkl/s3/volkswagen-id.-tiguan-vs-kia-ev5.jpg",
       "summary": "Accoglienti per tutti gli occupanti, si tratta di due modelli recenti con tanta tecnologia di bordo. Scopriamoli meglio",
       "date": "2026-10-27T06:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:926234bc3b8a",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le nuove batterie \"made in Europe\" renderanno le auto elettriche più costose?",
-      "url": "https://insideevs.it/news/813206/batterie-produzione-europea-costi/",
-      "image": "https://cdn.motor1.com/images/mgl/MGLBn/s3/batterie-europa.jpg",
-      "summary": "L'UE vuole favorire la produzione locale, ma secondo uno studio i costi aggiuntivi supererebbero i 2.000 euro a veicolo. Ecco perché",
-      "date": "2026-10-26T16:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:5a26dc1df5e8",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quanto si risparmia davvero con l’auto elettrica quando si fa il pieno a casa",
-      "url": "https://insideevs.it/news/813273/auto-elettriche-risparmi-ricarica/",
-      "image": "https://cdn.motor1.com/images/mgl/407wKk/s3/costi-ricarica-vs-costo-pieno.jpg",
-      "summary": "Secondo i dati di Motus-E un pieno elettrico costa fino al 60% in meno e l’Italia sfiora i 90.000 punti di ricarica pubblici",
-      "date": "2026-10-26T15:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:8a07bb36d65a",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il nuovo affare nascosto delle batterie EV usate vale già miliardi",
-      "url": "https://insideevs.it/news/813218/batterie-ev-prima-generazione-aftermarket/",
-      "image": "https://cdn.motor1.com/images/mgl/QeGOj7/s3/nissan-leaf-2010.jpg",
-      "summary": "Le batterie delle Nissan Leaf e Renault Zoe più anziane entrano in un mercato parallelo tra riuso, storage stazionario e riciclo",
-      "date": "2026-10-26T14:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:1b8f122a50d7",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il pick-up elettrico spartano di Slate ha sorpreso in una nuova prova",
-      "url": "https://insideevs.it/reviews/813204/slate-pick-up-elettrico-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/Znlrp3/s3/slate-review.jpg",
-      "summary": "Una nuova prova su strada rivela un comfort e una spinta sorprendenti, anche se questo prototipo non è ancora di serie",
-      "date": "2026-10-26T12:00:00.0000000Z"
     }
   ]
 }
