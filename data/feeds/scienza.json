@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-10-28T00:06:04.1353330Z",
+  "updated": "2026-10-28T05:32:52.1449527Z",
   "items": [
+    {
+      "id": "focus:bd450641d3fa",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "L'IA di Google che funziona senza internet",
+      "url": "https://www.focus.it/tecnologia/innovazione/google-lancia-ia-che-funziona-senza-internet-come-lavora-foresight-direttamente-sul-computer",
+      "image": "https://www.focus.it/images/2026/10/27/ia-offline_w630.jpg?imbypass=true",
+      "summary": "Foresight elabora riunioni, appunti e documenti personali direttamente su computer, senza inviare dati al cloud: ecco come l'IA \"on-device\" (per ora solo su Mac) garantisce privacy e autonomia anche offline.",
+      "date": "2026-10-28T04:00:00.0000000Z"
+    },
     {
       "id": "media-inaf:3187f8208b11",
       "sourceId": "media-inaf",
@@ -181,18 +193,6 @@
       "image": "https://www.focus.it/images/2026/10/22/san-francesco-crociate_w630.jpg?imbypass=true",
       "summary": "Non con le armi: nel 1219, durante la quinta Crociata, san Francesco raggiunse il porto di Damietta per un incontro pacifico con il sultano al-Malik al-Kamil.",
       "date": "2026-10-26T03:00:00.0000000Z"
-    },
-    {
-      "id": "focus:4de58780b275",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Come si misura l'impatto dei progetti sociali",
-      "url": "https://www.focus.it/focuslive/intelligenze-a-focus-live-come-si-misura-il-valore-sociale-per-moltiplicare-l-impatto-dei-progetti",
-      "image": "https://www.focus.it/images/2026/10/23/carmelo-carbotti-responsabile-strategic-marketing-research-di-banca-ifis_w630.jpg?imbypass=true",
-      "summary": "A Focus Live, Carmelo Carbotti di Banca Ifis racconta come misurare l'impatto sociale dei progetti e trasformare ogni euro investito in valore per la collettività.",
-      "date": "2026-10-25T13:00:00.0000000Z"
     },
     {
       "id": "media-inaf:405770a02f69",

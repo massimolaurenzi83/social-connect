@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-10-28T00:06:04.1149178Z",
+  "updated": "2026-10-28T05:32:52.1106579Z",
   "items": [
+    {
+      "id": "motor1:782122ddc17b",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova spider di Aston Martin tocca i 1.079 CV",
+      "url": "https://it.motor1.com/news/813225/aston-martin-valhalla-spider-motore-prezzo/",
+      "image": "https://cdn.motor1.com/images/mgl/3WBw11/s3/aston-martin-valhalla-spider.jpg",
+      "summary": "Debutta la Aston Martin Valhalla Spider: motore V8 biturbo ibrido da 1.079 CV, tetto rimovibile e scocca in fibra di carbonio",
+      "date": "2026-10-28T00:01:00.0000000Z"
+    },
     {
       "id": "vaielettrico:5da54d53560a",
       "sourceId": "vaielettrico",
@@ -361,18 +373,6 @@
       "image": null,
       "summary": "I dati diffusi dall'UNRAE evidenziano un mese estivo in flessione con 293.924 passaggi di proprietà, mentre il diesel mantiene la quota maggioritaria e le ibride continuano la loro crescita. The post Mercato auto usat...",
       "date": "2026-10-27T13:00:27.0000000Z"
-    },
-    {
-      "id": "motor1:a3986cb7f872",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Bollo auto 2027, conta solo la scadenza: chi resta fuori dall’esenzione",
-      "url": "https://it.motor1.com/features/813359/bollo-auto-2027-pagamento-esenzione/",
-      "image": "https://cdn.motor1.com/images/mgl/JPn1J/s3/bollo-auto-sospeso-il-pagamento-in-abruzzo-umbria-calabria-e-friuli.jpg",
-      "summary": "Le esenzioni riguardano solo i bolli con termine ordinario nel 2027, niente rimborsi né sconti sui versamenti legati al 2026",
-      "date": "2026-10-27T13:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:d97d29fe940d",
