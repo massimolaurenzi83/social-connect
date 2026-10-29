@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-29T14:29:16.6775809Z",
+  "updated": "2026-10-29T19:48:57.6009329Z",
   "items": [
+    {
+      "id": "cybersecurity360:38239d6ebb0f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Protezione della proprietà intellettuale: bloccare i dati",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/protezione-della-proprieta-intellettuale-bloccare-i-dati/",
+      "image": null,
+      "summary": "Come prevenire esfiltrazione, Insider Threat e violazioni con controlli tecnici, cifratura e compliance L'articolo Protezione della proprietà intellettuale: bloccare i dati proviene da Cyber Security 360 .",
+      "date": "2026-10-29T16:21:34.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:938b03142c02",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Crittografia post-quantistica, il NIST fissa le scadenze per la migrazione",
+      "url": "https://www.cybersecurity360.it/quantum-computing/crittografia-post-quantistica-il-nist-fissa-le-scadenze-per-la-migrazione/",
+      "image": null,
+      "summary": "Il NIST ha pubblicato il 27 ottobre 2026 la guida definitiva alla migrazione verso la crittografia post-quantistica. RSA ed ECDSA saranno deprecati dopo il 2030 e non più ammessi dagli standard NIST dopo il 2035. Le s...",
+      "date": "2026-10-29T14:09:08.0000000Z"
+    },
     {
       "id": "cybersecurity360:204c983818d5",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Un dispositivo grande quanto una moneta ha dimostrato che i sistemi di volo di un 737 possono essere manomessi con un attacco fisico da meno di 100 dollari. Il caso riguarda direttamente le infrastrutture critiche ita...",
       "date": "2026-10-29T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:12ff2df121de",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "L’evoluzione del SOC: dal limite del SOAR agli agenti AI",
-      "url": "https://www.cybersecurity360.it/corsi-cybersecurity/levoluzione-del-soc-dal-limite-del-soar-agli-agenti-ai/",
-      "image": null,
-      "summary": "L'evoluzione del SOC analizzata attraverso l'esperienza di Adobe: dal superamento dei limiti rigidi del SOAR all'adozione di agenti AI specializzati in grado di esaminare oltre 140 rilevamenti in meno di quattro ore L...",
-      "date": "2026-10-28T16:24:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:77b7c8530213",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Servizi di sicurezza gestiti: la certificazione europea non riguarda soltanto i SOC",
-      "url": "https://www.cybersecurity360.it/legal/servizi-di-sicurezza-gestiti-la-certificazione-europea-non-riguarda-soltanto-i-soc/",
-      "image": null,
-      "summary": "Il D.lgs. 191/2026 adegua il quadro italiano alla certificazione europea dei servizi di sicurezza gestiti. Nessun obbligo generalizzato dal 6 novembre, ma una novità destinata a incidere sulla scelta dei fornitori e s...",
-      "date": "2026-10-28T15:01:50.0000000Z"
     }
   ]
 }

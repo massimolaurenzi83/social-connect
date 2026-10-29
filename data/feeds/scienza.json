@@ -1,7 +1,57 @@
 {
   "category": "scienza",
-  "updated": "2026-10-29T14:29:16.7092390Z",
+  "updated": "2026-10-29T19:48:57.5996997Z",
   "items": [
+    {
+      "id": "curiuss:PjoHsNNhkjc",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Da dove viene il Protone - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=PjoHsNNhkjc",
+      "image": "https://i.ytimg.com/vi/PjoHsNNhkjc/hqdefault.jpg",
+      "summary": "",
+      "videoId": "PjoHsNNhkjc",
+      "date": "2026-10-29T19:00:24.0000000Z"
+    },
+    {
+      "id": "media-inaf:2e1faa884a19",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Beta pictoris: che coda!",
+      "url": "https://www.media.inaf.it/2026/10/29/beta-pictoris-che-coda/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/Dusty-Cats-Tail-in-Beta-Pictoris-System-scaled.jpeg-150x150.webp",
+      "summary": "Un nuovo studio guidato dall’Università dell’Arizona, basato sui dati dei telescopi spaziali Hubble e James Webb, getta nuova luce sulla “coda di gatto” di Beta Pictoris, l’enigmatica nube di polveri caudiforme scoper...",
+      "date": "2026-10-29T18:07:49.0000000Z"
+    },
+    {
+      "id": "geopop:TEA7s9rwoPw",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Scontro tra due treni in Spagna: cosa sappiamo e qual è la causa più probabile",
+      "url": "https://www.youtube.com/watch?v=TEA7s9rwoPw",
+      "image": "https://i.ytimg.com/vi/TEA7s9rwoPw/hqdefault.jpg",
+      "summary": "",
+      "videoId": "TEA7s9rwoPw",
+      "date": "2026-10-29T17:30:36.0000000Z"
+    },
+    {
+      "id": "media-inaf:37d13312d8be",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Simulare l’universo primordiale con Lumina",
+      "url": "https://www.media.inaf.it/2026/10/29/simulazione-universo-primordiale-lumina/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/lumina-150x150.jpg",
+      "summary": "Un team di ricerca del CfA ha sviluppato Lumina, una delle simulazioni dell’universo primordiale più grandi e dettagliate mai realizzate. La simulazione ricostruisce i primi due miliardi di anni dell’universo, fornend...",
+      "date": "2026-10-29T16:57:27.0000000Z"
+    },
     {
       "id": "geopop:1aHelEEvkSQ",
       "sourceId": "geopop",
@@ -14,6 +64,18 @@
       "summary": "",
       "videoId": "1aHelEEvkSQ",
       "date": "2026-10-29T12:00:06.0000000Z"
+    },
+    {
+      "id": "focus:081c101114b0",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "L’inghiottitore nero che ha esagerato con il cibo",
+      "url": "https://www.focus.it/ambiente/animali/l-inghiottitore-nero-che-ha-esagerato-con-il-cibo",
+      "image": "https://www.focus.it/images/2026/10/16/inghiottitore-nero_w630.jpg?imbypass=true",
+      "summary": "A Trinidad e Tobago abbiamo filmato un pesce chiamato inghiottitore nero che ha ingerito una preda ben più grossa di lui.",
+      "date": "2026-10-29T11:00:00.0000000Z"
     },
     {
       "id": "focus:308a056a2bd1",
@@ -139,18 +201,6 @@
       "date": "2026-10-28T10:00:15.0000000Z"
     },
     {
-      "id": "focus:d2d756c23a3b",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Che cos'è la vigoressia?",
-      "url": "https://www.focus.it/comportamento/psicologia/muscolosi-ma-mai-abbastanza-che-cos-e-la-vigoressia-e-come-cambia-la-percezione-del-corpo",
-      "image": "https://www.focus.it/images/2026/10/28/body-building-vigoressia_w630.jpg?imbypass=true",
-      "summary": "La vigoressia (o complesso di Adone) colpisce oltre 60.000 persone in Italia ed è legata a modifiche strutturali nelle aree del cervello dedicate a emozioni e immagine corporea.",
-      "date": "2026-10-28T10:00:00.0000000Z"
-    },
-    {
       "id": "focus:509424ef36af",
       "sourceId": "focus",
       "source": "Focus",
@@ -160,6 +210,18 @@
       "url": "https://www.focus.it/ambiente/animali/coccolare-i-gatti-riduce-lo-stress-nostro-e-loro",
       "image": "https://www.focus.it/images/2026/10/23/gatti_w630.jpg?imbypass=true",
       "summary": "C’è un legame ormonale molto interessante tra gatti e umani, che potrebbe spiegare i reciproci effetti benefici del contatto fisico.",
+      "date": "2026-10-28T10:00:00.0000000Z"
+    },
+    {
+      "id": "focus:d2d756c23a3b",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Che cos'è la vigoressia?",
+      "url": "https://www.focus.it/comportamento/psicologia/muscolosi-ma-mai-abbastanza-che-cos-e-la-vigoressia-e-come-cambia-la-percezione-del-corpo",
+      "image": "https://www.focus.it/images/2026/10/28/body-building-vigoressia_w630.jpg?imbypass=true",
+      "summary": "La vigoressia (o complesso di Adone) colpisce oltre 60.000 persone in Italia ed è legata a modifiche strutturali nelle aree del cervello dedicate a emozioni e immagine corporea.",
       "date": "2026-10-28T10:00:00.0000000Z"
     },
     {
@@ -259,18 +321,6 @@
       "date": "2026-10-27T10:10:51.0000000Z"
     },
     {
-      "id": "focus:2a605d2bc72a",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Perché i cani grandi invecchiano prima?",
-      "url": "https://www.focus.it/ambiente/animali/perche-i-cani-grandi-invecchiano-prima",
-      "image": "https://www.focus.it/images/2026/10/22/cane_w630.jpg?imbypass=true",
-      "summary": "I cani di grossa taglia invecchiano e muoiono prima di quelli piccoli: potremmo aver scoperto il meccanismo genetico che causa questa differenza.",
-      "date": "2026-10-27T09:00:00.0000000Z"
-    },
-    {
       "id": "media-inaf:df9826c17ad3",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -358,18 +408,6 @@
       "date": "2026-10-23T15:13:45.0000000Z"
     },
     {
-      "id": "media-inaf:115e76baf73b",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Di galassia in galassia con Gianni Rodari",
-      "url": "https://www.media.inaf.it/2026/10/23/concorso-gianni-rodari-2026/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/2026-150x150.png",
-      "summary": "Torna “A Gianni Rodari, via Lattea quaraquarinci”, il concorso di scrittura dell’Inaf dedicato alle scuole primarie e secondarie di primo grado. Quest’anno si viaggia tra le galassie, con una sfida tutta rodariana: in...",
-      "date": "2026-10-23T05:58:27.0000000Z"
-    },
-    {
       "id": "geopop:fXJUvLFzLFQ",
       "sourceId": "geopop",
       "source": "Geopop",
@@ -381,18 +419,6 @@
       "summary": "",
       "videoId": "fXJUvLFzLFQ",
       "date": "2026-10-22T16:30:24.0000000Z"
-    },
-    {
-      "id": "media-inaf:0a6f6e37dd8b",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Tira aria di tempeste solari, attorno ai buchi neri",
-      "url": "https://www.media.inaf.it/2026/10/22/effetto-neupert-smbh/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2025/09/solar-flares-over-6-ti-150x150.jpg",
-      "summary": "I telescopi spaziali Xrism e Xmm-Newton hanno rilevato per la prima volta l’impronta di un’eruzione da riconnessione magnetica e dell’effetto Neupert attorno a un buco nero supermassiccio nella galassia Ngc 3783, dimo...",
-      "date": "2026-10-22T13:58:05.0000000Z"
     },
     {
       "id": "geopop:NNOo_ubmJtE",
@@ -432,19 +458,6 @@
       "summary": "",
       "videoId": "asUt8jayPDE",
       "date": "2026-10-20T16:30:26.0000000Z"
-    },
-    {
-      "id": "geopop:3bnDyONMbu4",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Scarpe da ginnastica VS scarpa da trekking. Cosa cambia?",
-      "url": "https://www.youtube.com/watch?v=3bnDyONMbu4",
-      "image": "https://i.ytimg.com/vi/3bnDyONMbu4/hqdefault.jpg",
-      "summary": "",
-      "videoId": "3bnDyONMbu4",
-      "date": "2026-10-20T12:06:48.0000000Z"
     },
     {
       "id": "curiuss:e8p5tg55yDE",
@@ -588,19 +601,6 @@
       "summary": "",
       "videoId": "DXAmnjHn-Hw",
       "date": "2026-04-20T18:00:12.0000000Z"
-    },
-    {
-      "id": "curiuss:h4hq5okz5tQ",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Parigi Astronomica - Paris#02 - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=h4hq5okz5tQ",
-      "image": "https://i.ytimg.com/vi/h4hq5okz5tQ/hqdefault.jpg",
-      "summary": "",
-      "videoId": "h4hq5okz5tQ",
-      "date": "2026-04-07T18:34:25.0000000Z"
     }
   ]
 }

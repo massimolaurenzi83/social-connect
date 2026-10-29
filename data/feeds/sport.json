@@ -1,30 +1,234 @@
 {
   "category": "sport",
-  "updated": "2026-10-29T14:29:16.7394268Z",
+  "updated": "2026-10-29T19:48:57.5793287Z",
   "items": [
     {
-      "id": "ansa-sport:c320e29aa541",
+      "id": "ansa-sport:a42bd5339660",
       "sourceId": "ansa-sport",
       "source": "ANSA Sport",
       "platform": "rss",
       "category": "sport",
-      "title": "Atp Vienna: Darderi eliminato, ai quarti va Paul",
-      "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/29/atp-vienna-darderi-eliminato-ai-quarti-va-paul_e16e59b4-7e7c-4f29-a1f4-b436307292ab.html",
+      "title": "Atp Vienna: Zverev ai quarti, da lunedì sarà numero 1 mondiale",
+      "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/29/atp-vienna-zverev-ai-quarti-da-lunedi-sara-numero-1-mondiale_800dd90b-aafd-4bdd-aad6-88ef336b8cbc.html",
       "image": null,
-      "summary": "Lo statunitense si impone 6-1, 6-1, stasera il derby Cobolli-Berrettini",
-      "date": "2026-10-29T14:12:46.0000000Z"
+      "summary": "Super Sinner grazie ai punti conquistati battendo Griekspoor",
+      "date": "2026-10-29T19:42:28.0000000Z"
     },
     {
-      "id": "ansa-sport:540359638528",
+      "id": "corrieresport:98be39ed9a72",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Il Frosinone non si ferma pi&ugrave;: manita al Lecce e sesto posto",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/29-152246291/il_frosinone_non_si_ferma_pi_manita_al_lecce_e_sesto_posto/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/192448946-9e16c64e-e9f3-4182-8ae7-224df8103cc1.jpg",
+      "summary": "Continua la favola della neopromossa di Alvini, che si impone per 5-1 sui salentini e stacca nuovamente Napoli e Juve",
+      "date": "2026-10-29T19:41:33.0000000Z"
+    },
+    {
+      "id": "corrieresport:b9294af21bbb",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Kean ancora fuori, il Como annuncia i tempi di recupero: ecco quando torner&agrave;",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/como/2026/10/29-152246556/kean_ancora_fuori_il_como_annuncia_i_tempi_di_recupero_ecco_quando_torner/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/192930348-f26e15b0-04dc-46ca-966e-867c88ee07e3.jpg",
+      "summary": "Fabregas dovrà continuare a fare a meno del centravanti, che salterà anche gli impegni con la Nazionale",
+      "date": "2026-10-29T19:37:03.0000000Z"
+    },
+    {
+      "id": "ansa-sport:b26e7550137c",
       "sourceId": "ansa-sport",
       "source": "ANSA Sport",
       "platform": "rss",
       "category": "sport",
-      "title": "Milan: Rabiot, Gila e Moreira si allenano, recuperabili per il derby",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/29/milan-rabiot-gila-e-moreira-si-allenano-recuperabili-per-il-derby_00f71d0c-a85e-4c9d-b003-c9ba0d43461d.html",
+      "title": "Serie A: Frosinone batte il Lecce 5-1",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/29/serie-a-frosinone-batte-il-lecce-5-1_9a0646af-e6b5-4a8e-9a5c-9063b20da7bb.html",
       "image": null,
-      "summary": "Decisiva la seduta alla vigilia, attesa per gli esami a Tomori",
-      "date": "2026-10-29T13:59:34.0000000Z"
+      "summary": "Padroni di casa a segno con Cichella, Calò, Raimondo e doppietta Birligea. Accorcia Monteiro",
+      "date": "2026-10-29T19:33:52.0000000Z"
+    },
+    {
+      "id": "ansa-sport:35d1ca87e2dc",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Finali Wnba: si va a gara-7, Atlanta-Golden State 80-69",
+      "url": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/29/finali-wnba-si-va-a-gara-7-atlanta-golden-state-80-69_c530604d-f9be-4fe0-8162-1d3576e51a8d.html",
+      "image": null,
+      "summary": "Nulla da fare per la squadra della Zandalasini, il titolo si gioca il 1 novembre notte",
+      "date": "2026-10-29T19:33:34.0000000Z"
+    },
+    {
+      "id": "ansa-sport:34e7dce1751b",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Serie A: Frosinone-Lecce 5-1",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/29/serie-a-frosinone-lecce-5-1_44c0974e-1c00-4c24-9832-d87b69095f8e.html",
+      "image": null,
+      "summary": "Ciociari travolgenti, Raimondo ancora in gol e doppietta di Birligea",
+      "date": "2026-10-29T19:33:03.0000000Z"
+    },
+    {
+      "id": "corrieresport:d873ac4e951d",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Manna: &quot;Gila? Ci abbiano provato, bravo il Milan&quot;. Poi parla anche di Gasperini",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/29-152245244/manna_gila_ci_abbiano_provato_bravo_il_milan_poi_parla_anche_di_gasperini/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/190009003-95418ca7-a307-447a-832e-a537d2150198.jpg",
+      "summary": "Il direttore sportivo del Napoli a tutto campo: ha parlato anche di Badiashile, Lukaku, Conte e Allegri",
+      "date": "2026-10-29T19:01:07.0000000Z"
+    },
+    {
+      "id": "ansa-sport:b53948fc829b",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Atp Vienna: Musetti eliminato, Fery ai quarti",
+      "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/29/atp-vienna-musetti-eliminato-fery-ai-quarti_44051c5a-6c76-41c3-a67e-bb94c49dad2b.html",
+      "image": null,
+      "summary": "Sconfitta in tre set per l'azzurro contro il semifinalista di Wimbledon",
+      "date": "2026-10-29T18:58:30.0000000Z"
+    },
+    {
+      "id": "ansa-sport:a19d64e88fec",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Calcio: Bonucci ricorda la paura per l'operazione al figlio",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/29/calcio-bonucci-ricorda-la-paura-per-loperazione-al-figlio_3cb875e0-73f7-4eda-88dc-fb3d75950bc7.html",
+      "image": null,
+      "summary": "\"Durò sette ore. Matteo ora sta bene e gioca a tennis\"",
+      "date": "2026-10-29T18:57:37.0000000Z"
+    },
+    {
+      "id": "ansa-sport:66d5231f7eee",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Genoa: dopo la Juve subito al lavoro per Lecce col dubbio Ellertsson",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/29/genoa-dopo-la-juve-subito-al-lavoro-per-lecce-col-dubbio-ellertsson_e478854c-389e-4691-bc25-3905a30402c4.html",
+      "image": null,
+      "summary": "Nessuna lesione per l'islandese per un trauma distorsivo alla caviglia sinistra",
+      "date": "2026-10-29T18:33:23.0000000Z"
+    },
+    {
+      "id": "ansa-sport:e3c7b9f3f583",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Como: Kean sottoposto a trattamenti, recupero un cinque settimane",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/29/como-kean-sottoposto-a-trattamenti-recupero-un-cinque-settimane_3eeec08b-bbee-4f98-b2d1-bd9dc87e8ce3.html",
+      "image": null,
+      "summary": "Annuncio del club lariano sulle condizioni dell'attaccante",
+      "date": "2026-10-29T18:31:00.0000000Z"
+    },
+    {
+      "id": "corrieresport:8ca0276efe45",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Nuovo stadio di Milano: svelato il nome, si chiamer&agrave; Generali Stadium",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/29-152244218/nuovo_stadio_di_milano_svelato_il_nome_si_chiamer_generali_stadium/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/182021170-80665e71-8db9-4ab4-9fb9-89ae51585709.jpg",
+      "summary": "Il progetto è stato presentato al Castello Sforzesco: i tifosi di Milan e Inter, da oggi, conoscono come si chiamerà la loro nuova casa",
+      "date": "2026-10-29T18:11:55.0000000Z"
+    },
+    {
+      "id": "ansa-sport:2694d7c00640",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Serie A: Frosinone-Torino in campo domenica alle 15 DIRETTA",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/29/il-torino-valuta-la-spalla-di-cacciamani-e-in-dubbio-per-frosinone_230389ae-8133-46ae-b67c-961cc331e6df.html",
+      "image": null,
+      "summary": "Il giocatore è uscito acciaccato dalla gara contro il Como",
+      "date": "2026-10-29T17:53:33.0000000Z"
+    },
+    {
+      "id": "ansa-sport:bbd07264f7be",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Tennis: Alcaraz ai quarti a Vienna, battuto Basilashvili",
+      "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/29/tennis-alcaraz-ai-quarti-a-vienna-battuto-basilashvili_274a35a8-e7dd-4590-a768-f5019b25cd3b.html",
+      "image": null,
+      "summary": "Lo spagnolo affronterà lo statunitense Paul",
+      "date": "2026-10-29T17:49:39.0000000Z"
+    },
+    {
+      "id": "ansa-sport:d91dc49d88a2",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Calcio: il nuovo San Siro si chiamerà Generali Stadium",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/29/calcio-nuovo-san-siro-si-chiamera-generali-stadium_36b2d92c-91d5-44b4-a914-e59937063cff.html",
+      "image": null,
+      "summary": "Struttura diagonale all'esterno, posizione sopraelevata e forma a 'catino'",
+      "date": "2026-10-29T17:39:55.0000000Z"
+    },
+    {
+      "id": "corrieresport:04910694db2d",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Aic e Assoallenatori unite per Galliani presidente della Figc: l&#39;annuncio ufficiale",
+      "url": "https://www.corrieredellosport.it/news/calcio/2026/10/29-152242819/aic_e_assoallenatori_unite_per_galliani_presidente_della_figc_l_annuncio_ufficiale/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/171024719-b8a3746a-2514-430c-ac28-df7fb83640b4.jpg",
+      "summary": "Il comunicato congiunto dell'Associazione Italiana Calciatori e dell'Associazione Italiana Allenatori Calcio: \"Ultimata la raccolta delle firme per presentare la candidatura\"",
+      "date": "2026-10-29T17:14:03.0000000Z"
+    },
+    {
+      "id": "ansa-sport:c0b088ae7620",
+      "sourceId": "ansa-sport",
+      "source": "ANSA Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "F1: maxischermo all'Autodromo di Imola, domenica tutti a tifare Antonelli",
+      "url": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/29/f1-maxischermo-allautodromo-di-imola-domenica-tutti-a-tifare-antonelli_a1c23246-b66a-45d0-89c1-1d35b836f238.html",
+      "image": null,
+      "summary": "Ingresso libero per vedere il gp del Messico e sostenere a distanza l'idolo di casa",
+      "date": "2026-10-29T17:05:29.0000000Z"
+    },
+    {
+      "id": "corrieresport:e6b0e6bd11e2",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Sampdoria-Virtus Entella, come vederla gratis su Dazn",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/29-152242175/sampdoria-virtus_entella_come_vederla_gratis_su_dazn/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/163808508-ace7ecda-89d0-4c50-abfd-cbfe57d3bd40.jpg",
+      "summary": "Scopri tutto ciò che c'è da sapere sul derby ligure in programma allo stadio Ferraris, valido per la decima giornata di Serie B",
+      "date": "2026-10-29T16:41:30.0000000Z"
+    },
+    {
+      "id": "corrieresport:da91f330df4b",
+      "sourceId": "corrieresport",
+      "source": "Corriere dello Sport",
+      "platform": "rss",
+      "category": "sport",
+      "title": "Lobotka ko, l&#39;esito degli esami: ecco per quanto tempo il Napoli lo perder&agrave;",
+      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/10/29-152240684/lobotka_ko_l_esito_degli_esami_ecco_per_quanto_tempo_il_napoli_lo_perder/",
+      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/141157144-e4d2dbcf-38b3-4f70-a95f-7ef286b8da28.jpg",
+      "summary": "L'infortunio del centrocampista slovacco, uscito in barella dal campo del Monza, è serio: c'è lesione",
+      "date": "2026-10-29T14:22:11.0000000Z"
     },
     {
       "id": "corrieresport:51545cf6bfde",
@@ -37,30 +241,6 @@
       "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/135252669-3963d6b1-4fbf-4bdb-b7e8-eeea6b735861.jpg",
       "summary": "CR7, con la vittoria del trofeo nel 2008, ha vinto il BOAT, un premio con votazione a pagamento da parte degli utenti",
       "date": "2026-10-29T13:53:35.0000000Z"
-    },
-    {
-      "id": "ansa-sport:764051f67a0b",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Cagliari: Pisacane prova a recuperare Winks in vista della Lazio",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/29/cagliari-pisacane-prova-a-recuperare-winks-in-vista-della-lazio_4b330203-a3e7-49f6-9d1a-deb5ae5300a4.html",
-      "image": null,
-      "summary": "Intanto l'attaccante senegalese Mendy rinnova sino al 2032",
-      "date": "2026-10-29T13:47:13.0000000Z"
-    },
-    {
-      "id": "ansa-sport:777277201305",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Cairo \"ho firmato per Malagò. Galliani? Non mi pare abbia tanti consensi\"",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/29/cairo-ho-firmato-per-malago.-galliani-non-mi-pare-abbia-tanti-consensi_ff611db2-74b6-4f67-9b2b-5b34c7340384.html",
-      "image": null,
-      "summary": "Il presidente del Torino sulle candidature per la presidenza della Figc",
-      "date": "2026-10-29T13:45:45.0000000Z"
     },
     {
       "id": "corrieresport:71f4438a21e8",
@@ -100,42 +280,6 @@
       "date": "2026-10-29T13:24:23.0000000Z"
     },
     {
-      "id": "ansa-sport:12943b2fe46c",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Milwaukee nella storia del baseball, primo trionfo nelle World Series",
-      "url": "https://www.ansa.it/sito/notizie/sport/2026/10/29/milwaukee-nella-storia-del-baseball-primo-trionfo-nelle-world-series_ac47fa87-fb1b-41da-b029-84ab87c80bda.html",
-      "image": null,
-      "summary": "Sconfitti in cinque partite i Tampa Bay Rays, decisivo l'ultimo successo per 4-1",
-      "date": "2026-10-29T13:18:06.0000000Z"
-    },
-    {
-      "id": "ansa-sport:221266b33964",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Serie B: quattro giocatori squalificati, tutti per una giornata",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/29/serie-b-quattro-giocatori-squalificati-tutti-per-una-giornata_e1457530-3498-4953-9b78-28ac5f6b4330.html",
-      "image": null,
-      "summary": "Due sono calciatori dell'Empoli, Shpendi e Magnino",
-      "date": "2026-10-29T13:18:05.0000000Z"
-    },
-    {
-      "id": "ansa-sport:0fc204e0abe2",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Juve a rapporto da Carnevali, in ritiro fino al Napoli",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/29/juve-a-rapporto-da-carnevali-in-ritiro-fino-al-napoli_ae54f15e-4229-46dd-abaf-356fcca2ba44.html",
-      "image": null,
-      "summary": "Confronto tra squadra e ad per cercare di ripartire con Spalletti",
-      "date": "2026-10-29T13:15:46.0000000Z"
-    },
-    {
       "id": "corrieresport:9d2604c23f27",
       "sourceId": "corrieresport",
       "source": "Corriere dello Sport",
@@ -146,18 +290,6 @@
       "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/125334725-bc72de7d-2ee5-4692-bd04-fe4e82f52f5d.jpeg",
       "summary": "Il capitano dei campioni d'Italia cavalca l'onda del 5-0 del debutto: \"Importante non prendere gol e farne il più possibili\". Stasera (ore 20.30) la sfida contro i danesi dello Hjørring, in diretta streaming.",
       "date": "2026-10-29T12:56:23.0000000Z"
-    },
-    {
-      "id": "corrieresport:e063039f32a3",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Tudor all&#39;Atalanta: l&#39;indiscrezione arriva da Bergamo, come stanno le cose con Sarri",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/atalanta/2026/10/29-152239470/tudor_all_atalanta_l_indiscrezione_arriva_da_bergamo_come_stanno_le_cose_con_sarri/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/122929156-54207696-ec26-47b5-a011-d346dbf56aa3.jpg",
-      "summary": "Alta tensione in casa nerazzurra: la gara di Firenze potrebbe essere decisiva per il futuro dell'allenatore. Gli ultimi aggiornamenti",
-      "date": "2026-10-29T12:55:07.0000000Z"
     },
     {
       "id": "corrieresport:9ffe20897129",
@@ -183,54 +315,6 @@
       "summary": "",
       "videoId": "MzVNlQX4w_M",
       "date": "2026-10-29T12:53:32.0000000Z"
-    },
-    {
-      "id": "ansa-sport:410ce9c6e7ae",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Mondiali 2026: biglietti e hospitality, ricavi Fifa a 4,5 miliardi di euro",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/29/mondiali-2026-biglietti-e-hospitality-ricavi-fifa-a-45-miliardi-di-euro_ce03b6c1-024e-407b-aed9-3ee5dcabdfb6.html",
-      "image": null,
-      "summary": "Il dato supera nettamente la stima di 3 miliardi di euro dell'organizzazione",
-      "date": "2026-10-29T12:52:46.0000000Z"
-    },
-    {
-      "id": "corrieresport:4712216b8608",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Svilar, il recupero procede ma torner&agrave; solo dopo la sosta: tocca ancora a Gollini",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/29-152239752/svilar_il_recupero_procede_ma_torner_solo_dopo_la_sosta_tocca_ancora_a_gollini/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/124610566-2c9a3151-85c0-46a5-b635-3fcfab64f022.jpg",
-      "summary": "Il portiere della Roma oggi in città per una visita: tutti i dettagli",
-      "date": "2026-10-29T12:47:55.0000000Z"
-    },
-    {
-      "id": "ansa-sport:d4a9fff59a05",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Calcio: Venezia in fiducia a Como, spazio a Busio e Yeboa",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/29/calcio-venezia-in-fiducia-a-como-spazio-a-busio-e-yeboa_a920b962-89a5-4f32-b8f3-023f78b59d42.html",
-      "image": null,
-      "summary": "Dopo la gara con l'Inter Nicola convinto di poter risalire la classifica",
-      "date": "2026-10-29T12:34:56.0000000Z"
-    },
-    {
-      "id": "ansa-sport:950d1a9d579c",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Sport e Salute, oltre 6300 classi impegnate in 'Tutti giorni in Movimento'",
-      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/29/sport-e-salute-oltre-6300-classi-impegnate-in-tutti-giorni-in-movimento_1596e97e-109a-4b1b-b644-2c370415e848.html",
-      "image": null,
-      "summary": "L'obiettivo è combattere il dropout sportivo giovanile",
-      "date": "2026-10-29T12:30:40.0000000Z"
     },
     {
       "id": "skysport-yt:NoWebWqKCN8",
@@ -259,18 +343,6 @@
       "date": "2026-10-29T12:15:06.0000000Z"
     },
     {
-      "id": "corrieresport:4dbe1221bcef",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Scholes durissimo con Bruno Fernandes: &quot;Imperdonabile, penso debba andare in Arabia Saudita&quot;",
-      "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/premier-league/manchester-united/2026/10/29-152238935/scholes_durissimo_con_bruno_fernandes_imperdonabile_penso_debba_andare_in_arabia_saudita/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/112025525-43f7c6fd-869e-4ee7-8367-76f7059b893f.jpg",
-      "summary": "Le parole dell'ex centrocampista del Manchester United a pochi giorni dallo scontro verbale tra Michael Carrick e l'ex Udinese",
-      "date": "2026-10-29T11:42:08.0000000Z"
-    },
-    {
       "id": "skysport-yt:DUpnFq2xAf8",
       "sourceId": "skysport-yt",
       "source": "Sky Sport",
@@ -297,18 +369,6 @@
       "date": "2026-10-29T11:29:05.0000000Z"
     },
     {
-      "id": "ansa-sport:f41de70b3b98",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Arriva \"One More\", il film su amicizia tra surfisti Robinson, Fioravanti e Igarashi",
-      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/29/arriva-one-more-il-film-su-amicizia-tra-surfisti-robinson-fioravanti-e-igarashi_c2d76821-b9d7-4337-acc1-aa296d4ca9f0.html",
-      "image": null,
-      "summary": "ll mediometraggio è disponibile su YouTube Red Bull Surfing e Red Bull TV",
-      "date": "2026-10-29T11:28:40.0000000Z"
-    },
-    {
       "id": "skysport-yt:kKrcaitt6Pc",
       "sourceId": "skysport-yt",
       "source": "Sky Sport",
@@ -320,54 +380,6 @@
       "summary": "",
       "videoId": "kKrcaitt6Pc",
       "date": "2026-10-29T10:14:22.0000000Z"
-    },
-    {
-      "id": "corrieresport:3f55d1fda34d",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Di Canio contro Cambiaso in diretta tv: &quot;Corre come un bambino, Juve caos totale&quot;",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/29-152237818/di_canio_contro_cambiaso_in_diretta_tv_corre_come_un_bambino_juve_caos_totale/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/091151588-618ed913-0933-4a65-8bbb-48477f59ae53.jpg",
-      "summary": "Il commento dell'ex attaccante della Lazio al termine della sfida di Marassi, persa dalla squadra di Spalletti contro il Genoa di De Rossi",
-      "date": "2026-10-29T10:07:46.0000000Z"
-    },
-    {
-      "id": "corrieresport:bdf756f267b9",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Danilo, ufficiale il rinnovo con il Flamengo: &quot;Voglio continuare ad aiutare il club&quot;",
-      "url": "https://www.corrieredellosport.it/news/calcio/2026/10/29-152237724/danilo_ufficiale_il_rinnovo_con_il_flamengo_voglio_continuare_ad_aiutare_il_club/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/093843878-a6bad470-5213-4985-8faa-b260d6ed97ef.jpeg",
-      "summary": "L'ex capitano della Juve non si ferma: sottoscritto un nuovo contratto con il club brasiliano",
-      "date": "2026-10-29T09:31:44.0000000Z"
-    },
-    {
-      "id": "corrieresport:42004cd61415",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Svilar a Roma: oggi nuovi accertamenti",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/29-152237536/svilar_a_roma_oggi_nuovi_accertamenti/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/083931639-2287f060-0816-45a0-8657-94e0e32b2ffd.jpg",
-      "summary": "Il portiere è sempre più vicino al rientro, ma serve il via libera dei medici per tornare tra i pali",
-      "date": "2026-10-29T08:56:33.0000000Z"
-    },
-    {
-      "id": "corrieresport:c7a3089daa15",
-      "sourceId": "corrieresport",
-      "source": "Corriere dello Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Dove vedere Frosinone-Lecce in tv? Dazn o Sky, orario",
-      "url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/29-152237448/dove_vedere_frosinone-lecce_in_tv_dazn_o_sky_orario/",
-      "image": "https://cdn.corrieredellosport.it/img/800/600/2026/10/29/083352663-dcb70e14-0e69-4d95-9738-6bdf9c16dcb2.jpg",
-      "summary": "La squadra di Massimiliano Alvini ospita l'undici allenato da Eusebio Di Francesco allo stadio Stirpe: le probabili formazioni e le info per seguire il match",
-      "date": "2026-10-29T08:43:46.0000000Z"
     },
     {
       "id": "skysport-yt:Xh5eUyFgaPs",
@@ -409,24 +421,12 @@
       "date": "2026-10-29T06:48:12.0000000Z"
     },
     {
-      "id": "ansa-sport:2cce65ceffef",
-      "sourceId": "ansa-sport",
-      "source": "ANSA Sport",
-      "platform": "rss",
-      "category": "sport",
-      "title": "Baseball: i Milwaukee Brewers vincono per la prima volta le World Series",
-      "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/29/baseball-i-milwaukee-brewers-vincono-per-la-prima-volta-le-world-series_16be473c-c8e0-4cf1-82f2-35ededf618f1.html",
-      "image": null,
-      "summary": "Nella finalissima battuti i Tampa Bay Rays per 4-1",
-      "date": "2026-10-29T04:02:10.0000000Z"
-    },
-    {
       "id": "skysport-yt:nG15Zv0ac1U",
       "sourceId": "skysport-yt",
       "source": "Sky Sport",
       "platform": "youtube",
       "category": "sport",
-      "title": "Genoa-Juventus, Daniele De Rossi: \"Sono contento per i giocatori, per i tifosi e per la società?",
+      "title": "Genoa-Juventus, Daniele De Rossi: \"Sono contento per i giocatori, per i tifosi e per la società\"",
       "url": "https://www.youtube.com/watch?v=nG15Zv0ac1U",
       "image": "https://i.ytimg.com/vi/nG15Zv0ac1U/hqdefault.jpg",
       "summary": "",
