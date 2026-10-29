@@ -1,7 +1,43 @@
 {
   "category": "cucina",
-  "updated": "2026-10-29T07:16:24.1297594Z",
+  "updated": "2026-10-29T14:29:16.7221961Z",
   "items": [
+    {
+      "id": "dissapore:a3f8e55961bd",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Lavazza rompe il tabù del caffè Specialty e punta su una robusta premium",
+      "url": "https://www.dissapore.com/notizie/lavazza-rompe-il-tabu-del-caffe-specialty-e-punta-su-una-robusta-premium/",
+      "image": null,
+      "summary": "Lavazza ha presentato un nuovo caffè monorigine per la sua linea 1895, e per la prima volta non si tratta di una varietà Arabica: è il segnale che qualcosa sta cambiando. L'articolo Lavazza rompe il tabù del caffè Spe...",
+      "date": "2026-10-29T12:53:43.0000000Z"
+    },
+    {
+      "id": "giallozafferano:29b3d3241c5a",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Uovo fritto con asparagi",
+      "url": "https://ricette.giallozafferano.it/Uovo-fritto-con-asparagi.html",
+      "image": "https://www.giallozafferano.it/images/367-36770/Uovo-fritto-con-asparagi_1200x800.jpg",
+      "summary": "L’ uovo fritto con asparagi si ispira al piatto del cuore di Raul Cremona , comico, illusionista e volto amato del cabaret milanese, protagonista di una nuova puntata del vodcast “ Discorsi in osteria ”. Lo chef Cesar...",
+      "date": "2026-10-29T10:30:00.0000000Z"
+    },
+    {
+      "id": "dissapore:7b31d6ed3c4b",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Dimenticate il pesce pescato: la rivoluzione della cucina di mare parte dagli allevamenti",
+      "url": "https://www.dissapore.com/ristoranti/dimenticate-il-pesce-pescato-la-rivoluzione-della-cucina-di-mare-parte-dagli-allevamenti/",
+      "image": null,
+      "summary": "Andiamo alla ricerca delle nuove tendenze gastronomiche là dove nascono, ossia nella filiera di approvvigionamento: un' acquacoltura sostenibile è possibile e, per quanto il pesce pescato in mare sia romantico, potreb...",
+      "date": "2026-10-29T09:56:19.0000000Z"
+    },
     {
       "id": "dissapore:70bc021f553a",
       "sourceId": "dissapore",
@@ -207,30 +243,6 @@
       "date": "2026-10-26T09:53:05.0000000Z"
     },
     {
-      "id": "dissapore:3c72aed3da98",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "In un documento Heineken tutte le preoccupazioni per i farmaci che fanno dimagrire",
-      "url": "https://www.dissapore.com/notizie/in-un-documento-heineken-tutte-le-preoccupazioni-per-i-farmaci-che-fanno-dimagrire/",
-      "image": null,
-      "summary": "Un'esclusiva di Reuters dimostra come l'azienda olandese stia cercando di \"fare formazione\" ai suoi clienti per limitare le perdite. L'articolo In un documento Heineken tutte le preoccupazioni per i farmaci che fanno ...",
-      "date": "2026-10-25T18:36:18.0000000Z"
-    },
-    {
-      "id": "dissapore:866f9aa3ef5b",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Il 97% dell’industria alimentare si basa sullo sfruttamento del lavoro",
-      "url": "https://www.dissapore.com/notizie/il-97-dellindustria-alimentare-si-basa-sullo-sfruttamento-del-lavoro/",
-      "image": null,
-      "summary": "I numeri di un recente report sono impietosi, e impongono cambiamenti radicali nel settore. L'articolo Il 97% dell’industria alimentare si basa sullo sfruttamento del lavoro proviene da Dissapore .",
-      "date": "2026-10-25T14:10:46.0000000Z"
-    },
-    {
       "id": "giallozafferano:184708de8cd0",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/367-36741/Canederli-con-cavolo-nero-e-zafferano_1200x800.jpg",
       "summary": "I canederli con cavolo nero e zafferano sono una versione raffinata dei classici canederli della tradizione altoatesina, una variante gourmet che trasforma un piatto semplice e rustico in un primo piatto elegante e ri...",
       "date": "2026-10-22T12:12:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:d7220ebfd101",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Polpette con sughetto cremoso",
-      "url": "https://ricette.giallozafferano.it/Polpette-con-sughetto-cremoso.html",
-      "image": "https://www.giallozafferano.it/images/367-36733/Polpette-con-sughetto-cremoso_1200x800.jpg",
-      "summary": "Le polpette con sughetto cremoso si ispirano al piatto del cuore di Luca Argentero , protagonista di una nuova puntata del vodcast “ Discorsi in osteria ”. Lo chef Cesare Battisti reinterpreta le tipiche polpette al s...",
-      "date": "2026-10-22T09:30:00.0000000Z"
     }
   ]
 }
