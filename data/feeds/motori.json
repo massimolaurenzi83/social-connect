@@ -1,6 +1,6 @@
 {
   "category": "motori",
-  "updated": "2026-10-28T21:48:51.5796851Z",
+  "updated": "2026-10-29T01:19:14.7261948Z",
   "items": [
     {
       "id": "hdmotori:a1a657e610ea",
@@ -63,16 +63,16 @@
       "date": "2026-10-28T17:30:46.0000000Z"
     },
     {
-      "id": "motor1:1d354dc7aaa0",
+      "id": "motor1:46f6f7c75876",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Lamborghini, così nasce il design che fa sognare anche domani",
-      "url": "https://it.motor1.com/news/813148/design-lamborghini-autostyle-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/rK6jKV/s3/lamborghini-cosi-nasce-il-design-che-fa-sognare-anche-domani.jpg",
-      "summary": "Dalle forme della Urus alla Revuelto SV, vi racconto come il Centro Stile Lamborghini sviluppa un'identità sempre riconoscibile",
-      "date": "2026-10-28T17:00:00.0000000Z"
+      "title": "Motorismo storico, i numeri veri dietro la festa dei 60 anni di ASI al Senato",
+      "url": "https://it.motor1.com/news/813611/motorismo-storico-italia-impatto/",
+      "image": "https://cdn.motor1.com/images/mgl/P3VroW/s3/motorismo-storico-i-numeri-veri-dietro-la-festa-dei-60-anni-di-asi-al-senato.jpg",
+      "summary": "Un dato pesa più della festa: il settore vale 3,6 miliardi di euro e coinvolge oltre 21 milioni di italiani",
+      "date": "2026-10-28T17:22:08.0000000Z"
     },
     {
       "id": "motor1:a5e1998b1421",
@@ -87,15 +87,27 @@
       "date": "2026-10-28T17:00:00.0000000Z"
     },
     {
+      "id": "motor1:1d354dc7aaa0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Lamborghini, così nasce il design che fa sognare anche domani",
+      "url": "https://it.motor1.com/news/813148/design-lamborghini-autostyle-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/rK6jKV/s3/lamborghini-cosi-nasce-il-design-che-fa-sognare-anche-domani.jpg",
+      "summary": "Dalle forme della Urus alla Revuelto SV, vi racconto come il Centro Stile Lamborghini sviluppa un'identità sempre riconoscibile",
+      "date": "2026-10-28T17:00:00.0000000Z"
+    },
+    {
       "id": "motor1:97aabe2e92b2",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "La cancellazione del bollo auto non sarà solo per il 2027",
+      "title": "L'abolizione del bollo auto diventa strutturale, ecco per chi",
       "url": "https://it.motor1.com/news/813607/taglio-bollo-auto-strutturale/",
       "image": "https://cdn.motor1.com/images/mgl/vx7JvQ/s3/bollo-auto-abolito.jpg",
-      "summary": "Ma sarà strutturale: dal 2027 le auto con potenza sotto gli 80 kW non lo pagheranno",
+      "summary": "Sarà strutturale: dal 2027 le auto con potenza sotto gli 80 kW non lo pagheranno",
       "date": "2026-10-28T16:45:57.0000000Z"
     },
     {
@@ -195,18 +207,6 @@
       "date": "2026-10-28T14:00:09.0000000Z"
     },
     {
-      "id": "motor1:752148c0aca0",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il valore dei marchi auto scende, ma non per tutti. Classifica 2026",
-      "url": "https://it.motor1.com/news/813361/classifica-valore-marchi-auto-interbrand-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/y21nZe/s3/best-global-brands-2026.-classifica-1-50.jpg",
-      "summary": "Calo generalizzato del valore auto nella classifica Best Global Brands 2026, ma non per BYD, Hyundai, Kia e Ferrari",
-      "date": "2026-10-28T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:a39f0b7c7482",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -216,6 +216,18 @@
       "url": "https://insideevs.it/news/813572/bosch-active-line-plus-dati/",
       "image": "https://cdn.motor1.com/images/mgl/pb8wVv/s3/e-bike-arriva-il-motore-bosch-che-spinge-di-piu-ma-quasi-non-si-vede.jpg",
       "summary": "Più coppia e meno ingombro: il nuovo cambio a due stadi riduce volume e peso del motore senza toccare le prestazioni",
+      "date": "2026-10-28T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:752148c0aca0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il valore dei marchi auto scende, ma non per tutti. Classifica 2026",
+      "url": "https://it.motor1.com/news/813361/classifica-valore-marchi-auto-interbrand-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/y21nZe/s3/best-global-brands-2026.-classifica-1-50.jpg",
+      "summary": "Calo generalizzato del valore auto nella classifica Best Global Brands 2026, ma non per BYD, Hyundai, Kia e Ferrari",
       "date": "2026-10-28T14:00:00.0000000Z"
     },
     {
@@ -291,18 +303,6 @@
       "date": "2026-10-28T12:00:26.0000000Z"
     },
     {
-      "id": "motor1:0980bc1edb1d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Brabus Bodo, al volante della GT da oltre 1.000 CV che arriva a 360 km/h",
-      "url": "https://it.motor1.com/reviews/813171/brabus-bodo-v12-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/KbZvjG/s3/brabus-bodo-2026-la-prova-su-strada.jpg",
-      "summary": "Abbiamo guidato la Brabus Bodo, GT da oltre 1.000 CV e 360 km/h, con V12 biturbo e personalità da supercar",
-      "date": "2026-10-28T12:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:9649fc07a267",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -313,18 +313,6 @@
       "image": "https://cdn.motor1.com/images/mgl/qkBxgv/s3/byd-dolphin-surf-2025-la-prova-di-motor1.com.jpg",
       "summary": "Tre allestimenti, due batterie e oltre 320 km di autonomia: analizziamo nel dettaglio il listino della Dolphin Surf",
       "date": "2026-10-28T12:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:588985e6b6f1",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mercedes, in Vaticano una mostra sulla Papamobile",
-      "url": "https://it.motor1.com/news/813474/mercedes-papamobile-vaticano-mostra-informazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/3WBwPx/s3/mercedes-la-mostra-un-secolo-di-papamobile.jpg",
-      "summary": "La mostra, aperta nei Musei Vaticani fino al 2027, riunisce otto auto papali e due modelli simbolo dei 140 anni della Casa",
-      "date": "2026-10-28T11:53:05.0000000Z"
     },
     {
       "id": "insideevs:5942d455e4f4",
@@ -529,6 +517,18 @@
       "image": "https://cdn.motor1.com/images/mgl/MkOZk8/s3/wallbox-per-ricarica-domestica.jpg",
       "summary": "Il portale ha chiuso alle 12 del 27 ottobre, se ne riparla nel 2027",
       "date": "2026-10-27T11:23:58.0000000Z"
+    },
+    {
+      "id": "motor1:fbcd8b727368",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tutte le auto che non pagheranno il bollo dal 2027",
+      "url": "https://it.motor1.com/features/808591/bollo-auto-modelli-esenti-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZG1A/s3/auto-non-pagano-bollo.jpg",
+      "summary": "Fiat Panda, Dacia Sandero, Volkswagen Polo: tutte le auto nuove sotto gli 80 kW che non pagheranno il bollo a partire dal prossimo anno",
+      "date": "2026-09-17T07:09:18.0000000Z"
     }
   ]
 }

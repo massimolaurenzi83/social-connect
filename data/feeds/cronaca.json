@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-10-28T21:48:51.5811452Z",
+  "updated": "2026-10-29T01:19:14.7373097Z",
   "items": [
+    {
+      "id": "ansa-cronaca:471e9d80574d",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "#AccadeOggi",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/28/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+      "image": null,
+      "summary": "I principali avvenimenti previsti per la giornata",
+      "date": "2026-10-28T23:44:31.0000000Z"
+    },
     {
       "id": "ansa-cronaca:2aedab772584",
       "sourceId": "ansa-cronaca",
@@ -97,18 +109,6 @@
       "image": null,
       "summary": "Dopo assemblea. 'La nostra generazione è stanca di subire ed ha alzato la testa'",
       "date": "2026-10-28T17:59:55.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:471e9d80574d",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "#AccadeOggi",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/28/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-      "image": null,
-      "summary": "I principali avvenimenti previsti per la giornata",
-      "date": "2026-10-28T17:49:20.0000000Z"
     },
     {
       "id": "ansa-cronaca:17fddfdb95a3",
