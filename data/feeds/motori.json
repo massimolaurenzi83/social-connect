@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-10-29T01:19:14.7261948Z",
+  "updated": "2026-10-29T07:16:24.0144844Z",
   "items": [
+    {
+      "id": "insideevs:ebb35e814a6d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Batterie allo stato solido, CATL punta ai 500 Wh/kg",
+      "url": "https://insideevs.it/news/813506/catl-batterie-stato-solido-test/",
+      "image": "https://cdn.motor1.com/images/mgl/L36ARR/s3/la-sede-di-catl-a-ningde-cina.jpg",
+      "summary": "L'azienda lavora su celle da 20 Ah e prevede una produzione sperimentale nel 2027",
+      "date": "2026-10-29T06:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:a1a657e610ea",
       "sourceId": "hdmotori",
@@ -123,18 +135,6 @@
       "date": "2026-10-28T16:00:20.0000000Z"
     },
     {
-      "id": "insideevs:65bb7e78daf9",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ti spiego come ragiona un'auto quando guida da sola",
-      "url": "https://insideevs.it/news/813577/auto-guida-autonoma-spiegazione/",
-      "image": "https://cdn.motor1.com/images/mgl/wlkQoR/s3/ti-spiego-come-ragiona-un-auto-quando-guida-da-sola.jpg",
-      "summary": "Parla Dong Li, CTO di QCraft: ecco come l'intelligenza artificiale interpreta la strada, anticipa i pericoli e gestisce gli imprevisti",
-      "date": "2026-10-28T16:00:00.0000000Z"
-    },
-    {
       "id": "motor1:2d25325586bc",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -144,6 +144,18 @@
       "url": "https://it.motor1.com/news/813017/auto-cinesi-europa-analisi-crescita/",
       "image": "https://cdn.motor1.com/images/mgl/KbZvel/s3/il-boom-delle-auto-cinesi-in-europa-raddoppiate-in-meno-di-un-anno.jpg",
       "summary": "Ormai più di un'auto su dieci immatricolata in Europa è di un costruttore cinese. Tutti i numeri di una crescita impressionante",
+      "date": "2026-10-28T16:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:65bb7e78daf9",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ti spiego come ragiona un'auto quando guida da sola",
+      "url": "https://insideevs.it/news/813577/auto-guida-autonoma-spiegazione/",
+      "image": "https://cdn.motor1.com/images/mgl/wlkQoR/s3/ti-spiego-come-ragiona-un-auto-quando-guida-da-sola.jpg",
+      "summary": "Parla Dong Li, CTO di QCraft: ecco come l'intelligenza artificiale interpreta la strada, anticipa i pericoli e gestisce gli imprevisti",
       "date": "2026-10-28T16:00:00.0000000Z"
     },
     {
@@ -207,18 +219,6 @@
       "date": "2026-10-28T14:00:09.0000000Z"
     },
     {
-      "id": "insideevs:a39f0b7c7482",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "E-bike, arriva il motore Bosch che spinge di più ma quasi non si vede",
-      "url": "https://insideevs.it/news/813572/bosch-active-line-plus-dati/",
-      "image": "https://cdn.motor1.com/images/mgl/pb8wVv/s3/e-bike-arriva-il-motore-bosch-che-spinge-di-piu-ma-quasi-non-si-vede.jpg",
-      "summary": "Più coppia e meno ingombro: il nuovo cambio a due stadi riduce volume e peso del motore senza toccare le prestazioni",
-      "date": "2026-10-28T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:752148c0aca0",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -228,6 +228,18 @@
       "url": "https://it.motor1.com/news/813361/classifica-valore-marchi-auto-interbrand-2026/",
       "image": "https://cdn.motor1.com/images/mgl/y21nZe/s3/best-global-brands-2026.-classifica-1-50.jpg",
       "summary": "Calo generalizzato del valore auto nella classifica Best Global Brands 2026, ma non per BYD, Hyundai, Kia e Ferrari",
+      "date": "2026-10-28T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:a39f0b7c7482",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "E-bike, arriva il motore Bosch che spinge di più ma quasi non si vede",
+      "url": "https://insideevs.it/news/813572/bosch-active-line-plus-dati/",
+      "image": "https://cdn.motor1.com/images/mgl/pb8wVv/s3/e-bike-arriva-il-motore-bosch-che-spinge-di-piu-ma-quasi-non-si-vede.jpg",
+      "summary": "Più coppia e meno ingombro: il nuovo cambio a due stadi riduce volume e peso del motore senza toccare le prestazioni",
       "date": "2026-10-28T14:00:00.0000000Z"
     },
     {
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/2N9vJ4/s3/tesla-fsd.jpg",
       "summary": "Su Turo i proprietari Tesla ottengono un mese di prova FSD, chi guida trova annunci verificati tramite collegamento diretto",
       "date": "2026-10-27T14:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:5c073139a2f8",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Sono finiti i soldi per il bonus colonnine 2026",
-      "url": "https://insideevs.it/news/813385/bonus-colonnine-2026-fine-fondi-chiusura/",
-      "image": "https://cdn.motor1.com/images/mgl/MkOZk8/s3/wallbox-per-ricarica-domestica.jpg",
-      "summary": "Il portale ha chiuso alle 12 del 27 ottobre, se ne riparla nel 2027",
-      "date": "2026-10-27T11:23:58.0000000Z"
     },
     {
       "id": "motor1:fbcd8b727368",

@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-10-29T01:19:14.6744334Z",
+  "updated": "2026-10-29T07:16:24.1142239Z",
   "items": [
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-10-29T05:30:00.0000000Z"
+    },
     {
       "id": "qualenergia:f84c46821b15",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Lavori di efficientamento energetico del palazzo del municipio mediante interventi sull’involucro edilizio, sugli impianti termici e sistemi bacs, con integrazione della produzione da fonte rinnovabile tramite ampliam...",
       "date": "2026-10-28T06:00:48.0000000Z"
-    },
-    {
-      "id": "qualenergia:c79179299118",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Impianto per recupero calore dalla caldaia del teleriscaldamento a Chiusa (BZ)",
-      "url": "https://www.qualenergia.it/pro/documenti/impianto-per-recupero-calore-dalla-caldaia-del-teleriscaldamento-a-chiusa-bz/",
-      "image": null,
-      "summary": "Fornitura, montaggio e messa in esercizio di un impianto di condensazione per il recupero del calore dalla linea fumi della caldaia a biomassa del teleriscaldamento di Chiusa (BZ) nonché ottimizzazione della caldaia e...",
-      "date": "2026-10-28T06:00:45.0000000Z"
     }
   ]
 }
