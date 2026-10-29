@@ -1,6 +1,6 @@
 {
   "category": "motori",
-  "updated": "2026-10-29T19:48:57.5968531Z",
+  "updated": "2026-10-29T23:40:17.5606787Z",
   "items": [
     {
       "id": "hdmotori:d04af816e919",
@@ -75,6 +75,18 @@
       "date": "2026-10-29T17:30:46.0000000Z"
     },
     {
+      "id": "motor1:092aceeb29ac",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Defender Wolf Series II, il nuovo mezzo dell’esercito britannico per sostituire i vecchi Land Rover",
+      "url": "https://it.motor1.com/news/813732/defender-wolf-serie-2-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/9mW6Wv/s3/land-rover-defender-wolf-ii.jpg",
+      "summary": "Il fuoristrada su base Defender 130 adotta monoscocca D7x, impianto elettrico a 24 Volt e motore biturbodiesel Ingenium",
+      "date": "2026-10-29T17:30:00.0000000Z"
+    },
+    {
       "id": "hdmotori:92f5f2b6aeef",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -85,6 +97,18 @@
       "image": null,
       "summary": "Suzuki svela a EICMA 2026 l'intera gamma e le novità 2027: dai modelli V-STROM e Hayabusa agli scooter elettrici e le anteprime attese per il 3 novembre The post EICMA 2026, Suzuki cala l’asso a 360°: ecco cosa vedrem...",
       "date": "2026-10-29T17:00:52.0000000Z"
+    },
+    {
+      "id": "motor1:314f41fceac1",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Maserati, arriva il copilota elettronico per divertirsi in pista",
+      "url": "https://it.motor1.com/news/813737/maserati-gt2-stradale-track-assist/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZP6P9/s3/maserati-project-track-assist-by-as.car.i.jpg",
+      "summary": "Si chiama Project Track Assist ed è stato presentato sulla GT2 Stradale in Florida",
+      "date": "2026-10-29T17:00:00.0000000Z"
     },
     {
       "id": "hdmotori:57827bd2fe24",
@@ -123,6 +147,42 @@
       "date": "2026-10-29T16:00:41.0000000Z"
     },
     {
+      "id": "motor1:0d231914fc4c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Fabbriche auto, l'Italia perde terreno: ecco chi cresce in Europa",
+      "url": "https://it.motor1.com/news/813668/produzione-auto-europa-fabbriche-modelli/",
+      "image": "https://cdn.motor1.com/images/mgl/y21Q1K/s3/la-produzione-di-auto-in-europa.jpg",
+      "summary": "I dati del 2025 mostrano un divario crescente tra i principali Paesi produttori. Per l'industria italiana la sfida è assicurarsi novità",
+      "date": "2026-10-29T16:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ccb0c5084efc",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto elettriche VS diesel e ibride: chi inquina meno?",
+      "url": "https://insideevs.it/news/813725/tesla-model-y-sustainability-rating/",
+      "image": "https://cdn.motor1.com/images/mgl/8A06x3/s3/tesla-model-y-il-numero-che-racconta-quanto-inquina-davvero.jpg",
+      "summary": "Tesla Model Y ottiene cinque stelle nel test ambientale Green NCAP. La BYD Dolphin Surf la supera e il diesel Volkswagen è da record",
+      "date": "2026-10-29T16:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:d96358ebfc8d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Lamborghini Temerario Tettonero (2026): rigorosamente bicolore",
+      "url": "https://it.motor1.com/news/813729/lamborghini-temerario-tettonero-2026-bicolore/",
+      "image": "https://cdn.motor1.com/images/mgl/NG6VeM/s3/lamborghini-temerario-tettonero-2026.jpg",
+      "summary": "La supercar italiana è disponibile in due tonalità, con cinque verniciature tra cui scegliere",
+      "date": "2026-10-29T15:30:00.0000000Z"
+    },
+    {
       "id": "hdmotori:66175813a43b",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -135,6 +195,30 @@
       "date": "2026-10-29T15:00:23.0000000Z"
     },
     {
+      "id": "insideevs:ff12fa9c4b2d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ora la ricarica ultraveloce collega davvero il Nord Italia ai corridoi europei",
+      "url": "https://insideevs.it/news/813724/eon-drive-infrastructure-smatrics-enbw/",
+      "image": "https://cdn.motor1.com/images/mgl/xqOYAP/s3/ora-la-ricarica-ultraveloce-collega-davvero-il-nord-italia-ai-corridoi-europei.jpg",
+      "summary": "Quattro hub di ricarica rapida cambiano gestore e restano lungo Brennero e corridoio Alpino-Adriatico",
+      "date": "2026-10-29T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:2116e960af74",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto rubata, cosa devi fare subito tra denuncia e assicurazione",
+      "url": "https://it.motor1.com/news/813674/auto-rubata-subito-chiedere-rimborso/",
+      "image": "https://cdn.motor1.com/images/mgl/BX1WQ6/s3/auto-rubata-cosa-devi-fare-subito-tra-denuncia-e-assicurazione.jpg",
+      "summary": "La denuncia va fatta subito ma attenzione: se l'auto riappare dopo l'indennizzo, è già proprietà della compagnia",
+      "date": "2026-10-29T15:00:00.0000000Z"
+    },
+    {
       "id": "vaielettrico:0bbdb93c446e",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -145,6 +229,18 @@
       "image": null,
       "summary": "NIU Italia e AICMOTO annunciano una partnership biennale dedicata ai Flagship Store italiani, con un programma di confronto… L'articolo NIU e AICMOTO, un accordo di due anni per rafforzare la rete vendita elettrica pr...",
       "date": "2026-10-29T14:59:44.0000000Z"
+    },
+    {
+      "id": "motor1:2fb11ba28ca5",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Porsche 964 di STOCCARDA ha tanto carbonio e dettagli racing",
+      "url": "https://it.motor1.com/news/813706/porsche-964-stoccarda-restomod-italiano/",
+      "image": "https://cdn.motor1.com/images/mgl/JO6rVK/s3/porsche-964-stoccarda-restomod.jpg",
+      "summary": "La Porsche 964 del 1992 firmata STOCCARDA usa carbonio diffuso, meccanica aggiornata e interni su misura per rileggere la 911 ST",
+      "date": "2026-10-29T14:30:00.0000000Z"
     },
     {
       "id": "vaielettrico:8c65fcee4f3e",
@@ -171,6 +267,30 @@
       "date": "2026-10-29T14:00:04.0000000Z"
     },
     {
+      "id": "insideevs:e27a8e30ffd7",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La city car elettrica da 6.000 euro ora ha 5 porte e più spazio",
+      "url": "https://insideevs.it/news/813678/faw-bestune-pony-5-porte/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZP6Q7/s3/faw-bestune-pony-5-porte-2026.jpg",
+      "summary": "La cinque porte Bestune Pony di FAW cresce di 35 centimetri e porta il bagagliaio fino a 1.052 litri con i sedili abbattuti",
+      "date": "2026-10-29T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:4b548d6bb117",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Nissan Skyline debutterà a dicembre",
+      "url": "https://it.motor1.com/news/809056/nissan-skyline-2026-debutto/",
+      "image": "https://cdn.motor1.com/images/mgl/y2le0e/s3/nissan-skyline-rendering-by-motor1.jpg",
+      "summary": "La berlina giapponese avrà un motore termico e un'impostazione sportiva. Ecco cosa sappiamo",
+      "date": "2026-10-29T14:00:00.0000000Z"
+    },
+    {
       "id": "hdmotori:97518aa921a6",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -181,6 +301,18 @@
       "image": null,
       "summary": "FAW lancia in Cina la Bestune Pony a 5 porte: fino a 328 km di autonomia, abitacolo più spazioso e prezzo da 6.735 dollari per rilanciare le vendite. The post Bestune Pony: la citycar da 6.000 euro ora è anche 5 porte...",
       "date": "2026-10-29T13:30:13.0000000Z"
+    },
+    {
+      "id": "motor1:d8fc1f35fcfc",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dimenticate il grigio, il colore delle auto del 2027 è rosso",
+      "url": "https://it.motor1.com/news/809960/rosso-colore-auto-anno-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/8ANOoo/s3/2015-mazda-rx-vision-concept.jpg",
+      "summary": "Si chiama Redefined Red ed è una tinta rubino con effetti di luce studiati per renderla più profonda e brillante",
+      "date": "2026-10-29T13:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:2299afc436c6",
@@ -195,6 +327,42 @@
       "date": "2026-10-29T12:03:15.0000000Z"
     },
     {
+      "id": "insideevs:18cd48679335",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come si dimostra che un'auto autonoma è sicura? La risposta di NVIDIA",
+      "url": "https://insideevs.it/news/813663/nvidia-halos-sicurezza-guida-autonoma/",
+      "image": "https://cdn.motor1.com/images/mgl/Znlwmy/s3/verifica-della-sicurezza-delle-auto-a-guida-autonoma.jpg",
+      "summary": "Halos SAFE combina simulazioni, test su strada e monitoraggio continuo per verificare la sicurezza reale del self-driving",
+      "date": "2026-10-29T12:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:3e46c3f4e38d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Peugeot 208 sta arrivando",
+      "url": "https://it.motor1.com/news/813213/nuova-peugeot-208-2027-render-motori/",
+      "image": "https://cdn.motor1.com/images/mgl/0epPok/s3/peugeot-208-2027-il-render-di-motor1.com.jpg",
+      "summary": "Nel corso del 2027 dovremmo vedere la nuova generazione della compatta francese. Ecco cosa sappiamo su design e motori",
+      "date": "2026-10-29T12:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:9a1dd21dd438",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ecco perché quest’area di sosta non è un benzinaio qualsiasi, Enilive Truck Point a San Giuliano",
+      "url": "https://it.motor1.com/news/813684/enilive-truck-point-san-giuliano/",
+      "image": "https://cdn.motor1.com/images/mgl/ojEQx0/s3/enilive-truck-point.jpg",
+      "summary": "A San Giuliano Milanese il Truck Point Enilive certificato SSTPA Gold offre 64 posti sicuri, servizi e biocarburante HVO per i camion",
+      "date": "2026-10-29T11:30:00.0000000Z"
+    },
+    {
       "id": "vaielettrico:424dd83cd94e",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -205,6 +373,18 @@
       "image": null,
       "summary": "Due elettrolizzatori a tecnologia PEM saranno consegnati nel primo trimestre 2027; il sistema promette consumi elettrici inferiori di… L'articolo ErreDue: come produrre idrogeno verde e ossigeno, tutto in un container...",
       "date": "2026-10-29T10:47:51.0000000Z"
+    },
+    {
+      "id": "insideevs:86499bdb6450",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Una nuova membrana bio-ispirata può rendere più pulita l'estrazione del litio",
+      "url": "https://insideevs.it/news/813671/membrana-bio-ispirata-litio-tecnologia/",
+      "image": "https://cdn.motor1.com/images/mgl/E63ZAB/s3/lithium-metal.jpg",
+      "summary": "La tecnologia deve ancora essere testata ulteriormente, ma può rivoluzionare il modo in cui il litio viene estratto per le batterie",
+      "date": "2026-10-29T10:00:00.0000000Z"
     },
     {
       "id": "motor1:1ddc36800d12",
@@ -243,30 +423,6 @@
       "date": "2026-10-29T09:30:00.0000000Z"
     },
     {
-      "id": "motor1:2e16f48ea1ff",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nissan ha fatto una berlina da 300 CV con cambio manuale, o quasi",
-      "url": "https://it.motor1.com/news/813652/nissan-sentra-concept-cambio-manuale/",
-      "image": "https://cdn.motor1.com/images/mgl/NG6xq2/s3/nissan-sentra-spec-v-concept.jpg",
-      "summary": "La Nissan Sentra Concept debutta al SEMA 2026 con freni GT-R, sospensioni Nismo e cambio manuale a sei marce",
-      "date": "2026-10-29T09:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:92814edaaae3",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Toyota vuole fare miliardi vendendo i suoi nuovi motori ad altri",
-      "url": "https://it.motor1.com/news/813651/toyota-motori-benzina-vendita/",
-      "image": "https://cdn.motor1.com/images/mgl/JOBzqE/s3/new-toyota-1.5-liter-engine.jpg",
-      "summary": "Toyota prevede di guadagnare 1,7 miliardi di dollari l’anno vendendo i suoi motori di nuova generazione ad altre case automobilistiche",
-      "date": "2026-10-29T08:30:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:02bd995a948f",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -291,88 +447,28 @@
       "date": "2026-10-29T08:24:48.0000000Z"
     },
     {
-      "id": "motor1:04bb05525147",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
+      "id": "insideevs:6f98d43dd130",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Targhe personalizzate dal 2028: 600 euro e creatività libera",
-      "url": "https://it.motor1.com/news/813640/targa-personalizzata-guida-2028/",
-      "image": "https://cdn.motor1.com/images/mgl/rK6jOx/s3/targhe-personalizzate.jpg",
-      "summary": "Dal 2028 si potranno scegliere lettere e numeri. 600 euro per le auto, 360 per le moto. Escluse le combinazioni offensive e ambigue",
+      "title": "Qualcuno ha trasformato una vecchia BMW i3 in un mini pick-up",
+      "url": "https://insideevs.it/news/813578/bmw-i3-2017-pickup-trasformazione/",
+      "image": "https://cdn.motor1.com/images/mgl/lE4zA6/s3/2017-bmw-i3-pickup-conversion.jpg",
+      "summary": "I pick-up elettrici di Slate, Telo e Ford non sono ancora sul mercato. Uno YouTuber li ha battuti sul tempo con 8.000 dollari",
       "date": "2026-10-29T08:00:00.0000000Z"
     },
     {
-      "id": "motor1:dadde1bcd8f3",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
+      "id": "insideevs:ebb35e814a6d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Come vedere online la scadenza della revisione auto e se l’hai superata",
-      "url": "https://it.motor1.com/features/813580/revisione-auto-verificare-scadenza-esito/",
-      "image": "https://cdn.motor1.com/images/mgl/YAbQ1J/s3/revisione-auto.jpg",
-      "summary": "I servizi ufficiali indicano data di scadenza e ultimo esito della revisione auto, così capisci subito se puoi circolare",
-      "date": "2026-10-29T07:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:48ccac1cd820",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "SUV, vendite da record: ecco chi domina nel mondo",
-      "url": "https://it.motor1.com/news/813434/suv-vendite-record-mondo/",
-      "image": "https://cdn.motor1.com/images/mgl/0epjAj/s3/suv-vendite-da-record-ecco-chi-domina-nel-mondo.jpg",
-      "summary": "Nel 2025 sono stati acquistati quasi 43 milioni di SUV. Toyota è il primo costruttore, seguita da Volkswagen e Hyundai-Kia",
+      "title": "Batterie allo stato solido, CATL punta ai 500 Wh/kg",
+      "url": "https://insideevs.it/news/813506/catl-batterie-stato-solido-test/",
+      "image": "https://cdn.motor1.com/images/mgl/L36ARR/s3/la-sede-di-catl-a-ningde-cina.jpg",
+      "summary": "L'azienda lavora su celle da 20 Ah e prevede una produzione sperimentale nel 2027",
       "date": "2026-10-29T06:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:46f6f7c75876",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Motorismo storico, i numeri veri dietro la festa dei 60 anni di ASI al Senato",
-      "url": "https://it.motor1.com/news/813611/motorismo-storico-italia-impatto/",
-      "image": "https://cdn.motor1.com/images/mgl/P3VroW/s3/motorismo-storico-i-numeri-veri-dietro-la-festa-dei-60-anni-di-asi-al-senato.jpg",
-      "summary": "Un dato pesa più della festa: il settore vale 3,6 miliardi di euro e coinvolge oltre 21 milioni di italiani",
-      "date": "2026-10-28T17:22:08.0000000Z"
-    },
-    {
-      "id": "motor1:a5e1998b1421",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "A Ecomondo 2026 c’è uno stand solo per un camioncino elettrico: è il Piaggio Porter NPE",
-      "url": "https://it.motor1.com/news/813599/piaggio-porter-npe-ecomondo-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/3WB6Wj/s3/piaggio-porter-npe.jpg",
-      "summary": "Piaggio Porter NPE occupa 500 metri quadrati a Ecomondo 2026 con sette allestimenti elettrici dedicati a servizi ambientali e logistica urbana",
-      "date": "2026-10-28T17:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:1d354dc7aaa0",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Lamborghini, così nasce il design che fa sognare anche domani",
-      "url": "https://it.motor1.com/news/813148/design-lamborghini-autostyle-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/rK6jKV/s3/lamborghini-cosi-nasce-il-design-che-fa-sognare-anche-domani.jpg",
-      "summary": "Dalle forme della Urus alla Revuelto SV, vi racconto come il Centro Stile Lamborghini sviluppa un'identità sempre riconoscibile",
-      "date": "2026-10-28T17:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:97aabe2e92b2",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'abolizione del bollo auto diventa strutturale, ecco per chi",
-      "url": "https://it.motor1.com/news/813607/taglio-bollo-auto-strutturale/",
-      "image": "https://cdn.motor1.com/images/mgl/vx7JvQ/s3/bollo-auto-abolito.jpg",
-      "summary": "Sarà strutturale: dal 2027 le auto con potenza sotto gli 80 kW non lo pagheranno",
-      "date": "2026-10-28T16:45:57.0000000Z"
     },
     {
       "id": "insideevs:65bb7e78daf9",
@@ -433,102 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/qk8wxJ/s3/26c0306_207.jpg",
       "summary": "La Casa tedesca esplora diverse strade per migliorare le auto elettriche: le celle LNMO potrebbero offrire il 30% di autonomia in più",
       "date": "2026-10-28T10:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:20b29cd3c8d4",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "BYD svela il nome della super berlina che sfida Rolls-Royce: è la Yangwang Altior",
-      "url": "https://insideevs.it/news/813487/byd-yangwang-altior-berlina-elettrica/",
-      "image": "https://cdn.motor1.com/images/mgl/qk8wvJ/s3/il-teaser-della-yangwang-altior.jpg",
-      "summary": "La nuova BYD Yangwang Altior punta al lusso tipo Rolls-Royce Ghost, con debutto internazionale previsto al salone di Dubai",
-      "date": "2026-10-28T08:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:edefb106b59f",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "C'è un costruttore europeo che batte i cinesi sulla fornitura di batterie",
-      "url": "https://insideevs.it/news/813362/rimac-fornisce-batterie-bmw-i7/",
-      "image": "https://cdn.motor1.com/images/mgl/L3yyLW/s3/batterie-rimac-per-la-bmw-i7.jpg",
-      "summary": "Il fornitore croato ha investito nella fabbrica di Zagabria prima del contratto, producendo 48.000 sistemi batteria l'anno per BMW i7",
-      "date": "2026-10-28T06:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:84d48adfd51d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa Tesla Model S economica ha 217.000 km e un'autonomia sorprendente",
-      "url": "https://insideevs.it/news/813436/tesla-model-s-usata-2013-autonomia/",
-      "image": "https://cdn.motor1.com/images/mgl/ZnlQE3/s3/model-s.jpg",
-      "summary": "Dopo 217.000 km, la Model S usata economica di Edmunds ha ancora un'autonomia utile e prestazioni sufficienti da renderla allettante",
-      "date": "2026-10-27T16:15:00.0000000Z"
-    },
-    {
-      "id": "insideevs:ded1e3052912",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Un milione di auto elettriche cambierà batteria invece di ricaricarla?",
-      "url": "https://insideevs.it/news/813354/baic-catl-nio-battery-swap/",
-      "image": "https://cdn.motor1.com/images/mgl/0egZK3/s3/nio-lancia-il-battey-swap-5.0-compatibile-con-la-firefly.jpg",
-      "summary": "CATL e BAIC rilanciano il battery swapping in Cina: più auto nuove compatibili e una rete di stazioni sempre più capillare",
-      "date": "2026-10-27T16:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:4e2d57b39e3f",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto elettriche, non servono solo ingegneri: ecco i lavori del futuro",
-      "url": "https://insideevs.it/news/813428/auto-elettriche-lavori-futuro/",
-      "image": "https://cdn.motor1.com/images/mgl/0epjrp/s3/auto-elettriche-non-servono-solo-ingegneri-ecco-i-lavori-del-futuro.jpg",
-      "summary": "Dallo sviluppo software alla gestione dell'energia, la transizione elettrica cambia le competenze richieste dall'automotive",
-      "date": "2026-10-27T14:45:30.0000000Z"
-    },
-    {
-      "id": "insideevs:1a23f37e562c",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Con Turo si può noleggiare una Tesla e provare il Full Self-Driving",
-      "url": "https://insideevs.it/news/813340/tesla-turo-funziona-full-self/",
-      "image": "https://cdn.motor1.com/images/mgl/2N9vJ4/s3/tesla-fsd.jpg",
-      "summary": "Su Turo i proprietari Tesla ottengono un mese di prova FSD, chi guida trova annunci verificati tramite collegamento diretto",
-      "date": "2026-10-27T14:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:5c073139a2f8",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Sono finiti i soldi per il bonus colonnine 2026",
-      "url": "https://insideevs.it/news/813385/bonus-colonnine-2026-fine-fondi-chiusura/",
-      "image": "https://cdn.motor1.com/images/mgl/MkOZk8/s3/wallbox-per-ricarica-domestica.jpg",
-      "summary": "Il portale ha chiuso alle 12 del 27 ottobre, se ne riparla nel 2027",
-      "date": "2026-10-27T11:23:58.0000000Z"
-    },
-    {
-      "id": "motor1:fbcd8b727368",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tutte le auto che non pagheranno il bollo dal 2027",
-      "url": "https://it.motor1.com/features/808591/bollo-auto-modelli-esenti-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/OoZG1A/s3/auto-non-pagano-bollo.jpg",
-      "summary": "Fiat Panda, Dacia Sandero, Volkswagen Polo: tutte le auto nuove sotto gli 80 kW che non pagheranno il bollo a partire dal prossimo anno",
-      "date": "2026-09-17T07:09:18.0000000Z"
     }
   ]
 }
