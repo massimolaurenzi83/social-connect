@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-30T16:27:40.3063358Z",
+  "updated": "2026-10-30T21:00:29.2560949Z",
   "items": [
+    {
+      "id": "cybersecurity360:dfafd92d1d82",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Ransomware, l’attacco a PQE Group rivela il rischio nascosto nei backup cifrati",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/ransomware-lattacco-a-pqe-group-rivela-il-rischio-nascosto-nei-backup-cifrati/",
+      "image": null,
+      "summary": "Il gruppo ransomware Panzer rivendica un attacco a PQE Group e la sottrazione di 200 GB di backup cifrati, senza conferme dell'azienda. La vicenda accende i riflettori su un rischio spesso sottovalutato: la conservazi...",
+      "date": "2026-10-30T16:12:48.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:72f16f139616",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "PHP2Shell in Italia: il rischio per oltre 285mila servizi PHP",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/php2shell-in-italia-il-rischio-per-oltre-285mila-servizi-php/",
+      "image": null,
+      "summary": "Lo dice Csirt: in Italia 285.149 servizi PHP risultano potenzialmente vulnerabili a PHP2Shell: sono l'81,9% di quelli con versione identificabile, non di tutti i 741.523 rilevati. Le falle consentono l'esecuzione di c...",
+      "date": "2026-10-30T16:00:14.0000000Z"
+    },
     {
       "id": "cybersecurity360:fd26536f349e",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "A dieci anni dalla sua adozione, il GDPR è stato profondamente trasformato dall'azione delle autorità di controllo e della magistratura. Tra nuove competenze, interventi dei giudici e proposte di riforma europee, otto...",
       "date": "2026-10-30T09:01:02.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:43ad960971d2",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Oltre la crittografia: proteggere i dati dall’archiviazione all’elaborazione",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/oltre-la-crittografia-proteggere-i-dati-dallarchiviazione-allelaborazione/",
-      "image": null,
-      "summary": "La crittografia dei dati è una componente essenziale quando sono archiviati, trasferiti ed elaborati. Dalla gestione delle chiavi alla sicurezza delle connessioni, fino al confidential computing: come progettare una p...",
-      "date": "2026-10-30T08:35:48.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:38239d6ebb0f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Protezione della proprietà intellettuale: bloccare i dati",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/protezione-della-proprieta-intellettuale-bloccare-i-dati/",
-      "image": null,
-      "summary": "Come prevenire esfiltrazione, Insider Threat e violazioni con controlli tecnici, cifratura e compliance L'articolo Protezione della proprietà intellettuale: bloccare i dati proviene da Cyber Security 360 .",
-      "date": "2026-10-29T16:21:34.0000000Z"
     }
   ]
 }

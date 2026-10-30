@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-10-30T16:27:40.2547698Z",
+  "updated": "2026-10-30T21:00:29.2506931Z",
   "items": [
+    {
+      "id": "ferrovie:0865ffa60d00",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Micronews ferroviarie, le ultime notizie al 30 ottobre 2026",
+      "url": "https://www.ferrovie.info/treni-reali/micronews-ferroviarie-le-ultime-notizie-al-30-ottobre-2026.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10523/blues_fvg.jpg",
+      "summary": "Le notizie brevi dal mondo ferroviario. Aggiornamenti su materiale rotabile, infrastrutture, servizi regionali e trasporto ferroviario in Italia e in Europa.",
+      "date": "2026-10-30T17:16:32.0000000Z"
+    },
     {
       "id": "ferrovie:ec4ffa1c9953",
       "sourceId": "ferrovie",
@@ -97,18 +109,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10529/ETR350_007.jpg",
       "summary": "Tre giovani sono stati denunciati dopo essere stati sorpresi mentre posizionavano pietre sui binari ferroviari a pochi minuti dall’arrivo di un treno passeggeri. L’episodio è avvenuto a Budrio , nel Bolognese, dove i ...",
       "date": "2026-10-29T10:29:59.0000000Z"
-    },
-    {
-      "id": "ferrovie:c2bc6454fe4e",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Roma Ostiense, guasto tecnico: ritardi fino a 40 minuti sulle linee FL1 e FL3",
-      "url": "https://www.ferrovie.info/treni-reali/roma-ostiense-guasto-tecnico-ritardi-fino-a-40-minuti-sulle-linee-fl1-e-fl3.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/IMG_28529.jpg",
-      "summary": "Ancora disagi per i pendolari del trasporto ferroviario regionale a Roma. Nella mattinata di giovedì 29 ottobre, un problema tecnico alla stazione di Roma Ostiense ha provocato ritardi fino a 40 minuti, variazioni di ...",
-      "date": "2026-10-29T09:23:47.0000000Z"
     },
     {
       "id": "ferrovie:ca6a5520fc9c",
