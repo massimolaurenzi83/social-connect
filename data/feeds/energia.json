@@ -1,7 +1,79 @@
 {
   "category": "energia",
-  "updated": "2026-10-30T02:59:26.7368589Z",
+  "updated": "2026-10-30T09:53:30.8146733Z",
   "items": [
+    {
+      "id": "qualenergia:13a7ecfb995a",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Green jobs e nuove competenze richieste dalle imprese",
+      "url": "https://www.qualenergia.it/articoli/green-jobs-nuove-competenze-richieste-imprese/",
+      "image": null,
+      "summary": "La transizione ecologica ed energetica modifica il lavoro attraverso la nascita di nuove professioni, ma anche trasformando le attività di chi opera in settori tradizionali. Installare e manutenere impianti a fonti ri...",
+      "date": "2026-10-30T09:45:50.0000000Z"
+    },
+    {
+      "id": "qualenergia:ad5c5b500326",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Sardegna, elettricità a prezzi negativi: le rinnovabili mettono alla prova la rete",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/sardegna-prezzi-elettrici-negativi-rinnovabili-mettono-prova-rete/",
+      "image": null,
+      "summary": "Il prezzo zonale dell’elettricità in Sardegna ha toccato in certi momenti -0,10 €/MWh nella settimana dal 19 al 25 ottobre 2026. Secondo i dati forniti dal Gestore dei mercati energetici (GME), la media settimanale de...",
+      "date": "2026-10-30T09:00:30.0000000Z"
+    },
+    {
+      "id": "qualenergia:af4133ecceec",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Il Consiglio dei ministri boccia quasi 890 MW di rinnovabili",
+      "url": "https://www.qualenergia.it/articoli/consiglio-ministri-boccia-quasi-890-mw-rinnovabili/",
+      "image": null,
+      "summary": "Se si trattasse di un appuntamento sportivo la sconfitta sarebbe schiacciante, 16 a 5, ma in realtà si tratta del confronto tra progetti di impianti rinnovabili bocciati e promossi nell’ultimo Consiglio dei ministri. ...",
+      "date": "2026-10-30T08:30:25.0000000Z"
+    },
+    {
+      "id": "qualenergia:7a9b653ac2ba",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Fotovoltaico, batterie, idrogeno e data center: in Toscana un polo energetico integrato",
+      "url": "https://www.qualenergia.it/articoli/fotovoltaico-batterie-idrogeno-data-center-toscana-polo-energetico-integrato/",
+      "image": null,
+      "summary": "Un impianto fotovoltaico da 100,5 MWp, un sistema di accumulo da 140 MWh, elettrolizzatori per la produzione di idrogeno verde e un data center alimentato da energia rinnovabile. Il tutto all’interno di un progetto di...",
+      "date": "2026-10-30T08:00:13.0000000Z"
+    },
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-10-30T05:30:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-10-30T05:00:00.0000000Z"
+    },
     {
       "id": "qualenergia:160b77ce94a6",
       "sourceId": "qualenergia",
@@ -73,78 +145,6 @@
       "image": null,
       "summary": "L’impianto di compostaggio aerobico di Lucera (FG) sarà trasformato in un sistema integrato di digestione anaerobica, produzione di biometano e post-compostaggio del digestato. Il progetto, denominato Bioripa, prevede...",
       "date": "2026-10-29T09:15:57.0000000Z"
-    },
-    {
-      "id": "qualenergia:162d0be70f44",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Autorizzazioni Bess, il Mase supera i 10 GW approvati nel 2026",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/autorizzazioni-bess-mase-supera-10-gw-2026/",
-      "image": null,
-      "summary": "A partire dall’11 settembre, data dell’ultima rilevazione di QualEnergia.it, il ministero dell’Ambiente e della Sicurezza energetica ha fortemente accelerato le autorizzazioni agli accumuli elettrochimici, approvando ...",
-      "date": "2026-10-29T09:00:01.0000000Z"
-    },
-    {
-      "id": "qualenergia:d78c1257a082",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Centrali a gas, raddoppiano i progetti cancellati in Europa. Avanzano le batterie",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/centrali-gas-raddoppiano-progetti-cancellati-europa-avanzano-batterie/",
-      "image": null,
-      "summary": "La potenza complessiva dei progetti di centrali elettriche a gas cancellati in Europa è raddoppiata rispetto al 2023, passando da 10,2 a 20,6 GW, un valore equivalente a circa un terzo della potenza attualmente previs...",
-      "date": "2026-10-29T08:45:42.0000000Z"
-    },
-    {
-      "id": "qualenergia:a7a6e879d1ea",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Agrivoltaico, moduli innovativi che modificano la luce per coltivare con meno acqua",
-      "url": "https://www.qualenergia.it/articoli/agrivoltaico-moduli-innovativi-modificano-luce-coltivare-meno-acqua/",
-      "image": null,
-      "summary": "Il cambiamento climatico sta rendendo l’acqua ancora più preziosa di quanto lo sia già in natura, in particolare per l’agricoltura. È sempre più comune dover affrontare estati più calde, siccità più frequenti e una cr...",
-      "date": "2026-10-29T08:00:43.0000000Z"
-    },
-    {
-      "id": "qualenergia:4d7676f3edda",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Horizon Europe: sei nuovi bandi su efficienza energetica, edilizia e batterie",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/horizon-europe-sei-nuovi-bandi-efficienza-energetica-edilizia-batterie/",
-      "image": null,
-      "summary": "Sono 100,3 milioni di euro le risorse messe a disposizione da Horizon Europe con la call HORIZON-CL5-2027-05, dedicata a progetti di ricerca e innovazione per un uso più efficiente e sostenibile dell’energia negli edi...",
-      "date": "2026-10-29T07:55:01.0000000Z"
-    },
-    {
-      "id": "qualenergia:50d40d648ab7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Bandi e appalti del giorno (4)",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
-      "image": null,
-      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
-      "date": "2026-10-29T07:30:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:3adf98d68bd0",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Gestione degli impianti di pubblica illuminazione a Bosco Chiesanuova (VR)",
-      "url": "https://www.qualenergia.it/pro/documenti/gestione-degli-impianti-di-pubblica-illuminazione-a-bosco-chiesanuova-vr/",
-      "image": null,
-      "summary": "Affidamento in concessione, tramite finanza di progetto, del servizio di gestione degli impianti di pubblica illuminazione nel territorio del comune di Bosco Chiesanuova (VR), comprensivo di fornitura di energia elett...",
-      "date": "2026-10-29T06:00:28.0000000Z"
     }
   ]
 }

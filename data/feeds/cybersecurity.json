@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-30T02:59:26.7396876Z",
+  "updated": "2026-10-30T09:53:30.8458119Z",
   "items": [
+    {
+      "id": "cybersecurity360:cce2d4f4dddc",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "GDPR, otto anni di enforcement hanno cambiato le regole della protezione dei dati",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/gdpr-otto-anni-di-enforcement-hanno-cambiato-le-regole-della-protezione-dei-dati/",
+      "image": null,
+      "summary": "A dieci anni dalla sua adozione, il GDPR è stato profondamente trasformato dall'azione delle autorità di controllo e della magistratura. Tra nuove competenze, interventi dei giudici e proposte di riforma europee, otto...",
+      "date": "2026-10-30T09:01:02.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:43ad960971d2",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Oltre la crittografia: proteggere i dati dall’archiviazione all’elaborazione",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/oltre-la-crittografia-proteggere-i-dati-dallarchiviazione-allelaborazione/",
+      "image": null,
+      "summary": "La crittografia dei dati è una componente essenziale quando sono archiviati, trasferiti ed elaborati. Dalla gestione delle chiavi alla sicurezza delle connessioni, fino al confidential computing: come progettare una p...",
+      "date": "2026-10-30T08:35:48.0000000Z"
+    },
     {
       "id": "cybersecurity360:38239d6ebb0f",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Google ha presentato Gemini 4 Carbon, un modello AI che nei test dell'azienda individua vulnerabilità, ne verifica la sfruttabilità e propone patch. L'accesso iniziale è riservato a difensori selezionati, mentre cresc...",
       "date": "2026-10-29T09:12:46.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:b94fa36db5e8",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber risk, Italia nel mirino: perché la scelta del partner è una decisione di governance",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/cyber-risk-italia-nel-mirino-perche-la-scelta-del-partner-e-una-decisione-di-governance/",
-      "image": null,
-      "summary": "L'aumento degli attacchi cyber in Italia e i nuovi obblighi della NIS2 impongono alle aziende di ripensare la gestione del rischio informatico. La scelta di partner tecnologici qualificati diventa così una decisione s...",
-      "date": "2026-10-29T08:48:26.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:f922c7645d3e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Un Boeing 737 violato con 100 dollari: la sicurezza fisica che l’OT ha dimenticato",
-      "url": "https://www.cybersecurity360.it/outlook/un-boeing-737-violato-con-100-dollari-la-sicurezza-fisica-che-lot-ha-dimenticato/",
-      "image": null,
-      "summary": "Un dispositivo grande quanto una moneta ha dimostrato che i sistemi di volo di un 737 possono essere manomessi con un attacco fisico da meno di 100 dollari. Il caso riguarda direttamente le infrastrutture critiche ita...",
-      "date": "2026-10-29T08:00:00.0000000Z"
     }
   ]
 }

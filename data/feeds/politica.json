@@ -1,7 +1,43 @@
 {
   "category": "politica",
-  "updated": "2026-10-30T02:59:26.7485913Z",
+  "updated": "2026-10-30T09:53:30.7915288Z",
   "items": [
+    {
+      "id": "ansa-politica:4da426ae5477",
+      "sourceId": "ansa-politica",
+      "source": "ANSA Politica",
+      "platform": "rss",
+      "category": "politica",
+      "title": "Sciopero a Napoli bruciato, manifesto con Meloni e Bernini",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/sciopero-a-napoli-bruciato-manifesto-con-meloni-e-bernini_0b857f40-7f65-4387-bc19-f744d26a0f06.html",
+      "image": null,
+      "summary": "Nel bersaglio anche l'immagine di mister Monopoly",
+      "date": "2026-10-30T09:29:22.0000000Z"
+    },
+    {
+      "id": "ansa-politica:15ab3badd714",
+      "sourceId": "ansa-politica",
+      "source": "ANSA Politica",
+      "platform": "rss",
+      "category": "politica",
+      "title": "Meloni ricorda militari morti in Bosnia, 4 vite spezzate mentre servivano l'Italia",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/meloni-ricorda-militari-morti-in-bosnia-4-vite-spezzate-mentre-servivano-litalia_9ff1cc3a-9684-4367-802a-3f98f705fce4.html",
+      "image": null,
+      "summary": "La premier su X 'chi vuole porti un fiore al villaggio della Difesa al Circo Massimo'",
+      "date": "2026-10-30T09:11:41.0000000Z"
+    },
+    {
+      "id": "ansa-politica:3d7a7a758ba7",
+      "sourceId": "ansa-politica",
+      "source": "ANSA Politica",
+      "platform": "rss",
+      "category": "politica",
+      "title": "Scintille Fdi-Lega sulla Fornero. Il fisco divide autonomi e dipendenti",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/scintille-fdi-lega-sulla-fornero.-il-fisco-divide-autonomi-e-dipendenti_b2dabd79-7a26-4357-8767-9d6e322c5baf.html",
+      "image": null,
+      "summary": "L'Irpef su metà reddito pesa il doppio della flat tax. Pd, 6 miliardi di una-tantum",
+      "date": "2026-10-30T07:58:13.0000000Z"
+    },
     {
       "id": "ansa-politica:d5fb365e0b2f",
       "sourceId": "ansa-politica",
@@ -37,18 +73,6 @@
       "image": null,
       "summary": "\"Italiani stanchi di politica rancida e stantia\".Polemiche per celebrazioni marcia su Roma",
       "date": "2026-10-29T20:13:16.0000000Z"
-    },
-    {
-      "id": "ansa-politica:3d7a7a758ba7",
-      "sourceId": "ansa-politica",
-      "source": "ANSA Politica",
-      "platform": "rss",
-      "category": "politica",
-      "title": "Scintille Fdi-Lega sulla Fornero. Il fisco divide autonomi e dipendenti",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/scintille-fdi-lega-sulla-fornero.-il-fisco-divide-autonomi-e-dipendenti_b2dabd79-7a26-4357-8767-9d6e322c5baf.html",
-      "image": null,
-      "summary": "L'Irpef su metà reddito pesa il doppio della flat tax. Pd, 6 miliardi di una-tantum",
-      "date": "2026-10-29T19:31:33.0000000Z"
     },
     {
       "id": "ansa-politica:fbd9c4a5abab",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Molte misure della manovra si vedranno nei Comuni",
       "date": "2026-10-29T11:07:15.0000000Z"
-    },
-    {
-      "id": "ansa-politica:c7308fb3d923",
-      "sourceId": "ansa-politica",
-      "source": "ANSA Politica",
-      "platform": "rss",
-      "category": "politica",
-      "title": "Nordio: 'Improprio che i magistrati si lamentino delle critiche dei politici'",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/nordio-improprio-che-i-magistrati-si-lamentino-delle-critiche-dei-politici_91bd2cc9-2130-41ae-8b30-4fc377474ea9.html",
-      "image": null,
-      "summary": "'Spesso sono loro a criticare le leggi quando dovrebbero solo applicarle. Non manderemo gli ispettori a Milano per la decisione su Siher'",
-      "date": "2026-10-29T10:59:30.0000000Z"
-    },
-    {
-      "id": "ansa-politica:c8e98b1834a5",
-      "sourceId": "ansa-politica",
-      "source": "ANSA Politica",
-      "platform": "rss",
-      "category": "politica",
-      "title": "Meloni, sindaci eroi della politica, primo volto dello Stato",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/meloni-sindaci-eroi-della-politica-primo-volto-dello-stato_9ba64175-77c1-458d-95b7-b24a337d83f5.html",
-      "image": null,
-      "summary": "Siete un avamposto di umanità",
-      "date": "2026-10-29T10:51:56.0000000Z"
     }
   ]
 }
