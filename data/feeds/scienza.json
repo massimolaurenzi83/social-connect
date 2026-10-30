@@ -1,7 +1,55 @@
 {
   "category": "scienza",
-  "updated": "2026-10-30T09:53:30.8334718Z",
+  "updated": "2026-10-30T16:27:40.2746279Z",
   "items": [
+    {
+      "id": "media-inaf:9c9c549ee1ea",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Il tuo nome a bordo di Dragonfly",
+      "url": "https://www.media.inaf.it/2026/10/30/il-tuo-nome-a-bordo-di-dragonfly/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/27-10097-01a-hero-image-16-9-v02-150x150.webp",
+      "summary": "Parte l'iniziativa di coinvolgimento del pubblico “send my name” legata alla missione Dragonfly, il drone della Nasa progettato per studiare l'abitabilità e la chimica prebiotica di Titano. Compilando un modulo online...",
+      "date": "2026-10-30T15:30:17.0000000Z"
+    },
+    {
+      "id": "focus:e092297d2531",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Che tipo di amante sei?",
+      "url": "https://www.focus.it/comportamento/psicologia/che-tipo-di-amante-sei-uno-studio-rivela-i-quattro-modi-di-vivere-l-innamoramento",
+      "image": "https://www.focus.it/images/2026/10/29/coppia-innamoramento_w630.jpg?imbypass=true",
+      "summary": "Dall'amante \"lieve\" a quello travolto dalla passione con picchi di dieci rapporti a settimana: una ricerca su oltre 1.500 persone identifica i quattro profili in cui ci dividiamo quando ci innamoriamo.",
+      "date": "2026-10-30T12:00:00.0000000Z"
+    },
+    {
+      "id": "media-inaf:e7438721d43b",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Bagliore folgorante rivela l’anatomia di un Grb",
+      "url": "https://www.media.inaf.it/2026/10/30/afterglow-grb-260310a/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/Fortuna_Yang_BHianca_press_release_2026_v1-150x150.png",
+      "summary": "Un lampo di raggi gamma dall’apparenza ordinaria, seguito da un bagliore insolitamente luminoso, ha rivelato la presenza di un getto di materia ed energia nascosto alla nostra vista. Lo studio, guidato da astrofisici ...",
+      "date": "2026-10-30T11:06:37.0000000Z"
+    },
+    {
+      "id": "focus:265ea0f098f9",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Il fungo che ti fa vedere gli gnomi",
+      "url": "https://www.focus.it/ambiente/natura/il-fungo-che-ti-fa-vedere-gli-gnomi",
+      "image": "https://www.focus.it/images/2026/10/29/funghi_w630.jpg?imbypass=true",
+      "summary": "Abbiamo identificato il fungo responsabile delle cosiddette “allucinazioni lillipuziane”, che contiene un allucinogeno ancora sconosciuto.",
+      "date": "2026-10-30T10:00:00.0000000Z"
+    },
     {
       "id": "media-inaf:2ba8d49bde3c",
       "sourceId": "media-inaf",
@@ -273,30 +321,6 @@
       "date": "2026-10-28T10:00:15.0000000Z"
     },
     {
-      "id": "focus:509424ef36af",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Coccolare i gatti riduce lo stress",
-      "url": "https://www.focus.it/ambiente/animali/coccolare-i-gatti-riduce-lo-stress-nostro-e-loro",
-      "image": "https://www.focus.it/images/2026/10/23/gatti_w630.jpg?imbypass=true",
-      "summary": "C’è un legame ormonale molto interessante tra gatti e umani, che potrebbe spiegare i reciproci effetti benefici del contatto fisico.",
-      "date": "2026-10-28T10:00:00.0000000Z"
-    },
-    {
-      "id": "focus:d2d756c23a3b",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Che cos'è la vigoressia?",
-      "url": "https://www.focus.it/comportamento/psicologia/muscolosi-ma-mai-abbastanza-che-cos-e-la-vigoressia-e-come-cambia-la-percezione-del-corpo",
-      "image": "https://www.focus.it/images/2026/10/28/body-building-vigoressia_w630.jpg?imbypass=true",
-      "summary": "La vigoressia (o complesso di Adone) colpisce oltre 60.000 persone in Italia ed è legata a modifiche strutturali nelle aree del cervello dedicate a emozioni e immagine corporea.",
-      "date": "2026-10-28T10:00:00.0000000Z"
-    },
-    {
       "id": "media-inaf:e90e3800615c",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -371,18 +395,6 @@
       "date": "2026-10-26T12:00:08.0000000Z"
     },
     {
-      "id": "media-inaf:209e6f5f307b",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Album di famiglia per le stelle di N159",
-      "url": "https://www.media.inaf.it/2026/10/26/jwst-n159/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/potm2610a-150x150.jpg",
-      "summary": "Nubi colorate, filamenti di gas e stelle in diverse fasi della loro formazione convivono nella nuova immagine di N159, una regione della Grande Nube di Magellano osservata da Jwst. Grazie alle osservazioni nel vicino ...",
-      "date": "2026-10-26T09:09:59.0000000Z"
-    },
-    {
       "id": "geopop:FzdmudtoKfg",
       "sourceId": "geopop",
       "source": "Geopop",
@@ -394,18 +406,6 @@
       "summary": "",
       "videoId": "FzdmudtoKfg",
       "date": "2026-10-26T06:00:05.0000000Z"
-    },
-    {
-      "id": "media-inaf:405770a02f69",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Van Gogh, tra Notte stellata e cielo reale",
-      "url": "https://www.media.inaf.it/2026/10/23/van-gogh-starry-night/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/1364px-Van_Gogh_-_Starry_Night_-_Google_Art_Project-150x150.jpeg",
-      "summary": "Una nuova analisi astronomica e storico-documentaria individua una possibile corrispondenza tra \"La notte stellata\" dipinta da Vincent van Gogh nel 1889 e quella visibile all’alba del 22 luglio da Saint-Rémy-de-Proven...",
-      "date": "2026-10-23T15:27:56.0000000Z"
     },
     {
       "id": "geopop:fXJUvLFzLFQ",

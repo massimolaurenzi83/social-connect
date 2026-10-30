@@ -1,7 +1,55 @@
 {
   "category": "ai",
-  "updated": "2026-10-30T09:53:30.8228520Z",
+  "updated": "2026-10-30T16:27:40.2642395Z",
   "items": [
+    {
+      "id": "ai4business:b325237e9a6f",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AI locale per la gestione documentale, qual è la migliore",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-locale-per-la-gestione-documentale-qual-e-la-migliore/",
+      "image": null,
+      "summary": "Un test su un campione di 100 file aziendali. A confronto LFM2.5 1.2B, Phi-4-mini-reasoning, Qwen3.5 9B, Gemma 4 E4B e Gemma 4 12B. Per scegliere il modello giusto bisogna valutare costi, necessità di privacy, hardwar...",
+      "date": "2026-10-30T15:46:09.0000000Z"
+    },
+    {
+      "id": "ai4business:1f9d243a1d7c",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Casi aziendali italiani: quattro progetti di AI Agentica che funzionano",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/quattro-progetti-di-ai-agentica-che-funzionano-i-casi-italiani/",
+      "image": null,
+      "summary": "Dalla gestione dei sinistri all'automazione dei contratti, fino alle operazioni IT e alle richieste commerciali. I progetti di Generali, Grenke Italia, Unipol e Sada Cavi mostrano come l'AI agentica venga integrata ne...",
+      "date": "2026-10-30T15:12:13.0000000Z"
+    },
+    {
+      "id": "ai4business:3eebd0f9e84a",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Ariston Group, l’AI agentica applicata alla catena di fornitura mondiale",
+      "url": "https://www.ai4business.it/storie/ariston-group-e-lai-agentica-applicata-alla-catena-di-fornitura-mondiale/",
+      "image": null,
+      "summary": "Dalle spedizioni straordinarie alla logistica, fino al piano di formazione per superare il Digital divide interno e scongiurare la shadow AI. Con un mercato in oltre 70 Paesi nel mondo e 10mila dipendenti, il gruppo A...",
+      "date": "2026-10-30T11:30:04.0000000Z"
+    },
+    {
+      "id": "ai4business:5f205d15484e",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Cyber rischio a velocità macchina: perché il recovery è l’unica difesa",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/cyber-rischio-a-velocita-macchina-perche-il-recovery-e-lunica-difesa/",
+      "image": null,
+      "summary": "L’intelligenza artificiale riduce drasticamente il tempo tra la scoperta di una vulnerabilità e il suo sfruttamento, mentre aziende e team di sicurezza restano vincolati a tempi umani. Il recovery diventa così il cont...",
+      "date": "2026-10-30T10:22:18.0000000Z"
+    },
     {
       "id": "ai4business:d0e56b3023f4",
       "sourceId": "ai4business",
@@ -23,7 +71,7 @@
       "title": "Crollo di Alphabet in Borsa: l’AI cambia il business della Search",
       "url": "https://www.ai4business.it/intelligenza-artificiale/crollo-di-alphabet-in-borsa-lai-cambia-il-business-della-search/",
       "image": null,
-      "summary": "Il 29 ottobre Alphabet arriva a perdere oltre il 13% in Borsa, in più grande in 22 anni di storia, malgrado ricavi in crescita del 25%. Nella trimestrale Google Search rallenta mentre le ricerche in AI Mode rendono me...",
+      "summary": "Il 29 ottobre Alphabet arriva a perdere oltre il 13% in Borsa, la perdita più grande in 22 anni di storia, malgrado ricavi in crescita del 25%. Nella trimestrale Google Search rallenta mentre le ricerche in AI Mode re...",
       "date": "2026-10-29T18:56:17.0000000Z"
     },
     {
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Il modello collaborerà allo sviluppo di nuovi farmaci con sei partner, da Bristol Myers Squibb a Enveda. I primi test indicano progressi nella progettazione di anticorpi, nella ricerca oncologica e nei documenti regol...",
       "date": "2026-10-29T10:59:59.0000000Z"
-    },
-    {
-      "id": "ai4business:87f89475cae9",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Quantum Italia, 200mila euro per la crittografia post-quantistica di Promethence",
-      "url": "https://www.ai4business.it/quantum-computing/quantum-italia-investe-200mila-euro-in-promethence/",
-      "image": null,
-      "summary": "L'azienda nata dall'accordo tra Scientifica e Quantonation investe nella start-up fondata nel 2025 da ricercatori del Politecnico di Milano. La società sviluppa soluzioni hardware e software di crittografia post-quant...",
-      "date": "2026-10-29T10:15:22.0000000Z"
-    },
-    {
-      "id": "ai4business:d29581cffb76",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Gemini 4 Carbon sfida OpenAI e Anthropic sulla sicurezza del software",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/gemini-4-carbon-sfida-openai-e-anthropic-sulla-sicurezza-del-software/",
-      "image": null,
-      "summary": "Google presenta un modello che nei test dell'azienda trova vulnerabilità, ne verifica lo sfruttamento e propone correzioni. La sfida con Codex Security di OpenAI e Claude Code Security di Anthropic riguarda risultati,...",
-      "date": "2026-10-29T09:54:56.0000000Z"
-    },
-    {
-      "id": "ai4business:cff5bd9fb102",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Investimenti 2027: innovare per essere competitivi",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/investimenti-2027-innovare-per-essere-competitivi/",
-      "image": null,
-      "summary": "Il 26 novembre, al MADE Competence Center di Milano e in streaming, Innovation Post e Nextwork360 riuniscono istituzioni, imprese ed esperti di finanza agevolata. In agenda le nuove priorità degli investimenti 2027: i...",
-      "date": "2026-10-29T09:11:10.0000000Z"
-    },
-    {
-      "id": "ai4business:d35c1e710b69",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Kimi K3.1 Pro è online, ma i pesi non sono ancora disponibili",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/kimi-k3-1-pro-e-online-ma-i-pesi-non-sono-ancora-disponibili/",
-      "image": null,
-      "summary": "Moonshot AI rende Kimi K3.1 Pro accessibile tramite app e API, ma promette i pesi del modello solo entro il 4 novembre 2026. I benchmark pubblicati dall’azienda mostrano risultati competitivi, mentre il confronto indi...",
-      "date": "2026-10-28T16:42:40.0000000Z"
     },
     {
       "id": "guerredirete:2e73fa615f4e",

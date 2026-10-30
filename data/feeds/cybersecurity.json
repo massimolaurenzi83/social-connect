@@ -1,7 +1,91 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-10-30T09:53:30.8458119Z",
+  "updated": "2026-10-30T16:27:40.3063358Z",
   "items": [
+    {
+      "id": "cybersecurity360:fd26536f349e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Registrazione NIS2: il 31 ottobre chiude il canale per i ritardatari",
+      "url": "https://www.cybersecurity360.it/news/registrazione-nis2-il-31-ottobre-chiude-il-canale-per-i-ritardatari/",
+      "image": null,
+      "summary": "Dal 31 ottobre ACN chiude il canale delle dichiarazioni tardive NIS. La Determinazione 314287/2026 semplifica gli adempimenti per le imprese già in elenco e introduce le procedure per il 2027. Restano gli obblighi di ...",
+      "date": "2026-10-30T15:57:41.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:a701dbd2e77e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Attacco a Binance: in 20 minuti la Nord Corea compie il furto cripto del secolo",
+      "url": "https://www.cybersecurity360.it/news/attacco-a-binance-in-20-minuti-la-nord-corea-compie-il-furto-cripto-del-secolo/",
+      "image": null,
+      "summary": "L'attacco, con furto di 6,36 miliardi di dollari a Binance , sarebbe opera di TraderTraitor , gruppo di hacker collegato alla Corea del Nord . Ecco cosa sappiamo, perché riguarda anche l'Italia e come mitigare i risch...",
+      "date": "2026-10-30T15:16:47.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:62cd8f58654a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Non sapevo d’essere in filiera",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/non-sapevo-dessere-in-filiera/",
+      "image": null,
+      "summary": "Quando si è fornitori di servizi IT, soprattutto in ambito cyber, mancare nel ragionare in ottica di qualificarsi come soggetto parte di una supply chain e ritenersi così immuni da tutte le norme che non riguardano di...",
+      "date": "2026-10-30T15:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:c8f0aae0058a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Comitato controllo e rischi: la supervisione delle minacce cyber",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/comitato-controllo-e-rischi-la-supervisione-delle-minacce-cyber/",
+      "image": null,
+      "summary": "Come trasformare i dati tecnici di sicurezza in report chiari su rischi, difese e investimenti per il Board L'articolo Comitato controllo e rischi: la supervisione delle minacce cyber proviene da Cyber Security 360 .",
+      "date": "2026-10-30T14:39:27.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:77df18ec1e9b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Microsoft Teams sotto attacco: falsi tecnici IT sfruttano le chat esterne per violare le aziende",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/microsoft-teams-sotto-attacco-falsi-tecnici-it-sfruttano-le-chat-esterne-per-violare-le-aziende/",
+      "image": null,
+      "summary": "Oltre 400 incidenti analizzati da Arctic Wolf Labs mostrano come i cyber criminali sfruttino le chat esterne di Microsoft Teams per impersonare il supporto IT e ottenere accesso ai sistemi aziendali. Tra mail bombing,...",
+      "date": "2026-10-30T11:20:33.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:b356462614e4",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Piani di hosting web e promozioni Black Friday: sconti fino all’85 per cento, domini gratuiti e strumenti di intelligenza artificiale",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/piani-di-hosting-web-e-promozioni-black-friday-sconti-fino-all85-per-cento-domini-gratuiti-e-strumenti-di-intelligenza-artificiale/",
+      "image": null,
+      "summary": "Il Black Friday porta gli sconti sui servizi di hosting web fino all'85%. Le promozioni comprendono piani per siti ed e-commerce da 1,99 euro al mese, VPS, domini gratuiti e strumenti AI. Attenzione ai costi di rinnov...",
+      "date": "2026-10-30T10:05:45.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:7c931735fb0b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "PEERSTITCH, il malware fantasma nei firewall Fortinet: quando il rischio arriva dal fornitore",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/peerstitch-il-malware-fantasma-nei-firewall-fortinet-quando-il-rischio-arriva-dal-fornitore/",
+      "image": null,
+      "summary": "Un attacco alla console FortiManager di un provider ha esposto configurazioni e credenziali di oltre 500 firewall Fortinet. Su alcuni dispositivi gli attaccanti hanno installato PEERSTITCH, un malware che opera in mem...",
+      "date": "2026-10-30T09:45:42.0000000Z"
+    },
     {
       "id": "cybersecurity360:cce2d4f4dddc",
       "sourceId": "cybersecurity360",
@@ -37,90 +121,6 @@
       "image": null,
       "summary": "Come prevenire esfiltrazione, Insider Threat e violazioni con controlli tecnici, cifratura e compliance L'articolo Protezione della proprietà intellettuale: bloccare i dati proviene da Cyber Security 360 .",
       "date": "2026-10-29T16:21:34.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:938b03142c02",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Crittografia post-quantistica, il NIST fissa le scadenze per la migrazione",
-      "url": "https://www.cybersecurity360.it/quantum-computing/crittografia-post-quantistica-il-nist-fissa-le-scadenze-per-la-migrazione/",
-      "image": null,
-      "summary": "Il NIST ha pubblicato il 27 ottobre 2026 la guida definitiva alla migrazione verso la crittografia post-quantistica. RSA ed ECDSA saranno deprecati dopo il 2030 e non più ammessi dagli standard NIST dopo il 2035. Le s...",
-      "date": "2026-10-29T14:09:08.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:204c983818d5",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "False multe via PEC, CERT-AGID scopre il sistema dei truffatori",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/false-multe-via-pec-cert-agid-scopre-il-sistema-dei-truffatori/",
-      "image": null,
-      "summary": "Il CERT-AGID individua nuove false multe pagoPA spedite da caselle PEC compromesse. Le email chiedono 198 euro e portano a un sito fraudolento che riceve istruzioni dai criminali ogni mezzo secondo. Dal 2025 censite 1...",
-      "date": "2026-10-29T11:48:46.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2ec4444686d0",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "PHP2Shell e Fragnesia, CISA avverte: server Linux a rischio root",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/php2shell-e-fragnesia-cisa-avverte-server-linux-a-rischio-root/",
-      "image": null,
-      "summary": "CISA inserisce Fragnesia, una falla del kernel Linux, tra le vulnerabilità sfruttate attivamente e segnala la possibile concatenazione con PHP2Shell. La combinazione può trasformare un accesso al server web in privile...",
-      "date": "2026-10-29T11:34:43.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3ad712c03bb5",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Rapporto Clusit 2026: il cybercrime mette sotto pressione le imprese",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/rapporto-clusit-2026-il-cybercrime-mette-sotto-pressione-le-imprese/",
-      "image": null,
-      "summary": "Il Rapporto Clusit di ottobre 2026 censisce 4.911 incidenti gravi nel mondo e 245 in Italia. Nel Paese cala l’hacktivism, il cybercrime torna prevalente e il manifatturiero è il primo bersaglio: continuità operativa e...",
-      "date": "2026-10-29T11:04:46.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d063fdcff1f6",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Modelli AI per la cybersecurity: quali sono, quali scegliere",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/modelli-ai-per-la-cybersecurity-quali-sono-quali-scegliere/",
-      "image": null,
-      "summary": "Dall’AI che trova vulnerabilità e genera patch a quella che analizza gli incidenti, i nuovi modelli per la cybersecurity coprono compiti differenti. Il confronto tra Google, OpenAI, Anthropic, Cisco e i fornitori di p...",
-      "date": "2026-10-29T10:40:50.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d1efeb362100",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Piattaforma IONOS Plus per siti web: suite d’intelligenza artificiale generativa, 50 GB di cloud storage e primo anno a canone azzerato",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/ionos-plus-creazione-siti-web-intelligenza-artificiale-gratis/",
-      "image": null,
-      "summary": "IONOS propone il piano Plus di MyWebsite a canone zero per 12 mesi. L'offerta comprende 50 GB di spazio web, strumenti di intelligenza artificiale generativa, ottimizzazione SEO, prenotazioni online e statistiche web....",
-      "date": "2026-10-29T10:17:13.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:0ec6c004fb23",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Gemini 4 Carbon, Google porta gli agenti AI nella caccia alle falle",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/gemini-4-carbon-google-porta-gli-agenti-ai-nella-caccia-alle-falle/",
-      "image": null,
-      "summary": "Google ha presentato Gemini 4 Carbon, un modello AI che nei test dell'azienda individua vulnerabilità, ne verifica la sfruttabilità e propone patch. L'accesso iniziale è riservato a difensori selezionati, mentre cresc...",
-      "date": "2026-10-29T09:12:46.0000000Z"
     }
   ]
 }
