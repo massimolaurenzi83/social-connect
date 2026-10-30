@@ -1,18 +1,162 @@
 {
   "category": "notizie",
-  "updated": "2026-10-29T23:40:17.6075582Z",
+  "updated": "2026-10-30T02:59:26.7445800Z",
   "items": [
     {
-      "id": "ansa:4ad4f8aba069",
+      "id": "repubblica:ad933ef632a3",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Israele, il pressing sull’opposizione per un’intesa con i palestinesi",
+      "url": "https://www.repubblica.it/esteri/2026/10/30/news/israele_il_pressing_sull_opposizione_per_un_accordo_con_gli_arabi-425685602/",
+      "image": null,
+      "summary": "Manifestazioni sotto casa del leader Eisenkot: ma la parte destra della colazione è contraria a governare con gli arabi",
+      "date": "2026-10-30T00:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:8fabdb1ea072",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Viaggio in Ucraina, l’ombra e la grazia. Un Paese sotto le bombe che progetta il futuro",
+      "url": "https://www.repubblica.it/esteri/2026/10/30/news/viaggio_in_ucraina_tra_bombe_rifugi_e_cultura_l_ombra_e_la_grazia_di_un_paese_sotto_assedio-425685268/",
+      "image": null,
+      "summary": "La scrittrice ricostruisce le memorie della guerra e racconta gli sforzi della popolazione per continuare a vivere, nonostante tutto",
+      "date": "2026-10-30T00:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:7f4fa7caa46e",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Al Copasir gli aiuti per Kiev, Crosetto avvisa gli alleati: “È l’ora di metterci la faccia”",
+      "url": "https://www.repubblica.it/politica/2026/10/30/news/guido_crosetto_copasir_aiuti_ucraina-425685635/",
+      "image": null,
+      "summary": "Il ministro pronto a illustrare il pacchetto al comitato ma resta il nodo della firma di Giorgetti: “In manovra annunci ma per la difesa non un euro in più”",
+      "date": "2026-10-30T00:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:59cc2bbcae27",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Soldini: “Soccorro chi sfida il mare in cerca di un futuro”",
+      "url": "https://www.repubblica.it/cronaca/2026/10/30/news/giovanni_soldini_soccorritore_emergency-425685748/",
+      "image": null,
+      "summary": "Il velista si è unito alla missione di Emergency. “Non avevo idea delle difficoltà operative. Per lanciare l’allarme si usa il satellitare, qui invece c’è il rischio di favoreggiamento”",
+      "date": "2026-10-30T00:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:44642a7d30b6",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "L’ombra dei fondi dal Qatar sulle elezioni israeliane. La destra: “Erano per gli arabi”",
+      "url": "https://www.repubblica.it/esteri/2026/10/30/news/l_ombra_dei_fondi_dal_qatar_sulle_elezioni_israeliane_la_destra_erano_per_gli_arabi-425685764/",
+      "image": null,
+      "summary": "Inchiesta dello Shin Bet su possibili interferenze straniere, la smentita di Doha. Smotrich: “Ai partiti palestinesi soldi dai terroristi”. La replica: “Solo falsità”",
+      "date": "2026-10-30T00:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:bcc064b94c86",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Gavron: “Un elettore su cinque non può essere escluso a priori, siamo una democrazia razzista”",
+      "url": "https://www.repubblica.it/esteri/2026/10/30/news/intervista_gavron_il_20_degli_elettori_arabi_non_puo_essere_escluso_a_priori_israele_democrazia_razzista-425685528/",
+      "image": null,
+      "summary": "Per lo scrittore l’opposizione non aprirà alla collaborazione con gli arabi israeliani: “Quanta amarezza. Tanti giovani se ne andranno”",
+      "date": "2026-10-30T00:00:00.0000000Z"
+    },
+    {
+      "id": "repubblica:3e9a5dfe0b45",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Guerra Ucraina - Russia, le news di oggi. Missili su Kiev, un morto. “Zelensky sospende attacchi a raffinerie russe su pressione di Trump”",
+      "url": "https://www.repubblica.it/esteri/2026/10/30/diretta/guerra_ucraina_russia_news_oggi-425685867/",
+      "image": null,
+      "summary": "Tutte le notizie in tempo reale dal fronte",
+      "date": "2026-10-29T23:38:14.0000000Z"
+    },
+    {
+      "id": "ansa:7fc29596ba36",
       "sourceId": "ansa",
       "source": "ANSA",
       "platform": "rss",
       "category": "notizie",
       "title": "Elicottero italiano cade in Bosnia, quattro militari morti",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/elicottero-militare-italiano-cade-in-bosnia-due-operatori-della-croce-rossa_c2a741c9-64ff-4040-9191-fc48011cdff0.html",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/elicottero-italiano-cade-in-bosnia-quattro-militari-morti_c2a741c9-64ff-4040-9191-fc48011cdff0.html",
       "image": null,
       "summary": "Il velivolo era impegnato nella missione Althea. Le vittime facevano parte di Esercito e Croce rossa, tra loro anche una donna. I feriti sono 11. Cordoglio di Mattarella e Meloni",
-      "date": "2026-10-29T22:56:25.0000000Z"
+      "date": "2026-10-29T23:04:34.0000000Z"
+    },
+    {
+      "id": "repubblica:52534b0912a1",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Icardi: “Sono felice e innamorato. Mi manca tanto il calcio, affronterei l’Inter da avversario”",
+      "url": "https://www.repubblica.it/sport/calcio/serie-a/inter/2026/10/30/news/icardi_inter_amore_futuro_intervista-425685173/",
+      "image": null,
+      "summary": "Intervista all’ex centravanti nerazzurro a pochi giorni dal derby di Milano",
+      "date": "2026-10-29T23:01:00.0000000Z"
+    },
+    {
+      "id": "repubblica:85db04b9564f",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Natalia Aspesi: “Le femministe? Mi sono diventate antipatiche. Lo ero anch’io, ora mi fanno ridere”",
+      "url": "https://d.repubblica.it/culture/interviste/2026/10/30/news/natalia_aspesi_intervista-425683879/",
+      "image": null,
+      "summary": "A 97 anni, Natalia Aspesi rivendica il diritto di mentire: “Sono una casalinga”. Far ridere: “Ma oggi ti massacrano”. E persino dimenticare. Anche se con un collega dall’occhio curioso...",
+      "date": "2026-10-29T23:01:00.0000000Z"
+    },
+    {
+      "id": "repubblica:1ce89a665f17",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Sara Curtis: “Il cervello conta al 99%, il corpo all’1%. Se pensi di non farcela, non ce la farai”",
+      "url": "https://d.repubblica.it/culture/interviste/2026/10/30/news/sara_curtis_intervista_nuotatrice-425683858/",
+      "image": null,
+      "summary": "Odia il cloro, la smemoratezza e gli stereotipi. Ama gli asparagi, gli amici, la fatica, essere un esempio. Il più giovane talento del nostro nuoto, Sara Curtis, crede che la mente sia tutto: “Se vuoi farcela davvero,...",
+      "date": "2026-10-29T23:01:00.0000000Z"
+    },
+    {
+      "id": "repubblica:4f801077c932",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "Rivera: “Il nuovo stadio non ha ragione di esistere. E dovevano intestarlo a me e Mazzola”",
+      "url": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/30/news/rivera_nuovo_san_siro_intervista-425685519/",
+      "image": null,
+      "summary": "Intervista all’ex stella del Milan, Pallone d’Oro nel 1969",
+      "date": "2026-10-29T23:01:00.0000000Z"
+    },
+    {
+      "id": "repubblica:1a7188a84b2a",
+      "sourceId": "repubblica",
+      "source": "la Repubblica",
+      "platform": "rss",
+      "category": "notizie",
+      "title": "John Malkovich: “E poi un giorno in America è andato tutto a puttane”",
+      "url": "https://d.repubblica.it/culture/interviste/2026/10/30/news/john_malkovich_intervista-425683846/",
+      "image": null,
+      "summary": "Da ragazzo studiava Ecologia e faceva l’autista di scuolabus. Soprattutto, era davvero pigro. Poi Dustin Hoffman gli ha insegnato l’etica del lavoro. Cento film dopo, John Malkovich prenota l’Oscar 2027. Qui parla del...",
+      "date": "2026-10-29T23:01:00.0000000Z"
     },
     {
       "id": "open:ff620b3f87f0",
@@ -87,30 +231,6 @@
       "date": "2026-10-29T21:50:57.0000000Z"
     },
     {
-      "id": "repubblica:188e143a27d2",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Il pilota, lo specialista, la sergente e l’infermiere: chi sono le vittime",
-      "url": "https://www.repubblica.it/cronaca/2026/10/29/news/vittime_incidente_elicottero_italiano_bosnia-425685791/",
-      "image": null,
-      "summary": "Quattro militari hanno perso la vita nello schianto di un elicottero italiano in Bosnia durante un volo di addestramento",
-      "date": "2026-10-29T21:47:44.0000000Z"
-    },
-    {
-      "id": "repubblica:41b675ecb528",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "“Sciopero per il diritto dei ragazzi di sognare” la preside dell’Albertelli scrive ai suoi studenti",
-      "url": "https://roma.repubblica.it/cronaca/2026/10/29/news/sciopero_per_il_diritto_dei_ragazzi_di_sognare_la_preside_dell_albertelli_scrive_ai_suoi_studenti-425685681/",
-      "image": null,
-      "summary": "“Non si possono fermare dei ragazzi per una keffiah”: la lettera di Rosa Palmiero, dirigente dello storico liceo romano, ai propri studenti e docenti ha trasformato l'adesione alla protesta del 30 ottobre da semplice ...",
-      "date": "2026-10-29T20:59:13.0000000Z"
-    },
-    {
       "id": "open:de7160c13dbc",
       "sourceId": "open",
       "source": "Open",
@@ -121,18 +241,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/10/Samuele-Lodi.jpg",
       "summary": "Il caso emerso da Il Giornale. Le immagini, ora rimosse, erano state diffuse sia dai canali ufficiali del sindacato sia sui profili social dello stesso dirigente. Nel mirino la scritta “Diluvio di Al-Aqsa”, il nome de...",
       "date": "2026-10-29T20:49:39.0000000Z"
-    },
-    {
-      "id": "repubblica:648d67f0fa9a",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Cobolli in lacrime: si fa male a Vienna durante il derby con Berrettini, rischia Davis e Finals",
-      "url": "https://www.repubblica.it/sport/tennis/2026/10/29/news/cobolli_infortunio_derby_berrettini_rischio_davis_finals-425685631/",
-      "image": null,
-      "summary": "Il romano costretto al ritiro, per lui lungo pianto e infortunio",
-      "date": "2026-10-29T20:38:55.0000000Z"
     },
     {
       "id": "ansa:f072b077041b",
@@ -207,18 +315,6 @@
       "date": "2026-10-29T20:00:33.0000000Z"
     },
     {
-      "id": "repubblica:ca176e7db1b7",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Patrick Stewart, morto il capitano Picard di Star Trek",
-      "url": "https://www.repubblica.it/spettacoli/tv-radio/2026/10/29/news/morto_patrick_stewart_picard_star_trek-425685474/",
-      "image": null,
-      "summary": "L’attore britannico aveva 86 anni, la celebrità grazie alla saga di fantascienza sia al cinema che in tv. Ma la sua carriera era legata anche al teatro, grazie al quale aveva conquistato due premi “Laurence Olivier” e...",
-      "date": "2026-10-29T20:00:24.0000000Z"
-    },
-    {
       "id": "ansa:662d5534d166",
       "sourceId": "ansa",
       "source": "ANSA",
@@ -253,18 +349,6 @@
       "image": "https://static.open.online/wp-content/uploads/2026/10/elicottero-militare-precipitato-bosnia.png",
       "summary": "L’incidente vicino a Brcko. L'ambasciatrice: «Incidente in fase di decollo». Meloni: «Profondo dolore». Mattarella: «Cordoglio per la morte dei militari» L'articolo Elicottero militare italiano precipita in Bosnia: «Q...",
       "date": "2026-10-29T19:43:21.0000000Z"
-    },
-    {
-      "id": "repubblica:21f1d70c81bd",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Zverev supera Sinner, da lunedì sarà numero 1 del ranking mondiale: il tedesco è ai quarti a Vienna",
-      "url": "https://www.repubblica.it/sport/tennis/2026/10/29/news/zverev_supera_sinner_lunedi_numero_1_ranking_mondiale_quarti_vienna-425685404/",
-      "image": null,
-      "summary": "Jannik si ferma (per ora) a 95 settimane in testa alla classifica Atp",
-      "date": "2026-10-29T19:39:31.0000000Z"
     },
     {
       "id": "open:1755ba0106dc",
@@ -313,90 +397,6 @@
       "image": null,
       "summary": "Lascerà dal 7 febbraio. Scudo anti-Le Pen su Francoforte. E si scalda il toto-nomine alla banca centrale",
       "date": "2026-10-29T18:34:53.0000000Z"
-    },
-    {
-      "id": "repubblica:03eadc5cba4b",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Brasile, la resa dei conti nella destra abbandonata da Flávio",
-      "url": "https://www.repubblica.it/esteri/2026/10/29/news/brasile_la_resa_dei_conti_nella_destra_abbandonata_da_flavio_bolsonaro-425685041/",
-      "image": null,
-      "summary": "Il leader del suo partito, che nei giorni scorsi aveva già annunciato l’accettazione del risultato elettorale, oggi è andato a casa di Jair per discutere il futuro e il ruolo del bolsonarismo: la fuga negli Usa dell’a...",
-      "date": "2026-10-29T17:21:33.0000000Z"
-    },
-    {
-      "id": "repubblica:8243a0a4ad60",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Precipita elicottero italiano in Bosnia, 4 morti: 2 militari dell’Esercito e 2 della Croce Rossa",
-      "url": "https://www.repubblica.it/esteri/2026/10/29/news/precipita_elicottero_eufor_bosnia_vittime-425685002/",
-      "image": null,
-      "summary": "A bordo 15 persone, undici i feriti “nessuno in pericolo di vita”. La Difesa: “Sulle cause dell’incidente sono in corso gli accertamenti”. Il cordoglio di Mattarella",
-      "date": "2026-10-29T17:01:04.0000000Z"
-    },
-    {
-      "id": "repubblica:837095274415",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Cortei, la strategia del Viminale: isolare i violenti e contenere con moderazione chi protesta",
-      "url": "https://www.repubblica.it/cronaca/2026/10/29/news/piantedosi_misure_manifestazioni_cortei_sciopero_30_ottobre-425684741/",
-      "image": null,
-      "summary": "Alla vigilia delle manifestazioni di domani in 50 piazze il ministro dell’Interno Piantedosi riunisce questori e prefetti: “Gli allarmi ci sono, ma gestiremo anche l’imprevedibilità”. Confermato l’uso del fermo preven...",
-      "date": "2026-10-29T15:37:29.0000000Z"
-    },
-    {
-      "id": "repubblica:4c2699822db0",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Marco Steiner: Hugo Pratt lasciava sempre una porta aperta",
-      "url": "https://www.repubblica.it/venerdi/2026/10/29/news/marco_steiner_ricorda_hugo_pratt_corto_maltese-425684536/",
-      "image": null,
-      "summary": "Lo storico collaboratore del Maestro racconta come è nato il nuovo albo. Che cerca di dare un nome a una misteriosa “lei”",
-      "date": "2026-10-29T15:30:00.0000000Z"
-    },
-    {
-      "id": "repubblica:a55a8a25076d",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "È ancora Corto Maltese. Igort firma il nuovo graphic novel dell’eterno marinaio",
-      "url": "https://www.repubblica.it/venerdi/2026/10/29/news/corto_maltese_hugo_pratt_intervista_igort-425684520/",
-      "image": null,
-      "summary": "Hugo Pratt voleva che il suo eroe continuasse a esistere. Per questo uno dei maggiori autori di fumetti italiani ha deciso di rischiare, disegnando una nuova avventura, “La casa delle orchidee bianche”: «È come incide...",
-      "date": "2026-10-29T15:30:00.0000000Z"
-    },
-    {
-      "id": "repubblica:804be89ddd8e",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "La crociera dei super ricchi anti-Trump bloccata per il caro carburanti: “Fermi in Cambogia per la guerra in Iran”",
-      "url": "https://www.repubblica.it/esteri/2026/10/29/news/la_crociera_dei_super_ricchi_anti-trump_bloccata_per_il_caro_carburanti_bloccati_in_cambogia_per_la_guerra_in_iran-425684606/",
-      "image": null,
-      "summary": "Il viaggio della Villa Vie Odissey doveva durare tre anni e mezzo e toccare 150 Paesi. L’idea era stata lanciata poco prima della rielezione alla Casa Bianca di Donald, come un mezzo – ristretto a persone facoltose – ...",
-      "date": "2026-10-29T14:51:36.0000000Z"
-    },
-    {
-      "id": "repubblica:7df1d914692d",
-      "sourceId": "repubblica",
-      "source": "la Repubblica",
-      "platform": "rss",
-      "category": "notizie",
-      "title": "Caso Siher, i togati del Csm: “Chiediamo l’apertura di una pratica a tutela della gip di Milano”",
-      "url": "https://milano.repubblica.it/cronaca/2026/10/29/news/caso_siher_togati_csm_chiediamo_apertura_pratica_tutela_gip_milano-425684399/",
-      "image": null,
-      "summary": "Si tratta di una pratica a tutela per Tiziana Landoni, gip presso il Tribunale di Milano, in relazione alle dichiarazioni del Presidente del Consiglio sul provvedimento di non convalida del fermo di Youssef Siher",
-      "date": "2026-10-29T12:55:56.0000000Z"
     },
     {
       "id": "ansa:cee5e4ca9e43",
