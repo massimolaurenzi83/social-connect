@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-10-31T00:41:40.4765962Z",
+  "updated": "2026-10-31T06:20:32.9208407Z",
   "items": [
+    {
+      "id": "insideevs:0572635ffc7b",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le auto elettriche aiutano le benzina: il paradosso britannico",
+      "url": "https://insideevs.it/news/813841/v2g-incentivi-gran-bretagna/",
+      "image": "https://cdn.motor1.com/images/mgl/W8br21/s3/incentivi-britannici-sul-v2g.jpg",
+      "summary": "Il governo valuta premi per le auto capaci di restituire energia alla rete",
+      "date": "2026-10-31T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:68483269caf8",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Skoda con gli zaini al posto dei vani portaoggetti",
+      "url": "https://it.motor1.com/news/809897/skoda-joyster-concept-foto-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/vx7Zkb/s3/skoda-joyster-concept-2006.jpg",
+      "summary": "Presentata nel 2006, la Joyster è un concept che funge da laboratorio di stile e di idee per le Skoda di quegli anni",
+      "date": "2026-10-31T06:00:00.0000000Z"
+    },
     {
       "id": "motor1:7446427f925f",
       "sourceId": "motor1",
@@ -147,18 +171,6 @@
       "date": "2026-10-30T16:00:34.0000000Z"
     },
     {
-      "id": "insideevs:8cdb306703e2",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla Cybercab: nuovi dettagli su batteria, motore e produzione",
-      "url": "https://insideevs.it/news/813802/tesla-cybercab-dettagli-motore-batteria/",
-      "image": "https://cdn.motor1.com/images/mgl/g42qM4/s3/uirk8ostl-0.jpg",
-      "summary": "Gli ingegneri Tesla spiegano su \"Munro Live\" come viene costruito il Robotaxi e come funzionano batteria, gestione termica e motore",
-      "date": "2026-10-30T16:00:00.0000000Z"
-    },
-    {
       "id": "motor1:4c91ec599010",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -168,6 +180,18 @@
       "url": "https://it.motor1.com/news/813739/auto-piccole-segmenti-analisi/",
       "image": "https://cdn.motor1.com/images/mgl/6ZO67N/s3/la-scomparsa-delle-piccole-auto.jpg",
       "summary": "Il segmento A rappresenta solo il 4% del mercato europeo, mentre B e C concentrano quasi sette immatricolazioni su dieci",
+      "date": "2026-10-30T16:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:8cdb306703e2",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla Cybercab: nuovi dettagli su batteria, motore e produzione",
+      "url": "https://insideevs.it/news/813802/tesla-cybercab-dettagli-motore-batteria/",
+      "image": "https://cdn.motor1.com/images/mgl/g42qM4/s3/uirk8ostl-0.jpg",
+      "summary": "Gli ingegneri Tesla spiegano su \"Munro Live\" come viene costruito il Robotaxi e come funzionano batteria, gestione termica e motore",
       "date": "2026-10-30T16:00:00.0000000Z"
     },
     {
@@ -195,18 +219,6 @@
       "date": "2026-10-30T15:00:59.0000000Z"
     },
     {
-      "id": "insideevs:270397c2676e",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto elettriche usate, perché la batteria può far crollare fiducia e prezzi",
-      "url": "https://insideevs.it/news/813902/auto-elettriche-usate-italia-mercato/",
-      "image": "https://cdn.motor1.com/images/mgl/BXYrvR/s3/mercato-dell-usato-e-boom-di-auto-elettriche.jpg",
-      "summary": "In Italia le verifiche carVertical sulle elettriche quasi raddoppiano dal 2024, ma la durata delle batterie frena ancora molte vendite",
-      "date": "2026-10-30T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:d59147eaf85c",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -216,6 +228,18 @@
       "url": "https://it.motor1.com/news/813835/volkswagen-id-buzz-autonomo-piattaforma/",
       "image": "https://cdn.motor1.com/images/mgl/NG6V32/s3/volkswagen-id.buzz-nvidia-a-guida-autonoma.jpg",
       "summary": "Al GTC Berlin il furgone elettrico Volkswagen mostra integrazione Hyperion 10, 14 telecamere e sensori per servizi di mobilità condivisa",
+      "date": "2026-10-30T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:270397c2676e",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto elettriche usate, perché la batteria può far crollare fiducia e prezzi",
+      "url": "https://insideevs.it/news/813902/auto-elettriche-usate-italia-mercato/",
+      "image": "https://cdn.motor1.com/images/mgl/BXYrvR/s3/mercato-dell-usato-e-boom-di-auto-elettriche.jpg",
+      "summary": "In Italia le verifiche carVertical sulle elettriche quasi raddoppiano dal 2024, ma la durata delle batterie frena ancora molte vendite",
       "date": "2026-10-30T15:00:00.0000000Z"
     },
     {
@@ -267,18 +291,6 @@
       "date": "2026-10-30T13:00:31.0000000Z"
     },
     {
-      "id": "motor1:7eadf4093830",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ritrovata la Ferrari Spider di Steve McQueen: vale una fortuna",
-      "url": "https://it.motor1.com/news/813757/ferrari-275-nart-spider-mcqueen/",
-      "image": "https://cdn.motor1.com/images/mgl/qk8G3q/s3/ferrari-275-gts-4-nart-spider-1967-ex-steve-mcqueen.jpg",
-      "summary": "La Ferrari 275 GTS/4 NART Spider modificata su misura da Steve McQueen riaffiora dopo anni e vale quasi 18 milioni di euro",
-      "date": "2026-10-30T13:00:00.0000000Z"
-    },
-    {
       "id": "motor1:7ceb0117ee15",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -288,6 +300,18 @@
       "url": "https://it.motor1.com/news/813882/bmw-m3-tribute-alex-zanardi/",
       "image": "https://cdn.motor1.com/images/mgl/G3bXkV/s3/bmw-m3-tribute-to-alex-zanardi.jpg",
       "summary": "Nata per celebrare il 60mo compleanno del pilota scomparso il 1° maggio 20",
+      "date": "2026-10-30T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:7eadf4093830",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ritrovata la Ferrari Spider di Steve McQueen: vale una fortuna",
+      "url": "https://it.motor1.com/news/813757/ferrari-275-nart-spider-mcqueen/",
+      "image": "https://cdn.motor1.com/images/mgl/qk8G3q/s3/ferrari-275-gts-4-nart-spider-1967-ex-steve-mcqueen.jpg",
+      "summary": "La Ferrari 275 GTS/4 NART Spider modificata su misura da Steve McQueen riaffiora dopo anni e vale quasi 18 milioni di euro",
       "date": "2026-10-30T13:00:00.0000000Z"
     },
     {
@@ -303,18 +327,6 @@
       "date": "2026-10-30T12:00:45.0000000Z"
     },
     {
-      "id": "motor1:ea0dfceda054",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "YouTester 2026, la Fase 2 entra nel vivo: arrivano i reel",
-      "url": "https://it.motor1.com/news/813695/youtester-2026-renault-reel/",
-      "image": "https://cdn.motor1.com/images/mgl/nA8Q66/s3/youtester-2026-fase-2-i-reel.jpg",
-      "summary": "Dal 2 al 6 novembre pubblichiamo i video sulla Renault Clio realizzati dai 9 ragazzi. I 3 selezionati verranno a Roma per l'ultima fase",
-      "date": "2026-10-30T12:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:809addb5d846",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -324,6 +336,18 @@
       "url": "https://insideevs.it/news/809675/leapmotor-t03-motori-batterie/",
       "image": "https://cdn.motor1.com/images/mgl/BXxxZm/s3/leapmotor-t03.jpg",
       "summary": "L'elettrica più venduta in Italia si affida a un unico powertrain da 265 km di autonomia dichiarata",
+      "date": "2026-10-30T12:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:ea0dfceda054",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "YouTester 2026, la Fase 2 entra nel vivo: arrivano i reel",
+      "url": "https://it.motor1.com/news/813695/youtester-2026-renault-reel/",
+      "image": "https://cdn.motor1.com/images/mgl/nA8Q66/s3/youtester-2026-fase-2-i-reel.jpg",
+      "summary": "Dal 2 al 6 novembre pubblichiamo i video sulla Renault Clio realizzati dai 9 ragazzi. I 3 selezionati verranno a Roma per l'ultima fase",
       "date": "2026-10-30T12:00:00.0000000Z"
     },
     {
@@ -337,18 +361,6 @@
       "image": null,
       "summary": "La naked essenziale per eccellenza torna in livrea nera: la Ducati Monster diventa Dark con motore V2, 111 CV e 175 kg di puro divertimento. Tutti i dettagli e l'uscita. The post Ducati svela il Monster Dark: l’essenz...",
       "date": "2026-10-30T11:30:48.0000000Z"
-    },
-    {
-      "id": "motor1:6ad7fc62d43d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Un italiano vince il premio più importante dei libri sui motori",
-      "url": "https://it.motor1.com/news/813877/motoring-book-year-2026-senna-nugnes/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZP6l7/s3/un-italiano-vince-il-premio-piu-importante-dei-libri-sui-motori.jpg",
-      "summary": "\"Senna: The Truth\" di Franco Nugnes: il Royal Automobile Club britannico assegna il Motoring Book of the Year 2026",
-      "date": "2026-10-30T11:22:47.0000000Z"
     },
     {
       "id": "insideevs:2749116b2161",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/8A06x3/s3/tesla-model-y-il-numero-che-racconta-quanto-inquina-davvero.jpg",
       "summary": "Tesla Model Y ottiene cinque stelle nel test ambientale Green NCAP. La BYD Dolphin Surf la supera e il diesel Volkswagen è da record",
       "date": "2026-10-29T16:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:ff12fa9c4b2d",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ora la ricarica ultraveloce collega davvero il Nord Italia ai corridoi europei",
-      "url": "https://insideevs.it/news/813724/eon-drive-infrastructure-smatrics-enbw/",
-      "image": "https://cdn.motor1.com/images/mgl/xqOYAP/s3/ora-la-ricarica-ultraveloce-collega-davvero-il-nord-italia-ai-corridoi-europei.jpg",
-      "summary": "Quattro hub di ricarica rapida cambiano gestore e restano lungo Brennero e corridoio Alpino-Adriatico",
-      "date": "2026-10-29T15:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:0bbdb93c446e",
