@@ -1,30 +1,66 @@
 {
   "category": "motori",
-  "updated": "2026-10-31T06:20:32.9208407Z",
+  "updated": "2026-10-31T12:52:06.5650546Z",
   "items": [
     {
-      "id": "insideevs:0572635ffc7b",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
+      "id": "vaielettrico:9f6fe2bad73c",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
       "platform": "rss",
       "category": "motori",
-      "title": "Le auto elettriche aiutano le benzina: il paradosso britannico",
-      "url": "https://insideevs.it/news/813841/v2g-incentivi-gran-bretagna/",
-      "image": "https://cdn.motor1.com/images/mgl/W8br21/s3/incentivi-britannici-sul-v2g.jpg",
-      "summary": "Il governo valuta premi per le auto capaci di restituire energia alla rete",
-      "date": "2026-10-31T06:00:00.0000000Z"
+      "title": "Ostacoli all’elettrico? Le difficoltà del digitale più i prezzi",
+      "url": "https://www.vaielettrico.it/ostacoli-allelettrico-le-difficolta-del-digitale-piu-i-prezzi/",
+      "image": null,
+      "summary": "«Chi è digitale usa la mobilità condivisa e sostenibile molto più di chi si dichiara sostenibile». Questo il… L'articolo Ostacoli all’elettrico? Le difficoltà del digitale più i prezzi proviene da Vaielettrico .",
+      "date": "2026-10-31T11:17:14.0000000Z"
     },
     {
-      "id": "motor1:68483269caf8",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
+      "id": "hdmotori:1390cc2d8b0a",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
       "platform": "rss",
       "category": "motori",
-      "title": "La Skoda con gli zaini al posto dei vani portaoggetti",
-      "url": "https://it.motor1.com/news/809897/skoda-joyster-concept-foto-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/vx7Zkb/s3/skoda-joyster-concept-2006.jpg",
-      "summary": "Presentata nel 2006, la Joyster è un concept che funge da laboratorio di stile e di idee per le Skoda di quegli anni",
-      "date": "2026-10-31T06:00:00.0000000Z"
+      "title": "Tesla Cybercab: orari estesi fino alle 2 di notte e debutto della Calm Mode",
+      "url": "https://www.hdmotori.it/tesla-cybercab-orari-estesi-2-notte-calm-mode/",
+      "image": null,
+      "summary": "La flotta di veicoli autonomi di Tesla porta l'operatività quotidiana a 20 ore consecutive, introducendo importanti novità software per il relax dei passeggeri, l'accessibilità ed il tracciamento dei viaggi. The post ...",
+      "date": "2026-10-31T11:00:37.0000000Z"
+    },
+    {
+      "id": "hdmotori:0fb3d82e5a25",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen ID. Golf, sviluppo sospeso: la crisi finanziaria mette a rischio il debutto",
+      "url": "https://www.hdmotori.it/volkswagen-id-golf-sviluppo-sospeso-la-crisi-finanziaria-mette-a-rischio-il-debutto/",
+      "image": null,
+      "summary": "Volkswagen sospende lo sviluppo della ID. Golf per contenere i costi. Il progetto della Golf elettrica resta confermato, ma il debutto potrebbe slittare The post Volkswagen ID. Golf, sviluppo sospeso: la crisi finanzi...",
+      "date": "2026-10-31T09:00:19.0000000Z"
+    },
+    {
+      "id": "hdmotori:e45840cd4f81",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Toyota e Waymo, dal 2027 le bZ4X a guida autonoma sulle strade",
+      "url": "https://www.hdmotori.it/toyota-waymo-2027-bz4x-guida-autonoma/",
+      "image": null,
+      "summary": "Toyota e Waymo ampliano la collaborazione sulla guida autonoma: dal 2027 partiranno in Giappone i test delle bZ4X senza conducente, poi l'espansione internazionale The post Toyota e Waymo, dal 2027 le bZ4X a guida aut...",
+      "date": "2026-10-31T08:00:36.0000000Z"
+    },
+    {
+      "id": "vaielettrico:2af884c02641",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il General Manager Electra: “Le tariffe orarie limitano i danni del caro energia”",
+      "url": "https://www.vaielettrico.it/il-general-manager-electra-le-tariffe-orarie-limitano-i-danni-del-caro-energiargia/",
+      "image": null,
+      "summary": "Electra ha introdotto le tariffe varibili in base all’orario di ricarica con l’obiettivo di contenere l’impatto del caro… L'articolo Il General Manager Electra: “Le tariffe orarie limitano i danni del caro energia” pr...",
+      "date": "2026-10-31T07:38:56.0000000Z"
     },
     {
       "id": "motor1:7446427f925f",
@@ -315,16 +351,16 @@
       "date": "2026-10-30T13:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:a3517d13d715",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "motor1:ea0dfceda054",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Polestar 2, stop alla produzione: l’erede debutterà nel 2027",
-      "url": "https://www.hdmotori.it/polestar-2-stop-alla-produzione/",
-      "image": null,
-      "summary": "La prima elettrica del marchio svedese lascia le linee di montaggio in Cina per fare spazio ad un modello di nuova generazione con architettura a 800 Volt. The post Polestar 2, stop alla produzione: l’erede debutterà ...",
-      "date": "2026-10-30T12:00:45.0000000Z"
+      "title": "YouTester 2026, la Fase 2 entra nel vivo: arrivano i reel",
+      "url": "https://it.motor1.com/news/813695/youtester-2026-renault-reel/",
+      "image": "https://cdn.motor1.com/images/mgl/nA8Q66/s3/youtester-2026-fase-2-i-reel.jpg",
+      "summary": "Dal 2 al 6 novembre pubblichiamo i video sulla Renault Clio realizzati dai 9 ragazzi. I 3 selezionati verranno a Roma per l'ultima fase",
+      "date": "2026-10-30T12:00:00.0000000Z"
     },
     {
       "id": "insideevs:809addb5d846",
@@ -339,28 +375,16 @@
       "date": "2026-10-30T12:00:00.0000000Z"
     },
     {
-      "id": "motor1:ea0dfceda054",
+      "id": "motor1:6ad7fc62d43d",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "YouTester 2026, la Fase 2 entra nel vivo: arrivano i reel",
-      "url": "https://it.motor1.com/news/813695/youtester-2026-renault-reel/",
-      "image": "https://cdn.motor1.com/images/mgl/nA8Q66/s3/youtester-2026-fase-2-i-reel.jpg",
-      "summary": "Dal 2 al 6 novembre pubblichiamo i video sulla Renault Clio realizzati dai 9 ragazzi. I 3 selezionati verranno a Roma per l'ultima fase",
-      "date": "2026-10-30T12:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:1d16b0f07df6",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ducati svela il Monster Dark: l’essenza naked è nera, cattiva e da 175 kg",
-      "url": "https://www.hdmotori.it/nuovo-ducati-monster-dark-caratteristiche/",
-      "image": null,
-      "summary": "La naked essenziale per eccellenza torna in livrea nera: la Ducati Monster diventa Dark con motore V2, 111 CV e 175 kg di puro divertimento. Tutti i dettagli e l'uscita. The post Ducati svela il Monster Dark: l’essenz...",
-      "date": "2026-10-30T11:30:48.0000000Z"
+      "title": "Un italiano vince il premio più importante dei libri sui motori",
+      "url": "https://it.motor1.com/news/813877/motoring-book-year-2026-senna-nugnes/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZP6l7/s3/un-italiano-vince-il-premio-piu-importante-dei-libri-sui-motori.jpg",
+      "summary": "\"Senna: The Truth\" di Franco Nugnes: il Royal Automobile Club britannico assegna il Motoring Book of the Year 2026",
+      "date": "2026-10-30T11:22:47.0000000Z"
     },
     {
       "id": "insideevs:2749116b2161",
@@ -385,18 +409,6 @@
       "image": "https://cdn.motor1.com/images/mgl/vxx0mv/s3/fiat-500-elektro-cabrio-2022-im-test.jpg",
       "summary": "Nel 2027 la Fiat 500e passerà a batterie LFP, con prezzo annunciato sotto gli attuali 23.900 euro ma dati tecnici ancora assenti",
       "date": "2026-10-30T11:12:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:9eae38cdf2fa",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Peugeot e Rossignol: dalla partnership nasceranno diverse serie limitate dal 2027",
-      "url": "https://www.hdmotori.it/peugeot-rossignol-partnership/",
-      "image": null,
-      "summary": "Due storiche icone francesi si uniscono nel segno dell'innovazione e del design, annunciando l’arrivo di edizioni limitate dei modelli Peugeot. The post Peugeot e Rossignol: dalla partnership nasceranno diverse serie ...",
-      "date": "2026-10-30T11:00:43.0000000Z"
     },
     {
       "id": "insideevs:e34dcd6d63ca",
@@ -495,18 +507,6 @@
       "date": "2026-10-29T17:56:49.0000000Z"
     },
     {
-      "id": "vaielettrico:ca067f0cbb85",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "E.ON compra Smatriscs Italia, con 64 ricariche",
-      "url": "https://www.vaielettrico.it/e-on-compra-smatriscs-italia-con-64-ricariche/",
-      "image": null,
-      "summary": "E.ON compra Smatriscs Italia, con 64 punti di ricarica in 4 stazioni ad alta potenza situate nel Nord-Est… L'articolo E.ON compra Smatriscs Italia, con 64 ricariche proviene da Vaielettrico .",
-      "date": "2026-10-29T16:27:24.0000000Z"
-    },
-    {
       "id": "insideevs:ccb0c5084efc",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -519,16 +519,16 @@
       "date": "2026-10-29T16:00:00.0000000Z"
     },
     {
-      "id": "vaielettrico:0bbdb93c446e",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
+      "id": "insideevs:ff12fa9c4b2d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "NIU e AICMOTO, un accordo di due anni per rafforzare la rete vendita elettrica",
-      "url": "https://www.vaielettrico.it/niu-e-aicmoto-un-accordo-di-due-anni-per-rafforzare-la-rete-vendita-elettrica/",
-      "image": null,
-      "summary": "NIU Italia e AICMOTO annunciano una partnership biennale dedicata ai Flagship Store italiani, con un programma di confronto… L'articolo NIU e AICMOTO, un accordo di due anni per rafforzare la rete vendita elettrica pr...",
-      "date": "2026-10-29T14:59:44.0000000Z"
+      "title": "Ora la ricarica ultraveloce collega davvero il Nord Italia ai corridoi europei",
+      "url": "https://insideevs.it/news/813724/eon-drive-infrastructure-smatrics-enbw/",
+      "image": "https://cdn.motor1.com/images/mgl/xqOYAP/s3/ora-la-ricarica-ultraveloce-collega-davvero-il-nord-italia-ai-corridoi-europei.jpg",
+      "summary": "Quattro hub di ricarica rapida cambiano gestore e restano lungo Brennero e corridoio Alpino-Adriatico",
+      "date": "2026-10-29T15:00:00.0000000Z"
     }
   ]
 }

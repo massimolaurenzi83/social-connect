@@ -1,42 +1,30 @@
 {
   "category": "energia",
-  "updated": "2026-10-31T06:20:32.8752156Z",
+  "updated": "2026-10-31T12:52:06.5453585Z",
   "items": [
     {
-      "id": "qualenergia:021eeec2992a",
+      "id": "qualenergia:c806b8589e7b",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "Fotovoltaico a terra, quasi dimezzati gli ettari necessari per ogni MW",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/fotovoltaico-terra-quasi-dimezzati-ettari-necessari-per-mw/",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
       "image": null,
-      "summary": "Gli impianti fotovoltaici a terra entrati in esercizio nel 2025 occupano una superficie lorda mediana di 0,99 ettari per MW, contro 1,75 ettari per quelli del 2011. Il suolo utilizzato per unità di potenza si è dunque...",
-      "date": "2026-10-30T15:00:13.0000000Z"
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-10-31T05:30:00.0000000Z"
     },
     {
-      "id": "qualenergia:113706ef4ebc",
+      "id": "qualenergia:28c24aba79dc",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "Eolico offshore galleggiante, ok ambientale al primo parco italiano",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/eolico-offshore-galleggiante-ok-definitivo-primo-parco-italiano/",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
       "image": null,
-      "summary": "In Italia la possibile realizzazione di un primo grande impianto eolico offshore inizia a diventare più concreta. Il ministero dell’Ambiente e della Sicurezza energetica ha pubblicato il 29 ottobre il Provvedimento un...",
-      "date": "2026-10-30T15:00:09.0000000Z"
-    },
-    {
-      "id": "qualenergia:d25acb435707",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Fotovoltaico, in Italia metà dei progetti non va a buon fine",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/fotovoltaico-italia-quasi-meta-progetti-buon-fine/",
-      "image": null,
-      "summary": "L’Italia ha il tasso di successo dei progetti fotovoltaici più basso tra i quattro mercati esaminati: il 56% secondo le risposte raccolte, contro il 60% della Germania, il 64% degli Usa e il 67% della Spagna. Sono alc...",
-      "date": "2026-10-30T14:30:41.0000000Z"
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-10-31T05:00:00.0000000Z"
     },
     {
       "id": "qualenergia:8ec2d4da27a4",
@@ -48,7 +36,43 @@
       "url": "https://www.qualenergia.it/articoli/comunita-energetiche-cosa-significa-partecipare-quali-vantaggi/",
       "image": null,
       "summary": "Anche chi non può installare pannelli fotovoltaici sul proprio tetto può partecipare alla condivisione di energia prodotta da fonti rinnovabili. È una delle opportunità offerte dalle comunità energetiche rinnovabili (...",
-      "date": "2026-10-30T13:45:45.0000000Z"
+      "date": "2026-10-30T15:45:45.0000000Z"
+    },
+    {
+      "id": "qualenergia:021eeec2992a",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Fotovoltaico a terra, quasi dimezzati gli ettari necessari per ogni MW",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/fotovoltaico-terra-quasi-dimezzati-ettari-necessari-per-mw/",
+      "image": null,
+      "summary": "Gli impianti fotovoltaici a terra entrati in esercizio nel 2025 occupano una superficie lorda mediana di 0,99 ettari per MW, contro 1,75 ettari per quelli del 2011. Il suolo utilizzato per unità di potenza si è dunque...",
+      "date": "2026-10-30T14:45:13.0000000Z"
+    },
+    {
+      "id": "qualenergia:113706ef4ebc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Eolico offshore galleggiante, ok ambientale al primo parco italiano",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/eolico-offshore-galleggiante-ok-definitivo-primo-parco-italiano/",
+      "image": null,
+      "summary": "In Italia la possibile realizzazione di un primo grande impianto eolico offshore inizia a diventare più concreta. Il ministero dell’Ambiente e della Sicurezza energetica ha pubblicato il 29 ottobre il Provvedimento un...",
+      "date": "2026-10-30T14:30:09.0000000Z"
+    },
+    {
+      "id": "qualenergia:d25acb435707",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Fotovoltaico, in Italia metà dei progetti non va a buon fine",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/fotovoltaico-italia-quasi-meta-progetti-buon-fine/",
+      "image": null,
+      "summary": "L’Italia ha il tasso di successo dei progetti fotovoltaici più basso tra i quattro mercati esaminati: il 56% secondo le risposte raccolte, contro il 60% della Germania, il 64% degli Usa e il 67% della Spagna. Sono alc...",
+      "date": "2026-10-30T14:00:41.0000000Z"
     },
     {
       "id": "qualenergia:4c093345ca69",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Se si trattasse di un appuntamento sportivo la sconfitta sarebbe schiacciante, 16 a 5, ma in realtà si tratta del confronto tra progetti di impianti rinnovabili bocciati e promossi nell’ultimo Consiglio dei ministri. ...",
       "date": "2026-10-30T08:30:25.0000000Z"
-    },
-    {
-      "id": "qualenergia:7a9b653ac2ba",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Fotovoltaico, batterie, idrogeno e data center: in Toscana un polo energetico integrato",
-      "url": "https://www.qualenergia.it/articoli/fotovoltaico-batterie-idrogeno-data-center-toscana-polo-energetico-integrato/",
-      "image": null,
-      "summary": "Un impianto fotovoltaico da 100,5 MWp, un sistema di accumulo da 140 MWh, elettrolizzatori per la produzione di idrogeno verde e un data center alimentato da energia rinnovabile. Il tutto all’interno di un progetto di...",
-      "date": "2026-10-30T08:00:13.0000000Z"
-    },
-    {
-      "id": "qualenergia:9fcb64e91d11",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Bando BEI Lazio: contributi in conto interessi per investimenti green delle PMI",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/bando-bei-lazio-contributi-conto-interessi-investimenti-green-pmi/",
-      "image": null,
-      "summary": "Aprirà a novembre il bando della Regione Lazio che sostiene le piccole e medie imprese che realizzano investimenti, anche in ambito energetico, attraverso un contributo in conto interessi sui finanziamenti già erogati...",
-      "date": "2026-10-30T07:55:08.0000000Z"
     }
   ]
 }
