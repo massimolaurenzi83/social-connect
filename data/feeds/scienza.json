@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-10-31T12:52:06.6080145Z",
+  "updated": "2026-10-31T17:26:51.6938996Z",
   "items": [
+    {
+      "id": "focus:45bdcd260c4c",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "È ufficiale: anche i ragni hanno la fase REM",
+      "url": "https://www.focus.it/ambiente/animali/e-ufficiale-anche-i-ragni-hanno-la-fase-rem",
+      "image": "https://www.focus.it/images/2026/10/30/portia-fimbriata-orig.png?imbypass=true",
+      "summary": "Quando dormono, i ragni alternano momenti di sonno profondo ad altri di sonno REM, in maniera molto simile agli umani.",
+      "date": "2026-10-31T12:00:00.0000000Z"
+    },
     {
       "id": "focus:3f0e70af5211",
       "sourceId": "focus",
@@ -232,18 +244,6 @@
       "image": "https://www.focus.it/images/2026/10/27/ia-che-pensa-in-italiano_w630.jpg?imbypass=true",
       "summary": "La versione Beta di Emma-6 ancora non soddisfa e ricade negli stessi errori della precedente, ma abbiamo davvero bisogno di'IA che pensa in Italiano.",
       "date": "2026-10-29T10:00:00.0000000Z"
-    },
-    {
-      "id": "focus:027c181a36be",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Tumore del polmone: una buona notizia",
-      "url": "https://www.focus.it/scienza/salute/tumore-ai-polmoni-buone-notizie-anche-per-la-forma-piu-temuta",
-      "image": "https://www.focus.it/images/2026/10/26/tumore-ai-polmoni_w630.jpg?imbypass=true",
-      "summary": "Una terapia combinata migliora la sopravvivenza dei pazienti con carcinoma polmonare a piccole cellule, un tumore ai polmoni a rapida progressione.",
-      "date": "2026-10-29T08:00:00.0000000Z"
     },
     {
       "id": "media-inaf:2dbcbd2dc487",

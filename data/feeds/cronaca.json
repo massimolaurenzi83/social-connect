@@ -1,18 +1,90 @@
 {
   "category": "cronaca",
-  "updated": "2026-10-31T12:52:06.6136556Z",
+  "updated": "2026-10-31T17:26:51.6475920Z",
   "items": [
     {
-      "id": "ansa-cronaca:626e9d5f0f51",
+      "id": "ansa-cronaca:3cacb4acb5cc",
       "sourceId": "ansa-cronaca",
       "source": "ANSA Cronaca",
       "platform": "rss",
       "category": "cronaca",
-      "title": "San Giuliano di Puglia, commemorate le vittime del crollo della scuola",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/san-giuliano-di-puglia-consiglio-molise-commemora-vittime-crollo-scuola_104540e2-a5c7-4c86-bc39-0bae05fc63a8.html",
+      "title": "Muore dopo essere stato accoltellato al bar, un fermo nel Comasco",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/muore-dopo-essere-stato-accoltellato-al-bar-un-fermo-nel-comasco_cee14eb1-c9ad-4429-acea-6e5a4a8aada7.html",
       "image": null,
-      "summary": "Nel terremoto del 31 ottobre 2002 morirono 27 bambini e la loro maestra. Il presidente del Molise: \"Necessario investire in prevenzione\"",
-      "date": "2026-10-31T12:36:06.0000000Z"
+      "summary": "(V. 'Accoltellato in un bar a Cantù, è... delle 16:20)",
+      "date": "2026-10-31T16:54:15.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:6487331c42dc",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Morta Nonna Silvi, la cuoca influencer da 7 milioni di follower",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/morta-nonna-silvi-influencer-della-cucina-da-4-milioni-di-follower_8d85fe1d-8a2d-4c50-8469-968ba88c1689.html",
+      "image": null,
+      "summary": "Aveva 85 anni, seguitissima sui social per le sue ricette toscane. Cucinò per Al Thani",
+      "date": "2026-10-31T16:41:23.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:85aac78074a1",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Cade dal tetto di una scuola, operaio muore dopo due giorni",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/morto-dopo-due-giorni-operaio-edile-di-itri-caduto-dal-tetto_d18cc73c-1359-4b7b-ba99-2257fefcc58d.html",
+      "image": null,
+      "summary": "La Procura di Frosinone dispone l'autopsia. Era impegnato nella manutenzione",
+      "date": "2026-10-31T16:30:10.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:4a1ba2356e3f",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Al Colosseo cambiano le regole, dopo morte dell'operaio stop ai subappalti",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/al-colosseo-cambiano-le-regole-dopo-morte-delloperaio-stop-ai-subappalti_fe2c4cef-f15d-4833-af39-ab9c45fc7e33.html",
+      "image": null,
+      "summary": "Cgil, 'e basta lavori edilizia acrobatica, accordo con ministero. Intervento riparte il 3'",
+      "date": "2026-10-31T15:59:18.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:4a4a19e83faf",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Cortei: 60 perquisizioni in 23 città",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/cortei-60-perquisizioni-in-23-citta_9ec22222-9581-4dff-aae2-658def0c28a7.html",
+      "image": null,
+      "summary": "'Nei confronti di chi sui social ha incitato a violenze di piazza'",
+      "date": "2026-10-31T15:33:14.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:eed461582fae",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Morto dopo due giorni operaio edile caduto dal tetto di una scuola",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/morto-dopo-due-giorni-operaio-edile-caduto-dal-tetto-di-una_3176e2c9-e8d1-4071-97a5-193c02d1ecea.html",
+      "image": null,
+      "summary": "Era impegnato nei lavori di manutenzione a Frosinone",
+      "date": "2026-10-31T15:27:55.0000000Z"
+    },
+    {
+      "id": "ansa-cronaca:19bc68509704",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Cortei, a Roma sette denunciati e 369 identificati",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/cortei-a-roma-sette-denunciati-e-369-identificati_31d5f1be-206e-48ab-8efc-fd2ac813c33c.html",
+      "image": null,
+      "summary": "Contestato anche il blocco stradale. Si valuta foglio di via per i non residenti",
+      "date": "2026-10-31T15:15:23.0000000Z"
     },
     {
       "id": "ansa-cronaca:6f617862d0a8",
@@ -24,31 +96,7 @@
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/sentiamo-il-caro-vita-sulla-pelle-le-voci-dallaccampamento-ai-fori-imperiali_3ade6a27-fc84-4f59-9f4e-af2ce5093ade.html",
       "image": null,
       "summary": "Una quarantina di tende nel cuore di Roma. Domenica l'assemblea nazionale: \"Non ci fermiamo\"",
-      "date": "2026-10-31T12:15:03.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:4bf1d2c5916f",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Nel Foggiano esplosione distrugge la cassa per pagare il ticket, danni ingenti",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/nel-foggiano-esplosione-distrugge-la-cassa-per-pagare-il-ticket-danni-ingenti_c74ca887-cb4e-4fb4-bba2-e0ecf8179267.html",
-      "image": null,
-      "summary": "A Torremaggiore nei locali del Presidio territoriale di assistenza. Indagano i Carabinieri",
-      "date": "2026-10-31T12:12:47.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:28fe25eb1994",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Cortei, 60 perquisizioni in 23 città",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/cortei-60-perquisizioni-in-23-citta-_449404aa-1c37-4c96-aa63-5089df5221ae.html",
-      "image": null,
-      "summary": "'Nei confronti di chi sui social ha incitato alle violenze di piazza'",
-      "date": "2026-10-31T12:10:14.0000000Z"
+      "date": "2026-10-31T15:03:31.0000000Z"
     },
     {
       "id": "ansa-cronaca:1f583b9f41b0",
@@ -61,30 +109,6 @@
       "image": null,
       "summary": "Il bilancio della questura del capoluogo",
       "date": "2026-10-31T11:30:41.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:3a1b4f5079e4",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Giudice, i 'Guerrieri' No Vax sono anacronistici ma non pericolosi",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/giudice-i-guerrieri-no-vax-sono-anacronistici-ma-non-pericolosi_f2be7743-a860-4b1d-94b7-f12f682dde1e.html",
-      "image": null,
-      "summary": "A Torino, sette proscioglimenti dall'accusa di associazione per delinquere",
-      "date": "2026-10-31T11:10:47.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:6487331c42dc",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Morta 'Nonna Silvi' influencer della cucina da 4 milioni di follower",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/morta-nonna-silvi-influencer-della-cucina-da-4-milioni-di-follower_8d85fe1d-8a2d-4c50-8469-968ba88c1689.html",
-      "image": null,
-      "summary": "Aveva 85 anni cuoca seguitissima sui social cucinando ricette toscane",
-      "date": "2026-10-31T10:56:43.0000000Z"
     },
     {
       "id": "ansa-cronaca:e286a756ea1c",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Altri 10 denunciati per interruzione dei binari del tram il 24 ottobre",
       "date": "2026-10-31T10:31:27.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:76fb59d1fbb3",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Al Colosseo cambiano le regole, dopo la morte dell'operaio stop ai subappalti",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/al-colosseo-cambiano-le-regole-dopo-la-morte-delloperaio-stop-ai-subappalti_889df092-47c3-4165-adb5-50b0556a4df6.html",
-      "image": null,
-      "summary": "Cgil: \"Basta lavori di edilizia acrobatica, accordo con il ministero. L'intervento riparte il 3\"",
-      "date": "2026-10-31T10:28:27.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:526846baad7e",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "A nove anni riceve foto esplicite, indagato un uomo vicino alla famiglia",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/a-nove-anni-riceve-foto-esplicite-indagato-un-uomo-vicino-alla-famiglia_ddcfb131-263f-440f-a68a-386bedffe520.html",
-      "image": null,
-      "summary": "La chat sul telefono del bambino scoperta dal padre",
-      "date": "2026-10-31T09:33:41.0000000Z"
     }
   ]
 }
