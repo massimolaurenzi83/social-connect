@@ -1,7 +1,19 @@
 {
   "category": "cripto",
-  "updated": "2026-10-31T23:45:20.9371920Z",
+  "updated": "2026-11-01T02:40:26.7259548Z",
   "items": [
+    {
+      "id": "cryptonomist:820502477a33",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Nel furto crypto a Binance, l’exchange ha già sostituito il 90% degli asset",
+      "url": "https://cryptonomist.ch/2026/11/01/furto-crypto-binance/",
+      "image": null,
+      "summary": "Il 31 ottobre Binance ha dichiarato di aver sostituito il 90% degli asset sottratti nel furto di crypto da 6,3 miliardi di dollari, comprando nuovi token con fondi aziendali. L’FBI attribuisce l’attacco a TraderTraito...",
+      "date": "2026-10-31T23:49:30.0000000Z"
+    },
     {
       "id": "cryptonomist:da322a27932f",
       "sourceId": "cryptonomist",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Il furto di credenziali è stato segnalato per la prima volta da SocketSecurity il 24 maggio. La campagna prende di mira gli sviluppatori. Furto di credenziali su Solana: quante versioni malevole circolano? Secondo Slo...",
       "date": "2026-10-31T13:17:23.0000000Z"
-    },
-    {
-      "id": "cryptonomist:ef21018e23e3",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Ricavi del tesoro di Lido DAO: 605.320 dollari in un giorno, 6,4 volte la mediana",
-      "url": "https://cryptonomist.ch/2026/10/31/ricavi-tesoro-lido-dao/",
-      "image": null,
-      "summary": "I ricavi del tesoro di Lido DAO hanno toccato 605.320 dollari il 30 ottobre, circa 6,4 volte la mediana dei sette giorni precedenti. Lo indicano i dati di DefiLlama e i registri onchain. Punti chiave Il 30 ottobre il ...",
-      "date": "2026-10-31T13:15:45.0000000Z"
     }
   ]
 }
