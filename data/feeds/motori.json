@@ -1,7 +1,79 @@
 {
   "category": "motori",
-  "updated": "2026-11-01T02:40:26.7119666Z",
+  "updated": "2026-11-01T09:45:46.2132306Z",
   "items": [
+    {
+      "id": "vaielettrico:8d0dc1b326fe",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Applausi a Trump che combatte l’auto elettrica",
+      "url": "https://www.vaielettrico.it/applausi-a-trump-che-combatte-lauto-elettrica/",
+      "image": null,
+      "summary": "Applausi a Trump che combatte l’auto elettrica: Paolo ci gira un articolo comparso su un mensile specializzato, a… L'articolo Applausi a Trump che combatte l’auto elettrica proviene da Vaielettrico .",
+      "date": "2026-11-01T09:17:49.0000000Z"
+    },
+    {
+      "id": "hdmotori:1c7e363e3e10",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Sidewinder Mojave: il sidecar che trasforma le moto in camper",
+      "url": "https://www.hdmotori.it/sidewinder-mojave-sidecar-moto-camper/",
+      "image": null,
+      "summary": "Sviluppato dall'azienda americana Sidewinder, il sidecar offre due posti letto, cucina posteriore, doccia esterna e pannelli solari per i lunghi viaggi. The post Sidewinder Mojave: il sidecar che trasforma le moto in ...",
+      "date": "2026-11-01T09:00:31.0000000Z"
+    },
+    {
+      "id": "hdmotori:28540eebe3d7",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BMW celebra Alex Zanardi: la speciale M3 Tribute per il suo 60° compleanno",
+      "url": "https://www.hdmotori.it/bmw-alex-zanardi-m3-tribute/",
+      "image": null,
+      "summary": "Una vettura unica creata con BorromeoDeSilva rende omaggio all'eredità umana e sportiva del campione, brand ambassador del marchio bavarese. The post BMW celebra Alex Zanardi: la speciale M3 Tribute per il suo 60° com...",
+      "date": "2026-11-01T08:30:13.0000000Z"
+    },
+    {
+      "id": "hdmotori:0e15af70cc10",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Rolls-Royce Silver Ghost compie 120 anni",
+      "url": "https://www.hdmotori.it/rolls-royce-silver-ghost-120-anni/",
+      "image": null,
+      "summary": "Rolls-Royce celebra il 120° anniversario del modello 40/50 H.P. che ha conquistato il mondo per affidabilità, raffinatezza ingegneristica e prestigio senza tempo. The post La Rolls-Royce Silver Ghost compie 120 anni a...",
+      "date": "2026-11-01T08:00:58.0000000Z"
+    },
+    {
+      "id": "insideevs:70dbf08b97f8",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "E-bike senza catena, cosa succede quando finisce la batteria?",
+      "url": "https://insideevs.it/news/813903/rivian-tm-b-prova-batteria/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z1zw1/s3/also-tm-b-launch-edition.jpg",
+      "summary": "Un test di scarica totale mostra cosa resta da fare quando la batteria si esaurisce del tutto",
+      "date": "2026-11-01T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:9d79cc559ece",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La BMW che aveva il cuore della M1 e anima da GT",
+      "url": "https://it.motor1.com/news/813916/bmw-m635-csi-e24-storia-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/3WBAAj/s3/bmw-m635-csi-e24-im-fahrbericht.jpg",
+      "summary": "La M635 CSi del 1983 aveva 286 CV, un sei cilindri derivato dalla M1 e una velocità massima di 255 km/h",
+      "date": "2026-11-01T06:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:b4c91d8822bc",
       "sourceId": "vaielettrico",
@@ -123,18 +195,6 @@
       "date": "2026-10-31T07:38:56.0000000Z"
     },
     {
-      "id": "motor1:68483269caf8",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Skoda con gli zaini al posto dei vani portaoggetti",
-      "url": "https://it.motor1.com/news/809897/skoda-joyster-concept-foto-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/vx7Zkb/s3/skoda-joyster-concept-2006.jpg",
-      "summary": "Presentata nel 2006, la Joyster è un concept che funge da laboratorio di stile e di idee per le Skoda di quegli anni",
-      "date": "2026-10-31T06:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:0572635ffc7b",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -144,6 +204,18 @@
       "url": "https://insideevs.it/news/813841/v2g-incentivi-gran-bretagna/",
       "image": "https://cdn.motor1.com/images/mgl/W8br21/s3/incentivi-britannici-sul-v2g.jpg",
       "summary": "Il governo valuta premi per le auto capaci di restituire energia alla rete",
+      "date": "2026-10-31T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:68483269caf8",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Skoda con gli zaini al posto dei vani portaoggetti",
+      "url": "https://it.motor1.com/news/809897/skoda-joyster-concept-foto-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/vx7Zkb/s3/skoda-joyster-concept-2006.jpg",
+      "summary": "Presentata nel 2006, la Joyster è un concept che funge da laboratorio di stile e di idee per le Skoda di quegli anni",
       "date": "2026-10-31T06:00:00.0000000Z"
     },
     {
@@ -243,18 +315,6 @@
       "date": "2026-10-30T16:52:45.0000000Z"
     },
     {
-      "id": "hdmotori:ee27310af05e",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Fiat Topolino, ora può circolare sulle strade USA e arriva l’esemplare Sanlorenzo",
-      "url": "https://www.hdmotori.it/fiat-topolino-usa-sanlorenzo/",
-      "image": null,
-      "summary": "Fiat Topolino 2027 ottiene l'omologazione stradale negli USA come Low-Speed Vehicle. Arrivano nuovi colori, la Open Air e un esemplare speciale Sanlorenzo The post Fiat Topolino, ora può circolare sulle strade USA e a...",
-      "date": "2026-10-30T16:30:46.0000000Z"
-    },
-    {
       "id": "motor1:da2717569750",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -277,18 +337,6 @@
       "image": null,
       "summary": "Più richiesta di usato elettrico, ma resta il nodo delle condizioni della batteria. E quindi del chilometraggio reale… L'articolo Più richiesta di usato elettrico: “Ma il nodo batterie…” proviene da Vaielettrico .",
       "date": "2026-10-30T16:14:39.0000000Z"
-    },
-    {
-      "id": "hdmotori:b43ea0edb524",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Stellantis chiude la fabbrica di Douvrin: addio alla storica Française de Mécanique",
-      "url": "https://www.hdmotori.it/stellantis-chiude-fabbrica-douvrin-gigafactory/",
-      "image": null,
-      "summary": "Addio alla storica fabbrica di motori di Douvrin: Stellantis completa lo smantellamento. Al suo posto la nuova Gigafactory ACC sostenuta da fondi pubblici. The post Stellantis chiude la fabbrica di Douvrin: addio alla...",
-      "date": "2026-10-30T16:00:34.0000000Z"
     },
     {
       "id": "motor1:4c91ec599010",
@@ -325,18 +373,6 @@
       "image": null,
       "summary": "La Volkswagen perde soldi a causa delle auto elettriche, ma voi ignorate volutamente la notizia. È l’accusa che… L'articolo La Volkswagen perde soldi per l’elettrico, ma voi… proviene da Vaielettrico .",
       "date": "2026-10-30T15:15:21.0000000Z"
-    },
-    {
-      "id": "hdmotori:bda932c7cf24",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Car of the Year 2027, ecco le 7 finaliste (e non c’è neanche una cinese)",
-      "url": "https://www.hdmotori.it/car-of-the-year-2027-finaliste/",
-      "image": null,
-      "summary": "Il comitato di Car of the Year svela le sette finaliste per il 2027. Un'elezione tutta elettrica che fa discutere, tra grandi escluse e il solito no alle cinesi The post Car of the Year 2027, ecco le 7 finaliste (e no...",
-      "date": "2026-10-30T15:00:59.0000000Z"
     },
     {
       "id": "motor1:d59147eaf85c",
@@ -385,18 +421,6 @@
       "image": "https://cdn.motor1.com/images/mgl/ko8Q2x/s3/rivian-il-furgone-elettrico-ora-fa-200-miglia-vere-e-arriva-lawd.jpg",
       "summary": "Rivian EDV 700 guadagna un pacco LFP da 129 kWh e la trazione integrale, con un balzo di autonomia utile alle rotte rurali",
       "date": "2026-10-30T14:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:7eadf4093830",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ritrovata la Ferrari Spider di Steve McQueen: vale una fortuna",
-      "url": "https://it.motor1.com/news/813757/ferrari-275-nart-spider-mcqueen/",
-      "image": "https://cdn.motor1.com/images/mgl/qk8G3q/s3/ferrari-275-gts-4-nart-spider-1967-ex-steve-mcqueen.jpg",
-      "summary": "La Ferrari 275 GTS/4 NART Spider modificata su misura da Steve McQueen riaffiora dopo anni e vale quasi 18 milioni di euro",
-      "date": "2026-10-30T13:00:00.0000000Z"
     },
     {
       "id": "motor1:7ceb0117ee15",
@@ -495,18 +519,6 @@
       "date": "2026-10-30T08:00:00.0000000Z"
     },
     {
-      "id": "vaielettrico:80f4bb52b654",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L’auto italiana può vincere la sfida elettrica se gioca d’anticipo",
-      "url": "https://www.vaielettrico.it/lauto-italiana-puo-vincere-la-sfida-elettrica-se-gioca-danticipo/",
-      "image": null,
-      "summary": "Secondo il managing director di Jameel Motors Italia (Geely e Zeekr) l’industria dell’auto italiana ha le carte in… L'articolo L’auto italiana può vincere la sfida elettrica se gioca d’anticipo proviene da Vaielettrico .",
-      "date": "2026-10-30T07:10:55.0000000Z"
-    },
-    {
       "id": "insideevs:04990937b5eb",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/BX1WgR/s3/quanti-posti-di-lavoro-si-possono-perdere-per-colpa-della-co2.jpg",
       "summary": "Rinviare le regole sulle emissioni potrebbe ridurre l'occupazione del 6% entro il 2035",
       "date": "2026-10-30T06:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:ccb0c5084efc",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto elettriche VS diesel e ibride: chi inquina meno?",
-      "url": "https://insideevs.it/news/813725/tesla-model-y-sustainability-rating/",
-      "image": "https://cdn.motor1.com/images/mgl/8A06x3/s3/tesla-model-y-il-numero-che-racconta-quanto-inquina-davvero.jpg",
-      "summary": "Tesla Model Y ottiene cinque stelle nel test ambientale Green NCAP. La BYD Dolphin Surf la supera e il diesel Volkswagen è da record",
-      "date": "2026-10-29T16:00:00.0000000Z"
     }
   ]
 }

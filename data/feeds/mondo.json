@@ -1,7 +1,19 @@
 {
   "category": "mondo",
-  "updated": "2026-11-01T02:40:26.7277975Z",
+  "updated": "2026-11-01T09:45:46.1904413Z",
   "items": [
+    {
+      "id": "ansa-mondo:d1d31639e353",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Repubblica Centrafricana, esercito sventa tentativo di presa del potere dei miliziani",
+      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/01/repubblica-centrafricana-esercito-sventa-tentativo-di-presa-del-potere-dei-miliziani_7fa3dcd8-47bc-42b0-ba2e-cd891cc69c0a.html",
+      "image": null,
+      "summary": "Il presidente Touadéra: 'Garantito lo svolgimento delle elezioni'",
+      "date": "2026-11-01T04:06:20.0000000Z"
+    },
     {
       "id": "ansa-mondo:1bd848acea79",
       "sourceId": "ansa-mondo",
@@ -147,18 +159,6 @@
       "date": "2026-10-31T16:54:55.0000000Z"
     },
     {
-      "id": "ansa-mondo:30463922dde3",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Ambasciata Usa, registrata una minaccia credibile al museo Tsaritsyno di Mosca",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/ambasciata-usa-registrata-una-minaccia-credibile-al-museo-tsaritsyno-di-mosca_0b3c418a-bd23-45bb-8420-3ed702fb65ef.html",
-      "image": null,
-      "summary": "'Washington si sta coordinando con le autorità russe per una risposta'",
-      "date": "2026-10-31T15:39:29.0000000Z"
-    },
-    {
       "id": "internazionale:a02232ecff55",
       "sourceId": "internazionale",
       "source": "Internazionale",
@@ -253,42 +253,6 @@
       "image": "https://media.internazionale.it/images/2026/10/27/362312-hd.jpg",
       "summary": "Il numero di operazioni necessarie ad addestrare i modelli d’ia generativa è quasi impossibile da immaginare Leggi",
       "date": "2026-10-30T11:30:25.0000000Z"
-    },
-    {
-      "id": "internazionale:3ef5cad2986f",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "I portuali di tutto il mondo scioperano contro il genocidio a Gaza",
-      "url": "https://www.internazionale.it/notizie/joan-mas-autonell/2026/10/30/sciopero-portuali-armi-israele-gaza",
-      "image": "https://media.internazionale.it/images/2026/10/29/362540-hd.jpg",
-      "summary": "I lavoratori di cento porti in 22 paesi vogliono bloccare il traffico marittimo con un’iniziativa contro lo sterminio in Palestina e la militarizzazione dei porti Leggi",
-      "date": "2026-10-30T04:55:02.0000000Z"
-    },
-    {
-      "id": "internazionale:b9f34a63a724",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "La candidatura contestata di Lana Nusseibeh alle Nazioni Unite",
-      "url": "https://www.internazionale.it/notizie/francesca-gnetti/2026/10/30/lana-nusseibeh-nazioni-unite",
-      "image": "https://media.internazionale.it/images/2026/10/28/362346-hd.jpg",
-      "summary": "Emiratina di origini palestinesi, è in lista per guidare l’Onu. Ma è accusata di avere favorito le politiche criminali di Abu Dhabi, soprattutto in Sudan Leggi",
-      "date": "2026-10-30T04:55:02.0000000Z"
-    },
-    {
-      "id": "internazionale:d3f647f1ad80",
-      "sourceId": "internazionale",
-      "source": "Internazionale",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Chi decide il futuro del Medio Oriente",
-      "url": "https://www.internazionale.it/notizie/anthony-samrani/2026/10/30/guerra-medio-oriente-stallo",
-      "image": "https://media.internazionale.it/images/2026/10/28/362352-hd.jpg",
-      "summary": "La guerra scatenata da Stati Uniti e Israele contro l’Iran ha creato uno stallo senza vie d’uscita. E ha dimostrato che la questione palestinese e quella iraniana sono legate Leggi",
-      "date": "2026-10-30T04:24:01.0000000Z"
     }
   ]
 }

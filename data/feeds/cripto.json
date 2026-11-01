@@ -1,7 +1,19 @@
 {
   "category": "cripto",
-  "updated": "2026-11-01T02:40:26.7259548Z",
+  "updated": "2026-11-01T09:45:46.1706432Z",
   "items": [
+    {
+      "id": "cryptonomist:d99c0095837d",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Curve porta StableSwap nativo su Stellar, fuori dalle reti compatibili con Ethereum",
+      "url": "https://cryptonomist.ch/2026/11/01/stableswap-nativo-su-stellar/",
+      "image": null,
+      "summary": "Curve Finance ha lanciato il 29 ottobre 2026 StableSwap nativo su Stellar. È la prima volta che il suo sistema per scambiare stablecoin esce dalle reti compatibili con Ethereum Virtual Machine (EVM). Punti chiave Stel...",
+      "date": "2026-11-01T09:00:00.0000000Z"
+    },
     {
       "id": "cryptonomist:820502477a33",
       "sourceId": "cryptonomist",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "RedStone Finance ha annunciato il 31 ottobre 2026 il programma bug bounty di RedStone. Per le vulnerabilità critiche negli smart contract la ricompensa arriva fino a 250.000 dollari. Punti chiave Le falle critiche nei...",
       "date": "2026-10-31T13:40:23.0000000Z"
-    },
-    {
-      "id": "cryptonomist:381b97880d9b",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "TrapDoor punta al furto di credenziali su Solana con oltre 384 versioni malevole",
-      "url": "https://cryptonomist.ch/2026/10/31/furto-credenziali-trapdoor-su-solana/",
-      "image": null,
-      "summary": "Il furto di credenziali è stato segnalato per la prima volta da SocketSecurity il 24 maggio. La campagna prende di mira gli sviluppatori. Furto di credenziali su Solana: quante versioni malevole circolano? Secondo Slo...",
-      "date": "2026-10-31T13:17:23.0000000Z"
     }
   ]
 }
