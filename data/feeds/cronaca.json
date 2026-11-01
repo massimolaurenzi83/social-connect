@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-11-01T20:45:36.3960916Z",
+  "updated": "2026-11-01T23:57:00.1700376Z",
   "items": [
+    {
+      "id": "ansa-cronaca:187bb016d785",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Testa di maiale davanti a un centro islamico, 'non siete ben accetti'",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/testa-di-maiale-davanti-a-un-centro-islamico-non-siete-ben-accetti_48a7aa06-85a4-44c9-a6e1-1a4570061bc0.html",
+      "image": null,
+      "summary": "Episodio intimidatorio a Morbegno in Valtellina, luogo utilizzato da anni come moschea",
+      "date": "2026-11-01T21:02:04.0000000Z"
+    },
     {
       "id": "ansa-cronaca:5db31ebcac8f",
       "sourceId": "ansa-cronaca",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "L'annuncio in assemblea. Mobilitazione continua, previsti presidi e cortei fino al 12",
       "date": "2026-11-01T12:39:53.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:5d663504f8fc",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Parte un colpo di pistola, poliziotta ferita in questura ad Ancona",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/parte-un-colpo-di-pistola-poliziotta-ferita-in-questura-ad-ancona_b374b0a2-f2d7-47cc-af90-a788734a0bf0.html",
-      "image": null,
-      "summary": "L'agente operata in ospedale, prognosi riservata. Accertamenti sulla dinamica",
-      "date": "2026-11-01T12:34:57.0000000Z"
     }
   ]
 }
