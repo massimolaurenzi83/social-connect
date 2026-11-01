@@ -1,7 +1,19 @@
 {
   "category": "cripto",
-  "updated": "2026-11-01T09:45:46.1706432Z",
+  "updated": "2026-11-01T16:28:30.8640627Z",
   "items": [
+    {
+      "id": "cryptonomist:9ea6e1605955",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Lo swap di token dell’hacker di Binance: PROM da $5 mln rendono $71 in Ether",
+      "url": "https://cryptonomist.ch/2026/11/01/swap-token-hacker-binance/",
+      "image": null,
+      "summary": "Lo swap di token dell’hacker di Binance ha trasformato PROM dal valore dichiarato di circa 5 milioni di dollari in appena 71 dollari in Ether, secondo Lookonchain. I dati sono stati condivisi pubblicamente il 1° novem...",
+      "date": "2026-11-01T11:24:02.0000000Z"
+    },
     {
       "id": "cryptonomist:d99c0095837d",
       "sourceId": "cryptonomist",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Le azioni Illinois Tool Works mantengono una struttura giornaliera rialzista, ma il grafico orario offre un sostegno solo parziale…",
       "date": "2026-10-31T15:14:37.0000000Z"
-    },
-    {
-      "id": "cryptonomist:a64dbe1ca3ad",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Il programma bug bounty di RedStone offre fino a 250.000 dollari",
-      "url": "https://cryptonomist.ch/2026/10/31/programma-bug-bounty-di-redstone/",
-      "image": null,
-      "summary": "RedStone Finance ha annunciato il 31 ottobre 2026 il programma bug bounty di RedStone. Per le vulnerabilità critiche negli smart contract la ricompensa arriva fino a 250.000 dollari. Punti chiave Le falle critiche nei...",
-      "date": "2026-10-31T13:40:23.0000000Z"
     }
   ]
 }

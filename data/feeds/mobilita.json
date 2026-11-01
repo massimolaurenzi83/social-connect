@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-11-01T09:45:46.2004539Z",
+  "updated": "2026-11-01T16:28:30.8901816Z",
   "items": [
+    {
+      "id": "ferrovie:4ca256b65535",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Le notizie ferroviarie della settimana tra nuovi treni, servizi e sicurezza in Europa",
+      "url": "https://www.ferrovie.info/treni-reali/le-notizie-ferroviarie-della-settimana-tra-nuovi-treni-servizi-e-sicurezza-in-europa.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10529/normal_ETR_104_319_Trentino_Alstom_1.jpeg",
+      "summary": "Nuovi treni regionali, locomotive destinate al trasporto merci e automotrici che cambiano Paese. La settimana ferroviaria porta aggiornamenti importanti per le flotte italiane, mentre dall’Europa arrivano ordini e pre...",
+      "date": "2026-11-01T15:02:32.0000000Z"
+    },
     {
       "id": "ferrovie:943ec277406e",
       "sourceId": "ferrovie",
@@ -97,18 +109,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10834/normal_Treno_Pellegrini_Unitalsi_Lourdes_TTI_E402B.jpg",
       "summary": "Si è conclusa anche per il 2026 la stagione dei Treni Bianchi UNITALSI diretti a Lourdes , in Francia, con il rientro a Roma dell’ultimo convoglio previsto dal calendario ordinario. Il treno, partito da Roma Ostiense ...",
       "date": "2026-10-30T07:23:40.0000000Z"
-    },
-    {
-      "id": "ferrovie:5a0fb3006f97",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Budrio, pietre sui binari prima del treno: denunciati tre giovani",
-      "url": "https://www.ferrovie.info/treni-reali/budrio-pietre-sui-binari-prima-del-treno-denunciati-tre-giovani.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10529/ETR350_007.jpg",
-      "summary": "Tre giovani sono stati denunciati dopo essere stati sorpresi mentre posizionavano pietre sui binari ferroviari a pochi minuti dall’arrivo di un treno passeggeri. L’episodio è avvenuto a Budrio , nel Bolognese, dove i ...",
-      "date": "2026-10-29T10:29:59.0000000Z"
     },
     {
       "id": "ferrovie:ca6a5520fc9c",

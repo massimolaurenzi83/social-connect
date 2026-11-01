@@ -1,7 +1,79 @@
 {
   "category": "motori",
-  "updated": "2026-11-01T09:45:46.2132306Z",
+  "updated": "2026-11-01T16:28:30.8453634Z",
   "items": [
+    {
+      "id": "vaielettrico:45a21e8dbf73",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Disinformazione sulle rinnovabili, tu quoque Rai?",
+      "url": "https://www.vaielettrico.it/disinformazione-sulle-rinnovabili-tu-quoque-rai/",
+      "image": null,
+      "summary": "La disiformazione sulle rinnovabili arriva anche in Abruzzo, con un servizio del Tg3 Rai schierato a spada tratta… L'articolo Disinformazione sulle rinnovabili, tu quoque Rai? proviene da Vaielettrico .",
+      "date": "2026-11-01T16:11:44.0000000Z"
+    },
+    {
+      "id": "vaielettrico:7d0c9b2fea5e",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Segnalo Evvai, app di ricarica molto economica",
+      "url": "https://www.vaielettrico.it/segnalo-evvai-nuova-app-di-ricarica-conveniente/",
+      "image": null,
+      "summary": "Segnalo Evvai, app di ricarica molto economica, con prezzi da 0,37/kWh sui grandi network nazionali. Così ci scrive… L'articolo Segnalo Evvai, app di ricarica molto economica proviene da Vaielettrico .",
+      "date": "2026-11-01T14:39:42.0000000Z"
+    },
+    {
+      "id": "vaielettrico:a4121d17bcf6",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Camion furgoni e bus elettrici: l’Europa accelera, ma il diesel tiene",
+      "url": "https://www.vaielettrico.it/camion-furgoni-e-bus-elettrici-le-immatricolazioni-accelerano-in-europa-ma-il-diesel-resiste/",
+      "image": null,
+      "summary": "Camion furgoni e bus elettrici: anche nel trasporto professionale europeo avanzano i veicoli a emissioni zero. Secondo gli… L'articolo Camion furgoni e bus elettrici: l’Europa accelera, ma il diesel tiene proviene da ...",
+      "date": "2026-11-01T13:38:02.0000000Z"
+    },
+    {
+      "id": "motor1:5bb95d5a4b1c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le 15 migliori auto apparse nei film",
+      "url": "https://it.motor1.com/news/813374/migliori-auto-cinema-classifica/",
+      "image": "https://cdn.motor1.com/images/mgl/pb8wYg/s3/best-movie-cars.jpg",
+      "summary": "Dalla DeLorean di Ritorno al futuro alla Mustang di Bullitt, ecco la classifica delle auto più iconiche che hanno fatto la storia",
+      "date": "2026-11-01T12:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:64cede93445c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Abbiamo provato, in Costa Azzurra, l'brido puro di Volkswagen sulla Nuova T-Roc Hybrid",
+      "url": "https://it.motor1.com/reviews/813914/volkswagen-t-roc-hybrid-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/bgOw2w/s3/prova-volkswagen-t-roc-hybrid.jpg",
+      "summary": "In elettrico fino a 60 km/h, cambio a 1 solo rapporto e due livelli di potenza. Noi a Nizza abbiamo provato il 170 CV: com’è andata",
+      "date": "2026-11-01T11:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:136197a4de85",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Agricoltura più elettrica e digitale? Ci sono 165 milioni, ma non sono sufficienti",
+      "url": "https://www.vaielettrico.it/agricoltura-piu-elettrica-e-digitale-ci-sono-165-milioni-da-investire/",
+      "image": null,
+      "summary": "Agricoltura in crisi per il cambiamento climatico: una parte della risposta arriva dalle tecnologie digitali, soprattutto quando sono… L'articolo Agricoltura più elettrica e digitale? Ci sono 165 milioni, ma non sono ...",
+      "date": "2026-11-01T10:19:41.0000000Z"
+    },
     {
       "id": "vaielettrico:8d0dc1b326fe",
       "sourceId": "vaielettrico",
@@ -51,18 +123,6 @@
       "date": "2026-11-01T08:00:58.0000000Z"
     },
     {
-      "id": "insideevs:70dbf08b97f8",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "E-bike senza catena, cosa succede quando finisce la batteria?",
-      "url": "https://insideevs.it/news/813903/rivian-tm-b-prova-batteria/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z1zw1/s3/also-tm-b-launch-edition.jpg",
-      "summary": "Un test di scarica totale mostra cosa resta da fare quando la batteria si esaurisce del tutto",
-      "date": "2026-11-01T06:00:00.0000000Z"
-    },
-    {
       "id": "motor1:9d79cc559ece",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -72,6 +132,18 @@
       "url": "https://it.motor1.com/news/813916/bmw-m635-csi-e24-storia-prova/",
       "image": "https://cdn.motor1.com/images/mgl/3WBAAj/s3/bmw-m635-csi-e24-im-fahrbericht.jpg",
       "summary": "La M635 CSi del 1983 aveva 286 CV, un sei cilindri derivato dalla M1 e una velocità massima di 255 km/h",
+      "date": "2026-11-01T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:70dbf08b97f8",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "E-bike senza catena, cosa succede quando finisce la batteria?",
+      "url": "https://insideevs.it/news/813903/rivian-tm-b-prova-batteria/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z1zw1/s3/also-tm-b-launch-edition.jpg",
+      "summary": "Un test di scarica totale mostra cosa resta da fare quando la batteria si esaurisce del tutto",
       "date": "2026-11-01T06:00:00.0000000Z"
     },
     {
@@ -267,18 +339,6 @@
       "date": "2026-10-30T18:00:51.0000000Z"
     },
     {
-      "id": "vaielettrico:015dd30a4922",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La guida autonoma Tesla? Può salvarti la pelle…",
-      "url": "https://www.vaielettrico.it/la-guida-autonoma-tesla-puo-salvarti-la-pelle/",
-      "image": null,
-      "summary": "La guida autonoma Tesla, il controverso FSD (Full Self Driving)? Capita che ti salvi la pelle, come racconta… L'articolo La guida autonoma Tesla? Può salvarti la pelle… proviene da Vaielettrico .",
-      "date": "2026-10-30T17:30:06.0000000Z"
-    },
-    {
       "id": "hdmotori:7dc970cde071",
       "sourceId": "hdmotori",
       "source": "HDmotori",
@@ -327,18 +387,6 @@
       "date": "2026-10-30T16:30:00.0000000Z"
     },
     {
-      "id": "vaielettrico:a6dc665afe3b",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Più richiesta di usato elettrico: “Ma il nodo batterie…”",
-      "url": "https://www.vaielettrico.it/piu-richiesta-di-usato-elettrico-ma-resta-il-nodo-batterie/",
-      "image": null,
-      "summary": "Più richiesta di usato elettrico, ma resta il nodo delle condizioni della batteria. E quindi del chilometraggio reale… L'articolo Più richiesta di usato elettrico: “Ma il nodo batterie…” proviene da Vaielettrico .",
-      "date": "2026-10-30T16:14:39.0000000Z"
-    },
-    {
       "id": "motor1:4c91ec599010",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -363,16 +411,16 @@
       "date": "2026-10-30T16:00:00.0000000Z"
     },
     {
-      "id": "vaielettrico:6e7b6bce52f1",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
+      "id": "insideevs:270397c2676e",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "La Volkswagen perde soldi per l’elettrico, ma voi…",
-      "url": "https://www.vaielettrico.it/la-volkswagen-perde-soldi-per-lelettrico-ma-voi/",
-      "image": null,
-      "summary": "La Volkswagen perde soldi a causa delle auto elettriche, ma voi ignorate volutamente la notizia. È l’accusa che… L'articolo La Volkswagen perde soldi per l’elettrico, ma voi… proviene da Vaielettrico .",
-      "date": "2026-10-30T15:15:21.0000000Z"
+      "title": "Auto elettriche usate, perché la batteria può far crollare fiducia e prezzi",
+      "url": "https://insideevs.it/news/813902/auto-elettriche-usate-italia-mercato/",
+      "image": "https://cdn.motor1.com/images/mgl/BXYrvR/s3/mercato-dell-usato-e-boom-di-auto-elettriche.jpg",
+      "summary": "In Italia le verifiche carVertical sulle elettriche quasi raddoppiano dal 2024, ma la durata delle batterie frena ancora molte vendite",
+      "date": "2026-10-30T15:00:00.0000000Z"
     },
     {
       "id": "motor1:d59147eaf85c",
@@ -387,30 +435,6 @@
       "date": "2026-10-30T15:00:00.0000000Z"
     },
     {
-      "id": "insideevs:270397c2676e",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Auto elettriche usate, perché la batteria può far crollare fiducia e prezzi",
-      "url": "https://insideevs.it/news/813902/auto-elettriche-usate-italia-mercato/",
-      "image": "https://cdn.motor1.com/images/mgl/BXYrvR/s3/mercato-dell-usato-e-boom-di-auto-elettriche.jpg",
-      "summary": "In Italia le verifiche carVertical sulle elettriche quasi raddoppiano dal 2024, ma la durata delle batterie frena ancora molte vendite",
-      "date": "2026-10-30T15:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:115754d3d99e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quante luci aggiuntive posso montare sulla mia auto?",
-      "url": "https://it.motor1.com/features/813907/luci-aggiuntive-auto-guida/",
-      "image": "https://cdn.motor1.com/images/mgl/rK6jQO/s3/quante-luci-aggiuntive-posso-montare-sulla-mia-auto.jpg",
-      "summary": "Ecco cosa prevede la regola del 100 e quali requisiti bisogna rispettare per circolare",
-      "date": "2026-10-30T14:43:06.0000000Z"
-    },
-    {
       "id": "insideevs:f97de15d8e46",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -421,18 +445,6 @@
       "image": "https://cdn.motor1.com/images/mgl/ko8Q2x/s3/rivian-il-furgone-elettrico-ora-fa-200-miglia-vere-e-arriva-lawd.jpg",
       "summary": "Rivian EDV 700 guadagna un pacco LFP da 129 kWh e la trazione integrale, con un balzo di autonomia utile alle rotte rurali",
       "date": "2026-10-30T14:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:7ceb0117ee15",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La BMW M3 con l'ananas dedicata ad Alex Zanardi",
-      "url": "https://it.motor1.com/news/813882/bmw-m3-tribute-alex-zanardi/",
-      "image": "https://cdn.motor1.com/images/mgl/G3bXkV/s3/bmw-m3-tribute-to-alex-zanardi.jpg",
-      "summary": "Nata per celebrare il 60mo compleanno del pilota scomparso il 1° maggio 20",
-      "date": "2026-10-30T13:00:00.0000000Z"
     },
     {
       "id": "insideevs:809addb5d846",
@@ -493,18 +505,6 @@
       "image": "https://cdn.motor1.com/images/mgl/bgOwZ6/s3/salvini-chiama-musk-per-far-correre-la-guida-assistita-tesla-in-europa.jpg",
       "summary": "Il ministro spinge per l'approvazione europea del sistema, ma la decisione tecnica slitta a dicembre",
       "date": "2026-10-30T10:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:c5ea6394e47d",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tutte elettriche le finaliste di Car of the Year, clamoroso",
-      "url": "https://www.vaielettrico.it/tutte-elettriche-le-finaliste-di-car-of-he-year/",
-      "image": null,
-      "summary": "Tutte elettriche le finaliste di Car of he Year, il concorso auto più prestigioso a livello europeo. È… L'articolo Tutte elettriche le finaliste di Car of the Year, clamoroso proviene da Vaielettrico .",
-      "date": "2026-10-30T09:52:59.0000000Z"
     },
     {
       "id": "insideevs:491ffc8a55a4",
