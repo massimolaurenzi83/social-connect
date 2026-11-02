@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-02T05:16:52.6655818Z",
+  "updated": "2026-11-02T13:39:25.8024278Z",
   "items": [
+    {
+      "id": "cybersecurity360:9296b7ac4e0b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "VOLTA, il malware che usa l’AI per valutare il valore delle vittime",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/volta-il-malware-che-usa-lai-per-valutare-il-valore-delle-vittime/",
+      "image": null,
+      "summary": "Cisco Talos ha analizzato VOLTA-AUTODOXER, un malware Windows che ruba credenziali, sessioni e wallet e usa modelli di intelligenza artificiale per classificare le vittime secondo il possibile guadagno criminale. Non ...",
+      "date": "2026-11-02T13:38:22.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:3949cfca2323",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Agenti AI fuori controllo: i nuovi rischi cyber per la Pubblica Amministrazione",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/agenti-ai-fuori-controllo-i-nuovi-rischi-cyber-per-la-pubblica-amministrazione/",
+      "image": null,
+      "summary": "Gli agenti AI possono sfruttare vulnerabilità, aggirare controlli e mettere sotto pressione servizi digitali anche senza intenzioni malevole. Dai casi Hugging Face e Wikimedia emerge una nuova sfida per la Pubblica Am...",
+      "date": "2026-11-02T08:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:f69b820fb54c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Quasi mezzo miliardo di danni da attacchi informatici in Italia in sei mesi",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/quasi-mezzo-miliardo-di-danni-da-attacchi-informatici-in-italia-in-sei-mesi/",
+      "image": null,
+      "summary": "Nel primo semestre 2026 Hackmanac stima in 468,18 milioni di dollari le perdite economiche legate a 407 incidenti informatici osservati in Italia: il 33,3% in più rispetto ai sei mesi precedenti. Il Paese è nono al mo...",
+      "date": "2026-11-02T06:48:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:dfafd92d1d82",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Oltre 400 incidenti analizzati da Arctic Wolf Labs mostrano come i cyber criminali sfruttino le chat esterne di Microsoft Teams per impersonare il supporto IT e ottenere accesso ai sistemi aziendali. Tra mail bombing,...",
       "date": "2026-10-30T11:20:33.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:b356462614e4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Piani di hosting web e promozioni Black Friday: sconti fino all’85 per cento, domini gratuiti e strumenti di intelligenza artificiale",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/piani-di-hosting-web-e-promozioni-black-friday-sconti-fino-all85-per-cento-domini-gratuiti-e-strumenti-di-intelligenza-artificiale/",
-      "image": null,
-      "summary": "Il Black Friday porta gli sconti sui servizi di hosting web fino all'85%. Le promozioni comprendono piani per siti ed e-commerce da 1,99 euro al mese, VPS, domini gratuiti e strumenti AI. Attenzione ai costi di rinnov...",
-      "date": "2026-10-30T10:05:45.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:7c931735fb0b",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "PEERSTITCH, il malware fantasma nei firewall Fortinet: quando il rischio arriva dal fornitore",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/peerstitch-il-malware-fantasma-nei-firewall-fortinet-quando-il-rischio-arriva-dal-fornitore/",
-      "image": null,
-      "summary": "Un attacco alla console FortiManager di un provider ha esposto configurazioni e credenziali di oltre 500 firewall Fortinet. Su alcuni dispositivi gli attaccanti hanno installato PEERSTITCH, un malware che opera in mem...",
-      "date": "2026-10-30T09:45:42.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:cce2d4f4dddc",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "GDPR, otto anni di enforcement hanno cambiato le regole della protezione dei dati",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/gdpr-otto-anni-di-enforcement-hanno-cambiato-le-regole-della-protezione-dei-dati/",
-      "image": null,
-      "summary": "A dieci anni dalla sua adozione, il GDPR è stato profondamente trasformato dall'azione delle autorità di controllo e della magistratura. Tra nuove competenze, interventi dei giudici e proposte di riforma europee, otto...",
-      "date": "2026-10-30T09:01:02.0000000Z"
     }
   ]
 }

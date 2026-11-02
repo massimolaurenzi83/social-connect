@@ -1,7 +1,43 @@
 {
   "category": "mobilita",
-  "updated": "2026-11-02T05:16:52.6999517Z",
+  "updated": "2026-11-02T13:39:25.8041807Z",
   "items": [
+    {
+      "id": "ferrovie:769936d80306",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Mercitalia Rail, consegnate altre tre TRAXX DC3, la flotta supera le 100 locomotive",
+      "url": "https://www.ferrovie.info/treni-reali/mercitalia-rail-consegnate-altre-tre-traxx-dc3-la-flotta-supera-le-100-locomotive.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10702/FS_494_018_Mairago.jpg",
+      "summary": "Prosegue il programma di rinnovo del parco locomotive di Mercitalia Rail . Venerdì 30 ottobre sono state consegnate altre tre TRAXX DC3 costruite da Alstom nello stabilimento di Vado Ligure.",
+      "date": "2026-11-02T10:43:40.0000000Z"
+    },
+    {
+      "id": "ferrovie:0de922f687e3",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Heuro Train, accordo con SNCF Réseau per i treni AV tra Amsterdam e Parigi fino al 2040",
+      "url": "https://www.ferrovie.info/treni-reali/heurotrain-accordo-con-sncf-reseau-per-i-treni-av-tra-amsterdam-e-parigi-fino-al-2040.html",
+      "image": "https://www.ferrovie.info/images/varie/heuro_train.webp",
+      "summary": "Heurotrain compie un nuovo passo verso il lancio dei propri servizi ferroviari ad alta velocità tra Amsterdam e Parigi . La società dei Paesi Bassi ha firmato un accordo quadro con SNCF Réseau per garantirsi la capaci...",
+      "date": "2026-11-02T08:55:55.0000000Z"
+    },
+    {
+      "id": "ferrovie:e2b003eeeb30",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Hitachi Rail, a Pistoia il primo HTR 412 per la Provincia di Trento",
+      "url": "https://www.ferrovie.info/treni-reali/hitachi-rail-a-pistoia-il-primo-htr-412-per-la-provincia-di-trento.html",
+      "image": "https://www.ferrovie.info/images/varie/HTR_412_trentino_treno.webp",
+      "summary": "Una nuova livrea ferroviaria prende forma su uno dei rotabili più moderni in uscita dallo stabilimento della Hitachi Rail di Pistoia . Da alcuni giorni si trova sul binario di raccordo adiacente all’impianto il primo ...",
+      "date": "2026-11-02T07:21:40.0000000Z"
+    },
     {
       "id": "ferrovie:4ca256b65535",
       "sourceId": "ferrovie",
@@ -109,42 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10834/normal_Treno_Pellegrini_Unitalsi_Lourdes_TTI_E402B.jpg",
       "summary": "Si è conclusa anche per il 2026 la stagione dei Treni Bianchi UNITALSI diretti a Lourdes , in Francia, con il rientro a Roma dell’ultimo convoglio previsto dal calendario ordinario. Il treno, partito da Roma Ostiense ...",
       "date": "2026-10-30T07:23:40.0000000Z"
-    },
-    {
-      "id": "ferrovie:ca6a5520fc9c",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Sciopero ferroviario differito, treni regolari per Frecce, Intercity e Regionali",
-      "url": "https://www.ferrovie.info/treni-reali/sciopero-ferroviario-differito-treni-regolari-per-frecce-intercity-e-regionali.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1820873.JPG",
-      "summary": "Lo sciopero generale nazionale del personale ferroviario è stato differito a un’altra data con l’ordinanza n. 204 T del 27 ottobre 2026 del Ministero delle Infrastrutture e dei Trasporti. Di conseguenza, non sono prev...",
-      "date": "2026-10-29T09:11:39.0000000Z"
-    },
-    {
-      "id": "ferrovie:dfbf61fff4d8",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "La sicurezza ferroviaria in Europa non può correre più lenta dei treni",
-      "url": "https://www.ferrovie.info/editoriali/la-sicurezza-ferroviaria-in-europa-non-puo-correre-piu-lenta-dei-treni.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10415/813_Madrid_Atocha_-_Sevilla_SJ___Cantillana.jpg",
-      "summary": "La tragedia ferroviaria in Spagna impone silenzio, rispetto e prudenza. Le cause dell’incidente dovranno essere accertate dalle autorità competenti, senza anticipare conclusioni. Ma al di là di quanto accaduto, c’è un...",
-      "date": "2026-10-29T08:55:18.0000000Z"
-    },
-    {
-      "id": "ferrovie:ca84bc0547e9",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Spagna, incidente tra Renfe e Iryo, sotto esame il sistema LZB",
-      "url": "https://www.ferrovie.info/treni-reali/spagna-incidente-tra-renfe-e-iryo-sotto-esame-il-sistema-lzb.html",
-      "image": "https://www.ferrovie.info/images/incidenti/Incidente_ferroviario_toledo_spagna_2.jpg",
-      "summary": "La collisione tra un treno AVE di Renfe e un convoglio Iryo in Spagna pone interrogativi sul funzionamento dei sistemi di sicurezza e sulla gestione della circolazione dopo un guasto. Al centro della ricostruzione fig...",
-      "date": "2026-10-29T07:16:56.0000000Z"
     }
   ]
 }
