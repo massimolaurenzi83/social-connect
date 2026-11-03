@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-03T03:40:53.9656751Z",
+  "updated": "2026-11-03T11:22:47.5771842Z",
   "items": [
+    {
+      "id": "cybersecurity360:e2f61aed4b24",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Android, patch di novembre 2026: corretta una falla senza clic",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/android-patch-di-novembre-2026-corretta-una-falla-senza-clic/",
+      "image": null,
+      "summary": "Google corregge 216 vulnerabilità nel bollettino Android di novembre 2026, tra cui una falla critica sfruttabile senza interazione dell’utente. Per le aziende la priorità è verificare il livello di patch sui dispositi...",
+      "date": "2026-11-03T09:35:12.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:9f82ecec3cc9",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Bloccare telefonate spam e telemarketing: servizio Incogni per cancellare il numero dai data broker",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/stop-telefonate-spam-incogni-rimozione-numero-data-broker/",
+      "image": null,
+      "summary": "Ridurre le telefonate spam intervenendo alla fonte dei dati personali: il servizio Incogni automatizza le richieste di cancellazione dai data broker. Ecco come funziona, quali protezioni offre e quanto costa con le pr...",
+      "date": "2026-11-03T09:13:28.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:3030346a5d84",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Controlli e minacce: il gioco degli opposti nella sicurezza delle informazioni",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/controlli-e-minacce-il-gioco-degli-opposti-nella-sicurezza-delle-informazioni/",
+      "image": null,
+      "summary": "Il rapporto tra le minacce e i controlli rappresenta il cuore pulsante della sicurezza delle informazioni. Ecco perché gli standard internazionali non sono mai semplici elenchi, bensì strumenti per trasformare i risch...",
+      "date": "2026-11-03T08:39:37.0000000Z"
+    },
     {
       "id": "cybersecurity360:57a09be6dea6",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Nel primo semestre 2026 Hackmanac stima in 468,18 milioni di dollari le perdite economiche legate a 407 incidenti informatici osservati in Italia: il 33,3% in più rispetto ai sei mesi precedenti. Il Paese è nono al mo...",
       "date": "2026-11-02T06:48:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:dfafd92d1d82",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Ransomware, l’attacco a PQE Group rivela il rischio nascosto nei backup cifrati",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/ransomware-lattacco-a-pqe-group-rivela-il-rischio-nascosto-nei-backup-cifrati/",
-      "image": null,
-      "summary": "Il gruppo ransomware Panzer rivendica un attacco a PQE Group e la sottrazione di 200 GB di backup cifrati, senza conferme dell'azienda. La vicenda accende i riflettori su un rischio spesso sottovalutato: la conservazi...",
-      "date": "2026-10-30T16:12:48.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:72f16f139616",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "PHP2Shell in Italia: il rischio per oltre 285mila servizi PHP",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/php2shell-in-italia-il-rischio-per-oltre-285mila-servizi-php/",
-      "image": null,
-      "summary": "Lo dice Csirt: in Italia 285.149 servizi PHP risultano potenzialmente vulnerabili a PHP2Shell: sono l'81,9% di quelli con versione identificabile, non di tutti i 741.523 rilevati. Le falle consentono l'esecuzione di c...",
-      "date": "2026-10-30T16:00:14.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:fd26536f349e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Registrazione NIS2: il 31 ottobre chiude il canale per i ritardatari",
-      "url": "https://www.cybersecurity360.it/news/registrazione-nis2-il-31-ottobre-chiude-il-canale-per-i-ritardatari/",
-      "image": null,
-      "summary": "Dal 31 ottobre ACN chiude il canale delle dichiarazioni tardive NIS. La Determinazione 314287/2026 semplifica gli adempimenti per le imprese già in elenco e introduce le procedure per il 2027. Restano gli obblighi di ...",
-      "date": "2026-10-30T15:57:41.0000000Z"
     }
   ]
 }

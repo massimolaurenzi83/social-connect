@@ -1,7 +1,68 @@
 {
   "category": "scienza",
-  "updated": "2026-11-03T03:40:53.8985937Z",
+  "updated": "2026-11-03T11:22:47.6080412Z",
   "items": [
+    {
+      "id": "focus:55abde91db41",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Su Minecraft esiste una biblioteca segreta che aggira la censura",
+      "url": "https://www.focus.it/tecnologia/innovazione/su-minecraft-esiste-una-biblioteca-segreta-che-aggira-la-censura",
+      "image": "https://www.focus.it/images/2026/11/02/the-uncensored-library-orig.png?imbypass=true",
+      "summary": "The Uncensored Library è stata creata da Reporters without borders (RSF) sfruttando un dato: anche dove giornali wesiti web vengono bloccati, Minecraft continua a funzionare.",
+      "date": "2026-11-03T09:00:00.0000000Z"
+    },
+    {
+      "id": "focus:346c84517d33",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "DNA e malattie: il legame che mancava",
+      "url": "https://www.focus.it/scienza/salute/scoperto-il-collegamento-nascosto-tra-varianti-genetiche-e-malattie",
+      "image": "https://www.focus.it/images/2026/11/02/sequenziamento-genetico_w630.jpg?imbypass=true",
+      "summary": "Individuate le cellule immunitarie la cui attività è direttamente influenzata da varianti genetiche: l'anello mancante per lo sviluppo di malattie.",
+      "date": "2026-11-03T08:00:00.0000000Z"
+    },
+    {
+      "id": "focus:4f3833657cec",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "COP17 sulla biodiversità: le conclusioni",
+      "url": "https://www.focus.it/ambiente/natura/cop17-sulla-biodiversita-le-conclusioni",
+      "image": "https://www.focus.it/images/2026/11/03/mangrovia-tropici_w630.jpg?imbypass=true",
+      "summary": "Si è conclusa la COP17 sulla biodiversità: siamo lontani dal raggiungere gli obiettivi fissati nella COP15, e i Paesi più ricchi peccano di tirchieria.",
+      "date": "2026-11-03T08:00:00.0000000Z"
+    },
+    {
+      "id": "focus:eebcdd2ddf50",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "La prossima era glaciale era già iniziata...",
+      "url": "https://www.focus.it/scienza/scienze/la-prossima-era-glaciale-era-gia-iniziata-ecco-come-il-riscaldamento-globale-l-ha-fermata",
+      "image": "https://www.focus.it/images/2026/11/02/riscaldamento-globale-glaciazione_w630.jpg?imbypass=true",
+      "summary": "Duemila anni fa i ghiacci dell'Artico canadese avevano ricominciato a espandersi, avviando un nuovo ciclo glaciale. Dagli anni Sessanta, il riscaldamento globale ha interrotto il processo, invertendo la rotta di un fe...",
+      "date": "2026-11-03T03:00:00.0000000Z"
+    },
+    {
+      "id": "geopop:6DGaYJ7nY34",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Perché nessuno si ricorda niente fino ai primi due anni di vita?",
+      "url": "https://www.youtube.com/watch?v=6DGaYJ7nY34",
+      "image": "https://i.ytimg.com/vi/6DGaYJ7nY34/hqdefault.jpg",
+      "summary": "",
+      "videoId": "6DGaYJ7nY34",
+      "date": "2026-11-02T17:30:11.0000000Z"
+    },
     {
       "id": "media-inaf:b3df7e5c5399",
       "sourceId": "media-inaf",
@@ -75,6 +136,19 @@
       "date": "2026-11-02T07:00:00.0000000Z"
     },
     {
+      "id": "geopop:WrmwXcs0hTc",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Perché nelle carte il Nord è sempre in alto? Non è sempre stato così.",
+      "url": "https://www.youtube.com/watch?v=WrmwXcs0hTc",
+      "image": "https://i.ytimg.com/vi/WrmwXcs0hTc/hqdefault.jpg",
+      "summary": "",
+      "videoId": "WrmwXcs0hTc",
+      "date": "2026-11-02T06:00:33.0000000Z"
+    },
+    {
       "id": "focus:b6370e6bd307",
       "sourceId": "focus",
       "source": "Focus",
@@ -121,54 +195,6 @@
       "image": "https://www.focus.it/images/2026/10/23/pipistrellus-abramus_w630.jpg?imbypass=true",
       "summary": "Le mamme dei pipistrelli devono individuare i loro cuccioli in colonie buie da migliaia di esemplari: abbiamo scoperto come fanno.",
       "date": "2026-11-01T09:00:00.0000000Z"
-    },
-    {
-      "id": "focus:023f25a12c46",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Gas serra: nuovi record",
-      "url": "https://www.focus.it/ambiente/ecologia/livelli-tre-gas-serra-in-atmosfera-raggiunto-nuovi-record",
-      "image": "https://www.focus.it/images/2026/10/28/gas-serra_w630.jpg?imbypass=true",
-      "summary": "La concentrazione media globale di CO2 è ora superiore del 53% rispetto ai livelli preindustriali, e non è l'unico gas serra a preoccupare.",
-      "date": "2026-11-01T08:00:00.0000000Z"
-    },
-    {
-      "id": "focus:5bb3a46ab48c",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Quale è stato il primo matrimonio omosessuale?",
-      "url": "https://www.focus.it/cultura/storia/quale-e-stato-il-primo-matrimonio-omosessuale-quello-tra-i-pirati-dei-caraibi-la-storia-del-matelotage",
-      "image": "https://www.focus.it/images/2026/10/28/galeone-pirati_w630.jpg?imbypass=true",
-      "summary": "Tra '600 e '700, i marinai stringevano un patto per dividersi bottino ed eredità che diventava un'unione di fatto: come funzionava questo accordo prima che la legge riconoscesse il matrimonio omosessuale nel 2001.",
-      "date": "2026-11-01T04:00:00.0000000Z"
-    },
-    {
-      "id": "focus:45bdcd260c4c",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "È ufficiale: anche i ragni hanno la fase REM",
-      "url": "https://www.focus.it/ambiente/animali/e-ufficiale-anche-i-ragni-hanno-la-fase-rem",
-      "image": "https://www.focus.it/images/2026/10/30/portia-fimbriata-orig.png?imbypass=true",
-      "summary": "Quando dormono, i ragni alternano momenti di sonno profondo ad altri di sonno REM, in maniera molto simile agli umani.",
-      "date": "2026-10-31T12:00:00.0000000Z"
-    },
-    {
-      "id": "focus:3f0e70af5211",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Sentire gli odori attraverso internet",
-      "url": "https://www.focus.it/tecnologia/innovazione/scentronic-il-naso-digitale-per-sentire-gli-odori-attraverso-internet",
-      "image": "https://www.focus.it/images/2026/10/30/scentronic-naso-digitale_w630.jpg?imbypass=true",
-      "summary": "Scentronic è una sorta di naso digitale che permette di ricostruire le essenze trasmesse attraverso algoritmi e impulsi elettrici.",
-      "date": "2026-10-31T10:00:00.0000000Z"
     },
     {
       "id": "media-inaf:9c9c549ee1ea",
@@ -232,6 +258,19 @@
       "date": "2026-10-29T18:07:49.0000000Z"
     },
     {
+      "id": "geopop:TEA7s9rwoPw",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Scontro tra due treni in Spagna: cosa sappiamo e qual è la causa più probabile",
+      "url": "https://www.youtube.com/watch?v=TEA7s9rwoPw",
+      "image": "https://i.ytimg.com/vi/TEA7s9rwoPw/hqdefault.jpg",
+      "summary": "",
+      "videoId": "TEA7s9rwoPw",
+      "date": "2026-10-29T17:30:36.0000000Z"
+    },
+    {
       "id": "media-inaf:37d13312d8be",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -242,6 +281,19 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/lumina-150x150.jpg",
       "summary": "Un team di ricerca del CfA ha sviluppato Lumina, una delle simulazioni dell’universo primordiale più grandi e dettagliate mai realizzate. La simulazione ricostruisce i primi due miliardi di anni dell’universo, fornend...",
       "date": "2026-10-29T16:57:27.0000000Z"
+    },
+    {
+      "id": "geopop:1aHelEEvkSQ",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Come si determina il tempo di cottura della pasta e perché cambia da un formato all’altro",
+      "url": "https://www.youtube.com/watch?v=1aHelEEvkSQ",
+      "image": "https://i.ytimg.com/vi/1aHelEEvkSQ/hqdefault.jpg",
+      "summary": "",
+      "videoId": "1aHelEEvkSQ",
+      "date": "2026-10-29T12:00:06.0000000Z"
     },
     {
       "id": "media-inaf:2dbcbd2dc487",
@@ -256,6 +308,32 @@
       "date": "2026-10-29T06:58:12.0000000Z"
     },
     {
+      "id": "geopop:KDxInPb4eQU",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Sui social girano video che spiegano come si è formato il Gran Canyon. Ma è davvero così?",
+      "url": "https://www.youtube.com/watch?v=KDxInPb4eQU",
+      "image": "https://i.ytimg.com/vi/KDxInPb4eQU/hqdefault.jpg",
+      "summary": "",
+      "videoId": "KDxInPb4eQU",
+      "date": "2026-10-29T06:00:19.0000000Z"
+    },
+    {
+      "id": "geopop:hNRywcdbfxQ",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Trapianto di organi da animale a uomo: lo xenotrapianto. A che punto siamo?",
+      "url": "https://www.youtube.com/watch?v=hNRywcdbfxQ",
+      "image": "https://i.ytimg.com/vi/hNRywcdbfxQ/hqdefault.jpg",
+      "summary": "",
+      "videoId": "hNRywcdbfxQ",
+      "date": "2026-10-28T17:30:29.0000000Z"
+    },
+    {
       "id": "media-inaf:4a5203b9a3c8",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -266,6 +344,19 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/3IATLAS_Gemini-150x150.jpg",
       "summary": "Un nuovo studio condotto con il telescopio spaziale James Webb analizza i grani di ghiaccio nella chioma del terzo oggetto interstellare confermato. La combinazione tra ghiaccio d’acqua e polveri refrattarie rivela un...",
       "date": "2026-10-28T12:04:11.0000000Z"
+    },
+    {
+      "id": "geopop:QAvWPluhSSg",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Se smettessimo di lavarci i denti, cosa succederebbe?",
+      "url": "https://www.youtube.com/watch?v=QAvWPluhSSg",
+      "image": "https://i.ytimg.com/vi/QAvWPluhSSg/hqdefault.jpg",
+      "summary": "",
+      "videoId": "QAvWPluhSSg",
+      "date": "2026-10-28T12:00:29.0000000Z"
     },
     {
       "id": "media-inaf:07353b09fe67",
@@ -304,6 +395,71 @@
       "date": "2026-10-27T13:03:10.0000000Z"
     },
     {
+      "id": "geopop:VZ_SUkXMz1Y",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Come è stato trovato e ucciso bin Laden: la ricostruzione dell’Operazione Neptune Spear",
+      "url": "https://www.youtube.com/watch?v=VZ_SUkXMz1Y",
+      "image": "https://i.ytimg.com/vi/VZ_SUkXMz1Y/hqdefault.jpg",
+      "summary": "",
+      "videoId": "VZ_SUkXMz1Y",
+      "date": "2026-10-26T17:30:06.0000000Z"
+    },
+    {
+      "id": "geopop:z80sN_gaTW8",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Il compost perfetto non è fatto solo di scarti gettati in un vaso: ecco la guida pratica",
+      "url": "https://www.youtube.com/watch?v=z80sN_gaTW8",
+      "image": "https://i.ytimg.com/vi/z80sN_gaTW8/hqdefault.jpg",
+      "summary": "",
+      "videoId": "z80sN_gaTW8",
+      "date": "2026-10-26T12:00:08.0000000Z"
+    },
+    {
+      "id": "geopop:FzdmudtoKfg",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Dove si trovano i ponti raffigurati sulle banconote?",
+      "url": "https://www.youtube.com/watch?v=FzdmudtoKfg",
+      "image": "https://i.ytimg.com/vi/FzdmudtoKfg/hqdefault.jpg",
+      "summary": "",
+      "videoId": "FzdmudtoKfg",
+      "date": "2026-10-26T06:00:05.0000000Z"
+    },
+    {
+      "id": "geopop:fXJUvLFzLFQ",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Cosa sta succedendo in Italia? Le cause della crisi dagli autotrasportatori ai supermercati",
+      "url": "https://www.youtube.com/watch?v=fXJUvLFzLFQ",
+      "image": "https://i.ytimg.com/vi/fXJUvLFzLFQ/hqdefault.jpg",
+      "summary": "",
+      "videoId": "fXJUvLFzLFQ",
+      "date": "2026-10-22T16:30:24.0000000Z"
+    },
+    {
+      "id": "geopop:NNOo_ubmJtE",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "L’incubo del cyberbullismo: i numeri (alti) del fenomeno",
+      "url": "https://www.youtube.com/watch?v=NNOo_ubmJtE",
+      "image": "https://i.ytimg.com/vi/NNOo_ubmJtE/hqdefault.jpg",
+      "summary": "",
+      "videoId": "NNOo_ubmJtE",
+      "date": "2026-10-21T16:30:21.0000000Z"
+    },
+    {
       "id": "curiuss:e8p5tg55yDE",
       "sourceId": "curiuss",
       "source": "CURIUSS",
@@ -315,6 +471,19 @@
       "summary": "",
       "videoId": "e8p5tg55yDE",
       "date": "2026-10-08T19:00:00.0000000Z"
+    },
+    {
+      "id": "barbascura:J0w-SlR8V8M",
+      "sourceId": "barbascura",
+      "source": "Barbascura X",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Quello che NON volevi sapere sulle LONTRE - SCIENZA BRUTTA",
+      "url": "https://www.youtube.com/watch?v=J0w-SlR8V8M",
+      "image": "https://i.ytimg.com/vi/J0w-SlR8V8M/hqdefault.jpg",
+      "summary": "",
+      "videoId": "J0w-SlR8V8M",
+      "date": "2026-09-28T12:00:06.0000000Z"
     },
     {
       "id": "curiuss:odiBKK__wwM",
@@ -432,19 +601,6 @@
       "summary": "",
       "videoId": "DXAmnjHn-Hw",
       "date": "2026-04-20T18:00:12.0000000Z"
-    },
-    {
-      "id": "curiuss:h4hq5okz5tQ",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Parigi Astronomica - Paris#02 - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=h4hq5okz5tQ",
-      "image": "https://i.ytimg.com/vi/h4hq5okz5tQ/hqdefault.jpg",
-      "summary": "",
-      "videoId": "h4hq5okz5tQ",
-      "date": "2026-04-07T18:34:25.0000000Z"
     }
   ]
 }
