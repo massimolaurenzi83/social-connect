@@ -1,7 +1,67 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-03T11:22:47.5771842Z",
+  "updated": "2026-11-03T18:32:49.2772748Z",
   "items": [
+    {
+      "id": "cybersecurity360:fbbb20a2e71f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Contro le truffe online, più burocrazia o più attenzione? La difesa è nelle procedure",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/contro-le-truffe-online-piu-burocrazia-o-piu-attenzione-la-difesa-e-nelle-procedure/",
+      "image": null,
+      "summary": "Le truffe informatiche sfruttano urgenza e pressione psicologica per aggirare la capacità di valutazione delle vittime. Dalla CEO fraud al Business Email Compromise, la sola sensibilizzazione non basta: servono proced...",
+      "date": "2026-11-03T16:35:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:ed9f0bca2d2f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "AI e cyber security, cambia la scala del rischio cyber: perché le vecchie difese non bastano più",
+      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/ai-cybersecurity-rischio-cyber-aziende/",
+      "image": null,
+      "summary": "L'intelligenza artificiale accelera gli attacchi, amplia le superfici di esposizione e mette in discussione i tradizionali modelli di difesa. Ai Cybersecurity360 Awards 2026, ACN, Clusit e i CISO di Snam, Hera e ACI G...",
+      "date": "2026-11-03T15:30:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:ead4e490decb",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "SMS of Death, la vulnerabilità Android che può bloccare le chiamate: rischi e difese",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/sms-of-death-la-vulnerabilita-android-che-puo-bloccare-le-chiamate-rischi-e-difese/",
+      "image": null,
+      "summary": "Un SMS invisibile può mandare in crash il servizio telefonico di alcuni smartphone Android, interrompendo anche le chiamate di emergenza. La vulnerabilità SMS of Death, identificata come CVE-2026-58882, solleva interr...",
+      "date": "2026-11-03T13:11:48.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:bd7a858638a2",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Frigoriferi sotto attacco, l’ACN chiede sei verifiche urgenti",
+      "url": "https://www.cybersecurity360.it/news/frigoriferi-sotto-attacco-lacn-chiede-sei-verifiche-urgenti/",
+      "image": null,
+      "summary": "Dopo gli attacchi ai sistemi di refrigerazione in Europa e le segnalazioni in Italia, l'Agenzia per la cybersicurezza nazionale ripropone il bollettino del 13 ottobre: sei verifiche immediate su accessi Internet, reti...",
+      "date": "2026-11-03T11:53:30.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:8b903d87dda9",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Attacchi cyber distruttivi: non solo frigoriferi, ecco cosa rischia l’Italia",
+      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/attacchi-cyber-distruttivi-non-solo-frigoriferi-ecco-cosa-rischia-litalia/",
+      "image": null,
+      "summary": "Dai frigoriferi violati alle centrali elettriche, ormai sappiamo che un cyberattacco può causare danni fisici, blackout e, in scenari estremi, incidenti industriali o nucleari. Ma cosa rischia davvero l'Italia? Vediam...",
+      "date": "2026-11-03T11:24:20.0000000Z"
+    },
     {
       "id": "cybersecurity360:e2f61aed4b24",
       "sourceId": "cybersecurity360",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "Come individuare, isolare e mettere in sicurezza le tecnologie non più aggiornabili, fino alla dismissione pianificata L'articolo Legacy IT: mitigare i rischi dei sistemi obsoleti proviene da Cyber Security 360 .",
       "date": "2026-11-02T16:21:39.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:7b5bb45aa26e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Intelligenza artificiale nella PA, sì ma con cautela: il parere del Garante privacy",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/intelligenza-artificiale-nella-pa-si-ma-con-cautela-il-parere-del-garante-privacy/",
-      "image": null,
-      "summary": "Il Garante privacy ha dato parere favorevole sullo schema di regolamento della Provincia autonoma di Trento che disciplina l’uso dei sistemi di AI a supporto delle attività amministrative e dei processi organizzativi....",
-      "date": "2026-11-02T15:48:08.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:cb46513a80dc",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Attacco ai frigoriferi anche in Italia: forse c’è dietro uno Stato nemico",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/attacco-ai-frigoriferi-in-europa-allerta-massima-ce-dietro-uno-stato-nemico/",
-      "image": null,
-      "summary": "Il 2 novembre 2026 incidenti e manomissioni ai frigoriferi hanno colpito supermercati in Italia (in Sicilia), Belgio, Lussemburgo, Svezia ed Estonia, dopo gli attacchi francesi di ottobre. Il caso mostra i rischi dei ...",
-      "date": "2026-11-02T13:48:29.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:9296b7ac4e0b",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "VOLTA, il malware che usa l’AI per valutare il valore delle vittime",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/volta-il-malware-che-usa-lai-per-valutare-il-valore-delle-vittime/",
-      "image": null,
-      "summary": "Cisco Talos ha analizzato VOLTA-AUTODOXER, un malware Windows che ruba credenziali, sessioni e wallet e usa modelli di intelligenza artificiale per classificare le vittime secondo il possibile guadagno criminale. Non ...",
-      "date": "2026-11-02T13:38:22.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3949cfca2323",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Agenti AI fuori controllo: i nuovi rischi cyber per la Pubblica Amministrazione",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/agenti-ai-fuori-controllo-i-nuovi-rischi-cyber-per-la-pubblica-amministrazione/",
-      "image": null,
-      "summary": "Gli agenti AI possono sfruttare vulnerabilità, aggirare controlli e mettere sotto pressione servizi digitali anche senza intenzioni malevole. Dai casi Hugging Face e Wikimedia emerge una nuova sfida per la Pubblica Am...",
-      "date": "2026-11-02T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:f69b820fb54c",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Quasi mezzo miliardo di danni da attacchi informatici in Italia in sei mesi",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/quasi-mezzo-miliardo-di-danni-da-attacchi-informatici-in-italia-in-sei-mesi/",
-      "image": null,
-      "summary": "Nel primo semestre 2026 Hackmanac stima in 468,18 milioni di dollari le perdite economiche legate a 407 incidenti informatici osservati in Italia: il 33,3% in più rispetto ai sei mesi precedenti. Il Paese è nono al mo...",
-      "date": "2026-11-02T06:48:00.0000000Z"
     }
   ]
 }
