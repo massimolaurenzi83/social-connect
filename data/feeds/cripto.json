@@ -1,7 +1,19 @@
 {
   "category": "cripto",
-  "updated": "2026-11-03T18:32:49.3164521Z",
+  "updated": "2026-11-03T23:38:57.1790314Z",
   "items": [
+    {
+      "id": "cryptonomist:3743d8ebe5cd",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Richard Teng di Binance: reintegrato il 98% degli asset, restano i meno liquidi",
+      "url": "https://cryptonomist.ch/2026/11/03/richard-teng-di-binance/",
+      "image": null,
+      "summary": "Binance ha reintegrato il 98% dei 6,34 miliardi di dollari di asset colpiti dall’attacco del 29 ottobre 2026. A dirlo, il 3 novembre, è il CEO Richard Teng di Binance. Punti chiave La quota di asset reintegrati è pass...",
+      "date": "2026-11-03T21:40:59.0000000Z"
+    },
     {
       "id": "cryptonomist:2fbf19fa8f2c",
       "sourceId": "cryptonomist",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "L’hackeraggio di Binance da 6,34 miliardi di dollari del 29 ottobre 2026 è partito da finti colloqui di lavoro e da uno strumento di AI interno, mostra il primo rapporto dell’exchange. Come gli aggressori sono arrivat...",
       "date": "2026-11-03T14:57:54.0000000Z"
-    },
-    {
-      "id": "cryptonomist:b7ee96a729f6",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "La vulnerabilità di BTCPay Server: 1,63 milioni di dollari tracciati da Bitquery",
-      "url": "https://cryptonomist.ch/2026/11/03/vulnerabilita-btcpay-server-2/",
-      "image": null,
-      "summary": "Gli attaccanti hanno sfruttato una vulnerabilità di BTCPay Server per svuotare gli hot wallet di installazioni non aggiornate. Bitquery ha ricondotto a indirizzi legati ai furti circa 1,63 milioni di dollari in Bitcoi...",
-      "date": "2026-11-03T14:55:28.0000000Z"
     }
   ]
 }

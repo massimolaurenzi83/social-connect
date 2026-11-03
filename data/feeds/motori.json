@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-11-03T18:32:49.3222736Z",
+  "updated": "2026-11-03T23:38:57.2203230Z",
   "items": [
+    {
+      "id": "vaielettrico:ef6e5dd6e8dd",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "EICMA 2026. Zero Motorcycles con la supermotard accessibile e il nuovo e-scooter LS3",
+      "url": "https://www.vaielettrico.it/eicma-2026-zero-motorcycles-con-la-supermotard-accessibile-e-il-nuovo-e-scooter-ls3/",
+      "image": null,
+      "summary": "Il brand californiano festeggia i 20 anni di attività presentandosi in grande spolvero a Eicma. Svelata in anteprima… L'articolo EICMA 2026. Zero Motorcycles con la supermotard accessibile e il nuovo e-scooter LS3 pro...",
+      "date": "2026-11-03T22:30:20.0000000Z"
+    },
     {
       "id": "hdmotori:664f257349c4",
       "sourceId": "hdmotori",
@@ -135,18 +147,6 @@
       "date": "2026-11-03T16:00:45.0000000Z"
     },
     {
-      "id": "motor1:aed9dbbde532",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quale auto ibrida conviene e a chi? MG3, ZS e HS Hybrid+",
-      "url": "https://it.motor1.com/reviews/813372/mg3-zs-hs-costi-prezzo-recensione/",
-      "image": "https://cdn.motor1.com/images/mgl/OoZGoM/s3/mg-full-hybrid-quale-conviene.jpg",
-      "summary": "Una cittadina, un SUV compatto e l'ammiraglia. Andando oltre...cosa cambia? Tecnica, costi di utilizzo e...a chi conviene cosa",
-      "date": "2026-11-03T16:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:e97bf951639c",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -156,6 +156,18 @@
       "url": "https://insideevs.it/news/814250/mercedes-batterie-tecnologia/",
       "image": "https://cdn.motor1.com/images/mgl/QeGLl1/s3/mercedes-sviluppa-una-nuova-tecnologia.jpg",
       "summary": "La Casa lavora a un Power Converter da 3 kW che gestisce l'energia delle celle e potrebbe rendere più efficienti le future auto",
+      "date": "2026-11-03T16:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:aed9dbbde532",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Quale auto ibrida conviene e a chi? MG3, ZS e HS Hybrid+",
+      "url": "https://it.motor1.com/reviews/813372/mg3-zs-hs-costi-prezzo-recensione/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZGoM/s3/mg-full-hybrid-quale-conviene.jpg",
+      "summary": "Una cittadina, un SUV compatto e l'ammiraglia. Andando oltre...cosa cambia? Tecnica, costi di utilizzo e...a chi conviene cosa",
       "date": "2026-11-03T16:00:00.0000000Z"
     },
     {
@@ -267,18 +279,6 @@
       "date": "2026-11-03T14:00:18.0000000Z"
     },
     {
-      "id": "insideevs:e7a17f62f8e9",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il trucco di Tesla Powerwall 3 per scaldare l’acqua quando l’energia costa meno",
-      "url": "https://insideevs.it/news/814211/tesla-powerwall-3-heat-pump-acqua-calda/",
-      "image": "https://cdn.motor1.com/images/mgl/RqbL3r/s3/il-trucco-di-tesla-powerwall-3-per-scaldare-l-acqua-quando-l-energia-costa-meno.jpg",
-      "summary": "Il Powerwall 3 ora dialoga anche con la pompa di calore e scalda l'acqua sanitaria nei momenti di energia più economica",
-      "date": "2026-11-03T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:4aefa35deddf",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -288,6 +288,18 @@
       "url": "https://it.motor1.com/news/814212/zeekr-7x-prezzi-allestimenti/",
       "image": "https://cdn.motor1.com/images/mgl/zx0lnK/s3/zeekr-7x.jpg",
       "summary": "Tre allestimenti per Zeekr 7X, elettrica da 455 a 680 CV con autonomia fino a 627 km e prezzo base di 54.100 euro",
+      "date": "2026-11-03T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:e7a17f62f8e9",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il trucco di Tesla Powerwall 3 per scaldare l’acqua quando l’energia costa meno",
+      "url": "https://insideevs.it/news/814211/tesla-powerwall-3-heat-pump-acqua-calda/",
+      "image": "https://cdn.motor1.com/images/mgl/RqbL3r/s3/il-trucco-di-tesla-powerwall-3-per-scaldare-l-acqua-quando-l-energia-costa-meno.jpg",
+      "summary": "Il Powerwall 3 ora dialoga anche con la pompa di calore e scalda l'acqua sanitaria nei momenti di energia più economica",
       "date": "2026-11-03T14:00:00.0000000Z"
     },
     {
@@ -303,18 +315,6 @@
       "date": "2026-11-03T13:00:00.0000000Z"
     },
     {
-      "id": "motor1:2ca2620c4bf4",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mercedes 2027: tutte le novità in arrivo",
-      "url": "https://it.motor1.com/news/813743/mercedes-novita-modelli-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/xqOYXk/s3/novita-mercedes-2027.jpg",
-      "summary": "Arriverà la nuova Mercedes Classe E e si attende anche il debutto della Baby G e un primo sguardo alla nuova Classe A",
-      "date": "2026-11-03T12:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:bb18b2d21f7f",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -324,6 +324,18 @@
       "url": "https://insideevs.it/news/814213/spacex-starmind-data-center-orbitali/",
       "image": "https://cdn.motor1.com/images/mgl/Vzb9w9/s3/musk-ha-un-piano-folle-per-l-ai-farla-lavorare-fuori-dalla-terra.jpg",
       "summary": "Grok Bot cresce più veloce di ogni altro prodotto Musk, ma costa troppo: la risposta sarebbe spostare il calcolo dell'AI in orbita",
+      "date": "2026-11-03T12:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:2ca2620c4bf4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes 2027: tutte le novità in arrivo",
+      "url": "https://it.motor1.com/news/813743/mercedes-novita-modelli-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/xqOYXk/s3/novita-mercedes-2027.jpg",
+      "summary": "Arriverà la nuova Mercedes Classe E e si attende anche il debutto della Baby G e un primo sguardo alla nuova Classe A",
       "date": "2026-11-03T12:00:00.0000000Z"
     },
     {
@@ -421,18 +433,6 @@
       "image": "https://cdn.motor1.com/images/mgl/9m8Bw1/s3/liux-big.jpg",
       "summary": "Il nuovo quadriciclo elettrico spagnolo punta su consumi contenuti e una carrozzeria in fibra di lino",
       "date": "2026-11-03T09:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:66302ef8a0a7",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Consigliate la Spring come usato o è meglio…?",
-      "url": "https://www.vaielettrico.it/consigliate-la-spring-come-usato-o-e-meglio/",
-      "image": null,
-      "summary": "Consigliate la Spring come usato o è meglio un altro modello? E che precauzioni devo prendere prima di… L'articolo Consigliate la Spring come usato o è meglio…? proviene da Vaielettrico .",
-      "date": "2026-11-03T08:55:50.0000000Z"
     },
     {
       "id": "insideevs:5eb678ad633a",
