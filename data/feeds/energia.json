@@ -1,7 +1,43 @@
 {
   "category": "energia",
-  "updated": "2026-11-04T11:12:21.2259638Z",
+  "updated": "2026-11-04T18:40:18.0525417Z",
   "items": [
+    {
+      "id": "qualenergia:bd09498fda3a",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Ddl Bilancio 2027, l’auto elettrica resta al palo",
+      "url": "https://www.qualenergia.it/articoli/ddl-bilancio-2027-auto-elettrica-resta-palo/",
+      "image": null,
+      "summary": "L’Italia rischia di diventare un mercato di serie B per le auto elettriche? È una possibilità concreta secondo Motus-E, l’associazione italiana che promuove la mobilità elettrica, perché le vendite di Bev (Battery Ele...",
+      "date": "2026-11-04T14:00:41.0000000Z"
+    },
+    {
+      "id": "qualenergia:2acb3a8126c1",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Dl Bollette bis: verso il Cdm con possibile apertura agli elettrici",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/dl-bollette-bis-verso-cdm-con-possibile-apertura-elettrici/",
+      "image": null,
+      "summary": "I tempi e i contenuti del nuovo decreto Bollette sono al centro di ipotesi da giorni, ma è Gilberto Pichetto Fratin a tentare di fare chiarezza. Intervenendo all’assemblea di Elettricità Futura oggi, 4 novembre, il ti...",
+      "date": "2026-11-04T11:30:43.0000000Z"
+    },
+    {
+      "id": "qualenergia:f325a46ca56a",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Batterie: Sma e Byd insieme in vista delle nuove aste Macse",
+      "url": "https://www.qualenergia.it/articoli/bess-sma-byd-insieme-vista-nuove-aste-macse/",
+      "image": null,
+      "summary": "Sma Italia e Byd Italia hanno siglato un accordo per sviluppare e commercializzare soluzioni integrate di accumulo elettrochimico, combinando le batterie del produttore cinese con le tecnologie di conversione e contro...",
+      "date": "2026-11-04T11:30:28.0000000Z"
+    },
     {
       "id": "qualenergia:2fc97cee557a",
       "sourceId": "qualenergia",
@@ -63,88 +99,52 @@
       "date": "2026-11-04T08:00:47.0000000Z"
     },
     {
-      "id": "qualenergia:6046849dde31",
+      "id": "qualenergia:96ecf27f9f83",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "Le concessioni idroelettriche",
-      "url": "https://www.qualenergia.it/pro/documenti/le-concessioni-idroelettriche/",
+      "title": "Filiere tecnologiche strategiche: contributi a imprese e centri di ricerca del Lazio",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/filiere-tecnologiche-strategiche-contributi-imprese-centri-ricerca-lazio/",
       "image": null,
-      "summary": "Le competenze in materia di idroelettrico si dividono tra Stato e Regioni, ma la materia è stratificata anche tra prerogative delle Province autonome, delle Regioni a Statuto speciale e di quelle a Statuto ordinario. ...",
-      "date": "2026-11-04T06:00:25.0000000Z"
+      "summary": "La Regione Lazio si prepara a pubblicare un bando per sostenere le imprese e gli organismi di ricerca nella realizzazione di progetti di sviluppo sperimentale su tecnologie strategiche per il territorio, comprese quel...",
+      "date": "2026-11-04T07:55:29.0000000Z"
     },
     {
-      "id": "qualenergia:07ae2b64b603",
+      "id": "qualenergia:50d40d648ab7",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "La bioeconomia delle foreste",
-      "url": "https://www.qualenergia.it/pro/documenti/la-bioeconomia-delle-foreste/",
+      "title": "Bandi e appalti del giorno (5)",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
       "image": null,
-      "summary": "Lo stato del patrimonio boschivo italiano, le criticità della sua gestione e gli impatti della crisi climatica. Il ruolo economico delle foreste, dai crediti di carbonio alla filiera legno-energia, comprese le potenzi...",
-      "date": "2026-11-04T06:00:12.0000000Z"
+      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
+      "date": "2026-11-04T07:30:17.0000000Z"
     },
     {
-      "id": "qualenergia:c806b8589e7b",
+      "id": "qualenergia:ed359064492d",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "INFODATA ENERGIA",
-      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "title": "LA FORMAZIONE ENERGETICA IN ITALIA",
+      "url": "https://www.qualenergia.it/pro/documenti/formazione-energetica-in-italia/",
       "image": null,
-      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
-      "date": "2026-11-04T05:30:00.0000000Z"
+      "summary": "Corsi universitari, master, ITS Academy, stage, seminari di formazione a vari livelli su tematiche energetiche, fonti rinnovabili, efficienza energetica e mobilità elettrica. Destinatari: studenti diplomati, universit...",
+      "date": "2026-11-04T06:15:30.0000000Z"
     },
     {
-      "id": "qualenergia:28c24aba79dc",
+      "id": "qualenergia:a65d4a20e822",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
       "platform": "rss",
       "category": "energia",
-      "title": "BANDI E APPALTI",
-      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "title": "Conduzione della centrale idroelettrica comunale a Gordona (SO)",
+      "url": "https://www.qualenergia.it/pro/documenti/conduzione-della-centrale-idroelettrica-comunale-a-gordona-so/",
       "image": null,
-      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
-      "date": "2026-11-04T05:00:00.0000000Z"
-    },
-    {
-      "id": "qualenergia:760fb2044c05",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Documenti & Report su QualEnergia.it – n. 67 (ott 2026)",
-      "url": "https://www.qualenergia.it/articoli/documenti-report-su-qualenergia-it-n-67-ott-2026/",
-      "image": null,
-      "summary": "INDICE n. 67 – Ottobre 2026 (32 documenti) ARCHIVIO DOCUMENTI & REPORT (2.861 docs) POLICY E INCENTIVI Memoria Arera sui costi dell’energia a carico dei consumatori e delle imprese Secondo il presidente Arera, Nicola ...",
-      "date": "2026-11-03T13:00:04.0000000Z"
-    },
-    {
-      "id": "qualenergia:ba731004f6d3",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Fotovoltaico, le zone di accelerazione dell’Umbria al rush finale",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/fotovoltaico-zone-accelerazione-umbria-rush-finale/",
-      "image": null,
-      "summary": "Il 2 novembre è stato un giorno significativo per le rinnovabili in Umbria. Da un lato, la Corte Costituzionale si è riunita in camera di consiglio per decidere sulle aree idonee approvate con legge regionale n. 7 del...",
-      "date": "2026-11-03T11:30:32.0000000Z"
-    },
-    {
-      "id": "qualenergia:a729a3a78115",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Stoccaggi gas, croce e delizia dell’inverno europeo",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/stoccaggi-gas-croce-delizia-inverno-europeo/",
-      "image": null,
-      "summary": "Il livello relativamente basso di riempimento degli stoccaggi europei di gas all’inizio della stagione invernale 2026-2027 potrebbe aumentare la volatilità dei prezzi energetici e alimentare ulteriori tensioni sugli a...",
-      "date": "2026-11-03T11:30:25.0000000Z"
+      "summary": "Affidamento del servizio di conduzione, gestione e manutenzione della centrale idroelettrica comunale in località Bodengo a Gordona (SO). Importo: 202.500 € Scadenza: 15/11/2026 Bando (zip) Bandi del giorno Archivio B...",
+      "date": "2026-11-04T06:00:38.0000000Z"
     }
   ]
 }
