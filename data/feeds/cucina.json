@@ -1,7 +1,19 @@
 {
   "category": "cucina",
-  "updated": "2026-11-04T18:40:18.0179675Z",
+  "updated": "2026-11-04T23:56:52.6684093Z",
   "items": [
+    {
+      "id": "giallozafferano:617bc88d1d70",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Spezzatino di funghi con purè di fagioli",
+      "url": "https://ricette.giallozafferano.it/Spezzatino-di-funghi-con-pure-di-fagioli.html",
+      "image": "https://www.giallozafferano.it/images/368-36812/Spezzatino-di-funghi-con-pure-di-fagioli_1200x800.jpg",
+      "summary": "Lo spezzatino di funghi con purè di fagioli è un secondo piatto vegetariano sfizioso e avvolgente, perfetto per portare in tavola tutto il gusto dell’autunno. Protagonisti della ricetta sono gli champignon arrostiti i...",
+      "date": "2026-11-04T16:42:00.0000000Z"
+    },
     {
       "id": "dissapore:395d1541f1a0",
       "sourceId": "dissapore",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/367-36785/Verza-stufata-al-pomodoro-con-ceci-e-olive_1200x800.jpg",
       "summary": "La verza stufata al pomodoro con ceci e olive è una ricetta semplice, rustica e ricca di sapore. La verza viene resa morbida e gustosa grazie alla lenta cottura con la passata di pomodoro, mentre i ceci e le olive agg...",
       "date": "2026-10-30T08:46:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:53c97c5a4714",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Sformato di zucca e mozzarella in friggitrice ad aria",
-      "url": "https://ricette.giallozafferano.it/Sformato-di-zucca-e-mozzarella-in-friggitrice-ad-aria.html",
-      "image": "https://www.giallozafferano.it/images/367-36788/Sformato-di-zucca-e-mozzarella-in-friggitrice-ad-aria_1200x800.jpg",
-      "summary": "Lo sformato di zucca e mozzarella in friggitrice ad aria è una ricetta di stagione che vi conquisterà con i suoi strati golosi e la crosticina dorata. La dolcezza della zucca incontra un ripieno succulento di prosciut...",
-      "date": "2026-10-29T16:23:00.0000000Z"
     }
   ]
 }
