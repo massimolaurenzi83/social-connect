@@ -1,7 +1,55 @@
 {
   "category": "mobilita",
-  "updated": "2026-11-05T05:53:34.4889990Z",
+  "updated": "2026-11-05T13:51:01.1349536Z",
   "items": [
+    {
+      "id": "ferrovie:e3dc1205187d",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Mugello e Valdisieve, da dicembre arrivano i primi treni Blues e meno rallentamenti",
+      "url": "https://www.ferrovie.info/treni-reali/mugello-e-valdisieve-da-dicembre-arrivano-i-primi-treni-blues-e-meno-rallentamenti.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10608/HTR312_0XX_Regionale_18220_Siena_-_Firenze_Santa_Maria_Novella_1.JPG",
+      "summary": "Nuovi treni, riduzione dei rallentamenti e interventi di potenziamento in programma. Le linee ferroviarie del Mugello e della Valdisieve si preparano a una serie di miglioramenti, con le prime novità attese già dal ca...",
+      "date": "2026-11-05T13:35:11.0000000Z"
+    },
+    {
+      "id": "ferrovie:a93e132bbb5e",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "FRMCS, DB InfraGO ed Ericsson completano con successo i test 5G in Germania",
+      "url": "https://www.ferrovie.info/treni-reali/frmcs-db-infrago-ed-ericsson-completano-con-successo-i-test-5g-in-germania.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_test_treni_FRMCS_germania.jpg",
+      "summary": "La tecnologia FRMCS compie un nuovo passo verso l'introduzione sulle reti ferroviarie europee. DB InfraGO ed Ericsson hanno completato con successo una sperimentazione end-to-end sui Monti Metalliferi, in Germania, ve...",
+      "date": "2026-11-05T11:14:24.0000000Z"
+    },
+    {
+      "id": "ferrovie:2eb176bfd275",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Micronews ferroviarie del 5 novembre, le notizie in aggiornamento",
+      "url": "https://www.ferrovie.info/treni-reali/micronews-ferroviarie-del-5-novembre-le-notizie-in-aggiornamento.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10476/37395266182_a3416cce81_o.jpg",
+      "summary": "Le notizie brevi dal mondo ferroviario, in Italia e all'estero, con aggiornamenti nel corso della giornata. Una raccolta in costante evoluzione per seguire le novità su treni, infrastrutture, stazioni, trasporti e azi...",
+      "date": "2026-11-05T11:03:09.0000000Z"
+    },
+    {
+      "id": "ferrovie:aebc122798bf",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Treni Avezzano-Roma, la Regione esclude tagli ma resta il nodo di Roma Termini",
+      "url": "https://www.ferrovie.info/treni-reali/treni-avezzano-roma-la-regione-esclude-tagli-ma-resta-il-nodo-di-roma-termini.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10002/G12_7051.jpg",
+      "summary": "Nessuna riduzione delle corse ferroviarie tra Avezzano e Roma , ma resta aperta la questione della destinazione dei collegamenti nella Capitale. La Regione Abruzzo rassicura i pendolari sul nuovo orario invernale, men...",
+      "date": "2026-11-05T10:26:37.0000000Z"
+    },
     {
       "id": "ferrovie:e8a506f72376",
       "sourceId": "ferrovie",
@@ -97,54 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10054/ATR_220_AW_204.jpg",
       "summary": "Le notizie brevi dal mondo ferroviario, con aggiornamenti dall’Italia e dall’Europa. Dai lavori infrastrutturali alle modifiche alla circolazione, passando per nuovi investimenti e iniziative dedicate ai viaggiatori, ...",
       "date": "2026-11-03T17:30:39.0000000Z"
-    },
-    {
-      "id": "ferrovie:21ecd4e9975e",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Romania, primo treno passeggeri con sistema ERTMS/ETCS di livello 2",
-      "url": "https://www.ferrovie.info/treni-reali/romania-primo-treno-passeggeri-con-sistema-ertms-etcs-di-livello-2.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_alstom_traxx_arf_Romania_4565.jpg",
-      "summary": "La Romania compie un nuovo passo verso la modernizzazione della propria rete ferroviaria. Per la prima volta un treno passeggeri viaggia in servizio commerciale utilizzando congiuntamente locomotive e infrastrutture d...",
-      "date": "2026-11-03T15:35:43.0000000Z"
-    },
-    {
-      "id": "ferrovie:2ae798b82eec",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Tunnel del Brennero, arsenico nei terreni e lavori rallentati, 50 operai in cassa integrazione",
-      "url": "https://www.ferrovie.info/treni-reali/tunnel-del-brennero-arsenico-nei-terreni-e-lavori-rallentati-50-operai-in-cassa-integrazione.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/BBT_406.jpg",
-      "summary": "Nuove difficoltà per la realizzazione della linea di accesso italiana al Tunnel di Base del Brennero , tra problemi ambientali, rallentamenti nei cantieri e preoccupazioni per l'occupazione. Dopo l'aumento dei costi d...",
-      "date": "2026-11-03T15:15:37.0000000Z"
-    },
-    {
-      "id": "ferrovie:7f87aee256af",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Palermo, entrano in servizio le fermate Porto e Politeama dell’anello ferroviario",
-      "url": "https://www.ferrovie.info/treni-reali/palermo-entrano-in-servizio-le-fermate-porto-e-politeama-dellanello-ferroviario.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10625/etr_104_005_palermo.jpg",
-      "summary": "Il treno arriva nel cuore di Palermo con l'apertura di due nuove fermate dell'anello ferroviario. Sono entrate in servizio le stazioni di Porto e Politeama , sulla tratta Giachery-Politeama, completando la prima fase ...",
-      "date": "2026-11-03T12:43:20.0000000Z"
-    },
-    {
-      "id": "ferrovie:75011514d175",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Siemens e Lufthansa Technik Defense progettano un treno sanitario",
-      "url": "https://www.ferrovie.info/treni-reali/siemens-e-lufthansa-technik-defense-progettano-un-treno-sanitario.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_vectron_x_vectouro_treno_sanitario_DB.jpg",
-      "summary": "Un treno attrezzato per trasferire feriti e malati, garantendo assistenza medica durante tutto il viaggio, anche nei casi più complessi. È il progetto al quale stanno lavorando Siemens Mobility e Lufthansa Technik Def...",
-      "date": "2026-11-03T08:42:49.0000000Z"
     }
   ]
 }

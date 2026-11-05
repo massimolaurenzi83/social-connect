@@ -1,7 +1,55 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-05T05:53:34.4952459Z",
+  "updated": "2026-11-05T13:51:01.1197713Z",
   "items": [
+    {
+      "id": "cybersecurity360:a1ff01cae05b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Come l’AI trasforma la gestione del backlog",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/come-lai-trasforma-la-gestione-del-backlog/",
+      "image": null,
+      "summary": "L'introduzione dell'intelligenza artificiale nei processi aziendali ridefinisce la gestione del backlog nella cyber security, trasformando i vincoli di tempo in scelte strategiche e imponendo nuove responsabilità ai t...",
+      "date": "2026-11-05T11:33:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:ea06b1103249",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Servizi di sicurezza gestiti, nuove regole di certificazione dal 6 novembre: cosa cambia",
+      "url": "https://www.cybersecurity360.it/legal/servizi-di-sicurezza-gestiti-nuove-regole-di-certificazione-dal-6-novembre-cosa-cambia/",
+      "image": null,
+      "summary": "Dal 6 novembre 2026 entra in vigore il decreto legislativo 191/2026, che adegua la normativa italiana al quadro europeo di certificazione dei servizi di sicurezza gestiti. Nuovi poteri per ACN, controlli e sanzioni pe...",
+      "date": "2026-11-05T09:27:53.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:6b956433e84e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Guerra cognitiva, il rapporto NATO spiega come proteggere le decisioni aziendali",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/guerra-cognitiva-il-rapporto-nato-spiega-come-proteggere-le-decisioni-aziendali/",
+      "image": null,
+      "summary": "Il rapporto della Science & Technology Organization della NATO sulla guerra cognitiva analizza come tecnologie digitali e AI possano alterare percezioni e decisioni. Per aziende e istituzioni, la difesa cyber deve inc...",
+      "date": "2026-11-05T08:46:25.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:68671788ea65",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Così la manipolazione delle AI diventa nuova superficie di attacco",
+      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/cosi-la-manipolazione-delle-ai-diventa-nuova-superficie-di-attacco/",
+      "image": null,
+      "summary": "Due esperti si confrontano con le soluzioni di difesa. Una mossa su tutte: applicare il modello zero trust all'architettura attorno al modello di AI, piuttosto che alla sola infrastruttura abilitante del modello stess...",
+      "date": "2026-11-05T08:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:03efb7d41611",
       "sourceId": "cybersecurity360",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "Gli attacchi ai sistemi di refrigerazione dei supermercati europei mostrano quanto possano essere vulnerabili gli impianti industriali connessi. Al di là delle ipotesi sulla guerra ibrida, emergono criticità nella man...",
       "date": "2026-11-04T09:42:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:643d17f887d8",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sicurezza dei dati, il rischio dei vecchi privilegi quando cambiano le mansioni",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/sicurezza-dei-dati-il-rischio-dei-vecchi-privilegi-quando-cambiano-le-mansioni/",
-      "image": null,
-      "summary": "Un cambio di mansione può lasciare attivi privilegi informatici non più necessari, esponendo i dati aziendali ad accessi impropri. Dal principio del minimo privilegio alla revisione periodica delle autorizzazioni, ecc...",
-      "date": "2026-11-04T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:fbbb20a2e71f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Contro le truffe online, più burocrazia o più attenzione? La difesa è nelle procedure",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/contro-le-truffe-online-piu-burocrazia-o-piu-attenzione-la-difesa-e-nelle-procedure/",
-      "image": null,
-      "summary": "Le truffe informatiche sfruttano urgenza e pressione psicologica per aggirare la capacità di valutazione delle vittime. Dalla CEO fraud al Business Email Compromise, la sola sensibilizzazione non basta: servono proced...",
-      "date": "2026-11-03T16:35:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ed9f0bca2d2f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "AI e cyber security, cambia la scala del rischio cyber: perché le vecchie difese non bastano più",
-      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/ai-cybersecurity-rischio-cyber-aziende/",
-      "image": null,
-      "summary": "L'intelligenza artificiale accelera gli attacchi, amplia le superfici di esposizione e mette in discussione i tradizionali modelli di difesa. Ai Cybersecurity360 Awards 2026, ACN, Clusit e i CISO di Snam, Hera e ACI G...",
-      "date": "2026-11-03T15:30:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ead4e490decb",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "SMS of Death, la vulnerabilità Android che può bloccare le chiamate: rischi e difese",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/sms-of-death-la-vulnerabilita-android-che-puo-bloccare-le-chiamate-rischi-e-difese/",
-      "image": null,
-      "summary": "Un SMS invisibile può mandare in crash il servizio telefonico di alcuni smartphone Android, interrompendo anche le chiamate di emergenza. La vulnerabilità SMS of Death, identificata come CVE-2026-58882, solleva interr...",
-      "date": "2026-11-03T13:11:48.0000000Z"
     }
   ]
 }
