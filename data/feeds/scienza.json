@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-11-04T23:56:52.5901683Z",
+  "updated": "2026-11-05T05:53:34.4595080Z",
   "items": [
+    {
+      "id": "focus:f25f9da0cab2",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Il deposito (definitivo) per scorie nucleari",
+      "url": "https://www.focus.it/scienza/energia/onkalo-e-un-bunker-progettato-per-sigillare-le-scorie-nucleari-per-un-milione-di-anni",
+      "image": "https://www.focus.it/images/2026/11/04/scorie-nucleari_w630.jpg?imbypass=true",
+      "summary": "Scavato a 400 metri di profondità, l'impianto sfrutta un sistema multibarriera in rame e bentonite per isolare le scorie nucleari per un milione di anni.",
+      "date": "2026-11-05T03:00:00.0000000Z"
+    },
     {
       "id": "media-inaf:501668f70ac8",
       "sourceId": "media-inaf",
@@ -171,18 +183,6 @@
       "date": "2026-11-03T09:00:00.0000000Z"
     },
     {
-      "id": "focus:4f3833657cec",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "COP17 sulla biodiversità: le conclusioni",
-      "url": "https://www.focus.it/ambiente/natura/cop17-sulla-biodiversita-le-conclusioni",
-      "image": "https://www.focus.it/images/2026/11/03/mangrovia-tropici_w630.jpg?imbypass=true",
-      "summary": "Si è conclusa la COP17 sulla biodiversità: siamo lontani dal raggiungere gli obiettivi fissati nella COP15, e i Paesi più ricchi peccano di tirchieria.",
-      "date": "2026-11-03T08:00:00.0000000Z"
-    },
-    {
       "id": "focus:346c84517d33",
       "sourceId": "focus",
       "source": "Focus",
@@ -195,16 +195,16 @@
       "date": "2026-11-03T08:00:00.0000000Z"
     },
     {
-      "id": "focus:eebcdd2ddf50",
+      "id": "focus:4f3833657cec",
       "sourceId": "focus",
       "source": "Focus",
       "platform": "rss",
       "category": "scienza",
-      "title": "La prossima era glaciale era già iniziata...",
-      "url": "https://www.focus.it/scienza/scienze/la-prossima-era-glaciale-era-gia-iniziata-ecco-come-il-riscaldamento-globale-l-ha-fermata",
-      "image": "https://www.focus.it/images/2026/11/02/riscaldamento-globale-glaciazione_w630.jpg?imbypass=true",
-      "summary": "Duemila anni fa i ghiacci dell'Artico canadese avevano ricominciato a espandersi, avviando un nuovo ciclo glaciale. Dagli anni Sessanta, il riscaldamento globale ha interrotto il processo, invertendo la rotta di un fe...",
-      "date": "2026-11-03T03:00:00.0000000Z"
+      "title": "COP17 sulla biodiversità: le conclusioni",
+      "url": "https://www.focus.it/ambiente/natura/cop17-sulla-biodiversita-le-conclusioni",
+      "image": "https://www.focus.it/images/2026/11/03/mangrovia-tropici_w630.jpg?imbypass=true",
+      "summary": "Si è conclusa la COP17 sulla biodiversità: siamo lontani dal raggiungere gli obiettivi fissati nella COP15, e i Paesi più ricchi peccano di tirchieria.",
+      "date": "2026-11-03T08:00:00.0000000Z"
     },
     {
       "id": "media-inaf:b3df7e5c5399",
