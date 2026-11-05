@@ -1,7 +1,31 @@
 {
   "category": "scienza",
-  "updated": "2026-11-05T13:51:01.1160796Z",
+  "updated": "2026-11-05T20:52:44.0831035Z",
   "items": [
+    {
+      "id": "media-inaf:57fe9e0696cd",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Fine corsa per Swift",
+      "url": "https://www.media.inaf.it/2026/11/05/fine-corsa-per-swift/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/cq5dam.web_.1280.1280-150x150.jpeg",
+      "summary": "Si è conclusa ieri la lunga avventura spaziale dell’osservatorio Neil Gehrels Swift della Nasa. Dopo 22 anni di attività, il cacciatore di raggi gamma è rientrato in maniera incontrollata nell’atmosfera terrestre, dis...",
+      "date": "2026-11-05T19:46:58.0000000Z"
+    },
+    {
+      "id": "focus:0e7d449b1811",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Da quando doniamo il sangue",
+      "url": "https://www.focus.it/cultura/curiosita/quando-abbiamo-iniziato-a-donare-il-sangue",
+      "image": "https://www.focus.it/images/2026/11/05/donazione-sangue_w630.jpg?imbypass=true",
+      "summary": "Dai primi esperimenti nel Seicento alla scoperta dei gruppi sanguigni: l'arrivo delle tecniche di conservazione e la nascita delle prime banche del sangue negli anni Trenta hanno rivoluzionato la medicina.",
+      "date": "2026-11-05T16:00:00.0000000Z"
+    },
     {
       "id": "geopop:E1-qLBS_U9w",
       "sourceId": "geopop",
@@ -40,13 +64,13 @@
       "date": "2026-11-05T11:00:51.0000000Z"
     },
     {
-      "id": "focus:4cc2bb4dea6d",
+      "id": "focus:ab3c2eb40726",
       "sourceId": "focus",
       "source": "Focus",
       "platform": "rss",
       "category": "scienza",
-      "title": "Anche gli uccelli soffrono di jet lag",
-      "url": "https://www.focus.it/ambiente/animali/anche-gli-uccelli-marini-soffrono-di-jet-lag",
+      "title": "Anche gli uccelli soffrono il jet lag",
+      "url": "https://www.focus.it/ambiente/animali/anche-uccelli-marini-soffrono-jet-lag",
       "image": "https://www.focus.it/images/2026/11/03/berta-minore-atlantica_w630.jpeg?imbypass=true",
       "summary": "Gli uccelli marini che volano per grandi distanze sbagliano strada per via del sole, in maniera non dissimile dal nostro jet lag.",
       "date": "2026-11-05T09:00:00.0000000Z"
@@ -258,18 +282,6 @@
       "date": "2026-11-03T10:00:00.0000000Z"
     },
     {
-      "id": "focus:55abde91db41",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Su Minecraft esiste una biblioteca segreta che aggira la censura",
-      "url": "https://www.focus.it/tecnologia/innovazione/su-minecraft-esiste-una-biblioteca-segreta-che-aggira-la-censura",
-      "image": "https://www.focus.it/images/2026/11/02/the-uncensored-library-orig.png?imbypass=true",
-      "summary": "The Uncensored Library è stata creata da Reporters without borders (RSF) sfruttando un dato: anche dove giornali wesiti web vengono bloccati, Minecraft continua a funzionare.",
-      "date": "2026-11-03T09:00:00.0000000Z"
-    },
-    {
       "id": "geopop:6DGaYJ7nY34",
       "sourceId": "geopop",
       "source": "Geopop",
@@ -342,18 +354,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/Fortuna_Yang_BHianca_press_release_2026_v1-150x150.png",
       "summary": "Un lampo di raggi gamma dall’apparenza ordinaria, seguito da un bagliore insolitamente luminoso, ha rivelato la presenza di un getto di materia ed energia nascosto alla nostra vista. Lo studio, guidato da astrofisici ...",
       "date": "2026-10-30T11:06:37.0000000Z"
-    },
-    {
-      "id": "media-inaf:2ba8d49bde3c",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Hera: le prime immagini di Didymos e Dimorphos",
-      "url": "https://www.media.inaf.it/2026/10/30/hera-risolve-didymos-dimorphos/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/10/preview-img-1-150x150.jpg",
-      "summary": "L’immagine è stata scattata lo scorso 18 ottobre e pubblicata un paio di giorni fa. A una distanza di oltre mille chilometri, la missione Hera dell’Esa finalmente riesce a distinguere il suo obiettivo scientifico: il ...",
-      "date": "2026-10-30T09:26:02.0000000Z"
     },
     {
       "id": "curiuss:PjoHsNNhkjc",

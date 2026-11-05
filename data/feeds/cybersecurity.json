@@ -1,7 +1,79 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-05T13:51:01.1197713Z",
+  "updated": "2026-11-05T20:52:44.1139798Z",
   "items": [
+    {
+      "id": "cybersecurity360:fcd7cc6cd03a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Backdoor nei modelli AI open-weight: il nuovo rischio per la supply chain",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/backdoor-nei-modelli-ai-open-weight-il-nuovo-rischio-per-la-supply-chain/",
+      "image": null,
+      "summary": "Una ricerca CERT-AgID dimostra come una backdoor possa essere incorporata nei modelli AI open-weight attraverso il fine-tuning e restare inattiva fino al collegamento di uno specifico server MCP. Un rischio difficile ...",
+      "date": "2026-11-05T16:49:53.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:a05f6d669d3b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Falsi allarmi bomba sui voli europei: il sospetto di una regia coordinata nella guerra ibrida",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/falsi-allarmi-bomba-sui-voli-europei-il-sospetto-di-una-regia-coordinata-nella-guerra-ibrida/",
+      "image": null,
+      "summary": "Venti falsi allarmi bomba in un solo giorno hanno coinvolto voli europei, sette dei quali italiani, portando ad oltre 31 gli episodi registrati da inizio novembre. Le minacce via email hanno mobilitato anche la difesa...",
+      "date": "2026-11-05T16:25:42.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:3f5ef7ed6b7e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Sistemi OT: la fiducia diventa un accesso agli impianti aziendali",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/sistemi-ot-la-fiducia-diventa-un-accesso-agli-impianti-aziendali/",
+      "image": null,
+      "summary": "Il report NAIS Q3 2026 analizza l’abuso di credenziali, fornitori e sistemi OT e rileva 107 rivendicazioni ransomware contro organizzazioni italiane. Le TTP osservate mostrano perché tempi di remediation e hardening i...",
+      "date": "2026-11-05T15:48:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:2e2f3aa2737b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Rapina cyber da 100 milioni a banca francese, quali precedenti (anche in Italia)",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/rubati-100-milioni-a-banca-francese-ma-quanto-sono-frequenti-le-rapine-cyber/",
+      "image": null,
+      "summary": "Un attacco informatico ha sottratto oltre 100 milioni di euro dai conti propri della banca Crédit Mutuel Arkéa in Francia. Da Bank of Valletta a Carbanak e a un caso italiano, i precedenti mostrano come i criminali ri...",
+      "date": "2026-11-05T14:49:41.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:b7b3eca50f3c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Catena del freddo e impianti connessi: cosa verificare dopo il richiamo ACN",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/catena-del-freddo-e-impianti-connessi-cosa-verificare-dopo-il-richiamo-acn/",
+      "image": null,
+      "summary": "ACN e CSIRT Italia rinnovano il richiamo urgente sulla catena del freddo e sui sistemi industriali gestiti da remoto, in ogni settore. Le priorità per le aziende: proteggere le interfacce, verificare i parametri opera...",
+      "date": "2026-11-05T14:48:58.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:bc91609f2934",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "pCloud Pass e Cloud Storage: la licenza Lifetime a vita è in sconto",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/promo-pcloud-pass-cloud-storage-lifetime-mancano-5-giorni/",
+      "image": null,
+      "summary": "Sono diverse le soluzioni Lifetime di pCloud per archiviare file online e proteggere le password, con pagamento una tantum. I prezzi partono da 149 euro per il password manager e da 219 euro per il cloud storage L'art...",
+      "date": "2026-11-05T14:08:47.0000000Z"
+    },
     {
       "id": "cybersecurity360:a1ff01cae05b",
       "sourceId": "cybersecurity360",
@@ -49,78 +121,6 @@
       "image": null,
       "summary": "Due esperti si confrontano con le soluzioni di difesa. Una mossa su tutte: applicare il modello zero trust all'architettura attorno al modello di AI, piuttosto che alla sola infrastruttura abilitante del modello stess...",
       "date": "2026-11-05T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:03efb7d41611",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "LLMJacking, 100mila dollari al giorno per un’AI mai utilizzata: la nuova minaccia cloud",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/llmjacking-100mila-dollari-al-giorno-per-unai-mai-utilizzata-la-nuova-minaccia-cloud/",
-      "image": null,
-      "summary": "L'LLMJacking può generare oltre 100mila dollari di costi cloud fraudolenti in un solo giorno, anche per servizi AI mai attivati dall'azienda. Google e Mandiant descrivono una filiera criminale che sfrutta credenziali ...",
-      "date": "2026-11-04T16:27:11.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3ad2a18b6676",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "ChatGPT e Claude usati come esca: il malware Yoba si nasconde negli installer falsi",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/chatgpt-e-claude-usati-come-esca-il-malware-yoba-si-nasconde-negli-installer-falsi/",
-      "image": null,
-      "summary": "Una campagna malware sfrutta falsi installer di ChatGPT e Claude per compromettere i PC Windows. I criminali utilizzano repository GitHub fraudolenti, eseguibili firmati digitalmente e tecniche di DLL sideloading per ...",
-      "date": "2026-11-04T15:36:43.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a4e21932da4a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cavi sottomarini: l’Ue punta al collegamento diretto con la Groenlandia",
-      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/cavi-sottomarini-lue-punta-al-collegamento-diretto-con-la-groenlandia/",
-      "image": null,
-      "summary": "Il primo collegamento diretto con la Groenlandia al territorio, tramite un cavo sottomarino sovrano e sicuro, è il primo tassello di una dorsale artica destinata, nelle intenzioni della Ue, a unire l'Europa al Giappon...",
-      "date": "2026-11-04T14:57:55.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:18e82e96d2dd",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Frigoriferi sanitari hackerati: in Francia colpite le scorte di plasma",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/frigoriferi-sanitari-hackerati-in-francia-colpite-le-scorte-di-plasma/",
-      "image": null,
-      "summary": "Un cyber attacco ha alterato i comandi dei frigoriferi in tre siti dell’Établissement Français du Sang. Gli allarmi hanno permesso di salvare il plasma destinato alle cure. Il caso riguarda anche la sicurezza della sa...",
-      "date": "2026-11-04T11:59:46.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:1e0c2ae1a758",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Kaspersky Small Office Security Premium: protezione da 5 a 100 utenti, sicurezza ransomware e Buono Regalo Amazon.it da 50 euro",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/kaspersky-small-office-security-premium-cybersecurity-pmi-promozione/",
-      "image": null,
-      "summary": "Kaspersky Small Office Security Premium integra antivirus, VPN, password manager e protezione dai ransomware per le piccole imprese. I pacchetti partono da 275 euro e prevedono un Buono Regalo Amazon.it da 50 euro per...",
-      "date": "2026-11-04T10:08:33.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:9295b6437c6c",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Attacchi ai supermercati: il rischio non è solo la guerra ibrida, ma la manutenzione remota",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/attacchi-ai-supermercati-il-rischio-non-e-solo-la-guerra-ibrida-ma-la-manutenzione-remota/",
-      "image": null,
-      "summary": "Gli attacchi ai sistemi di refrigerazione dei supermercati europei mostrano quanto possano essere vulnerabili gli impianti industriali connessi. Al di là delle ipotesi sulla guerra ibrida, emergono criticità nella man...",
-      "date": "2026-11-04T09:42:00.0000000Z"
     }
   ]
 }
