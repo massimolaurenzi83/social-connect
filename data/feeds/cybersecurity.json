@@ -1,19 +1,7 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-05T20:52:44.1139798Z",
+  "updated": "2026-11-06T01:18:43.2755118Z",
   "items": [
-    {
-      "id": "cybersecurity360:fcd7cc6cd03a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Backdoor nei modelli AI open-weight: il nuovo rischio per la supply chain",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/backdoor-nei-modelli-ai-open-weight-il-nuovo-rischio-per-la-supply-chain/",
-      "image": null,
-      "summary": "Una ricerca CERT-AgID dimostra come una backdoor possa essere incorporata nei modelli AI open-weight attraverso il fine-tuning e restare inattiva fino al collegamento di uno specifico server MCP. Un rischio difficile ...",
-      "date": "2026-11-05T16:49:53.0000000Z"
-    },
     {
       "id": "cybersecurity360:a05f6d669d3b",
       "sourceId": "cybersecurity360",
@@ -121,6 +109,18 @@
       "image": null,
       "summary": "Due esperti si confrontano con le soluzioni di difesa. Una mossa su tutte: applicare il modello zero trust all'architettura attorno al modello di AI, piuttosto che alla sola infrastruttura abilitante del modello stess...",
       "date": "2026-11-05T08:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:03efb7d41611",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "LLMJacking, 100mila dollari al giorno per un’AI mai utilizzata: la nuova minaccia cloud",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/llmjacking-100mila-dollari-al-giorno-per-unai-mai-utilizzata-la-nuova-minaccia-cloud/",
+      "image": null,
+      "summary": "L'LLMJacking può generare oltre 100mila dollari di costi cloud fraudolenti in un solo giorno, anche per servizi AI mai attivati dall'azienda. Google e Mandiant descrivono una filiera criminale che sfrutta credenziali ...",
+      "date": "2026-11-04T16:27:11.0000000Z"
     }
   ]
 }
