@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-11-06T01:18:43.3040261Z",
+  "updated": "2026-11-06T08:01:00.5685521Z",
   "items": [
+    {
+      "id": "qualenergia:e091323eef14",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Mercati elettrici Ue, 4 miliardi di benefici ancora da sfruttare",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/mercati-elettrici-ue-4-miliardi-benefici-ancora-sfruttare/",
+      "image": null,
+      "summary": "L’integrazione dei mercati elettrici europei sta producendo importanti benefici economici, ma le congestioni delle reti, i ritardi nell’attuazione delle regole comunitarie e le limitazioni agli scambi transfrontalieri...",
+      "date": "2026-11-06T08:00:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-11-06T05:30:00.0000000Z"
+    },
     {
       "id": "qualenergia:3be6a5bc959a",
       "sourceId": "qualenergia",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
       "date": "2026-11-05T07:30:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:e6b462d299e0",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Progress of EU Electricity Wholesale Market Integration",
-      "url": "https://www.qualenergia.it/pro/documenti/progress-of-eu-electricity-wholesale-market-integration/",
-      "image": null,
-      "summary": "Nel 2025 gli scambi transfrontalieri in Europa sul mercato del giorno prima hanno generato circa 32 miliardi di euro di surplus economico. Un’ulteriore integrazione su tutti i mercati potrebbe generare almeno altri 4 ...",
-      "date": "2026-11-05T06:15:49.0000000Z"
-    },
-    {
-      "id": "qualenergia:530a3b9323b9",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Energy Policy Review Spain 2026",
-      "url": "https://www.qualenergia.it/pro/documenti/energy-policy-review-spain-2026/",
-      "image": null,
-      "summary": "La rapida espansione delle fonti rinnovabili in Spagna contribuisce a ridurre i prezzi all’ingrosso dell’elettricità e la dipendenza dalle importazioni di combustibili fossili, aumentando la sicurezza energetica nazio...",
-      "date": "2026-11-05T06:00:50.0000000Z"
     }
   ]
 }

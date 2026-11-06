@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-11-06T01:18:43.3221700Z",
+  "updated": "2026-11-06T08:01:00.6038103Z",
   "items": [
+    {
+      "id": "insideevs:bac8d2410211",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla spiazza tutti, cos'è successo in Germania",
+      "url": "https://insideevs.it/news/814488/tesla-vendute-germania-ottobre-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/W8bqM3/s3/tesla-brevetta-la-ricarica-wireless-che-vede-il-metallo.jpg",
+      "summary": "A ottobre 2026 le immatricolazioni crescono del 290,9% e arrivano a 2.932 unità. Ma la concorrenza cinese continua a mordere",
+      "date": "2026-11-06T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:78603cecffde",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Supercar del futuro, tra curve scolpite e linee tese",
+      "url": "https://it.motor1.com/news/812667/design-supercar-futuro/",
+      "image": "https://cdn.motor1.com/images/mgl/QeGKn3/s3/jaguar-type-01.jpg",
+      "summary": "Da Porsche e Alfa Romeo ad Audi e Jaguar, vi racconto perché i designer immaginano la velocità attraverso forme così diverse",
+      "date": "2026-11-06T06:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:b2a1b39a5063",
       "sourceId": "vaielettrico",
@@ -123,18 +147,6 @@
       "date": "2026-11-05T16:00:56.0000000Z"
     },
     {
-      "id": "insideevs:0e61154b2942",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla cambia il nome di FSD in Europa, ma per l’Italia...",
-      "url": "https://insideevs.it/news/814474/tesla-fsd-diventa-assisted-driving/",
-      "image": "https://cdn.motor1.com/images/mgl/8A0o0v/s3/tesla-assisted-driving.jpg",
-      "summary": "Anche sul sito italiano compare il nuovo nome \"Tesla Assisted Driving\" ma resta di livello 2 con piena responsabilità del conducente",
-      "date": "2026-11-05T16:00:00.0000000Z"
-    },
-    {
       "id": "motor1:adcf71ffc30b",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -144,6 +156,18 @@
       "url": "https://it.motor1.com/reviews/814338/mazda-6e-2027-la-prova/",
       "image": "https://cdn.motor1.com/images/mgl/qk8e2v/s3/mazda-6e-2027-la-prova.jpg",
       "summary": "Batteria LFP, consumi ridotti e sospensioni più rigide. La Mazda6e aggiorna la meccanica senza cambiare il suo design",
+      "date": "2026-11-05T16:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:0e61154b2942",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla cambia il nome di FSD in Europa, ma per l’Italia...",
+      "url": "https://insideevs.it/news/814474/tesla-fsd-diventa-assisted-driving/",
+      "image": "https://cdn.motor1.com/images/mgl/8A0o0v/s3/tesla-assisted-driving.jpg",
+      "summary": "Anche sul sito italiano compare il nuovo nome \"Tesla Assisted Driving\" ma resta di livello 2 con piena responsabilità del conducente",
       "date": "2026-11-05T16:00:00.0000000Z"
     },
     {
@@ -411,18 +435,6 @@
       "date": "2026-11-05T10:47:56.0000000Z"
     },
     {
-      "id": "motor1:129d19bd06c5",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Telematica nelle flotte, il dato non basta: bisogna sapere perché lo si raccoglie",
-      "url": "https://it.motor1.com/news/814406/telematica-gestione-flotte-flee-pro-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/ZnlNKA/s3/telematica-flotte-dati.jpg",
-      "summary": "Fermi macchina ridotti, gestione degli allestimenti e dei tragitti: come la telematica aiuta",
-      "date": "2026-11-05T10:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:f82262de3e2b",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -435,16 +447,16 @@
       "date": "2026-11-05T10:00:00.0000000Z"
     },
     {
-      "id": "motor1:f9ac2ac533ed",
+      "id": "motor1:129d19bd06c5",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Da 0 a 200 come un Bugatti: ecco come va la nuova super berlina Mercedes-AMG da 1.200 CV",
-      "url": "https://it.motor1.com/reviews/814021/mercedes-amg-gt-coupe4-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/L36LxG/s3/mercedes-amg-coupe-4-prova.jpg",
-      "summary": "Si chiama AMG GT Coupé4 e punta ad essere la quattro porte elettrica più veloce sul mercato",
-      "date": "2026-11-05T09:00:00.0000000Z"
+      "title": "Telematica nelle flotte, il dato non basta: bisogna sapere perché lo si raccoglie",
+      "url": "https://it.motor1.com/news/814406/telematica-gestione-flotte-flee-pro-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/ZnlNKA/s3/telematica-flotte-dati.jpg",
+      "summary": "Fermi macchina ridotti, gestione degli allestimenti e dei tragitti: come la telematica aiuta",
+      "date": "2026-11-05T10:00:00.0000000Z"
     },
     {
       "id": "insideevs:e6698ac2d0d1",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/W8KNLN/s3/xpeng-l03-2026.jpg",
       "summary": "La Xpeng L03 ha accumulatori più grandi nella versione europea. Non cambia la chimica LFP, ma la capacità: ecco i numeri",
       "date": "2026-11-04T12:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:58ba7b7fc9ca",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Una supermotard elettrica a meno di 8.000 euro",
-      "url": "https://insideevs.it/news/814344/zero-motorcycles-eicma-2026/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z14x1/s3/zero-motorcycles-project-ventura.jpg",
-      "summary": "Zero Motorcycles presenta Project Ventura, una nuova moto leggera e agile, e molto altro a EICMA 2026",
-      "date": "2026-11-04T10:22:39.0000000Z"
     }
   ]
 }

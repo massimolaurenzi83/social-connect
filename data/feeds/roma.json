@@ -1,6 +1,6 @@
 {
   "category": "roma",
-  "updated": "2026-11-06T01:18:43.2828928Z",
+  "updated": "2026-11-06T08:01:00.5915820Z",
   "items": [
     {
       "id": "romatoday:395ea2807dc6",
@@ -27,6 +27,30 @@
       "date": "2026-11-06T09:00:00.0000000Z"
     },
     {
+      "id": "romatoday:ca94ddc7261d",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Tor Pignattara, e-bike truccate in vendita: sequestrati 15 mezzi da 15mila euro",
+      "url": "https://www.romatoday.it/cronaca/tor-pignattara-sequestro-ebike-truccate.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/6251785969258/ebike.jpg",
+      "summary": "I mezzi, privi della certificazione di conformità europea, sono stati bloccati tra l'esposizione in vetrina e il magazzino del negozio",
+      "date": "2026-11-06T07:24:12.0000000Z"
+    },
+    {
+      "id": "romatoday:7cfc6dd7bcc5",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Colli Albani, sempre con l'auricolare all'orecchio e carte diverse: preleva soldi da bancomat rubati",
+      "url": "https://www.romatoday.it/cronaca/colli-albani-furti-soldi-bancomat.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/29204398981301/bancomat-generico-4.jpg",
+      "summary": "Contanti nei vestiti, carte rubate e foglietti con i codici PIN: 38enne sorpreso e arrestato dagli agenti",
+      "date": "2026-11-06T07:10:29.0000000Z"
+    },
+    {
       "id": "romatoday:2d9a75828bed",
       "sourceId": "romatoday",
       "source": "RomaToday",
@@ -37,6 +61,54 @@
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/39489466162827/melozzi.jpg",
       "summary": "Un'intera giornata per scardinare le convenzioni del concerto, abbattere le gerarchie tra i generi [...]",
       "date": "2026-11-06T07:00:00.0000000Z"
+    },
+    {
+      "id": "romatoday:d6aedead0881",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Gianmarco Emiliani morto in un incidente stradale a 24 anni, l'ipotesi del pirata della strada",
+      "url": "https://www.romatoday.it/cronaca/incidente-stradale/gianmarco-emiliani-morto-5-novembre-2026.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/55758254051003/polizia-locale-roma-capitale-incidente.jpg",
+      "summary": "Il 24enne ha perso il controllo della Vespa 50 ed è finito sull'asfalto in via del Foro Italico: poco dopo è stato investito da una vettura che non si è fermata. Indaga la polizia locale",
+      "date": "2026-11-06T05:27:06.0000000Z"
+    },
+    {
+      "id": "romatoday:e3978e9c0e39",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "È tornato a Roma Donato Ferdori, il professore arrestato in Cisgiordania: \"Ho subito violenze\"",
+      "url": "https://www.romatoday.it/cronaca/donato-ferdori-arrestato-cisgiordania-violenze.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/17286051878355/donato-ferdori.jpg",
+      "summary": "\"Sono successe varie cose difficili da raccontare\", ha detto il docente del liceo Anco Marzio di Ostia",
+      "date": "2026-11-06T05:01:00.0000000Z"
+    },
+    {
+      "id": "romatoday:92a2a09efffc",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "L'assessore Veloccia: \"I privati non ci condizionano, ma il pubblico non può fare tutto da solo\"",
+      "url": "https://www.romatoday.it/cronaca/inchiesta-di-mappatura-dei-fondi-immobiliare-parla-l-assessore-veloccia.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/31728179369903/maurizio-veloccia-assessore-all-urbanistica-di-roma-capitale-foto-lapresse.jpg",
+      "summary": "\"Nessuna speculazione, ma una città che si modernizza con regole ed equità. La liberalizzazione dei cambi di destinazione una fake news. E la vera crisi abitativa si combatte con un Piano Casa nazionale, non bloccando...",
+      "date": "2026-11-06T04:45:00.0000000Z"
+    },
+    {
+      "id": "romatoday:74827ae27008",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "La finanziarizzazione di Roma. Chi comanda, quanti miliardi muovono e la mappa dei fondi (e dei 4.600 beni gestiti)",
+      "url": "https://www.romatoday.it/dossier/economia/fondi-immobiliari-mappa-completa-analisi.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/35017923737391/gemini_generated_image_95i97q95i97q95i9.jpg",
+      "summary": "Il mercato immobiliare della Capitale è dominato da grandi società d'investimento che convertono migliaia di proprietà in asset speculativi di lusso e studentati privati. I risultati complessivi delle quattro puntate ...",
+      "date": "2026-11-06T04:15:00.0000000Z"
     },
     {
       "id": "romatoday:e0f84f971e37",
@@ -73,78 +145,6 @@
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/13346378471023/real-tor-bella-monaca-calcio-prima-cat-rosato-e-il-big-match-col-tor-lupara-una-partita-importante.jpg",
       "summary": "Dopo aver aperto il campionato con una sconfitta e un pareggio, i ragazzi del presidente Manuele Centra sembra abbiano imboccato la giusta direzione conquistando tre successi consecutivi e risalendo fino all’attuale t...",
       "date": "2026-11-05T18:10:42.0000000Z"
-    },
-    {
-      "id": "romatoday:0e7c633f886e",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Lvpa Frascati calcio, Ferrazza: “Tra un mese capiremo qualcosa di più sui nostri obiettivi”",
-      "url": "https://www.romatoday.it/sport/calcio/lvpa-frascati-calcio-ferrazza-tra-un-mese-capiremo-nostri-obiettivi.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/25888314943400/lvpa-frascati-calcio-under-14-reg-ferrazza-tra-un-mese-capiremo-qualcosa-di-piu-sui-nostri-obiettivi.jpg",
-      "summary": "I ragazzi di mister Mauro Ferrazza hanno vinto le prime quattro partite di campionato, dando sicuramente dei segnali promettenti",
-      "date": "2026-11-05T18:09:25.0000000Z"
-    },
-    {
-      "id": "romatoday:5aba00088cac",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Polisportiva Borghesiana, Governale e il settore karate: “Stiamo preparando la prima gara”",
-      "url": "https://www.romatoday.it/sport/altro/polisportiva-borghesiana-governale-karate-preparando-prima-gara.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/11685972891072/governale-karate-2.jpg",
-      "summary": "\"I corsi sono ripartiti all’inizio di settembre e anche per questa stagione sportiva possiamo contare su alcuni bambini che per la prima volta si approcciano alla nostra disciplina\"",
-      "date": "2026-11-05T18:06:37.0000000Z"
-    },
-    {
-      "id": "romatoday:218e6d3eae77",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Vis Casilina calcio, Ignagni: “Sono sicuro che ci toglieremo delle belle soddisfazioni”",
-      "url": "https://www.romatoday.it/sport/calcio/vis-casilina-calcio-ignagni-ci-toglieremo-belle-soddisfazioni.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/67131803494125/ignani-vis-casilina-2.jpg",
-      "summary": "L’Under 14 provinciale della Vis Casilina ha osservato il primo turno di riposo del suo campionato, godendosi la squillante vittoria della settimana precedente sul campo del Petriana",
-      "date": "2026-11-05T18:04:20.0000000Z"
-    },
-    {
-      "id": "romatoday:6ee553798708",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Vis Santa Maria delle Mole calcio, Menichelli: “Era importante restare imbattuti”",
-      "url": "https://www.romatoday.it/sport/calcio/vis-santa-maria-mole-calcio-menichelli-importante-restare-imbattuti.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/12431253092910/vis-santa-maria-delle-mole-calcio-prima-cat-menichelli-era-importante-restare-imbattuti.jpg",
-      "summary": "La Prima categoria della Vis Santa Maria delle Mole ha centrato il suo primo pareggio stagionale, dopo il poker di vittorie di inizio campionato",
-      "date": "2026-11-05T17:58:13.0000000Z"
-    },
-    {
-      "id": "romatoday:e0cc043ef125",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Rocca Priora calcio, primo urrà. Gatta: “Contento per i ragazzi, ora serve continuare”",
-      "url": "https://www.romatoday.it/sport/calcio/rocca-priora-calcio-under-15-primo-urra-gatta-contento-.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/32860645313171/rocca-priora-calcio-under-15-primo-urra-gatta-contento-per-i-ragazzi-ora-serve-continuare.jpg",
-      "summary": "Il gruppo dell'under 15 provinciale ha ottenuto il primo successo in campionato domenica scorsa nel match casalingo contro il Bellegra",
-      "date": "2026-11-05T17:56:33.0000000Z"
-    },
-    {
-      "id": "romatoday:81fdde45a9fb",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "La vicina sente odore di gas: ragazza trovata morta in casa all'Appio Latino",
-      "url": "https://www.romatoday.it/cronaca/ragazza-morta-appio-latino.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/18286299733777/polizia-e-vigili-del-fuoco-poliziotti-e-pompieri-roma.jpg",
-      "summary": "La tragedia poco prima delle 14, inutili i soccorsi",
-      "date": "2026-11-05T17:37:39.0000000Z"
     },
     {
       "id": "roma-repubblica:cfc7e14763b5",

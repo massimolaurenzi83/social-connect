@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-06T01:18:43.2755118Z",
+  "updated": "2026-11-06T08:01:00.5743047Z",
   "items": [
+    {
+      "id": "cybersecurity360:1fcfdef41bf2",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "GDPR, la vigilanza diventa una rete senza regia: i rischi per la protezione dei dati",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/gdpr-la-vigilanza-diventa-una-rete-senza-regia-i-rischi-per-la-protezione-dei-dati/",
+      "image": null,
+      "summary": "L'enforcement del GDPR è diventato una rete di autorità pubbliche, giudici e soggetti privati che intervengono sulla protezione dei dati. Ma la moltiplicazione dei controlli non garantisce una tutela più efficace senz...",
+      "date": "2026-11-06T07:35:32.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:c7b7c932627f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Frigoriferi hackerati in Italia: tutti i casi e i danni accertati",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/frigoriferi-hackerati-in-italia-tutti-i-casi-e-i-danni-accertati/",
+      "image": null,
+      "summary": "Dalla Sicilia al Trentino, fino alla Liguria: la campagna contro i sistemi frigoriferi ha colpito supermercati, mense, imprese alimentari e un bar. I danni dichiarati vanno dalle centinaia alle centinaia di migliaia d...",
+      "date": "2026-11-06T06:59:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:fcd7cc6cd03a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Backdoor nei modelli AI open-weight: il nuovo rischio per la supply chain",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/backdoor-nei-modelli-ai-open-weight-il-nuovo-rischio-per-la-supply-chain/",
+      "image": null,
+      "summary": "Una ricerca CERT-AgID dimostra come una backdoor possa essere incorporata nei modelli AI open-weight attraverso il fine-tuning e restare inattiva fino al collegamento di uno specifico server MCP. Un rischio difficile ...",
+      "date": "2026-11-05T16:49:53.0000000Z"
+    },
     {
       "id": "cybersecurity360:a05f6d669d3b",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Dal 6 novembre 2026 entra in vigore il decreto legislativo 191/2026, che adegua la normativa italiana al quadro europeo di certificazione dei servizi di sicurezza gestiti. Nuovi poteri per ACN, controlli e sanzioni pe...",
       "date": "2026-11-05T09:27:53.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:6b956433e84e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Guerra cognitiva, il rapporto NATO spiega come proteggere le decisioni aziendali",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/guerra-cognitiva-il-rapporto-nato-spiega-come-proteggere-le-decisioni-aziendali/",
-      "image": null,
-      "summary": "Il rapporto della Science & Technology Organization della NATO sulla guerra cognitiva analizza come tecnologie digitali e AI possano alterare percezioni e decisioni. Per aziende e istituzioni, la difesa cyber deve inc...",
-      "date": "2026-11-05T08:46:25.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:68671788ea65",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Così la manipolazione delle AI diventa nuova superficie di attacco",
-      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/cosi-la-manipolazione-delle-ai-diventa-nuova-superficie-di-attacco/",
-      "image": null,
-      "summary": "Due esperti si confrontano con le soluzioni di difesa. Una mossa su tutte: applicare il modello zero trust all'architettura attorno al modello di AI, piuttosto che alla sola infrastruttura abilitante del modello stess...",
-      "date": "2026-11-05T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:03efb7d41611",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "LLMJacking, 100mila dollari al giorno per un’AI mai utilizzata: la nuova minaccia cloud",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/llmjacking-100mila-dollari-al-giorno-per-unai-mai-utilizzata-la-nuova-minaccia-cloud/",
-      "image": null,
-      "summary": "L'LLMJacking può generare oltre 100mila dollari di costi cloud fraudolenti in un solo giorno, anche per servizi AI mai attivati dall'azienda. Google e Mandiant descrivono una filiera criminale che sfrutta credenziali ...",
-      "date": "2026-11-04T16:27:11.0000000Z"
     }
   ]
 }
