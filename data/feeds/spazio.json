@@ -1,7 +1,19 @@
 {
   "category": "spazio",
-  "updated": "2026-11-06T08:01:00.5653239Z",
+  "updated": "2026-11-06T15:52:57.7578155Z",
   "items": [
+    {
+      "id": "astronautinews:71fb903a3e85",
+      "sourceId": "astronautinews",
+      "source": "AstronautiNEWS",
+      "platform": "rss",
+      "category": "spazio",
+      "title": "Il rover ETNA ha superato la Final Review",
+      "url": "https://www.astronautinews.it/2026/11/il-rover-etna-ha-superato-la-final-review/",
+      "image": "https://www.astronautinews.it/wp-content/uploads/2026/11/ASI-ETNA-rover-2026-02.jpeg",
+      "summary": "Lo scorso 30 ottobre l'Agenzia Spaziale Italiana (ASI) ha annunciato che il dimostratore di rover lunare ETNA (Exploration Technology for Navigation & Autonomy) ha superato con successo la final review . Si tratta di ...",
+      "date": "2026-11-06T11:30:00.0000000Z"
+    },
     {
       "id": "astronautinews:a0536597de09",
       "sourceId": "astronautinews",
@@ -133,18 +145,6 @@
       "image": "https://www.astronautinews.it/wp-content/uploads/2026/09/MAGPIE_team_at_signing_ceremony_pillars.jpg",
       "summary": "Lo scorso 1 settembre a Copenhagen, nell'ambito dell'evento Space for Inspiration , la cerimonia della firma del contratto per la realizzazione (Phase 2) del rover lunare MAGPIE, fra l'Agenzia spaziale europea (ESA) e...",
       "date": "2026-09-14T16:00:00.0000000Z"
-    },
-    {
-      "id": "astronautinews:5559323be134",
-      "sourceId": "astronautinews",
-      "source": "AstronautiNEWS",
-      "platform": "rss",
-      "category": "spazio",
-      "title": "Aggiornamenti dal sistema solare: agosto 2026",
-      "url": "https://www.astronautinews.it/2026/09/aggiornamenti-dal-sistema-solare-agosto-2026/",
-      "image": "https://www.astronautinews.it/wp-content/uploads/2017/05/edu_solar_system_large_0.png",
-      "summary": "Cresce l'attesa per le ultime fasi di avvicinamento di BepiColombo a Mercurio, JUICE si prepara al prossimo flyby della Terra e le sonde in allontanamento dal sistema solare continuano a stupire. Tra le missioni futur...",
-      "date": "2026-09-09T18:37:00.0000000Z"
     }
   ]
 }
