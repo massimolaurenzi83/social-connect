@@ -1,7 +1,139 @@
 {
   "category": "motori",
-  "updated": "2026-11-06T15:52:57.8231420Z",
+  "updated": "2026-11-06T21:12:34.7939826Z",
   "items": [
+    {
+      "id": "motor1:e3d9838d780f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Gomme usurate: la frenata che nessuno misurava (e che ora è obbligatoria)",
+      "url": "https://it.motor1.com/news/814071/gomme-usurate-frenata-michelin/",
+      "image": "https://cdn.motor1.com/images/mgl/NG6ny2/s3/michelin-crossclimate-4-stagioni.jpg",
+      "summary": "Dalla nuova prova europea sulle gomme consumate al CrossClimate che sfida l’inverno, fino al quattro stagioni sportivo",
+      "date": "2026-11-06T20:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:2e1fed2023c8",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La McLaren 750S diventa una Mercedes CLK GTR: debutta la spettacolare Game Over",
+      "url": "https://www.hdmotori.it/mclaren-mercedes-clk-gtr-potenza/",
+      "image": null,
+      "summary": "La McLaren 750S si è unita all’iconica Mercedes CLK GTR per la creazione di una carrozzeria rossa e bianca ispirata alle corse The post La McLaren 750S diventa una Mercedes CLK GTR: debutta la spettacolare Game Over a...",
+      "date": "2026-11-06T18:30:46.0000000Z"
+    },
+    {
+      "id": "hdmotori:51a59a8368ce",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BYD Dolphin G DM-i: promozione con finanziamento a tasso zero per il Black Friday 2026",
+      "url": "https://www.hdmotori.it/byd-dolphin-g-dm-i-promozione-finanziamento-black-friday-2026/",
+      "image": null,
+      "summary": "Il finanziamento in collaborazione con Findomestic permette di acquistare fino al 30 novembre la Dolphin G DM-i Active con zero anticipo, 36 rate da 228,50 euro e maxi-rata finale. The post BYD Dolphin G DM-i: promozi...",
+      "date": "2026-11-06T18:00:03.0000000Z"
+    },
+    {
+      "id": "hdmotori:bfd03d7ffee0",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes GLA Tribute Edition, la serie speciale della generazione uscente: tanti vantaggi",
+      "url": "https://www.hdmotori.it/mercedes-gla-tribute-edition-la-serie-speciale-della-generazione-uscente-tanti-vantaggi/",
+      "image": null,
+      "summary": "Mercedes GLA Tribute Edition è la nuova serie speciale del SUV uscente: motori benzina e diesel, ricca dotazione AMG e vantaggi fino a 10.500 euro The post Mercedes GLA Tribute Edition, la serie speciale della generaz...",
+      "date": "2026-11-06T17:30:28.0000000Z"
+    },
+    {
+      "id": "hdmotori:d8557d0ed697",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Compra una Ferrari Daytona SP3 e fa l’affare della vita: la rivende per una cifra da capogiro",
+      "url": "https://www.hdmotori.it/ferrari-daytona-sp3-vendita-cifra/",
+      "image": null,
+      "summary": "Un collezionista che era riuscito ad accaparrarsi un esemplare di Ferrari Daytona SP3, dopo aver percorso appena 130 km, ha scelto di rivenderla. The post Compra una Ferrari Daytona SP3 e fa l’affare della vita: la ri...",
+      "date": "2026-11-06T17:00:02.0000000Z"
+    },
+    {
+      "id": "motor1:fc6b7dffd059",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Fuso Italia scommette tutto su Canter: servizi ambientali, ultimo miglio ed edilizia",
+      "url": "https://it.motor1.com/news/814691/fuso-italia-ecomondo-servizi-ambientali/",
+      "image": "https://cdn.motor1.com/images/mgl/XBbNAe/s3/fuso-canter.jpg",
+      "summary": "A Ecomondo 2026 FUSO Italia presenta Canter ed eCanter per igiene urbana, distribuzione in città e cantieri con rete e assistenza dedicate",
+      "date": "2026-11-06T17:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:647b3f44fa5a",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La C-Zero di Angelo: bene dopo 13 anni, ma per nuova batteria 12mila euro",
+      "url": "https://www.vaielettrico.it/la-c-zero-di-angelo-bene-dopo-13-anni-ma-per-nuova-batteria-12mila-euro/",
+      "image": null,
+      "summary": "Undici anni di utilizzo, ma 13 dall’immatricolazione, 110 mila chilometri percorsi e una convinzione che non è cambiata… L'articolo La C-Zero di Angelo: bene dopo 13 anni, ma per nuova batteria 12mila euro proviene da...",
+      "date": "2026-11-06T16:49:32.0000000Z"
+    },
+    {
+      "id": "hdmotori:c83e7a5d9ca7",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuovo Codice della Strada: le associazioni di ciclisti e pedoni chiedono lo stop alla riforma",
+      "url": "https://www.hdmotori.it/nuovo-codice-strada-ciclisti-pedoni-stop-riforma/",
+      "image": null,
+      "summary": "Distanza minima inderogabile di un metro e mezzo dai ciclisti e forte critica alla nuova disciplina sugli attraversamenti pedonali. La rete Rime presenta le sue obiezioni alla Camera. The post Nuovo Codice della Strad...",
+      "date": "2026-11-06T16:30:21.0000000Z"
+    },
+    {
+      "id": "hdmotori:f8a28cbedb2d",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ford Bronco Frostwarden: un veicolo da soccorso con 1.217 CV",
+      "url": "https://www.hdmotori.it/ford-bronco-frostwarden/",
+      "image": null,
+      "summary": "Ford svela al SEMA Show la Bronco Frostwarden da 1.217 CV: un esemplare unico da soccorso artico che porta al debutto il propulsore V8 Megazilla 2.0. The post Ford Bronco Frostwarden: un veicolo da soccorso con 1.217 ...",
+      "date": "2026-11-06T16:00:51.0000000Z"
+    },
+    {
+      "id": "motor1:5daf06c6246d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le auto a 7 posti che non pagano il bollo, per famiglie numerose",
+      "url": "https://it.motor1.com/features/814408/auto-7-posti-esenti-bollo-auto/",
+      "image": "https://cdn.motor1.com/images/mgl/ko8mOR/s3/le-auto-a-7-posti-che-non-pagano-il-bollo.jpg",
+      "summary": "La guida completa alle auto a 7 posti esenti in automatico dal bollo auto o che possono avere il rimborso per chi ha più di 3 figli",
+      "date": "2026-11-06T16:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:c7511b189c10",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla Roadster, quanto costa davvero prenotarla dall’Italia",
+      "url": "https://insideevs.it/news/814652/tesla-roadster-prezzo-prenotazione-ufficiale/",
+      "image": "https://cdn.motor1.com/images/mgl/XBbMb6/s3/tesla-roadster.jpg",
+      "summary": "Sul sito italiano compaiono le cifre della caparra: il prezzo finale della supercar elettrica si saprà solo al momento del contratto",
+      "date": "2026-11-06T16:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:f5e6d0cd31c1",
       "sourceId": "hdmotori",
@@ -99,18 +231,6 @@
       "date": "2026-11-06T14:00:07.0000000Z"
     },
     {
-      "id": "insideevs:bbbe94dd1a61",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Anche le vecchie Skoda Enyaq e Volkswagen ID.4 avranno il pre-riscaldamento",
-      "url": "https://insideevs.it/news/814658/volkswagen-skoda-aggiornamenti-ota/",
-      "image": "https://cdn.motor1.com/images/mgl/8A0ogo/s3/skoda-enyaq-update-zum-vorheizen-der-batterie.jpg",
-      "summary": "Un aggiornamento OTA introduce il precondizionamento sui modelli prodotti dal 2020 al 2024, per ridurre i tempi di ricarica in inverno",
-      "date": "2026-11-06T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:d5418b29509c",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -123,16 +243,16 @@
       "date": "2026-11-06T14:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:8235bc3c09b9",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "insideevs:bbbe94dd1a61",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "La Yangwang U9 Xtreme è la prima auto di serie a superare i 500 km/h",
-      "url": "https://www.hdmotori.it/yangwang-u9-xtreme-prima-auto-500-kmh/",
-      "image": null,
-      "summary": "L'hypercar elettrica cinese ha stabilito l’incredibile record di velocità toccando i 503,17 km/h in una prova condotta in Medio Oriente. The post La Yangwang U9 Xtreme è la prima auto di serie a superare i 500 km/h ap...",
-      "date": "2026-11-06T13:00:04.0000000Z"
+      "title": "Anche le vecchie Skoda Enyaq e Volkswagen ID.4 avranno il pre-riscaldamento",
+      "url": "https://insideevs.it/news/814658/volkswagen-skoda-aggiornamenti-ota/",
+      "image": "https://cdn.motor1.com/images/mgl/8A0ogo/s3/skoda-enyaq-update-zum-vorheizen-der-batterie.jpg",
+      "summary": "Un aggiornamento OTA introduce il precondizionamento sui modelli prodotti dal 2020 al 2024, per ridurre i tempi di ricarica in inverno",
+      "date": "2026-11-06T14:00:00.0000000Z"
     },
     {
       "id": "motor1:57ae11fd5bc2",
@@ -171,18 +291,6 @@
       "date": "2026-11-06T12:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:e068a2a2c292",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Toyota Celica 2027, il mito torna a far battere i cuori?",
-      "url": "https://www.hdmotori.it/toyota-celica-2027-ritorno-render/",
-      "image": null,
-      "summary": "Una nuova rappresentazione grafica ha svelato il design dell’ottava serie della Toyota Celica. Arriverà nel 2027 con un cuore termico. The post Toyota Celica 2027, il mito torna a far battere i cuori? appeared first o...",
-      "date": "2026-11-06T11:30:17.0000000Z"
-    },
-    {
       "id": "motor1:316c072c3467",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -193,18 +301,6 @@
       "image": "https://cdn.motor1.com/images/mgl/Y9NVq/s3/car-dual-exhaust-pipe.jpg",
       "summary": "I motori termici potrebbero sopravvivere dopo il 2035, ma a determinate condizioni. Ora bisogna attendere il voto del Parlamento",
       "date": "2026-11-06T11:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:4792fb048424",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Audi 2027: tutte le novità in arrivo",
-      "url": "https://it.motor1.com/news/814496/audi-novita-modelli-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/nA8ozk/s3/novita-audi-2027.jpg",
-      "summary": "La nuova RS6 con più cavalli che mai, l'erede della TT e l'arrivo nelle concessionarie delle nuove Q7 e Q9",
-      "date": "2026-11-06T11:00:00.0000000Z"
     },
     {
       "id": "insideevs:b0ed04c78f94",
@@ -219,16 +315,16 @@
       "date": "2026-11-06T11:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:42f2e1c3444d",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "motor1:4792fb048424",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Leapmotor da record a ottobre: +51% con oltre 106mila consegne",
-      "url": "https://www.hdmotori.it/leapmotor-record-ottobre-2026/",
-      "image": null,
-      "summary": "Leapmotor registra a ottobre 106.127 consegne globali (+51% sul 2025). Superata quota 1,9 milioni di auto prodotte dal lancio e debutta la nuova A10s. The post Leapmotor da record a ottobre: +51% con oltre 106mila con...",
-      "date": "2026-11-06T10:30:25.0000000Z"
+      "title": "Audi 2027: tutte le novità in arrivo",
+      "url": "https://it.motor1.com/news/814496/audi-novita-modelli-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/nA8ozk/s3/novita-audi-2027.jpg",
+      "summary": "La nuova RS6 con più cavalli che mai, l'erede della TT e l'arrivo nelle concessionarie delle nuove Q7 e Q9",
+      "date": "2026-11-06T11:00:00.0000000Z"
     },
     {
       "id": "motor1:9ee31cafed6d",
@@ -279,42 +375,6 @@
       "date": "2026-11-06T09:49:32.0000000Z"
     },
     {
-      "id": "hdmotori:38ce741d2a87",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Un SUV con un V8 da 720 CV entra in servizio per la Polizia del Texas",
-      "url": "https://www.hdmotori.it/suv-v8-720-cv-polizia-texas/",
-      "image": null,
-      "summary": "La Dodge Durango Hellcat presidierà le strade texane. Sotto al cofano vanta un 6.2 V8 con compressore volumetrico. The post Un SUV con un V8 da 720 CV entra in servizio per la Polizia del Texas appeared first on HDmot...",
-      "date": "2026-11-06T09:30:55.0000000Z"
-    },
-    {
-      "id": "motor1:18035e6faa45",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il nuovo SUV di Honda costruito in India",
-      "url": "https://it.motor1.com/news/814623/honda-alpha-suv-elettrico-informazioni/",
-      "image": "https://cdn.motor1.com/images/mgl/8AYXwv/s3/honda-0-suv.jpg",
-      "summary": "L'India diventa il mercato di lancio e la base di produzione globale della Honda Alpha, il SUV elettrico super squadrato",
-      "date": "2026-11-06T09:03:01.0000000Z"
-    },
-    {
-      "id": "hdmotori:453a0fbff3c7",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "F1, Kimi Antonelli: ciò che è accaduto dopo la vittoria del mondiale ha sorpreso tutti",
-      "url": "https://www.hdmotori.it/f1-kimi-antonelli-dopo-vittoria/",
-      "image": null,
-      "summary": "Kimi Antonelli ha celebrato il suo primo riconoscimento iridato in F1 a Città del Messico. Quello che è avvenuto dopo il podio ha sorpreso i fan e non solo The post F1, Kimi Antonelli: ciò che è accaduto dopo la vitto...",
-      "date": "2026-11-06T09:00:41.0000000Z"
-    },
-    {
       "id": "insideevs:a3cab3a159a2",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -327,30 +387,6 @@
       "date": "2026-11-06T08:47:00.0000000Z"
     },
     {
-      "id": "motor1:b3adae8b6640",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "I cinesi ci sono riusciti! Hanno l'auto stradale da 500 km/h",
-      "url": "https://it.motor1.com/news/814615/yangwang-u9-xtreme-record-500/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z18jq/s3/yangwang-u9-extreme-il-record-mondiale-a-503-17-km-h.jpg",
-      "summary": "L'hypercar elettrica Yangwang U9 Xtreme tocca 503,17 km/h in Emirati e ottiene quattro Guinness World Records omologati anche dalla FIA",
-      "date": "2026-11-06T08:10:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:d341d4f939ef",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Disastro per una delle supercar migliori al mondo, scatta il richiamo immediato",
-      "url": "https://www.hdmotori.it/supercar-scatta-richiamo-immediato/",
-      "image": null,
-      "summary": "Persino un brand di lusso come Koenigsegg può andare incontro a problemi tecnici. Sulla CC850 il freno di stazionamento ha fatto scattare il richiamo. The post Disastro per una delle supercar migliori al mondo, scatta...",
-      "date": "2026-11-06T08:00:45.0000000Z"
-    },
-    {
       "id": "insideevs:bac8d2410211",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -360,18 +396,6 @@
       "url": "https://insideevs.it/news/814488/tesla-vendute-germania-ottobre-2026/",
       "image": "https://cdn.motor1.com/images/mgl/W8bqM3/s3/tesla-brevetta-la-ricarica-wireless-che-vede-il-metallo.jpg",
       "summary": "A ottobre 2026 le immatricolazioni crescono del 290,9% e arrivano a 2.932 unità. Ma la concorrenza cinese continua a mordere",
-      "date": "2026-11-06T06:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:78603cecffde",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Supercar del futuro, tra curve scolpite e linee tese",
-      "url": "https://it.motor1.com/news/812667/design-supercar-futuro/",
-      "image": "https://cdn.motor1.com/images/mgl/QeGKn3/s3/jaguar-type-01.jpg",
-      "summary": "Da Porsche e Alfa Romeo ad Audi e Jaguar, vi racconto perché i designer immaginano la velocità attraverso forme così diverse",
       "date": "2026-11-06T06:00:00.0000000Z"
     },
     {
@@ -459,18 +483,6 @@
       "date": "2026-11-05T14:45:27.0000000Z"
     },
     {
-      "id": "vaielettrico:ac70e1b277eb",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il freno alle flotte aziendali elettriche? La tassazione",
-      "url": "https://www.vaielettrico.it/il-freno-alle-flotte-aziendali-elettriche-la-tassazione/",
-      "image": null,
-      "summary": "Il freno alle flotte aziendali elettriche? La tassazione. Sembre un paradosso, in un Paese che ha varato diverse… L'articolo Il freno alle flotte aziendali elettriche? La tassazione proviene da Vaielettrico .",
-      "date": "2026-11-05T13:57:50.0000000Z"
-    },
-    {
       "id": "insideevs:05c8087f49c3",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/ojE3Ey/s3/electra-porta-la-ricarica-mercedes-in-oltre-800-stazioni-cosa-cambia-davvero.jpg",
       "summary": "Gli hub Mercedes entrano nella rete Electra: oltre 800 stazioni, tariffe agevolate e prenotazione dei punti di ricarica per MB.CHARGE Public",
       "date": "2026-11-05T10:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:e6698ac2d0d1",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Da batterie usate di e-bike a stoccaggio di energia economico",
-      "url": "https://insideevs.it/news/814462/batterie-ebike-seconda-vita-stoccaggio/",
-      "image": "https://cdn.motor1.com/images/mgl/QeGNYO/s3/kbo-e-bike-battery.jpg",
-      "summary": "Perché buttare via le vecchie batterie di e-bike ed e-scooter quando possono essere riutilizzate? Non è nemmeno necessario smontarle",
-      "date": "2026-11-05T08:00:00.0000000Z"
     }
   ]
 }

@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-06T15:52:57.7606781Z",
+  "updated": "2026-11-06T21:12:34.7408215Z",
   "items": [
+    {
+      "id": "cybersecurity360:38f4fc863e25",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Breach Chainalysis: credenziali di tutti gli utenti esposte e controlli crypto interrotti",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/breach-chainalysis-credenziali-di-tutti-gli-utenti-esposte-e-controlli-crypto-interrotti/",
+      "image": null,
+      "summary": "Il breach di Chainalysis espone hash delle password e token relativi a tutti gli utenti e interrompe servizi investigativi e di compliance. Parte il ripristino di KYT e Address Screening: per i clienti restano da veri...",
+      "date": "2026-11-06T17:29:55.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:061c837a593f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "MythicRatatoskr, la backdoor della cyberwarfare russa: dallo spionaggio agli attacchi distruttivi",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/mythicratatoskr-la-backdoor-della-cyberwarfare-russa-dallo-spionaggio-agli-attacchi-distruttivi/",
+      "image": null,
+      "summary": "Dallo spionaggio alla cancellazione dei dati: l'attacco a un'azienda logistica ucraina mostra il possibile coordinamento tra UAC-0099 e Sandworm. ESET ricostruisce il ruolo di MythicRatatoskr, una nuova backdoor che s...",
+      "date": "2026-11-06T16:11:47.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:88e804e78efb",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Frigoriferi connessi sotto attacco cyber: il rischio OT che minaccia le imprese italiane",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/frigoriferi-connessi-sotto-attacco-cyber-il-rischio-ot-che-minaccia-le-imprese-italiane/",
+      "image": null,
+      "summary": "Gli attacchi ai sistemi di refrigerazione europei evidenziano i rischi della convergenza tra IT e OT. Controller esposti su Internet, dispositivi legacy e accessi remoti poco protetti possono trasformarsi in strumenti...",
+      "date": "2026-11-06T15:29:25.0000000Z"
+    },
     {
       "id": "cybersecurity360:07d56160d679",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "Venti falsi allarmi bomba in un solo giorno hanno coinvolto voli europei, sette dei quali italiani, portando ad oltre 31 gli episodi registrati da inizio novembre. Le minacce via email hanno mobilitato anche la difesa...",
       "date": "2026-11-05T16:25:42.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3f5ef7ed6b7e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sistemi OT: la fiducia diventa un accesso agli impianti aziendali",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/sistemi-ot-la-fiducia-diventa-un-accesso-agli-impianti-aziendali/",
-      "image": null,
-      "summary": "Il report NAIS Q3 2026 analizza l’abuso di credenziali, fornitori e sistemi OT e rileva 107 rivendicazioni ransomware contro organizzazioni italiane. Le TTP osservate mostrano perché tempi di remediation e hardening i...",
-      "date": "2026-11-05T15:48:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2e2f3aa2737b",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Rapina cyber da 100 milioni a banca francese, quali precedenti (anche in Italia)",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/rubati-100-milioni-a-banca-francese-ma-quanto-sono-frequenti-le-rapine-cyber/",
-      "image": null,
-      "summary": "Un attacco informatico ha sottratto oltre 100 milioni di euro dai conti propri della banca Crédit Mutuel Arkéa in Francia. Da Bank of Valletta a Carbanak e a un caso italiano, i precedenti mostrano come i criminali ri...",
-      "date": "2026-11-05T14:49:41.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:b7b3eca50f3c",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Catena del freddo e impianti connessi: cosa verificare dopo il richiamo ACN",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/catena-del-freddo-e-impianti-connessi-cosa-verificare-dopo-il-richiamo-acn/",
-      "image": null,
-      "summary": "ACN e CSIRT Italia rinnovano il richiamo urgente sulla catena del freddo e sui sistemi industriali gestiti da remoto, in ogni settore. Le priorità per le aziende: proteggere le interfacce, verificare i parametri opera...",
-      "date": "2026-11-05T14:48:58.0000000Z"
     }
   ]
 }
