@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-11-07T18:28:33.6089799Z",
+  "updated": "2026-11-07T22:14:48.5436822Z",
   "items": [
+    {
+      "id": "motor1:6f4e12c2772f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il taglio delle accise sul gasolio non è stato rinnovato",
+      "url": "https://it.motor1.com/news/814756/stop-taglio-accise-diesel-novembre-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/qzlLJ/s3/pompa-diesel.jpg",
+      "summary": "Da domani quindi il diesel costerà di più",
+      "date": "2026-11-07T21:10:21.0000000Z"
+    },
     {
       "id": "vaielettrico:f855fb7f5458",
       "sourceId": "vaielettrico",
@@ -255,18 +267,6 @@
       "date": "2026-11-06T16:49:32.0000000Z"
     },
     {
-      "id": "motor1:5daf06c6246d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le auto a 7 posti che non pagano il bollo, per famiglie numerose",
-      "url": "https://it.motor1.com/features/814408/auto-7-posti-esenti-bollo-auto/",
-      "image": "https://cdn.motor1.com/images/mgl/ko8mOR/s3/le-auto-a-7-posti-che-non-pagano-il-bollo.jpg",
-      "summary": "La guida completa alle auto a 7 posti esenti in automatico dal bollo auto o che possono avere il rimborso per chi ha più di 3 figli",
-      "date": "2026-11-06T16:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:c7511b189c10",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -276,6 +276,18 @@
       "url": "https://insideevs.it/news/814652/tesla-roadster-prezzo-prenotazione-ufficiale/",
       "image": "https://cdn.motor1.com/images/mgl/XBbMb6/s3/tesla-roadster.jpg",
       "summary": "Sul sito italiano compaiono le cifre della caparra: il prezzo finale della supercar elettrica si saprà solo al momento del contratto",
+      "date": "2026-11-06T16:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:5daf06c6246d",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le auto a 7 posti che non pagano il bollo, per famiglie numerose",
+      "url": "https://it.motor1.com/features/814408/auto-7-posti-esenti-bollo-auto/",
+      "image": "https://cdn.motor1.com/images/mgl/ko8mOR/s3/le-auto-a-7-posti-che-non-pagano-il-bollo.jpg",
+      "summary": "La guida completa alle auto a 7 posti esenti in automatico dal bollo auto o che possono avere il rimborso per chi ha più di 3 figli",
       "date": "2026-11-06T16:00:00.0000000Z"
     },
     {
@@ -327,18 +339,6 @@
       "date": "2026-11-06T14:30:00.0000000Z"
     },
     {
-      "id": "insideevs:bbbe94dd1a61",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Anche le vecchie Skoda Enyaq e Volkswagen ID.4 avranno il pre-riscaldamento",
-      "url": "https://insideevs.it/news/814658/volkswagen-skoda-aggiornamenti-ota/",
-      "image": "https://cdn.motor1.com/images/mgl/8A0ogo/s3/skoda-enyaq-update-zum-vorheizen-der-batterie.jpg",
-      "summary": "Un aggiornamento OTA introduce il precondizionamento sui modelli prodotti dal 2020 al 2024, per ridurre i tempi di ricarica in inverno",
-      "date": "2026-11-06T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:d5418b29509c",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -348,6 +348,18 @@
       "url": "https://it.motor1.com/news/814650/byd-dolphin-g-promozione/",
       "image": "https://cdn.motor1.com/images/mgl/KbZVzQ/s3/offerta-byd-dolphin-g-dm-i-quanto-conviene.jpg",
       "summary": "La versione Active è proposta con anticipo zero e TAN e TAEG allo 0%. Si parte da 228,50 euro al mese per 36 rate",
+      "date": "2026-11-06T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:bbbe94dd1a61",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Anche le vecchie Skoda Enyaq e Volkswagen ID.4 avranno il pre-riscaldamento",
+      "url": "https://insideevs.it/news/814658/volkswagen-skoda-aggiornamenti-ota/",
+      "image": "https://cdn.motor1.com/images/mgl/8A0ogo/s3/skoda-enyaq-update-zum-vorheizen-der-batterie.jpg",
+      "summary": "Un aggiornamento OTA introduce il precondizionamento sui modelli prodotti dal 2020 al 2024, per ridurre i tempi di ricarica in inverno",
       "date": "2026-11-06T14:00:00.0000000Z"
     },
     {
@@ -372,18 +384,6 @@
       "url": "https://insideevs.it/news/814062/citroen-c3-elettrica-motori-batterie/",
       "image": "https://cdn.motor1.com/images/mgl/7Zv1QW/s3/citroen-e-c3-2024.jpg",
       "summary": "Un motore da 113 CV e due batterie: come cambiano autonomia, prestazioni e soprattutto la velocità di ricarica nelle due C3",
-      "date": "2026-11-06T12:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:775b4f8b48e3",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Polestar 5, prova su strada della più potente della storia",
-      "url": "https://it.motor1.com/reviews/813670/polestar-5-2026-prova-impressioni/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZPWq9/s3/photo-cover-polestar-5-2026.jpg",
-      "summary": "Arriva a 884 CV la nuova ammiraglia svedese, con impostazione da GT a 4 porte e prezzi da poco meno di 120.000 euro",
       "date": "2026-11-06T12:00:00.0000000Z"
     },
     {
