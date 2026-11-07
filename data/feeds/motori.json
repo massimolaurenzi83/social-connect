@@ -1,7 +1,91 @@
 {
   "category": "motori",
-  "updated": "2026-11-07T06:59:39.1156923Z",
+  "updated": "2026-11-07T13:54:31.4539979Z",
   "items": [
+    {
+      "id": "hdmotori:a3c91a03c561",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Citroën BX, dopo 38 anni “riemerge” l’auto dell’ingegnere che superò i 1000 km/h",
+      "url": "https://www.hdmotori.it/citroen-bx-ritrovata-garage-john-watkins/",
+      "image": null,
+      "summary": "Ritrovata in garage dopo quasi 40 anni la Citroën BX di John Watkins, l'ingegnere della RAF che partecipò al record di velocità da 1.000 km/h con il Thrust 2. The post Citroën BX, dopo 38 anni “riemerge” l’auto dell’i...",
+      "date": "2026-11-07T12:00:27.0000000Z"
+    },
+    {
+      "id": "motor1:48ed27e39411",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BMW 2027: tutte le novità in arrivo",
+      "url": "https://it.motor1.com/news/814069/bmw-2027-novita-modelli/",
+      "image": "https://cdn.motor1.com/images/mgl/YAbN7v/s3/novita-bmw-2027.jpg",
+      "summary": "Arriverà la BMW M3 più potente di sempre, assieme ai restyling di X1, X2 e Serie 5 e tanto altro ancora",
+      "date": "2026-11-07T11:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:6b17181be529",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Rolls-Royce Phantom di Shaquille O’Neal è in vendita: la sua storia è bizzarra",
+      "url": "https://www.hdmotori.it/rolls-royce-phantom-shaquille-oneal/",
+      "image": null,
+      "summary": "In tema di automobili Shaq ha avuto una visione quasi sempre lucida, tranne che per la Rolls-Royce che andrà all’asta su Bring a Trailer The post La Rolls-Royce Phantom di Shaquille O’Neal è in vendita: la sua storia ...",
+      "date": "2026-11-07T10:00:43.0000000Z"
+    },
+    {
+      "id": "hdmotori:fdbe90bdfd0c",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "JLR avrebbe risolto in segreto un grave difetto senza informare le autorità",
+      "url": "https://www.hdmotori.it/jlr-risolto-difetto-senza-informare-autorita/",
+      "image": null,
+      "summary": "L'indagine delle autorità americane accusa la Casa inglese di proprietà indiana di aver riprogettato in segreto un componente primario delle sospensioni senza informare i regolatori. The post JLR avrebbe risolto in se...",
+      "date": "2026-11-07T08:30:50.0000000Z"
+    },
+    {
+      "id": "hdmotori:2376ea1b62b6",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "In vendita la vera Batmobile di “Batman Returns”: il motore V8 sputa fuoco",
+      "url": "https://www.hdmotori.it/vendita-batmobile-batman-returns/",
+      "image": null,
+      "summary": "Julien's Auctions e Turner Classic Movies hanno annunciato l'asta della Batmobile della pellicola \"Batman Returns\" del 1992 The post In vendita la vera Batmobile di “Batman Returns”: il motore V8 sputa fuoco appeared ...",
+      "date": "2026-11-07T08:00:48.0000000Z"
+    },
+    {
+      "id": "hdmotori:4b7382bd0d01",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Toyota fonda la divisione Robotics: la svolta che guarda oltre l’automobile",
+      "url": "https://www.hdmotori.it/toyota-fonda-divisione-robotics/",
+      "image": null,
+      "summary": "La Casa giapponese posiziona la robotica come pilastro strategico del futuro, istituendo una divisione dedicata nell’ambito di un più ampio riassetto aziendale. The post Toyota fonda la divisione Robotics: la svolta c...",
+      "date": "2026-11-07T07:30:19.0000000Z"
+    },
+    {
+      "id": "motor1:3cbc4a7c6044",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Shelby Cobra \"italiana\" tutta in rame e ottone",
+      "url": "https://it.motor1.com/news/809695/mercer-cobra-roadster-storia-italia/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZPKqp/s3/mercer-cobra-roadster-1965.jpg",
+      "summary": "La Mercer Cobra Roadster del 1965 nasce sulla base della Shelby Cobra, ma è personalizzata da una carrozzeria italiana",
+      "date": "2026-11-07T06:00:00.0000000Z"
+    },
     {
       "id": "motor1:c84b34b37916",
       "sourceId": "motor1",
@@ -111,16 +195,16 @@
       "date": "2026-11-06T16:30:21.0000000Z"
     },
     {
-      "id": "hdmotori:f8a28cbedb2d",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "insideevs:c7511b189c10",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Ford Bronco Frostwarden: un veicolo da soccorso con 1.217 CV",
-      "url": "https://www.hdmotori.it/ford-bronco-frostwarden/",
-      "image": null,
-      "summary": "Ford svela al SEMA Show la Bronco Frostwarden da 1.217 CV: un esemplare unico da soccorso artico che porta al debutto il propulsore V8 Megazilla 2.0. The post Ford Bronco Frostwarden: un veicolo da soccorso con 1.217 ...",
-      "date": "2026-11-06T16:00:51.0000000Z"
+      "title": "Tesla Roadster, quanto costa davvero prenotarla dall’Italia",
+      "url": "https://insideevs.it/news/814652/tesla-roadster-prezzo-prenotazione-ufficiale/",
+      "image": "https://cdn.motor1.com/images/mgl/XBbMb6/s3/tesla-roadster.jpg",
+      "summary": "Sul sito italiano compaiono le cifre della caparra: il prezzo finale della supercar elettrica si saprà solo al momento del contratto",
+      "date": "2026-11-06T16:00:00.0000000Z"
     },
     {
       "id": "motor1:5daf06c6246d",
@@ -135,30 +219,6 @@
       "date": "2026-11-06T16:00:00.0000000Z"
     },
     {
-      "id": "insideevs:c7511b189c10",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla Roadster, quanto costa davvero prenotarla dall’Italia",
-      "url": "https://insideevs.it/news/814652/tesla-roadster-prezzo-prenotazione-ufficiale/",
-      "image": "https://cdn.motor1.com/images/mgl/XBbMb6/s3/tesla-roadster.jpg",
-      "summary": "Sul sito italiano compaiono le cifre della caparra: il prezzo finale della supercar elettrica si saprà solo al momento del contratto",
-      "date": "2026-11-06T16:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:f5e6d0cd31c1",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mercato auto in Cina, è finita la pacchia per i marchi europei (e non solo)",
-      "url": "https://www.hdmotori.it/crisi-mercato-auto-cina-2026-crollo-vendite-export/",
-      "image": null,
-      "summary": "Mercato auto in Cina a picco nel 2026: vendite giù del 21% e marchi europei in rosso. Con la sovrapproduzione interna, Pechino punta tutto sull'export globale The post Mercato auto in Cina, è finita la pacchia per i m...",
-      "date": "2026-11-06T15:30:41.0000000Z"
-    },
-    {
       "id": "vaielettrico:f899d8ac71f3",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -169,18 +229,6 @@
       "image": null,
       "summary": "Per 500 e Vespa c’è un futuro elettrico? O le due icone del made in Italy sono destinate… L'articolo Per 500 e Vespa c’è un futuro elettrico o…? proviene da Vaielettrico .",
       "date": "2026-11-06T15:11:43.0000000Z"
-    },
-    {
-      "id": "hdmotori:611fe733bddb",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Forefront Concept: da Renault una inedita piattaforma terrestre telecomandata",
-      "url": "https://www.hdmotori.it/forefront-concept-renault-piattaforma-terrestre-telecomandata/",
-      "image": null,
-      "summary": "Renault Group e John Cockerill presentano Forefront Concept: la nuova piattaforma robotica da 400 km di autonomia pensata per missioni militari e civili. The post Forefront Concept: da Renault una inedita piattaforma ...",
-      "date": "2026-11-06T15:00:17.0000000Z"
     },
     {
       "id": "insideevs:a49e22544e41",
@@ -207,18 +255,6 @@
       "date": "2026-11-06T15:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:e95bd445ed11",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Incentivi auto elettriche 2027: fino a 6.000 euro a Bolzano",
-      "url": "https://www.hdmotori.it/incentivi-auto-elettriche-2027-bolzano/",
-      "image": null,
-      "summary": "La Provincia Autonoma rinnova i bonus per i veicoli a zero emissioni nel 2027, mentre l'Alto Adige porta la quota delle immatricolazioni EV al 30%. The post Incentivi auto elettriche 2027: fino a 6.000 euro a Bolzano ...",
-      "date": "2026-11-06T14:30:42.0000000Z"
-    },
-    {
       "id": "motor1:a5c2e4c16bad",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -229,18 +265,6 @@
       "image": "https://cdn.motor1.com/images/mgl/7Z2JvW/s3/elon-musk.jpg",
       "summary": "A midterm concluse le azioni Tesla hanno iniziato a scendere e in 5 giorni hanno perso il 14,4%",
       "date": "2026-11-06T14:30:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:575c5c3da6aa",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Lambretta ad EICMA 2026: esordio di Elettra S e sguardo all’80° Anniversario",
-      "url": "https://www.hdmotori.it/lambretta-eicma-2026-gamma-elettra-s-limited-edition/",
-      "image": null,
-      "summary": "Lambretta presenta ad EICMA 2026 la gamma completa, le Limited Edition J e X, l'elettrica Elettra S e avvia il countdown per l'80° Anniversario. The post Lambretta ad EICMA 2026: esordio di Elettra S e sguardo all’80°...",
-      "date": "2026-11-06T14:00:07.0000000Z"
     },
     {
       "id": "motor1:d5418b29509c",
@@ -315,18 +339,6 @@
       "date": "2026-11-06T11:30:00.0000000Z"
     },
     {
-      "id": "motor1:4792fb048424",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Audi 2027: tutte le novità in arrivo",
-      "url": "https://it.motor1.com/news/814496/audi-novita-modelli-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/nA8ozk/s3/novita-audi-2027.jpg",
-      "summary": "La nuova RS6 con più cavalli che mai, l'erede della TT e l'arrivo nelle concessionarie delle nuove Q7 e Q9",
-      "date": "2026-11-06T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:b0ed04c78f94",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -337,18 +349,6 @@
       "image": "https://cdn.motor1.com/images/mgl/AkQbJP/s3/tesla-cybertruck.jpg",
       "summary": "Musk punta ad aumentare la produzione del Cybercab, mentre il pickup elettrico potrebbe lasciare spazio al robotaxi già dal 2027",
       "date": "2026-11-06T11:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:9ee31cafed6d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Hyundai Italia ha un nuovo Presidente e CEO",
-      "url": "https://it.motor1.com/news/814627/hyundai-italia-presidente-ceo-colonnese/",
-      "image": "https://cdn.motor1.com/images/mgl/OoZQAy/s3/francesco-colonnese---ceo-hyundai-italia.jpg",
-      "summary": "Francesco Colonnese guiderà Hyundai Italia dal 9 novembre e seguirà anche lo sviluppo del brand premium Genesis nel nostro Paese",
-      "date": "2026-11-06T10:30:00.0000000Z"
     },
     {
       "id": "vaielettrico:592e1b54f8e7",
