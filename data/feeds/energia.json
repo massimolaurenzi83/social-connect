@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-11-07T00:58:11.7970151Z",
+  "updated": "2026-11-07T06:59:39.0863027Z",
   "items": [
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-11-07T05:00:00.0000000Z"
+    },
     {
       "id": "qualenergia:d898883e4588",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Dall’Amazzonia al Mediterraneo: la scelta della sede della prossima Conferenza Onu sul clima (Cop 31) non sembra casuale. La Cop 31 si apre ufficialmente lunedì 9 novembre (fino al 20 del mese) ad Antalya, in Turchia,...",
       "date": "2026-11-06T09:15:14.0000000Z"
-    },
-    {
-      "id": "qualenergia:bdac6e4904f9",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Veneto, 50 milioni di euro per riqualificare gli alloggi pubblici",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/veneto-50-milioni-euro-riqualificare-alloggi-pubblici/",
-      "image": null,
-      "summary": "Sono stati aperti il 5 novembre 2026 i due bandi della Regione Veneto a sostegno degli enti pubblici per la riqualificazione, anche energetica, degli alloggi di Edilizia Residenziale Pubblica (ERP) e degli immobili de...",
-      "date": "2026-11-06T07:55:10.0000000Z"
     }
   ]
 }
