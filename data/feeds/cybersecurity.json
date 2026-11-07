@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-07T13:54:31.4737682Z",
+  "updated": "2026-11-07T18:28:33.6679757Z",
   "items": [
+    {
+      "id": "cybersecurity360:eccbca362df0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Attacco al Bennero rivendicato da filo-russi: ecco tutti i rischi",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/attacco-al-bennero-rivendicato-da-filo-russi-ecco-tutti-i-rischi/",
+      "image": null,
+      "summary": "BBT SE conferma un accesso non autorizzato ai propri dati senza ripercussioni operative note sui lavori della Galleria di Base del Brennero. Il gruppo russofono Everest rivendica 812 GB di documenti: quantità e conten...",
+      "date": "2026-11-07T16:33:05.0000000Z"
+    },
     {
       "id": "cybersecurity360:38f4fc863e25",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Una ricerca CERT-AgID dimostra come una backdoor possa essere incorporata nei modelli AI open-weight attraverso il fine-tuning e restare inattiva fino al collegamento di uno specifico server MCP. Un rischio difficile ...",
       "date": "2026-11-05T16:49:53.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a05f6d669d3b",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Falsi allarmi bomba sui voli europei: il sospetto di una regia coordinata nella guerra ibrida",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/falsi-allarmi-bomba-sui-voli-europei-il-sospetto-di-una-regia-coordinata-nella-guerra-ibrida/",
-      "image": null,
-      "summary": "Venti falsi allarmi bomba in un solo giorno hanno coinvolto voli europei, sette dei quali italiani, portando ad oltre 31 gli episodi registrati da inizio novembre. Le minacce via email hanno mobilitato anche la difesa...",
-      "date": "2026-11-05T16:25:42.0000000Z"
     }
   ]
 }

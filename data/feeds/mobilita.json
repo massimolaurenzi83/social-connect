@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-11-07T13:54:31.5213700Z",
+  "updated": "2026-11-07T18:28:33.6533701Z",
   "items": [
+    {
+      "id": "ferrovie:e27ba63957e4",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Micronews ferroviarie del 7 novembre 2026, le notizie in aggiornamento",
+      "url": "https://www.ferrovie.info/treni-reali/micronews-ferroviarie-del-7-novembre-2026-le-notizie-in-aggiornamento.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/11405/arenaways_savigliano_516.jpg",
+      "summary": "Le notizie brevi dal mondo ferroviario, in Italia e all'estero, con aggiornamenti nel corso della giornata. Una raccolta in costante evoluzione per seguire le novità su treni, infrastrutture, stazioni, trasporti e azi...",
+      "date": "2026-11-07T14:44:28.0000000Z"
+    },
     {
       "id": "ferrovie:d57023e6d81e",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10791/ATR220_034_19_settembre_2020_.JPG",
       "summary": "Prosegue il ritorno in Polonia degli ATR 220 costruiti da Pesa e provenienti dalle flotte ferroviarie italiane. Dopo i primi quattro convogli recentemente trasferiti, è prevista a breve la partenza di altrettante unit...",
       "date": "2026-11-06T08:29:23.0000000Z"
-    },
-    {
-      "id": "ferrovie:2eb176bfd275",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Micronews ferroviarie del 5 novembre, le notizie in aggiornamento",
-      "url": "https://www.ferrovie.info/treni-reali/micronews-ferroviarie-del-5-novembre-le-notizie-in-aggiornamento.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10476/37395266182_a3416cce81_o.jpg",
-      "summary": "Le notizie brevi dal mondo ferroviario, in Italia e all'estero, con aggiornamenti nel corso della giornata. Una raccolta in costante evoluzione per seguire le novità su treni, infrastrutture, stazioni, trasporti e azi...",
-      "date": "2026-11-05T11:03:09.0000000Z"
     }
   ]
 }
