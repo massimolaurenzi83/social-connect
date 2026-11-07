@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-11-06T21:12:34.7939826Z",
+  "updated": "2026-11-07T00:58:11.7911016Z",
   "items": [
+    {
+      "id": "motor1:c84b34b37916",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Audi RS5 (2026), perché comprarla e perché no",
+      "url": "https://it.motor1.com/reviews/812473/audi-rs5-2026-recensione-video/",
+      "image": "https://cdn.motor1.com/images/mgl/W8bvWr/s3/audi-rs5-2026-perche-comprarla-e-perche-no.jpg",
+      "summary": "Il V6 ibrido da oltre 630 CV spinge forte e l'elettronica è raffinata e fa divertire. Tra le curve, però, pesa tanto",
+      "date": "2026-11-07T00:00:00.0000000Z"
+    },
     {
       "id": "motor1:e3d9838d780f",
       "sourceId": "motor1",
@@ -171,18 +183,6 @@
       "date": "2026-11-06T15:00:17.0000000Z"
     },
     {
-      "id": "motor1:f2d505213a4a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Furgoni e auto, stesse regole CO2 ma mercati diversi. Bisogna dividere i due regolamenti",
-      "url": "https://it.motor1.com/news/814665/co2-2035-regolamento-auto-furgoni/",
-      "image": "https://cdn.motor1.com/images/mgl/xqOE0k/s3/furgoni-e-ue-un-rapporto-difficile.jpg",
-      "summary": "Il Parlamento UE ammorbidisce i target CO2 2035. Per i furgoni fino a 3,5 t l'obiettivo scende all'80%, ma il regolamento resta unico",
-      "date": "2026-11-06T15:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:a49e22544e41",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -192,6 +192,18 @@
       "url": "https://insideevs.it/news/814682/revolt-blazex-ordine-polizia-bihar/",
       "image": "https://cdn.motor1.com/images/mgl/407AGk/s3/ciao-benzina-anche-la-polizia-indiana-passa-alle-moto-elettriche.jpg",
       "summary": "La polizia di Patna riceve 1.100 Revolt BlazeX con batteria removibile, lo stesso modello già in vendita al pubblico",
+      "date": "2026-11-06T15:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:f2d505213a4a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Furgoni e auto, stesse regole CO2 ma mercati diversi. Bisogna dividere i due regolamenti",
+      "url": "https://it.motor1.com/news/814665/co2-2035-regolamento-auto-furgoni/",
+      "image": "https://cdn.motor1.com/images/mgl/xqOE0k/s3/furgoni-e-ue-un-rapporto-difficile.jpg",
+      "summary": "Il Parlamento UE ammorbidisce i target CO2 2035. Per i furgoni fino a 3,5 t l'obiettivo scende all'80%, ma il regolamento resta unico",
       "date": "2026-11-06T15:00:00.0000000Z"
     },
     {
@@ -303,18 +315,6 @@
       "date": "2026-11-06T11:30:00.0000000Z"
     },
     {
-      "id": "insideevs:b0ed04c78f94",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Tesla Cybertruck potrebbe avere i giorni contati",
-      "url": "https://insideevs.it/news/814643/tesla-cybertruck-esce-di-produzione/",
-      "image": "https://cdn.motor1.com/images/mgl/AkQbJP/s3/tesla-cybertruck.jpg",
-      "summary": "Musk punta ad aumentare la produzione del Cybercab, mentre il pickup elettrico potrebbe lasciare spazio al robotaxi già dal 2027",
-      "date": "2026-11-06T11:00:00.0000000Z"
-    },
-    {
       "id": "motor1:4792fb048424",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -324,6 +324,18 @@
       "url": "https://it.motor1.com/news/814496/audi-novita-modelli-2027/",
       "image": "https://cdn.motor1.com/images/mgl/nA8ozk/s3/novita-audi-2027.jpg",
       "summary": "La nuova RS6 con più cavalli che mai, l'erede della TT e l'arrivo nelle concessionarie delle nuove Q7 e Q9",
+      "date": "2026-11-06T11:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:b0ed04c78f94",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Tesla Cybertruck potrebbe avere i giorni contati",
+      "url": "https://insideevs.it/news/814643/tesla-cybertruck-esce-di-produzione/",
+      "image": "https://cdn.motor1.com/images/mgl/AkQbJP/s3/tesla-cybertruck.jpg",
+      "summary": "Musk punta ad aumentare la produzione del Cybercab, mentre il pickup elettrico potrebbe lasciare spazio al robotaxi già dal 2027",
       "date": "2026-11-06T11:00:00.0000000Z"
     },
     {
@@ -337,18 +349,6 @@
       "image": "https://cdn.motor1.com/images/mgl/OoZQAy/s3/francesco-colonnese---ceo-hyundai-italia.jpg",
       "summary": "Francesco Colonnese guiderà Hyundai Italia dal 9 novembre e seguirà anche lo sviluppo del brand premium Genesis nel nostro Paese",
       "date": "2026-11-06T10:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:673fc1287bfc",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vuoi una Ferrari Luce? Devi aspettare fino al 2028",
-      "url": "https://it.motor1.com/news/814614/ferrari-luce-attesa-consegne-2028/",
-      "image": "https://cdn.motor1.com/images/mgl/y2lxqY/s3/ferrari-luce.jpg",
-      "summary": "La prima elettrica del Cavallino è sold out per tutto il 2027. Prime consegne entro fine anno",
-      "date": "2026-11-06T10:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:592e1b54f8e7",
