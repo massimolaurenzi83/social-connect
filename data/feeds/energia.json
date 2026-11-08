@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-11-08T07:54:34.6840047Z",
+  "updated": "2026-11-08T14:46:12.3321502Z",
   "items": [
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-11-08T05:30:00.0000000Z"
+    },
     {
       "id": "qualenergia:28c24aba79dc",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "In tutta la filiera idroelettrica si contano circa 15.000 occupati tra diretti e indotto. Un dato significativo su cui invita a riflettere Daniela Piras, segretaria generale della Uiltec, ovvero la federazione sindaca...",
       "date": "2026-11-06T09:30:59.0000000Z"
-    },
-    {
-      "id": "qualenergia:f3c51a6aed05",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Cop 31 in Turchia: l’uscita dalle fonti fossili entrerà nei negoziati?",
-      "url": "https://www.qualenergia.it/articoli/cop-31-turchia-uscita-fonti-fossili-entrera-negoziati/",
-      "image": null,
-      "summary": "Dall’Amazzonia al Mediterraneo: la scelta della sede della prossima Conferenza Onu sul clima (Cop 31) non sembra casuale. La Cop 31 si apre ufficialmente lunedì 9 novembre (fino al 20 del mese) ad Antalya, in Turchia,...",
-      "date": "2026-11-06T09:15:14.0000000Z"
     }
   ]
 }
