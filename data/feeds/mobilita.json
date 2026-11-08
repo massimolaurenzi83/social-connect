@@ -1,7 +1,31 @@
 {
   "category": "mobilita",
-  "updated": "2026-11-08T14:46:12.3339045Z",
+  "updated": "2026-11-08T19:12:48.9894426Z",
   "items": [
+    {
+      "id": "ferrovie:fe6334de91a3",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Egitto, scontro tra due treni a sud del Cairo: almeno 7 morti e oltre 100 feriti",
+      "url": "https://www.ferrovie.info/treni-reali/egitto-scontro-tra-due-treni-a-sud-del-cairo-almeno-7-morti-e-oltre-100-feriti.html",
+      "image": "https://www.ferrovie.info/images/incidenti/IncidenteEgitto.webp",
+      "summary": "Grave incidente ferroviario in Egitto, dove lo scontro tra due treni nel distretto di al-Ayyat, circa 50 chilometri a sud del Cairo, ha provocato almeno sette morti e oltre cento feriti. Tra le vittime figura anche un...",
+      "date": "2026-11-08T18:34:50.0000000Z"
+    },
+    {
+      "id": "ferrovie:0dc209b259c0",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Le notizie ferroviarie della settimana tra nuovi treni, infrastrutture e novità internazionali",
+      "url": "https://www.ferrovie.info/treni-reali/le-notizie-ferroviarie-della-settimana-tra-nuovi-treni-infrastrutture-e-novita-internazionali.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10171/E494058_Empoli_070925.jpg",
+      "summary": "La settimana ferroviaria si chiude con aggiornamenti importanti sul fronte del materiale rotabile, dei servizi regionali e delle grandi infrastrutture. In Italia proseguono le consegne di nuovi convogli e locomotive, ...",
+      "date": "2026-11-08T16:20:32.0000000Z"
+    },
     {
       "id": "ferrovie:e27ba63957e4",
       "sourceId": "ferrovie",
@@ -63,18 +87,6 @@
       "date": "2026-11-06T13:07:25.0000000Z"
     },
     {
-      "id": "ferrovie:23e25c771dbe",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Metro A Roma, completato il restyling della stazione Lepanto: investimenti e nuovi servizi",
-      "url": "https://www.ferrovie.info/altri-mezzi/metropolitane/metro-a-roma-completato-il-restyling-della-stazione-lepanto-investimenti-e-nuovi-servizi.html",
-      "image": "https://www.ferrovie.info/images/metro/Atac_Lepanto_2_d0.jpg",
-      "summary": "Si è concluso il restyling della stazione Lepanto della Metro A di Roma. Dopo la fine dei lavori, avvenuta lo scorso 2 novembre, la fermata è stata presentata ufficialmente alla presenza del sindaco Roberto Gualtieri,...",
-      "date": "2026-11-06T12:44:04.0000000Z"
-    },
-    {
       "id": "ferrovie:4cb89621f614",
       "sourceId": "ferrovie",
       "source": "Ferrovie.info",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10002/G12_4687.jpg",
       "summary": "La prospettiva di chiusura dell'impianto di manutenzione dei Frecciarossa a Roma San Lorenzo preoccupa FAST-Confsal Lazio. Il sindacato riconosce l'importanza delle garanzie occupazionali, ma chiede di tutelare anche ...",
       "date": "2026-11-06T08:42:14.0000000Z"
-    },
-    {
-      "id": "ferrovie:915f7eafe615",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "ATR 220, altri quattro treni ex Trenitalia Tper in partenza per la Polonia",
-      "url": "https://www.ferrovie.info/treni-reali/atr-220-altri-quattro-treni-ex-trenitalia-tper-in-partenza-per-la-polonia.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10791/ATR220_034_19_settembre_2020_.JPG",
-      "summary": "Prosegue il ritorno in Polonia degli ATR 220 costruiti da Pesa e provenienti dalle flotte ferroviarie italiane. Dopo i primi quattro convogli recentemente trasferiti, è prevista a breve la partenza di altrettante unit...",
-      "date": "2026-11-06T08:29:23.0000000Z"
     }
   ]
 }
