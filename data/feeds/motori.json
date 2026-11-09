@@ -1,7 +1,151 @@
 {
   "category": "motori",
-  "updated": "2026-11-09T02:26:22.2574913Z",
+  "updated": "2026-11-09T10:08:37.1660231Z",
   "items": [
+    {
+      "id": "hdmotori:c8109d088170",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Pagani Utopia in panne: imprevisto per un noto imprenditore italiano",
+      "url": "https://www.hdmotori.it/pagani-utopia-in-panne-imprenditore-italiano/",
+      "image": null,
+      "summary": "Una Pagani Utopia da 3 milioni di euro ha arrestato la sua corsa con il motore in fumo. Una nube bianca ha allarmato il suo proprietario. The post Pagani Utopia in panne: imprevisto per un noto imprenditore italiano a...",
+      "date": "2026-11-09T10:00:24.0000000Z"
+    },
+    {
+      "id": "motor1:a535d6bdb7fc",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa berlina ibrida plug-in a metanolo fa davvero tanta strada",
+      "url": "https://it.motor1.com/news/814787/geely-xingyao-6-ef-metanolo/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z18ko/s3/geely-xingyao-6-ef.jpg",
+      "summary": "Geely Xingyao 6 EF combina metanolo, benzina e trazione elettrica con 230 km in elettrico e fino a 1.880 km complessivi",
+      "date": "2026-11-09T10:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:b876bd55da29",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BYD Da Tang nei guai in Cina: cerchi invertiti in fabbrica, le gomme scoppiano",
+      "url": "https://www.hdmotori.it/byd-da-tang-difetto-fabbrica-cerchi-invertiti/",
+      "image": null,
+      "summary": "In Cina esplode la protesta dei proprietari dell'ammiraglia elettrica: i cerchi anteriori e posteriori sono stati invertiti in catena di montaggio, azzerando la stabilità e squarciando le gomme. The post BYD Da Tang n...",
+      "date": "2026-11-09T09:30:40.0000000Z"
+    },
+    {
+      "id": "vaielettrico:418df67e1dc0",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Usato elettrico in recupero, benzina-diesel in calo?",
+      "url": "https://www.vaielettrico.it/usato-elettrico-in-recupero-usato-termico-in-calo/",
+      "image": null,
+      "summary": "Usato elettrico in recupero, usato benzina-diesel in calo. Sta succedendo in Gran Bretagna, segnala un lettore, a causa… L'articolo Usato elettrico in recupero, benzina-diesel in calo? proviene da Vaielettrico .",
+      "date": "2026-11-09T09:27:01.0000000Z"
+    },
+    {
+      "id": "hdmotori:44d0d0477c59",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "È morto Gerhard Porsche, l’erede che non amava i riflettori",
+      "url": "https://www.hdmotori.it/morto-gerhard-porsche/",
+      "image": null,
+      "summary": "Il decesso è avvenuto a St. Lorenz am Mondsee, dove Gerhard Porsche aveva scelto di ritirarsi in vecchiaia. The post È morto Gerhard Porsche, l’erede che non amava i riflettori appeared first on HDmotori.it .",
+      "date": "2026-11-09T09:00:45.0000000Z"
+    },
+    {
+      "id": "motor1:7d4264591988",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Honda anticipa l'Avancier come SUV ibrido simile a una wagon",
+      "url": "https://it.motor1.com/news/814797/honda-avancier-suv-ibrido-teaser/",
+      "image": "https://cdn.motor1.com/images/mgl/2N9K1x/s3/honda-avancier-teaser.jpg",
+      "summary": "Le prime immagini mostrano un SUV ibrido a forma di station wagon, anticipando la tecnologia Honda Hybrid",
+      "date": "2026-11-09T09:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:69a48ad19031",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla Cybertruck: stop alla produzione nel 2027 per fare spazio al Cybercab",
+      "url": "https://www.hdmotori.it/tesla-cybertruck-stop-produzione-2027/",
+      "image": null,
+      "summary": "Scarse vendite e la necessità di concentrare le risorse sul robotaxi: nello stabilimento di Austin la produzione del Cybertruck terminerà a giugno-luglio 2027. The post Tesla Cybertruck: stop alla produzione nel 2027 ...",
+      "date": "2026-11-09T08:00:27.0000000Z"
+    },
+    {
+      "id": "motor1:cc548aedaef4",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Due frigoriferi sulla nuova berlina extra lusso di BYD",
+      "url": "https://it.motor1.com/news/814785/yangwang-altior-berlina-extra-lusso/",
+      "image": "https://cdn.motor1.com/images/mgl/2N9Kxz/s3/2027-yangwang-altior.jpg",
+      "summary": "La Yangwang Altior di BYD vuole essere la berlina elettrica più lussuosa in Cina, con 4 motori, 1.000 km di autonomia e 2 frigoriferi",
+      "date": "2026-11-09T08:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:ff3a4d423b86",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La verità sui 2.000 km della batteria litio-aria di CATL",
+      "url": "https://insideevs.it/news/814789/catl-batteria-litio-aria-dietro/",
+      "image": "https://cdn.motor1.com/images/mgl/ojE3ky/s3/batteria-qilin-di-catl.jpg",
+      "summary": "Nel progetto litio-aria di CATL i 2.000 km restano un limite teorico, distante da pacchi batteria reali e da qualsiasi produzione",
+      "date": "2026-11-09T08:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:8049128a15c8",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ecco perché alcune auto sterzano con quattro ruote invece che due",
+      "url": "https://it.motor1.com/news/814633/auto-con-ruote-sterzanti/",
+      "image": "https://cdn.motor1.com/images/mgl/mMY8eq/s3/how-does-rear-wheel-steering-work.jpg",
+      "summary": "Dalle manovre nei parcheggi alla stabilità in curva, come funziona la sterzata posteriore e quali vantaggi offre alla guida",
+      "date": "2026-11-09T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:60017eba7510",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Chery Tiggo 8 vs Geely Starray, duello tra SUV ibridi cinesi",
+      "url": "https://it.motor1.com/news/813669/chery-tiggo-8-vs-geely-starray/",
+      "image": "https://cdn.motor1.com/images/mgl/nA8oLo/s3/chery-tiggo-8-vs-geely-starray.jpg",
+      "summary": "Spaziose, ricche di tecnologia e mosse da motori plug-in, mettiamo a confronto la Tiggo 8 e la Starray",
+      "date": "2026-11-09T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:7e16c1160ebe",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Riscaldare casa, meglio una batteria o accumulare calore?",
+      "url": "https://insideevs.it/news/814692/pompe-calore-accumulo-termico/",
+      "image": "https://cdn.motor1.com/images/mgl/9mW3Gv/s3/riscaldare-casa-meglio-una-batteria-o-accumulare-calore.jpg",
+      "summary": "Due ricerche confrontano diverse tecnologie per gestire l'energia e i consumi delle pompe di calore, anche nei climi più freddi",
+      "date": "2026-11-09T06:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:433e1acaedc1",
       "sourceId": "vaielettrico",
@@ -207,18 +351,6 @@
       "date": "2026-11-07T14:09:27.0000000Z"
     },
     {
-      "id": "hdmotori:e5dba934e04a",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "BMW, il primo modello dell’era Alpina sfreccia a 300 km/h in Italia [VIDEO]",
-      "url": "https://www.hdmotori.it/bmw-alpina-test-italia-video/",
-      "image": null,
-      "summary": "Sul tracciato di Nardò, in provincia di Lecce, la nuova BMW Alpina ha effettuato dei test ad alta velocità. The post BMW, il primo modello dell’era Alpina sfreccia a 300 km/h in Italia [VIDEO] appeared first on HDmoto...",
-      "date": "2026-11-07T14:00:56.0000000Z"
-    },
-    {
       "id": "motor1:c06c26513997",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -231,18 +363,6 @@
       "date": "2026-11-07T14:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:a3c91a03c561",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Citroën BX, dopo 38 anni “riemerge” l’auto dell’ingegnere che superò i 1000 km/h",
-      "url": "https://www.hdmotori.it/citroen-bx-ritrovata-garage-john-watkins/",
-      "image": null,
-      "summary": "Ritrovata in garage dopo quasi 40 anni la Citroën BX di John Watkins, l'ingegnere della RAF che partecipò al record di velocità da 1.000 km/h con il Thrust 2. The post Citroën BX, dopo 38 anni “riemerge” l’auto dell’i...",
-      "date": "2026-11-07T12:00:27.0000000Z"
-    },
-    {
       "id": "motor1:48ed27e39411",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -253,30 +373,6 @@
       "image": "https://cdn.motor1.com/images/mgl/YAbN7v/s3/novita-bmw-2027.jpg",
       "summary": "Arriverà la BMW M3 più potente di sempre, assieme ai restyling di X1, X2 e Serie 5 e tanto altro ancora",
       "date": "2026-11-07T11:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:6b17181be529",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Rolls-Royce Phantom di Shaquille O’Neal è in vendita: la sua storia è bizzarra",
-      "url": "https://www.hdmotori.it/rolls-royce-phantom-shaquille-oneal/",
-      "image": null,
-      "summary": "In tema di automobili Shaq ha avuto una visione quasi sempre lucida, tranne che per la Rolls-Royce che andrà all’asta su Bring a Trailer The post La Rolls-Royce Phantom di Shaquille O’Neal è in vendita: la sua storia ...",
-      "date": "2026-11-07T10:00:43.0000000Z"
-    },
-    {
-      "id": "hdmotori:fdbe90bdfd0c",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "JLR avrebbe risolto in segreto un grave difetto senza informare le autorità",
-      "url": "https://www.hdmotori.it/jlr-risolto-difetto-senza-informare-autorita/",
-      "image": null,
-      "summary": "L'indagine delle autorità americane accusa la Casa inglese di proprietà indiana di aver riprogettato in segreto un componente primario delle sospensioni senza informare i regolatori. The post JLR avrebbe risolto in se...",
-      "date": "2026-11-07T08:30:50.0000000Z"
     },
     {
       "id": "insideevs:88721c836dcf",
@@ -303,42 +399,6 @@
       "date": "2026-11-07T06:00:00.0000000Z"
     },
     {
-      "id": "motor1:c84b34b37916",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Audi RS5 (2026), perché comprarla e perché no",
-      "url": "https://it.motor1.com/reviews/812473/audi-rs5-2026-recensione-video/",
-      "image": "https://cdn.motor1.com/images/mgl/W8bvWr/s3/audi-rs5-2026-perche-comprarla-e-perche-no.jpg",
-      "summary": "Il V6 ibrido da oltre 630 CV spinge forte e l'elettronica è raffinata e fa divertire. Tra le curve, però, pesa tanto",
-      "date": "2026-11-07T00:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:e3d9838d780f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Gomme usurate: la frenata che nessuno misurava (e che ora è obbligatoria)",
-      "url": "https://it.motor1.com/news/814071/gomme-usurate-frenata-michelin/",
-      "image": "https://cdn.motor1.com/images/mgl/NG6ny2/s3/michelin-crossclimate-4-stagioni.jpg",
-      "summary": "Dalla nuova prova europea sulle gomme consumate al CrossClimate che sfida l’inverno, fino al quattro stagioni sportivo",
-      "date": "2026-11-06T20:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:fc6b7dffd059",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Fuso Italia scommette tutto su Canter: servizi ambientali, ultimo miglio ed edilizia",
-      "url": "https://it.motor1.com/news/814691/fuso-italia-ecomondo-servizi-ambientali/",
-      "image": "https://cdn.motor1.com/images/mgl/XBbNAe/s3/fuso-canter.jpg",
-      "summary": "A Ecomondo 2026 FUSO Italia presenta Canter ed eCanter per igiene urbana, distribuzione in città e cantieri con rete e assistenza dedicate",
-      "date": "2026-11-06T17:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:647b3f44fa5a",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -349,18 +409,6 @@
       "image": null,
       "summary": "Undici anni di utilizzo, ma 13 dall’immatricolazione, 110 mila chilometri percorsi e una convinzione che non è cambiata… L'articolo La C-Zero di Angelo: bene dopo 13 anni, ma per nuova batteria 12mila euro proviene da...",
       "date": "2026-11-06T16:49:32.0000000Z"
-    },
-    {
-      "id": "motor1:5daf06c6246d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le auto a 7 posti che non pagano il bollo, per famiglie numerose",
-      "url": "https://it.motor1.com/features/814408/auto-7-posti-esenti-bollo-auto/",
-      "image": "https://cdn.motor1.com/images/mgl/ko8mOR/s3/le-auto-a-7-posti-che-non-pagano-il-bollo.jpg",
-      "summary": "La guida completa alle auto a 7 posti esenti in automatico dal bollo auto o che possono avere il rimborso per chi ha più di 3 figli",
-      "date": "2026-11-06T16:00:00.0000000Z"
     },
     {
       "id": "insideevs:c7511b189c10",
@@ -396,18 +444,6 @@
       "url": "https://insideevs.it/news/814682/revolt-blazex-ordine-polizia-bihar/",
       "image": "https://cdn.motor1.com/images/mgl/407AGk/s3/ciao-benzina-anche-la-polizia-indiana-passa-alle-moto-elettriche.jpg",
       "summary": "La polizia di Patna riceve 1.100 Revolt BlazeX con batteria removibile, lo stesso modello già in vendita al pubblico",
-      "date": "2026-11-06T15:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:f2d505213a4a",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Furgoni e auto, stesse regole CO2 ma mercati diversi. Bisogna dividere i due regolamenti",
-      "url": "https://it.motor1.com/news/814665/co2-2035-regolamento-auto-furgoni/",
-      "image": "https://cdn.motor1.com/images/mgl/xqOE0k/s3/furgoni-e-ue-un-rapporto-difficile.jpg",
-      "summary": "Il Parlamento UE ammorbidisce i target CO2 2035. Per i furgoni fino a 3,5 t l'obiettivo scende all'80%, ma il regolamento resta unico",
       "date": "2026-11-06T15:00:00.0000000Z"
     },
     {
@@ -459,18 +495,6 @@
       "date": "2026-11-06T09:55:15.0000000Z"
     },
     {
-      "id": "vaielettrico:d22c055ec174",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "EICMA 2026. Nerva presenta Kory, e-scooter a ruota alta per la città",
-      "url": "https://www.vaielettrico.it/eicma-2026-nerva-presenta-kory-e-scooter-a-ruota-alta-per-la-citta/",
-      "image": null,
-      "summary": "Il costruttore spagnolo Nerva si presenta al Salone di Eicma con un nuovo modello di scooter elettrico da… L'articolo EICMA 2026. Nerva presenta Kory, e-scooter a ruota alta per la città proviene da Vaielettrico .",
-      "date": "2026-11-06T09:49:32.0000000Z"
-    },
-    {
       "id": "insideevs:a3cab3a159a2",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -505,30 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/8A0o0v/s3/tesla-assisted-driving.jpg",
       "summary": "Anche sul sito italiano compare il nuovo nome \"Tesla Assisted Driving\" ma resta di livello 2 con piena responsabilità del conducente",
       "date": "2026-11-05T16:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:05c8087f49c3",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Lambretta, arriva l'elettrica: 119 km di autonomia",
-      "url": "https://insideevs.it/news/814539/lambretta-elettra-s-limited-edition/",
-      "image": "https://cdn.motor1.com/images/mgl/rK6lAV/s3/lambretta-elettra-s-lo-scooter-elettrico-entra-davvero-in-scena.jpg",
-      "summary": "Elettra S si prepara alla produzione, mentre il marchio presenta a EICMA le edizioni speciali per i suoi 80 anni",
-      "date": "2026-11-05T13:47:12.0000000Z"
-    },
-    {
-      "id": "insideevs:024ccd9cb987",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Elezioni USA, perché per dazi e incentivi EV conta più la Casa Bianca",
-      "url": "https://insideevs.it/news/814514/elezioni-usa-cambia-auto-elettriche/",
-      "image": "https://cdn.motor1.com/images/mgl/3WB2gj/s3/elezioni-usa-perche-per-dazi-e-incentivi-ev-conta-piu-la-casa-bianca.jpg",
-      "summary": "Dazi e standard sulle emissioni dipendono da decisioni federali. I crediti fiscali per le auto elettriche richiedono una nuova legge",
-      "date": "2026-11-05T12:00:00.0000000Z"
     }
   ]
 }
