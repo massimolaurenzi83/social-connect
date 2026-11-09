@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-11-08T22:55:32.3922591Z",
+  "updated": "2026-11-09T02:26:22.2343463Z",
   "items": [
+    {
+      "id": "ansa-cronaca:0daf1f05861e",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "Incendio in appartamento a Trieste, evacuato edificio di otto piani",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/incendio-in-appartamento-a-trieste-evacuato-edificio-di-otto-piani_896aae3f-48db-49d9-8669-1ddd42f71336.html",
+      "image": null,
+      "summary": "Spente le fiamme, i Vigili del fuoco verificheranno presenza di monossido",
+      "date": "2026-11-08T22:53:42.0000000Z"
+    },
     {
       "id": "ansa-cronaca:03ae748260f6",
       "sourceId": "ansa-cronaca",
@@ -25,18 +37,6 @@
       "image": null,
       "summary": "Consiglio di Stato accoglie il ricorso di 27 candidati, 'risposta a quesito era corretta'",
       "date": "2026-11-08T19:53:41.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:08f332d0c9fd",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Settantenne uccisa in casa a coltellate, fermato il figlio",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/donna-uccisa-in-casa-nel-bergamasco-sospetti-su-uno-dei-due-figli_225ce1b2-18e9-4ecb-a1c3-d0a0121c41c5.html",
-      "image": null,
-      "summary": "L'omicidio a Palosco, nel Bergamasco: l'allarme da un parente, forse il delitto venerdì",
-      "date": "2026-11-08T19:05:15.0000000Z"
     },
     {
       "id": "ansa-cronaca:978ca7b5f052",
