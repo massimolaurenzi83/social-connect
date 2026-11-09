@@ -1,7 +1,67 @@
 {
   "category": "ai",
-  "updated": "2026-11-09T10:08:37.1857805Z",
+  "updated": "2026-11-09T20:42:50.7075302Z",
   "items": [
+    {
+      "id": "ai4business:f5fde002d58f",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Decisioni e AI: la matrice per scegliere cosa delegare davvero",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/decisioni-e-ai-la-matrice-per-scegliere-cosa-delegare-davvero/",
+      "image": null,
+      "summary": "Reversibilità e impatto definiscono quanto spazio concedere agli agenti AI: dalle azioni autonome e facilmente annullabili alle scelte irreversibili che richiedono una firma umana. Una matrice in quattro quadranti aiu...",
+      "date": "2026-11-09T17:33:41.0000000Z"
+    },
+    {
+      "id": "ai4business:4a3409a14ce7",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AI e banche: come cambia il lavoro dei risk manager e dei team",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-e-banche-come-cambia-il-lavoro-dei-risk-manager-e-dei-team/",
+      "image": null,
+      "summary": "McKinsey stima che l’AI possa ridurre del 30-60% il lavoro operativo in alcuni processi di rischio e accelerare credito, compliance e validazione dei modelli. Per le banche la sfida è ridisegnare ruoli, dati e control...",
+      "date": "2026-11-09T16:20:57.0000000Z"
+    },
+    {
+      "id": "ai4business:8ba3a2609a1a",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Modelli decisionali: l’AI che risponde con una probabilità",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/modelli-decisionali-lai-che-risponde-con-una-probabilita/",
+      "image": null,
+      "summary": "Reti transformer che, anziché generare testo, rispondono a domande chiuse assegnando probabilità calibrate alle possibili risposte. La guida chiarisce come si differenziano dagli LLM e dai classificatori tradizionali,...",
+      "date": "2026-11-09T15:57:53.0000000Z"
+    },
+    {
+      "id": "ai4business:849298f2f1da",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AI e salute mentale: che cosa rivela uno studio sui chatbot",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-e-salute-mentale-che-cosa-rivela-uno-studio-sui-chatbot/",
+      "image": null,
+      "summary": "Uno studio della Fondazione per la Sostenibilità Digitale e della Sapienza Università di Roma, condotto su 50 dialoghi in italiano con GPT-4.1, mostra che cinque psichiatri riconoscono nei profili generati una struttu...",
+      "date": "2026-11-09T11:28:41.0000000Z"
+    },
+    {
+      "id": "ai4business:0f550af28c5b",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AI e processi aziendali: quando l’efficienza congela gli errori",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-e-processi-aziendali-quando-lefficienza-congela-gli-errori/",
+      "image": null,
+      "summary": "Molte aziende applicano l'AI a processi nati da decisioni stratificate, regole obsolete e workaround informali. L'efficienza ottenuta può nascondere l'errore di fondo, consolidare modelli di business superati e impedi...",
+      "date": "2026-11-09T11:07:08.0000000Z"
+    },
     {
       "id": "ai4business:3507b109c27f",
       "sourceId": "ai4business",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "Dietro la scelta del modello stanno emergendo diversi punti di controllo: dai modelli al post-training, dall’inferenza al routing, fino ai diritti sulle informazioni e meta-informazioni generate durante l’operatività....",
       "date": "2026-11-06T11:09:10.0000000Z"
-    },
-    {
-      "id": "ai4business:5102c5319d11",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Risk management e AI, perché innovazione e controllo devono evolvere insieme",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/risk-management-e-ai-perche-innovazione-e-controllo-devono-evolvere-insieme/",
-      "image": null,
-      "summary": "L’intelligenza artificiale rafforza analisi, monitoraggio e capacità predittiva del risk management, ma introduce vulnerabilità operative, informatiche e reputazionali. Dati non strutturati, agenti intelligenti e auto...",
-      "date": "2026-11-06T10:13:55.0000000Z"
-    },
-    {
-      "id": "ai4business:cae9356f80ee",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Più prove pratiche e meno colloqui, come l’AI cambia la selezione del personale",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-hr/piu-prove-pratiche-e-meno-colloqui-come-lai-cambia-la-selezione-del-personale/",
-      "image": null,
-      "summary": "Nei prossimi anni le prove di utilizzo pratico dell'AI saranno tra gli strumenti più rilevanti per valutare i candidati delle HR. Perderanno centralità curriculum e colloqui di selezione, ma sulla decisione finale res...",
-      "date": "2026-11-06T09:29:19.0000000Z"
-    },
-    {
-      "id": "ai4business:a861283891a2",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "GPT-6 Cyber, OpenAI automatizza la caccia ai bug: cosa cambia per le imprese",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/gpt-6-cyber-openai-automatizza-la-caccia-ai-bug-cosa-cambia-per-le-imprese/",
-      "image": null,
-      "summary": "Si tratta di un modello che ha individuato 81 vulnerabilità gravi in Firefox e sviluppato 948 exploit Linux in test controllati. Le aziende possono accelerare ricerca, verifica e correzione delle falle, ma accesso, co...",
-      "date": "2026-11-06T09:14:53.0000000Z"
-    },
-    {
-      "id": "ai4business:99f4511845f4",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Oltre gli assistenti virtuali: perché il futuro delle aziende è AI-native",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/oltre-gli-assistenti-virtuali-perche-il-futuro-delle-aziende-e-ai-native/",
-      "image": null,
-      "summary": "Chatbot e agenti isolati producono efficienze marginali, ma non trasformano il modello operativo. Le aziende AI-native ridisegnano invece i processi end-to-end, affidano all’intelligenza artificiale l’orchestrazione d...",
-      "date": "2026-11-05T17:31:20.0000000Z"
-    },
-    {
-      "id": "ai4business:53338d86f3cc",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Beni di consumo confezionati: in Italia i progetti di AI crescono ma l’impatto è limitato",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/beni-di-consumo-confezionati-in-italia-i-progetti-di-ai-crescono-ma-limpatto-e-limitato/",
-      "image": null,
-      "summary": "Una indagine Schneider Electric-Censuswide su 200 decisori italiani del CPG rileva che il 73% delle imprese intervistate è ancora tra progetti pilota e prime applicazioni dell’AI. Le aziende stimano perdite crescenti ...",
-      "date": "2026-11-05T16:08:02.0000000Z"
     },
     {
       "id": "guerredirete:532aa34f4c9e",

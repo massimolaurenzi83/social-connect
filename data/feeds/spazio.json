@@ -1,7 +1,19 @@
 {
   "category": "spazio",
-  "updated": "2026-11-09T10:08:37.1799230Z",
+  "updated": "2026-11-09T20:42:50.6747162Z",
   "items": [
+    {
+      "id": "astronautinews:2e5f92bf11c3",
+      "sourceId": "astronautinews",
+      "source": "AstronautiNEWS",
+      "platform": "rss",
+      "category": "spazio",
+      "title": "L’ESA prosegue lo sviluppo del propulsore Prometheus",
+      "url": "https://www.astronautinews.it/2026/11/lesa-prosegue-lo-sviluppo-del-propulsore-prometheus/",
+      "image": "https://www.astronautinews.it/wp-content/uploads/2026/11/vlcsnap-2026-11-03-14h41m27s985.35f688d2.webp",
+      "summary": "Si è conclusa lo scorso 29 ottobre 2026 la campagna di collaudi del nuovo propulsore Prometheus che l'Agenzia spaziale europea ha tenuto presso il banco prova P5 di Lampoldshausen, Germania. Prometheus, la cui costruz...",
+      "date": "2026-11-09T17:00:00.0000000Z"
+    },
     {
       "id": "astronautinews:71fb903a3e85",
       "sourceId": "astronautinews",
@@ -133,18 +145,6 @@
       "image": "https://www.astronautinews.it/wp-content/uploads/2026/09/ESA-Juice-Earth-flyby-2026.jpg",
       "summary": "Ieri 28 settembre 2026, la sonda interplanetaria europea Juice, che dall'aprile 2023 è in viaggio per raggiungere il sistema gioviano, ha effettuato un passaggio ravvicinato del nostro Pianeta per acquisire velocità e...",
       "date": "2026-09-29T10:00:00.0000000Z"
-    },
-    {
-      "id": "astronautinews:ac12ad1f2800",
-      "sourceId": "astronautinews",
-      "source": "AstronautiNEWS",
-      "platform": "rss",
-      "category": "spazio",
-      "title": "MAGPIE muove i primi passi",
-      "url": "https://www.astronautinews.it/2026/09/magpie-muove-i-primi-passi/",
-      "image": "https://www.astronautinews.it/wp-content/uploads/2026/09/MAGPIE_team_at_signing_ceremony_pillars.jpg",
-      "summary": "Lo scorso 1 settembre a Copenhagen, nell'ambito dell'evento Space for Inspiration , la cerimonia della firma del contratto per la realizzazione (Phase 2) del rover lunare MAGPIE, fra l'Agenzia spaziale europea (ESA) e...",
-      "date": "2026-09-14T16:00:00.0000000Z"
     }
   ]
 }

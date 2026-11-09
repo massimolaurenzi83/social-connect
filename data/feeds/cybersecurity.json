@@ -1,7 +1,79 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-09T10:08:37.1602497Z",
+  "updated": "2026-11-09T20:42:50.7093890Z",
   "items": [
+    {
+      "id": "cybersecurity360:1a62e1d36661",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Attacchi ai frigoriferi, Iran o Russia? Le prove e i dubbi",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/attacchi-ai-frigoriferi-iran-o-russia-le-prove-e-i-dubbi/",
+      "image": null,
+      "summary": "Parigi attribuisce ai Guardiani della Rivoluzione iraniani il sabotaggio di circa 700 supermercati francesi dell’11-12 ottobre. La rivendicazione di NoName057(16) e Z-Pentest riguarda invece l’ondata europea di novemb...",
+      "date": "2026-11-09T17:31:06.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:1a04e6bd4753",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Attacchi hacker, il pericolo di gridare sempre “al lupo”: così la propaganda oscura le vere minacce",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/attacchi-hacker-il-pericolo-di-gridare-sempre-al-lupo-cosi-la-propaganda-oscura-le-vere-minacce/",
+      "image": null,
+      "summary": "Doxxing ai danni di figure istituzionali, una presunta violazione della DIA e un accesso non autorizzato ai sistemi del tunnel del Brennero. Tre episodi diversi, spesso accomunati dall'etichetta di \"attacco hacker all...",
+      "date": "2026-11-09T16:55:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:2d83f9c9c389",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Anche le AI piangono col phishing",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/anche-le-ai-piangono-col-phishing/",
+      "image": null,
+      "summary": "La superficie d'attacco si estende anche alla manipolazione dell'AI, che subisce attacchi basati su tecniche di ingegneria sociale. Motivo per cui è necessario che le difese vengano predisposte adattando principi già ...",
+      "date": "2026-11-09T15:46:55.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:58e22d0325d8",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Un solo accesso può compromettere più aziende: l’allarme sulla supply chain",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/un-solo-accesso-puo-compromettere-piu-aziende-lallarme-sulla-supply-chain/",
+      "image": null,
+      "summary": "Un account rubato può trasformare la compromissione di un fornitore IT in un attacco a più aziende. Il Cyber Pulse Report 2026 di Acronis mostra come identità privilegiate, agenti AI e ransomware amplifichino i rischi...",
+      "date": "2026-11-09T15:34:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:47c7d5410c93",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Digital Omnibus e GDPR: come cambia il legittimo interesse nell’addestramento dell’AI",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/digital-omnibus-e-gdpr-come-cambia-il-legittimo-interesse-nelladdestramento-dellai/",
+      "image": null,
+      "summary": "Il Digital Omnibus apre al legittimo interesse per l'addestramento dei modelli AI, ma il Consiglio UE elimina alcune garanzie previste dalla Commissione. Tra le critiche di noyb, il diritto di opposizione e il problem...",
+      "date": "2026-11-09T11:30:40.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d5bb7bcac319",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "DIA, presunti dossier in vendita sul dark web: ecco cosa sappiamo",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/dia-presunti-dossier-in-vendita-sul-dark-web-ecco-cosa-sappiamo/",
+      "image": null,
+      "summary": "Un utente chiamato weykofa offre sul dark web 302 file per 222,3 MB attribuiti alla Direzione investigativa antimafia, tra dossier e materiale della rete @ON. Non ci sono conferme sull'origine dei documenti: alcuni nu...",
+      "date": "2026-11-09T11:30:28.0000000Z"
+    },
     {
       "id": "cybersecurity360:cea011cd2241",
       "sourceId": "cybersecurity360",
@@ -39,88 +111,16 @@
       "date": "2026-11-09T08:32:00.0000000Z"
     },
     {
-      "id": "cybersecurity360:4348227e8b55",
+      "id": "cybersecurity360:c7b7c932627f",
       "sourceId": "cybersecurity360",
       "source": "Cybersecurity360",
       "platform": "rss",
       "category": "cybersecurity",
-      "title": "I russi dentro centrali idroelettriche italiane? Facciamo chiarezza",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/i-russi-dentro-centrali-idroelettriche-italiane-facciamo-chiarezza/",
+      "title": "Frigoriferi hackerati in Italia: tutti i casi e i danni accertati",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/frigoriferi-hackerati-in-italia-tutti-i-casi-e-i-danni-accertati/",
       "image": null,
-      "summary": "NoName057(16) rivendica un accesso al controllo di una centrale idroelettrica italiana: una schermata associata al 29 ottobre mostra una HMI, ma non identifica l'impianto né documenta comandi o danni. Il confronto con...",
-      "date": "2026-11-09T06:51:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:eccbca362df0",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Attacco al Bennero rivendicato da filo-russi: ecco tutti i rischi",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/attacco-al-bennero-rivendicato-da-filo-russi-ecco-tutti-i-rischi/",
-      "image": null,
-      "summary": "BBT SE conferma un accesso non autorizzato ai propri dati senza ripercussioni operative note sui lavori della Galleria di Base del Brennero. Il gruppo russofono Everest rivendica 812 GB di documenti: quantità e conten...",
-      "date": "2026-11-07T16:33:05.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:38f4fc863e25",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Breach Chainalysis: credenziali di tutti gli utenti esposte e controlli crypto interrotti",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/breach-chainalysis-credenziali-di-tutti-gli-utenti-esposte-e-controlli-crypto-interrotti/",
-      "image": null,
-      "summary": "Il breach di Chainalysis espone hash delle password e token relativi a tutti gli utenti e interrompe servizi investigativi e di compliance. Parte il ripristino di KYT e Address Screening: per i clienti restano da veri...",
-      "date": "2026-11-06T17:29:55.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:061c837a593f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "MythicRatatoskr, la backdoor della cyberwarfare russa: dallo spionaggio agli attacchi distruttivi",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/mythicratatoskr-la-backdoor-della-cyberwarfare-russa-dallo-spionaggio-agli-attacchi-distruttivi/",
-      "image": null,
-      "summary": "Dallo spionaggio alla cancellazione dei dati: l'attacco a un'azienda logistica ucraina mostra il possibile coordinamento tra UAC-0099 e Sandworm. ESET ricostruisce il ruolo di MythicRatatoskr, una nuova backdoor che s...",
-      "date": "2026-11-06T16:11:47.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:88e804e78efb",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Frigoriferi connessi sotto attacco cyber: il rischio OT che minaccia le imprese italiane",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/frigoriferi-connessi-sotto-attacco-cyber-il-rischio-ot-che-minaccia-le-imprese-italiane/",
-      "image": null,
-      "summary": "Gli attacchi ai sistemi di refrigerazione europei evidenziano i rischi della convergenza tra IT e OT. Controller esposti su Internet, dispositivi legacy e accessi remoti poco protetti possono trasformarsi in strumenti...",
-      "date": "2026-11-06T15:29:25.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:07d56160d679",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Phishing, gli hacker prendono di mira anche l’AI: la minaccia dei falsi CAPTCHA",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/phishing-gli-hacker-prendono-di-mira-anche-lai-la-minaccia-dei-falsi-captcha/",
-      "image": null,
-      "summary": "Le e-mail di phishing diventano \"dual-target\": armi a doppio bersaglio che ingannano gli utenti e manipolano gli assistenti AI con istruzioni nascoste. Intanto, i falsi CAPTCHA sfruttano tecniche ClickFix per indurre ...",
-      "date": "2026-11-06T11:08:43.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:246d3738bc0c",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "GPT-6 Cyber trova 81 bug in Firefox: capacità, limiti e rischi OT",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/gpt-6-cyber-trova-81-bug-in-firefox-capacita-limiti-e-rischi-ot/",
-      "image": null,
-      "summary": "OpenAI lancia GPT-6 Cyber e dichiara 81 vulnerabilità gravi scoperte in Firefox e 948 exploit Linux sviluppati in laboratorio. I test esterni mostrano limiti, mentre le prove OT con Dragos evidenziano il rischio di in...",
-      "date": "2026-11-06T10:18:08.0000000Z"
+      "summary": "Dalla Sicilia al Trentino, fino alla Liguria: la campagna contro i sistemi frigoriferi ha colpito supermercati, mense, imprese alimentari e un bar. I danni dichiarati vanno dalle centinaia alle centinaia di migliaia d...",
+      "date": "2026-11-09T07:59:00.0000000Z"
     }
   ]
 }
