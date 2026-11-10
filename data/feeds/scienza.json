@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-11-10T18:33:36.7920543Z",
+  "updated": "2026-11-10T23:42:07.9886820Z",
   "items": [
+    {
+      "id": "media-inaf:eb5a3aabf674",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Stellafane, dove i telescopi si fanno ancora a mano",
+      "url": "https://www.media.inaf.it/2026/11/10/stellafane-telescopi-fatti-a-mano/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/3840px-Stellafane_Breuning_Domed_Observatory_2021-150x150.jpg",
+      "summary": "È giunto alla centesima edizione Stellafane, raduno di costruttori di telescopi che si tiene ogni anno vicino Springfield, in Vermont. Molti dei partecipanti, inizialmente semplici amatori, hanno finito per contribuir...",
+      "date": "2026-11-10T19:17:34.0000000Z"
+    },
     {
       "id": "curiuss:vO-PpGi-2Q4",
       "sourceId": "curiuss",
@@ -394,18 +406,6 @@
       "summary": "",
       "videoId": "rOszx1DzEHM",
       "date": "2026-11-04T17:30:35.0000000Z"
-    },
-    {
-      "id": "media-inaf:501668f70ac8",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Gemello digitale per svelare esopianeti nascosti",
-      "url": "https://www.media.inaf.it/2026/11/04/un-gemello-digitale-per-svelare-esopianeti-nascosti/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/Comparison-150x150.png",
-      "summary": "Un team di ricercatori guidati dalla Northwestern University ha sviluppato una tecnica computazionale per l'imaging diretto dei pianeti extrasolari in grado di eliminare il bagliore residuo delle stelle madri. Il meto...",
-      "date": "2026-11-04T16:06:15.0000000Z"
     },
     {
       "id": "geopop:VdBwr76opkM",
