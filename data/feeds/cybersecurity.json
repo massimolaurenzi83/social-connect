@@ -1,7 +1,67 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-10T10:57:47.6386337Z",
+  "updated": "2026-11-10T18:33:36.8178503Z",
   "items": [
+    {
+      "id": "cybersecurity360:f5ea59257c75",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber security: perché il settore continua a dibattere sui soliti problemi",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/cyber-security-perche-il-settore-continua-a-dibattere-sui-soliti-problemi/",
+      "image": null,
+      "summary": "Un’analisi approfondita sulle ragioni che spingono gli esperti di cyber security a ripetere ciclicamente i medesimi dibattiti, tra immaturità del mercato, scarsa condivisione dei dati e complessità delle dinamiche uma...",
+      "date": "2026-11-10T17:26:10.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:cb8168b10995",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Shadow AI, quando il miglior sviluppatore diventa un rischio per i dati aziendali",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/shadow-ai-quando-il-miglior-sviluppatore-diventa-un-rischio-per-i-dati-aziendali/",
+      "image": null,
+      "summary": "La Shadow AI può esporre codice proprietario e informazioni riservate senza che si verifichi alcun attacco informatico. Il problema nasce spesso dalla pressione sulla produttività e dall'assenza di strumenti aziendali...",
+      "date": "2026-11-10T16:19:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:8942b4e47b92",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Nightspire rivendica attacco a IMD Group: il rischio cyber diventa questione di governance",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/nightspire-rivendica-attacco-a-imd-group-il-rischio-cyber-diventa-questione-di-governance/",
+      "image": null,
+      "summary": "Nightspire sostiene di aver sottratto dati finanziari e dei dipendenti di IMD Group, ma la violazione non è confermata. Il caso riapre il tema della gestione delle rivendicazioni ransomware nelle società quotate: tra ...",
+      "date": "2026-11-10T14:54:07.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:171241841926",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyberattacchi, Viminale: più controlli su 45mila sistemi e servizi a rischio",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/cyberattacchi-viminale-piu-controlli-su-45mila-sistemi-e-servizi-a-rischio/",
+      "image": null,
+      "summary": "Il Comitato nazionale per l’ordine e la sicurezza pubblica, riunito al Viminale il 10 novembre, indica un monitoraggio più intenso dei sistemi vulnerabili. Nei primi nove mesi del 2026 ACN ha individuato quasi 45mila ...",
+      "date": "2026-11-10T14:33:49.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:439b903e0430",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "SonicWall, la falla che aggira l’MFA con credenziali valide",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/sonicwall-la-falla-che-aggira-lmfa-con-credenziali-valide/",
+      "image": null,
+      "summary": "L'MFA è attiva, ma può essere aggirata. La vulnerabilità CVE-2026-19868 nei firewall SonicWall consente di accedere alle SSL-VPN con credenziali valide, evitando il secondo fattore. Una falla già sfruttata che rivela ...",
+      "date": "2026-11-10T09:39:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:6836d34fd37d",
       "sourceId": "cybersecurity360",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "Un account rubato può trasformare la compromissione di un fornitore IT in un attacco a più aziende. Il Cyber Pulse Report 2026 di Acronis mostra come identità privilegiate, agenti AI e ransomware amplifichino i rischi...",
       "date": "2026-11-09T15:34:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:47c7d5410c93",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Digital Omnibus e GDPR: come cambia il legittimo interesse nell’addestramento dell’AI",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/digital-omnibus-e-gdpr-come-cambia-il-legittimo-interesse-nelladdestramento-dellai/",
-      "image": null,
-      "summary": "Il Digital Omnibus apre al legittimo interesse per l'addestramento dei modelli AI, ma il Consiglio UE elimina alcune garanzie previste dalla Commissione. Tra le critiche di noyb, il diritto di opposizione e il problem...",
-      "date": "2026-11-09T11:30:40.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d5bb7bcac319",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "DIA, presunti dossier in vendita sul dark web: ecco cosa sappiamo",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/dia-presunti-dossier-in-vendita-sul-dark-web-ecco-cosa-sappiamo/",
-      "image": null,
-      "summary": "Un utente chiamato weykofa offre sul dark web 302 file per 222,3 MB attribuiti alla Direzione investigativa antimafia, tra dossier e materiale della rete @ON. Non ci sono conferme sull'origine dei documenti: alcuni nu...",
-      "date": "2026-11-09T11:30:28.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:cea011cd2241",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sovranità dei dati e cyber security: il controllo non si ferma ai confini del cloud",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/sovranita-dei-dati-e-cyber-security-il-controllo-non-si-ferma-ai-confini-del-cloud/",
-      "image": null,
-      "summary": "La sovranità dei dati non dipende soltanto dalla posizione dei server. Accessi, telemetria, fornitori e gestione degli incidenti determinano il controllo effettivo sulle informazioni aziendali. Le sfide per la cyber s...",
-      "date": "2026-11-09T09:21:30.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2bb47d66e862",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Oltre la bomba, la tastiera: spegnere un Paese senza sparare un colpo",
-      "url": "https://www.cybersecurity360.it/outlook/oltre-la-bomba-la-tastiera-spegnere-un-paese-senza-sparare-un-colpo/",
-      "image": null,
-      "summary": "Cyber spionaggio, terrorismo e la nuova guerra alle infrastrutture critiche. Siamo dinanzi a una permacrisi che non concede tregua a Stati, cittadini e imprese. Si passa dalla violenza che distrugge a quella che spegn...",
-      "date": "2026-11-09T08:52:42.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:1732a0499eb7",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "NordVPN per il Black Friday: sconti fino al 78%, 3 mesi extra e suite completa per la cybersecurity",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/offerta-black-friday-nordvpn-sconto-78-mesi-extra/",
-      "image": null,
-      "summary": "Il Black Friday porta uno sconto fino al 78% sugli abbonamenti NordVPN, con 3 mesi aggiuntivi inclusi. Le offerte partono da 3,49 euro al mese, ma cambiano funzionalità, costi iniziali e prezzi di rinnovo in base al p...",
-      "date": "2026-11-09T08:32:00.0000000Z"
     }
   ]
 }

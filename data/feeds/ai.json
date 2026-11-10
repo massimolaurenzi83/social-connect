@@ -1,7 +1,55 @@
 {
   "category": "ai",
-  "updated": "2026-11-10T10:57:47.6746137Z",
+  "updated": "2026-11-10T18:33:36.8162013Z",
   "items": [
+    {
+      "id": "ai4business:d73518cf01fc",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Meta lancia Muse Ember: il modello AI low cost pensato per gli agenti",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/meta-lancia-muse-ember-il-modello-ai-low-cost-pensato-per-gli-agenti/",
+      "image": null,
+      "summary": "Il nuovo modello multimodale gestisce tool call, coding, routing ed elaborazione documentale con un contesto da un milione di token. Il prezzo parte da 0,10 dollari per milione di token in input. La strategia di Meta ...",
+      "date": "2026-11-10T16:06:02.0000000Z"
+    },
+    {
+      "id": "ai4business:94441c281eb4",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Frontoni (UniMc, Vrai Lab): “Spingere le aziende a creare intelligenza artificiale nell’AI agentica”",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/frontoni-unimc-vrai-lab-spingere-le-aziende-a-creare-intelligenza-artificiale-nellai-agentica/",
+      "image": null,
+      "summary": "Le imprese non devono limitarsi a essere utenti passive, ma devono diventare creatrici di intelligenza artificiale, nelle forme e soluzioni dell’AI agentica. Come indica Emanuele Frontoni, professore di Informatica al...",
+      "date": "2026-11-10T15:35:09.0000000Z"
+    },
+    {
+      "id": "ai4business:cf3e4699226e",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Exprivia-ValidMind: alleanza sull’AI per le banche",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/exprivia-validmind-alleanza-sullai-per-le-banche/",
+      "image": null,
+      "summary": "Le due aziende siglano una partnership per integrare la governance dell’intelligenza artificiale nei processi di banche e assicurazioni. Inventario dei modelli, validazione, documentazione e controlli mirati sulle azi...",
+      "date": "2026-11-10T12:39:02.0000000Z"
+    },
+    {
+      "id": "ai4business:2b9cd98fdaaf",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AI nella PA, le linee guida AgID cambiano i progetti pubblici",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-nella-pa-le-linee-guida-agid-cambiano-i-progetti-pubblici/",
+      "image": null,
+      "summary": "L'Agenzia adotta le linee guida per l’intelligenza artificiale nella pubblica amministrazione con la determinazione 169/2026. Classificazione del rischio, qualità dei dati, sicurezza e gestione dei progetti diventano ...",
+      "date": "2026-11-10T11:19:04.0000000Z"
+    },
     {
       "id": "ai4business:e50293075643",
       "sourceId": "ai4business",
@@ -73,54 +121,6 @@
       "image": null,
       "summary": "McKinsey stima che l’AI possa ridurre del 30-60% il lavoro operativo in alcuni processi di rischio e accelerare credito, compliance e validazione dei modelli. Per le banche la sfida è ridisegnare ruoli, dati e control...",
       "date": "2026-11-09T16:20:57.0000000Z"
-    },
-    {
-      "id": "ai4business:8ba3a2609a1a",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Modelli decisionali: l’AI che risponde con una probabilità",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/modelli-decisionali-lai-che-risponde-con-una-probabilita/",
-      "image": null,
-      "summary": "Reti transformer che, anziché generare testo, rispondono a domande chiuse assegnando probabilità calibrate alle possibili risposte. La guida chiarisce come si differenziano dagli LLM e dai classificatori tradizionali,...",
-      "date": "2026-11-09T15:57:53.0000000Z"
-    },
-    {
-      "id": "ai4business:849298f2f1da",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "AI e salute mentale: che cosa rivela uno studio sui chatbot",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-e-salute-mentale-che-cosa-rivela-uno-studio-sui-chatbot/",
-      "image": null,
-      "summary": "Uno studio della Fondazione per la Sostenibilità Digitale e della Sapienza Università di Roma, condotto su 50 dialoghi in italiano con GPT-4.1, mostra che cinque psichiatri riconoscono nei profili generati una struttu...",
-      "date": "2026-11-09T11:28:41.0000000Z"
-    },
-    {
-      "id": "ai4business:0f550af28c5b",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "AI e processi aziendali: quando l’efficienza congela gli errori",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-e-processi-aziendali-quando-lefficienza-congela-gli-errori/",
-      "image": null,
-      "summary": "Molte aziende applicano l'AI a processi nati da decisioni stratificate, regole obsolete e workaround informali. L'efficienza ottenuta può nascondere l'errore di fondo, consolidare modelli di business superati e impedi...",
-      "date": "2026-11-09T11:07:08.0000000Z"
-    },
-    {
-      "id": "ai4business:3507b109c27f",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Nvidia, la crisi di Jensen Huang mette alla prova il board",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/nvidia-la-crisi-di-jensen-huang-mette-alla-prova-il-board/",
-      "image": null,
-      "summary": "Il cda dell'azienda indaga sulle notizie secondo cui Huang sarebbe stato bersaglio dell'intelligence cinese. Il ceo ha ammesso un'infedeltà e chiesto scusa alla famiglia e ai dipendenti. Madison e Spencer Huang e il g...",
-      "date": "2026-11-09T09:58:27.0000000Z"
     },
     {
       "id": "guerredirete:532aa34f4c9e",
