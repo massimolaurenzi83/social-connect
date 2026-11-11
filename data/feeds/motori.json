@@ -1,6 +1,6 @@
 {
   "category": "motori",
-  "updated": "2026-11-10T23:42:07.9996010Z",
+  "updated": "2026-11-11T03:05:35.5668455Z",
   "items": [
     {
       "id": "vaielettrico:f0e333cc5e72",
@@ -133,18 +133,6 @@
       "image": null,
       "summary": "BYD taglia il traguardo dei 19 milioni di veicoli elettrificati con il debutto della Fang Cheng Bao Ti 9, maxi SUV plug-in hybrid da 536 CV e 1.630 km di autonomia totale. The post BYD raggiunge i 19 milioni di auto N...",
       "date": "2026-11-10T16:00:31.0000000Z"
-    },
-    {
-      "id": "insideevs:28329dd59cfe",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quanto perde una batteria elettrica dopo 5 anni? Risponde Ford",
-      "url": "https://insideevs.it/news/814867/degrado-batterie-auto-dopo-anni/",
-      "image": "https://cdn.motor1.com/images/mgl/ojE3Yp/s3/ford-mustang-mach-e.jpg",
-      "summary": "Dopo cinque anni e quasi 90.000 km, le Mustang Mach-E analizzate conservano mediamente il 92% della capacità originale",
-      "date": "2026-11-10T16:00:00.0000000Z"
     },
     {
       "id": "motor1:d2b816146fec",
@@ -339,18 +327,6 @@
       "date": "2026-11-10T13:00:02.0000000Z"
     },
     {
-      "id": "insideevs:c8cca71790a9",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ecco quanto petrolio usiamo in meno guidando le auto elettriche",
-      "url": "https://insideevs.it/news/814939/auto-elettriche-petrolio-consumi/",
-      "image": "https://cdn.motor1.com/images/mgl/QeGw3Y/s3/byd-dolphin-surf.jpg",
-      "summary": "Secondo Transport & Environment le BEV risparmiano 1,2 milioni di barili di petrolio al giorno e oltre 200 milioni di tonnellate di CO2",
-      "date": "2026-11-10T13:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:f3d92ae7941a",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -529,6 +505,30 @@
       "image": "https://cdn.motor1.com/images/mgl/ojE3ky/s3/batteria-qilin-di-catl.jpg",
       "summary": "Nel progetto litio-aria di CATL i 2.000 km restano un limite teorico, distante da pacchi batteria reali e da qualsiasi produzione",
       "date": "2026-11-09T08:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:7e16c1160ebe",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Riscaldare casa, meglio una batteria o accumulare calore?",
+      "url": "https://insideevs.it/news/814692/pompe-calore-accumulo-termico/",
+      "image": "https://cdn.motor1.com/images/mgl/9mW3Gv/s3/riscaldare-casa-meglio-una-batteria-o-accumulare-calore.jpg",
+      "summary": "Due ricerche confrontano diverse tecnologie per gestire l'energia e i consumi delle pompe di calore, anche nei climi più freddi",
+      "date": "2026-11-09T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:cf8f9d6d3e49",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto autonome e robot, Xpeng sviluppa un'AI che vede meglio",
+      "url": "https://insideevs.it/news/814688/groundingpi-xpeng-modello-visivo-guida/",
+      "image": "https://cdn.motor1.com/images/mgl/pb8g2g/s3/auto-autonome-e-robot-xpeng-sviluppa-un-ai-che-vede-meglio.jpg",
+      "summary": "GroundingPI riconosce oggetti, testi e posizioni nello spazio. Nei test pubblicati dall'azienda supera GPT-6 Astra",
+      "date": "2026-11-08T06:00:00.0000000Z"
     }
   ]
 }
