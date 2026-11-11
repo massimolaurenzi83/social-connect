@@ -1,7 +1,67 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-11T03:05:35.5702856Z",
+  "updated": "2026-11-11T10:48:04.7120875Z",
   "items": [
+    {
+      "id": "cybersecurity360:1a81ccc489c1",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Attacchi ransomware alle aziende italiane oggi (in aggiornamento)",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/attacchi-ransomware-aziende-italiane-oggi/",
+      "image": null,
+      "summary": "Grazie a una dashboard costantemente aggiornata è possibile monitorare l'andamento delle rivendicazioni ransomware che impattano sulle vittime italiane. Ecco tutti gli attacchi ransomware che hanno colpito il nostro P...",
+      "date": "2026-11-11T10:42:10.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:eb3b7c2d4eef",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "FNAC, 7 milioni di multa: il tracciamento per addestrare gli algoritmi non è una necessità tecnica",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/fnac-7-milioni-di-multa-il-tracciamento-per-addestrare-gli-algoritmi-non-e-una-necessita-tecnica/",
+      "image": null,
+      "summary": "La CNIL multa FNAC per 7 milioni di euro: l'app tracciava gli utenti anche dopo il rifiuto del consenso, utilizzando i dati per raccomandazioni commerciali e addestramento algoritmico. La decisione ribadisce che migli...",
+      "date": "2026-11-11T10:36:58.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:f294cb1ba6fc",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "BluePhishing, il nuovo attacco che sfrutta gli agenti AI per aggirare la fiducia in Microsoft Entra",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/bluephishing-il-nuovo-attacco-che-sfrutta-gli-agenti-ai-per-aggirare-la-fiducia-in-microsoft-entra/",
+      "image": null,
+      "summary": "Una sola autorizzazione può aprire la strada alla creazione di centinaia di identità di agenti AI in Microsoft Entra. La tecnica BluePhishing, scoperta da Proofpoint, sfrutta il consenso OAuth per introdurre identità ...",
+      "date": "2026-11-11T10:01:14.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d6a6efc84d10",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Microsoft, oltre mille vulnerabilità corrette e una zero-day Outlook già sfruttata",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/microsoft-oltre-mille-vulnerabilita-corrette-e-una-zero-day-outlook-gia-sfruttata/",
+      "image": null,
+      "summary": "Microsoft ha pubblicato il Patch Tuesday del 10 novembre 2026: circa 1.093 vulnerabilità corrette, 63 critiche. Una zero-day di Outlook già sfruttata permette di esporre hash NTLMv2 quando l’utente apre un file malevo...",
+      "date": "2026-11-11T09:00:20.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:277fecf8b716",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Le dimensioni non contano: gli hacker puntano alla catena di fornitura delle aziende",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/le-dimensioni-non-contano-gli-hacker-puntano-alla-catena-di-fornitura-delle-aziende/",
+      "image": null,
+      "summary": "Basta pensare alle dimensioni. Agli hacker non importano più la dimensione di un'azienda da attaccare, se, tramite quell'impresa, può accedere alla sua catena di fornitura. Ecco perché è anacronistica l'idea che la si...",
+      "date": "2026-11-11T08:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:f5ea59257c75",
       "sourceId": "cybersecurity360",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "L'MFA è attiva, ma può essere aggirata. La vulnerabilità CVE-2026-19868 nei firewall SonicWall consente di accedere alle SSL-VPN con credenziali valide, evitando il secondo fattore. Una falla già sfruttata che rivela ...",
       "date": "2026-11-10T09:39:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:6836d34fd37d",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Dal contesto al rischio: quando la gravità e la probabilità cambiano le regole del gioco",
-      "url": "https://www.cybersecurity360.it/legal/dal-contesto-al-rischio-quando-la-gravita-e-la-probabilita-cambiano-le-regole-del-gioco/",
-      "image": null,
-      "summary": "La natura dell’organizzazione, le sue dimensioni, la tipologia di asset gestiti, le vulnerabilità presenti, le aspettative delle parti interessate e i vincoli normativi, dal GDPR alla NIS2, sono elementi che trasforma...",
-      "date": "2026-11-10T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:1a62e1d36661",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Attacchi ai frigoriferi, Iran o Russia? Le prove e i dubbi",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/attacchi-ai-frigoriferi-iran-o-russia-le-prove-e-i-dubbi/",
-      "image": null,
-      "summary": "Parigi attribuisce ai Guardiani della Rivoluzione iraniani il sabotaggio di circa 700 supermercati francesi dell’11-12 ottobre. La rivendicazione di NoName057(16) e Z-Pentest riguarda invece l’ondata europea di novemb...",
-      "date": "2026-11-09T17:31:06.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:1a04e6bd4753",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Attacchi hacker, il pericolo di gridare sempre “al lupo”: così la propaganda oscura le vere minacce",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/attacchi-hacker-il-pericolo-di-gridare-sempre-al-lupo-cosi-la-propaganda-oscura-le-vere-minacce/",
-      "image": null,
-      "summary": "Doxxing ai danni di figure istituzionali, una presunta violazione della DIA e un accesso non autorizzato ai sistemi del tunnel del Brennero. Tre episodi diversi, spesso accomunati dall'etichetta di \"attacco hacker all...",
-      "date": "2026-11-09T16:55:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2d83f9c9c389",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Anche le AI piangono col phishing",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/anche-le-ai-piangono-col-phishing/",
-      "image": null,
-      "summary": "La superficie d'attacco si estende anche alla manipolazione dell'AI, che subisce attacchi basati su tecniche di ingegneria sociale. Motivo per cui è necessario che le difese vengano predisposte adattando principi già ...",
-      "date": "2026-11-09T15:46:55.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:58e22d0325d8",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Un solo accesso può compromettere più aziende: l’allarme sulla supply chain",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/un-solo-accesso-puo-compromettere-piu-aziende-lallarme-sulla-supply-chain/",
-      "image": null,
-      "summary": "Un account rubato può trasformare la compromissione di un fornitore IT in un attacco a più aziende. Il Cyber Pulse Report 2026 di Acronis mostra come identità privilegiate, agenti AI e ransomware amplifichino i rischi...",
-      "date": "2026-11-09T15:34:00.0000000Z"
     }
   ]
 }
