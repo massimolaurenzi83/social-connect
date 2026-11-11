@@ -1,7 +1,43 @@
 {
   "category": "scienza",
-  "updated": "2026-11-11T10:48:04.6779260Z",
+  "updated": "2026-11-11T18:09:37.8150907Z",
   "items": [
+    {
+      "id": "media-inaf:a8e7884d1343",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Plato, quattro programmi parlano italiano",
+      "url": "https://www.media.inaf.it/2026/11/11/plato-quattro-programmi-parlano-italiano/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/Plato_key_visual-150x150.jpg",
+      "summary": "Si è chiuso il primo bando Guest Observers dell’Esa per Plato, la missione che dal 2027 cercherà pianeti simili alla Terra: su 117 proposte, 23 sono state approvate e 28 sono in lista d’attesa. Quattro fanno capo a is...",
+      "date": "2026-11-11T13:23:28.0000000Z"
+    },
+    {
+      "id": "focus:f96f237b5060",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Le microplastiche cambiano il colore dell’oceano",
+      "url": "https://www.focus.it/ambiente/ecologia/le-microplastiche-cambiano-il-colore-dell-oceano",
+      "image": "https://www.focus.it/images/2026/11/10/pacific-trash-vortex_w630.jpg?imbypass=true",
+      "summary": "Nei pressi del Pacific Trash Vortex, il colore delle acque sta diventando sempre più blu per colpa delle microplastiche.",
+      "date": "2026-11-11T11:00:00.0000000Z"
+    },
+    {
+      "id": "focus:2a2f99689b9b",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Da Nefertiti ad Attila: i sepolcri svaniti",
+      "url": "https://www.focus.it/cultura/mistero/alla-ricerca-della-tomba-perduta-il-mistero-dei-sepolcri-svaniti-nel-nulla",
+      "image": "https://www.focus.it/images/2026/11/10/sepolcri-perduti_w630.jpg?imbypass=true",
+      "summary": "Da Nefertiti ad Attila fino a Gengis Khan, la storia ha preservato le gesta dei grandi sovrani cancellando però i loro sepolcri. Tra indizi, leggende e ricerche mai concluse, il punto sugli scavi.",
+      "date": "2026-11-11T09:00:00.0000000Z"
+    },
     {
       "id": "focus:ceffdfe8e94f",
       "sourceId": "focus",
@@ -259,30 +295,6 @@
       "date": "2026-11-09T10:36:42.0000000Z"
     },
     {
-      "id": "focus:0dc9e5184584",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "La musica che ci piace aumenta la resistenza?",
-      "url": "https://www.focus.it/cultura/curiosita/ascoltare-la-tua-musica-preferita-durante-un-allenamento-aumenta-la-resistenza",
-      "image": "https://www.focus.it/images/2026/11/05/pedalare-musica_w630.jpg?imbypass=true",
-      "summary": "Pedalare con la tua musica preferita riduce la fatica e allunga la resistenza fino al 20% in più. Il segreto è nei battiti, capaci di allinearsi al ritmo cardiaco senza appesantire il cuore.",
-      "date": "2026-11-09T10:00:00.0000000Z"
-    },
-    {
-      "id": "focus:c8fcf6d0eef8",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Liberare i pesci rossi è una buona idea?",
-      "url": "https://www.focus.it/ambiente/animali/liberare-pesci-rossi-in-natura-buona-idea",
-      "image": "https://www.focus.it/images/2026/10/08/pesce-rosso_w630.jpg?imbypass=true",
-      "summary": "Restituire i pesci rossi alla natura è devastante per l'ecosistema. Fuori dalla boccia, il Carassius auratus può vivere fino a 30 anni e superare i 45 cm di lunghezza, trasformandosi in una specie infestante.",
-      "date": "2026-11-09T07:00:00.0000000Z"
-    },
-    {
       "id": "media-inaf:8217b61d26b3",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -381,18 +393,6 @@
       "summary": "",
       "videoId": "E1-qLBS_U9w",
       "date": "2026-11-05T12:00:05.0000000Z"
-    },
-    {
-      "id": "media-inaf:03eeda9befec",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Aurore, quando il rosso incontra il verde",
-      "url": "https://www.media.inaf.it/2026/11/05/aurore-rosse-citizen-science/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/aurora-rossa-150x150.webp",
-      "summary": "Le fotografie della tempesta geomagnetica del maggio 2024 mostrano insoliti raggi luminosi che collegano le aurore rosse a quelle verdi, suggerendo che entrambe possano essere generate dallo stesso processo fisico. Un...",
-      "date": "2026-11-05T11:42:54.0000000Z"
     },
     {
       "id": "geopop:rOszx1DzEHM",

@@ -1,7 +1,43 @@
 {
   "category": "cucina",
-  "updated": "2026-11-11T10:48:04.6826169Z",
+  "updated": "2026-11-11T18:09:37.7833553Z",
   "items": [
+    {
+      "id": "dissapore:8623260049b4",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Daebak! La Corea sbarca a Mercato Centrale Torino",
+      "url": "https://www.dissapore.com/notizie/daebak-la-corea-sbarca-a-mercato-centrale-torino/",
+      "image": null,
+      "summary": "A Mercato Centrale Torino un weekend tutto dedicato alla cultura coreana tra cibo, musica, letteratura, tatuaggi e danza. L'articolo Daebak! La Corea sbarca a Mercato Centrale Torino proviene da Dissapore .",
+      "date": "2026-11-11T17:41:25.0000000Z"
+    },
+    {
+      "id": "dissapore:eb325eefd254",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "I soliti pronostici sulla Guida Michelin: quali saranno le nuove stelle del 2027?",
+      "url": "https://www.dissapore.com/ristoranti/i-soliti-pronostici-sulla-guida-michelin-quali-saranno-le-nuove-stelle-del-2027/",
+      "image": null,
+      "summary": "Tiriamo a indovinare: chi prenderà il Macaron, ma anche la seconda e la terza stella domani, alla presentazione della Guida Michelin 2027 italiana? L'articolo I soliti pronostici sulla Guida Michelin: quali saranno le...",
+      "date": "2026-11-11T14:23:32.0000000Z"
+    },
+    {
+      "id": "giallozafferano:941abba43228",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Torta di patate ai funghi",
+      "url": "https://ricette.giallozafferano.it/Torta-di-patate-ai-funghi.html",
+      "image": "https://www.giallozafferano.it/images/368-36818/Torta-di-patate-ai-funghi_1200x800.jpg",
+      "summary": "La torta di patate ai funghi è una torta salata ideale da servire come secondo piatto vegetariano ricco e sfizioso, perfetto per un pranzo della domenica o una cena in famiglia. Questo gustoso sformato al forno è prep...",
+      "date": "2026-11-11T09:59:00.0000000Z"
+    },
     {
       "id": "dissapore:5d6cc92dab87",
       "sourceId": "dissapore",
@@ -159,30 +195,6 @@
       "date": "2026-11-09T12:36:36.0000000Z"
     },
     {
-      "id": "dissapore:361598104c8d",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Gli attacchi hacker ai frigoriferi dei supermercati sono armi di distrazione di massa?",
-      "url": "https://www.dissapore.com/spesa/gli-attacchi-hacker-ai-frigoriferi-dei-supermercati-sono-armi-di-distrazione-di-massa/",
-      "image": null,
-      "summary": "Gli hacker mandano in tilt i frigoriferi dei supermercati, ma siamo sicuri che siano loro la vera minaccia alla filiera alimentare? Tra carovita, crisi climatica e guerre, i cyberattacchi rischiano di diventare un'arm...",
-      "date": "2026-11-09T10:35:38.0000000Z"
-    },
-    {
-      "id": "dissapore:3c4d870284f0",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Kfc ora apre due fast food sulle piste da sci",
-      "url": "https://www.dissapore.com/notizie/kfc-ora-apre-due-fast-food-sulle-piste-da-sci/",
-      "image": null,
-      "summary": "La nuova iniziativa commerciale di Kfc prevede di aprire due punti di ristorazione sulle piste di Cortina e Madonna di Campiglio. L'articolo Kfc ora apre due fast food sulle piste da sci proviene da Dissapore .",
-      "date": "2026-11-08T17:22:39.0000000Z"
-    },
-    {
       "id": "giallozafferano:adede883dcd0",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/368-36800/Conchiglie-al-pesto_1200x800.jpg",
       "summary": "Le conchiglie al pesto sono un primo piatto cremoso e profumato che celebra un grande classico della cucina ligure, arricchito con patate e fagiolini. Una ricetta che unisce l’aroma del basilico alla dolcezza delle ve...",
       "date": "2026-11-05T10:45:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:9c24e07d18f6",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Torta salata alla genovese",
-      "url": "https://ricette.giallozafferano.it/Torta-salata-alla-genovese.html",
-      "image": "https://www.giallozafferano.it/images/367-36755/Torta-salata-alla-genovese_1200x800.jpg",
-      "summary": "La torta salata alla genovese è una ricetta rustica e sfiziosa, perfetta da servire come antipasto, per un buffet o come piatto unico a pranzo o a cena. Si prepara con una base di pasta brisé fatta in casa, che racchi...",
-      "date": "2026-11-05T09:19:00.0000000Z"
     }
   ]
 }

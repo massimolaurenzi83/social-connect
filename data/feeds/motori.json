@@ -1,7 +1,319 @@
 {
   "category": "motori",
-  "updated": "2026-11-11T10:48:04.6903425Z",
+  "updated": "2026-11-11T18:09:37.8213394Z",
   "items": [
+    {
+      "id": "hdmotori:da46a17a876e",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Rimac Nevera, produzione finita in anticipo: soltanto 71 hypercar contro le 190 previste",
+      "url": "https://www.hdmotori.it/rimac-nevera-produzione-finita/",
+      "image": null,
+      "summary": "Rimac chiuderà la produzione della Nevera nel 2026 dopo appena 71 esemplari. I record di velocità non sono bastati a convincere gli acquirenti The post Rimac Nevera, produzione finita in anticipo: soltanto 71 hypercar...",
+      "date": "2026-11-11T18:00:08.0000000Z"
+    },
+    {
+      "id": "hdmotori:23a4526798c3",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Bosch e la metamorfosi del guidare",
+      "url": "https://www.hdmotori.it/bosch-e-la-metamorfosi-del-guidare/",
+      "image": null,
+      "summary": "Che effetto fa essere dappertutto senza farsi quasi mai nominare? È la prima domanda, quella tagliente, da fare a chi muove il mondo senza mostrare la faccia. La risposta sta incisa nel metallo, nel silicio e nel peso...",
+      "date": "2026-11-11T17:30:14.0000000Z"
+    },
+    {
+      "id": "motor1:75fd9d74b359",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Chi paga se prendi una buca e rovini l’auto",
+      "url": "https://it.motor1.com/features/815167/buca-danno-auto-risarcimento/",
+      "image": "https://cdn.motor1.com/images/mgl/PZgGL/s3/copertina-buche-per-strada-gli-americani-suggeriscono-3-regole-per-evitare-danni.jpg",
+      "summary": "Responsabilità dell’ente e doveri del conducente si intrecciano quando una buca provoca danni a pneumatici, cerchi o sospensioni",
+      "date": "2026-11-11T17:30:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:a68a5e423874",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Maserati, la svolta è vicina: in arrivo le nuove Levante e Quattroporte",
+      "url": "https://www.hdmotori.it/maserati-nuove-levante-quattroporte/",
+      "image": null,
+      "summary": "La Casa modenese è pronta a lanciare i concept delle nuove Levante e Quattroporte. Trapelano le prime indiscrezioni sul nuovo corso Maserati The post Maserati, la svolta è vicina: in arrivo le nuove Levante e Quattrop...",
+      "date": "2026-11-11T17:00:38.0000000Z"
+    },
+    {
+      "id": "motor1:00f2914231ea",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Prezzi e allestimenti del super SUV di Zeekr da 897 CV",
+      "url": "https://it.motor1.com/news/815053/zeekr-9x-phev-prezzi-allestimenti/",
+      "image": "https://cdn.motor1.com/images/mgl/wlkAR4/s3/zeekr-9x.jpg",
+      "summary": "Unico allestimento per la Zeekr 9X Ultra AWD plug-in hybrid con 897 CV, dotazione di lusso, 6 posti e prime consegne da gennaio 2027",
+      "date": "2026-11-11T17:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:adc756bee3fa",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I termici potrebbero sparire entro il 2040: il CEO di Mercedes spiega il futuro dei motori",
+      "url": "https://www.hdmotori.it/motori-termici-futuro-mercedes/",
+      "image": null,
+      "summary": "Secondo Mercedes i motori termici avranno ancora 10, massimo 15 anni di vita e si integreranno sempre più ai modelli elettrici The post I termici potrebbero sparire entro il 2040: il CEO di Mercedes spiega il futuro d...",
+      "date": "2026-11-11T16:30:30.0000000Z"
+    },
+    {
+      "id": "motor1:93560abd7745",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Microsoft sbarca a Roma: l’auto del futuro passa da qui",
+      "url": "https://it.motor1.com/news/815160/microsoft-pavilion-roma-auto-connessa/",
+      "image": "https://cdn.motor1.com/images/mgl/YAbLmj/s3/microsoft-pavilion.jpg",
+      "summary": "Dal nuovo Pavilion all’AI, ecco come Microsoft accelera la trasformazione dell’auto tra guida autonoma, cloud e connettività",
+      "date": "2026-11-11T16:30:00.0000000Z"
+    },
+    {
+      "id": "insideevs:e830b2b97984",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L'AI inquina anche l'aria: cosa respiriamo vicino ai data center",
+      "url": "https://insideevs.it/news/814881/ai-data-center-inquinamento-aria/",
+      "image": "https://cdn.motor1.com/images/mgl/Rqbjgw/s3/l-ai-inquina-anche-l-aria-cosa-respiriamo-vicino-ai-data-center.jpg",
+      "summary": "PM2.5 e ossidi di azoto sono tra gli inquinanti da monitorare. Ecco cosa emerge dall'intervista a un'esperta",
+      "date": "2026-11-11T16:30:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:7fa6215cbbf9",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "YoYo ferma da settembre: “Non me la riparano…”",
+      "url": "https://www.vaielettrico.it/yoyo-ferma-da-settembre-non-me-la-riparano/",
+      "image": null,
+      "summary": "YoYo ferma da settembre per un guasto che non viene riparato. È la segnalazione di una lettrice, indignata… L'articolo YoYo ferma da settembre: “Non me la riparano…” proviene da Vaielettrico .",
+      "date": "2026-11-11T16:12:57.0000000Z"
+    },
+    {
+      "id": "hdmotori:c29a118c26ca",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Subaru, distrutta l’eredita del boxer: solo EV e motori improntati sull’efficienza",
+      "url": "https://www.hdmotori.it/subaru-addio-motore-boxer-ev/",
+      "image": null,
+      "summary": "La Casa giapponese aveva creato uno dei motori boxer migliori di tutti i tempi, tuttavia i tempi sono cambiati e dal 2028 il listino europeo sarà pieno di auto elettriche The post Subaru, distrutta l’eredita del boxer...",
+      "date": "2026-11-11T16:00:06.0000000Z"
+    },
+    {
+      "id": "motor1:86d86969dd48",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nissan migliora i conti e prepara il nuovo piano 2027",
+      "url": "https://it.motor1.com/news/815153/nissan-risultati-primo-semestre-2026-piano-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZPPe9/s3/nissan-x-trail-n-trek-la-prova.jpg",
+      "summary": "Risultati in progresso per la Casa giapponese, che a febbraio 2027 presenterà il nuovo piano industriale",
+      "date": "2026-11-11T16:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:47074164663e",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La rivale di Tesla Model Y fatta da Lucid è pronta. Cosa sappiamo",
+      "url": "https://insideevs.it/news/815087/lucid-cosmos-produzione-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo9O3B/s3/lucid-cosmos.jpg",
+      "summary": "La Lucid Cosmos potrebbe determinare il successo o il fallimento dell'azienda. La produzione dovrebbe iniziare nel 2027",
+      "date": "2026-11-11T16:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:2d43b2cd6f93",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "4 progetti bocciati su 5: governo in trincea contro il fotovoltaico",
+      "url": "https://www.vaielettrico.it/4-progetti-bocciati-su-5-governo-in-trincea-contro-il-fotovoltaico/",
+      "image": null,
+      "summary": "4 progetti bocciati su 5: il governo a parole dice di volere puntare (anche) sulle rinnovabili. Ma la… L'articolo 4 progetti bocciati su 5: governo in trincea contro il fotovoltaico proviene da Vaielettrico .",
+      "date": "2026-11-11T15:19:47.0000000Z"
+    },
+    {
+      "id": "hdmotori:f08dcbc15695",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BYD prepara la rivale della Smart: spunta il brevetto di un’elettrica a due posti",
+      "url": "https://www.hdmotori.it/byd-brevetto-anti-smart-2/",
+      "image": null,
+      "summary": "BYD deposita in Cina il brevetto di una piccola elettrica a due posti. Il progetto firmato anche da Wolfgang Egger potrebbe sfidare Smart nel segmento delle citycar The post BYD prepara la rivale della Smart: spunta i...",
+      "date": "2026-11-11T15:00:24.0000000Z"
+    },
+    {
+      "id": "motor1:fe70a847989c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dal telaio alla Lancia Stratos col V6 Alfa Romeo: 8 anni di lavoro",
+      "url": "https://it.motor1.com/news/815122/lancia-stratos-replica-v6-alfa-romeo/",
+      "image": "https://cdn.motor1.com/images/mgl/y21xAb/s3/lancia-stratos-replica.jpg",
+      "summary": "Nathan Kennedy e suo padre hanno impiegato 8 anni a trasformare un telaio nudo in una replica di Lancia Stratos col V6 Alfa Romeo",
+      "date": "2026-11-11T15:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:fe8c6930adfc",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuova Lancia Gamma: al via un roadshow nelle concessionarie italiane",
+      "url": "https://www.hdmotori.it/nuova-lancia-gamma-roadshow/",
+      "image": null,
+      "summary": "Dal 12 novembre al 12 dicembre la nuova ammiraglia prodotta a Melfi attraversa il Paese tra anteprime esclusive, reveal serali e motori ibridi ed elettrici fino a 375 CV. The post Nuova Lancia Gamma: al via un roadsho...",
+      "date": "2026-11-11T14:00:01.0000000Z"
+    },
+    {
+      "id": "motor1:82fcc9736108",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Sentite come suona la nuova Ford Mustang",
+      "url": "https://it.motor1.com/news/815039/ford-mustang-cobra-teaser-video/",
+      "image": "https://cdn.motor1.com/images/mgl/xqOmOy/s3/2027-ford-mustang-cobra-teaser.jpg",
+      "summary": "Un teaser anticipa il sound della Ford Mustang Cobra, una versione con cambio manuale e un V8 inedito",
+      "date": "2026-11-11T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:a62e422d6fdb",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il blocco dei diesel Euro è ufficialmente rimandato",
+      "url": "https://it.motor1.com/news/815150/diesel-euro-5-stop-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/vx0zvq/s3/traffico-citta.jpg",
+      "summary": "Ma di un anno: se ne riparla il 1° ottobre 2027 nelle Regioni del Bacino padano, con margini per ulteriori divieti locali anticipati",
+      "date": "2026-11-11T13:30:57.0000000Z"
+    },
+    {
+      "id": "hdmotori:e21f75f08c5d",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Auto cinesi usate, in Italia mercato in crescita e prezzi medi sotto i 15.000 euro",
+      "url": "https://www.hdmotori.it/auto-cinesi-usate-italia-mercato/",
+      "image": null,
+      "summary": "Le auto cinesi conquistano anche il mercato dell'usato: Italia prima tra sette Paesi europei con una quota dell'1,27%. MG ZS la più richiesta The post Auto cinesi usate, in Italia mercato in crescita e prezzi medi sot...",
+      "date": "2026-11-11T13:00:50.0000000Z"
+    },
+    {
+      "id": "motor1:9ed8c848d19a",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BYD sta preparando una rivale della smart #2",
+      "url": "https://it.motor1.com/news/815131/byd-piccola-smart-2-concorrente-bozzetti/",
+      "image": "https://cdn.motor1.com/images/mgl/mMY9br/s3/i-bozzetti-della-piccola-di-byd.jpg",
+      "summary": "O almeno sta studiando la cosa, come emerso dal render pubblicato sul sito dell'ufficio brevetti cinese",
+      "date": "2026-11-11T13:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:63834815a402",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il nuovo Codice della Strada bocciato da 27 città capoluogo: «É da riscrivere»",
+      "url": "https://www.hdmotori.it/nuovo-codice-strada-bocciato-27-citta/",
+      "image": null,
+      "summary": "Gli assessori alla mobilità di ventisette città bocciano il testo del Governo a tutela di sicurezza urbana, Zone 30, ZTL e mobilità sostenibile. The post Il nuovo Codice della Strada bocciato da 27 città capoluogo: «É...",
+      "date": "2026-11-11T12:00:21.0000000Z"
+    },
+    {
+      "id": "hdmotori:a84b8fb45b45",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla Cybercab: in arrivo una batteria da 40 kWh e la nuova livrea silver",
+      "url": "https://www.hdmotori.it/tesla-cybercab-in-arrivo-una-batteria-da-40-kwh-e-la-nuova-livrea-silver/",
+      "image": null,
+      "summary": "Elon Musk annuncia miglioramenti di efficienza per il robotaxi elettrico, che consentiranno l'adozione di una nuova batteria di capacità inferiore. The post Tesla Cybercab: in arrivo una batteria da 40 kWh e la nuova ...",
+      "date": "2026-11-11T12:00:06.0000000Z"
+    },
+    {
+      "id": "motor1:ee0047ce959b",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dove hanno sede le principali Case automobilistiche?",
+      "url": "https://it.motor1.com/news/815112/sedi-case-automobilistiche-luoghi/",
+      "image": "https://cdn.motor1.com/images/mgl/ojE3Ob/s3/where-every-automaker-is-based.jpg",
+      "summary": "Da Maranello a Shenzhen, passando per Detroit: ecco le città che ospitano i principali marchi e gruppi automobilistici",
+      "date": "2026-11-11T12:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:daa68dfc003a",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volvo EX30, i prezzi e gli allestimenti",
+      "url": "https://insideevs.it/news/813662/volvo-ex30-prezzi-allestimenti/",
+      "image": "https://cdn.motor1.com/images/mgl/rK3YL1/s3/2024-volvo-ex30-exterior.jpg",
+      "summary": "Ricca di allestimenti (e con una versione Cross Country), la gamma della EX30 si articola in due declinazioni di potenze e due batterie",
+      "date": "2026-11-11T12:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:135f6600bf54",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Autonomia: 869 km veri per la Mercedes EQS",
+      "url": "https://www.vaielettrico.it/autonomia-869-km-veri-con-una-ricarica-superate-anche-le-stime-ufficiali/",
+      "image": null,
+      "summary": "Autonomia di 869 km veri con una ricarica. La nuova Mercedes-Benz EQS 450+ ha superato di oltre 115… L'articolo Autonomia: 869 km veri per la Mercedes EQS proviene da Vaielettrico .",
+      "date": "2026-11-11T11:21:53.0000000Z"
+    },
+    {
+      "id": "motor1:43b369cb3c60",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La benzina in Slovenia costa meno, ma quando il viaggio dall’Italia conviene davvero",
+      "url": "https://it.motor1.com/news/815109/prezzi-benzina-diesel-slovenia-convenienza-italia/",
+      "image": "https://cdn.motor1.com/images/mgl/2N9yzn/s3/prezzi-benzina-slovenia.jpg",
+      "summary": "Taglio delle accise in Slovenia e limite di 10 litri in tanica cambiano i conti per chi vive vicino al confine",
+      "date": "2026-11-11T11:00:00.0000000Z"
+    },
     {
       "id": "insideevs:f1849443e46b",
       "sourceId": "insideevs",
@@ -25,30 +337,6 @@
       "image": "https://cdn.motor1.com/images/mgl/9mWVKG/s3/chevrolet-corvette-c8-manual-by-peitz-performance-tune.jpg",
       "summary": "Chevrolet non costruirà una Corvette C8 manuale, quindi lo fa un'azienda aftermarket americana. Potrebbe costare 70.000 dollari in più",
       "date": "2026-11-11T10:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:6f0dd5bbb0c1",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Brevettato il profumatore per auto che diffonde aromi a tema pubblicitario",
-      "url": "https://www.hdmotori.it/sony-brevetto-pubblicita-olfattiva-auto-aromi-pubblicitari/",
-      "image": null,
-      "summary": "Il nuovo brevetto Sony porta la pubblicità olfattiva in auto: aromi sincronizzati con cartelloni stradali e spot radio in base alla profilazione dei passeggeri. The post Brevettato il profumatore per auto che diffonde...",
-      "date": "2026-11-11T09:30:05.0000000Z"
-    },
-    {
-      "id": "hdmotori:4aae64bdeabf",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "C’è un nuovo marchio cinese in Italia: Wuling debutta con due modelli plug-in",
-      "url": "https://www.hdmotori.it/wuling-sbarca-italia/",
-      "image": null,
-      "summary": "Wuling fa il suo esordio in Italia grazie all'importatore Kngloo: al via la vendita dei primi due modelli plug-in Y3 Max e Y8 Max negli store di Milano e Roma. The post C’è un nuovo marchio cinese in Italia: Wuling de...",
-      "date": "2026-11-11T09:00:02.0000000Z"
     },
     {
       "id": "motor1:650c5c0e85fd",
@@ -75,18 +363,6 @@
       "date": "2026-11-11T08:08:44.0000000Z"
     },
     {
-      "id": "motor1:ab6e088d74d4",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le nuove GWM non sono dei SUV",
-      "url": "https://it.motor1.com/news/815057/gwm-ora-7-shooting-brake/",
-      "image": "https://cdn.motor1.com/images/mgl/G3bVXq/s3/gwm-ora-7-shooting-brake.jpg",
-      "summary": "La GWM Ora 7 debutta in Cina a novembre 2026 in versione fastback e shooting brake, batterie LFP, doppio motore e trazione integrale",
-      "date": "2026-11-11T08:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:b9f8d6f83738",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -97,30 +373,6 @@
       "image": null,
       "summary": "Si può usare il sistema V2L in dotazione a un’auto elettrica per ricaricarne una seconda? Ce lo chiede… L'articolo Con il sistema V2L posso ricaricare un’altra auto elettrica? proviene da Vaielettrico .",
       "date": "2026-11-11T07:36:09.0000000Z"
-    },
-    {
-      "id": "hdmotori:3a097815ec18",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Torna il taglio delle accise sul diesel: quanto si risparmia fino al 23 novembre",
-      "url": "https://www.hdmotori.it/taglio-accise-diesel-23-novembre/",
-      "image": null,
-      "summary": "Il Governo reintroduce lo sconto di quasi cinque centesimi al litro finanziato con 43,2 milioni di extragettito IVA, ma i listini del gasolio restano sopra i 2,2 euro. The post Torna il taglio delle accise sul diesel:...",
-      "date": "2026-11-11T07:30:17.0000000Z"
-    },
-    {
-      "id": "motor1:771df5d01591",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Debutta la Volkswagen ID. Cross più economica",
-      "url": "https://it.motor1.com/news/815058/volkswagen-id-cross-37-kwh-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/407V6o/s3/volkswagen-id.-cross-prezzo.jpg",
-      "summary": "La nuova Volkswagen ID. Cross da 37 kWh parte da 28.950 euro, offre 324 km WLTP e ricarica rapida in 23 minuti",
-      "date": "2026-11-11T07:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:d63057e67517",
@@ -144,18 +396,6 @@
       "url": "https://insideevs.it/news/815033/auto-elettriche-batterie-gelo/",
       "image": "https://cdn.motor1.com/images/mgl/8A0V0B/s3/auto-elettriche-quanto-e-affidabile-la-stima-della-carica-col-gelo.jpg",
       "summary": "Uno studio ha testato un modello di stima della carica su batterie mai viste prima, con temperature comprese tra -20 e 45 °C",
-      "date": "2026-11-11T06:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:77914f13e280",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le 10 auto economiche, entro 20.000 euro, che non pagano il bollo",
-      "url": "https://it.motor1.com/features/814858/auto-economiche-esenti-bollo-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/XBbemE/s3/le-10-auto-economiche-entro-20.000-euro-che-non-pagano-il-bollo.jpg",
-      "summary": "La guida all'acquisto per spendere il meno possibile (meno di 20.000 euro) e assicurarsi l'esenzione del bollo auto per i prossimi anni",
       "date": "2026-11-11T06:00:00.0000000Z"
     },
     {
@@ -195,54 +435,6 @@
       "date": "2026-11-10T19:23:54.0000000Z"
     },
     {
-      "id": "hdmotori:0dc6a23e0c56",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il V8 non è morto, arriva un motore ibrido da oltre 680 CV che pesa appena 200 kg",
-      "url": "https://www.hdmotori.it/horse-motore-v8-ibrido-680-cv/",
-      "image": null,
-      "summary": "Horse Powertrain svela il nuovo V8 W40 da 4 litri e oltre 680 CV. Motore biturbo, cambio ibrido a otto marce e debutto sulla Lotus Type 135 The post Il V8 non è morto, arriva un motore ibrido da oltre 680 CV che pesa ...",
-      "date": "2026-11-10T18:00:54.0000000Z"
-    },
-    {
-      "id": "motor1:902897fc5924",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Un motore Audi da 330 CV per divertirsi lontano dall'asfalto",
-      "url": "https://it.motor1.com/news/815024/ktm-x-bow-arrow-side/",
-      "image": "https://cdn.motor1.com/images/mgl/0ep3N9/s3/ktm-x-bow-arrow.jpg",
-      "summary": "KTM X-BOW ARROW è il primo side-by-side del marchio con trazione pensata per il fuoristrada e una serie speciale da quasi 91.000 euro",
-      "date": "2026-11-10T17:30:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:1a8a73ae9e6e",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Targhe auto difettose, aumentano i casi in Italia: il problema può costare oltre 200 euro",
-      "url": "https://www.hdmotori.it/targhe-auto-difettose-aumentano-i-casi-in-italia-il-problema-puo-costare-oltre-200-euro/",
-      "image": null,
-      "summary": "Aumentano le segnalazioni di targhe auto deteriorate: la pellicola riflettente si rovina senza dare nell'occhio. Multe, costi e sostituzione gratuita The post Targhe auto difettose, aumentano i casi in Italia: il prob...",
-      "date": "2026-11-10T17:00:02.0000000Z"
-    },
-    {
-      "id": "motor1:d5aee901dc01",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Flotte e noleggio, Stellantis rivoluziona l’organizzazione B2B in Italia",
-      "url": "https://it.motor1.com/news/814989/stellantis-fleet-business-organizzazione-b2b/",
-      "image": "https://cdn.motor1.com/images/mgl/Ak3AwO/s3/stellantis-future-is-fleet-future-is-now-2026.jpg",
-      "summary": "La riorganizzazione di Stellantis Fleet & Business Solution integra grandi clienti, PMI e noleggio per servire meglio il mercato B2B italiano",
-      "date": "2026-11-10T17:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:d9a6d0f03600",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -253,54 +445,6 @@
       "image": null,
       "summary": "Ionity chiude il test Shared Power in Norvegia. Dopo ripetuti malfunzionamenti, la rete ha deciso di interrompere il… L'articolo Ionity chiude il test Shared Power. Arrivano le colonnine Huawei proviene da Vaielettrico .",
       "date": "2026-11-10T16:54:36.0000000Z"
-    },
-    {
-      "id": "hdmotori:458758dfe69a",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Polestar Formula 2030, la sportiva del futuro riporta i pulsanti nell’abitacolo",
-      "url": "https://www.hdmotori.it/polestar-formula-2030/",
-      "image": null,
-      "summary": "Polestar Formula 2030 anticipa il design delle future elettriche svedesi. Quattro porte, abitacolo trasformabile, comandi fisici e materiali sostenibili The post Polestar Formula 2030, la sportiva del futuro riporta i...",
-      "date": "2026-11-10T16:30:28.0000000Z"
-    },
-    {
-      "id": "motor1:5dae1f098ba5",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Vuoi un’isola tutta tua? Maserati te la mette a Dubai",
-      "url": "https://it.motor1.com/news/815044/maserati-island-dubai-residenze-lusso/",
-      "image": "https://cdn.motor1.com/images/mgl/E6XVAz/s3/maserati-island.jpg",
-      "summary": "Maserati Island porta il lifestyle del Tridente a The World Islands con 840 residenze di lusso e servizi ispirati alla Riviera italiana",
-      "date": "2026-11-10T16:30:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:7a1f8cdbd568",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "BYD raggiunge i 19 milioni di auto NEV prodotte",
-      "url": "https://www.hdmotori.it/byd-19-milioni-auto-nev-prodotte/",
-      "image": null,
-      "summary": "BYD taglia il traguardo dei 19 milioni di veicoli elettrificati con il debutto della Fang Cheng Bao Ti 9, maxi SUV plug-in hybrid da 536 CV e 1.630 km di autonomia totale. The post BYD raggiunge i 19 milioni di auto N...",
-      "date": "2026-11-10T16:00:31.0000000Z"
-    },
-    {
-      "id": "motor1:d2b816146fec",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Hyundai 2027, tutte le novità in arrivo",
-      "url": "https://it.motor1.com/news/814802/hyundai-2027-novita-modelli/",
-      "image": "https://cdn.motor1.com/images/mgl/YAbN9r/s3/novita-hyundai-2027.jpg",
-      "summary": "Arriveranno nelle concessionarie nel nuove Tucson e Bayon, mentre non ci sono ancora conferme per le nuove Kona, Santa Fe e i20",
-      "date": "2026-11-10T16:00:00.0000000Z"
     },
     {
       "id": "insideevs:28329dd59cfe",
@@ -315,18 +459,6 @@
       "date": "2026-11-10T16:00:00.0000000Z"
     },
     {
-      "id": "motor1:788b1c710d5e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Skoda Octavia full hybrid arriva in Italia, ecco quanto costa",
-      "url": "https://it.motor1.com/news/815048/skoda-octavia-full-hybrid-2026-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/rK6qm1/s3/skoda-octavia-full-hybrid.jpg",
-      "summary": "La Skoda Octavia full hybrid arriva in Italia con due potenze da 100 e 125 kW, carrozzerie berlina o Wagon e allestimenti Executive e Style",
-      "date": "2026-11-10T15:49:47.0000000Z"
-    },
-    {
       "id": "vaielettrico:9f531c5780f8",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -337,66 +469,6 @@
       "image": null,
       "summary": "Guai di assistenza con Peugeot e-308 e MG4: due lettori ci scrivono per i problemi avuti con le… L'articolo Guai di assistenza: due casi, con Peugeot e MG proviene da Vaielettrico .",
       "date": "2026-11-10T15:42:25.0000000Z"
-    },
-    {
-      "id": "hdmotori:41c69e73b029",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Volkswagen ID. Cross da 37 kWh arriva in Italia: prezzo alla portata",
-      "url": "https://www.hdmotori.it/nuova-volkswagen-id-cross-37-kwh/",
-      "image": null,
-      "summary": "Il nuovo SUV elettrico della Volkswagen sbarca sul mercato italiano con soluzioni all’avanguardia e dotazione ricche The post La nuova Volkswagen ID. Cross da 37 kWh arriva in Italia: prezzo alla portata appeared firs...",
-      "date": "2026-11-10T15:30:25.0000000Z"
-    },
-    {
-      "id": "motor1:81a7a50657d8",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Guida autonoma, Milano corre ma il Codice della strada rischia di frenare tutto",
-      "url": "https://it.motor1.com/news/814990/guida-autonoma-flotte-geotab/",
-      "image": "https://cdn.motor1.com/images/mgl/407Yr1/s3/stellantis-e-wayve.jpg",
-      "summary": "Il nuovo Codice della strada può frenare i robotaxi in Italia mentre Milano diventa laboratorio urbano per Geotab e Niulinx",
-      "date": "2026-11-10T15:30:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:975da1d91a2b",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nuova Ora 7: GWM lancia le versioni shooting brake e fastback da 416 CV",
-      "url": "https://www.hdmotori.it/nuova-great-wall-ora-7-shooting-brake-fastback-elettrica/",
-      "image": null,
-      "summary": "Great Wall Motor svela la nuova Ora 7: la media elettrica arriva a novembre in versione shooting brake e fastback, con doppio motore da 416 CV e autonomia fino a 630 km. The post Nuova Ora 7: GWM lancia le versioni sh...",
-      "date": "2026-11-10T15:00:15.0000000Z"
-    },
-    {
-      "id": "motor1:d76429a41d4d",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le gomme raccontano più di quanto pensi, ecco come leggerle davvero",
-      "url": "https://it.motor1.com/features/814255/come-leggere-gomma-m-s/",
-      "image": "https://cdn.motor1.com/images/mgl/0ep0p2/s3/le-gomme-raccontano-piu-di-quanto-pensi.jpg",
-      "summary": "Le sigle M+S e 3PMSF non significano la stessa cosa, e capire gli indici di carico e velocità evita di montare pneumatici fuori norma",
-      "date": "2026-11-10T15:00:00.0000000Z"
-    },
-    {
-      "id": "hdmotori:b03db5486901",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Toyota, la nuova Papamobile di Leone XIV svela il restyling della Hilux",
-      "url": "https://www.hdmotori.it/toyota-la-nuova-papamobile-di-leone-xiv-svela-il-restyling-della-hilux/",
-      "image": null,
-      "summary": "Toyota mostra in anteprima il nuovo Hilux a Buenos Aires: realizzate due Papamobili speciali su misura per Papa Leone XIV, poi donate direttamente al Vaticano The post Toyota, la nuova Papamobile di Leone XIV svela il...",
-      "date": "2026-11-10T14:30:45.0000000Z"
     },
     {
       "id": "insideevs:c8cca71790a9",
@@ -421,18 +493,6 @@
       "image": "https://cdn.motor1.com/images/mgl/lE4P3W/s3/hooga-m1s.jpg",
       "summary": "Dalla M1S alla M1T, passando per la M1R Supermoto: ecco le caratteristiche tecniche della nuova famiglia HOOGA M1",
       "date": "2026-11-10T11:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:40fd83a07903",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "COP31 alle prese con l’era del clima estremo. «Elettrificazione è la risposta»",
-      "url": "https://www.vaielettrico.it/cop31-alle-prese-con-lera-del-clima-estremo-elettrificazione-e-la-risposta/",
-      "image": null,
-      "summary": "Con la prima giornata tematica interamente dedicata all’elettrificazione dei consumi energetici entra nel vivo la COP31 di Antalya,… L'articolo COP31 alle prese con l’era del clima estremo. «Elettrificazione è la risp...",
-      "date": "2026-11-10T10:22:11.0000000Z"
     },
     {
       "id": "insideevs:0aca64ffb0db",
@@ -469,66 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/P3VN6W/s3/batterie-gen4-di-blue-solutions.jpg",
       "summary": "Blue Solutions presenta la tecnologia GEN4 al litio metallico: carica rapida, densità energetica superiore a 400 Wh/kg, quasi 900 cicli",
       "date": "2026-11-10T06:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:3f0dd3c15156",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tullio e 129mila km in C-Zero, poca autonomia ma avanti tutta",
-      "url": "https://www.vaielettrico.it/tullio-e-129mila-km-in-c-zero-poca-autonomia-ma-avanti-tutta/",
-      "image": null,
-      "summary": "Tanti motivi per scegliere l’auto elettrica. Tullio Barzaghi da Como, la vive come una naturale estensione del proprio… L'articolo Tullio e 129mila km in C-Zero, poca autonomia ma avanti tutta proviene da Vaielettrico .",
-      "date": "2026-11-09T18:40:29.0000000Z"
-    },
-    {
-      "id": "vaielettrico:085ab6a9f868",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Più colonnine nelle Ionity grazie a solare e accumulo",
-      "url": "https://www.vaielettrico.it/piu-colonnine-nelle-ionity-grazie-a-solare-e-accumulo/",
-      "image": null,
-      "summary": "Più colonnine nelle Ionity grazie a solare e accumulo a fornire l’energia che la rete elettrica non sarebbe… L'articolo Più colonnine nelle Ionity grazie a solare e accumulo proviene da Vaielettrico .",
-      "date": "2026-11-09T17:38:51.0000000Z"
-    },
-    {
-      "id": "insideevs:fda315a17048",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Via le mani dal volante, la tecnologia GM arriva in Europa",
-      "url": "https://insideevs.it/news/814860/cadillac-super-cruise-come-funziona/",
-      "image": "https://cdn.motor1.com/images/mgl/Kb8krG/s3/2026-cadillac-lyriq-v-super-cruise.jpg",
-      "summary": "Il Super Cruise permette di guidare senza tenere le mani sul volante. Debutta a dicembre sulle elettriche Cadillac",
-      "date": "2026-11-09T17:04:32.0000000Z"
-    },
-    {
-      "id": "insideevs:054d88b5f8d0",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Batterie auto, CATL mette sotto esame i suoi fornitori",
-      "url": "https://insideevs.it/news/814630/catl-dati-co2-fornitori-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/bgGmPm/s3/catl-freevoy-dual-power-battery.jpg",
-      "summary": "Non conta soltanto l'energia usata per ricaricare le auto: CATL vuole ridurre anche la CO2 generata dalla produzione delle batterie",
-      "date": "2026-11-09T16:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:c15a534a96b7",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Incendi delle batterie, scoperto un modo per spegnerli più in fretta",
-      "url": "https://insideevs.it/news/814836/batterie-incendi-spegnimento-novita/",
-      "image": "https://cdn.motor1.com/images/mgl/3WB2KL/s3/incendi-delle-batterie-scoperto-un-modo-per-spegnerli-piu-in-fretta.jpg",
-      "summary": "Un esperimento sugli accumulatori LFP mette a confronto azoto liquido e Novec 1230: il primo richiede meno prodotto e raffredda meglio",
-      "date": "2026-11-09T13:00:00.0000000Z"
     }
   ]
 }
