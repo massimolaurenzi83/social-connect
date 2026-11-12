@@ -1,7 +1,32 @@
 {
   "category": "scienza",
-  "updated": "2026-11-11T18:09:37.8150907Z",
+  "updated": "2026-11-12T00:42:53.7302072Z",
   "items": [
+    {
+      "id": "curiuss:vsRTG6coBVU",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Dimostrare un segreto senza rivelarlo - Zero Knowledge Protocol - Curiuss&PoliMI#03",
+      "url": "https://www.youtube.com/watch?v=vsRTG6coBVU",
+      "image": "https://i.ytimg.com/vi/vsRTG6coBVU/hqdefault.jpg",
+      "summary": "",
+      "videoId": "vsRTG6coBVU",
+      "date": "2026-11-11T19:00:11.0000000Z"
+    },
+    {
+      "id": "media-inaf:150307c014d4",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Da Lofar la mappa più dettagliata del cielo radio",
+      "url": "https://www.media.inaf.it/2026/11/11/lofar-mappa-dettagliata-cielo-radio/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/three-galaxies-with-ra-150x150.jpg",
+      "summary": "Usando il radiotelescopio Lofar, un team internazionale di ricerca guidato dalla Leiden University ha ottenuto l’immagine del cielo radio più nitida e sensibile mai realizzata a basse frequenze: rivela quasi 63mila so...",
+      "date": "2026-11-11T18:11:01.0000000Z"
+    },
     {
       "id": "media-inaf:a8e7884d1343",
       "sourceId": "media-inaf",
@@ -370,18 +395,6 @@
       "date": "2026-11-06T10:26:11.0000000Z"
     },
     {
-      "id": "media-inaf:57fe9e0696cd",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Fine corsa per Swift",
-      "url": "https://www.media.inaf.it/2026/11/05/fine-corsa-per-swift/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/cq5dam.web_.1280.1280-150x150.jpeg",
-      "summary": "Si è conclusa mercoledì la lunga avventura spaziale dell’osservatorio Neil Gehrels Swift della Nasa. Dopo 22 anni di attività, il cacciatore di raggi gamma è rientrato in maniera incontrollata nell’atmosfera terrestre...",
-      "date": "2026-11-05T19:46:58.0000000Z"
-    },
-    {
       "id": "geopop:E1-qLBS_U9w",
       "sourceId": "geopop",
       "source": "Geopop",
@@ -588,19 +601,6 @@
       "summary": "",
       "videoId": "X9SoJKTyXs0",
       "date": "2026-06-08T18:26:16.0000000Z"
-    },
-    {
-      "id": "curiuss:aDmbZzB0zI4",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Il Processo Haber - Bosch - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=aDmbZzB0zI4",
-      "image": "https://i.ytimg.com/vi/aDmbZzB0zI4/hqdefault.jpg",
-      "summary": "",
-      "videoId": "aDmbZzB0zI4",
-      "date": "2026-05-20T18:00:00.0000000Z"
     }
   ]
 }
