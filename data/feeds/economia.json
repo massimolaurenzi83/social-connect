@@ -1,115 +1,7 @@
 {
   "category": "economia",
-  "updated": "2026-11-12T16:20:20.8500641Z",
+  "updated": "2026-11-12T22:20:34.1593166Z",
   "items": [
-    {
-      "id": "money-it:0c0616dde889",
-      "sourceId": "money-it",
-      "source": "Money.it",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Drenaggio fiscale, l'Istat fa i conti: i tagli IRPEF dal 2022 riassorbiti dall'inflazione",
-      "url": "https://www.money.it/drenaggio-fiscale-istat-riforme-irpef-inflazione-2027",
-      "image": null,
-      "summary": "Per l'Istat, nel 2027 rispetto alle regole del 2021 le riforme fiscali entrate in vigore dal 2022 valgono in media circa 1.000 euro a contribuente, ma il drenaggio fiscale ne riprende circa 1.100. Ci perdono pensionat...",
-      "date": "2026-11-12T16:19:53.6717547Z"
-    },
-    {
-      "id": "money-it:7334777432ef",
-      "sourceId": "money-it",
-      "source": "Money.it",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Quanto guadagna Jensen Huang e quanto ha perso con il caso Nvidia",
-      "url": "https://www.money.it/quanto-guadagna-jensen-huang-il-ceo-di-nvidia",
-      "image": null,
-      "summary": "Dallo stipendio da capogiro da CEO presso Nvidia alla flessione tra i miliardari mondiali: il destino segnato di Jensen Huang dopo il caso che ha scosso una delle maggior big tech mondiali - Tecnologia / Miliardari , ...",
-      "date": "2026-11-12T16:19:53.6716147Z"
-    },
-    {
-      "id": "money-it:69907ba6e529",
-      "sourceId": "money-it",
-      "source": "Money.it",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Azioni Nvidia dopo le dimissioni di Jensen Huang. Il titolo crolla, cosa aspettarsi ora",
-      "url": "https://www.money.it/azioni-nvidia-dopo-jensen-huang-cosa-puo-succedere-al-titolo-e-perche-il-futuro-dell-azienda-e-a-un-bivio",
-      "image": null,
-      "summary": "Huang lascia Nvidia con effetto immediato, la CFO Colette Kress guida ad interim. Il titolo apre a -13%, gli analisti tagliano i target. Attesa per la trimestrale in arrivo il 17 novembre. - Borsa USA / Wall Street , ...",
-      "date": "2026-11-12T16:19:53.6714790Z"
-    },
-    {
-      "id": "money-it:167853397ec4",
-      "sourceId": "money-it",
-      "source": "Money.it",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Chi è Colette Kress, la nuova CEO ad interim di Nvidia, e quanto guadagna",
-      "url": "https://www.money.it/chi-e-colette-kress-la-nuova-ceo-ad-interim-di-nvidia-e-quanto-guadagna",
-      "image": null,
-      "summary": "Dopo le dimissioni di Jensen Huang, Nvidia è guidata ad interim da Colette Kress, la sua CFO dal 2013. Ecco chi è, quanto ha guadagnato nell'ultimo anno fiscale e a quanto vale la sua partecipazione nel colosso dei ch...",
-      "date": "2026-11-12T16:19:53.6713408Z"
-    },
-    {
-      "id": "money-it:de888af269c9",
-      "sourceId": "money-it",
-      "source": "Money.it",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Addizionale Irpef tagliata nel Lazio fino a 35mila euro, chi risparmia?",
-      "url": "https://www.money.it/addizionale-irpef-azzerata-nel-lazio-fino-a-35mila-euro-chi-risparmia",
-      "image": null,
-      "summary": "Taglio addizionale IRPEF nel Lazio. Le simulazioni in busta paga per redditi fino a 35.000 euro, le aliquote 2027 e la tabella con i risparmi netti. - IRPEF e imposte sui redditi / IRPEF , Regione Lazio",
-      "date": "2026-11-12T16:19:53.6712011Z"
-    },
-    {
-      "id": "money-it:ed026a974a55",
-      "sourceId": "money-it",
-      "source": "Money.it",
-      "platform": "rss",
-      "category": "economia",
-      "title": "SproutWorld lancia MiniHouse, la casetta che fa germogliare la matita piantabile",
-      "url": "https://www.money.it/sproutworld-lancia-minihouse-la-casetta-che-fa-germogliare-la-matita-piantabile",
-      "image": null,
-      "summary": "Il brand danese delle matite piantabili, che ha nell'Italia il suo primo mercato, lancia un kit personalizzabile con mini matita, vaso e torba pensato per regali aziendali ed eventi. - Aziende e Settori / Sostenibilit...",
-      "date": "2026-11-12T16:19:53.6710596Z"
-    },
-    {
-      "id": "money-it:f2fd21fee72d",
-      "sourceId": "money-it",
-      "source": "Money.it",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Broadcom corre mentre Nvidia perde Huang: il mercato premia le alternative nei chip AI",
-      "url": "https://www.money.it/broadcom-rialzo-nvidia-dimissioni-huang-chip-ai-12-11-2026",
-      "image": null,
-      "summary": "Broadcom sale del 4,78% a 361,71 dollari (ore 16:12) mentre Nvidia cede per le dimissioni di Jensen Huang e la nomina di Colette Kress a CEO ad interim. Il titolo supera la resistenza a 361 dollari, ma la vera prova è...",
-      "date": "2026-11-12T16:19:53.6709145Z"
-    },
-    {
-      "id": "money-it:435a5b192077",
-      "sourceId": "money-it",
-      "source": "Money.it",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Chi sono gli chef stellati più ricchi d'Italia? La classifica",
-      "url": "https://www.money.it/chi-sono-gli-chef-stellati-piu-ricchi-d-italia-la-classifica",
-      "image": null,
-      "summary": "Quanto fatturano i grandi chef stellati? Dai Cerea a Bottura, ecco i ricavi e gli utili delle società dopo la Guida Michelin 2027. - Mangiare & Bere / Settore alimentare , Michelin , Ristoranti , Lusso",
-      "date": "2026-11-12T16:19:53.6707507Z"
-    },
-    {
-      "id": "money-it:1aba7b8d8cd3",
-      "sourceId": "money-it",
-      "source": "Money.it",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Tether ha più debito americano degli Emirati Arabi. Quando la finanza privata sfida la sovranità degli Stati",
-      "url": "https://www.money.it/tether-ha-piu-debito-americano-degli-emirati-arabi-quando-la-finanza-privata-sfida-la-sovranita-degli-stati",
-      "image": null,
-      "summary": "Per Daniele Damele (Federmanager FVG), Marco Ertman e Francesco Greco l'ascesa di Tether segna la privatizzazione del signoraggio. Ecco i numeri e i rischi. - Criptovalute / Tether , Valute virtuali , Stablecoin , Med...",
-      "date": "2026-11-12T16:19:53.6706099Z"
-    },
     {
       "id": "money-it:317c3a9634eb",
       "sourceId": "money-it",
@@ -120,7 +12,7 @@
       "url": "https://www.money.it/contratto-scaduto-inflazione-busta-paga-accordo-sindacati-imprese",
       "image": null,
       "summary": "La preintesa del 12 novembre 2026 tra CGIL, CISL, UIL e 13 associazioni datoriali si aggancia al DL 62: anticipo dopo 9 mesi di contratto scaduto, verifica periodica sull'inflazione e stretta sui contratti pirata. - D...",
-      "date": "2026-11-12T16:19:53.6704654Z"
+      "date": "2026-11-12T22:19:49.3439869Z"
     },
     {
       "id": "money-it:4840d8e90339",
@@ -132,7 +24,7 @@
       "url": "https://www.money.it/se-avessi-comprato-eur10000-di-questo-btp-nel-1997-oggi-avresti-guadagnato-quasi-eur19000-netti",
       "image": null,
       "summary": "Un titolo di Stato comprato nel 1997 e tenuto fino all'ultimo giorno ha restituito quasi tre volte il capitale. Quale BTP è, quanto ha reso euro per euro e cosa insegna a chi investe oggi. - Mercato obbligazionario / ...",
-      "date": "2026-11-12T16:19:53.6703092Z"
+      "date": "2026-11-12T22:19:49.3439108Z"
     },
     {
       "id": "money-it:e73361438614",
@@ -144,19 +36,297 @@
       "url": "https://www.money.it/diasorin-terzo-trimestre-guidance-confermata-12-11-2026",
       "image": null,
       "summary": "Diasorin guadagna oltre il 3% a Piazza Affari dopo i conti dei nove mesi 2026: ricavi del terzo trimestre +8% a cambi costanti, EBITDA adjusted a 103 milioni e guidance confermata. Sullo sfondo restano il debito salit...",
-      "date": "2026-11-12T16:19:53.6692214Z"
+      "date": "2026-11-12T22:19:49.3438358Z"
     },
     {
-      "id": "ansa-economia:362eee1a8455",
+      "id": "money-it:9f6b08df1db9",
+      "sourceId": "money-it",
+      "source": "Money.it",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Forfettario fino a 100mila euro, conviene davvero? Simulazione con IVA",
+      "url": "https://www.money.it/forfettario-fino-a-100mila-euro-conviene-davvero-simulazione-con-iva",
+      "image": null,
+      "summary": "Novità partite IVA nella Manovra 2027. Come cambia il forfettario tra 85k e 100k euro, l'impatto dell'IVA sui clienti privati e il paradosso dei ricavi. - Partite IVA e autonomi / Partita IVA , Regime forfetario , Leg...",
+      "date": "2026-11-12T22:19:49.3437582Z"
+    },
+    {
+      "id": "money-it:8a87df1c2336",
+      "sourceId": "money-it",
+      "source": "Money.it",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Cedola al 4,70%, 5,10% e 6% sul bond Intesa Sanpaolo 2029 e taglio minimo a 2.000 $",
+      "url": "https://www.money.it/cedola-al-470-510-e-6-sul-bond-intesa-sanpaolo-2029-e-taglio-minimo-a-2000",
+      "image": null,
+      "summary": "Visto dalla prospettiva della durata sembra quasi uno “Short Term” il neo bond Intesa: le divergenze, però, sono tante - Mercato obbligazionario / Dollaro USA (USD) , Intesa Sanpaolo , Soldi , Cedola , Rendimento , Qu...",
+      "date": "2026-11-12T22:19:49.3436814Z"
+    },
+    {
+      "id": "money-it:eb880df3d0e1",
+      "sourceId": "money-it",
+      "source": "Money.it",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Stop ai rinnovi automatici e alle trappole online. La nuova proposta dell'Europa",
+      "url": "https://www.money.it/stop-ai-rinnovi-automatici-e-alle-trappole-online-la-nuova-proposta-dell-europa",
+      "image": null,
+      "summary": "L'Unione Europea vuole intervenire a tutela dei consumatori. L'obiettivo? Mettere un freno ai rinnovi automatici online con nuove leggi ad hoc. - Computer e Internet / Internet , Europa (UE) , Tecnologia",
+      "date": "2026-11-12T22:19:49.3436017Z"
+    },
+    {
+      "id": "money-it:48abeebe29da",
+      "sourceId": "money-it",
+      "source": "Money.it",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Piazza Affari chiude in calo, FTSE MIB a -0,27% a 51.808,67 punti",
+      "url": "https://www.money.it/piazza-affari-chiude-in-calo-ftse-mib-12-11-2026",
+      "image": null,
+      "summary": "Il FTSE MIB termina a 51.808,67 punti con 23 titoli in ribasso. Diasorin guida i rialzi, Amplifon e Stellantis i cali; fuori dall'indice BFF Bank cede l'11,44%. - Piazza Affari / Piazza Affari , Borsa Italiana , Pirel...",
+      "date": "2026-11-12T22:19:49.3435252Z"
+    },
+    {
+      "id": "money-it:b0ca0f8c23d7",
+      "sourceId": "money-it",
+      "source": "Money.it",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Meglio fondo pensione o investimento in autonomia? La risposta di Riccardo Zanetti alla Gen Z",
+      "url": "https://www.money.it/meglio-fondo-pensione-o-investimento-in-autonomia-la-risposta-di-riccardo-zanetti-alla-gen-z",
+      "image": null,
+      "summary": "Per Riccardo Zanetti la Gen Z è tra le più attente alla pensione. A Money.it spiega perché iscriversi presto al fondo pensione e quando può convenire investire in autonomia. - Previdenza complementare / Video , Pensio...",
+      "date": "2026-11-12T22:19:49.3434436Z"
+    },
+    {
+      "id": "money-it:b0897b9cc2ac",
+      "sourceId": "money-it",
+      "source": "Money.it",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Voucher Cloud e Cybersecurity 2026: le domande sono aperte, ecco come funziona davvero",
+      "url": "https://www.money.it/voucher-cloud-cybersecurity-2026-domande-aperte-come-funziona",
+      "image": null,
+      "summary": "Dal 10 novembre le domande per il voucher Cloud e Cybersecurity si inviano sulla piattaforma di Invitalia e vengono esaminate in ordine di arrivo fino al 20 gennaio 2027: ecco come funziona l'iter e cosa conviene aver...",
+      "date": "2026-11-12T22:19:49.3433641Z"
+    },
+    {
+      "id": "money-it:d0c5ad95e6c7",
+      "sourceId": "money-it",
+      "source": "Money.it",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Campagna RED 2026 al via: chi deve inviarla entro il 1° marzo 2027 e cosa rischia chi la salta",
+      "url": "https://www.money.it/campagna-red-2026-redditi-2025-scadenza-1-marzo-2027",
+      "image": null,
+      "summary": "L'INPS apre la RED ordinaria 2026 sui redditi 2025 e le dichiarazioni di responsabilità, con scadenza al 1° marzo 2027. Chi è obbligato, come si invia e cosa è successo a chi ha saltato la RED 2023. - Pensioni / INPS ...",
+      "date": "2026-11-12T22:19:49.3432700Z"
+    },
+    {
+      "id": "money-it:c4d6378f348e",
+      "sourceId": "money-it",
+      "source": "Money.it",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Partite IVA forfettarie, i rimborsi spese di trasferta non pesano più sul reddito (occhio ai contanti)",
+      "url": "https://www.money.it/forfettario-rimborso-spese-trasferte-committente-2026",
+      "image": null,
+      "summary": "La risposta n. 213/2026 dell'Agenzia delle Entrate chiarisce che, dal 1° gennaio 2025, i rimborsi analitici di viaggio, vitto e alloggio addebitati al committente non concorrono al reddito dei forfetari, a patto che l...",
+      "date": "2026-11-12T22:19:49.3431494Z"
+    },
+    {
+      "id": "money-it:62e6ddcb2347",
+      "sourceId": "money-it",
+      "source": "Money.it",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Chip, l'Europa scommette su Novara: dentro il Vulcan Project da 3,2 miliardi",
+      "url": "https://www.money.it/silicon-box-novara-vulcan-project-semiconduttori-chips-act",
+      "image": null,
+      "summary": "A Novara nasce il primo impianto europeo di packaging avanzato per semiconduttori: il progetto di Silicon Box, sostenuto da 1,3 miliardi di fondi pubblici, è un tassello della strategia Ue per l'autonomia sui chip e u...",
+      "date": "2026-11-12T22:19:49.3420909Z"
+    },
+    {
+      "id": "money-yt:4je31t2Rq-U",
+      "sourceId": "money-yt",
+      "source": "Money.it TV",
+      "platform": "youtube",
+      "category": "economia",
+      "title": "TUTTI CONTRO TUTTI - GIANCARLO MARCOTTI - Mondo&Finanza",
+      "url": "https://www.youtube.com/watch?v=4je31t2Rq-U",
+      "image": "https://i.ytimg.com/vi/4je31t2Rq-U/hqdefault.jpg",
+      "summary": "",
+      "videoId": "4je31t2Rq-U",
+      "date": "2026-11-12T20:39:39.0000000Z"
+    },
+    {
+      "id": "ansa-economia:c643f57f67c4",
       "sourceId": "ansa-economia",
       "source": "ANSA Economia",
       "platform": "rss",
       "category": "economia",
-      "title": "Messina: 'Ecobonus portati a dieci anni sono formula sudamericana'. Meloni: 'La nostra è una scelta di giustizia'",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/messina-ecobonus-portati-a-dieci-anni-sono-formula-sudamericana_66cb92ca-cf90-4cae-a644-923b05b820c5.html",
+      "title": "'Dal governo norme sudamericane', è scontro Messina-Meloni",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/dal-governo-norme-sudamericane-e-scontro-messina-meloni_66cb92ca-cf90-4cae-a644-923b05b820c5.html",
       "image": null,
-      "summary": "Il ceo di Intesa Sanpaolo: 'Una cosa incredibile quello che c'è nella legge finanziaria'. 'Quello che viene proposto non è coerente con la Costituzione'",
-      "date": "2026-11-12T16:13:48.0000000Z"
+      "summary": "La premier: 'La nostra una scelta di giustizia'. Giorgetti rivendica la sua 'politica asburgica'",
+      "date": "2026-11-12T20:14:40.0000000Z"
+    },
+    {
+      "id": "ansa-economia:f5bbb66c869b",
+      "sourceId": "ansa-economia",
+      "source": "ANSA Economia",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Giorgetti apre sulla manovra: 'I giochi non sono fatti ma trovate le coperture'",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/giorgetti-apre-sulla-manovra-i-giochi-non-sono-fatti-ma-trovate-le-coperture_ba7f7462-173e-4722-85ec-2383cb73ecfd.html",
+      "image": null,
+      "summary": "Il ministro: 'Muri portanti non si toccano'. Upb critica, taglio Irpef all'1% degli operai",
+      "date": "2026-11-12T20:04:19.0000000Z"
+    },
+    {
+      "id": "money-yt:zQmKCutEjTM",
+      "sourceId": "money-yt",
+      "source": "Money.it TV",
+      "platform": "youtube",
+      "category": "economia",
+      "title": "👉 La puntata completa sul nostro canale.",
+      "url": "https://www.youtube.com/watch?v=zQmKCutEjTM",
+      "image": "https://i.ytimg.com/vi/zQmKCutEjTM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "zQmKCutEjTM",
+      "date": "2026-11-12T19:41:39.0000000Z"
+    },
+    {
+      "id": "ansa-economia:4aae5e35bb1a",
+      "sourceId": "ansa-economia",
+      "source": "ANSA Economia",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Bcc Iccrea, utile 9 mesi sale a 1,65 miliardi",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/bcc-iccrea-utile-9-mesi-sale-a-165-miliardi_a8b12289-8291-4023-87da-fad16b753f71.html",
+      "image": null,
+      "summary": "In crescita finanziamenti con nuove erogazioni per 15,3 miliardi e raccolta",
+      "date": "2026-11-12T19:05:26.0000000Z"
+    },
+    {
+      "id": "ansa-economia:829e56083c50",
+      "sourceId": "ansa-economia",
+      "source": "ANSA Economia",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Fnm chiude i 9 mesi con oltre 521 milioni di ricavi, utile +6,2%",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/fnm-chiude-i-9-mesi-con-oltre-521-milioni-di-ricavi-utile-62_d08bb77f-2bea-4ca6-ae34-15dae6350286.html",
+      "image": null,
+      "summary": "Confermate le stime sul margine operativo lordo, investimenti in calo",
+      "date": "2026-11-12T19:03:51.0000000Z"
+    },
+    {
+      "id": "ansa-economia:b80139e9e84f",
+      "sourceId": "ansa-economia",
+      "source": "ANSA Economia",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Webuild, nuovi ordini 11,1 miliardi da inizio anno, confermata guidance 2026",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/webuild-nuovi-ordini-111-miliardi-da-inizio-anno-confermata-guidance-2026_a9e1e2ef-075b-42eb-9b51-6c6b4258db6a.html",
+      "image": null,
+      "summary": "Gare in attesa di aggiudicazione a 24,9 miliardi. Pipeline commerciale 99,3 miliardi",
+      "date": "2026-11-12T18:26:21.0000000Z"
+    },
+    {
+      "id": "ansa-economia:e72b0ff4ef6e",
+      "sourceId": "ansa-economia",
+      "source": "ANSA Economia",
+      "platform": "rss",
+      "category": "economia",
+      "title": "A Pomigliano la cinese Leapmotor per le e-car di Stellantis",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/a-pomigliano-la-cinese-leapmotor-per-le-e-car-di-stellantis_5c4014b7-dd35-40f4-92dd-2d61a3c31d30.html",
+      "image": null,
+      "summary": "All'assemblea Anfia Filosa parla di partnership. Urso, 'Piano Italia rispettato'",
+      "date": "2026-11-12T18:09:58.0000000Z"
+    },
+    {
+      "id": "wallstreetitalia:d5a90deab8a9",
+      "sourceId": "wallstreetitalia",
+      "source": "Wall Street Italia",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Consulenti finanziari: dieci anni di Albo Unico valorizzano la figura del professionista",
+      "url": "https://www.wallstreetitalia.com/consulenti-finanziari-dieci-anni-di-albo-unico-valorizzano-la-figura-del-professionista/",
+      "image": null,
+      "summary": "A dieci anni dalla riforma che ha ridefinito l’assetto della vigilanza sulla professione dei consulenti finanziari, l’Ocf ha deciso di portare il dibattito all’Aula dei Gruppi Parlamentari della Camera.All’evento “Le ...",
+      "date": "2026-11-12T17:44:54.0000000Z"
+    },
+    {
+      "id": "ansa-economia:ad4da0b63886",
+      "sourceId": "ansa-economia",
+      "source": "ANSA Economia",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Il prezzo del gas corre e sfiora i 94 euro con tensioni Medioriente",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/il-prezzo-del-gas-corre-e-sfiora-i-94-euro-con-tensioni-medioriente_37283fb3-ab72-4cb0-bfb4-1aa473abdefa.html",
+      "image": null,
+      "summary": "I contratti Ttf ad Amsterdam segnano un +8 per cento",
+      "date": "2026-11-12T17:41:35.0000000Z"
+    },
+    {
+      "id": "ansa-economia:4b52f20a7696",
+      "sourceId": "ansa-economia",
+      "source": "ANSA Economia",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Enel, acconto sul dividendo 2026 sale a 0,245 euro per azione (+7% sul'acconto 2025)",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/enel-acconto-sul-dividendo-2026-sale-a-0245-euro-per-azione_37ceeb30-e745-4f2e-ae9f-b595d4e4308b.html",
+      "image": null,
+      "summary": "Lo ha deciso il cda nell'approvazione dei conti dei 9 mesi",
+      "date": "2026-11-12T17:26:53.0000000Z"
+    },
+    {
+      "id": "ansa-economia:f939a038622e",
+      "sourceId": "ansa-economia",
+      "source": "ANSA Economia",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Banco Bpm avvia approfondimenti sulla proposta dell'Agricole",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/banco-bpm-avvia-approfondimenti-sulla-proposta-dellagricole_9ecda2e5-b11d-425a-96c2-a236dc260f62.html",
+      "image": null,
+      "summary": "Dovrà soddisfare tutti i soci e riflettere punti di forza e la perdita di contendibilità",
+      "date": "2026-11-12T17:14:59.0000000Z"
+    },
+    {
+      "id": "ansa-economia:499b95d39ba7",
+      "sourceId": "ansa-economia",
+      "source": "ANSA Economia",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Borsa: l'Europa chiude in generale rialzo, Francoforte +0,41%",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/borsa-leuropa-chiude-in-generale-rialzo-francoforte-041_ed12fe9a-b95b-4684-933c-be7c17ccac6c.html",
+      "image": null,
+      "summary": "Parigi +0,34%, Londra +0,25%",
+      "date": "2026-11-12T17:12:04.0000000Z"
+    },
+    {
+      "id": "ansa-economia:bdd32175fb75",
+      "sourceId": "ansa-economia",
+      "source": "ANSA Economia",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Lo spread tra Btp e Bund chiude in rialzo a 104,4 punti base",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-1044-punti-base_fe08ba0d-ed74-4556-8577-50e1610d794f.html",
+      "image": null,
+      "summary": "Il rendimento del decennale italiano sale e sfiora il 4,39%",
+      "date": "2026-11-12T17:12:01.0000000Z"
+    },
+    {
+      "id": "ansa-economia:0113f6c9aa7a",
+      "sourceId": "ansa-economia",
+      "source": "ANSA Economia",
+      "platform": "rss",
+      "category": "economia",
+      "title": "Enel, utile di Gruppo sale nei 9 mesi ma continua il calo dell'Italia",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/enel-utile-di-gruppo-sale-nei-9-mesi-ma-continua-il-calo-dellitalia_050c1a3b-0a14-45bc-be13-d947814a8200.html",
+      "image": null,
+      "summary": "Ricavi +8,9%, trainano Spagna e Americhe",
+      "date": "2026-11-12T17:11:48.0000000Z"
     },
     {
       "id": "wallstreetitalia:8ee7f9223a39",
@@ -167,7 +337,7 @@
       "title": "Retail Investment Strategy, respinto il testo dal parlamento europeo",
       "url": "https://www.wallstreetitalia.com/retail-investment-strategy-respinto-il-testo-dal-parlamento-europeo/",
       "image": null,
-      "summary": "Il Parlamento Europeo ha bocciato oggi il testo della Direttiva Omnibus, parte delle proposte legislatve incluse nella Retail Investment Strategy (RIS), sul quale era stato raggiunto un accordo provvisorio con il Cons...",
+      "summary": "Il Parlamento Europeo ha bocciato oggi il testo della Direttiva Omnibus, parte delle proposte legislative incluse nella Retail Investment Strategy (RIS), sul quale era stato raggiunto un accordo provvisorio con il Con...",
       "date": "2026-11-12T16:10:34.0000000Z"
     },
     {
@@ -181,42 +351,6 @@
       "image": null,
       "summary": "Dalla redazione del magazine, Vanessa Paliz Urbina introduce i contenuti del numero di novembre 2026 della rivista cartacea di Wall Street Italia.",
       "date": "2026-11-12T16:07:55.0000000Z"
-    },
-    {
-      "id": "ansa-economia:845088af950e",
-      "sourceId": "ansa-economia",
-      "source": "ANSA Economia",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Fmi, l'Italia compensi ogni nuova misura contro il caro energia, progressi impressionanti sul debito",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/fmi-litalia-compensi-ogni-nuova-misura-contro-il-caro-energia_16fb5af7-a799-443b-bd68-178aa771e8d3.html",
-      "image": null,
-      "summary": "Nell'Eurozona necessario rialzo dei tassi di almeno 25 punti base nel 2026",
-      "date": "2026-11-12T16:03:25.0000000Z"
-    },
-    {
-      "id": "ansa-economia:477961425784",
-      "sourceId": "ansa-economia",
-      "source": "ANSA Economia",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Giorgetti: 'La prudenza dei conti è la condizione per preservare gli spazi di intervento necessari ad affrontare le difficoltà'",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/bankitalia-dalle-norme-sul-superbonus-in-manovra-impatto-significativo-sulle-banche_34036427-d24c-48c0-93dd-77fe323e671b.html",
-      "image": null,
-      "summary": "'Permangono rilevanti fattori di rischio, come caro-energia'",
-      "date": "2026-11-12T15:56:41.0000000Z"
-    },
-    {
-      "id": "ansa-economia:69b7cd3e4499",
-      "sourceId": "ansa-economia",
-      "source": "ANSA Economia",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Giorgetti, la prudenza sui conti è condizione per avere spazi per difficoltà",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/giorgetti-la-prudenza-sui-conti-e-condizione-per-avere-spazi-per-difficolta_c47ec73b-ebb8-41e3-a1f2-9159b50cdd35.html",
-      "image": null,
-      "summary": "'Permangono rilevanti fattori di rischio, come caro-energia'",
-      "date": "2026-11-12T15:55:08.0000000Z"
     },
     {
       "id": "sole24ore:b5c2eef848c1",
@@ -243,30 +377,6 @@
       "date": "2026-11-12T15:26:56.0000000Z"
     },
     {
-      "id": "ansa-economia:0963400f62cb",
-      "sourceId": "ansa-economia",
-      "source": "ANSA Economia",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Filosa, 'Leapmotor ci aiuterà su impianti europei, uno anche italiano'",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/filosa-leapmotor-ci-aiutera-su-impianti-europei-uno-anche-italiano_39345c3f-62d5-4edc-bfe3-d328ae5906f0.html",
-      "image": null,
-      "summary": "'Estenderemo la partnership ad altre opportunità'",
-      "date": "2026-11-12T15:16:40.0000000Z"
-    },
-    {
-      "id": "ansa-economia:9c1ba04febb0",
-      "sourceId": "ansa-economia",
-      "source": "ANSA Economia",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Borsa: l'Europa sempre cauta con il tech in affanno, corre il gas",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/borsa-leuropa-sempre-cauta-con-il-tech-in-affanno-corre-il-gas_983de12f-6efe-4df5-808c-ce10378b5e99.html",
-      "image": null,
-      "summary": "Lo spread in altalena a 104 punti, petrolio poco mosso",
-      "date": "2026-11-12T15:12:10.0000000Z"
-    },
-    {
       "id": "wallstreetitalia:8e4a00a6a40a",
       "sourceId": "wallstreetitalia",
       "source": "Wall Street Italia",
@@ -277,78 +387,6 @@
       "image": null,
       "summary": "Gli ETF attivi guadagnano terreno in Europa: nei prossimi 18 mesi crescerà la quota nei portafogli professionali, quasi raddoppiando in Italia. Contano costi, liquidità e performance.",
       "date": "2026-11-12T14:59:22.0000000Z"
-    },
-    {
-      "id": "ansa-economia:493f544f4883",
-      "sourceId": "ansa-economia",
-      "source": "ANSA Economia",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Equita chiude i 9 mesi con ricavi e utile in crescita dell'8%",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/equita-chiude-i-9-mesi-con-ricavi-e-utile-in-crescita-dell8_ee65356d-8e51-4b6c-83f1-003be98d5a5f.html",
-      "image": null,
-      "summary": "Dividendo di 40 centesimi. A dicembre nuovo piano triennale al 2029",
-      "date": "2026-11-12T14:47:43.0000000Z"
-    },
-    {
-      "id": "ansa-economia:16fee4c370ae",
-      "sourceId": "ansa-economia",
-      "source": "ANSA Economia",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Wall Street apre contrastata, Dj a +0,14% e Nasdaq a -1,44% con l'effetto Nvidia",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/wall-street-apre-contrastata-dj-a-014-e-nasdaq-a-144-con-leffetto-nvidia_a6415fbd-955b-44be-ae45-4a553ccb5811.html",
-      "image": null,
-      "summary": "Giù anche l'S 500 a -0,75%",
-      "date": "2026-11-12T14:43:41.0000000Z"
-    },
-    {
-      "id": "ansa-economia:a4fd5fde1616",
-      "sourceId": "ansa-economia",
-      "source": "ANSA Economia",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Upb, benefici taglio Irpef per l'89% dei dirigenti e l'1% degli operai",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/upb-benefici-taglio-irpef-per-l89-dei-dirigenti-e-l1-degli-operai_685d5cc8-9706-47e3-b679-d0fbb5cf5121.html",
-      "image": null,
-      "summary": "'Si accentuano le criticità strutturali dell'imposta'",
-      "date": "2026-11-12T14:40:04.0000000Z"
-    },
-    {
-      "id": "ansa-economia:e39d2b6eb60b",
-      "sourceId": "ansa-economia",
-      "source": "ANSA Economia",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Nvidia apre al Nasdaq con un tonfo del 13% dopo l'uscita di Huang",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/nvidia-apre-al-nasdaq-con-un-tonfo-del-13-dopo-luscita-di-huang_0609e9ac-73f2-4b3e-9bcd-058595fae4bb.html",
-      "image": null,
-      "summary": "",
-      "date": "2026-11-12T14:37:37.0000000Z"
-    },
-    {
-      "id": "ansa-economia:f67b5b6132ae",
-      "sourceId": "ansa-economia",
-      "source": "ANSA Economia",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Per Mondadori nei primi nove mesi ricavi +3,6%, l'utile a 48 milioni",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/per-mondadori-nei-primi-nove-mesi-ricavi-36-lutile-a-48-milioni_c1ad2c0a-c883-4521-897b-50a5392b71c0.html",
-      "image": null,
-      "summary": "Porro: 'Possibili altre acquisizioni, garantita la remunerazione degli azionisti'",
-      "date": "2026-11-12T14:24:23.0000000Z"
-    },
-    {
-      "id": "ansa-economia:276aa96daf86",
-      "sourceId": "ansa-economia",
-      "source": "ANSA Economia",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Nvidia crolla del 10,56% nel pre-market dopo l'uscita di Huang",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/12/nvidia-crolla-del-1056-nel-pre-market-dopo-luscita-di-huang_7feafa1d-432b-4558-9ebb-0e51ace53501.html",
-      "image": null,
-      "summary": "",
-      "date": "2026-11-12T14:17:33.0000000Z"
     },
     {
       "id": "wallstreetitalia:05d8ab40dc44",
@@ -409,18 +447,6 @@
       "image": null,
       "summary": "Allianz Italia chiude i primi nove mesi del 2026 con premi in crescita dell’11,6% a 12 miliardi di euro e un risultato operativo di 999 milioni.",
       "date": "2026-11-12T13:54:54.0000000Z"
-    },
-    {
-      "id": "wallstreetitalia:a5dfd39a0498",
-      "sourceId": "wallstreetitalia",
-      "source": "Wall Street Italia",
-      "platform": "rss",
-      "category": "economia",
-      "title": "Mondadori, ricavi netti consolidati a 729,5 milioni di euro nei primi nove mesi del 2026",
-      "url": "https://www.wallstreetitalia.com/news/mondadori-ricavi-netti-consolidati-a-7295-milioni-di-euro-nei-primi-nove-mesi-del-2026/",
-      "image": null,
-      "summary": "Il gruppo Mondadori ha chiuso i primi nove mesi con ricavi e Ebitda adjusted in aumento, mentre l’utile netto è diminuito rispetto al 2025. Il cda conferma le previsioni per il 2026 e indica nella generazione di cassa...",
-      "date": "2026-11-12T13:39:23.0000000Z"
     },
     {
       "id": "sole24ore:8f816de424ab",
@@ -554,32 +580,6 @@
       "summary": "",
       "videoId": "bSDd9mh3g70",
       "date": "2026-11-11T20:52:57.0000000Z"
-    },
-    {
-      "id": "money-yt:ABjLbO-hPjk",
-      "sourceId": "money-yt",
-      "source": "Money.it TV",
-      "platform": "youtube",
-      "category": "economia",
-      "title": "Riccardo Zanetti, CEO e co-founder di Omney",
-      "url": "https://www.youtube.com/watch?v=ABjLbO-hPjk",
-      "image": "https://i.ytimg.com/vi/ABjLbO-hPjk/hqdefault.jpg",
-      "summary": "",
-      "videoId": "ABjLbO-hPjk",
-      "date": "2026-11-11T19:30:19.0000000Z"
-    },
-    {
-      "id": "money-yt:Jd5_HcGBflY",
-      "sourceId": "money-yt",
-      "source": "Money.it TV",
-      "platform": "youtube",
-      "category": "economia",
-      "title": "Alessandro Cascavilla, professore universitario e divulgatore finanziario",
-      "url": "https://www.youtube.com/watch?v=Jd5_HcGBflY",
-      "image": "https://i.ytimg.com/vi/Jd5_HcGBflY/hqdefault.jpg",
-      "summary": "",
-      "videoId": "Jd5_HcGBflY",
-      "date": "2026-11-11T17:46:28.0000000Z"
     }
   ]
 }

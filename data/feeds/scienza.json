@@ -1,7 +1,32 @@
 {
   "category": "scienza",
-  "updated": "2026-11-12T16:20:20.8625125Z",
+  "updated": "2026-11-12T22:20:34.1409514Z",
   "items": [
+    {
+      "id": "media-inaf:b3ad6dbd26dd",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Il cuore a nudo di Encke",
+      "url": "https://www.media.inaf.it/2026/11/12/nucelo-cometa-encke/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/Cometa_Encke_fig1e-20261108science-150x150.jpg",
+      "summary": "Un lavoro pubblicato su The Astronomical Journal analizza l’emissione termica diretta dal nucleo della cometa 2P/Encke mediante fotometria e spettroscopia nel medio infrarosso ottenute con il telescopio Subaru nel 200...",
+      "date": "2026-11-12T18:33:43.0000000Z"
+    },
+    {
+      "id": "geopop:x2XUabji-6U",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Perché tutti parlano di GTA VI? È costato più di un miliardo di dollari",
+      "url": "https://www.youtube.com/watch?v=x2XUabji-6U",
+      "image": "https://i.ytimg.com/vi/x2XUabji-6U/hqdefault.jpg",
+      "summary": "",
+      "videoId": "x2XUabji-6U",
+      "date": "2026-11-12T17:30:01.0000000Z"
+    },
     {
       "id": "media-inaf:4f9a40d200e8",
       "sourceId": "media-inaf",
@@ -39,18 +64,6 @@
       "date": "2026-11-12T11:18:49.0000000Z"
     },
     {
-      "id": "focus:7a407f340b15",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Ma esistono anche gruppi hacker italiani?",
-      "url": "https://www.focus.it/tecnologia/innovazione/esistono-anche-gruppi-hacker-italiani",
-      "image": "https://www.focus.it/images/2026/11/12/hacker-italiani_w630.jpg?imbypass=true",
-      "summary": "Nel 2013 un ragazzo attaccò otto domini legati alla NASA, mentre nel 2023 un gruppo di hacker italiani violò un satellite, ma con finalità diverse.",
-      "date": "2026-11-12T10:00:00.0000000Z"
-    },
-    {
       "id": "focus:5c56e1bc26ff",
       "sourceId": "focus",
       "source": "Focus",
@@ -60,6 +73,18 @@
       "url": "https://www.focus.it/scienza/spazio/basterebbe-una-sola-bomba-nucleare-nello-spazio-per-spegnere-il-99-dei-satelliti-e-i-nostri-servizi-in-due-settimane",
       "image": "https://www.focus.it/images/2026/11/12/starfish-prime-honolulu_w630.jpg?imbypass=true",
       "summary": "Una simulazione mostra cosa accadrebbe se una bomba nucleare venisse fatta detonare in orbita bassa: in 15 giorni si paralizzerebbero GPS, meteo e telecomunicazioni, innescando una reazione a catena di detriti spaziali.",
+      "date": "2026-11-12T10:00:00.0000000Z"
+    },
+    {
+      "id": "focus:7a407f340b15",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Ma esistono anche gruppi hacker italiani?",
+      "url": "https://www.focus.it/tecnologia/innovazione/esistono-anche-gruppi-hacker-italiani",
+      "image": "https://www.focus.it/images/2026/11/12/hacker-italiani_w630.jpg?imbypass=true",
+      "summary": "Nel 2013 un ragazzo attaccò otto domini legati alla NASA, mentre nel 2023 un gruppo di hacker italiani violò un satellite, ma con finalità diverse.",
       "date": "2026-11-12T10:00:00.0000000Z"
     },
     {
@@ -357,18 +382,6 @@
       "date": "2026-11-09T13:31:17.0000000Z"
     },
     {
-      "id": "media-inaf:09a875c26ae9",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Idrogeno, un segnale di 4,5 miliardi d’anni fa",
-      "url": "https://www.media.inaf.it/2026/11/09/meerklass-idrogeno-21-cm/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2025/12/MeerKat-Telescope-01.-Crediti_-E.-Sacchetti_INAF-150x150.jpg",
-      "summary": "Misurata dalla collaborazione internazionale MeerKlass la distribuzione dell’idrogeno su grandi scale cosmologiche, cruciale per la ricerca sull’espansione dell’universo. Isabella Paola Carucci (Inaf Trieste): «È come...",
-      "date": "2026-11-09T10:36:42.0000000Z"
-    },
-    {
       "id": "geopop:SDkXDPlZ5KQ",
       "sourceId": "geopop",
       "source": "Geopop",
@@ -484,19 +497,6 @@
       "summary": "",
       "videoId": "PjoHsNNhkjc",
       "date": "2026-10-29T19:00:24.0000000Z"
-    },
-    {
-      "id": "geopop:TEA7s9rwoPw",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Scontro tra due treni in Spagna: cosa sappiamo e qual è la causa più probabile",
-      "url": "https://www.youtube.com/watch?v=TEA7s9rwoPw",
-      "image": "https://i.ytimg.com/vi/TEA7s9rwoPw/hqdefault.jpg",
-      "summary": "",
-      "videoId": "TEA7s9rwoPw",
-      "date": "2026-10-29T17:30:36.0000000Z"
     },
     {
       "id": "curiuss:e8p5tg55yDE",
