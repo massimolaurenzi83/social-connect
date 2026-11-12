@@ -1,7 +1,67 @@
 {
   "category": "ai",
-  "updated": "2026-11-12T07:46:25.0592720Z",
+  "updated": "2026-11-12T16:20:20.9101825Z",
   "items": [
+    {
+      "id": "ai4business:ba8635a1a502",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "IBM connette due chip Nighthawk: ecco la roadmap quantistica 2027",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ibm-connette-due-chip-nighthawk-ecco-la-roadmap-quantistica-2027/",
+      "image": null,
+      "summary": "L'azienda annuncia Nighthawk r3, processore progettato per 10 mila operazioni su 520 qubit programmabili, e prevede di collegarne due nel 2027 per un sistema da 1.040 qubit. I risultati di r2 e l’integrazione con i su...",
+      "date": "2026-11-12T14:34:03.0000000Z"
+    },
+    {
+      "id": "ai4business:83b4cbd2f8e9",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Huang si dimette da Nvidia: quali conseguenze per l’azienda e l’AI",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/huang-si-dimette-da-nvidia-e-ora/",
+      "image": null,
+      "summary": "Jensen Huang si dimette con effetto immediato dalla carica di Ceo di Nvidia dopo il sexy scandalo spy story cinese. Colette Kress assume l'incarico ad interim. Tra le questioni aperte: la continuità della roadmap dei ...",
+      "date": "2026-11-12T14:19:39.0000000Z"
+    },
+    {
+      "id": "ai4business:0a421e521c72",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Le Linee guida AgID sull’AI nella PA e il nodo del controllo umano",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/le-linee-guida-agid-sullai-nella-pa-e-il-nodo-del-controllo-umano/",
+      "image": null,
+      "summary": "La determinazione 169/2026 indica le Linee guida per l'AI nelle amministrazioni. Il testo chiede sorveglianza umana, obiettivi misurabili e competenze. Resta da capire come controllare una macchina che lavora su centi...",
+      "date": "2026-11-12T10:00:42.0000000Z"
+    },
+    {
+      "id": "ai4business:96248d0b417f",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Decision-driven marketing: l’AI a supporto delle scelte aziendali",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/decision-driven-marketing-lai-a-supporto-delle-scelte-aziendali/",
+      "image": null,
+      "summary": "L'adozione capillare dell'intelligenza artificiale nelle imprese affronta la sfida della frammentazione dei dati e della disillusione superabile grazie a un approccio decision-driven basato su Semantic layer e agenti ...",
+      "date": "2026-11-12T09:25:47.0000000Z"
+    },
+    {
+      "id": "ai4business:2f0c0c39d8bd",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Google Gemini Decisions API: mille valutazioni in una chiamata",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/google-gemini-decisions-api-mille-valutazioni-in-una-chiamata/",
+      "image": null,
+      "summary": "Google lancia Gemini Decisions API, basata su Gemini Decision 1: fino a mille verifiche sullo stesso input multimodale, a 0,10 dollari per milione di token. Cosa offre rispetto a Jev, Microsoft e OpenAI, quali test ne...",
+      "date": "2026-11-12T08:21:52.0000000Z"
+    },
     {
       "id": "ai4business:6f74332748f9",
       "sourceId": "ai4business",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "Il rapporto di OpenAI e Upwork rileva budget fissi e ore di lavoro più alti nei progetti freelance legati all’AI, mentre alcune attività standard, come la scrittura, perdono quota. I dati descrivono annunci e conversa...",
       "date": "2026-11-11T10:55:15.0000000Z"
-    },
-    {
-      "id": "ai4business:9d6759714375",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Robot AI nelle fabbriche di automobili: cosa sanno fare (e cosa no)",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/robot-intelligenti-nelle-fabbriche-di-auto-cosa-sanno-fare-e-cosa-no/",
-      "image": null,
-      "summary": "Google DeepMind sperimenta Gemini Robotics 2.5 nei robot Apollo 2 delle fabbriche Mercedes con il 96% di operazioni riuscite. Il confronto con BMW, Renault e Hyundai mostra quali compiti i robot intelligenti svolgono ...",
-      "date": "2026-11-11T07:54:00.0000000Z"
-    },
-    {
-      "id": "ai4business:6ece57e49794",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Anthropic sfida Microsoft Office: arrivano Claude Sheets e Data",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/anthropic-sfida-microsoft-office-arrivano-claude-sheets-e-data/",
-      "image": null,
-      "summary": "L'azienda ha lanciato Claude Sheets e Whiteboards in beta e reso disponibile Claude Data per analizzare dati aziendali collegati. I nuovi strumenti puntano al lavoro collaborativo, ma Sheets non gestisce ancora pivot,...",
-      "date": "2026-11-11T07:52:05.0000000Z"
-    },
-    {
-      "id": "ai4business:49b7a2363eac",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "AI, Italia lenta in Europa: tutti i numeri di un ritardo",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-in-azienda-povera-italia-tutti-i-numeri-di-un-ritardo/",
-      "image": null,
-      "summary": "Secondo il rapporto BEI 2026, l'AI generativa è usata dal 48% delle imprese italiane, contro il 67% dell'Ue: l'Italia è terzultima. In più, il 33% non ne prevede l'adozione nei prossimi 12 mesi. E tra le aziende che g...",
-      "date": "2026-11-11T06:50:00.0000000Z"
-    },
-    {
-      "id": "ai4business:d73518cf01fc",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Meta lancia Muse Ember: il modello AI low cost pensato per gli agenti",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/meta-lancia-muse-ember-il-modello-ai-low-cost-pensato-per-gli-agenti/",
-      "image": null,
-      "summary": "Il nuovo modello multimodale gestisce tool call, coding, routing ed elaborazione documentale con un contesto da un milione di token. Il prezzo parte da 0,10 dollari per milione di token in input. La strategia di Meta ...",
-      "date": "2026-11-10T16:06:02.0000000Z"
-    },
-    {
-      "id": "ai4business:94441c281eb4",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Frontoni (UniMc, Vrai Lab): “Spingere le aziende a creare intelligenza artificiale nell’AI agentica”",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/frontoni-unimc-vrai-lab-spingere-le-aziende-a-creare-intelligenza-artificiale-nellai-agentica/",
-      "image": null,
-      "summary": "Le imprese non devono limitarsi a essere utenti passive, ma devono diventare creatrici di intelligenza artificiale, nelle forme e soluzioni dell’AI agentica. Come indica Emanuele Frontoni, professore di Informatica al...",
-      "date": "2026-11-10T15:35:09.0000000Z"
     },
     {
       "id": "guerredirete:532aa34f4c9e",

@@ -1,7 +1,103 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-12T07:46:25.0557349Z",
+  "updated": "2026-11-12T16:20:20.9070705Z",
   "items": [
+    {
+      "id": "cybersecurity360:e5ddbc248c8b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Ransomware a Malvestiti, 50 password in un file di testo: il rischio che minaccia la filiera automotive",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/ransomware-a-malvestiti-50-password-in-un-file-di-testo-il-rischio-che-minaccia-la-filiera-automotive/",
+      "image": null,
+      "summary": "Il gruppo ransomware Aurora sostiene di aver sottratto a Malvestiti oltre 50 credenziali per i portali B2B dei clienti, ma la violazione non è confermata. Il caso riporta l'attenzione sulla sicurezza della supply chai...",
+      "date": "2026-11-12T15:25:52.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:00bc571079db",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber europea, il rapporto ENISA 2026 svela il paradosso: norme solide, difese ancora fragili",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/cyber-europea-il-rapporto-enisa-2026-svela-il-paradosso-norme-solide-difese-ancora-fragili/",
+      "image": null,
+      "summary": "L'EU Cybersecurity Index 2026 assegna all'Europa una maturità media di 71,53 punti su 100, ma il Rapporto ENISA evidenzia forti differenze tra Stati membri e ritardi nelle capacità operative. Tra NIS2, gestione delle ...",
+      "date": "2026-11-12T15:07:02.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:876dc5ec5518",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Ionos Plus per siti e web app con IA: 300 crediti mensili, 10 progetti e sconto a 9 euro per il primo mese",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/ionos-plus-siti-web-ia-300-crediti-promo-9-euro/",
+      "image": null,
+      "summary": "Il piano Ionos Plus per creare siti web e applicazioni con intelligenza artificiale costa 9 euro per il primo mese, anziché 50 euro. Include 300 crediti IA mensili, fino a 10 progetti, hosting, dominio e caselle email...",
+      "date": "2026-11-12T12:33:26.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:c19e9716415d",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "L’Italia riduce i fondi per la cybersecurity? Facciamo chiarezza",
+      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/litalia-riduce-i-fondi-cybersecurity-facciamo-chiarezza/",
+      "image": null,
+      "summary": "Il nuovo piano della Difesa riduce da 68,66 a 52,31 milioni la previsione per i quattro programmi cyber del 2027 rispetto al DPP precedente. Le risorse ordinarie dell’ACN, invece, aumentano. Tra fondi nazionali, inves...",
+      "date": "2026-11-12T12:15:39.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:dcb74e580e46",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Kernel Linux, l’AI scopre centinaia di falle: serve una soluzione più forte",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/kernel-linux-lai-scopre-centinaia-di-falle-serve-intervento-radicale-sul-codice/",
+      "image": null,
+      "summary": "Una ricerca Microsoft ha scoperto 59 bug del kernel Linux, con otto exploit root dimostrati in laboratorio. OpenAI ne ha individuati centinaia in un'altra scansione. L'AI può accelerare anche l'analisi delle patch per...",
+      "date": "2026-11-12T11:58:46.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:ee11e6385996",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "L’Agentic SOC di ZScaler: uno scudo protettivo per le minacce pilotate dall’AI",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/lagentic-soc-di-zscaler-uno-scudo-protettivo-per-le-minacce-pilotate-dallai/",
+      "image": null,
+      "summary": "La telemetria di Zscaler e gli agenti AI specializzati sono dedicati a rilevare, analizzare e contrastare le minacce in tempo reale, comprese quelle potenziate dall’intelligenza artificiale L'articolo L’Agentic SOC di...",
+      "date": "2026-11-12T11:00:43.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:77d59ce99234",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "PHP2Shell oltre i siti web: il runtime nascosto negli apparati alla prova del CRA",
+      "url": "https://www.cybersecurity360.it/legal/php2shell-oltre-i-siti-web-il-runtime-nascosto-negli-apparati-alla-prova-del-cra/",
+      "image": null,
+      "summary": "PHP2Shell conferma una dinamica già osservata con Heartbleed nel 2014 e con Log4Shell nel 2021, ma il contesto è cambiato. Ora la Ue dispone di un quadro normativo L'articolo PHP2Shell oltre i siti web: il runtime nas...",
+      "date": "2026-11-12T09:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:cfc08aa75b49",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Analisi multilivello delle vulnerabilità: quando gli LLM servono davvero e quando no",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/analisi-multilivello-delle-vulnerabilita-quando-gli-llm-servono-davvero-e-quando-no/",
+      "image": null,
+      "summary": "Nella ricerca di vulnerabilità, usare sempre gli LLM può far crescere i costi senza migliorare i risultati. La campagna OpenAI sul kernel Linux mostra che il 64% della spesa è assorbito dallo sviluppo degli exploit. E...",
+      "date": "2026-11-12T08:13:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:0d72be60edaf",
       "sourceId": "cybersecurity360",
@@ -25,102 +121,6 @@
       "image": null,
       "summary": "Gli attacchi ai sistemi di refrigerazione dei supermercati europei, arrivati anche in Italia, mostrano i rischi degli accessi remoti gestiti dai fornitori. Tra apparati OT esposti, sistemi obsoleti e obblighi NIS2, la...",
       "date": "2026-11-11T15:19:07.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a84e86ba47dc",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Servizio di archiviazione cloud protetta: 10 GB di spazio free con registrazione immediata e zero costi iniziali",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/archiviazione-cloud-protetta-10-gb-gratis-registrazione-online/",
-      "image": null,
-      "summary": "Con la registrazione è possibile ottenere fino a 10 GB di spazio cloud gratuito, senza inserire una carta di pagamento. La piattaforma offre anche abbonamenti mensili, annuali e piani Lifetime fino a 10 TB L'articolo ...",
-      "date": "2026-11-11T13:48:10.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:93d5ca796d3f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "AI Act, nuove regole per le sandbox: la sicurezza entra nella sperimentazione",
-      "url": "https://www.cybersecurity360.it/legal/ai-act-nuove-regole-per-le-sandbox-la-sicurezza-entra-nella-sperimentazione/",
-      "image": null,
-      "summary": "La Commissione europea fissa le regole comuni delle sandbox dell’AI Act: accesso, piani di prova, gestione degli incidenti e tutela dei dati. Il regolamento 2026/2487 entra in vigore il 1° dicembre 2026 e chiarisce il...",
-      "date": "2026-11-11T13:46:07.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:1b0d991e2356",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "L’attacco a Binance ha rivelato il punto debole della sicurezza: gli accessi privilegiati",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/lattacco-a-binance-ha-rivelato-il-punto-debole-della-sicurezza-gli-accessi-privilegiati/",
-      "image": null,
-      "summary": "Il più grave incidente di sicurezza del settore, che ha coinvolto l’élite degli hacker nord-coreani, ha causato a Binance una perdita economica di 6,3 miliardi di dollari, oltre al danno reputazionale. Ecco come sconf...",
-      "date": "2026-11-11T11:41:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:1a81ccc489c1",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Attacchi ransomware alle aziende italiane oggi (in aggiornamento)",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/attacchi-ransomware-aziende-italiane-oggi/",
-      "image": null,
-      "summary": "Grazie a una dashboard costantemente aggiornata è possibile monitorare l'andamento delle rivendicazioni ransomware che impattano sulle vittime italiane. Ecco tutti gli attacchi ransomware che hanno colpito il nostro P...",
-      "date": "2026-11-11T10:42:10.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:eb3b7c2d4eef",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "FNAC, 7 milioni di multa: il tracciamento per addestrare gli algoritmi non è una necessità tecnica",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/fnac-7-milioni-di-multa-il-tracciamento-per-addestrare-gli-algoritmi-non-e-una-necessita-tecnica/",
-      "image": null,
-      "summary": "La CNIL multa FNAC per 7 milioni di euro: l'app tracciava gli utenti anche dopo il rifiuto del consenso, utilizzando i dati per raccomandazioni commerciali e addestramento algoritmico. La decisione ribadisce che migli...",
-      "date": "2026-11-11T10:36:58.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:f294cb1ba6fc",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "BluePhishing, il nuovo attacco che sfrutta gli agenti AI per aggirare la fiducia in Microsoft Entra",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/bluephishing-il-nuovo-attacco-che-sfrutta-gli-agenti-ai-per-aggirare-la-fiducia-in-microsoft-entra/",
-      "image": null,
-      "summary": "Una sola autorizzazione può aprire la strada alla creazione di centinaia di identità di agenti AI in Microsoft Entra. La tecnica BluePhishing, scoperta da Proofpoint, sfrutta il consenso OAuth per introdurre identità ...",
-      "date": "2026-11-11T10:01:14.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d6a6efc84d10",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Microsoft, oltre mille vulnerabilità corrette e una zero-day Outlook già sfruttata",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/microsoft-oltre-mille-vulnerabilita-corrette-e-una-zero-day-outlook-gia-sfruttata/",
-      "image": null,
-      "summary": "Microsoft ha pubblicato il Patch Tuesday del 10 novembre 2026: circa 1.093 vulnerabilità corrette, 63 critiche. Una zero-day di Outlook già sfruttata permette di esporre hash NTLMv2 quando l’utente apre un file malevo...",
-      "date": "2026-11-11T09:00:20.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:277fecf8b716",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Le dimensioni non contano: gli hacker puntano alla catena di fornitura delle aziende",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/le-dimensioni-non-contano-gli-hacker-puntano-alla-catena-di-fornitura-delle-aziende/",
-      "image": null,
-      "summary": "Basta pensare alle dimensioni. Agli hacker non importano più la dimensione di un'azienda da attaccare, se, tramite quell'impresa, può accedere alla sua catena di fornitura. Ecco perché è anacronistica l'idea che la si...",
-      "date": "2026-11-11T08:00:00.0000000Z"
     }
   ]
 }
