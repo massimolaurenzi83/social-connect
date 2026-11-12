@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-11-12T00:42:53.7339459Z",
+  "updated": "2026-11-12T07:46:25.0806396Z",
   "items": [
+    {
+      "id": "motor1:9fc7e40c2b04",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Lamborghini Temerario: ancora più sound con lo scarico in titanio Akrapovič",
+      "url": "https://it.motor1.com/news/815202/lamborghini-temerario-scarico-akrapovic-dettagli/",
+      "image": "https://cdn.motor1.com/images/mgl/Rqbjz9/s3/scarico-akrapovic-per-la-lamborghini-temerario.jpg",
+      "summary": "Akrapovič e Lamborghini rimodellano lo scarico della Temerario Coupé con componenti in titanio, geometria rivista e nuovo isolamento",
+      "date": "2026-11-12T07:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:bc356552d6f8",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I miei conti sul prezzo del kWh: “truffa legalizzata” da 15 miliardi annui?",
+      "url": "https://www.vaielettrico.it/i-mie-conti-sul-prezzo-del-kwh-una-truffa-legalizzata-da-15-miliardi-allanno/",
+      "image": null,
+      "summary": "«Se il PUN fosse calibrato sugli effettivi costi di produzione dell’energia in italia il prezzo calerebbe del 30%… L'articolo I miei conti sul prezzo del kWh: “truffa legalizzata” da 15 miliardi annui? proviene da Vai...",
+      "date": "2026-11-12T06:07:55.0000000Z"
+    },
+    {
+      "id": "insideevs:9581e04f1019",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tesla prova i laser per pulire il parabrezza, per il Cybercab",
+      "url": "https://insideevs.it/news/815093/tesla-cybercab-laser-parabrezza/",
+      "image": "https://cdn.motor1.com/images/mgl/lE4PrO/s3/tesla-prova-i-laser-sul-parabrezza-da-usare-sul-cybercab.jpg",
+      "summary": "Nel brevetto aggiornato Tesla valuta un sistema laser per tenere libera l’area davanti alla telecamera del robotaxi Cybercab",
+      "date": "2026-11-12T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:b2bd35ce0fbb",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Stellantis batte Volkswagen e BYD: ecco chi vende più auto",
+      "url": "https://it.motor1.com/news/814883/stellantis-volkswagen-byd-vendite/",
+      "image": "https://cdn.motor1.com/images/mgl/7Z1V37/s3/stellantis-batte-volkswagen-e-byd-ecco-chi-vende-piu-auto.jpg",
+      "summary": "Nel primo semestre 2026 il Gruppo cresce dell'11%, mentre Volkswagen perde il 6% e BYD registra una pesante flessione del 16%",
+      "date": "2026-11-12T06:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:a686b22857f3",
       "sourceId": "vaielettrico",
@@ -147,18 +195,6 @@
       "date": "2026-11-11T16:00:06.0000000Z"
     },
     {
-      "id": "motor1:86d86969dd48",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nissan migliora i conti e prepara il nuovo piano 2027",
-      "url": "https://it.motor1.com/news/815153/nissan-risultati-primo-semestre-2026-piano-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZPPe9/s3/nissan-x-trail-n-trek-la-prova.jpg",
-      "summary": "Risultati in progresso per la Casa giapponese, che a febbraio 2027 presenterà il nuovo piano industriale",
-      "date": "2026-11-11T16:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:47074164663e",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -168,6 +204,18 @@
       "url": "https://insideevs.it/news/815087/lucid-cosmos-produzione-2027/",
       "image": "https://cdn.motor1.com/images/mgl/Oo9O3B/s3/lucid-cosmos.jpg",
       "summary": "La Lucid Cosmos potrebbe determinare il successo o il fallimento dell'azienda. La produzione dovrebbe iniziare nel 2027",
+      "date": "2026-11-11T16:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:86d86969dd48",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nissan migliora i conti e prepara il nuovo piano 2027",
+      "url": "https://it.motor1.com/news/815153/nissan-risultati-primo-semestre-2026-piano-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/1ZPPe9/s3/nissan-x-trail-n-trek-la-prova.jpg",
+      "summary": "Risultati in progresso per la Casa giapponese, che a febbraio 2027 presenterà il nuovo piano industriale",
       "date": "2026-11-11T16:00:00.0000000Z"
     },
     {
@@ -236,7 +284,7 @@
       "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Il blocco dei diesel Euro è ufficialmente rimandato",
+      "title": "Il blocco dei diesel Euro 5 è ufficialmente rimandato",
       "url": "https://it.motor1.com/news/815150/diesel-euro-5-stop-2027/",
       "image": "https://cdn.motor1.com/images/mgl/vx0zvq/s3/traffico-citta.jpg",
       "summary": "Ma di un anno: se ne riparla il 1° ottobre 2027 nelle Regioni del Bacino padano, con margini per ulteriori divieti locali anticipati",
@@ -339,30 +387,6 @@
       "date": "2026-11-11T10:10:00.0000000Z"
     },
     {
-      "id": "motor1:c3b41bae3d9c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La  nuova Corvette col cambio manuale esiste ed è davvero costosa",
-      "url": "https://it.motor1.com/news/815085/corvette-conversione-manuale-costo/",
-      "image": "https://cdn.motor1.com/images/mgl/9mWVKG/s3/chevrolet-corvette-c8-manual-by-peitz-performance-tune.jpg",
-      "summary": "Chevrolet non costruirà una Corvette C8 manuale, quindi lo fa un'azienda aftermarket americana. Potrebbe costare 70.000 dollari in più",
-      "date": "2026-11-11T10:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:650c5c0e85fd",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa Mercedes è introvabile e vale oltre 5 milioni di euro",
-      "url": "https://it.motor1.com/news/815016/mercedes-slr-mclaren-stirling-moss-asta/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZPg2K/s3/2010-mercedes-benz-slr-mclaren-stirling-moss.jpg",
-      "summary": "Appartenuta alla famiglia reale del Kuwait, ha percorso appena 53 km: RM Sotheby’s la valuta oltre sei milioni di dollari",
-      "date": "2026-11-11T09:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:4b129721aa87",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -447,18 +471,6 @@
       "date": "2026-11-10T19:23:54.0000000Z"
     },
     {
-      "id": "vaielettrico:d9a6d0f03600",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ionity chiude il test Shared Power. Arrivano le colonnine Huawei",
-      "url": "https://www.vaielettrico.it/ionity-chiude-il-test-shared-power/",
-      "image": null,
-      "summary": "Ionity chiude il test Shared Power in Norvegia. Dopo ripetuti malfunzionamenti, la rete ha deciso di interrompere il… L'articolo Ionity chiude il test Shared Power. Arrivano le colonnine Huawei proviene da Vaielettrico .",
-      "date": "2026-11-10T16:54:36.0000000Z"
-    },
-    {
       "id": "insideevs:28329dd59cfe",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/OoZqvo/s3/zf-high-revolution-drive.jpg",
       "summary": "Il nuovo motore di ZF utilizza metà del materiale magnetico di un sistema comparabile, con quasi il 25% in meno di peso e ingombro.",
       "date": "2026-11-10T08:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:e1d7e6d5a8cb",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questa batteria allo stato solido si carica al 70% in meno di 12'",
-      "url": "https://insideevs.it/news/814807/blue-solutions-stato-solido-gen4/",
-      "image": "https://cdn.motor1.com/images/mgl/P3VN6W/s3/batterie-gen4-di-blue-solutions.jpg",
-      "summary": "Blue Solutions presenta la tecnologia GEN4 al litio metallico: carica rapida, densità energetica superiore a 400 Wh/kg, quasi 900 cicli",
-      "date": "2026-11-10T06:00:00.0000000Z"
     }
   ]
 }

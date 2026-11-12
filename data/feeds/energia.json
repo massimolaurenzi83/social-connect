@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-11-12T00:42:53.7750375Z",
+  "updated": "2026-11-12T07:46:25.0574478Z",
   "items": [
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-11-12T05:30:00.0000000Z"
+    },
     {
       "id": "qualenergia:c0c902317bd7",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Fornitura di corpi illuminanti a led stradali con tecnologia di ultima generazione (lotto 1) e arredo urbano (lotto 2) nel comune di Cascina (PI). Importo complessivo: 194.100 € Scadenza: 9/12/2026 Bando (pdf) Bandi d...",
       "date": "2026-11-11T06:00:37.0000000Z"
-    },
-    {
-      "id": "qualenergia:1fa5bf448fac",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Progettazione esecutiva impianto fotovoltaico a Bussero (MI)",
-      "url": "https://www.qualenergia.it/pro/documenti/progettazione-esecutiva-impianto-fotovoltaico-a-bussero-mi/",
-      "image": null,
-      "summary": "Adeguamento della progettazione esecutiva di un impianto fotovoltaico presso l’immobile denominato Palamartesana in piazza Cento Passi a Bussero (MI) e contestuale incarico di direzione lavori e coordinamento della si...",
-      "date": "2026-11-11T06:00:25.0000000Z"
     }
   ]
 }
