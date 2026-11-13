@@ -1,7 +1,91 @@
 {
   "category": "energia",
-  "updated": "2026-11-13T02:43:42.6070392Z",
+  "updated": "2026-11-13T10:04:29.6240728Z",
   "items": [
+    {
+      "id": "qualenergia:4b4c45ca2cc1",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Trasporto pubblico: affidabilità e informazione per ridurre la dipendenza dall’auto",
+      "url": "https://www.qualenergia.it/articoli/trasporto-pubblico-affidabilita-informazione-ridurre-dipendenza-auto/",
+      "image": null,
+      "summary": "In Italia la mobilità continua a dipendere fortemente dall’automobile, che è ancora il mezzo più utilizzato anche per gli spostamenti quotidiani. Ridurre questa dipendenza richiede politiche capaci di intervenire su p...",
+      "date": "2026-11-13T09:00:13.0000000Z"
+    },
+    {
+      "id": "qualenergia:be824adcd55e",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Batterie, i due nuovi stabilimenti a Termoli e il punto sulla filiera italiana",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/batterie-due-nuovi-stabilimenti-a-termoli-punto-filiera-italiana/",
+      "image": null,
+      "summary": "Oltre 200 milioni di euro per realizzare due stabilimenti a Termoli dedicati alle batterie al litio-ferro-fosfato (LFP) e ai sistemi di accumulo. Questo l’investimento annunciato l’11 novembre dal Mimit per il progett...",
+      "date": "2026-11-13T08:45:33.0000000Z"
+    },
+    {
+      "id": "qualenergia:a5c8cebfe424",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Accumuli in Europa, cosa spinge il mercato e quali ostacoli frenano gli investimenti",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/accumuli-europa-cosa-spinge-mercato-ostacoli-frenano-investimenti/",
+      "image": null,
+      "summary": "La diffusione dei sistemi di accumulo nell’Unione europea sta accelerando, sostenuta dalla crescente penetrazione delle rinnovabili, dalla riduzione dei costi delle batterie e dalle nuove opportunità di remunerazione ...",
+      "date": "2026-11-13T08:00:17.0000000Z"
+    },
+    {
+      "id": "qualenergia:73496aa59fb2",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Unified framework for the assessment of rooftop solar PV electricity generation potential in EU-27",
+      "url": "https://www.qualenergia.it/pro/documenti/unified-framework-for-the-assessment-of-rooftop-solar-pv-electricity-generation-potential-in-eu-27/",
+      "image": null,
+      "summary": "Lo studio stima il potenziale fotovoltaico delle coperture nelle 27 capitali dell’Unione europea, combinando dati urbanistici, serie climatiche 2008-2023 e simulazioni PVGIS. L’analisi considera separatamente gli effe...",
+      "date": "2026-11-13T06:00:32.0000000Z"
+    },
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-11-13T05:30:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-11-13T05:00:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:92dee9feb9f7",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI – Abbonati a QualEnergia.it PRO",
+      "url": "https://www.qualenergia.it/pro/documenti/bandi-e-appalti-promo/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-11-12T23:30:35.0000000Z"
+    },
     {
       "id": "qualenergia:a51cba6dfacc",
       "sourceId": "qualenergia",
@@ -61,90 +145,6 @@
       "image": null,
       "summary": "Nei centri dati, i sistemi di accumulo a batteria (Battery Energy Storage Systems o BESS) possono attenuare le brusche oscillazioni di potenza prodotte dalle operazioni di calcolo dell’intelligenza artificiale, raffor...",
       "date": "2026-11-12T10:30:45.0000000Z"
-    },
-    {
-      "id": "qualenergia:90135f90e1af",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Nuove regole operative per il Fer X definitivo",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/nuove-regole-operative-fer-x-definitivo/",
-      "image": null,
-      "summary": "Entrerà in vigore da domani, 13 novembre, l’aggiornamento delle regole operative per il Fer X definitivo, approvato dal ministero dell’Ambiente e della Sicurezza energetica con decreto n. 119 dell’11 novembre 2026. Il...",
-      "date": "2026-11-12T10:15:39.0000000Z"
-    },
-    {
-      "id": "qualenergia:b09c06675b6a",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Media impresa, grandi consumi energetici. Il potenziale della “IF26 SME Call”",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/media-impresa-grandi-consumi-energetici-potenziale-if26-sme-call/",
-      "image": null,
-      "summary": "La media impresa manifatturiera italiana affronta la transizione energetica con i consumi di una grande azienda e la struttura di una PMI. Paga l’energia più cara d’Europa, ha meno strumenti per coprirsi dalle fluttua...",
-      "date": "2026-11-12T09:30:28.0000000Z"
-    },
-    {
-      "id": "qualenergia:4f102c107ab2",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Cop 31, primi impegni su geotermia, elettrificazione e finanza climatica",
-      "url": "https://www.qualenergia.it/articoli/cop-31-primi-impegni-geotermia-elettrificazione-finanza-climatica/",
-      "image": null,
-      "summary": "“I combustibili fossili devono fare la stessa fine dei dinosauri”, ha dichiarato il segretario generale delle Nazioni Unite, António Guterres, nel suo discorso di ieri (11 novembre) al Leaders’ Summit della Cop 31, ri...",
-      "date": "2026-11-12T08:45:02.0000000Z"
-    },
-    {
-      "id": "qualenergia:85664fa14c34",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Azienda zootecnica ottimizza la produzione solare con un BESS Energy",
-      "url": "https://www.qualenergia.it/articoli/azienda-zootecnica-ottimizza-produzione-solare-con-bess-energy/",
-      "image": null,
-      "summary": "Ridurre i costi dell’energia, valorizzare la produzione fotovoltaica e garantire una maggiore indipendenza dalla rete elettrica, sono gli obiettivi che hanno spinto l’Azienda Agricola Fantuzzi, realtà della pianura em...",
-      "date": "2026-11-12T08:15:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:0f06f6ec9e8e",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Agrivoltaico: contratti e gestione agricola alla prova delle banche",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/agrivoltaico-contratti-gestione-agricola-prova-banche/",
-      "image": null,
-      "summary": "In un progetto agrivoltaico il proprietario del terreno si era riservato il diritto di coltivarlo, rendendo difficile affidare le lavorazioni a un altro agricoltore qualora avesse interrotto l’attività. In un altro, d...",
-      "date": "2026-11-12T08:00:36.0000000Z"
-    },
-    {
-      "id": "qualenergia:1eda127d5d9c",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "In Umbria contributi alle aziende agricole anche per fotovoltaico e agrivoltaico",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/umbria-contributi-aziende-agricole-fotovoltaico-agrivoltaico/",
-      "image": null,
-      "summary": "La Regione Umbria eroga incentivi per sostenere gli investimenti delle imprese agricole e migliorarne la competitività, finanziando anche la realizzazione di impianti fotovoltaici e agrivoltaici. Il bando (allegato in...",
-      "date": "2026-11-12T07:55:22.0000000Z"
-    },
-    {
-      "id": "qualenergia:50d40d648ab7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Bandi e appalti del giorno (4)",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
-      "image": null,
-      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
-      "date": "2026-11-12T07:30:17.0000000Z"
     }
   ]
 }

@@ -1,7 +1,79 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-13T02:43:42.5970161Z",
+  "updated": "2026-11-13T10:04:29.6226170Z",
   "items": [
+    {
+      "id": "cybersecurity360:56376f50c719",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Offerta Black Friday Proton VPN: sconto del 75% sul piano biennale Plus con audit no-log pubblico",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/offerta-black-friday-proton-vpn-sconto-75-percento-piano-plus/",
+      "image": null,
+      "summary": "Proton VPN propone il piano Plus biennale a 2,49 euro al mese, con uno sconto del 75%. L'abbonamento costa 59,76 euro per 24 mesi e include protezione per 10 dispositivi, server in oltre 140 Paesi e blocco di annunci ...",
+      "date": "2026-11-13T08:56:09.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:a6204121dd1c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Dalla catena del freddo alle infrastrutture critiche: come il NIST blinda il mondo fisico",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/dalla-catena-del-freddo-alle-infrastrutture-critiche-come-il-nist-blinda-il-mondo-fisico/",
+      "image": null,
+      "summary": "In questo scenario di massima allerta, la tempistica dell' Initial Public Draft del NIST Special Publication (SP) 800-82r4 è quanto mai provvidenziale. Il documento, intitolato \"Guide to Operational Technology (OT) Se...",
+      "date": "2026-11-13T08:30:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:de2543cdb138",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il fronte esterno passa da Dublino: perché l’enforcement del GDPR guarda alla carta geografica",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/il-fronte-esterno-passa-da-dublino-perche-lenforcement-del-gdpr-guarda-alla-carta-geografica/",
+      "image": null,
+      "summary": "Dopo otto anni di enforcement sul GDPR, sta emergendo una nuova geografia: le autorità nazionali tengono il fronte interno, mentre quello esterno passa per lo sportello unico e per Bruxelles. Ecco la sfida del secondo...",
+      "date": "2026-11-13T08:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:f83dd6034fa4",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Frigoriferi hackerati, Italia prima in Europa per esposizione. “Il display può mentire”",
+      "url": "https://www.cybersecurity360.it/outlook/frigoriferi-hackerati-italia-prima-in-europa-per-esposizione-il-display-puo-mentire/",
+      "image": null,
+      "summary": "Censys conta in Italia 366 sistemi xweb di Copeland e Dixell raggiungibili dalla Rete, più che in qualunque altro Paese Ue. Per Cataldo Basile, del Politecnico di Torino, la lezione degli attacchi va oltre l'attribuzi...",
+      "date": "2026-11-13T07:33:09.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:42fd63c41768",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Gestione del rischio ICT in DORA: cosa significa davvero",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/gestione-del-rischio-ict-in-dora-cosa-significa-davvero/",
+      "image": null,
+      "summary": "La gestione del rischio ICT è il primo pilastro di DORA e richiede molto più di controlli di cybersecurity. Dalla mappatura dei sistemi critici alla valutazione dei fornitori, fino alla Business Impact Analysis, ecco ...",
+      "date": "2026-11-12T17:13:33.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:e5ddbc248c8b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Ransomware a Malvestiti, 50 password in un file di testo: il rischio che minaccia la filiera automotive",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/ransomware-a-malvestiti-50-password-in-un-file-di-testo-il-rischio-che-minaccia-la-filiera-automotive/",
+      "image": null,
+      "summary": "Il gruppo ransomware Aurora sostiene di aver sottratto a Malvestiti oltre 50 credenziali per i portali B2B dei clienti, ma la violazione non è confermata. Il caso riporta l'attenzione sulla sicurezza della supply chai...",
+      "date": "2026-11-12T15:25:52.0000000Z"
+    },
     {
       "id": "cybersecurity360:00bc571079db",
       "sourceId": "cybersecurity360",
@@ -49,78 +121,6 @@
       "image": null,
       "summary": "Una ricerca Microsoft ha scoperto 59 bug del kernel Linux, con otto exploit root dimostrati in laboratorio. OpenAI ne ha individuati centinaia in un'altra scansione. L'AI può accelerare anche l'analisi delle patch per...",
       "date": "2026-11-12T11:58:46.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ee11e6385996",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "L’Agentic SOC di ZScaler: uno scudo protettivo per le minacce pilotate dall’AI",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/lagentic-soc-di-zscaler-uno-scudo-protettivo-per-le-minacce-pilotate-dallai/",
-      "image": null,
-      "summary": "La telemetria di Zscaler e gli agenti AI specializzati sono dedicati a rilevare, analizzare e contrastare le minacce in tempo reale, comprese quelle potenziate dall’intelligenza artificiale L'articolo L’Agentic SOC di...",
-      "date": "2026-11-12T11:00:43.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:77d59ce99234",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "PHP2Shell oltre i siti web: il runtime nascosto negli apparati alla prova del CRA",
-      "url": "https://www.cybersecurity360.it/legal/php2shell-oltre-i-siti-web-il-runtime-nascosto-negli-apparati-alla-prova-del-cra/",
-      "image": null,
-      "summary": "PHP2Shell conferma una dinamica già osservata con Heartbleed nel 2014 e con Log4Shell nel 2021, ma il contesto è cambiato. Ora la Ue dispone di un quadro normativo L'articolo PHP2Shell oltre i siti web: il runtime nas...",
-      "date": "2026-11-12T09:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:cfc08aa75b49",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Analisi multilivello delle vulnerabilità: quando gli LLM servono davvero e quando no",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/analisi-multilivello-delle-vulnerabilita-quando-gli-llm-servono-davvero-e-quando-no/",
-      "image": null,
-      "summary": "Nella ricerca di vulnerabilità, usare sempre gli LLM può far crescere i costi senza migliorare i risultati. La campagna OpenAI sul kernel Linux mostra che il 64% della spesa è assorbito dallo sviluppo degli exploit. E...",
-      "date": "2026-11-12T08:13:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:0d72be60edaf",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Seimila scuole coinvolte dai falsi allarmi bomba: come proteggersi dalla strategia del terrore",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/seimila-scuole-coinvolte-dai-falsi-allarmi-bomba-come-proteggersi-dalla-strategia-del-terrore/",
-      "image": null,
-      "summary": "Anche se non sappiamo ancora chi ci sia dietro questi allarmi e il nominativo del sedicente Mikhail Andropov , l'obiettivo potrebbe essere quello di instillare paura e insicurezza nella popolazione, secondo una logica...",
-      "date": "2026-11-11T16:59:24.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:8484b9c200f6",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Attacchi cyber ai supermercati: il frigo è in outsourcing, la responsabilità no",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/attacchi-cyber-ai-supermercati-il-frigo-e-in-outsourcing-la-responsabilita-no/",
-      "image": null,
-      "summary": "Gli attacchi ai sistemi di refrigerazione dei supermercati europei, arrivati anche in Italia, mostrano i rischi degli accessi remoti gestiti dai fornitori. Tra apparati OT esposti, sistemi obsoleti e obblighi NIS2, la...",
-      "date": "2026-11-11T15:19:07.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a84e86ba47dc",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Servizio di archiviazione cloud protetta: 10 GB di spazio free con registrazione immediata e zero costi iniziali",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/archiviazione-cloud-protetta-10-gb-gratis-registrazione-online/",
-      "image": null,
-      "summary": "Con la registrazione è possibile ottenere fino a 10 GB di spazio cloud gratuito, senza inserire una carta di pagamento. La piattaforma offre anche abbonamenti mensili, annuali e piani Lifetime fino a 10 TB L'articolo ...",
-      "date": "2026-11-11T13:48:10.0000000Z"
     }
   ]
 }
