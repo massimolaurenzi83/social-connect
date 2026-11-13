@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-13T17:41:57.3493932Z",
+  "updated": "2026-11-13T22:55:03.4526307Z",
   "items": [
+    {
+      "id": "cybersecurity360:f9c184ec7163",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il manuale cyber dell’Iran: la scelta dei target per seminare caos nel mondo reale",
+      "url": "https://www.cybersecurity360.it/news/il-manuale-cyber-delliran-la-scelta-dei-target-per-seminare-caos-nel-mondo-reale/",
+      "image": null,
+      "summary": "Teheran intensifica i propri sforzi per causare danni nel mondo reale con attacchi contro petroliere e navi frigorifere poco protette. Ecco perché preoccupa gli esperti il salto di qualità degli attacchi cyber dell'Ir...",
+      "date": "2026-11-13T16:53:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:3a58be4984ba",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "La gestione del rischio ICT è il primo pilastro di DORA e richiede molto più di controlli di cybersecurity. Dalla mappatura dei sistemi critici alla valutazione dei fornitori, fino alla Business Impact Analysis, ecco ...",
       "date": "2026-11-12T17:13:33.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:e5ddbc248c8b",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Ransomware a Malvestiti, 50 password in un file di testo: il rischio che minaccia la filiera automotive",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/ransomware-a-malvestiti-50-password-in-un-file-di-testo-il-rischio-che-minaccia-la-filiera-automotive/",
-      "image": null,
-      "summary": "Il gruppo ransomware Aurora sostiene di aver sottratto a Malvestiti oltre 50 credenziali per i portali B2B dei clienti, ma la violazione non è confermata. Il caso riporta l'attenzione sulla sicurezza della supply chai...",
-      "date": "2026-11-12T15:25:52.0000000Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "category": "cucina",
-  "updated": "2026-11-13T17:41:57.3856371Z",
+  "updated": "2026-11-13T22:55:03.4268988Z",
   "items": [
     {
       "id": "dissapore:d95067002041",
@@ -13,6 +13,18 @@
       "image": null,
       "summary": "Le materie prime in aumento, le marginalità ridotte ma anche un mercato di acquirenti sempre più in espansione stanno cambiando le carte in tavola. L'articolo Il mondo dei lievitisti del panettone sta cambiando per so...",
       "date": "2026-11-13T16:22:59.0000000Z"
+    },
+    {
+      "id": "giallozafferano:5fc09c6071f3",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Zucca e patate in padella",
+      "url": "https://ricette.giallozafferano.it/Zucca-e-patate-in-padella.html",
+      "image": "https://www.giallozafferano.it/images/368-36851/Zucca-e-patate-in-padella_1200x800.jpg",
+      "summary": "La zucca e patate in padella è un contorno autunnale semplice e saporito, perfetto per accompagnare secondi piatti di carne o di pesce. Una ricetta genuina che unisce la dolcezza della zucca al gusto delicato delle pa...",
+      "date": "2026-11-13T15:54:00.0000000Z"
     },
     {
       "id": "giallozafferano:7845ef6b618b",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/368-36834/Pastina-ai-funghi_1200x800.jpg",
       "summary": "La pastina ai funghi è un primo piatto semplice e cremoso, ideale per le giornate più fredde. Per prepararla abbiamo scelto i risoni, un formato di pasta caratterizzato da una forma piccola e allungata, proprio come u...",
       "date": "2026-11-10T09:28:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:3c2becff2b56",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Pollo laccato all'arancia con verdure",
-      "url": "https://ricette.giallozafferano.it/Pollo-laccato-all-arancia-con-verdure.html",
-      "image": "https://www.giallozafferano.it/images/368-36837/Pollo-laccato-all-arancia-con-verdure_1200x800.jpg",
-      "summary": "Il pollo laccato all’arancia con verdure è una deliziosa alternativa al classico pollo arrosto con patate! La particolarità di questo secondo piatto al forno è la marinatura a base di succo d’arancia, miele, salsa di ...",
-      "date": "2026-11-09T14:55:00.0000000Z"
     }
   ]
 }
