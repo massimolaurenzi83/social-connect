@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-11-13T22:55:03.4346664Z",
+  "updated": "2026-11-14T02:55:19.5222206Z",
   "items": [
+    {
+      "id": "motor1:dae74d436314",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Jeep Avenger (2026), perché comprarla e perché no",
+      "url": "https://it.motor1.com/reviews/814515/jeep-avenger-2026-recensione-prova-video/",
+      "image": "https://cdn.motor1.com/images/mgl/W8bgqo/s3/jeep-avenger-2026-perche-comprarla-e-perche-no.jpg",
+      "summary": "Jeep Avenger 4xe 2026: 145 CV, 21 cm da terra, Selec-Terrain e multilink; più Jeep, ma il bagagliaio scende a 325 litri",
+      "date": "2026-11-14T00:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:f809e0421d07",
       "sourceId": "vaielettrico",
@@ -183,18 +195,6 @@
       "date": "2026-11-13T15:00:46.0000000Z"
     },
     {
-      "id": "insideevs:56a45fcad032",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ricarica elettrica in casa, con Octopus Go la notte costa meno di un terzo",
-      "url": "https://insideevs.it/news/815385/octopus-energy-ricarica-auto-convenienza/",
-      "image": "https://cdn.motor1.com/images/mgl/E6X43o/s3/octopus-go---octopus-energy.jpg",
-      "summary": "Di notte il prezzo scende a 0,11 euro al kWh, molto meno della Maggior Tutela",
-      "date": "2026-11-13T15:00:00.0000000Z"
-    },
-    {
       "id": "motor1:2aa13bb1aeae",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -204,6 +204,18 @@
       "url": "https://it.motor1.com/news/815372/red-bull-ultimate-winter-race/",
       "image": "https://cdn.motor1.com/images/mgl/BX1pN6/s3/pedrosa-in-moto-batte-la-red-bull-rb8-e-la-motoslitta-sul-lago-ghiacciato.jpg",
       "summary": "Dani Pedrosa porta la moto da MotoGP davanti alla RB8, alla motoslitta e agli specialisti off-road sui laghi ghiacciati di Eagle River",
+      "date": "2026-11-13T15:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:56a45fcad032",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ricarica elettrica in casa, con Octopus Go la notte costa meno di un terzo",
+      "url": "https://insideevs.it/news/815385/octopus-energy-ricarica-auto-convenienza/",
+      "image": "https://cdn.motor1.com/images/mgl/E6X43o/s3/octopus-go---octopus-energy.jpg",
+      "summary": "Di notte il prezzo scende a 0,11 euro al kWh, molto meno della Maggior Tutela",
       "date": "2026-11-13T15:00:00.0000000Z"
     },
     {
@@ -336,18 +348,6 @@
       "url": "https://insideevs.it/news/813780/tesla-model-y-motori-batterie/",
       "image": "https://cdn.motor1.com/images/mgl/8A0jv3/s3/tesla-model-y-performance.jpg",
       "summary": "Trazione posteriore o integrale, fino a 622 km di autonomia e una Performance da 460 CV: ecco la gamma della Tesla Model Y",
-      "date": "2026-11-13T12:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:2429355ca72e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Mazda 2027, tutte le novità in arrivo",
-      "url": "https://it.motor1.com/news/815236/mazda-2027-novita-modelli/",
-      "image": "https://cdn.motor1.com/images/mgl/Mk6nrw/s3/novita-mazda-2027.jpg",
-      "summary": "La CX-5 pronta a diventare full hybrid mentre a inizio anno la 6e 2027 arriverà nelle concessionarie. Nessuna notizia sulla nuova Mazda2",
       "date": "2026-11-13T12:00:00.0000000Z"
     },
     {
