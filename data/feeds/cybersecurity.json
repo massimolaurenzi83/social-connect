@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-14T09:51:27.2432220Z",
+  "updated": "2026-11-14T16:13:38.7816765Z",
   "items": [
+    {
+      "id": "cybersecurity360:99f171d1f648",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Microsoft down, il vero problema non è il cloud: è chi ha deciso di dipenderne",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/microsoft-down-il-vero-problema-non-e-il-cloud-e-chi-ha-deciso-di-dipenderne/",
+      "image": null,
+      "summary": "I disservizi Microsoft riportano al centro il rischio di concentrazione tecnologica: tante scelte IT, singolarmente corrette, possono creare dipendenze critiche per il business. La NIS2 richiama le responsabilità del ...",
+      "date": "2026-11-14T12:07:03.0000000Z"
+    },
     {
       "id": "cybersecurity360:d92b2176079a",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Dopo otto anni di enforcement sul GDPR, sta emergendo una nuova geografia: le autorità nazionali tengono il fronte interno, mentre quello esterno passa per lo sportello unico e per Bruxelles. Ecco la sfida del secondo...",
       "date": "2026-11-13T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:f83dd6034fa4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Frigoriferi hackerati, Italia prima in Europa per esposizione. “Il display può mentire”",
-      "url": "https://www.cybersecurity360.it/outlook/frigoriferi-hackerati-italia-prima-in-europa-per-esposizione-il-display-puo-mentire/",
-      "image": null,
-      "summary": "Censys conta in Italia 366 sistemi xweb di Copeland e Dixell raggiungibili dalla Rete, più che in qualunque altro Paese Ue. Per Cataldo Basile, del Politecnico di Torino, la lezione degli attacchi va oltre l'attribuzi...",
-      "date": "2026-11-13T07:33:09.0000000Z"
     }
   ]
 }

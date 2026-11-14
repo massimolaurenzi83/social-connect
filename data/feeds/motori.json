@@ -1,7 +1,67 @@
 {
   "category": "motori",
-  "updated": "2026-11-14T09:51:27.2734851Z",
+  "updated": "2026-11-14T16:13:38.7745798Z",
   "items": [
+    {
+      "id": "motor1:3e3e72842d54",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa hypercar da 800 CV punta tutto sul piacere di guida",
+      "url": "https://it.motor1.com/news/815434/sanrivatti-one-supercar/",
+      "image": "https://cdn.motor1.com/images/mgl/ko8eWx/s3/sanrivatti-one-2027.jpg",
+      "summary": "Un V10 aspirato da 5,5 litri, 800 CV e appena 1.100 kg per l'hypercar olandese ancora in fase di sviluppo",
+      "date": "2026-11-14T16:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:7d0270538004",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Renault Clio, tutti i prezzi e gli allestimenti",
+      "url": "https://it.motor1.com/news/813819/renault-clio-prezzi-allestimenti/",
+      "image": "https://cdn.motor1.com/images/mgl/Zn1xVN/s3/renault-clio-2026-la-prova-su-strada.jpg",
+      "summary": "Benzina, GPL con cambio automatico e full hybrid da 160 CV: la Clio propone tre allestimenti e prezzi da 18.900 euro",
+      "date": "2026-11-14T14:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:ac63229899f7",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nissan Qashqai compie 20 anni: il crossover che ha cambiato le abitudini degli europei",
+      "url": "https://www.hdmotori.it/nissan-qashqai-compie-20-anni/",
+      "image": null,
+      "summary": "Nissan Qashqai festeggia vent'anni: oltre 4,1 milioni di vendite europee, successo in Italia e nuova tecnologia e-POWER. Arriva anche una livrea speciale The post Nissan Qashqai compie 20 anni: il crossover che ha cam...",
+      "date": "2026-11-14T12:00:11.0000000Z"
+    },
+    {
+      "id": "hdmotori:21ecdc1d1fad",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Citroën 2 CV 007, 45 anni fa la piccola francese diventava l’auto di James Bond",
+      "url": "https://www.hdmotori.it/citroen-2-cv-007-45-anni/",
+      "image": null,
+      "summary": "La Citroën 2 CV 007 compie 45 anni: dalla spettacolare fuga di Roger Moore nel film Solo per i tuoi occhi alla rarissima serie speciale del 1981 The post Citroën 2 CV 007, 45 anni fa la piccola francese diventava l’au...",
+      "date": "2026-11-14T11:00:54.0000000Z"
+    },
+    {
+      "id": "hdmotori:59dccc69c49b",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "KTM fa sul serio sulle dune, svelato l’X-Bow Arrow da 330 CV",
+      "url": "https://www.hdmotori.it/ktm-x-bow-arrow-330-cv/",
+      "image": null,
+      "summary": "Il nuovo buggy della Casa di Mattighofen, KTM, vanta un look modernissimo e il potente motore dell'Audi S3 The post KTM fa sul serio sulle dune, svelato l’X-Bow Arrow da 330 CV appeared first on HDmotori.it .",
+      "date": "2026-11-14T10:00:06.0000000Z"
+    },
     {
       "id": "hdmotori:131d0061aa4d",
       "sourceId": "hdmotori",
@@ -60,6 +120,18 @@
       "url": "https://it.motor1.com/news/813782/lamborghini-diablo-se30-storia/",
       "image": "https://cdn.motor1.com/images/mgl/xqOYmy/s3/lamborghini-diablo-se30-1994.jpg",
       "summary": "Bianca con interni blu, questa Diablo SE30 è appartenuta alla famiglia reale del Brunei. E vale tantissimo",
+      "date": "2026-11-14T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:c69fa2575b5d",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questa potrebbe essere la nuova ammiraglia per l'Europa di Jaecoo",
+      "url": "https://insideevs.it/news/815367/fulwin-t11-chery-jaecoo-europa/",
+      "image": "https://cdn.motor1.com/images/mgl/Mk60vE/s3/chery-fulwin-t11.jpg",
+      "summary": "Si chiama Chery Fulwin T11, è un SUV lungo 5,2 metri con abitacolo sei posti. In Cina è in vendita a 25.700 euro",
       "date": "2026-11-14T06:00:00.0000000Z"
     },
     {
@@ -207,18 +279,6 @@
       "date": "2026-11-13T16:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:3e7106bc2415",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Nuova Audi A4, l’avanguardia elettrica che sfida le berline di fascia alta",
-      "url": "https://www.hdmotori.it/nuova-audi-a4-rivoluzione-elettrica/",
-      "image": null,
-      "summary": "La Casa dei Quattro Anelli è intenzionata a sviluppare la prossima gen di A4 su un'architettura utilizzabile in diversi segmenti The post Nuova Audi A4, l’avanguardia elettrica che sfida le berline di fascia alta appe...",
-      "date": "2026-11-13T15:30:33.0000000Z"
-    },
-    {
       "id": "motor1:2c7ca9d5dee9",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -241,18 +301,6 @@
       "image": null,
       "summary": "Meno guadagni per Enel dalla vendita di energia in Italia. Il dato è contenuto nel bilancio dei primi… L'articolo Meno guadagni per Enel dalla vendita di energia in Italia proviene da Vaielettrico .",
       "date": "2026-11-13T15:23:47.0000000Z"
-    },
-    {
-      "id": "hdmotori:175a846bf8b1",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Citroën taglia il prezzo della ë-C3: in Francia è “guerra” tra le elettriche low cost",
-      "url": "https://www.hdmotori.it/citroen-e-c3-taglio-prezzo-francia-sfida-renault-twingo/",
-      "image": null,
-      "summary": "Listino in calo per la Citroën ë-C3 in Francia: il ribasso di 1.200 euro la porta sotto i 19.200 euro, ma nel confronto con Renault Twingo e Dacia Spring restano dei nodi The post Citroën taglia il prezzo della ë-C3: ...",
-      "date": "2026-11-13T15:00:46.0000000Z"
     },
     {
       "id": "motor1:2aa13bb1aeae",
@@ -303,30 +351,6 @@
       "date": "2026-11-13T14:30:00.0000000Z"
     },
     {
-      "id": "motor1:a57e83b451ed",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Questo algoritmo prevede dove avverrà il prossimo incidente stradale",
-      "url": "https://it.motor1.com/news/815420/roadsafeai-20-politecnico-milano-sicurezza/",
-      "image": "https://cdn.motor1.com/images/mgl/0epvOV/s3/questo-algoritmo-prevede-dove-avverra-il-prossimo-incidente-stradale.jpg",
-      "summary": "A Napoli il sistema ha previsto le frenate brusche con un margine di errore del 5-6%",
-      "date": "2026-11-13T14:19:22.0000000Z"
-    },
-    {
-      "id": "hdmotori:d90a93449fc4",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Stellantis vende l’impianto di Brampton e apre alla difesa: polemiche in Canada",
-      "url": "https://www.hdmotori.it/stellantis-vende-limpianto-di-brampton/",
-      "image": null,
-      "summary": "Il primo ministro canadese Mark Carney ha puntato nuovamente il dito contro Stellantis per non aver rispettato i patti. The post Stellantis vende l’impianto di Brampton e apre alla difesa: polemiche in Canada appeared...",
-      "date": "2026-11-13T14:00:52.0000000Z"
-    },
-    {
       "id": "insideevs:da34fa0558ad",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -336,18 +360,6 @@
       "url": "https://insideevs.it/news/815412/spacex-campus-arizona-50-miliardi/",
       "image": "https://cdn.motor1.com/images/mgl/6yBml/s3/spacex-mr.-tesla-to-conquer-the-infinity.jpg",
       "summary": "Un impianto da 302 ettari vicino al Messico: SpaceX punta a costruire un gigante del supercalcolo",
-      "date": "2026-11-13T14:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:40bb8eb679ce",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "I prezzi del nuovo SUV di Geely",
-      "url": "https://it.motor1.com/news/815388/geely-monjaro-emi-prezzo-allestimentii/",
-      "image": "https://cdn.motor1.com/images/mgl/BX11O6/s3/geely-monjaro-em-i.jpg",
-      "summary": "La Geely Monjaro EM-i arriva in Italia con due allestimenti plug-in hybrid, autonomia fino a 922 km e ricarica rapida DC",
       "date": "2026-11-13T14:00:00.0000000Z"
     },
     {
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/ko8L3N/s3/batterie-al-litio-il-sensore-che-fiuta-il-rischio-incendio-con-minuti-di-anticipo.jpg",
       "summary": "Lo studio su celle LFP descrive un sensore capacitivo che reagisce ai vapori di elettrolita con anticipo rispetto a valvola e fiamme",
       "date": "2026-11-12T16:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:0319e27e1d06",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla Roadster, il 2028 resta un miraggio più che una data di uscita",
-      "url": "https://insideevs.it/news/815241/tesla-roadster-data-uscita/",
-      "image": "https://cdn.motor1.com/images/mgl/Vzbxbz/s3/tesla-roadster.jpg",
-      "summary": "Il 2028 resta l'unico riferimento dichiarato da Tesla, ma senza prezzo, consegne e calendario ufficiale la data può ancora slittare",
-      "date": "2026-11-12T14:30:00.0000000Z"
     },
     {
       "id": "vaielettrico:1f9b9adf818d",
