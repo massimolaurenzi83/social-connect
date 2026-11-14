@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-11-14T02:55:19.5444050Z",
+  "updated": "2026-11-14T09:51:27.3046744Z",
   "items": [
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-11-14T05:30:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-11-14T05:00:00.0000000Z"
+    },
     {
       "id": "qualenergia:cb169a0c16b7",
       "sourceId": "qualenergia",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "La diffusione dei sistemi di accumulo nell’Unione europea sta accelerando, sostenuta dalla crescente penetrazione delle rinnovabili, dalla riduzione dei costi delle batterie e dalle nuove opportunità di remunerazione ...",
       "date": "2026-11-13T08:00:17.0000000Z"
-    },
-    {
-      "id": "qualenergia:0ecd13979ffa",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Horizon Europe: nuovi bandi per decarbonizzare i trasporti",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/horizon-europe-nuovi-bandi-decarbonizzare-trasporti/",
-      "image": null,
-      "summary": "Sono 131 milioni di euro le risorse messe a disposizione da Horizon Europe con la call HORIZON-CL5-2027-03, che sostiene progetti di ricerca e innovazione per accelerare la transizione verso sistemi di trasporto più e...",
-      "date": "2026-11-13T07:55:08.0000000Z"
-    },
-    {
-      "id": "qualenergia:50d40d648ab7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Bandi e appalti del giorno (4)",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
-      "image": null,
-      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
-      "date": "2026-11-13T07:30:17.0000000Z"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-14T02:55:19.5490855Z",
+  "updated": "2026-11-14T09:51:27.2432220Z",
   "items": [
+    {
+      "id": "cybersecurity360:d92b2176079a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Disservizi Microsoft, l’ACN chiarisce gli obblighi NIS2: conta l’impatto, non la causa",
+      "url": "https://www.cybersecurity360.it/legal/disservizi-microsoft-lacn-chiarisce-gli-obblighi-nis2-conta-limpatto-non-la-causa/",
+      "image": null,
+      "summary": "Per i soggetti NIS già obbligati, i disservizi Microsoft richiedono la notifica se superano i livelli di servizio attesi. ACN chiarisce che conta l’impatto, anche con una causa tecnica. Come valutare il caso, rispetta...",
+      "date": "2026-11-14T08:18:41.0000000Z"
+    },
     {
       "id": "cybersecurity360:f9c184ec7163",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Censys conta in Italia 366 sistemi xweb di Copeland e Dixell raggiungibili dalla Rete, più che in qualunque altro Paese Ue. Per Cataldo Basile, del Politecnico di Torino, la lezione degli attacchi va oltre l'attribuzi...",
       "date": "2026-11-13T07:33:09.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:42fd63c41768",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Gestione del rischio ICT in DORA: cosa significa davvero",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/gestione-del-rischio-ict-in-dora-cosa-significa-davvero/",
-      "image": null,
-      "summary": "La gestione del rischio ICT è il primo pilastro di DORA e richiede molto più di controlli di cybersecurity. Dalla mappatura dei sistemi critici alla valutazione dei fornitori, fino alla Business Impact Analysis, ecco ...",
-      "date": "2026-11-12T17:13:33.0000000Z"
     }
   ]
 }
