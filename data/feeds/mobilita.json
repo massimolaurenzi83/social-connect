@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-11-15T14:40:20.0953671Z",
+  "updated": "2026-11-15T19:58:05.7811749Z",
   "items": [
+    {
+      "id": "ferrovie:7f9b02dd3c63",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Ferrovia dei Parchi, RFI avvia lo sgombero del binario a Roccaraso e si prepara la ripartenza dei treni",
+      "url": "https://www.ferrovie.info/treni-reali/ferrovia-dei-parchi-rfi-avvia-lo-sgombero-del-binario-a-roccaraso-e-si-prepara-la-ripartenza-dei-treni.html",
+      "image": "https://www.ferrovie.info/images/incidenti/incidente-ferroviario-roccaraso.webp",
+      "summary": "Si avvicina la ripartenza dei treni turistici sulla Ferrovia dei Parchi , dopo oltre un mese di interruzione legata all'incidente avvenuto a Roccaraso . La comunicazione di RFI è arrivata alla vigilia della ripresa de...",
+      "date": "2026-11-15T14:54:18.0000000Z"
+    },
     {
       "id": "ferrovie:424de5fb5da8",
       "sourceId": "ferrovie",
@@ -97,18 +109,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10001/HTR_Alstom_2.jpg",
       "summary": "Si avvicina il debutto dei nuovi convogli a idrogeno destinati alle linee ferroviarie non elettrificate del Salento. Il primo dei quattro treni a idrogeno acquistati dalla Regione Puglia per FS Sud Est sarà consegnato...",
       "date": "2026-11-13T07:25:09.0000000Z"
-    },
-    {
-      "id": "ferrovie:6de2fb14f608",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "GEODIS apre un nuovo collegamento ferroviario tra Vicenza e Parigi per il trasporto merci",
-      "url": "https://www.ferrovie.info/treni-reali/geodis-apre-un-nuovo-collegamento-ferroviario-tra-vicenza-e-parigi-per-il-trasporto-merci.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/geodis_container.jpg",
-      "summary": "Un nuovo collegamento ferroviario amplia le possibilità di trasporto intermodale tra Italia e Francia, con il coinvolgimento di Captrain Italia e Hexafret . GEODIS , in collaborazione con Rail Logistics Europe, entram...",
-      "date": "2026-11-12T16:05:47.0000000Z"
     },
     {
       "id": "ferrovie:5cedc7f7ccfc",

@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-11-15T14:40:20.0987158Z",
+  "updated": "2026-11-15T19:58:05.7741914Z",
   "items": [
+    {
+      "id": "focus:2625d344f57d",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Che cos'erano gli asseganti?",
+      "url": "https://www.focus.it/comportamento/economia/che-cos-erano-gli-asseganti-la-prima-moneta-virtuale-della-storia-finita-in-disastro",
+      "image": "https://www.focus.it/images/2026/11/03/assegnati-rivoluzione-francese_w630.jpg?imbypass=true",
+      "summary": "Dopo la Rivoluzione, la Francia confiscò i beni della Chiesa ed emise titoli di Stato per fare cassa. Trasformati in cartamoneta senza riserve d'oro, la stampa incontrollata degli assegnati scatenò un tracollo economico.",
+      "date": "2026-11-15T11:00:00.0000000Z"
+    },
     {
       "id": "focus:bf22cdfd04d3",
       "sourceId": "focus",
@@ -37,6 +49,18 @@
       "image": "https://www.focus.it/images/2026/11/13/vaccino-rsv_w630.jpg?imbypass=true",
       "summary": "Stiamo vincendo la battaglia contro il virus RSV: la diffusione di vaccini per donne in gravidanza e anziani riduce i casi nei più vulnerabili.",
       "date": "2026-11-15T05:00:00.0000000Z"
+    },
+    {
+      "id": "focus:9db812d596c2",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Il pensiero che cura",
+      "url": "https://www.focus.it/scienza/salute/il-pensiero-che-cura",
+      "image": "https://www.focus.it/images/2026/11/15/natale-airc_w630.jpg?imbypass=true",
+      "summary": "In Italia l'85% dei bambini colpiti da un tumore è vivo a cinque anni dalla diagnosi. Merito della ricerca, che a Natale si può finanziare anche con un panettone o una moka. Ecco come, con i regali di Fondazione AIRC.",
+      "date": "2026-11-14T23:00:00.0000000Z"
     },
     {
       "id": "focus:20628c431e57",
@@ -97,6 +121,18 @@
       "image": "https://www.focus.it/images/2026/11/13/cartello-morbillo-usa_w630.jpg?imbypass=true",
       "summary": "Secondo gli esperti i dati genetici mostrano che il morbillo circola stabilmente negli USA, ma si attende la decisione ufficiale dell’Organizzazione Panamericana della Sanità.",
       "date": "2026-11-14T05:00:00.0000000Z"
+    },
+    {
+      "id": "focus:b1bf3532b2c3",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Dipendenze, nove su dieci senza cure",
+      "url": "https://www.focus.it/scienza/salute/dipendenze-servizi-a-corto-di-personale",
+      "image": "https://www.focus.it/images/2026/11/15/dipendenze_w630.jpeg?imbypass=true",
+      "summary": "Meno di una persona su dieci con problemi di droga o alcol arriva ai servizi, che intanto perdono operatori. Un rapporto propone di portare l'aiuto sotto casa, nelle Case della Comunità.",
+      "date": "2026-11-14T03:00:00.0000000Z"
     },
     {
       "id": "media-inaf:739eba45e997",
@@ -173,30 +209,6 @@
       "date": "2026-11-13T10:43:44.0000000Z"
     },
     {
-      "id": "focus:6ee9feedb8f1",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Starship: stanotte il doppio recupero alla torre",
-      "url": "https://www.focus.it/scienza/spazio/starship-stanotte-tentativo-storico-di-spacex-recuperare-sia-il-booster-sia-la-navicella-nella-stessa-missione",
-      "image": "https://www.focus.it/images/2026/11/13/starship-spacex_w630.jpg?imbypass=true",
-      "summary": "Il Flight 15 di SpaceX (decollo previsto tra le 23:45 e l'1:00 ora italiana) prova il doppio \"aggancio\" alla torre di Starbase: se andrà bene, sarà il primo recupero completo di un sistema di lancio orbitale. Ecco ora...",
-      "date": "2026-11-13T10:00:00.0000000Z"
-    },
-    {
-      "id": "focus:dc69ffd54a03",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Dormire poco ci espone di più alle truffe online",
-      "url": "https://www.focus.it/tecnologia/il-cambio-dell-ora-ci-rende-piu-vulnerabili-al-phishing",
-      "image": "https://www.focus.it/images/2026/11/11/e-mail-phishing_w630.jpg?imbypass=true",
-      "summary": "Un’ora di sonno persa può renderci più esposti alle truffe online: dopo il cambio dell’ora i dipendenti di una grande azienda hanno cliccato di più sulle e-mail di phishing.",
-      "date": "2026-11-13T10:00:00.0000000Z"
-    },
-    {
       "id": "media-inaf:579d85f2a6d6",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -207,18 +219,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/planet1_hero-150x150.jpg",
       "summary": "Scoperto per la prima volta un “pianeta che scompare”: si chiama Toi-2535 b e appartiene alla categoria dei gioviani caldi. Osservato numerose volte nel corso di sette anni, improvvisamente ha smesso di compiere trans...",
       "date": "2026-11-13T09:00:17.0000000Z"
-    },
-    {
-      "id": "focus:e4e465f59fd0",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Laboratori di matematica e fisica in carcere",
-      "url": "https://www.focus.it/focuslive/laboratori-di-matematica-e-fisica-in-carcere",
-      "image": "https://www.focus.it/images/2026/11/12/focus-live-premio-raymond-zreick-2026_w630.jpg?imbypass=true",
-      "summary": "Tra i tanti eventi di Focus Live, c'è stato quello dei ricercatori del progetto METHEXIS 2.0 del Politecnico di Milano che hanno vinto il premio \"Raymond Zreick\".",
-      "date": "2026-11-13T08:00:00.0000000Z"
     },
     {
       "id": "media-inaf:164c6efb26aa",
