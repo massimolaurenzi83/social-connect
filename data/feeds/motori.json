@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-11-15T19:58:05.7955982Z",
+  "updated": "2026-11-15T23:55:14.9352604Z",
   "items": [
+    {
+      "id": "motor1:5c792183d001",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ritorna al futuro la A2, l'Audi che aveva anticipato i tempi",
+      "url": "https://it.motor1.com/reviews/815485/audi-a2-etron-2027-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/KbZO2M/s3/photo-cover-audi-a2-2027.jpg",
+      "summary": "A oltre 20 anni dall'originale, l'Audi A2 vuole ancora essere grande dentro e molto aerodinamica. Prezzi da 38.350 euro",
+      "date": "2026-11-15T23:01:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:4210a11386c3",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "L’idrogeno? E’ più leggero dell’aria ma perde quota",
+      "url": "https://www.vaielettrico.it/lidrogeno-e-piu-leggero-dellaria-ma-perde-quota/",
+      "image": null,
+      "summary": "L’idrogeno perde quota anche in…cielo. Ivone, ingegnere e nostro “corrispondente da Shanghai”, lascia da parte le auto e… L'articolo L’idrogeno? E’ più leggero dell’aria ma perde quota proviene da Vaielettrico .",
+      "date": "2026-11-15T22:49:35.0000000Z"
+    },
     {
       "id": "vaielettrico:ab62b90e6b00",
       "sourceId": "vaielettrico",
@@ -243,18 +267,6 @@
       "date": "2026-11-14T07:08:40.0000000Z"
     },
     {
-      "id": "motor1:629a15da753b",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La speciale Lamborghini Diablo del Brunei è in vendita",
-      "url": "https://it.motor1.com/news/813782/lamborghini-diablo-se30-storia/",
-      "image": "https://cdn.motor1.com/images/mgl/xqOYmy/s3/lamborghini-diablo-se30-1994.jpg",
-      "summary": "Bianca con interni blu, questa Diablo SE30 è appartenuta alla famiglia reale del Brunei. E vale tantissimo",
-      "date": "2026-11-14T06:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:c69fa2575b5d",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -264,6 +276,18 @@
       "url": "https://insideevs.it/news/815367/fulwin-t11-chery-jaecoo-europa/",
       "image": "https://cdn.motor1.com/images/mgl/Mk60vE/s3/chery-fulwin-t11.jpg",
       "summary": "Si chiama Chery Fulwin T11, è un SUV lungo 5,2 metri con abitacolo sei posti. In Cina è in vendita a 25.700 euro",
+      "date": "2026-11-14T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:629a15da753b",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La speciale Lamborghini Diablo del Brunei è in vendita",
+      "url": "https://it.motor1.com/news/813782/lamborghini-diablo-se30-storia/",
+      "image": "https://cdn.motor1.com/images/mgl/xqOYmy/s3/lamborghini-diablo-se30-1994.jpg",
+      "summary": "Bianca con interni blu, questa Diablo SE30 è appartenuta alla famiglia reale del Brunei. E vale tantissimo",
       "date": "2026-11-14T06:00:00.0000000Z"
     },
     {
@@ -363,18 +387,6 @@
       "date": "2026-11-13T16:10:19.0000000Z"
     },
     {
-      "id": "motor1:600a7bfbb811",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Per i suoi vent'anni Nissan Qashqai esplode di adesivi Y2K",
-      "url": "https://it.motor1.com/news/815437/nissan-qashqai-sticker-bomb-20/",
-      "image": "https://cdn.motor1.com/images/mgl/NG6WKl/s3/nissan-qashqai-sticker-bomb-y2k-by-heymoonly.jpg",
-      "summary": "La versione unica di Nissan Qashqai sfoggia livrea sticker bomb Y2K e interni personalizzati per celebrare due decenni di successi",
-      "date": "2026-11-13T16:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:2126a1193f85",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -457,18 +469,6 @@
       "image": "https://cdn.motor1.com/images/mgl/L3613N/s3/rivian-r2-camping-review-in-the-desert.jpg",
       "summary": "La Rivian R2 mette alla prova autonomia, comfort e capacità fuoristrada in un viaggio tra autostrade e piste sabbiose",
       "date": "2026-11-13T11:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:19386ca1cfe1",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "BMW i3 Neue Klasse: la Serie 3 diventa elettrica, ma il carattere è sempre quello",
-      "url": "https://www.vaielettrico.it/bmw-i3-neue-klasse-la-serie-3-diventa-elettrica-ma-il-carattere-e-sempre-quello/",
-      "image": null,
-      "summary": "Primo contatto con la nuova BMW i3: design completamente rinnovato, interni futuristici, fino a 912 km di autonomia… L'articolo BMW i3 Neue Klasse: la Serie 3 diventa elettrica, ma il carattere è sempre quello provien...",
-      "date": "2026-11-13T09:49:39.0000000Z"
     },
     {
       "id": "insideevs:32aaf36e6ac7",
