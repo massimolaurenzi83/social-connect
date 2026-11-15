@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-15T00:25:49.0340918Z",
+  "updated": "2026-11-15T06:58:47.4531932Z",
   "items": [
+    {
+      "id": "cybersecurity360:c2fc92341f8b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il blocco dei voli USA rivela i rischi delle reti legacy",
+      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/il-blocco-dei-voli-usa-rivela-i-rischi-delle-reti-legacy/",
+      "image": null,
+      "summary": "Il blocco dei decolli negli Stati Uniti del 13 novembre 2026 mette in luce la fragilità delle infrastrutture critiche. Le anomalie nei sistemi di comunicazione della FAA mostrano i rischi della convivenza tra vecchie ...",
+      "date": "2026-11-15T05:46:56.0000000Z"
+    },
     {
       "id": "cybersecurity360:99f171d1f648",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "In questo scenario di massima allerta, la tempistica dell' Initial Public Draft del NIST Special Publication (SP) 800-82r4 è quanto mai provvidenziale. Il documento, intitolato \"Guide to Operational Technology (OT) Se...",
       "date": "2026-11-13T08:30:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:de2543cdb138",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il fronte esterno passa da Dublino: perché l’enforcement del GDPR guarda alla carta geografica",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/il-fronte-esterno-passa-da-dublino-perche-lenforcement-del-gdpr-guarda-alla-carta-geografica/",
-      "image": null,
-      "summary": "Dopo otto anni di enforcement sul GDPR, sta emergendo una nuova geografia: le autorità nazionali tengono il fronte interno, mentre quello esterno passa per lo sportello unico e per Bruxelles. Ecco la sfida del secondo...",
-      "date": "2026-11-13T08:00:00.0000000Z"
     }
   ]
 }

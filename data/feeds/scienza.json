@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-11-15T00:25:49.0378319Z",
+  "updated": "2026-11-15T06:58:47.4077969Z",
   "items": [
+    {
+      "id": "focus:bebcfd5c9761",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Virus RSV: drastico calo dei ricoveri",
+      "url": "https://www.focus.it/scienza/salute/virus-respiratorio-sinciziale-rsv-drastico-calo-dei-ricoveri-grazie-a-vaccini-e-anticorpi-monoclonali",
+      "image": "https://www.focus.it/images/2026/11/13/vaccino-rsv_w630.jpg?imbypass=true",
+      "summary": "Stiamo vincendo la battaglia contro il virus RSV: la diffusione di vaccini per donne in gravidanza e anziani riduce i casi nei più vulnerabili.",
+      "date": "2026-11-15T05:00:00.0000000Z"
+    },
     {
       "id": "focus:20628c431e57",
       "sourceId": "focus",
@@ -147,18 +159,6 @@
       "date": "2026-11-13T09:00:17.0000000Z"
     },
     {
-      "id": "focus:7efaaec105b0",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Cervello: una barriera intelligente",
-      "url": "https://www.focus.it/scienza/salute/una-barriera-che-seleziona-proteine-essenziali-per-il-cervello-potrebbe-aiutarci-contro-l-alzheimer",
-      "image": "https://www.focus.it/images/2026/11/10/barriera-emato-encefalica_w630.jpg?imbypass=true",
-      "summary": "Rivisto il ruolo della barriera emato-encefalica: serve anche a traghettare proteine utili nel cervello (e potremmo usarla a nostro vantaggio).",
-      "date": "2026-11-13T08:00:00.0000000Z"
-    },
-    {
       "id": "focus:e4e465f59fd0",
       "sourceId": "focus",
       "source": "Focus",
@@ -168,6 +168,18 @@
       "url": "https://www.focus.it/focuslive/laboratori-di-matematica-e-fisica-in-carcere",
       "image": "https://www.focus.it/images/2026/11/12/focus-live-premio-raymond-zreick-2026_w630.jpg?imbypass=true",
       "summary": "Tra i tanti eventi di Focus Live, c'è stato quello dei ricercatori del progetto METHEXIS 2.0 del Politecnico di Milano che hanno vinto il premio \"Raymond Zreick\".",
+      "date": "2026-11-13T08:00:00.0000000Z"
+    },
+    {
+      "id": "focus:7efaaec105b0",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Cervello: una barriera intelligente",
+      "url": "https://www.focus.it/scienza/salute/una-barriera-che-seleziona-proteine-essenziali-per-il-cervello-potrebbe-aiutarci-contro-l-alzheimer",
+      "image": "https://www.focus.it/images/2026/11/10/barriera-emato-encefalica_w630.jpg?imbypass=true",
+      "summary": "Rivisto il ruolo della barriera emato-encefalica: serve anche a traghettare proteine utili nel cervello (e potremmo usarla a nostro vantaggio).",
       "date": "2026-11-13T08:00:00.0000000Z"
     },
     {
@@ -217,18 +229,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/Dalle-risorse-ai-risultati_il-PNRR-laboratorio-di-governance1-150x150.jpeg",
       "summary": "Dall’esplorazione della Luna all’astronomia multimessaggera, dal supercalcolo alle nuove tecnologie: le prospettive di un patrimonio di competenze, infrastrutture e innovazione. Riunite oggi, 12 novembre, a Roma, la c...",
       "date": "2026-11-12T13:03:30.0000000Z"
-    },
-    {
-      "id": "focus:e4bb971d20d5",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "COP31: quel +1,5 °C non sia permanente",
-      "url": "https://www.focus.it/ambiente/ecologia/cop31-non-lasciamo-che-quel-1-5-c-di-riscaldamento-divenga-irrecuperabile",
-      "image": "https://www.focus.it/images/2026/11/12/transizione-energetica_w630.jpg?imbypass=true",
-      "summary": "Alla COP31 è l'ora del Climate Action Tracker, che traccia progressi e inciampi nel ridurre le emissioni: non stiamo agendo abbastanza in fretta.",
-      "date": "2026-11-12T12:00:00.0000000Z"
     },
     {
       "id": "media-inaf:15a31b4ba1a2",
