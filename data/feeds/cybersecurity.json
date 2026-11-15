@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-15T06:58:47.4531932Z",
+  "updated": "2026-11-15T14:40:20.1049728Z",
   "items": [
+    {
+      "id": "cybersecurity360:35d7bfa6ca43",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Meta, 805 mln di sanzione privacy: il rischio dei permessi estesi",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/meta-805-mln-di-sanzione-privacy-il-rischio-dei-permessi-estesi/",
+      "image": null,
+      "summary": "Il Garante sanziona Meta per 805 milioni di euro: l’app Facebook per Android poteva accedere alla galleria usando un’autorizzazione generale, senza consenso specifico per i suggerimenti. Per utenti e aziende il caso r...",
+      "date": "2026-11-15T12:24:20.0000000Z"
+    },
     {
       "id": "cybersecurity360:c2fc92341f8b",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Proton VPN propone il piano Plus biennale a 2,49 euro al mese, con uno sconto del 75%. L'abbonamento costa 59,76 euro per 24 mesi e include protezione per 10 dispositivi, server in oltre 140 Paesi e blocco di annunci ...",
       "date": "2026-11-13T08:56:09.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:a6204121dd1c",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Dalla catena del freddo alle infrastrutture critiche: come il NIST blinda il mondo fisico",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/dalla-catena-del-freddo-alle-infrastrutture-critiche-come-il-nist-blinda-il-mondo-fisico/",
-      "image": null,
-      "summary": "In questo scenario di massima allerta, la tempistica dell' Initial Public Draft del NIST Special Publication (SP) 800-82r4 è quanto mai provvidenziale. Il documento, intitolato \"Guide to Operational Technology (OT) Se...",
-      "date": "2026-11-13T08:30:00.0000000Z"
     }
   ]
 }

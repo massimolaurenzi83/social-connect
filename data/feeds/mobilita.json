@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-11-15T06:58:47.4230261Z",
+  "updated": "2026-11-15T14:40:20.0953671Z",
   "items": [
+    {
+      "id": "ferrovie:424de5fb5da8",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Nuovi treni, collegamenti e infrastrutture, le notizie ferroviarie della settimana",
+      "url": "https://www.ferrovie.info/treni-reali/nuovi-treni-collegamenti-e-infrastrutture-le-notizie-ferroviarie-della-settimana.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10529/normal_ALn_668_1615_Fondazione_FS.jpeg",
+      "summary": "La settimana ferroviaria porta con sé diverse novità per il trasporto passeggeri e merci, tra nuovi convogli destinati ai servizi regionali, mezzi storici che tornano a circolare e interventi sulle infrastrutture ital...",
+      "date": "2026-11-15T11:30:39.0000000Z"
+    },
     {
       "id": "ferrovie:ace9fad5bddf",
       "sourceId": "ferrovie",
@@ -121,18 +133,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10054/tgv_m_301.jpg",
       "summary": "Quindici nuovi treni a due piani , un investimento superiore a 800 milioni di euro e l’obiettivo di conquistare una quota significativa del mercato italiano dell’alta velocità. SNCF prepara il proprio ingresso nel set...",
       "date": "2026-11-12T08:58:22.0000000Z"
-    },
-    {
-      "id": "ferrovie:9876532eb34c",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Ferrovia Sulmona-Carpinone, i Comuni chiedono il ritorno dei treni regionali",
-      "url": "https://www.ferrovie.info/treni-reali/ferrovia-sulmona-carpinone-i-comuni-chiedono-il-ritorno-dei-treni-regionali.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/aln_668_gnl_101.jpg",
-      "summary": "Il futuro dell’ ex Transiberiana d’Italia torna al centro del confronto tra amministrazioni locali e istituzioni ferroviarie. I Comuni attraversati dalla Sulmona-Carpinone chiedono il ripristino progressivo del traspo...",
-      "date": "2026-11-12T08:43:32.0000000Z"
     },
     {
       "id": "ferrovie:cee7457db9c1",
