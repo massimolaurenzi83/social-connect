@@ -1,7 +1,43 @@
 {
   "category": "mobilita",
-  "updated": "2026-11-16T13:35:13.8491058Z",
+  "updated": "2026-11-16T23:01:00.3916562Z",
   "items": [
+    {
+      "id": "ferrovie:f00fe62dcd66",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Frecciarossa Bolzano - Roma confermato anche in inverno",
+      "url": "https://www.ferrovie.info/treni-reali/frecciarossa-bolzano-roma-confermato-anche-in-inverno.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10608/ETR400_ndeg19_FR8525_Bolzano_-_Napoli_Centrale_1.JPG",
+      "summary": "Il collegamento Frecciarossa tra Bolzano e Roma delle ore 13:12 sarà mantenuto anche con l’entrata in vigore dell’orario invernale. La conferma arriva dopo un confronto tra la Provincia autonoma di Bolzano e Trenitali...",
+      "date": "2026-11-16T16:24:13.0000000Z"
+    },
+    {
+      "id": "ferrovie:7879ce572bf8",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "E.402B, prosegue la demolizione delle locomotive di Trenitalia",
+      "url": "https://www.ferrovie.info/treni-reali/e-402b-prosegue-la-demolizione-delle-locomotive-di-trenitalia.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10002/G12_5533.jpg",
+      "summary": "Prosegue il progressivo ridimensionamento del Gruppo E.402B di Trenitalia , con altre due locomotive avviate verso la demolizione. Si tratta di macchine che, nonostante un’età ancora relativamente contenuta rispetto a...",
+      "date": "2026-11-16T16:15:01.0000000Z"
+    },
+    {
+      "id": "ferrovie:49a7f4606667",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Frana di Petacciato, stop alla linea Adriatica a gennaio: viaggi in treno più lunghi da Termoli",
+      "url": "https://www.ferrovie.info/treni-reali/frana-di-petacciato-stop-alla-linea-adriatica-a-gennaio-viaggi-in-treno-piu-lunghi-da-termoli.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10476/P1770352.JPG",
+      "summary": "I lavori per il nuovo sistema di monitoraggio della frana di Petacciato avranno conseguenze sulla circolazione ferroviaria lungo la linea Adriatica all’inizio del 2027. Tra il 9 e il 18 gennaio è prevista un’interruzi...",
+      "date": "2026-11-16T15:10:28.0000000Z"
+    },
     {
       "id": "ferrovie:4b997f583e9e",
       "sourceId": "ferrovie",
@@ -109,42 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/11219/normal_Trenitalia_Regionale_ETR_108_Alstom_coradia.jpeg",
       "summary": "La flotta ferroviaria regionale toscana si prepara ad accogliere una nuova generazione di treni con prestazioni più elevate. Martedì 17 novembre sarà presentato sulla tratta Arezzo-Firenze il primo ETR 108 capace di r...",
       "date": "2026-11-13T16:38:57.0000000Z"
-    },
-    {
-      "id": "ferrovie:fe3d40e787a1",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Trenord, da primavera 2027 arrivano 100 addetti di FS Security su treni e stazioni",
-      "url": "https://www.ferrovie.info/treni-reali/trenord-da-primavera-2027-arrivano-100-addetti-di-fs-security-su-treni-e-stazioni.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10529/ETR521_S1_052_TN_risultato.jpg",
-      "summary": "La sicurezza sui treni e nelle stazioni di Trenord si prepara a un potenziamento con l'arrivo di cento addetti di FS Security. Il nuovo personale dovrebbe entrare in servizio dalla primavera 2027, nell'ambito di un pr...",
-      "date": "2026-11-13T12:32:58.0000000Z"
-    },
-    {
-      "id": "ferrovie:04328749ca38",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Micronews ferroviarie del 13 novembre 2026, le notizie in aggiornamento",
-      "url": "https://www.ferrovie.info/treni-reali/micronews-ferroviarie-del-13-novembre-2026-le-notizie-in-aggiornamento.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10205/IMG-3030.JPG",
-      "summary": "Le notizie brevi dal mondo ferroviario, in Italia e all'estero, con aggiornamenti nel corso della giornata. Una raccolta in costante evoluzione per seguire le novità su treni, infrastrutture, stazioni, trasporti e azi...",
-      "date": "2026-11-13T08:54:27.0000000Z"
-    },
-    {
-      "id": "ferrovie:3542b9fdb17b",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Treni a idrogeno in Puglia, il primo convoglio Alstom arriverà entro Natale",
-      "url": "https://www.ferrovie.info/treni-reali/treni-a-idrogeno-in-puglia-il-primo-convoglio-alstom-arrivera-entro-natale.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/HTR_Alstom_2.jpg",
-      "summary": "Si avvicina il debutto dei nuovi convogli a idrogeno destinati alle linee ferroviarie non elettrificate del Salento. Il primo dei quattro treni a idrogeno acquistati dalla Regione Puglia per FS Sud Est sarà consegnato...",
-      "date": "2026-11-13T07:25:09.0000000Z"
     }
   ]
 }

@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-16T13:35:13.8873179Z",
+  "updated": "2026-11-16T23:01:00.4265792Z",
   "items": [
+    {
+      "id": "cybersecurity360:fac81e2cf20a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Attacchi assistiti dall’IA: la lezione CyberStrikeAI per i SOC",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/attacchi-assistiti-dallia-la-lezione-cyberstrikeai-per-i-soc/",
+      "image": null,
+      "summary": "Otto identità AWS compromesse, quattro account e 78 alert: il caso CyberStrikeAI mostra il limite delle detection concentrate sulle raffiche di chiamate. Quattordici giorni senza segnali separano due fasi dell’intrusi...",
+      "date": "2026-11-16T17:25:45.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:7e941af724fb",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "DORA: le priorità operative per gestire il rischio ICT",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/dora-le-priorita-operative-per-gestire-il-rischio-ict/",
+      "image": null,
+      "summary": "Il rischio ICT richiede decisioni motivate su asset critici, controlli e investimenti. Nel quadro DORA, tre priorità operative aiutano a collegare la valutazione delle esposizioni alla resilienza aziendale, con respon...",
+      "date": "2026-11-16T16:46:46.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:aebc8b42a756",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Leader europei a Dublino per il primo vertice sull’IA, in cerca di regole comuni con gli USA",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/leader-europei-a-dublino-per-il-primo-vertice-sullia-in-cerca-di-regole-comuni-con-gli-usa/",
+      "image": null,
+      "summary": "A Dublino i leader europei legano la competitività nell’IA alla sicurezza dei modelli più avanzati. Sul tavolo sette gigafactory, nuovi finanziamenti e un confronto con il Congresso americano sulle regole globali. Res...",
+      "date": "2026-11-16T15:59:58.0000000Z"
+    },
     {
       "id": "cybersecurity360:352cd2cb7827",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "I disservizi Microsoft riportano al centro il rischio di concentrazione tecnologica: tante scelte IT, singolarmente corrette, possono creare dipendenze critiche per il business. La NIS2 richiama le responsabilità del ...",
       "date": "2026-11-14T12:07:03.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d92b2176079a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Disservizi Microsoft, l’ACN chiarisce gli obblighi NIS2: conta l’impatto, non la causa",
-      "url": "https://www.cybersecurity360.it/legal/disservizi-microsoft-lacn-chiarisce-gli-obblighi-nis2-conta-limpatto-non-la-causa/",
-      "image": null,
-      "summary": "Per i soggetti NIS già obbligati, i disservizi Microsoft richiedono la notifica se superano i livelli di servizio attesi. ACN chiarisce che conta l’impatto, anche con una causa tecnica. Come valutare il caso, rispetta...",
-      "date": "2026-11-14T08:18:41.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:f9c184ec7163",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il manuale cyber dell’Iran: la scelta dei target per seminare caos nel mondo reale",
-      "url": "https://www.cybersecurity360.it/news/il-manuale-cyber-delliran-la-scelta-dei-target-per-seminare-caos-nel-mondo-reale/",
-      "image": null,
-      "summary": "Teheran intensifica i propri sforzi per causare danni nel mondo reale con attacchi contro petroliere e navi frigorifere poco protette. Ecco perché preoccupa gli esperti il salto di qualità degli attacchi cyber dell'Ir...",
-      "date": "2026-11-13T16:53:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3a58be4984ba",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "L’attacco alla DIA che non c’è stato: quando per fare danno basta uno screenshot",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/lattacco-alla-dia-che-non-ce-stato-quando-per-fare-danno-basta-uno-screenshot/",
-      "image": null,
-      "summary": "Nessuna violazione dei sistemi della DIA, solo dati pubblici spacciati per documenti riservati. Il caso dimostra che per danneggiare un'organizzazione può bastare uno screenshot sul dark web. La sfida per imprese e is...",
-      "date": "2026-11-13T16:06:53.0000000Z"
     }
   ]
 }
