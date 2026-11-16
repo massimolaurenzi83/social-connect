@@ -1,6 +1,6 @@
 {
   "category": "roma",
-  "updated": "2026-11-15T23:55:14.9531565Z",
+  "updated": "2026-11-16T05:06:28.4326409Z",
   "items": [
     {
       "id": "romatoday:2b61c428d5a9",
@@ -27,6 +27,18 @@
       "date": "2026-11-16T09:00:00.0000000Z"
     },
     {
+      "id": "romatoday:64f529647a34",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "Albero di Natale, come scegliere quello giusto per la propria casa",
+      "url": "https://www.romatoday.it/speciale/scegliere-albero-natale.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/4139087026521/solara_5_videoserv.jpg",
+      "summary": "Dimensioni, stile e decorazioni: alcuni consigli per individuare l’albero più adatto agli spazi domestici e creare un’atmosfera armoniosa durante le feste",
+      "date": "2026-11-16T07:00:00.0000000Z"
+    },
+    {
       "id": "romatoday:18a26ddf9de1",
       "sourceId": "romatoday",
       "source": "RomaToday",
@@ -49,6 +61,18 @@
       "image": "https://www.today.it/~media/original-hi/7054844335406/macos_srl_roma.jpg",
       "summary": "Dagli edifici intelligenti ai cantieri digitalizzati, il settore evolve per rispondere alle esigenze di cittadini, imprese e investitori.",
       "date": "2026-11-16T06:00:00.0000000Z"
+    },
+    {
+      "id": "romatoday:ac75ab46fe4b",
+      "sourceId": "romatoday",
+      "source": "RomaToday",
+      "platform": "rss",
+      "category": "roma",
+      "title": "'Maverick' e 'Neymar', il cattivissimo duo che \"imbocca\" a casa e nei bar per riscuotere i debiti di droga",
+      "url": "https://www.romatoday.it/dossier/criminalita/manuel-grilla-neymar-giuliano-cappoli-maverick-chi-sono.html",
+      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/69101191961745/cats-176.jpg",
+      "summary": "Secondo diverse ordinanze i due avrebbero fatto affari tra Giardinetti e Tuscolano, continuando a gestirli anche dal carcere. Ma avrebbero anche recuperato per il boss 'Pupone' i soldi dei 20 chili di droga rubati dai...",
+      "date": "2026-11-16T04:34:00.0000000Z"
     },
     {
       "id": "romatoday:0a641e7b2db2",
@@ -121,30 +145,6 @@
       "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/68458912799546/busatacnatale.jpg",
       "summary": "Lo sciopero generale proclamato da Cgil e Cobas coinvolgerà anche il trasporto pubblico. Dalle fasce di garanzia ai servizi a rischio: la guida",
       "date": "2026-11-15T13:26:00.0000000Z"
-    },
-    {
-      "id": "romatoday:8acf0deee045",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Stretta sul gioco delle tre campanelle: denunciati venti truffatori in una settimana. Sequestrati 3mila euro",
-      "url": "https://www.romatoday.it/cronaca/gioco-tre-campanelle-gruppi-truffatori-fontana-trevi.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/9682397427743/gioco-tre-campanelle-2.jpg",
-      "summary": "Gli interventi si sono concentrati tra fontana di Trevi e piazza di Spagna",
-      "date": "2026-11-15T12:51:00.0000000Z"
-    },
-    {
-      "id": "romatoday:d45431ed78aa",
-      "sourceId": "romatoday",
-      "source": "RomaToday",
-      "platform": "rss",
-      "category": "roma",
-      "title": "Corri Libera, 10mila persone alla gara contro la violenza sulle donne",
-      "url": "https://www.romatoday.it/attualita/corri-libera-2026-contro-violenza-donne.html",
-      "image": "https://citynews-romatoday.stgy.ovh/~media/original-hi/24986131519791/corri-libera.jpg",
-      "summary": "La partecipazione ha superato i numeri della prima edizione, svoltasi nel 2025",
-      "date": "2026-11-15T12:18:03.0000000Z"
     },
     {
       "id": "roma-repubblica:cfc7e14763b5",
