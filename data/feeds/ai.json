@@ -1,7 +1,67 @@
 {
   "category": "ai",
-  "updated": "2026-11-16T05:06:28.4362975Z",
+  "updated": "2026-11-16T13:35:13.8465657Z",
   "items": [
+    {
+      "id": "ai4business:3c0af4b77b0b",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Dati sporchi e AI: il rischio nascosto nei progetti delle imprese",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/dati-sporchi-e-ai-il-rischio-nascosto-nei-progetti-delle-imprese/",
+      "image": null,
+      "summary": "Le aziende investono in piattaforme di Business intelligence e intelligenza artificiale, ma dati frammentati, duplicati e incoerenti rendono fragili analisi e decisioni. Prima del software servono sorgenti mappate, de...",
+      "date": "2026-11-16T11:27:00.0000000Z"
+    },
+    {
+      "id": "ai4business:b96cf9f57034",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Parametri degli LLM: che cosa sono e come si formano",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/parametri-degli-llm-che-cosa-sono-e-come-si-formano/",
+      "image": null,
+      "summary": "I parametri sono i valori numerici che un modello linguistico apprende durante l’addestramento. Ecco come pesi ed embedding trasformano i token in previsioni, perché temperatura e top-p sono impostazioni diverse e per...",
+      "date": "2026-11-16T10:13:10.0000000Z"
+    },
+    {
+      "id": "ai4business:76d5b6db74dc",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "Qwen4-Max, Alibaba punta su costi e contesto da un milione di token",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/qwen4-max-alibaba-punta-su-costi-e-contesto-da-un-milione-di-token/",
+      "image": null,
+      "summary": "Alibaba rende disponibile Qwen4-Max via API: 2,4 trilioni di parametri dichiarati, contesto da un milione di token e strumenti per agenti. Il risparmio del 60% arriva da un benchmark proprietario; Artificial Analysis ...",
+      "date": "2026-11-16T09:54:37.0000000Z"
+    },
+    {
+      "id": "ai4business:327d01203131",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AI fuori controllo nel 2027? Le prove dietro il nuovo allarme",
+      "url": "https://www.ai4business.it/intelligenza-artificiale/ai-fuori-controllo-nel-2027-le-prove-dietro-il-nuovo-allarme/",
+      "image": null,
+      "summary": "L’AI Futures Project colloca nel 2027 l’arrivo di sistemi capaci di automatizzare la ricerca sull’intelligenza artificiale. A sostegno cita uno studio METR sui progressi di Anthropic: dati, ipotesi e scenari vanno per...",
+      "date": "2026-11-16T08:30:00.0000000Z"
+    },
+    {
+      "id": "ai4business:77560163f2f4",
+      "sourceId": "ai4business",
+      "source": "AI4Business",
+      "platform": "rss",
+      "category": "ai",
+      "title": "AI industriale: perché il contesto cambia le regole in fabbrica",
+      "url": "https://www.ai4business.it/storie/ai-industriale-perche-il-contesto-cambia-le-regole-in-fabbrica/",
+      "image": null,
+      "summary": "L’adozione dell’intelligenza artificiale nel settore industriale richiede un approccio opposto rispetto ai contesti aziendali tradizionali in quanto le esigenze di sicurezza fisica, l'edge computing e la contestualizz...",
+      "date": "2026-11-16T08:00:00.0000000Z"
+    },
     {
       "id": "ai4business:736e75555761",
       "sourceId": "ai4business",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "Il guasto globale del 12 novembre ha coinvolto Exchange, Copilot e Microsoft Graph e interrotto i collegamenti di ChatGPT e Claude con posta e calendari aziendali. La crisi espone la dipendenza degli agenti AI dalle i...",
       "date": "2026-11-13T11:21:44.0000000Z"
-    },
-    {
-      "id": "ai4business:5cc3e025b3bd",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Chi è Colette Kress, la Ceo ad interim di Nvidia dopo Huang",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/chi-e-colette-kress-la-ceo-ad-interim-di-nvidia-dopo-huang/",
-      "image": null,
-      "summary": "Dopo le dimissioni del capo storico, il 12 novembre 2026 Nvidia ha affidato la guida provvisoria a Colette Kress, direttrice finanziaria dal 2013. La manager ha seguito l'espansione del Gruppo nell'intelligenza artifi...",
-      "date": "2026-11-13T10:27:09.0000000Z"
-    },
-    {
-      "id": "ai4business:f244314bacdd",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Da Confcommercio Milano il primo Codice di condotta sull’uso dell’AI",
-      "url": "https://www.ai4business.it/sicurezza/da-confcommercio-milano-il-primo-codice-di-condotta-sulluso-dellai/",
-      "image": null,
-      "summary": "Per imprese e professionisti associati, la Confcommercio di Milano, Lodi e Monza Brianza ha messo a punto uno strumento pratico di governance all’avanguardia in Italia: “una ‘stella polare’, anche etica, per un utiliz...",
-      "date": "2026-11-13T09:18:10.0000000Z"
-    },
-    {
-      "id": "ai4business:9b3542810246",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Gemini 4 Hydrogen: Google accelera gli agenti AI. Ecco costi e benchmark",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/agenti-ai/gemini-4-hydrogen-google-accelera-gli-agenti-ai-ecco-costi-e-benchmark/",
-      "image": null,
-      "summary": "Google lancia Gemini 4 Hydrogen, il modello per agenti e coding con prezzi di 1,50 dollari per milione di token in ingresso e 7,50 in uscita. I test indipendenti misurano prestazioni, tempi e costi rispetto a Carbon e...",
-      "date": "2026-11-13T08:43:39.0000000Z"
-    },
-    {
-      "id": "ai4business:f4104144b3e1",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "Intelligenza artificiale: i costi nascosti in Italia",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/intelligenza-artificiale-i-costi-nascosti-in-italia/",
-      "image": null,
-      "summary": "Una ricerca del Centre for Economics and Business Research, commissionata da Wasabi Technologies, stima in 2,8 miliardi di euro l'anno i costi tecnologici imprevisti per le imprese italiane. La metà riguarda l'intelli...",
-      "date": "2026-11-12T17:12:37.0000000Z"
-    },
-    {
-      "id": "ai4business:ba8635a1a502",
-      "sourceId": "ai4business",
-      "source": "AI4Business",
-      "platform": "rss",
-      "category": "ai",
-      "title": "IBM connette due chip Nighthawk: ecco la roadmap quantistica 2027",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/ibm-connette-due-chip-nighthawk-ecco-la-roadmap-quantistica-2027/",
-      "image": null,
-      "summary": "L'azienda annuncia Nighthawk r3, processore progettato per 10 mila operazioni su 520 qubit programmabili, e prevede di collegarne due nel 2027 per un sistema da 1.040 qubit. I risultati di r2 e l’integrazione con i su...",
-      "date": "2026-11-12T14:34:03.0000000Z"
     },
     {
       "id": "guerredirete:532aa34f4c9e",
