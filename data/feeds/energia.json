@@ -1,7 +1,19 @@
 {
   "category": "energia",
-  "updated": "2026-11-17T14:17:27.2256039Z",
+  "updated": "2026-11-17T22:30:07.1987316Z",
   "items": [
+    {
+      "id": "qualenergia:49557ba22b8c",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Cbam, le regole per scalare il prezzo della CO2 già pagato extra-Ue",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/cbam-regole-scalare-prezzo-co2-pagato-extra-ue/",
+      "image": null,
+      "summary": "Si arricchisce il quadro normativo europeo che ruota attorno al Cbam (Carbon Border Adjustment Mechanism), il meccanismo di adeguamento del carbonio alle frontiere anche noto, in termini più mediatici, come “tassa all...",
+      "date": "2026-11-17T14:00:29.0000000Z"
+    },
     {
       "id": "qualenergia:93fa52349312",
       "sourceId": "qualenergia",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "In Italia 42 progetti di idrogeno rinnovabile prevedono una capacità produttiva complessiva di 295mila tonnellate annue, ma il 96% della capacità è ancora in fase pre-FID. Con fotovoltaico dedicato, i prezzi d’offerta...",
       "date": "2026-11-17T06:00:51.0000000Z"
-    },
-    {
-      "id": "qualenergia:3a4cd0336842",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Agrivoltaico tra business e sostenibilità",
-      "url": "https://www.qualenergia.it/eventi/agrivoltaico-tra-business-e-sostenibilita/",
-      "image": null,
-      "summary": "AIAS (Associazione Italiana Agrivoltaico Sostenibile) organizza insieme a ENEA l’evento “Agrivoltaico tra business e sostenibilità”. Martedì, 24 novembre 2026 (ore 9-13,30) c/o Centro Ricerche ENEA Portici (Napoli) Le...",
-      "date": "2026-11-17T06:00:35.0000000Z"
     }
   ]
 }

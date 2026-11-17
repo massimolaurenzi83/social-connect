@@ -1,7 +1,31 @@
 {
   "category": "cucina",
-  "updated": "2026-11-17T14:17:27.1761768Z",
+  "updated": "2026-11-17T22:30:07.2110135Z",
   "items": [
+    {
+      "id": "dissapore:4eedb6311adf",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "La Mar, la cevicheria più selvaggia e autentica di Lima",
+      "url": "https://www.dissapore.com/ristoranti/la-mar-la-cevicheria-piu-selvaggia-e-autentica-di-lima/",
+      "image": null,
+      "summary": "A Lima, in Avenida La Mar, c'è un ristorante che è molto più di un indirizzo imperdibile per chi ama il pesce crudo. E il Pisco. E fare festa. L'articolo La Mar, la cevicheria più selvaggia e autentica di Lima provien...",
+      "date": "2026-11-17T16:14:47.0000000Z"
+    },
+    {
+      "id": "giallozafferano:59f8607aaa1d",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Spezzatino di vitello con fagioli",
+      "url": "https://ricette.giallozafferano.it/Spezzatino-di-vitello-con-fagioli.html",
+      "image": "https://www.giallozafferano.it/images/368-36864/Spezzatino-di-vitello-con-fagioli_1200x800.jpg",
+      "summary": "Lo spezzatino di vitello con fagioli è un secondo piatto di carne ricco e sostanzioso, ideale da preparare nelle giornate più fredde, quando si ha voglia di una ricetta saporita. Una variante del classico spezzatino i...",
+      "date": "2026-11-17T15:08:00.0000000Z"
+    },
     {
       "id": "dissapore:f996f2daeef6",
       "sourceId": "dissapore",
@@ -265,30 +289,6 @@
       "image": "https://www.giallozafferano.it/images/367-36766/Fette-croccanti-con-ricotta-e-zucchine_1200x800.jpg",
       "summary": "Mangiare sano sembra spesso più complicato di quanto dovrebbe. Ma è davvero così? In questa puntata de \" Il piatto bilanciato \", Bianca e la nutrizionista Laura Crugnola ci dimostrano come costruire un piatto bilancia...",
       "date": "2026-11-12T10:44:00.0000000Z"
-    },
-    {
-      "id": "dissapore:be714623e6f6",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Il prezzo delle uova sale ancora, e per il panettone può essere un problema",
-      "url": "https://www.dissapore.com/spesa/il-prezzo-delle-uova-sale-ancora-e-per-il-panettone-puo-essere-un-problema/",
-      "image": null,
-      "summary": "Come va con i prezzi del tuorlo d'uovo e cosa può comportare per i panettoni, per le pasticcerie che lo producono e per il consumatore finale. L'articolo Il prezzo delle uova sale ancora, e per il panettone può essere...",
-      "date": "2026-11-12T10:13:58.0000000Z"
-    },
-    {
-      "id": "giallozafferano:941abba43228",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Torta di patate ai funghi",
-      "url": "https://ricette.giallozafferano.it/Torta-di-patate-ai-funghi.html",
-      "image": "https://www.giallozafferano.it/images/368-36818/Torta-di-patate-ai-funghi_1200x800.jpg",
-      "summary": "La torta di patate ai funghi è una torta salata ideale da servire come secondo piatto vegetariano ricco e sfizioso, perfetto per un pranzo della domenica o una cena in famiglia. Questo gustoso sformato al forno è prep...",
-      "date": "2026-11-11T09:59:00.0000000Z"
     }
   ]
 }
