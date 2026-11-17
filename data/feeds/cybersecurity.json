@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-17T05:02:57.0392730Z",
+  "updated": "2026-11-17T14:17:27.2221338Z",
   "items": [
+    {
+      "id": "cybersecurity360:989d184ce134",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "TLC e cyber security convergono: la sicurezza aziendale parte dalla rete",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/tlc-e-cyber-security-convergono-la-sicurezza-aziendale-parte-dalla-rete/",
+      "image": null,
+      "summary": "Connettività, comunicazioni cloud e cyber security non possono più essere gestite come servizi separati. L'integrazione tra reti, protezione degli accessi, sicurezza degli endpoint e backup può aiutare le imprese a ri...",
+      "date": "2026-11-17T10:54:03.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:557331749d5c",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Asset, sedi aziendali e priorità: la sfida della concretezza nella gestione dei controlli",
+      "url": "https://www.cybersecurity360.it/legal/asset-sedi-aziendali-e-priorita-la-sfida-della-concretezza-nella-gestione-dei-controlli/",
+      "image": null,
+      "summary": "Proteggere un portatile, un server critico o una filiale richiede controlli di sicurezza differenti. Un approccio basato sul rischio permette di classificare gli asset, definire misure proporzionate e documentare le s...",
+      "date": "2026-11-17T09:29:56.0000000Z"
+    },
     {
       "id": "cybersecurity360:fac81e2cf20a",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Il Garante sanziona Meta per 805 milioni di euro: l’app Facebook per Android poteva accedere alla galleria usando un’autorizzazione generale, senza consenso specifico per i suggerimenti. Per utenti e aziende il caso r...",
       "date": "2026-11-15T12:24:20.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:c2fc92341f8b",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il blocco dei voli USA rivela i rischi delle reti legacy",
-      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/il-blocco-dei-voli-usa-rivela-i-rischi-delle-reti-legacy/",
-      "image": null,
-      "summary": "Il blocco dei decolli negli Stati Uniti del 13 novembre 2026 mette in luce la fragilità delle infrastrutture critiche. Le anomalie nei sistemi di comunicazione della FAA mostrano i rischi della convivenza tra vecchie ...",
-      "date": "2026-11-15T05:46:56.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:99f171d1f648",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Microsoft down, il vero problema non è il cloud: è chi ha deciso di dipenderne",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/microsoft-down-il-vero-problema-non-e-il-cloud-e-chi-ha-deciso-di-dipenderne/",
-      "image": null,
-      "summary": "I disservizi Microsoft riportano al centro il rischio di concentrazione tecnologica: tante scelte IT, singolarmente corrette, possono creare dipendenze critiche per il business. La NIS2 richiama le responsabilità del ...",
-      "date": "2026-11-14T12:07:03.0000000Z"
     }
   ]
 }
