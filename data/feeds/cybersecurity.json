@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-18T12:21:33.8703430Z",
+  "updated": "2026-11-18T20:46:27.1465242Z",
   "items": [
+    {
+      "id": "cybersecurity360:4422e24cb80e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Attacco a Optimizely, malware sui siti di 178 aziende: il rischio arriva dai fornitori fidati",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/attacco-a-optimizely-malware-sui-siti-di-178-aziende-il-rischio-arriva-dai-fornitori-fidati/",
+      "image": null,
+      "summary": "Una vulnerabilità di Optimizely ha consentito di distribuire JavaScript malevolo attraverso i siti di 178 organizzazioni, secondo Report URI. Senza violare direttamente le aziende, gli attaccanti hanno sfruttato la fi...",
+      "date": "2026-11-18T16:48:24.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:f66cb54ac958",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Dai blackout al bugmageddon: i rischi della corsa alle patch nell’era dell’AI",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/dai-blackout-al-bugmageddon-i-rischi-della-corsa-alle-patch-nellera-dellai/",
+      "image": null,
+      "summary": "Dai disservizi Microsoft ai problemi che hanno coinvolto banche, voli e servizi digitali americani, cresce il timore del “bugmageddon”. L'AI accelera la scoperta delle vulnerabilità, ma la corsa a correggerle può mett...",
+      "date": "2026-11-18T15:55:55.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:fc5db4e199cd",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Java4Shell, la falla nel cuore di Java era pubblica da settembre: a rischio server, identità digitali e container",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/java4shell-la-falla-nel-cuore-di-java-era-pubblica-da-settembre-a-rischio-server-identita-digitali-e-container/",
+      "image": null,
+      "summary": "Java4Shell è una corruzione di memoria nel decoder Base64 di OpenJDK che può portare a esecuzione di codice da remoto senza autenticazione. Colpisce le JVM dalla 17.0.6 su CPU Intel e AMD. Le patch ci sono dal 17 nove...",
+      "date": "2026-11-18T12:22:05.0000000Z"
+    },
     {
       "id": "cybersecurity360:894fa6569816",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "I dati sottratti con gli attacchi ransomware possono diventare armi di influenza politica nelle mani di attori ostili. In vista delle elezioni italiane del 2027, cresce il rischio che gli archivi rubati alle aziende v...",
       "date": "2026-11-17T15:18:50.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d18bda2891c6",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "La sfida della crittografia quantistica: come cambiano le strategie di protezione dei dati",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/la-sfida-della-crittografia-quantistica-come-cambiano-le-strategie-di-protezione-dei-dati/",
-      "image": null,
-      "summary": "L’evoluzione del quantum computing apre nuove sfide per la protezione dati e richiede di ripensare le strategie di sicurezza. Dalla crittografia post-quantistica alla distribuzione quantistica delle chiavi, fino alla ...",
-      "date": "2026-11-17T14:08:03.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:96c00e25145d",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il Microsoft down diventa un’esca per campagne di phishing",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/il-microsoft-down-diventa-unesca-per-campagne-di-phishing/",
-      "image": null,
-      "summary": "Il recente disservizio di Microsoft 365 diventa un'esca per una campagna di phishing che sfrutta false notifiche di Exchange Online per rubare credenziali. Gli attaccanti fanno leva sull'urgenza di recuperare le email...",
-      "date": "2026-11-17T11:24:04.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:989d184ce134",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "TLC e cyber security convergono: la sicurezza aziendale parte dalla rete",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/tlc-e-cyber-security-convergono-la-sicurezza-aziendale-parte-dalla-rete/",
-      "image": null,
-      "summary": "Connettività, comunicazioni cloud e cyber security non possono più essere gestite come servizi separati. L'integrazione tra reti, protezione degli accessi, sicurezza degli endpoint e backup può aiutare le imprese a ri...",
-      "date": "2026-11-17T10:54:03.0000000Z"
     }
   ]
 }

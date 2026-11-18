@@ -1,7 +1,31 @@
 {
   "category": "mobilita",
-  "updated": "2026-11-18T12:21:33.9003331Z",
+  "updated": "2026-11-18T20:46:27.1965399Z",
   "items": [
+    {
+      "id": "ferrovie:832d69c7ac26",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "FS Logistix, lo Smart Train arriva sulle relazioni Verona-Colonia e Verona-Bari",
+      "url": "https://www.ferrovie.info/treni-reali/fs-logistix-lo-smart-train-arriva-sulle-relazioni-verona-colonia-e-verona-bari.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10702/FS_E494_064_Pontenure.jpg",
+      "summary": "Lo Smart Train di FS Logistix amplia il proprio campo di sperimentazione e raggiunge anche la Germania . Il progetto dedicato alla digitalizzazione del trasporto ferroviario merci viene esteso alle relazioni Verona-Co...",
+      "date": "2026-11-18T14:27:36.0000000Z"
+    },
+    {
+      "id": "ferrovie:bd4dbe1f23fd",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "European Sleeper guarda al futuro, in arrivo nuove carrozze e servizi",
+      "url": "https://www.ferrovie.info/treni-reali/european-sleeper-guarda-al-futuro-in-arrivo-nuove-carrozze-e-servizi.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10608/E402_165_TTI2BCarrozze_European_Sleeper2BE402_128_TTI_Espresso_96051_Venezia_Mestre_-_Brennero_-_Bruxelles.JPG",
+      "summary": "Nuove prospettive per i collegamenti ferroviari internazionali e per lo sviluppo dei servizi notturni in Europa. I governi di Paesi Bassi e Germania hanno firmato un accordo per aumentare il numero dei treni, migliora...",
+      "date": "2026-11-18T13:37:37.0000000Z"
+    },
     {
       "id": "ferrovie:8091dc369d29",
       "sourceId": "ferrovie",
@@ -22,7 +46,7 @@
       "category": "mobilita",
       "title": "Trentino, consegnato il primo dei nuovi treni ibridi HTR 412",
       "url": "https://www.ferrovie.info/treni-reali/trentino-consegnato-il-primo-dei-nuovi-treni-ibridi-htr-412.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/11487/normal_HTR_412_Trentino_Treno.jpg",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10648/normal_htr_412_treno_trentino_600.jpg",
       "summary": "Prosegue il rinnovo della flotta ferroviaria destinata ai servizi della Provincia autonoma di Trento . Nella giornata di oggi, 18 novembre, è stato consegnato il primo dei quattro nuovi convogli ibridi HTR 412 commiss...",
       "date": "2026-11-18T10:28:55.0000000Z"
     },
@@ -87,18 +111,6 @@
       "date": "2026-11-17T15:35:43.0000000Z"
     },
     {
-      "id": "ferrovie:f4bdb9f894b5",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "EICMA 2026, Trenord promuove il treno per raggiungere Fiera Milano Rho",
-      "url": "https://www.ferrovie.info/treni-reali/eicma-2026-trenord-promuove-il-treno-per-raggiungere-fiera-milano-rho.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10529/ALE711_164_T_28129.jpg",
-      "summary": "Raggiungere una manifestazione internazionale come EICMA senza utilizzare l'automobile, evitando il traffico e le difficoltà legate alla ricerca di parcheggio. Anche per l'edizione 2026 dell'Esposizione internazionale...",
-      "date": "2026-11-17T13:02:05.0000000Z"
-    },
-    {
       "id": "ferrovie:a9f91c5f92fd",
       "sourceId": "ferrovie",
       "source": "Ferrovie.info",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10608/E402_103.JPG",
       "summary": "Uscita dallo stabilimento Ansaldo il 4 luglio 1997, la E.402B.103 ha attraversato quasi trent'anni di storia ferroviaria, prendendo parte a numerose attività di prova, servizi passeggeri, trasferimenti di materiale ro...",
       "date": "2026-11-17T09:03:35.0000000Z"
-    },
-    {
-      "id": "ferrovie:fc12b2776027",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Trasporto ferroviario merci in crisi: nel 2026 stimato un ulteriore calo dell&#039;8% dei treni-km",
-      "url": "https://www.ferrovie.info/treni-reali/trasporto-ferroviario-merci-in-crisi-nel-2026-stimato-un-ulteriore-calo-dell8-dei-treni-km.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10002/762D0714.jpg",
-      "summary": "Il trasporto ferroviario merci italiano continua ad attraversare una fase difficile, senza segnali concreti di inversione di tendenza. A fare il punto sulle criticità e sulle prospettive del comparto è Angelo Cotroneo...",
-      "date": "2026-11-17T08:19:31.0000000Z"
     }
   ]
 }
