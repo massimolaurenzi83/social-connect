@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-11-17T22:30:07.1620080Z",
+  "updated": "2026-11-18T03:49:50.8294966Z",
   "items": [
+    {
+      "id": "motor1:6d2f1b3347ec",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes mette all'asta una C 111 con motore Wankel, questa sì che è una notizia!",
+      "url": "https://it.motor1.com/news/815598/mercedes-c-111-wankel-asta/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZKBM/s3/mercedes-versteigert-originalen-c-111-mit-vierscheiben-wankelmotor.jpg",
+      "summary": "Per almeno 25 anni rimarrà l'unica occasione per poter acquistare una C 111. Un'opportunità accessibile a pochi fortunati",
+      "date": "2026-11-18T01:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:32215792de88",
       "sourceId": "vaielettrico",
@@ -255,18 +267,6 @@
       "date": "2026-11-17T14:00:54.0000000Z"
     },
     {
-      "id": "insideevs:d74661022420",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La prima EV di Bentley è già esaurita, ancor prima di produrla",
-      "url": "https://insideevs.it/news/815725/bentley-torcal-ev-esaurita-2027/",
-      "image": "https://cdn.motor1.com/images/mgl/ko8Brx/s3/2028-bentley-torcal-electric-suv-first-edition.jpg",
-      "summary": "I clienti della Bentley Torcal da oltre 220.000 dollari che ordinano ora dovranno aspettare fino al 2028 per ricevere le loro auto",
-      "date": "2026-11-17T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:7b0d6f9522ec",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -279,16 +279,16 @@
       "date": "2026-11-17T14:00:00.0000000Z"
     },
     {
-      "id": "motor1:3f47bf52e13e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
+      "id": "insideevs:d74661022420",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Il black friday di Drivalia e l'arrivo del GPL firmato DR",
-      "url": "https://it.motor1.com/news/815724/drivalia-carcloud-black-friday-gpl-dr/",
-      "image": "https://cdn.motor1.com/images/mgl/y29RBK/s3/dr5-2026.jpg",
-      "summary": "CarCloud offre Nuova DR5 Collection e DR6 Collection a GPL con 2.000 km mensili inclusi, zero anticipo e fee ridotta a 9 euro",
-      "date": "2026-11-17T13:00:00.0000000Z"
+      "title": "La prima EV di Bentley è già esaurita, ancor prima di produrla",
+      "url": "https://insideevs.it/news/815725/bentley-torcal-ev-esaurita-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/ko8Brx/s3/2028-bentley-torcal-electric-suv-first-edition.jpg",
+      "summary": "I clienti della Bentley Torcal da oltre 220.000 dollari che ordinano ora dovranno aspettare fino al 2028 per ricevere le loro auto",
+      "date": "2026-11-17T14:00:00.0000000Z"
     },
     {
       "id": "insideevs:7292edd27d95",
@@ -300,6 +300,18 @@
       "url": "https://insideevs.it/news/815728/tesla-fsd-sbloccato-illegalmente/",
       "image": "https://cdn.motor1.com/images/mgl/jl8g2k/s3/tesla-full-self-driving.jpg",
       "summary": "In Corea del Sud l’FSD era autorizzato solo su alcune Tesla, ma dispositivi non originali aggiravano il blocco di sicurezza",
+      "date": "2026-11-17T13:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:3f47bf52e13e",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il black friday di Drivalia e l'arrivo del GPL firmato DR",
+      "url": "https://it.motor1.com/news/815724/drivalia-carcloud-black-friday-gpl-dr/",
+      "image": "https://cdn.motor1.com/images/mgl/y29RBK/s3/dr5-2026.jpg",
+      "summary": "CarCloud offre Nuova DR5 Collection e DR6 Collection a GPL con 2.000 km mensili inclusi, zero anticipo e fee ridotta a 9 euro",
       "date": "2026-11-17T13:00:00.0000000Z"
     },
     {
@@ -397,18 +409,6 @@
       "image": "https://cdn.motor1.com/images/mgl/ko8yoM/s3/jetour-tx.jpg",
       "summary": "Jetour TX debutta in Cina con batteria LFP da 65 kWh e autonomia fino a 550 km nel ciclo CLTC",
       "date": "2026-11-17T10:24:21.0000000Z"
-    },
-    {
-      "id": "motor1:73c0a22ed278",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volkswagen anticipa un concept GTI, largo e con grande alettone",
-      "url": "https://it.motor1.com/news/815689/volkswagen-gti-concept-tirocinanti-anticipazione/",
-      "image": "https://cdn.motor1.com/images/mgl/eoWepW/s3/volkswagen-gti-concept-teaser.jpg",
-      "summary": "Un concept Volkswagen GTI costruito da tirocinanti riceve enormi parafanghi, un'ala posteriore imponente e debutta il 20 novembre 2026.",
-      "date": "2026-11-17T10:00:00.0000000Z"
     },
     {
       "id": "insideevs:4be49eb72f71",

@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-17T22:30:07.1674319Z",
+  "updated": "2026-11-18T03:49:50.8743094Z",
   "items": [
+    {
+      "id": "cybersecurity360:cad4bbf83e64",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Automation Bias, quando l’AI spegne il senso critico degli analisti di sicurezza",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/automation-bias-quando-lai-spegne-il-senso-critico-degli-analisti-di-sicurezza/",
+      "image": null,
+      "summary": "L'Automation Bias può trasformare gli analisti SOC in semplici validatori delle decisioni dell'AI, anche quando emergono segnali di compromissione. Il rischio nasce dalla fiducia eccessiva nell'automazione e da KPI ch...",
+      "date": "2026-11-17T16:25:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:30bd235afd80",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "A Dublino i leader europei legano la competitività nell’IA alla sicurezza dei modelli più avanzati. Sul tavolo sette gigafactory, nuovi finanziamenti e un confronto con il Congresso americano sulle regole globali. Res...",
       "date": "2026-11-16T15:59:58.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:352cd2cb7827",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Ransomware in Italia: tre report, tre numeri e un CdA che sceglie quello che preferisce",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/ransomware-in-italia-tre-report-tre-numeri-e-un-cda-che-sceglie-quello-che-preferisce/",
-      "image": null,
-      "summary": "Ransomware in Italia: 193 vittime per Zscaler, 166 casi per TIM e 181 per ACN. Numeri e tendenze differenti che non si contraddicono, perché cambiano periodi e metodologie di rilevazione. Ma scegliere il dato più conv...",
-      "date": "2026-11-16T11:40:48.0000000Z"
     }
   ]
 }
