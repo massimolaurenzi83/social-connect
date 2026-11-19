@@ -1,7 +1,67 @@
 {
   "category": "energia",
-  "updated": "2026-11-19T02:04:01.4848954Z",
+  "updated": "2026-11-19T10:12:49.2390025Z",
   "items": [
+    {
+      "id": "qualenergia:cf4da17c4d94",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Polizze furto per il fotovoltaico: quando il rimborso non arriva",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/polizze-furto-fotovoltaico-quando-rimborso-non-arriva/",
+      "image": null,
+      "summary": "Il furto di circa 30 km di cavi di stringa in due parchi fotovoltaici del Sud Italia ha lasciato i proprietari senza alcun indennizzo, nonostante entrambi gli impianti fossero assicurati. Un caso che mostra come la tu...",
+      "date": "2026-11-19T09:30:29.0000000Z"
+    },
+    {
+      "id": "qualenergia:208d5de56a81",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Batterie al fluoro, da Milano la sfida al dominio del litio",
+      "url": "https://www.qualenergia.it/articoli/batterie-fluoro-da-milano-sfida-dominio-litio/",
+      "image": null,
+      "summary": "Il litio sembra un po’ uno di quei campioni di boxe continuamente sfidati da giovani rivali, come sodio, magnesio o zinco, che finiscono però sempre al tappeto. Adesso a bordo ring si avvicina uno sfidante molto diver...",
+      "date": "2026-11-19T08:45:29.0000000Z"
+    },
+    {
+      "id": "qualenergia:34c68de14665",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Fotovoltaico su tetto, quando il “no” della Soprintendenza è sbagliato",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/fotovoltaico-tetto-quando-no-soprintendenza-sbagliato/",
+      "image": null,
+      "summary": "La Soprintendenza non può bocciare il progetto di un impianto fotovoltaico su tetto in area vincolata imponendo prescrizioni generiche, tali da stravolgerne le caratteristiche, senza motivare in modo particolarmente r...",
+      "date": "2026-11-19T08:00:35.0000000Z"
+    },
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-11-19T05:30:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-11-19T05:00:00.0000000Z"
+    },
     {
       "id": "qualenergia:0d28ba736ca8",
       "sourceId": "qualenergia",
@@ -27,18 +87,6 @@
       "date": "2026-11-18T13:00:36.0000000Z"
     },
     {
-      "id": "qualenergia:f957940c675c",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Mercato elettrico, a ottobre Pun a 231 €/MWh e primi prezzi negativi su Mgp",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/mercato-elettrico-ottobre-pun-231-euro-mwh-primi-prezzi-negativi-mgp/",
-      "image": null,
-      "summary": "A ottobre il Pun Index Gme sale a 230,82 euro per MWh (+23,27 €/MWh su settembre), confermandosi sui massimi da inizio 2023. Rispetto allo stesso mese del 2025, il prezzo è più che raddoppiato (+107,9%). Il dato emerg...",
-      "date": "2026-11-18T12:30:04.0000000Z"
-    },
-    {
       "id": "qualenergia:c86c1bab6d5b",
       "sourceId": "qualenergia",
       "source": "QualEnergia",
@@ -49,6 +97,18 @@
       "image": null,
       "summary": "Il Mase ha approvato le regole operative per l’incentivazione della produzione di idrogeno di origine rinnovabile, disciplinata dal cosiddetto decreto “Tariffe” (DM 183 del 5 giugno 2026). I documenti, approvati con d...",
       "date": "2026-11-18T11:15:45.0000000Z"
+    },
+    {
+      "id": "qualenergia:cb0bb44f5c64",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "Agrivoltaico, con costi fino a 90 €/MWh “serve un premio”",
+      "url": "https://www.qualenergia.it/pro/articoli-pro/agrivoltaico-costi-fino-90-e-mwh-serve-premio/",
+      "image": null,
+      "summary": "Produrre elettricità con un agrivoltaico da 10 MW con tracker costerebbe 64 €/MWh, contro i 55 €/MWh di un fotovoltaico tradizionale di pari potenza. Aggiungendo la gestione agricola si sale a 67-69 €/MWh, mentre per ...",
+      "date": "2026-11-18T10:45:03.0000000Z"
     },
     {
       "id": "qualenergia:689a9fed6044",
@@ -85,66 +145,6 @@
       "image": null,
       "summary": "Il dl Ambiente arriva oggi, 18 novembre, all’Aula della Camera. Ieri la commissione Ambiente ha dato mandato ai relatori Battistoni e Pizzimenti di riferire favorevolmente sul disegno di legge di conversione del dl 17...",
       "date": "2026-11-18T09:30:49.0000000Z"
-    },
-    {
-      "id": "qualenergia:eef057c5efac",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "GoodWe conquista la medaglia d’oro “EcoVadis” per il secondo anno consecutivo",
-      "url": "https://www.qualenergia.it/articoli/medaglia-oro-ecovadis-goodwe-secondo-anno-consecutivo/",
-      "image": null,
-      "summary": "GoodWe ha ricevuto la medaglia d’oro EcoVadis per il secondo anno consecutivo, ottenendo un punteggio di 86 su 100 nella sua più recente valutazione di sostenibilità. È un aumento di quattro punti rispetto al punteggi...",
-      "date": "2026-11-18T09:00:37.0000000Z"
-    },
-    {
-      "id": "qualenergia:30bd53420906",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Tutti vogliono l’idroelettrico per sé",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/tutti-vogliono-idroelettrico-se/",
-      "image": null,
-      "summary": "I proventi che deriveranno dal rinnovo delle grandi concessioni idroelettriche devono dare un vantaggio economico anche sulle bollette delle piccole e medie imprese e nella gestione delle aree protette limitrofe agli ...",
-      "date": "2026-11-18T08:45:41.0000000Z"
-    },
-    {
-      "id": "qualenergia:cb0bb44f5c64",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Agrivoltaico, con costi fino a 90 €/MWh “serve un premio”",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/agrivoltaico-costi-fino-90-e-mwh-serve-premio/",
-      "image": null,
-      "summary": "Produrre elettricità con un agrivoltaico da 10 MW con tracker costerebbe 64 €/MWh, contro i 55 €/MWh di un fotovoltaico tradizionale di pari potenza. Aggiungendo la gestione agricola si sale a 67-69 €/MWh, mentre per ...",
-      "date": "2026-11-18T08:00:03.0000000Z"
-    },
-    {
-      "id": "qualenergia:154db9c16bb1",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Emilia Romagna, agevolazioni alle imprese per efficienza energetica e innovazione",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/emilia-romagna-agevolazioni-imprese-efficienza-energetica-innovazione/",
-      "image": null,
-      "summary": "La Regione Emilia-Romagna sostiene gli investimenti delle PMI in progetti di sviluppo, digitalizzazione e diversificazione produttiva, promuovendo allo stesso tempo anche il miglioramento dell’efficienza energetica de...",
-      "date": "2026-11-18T07:55:09.0000000Z"
-    },
-    {
-      "id": "qualenergia:50d40d648ab7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Bandi e appalti del giorno (5)",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
-      "image": null,
-      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
-      "date": "2026-11-18T07:30:17.0000000Z"
     }
   ]
 }
