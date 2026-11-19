@@ -1,7 +1,55 @@
 {
   "category": "cucina",
-  "updated": "2026-11-19T10:12:49.2519911Z",
+  "updated": "2026-11-19T19:01:05.3430064Z",
   "items": [
+    {
+      "id": "giallozafferano:eea81155f85a",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Lasagne funghi, taleggio e salsiccia",
+      "url": "https://ricette.giallozafferano.it/Lasagne-funghi-taleggio-e-salsiccia.html",
+      "image": "https://www.giallozafferano.it/images/368-36874/Lasagne-funghi-taleggio-e-salsiccia_1200x800.jpg",
+      "summary": "Le lasagne funghi, taleggio e salsiccia sono un primo piatto autunnale ricco e appagante, perfetto per il pranzo della domenica in famiglia. In questa lasagna bianca , le sfoglie di pasta fresca all’uovo racchiudono u...",
+      "date": "2026-11-19T14:38:00.0000000Z"
+    },
+    {
+      "id": "dissapore:7a910b4ed25e",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Il campione del mondo dei formaggi è francese, ma l’Italia si difende",
+      "url": "https://www.dissapore.com/notizie/il-campione-del-mondo-dei-formaggi-e-francese-ma-litalia-si-difende/",
+      "image": null,
+      "summary": "Negli ultimi World Cheese Awards 2026 l'Italia è fuori dal podio per un soffio, ma mantiene una rappresentanza importante tra i finalisti. L'articolo Il campione del mondo dei formaggi è francese, ma l’Italia si difen...",
+      "date": "2026-11-19T14:27:04.0000000Z"
+    },
+    {
+      "id": "dissapore:b2e5eeeff019",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Wendy’s torna in Italia: perché all’improvviso stiamo cedendo ai fast food?",
+      "url": "https://www.dissapore.com/notizie/wendys-torna-in-italia-perche-allimprovviso-stiamo-cedendo-ai-fast-food/",
+      "image": null,
+      "summary": "Il ritorno in Italia di Wendy's, ennesima catena americana degli hamburger che apre oggi a Roma dopo una prima esperienza italiana negli anni Ottanta, racconta molto più di una nuova apertura. L'articolo Wendy’s torna...",
+      "date": "2026-11-19T11:24:54.0000000Z"
+    },
+    {
+      "id": "giallozafferano:0508084fb131",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Polpette di baccalà mantecato",
+      "url": "https://ricette.giallozafferano.it/Polpette-di-baccala-mantecato.html",
+      "image": "https://www.giallozafferano.it/images/368-36871/Polpette-di-baccala-mantecato_1200x800.jpg",
+      "summary": "Le polpette di baccalà mantecato sono un secondo piatto elegante e originale, che reinterpreta in chiave moderna uno dei sapori più rustici e autentici della tradizione. Il protagonista è proprio il baccalà mantecato ...",
+      "date": "2026-11-19T09:51:00.0000000Z"
+    },
     {
       "id": "dissapore:56e47ab7c902",
       "sourceId": "dissapore",
@@ -183,30 +231,6 @@
       "date": "2026-11-16T08:41:27.0000000Z"
     },
     {
-      "id": "dissapore:e5021b4ecd85",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "In Russia si sta pensando di bandire la pizza, ed è inutile scandalizzarsi",
-      "url": "https://www.dissapore.com/notizie/in-russia-si-sta-pensando-di-bandire-la-pizza-ed-e-inutile-scandalizzarsi/",
-      "image": null,
-      "summary": "Dopo la campagna contro Babbo Natale, l'attivista russo Vitaly Borodin se la prende con la pizza. L'articolo In Russia si sta pensando di bandire la pizza, ed è inutile scandalizzarsi proviene da Dissapore .",
-      "date": "2026-11-15T07:26:31.0000000Z"
-    },
-    {
-      "id": "dissapore:edb3e13dee7e",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Come Microsoft down impatta anche sul cibo",
-      "url": "https://www.dissapore.com/notizie/come-microsoft-down-impatta-anche-sul-cibo/",
-      "image": null,
-      "summary": "Il down mondiale di Microsoft manda in tilt anche il mondo del cibo: rallentamenti nella logistica, problemi con la spesa online e consegne natalizie a rischio. Ma i grandi marchi alimentari ne approfittano per scaten...",
-      "date": "2026-11-14T08:21:10.0000000Z"
-    },
-    {
       "id": "giallozafferano:5fc09c6071f3",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -265,30 +289,6 @@
       "image": "https://www.giallozafferano.it/images/368-36850/Risotto-alla-valdostana_1200x800.jpg",
       "summary": "Il risotto alla valdostana è un primo piatto ricco e cremos o, ispirato ai sapori della cucina di montagna. Protagonista della ricetta è la fontina , il formaggio simbolo della Valle d'Aosta, che sciogliendosi durante...",
       "date": "2026-11-12T14:44:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:327b527ab9b8",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Risotto cremoso con porri e taleggio",
-      "url": "https://ricette.giallozafferano.it/Risotto-cremoso-con-porri-e-taleggio.html",
-      "image": "https://www.giallozafferano.it/images/368-36846/Risotto-cremoso-con-porri-e-taleggio_1200x800.jpg",
-      "summary": "Il risotto cremoso con porri e taleggio è un primo piatto avvolgente e ricco di gusto, perfetto per valorizzare uno degli ortaggi più versatili della stagione fredda. In questa ricetta i porri vengono utilizzati in tr...",
-      "date": "2026-11-12T14:39:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:354f3f997dfc",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Pasta pesto e totani",
-      "url": "https://ricette.giallozafferano.it/Pasta-pesto-e-totani.html",
-      "image": "https://www.giallozafferano.it/images/368-36848/Pasta-pesto-e-totani_1200x800.jpg",
-      "summary": "La pasta pesto e totani è un primo piatto di mare facile e profumato, dedicato a chi ama sperimentare nuovi abbinamenti senza rinunciare ai sapori della cucina mediterranea. In questa ricetta, il gusto delicato dei to...",
-      "date": "2026-11-12T14:04:00.0000000Z"
     }
   ]
 }

@@ -1,7 +1,67 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-19T10:12:49.2879935Z",
+  "updated": "2026-11-19T19:01:05.3383468Z",
   "items": [
+    {
+      "id": "cybersecurity360:6a3d59f4869b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Botnet XCPE, Google la smantella: milioni di TV box Android già infetti in una fabbrica cinese",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/botnet-xcpe-google-la-smantella-13-milioni-di-tv-box-android-gia-infetti-in-una-fabbrica-cinese/",
+      "image": null,
+      "summary": "Il report di Google Threat Intelligence Group (GTIG) mostra quanto una certificazione di prodotto, rilasciata in un determinato momento, possa offrire garanzie limitate quando la minaccia risiede nella catena di forni...",
+      "date": "2026-11-19T15:07:09.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:88cd04fe1a56",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "La settimana dei guasti negli Usa: ecco perché è un caso di studio prezioso",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/la-settimana-dei-guasti-negli-usa-ecco-perche-e-un-caso-di-studio-prezioso/",
+      "image": null,
+      "summary": "Proprio l’assenza di un attaccante esterno rende questa settimana un caso di studio prezioso. Ecco quanto sono interdipendenti i sistemi da cui dipendono società ed economia e perché la resilienza dei servizi critici ...",
+      "date": "2026-11-19T14:59:55.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:796a074be629",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Furto dati a Poste Italiane: l’esposizione di nomi e mail aumenta il rischio phishing e frodi",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/furto-dati-a-poste-italiane-lesposizione-di-nomi-e-mail-aumenta-il-rischio-phishing-e-frodi/",
+      "image": null,
+      "summary": "Un presunto hacker ha pubblicato circa 1 GB di file contenente nomi, indirizzi, email, numeri telefonici e documenti contrattuali che permettono di realizzare campagne di phishing e frodi mirate, rendendo molto più cr...",
+      "date": "2026-11-19T11:29:57.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:bebf30a61af6",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Rapporto Clusit Energy & Utilities, gli incidenti cyber quasi raddoppiano",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/rapporto-clusit-energy-utilities-gli-incidenti-cyber-quasi-raddoppiano/",
+      "image": null,
+      "summary": "Il Rapporto Clusit Energy & Utilities censisce 70 incidenti cyber nel primo semestre 2026, il 94% in più rispetto allo stesso periodo del 2025. L’Asia guida il campione, mentre in Europa i casi crescono del 50%. La gr...",
+      "date": "2026-11-19T11:03:29.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:744e4b029989",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyberattacco alla Commissione europea: servizi HR colpiti, dati a rischio",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/cyberattacco-alla-commissione-europea-servizi-hr-colpiti-dati-a-rischio/",
+      "image": null,
+      "summary": "Un cyberattacco ha interrotto per oltre dieci giorni servizi interni della Commissione europea, fra gestione del personale e rimborsi sanitari. La possibile compromissione dei dati resta da chiarire. Possibile uso di ...",
+      "date": "2026-11-19T11:00:47.0000000Z"
+    },
     {
       "id": "cybersecurity360:2dd5b9a9369f",
       "sourceId": "cybersecurity360",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "Il Black Friday porta Surfshark One a 2,49 euro al mese per 24 mesi, con tre mesi aggiuntivi e sette giorni di prova gratuita. Il pacchetto comprende VPN, antivirus, protezione dell'identità digitale e connessioni ill...",
       "date": "2026-11-19T07:33:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:605461730022",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Falsa app IO, Mirax può rubare credenziali bancarie e controllare gli smartphone",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/falsa-app-io-mirax-puo-rubare-credenziali-bancarie-e-controllare-gli-smartphone/",
-      "image": null,
-      "summary": "Il CERT-AGID segnala in Italia una campagna che usa un falso portale dell’Agenzia delle Entrate e un aggiornamento contraffatto dell’app IO per diffondere il malware Mirax su Android. Il trojan può intercettare codici...",
-      "date": "2026-11-19T06:53:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:4422e24cb80e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Attacco a Optimizely, malware sui siti di 178 aziende: il rischio arriva dai fornitori fidati",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/attacco-a-optimizely-malware-sui-siti-di-178-aziende-il-rischio-arriva-dai-fornitori-fidati/",
-      "image": null,
-      "summary": "Una vulnerabilità di Optimizely ha consentito di distribuire JavaScript malevolo attraverso i siti di 178 organizzazioni, secondo Report URI. Senza violare direttamente le aziende, gli attaccanti hanno sfruttato la fi...",
-      "date": "2026-11-18T16:48:24.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:f66cb54ac958",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Dai blackout al bugmageddon: i rischi della corsa alle patch nell’era dell’AI",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/dai-blackout-al-bugmageddon-i-rischi-della-corsa-alle-patch-nellera-dellai/",
-      "image": null,
-      "summary": "Dai disservizi Microsoft ai problemi che hanno coinvolto banche, voli e servizi digitali americani, cresce il timore del “bugmageddon”. L'AI accelera la scoperta delle vulnerabilità, ma la corsa a correggerle può mett...",
-      "date": "2026-11-18T15:55:55.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:fc5db4e199cd",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Java4Shell, la falla nel cuore di Java era pubblica da settembre: a rischio server, identità digitali e container",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/java4shell-la-falla-nel-cuore-di-java-era-pubblica-da-settembre-a-rischio-server-identita-digitali-e-container/",
-      "image": null,
-      "summary": "Java4Shell è una corruzione di memoria nel decoder Base64 di OpenJDK che può portare a esecuzione di codice da remoto senza autenticazione. Colpisce le JVM dalla 17.0.6 su CPU Intel e AMD. Le patch ci sono dal 17 nove...",
-      "date": "2026-11-18T12:22:05.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:894fa6569816",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "OpenAI e NATO, la prova dell’AI per la difesa informatica",
-      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/openai-e-nato-la-prova-dellai-per-la-difesa-informatica/",
-      "image": null,
-      "summary": "OpenAI e NATO collaborano alla difesa delle reti alleate con i modelli del programma Daybreak. L’azienda dichiara un picco di 300 miliardi di token al mese. La prova operativa passa per la qualità delle segnalazioni, ...",
-      "date": "2026-11-18T10:54:14.0000000Z"
     }
   ]
 }
