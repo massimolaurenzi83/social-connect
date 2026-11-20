@@ -1,7 +1,19 @@
 {
   "category": "cripto",
-  "updated": "2026-11-20T17:15:51.3029307Z",
+  "updated": "2026-11-20T23:11:06.7546602Z",
   "items": [
+    {
+      "id": "cryptonomist:14063025c193",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Crollo del prezzo di Bitcoin: sotto 60.000 dollari, settima perdita in vista",
+      "url": "https://cryptonomist.ch/2026/11/20/crollo-prezzo-bitcoin-4/",
+      "image": null,
+      "summary": "Il crollo del prezzo di Bitcoin ha portato la criptovaluta sotto i 60.000 dollari, evidenziando la correlazione con i titoli tecnologici.",
+      "date": "2026-11-20T18:29:44.0000000Z"
+    },
     {
       "id": "cryptonomist:87bf6cb3a37b",
       "sourceId": "cryptonomist",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Un malware nordcoreano su Solana nasconde info nei memo delle transazioni, consentendo agli aggressori di cambiare server senza rimuovere il malware.",
       "date": "2026-11-20T09:14:55.0000000Z"
-    },
-    {
-      "id": "cryptonomist:f1c0ae2a9c4b",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Le azioni Boeing chiudono in calo dell’1,47% a 160,51 dollari, sotto tutte e tre le EMA chiave",
-      "url": "https://cryptonomist.ch/2026/11/20/boeing-azioni-sotto-medie-mobili/",
-      "image": null,
-      "summary": "Le azioni Boeing chiudono a 160,51 dollari con RSI14 a 28,03 e prezzo sotto EMA20, EMA50, EMA200 in struttura ribassista.",
-      "date": "2026-11-20T09:14:22.0000000Z"
     }
   ]
 }
