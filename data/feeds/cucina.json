@@ -1,7 +1,19 @@
 {
   "category": "cucina",
-  "updated": "2026-11-19T19:01:05.3430064Z",
+  "updated": "2026-11-20T01:12:31.1022485Z",
   "items": [
+    {
+      "id": "giallozafferano:38c43e68455a",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Muffin ai cachi",
+      "url": "https://ricette.giallozafferano.it/Muffin-ai-cachi.html",
+      "image": "https://www.giallozafferano.it/images/368-36833/Muffin-ai-cachi_1200x800.jpg",
+      "summary": "I muffin ai cachi sono dei dolcetti soffici e profumati, perfetti per l'autunno, che Marta ha condiviso con noi in occasione di una puntata del vodcast \"\" Ti mando un vocale \". Appassionata di muffin, Marta sogna di a...",
+      "date": "2026-11-19T16:43:00.0000000Z"
+    },
     {
       "id": "giallozafferano:eea81155f85a",
       "sourceId": "giallozafferano",
@@ -277,18 +289,6 @@
       "image": "https://www.giallozafferano.it/images/368-36803/Lasagne-al-ragu-di-cavolfiore_1200x800.jpg",
       "summary": "Le lasagne al ragù di cavolfiore sono un primo piatto invernale ricco e saporito, perfetto per il pranzo in famiglia. Morbide all’interno e gratinate in superficie, queste lasagne vegetariane conquistano con l’abbracc...",
       "date": "2026-11-13T09:09:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:965ccb37e2a0",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Risotto alla valdostana",
-      "url": "https://ricette.giallozafferano.it/Risotto-alla-valdostana.html",
-      "image": "https://www.giallozafferano.it/images/368-36850/Risotto-alla-valdostana_1200x800.jpg",
-      "summary": "Il risotto alla valdostana è un primo piatto ricco e cremos o, ispirato ai sapori della cucina di montagna. Protagonista della ricetta è la fontina , il formaggio simbolo della Valle d'Aosta, che sciogliendosi durante...",
-      "date": "2026-11-12T14:44:00.0000000Z"
     }
   ]
 }

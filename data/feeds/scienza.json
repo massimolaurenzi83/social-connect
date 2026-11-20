@@ -1,7 +1,31 @@
 {
   "category": "scienza",
-  "updated": "2026-11-19T19:01:05.3575767Z",
+  "updated": "2026-11-20T01:12:31.1357175Z",
   "items": [
+    {
+      "id": "focus:48f606169437",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "L'enigma del tempo",
+      "url": "https://www.focus.it/mondo-focus///410",
+      "image": "https://www.focus.it/images/2026/11/18/focus-410-cover-orig.png?imbypass=true",
+      "summary": "",
+      "date": "2026-11-19T22:00:00.0000000Z"
+    },
+    {
+      "id": "focus:3445717c7553",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Grecia segreta",
+      "url": "https://www.focus.it/mondo-focus///242",
+      "image": "https://www.focus.it/images/2026/11/18/focus-storia-242-orig.png?imbypass=true",
+      "summary": "",
+      "date": "2026-11-19T21:00:00.0000000Z"
+    },
     {
       "id": "geopop:rgZYMR9N_wg",
       "sourceId": "geopop",
@@ -280,30 +304,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/cover-bx-150x150.jpg",
       "summary": "Alessio Traficante, ricercatore all’Inaf di Roma, ha collaborato alla stesura del volume “Il Satiro Scientifico VII - Il Panda di Schrödinger” (Mondadori, 2026), il nuovo libro del celebre divulgatore scientifico Barb...",
       "date": "2026-11-17T12:05:01.0000000Z"
-    },
-    {
-      "id": "focus:cd0e40417a59",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "La lunga guerra dell'uomo contro virus e batteri",
-      "url": "https://www.focus.it/cultura/storia/dalla-peste-al-morbillo-la-lunga-battaglia-contro-le-malattie-infettive-che-minacciano-ancora-oggi",
-      "image": "https://www.focus.it/images/2026/11/12/influenza-spagnola-mascherina_w630.jpg?imbypass=true",
-      "summary": "Un viaggio nella storia delle malattie più letali, dal vaiolo eradicato alla tubercolosi fino al ritorno del morbillo in Italia: ecco come vaccini e antibiotici hanno salvato 154 milioni di vite e perché non bisogna a...",
-      "date": "2026-11-17T11:00:00.0000000Z"
-    },
-    {
-      "id": "focus:697eb66b2e3d",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Il lori lento di Bankga è ancora tra noi",
-      "url": "https://www.focus.it/ambiente/animali/il-lori-lento-di-bankga-e-ancora-tra-noi",
-      "image": "https://www.focus.it/images/2026/10/28/nycticebus-bancanus_w630.jpg?imbypass=true",
-      "summary": "Il lori lento di Bangka, uno dei mammiferi più rari al mondo che non veniva avvistato dal 1937, è ancora presente nel suo habitat: ne abbiamo visti quasi un centinaio.",
-      "date": "2026-11-17T09:00:00.0000000Z"
     },
     {
       "id": "media-inaf:ece450bcd8f7",
