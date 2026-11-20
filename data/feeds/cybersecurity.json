@@ -1,7 +1,67 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-20T08:36:46.0081322Z",
+  "updated": "2026-11-20T17:15:51.2916974Z",
   "items": [
+    {
+      "id": "cybersecurity360:ae2f696326c5",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Business discontinuity",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/business-discontinuity/",
+      "image": null,
+      "summary": "La continuità operativa è un elemento strategico fondamentale, spesso sottovalutato dalle organizzazioni finché non è troppo tardi e diventa un'emergenza necessitata da qualche attacco o incidente L'articolo Business ...",
+      "date": "2026-11-20T14:49:23.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:385ae4f4dcf6",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "NIS2 e CRA: due normative, una sola catena del rischio",
+      "url": "https://www.cybersecurity360.it/legal/nis2-e-cra-due-normative-una-sola-catena-del-rischio/",
+      "image": null,
+      "summary": "La sicurezza delle organizzazioni non può prescindere da quella dei prodotti digitali che utilizzano. Il Cyber Resilience Act offre nuovi elementi per la gestione del rischio NIS2, dalla valutazione dei fornitori alla...",
+      "date": "2026-11-20T13:12:19.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:3c9ab7db0a1e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber Resilience Act, i primi standard UE: cosa cambia per le imprese",
+      "url": "https://www.cybersecurity360.it/legal/cyber-resilience-act-i-primi-standard-ue-cosa-cambia-per-le-imprese/",
+      "image": null,
+      "summary": "Pubblicati i primi due standard europei di supporto al Cyber Resilience Act: lessico comune e gestione dei rischi lungo il ciclo di vita dei prodotti digitali. Per i fabbricanti italiani è ora più chiaro come preparar...",
+      "date": "2026-11-20T11:34:31.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:17c95fff92cc",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Oltre il rilevamento comportamentale: perché serve una protezione basata sull’intento",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/oltre-il-rilevamento-comportamentale-perche-serve-una-protezione-basata-sullintento/",
+      "image": null,
+      "summary": "Nessun malware, nessun link sospetto, nessun dominio contraffatto. Ecco perché l’AI ha infranto il presupposto dell'approccio tradizionale alla sicurezza delle email e cosa serve per creare protezione basata sull’inte...",
+      "date": "2026-11-20T09:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:80d675345c2f",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "VMware vCenter, zero-day sfruttata da settembre: patch e verifiche",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/vmware-vcenter-zero-day-sfruttata-da-settembre-patch-e-verifiche/",
+      "image": null,
+      "summary": "Una zero-day di VMware vCenter, CVE-2026-123890, è stata sfruttata da settembre prima della patch del 19 novembre. Mandiant documenta il furto di chiavi SAML e l'accesso amministrativo: le organizzazioni devono aggior...",
+      "date": "2026-11-20T08:42:39.0000000Z"
+    },
     {
       "id": "cybersecurity360:a618a43bf0cf",
       "sourceId": "cybersecurity360",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "Il Rapporto Clusit Energy & Utilities censisce 70 incidenti cyber nel primo semestre 2026, il 94% in più rispetto allo stesso periodo del 2025. L’Asia guida il campione, mentre in Europa i casi crescono del 50%. La gr...",
       "date": "2026-11-19T11:03:29.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:744e4b029989",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyberattacco alla Commissione europea: servizi HR colpiti, dati a rischio",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/cyberattacco-alla-commissione-europea-servizi-hr-colpiti-dati-a-rischio/",
-      "image": null,
-      "summary": "Un cyberattacco ha interrotto per oltre dieci giorni servizi interni della Commissione europea, fra gestione del personale e rimborsi sanitari. La possibile compromissione dei dati resta da chiarire. Possibile uso di ...",
-      "date": "2026-11-19T11:00:47.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2dd5b9a9369f",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "NIS2, in arrivo gli ispettori: cosa deve sapere il Cda",
-      "url": "https://www.cybersecurity360.it/legal/nis2-in-arrivo-gli-ispettori-cosa-deve-sapere-il-cda/",
-      "image": null,
-      "summary": "Se le PMI restano indietro sulla cultura della sicurezza e della governance digitale, pagano due volte: diventano il bersaglio preferito degli attacchi e rischiano di uscire dalle filiere che contano, in Italia e in E...",
-      "date": "2026-11-19T10:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:23f5254bf536",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber militare, il piano Crosetto dei 5mila specialisti e i fondi del Ddl",
-      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/cyber-militare-il-piano-crosetto-dei-5mila-specialisti-e-i-fondi-del-ddl/",
-      "image": null,
-      "summary": "Crosetto punta a una struttura cyber civile-militare fino a 5mila specialisti. Il disegno di legge al Senato introduce brevetto e indennità, ma la relazione tecnica prevede incentivi per 1.200 operatori entro il 2036,...",
-      "date": "2026-11-19T09:47:42.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:15966d3e994e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Non servono attacchi per spegnere il mondo: il paradosso dell’AI e delle infrastrutture fragili",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/il-mondo-non-ha-bisogno-di-un-attacco-per-spegnersi-lai-accelera-le-modifiche-a-infrastrutture-fragili/",
-      "image": null,
-      "summary": "I recenti blackout negli USA mostrano che non servono cyber attacchi per mettere in crisi infrastrutture e servizi essenziali. Sistemi legacy, dipendenze tecnologiche e margini di sicurezza ridotti amplificano gli eff...",
-      "date": "2026-11-19T09:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:557cb764a856",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "La cyber difesa e gli 007 sono più vicini di quanto si possa credere",
-      "url": "https://www.cybersecurity360.it/outlook/cyber-difesa-controspionaggio/",
-      "image": null,
-      "summary": "L’inchiesta romana su una presunta rete di controspionaggio filorussa riporta l’attenzione sulla formazione cyber della Difesa a Chiavari. Il rischio principale da analizzare è l’abuso di accessi legittimi alle inform...",
-      "date": "2026-11-19T08:00:00.0000000Z"
     }
   ]
 }

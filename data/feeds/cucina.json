@@ -1,7 +1,67 @@
 {
   "category": "cucina",
-  "updated": "2026-11-20T08:36:46.0063543Z",
+  "updated": "2026-11-20T17:15:51.3185379Z",
   "items": [
+    {
+      "id": "giallozafferano:81237780067d",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Pasta ai cavoli",
+      "url": "https://ricette.giallozafferano.it/Pasta-ai-cavoli.html",
+      "image": "https://www.giallozafferano.it/images/368-36845/Pasta-ai-cavoli_1200x800.jpg",
+      "summary": "La pasta ai cavoli è un modo originale e invitante per portare in tavola questi ortaggi, giocando con sapori e consistenze diverse. I fusilli ai ceci vengono avvolti da una crema vellutata di cavolo nero e cavolo capp...",
+      "date": "2026-11-20T15:23:00.0000000Z"
+    },
+    {
+      "id": "giallozafferano:0a4a0428f6af",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Pasta con ceci e carciofi",
+      "url": "https://ricette.giallozafferano.it/Pasta-con-ceci-e-carciofi.html",
+      "image": "https://www.giallozafferano.it/images/367-36768/Pasta-con-ceci-e-carciofi_1200x800.jpg",
+      "summary": "La pasta con ceci e carciofi è un primo piatto vegetariano ricco di sapore, che unisce la delicatezza dei legumi al gusto caratteristico dei carciofi. Le linguine integrali sono perfette per questa ricetta, grazie al ...",
+      "date": "2026-11-20T15:21:00.0000000Z"
+    },
+    {
+      "id": "giallozafferano:0664aee4cb90",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Sfoglia croccante mele e yogurt",
+      "url": "https://ricette.giallozafferano.it/Sfoglia-croccante-mele-e-yogurt.html",
+      "image": "https://www.giallozafferano.it/images/368-36861/Sfoglia-croccante-mele-e-yogurt_1200x800.jpg",
+      "summary": "La sfoglia croccante mele e yogurt è un dolce semplice e veloce , perfetto da preparare quando si ha voglia di qualcosa di goloso senza passare troppo tempo ai fornelli. Se cercate un dolce con pasta sfoglia e mele , ...",
+      "date": "2026-11-20T13:57:00.0000000Z"
+    },
+    {
+      "id": "dissapore:962d617fec3c",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Poopmaxxing: la nuova dieta americana complica anche il modo di fare la cacca",
+      "url": "https://www.dissapore.com/notizie/poopmaxxing-la-nuova-dieta-americana-complica-anche-il-modo-di-fare-la-cacca/",
+      "image": null,
+      "summary": "Una nuova tendenza sui social è quella di preparare delle ricette che favoriscano il transito intestinale, con tanto di verifica finale delle feci. L'articolo Poopmaxxing: la nuova dieta americana complica anche il mo...",
+      "date": "2026-11-20T12:15:37.0000000Z"
+    },
+    {
+      "id": "dissapore:b1e126a0534d",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "La prima sconfitta di Franchino Er Criminale: condannato per una recensione negativa",
+      "url": "https://www.dissapore.com/notizie/la-prima-sconfitta-di-franchino-er-criminale-condannato-per-una-recensione-negativa/",
+      "image": null,
+      "summary": "Il tribunale di Viterbo dà ragione ai ristoratori tarantini e lui chiede scusa in video: \"stavolta ho perso e mica se po' sempre vincere\". L'articolo La prima sconfitta di Franchino Er Criminale: condannato per una re...",
+      "date": "2026-11-20T09:20:19.0000000Z"
+    },
     {
       "id": "dissapore:00855e3e12a6",
       "sourceId": "dissapore",
@@ -219,30 +279,6 @@
       "date": "2026-11-17T10:17:00.0000000Z"
     },
     {
-      "id": "dissapore:c7a564df9b6f",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Granarolo lancia un nuovo gusto kefir al cioccolato, ma senza cioccolato",
-      "url": "https://www.dissapore.com/notizie/granarolo-lancia-un-nuovo-gusto-kefir-al-cioccolato-ma-senza-cioccolato/",
-      "image": null,
-      "summary": "Sul mercato tre nuovi gusti di kefir a cui aggiungere cereali croccanti, tra questi ne spunta uno fatto con Choruba, un surrogato pugliese del cioccolato. L'articolo Granarolo lancia un nuovo gusto kefir al cioccolato...",
-      "date": "2026-11-16T14:33:23.0000000Z"
-    },
-    {
-      "id": "dissapore:436f66f72cbd",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "La star di Breaking Bad Dean Norris rischia il divorzio per colpa del suo ristorante",
-      "url": "https://www.dissapore.com/notizie/la-star-di-breaking-bad-dean-norris-rischia-il-divorzio-per-colpa-del-suo-ristorante/",
-      "image": null,
-      "summary": "L'attore che interpretava l'agente Hank Schrader nella celebre serie televisiva americana si trova ad affrontare una doppia crisi, personale e professionale. L'articolo La star di Breaking Bad Dean Norris rischia il d...",
-      "date": "2026-11-16T12:56:31.0000000Z"
-    },
-    {
       "id": "giallozafferano:5fc09c6071f3",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -253,42 +289,6 @@
       "image": "https://www.giallozafferano.it/images/368-36851/Zucca-e-patate-in-padella_1200x800.jpg",
       "summary": "La zucca e patate in padella è un contorno autunnale semplice e saporito, perfetto per accompagnare secondi piatti di carne o di pesce. Una ricetta genuina che unisce la dolcezza della zucca al gusto delicato delle pa...",
       "date": "2026-11-13T15:54:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:7845ef6b618b",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Torta 5 minuti con gocce di cioccolato",
-      "url": "https://ricette.giallozafferano.it/Torta-5-minuti-con-gocce-di-cioccolato.html",
-      "image": "https://www.giallozafferano.it/images/368-36847/Torta-5-minuti-con-gocce-di-cioccolato_1200x800.jpg",
-      "summary": "La torta 5 minuti con gocce di cioccolato è il dolce perfetto quando avete voglia di cucinare qualcosa di buono per la colazione o la merenda, ma avete poco tempo a disposizione. Morbida, profumata e ricca di gocce di...",
-      "date": "2026-11-13T13:42:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:be413fda5fdd",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Cotolette di funghi con purè di cavolfiore",
-      "url": "https://ricette.giallozafferano.it/Cotolette-di-funghi-con-pure-di-cavolfiore.html",
-      "image": "https://www.giallozafferano.it/images/368-36855/Cotolette-di-funghi-con-pure-di-cavolfiore_1200x800.jpg",
-      "summary": "Le cotolette di funghi con purè di cavolfiore sono un secondo piatto vegetariano originale e sfizioso, perfetto per portare in tavola un'alternativa alle classiche cotolette di carne . Protagonisti della ricetta sono ...",
-      "date": "2026-11-13T09:10:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:1df95da0e206",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Lasagne al ragù di cavolfiore",
-      "url": "https://ricette.giallozafferano.it/Lasagne-al-ragu-di-cavolfiore.html",
-      "image": "https://www.giallozafferano.it/images/368-36803/Lasagne-al-ragu-di-cavolfiore_1200x800.jpg",
-      "summary": "Le lasagne al ragù di cavolfiore sono un primo piatto invernale ricco e saporito, perfetto per il pranzo in famiglia. Morbide all’interno e gratinate in superficie, queste lasagne vegetariane conquistano con l’abbracc...",
-      "date": "2026-11-13T09:09:00.0000000Z"
     }
   ]
 }
