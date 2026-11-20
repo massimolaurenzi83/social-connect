@@ -1,7 +1,79 @@
 {
   "category": "mondo",
-  "updated": "2026-11-20T01:12:31.1299851Z",
+  "updated": "2026-11-20T08:36:45.9917447Z",
   "items": [
+    {
+      "id": "ansa-mondo:bd3a4648272e",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Forze armate polacche, verifiche su una possibile violazione dello spazio aereo",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/forze-armate-polacche-verifiche-su-una-possibile-violazione-dello-spazio-aereo_6104402c-305d-441e-a983-2c8dfb41bd5e.html",
+      "image": null,
+      "summary": "Attacco su Kiev, tre morti e colpiti i ponti cittadini",
+      "date": "2026-11-20T08:03:43.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:507236861713",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
+      "image": null,
+      "summary": "Meloni con i Volenterosi: 'Mandato chiaro all'E5'. Zelensky: 'Garanzia è l'adesione Nato'",
+      "date": "2026-11-20T07:10:27.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:e7f414a005ff",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Tre morti e due feriti a Kiev per gli attacchi russi della notte",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/20/tre-morti-e-due-feriti-a-kiev-per-gli-attacchi-russi-della_ab21f2f0-1d1c-4c4e-856c-ac8da6d5dde9.html",
+      "image": null,
+      "summary": "Lo ha reso noto l'amministrazione militare della capitale ucraina",
+      "date": "2026-11-20T05:31:21.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:50187f37fc84",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Sindaco Kiev, 'colpiti ponti cittadini, traffico interrotto'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/sindaco-kiev-colpiti-ponti-cittadini-traffico-interrotto_569e8935-0a65-4df1-8b3e-f1c6b717909c.html",
+      "image": null,
+      "summary": "'L'entità dei danni si potrà valutare terminata l'allerta aerea'",
+      "date": "2026-11-20T04:52:38.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:b57d6fac9681",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "'Trump agli europei, Putin vuole la fine della guerra'",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/trump-agli-europei-putin-vuole-la-fine-della-guerra_fad02026-ed79-4ad6-a2a0-59790fcd1a0c.html",
+      "image": null,
+      "summary": "Lo riporta Axios",
+      "date": "2026-11-20T02:12:14.0000000Z"
+    },
+    {
+      "id": "ansa-mondo:27192d2bc769",
+      "sourceId": "ansa-mondo",
+      "source": "ANSA Mondo",
+      "platform": "rss",
+      "category": "mondo",
+      "title": "Attacco missilistico su Kiev, incendi in più quartieri",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/attacco-missilistico-su-kiev-incendi-in-piu-quartieri_dc4d87e1-c1a6-4cb5-826f-a0985aa6e723.html",
+      "image": null,
+      "summary": "Colpita anche zona vicino a un ponte",
+      "date": "2026-11-20T02:10:07.0000000Z"
+    },
     {
       "id": "ansa-mondo:9f864cb1c215",
       "sourceId": "ansa-mondo",
@@ -25,18 +97,6 @@
       "image": null,
       "summary": "'Mi sono accorta della fuga dopo l'arrivo della polizia'. L'avvocato, 'non ci sono prove'",
       "date": "2026-11-19T21:17:49.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:507236861713",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
-      "image": null,
-      "summary": "Meloni con i Volenterosi: 'Mandato chiaro all'E5'. Zelensky: 'Garanzia è l'adesione Nato'",
-      "date": "2026-11-19T20:34:24.0000000Z"
     },
     {
       "id": "ansa-mondo:1321f37b79e2",
@@ -85,66 +145,6 @@
       "image": null,
       "summary": "'Bene dichiarazione di Shenzen ma non parla di Ucraina: non c'è pace senza Kiev ed Europa'",
       "date": "2026-11-19T17:44:59.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:5a9481626470",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Meloni al summit dei Volenterosi, il formato E5 deve avere un mandato chiaro",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/meloni-al-summit-dei-volenterosi-il-formato-e5-deve-avere-un-mandato-chiaro_a8075afc-454f-47c5-b426-bcfbfed46dbe.html",
-      "image": null,
-      "summary": "'L'Italia non arriva a mani vuote, le garanzie modello articolo 5 Nato proposte da noi'",
-      "date": "2026-11-19T17:43:27.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:231b1d280258",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Meloni al summit dei Volenterosi, il formato E5 deve avere un mandato chiaro",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/meloni-al-summit-dei-volenterosi-il-formato-e5-deve-avere-un-mandato-chiaro_43194d79-ba91-421d-94e3-f1a71079862c.html",
-      "image": null,
-      "summary": "'L'Italia non arriva a mani vuote, le garanzie modello articolo 5 Nato proposte da noi'",
-      "date": "2026-11-19T17:42:35.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:d3448428843c",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Kushner, 'Russia ha accettato di partecipare a formato multilaterale con europei",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/19/kushner-russia-ha-accettato-di-partecipare-a-formato-multilaterale-con-europei_a6c347e0-f68f-4b2d-9a65-1d06abb38558.html",
-      "image": null,
-      "summary": "'Europa e Mosca devono tornare a parlarsi'",
-      "date": "2026-11-19T17:36:35.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:706714f96570",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Merz, 'siamo pronti a parlare con Putin ma in un luogo neutrale'",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/merz-siamo-pronti-a-parlare-con-putin-ma-in-un-luogo-neutrale_e0182ca2-dd05-4ac1-aa2f-a15472359542.html",
-      "image": null,
-      "summary": "",
-      "date": "2026-11-19T17:30:12.0000000Z"
-    },
-    {
-      "id": "ansa-mondo:61b63af96990",
-      "sourceId": "ansa-mondo",
-      "source": "ANSA Mondo",
-      "platform": "rss",
-      "category": "mondo",
-      "title": "Kushner, 'Trump non vuole un accordo unilaterale' per la pace in Ucraina",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/19/kushner-trump-non-vuole-un-accordo-unilaterale-per-la-pace-in-ucraina_d894d6ca-8045-4140-84ce-a84f43b392ea.html",
-      "image": null,
-      "summary": "'Vuole un'intesa con l'Europa e Kiev'",
-      "date": "2026-11-19T17:29:52.0000000Z"
     },
     {
       "id": "internazionale:4a79da565a5b",
