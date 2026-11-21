@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-11-21T12:27:55.8621860Z",
+  "updated": "2026-11-21T19:42:24.0155690Z",
   "items": [
+    {
+      "id": "motor1:38d9d070075b",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Land Rover 2027: tutte le novità in arrivo",
+      "url": "https://it.motor1.com/news/816225/land-rover-2027-novita-modelli/",
+      "image": "https://cdn.motor1.com/images/mgl/L36zx3/s3/land-rover-2027-novita.jpg",
+      "summary": "Debutterà la Range Rover GT, primo modello non SUV del brand, assieme all'arrivo nelle concessionarie delle Range Rover e Range Rover Sport elettriche",
+      "date": "2026-11-21T14:00:00.0000000Z"
+    },
     {
       "id": "hdmotori:3a2759d0e406",
       "sourceId": "hdmotori",
@@ -327,18 +339,6 @@
       "date": "2026-11-20T14:00:44.0000000Z"
     },
     {
-      "id": "insideevs:273839b96f5f",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Camion elettrici, in Texas arriva la ricarica megawatt per il Tesla Semi",
-      "url": "https://insideevs.it/news/816207/tesla-megacharger-texas-ricarica-semi/",
-      "image": "https://cdn.motor1.com/images/mgl/OoZP3L/s3/camion-elettrici-in-texas-arriva-la-ricarica-megawatt-per-il-tesla-semi.jpg",
-      "summary": "A fine novembre la rete pubblica sale a 10 siti e 55 stalli in sette Stati",
-      "date": "2026-11-20T14:00:00.0000000Z"
-    },
-    {
       "id": "motor1:f7794a5fb917",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -348,6 +348,18 @@
       "url": "https://it.motor1.com/news/816237/ford-transit-city-prezzi-versioni/",
       "image": "https://cdn.motor1.com/images/mgl/jl8rRk/s3/ford-transit-city-l1h1.jpg",
       "summary": "Il furgone, nato elettrico elettrico di Ford parte da un listino pieno di 31.950 euro IVA esclusa: tre versioni, batteria LFP da 56 kWh",
+      "date": "2026-11-20T14:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:273839b96f5f",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Camion elettrici, in Texas arriva la ricarica megawatt per il Tesla Semi",
+      "url": "https://insideevs.it/news/816207/tesla-megacharger-texas-ricarica-semi/",
+      "image": "https://cdn.motor1.com/images/mgl/OoZP3L/s3/camion-elettrici-in-texas-arriva-la-ricarica-megawatt-per-il-tesla-semi.jpg",
+      "summary": "A fine novembre la rete pubblica sale a 10 siti e 55 stalli in sette Stati",
       "date": "2026-11-20T14:00:00.0000000Z"
     },
     {
@@ -420,18 +432,6 @@
       "url": "https://insideevs.it/news/816183/alpitronic-fabbrica-south-carolina/",
       "image": "https://cdn.motor1.com/images/mgl/G3ePwx/s3/alpitronic-ev-chargers.jpg",
       "summary": "Le ricariche rapide EV di Alpitronic crescono negli Stati Uniti. Una nuova fabbrica in South Carolina aumenterà la produzione",
-      "date": "2026-11-20T10:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:bcf828c45815",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Ferrari di Jeremy Clarkson venduta a una cifra da record",
-      "url": "https://it.motor1.com/news/816179/ferrari-f355-jeremy-clarkson-asta/",
-      "image": "https://cdn.motor1.com/images/mgl/9me2jG/s3/jeremy-clarkson-s-1996-ferrari-f355-gts.jpg",
-      "summary": "La F355 GTS comprata nuova dal conduttore nel 1996 ha superato i 480.000 euro: nel 2025 era rimasta invenduta all’asta",
       "date": "2026-11-20T10:00:00.0000000Z"
     },
     {
