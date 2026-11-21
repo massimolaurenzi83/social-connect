@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-11-21T03:59:23.0408984Z",
+  "updated": "2026-11-21T12:27:55.8839373Z",
   "items": [
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-11-21T05:30:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-11-21T05:00:00.0000000Z"
+    },
     {
       "id": "qualenergia:1f0315be74d7",
       "sourceId": "qualenergia",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Gli episodi di danneggiamento, minaccia o furto degli impianti a fonti rinnovabili tengono impegnate le forze dell’ordine. Se da un lato si moltiplicano gli episodi critici che coinvolgono le infrastrutture del sistem...",
       "date": "2026-11-20T08:45:30.0000000Z"
-    },
-    {
-      "id": "qualenergia:68680bbf26c7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "L’Europa dà una mano alle emissioni di metano",
-      "url": "https://www.qualenergia.it/articoli/europa-da-una-mano-emissioni-metano/",
-      "image": null,
-      "summary": "La Commissione europea aveva proposto di rinviare di un anno l’applicazione di alcune norme del regolamento Ue 2024/1787 sulle emissioni di metano attualmente in vigore. Il Parlamento europeo puntava decisamente più i...",
-      "date": "2026-11-20T08:00:29.0000000Z"
-    },
-    {
-      "id": "qualenergia:64b813bc87f7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "In Puglia finanziamenti agevolati alle microimprese anche per la riqualificazione energetica",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/puglia-finanziamenti-agevolati-microimprese-riqualificazione-energetica/",
-      "image": null,
-      "summary": "La Regione Puglia ha annunciato l’apertura del “Fondo MicroPrestito Puglia 2021-2027” che punta a migliorare l’accesso al credito delle microimprese pugliesi, sostenendo la realizzazione di nuovi investimenti e incent...",
-      "date": "2026-11-20T07:55:38.0000000Z"
     }
   ]
 }

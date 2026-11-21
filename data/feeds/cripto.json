@@ -1,7 +1,31 @@
 {
   "category": "cripto",
-  "updated": "2026-11-21T03:59:23.0341278Z",
+  "updated": "2026-11-21T12:27:55.8672153Z",
   "items": [
+    {
+      "id": "cryptonomist:2ec9cea5b788",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "Il riciclaggio crypto da 6,4 miliardi su Binance muove 860 milioni in ETH",
+      "url": "https://cryptonomist.ch/2026/11/21/riciclaggio-crypto-6-4-miliardi-su-binance/",
+      "image": null,
+      "summary": "Dal 17 novembre, oltre 860 milioni di dollari in ETH sono stati collegati al riciclaggio crypto da 6,4 miliardi su Binance, secondo Elliptic.",
+      "date": "2026-11-21T11:38:24.0000000Z"
+    },
+    {
+      "id": "cryptonomist:2aee18f2d849",
+      "sourceId": "cryptonomist",
+      "source": "The Cryptonomist",
+      "platform": "rss",
+      "category": "cripto",
+      "title": "L’iniziativa Appia dell’Eurosistema invita gruppi a progettare la finanza tokenizzata",
+      "url": "https://cryptonomist.ch/2026/11/21/iniziativa-appia-dell-eurosistema/",
+      "image": null,
+      "summary": "L'iniziativa Appia dell'Eurosistema invita a progettare finanza tokenizzata in Europa solo in gruppi di entità giuridiche indipendenti.",
+      "date": "2026-11-21T11:37:06.0000000Z"
+    },
     {
       "id": "cryptonomist:14063025c193",
       "sourceId": "cryptonomist",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Le azioni SNDK mantengono un orientamento ribassista sul grafico giornaliero: Sandisk è sotto le principali medie mobili esponenziali e l'RSI giornaliero è.",
       "date": "2026-11-20T09:16:23.0000000Z"
-    },
-    {
-      "id": "cryptonomist:f3960c47abba",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Azioni Nikkei 225: NiSource chiude in calo dello 0,8% ma resta sopra l’EMA20 giornaliera a 44,45 dollari",
-      "url": "https://cryptonomist.ch/2026/11/20/nisource-azioni-nikkei-225-chiude-44-56/",
-      "image": null,
-      "summary": "NiSource ha chiuso giovedì a 44,56 dollari, in calo dello 0,8%.",
-      "date": "2026-11-20T09:15:43.0000000Z"
-    },
-    {
-      "id": "cryptonomist:19c0c12bbef5",
-      "sourceId": "cryptonomist",
-      "source": "The Cryptonomist",
-      "platform": "rss",
-      "category": "cripto",
-      "title": "Talos sospetta un malware nordcoreano su Solana: cambia server tramite memo",
-      "url": "https://cryptonomist.ch/2026/11/20/malware-nordcoreano-su-solana/",
-      "image": null,
-      "summary": "Un malware nordcoreano su Solana nasconde info nei memo delle transazioni, consentendo agli aggressori di cambiare server senza rimuovere il malware.",
-      "date": "2026-11-20T09:14:55.0000000Z"
     }
   ]
 }
