@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-11-20T23:11:06.7913777Z",
+  "updated": "2026-11-21T03:59:23.0327232Z",
   "items": [
+    {
+      "id": "motor1:89d2a64402f3",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Omoda 7 (2026), perché comprarla e perché no",
+      "url": "https://it.motor1.com/reviews/816110/omoda-7-recensione-video-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/W8bWb1/s3/omoda-7-plug-in-perche-comprarla...-e-perche-no.jpg",
+      "summary": "E' comodo, ha una buona autonomia in elettrico e carica in DC. Il rollio però è marcato e la gestione passa tutta per uno schermo",
+      "date": "2026-11-21T00:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:802659850ebf",
       "sourceId": "vaielettrico",
@@ -339,18 +351,6 @@
       "date": "2026-11-20T10:30:15.0000000Z"
     },
     {
-      "id": "motor1:bcf828c45815",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Ferrari di Jeremy Clarkson venduta a una cifra da record",
-      "url": "https://it.motor1.com/news/816179/ferrari-f355-jeremy-clarkson-asta/",
-      "image": "https://cdn.motor1.com/images/mgl/9me2jG/s3/jeremy-clarkson-s-1996-ferrari-f355-gts.jpg",
-      "summary": "La F355 GTS comprata nuova dal conduttore nel 1996 ha superato i 480.000 euro: nel 2025 era rimasta invenduta all’asta",
-      "date": "2026-11-20T10:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:15a841cfa5c0",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -360,6 +360,18 @@
       "url": "https://insideevs.it/news/816183/alpitronic-fabbrica-south-carolina/",
       "image": "https://cdn.motor1.com/images/mgl/G3ePwx/s3/alpitronic-ev-chargers.jpg",
       "summary": "Le ricariche rapide EV di Alpitronic crescono negli Stati Uniti. Una nuova fabbrica in South Carolina aumenterà la produzione",
+      "date": "2026-11-20T10:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:bcf828c45815",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La Ferrari di Jeremy Clarkson venduta a una cifra da record",
+      "url": "https://it.motor1.com/news/816179/ferrari-f355-jeremy-clarkson-asta/",
+      "image": "https://cdn.motor1.com/images/mgl/9me2jG/s3/jeremy-clarkson-s-1996-ferrari-f355-gts.jpg",
+      "summary": "La F355 GTS comprata nuova dal conduttore nel 1996 ha superato i 480.000 euro: nel 2025 era rimasta invenduta all’asta",
       "date": "2026-11-20T10:00:00.0000000Z"
     },
     {
@@ -397,18 +409,6 @@
       "image": "https://cdn.motor1.com/images/mgl/ojPBgE/s3/ford-30-000-electric-truck.jpg",
       "summary": "Le prime celle escono dallo stabilimento del Michigan .Saranno utilizzate sui prototipi del pickup elettrico Fathom",
       "date": "2026-11-20T08:21:00.0000000Z"
-    },
-    {
-      "id": "motor1:788d7c1e0838",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le auto di GTA 6 sono vere, una è in vendita",
-      "url": "https://it.motor1.com/news/816126/grotti-cheetah-gta-6-vendita/",
-      "image": "https://cdn.motor1.com/images/mgl/qkYmL1/s3/grotti-cheetah.jpg",
-      "summary": "La Ferrari Testarossa trasformata in Grotti Cheetah è l’unica tra le sei auto di GTA 6 davvero acquistabile. Costa più di 1 milione di euro",
-      "date": "2026-11-20T07:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:1a6b19bdb959",

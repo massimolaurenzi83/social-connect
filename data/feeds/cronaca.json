@@ -1,7 +1,19 @@
 {
   "category": "cronaca",
-  "updated": "2026-11-20T23:11:06.8128417Z",
+  "updated": "2026-11-21T03:59:23.0601382Z",
   "items": [
+    {
+      "id": "ansa-cronaca:0de3fc3bca39",
+      "sourceId": "ansa-cronaca",
+      "source": "ANSA Cronaca",
+      "platform": "rss",
+      "category": "cronaca",
+      "title": "007 Usa hanno allertato le compagnie aeree, 'Al Qaeda pronta a compiere attacchi'",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/007-usa-hanno-allertato-le-compagnie-aeree-al-qaeda-pronta-a-compiere-attacchi_ef44c206-b623-4395-af92-e81c190d1e63.html",
+      "image": null,
+      "summary": "'Messaggi che incoraggiano azioni simili al tentato dirottamento del volo per Tel Aviv'",
+      "date": "2026-11-21T02:25:08.0000000Z"
+    },
     {
       "id": "ansa-cronaca:6db12cadaa4b",
       "sourceId": "ansa-cronaca",
@@ -133,18 +145,6 @@
       "image": null,
       "summary": "Ne parlano indagati: \"Una fetta per lui\". Il Commissario alla ricostruzione: \"Millanterie\"",
       "date": "2026-11-20T17:30:45.0000000Z"
-    },
-    {
-      "id": "ansa-cronaca:fa3de04cdaf2",
-      "sourceId": "ansa-cronaca",
-      "source": "ANSA Cronaca",
-      "platform": "rss",
-      "category": "cronaca",
-      "title": "Polizia, in arrivo il nono volume del commissario Mascherpa",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/20/polizia-in-arrivo-il-nono-volume-del-commissario-mascherpa_dbc21344-c3c8-468a-af56-88aa88c4d765.html",
-      "image": null,
-      "summary": "'Inganno ad arte' presentato alla biblioteca della Biennale di Venezia",
-      "date": "2026-11-20T17:21:42.0000000Z"
     }
   ]
 }
