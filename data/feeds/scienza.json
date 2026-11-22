@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-11-22T14:28:52.3156942Z",
+  "updated": "2026-11-22T20:49:27.6141308Z",
   "items": [
+    {
+      "id": "focus:0a965ee74cf0",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Le aquile cacciano i babbuini",
+      "url": "https://www.focus.it/ambiente/animali/aquile-cacciano-babbuini",
+      "image": "https://www.focus.it/images/2026/11/20/babbuini_w630.jpg?imbypass=true",
+      "summary": "Nel Ciad vive una popolazione di babbuini che sono spesso preda delle aquile: questo ci dice qualcosa anche sul nostro passato evolutivo.",
+      "date": "2026-11-22T12:00:00.0000000Z"
+    },
     {
       "id": "focus:6f47d715ecf6",
       "sourceId": "focus",
@@ -111,18 +123,6 @@
       "date": "2026-11-20T12:00:00.0000000Z"
     },
     {
-      "id": "focus:9be415e5ac00",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Le meteo-foto più belle del 2026",
-      "url": "https://www.focus.it/scienza/scienze/weather-photographer-year-2026-foto-vincitrici",
-      "image": "https://www.focus.it/images/2026/11/20/mares-de-niebla-francisco-bail-n-rodr-guez_w630.jpeg?imbypass=true",
-      "summary": "Una cascata di nebbia a Maiorca vince il Weather Photographer of the Year 2026. Guarda le foto premiate, dai fulmini su New York all'Antartide.",
-      "date": "2026-11-20T10:00:00.0000000Z"
-    },
-    {
       "id": "focus:36d4781b27dd",
       "sourceId": "focus",
       "source": "Focus",
@@ -135,16 +135,16 @@
       "date": "2026-11-20T10:00:00.0000000Z"
     },
     {
-      "id": "focus:cde9de2ae06a",
+      "id": "focus:9be415e5ac00",
       "sourceId": "focus",
       "source": "Focus",
       "platform": "rss",
       "category": "scienza",
-      "title": "I cani che proteggono le volpi",
-      "url": "https://www.focus.it/ambiente/animali/un-nuovo-metodo-per-proteggere-le-volpi-americane-i-cani",
-      "image": "https://www.focus.it/images/2026/11/06/volpe-americana_w630.jpg?imbypass=true",
-      "summary": "Le volpi americane sono sempre più rare: in Texas stanno provando a proteggerle con i cani da guardiania.",
-      "date": "2026-11-20T07:00:00.0000000Z"
+      "title": "Le meteo-foto più belle del 2026",
+      "url": "https://www.focus.it/scienza/scienze/weather-photographer-year-2026-foto-vincitrici",
+      "image": "https://www.focus.it/images/2026/11/20/mares-de-niebla-francisco-bail-n-rodr-guez_w630.jpeg?imbypass=true",
+      "summary": "Una cascata di nebbia a Maiorca vince il Weather Photographer of the Year 2026. Guarda le foto premiate, dai fulmini su New York all'Antartide.",
+      "date": "2026-11-20T10:00:00.0000000Z"
     },
     {
       "id": "media-inaf:d4c486041e30",
