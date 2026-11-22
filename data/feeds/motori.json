@@ -1,18 +1,102 @@
 {
   "category": "motori",
-  "updated": "2026-11-22T06:01:45.2866968Z",
+  "updated": "2026-11-22T14:28:52.3742219Z",
   "items": [
     {
-      "id": "insideevs:c483874d6f11",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
+      "id": "motor1:e28455a38c80",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Fuoribordo elettrici, ecco perché novembre è il mese della svolta",
-      "url": "https://insideevs.it/news/816257/nautica-elettrica-retrofit-installatori/",
-      "image": "https://cdn.motor1.com/images/mgl/6ZOv1Z/s3/fuoribordo-elettrici-ecco-perche-novembre-e-il-mese-della-svolta.jpg",
-      "summary": "Le nuove norme sul retrofit sono già operative: per convertire un motore tradizionale servono requisiti professionali e autorizzazioni",
-      "date": "2026-11-22T06:00:00.0000000Z"
+      "title": "Peugeot 208, tutti i prezzi e gli allestimenti",
+      "url": "https://it.motor1.com/news/813899/peugeot-208-prezzi-allestimenti/",
+      "image": "https://cdn.motor1.com/images/mgl/KbB34A/s3/peugeot-e-208-facelift-2024.jpg",
+      "summary": "Dalla Style alla GTi, passando per la nuova Lumiere: ecco come cambiano dotazioni, carattere e prezzi della compatta francese",
+      "date": "2026-11-22T14:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:38fd3d21f5b3",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Crisi dell’auto, il presidente di Confindustria Orsini: «Ce la siamo cercata»",
+      "url": "https://www.hdmotori.it/crisi-auto-confindustria-orsini/",
+      "image": null,
+      "summary": "A Bologna il leader di Confindustria difende la Motor Valley e accusa l'Europa di aver frenato lo sviluppo con scelte ideologiche. The post Crisi dell’auto, il presidente di Confindustria Orsini: «Ce la siamo cercata»...",
+      "date": "2026-11-22T13:00:26.0000000Z"
+    },
+    {
+      "id": "hdmotori:19a840d2c213",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes fa chiarezza sulla crisi interna e sulla chiusura degli stabilimenti",
+      "url": "https://www.hdmotori.it/mercedes-chiarezza-crisi-stabilimenti/",
+      "image": null,
+      "summary": "Il costruttore di Stoccarda conferma il congelamento degli investimenti in Germania, ma precisa che nessuna chiusura è stata ancora decisa. The post Mercedes fa chiarezza sulla crisi interna e sulla chiusura degli sta...",
+      "date": "2026-11-22T11:00:36.0000000Z"
+    },
+    {
+      "id": "motor1:8ace2b45e676",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Un weekend con il Ford Nugget dei 40 anni",
+      "url": "https://it.motor1.com/news/816011/ford-nugget-40-anniversario-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/lE4PzJ/s3/ford-nugget-40-jahre-edition-2026-im-test.jpg",
+      "summary": "Motore da 170 CV, ampio spazio e una disposizione intelligente. Ecco la prova del Ford Nugget dell'anniversario",
+      "date": "2026-11-22T11:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:ad5ed25ce757",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Nuovo Codice della Strada, incognita sul pedaggio per chi perde il biglietto",
+      "url": "https://www.hdmotori.it/nuovo-codice-della-strada-incognita-sul-pedaggio-per-chi-perde-il-biglietto/",
+      "image": null,
+      "summary": "Nel nuovo testo del Codice della strada non compare più la regola che impone, in caso di mancato biglietto, il pagamento calcolato dalla stazione di ingresso più lontana. La disposizione resta nelle convenzioni con i ...",
+      "date": "2026-11-22T10:00:56.0000000Z"
+    },
+    {
+      "id": "hdmotori:781c4adfa185",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ferrari 296 Challenge Stradale e Challenge Evo: aerodinamica e prestazioni senza compromessi",
+      "url": "https://www.hdmotori.it/ferrari-296-challenge-stradale-e-challenge-evo-aerodinamica-e-prestazioni-senza-compromessi/",
+      "image": null,
+      "summary": "Ferrari rafforza il legame tra strada e pista con due nuove vetture sviluppate attorno al V6 biturbo da 670 e 700 CV. La Stradale trasferisce su strada la filosofia delle competizioni, mentre la Challenge Evo evolve i...",
+      "date": "2026-11-22T09:30:10.0000000Z"
+    },
+    {
+      "id": "hdmotori:7f892c9758ca",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "BMW, il prototipo segreto della M7: scovato il peccato originale tedesco",
+      "url": "https://www.hdmotori.it/bmw-prototipo-segreto-m7/",
+      "image": null,
+      "summary": "Quasi 30 anni fa la Casa bavarese aveva in cantiere una M7, basata sulla Serie 7 E38. Perché non è mai stata prodotta? The post BMW, il prototipo segreto della M7: scovato il peccato originale tedesco appeared first o...",
+      "date": "2026-11-22T09:00:03.0000000Z"
+    },
+    {
+      "id": "hdmotori:c7699942b942",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Milano AutoClassica, Alfa Romeo e Ferrari da leggenda: le rarità che hanno fatto la storia",
+      "url": "https://www.hdmotori.it/milano-autoclassica-alfa-romeo-ferrari/",
+      "image": null,
+      "summary": "Milano AutoClassica 2026 celebra i 100 anni di Touring Superleggera e i 75 della Scuderia Sant Ambroeus con Alfa Romeo, Ferrari e Maserati rarissime The post Milano AutoClassica, Alfa Romeo e Ferrari da leggenda: le r...",
+      "date": "2026-11-22T08:00:25.0000000Z"
     },
     {
       "id": "motor1:71686c64a4a7",
@@ -24,6 +108,18 @@
       "url": "https://it.motor1.com/news/816275/benz-patent-motorwagen-1886-viaggio/",
       "image": "https://cdn.motor1.com/images/mgl/8A0Nge/s3/mitfahrt-im-benz-patent-motorwagen-nr.1-1886.jpg",
       "summary": "Il Big Bang su tre ruote può essere preso alla lettera ...",
+      "date": "2026-11-22T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:c483874d6f11",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Fuoribordo elettrici, ecco perché novembre è il mese della svolta",
+      "url": "https://insideevs.it/news/816257/nautica-elettrica-retrofit-installatori/",
+      "image": "https://cdn.motor1.com/images/mgl/6ZOv1Z/s3/fuoribordo-elettrici-ecco-perche-novembre-e-il-mese-della-svolta.jpg",
+      "summary": "Le nuove norme sul retrofit sono già operative: per convertire un motore tradizionale servono requisiti professionali e autorizzazioni",
       "date": "2026-11-22T06:00:00.0000000Z"
     },
     {
@@ -135,18 +231,6 @@
       "date": "2026-11-21T08:00:49.0000000Z"
     },
     {
-      "id": "hdmotori:195149488b2e",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla Assisted Driving approvato in Italia: via libera alla guida assistita avanzata",
-      "url": "https://www.hdmotori.it/tesla-assisted-driving-approvato-italia/",
-      "image": null,
-      "summary": "Il Mit concede l'omologazione provvisoria al sistema di Elon Musk: l'Italia è il dodicesimo Paese europeo ad autorizzare la tecnologia verso il voto Ue di dicembre. The post Tesla Assisted Driving approvato in Italia:...",
-      "date": "2026-11-21T07:30:24.0000000Z"
-    },
-    {
       "id": "motor1:78b680d28aa0",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -195,18 +279,6 @@
       "date": "2026-11-20T18:13:27.0000000Z"
     },
     {
-      "id": "hdmotori:c564d42874cc",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Volkswagen ID. Polo GTI Clubsport, 367 CV e 240 km/h: una piccola belva da pista",
-      "url": "https://www.hdmotori.it/volkswagen-id-polo-gti-clubsport-concept-caratteristiche-motore/",
-      "image": null,
-      "summary": "Per i 50 anni della sigla GTI, Volkswagen porta a Essen un prototipo elettrico a due porte con motore APP550 sull'asse anteriore, roll-bar e freni carboceramici The post Volkswagen ID. Polo GTI Clubsport, 367 CV e 240...",
-      "date": "2026-11-20T18:00:56.0000000Z"
-    },
-    {
       "id": "vaielettrico:f165dc4f0153",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -231,18 +303,6 @@
       "date": "2026-11-20T17:30:00.0000000Z"
     },
     {
-      "id": "hdmotori:4e5d5041ed0d",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Bonneville diventa 400: con la T40 e T40 Black si parte da 6.695 euro",
-      "url": "https://www.hdmotori.it/triumph-bonneville-t40-t40-black-prezzo-uscita-2027/",
-      "image": null,
-      "summary": "Le nuove Triumph Bonneville T40 e T40 Black debuttano a 6.695 euro ad aprile 2027: stile classico, motore TR da 32 CV, elettronica cornering e tagliandi ogni 16.000 km The post La Bonneville diventa 400: con la T40 e ...",
-      "date": "2026-11-20T17:00:04.0000000Z"
-    },
-    {
       "id": "motor1:c959c2df6afa",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -265,18 +325,6 @@
       "image": null,
       "summary": "Quanto consuma una Tesla in Camp Mod, che tiene in funzione la climatizzazione mentre dormi all’interno del veicolo.… L'articolo Quanto consuma una Tesla in Camp Mode proviene da Vaielettrico .",
       "date": "2026-11-20T16:59:26.0000000Z"
-    },
-    {
-      "id": "hdmotori:5f2c4091da88",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Le auto più affidabili sono loro: la classifica delle migliori e delle peggiori",
-      "url": "https://www.hdmotori.it/auto-piu-affidabili-classifica/",
-      "image": null,
-      "summary": "In Germania è emersa una graduatoria delle vetture più affidabili sul mercato. Vi sono modelli di assoluto spessore The post Le auto più affidabili sono loro: la classifica delle migliori e delle peggiori appeared fir...",
-      "date": "2026-11-20T16:00:46.0000000Z"
     },
     {
       "id": "motor1:f7c5bb45d66e",
@@ -315,16 +363,16 @@
       "date": "2026-11-20T15:11:49.0000000Z"
     },
     {
-      "id": "hdmotori:d6fbb4bbc7b3",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "insideevs:222f6a8f82ec",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "La Volkswagen elettrica sotto i 20.000 euro è pronta: nata per la città",
-      "url": "https://www.hdmotori.it/volkswagen-elettrica-id-20-000-euro/",
-      "image": null,
-      "summary": "Le prime ID.1 di pre-serie sono già uscite dalle linee di Autoeuropa, stabilimento Volkswagen vicino a Lisbona. The post La Volkswagen elettrica sotto i 20.000 euro è pronta: nata per la città appeared first on HDmoto...",
-      "date": "2026-11-20T15:00:41.0000000Z"
+      "title": "Bambini in Uber dai 10 anni, parte il test con nuove regole di sicurezza",
+      "url": "https://insideevs.it/news/816209/uber-kids-test-bambini/",
+      "image": "https://cdn.motor1.com/images/mgl/pb8r4J/s3/bambini-in-uber-dai-10-anni-parte-il-test-con-nuove-regole-di-sicurezza.jpg",
+      "summary": "Il bambino viaggia da solo, ma solo con PIN e registrazione audio-video obbligatori: il test parte in tre città americane",
+      "date": "2026-11-20T15:00:00.0000000Z"
     },
     {
       "id": "motor1:7bdcf24c8186",
@@ -336,18 +384,6 @@
       "url": "https://it.motor1.com/news/816104/plancia-guida-autonoma-senza-volante/",
       "image": "https://cdn.motor1.com/images/mgl/ZnlAgr/s3/se-l-auto-guida-da-sola-a-cosa-serve-il-volante.jpg",
       "summary": "Possiamo già guidare senza mani, ma non senza guardare la strada: mi chiedo se sia arrivato il momento di ripensare la plancia.",
-      "date": "2026-11-20T15:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:222f6a8f82ec",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Bambini in Uber dai 10 anni, parte il test con nuove regole di sicurezza",
-      "url": "https://insideevs.it/news/816209/uber-kids-test-bambini/",
-      "image": "https://cdn.motor1.com/images/mgl/pb8r4J/s3/bambini-in-uber-dai-10-anni-parte-il-test-con-nuove-regole-di-sicurezza.jpg",
-      "summary": "Il bambino viaggia da solo, ma solo con PIN e registrazione audio-video obbligatori: il test parte in tre città americane",
       "date": "2026-11-20T15:00:00.0000000Z"
     },
     {
@@ -363,18 +399,6 @@
       "date": "2026-11-20T14:02:04.0000000Z"
     },
     {
-      "id": "hdmotori:2383bc37a708",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla prepara una Model Y L in versione robotaxi: senza volante né pedali",
-      "url": "https://www.hdmotori.it/tesla-prepara-model-y-l-robotaxi/",
-      "image": null,
-      "summary": "Dopo il Cybercab a due posti, Elon Musk svela al DealBook Summit il piano per una versione autonoma a sei o sette posti destinata alle corse collettive. The post Tesla prepara una Model Y L in versione robotaxi: senza...",
-      "date": "2026-11-20T14:00:44.0000000Z"
-    },
-    {
       "id": "insideevs:273839b96f5f",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -385,30 +409,6 @@
       "image": "https://cdn.motor1.com/images/mgl/OoZP3L/s3/camion-elettrici-in-texas-arriva-la-ricarica-megawatt-per-il-tesla-semi.jpg",
       "summary": "A fine novembre la rete pubblica sale a 10 siti e 55 stalli in sette Stati",
       "date": "2026-11-20T14:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:f7794a5fb917",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ford Transit City, nato per la città prezzi e dotazioni: si parte dalla promo di 26.850 euro",
-      "url": "https://it.motor1.com/news/816237/ford-transit-city-prezzi-versioni/",
-      "image": "https://cdn.motor1.com/images/mgl/jl8rRk/s3/ford-transit-city-l1h1.jpg",
-      "summary": "Il furgone, nato elettrico elettrico di Ford parte da un listino pieno di 31.950 euro IVA esclusa: tre versioni, batteria LFP da 56 kWh",
-      "date": "2026-11-20T14:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:3b1f02f4628e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Porsche 550 Spyder è tornata. Ma è molto più piccola",
-      "url": "https://it.motor1.com/news/816176/porsche-550-j-hedley-studios/",
-      "image": "https://cdn.motor1.com/images/mgl/7Z1P17/s3/porsche-550-j.jpg",
-      "summary": "La 550 J di Hedley Studios riprende la sportiva degli anni ’50 in scala all’80%. E' elettrica e costa 80.000 euro",
-      "date": "2026-11-20T13:00:00.0000000Z"
     },
     {
       "id": "insideevs:661632257795",

@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-11-22T06:01:45.2596768Z",
+  "updated": "2026-11-22T14:28:52.3703271Z",
   "items": [
+    {
+      "id": "ferrovie:f6817084b42e",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Nuovi treni, servizi e infrastrutture, ecco le notizie ferroviarie della settimana",
+      "url": "https://www.ferrovie.info/treni-reali/nuovi-treni-servizi-e-infrastrutture-ecco-le-notizie-ferroviarie-della-settimana.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_ETR108_006_Trenitalia.jpeg",
+      "summary": "Una settimana particolarmente ricca per il panorama ferroviario italiano, con l’arrivo di nuovi convogli regionali, l’avvio di servizi commerciali internazionali e importanti cambiamenti nell’offerta di trasporto pass...",
+      "date": "2026-11-22T09:04:56.0000000Z"
+    },
     {
       "id": "ferrovie:f2adb79218fb",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10702/FS_E494_064_Pontenure.jpg",
       "summary": "Lo Smart Train di FS Logistix amplia il proprio campo di sperimentazione e raggiunge anche la Germania . Il progetto dedicato alla digitalizzazione del trasporto ferroviario merci viene esteso alle relazioni Verona-Co...",
       "date": "2026-11-18T14:27:36.0000000Z"
-    },
-    {
-      "id": "ferrovie:5985d5a5fe7a",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Trentino, consegnato il primo dei nuovi treni ibridi HTR 412",
-      "url": "https://www.ferrovie.info/treni-reali/trentino-consegnato-il-primo-dei-nuovi-treni-ibridi-htr-412.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10648/normal_htr_412_treno_trentino_600.jpg",
-      "summary": "Prosegue il rinnovo della flotta ferroviaria destinata ai servizi della Provincia autonoma di Trento . Nella giornata di oggi, 18 novembre, è stato consegnato il primo dei quattro nuovi convogli ibridi HTR 412 commiss...",
-      "date": "2026-11-18T10:28:55.0000000Z"
     }
   ]
 }
