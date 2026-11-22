@@ -1,7 +1,43 @@
 {
   "category": "motori",
-  "updated": "2026-11-21T23:57:25.4680698Z",
+  "updated": "2026-11-22T06:01:45.2866968Z",
   "items": [
+    {
+      "id": "insideevs:c483874d6f11",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Fuoribordo elettrici, ecco perché novembre è il mese della svolta",
+      "url": "https://insideevs.it/news/816257/nautica-elettrica-retrofit-installatori/",
+      "image": "https://cdn.motor1.com/images/mgl/6ZOv1Z/s3/fuoribordo-elettrici-ecco-perche-novembre-e-il-mese-della-svolta.jpg",
+      "summary": "Le nuove norme sul retrofit sono già operative: per convertire un motore tradizionale servono requisiti professionali e autorizzazioni",
+      "date": "2026-11-22T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:71686c64a4a7",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Abbiamo provato la prima auto della storia: il viaggio sulla Benz Patent-Motorwagen del 1886",
+      "url": "https://it.motor1.com/news/816275/benz-patent-motorwagen-1886-viaggio/",
+      "image": "https://cdn.motor1.com/images/mgl/8A0Nge/s3/mitfahrt-im-benz-patent-motorwagen-nr.1-1886.jpg",
+      "summary": "Il Big Bang su tre ruote può essere preso alla lettera ...",
+      "date": "2026-11-22T06:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:2630f62002a5",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ferrari 296 Challenge Stradale: è un'auto da corsa omologata!",
+      "url": "https://it.motor1.com/news/816263/ferrari-296-challenge-stradale-omologata/",
+      "image": "https://cdn.motor1.com/images/mgl/BX1RB4/s3/ferrari-296-challenge-stradale.jpg",
+      "summary": "Zero ibrido, 670 CV, 1.330 kg, 617 kg di carico. Nata in simbiosi con la 296 Challenge Evo 2027.",
+      "date": "2026-11-21T22:00:00.0000000Z"
+    },
     {
       "id": "motor1:38d9d070075b",
       "sourceId": "motor1",
@@ -111,18 +147,6 @@
       "date": "2026-11-21T07:30:24.0000000Z"
     },
     {
-      "id": "insideevs:f0e57688fc3f",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "CATL sfida l'Europa: non sarete competitivi sul riciclo delle batterie",
-      "url": "https://insideevs.it/news/816192/cina-europa-sfida-riciclo-batterie/",
-      "image": "https://cdn.motor1.com/images/mgl/P3BbQ2/s3/batteria-catl.jpg",
-      "summary": "Recuperare materie prime da celle giunte a fine vita, da noi, avrà sempre costì più alti che in Cina. Meglio fare altro",
-      "date": "2026-11-21T06:00:00.0000000Z"
-    },
-    {
       "id": "motor1:78b680d28aa0",
       "sourceId": "motor1",
       "source": "Motor1 Italia",
@@ -132,6 +156,18 @@
       "url": "https://it.motor1.com/news/813943/fiat-131-abarth-storia-rally/",
       "image": "https://cdn.motor1.com/images/mgl/2N96Mx/s3/fiat-131-abarth-rally-stradale-1977.jpg",
       "summary": "Nata per correre e stupire, la 131 Abarth è una leggenda dell'automobilismo italiano. Ma quanto vale un esemplare Stradale?",
+      "date": "2026-11-21T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:f0e57688fc3f",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "CATL sfida l'Europa: non sarete competitivi sul riciclo delle batterie",
+      "url": "https://insideevs.it/news/816192/cina-europa-sfida-riciclo-batterie/",
+      "image": "https://cdn.motor1.com/images/mgl/P3BbQ2/s3/batteria-catl.jpg",
+      "summary": "Recuperare materie prime da celle giunte a fine vita, da noi, avrà sempre costì più alti che in Cina. Meglio fare altro",
       "date": "2026-11-21T06:00:00.0000000Z"
     },
     {
@@ -339,18 +375,6 @@
       "date": "2026-11-20T14:00:44.0000000Z"
     },
     {
-      "id": "motor1:f7794a5fb917",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Ford Transit City, nato per la città prezzi e dotazioni: si parte dalla promo di 26.850 euro",
-      "url": "https://it.motor1.com/news/816237/ford-transit-city-prezzi-versioni/",
-      "image": "https://cdn.motor1.com/images/mgl/jl8rRk/s3/ford-transit-city-l1h1.jpg",
-      "summary": "Il furgone, nato elettrico elettrico di Ford parte da un listino pieno di 31.950 euro IVA esclusa: tre versioni, batteria LFP da 56 kWh",
-      "date": "2026-11-20T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:273839b96f5f",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -360,6 +384,18 @@
       "url": "https://insideevs.it/news/816207/tesla-megacharger-texas-ricarica-semi/",
       "image": "https://cdn.motor1.com/images/mgl/OoZP3L/s3/camion-elettrici-in-texas-arriva-la-ricarica-megawatt-per-il-tesla-semi.jpg",
       "summary": "A fine novembre la rete pubblica sale a 10 siti e 55 stalli in sette Stati",
+      "date": "2026-11-20T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:f7794a5fb917",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Ford Transit City, nato per la città prezzi e dotazioni: si parte dalla promo di 26.850 euro",
+      "url": "https://it.motor1.com/news/816237/ford-transit-city-prezzi-versioni/",
+      "image": "https://cdn.motor1.com/images/mgl/jl8rRk/s3/ford-transit-city-l1h1.jpg",
+      "summary": "Il furgone, nato elettrico elettrico di Ford parte da un listino pieno di 31.950 euro IVA esclusa: tre versioni, batteria LFP da 56 kWh",
       "date": "2026-11-20T14:00:00.0000000Z"
     },
     {
@@ -373,18 +409,6 @@
       "image": "https://cdn.motor1.com/images/mgl/7Z1P17/s3/porsche-550-j.jpg",
       "summary": "La 550 J di Hedley Studios riprende la sportiva degli anni ’50 in scala all’80%. E' elettrica e costa 80.000 euro",
       "date": "2026-11-20T13:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:1f0c66f36209",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Omoda 2027, tutte le novità in arrivo",
-      "url": "https://it.motor1.com/news/816043/omoda-2027-novita-modelli/",
-      "image": "https://cdn.motor1.com/images/mgl/Rqb833/s3/novita-omoda-2027.jpg",
-      "summary": "Debutta la Omoda 4, crossover compatto ibrido, assieme al restyling della Omoda 5. In arrivo anche la Omoda X",
-      "date": "2026-11-20T12:00:00.0000000Z"
     },
     {
       "id": "insideevs:661632257795",
@@ -409,18 +433,6 @@
       "image": null,
       "summary": "Questo matrimonio s’ha da fare! E alla fine è approdato in porto quello tra Torqeedo, azienda pioniera della… L'articolo Torqeedo matrimonio riuscito con Yamaha: nuova batteria e fuoribordo proviene da Vaielettrico .",
       "date": "2026-11-20T11:53:55.0000000Z"
-    },
-    {
-      "id": "motor1:c108af00ea0c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La nuova Volkswagen Polo perde 3 posti e guadagna più potenza che mai",
-      "url": "https://it.motor1.com/news/816193/volkswagen-id-polo-gti-clubsport-concept/",
-      "image": "https://cdn.motor1.com/images/mgl/QeGA41/s3/vw-id.-polo-gti-clubsport-concept-2026.jpg",
-      "summary": "Questa concept è la Polo elettrica più potente, con differenziale anteriore bloccante, freni in ceramica e solo tre porte",
-      "date": "2026-11-20T11:00:00.0000000Z"
     },
     {
       "id": "insideevs:15a841cfa5c0",
@@ -517,18 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/qk87Ez/s3/la-cina-fa-decollare-l-aereo-elettrico-ecco-quanto-vola.jpg",
       "summary": "Il COMAC CE-25A ha volato con tre persone a bordo. Può trasportare 19 passeggeri e promette 400 km di autonomia",
       "date": "2026-11-19T13:30:00.0000000Z"
-    },
-    {
-      "id": "insideevs:8ad2902e1a7c",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Stretto di Hormuz fermo? I governi spingono su EV e solare",
-      "url": "https://insideevs.it/news/816036/crisi-hormuz-iea-auto-elettriche/",
-      "image": "https://cdn.motor1.com/images/mgl/QeGxn0/s3/auto-elettrica-e-pannelli-solari.jpg",
-      "summary": "Il World Energy Outlook 2026 lega sicurezza energetica, riduzione del petrolio e crescita di auto elettriche e pannelli solari",
-      "date": "2026-11-19T11:00:00.0000000Z"
     }
   ]
 }
