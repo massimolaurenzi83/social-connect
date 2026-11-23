@@ -1,7 +1,103 @@
 {
   "category": "motori",
-  "updated": "2026-11-23T01:11:02.3385991Z",
+  "updated": "2026-11-23T09:08:02.6803839Z",
   "items": [
+    {
+      "id": "motor1:7116ebef849b",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen Golf GTI Rabbit : una versione nostalgica per gli USA",
+      "url": "https://it.motor1.com/news/816376/volkswagen-golf-gti-rabbit-2027/",
+      "image": "https://cdn.motor1.com/images/mgl/xqO27k/s3/2027-vw-golf-gti-rabbit-edition.jpg",
+      "summary": "Ha tante \"chicche\" interessanti, ma manca ancora il cambio manuale",
+      "date": "2026-11-23T09:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:dd83c2665d63",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Gran Premio più strano di sempre",
+      "url": "https://it.motor1.com/news/816380/gran-premio-las-vegas-2026-lego/",
+      "image": "https://cdn.motor1.com/images/mgl/pb8rrY/s3/le-monoposto-lego-al-gran-premio-di-las-vegas-2026.jpg",
+      "summary": "Si è tenuto a Las Vegas, con monoposto fatte di Lego e 11 celebrità alla guida",
+      "date": "2026-11-23T09:00:00.0000000Z"
+    },
+    {
+      "id": "hdmotori:fcdb01bdf9a0",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Come verificare un’auto usata: il metodo dei professionisti",
+      "url": "https://www.hdmotori.it/come-verificare-storia-auto-usata/",
+      "image": null,
+      "summary": "Vuoi acquistare un'auto usata senza sorprese? Scopri come verificare frodi sul chilometraggio, incidenti, danni e fermi amministrativi con un controllo storico del veicolo. The post Come verificare un’auto usata: il m...",
+      "date": "2026-11-23T08:00:17.0000000Z"
+    },
+    {
+      "id": "motor1:816ed68f5141",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Roma si prende il motor show d’inizio anno col Rome International Auto Expo 2028",
+      "url": "https://it.motor1.com/news/816244/rome-international-auto-expo-2028/",
+      "image": "https://cdn.motor1.com/images/mgl/KbZzZb/s3/rome-international-auto-expo-2028.jpg",
+      "summary": "Dal 18 al 27 febbraio 2028 la Fiera di Roma ospita Rome International Auto Expo, dieci giorni di esposizioni, test drive e incontri",
+      "date": "2026-11-23T08:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:41f5c5e83bce",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il Tesla Full Self-Driving V15 rende la tua guida simile a GTA 6",
+      "url": "https://insideevs.it/news/816378/tesla-fsd-v15-gta-6/",
+      "image": "https://cdn.motor1.com/images/mgl/P3V9w4/s3/tesla-fsd-v15.jpg",
+      "summary": "La nuova telecamera di inseguimento mostra dove sta andando l'auto e cosa c'è intorno, con più sicurezza nelle situazioni critiche",
+      "date": "2026-11-23T08:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:312c9a30142e",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "La nuova Lexus NX e i suoi prezzi: ecco quanto costa",
+      "url": "https://it.motor1.com/news/816354/lexus-nx-2027-ibrido-prezzi/",
+      "image": "https://cdn.motor1.com/images/mgl/lE4rJ6/s3/lexus-nx450h-f-sport.jpg",
+      "summary": "Il nuovo Lexus NX debutta in Europa con quattro allestimenti, motori ibridi fino a 307 CV e oltre 100 km elettrici sul plug-in",
+      "date": "2026-11-23T07:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:57f353c8415f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Volkswagen T-Roc Hybrid vs Toyota Corolla Cross, sfida tra SUV full hybrid",
+      "url": "https://it.motor1.com/news/813887/volkswagen-t-roc-vs-toyota-corolla-cross-2026/",
+      "image": "https://cdn.motor1.com/images/mgl/bgOJ6v/s3/volkswagen-t-roc-vs-toyota-corolla-cross-2026.jpg",
+      "summary": "Due modi diversi di interpretare il SUV ibrido: T-Roc punta su un motore turbo, Corolla Cross risponde (anche) con la trazione integrale",
+      "date": "2026-11-23T06:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:251ef9c63700",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Batterie al sodio, è il carbonio duro che può farle costare come il litio",
+      "url": "https://insideevs.it/news/816279/batterie-sodio-ione-carbonio-duro-prezzo/",
+      "image": "https://cdn.motor1.com/images/mgl/pb8rWW/s3/batterie-al-sodio-e-il-carbonio-duro-che-puo-farle-costare-come-il-litio.jpg",
+      "summary": "Tra 1.200 e 1.600 gradi i pori si chiudono e la cella guadagna capacità: sotto quella soglia l'efficienza crolla",
+      "date": "2026-11-23T06:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:994a67e767cb",
       "sourceId": "vaielettrico",
@@ -255,16 +351,16 @@
       "date": "2026-11-21T09:00:58.0000000Z"
     },
     {
-      "id": "hdmotori:9e3a92e200ac",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "motor1:78b680d28aa0",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Sembra un’auto, ma si guida pedalando: arriva il triciclo elettrico che sfida le citycar",
-      "url": "https://www.hdmotori.it/valbera-tripod-velomobile-elettrico-tre-ruote-caratteristiche/",
-      "image": null,
-      "summary": "Il nuovo velomobile a pedalata assistita firmato dalla startup francese Valbera unisce abitacolo chiuso, 170 litri di bagagliaio e spazio per il seggiolino bambini The post Sembra un’auto, ma si guida pedalando: arriv...",
-      "date": "2026-11-21T08:00:49.0000000Z"
+      "title": "La Fiat da famiglia che conquistò il Mondiale rally",
+      "url": "https://it.motor1.com/news/813943/fiat-131-abarth-storia-rally/",
+      "image": "https://cdn.motor1.com/images/mgl/2N96Mx/s3/fiat-131-abarth-rally-stradale-1977.jpg",
+      "summary": "Nata per correre e stupire, la 131 Abarth è una leggenda dell'automobilismo italiano. Ma quanto vale un esemplare Stradale?",
+      "date": "2026-11-21T06:00:00.0000000Z"
     },
     {
       "id": "insideevs:f0e57688fc3f",
@@ -276,18 +372,6 @@
       "url": "https://insideevs.it/news/816192/cina-europa-sfida-riciclo-batterie/",
       "image": "https://cdn.motor1.com/images/mgl/P3BbQ2/s3/batteria-catl.jpg",
       "summary": "Recuperare materie prime da celle giunte a fine vita, da noi, avrà sempre costì più alti che in Cina. Meglio fare altro",
-      "date": "2026-11-21T06:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:78b680d28aa0",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Fiat da famiglia che conquistò il Mondiale rally",
-      "url": "https://it.motor1.com/news/813943/fiat-131-abarth-storia-rally/",
-      "image": "https://cdn.motor1.com/images/mgl/2N96Mx/s3/fiat-131-abarth-rally-stradale-1977.jpg",
-      "summary": "Nata per correre e stupire, la 131 Abarth è una leggenda dell'automobilismo italiano. Ma quanto vale un esemplare Stradale?",
       "date": "2026-11-21T06:00:00.0000000Z"
     },
     {
@@ -327,30 +411,6 @@
       "date": "2026-11-20T17:43:06.0000000Z"
     },
     {
-      "id": "motor1:cda65797a8c1",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il nuovo ibrido Honda debutta su un SUV 7 posti",
-      "url": "https://it.motor1.com/news/816289/honda-nuovo-ibrido-debutto-avancier/",
-      "image": "https://cdn.motor1.com/images/mgl/pb8BVg/s3/honda-avancier.jpg",
-      "summary": "Presentata la Honda Avancier, nuovo modello che per primo monta il powertrain ibrido della Casa",
-      "date": "2026-11-20T17:30:00.0000000Z"
-    },
-    {
-      "id": "motor1:c959c2df6afa",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il SUV con motore benzina, elettrico e volante a scomparsa",
-      "url": "https://it.motor1.com/news/816277/byd-fang-cheng-bao-ti9/",
-      "image": "https://cdn.motor1.com/images/mgl/jl8rB6/s3/byd-fang-cheng-bao-ti-9.jpg",
-      "summary": "Debutta la Fang Cheng Bao Ti 9, con volante pieghevole per quando non si vuole guidare",
-      "date": "2026-11-20T17:00:00.0000000Z"
-    },
-    {
       "id": "vaielettrico:1dfeb28afbe5",
       "sourceId": "vaielettrico",
       "source": "Vaielettrico",
@@ -361,30 +421,6 @@
       "image": null,
       "summary": "Quanto consuma una Tesla in Camp Mod, che tiene in funzione la climatizzazione mentre dormi all’interno del veicolo.… L'articolo Quanto consuma una Tesla in Camp Mode proviene da Vaielettrico .",
       "date": "2026-11-20T16:59:26.0000000Z"
-    },
-    {
-      "id": "motor1:f7c5bb45d66e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "XPeng G9L, un'elettrica che ricarica in 12 minuti",
-      "url": "https://it.motor1.com/reviews/816242/xpeng-g9l-2027-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/xqOrOz/s3/photo-cover-xpeng-g9l-2027.jpg",
-      "summary": "La \"L\" nel nome sta per lusso, perché si tratta della nuova ammiraglia Xpeng a 6 o 7 posti, con prezzi da circa 75.000 euro",
-      "date": "2026-11-20T16:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:0166271af5ec",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Opel e Leapmotor firmano un accordo di cooperazione ufficiale",
-      "url": "https://it.motor1.com/news/816261/opel-leapmotor-firma-accord-suv/",
-      "image": "https://cdn.motor1.com/images/mgl/Vzbnpz/s3/opel-midland-2028-il-render-di-motor1.com.jpg",
-      "summary": "Il nuovo SUV Opel per l'Europa verrà prodotto in Spagna dal 2028",
-      "date": "2026-11-20T15:30:00.0000000Z"
     },
     {
       "id": "vaielettrico:946364126467",
@@ -408,18 +444,6 @@
       "url": "https://insideevs.it/news/816209/uber-kids-test-bambini/",
       "image": "https://cdn.motor1.com/images/mgl/pb8r4J/s3/bambini-in-uber-dai-10-anni-parte-il-test-con-nuove-regole-di-sicurezza.jpg",
       "summary": "Il bambino viaggia da solo, ma solo con PIN e registrazione audio-video obbligatori: il test parte in tre città americane",
-      "date": "2026-11-20T15:00:00.0000000Z"
-    },
-    {
-      "id": "motor1:7bdcf24c8186",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Se l'auto guida da sola, a cosa serve il volante?",
-      "url": "https://it.motor1.com/news/816104/plancia-guida-autonoma-senza-volante/",
-      "image": "https://cdn.motor1.com/images/mgl/ZnlAgr/s3/se-l-auto-guida-da-sola-a-cosa-serve-il-volante.jpg",
-      "summary": "Possiamo già guidare senza mani, ma non senza guardare la strada: mi chiedo se sia arrivato il momento di ripensare la plancia.",
       "date": "2026-11-20T15:00:00.0000000Z"
     },
     {
@@ -505,30 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/vx7WMK/s3/c-e-un-incredibile-auto-italiana-a-energia-solare-pronta-a-correre.jpg",
       "summary": "Onda Solare è un progetto che nasce all'Università di Bologna e nel 2027 tornerà in Australia con Emilia 6 per una gara speciale",
       "date": "2026-11-19T16:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:1fdce93683ea",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "L'auto elettrica si deve ricaricare pure su GTA VI",
-      "url": "https://insideevs.it/news/816120/gta-vi-auto-elettriche-ricarica/",
-      "image": "https://cdn.motor1.com/images/mgl/XBbwgl/s3/gta-vi-le-novita-per-chi-ama-le-auto.jpg",
-      "summary": "A Vice City ci si ferma anche alla colonnina: circa 15 dollari per mezza batteria e pochi secondi per ripartire",
-      "date": "2026-11-19T15:15:00.0000000Z"
-    },
-    {
-      "id": "insideevs:b7e91062060f",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Cina fa decollare l'aereo elettrico: ecco quanto vola",
-      "url": "https://insideevs.it/news/816094/comac-ce-25a-batterie-limiti/",
-      "image": "https://cdn.motor1.com/images/mgl/qk87Ez/s3/la-cina-fa-decollare-l-aereo-elettrico-ecco-quanto-vola.jpg",
-      "summary": "Il COMAC CE-25A ha volato con tre persone a bordo. Può trasportare 19 passeggeri e promette 400 km di autonomia",
-      "date": "2026-11-19T13:30:00.0000000Z"
     }
   ]
 }
