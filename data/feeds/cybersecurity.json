@@ -1,7 +1,91 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-24T05:22:41.9900578Z",
+  "updated": "2026-11-24T16:05:08.0101995Z",
   "items": [
+    {
+      "id": "cybersecurity360:969f3764477b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "La sicurezza si allena prima in famiglia e poi in ufficio",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/la-sicurezza-si-allena-prima-in-famiglia-e-poi-in-ufficio/",
+      "image": null,
+      "summary": "Dalla protezione del Wi-Fi domestico all'autenticazione a più fattori, le abitudini digitali maturate in famiglia possono diventare una risorsa per la cyber security aziendale. Ecco perché i CISO dovrebbero ripensare ...",
+      "date": "2026-11-24T15:44:41.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:6767f6e69448",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Shirudo, quando l’AI protegge i server: chi risponde delle mitigazioni generate dagli agenti",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/shirudo-quando-lai-protegge-i-server-chi-risponde-delle-mitigazioni-generate-dagli-agenti/",
+      "image": null,
+      "summary": "Con Shirudo, OpenAI e Cisco riducono il tempo tra la scoperta di una vulnerabilità e la sua mitigazione. Ma affidare agli agenti AI la generazione degli scudi di sicurezza apre nuovi interrogativi sulla responsabilità...",
+      "date": "2026-11-24T15:23:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:e17b6a42f99e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Gestione del rischio cyber nella PA: misurare l’esposizione dei servizi essenziali",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/gestione-del-rischio-cyber-nella-pa-misurare-lesposizione-dei-servizi-essenziali/",
+      "image": null,
+      "summary": "Un servizio può dipendere da componenti che l’ente non gestisce direttamente e da correzioni che richiedono tempo. L’analisi dell’esposizione aiuta a definire le priorità di intervento e a verificare che le protezioni...",
+      "date": "2026-11-24T11:42:41.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:96fe1c303d71",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Hosting Ionos Plus gratis per 12 mesi: 120 euro di sconto, scanner antimalware integrato, CDN e 200 GB su storage NVMe SSD",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/hosting-ionos-plus-1-anno-gratis-scanner-antimalware-cdn/",
+      "image": null,
+      "summary": "Il piano Hosting Plus propone 12 mesi senza canone, con uno sconto dichiarato di 120 euro. Include 200 GB su storage NVMe SSD, scanner antimalware, CDN, dominio e due caselle e-mail. Dal secondo anno il costo sale a 9...",
+      "date": "2026-11-24T11:15:47.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:26fb4809976d",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Quando il rischio cyber diventa rischio clinico: il ruolo della NIS2 nella sicurezza dei dispositivi medici",
+      "url": "https://www.cybersecurity360.it/legal/quando-il-rischio-cyber-diventa-rischio-clinico-il-ruolo-della-nis2-nella-sicurezza-dei-dispositivi-medici/",
+      "image": null,
+      "summary": "I dispositivi medici connessi migliorano la qualità e l’efficienza dell’assistenza, ma introducono nuove dipendenze tecnologiche e ampliano la superficie di attacco delle strutture sanitarie L'articolo Quando il risch...",
+      "date": "2026-11-24T10:47:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:109c072c364a",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "CrowdStrike compra Zscaler: la cyber security cambia scala con l’AI",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/crowdstrike-compra-zscaler-la-cyber-security-cambia-scala-con-lai/",
+      "image": null,
+      "summary": "CrowdStrike annuncia l'acquisizione di Zscaler per 43,9 miliardi di dollari. L'operazione punta a integrare sicurezza degli endpoint, delle reti e degli agenti AI, accelerando il consolidamento del settore e sollevand...",
+      "date": "2026-11-24T09:34:31.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:2a0acb85ea24",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "DPIA, LIA e FRIA: perché l’AI moltiplica i documenti e come rimetterli in ordine",
+      "url": "https://www.cybersecurity360.it/legal/dpia-lia-e-fria-perche-lai-moltiplica-i-documenti-e-come-rimetterli-in-ordine/",
+      "image": null,
+      "summary": "Un sistema di intelligenza artificiale può richiedere fino a tre valutazioni preventive. Ecco che cosa chiede ciascuna valutazione, correggendo un equivoco diffuso su chi debba redigere la FRIA (che non è una DPIA per...",
+      "date": "2026-11-24T08:00:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:524c8b621771",
       "sourceId": "cybersecurity360",
@@ -37,90 +121,6 @@
       "image": null,
       "summary": "Poste Italiane conferma una violazione dei dati legata al servizio PosteCert Firma Digitale. Non risultano compromesse le chiavi di firma, ma le informazioni personali sottratte possono alimentare phishing mirato, SIM...",
       "date": "2026-11-23T15:01:22.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:438af647b6d4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Black Friday TotalVPN: sconto dell’80% a 1,59 euro al mese con antivirus TotalAV e Total Adblock inclusi gratuitamente",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/black-friday-totalvpn-sconto-80-totalav-adblock/",
-      "image": null,
-      "summary": "Black Friday anticipato per TotalVPN: abbonamento annuale a 19 euro, con uno sconto dell'80%. Nel pacchetto sono inclusi gratuitamente anche l'antivirus TotalAV e il servizio Total Adblock, ma dal secondo anno scatta ...",
-      "date": "2026-11-23T12:58:36.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:259d1bd61ed9",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "DDoS e PHP2Shell nel bilancio ACN di ottobre sulla minaccia cyber",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/ddos-e-php2shell-nel-bilancio-acn-di-ottobre-sulla-minaccia-cyber/",
-      "image": null,
-      "summary": "L’Operational Summary ACN di ottobre 2026 registra 691 eventi cyber (+42%) e 394 incidenti confermati. Calano le vittime conteggiate, mentre raddoppiano i sistemi e i servizi potenzialmente vulnerabili rilevati, sopra...",
-      "date": "2026-11-23T11:34:54.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:0338a38e80fc",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il furto dei pesi dei modelli AI: occorre proteggere queste infrastrutture critiche",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/il-furto-dei-pesi-dei-modelli-ai-occorre-proteggere-queste-infrastrutture-critiche/",
-      "image": null,
-      "summary": "Un rischio è il furto dei pesi, quei parametri numerici che i modelli AI apprendono durante l'addestramento e che, in pratica, coincidono con i modelli stessi. Ecco cosa emerge da uno studio L'articolo Il furto dei pe...",
-      "date": "2026-11-23T11:04:23.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:4626a92b4873",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Quanto siamo cyber resilienti: alla cyber war non si risponde con un kit di sopravvivenza per 72 ore",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/quanto-siamo-cyber-resilienti-alla-cyber-war-non-si-risponde-con-un-kit-di-sopravvivenza-per-72-ore/",
-      "image": null,
-      "summary": "Il 3 novembre, la Commissione europea ha presentato delle linee guida non vincolanti per insegnare ai cittadini a cavarsela da soli per almeno 72 ore. Ma la formazione e d esercitazioni sono funzioni fondamentali per ...",
-      "date": "2026-11-23T09:16:40.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:b99b261237f4",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Codice open source generato dall’AI: come cambia la fiducia",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/codice-open-source-generato-dallai-come-cambia-la-fiducia/",
-      "image": null,
-      "summary": "L'adozione diffusa dell'intelligenza artificiale nello sviluppo software sta trasformando la sicurezza dell'open source, azzerando i costi di produzione e creando un insostenibile collo di bottiglia nella verifica del...",
-      "date": "2026-11-23T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d0e83425c846",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Test di resilienza digitale DORA: come scegliere le verifiche e misurare i risultati",
-      "url": "https://www.cybersecurity360.it/legal/test-di-resilienza-digitale-dora-come-scegliere-le-verifiche-e-misurare-i-risultati/",
-      "image": null,
-      "summary": "I test di resilienza digitale DORA verificano come tengono i controlli quando un servizio critico è sotto pressione. La guida distingue vulnerability assessment, penetration test e TLPT e spiega come passare dalle evi...",
-      "date": "2026-11-20T16:49:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ae2f696326c5",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Business discontinuity",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/business-discontinuity/",
-      "image": null,
-      "summary": "La continuità operativa è un elemento strategico fondamentale, spesso sottovalutato dalle organizzazioni finché non è troppo tardi e diventa un'emergenza necessitata da qualche attacco o incidente L'articolo Business ...",
-      "date": "2026-11-20T14:49:23.0000000Z"
     }
   ]
 }
