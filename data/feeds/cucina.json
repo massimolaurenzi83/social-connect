@@ -1,7 +1,55 @@
 {
   "category": "cucina",
-  "updated": "2026-11-25T09:08:55.5295772Z",
+  "updated": "2026-11-25T19:14:03.1886601Z",
   "items": [
+    {
+      "id": "giallozafferano:8398110a57cb",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Curry di lenticchie",
+      "url": "https://ricette.giallozafferano.it/Curry-di-lenticchie.html",
+      "image": "https://www.giallozafferano.it/images/368-36896/Curry-di-lenticchie_1200x800.jpg",
+      "summary": "D’inverno non c’è niente di meglio di una corroborante zuppa di legumi per riscaldarsi, ma stavolta non si tratta della solita minestra! Il curry di lenticchie è un piatto vegano che si ispira ai sapori della cucina i...",
+      "date": "2026-11-25T15:00:00.0000000Z"
+    },
+    {
+      "id": "dissapore:3ccd3c995a13",
+      "sourceId": "dissapore",
+      "source": "Dissapore",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Joe Bastianich fa pubblicità a Esselunga ma non lo dichiara",
+      "url": "https://www.dissapore.com/notizie/joe-bastianich-fa-pubblicita-a-esselunga-ma-non-lo-dichiara/",
+      "image": null,
+      "summary": "La nuova partnership tra Esselunga Superstore e Joe Bastianich è bella, ma dovrebbe essere segnalata come pubblicità. L'articolo Joe Bastianich fa pubblicità a Esselunga ma non lo dichiara proviene da Dissapore .",
+      "date": "2026-11-25T13:28:02.0000000Z"
+    },
+    {
+      "id": "giallozafferano:cd8f539412da",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Panettoncini con mandarino candito e rosmarino",
+      "url": "https://ricette.giallozafferano.it/Panettoncini-con-mandarino-candito-e-rosmarino-natalizi.html",
+      "image": "https://www.giallozafferano.it/images/163-16395/Panettoncini-con-mandarino-candito-e-rosmarino-natalizi_1200x800.jpg",
+      "summary": "Portate in tavola il profumo delle feste con i panettoncini con mandarino candito e rosmarino : piccoli lievitati soffici, da gustare e da regalare! A Natale il pensiero corre subito ai panettoni appena sfornati, dai ...",
+      "date": "2026-11-25T13:26:36.0000000Z"
+    },
+    {
+      "id": "giallozafferano:7795f703a601",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Tartine di polenta",
+      "url": "https://ricette.giallozafferano.it/Tartine-di-polenta.html",
+      "image": "https://www.giallozafferano.it/images/368-36868/Tartine-di-polenta_1200x800.jpg",
+      "summary": "Le tartine di polenta sono un antipasto originale per arricchire il menù delle feste o per portare in tavola qualcosa di diverso durante un aperitivo in compagnia. Una ricetta semplice ma sfiziosa, che trasforma la tr...",
+      "date": "2026-11-25T10:29:00.0000000Z"
+    },
     {
       "id": "dissapore:a5903fd1d54d",
       "sourceId": "dissapore",
@@ -111,18 +159,6 @@
       "date": "2026-11-23T17:27:59.0000000Z"
     },
     {
-      "id": "giallozafferano:660487a7d594",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Riso venere con scarola e senape",
-      "url": "https://ricette.giallozafferano.it/Riso-venere-con-scarola-e-senape.html",
-      "image": "https://www.giallozafferano.it/images/368-36880/Riso-venere-con-scarola-e-senape_1200x800.jpg",
-      "summary": "Se cercate una pietanza leggera, colorata e ricca di gusto, il riso venere con scarola e senape è una ricetta sfiziosa che vi conquisterà con i suoi sapori e contrasti di consistenze. Un’alternativa alla classica insa...",
-      "date": "2026-11-23T15:15:00.0000000Z"
-    },
-    {
       "id": "giallozafferano:b05be4ec780d",
       "sourceId": "giallozafferano",
       "source": "GialloZafferano",
@@ -132,6 +168,18 @@
       "url": "https://ricette.giallozafferano.it/Pizzata-ligure.html",
       "image": "https://www.giallozafferano.it/images/368-36884/Pizzata-ligure_1200x800.jpg",
       "summary": "La pizzata ligure è una specialità sfiziosa della cucina ligure, caratterizzata da due sfoglie sottilissime che racchiudono un ripieno morbido di formaggio. Una ricetta senza lievito, croccante fuori e cremosa dentro,...",
+      "date": "2026-11-23T15:15:00.0000000Z"
+    },
+    {
+      "id": "giallozafferano:660487a7d594",
+      "sourceId": "giallozafferano",
+      "source": "GialloZafferano",
+      "platform": "rss",
+      "category": "cucina",
+      "title": "Riso venere con scarola e senape",
+      "url": "https://ricette.giallozafferano.it/Riso-venere-con-scarola-e-senape.html",
+      "image": "https://www.giallozafferano.it/images/368-36880/Riso-venere-con-scarola-e-senape_1200x800.jpg",
+      "summary": "Se cercate una pietanza leggera, colorata e ricca di gusto, il riso venere con scarola e senape è una ricetta sfiziosa che vi conquisterà con i suoi sapori e contrasti di consistenze. Un’alternativa alla classica insa...",
       "date": "2026-11-23T15:15:00.0000000Z"
     },
     {
@@ -181,18 +229,6 @@
       "image": null,
       "summary": "Dalla shrinkflation, che riduce le porzioni, alla skimpflation, che sostituisce gli ingredienti migliori con alternative più economiche. E accorgersene è sempre più difficile. L'articolo Hai sentito parlare della shri...",
       "date": "2026-11-21T17:48:30.0000000Z"
-    },
-    {
-      "id": "dissapore:f739851956b2",
-      "sourceId": "dissapore",
-      "source": "Dissapore",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Nel mondo si produce sempre meno zucchero",
-      "url": "https://www.dissapore.com/notizie/nel-mondo-si-produce-sempre-meno-zucchero/",
-      "image": null,
-      "summary": "Per l'Europa addirittura un calo del 19% il che comporta una dipendenza dalle importazioni in un momento in cui i prezzi saliranno. L'articolo Nel mondo si produce sempre meno zucchero proviene da Dissapore .",
-      "date": "2026-11-21T10:52:03.0000000Z"
     },
     {
       "id": "giallozafferano:81237780067d",
@@ -253,42 +289,6 @@
       "image": "https://www.giallozafferano.it/images/368-36874/Lasagne-funghi-taleggio-e-salsiccia_1200x800.jpg",
       "summary": "Le lasagne funghi, taleggio e salsiccia sono un primo piatto autunnale ricco e appagante, perfetto per il pranzo della domenica in famiglia. In questa lasagna bianca , le sfoglie di pasta fresca all’uovo racchiudono u...",
       "date": "2026-11-19T14:38:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:0508084fb131",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Polpette di baccalà mantecato",
-      "url": "https://ricette.giallozafferano.it/Polpette-di-baccala-mantecato.html",
-      "image": "https://www.giallozafferano.it/images/368-36871/Polpette-di-baccala-mantecato_1200x800.jpg",
-      "summary": "Le polpette di baccalà mantecato sono un secondo piatto elegante e originale, che reinterpreta in chiave moderna uno dei sapori più rustici e autentici della tradizione. Il protagonista è proprio il baccalà mantecato ...",
-      "date": "2026-11-19T09:51:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:9f39634930c6",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Torta soffice banana e cioccolato",
-      "url": "https://ricette.giallozafferano.it/Torta-soffice-banana-e-cioccolato.html",
-      "image": "https://www.giallozafferano.it/images/368-36869/Torta-soffice-banana-e-cioccolato_1200x800.jpg",
-      "summary": "La torta soffice banana e cioccolato è un dolce morbido e goloso, perfetto per la colazione o la merenda. Una ricetta semplice, ideale per utilizzare le banane mature, che regalano all'impasto una naturale dolcezza e ...",
-      "date": "2026-11-18T15:21:00.0000000Z"
-    },
-    {
-      "id": "giallozafferano:f857ff0cf4cd",
-      "sourceId": "giallozafferano",
-      "source": "GialloZafferano",
-      "platform": "rss",
-      "category": "cucina",
-      "title": "Biancomangiare al Parmigiano",
-      "url": "https://ricette.giallozafferano.it/Biancomangiare-al-Parmigiano.html",
-      "image": "https://www.giallozafferano.it/images/367-36798/Biancomangiare-al-Parmigiano_1200x800.jpg",
-      "summary": "In questa nuova puntata de “ La ricetta che ti fa felice ”, lo psicoterapeuta Michele Mezzanotte incontra la chef Aurora Mazzucchelli per parlare di gastronomia, passione e felicità. E qual è il piatto che la fa felic...",
-      "date": "2026-11-18T11:57:00.0000000Z"
     }
   ]
 }

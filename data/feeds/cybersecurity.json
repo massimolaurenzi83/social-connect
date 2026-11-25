@@ -1,7 +1,79 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-25T09:08:55.5308164Z",
+  "updated": "2026-11-25T19:14:03.1989816Z",
   "items": [
+    {
+      "id": "cybersecurity360:dd714898c8d2",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Computer quantistici, non dobbiamo aspettarli per prepararci all’era quantum: i rischi per l’Italia",
+      "url": "https://www.cybersecurity360.it/quantum-computing/computer-quantistici-non-dobbiamo-aspettarli-per-prepararci-allera-quantum-i-rischi-per-litalia/",
+      "image": null,
+      "summary": "La Ue ha identificato i computer quantistici e le tecnologie quantum come una priorità strategica e ha accelerato gli sforzi per prepararsi alla crittografia post-quantistica attraverso iniziative della Commissione e ...",
+      "date": "2026-11-25T16:30:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:06e475ef1658",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il manifatturiero è il bersaglio numero uno e il ransomware lo sa benissimo",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/il-manifatturiero-e-il-bersaglio-numero-uno-e-il-ransomware-lo-sa-benissimo/",
+      "image": null,
+      "summary": "La manifattura italiana è il settore più colpito dagli attacchi cyber nel nostro Paese, con il ransomware all'origine dell'89% degli incidenti censiti nel comparto. Le rivendicazioni di Aurora riaccendono l'attenzione...",
+      "date": "2026-11-25T16:20:01.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:80561b61e230",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "CIA violata, sospetti su ARTEX: l’AI cambia la scala degli attacchi",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/cia-violata-sospetti-su-artex-lai-cambia-la-scala-degli-attacchi/",
+      "image": null,
+      "summary": "Un sistema di intelligence non classificato utilizzato dalla CIA e da altre agenzie USA è stato violato, secondo fonti americane. I sospetti riguardano ARTEX, lo strumento AI nato per il penetration testing che accele...",
+      "date": "2026-11-25T15:51:05.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:7820c3476936",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "AI Kill Chain: l’intelligenza artificiale come arma e come bersaglio",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ai-kill-chain-lintelligenza-artificiale-come-arma-e-come-bersaglio/",
+      "image": null,
+      "summary": "Ormai gli agenti AI si occupano di quasi tutte le fasi di un attacco cyber, dalla ricognizione all'esfiltrazione. Il CSIRT Italia ne ha recentemente segnalati anche in Italia. E anche i copiloti e gli agenti aziendali...",
+      "date": "2026-11-25T15:13:30.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:77a69fdd647d",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Software abbandonato, l’allarme ACN: sfruttata una falla critica senza patch",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/software-abbandonato-lallarme-acn-sfruttata-una-falla-critica-senza-patch/",
+      "image": null,
+      "summary": "Una vulnerabilità critica già sfruttata negli attacchi informatici interessa una libreria ASP.NET non più mantenuta dal 2008. L'allarme dell'ACN evidenzia il rischio del software abbandonato nelle infrastrutture di az...",
+      "date": "2026-11-25T10:41:18.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:8369121da056",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Cyber attacchi alle navi energetiche: fino a 50 nel mirino, c’è anche l’Italia",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/cyber-attacchi-alle-navi-energetiche-fino-a-50-nel-mirino-ce-anche-litalia/",
+      "image": null,
+      "summary": "Gli Stati Uniti indagano su possibili attacchi informatici contro decine di navi che trasportano petrolio, gas e prodotti chimici. L’Iran è tra i principali sospettati, ma non ci sono prove pubbliche che ne dimostrino...",
+      "date": "2026-11-25T09:18:38.0000000Z"
+    },
     {
       "id": "cybersecurity360:4cdbdd5aa5af",
       "sourceId": "cybersecurity360",
@@ -49,78 +121,6 @@
       "image": null,
       "summary": "Non serve violare ogni firewall quando si può compromettere la console che li governa. La campagna contro Check Point di GT13 rivela quanto sia pericolosa la fiducia implicita nei sistemi di gestione centralizzata e p...",
       "date": "2026-11-24T16:25:02.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:ae56a26dea17",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Contratti e Data Act: cosa c’è e cosa manca nei modelli UE",
-      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/contratti-e-data-act-cosa-ce-e-cosa-manca-nei-modelli-ue/",
-      "image": null,
-      "summary": "Con la Raccomandazione UE 2026/2394, la Commissione europea traduce il Data Act in modelli contrattuali per l'accesso e la condivisione dei dati e per i servizi cloud. Uno strumento utile alle imprese, ma non privo di...",
-      "date": "2026-11-24T16:19:33.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:969f3764477b",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "La sicurezza si allena prima in famiglia e poi in ufficio",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/la-sicurezza-si-allena-prima-in-famiglia-e-poi-in-ufficio/",
-      "image": null,
-      "summary": "Dalla protezione del Wi-Fi domestico all'autenticazione a più fattori, le abitudini digitali maturate in famiglia possono diventare una risorsa per la cyber security aziendale. Ecco perché i CISO dovrebbero ripensare ...",
-      "date": "2026-11-24T15:44:41.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:6767f6e69448",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Shirudo, quando l’AI protegge i server: chi risponde delle mitigazioni generate dagli agenti",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/shirudo-quando-lai-protegge-i-server-chi-risponde-delle-mitigazioni-generate-dagli-agenti/",
-      "image": null,
-      "summary": "Con Shirudo, OpenAI e Cisco riducono il tempo tra la scoperta di una vulnerabilità e la sua mitigazione. Ma affidare agli agenti AI la generazione degli scudi di sicurezza apre nuovi interrogativi sulla responsabilità...",
-      "date": "2026-11-24T15:23:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:e17b6a42f99e",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Gestione del rischio cyber nella PA: misurare l’esposizione dei servizi essenziali",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/gestione-del-rischio-cyber-nella-pa-misurare-lesposizione-dei-servizi-essenziali/",
-      "image": null,
-      "summary": "Un servizio può dipendere da componenti che l’ente non gestisce direttamente e da correzioni che richiedono tempo. L’analisi dell’esposizione aiuta a definire le priorità di intervento e a verificare che le protezioni...",
-      "date": "2026-11-24T11:42:41.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:96fe1c303d71",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Hosting Ionos Plus gratis per 12 mesi: 120 euro di sconto, scanner antimalware integrato, CDN e 200 GB su storage NVMe SSD",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/hosting-ionos-plus-1-anno-gratis-scanner-antimalware-cdn/",
-      "image": null,
-      "summary": "Il piano Hosting Plus propone 12 mesi senza canone, con uno sconto dichiarato di 120 euro. Include 200 GB su storage NVMe SSD, scanner antimalware, CDN, dominio e due caselle e-mail. Dal secondo anno il costo sale a 9...",
-      "date": "2026-11-24T11:15:47.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:26fb4809976d",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Quando il rischio cyber diventa rischio clinico: il ruolo della NIS2 nella sicurezza dei dispositivi medici",
-      "url": "https://www.cybersecurity360.it/legal/quando-il-rischio-cyber-diventa-rischio-clinico-il-ruolo-della-nis2-nella-sicurezza-dei-dispositivi-medici/",
-      "image": null,
-      "summary": "I dispositivi medici connessi migliorano la qualità e l’efficienza dell’assistenza, ma introducono nuove dipendenze tecnologiche e ampliano la superficie di attacco delle strutture sanitarie L'articolo Quando il risch...",
-      "date": "2026-11-24T10:47:00.0000000Z"
     }
   ]
 }
