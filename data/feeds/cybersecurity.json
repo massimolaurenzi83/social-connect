@@ -1,7 +1,43 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-25T00:36:17.3310984Z",
+  "updated": "2026-11-25T09:08:55.5308164Z",
   "items": [
+    {
+      "id": "cybersecurity360:4cdbdd5aa5af",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "AI agentica: decidere bene non basta, serve il controllo dell’intero sistema",
+      "url": "https://www.cybersecurity360.it/outlook/ai-agentica-serve-controllo-intero-sistema/",
+      "image": null,
+      "summary": "L’AI agentica richiede identità verificabili per ogni agente, privilegi minimi, tracciabilità continua e un inventario vivo dei sistemi in uso. AI Act, NIS2 e DORA spingono le organizzazioni verso una responsabilità d...",
+      "date": "2026-11-25T08:44:25.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:4ad48b6b2ec9",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Sicurezza degli agenti AI, perché da Signal alle banche scatta il blocco",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/sicurezza-degli-agenti-ai-perche-da-signal-alle-banche-scatta-il-blocco/",
+      "image": null,
+      "summary": "Signal protegge le conversazioni dagli assistenti che leggono lo schermo. Banche e compagnie aeree limitano gli accessi degli agenti AI ai propri servizi. Per delegare un compito serve poter stabilire quali dati può l...",
+      "date": "2026-11-25T07:57:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:3e89c17f7f02",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Black Friday 2026: ecco la fabbrica dei falsi negozi",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/black-friday-2026-ecco-la-fabbrica-dei-falsi-negozi/",
+      "image": null,
+      "summary": "Una ricerca CloudSEK ricostruisce una rete di negozi online che cambiano continuamente dominio e raccolgono dati personali prima del pagamento. Kaspersky segnala 19,1 milioni di tentativi di accesso a pagine di phishi...",
+      "date": "2026-11-25T07:24:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:3a4597aa8cc9",
       "sourceId": "cybersecurity360",
@@ -85,42 +121,6 @@
       "image": null,
       "summary": "I dispositivi medici connessi migliorano la qualità e l’efficienza dell’assistenza, ma introducono nuove dipendenze tecnologiche e ampliano la superficie di attacco delle strutture sanitarie L'articolo Quando il risch...",
       "date": "2026-11-24T10:47:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:109c072c364a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "CrowdStrike compra Zscaler: la cyber security cambia scala con l’AI",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/crowdstrike-compra-zscaler-la-cyber-security-cambia-scala-con-lai/",
-      "image": null,
-      "summary": "CrowdStrike annuncia l'acquisizione di Zscaler per 43,9 miliardi di dollari. L'operazione punta a integrare sicurezza degli endpoint, delle reti e degli agenti AI, accelerando il consolidamento del settore e sollevand...",
-      "date": "2026-11-24T09:34:31.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:2a0acb85ea24",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "DPIA, LIA e FRIA: perché l’AI moltiplica i documenti e come rimetterli in ordine",
-      "url": "https://www.cybersecurity360.it/legal/dpia-lia-e-fria-perche-lai-moltiplica-i-documenti-e-come-rimetterli-in-ordine/",
-      "image": null,
-      "summary": "Un sistema di intelligenza artificiale può richiedere fino a tre valutazioni preventive. Ecco che cosa chiede ciascuna valutazione, correggendo un equivoco diffuso su chi debba redigere la FRIA (che non è una DPIA per...",
-      "date": "2026-11-24T08:00:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:524c8b621771",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "DORA, come progettare un programma di resilience testing",
-      "url": "https://www.cybersecurity360.it/legal/dora-come-progettare-un-programma-di-resilience-testing/",
-      "image": null,
-      "summary": "Un programma di resilience testing parte dalle funzioni essenziali e dai sistemi che le sostengono. La guida spiega come definire perimetro e frequenza dei test, includere le dipendenze dai fornitori e seguire gli esi...",
-      "date": "2026-11-23T17:25:00.0000000Z"
     }
   ]
 }

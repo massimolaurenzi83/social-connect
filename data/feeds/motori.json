@@ -1,7 +1,55 @@
 {
   "category": "motori",
-  "updated": "2026-11-25T00:36:17.3501557Z",
+  "updated": "2026-11-25T09:08:55.4894693Z",
   "items": [
+    {
+      "id": "hdmotori:ad6fee390577",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le Ducati V4 da oltre 200 CV diventano motard: ecco il “folle” kit Piranha",
+      "url": "https://www.hdmotori.it/ducati-panigale-streetfighter-v4-kit-piranha-vtopia-design/",
+      "image": null,
+      "summary": "Presentato a EICMA 2026 dall'atelier svizzero Vtopia Design, il kit Piranha trasforma le Ducati Streetfighter V4 e Panigale V4 in una maxi-motard da oltre 200 CV The post Le Ducati V4 da oltre 200 CV diventano motard:...",
+      "date": "2026-11-25T09:00:38.0000000Z"
+    },
+    {
+      "id": "hdmotori:ae9b79fee1e5",
+      "sourceId": "hdmotori",
+      "source": "HDmotori",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I costruttori giapponesi si alleano contro la Cina: standard comuni per abbattere i costi",
+      "url": "https://www.hdmotori.it/costruttori-giapponesi-standard-comuni/",
+      "image": null,
+      "summary": "Le quattordici Case della JAMA unificano gli standard su acciaio, plastiche e cablaggi per tagliare i costi e accelerare su elettrico e software. The post I costruttori giapponesi si alleano contro la Cina: standard c...",
+      "date": "2026-11-25T08:00:34.0000000Z"
+    },
+    {
+      "id": "insideevs:bf6cdf8fa384",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Le piccole EV di Volkswagen sono così popolari che bisogna aspettare quasi due anni",
+      "url": "https://insideevs.it/news/816627/volkswagen-piccole-ev-attesa/",
+      "image": "https://cdn.motor1.com/images/mgl/Mk6ZBE/s3/volkswagen-id.-polo-production.jpg",
+      "summary": "La fabbrica spagnola che assembla la Volkswagen ID. Polo e la Cupra Raval sta già costruendo 1.000 auto al giorno, ma non è sufficiente",
+      "date": "2026-11-25T08:00:00.0000000Z"
+    },
+    {
+      "id": "insideevs:f3b9473f6aa6",
+      "sourceId": "insideevs",
+      "source": "InsideEVs Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Questi supercondensatori italiani piacciono a tutti, anche a Dallara",
+      "url": "https://insideevs.it/news/816498/novac-supercondensatori-vtm-torino-dallara/",
+      "image": "https://cdn.motor1.com/images/mgl/407zJz/s3/supercondensatori-novac.jpg",
+      "summary": "Realizzati con celle sottili e flessibili, possono essere montati direttamente sulla scocca di un'auto elettrica",
+      "date": "2026-11-25T06:00:00.0000000Z"
+    },
     {
       "id": "vaielettrico:49cb2a46385f",
       "sourceId": "vaielettrico",
@@ -135,18 +183,6 @@
       "date": "2026-11-24T16:00:28.0000000Z"
     },
     {
-      "id": "motor1:a5b175aac539",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "I 50 anni della Volvo più strana e dimenticata: Volvo 343/345",
-      "url": "https://it.motor1.com/news/816589/volvo-343-345-cinquanta-anni/",
-      "image": "https://cdn.motor1.com/images/mgl/0epkVj/s3/volvo-345.jpg",
-      "summary": "L'ultimo veicolo sviluppato da DAF ha continuato a vivere fino al 1991. Oggi è quasi dimenticato",
-      "date": "2026-11-24T16:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:fcee741dbfff",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -156,6 +192,18 @@
       "url": "https://insideevs.it/news/816586/elli-bidi-charger-v2g-volkswagen/",
       "image": "https://cdn.motor1.com/images/mgl/ZnlPno/s3/volkswagen-id.-tiguan-life-elli-vehicle-to-grid-app.jpg",
       "summary": "Elli di Volkswagen lancia un BiDi Charger che paga bonus per il collegamento di ricarica, con un sistema V2H separato per il 2027",
+      "date": "2026-11-24T16:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:a5b175aac539",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "I 50 anni della Volvo più strana e dimenticata: Volvo 343/345",
+      "url": "https://it.motor1.com/news/816589/volvo-343-345-cinquanta-anni/",
+      "image": "https://cdn.motor1.com/images/mgl/0epkVj/s3/volvo-345.jpg",
+      "summary": "L'ultimo veicolo sviluppato da DAF ha continuato a vivere fino al 1991. Oggi è quasi dimenticato",
       "date": "2026-11-24T16:00:00.0000000Z"
     },
     {
@@ -219,18 +267,6 @@
       "date": "2026-11-24T14:00:39.0000000Z"
     },
     {
-      "id": "motor1:ea63fccd084e",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tutti i motori della Toyota Yaris",
-      "url": "https://it.motor1.com/news/814064/toyota-yaris-motori-consumi/",
-      "image": "https://cdn.motor1.com/images/mgl/7ZoG6q/s3/toyota-yaris-2025.jpg",
-      "summary": "Due full hybrid da 116 e 130 CV per la Yaris, mentre la GR da 280 CV fa storia a sé. Ecco tutti i motori",
-      "date": "2026-11-24T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:deb044264a57",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -240,6 +276,18 @@
       "url": "https://insideevs.it/news/816585/byd-penale-ricarica-cina/",
       "image": "https://cdn.motor1.com/images/mgl/W8KBrg/s3/byd-flash-charger.jpg",
       "summary": "Un automobilista cinese si è visto addebitare 300 yuan (circa 40 euro) per aver lasciato l’auto collegata a una stazione Flash Charging",
+      "date": "2026-11-24T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:ea63fccd084e",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Tutti i motori della Toyota Yaris",
+      "url": "https://it.motor1.com/news/814064/toyota-yaris-motori-consumi/",
+      "image": "https://cdn.motor1.com/images/mgl/7ZoG6q/s3/toyota-yaris-2025.jpg",
+      "summary": "Due full hybrid da 116 e 130 CV per la Yaris, mentre la GR da 280 CV fa storia a sé. Ecco tutti i motori",
       "date": "2026-11-24T14:00:00.0000000Z"
     },
     {
@@ -291,30 +339,6 @@
       "date": "2026-11-24T12:30:00.0000000Z"
     },
     {
-      "id": "hdmotori:1c7dd088a31b",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Tesla FSD v15, svelati i segreti della nuova grafica Reality View",
-      "url": "https://www.hdmotori.it/tesla-fsd-v15-reality-view-come-funziona-vista-3d/",
-      "image": null,
-      "summary": "Tesla FSD v15 introduce Reality View, sostituendo le auto stilizzate con una vista 3D realistica: ecco come funziona tra test indipendenti e dettagli svelati da Musk. The post Tesla FSD v15, svelati i segreti della nu...",
-      "date": "2026-11-24T12:00:56.0000000Z"
-    },
-    {
-      "id": "motor1:af4fc254fb2c",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Toyota 2027: tutte le novità in arrivo",
-      "url": "https://it.motor1.com/news/816443/toyota-2027-novita-modelli/",
-      "image": "https://cdn.motor1.com/images/mgl/xqOr8q/s3/novita-toyota-2027.jpg",
-      "summary": "Attesa per la nuova Toyota Corolla, sempre ibrida e con uno stile completamente nuovo. E potrebbe arrivare anche la nuova Celica",
-      "date": "2026-11-24T12:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:82779a6e6788",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -327,16 +351,16 @@
       "date": "2026-11-24T12:00:00.0000000Z"
     },
     {
-      "id": "hdmotori:c3399329a679",
-      "sourceId": "hdmotori",
-      "source": "HDmotori",
+      "id": "motor1:af4fc254fb2c",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
       "platform": "rss",
       "category": "motori",
-      "title": "Volkswagen rialza la testa in Cina: +346,9% di vendite NEV a ottobre",
-      "url": "https://www.hdmotori.it/volkswagen-cina-record-vendite-nev-ottobre-2026/",
-      "image": null,
-      "summary": "Grazie ai 14 nuovi modelli elettrificati e alla spinta del SUV ID. Aura T6, Volkswagen supera le 28.000 consegne NEV a ottobre in Cina e rientra nella top 15 locale. The post Volkswagen rialza la testa in Cina: +346,9...",
-      "date": "2026-11-24T11:30:24.0000000Z"
+      "title": "Toyota 2027: tutte le novità in arrivo",
+      "url": "https://it.motor1.com/news/816443/toyota-2027-novita-modelli/",
+      "image": "https://cdn.motor1.com/images/mgl/xqOr8q/s3/novita-toyota-2027.jpg",
+      "summary": "Attesa per la nuova Toyota Corolla, sempre ibrida e con uno stile completamente nuovo. E potrebbe arrivare anche la nuova Celica",
+      "date": "2026-11-24T12:00:00.0000000Z"
     },
     {
       "id": "vaielettrico:3b9bd61be324",
@@ -505,30 +529,6 @@
       "image": "https://cdn.motor1.com/images/mgl/3WBz0X/s3/lo-stabilimento-ev-renault-di-douai.jpg",
       "summary": "Il piano EV di Renault prevede nuove assunzioni, uscite volontarie tra gli impiegati e 500.000 ore di formazione",
       "date": "2026-11-23T10:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:41f5c5e83bce",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il Tesla Full Self-Driving V15 rende la tua guida simile a GTA 6",
-      "url": "https://insideevs.it/news/816378/tesla-fsd-v15-gta-6/",
-      "image": "https://cdn.motor1.com/images/mgl/P3V9w4/s3/tesla-fsd-v15.jpg",
-      "summary": "La nuova telecamera di inseguimento mostra dove sta andando l'auto e cosa c'è intorno, con più sicurezza nelle situazioni critiche",
-      "date": "2026-11-23T08:00:00.0000000Z"
-    },
-    {
-      "id": "insideevs:251ef9c63700",
-      "sourceId": "insideevs",
-      "source": "InsideEVs Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Batterie al sodio, è il carbonio duro che può farle costare come il litio",
-      "url": "https://insideevs.it/news/816279/batterie-sodio-ione-carbonio-duro-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/pb8rWW/s3/batterie-al-sodio-e-il-carbonio-duro-che-puo-farle-costare-come-il-litio.jpg",
-      "summary": "Tra 1.200 e 1.600 gradi i pori si chiudono e la cella guadagna capacità: sotto quella soglia l'efficienza crolla",
-      "date": "2026-11-23T06:00:00.0000000Z"
     }
   ]
 }
