@@ -1,7 +1,19 @@
 {
   "category": "mobilita",
-  "updated": "2026-11-24T16:05:08.0183841Z",
+  "updated": "2026-11-25T00:36:17.3281017Z",
   "items": [
+    {
+      "id": "ferrovie:6f1780f959e2",
+      "sourceId": "ferrovie",
+      "source": "Ferrovie.info",
+      "platform": "rss",
+      "category": "mobilita",
+      "title": "Calabria, nuovi Intercity sulla linea jonica per le festività natalizie",
+      "url": "https://www.ferrovie.info/treni-reali/calabria-nuovi-intercity-sulla-linea-jonica-per-le-festivita-natalizie.html",
+      "image": "https://www.fotoferrovie.info/albums/userpics/10834/normal_htr_412_Intercity_Trenitalia_2.jpg",
+      "summary": "Un importante potenziamento dei collegamenti ferroviari sulla fascia jonica sarà attivato nel periodo delle festività natalizie. Questo grazie all’introduzione di due nuovi treni Intercity, 525/526 Roma Termini–Reggio...",
+      "date": "2026-11-24T16:24:44.0000000Z"
+    },
     {
       "id": "ferrovie:e73de2b1c9b1",
       "sourceId": "ferrovie",
@@ -133,18 +145,6 @@
       "image": "https://www.fotoferrovie.info/albums/userpics/10834/normal_HTR_412_081_Trenitalia_treno_Terni_1522.jpeg",
       "summary": "Si allarga la preoccupazione dei pendolari umbri per la riduzione dei posti disponibili sui treni Intercity. Dopo i tagli annunciati sulla relazione Firenze-Roma, emergono nuove segnalazioni relative ai collegamenti t...",
       "date": "2026-11-23T07:37:30.0000000Z"
-    },
-    {
-      "id": "ferrovie:f6817084b42e",
-      "sourceId": "ferrovie",
-      "source": "Ferrovie.info",
-      "platform": "rss",
-      "category": "mobilita",
-      "title": "Nuovi treni, servizi e infrastrutture, ecco le notizie ferroviarie della settimana",
-      "url": "https://www.ferrovie.info/treni-reali/nuovi-treni-servizi-e-infrastrutture-ecco-le-notizie-ferroviarie-della-settimana.html",
-      "image": "https://www.fotoferrovie.info/albums/userpics/10001/normal_ETR108_006_Trenitalia.jpeg",
-      "summary": "Una settimana particolarmente ricca per il panorama ferroviario italiano, con l’arrivo di nuovi convogli regionali, l’avvio di servizi commerciali internazionali e importanti cambiamenti nell’offerta di trasporto pass...",
-      "date": "2026-11-22T09:04:56.0000000Z"
     }
   ]
 }

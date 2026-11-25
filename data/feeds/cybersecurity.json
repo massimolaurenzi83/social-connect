@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-24T16:05:08.0101995Z",
+  "updated": "2026-11-25T00:36:17.3310984Z",
   "items": [
+    {
+      "id": "cybersecurity360:3a4597aa8cc9",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Check Point sotto attacco: la campagna GT13 svela i rischi della gestione centralizzata della sicurezza",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/check-point-sotto-attacco-la-campagna-gt13-svela-i-rischi-della-gestione-centralizzata-della-sicurezza/",
+      "image": null,
+      "summary": "Non serve violare ogni firewall quando si può compromettere la console che li governa. La campagna contro Check Point di GT13 rivela quanto sia pericolosa la fiducia implicita nei sistemi di gestione centralizzata e p...",
+      "date": "2026-11-24T16:25:02.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:ae56a26dea17",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Contratti e Data Act: cosa c’è e cosa manca nei modelli UE",
+      "url": "https://www.cybersecurity360.it/legal/privacy-dati-personali/contratti-e-data-act-cosa-ce-e-cosa-manca-nei-modelli-ue/",
+      "image": null,
+      "summary": "Con la Raccomandazione UE 2026/2394, la Commissione europea traduce il Data Act in modelli contrattuali per l'accesso e la condivisione dei dati e per i servizi cloud. Uno strumento utile alle imprese, ma non privo di...",
+      "date": "2026-11-24T16:19:33.0000000Z"
+    },
     {
       "id": "cybersecurity360:969f3764477b",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Un programma di resilience testing parte dalle funzioni essenziali e dai sistemi che le sostengono. La guida spiega come definire perimetro e frequenza dei test, includere le dipendenze dai fornitori e seguire gli esi...",
       "date": "2026-11-23T17:25:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:db715ca2ed2a",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Banche europee e sicurezza post-quantistica: solo l’8% ha una roadmap operativa",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/banche-europee-e-sicurezza-post-quantistica-solo-l8-ha-una-roadmap-operativa/",
-      "image": null,
-      "summary": "Un'indagine EBA su 85 banche UE/SEE rivela che appena l'8% ha una roadmap operativa per la crittografia post-quantistica e il 73% non conosce in modo documentato i piani dei fornitori. La BCE programma verifiche sul g...",
-      "date": "2026-11-23T15:46:17.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:f2f4818c4e01",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Data breach PosteCert: la firma digitale è protetta, a rischio è l’identità degli utenti",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/data-breach-postecert-la-firma-digitale-e-protetta-a-rischio-e-lidentita-degli-utenti/",
-      "image": null,
-      "summary": "Poste Italiane conferma una violazione dei dati legata al servizio PosteCert Firma Digitale. Non risultano compromesse le chiavi di firma, ma le informazioni personali sottratte possono alimentare phishing mirato, SIM...",
-      "date": "2026-11-23T15:01:22.0000000Z"
     }
   ]
 }
