@@ -1,7 +1,31 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-26T02:16:39.9551661Z",
+  "updated": "2026-11-26T11:04:45.8142281Z",
   "items": [
+    {
+      "id": "cybersecurity360:71d03c6b7896",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Agent Data Injection: la classe di attacchi che aggira le difese contro la prompt injection",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/agent-data-injection-la-classe-di-attacchi-che-aggira-le-difese-contro-la-prompt-injection/",
+      "image": null,
+      "summary": "In ogni scenario, l'agente AI raccoglie dati eterogenei all'interno dello stesso contesto. Ecco cos'è l'Agent Data Injection e come mitigare i rischi L'articolo Agent Data Injection: la classe di attacchi che aggira l...",
+      "date": "2026-11-26T09:22:45.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:b955acc45ed0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Riforma del CAD: più competenze cyber ad ACN e nuove regole per le PA",
+      "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/riforma-del-cad-piu-competenze-cyber-ad-acn-e-nuove-regole-per-le-pa/",
+      "image": null,
+      "summary": "Lo schema di riforma del CAD attribuisce ad ACN la definizione delle misure cyber per la PA e riorganizza le competenze di AgID. Interviene anche su SPID, firme elettroniche qualificate, PEC, cloud, portafogli digital...",
+      "date": "2026-11-26T08:12:30.0000000Z"
+    },
     {
       "id": "cybersecurity360:dd714898c8d2",
       "sourceId": "cybersecurity360",
@@ -97,30 +121,6 @@
       "image": null,
       "summary": "Signal protegge le conversazioni dagli assistenti che leggono lo schermo. Banche e compagnie aeree limitano gli accessi degli agenti AI ai propri servizi. Per delegare un compito serve poter stabilire quali dati può l...",
       "date": "2026-11-25T07:57:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3e89c17f7f02",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Black Friday 2026: ecco la fabbrica dei falsi negozi",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/black-friday-2026-ecco-la-fabbrica-dei-falsi-negozi/",
-      "image": null,
-      "summary": "Una ricerca CloudSEK ricostruisce una rete di negozi online che cambiano continuamente dominio e raccolgono dati personali prima del pagamento. Kaspersky segnala 19,1 milioni di tentativi di accesso a pagine di phishi...",
-      "date": "2026-11-25T07:24:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:3a4597aa8cc9",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Check Point sotto attacco: la campagna GT13 svela i rischi della gestione centralizzata della sicurezza",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/check-point-sotto-attacco-la-campagna-gt13-svela-i-rischi-della-gestione-centralizzata-della-sicurezza/",
-      "image": null,
-      "summary": "Non serve violare ogni firewall quando si può compromettere la console che li governa. La campagna contro Check Point di GT13 rivela quanto sia pericolosa la fiducia implicita nei sistemi di gestione centralizzata e p...",
-      "date": "2026-11-24T16:25:02.0000000Z"
     }
   ]
 }

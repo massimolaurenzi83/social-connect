@@ -1,7 +1,67 @@
 {
   "category": "scienza",
-  "updated": "2026-11-26T02:16:39.8974907Z",
+  "updated": "2026-11-26T11:04:45.8011637Z",
   "items": [
+    {
+      "id": "media-inaf:1b57a22e043f",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "La supernova gentile che non distrugge la sua stella",
+      "url": "https://www.media.inaf.it/2026/11/26/sn-2024vjm-supernova-gentile/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/SN2024vjm_cover-150x150.jpg",
+      "summary": "Uno studio pubblicato su Nature Astronomy, a cui hanno partecipato diversi ricercatori dell’Inaf, ha identificato in Sn 2024vjm una delle supernove termonucleari più deboli mai osservate. I dati dimostrano che l’esplo...",
+      "date": "2026-11-26T10:01:17.0000000Z"
+    },
+    {
+      "id": "focus:9d7878934526",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Le immagini di Dimorphos dopo l’impatto di DART",
+      "url": "https://www.focus.it/scienza/spazio/immagini-asteroide-dimorphos-dopo-impatto-dart-cratere-grande-come-stadio-nuvola-massi-attorno",
+      "image": "https://www.focus.it/images/2026/11/26/asteroide-dimorphos_w630.jpg?imbypass=true",
+      "summary": "Le prime immagini dell'asteroide colpito intenzionalmente dalla missione Dart della Nasa mostrano gli effetti della collisione del 2022: l'asteroide ruota in modo incontrollato ed è circondato da massi.",
+      "date": "2026-11-26T08:00:00.0000000Z"
+    },
+    {
+      "id": "focus:3d22c0255534",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Elisabetta Bernardi, Giovanna Recchia, Antonio Gagliardi | La scienza della pasta",
+      "url": "https://www.focus.it/talks/la-scienza-della-pasta",
+      "image": "https://www.focus.it/images/2026/11/24/cover-scienza-della-pasta_w630.jpg?imbypass=true",
+      "summary": "Sul palco di Focus Live 2026 Elisabetta Bernardi, Giovanna Recchia e Antonio Gagliardi hanno svelato la scienza e la progettazione che si nascondono dietro un semplice piatto di pasta.",
+      "date": "2026-11-26T08:00:00.0000000Z"
+    },
+    {
+      "id": "focus:5db7fb91fdf6",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Ginevra: nessun accordo sui killer-robot",
+      "url": "https://www.focus.it/tecnologia/intelligenza-artificiale/ginevra-niente-accordo-per-regolare-l-uso-delle-armi-autonome",
+      "image": "https://www.focus.it/images/2026/11/25/droni-autonomi_w630.jpg?imbypass=true",
+      "summary": "A Ginevra sono falliti i negoziati ONU per un trattato vincolante sulle armi autonome: serviva il consenso di tutti i 128 Stati e la Russia si è opposta. E adesso?",
+      "date": "2026-11-26T08:00:00.0000000Z"
+    },
+    {
+      "id": "focus:53c43e2c542e",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Un unico vaccino per mangiare tranquilli",
+      "url": "https://www.focus.it/scienza/salute/allergie-alimentari-un-unico-vaccino-per-mangiare-tranquilli",
+      "image": "https://www.focus.it/images/2026/11/17/cibi-e-allergie_w630.jpg?imbypass=true",
+      "summary": "Un vaccino a mRNA contro un'ampia classe di allergeni alimentari ha dato risultati incoraggianti nei topi: si lavora per poterlo testare sull'uomo.",
+      "date": "2026-11-26T05:00:00.0000000Z"
+    },
     {
       "id": "curiuss:W6VI4sGOij4",
       "sourceId": "curiuss",
@@ -65,18 +125,6 @@
       "date": "2026-11-25T11:00:07.0000000Z"
     },
     {
-      "id": "focus:882f9eebb890",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Gaza oggi: una terra desolata e tossica",
-      "url": "https://www.focus.it/scienza/salute/gaza-oggi-e-una-terra-desolata-e-tossica-epicentro-di-epidemie",
-      "image": "https://www.focus.it/images/2026/11/25/gaza_w630.jpg?imbypass=true",
-      "summary": "Un rapporto di Oxfam denuncia la contaminazione di acqua, suoli e aria lasciata dall'occupazione israeliana. Intanto a Gaza dilaga la meningite.",
-      "date": "2026-11-25T11:00:00.0000000Z"
-    },
-    {
       "id": "focus:63c66e140bb9",
       "sourceId": "focus",
       "source": "Focus",
@@ -86,6 +134,18 @@
       "url": "https://www.focus.it/cultura/arte/cosa-cambia-sul-viso-di-un-medico-dopo-24-ore-in-corsia-la-storia-di-l-mites",
       "image": "https://www.focus.it/images/2026/11/25/limites_w630.jpg?imbypass=true",
       "summary": "All'ingresso lo sguardo è disteso, ventiquattro ore dopo restano occhiaie e il peso delle emergenze notturne. Nato nel 2014 a Granada dall'idea della specializzanda Leticia Ruiz Rivera, il progetto Límites ha fatto a ...",
+      "date": "2026-11-25T11:00:00.0000000Z"
+    },
+    {
+      "id": "focus:882f9eebb890",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Gaza oggi: una terra desolata e tossica",
+      "url": "https://www.focus.it/scienza/salute/gaza-oggi-e-una-terra-desolata-e-tossica-epicentro-di-epidemie",
+      "image": "https://www.focus.it/images/2026/11/25/gaza_w630.jpg?imbypass=true",
+      "summary": "Un rapporto di Oxfam denuncia la contaminazione di acqua, suoli e aria lasciata dall'occupazione israeliana. Intanto a Gaza dilaga la meningite.",
       "date": "2026-11-25T11:00:00.0000000Z"
     },
     {
@@ -200,18 +260,6 @@
       "date": "2026-11-24T12:00:31.0000000Z"
     },
     {
-      "id": "focus:cb465c413766",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Lorenzo Fiorillo | Contare con gli atomi",
-      "url": "https://www.focus.it/talks/lorenzo-fiorillo-contare-con-gli-atomi",
-      "image": "https://www.focus.it/images/2026/11/24/cover-contare-cob-gli-atomi_w630.jpg?imbypass=true",
-      "summary": "Sul palco di Focus Live 2026 Lorenzo Fiorillo ha raccontato come Eni abbia sviluppato un computer quantistico basato sugli atomi di itterbio per aprire nuove frontiere nel mondo del supercalcolo.",
-      "date": "2026-11-24T12:00:00.0000000Z"
-    },
-    {
       "id": "media-inaf:d161ae773565",
       "sourceId": "media-inaf",
       "source": "MEDIA INAF",
@@ -222,42 +270,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/cover-quasar-150x150.jpg",
       "summary": "Il telescopio spaziale Euclid ha scoperto il quasar più lontano mai osservato: risale ad appena 630 milioni di anni dopo il Big Bang e spinge indietro di 40 milioni di anni il record precedente. Il risultato, corrobor...",
       "date": "2026-11-24T11:20:53.0000000Z"
-    },
-    {
-      "id": "focus:0cb6109b282f",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Il caso della donna che andava \"in letargo\"",
-      "url": "https://www.focus.it/scienza/scienze/la-storia-della-donna-che-andava-in-letargo",
-      "image": "https://www.focus.it/images/2026/11/23/moscardino_w630.jpg?imbypass=true",
-      "summary": "Per trent'anni una donna è entrata in uno stato simile al letargo durante l'inverno. L'analisi del tessuto cerebrale ha rivelato una drastica riduzione di una proteina chiave per le sinapsi e la perdita di specifici o...",
-      "date": "2026-11-24T11:00:00.0000000Z"
-    },
-    {
-      "id": "focus:abec4bca754c",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Quando cadde Babilonia? Forse nel 1587 a.C.",
-      "url": "https://www.focus.it/cultura/storia/caduta-di-babilonia-la-data-dei-libri-di-scuola-cambia",
-      "image": "https://www.focus.it/images/2026/11/20/babilonia_w630.jpg?imbypass=true",
-      "summary": "Uno studio su PNAS misura il carbonio 14 negli anelli di antiche travi turche e propone di spostare la caduta di Babilonia dal 1595 al 1587 a.C. circa.",
-      "date": "2026-11-24T11:00:00.0000000Z"
-    },
-    {
-      "id": "focus:19ac1eb6e69c",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Pianeta X2: il mondo nascosto oltre Nettuno",
-      "url": "https://www.focus.it/scienza/spazio/potrebbe-esserci-un-nono-pianeta-oltre-l-orbita-di-nettuno-l-ipotesi-sul-pianeta-x2",
-      "image": "https://www.focus.it/images/2026/11/24/pianeta-x2-oltre-nettuno_w630.jpg?imbypass=true",
-      "summary": "Uno studio simulato su 4,5 miliardi di anni ipotizza un pianeta grande fino a due volte la Terra nascosto oltre Nettuno: il pianeta X2 che spiegherebbe le orbite anomale dei corpi ghiacciati più remoti.",
-      "date": "2026-11-24T10:00:00.0000000Z"
     },
     {
       "id": "geopop:zJYXyvVZpsk",
@@ -420,18 +432,6 @@
       "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/Screenshot-2026-11-19-alle-12.21.42-150x150.jpg",
       "summary": "Approvata una configurazione aggiornata che porta il numero di telescopi dell’emisfero australe del Cherenkov Telescope Array Observatory da 51 a 53. Lucio Angelo Antonelli (Inaf): «Questo risultato è il frutto di uno...",
       "date": "2026-11-19T12:36:27.0000000Z"
-    },
-    {
-      "id": "media-inaf:a50e9fd094cc",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "La velocità dei venti planetari è scritta nella sabbia",
-      "url": "https://www.media.inaf.it/2026/11/19/velocita-venti-planetari-scritta-nella-sabbia/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/gobabeb_dune-150x150.avif",
-      "summary": "Le dune planetarie possono rivelare la velocità dei venti che le hanno modellate. È quanto emerge da una nuova ricerca condotta da un team di scienziati guidato dall’Università di Stanford e pubblicata su Pnas. Second...",
-      "date": "2026-11-19T06:58:40.0000000Z"
     },
     {
       "id": "geopop:gscflckGzJU",
