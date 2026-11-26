@@ -1,7 +1,91 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-26T11:04:45.8142281Z",
+  "updated": "2026-11-26T20:07:36.5076322Z",
   "items": [
+    {
+      "id": "cybersecurity360:159dbe8cc132",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Nell’AI la fiducia dipende dal contesto: come cambia il paradigma della sicurezza",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/nellai-la-fiducia-dipende-dal-contesto-come-cambia-il-paradigma-della-sicurezza/",
+      "image": null,
+      "summary": "Occorre cambiare il paradigma della sicurezza, non essendo più sufficiente governare soltanto l’accesso alle informazioni, ma anche il modo in cui queste vengono utilizzate, il contesto in cui orientano una decisione ...",
+      "date": "2026-11-26T16:45:43.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:51edf161a593",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Il nuovo quadro della security tra la complessità e il doppio impatto dell’AI",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/il-nuovo-quadro-della-security-tra-la-complessita-e-il-doppio-impatto-dellai/",
+      "image": null,
+      "summary": "Dalla complessità delle piattaforme agli agenti AI utilizzati per coordinare le intrusioni: il rapporto Acronis fotografa il nuovo panorama delle minacce che sfruttano le connessioni tra account, servizi e infrastrutt...",
+      "date": "2026-11-26T16:42:34.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:5a8e2bc0a939",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "N-able MailAssure, la falla che riguarda gli MSP italiani prima ancora dei loro clienti",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/n-able-mailassure-la-falla-che-riguarda-gli-msp-italiani-prima-ancora-dei-loro-clienti/",
+      "image": null,
+      "summary": "Il fornitore si chiama N-able, i prodotti coinvolti sono MailAssure e SpamExperts, due servizi che le fonti primarie trattano come distinti, ma colpiti in parallelo dallo stesso incidente. Questi prodotti - con falla ...",
+      "date": "2026-11-26T16:05:37.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d37ec7e5af29",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Recovery nell’era dell’AI: tutela e ripristino si spostano dai dati all’intero business aziendale",
+      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/recovery-nellera-dellai-tutela-e-ripristino-si-spostano-dai-dati-allintero-business-aziendale/",
+      "image": null,
+      "summary": "Il nuovo approccio al recovery enterprise farà leva sull’automazione di precisione per ripristinare il business, e non soltanto i dati. Le nuove soluzioni devono orchestrare il recovery congiunto di applicazioni, conf...",
+      "date": "2026-11-26T15:55:22.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:bfe76f42d7ec",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "1Password, rubati dati clienti e codice sorgente: regge la crittografia, cede la supply chain",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/breach-1password-dati-clienti-codice-sorgente/",
+      "image": null,
+      "summary": "Un account GitHub compromesso ha consentito a un attaccante di violare il backend di 1Password e sottrarre dati dei clienti e codice sorgente. Stando all'azienda, le password sono al sicuro, ma il breach riapre il dib...",
+      "date": "2026-11-26T15:20:41.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:3959295e97c0",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "CIA e ODNI, non basta proteggere i segreti: la lezione cyber della violazione OSINT",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/cia-e-odni-non-basta-proteggere-i-segreti-la-lezione-cyber-della-violazione-osint/",
+      "image": null,
+      "summary": "La violazione di un sistema OSINT condiviso da CIA e ODNI dimostra che anche le informazioni pubbliche possono assumere un valore strategico. Il caso impone una riflessione sulla gestione delle identità, sulla segment...",
+      "date": "2026-11-26T11:48:55.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:eef5cb76df8b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Protezione privacy Incogni Unlimited per il Black Friday: rimozione automatica e illimitata dei dati esposti online con risparmio di 165 euro",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/incogni-unlimited-black-friday-rimozione-dati-esposti-58-percento/",
+      "image": null,
+      "summary": "Incogni Unlimited propone uno sconto del 58% per il Black Friday e il Cyber Monday. Il piano annuale costa 122,30 euro il primo anno, con un risparmio dichiarato di 165 euro L'articolo Protezione privacy Incogni Unlim...",
+      "date": "2026-11-26T10:52:34.0000000Z"
+    },
     {
       "id": "cybersecurity360:71d03c6b7896",
       "sourceId": "cybersecurity360",
@@ -37,90 +121,6 @@
       "image": null,
       "summary": "La Ue ha identificato i computer quantistici e le tecnologie quantum come una priorità strategica e ha accelerato gli sforzi per prepararsi alla crittografia post-quantistica attraverso iniziative della Commissione e ...",
       "date": "2026-11-25T16:30:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:06e475ef1658",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il manifatturiero è il bersaglio numero uno e il ransomware lo sa benissimo",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/il-manifatturiero-e-il-bersaglio-numero-uno-e-il-ransomware-lo-sa-benissimo/",
-      "image": null,
-      "summary": "La manifattura italiana è il settore più colpito dagli attacchi cyber nel nostro Paese, con il ransomware all'origine dell'89% degli incidenti censiti nel comparto. Le rivendicazioni di Aurora riaccendono l'attenzione...",
-      "date": "2026-11-25T16:20:01.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:80561b61e230",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "CIA violata, sospetti su ARTEX: l’AI cambia la scala degli attacchi",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/cia-violata-sospetti-su-artex-lai-cambia-la-scala-degli-attacchi/",
-      "image": null,
-      "summary": "Un sistema di intelligence non classificato utilizzato dalla CIA e da altre agenzie USA è stato violato, secondo fonti americane. I sospetti riguardano ARTEX, lo strumento AI nato per il penetration testing che accele...",
-      "date": "2026-11-25T15:51:05.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:7820c3476936",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "AI Kill Chain: l’intelligenza artificiale come arma e come bersaglio",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/ai-kill-chain-lintelligenza-artificiale-come-arma-e-come-bersaglio/",
-      "image": null,
-      "summary": "Ormai gli agenti AI si occupano di quasi tutte le fasi di un attacco cyber, dalla ricognizione all'esfiltrazione. Il CSIRT Italia ne ha recentemente segnalati anche in Italia. E anche i copiloti e gli agenti aziendali...",
-      "date": "2026-11-25T15:13:30.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:77a69fdd647d",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Software abbandonato, l’allarme ACN: sfruttata una falla critica senza patch",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/software-abbandonato-lallarme-acn-sfruttata-una-falla-critica-senza-patch/",
-      "image": null,
-      "summary": "Una vulnerabilità critica già sfruttata negli attacchi informatici interessa una libreria ASP.NET non più mantenuta dal 2008. L'allarme dell'ACN evidenzia il rischio del software abbandonato nelle infrastrutture di az...",
-      "date": "2026-11-25T10:41:18.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:8369121da056",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Cyber attacchi alle navi energetiche: fino a 50 nel mirino, c’è anche l’Italia",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/cyber-attacchi-alle-navi-energetiche-fino-a-50-nel-mirino-ce-anche-litalia/",
-      "image": null,
-      "summary": "Gli Stati Uniti indagano su possibili attacchi informatici contro decine di navi che trasportano petrolio, gas e prodotti chimici. L’Iran è tra i principali sospettati, ma non ci sono prove pubbliche che ne dimostrino...",
-      "date": "2026-11-25T09:18:38.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:4cdbdd5aa5af",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "AI agentica: decidere bene non basta, serve il controllo dell’intero sistema",
-      "url": "https://www.cybersecurity360.it/outlook/ai-agentica-serve-controllo-intero-sistema/",
-      "image": null,
-      "summary": "L’AI agentica richiede identità verificabili per ogni agente, privilegi minimi, tracciabilità continua e un inventario vivo dei sistemi in uso. AI Act, NIS2 e DORA spingono le organizzazioni verso una responsabilità d...",
-      "date": "2026-11-25T08:44:25.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:4ad48b6b2ec9",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Sicurezza degli agenti AI, perché da Signal alle banche scatta il blocco",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/sicurezza-degli-agenti-ai-perche-da-signal-alle-banche-scatta-il-blocco/",
-      "image": null,
-      "summary": "Signal protegge le conversazioni dagli assistenti che leggono lo schermo. Banche e compagnie aeree limitano gli accessi degli agenti AI ai propri servizi. Per delegare un compito serve poter stabilire quali dati può l...",
-      "date": "2026-11-25T07:57:00.0000000Z"
     }
   ]
 }
