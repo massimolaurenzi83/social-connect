@@ -1,7 +1,67 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-27T11:29:49.5878468Z",
+  "updated": "2026-11-27T20:15:09.2139902Z",
   "items": [
+    {
+      "id": "cybersecurity360:f926f3cfa9cd",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Carta d’Identità Elettronica nel mirino: il phishing si evolve e punta alle identità digitali",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/carta-didentita-elettronica-nel-mirino-il-phishing-si-evolve-e-punta-alle-identita-digitali/",
+      "image": null,
+      "summary": "Il CERT-AgID ha individuato una campagna di phishing contro la Carta d'Identità Elettronica che sfrutta il nome dell'Agenzia delle Entrate. I criminali interagiscono in tempo reale con le vittime per sottrarre le cred...",
+      "date": "2026-11-27T17:25:14.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:52070fd3e54b",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "CRA, arrivano i primi standard europei: la sicurezza entra nel ciclo di vita del prodotto",
+      "url": "https://www.cybersecurity360.it/legal/cra-arrivano-i-primi-standard-europei-la-sicurezza-entra-nel-ciclo-di-vita-del-prodotto/",
+      "image": null,
+      "summary": "La pubblicazione delle norme EN 40000-1-1 ed EN 40000-1-2 rappresenta un passaggio concreto nell’attuazione del Cyber Resilience Act. Non conferiscono automaticamente una presunzione di conformità, ma offrono ai fabbr...",
+      "date": "2026-11-27T15:38:41.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:201b7cdf8adb",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Hacker nel cuore delle forze armate USA: quanto è grave l’attacco a Cloud One",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/hacker-nel-cuore-delle-forze-armate-usa-quanto-e-grave-lattacco-a-cloud-one/",
+      "image": null,
+      "summary": "Hacker non identificati hanno violato Cloud One, la piattaforma multicloud dell’US Air Force. Il possibile accesso al piano di controllo, il blocco degli aggiornamenti e la natura dei dati ospitati alimentano i timori...",
+      "date": "2026-11-27T15:32:32.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:d8e4982d875e",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "Oggi day one, domani co… lto impreparato",
+      "url": "https://www.cybersecurity360.it/cultura-cyber/oggi-day-one-domani-co-lto-impreparato/",
+      "image": null,
+      "summary": "Saper guardare oltre il primo giorno d'implementazione di un software è fondamentale, soprattutto in tempi di accelerazione digitale in cui spesso il possibile problema del patching o si rinvia o non si affronta, espo...",
+      "date": "2026-11-27T15:00:00.0000000Z"
+    },
+    {
+      "id": "cybersecurity360:91b0290186f9",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "NFS2ROOT, falla critica nel kernel Linux da dodici anni: come difendersi",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/nfs2root-falla-critica-nel-kernel-linux-da-dodici-anni-come-difendersi/",
+      "image": null,
+      "summary": "Una falla nel server NFS del kernel Linux, presente dal 2014, può consentire accesso remoto con privilegi di root. La ricerca OpenSec e gli aggiornamenti delle distribuzioni chiariscono quali sistemi sono esposti, com...",
+      "date": "2026-11-27T12:14:46.0000000Z"
+    },
     {
       "id": "cybersecurity360:b7a9d6860fce",
       "sourceId": "cybersecurity360",
@@ -61,66 +121,6 @@
       "image": null,
       "summary": "La Bank of England ha incluso per la prima volta l'AI tra i rischi per la crittografia. La minaccia potrebbe precedere quella quantistica. E secondo alcune voci riportare da un famoso informatico americano, OpenAI o A...",
       "date": "2026-11-27T07:01:00.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:159dbe8cc132",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Nell’AI la fiducia dipende dal contesto: come cambia il paradigma della sicurezza",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/nellai-la-fiducia-dipende-dal-contesto-come-cambia-il-paradigma-della-sicurezza/",
-      "image": null,
-      "summary": "Occorre cambiare il paradigma della sicurezza, non essendo più sufficiente governare soltanto l’accesso alle informazioni, ma anche il modo in cui queste vengono utilizzate, il contesto in cui orientano una decisione ...",
-      "date": "2026-11-26T16:45:43.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:51edf161a593",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Il nuovo quadro della security tra la complessità e il doppio impatto dell’AI",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/il-nuovo-quadro-della-security-tra-la-complessita-e-il-doppio-impatto-dellai/",
-      "image": null,
-      "summary": "Dalla complessità delle piattaforme agli agenti AI utilizzati per coordinare le intrusioni: il rapporto Acronis fotografa il nuovo panorama delle minacce che sfruttano le connessioni tra account, servizi e infrastrutt...",
-      "date": "2026-11-26T16:42:34.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:5a8e2bc0a939",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "N-able MailAssure, la falla che riguarda gli MSP italiani prima ancora dei loro clienti",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/n-able-mailassure-la-falla-che-riguarda-gli-msp-italiani-prima-ancora-dei-loro-clienti/",
-      "image": null,
-      "summary": "Il fornitore si chiama N-able, i prodotti coinvolti sono MailAssure e SpamExperts, due servizi che le fonti primarie trattano come distinti, ma colpiti in parallelo dallo stesso incidente. Questi prodotti - con falla ...",
-      "date": "2026-11-26T16:05:37.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:d37ec7e5af29",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "Recovery nell’era dell’AI: tutela e ripristino si spostano dai dati all’intero business aziendale",
-      "url": "https://www.cybersecurity360.it/soluzioni-aziendali/recovery-nellera-dellai-tutela-e-ripristino-si-spostano-dai-dati-allintero-business-aziendale/",
-      "image": null,
-      "summary": "Il nuovo approccio al recovery enterprise farà leva sull’automazione di precisione per ripristinare il business, e non soltanto i dati. Le nuove soluzioni devono orchestrare il recovery congiunto di applicazioni, conf...",
-      "date": "2026-11-26T15:55:22.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:bfe76f42d7ec",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "1Password, rubati dati clienti e codice sorgente: regge la crittografia, cede la supply chain",
-      "url": "https://www.cybersecurity360.it/nuove-minacce/breach-1password-dati-clienti-codice-sorgente/",
-      "image": null,
-      "summary": "Un account GitHub compromesso ha consentito a un attaccante di violare il backend di 1Password e sottrarre dati dei clienti e codice sorgente. Stando all'azienda, le password sono al sicuro, ma il breach riapre il dib...",
-      "date": "2026-11-26T15:20:41.0000000Z"
     }
   ]
 }
