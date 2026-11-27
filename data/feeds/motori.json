@@ -1,7 +1,19 @@
 {
   "category": "motori",
-  "updated": "2026-11-26T20:07:36.4735641Z",
+  "updated": "2026-11-27T02:50:21.5461527Z",
   "items": [
+    {
+      "id": "vaielettrico:ab2d62397c07",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Elettriche usate, cambia il mercato italiano: auto più anziane e prezzi in calo",
+      "url": "https://www.vaielettrico.it/elettriche-usate-cambia-il-mercato-italiano-auto-piu-anziane-e-prezzi-in-calo/",
+      "image": null,
+      "summary": "rco di Prezzi in calo fino al 27% per alcuni modelli rispetto al 2023. Secondo un’analisi di AutoUncle,… L'articolo Elettriche usate, cambia il mercato italiano: auto più anziane e prezzi in calo proviene da Vaielettr...",
+      "date": "2026-11-26T22:08:38.0000000Z"
+    },
     {
       "id": "hdmotori:c665843e6e2d",
       "sourceId": "hdmotori",
@@ -80,10 +92,10 @@
       "source": "HDmotori",
       "platform": "rss",
       "category": "motori",
-      "title": "Carburanti, il meccanismo UE creato per aumentare i prezzi entra in vigore dal 2027",
+      "title": "Carburanti, il meccanismo UE per aumentare i prezzi entra in vigore dal 2027",
       "url": "https://www.hdmotori.it/carburanti-meccanismo-ue-aumento-prezzi-2027/",
       "image": null,
-      "summary": "Il nuovo meccanismo europeo sulle emissioni di CO2 colpirà carburanti e riscaldamento: rincari fino a 15 centesimi al litro. The post Carburanti, il meccanismo UE creato per aumentare i prezzi entra in vigore dal 2027...",
+      "summary": "Il nuovo meccanismo europeo sulle emissioni di CO2 colpirà carburanti e riscaldamento: rincari fino a 15 centesimi al litro. The post Carburanti, il meccanismo UE per aumentare i prezzi entra in vigore dal 2027 appear...",
       "date": "2026-11-26T17:00:35.0000000Z"
     },
     {
@@ -135,18 +147,6 @@
       "date": "2026-11-26T16:00:48.0000000Z"
     },
     {
-      "id": "motor1:dce82082973f",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il furgone Ford pensato per la città, Transit City, va bene ovunque, ma nel traffico dà il massimo",
-      "url": "https://it.motor1.com/reviews/816715/ford-transit-city-elettrico-prova/",
-      "image": "https://cdn.motor1.com/images/mgl/QeGVO3/s3/ford-transit-city.jpg",
-      "summary": "Furgone elettrico da 56 kWh con 254 km WLTP e vano di carico fino a 8,5 m³: prima prova del Transit City, pensato solo per la città",
-      "date": "2026-11-26T16:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:bdf0cd96363f",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -156,6 +156,18 @@
       "url": "https://insideevs.it/news/816896/suzuki-ignis-elettrica-kei-car/",
       "image": "https://cdn.motor1.com/images/mgl/y21WVk/s3/suzuki-ignis-2027.jpg",
       "summary": "La Casa nipponica porta in Europa una kei car dal nome illustre, ma è tutta nuova e... a zero emissioni",
+      "date": "2026-11-26T16:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:dce82082973f",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Il furgone Ford pensato per la città, Transit City, va bene ovunque, ma nel traffico dà il massimo",
+      "url": "https://it.motor1.com/reviews/816715/ford-transit-city-elettrico-prova/",
+      "image": "https://cdn.motor1.com/images/mgl/QeGVO3/s3/ford-transit-city.jpg",
+      "summary": "Furgone elettrico da 56 kWh con 254 km WLTP e vano di carico fino a 8,5 m³: prima prova del Transit City, pensato solo per la città",
       "date": "2026-11-26T16:00:00.0000000Z"
     },
     {
@@ -231,18 +243,6 @@
       "date": "2026-11-26T14:30:45.0000000Z"
     },
     {
-      "id": "motor1:5aaf11080f55",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Quando costa l'Audi Q3 plug-in meno cara di tutte",
-      "url": "https://it.motor1.com/news/816895/audi-q3-e-hybrid-204-cv-prezzo/",
-      "image": "https://cdn.motor1.com/images/mgl/407W1M/s3/audi-q3-e-hybrid-204-cv.jpg",
-      "summary": "Le Audi Q3 e Q3 Sportback da 204 CV percorrono fino a 118 km in elettrico e partono da 49.000 euro e 51.000 euro",
-      "date": "2026-11-26T14:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:c0d14b8745b4",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -252,6 +252,18 @@
       "url": "https://insideevs.it/news/816858/volvo-robot-umanoidi-tecnologia/",
       "image": "https://cdn.motor1.com/images/mgl/0epk9j/s3/volvo-cars-is-training-aeon-humanoid-robots-for-future-work-in-factories.jpg",
       "summary": "Le prime unità Aeon sono in fase di addestramento nella fabbrica belga di Ghent. Il passo successivo è assegnare loro un vero lavoro.",
+      "date": "2026-11-26T14:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:5aaf11080f55",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Quando costa l'Audi Q3 plug-in meno cara di tutte",
+      "url": "https://it.motor1.com/news/816895/audi-q3-e-hybrid-204-cv-prezzo/",
+      "image": "https://cdn.motor1.com/images/mgl/407W1M/s3/audi-q3-e-hybrid-204-cv.jpg",
+      "summary": "Le Audi Q3 e Q3 Sportback da 204 CV percorrono fino a 118 km in elettrico e partono da 49.000 euro e 51.000 euro",
       "date": "2026-11-26T14:00:00.0000000Z"
     },
     {
@@ -493,18 +505,6 @@
       "image": "https://cdn.motor1.com/images/mgl/7Z1A3P/s3/avatr-ev-self-parking-hero.jpg",
       "summary": "Un'auto elettrica apparentemente vuota, equipaggiata con Huawei, ha trascorso ore a muoversi in un parcheggio durante la notte",
       "date": "2026-11-25T14:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:d01b8bab7192",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Il degrado della batteria frena l’usato. Si può testare, ma…",
-      "url": "https://www.vaielettrico.it/il-degrado-della-batteria-frena-lusato-si-puo-testare-ma/",
-      "image": null,
-      "summary": "Il degrado della batteria: ecco che cosa spaventa di più chi acquista un’auto elettrica usata. E c’è un… L'articolo Il degrado della batteria frena l’usato. Si può testare, ma… proviene da Vaielettrico .",
-      "date": "2026-11-25T12:57:34.0000000Z"
     },
     {
       "id": "insideevs:289bbfa0f10d",
