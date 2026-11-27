@@ -1,7 +1,56 @@
 {
   "category": "scienza",
-  "updated": "2026-11-27T02:50:21.5620902Z",
+  "updated": "2026-11-27T11:29:49.6660210Z",
   "items": [
+    {
+      "id": "focus:b03860d99556",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "I tursiopi con più amici vivono più a lungo",
+      "url": "https://www.focus.it/ambiente/animali/i-tursiopi-con-piu-amici-vivono-piu-a-lungo",
+      "image": "https://www.focus.it/images/2026/11/25/tursiopi_w630.jpg?imbypass=true",
+      "summary": "La dimensione e la compattezza dei gruppi sociali dei tursiopi garantiscono loro una vita più lunga, dice un nuovo studio.",
+      "date": "2026-11-27T08:00:00.0000000Z"
+    },
+    {
+      "id": "media-inaf:6a738b784ea0",
+      "sourceId": "media-inaf",
+      "source": "MEDIA INAF",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Cinquanta milioni di spettri per 4Most",
+      "url": "https://www.media.inaf.it/2026/11/27/4most-inizia-le-osservazioni/",
+      "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/4Most_strumento-150x150.jpg",
+      "summary": "Lo strumento 4Most ha iniziato ieri il suo programma di osservazione per raccogliere nei prossimi cinque anni più di cinquanta milioni di spettri di oggetti nel cielo australe. Il programma mette insieme venticinque s...",
+      "date": "2026-11-27T06:58:18.0000000Z"
+    },
+    {
+      "id": "geopop:Om2FOYZ7X9c",
+      "sourceId": "geopop",
+      "source": "Geopop",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "Abbiamo fatto l'unboxing di \"Pausa Libro 2\"! Attenzione alle pillola 178! 😂",
+      "url": "https://www.youtube.com/watch?v=Om2FOYZ7X9c",
+      "image": "https://i.ytimg.com/vi/Om2FOYZ7X9c/hqdefault.jpg",
+      "summary": "",
+      "videoId": "Om2FOYZ7X9c",
+      "date": "2026-11-27T06:00:39.0000000Z"
+    },
+    {
+      "id": "focus:f053c525a900",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "I traumi alterano la chimica del cervello",
+      "url": "https://www.focus.it/comportamento/psicologia/cervello-traccia-traumi-livello-molecolare-geni",
+      "image": "https://www.focus.it/images/2026/11/26/amigdala_w630.jpg?imbypass=true",
+      "summary": "I traumi alterano la chimica del cervello: possono contribuire ad alterare il funzionamento dei geni e sono associati a differenze cellulari.",
+      "date": "2026-11-27T05:00:00.0000000Z"
+    },
     {
       "id": "media-inaf:86fda008f227",
       "sourceId": "media-inaf",
@@ -52,15 +101,15 @@
       "date": "2026-11-26T09:00:00.0000000Z"
     },
     {
-      "id": "focus:9d7878934526",
+      "id": "focus:6cf2b266c08b",
       "sourceId": "focus",
       "source": "Focus",
       "platform": "rss",
       "category": "scienza",
-      "title": "Le immagini di Dimorphos dopo l’impatto di DART",
-      "url": "https://www.focus.it/scienza/spazio/immagini-asteroide-dimorphos-dopo-impatto-dart-cratere-grande-come-stadio-nuvola-massi-attorno",
-      "image": "https://www.focus.it/images/2026/11/26/asteroide-dimorphos_w630.jpg?imbypass=true",
-      "summary": "Le prime immagini dell'asteroide colpito intenzionalmente dalla missione Dart della Nasa mostrano gli effetti della collisione del 2022: l'asteroide ruota in modo incontrollato ed è circondato da massi.",
+      "title": "Tre pieni per un autobus",
+      "url": "https://www.focus.it/tecnologia/motori/autobus-idrogeno-batteria-biometano-apt-gorizia",
+      "image": "https://www.focus.it/images/2026/11/24/bus-idrogeno_w630.jpg?imbypass=true",
+      "summary": "Nel 2025 sei nuovi bus urbani europei su dieci erano a zero emissioni, quasi tutti a batteria. A Gorizia un'azienda prova anche idrogeno e biometano: ecco che cosa c'è da capire.",
       "date": "2026-11-26T08:00:00.0000000Z"
     },
     {
@@ -85,6 +134,18 @@
       "url": "https://www.focus.it/tecnologia/intelligenza-artificiale/ginevra-niente-accordo-per-regolare-l-uso-delle-armi-autonome",
       "image": "https://www.focus.it/images/2026/11/25/droni-autonomi_w630.jpg?imbypass=true",
       "summary": "A Ginevra sono falliti i negoziati ONU per un trattato vincolante sulle armi autonome: serviva il consenso di tutti i 128 Stati e la Russia si è opposta. E adesso?",
+      "date": "2026-11-26T08:00:00.0000000Z"
+    },
+    {
+      "id": "focus:9d7878934526",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Le immagini di Dimorphos dopo l’impatto di DART",
+      "url": "https://www.focus.it/scienza/spazio/immagini-asteroide-dimorphos-dopo-impatto-dart-cratere-grande-come-stadio-nuvola-massi-attorno",
+      "image": "https://www.focus.it/images/2026/11/26/asteroide-dimorphos_w630.jpg?imbypass=true",
+      "summary": "Le prime immagini dell'asteroide colpito intenzionalmente dalla missione Dart della Nasa mostrano gli effetti della collisione del 2022: l'asteroide ruota in modo incontrollato ed è circondato da massi.",
       "date": "2026-11-26T08:00:00.0000000Z"
     },
     {
@@ -162,18 +223,6 @@
       "date": "2026-11-25T11:00:07.0000000Z"
     },
     {
-      "id": "focus:63c66e140bb9",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Prima e dopo 24 ore in pronto soccorso",
-      "url": "https://www.focus.it/cultura/arte/cosa-cambia-sul-viso-di-un-medico-dopo-24-ore-in-corsia-la-storia-di-l-mites",
-      "image": "https://www.focus.it/images/2026/11/25/limites_w630.jpg?imbypass=true",
-      "summary": "All'ingresso lo sguardo è disteso, ventiquattro ore dopo restano occhiaie e il peso delle emergenze notturne. Nato nel 2014 a Granada dall'idea della specializzanda Leticia Ruiz Rivera, il progetto Límites ha fatto a ...",
-      "date": "2026-11-25T11:00:00.0000000Z"
-    },
-    {
       "id": "focus:882f9eebb890",
       "sourceId": "focus",
       "source": "Focus",
@@ -183,6 +232,18 @@
       "url": "https://www.focus.it/scienza/salute/gaza-oggi-e-una-terra-desolata-e-tossica-epicentro-di-epidemie",
       "image": "https://www.focus.it/images/2026/11/25/gaza_w630.jpg?imbypass=true",
       "summary": "Un rapporto di Oxfam denuncia la contaminazione di acqua, suoli e aria lasciata dall'occupazione israeliana. Intanto a Gaza dilaga la meningite.",
+      "date": "2026-11-25T11:00:00.0000000Z"
+    },
+    {
+      "id": "focus:63c66e140bb9",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Prima e dopo 24 ore in pronto soccorso",
+      "url": "https://www.focus.it/cultura/arte/cosa-cambia-sul-viso-di-un-medico-dopo-24-ore-in-corsia-la-storia-di-l-mites",
+      "image": "https://www.focus.it/images/2026/11/25/limites_w630.jpg?imbypass=true",
+      "summary": "All'ingresso lo sguardo è disteso, ventiquattro ore dopo restano occhiaie e il peso delle emergenze notturne. Nato nel 2014 a Granada dall'idea della specializzanda Leticia Ruiz Rivera, il progetto Límites ha fatto a ...",
       "date": "2026-11-25T11:00:00.0000000Z"
     },
     {
@@ -198,18 +259,6 @@
       "date": "2026-11-25T10:00:00.0000000Z"
     },
     {
-      "id": "focus:11cd39018f52",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Le radici dell'ansia nei giovani",
-      "url": "https://www.focus.it/comportamento/psicologia/ansia-tra-i-giovani-forse-la-causa-e-un-aspetto-della-personalita",
-      "image": "https://www.focus.it/images/2026/11/18/ansia-giovanile_w630.jpg?imbypass=true",
-      "summary": "In 40 anni è cresciuta nettamente tra i ragazzi in età universitaria l'intolleranza all'incertezza, fattore di rischio chiave per i disturbi d'ansia.",
-      "date": "2026-11-25T08:00:00.0000000Z"
-    },
-    {
       "id": "geopop:qxfbj1VTxII",
       "sourceId": "geopop",
       "source": "Geopop",
@@ -221,30 +270,6 @@
       "summary": "",
       "videoId": "qxfbj1VTxII",
       "date": "2026-11-25T06:00:21.0000000Z"
-    },
-    {
-      "id": "focus:8c2cd61a39c3",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Violenza sulle donne: il primo soccorso pubblico",
-      "url": "https://www.focus.it/scienza/salute/violenza-sulle-donne-le-novita-del-primo-soccorso-pubblico",
-      "image": "https://www.focus.it/images/2026/11/24/soccorso-violenza-sessuale-e-domestica_w630.jpg?imbypass=true",
-      "summary": "Nel 1996 a Milano apriva il primo soccorso pubblico per le vittime di violenza sulle donne: le novità storiche introdotte da Alessandra Kustermann.",
-      "date": "2026-11-25T04:00:00.0000000Z"
-    },
-    {
-      "id": "focus:8d34263c47c6",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Da quando abbiamo paura del diavolo?",
-      "url": "https://www.focus.it/cultura/storia/da-quando-abbiamo-paura-del-diavolo",
-      "image": "https://www.focus.it/images/2026/11/24/diavolo-messa-nera_w630.jpg?imbypass=true",
-      "summary": "Quasi assente nel Vecchio Testamento, il diavolo si affermò solo con il cristianesimo, ma ha antenati mesopotamici, persiani e greci. Prima di diventare una creatura mostruosa nel Medioevo, fu immaginato dai primi cri...",
-      "date": "2026-11-24T20:00:00.0000000Z"
     },
     {
       "id": "geopop:kVOes3Vzcn0",
@@ -435,18 +460,6 @@
       "date": "2026-11-19T15:55:34.0000000Z"
     },
     {
-      "id": "media-inaf:c198efec5130",
-      "sourceId": "media-inaf",
-      "source": "MEDIA INAF",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Da Voyager 1 a Noto in 24 ore",
-      "url": "https://www.media.inaf.it/2026/11/19/voyager-1-radiotelescopio-noto/",
-      "image": "https://www.media.inaf.it/wp-content/uploads/2026/11/Noto_voyager-150x150.jpeg",
-      "summary": "Il radiotelescopio di Noto dell’Istituto nazionale di astrofisica è riuscito a rilevare, con la sua antenna da 32 metri, il debolissimo segnale radio emesso da Voyager 1 a un giorno luce di distanza. Salvo Pluchino (I...",
-      "date": "2026-11-19T15:04:04.0000000Z"
-    },
-    {
       "id": "geopop:gscflckGzJU",
       "sourceId": "geopop",
       "source": "Geopop",
@@ -458,19 +471,6 @@
       "summary": "",
       "videoId": "gscflckGzJU",
       "date": "2026-11-18T17:30:13.0000000Z"
-    },
-    {
-      "id": "geopop:dZ93XLolung",
-      "sourceId": "geopop",
-      "source": "Geopop",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "La sonda Voyager 1 è l'oggetto realizzato dall'Uomo più lontano dalla Terra. Qual è il suo scopo?",
-      "url": "https://www.youtube.com/watch?v=dZ93XLolung",
-      "image": "https://i.ytimg.com/vi/dZ93XLolung/hqdefault.jpg",
-      "summary": "",
-      "videoId": "dZ93XLolung",
-      "date": "2026-11-18T06:00:10.0000000Z"
     },
     {
       "id": "curiuss:wPnB9gBzfHA",
@@ -577,19 +577,6 @@
       "date": "2026-09-21T18:30:05.0000000Z"
     },
     {
-      "id": "curiuss:gb1zStv8DVE",
-      "sourceId": "curiuss",
-      "source": "CURIUSS",
-      "platform": "youtube",
-      "category": "scienza",
-      "title": "Cosa ci Aspetta - CURIUSS",
-      "url": "https://www.youtube.com/watch?v=gb1zStv8DVE",
-      "image": "https://i.ytimg.com/vi/gb1zStv8DVE/hqdefault.jpg",
-      "summary": "",
-      "videoId": "gb1zStv8DVE",
-      "date": "2026-09-09T18:30:01.0000000Z"
-    },
-    {
       "id": "curiuss:xcCTQ5260HQ",
       "sourceId": "curiuss",
       "source": "CURIUSS",
@@ -601,6 +588,19 @@
       "summary": "",
       "videoId": "xcCTQ5260HQ",
       "date": "2026-07-29T18:00:32.0000000Z"
+    },
+    {
+      "id": "curiuss:TxlLkRJFYMM",
+      "sourceId": "curiuss",
+      "source": "CURIUSS",
+      "platform": "youtube",
+      "category": "scienza",
+      "title": "10 Aneddoti Parigini - CURIUSS",
+      "url": "https://www.youtube.com/watch?v=TxlLkRJFYMM",
+      "image": "https://i.ytimg.com/vi/TxlLkRJFYMM/hqdefault.jpg",
+      "summary": "",
+      "videoId": "TxlLkRJFYMM",
+      "date": "2026-07-14T16:51:55.0000000Z"
     }
   ]
 }
