@@ -1,7 +1,19 @@
 {
   "category": "scienza",
-  "updated": "2026-11-28T02:47:16.5010056Z",
+  "updated": "2026-11-28T10:57:05.3265018Z",
   "items": [
+    {
+      "id": "focus:aa83f75fb4a8",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Dieta o esercizio: quale conta di più?",
+      "url": "https://www.focus.it/scienza/salute/dieta-sana-o-attivita-fisica-che-cosa-conta-di-piu-se-vuoi-vivere-a-lungo",
+      "image": "https://www.focus.it/images/2026/11/26/esercizio-fisico_w630.jpg?imbypass=true",
+      "summary": "Dieta ed esercizio sono fondamentali per la longevità (e non bisogna scegliere!), ma quale dei due è più potente, nel mantenerci in salute?",
+      "date": "2026-11-28T05:00:00.0000000Z"
+    },
     {
       "id": "media-inaf:137143d18bb1",
       "sourceId": "media-inaf",
@@ -27,14 +39,14 @@
       "date": "2026-11-27T18:26:54.0000000Z"
     },
     {
-      "id": "focus:387dec32fd97",
+      "id": "focus:748e4046789e",
       "sourceId": "focus",
       "source": "Focus",
       "platform": "rss",
       "category": "scienza",
-      "title": "Scavalca i tappeti, non si aggroviglia coi capelli e ora costa un terzo in meno",
-      "url": "https://www.focus.it/focus-offerte/robot-aspirapolvere-xiaomi-h50-pro-offerta-black-friday",
-      "image": "https://www.focus.it/images/2026/11/27/aspirapolvere-Anti-Tangle-auto-pulizia-asciugatura-sollevamento_w630.jpg?imbypass=true",
+      "title": "Vedi arrivare il temporale prima dei vicini: la stazione radar è scontata del 20%",
+      "url": "https://www.focus.it/focus-offerte/stazione-meteo-radar-wifi-offerta-black-friday",
+      "image": "https://www.focus.it/images/2026/11/27/meteo-radar-Display-Stazione-Wi-Fi_w630.jpg?imbypass=true",
       "summary": "",
       "date": "2026-11-27T16:00:00.0000000Z"
     },
@@ -99,14 +111,14 @@
       "date": "2026-11-27T16:00:00.0000000Z"
     },
     {
-      "id": "focus:748e4046789e",
+      "id": "focus:387dec32fd97",
       "sourceId": "focus",
       "source": "Focus",
       "platform": "rss",
       "category": "scienza",
-      "title": "Vedi arrivare il temporale prima dei vicini: la stazione radar è scontata del 20%",
-      "url": "https://www.focus.it/focus-offerte/stazione-meteo-radar-wifi-offerta-black-friday",
-      "image": "https://www.focus.it/images/2026/11/27/meteo-radar-Display-Stazione-Wi-Fi_w630.jpg?imbypass=true",
+      "title": "Scavalca i tappeti, non si aggroviglia coi capelli e ora costa un terzo in meno",
+      "url": "https://www.focus.it/focus-offerte/robot-aspirapolvere-xiaomi-h50-pro-offerta-black-friday",
+      "image": "https://www.focus.it/images/2026/11/27/aspirapolvere-Anti-Tangle-auto-pulizia-asciugatura-sollevamento_w630.jpg?imbypass=true",
       "summary": "",
       "date": "2026-11-27T16:00:00.0000000Z"
     },
@@ -147,18 +159,6 @@
       "date": "2026-11-27T13:19:34.0000000Z"
     },
     {
-      "id": "focus:d8ee781466e4",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "Il governo USA ha pubblicato nuovi file su Bigfoot",
-      "url": "https://www.focus.it/ambiente/animali/il-governo-usa-ha-pubblicato-nuovi-file-su-bigfoot",
-      "image": "https://www.focus.it/images/2026/11/26/bigfoot_w630.jpg?imbypass=true",
-      "summary": "Non è uno scherzo: lo US Forest Service ha rilasciato tre nuovi documenti relativi a incontri (veri o presunti) con il mitico Bigfoot.",
-      "date": "2026-11-27T12:00:00.0000000Z"
-    },
-    {
       "id": "focus:63e1ead0968e",
       "sourceId": "focus",
       "source": "Focus",
@@ -168,6 +168,18 @@
       "url": "https://www.focus.it/scienza/spazio/artemis-III-luca-parmitano-non-ci-accontenteremo-delle-macchine-esplorazione-umana-ancora-necessaria-il-video",
       "image": "https://www.focus.it/images/2026/11/26/luca-parmitano_w630.jpg?imbypass=true",
       "summary": "Focus incontra Luca Parmitano, primo astronauta europeo del programma Artemis, al Museo della Scienza di Milano. Quali sfide per il ritorno sulla luna?",
+      "date": "2026-11-27T12:00:00.0000000Z"
+    },
+    {
+      "id": "focus:d8ee781466e4",
+      "sourceId": "focus",
+      "source": "Focus",
+      "platform": "rss",
+      "category": "scienza",
+      "title": "Il governo USA ha pubblicato nuovi file su Bigfoot",
+      "url": "https://www.focus.it/ambiente/animali/il-governo-usa-ha-pubblicato-nuovi-file-su-bigfoot",
+      "image": "https://www.focus.it/images/2026/11/26/bigfoot_w630.jpg?imbypass=true",
+      "summary": "Non è uno scherzo: lo US Forest Service ha rilasciato tre nuovi documenti relativi a incontri (veri o presunti) con il mitico Bigfoot.",
       "date": "2026-11-27T12:00:00.0000000Z"
     },
     {
@@ -206,18 +218,6 @@
       "summary": "",
       "videoId": "Om2FOYZ7X9c",
       "date": "2026-11-27T06:00:39.0000000Z"
-    },
-    {
-      "id": "focus:f053c525a900",
-      "sourceId": "focus",
-      "source": "Focus",
-      "platform": "rss",
-      "category": "scienza",
-      "title": "I traumi alterano la chimica del cervello",
-      "url": "https://www.focus.it/comportamento/psicologia/cervello-traccia-traumi-livello-molecolare-geni",
-      "image": "https://www.focus.it/images/2026/11/26/amigdala_w630.jpg?imbypass=true",
-      "summary": "I traumi alterano la chimica del cervello: possono contribuire ad alterare il funzionamento dei geni e sono associati a differenze cellulari.",
-      "date": "2026-11-27T05:00:00.0000000Z"
     },
     {
       "id": "media-inaf:86fda008f227",

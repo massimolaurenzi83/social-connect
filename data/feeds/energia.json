@@ -1,7 +1,31 @@
 {
   "category": "energia",
-  "updated": "2026-11-28T02:47:16.4418059Z",
+  "updated": "2026-11-28T10:57:05.2836016Z",
   "items": [
+    {
+      "id": "qualenergia:c806b8589e7b",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "INFODATA ENERGIA",
+      "url": "https://www.qualenergia.it/pro/documenti/quota-rinnovabili-4-9-21-31-pun-5-9-21-e-mwh-11309-petrolio-wti-b-6929-co2-3-9-21-e-ton-6133/",
+      "image": null,
+      "summary": "SOMMARIO Rinnovabili elettriche: dati giornalieri, settimanali, mensili Prezzo unico nazionale (PUN) ed esteri Prezzi petrolio e gas Prezzi CO2 e certificati bianchi Potenza rinnovabile elettrica Mercato fotovoltaico ...",
+      "date": "2026-11-28T05:15:00.0000000Z"
+    },
+    {
+      "id": "qualenergia:28c24aba79dc",
+      "sourceId": "qualenergia",
+      "source": "QualEnergia",
+      "platform": "rss",
+      "category": "energia",
+      "title": "BANDI E APPALTI",
+      "url": "https://www.qualenergia.it/pro/documenti/archivio-bandi/",
+      "image": null,
+      "summary": "Sommario BANDI E APPALTI DEL GIORNO I nuovi bandi e finanziamenti locali, regionali e nazionali e gare d’appalto per fornitura di beni e servizi su energia, edilizia, rinnovabili, efficienza energetica, mobilità soste...",
+      "date": "2026-11-28T05:00:00.0000000Z"
+    },
     {
       "id": "qualenergia:0fef9de6b31e",
       "sourceId": "qualenergia",
@@ -121,30 +145,6 @@
       "image": null,
       "summary": "Il ministro dell’Ambiente e della Sicurezza energetica, Gilberto Pichetto Fratin, ha firmato il decreto che approva le regole per la nuova piattaforma di mercato dei Power Purchase Agreement, da cui l’acronimo Mppa, i...",
       "date": "2026-11-27T08:00:33.0000000Z"
-    },
-    {
-      "id": "qualenergia:15b368033933",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Lombardia, incentivi anche per l’efficientamento energetico degli immobili pubblici a uso turistico",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/lombardia-incentivi-efficientamento-energetico-immobili-pubblici-uso-turistico/",
-      "image": null,
-      "summary": "La Regione Lombardia finanzia progetti di riqualificazione, anche energetica, di immobili pubblici destinati alla fruizione turistica. Il bando “SOLO inLOMBARDIA” (allegato in fondo) mette a disposizione 1.626.544 eur...",
-      "date": "2026-11-27T07:55:44.0000000Z"
-    },
-    {
-      "id": "qualenergia:50d40d648ab7",
-      "sourceId": "qualenergia",
-      "source": "QualEnergia",
-      "platform": "rss",
-      "category": "energia",
-      "title": "Bandi e appalti del giorno (5)",
-      "url": "https://www.qualenergia.it/pro/articoli-pro/bandi-e-appalti-del-giorno/",
-      "image": null,
-      "summary": "Per gli abbonati a QualEnergia.it PRO ogni giorno bandi e finanziamenti locali, regionali, nazionali ed europei e gare d’appalto per la fornitura di beni e servizi su energia, rinnovabili, edilizia, efficienza energet...",
-      "date": "2026-11-27T07:30:17.0000000Z"
     }
   ]
 }
