@@ -1,7 +1,19 @@
 {
   "category": "cybersecurity",
-  "updated": "2026-11-27T20:15:09.2139902Z",
+  "updated": "2026-11-28T02:47:16.4839510Z",
   "items": [
+    {
+      "id": "cybersecurity360:0a2a38055f52",
+      "sourceId": "cybersecurity360",
+      "source": "Cybersecurity360",
+      "platform": "rss",
+      "category": "cybersecurity",
+      "title": "SAP, l’incidente su GitHub riapre il tema della sicurezza della software supply chain",
+      "url": "https://www.cybersecurity360.it/nuove-minacce/sap-lincidente-su-github-riapre-il-tema-della-sicurezza-della-software-supply-chain/",
+      "image": null,
+      "summary": "SAP conferma attività sospette, mentre le ricostruzioni giornalistiche indicano un possibile furto di token e la manipolazione del codice sorgente su GitHub. Non risultano accessi non autorizzati ai dati dei clienti, ...",
+      "date": "2026-11-27T18:29:00.0000000Z"
+    },
     {
       "id": "cybersecurity360:f926f3cfa9cd",
       "sourceId": "cybersecurity360",
@@ -109,18 +121,6 @@
       "image": null,
       "summary": "Il Digital Omnibus lascia invariata la definizione di dato personale del GDPR, ma il Consiglio UE propone di disciplinare la pseudonimizzazione con il nuovo articolo 25a. Dalla giurisprudenza europea alle linee guida ...",
       "date": "2026-11-27T09:05:48.0000000Z"
-    },
-    {
-      "id": "cybersecurity360:5a8ac9fead6d",
-      "sourceId": "cybersecurity360",
-      "source": "Cybersecurity360",
-      "platform": "rss",
-      "category": "cybersecurity",
-      "title": "L’AI sta per rompere la crittografia mondiale? Il timore si fa strada",
-      "url": "https://www.cybersecurity360.it/cultura-cyber/lai-sta-per-rompere-la-crittografia-mondiale-il-timore-si-fa-strada/",
-      "image": null,
-      "summary": "La Bank of England ha incluso per la prima volta l'AI tra i rischi per la crittografia. La minaccia potrebbe precedere quella quantistica. E secondo alcune voci riportare da un famoso informatico americano, OpenAI o A...",
-      "date": "2026-11-27T07:01:00.0000000Z"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "category": "motori",
-  "updated": "2026-11-27T20:15:09.2243223Z",
+  "updated": "2026-11-28T02:47:16.4684707Z",
   "items": [
+    {
+      "id": "motor1:5df19699cd84",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Mercedes Classe C (2026), perché comprarla e perché no",
+      "url": "https://it.motor1.com/reviews/816924/mercedes-classe-c-elettrica-2026-recensione/",
+      "image": "https://cdn.motor1.com/images/mgl/G3bm3A/s3/mercedes-classe-c-2026-perche-comprarla-e-perche-no.jpg",
+      "summary": "Comfort altissimo, tanta tecnologia e ricarica velocissima. Qualche dettaglio però potrebbe essere migliorato",
+      "date": "2026-11-28T00:00:00.0000000Z"
+    },
+    {
+      "id": "vaielettrico:b497223b265b",
+      "sourceId": "vaielettrico",
+      "source": "Vaielettrico",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Dal nuovo alle auto ricondizionate: c’è una seconda vita per l’automotive",
+      "url": "https://www.vaielettrico.it/dal-nuovo-alle-auto-ricondizionate-ce-una-seconda-vita-per-lautomotive/",
+      "image": null,
+      "summary": "In Europa alcuni stabilimenti automobilistici cambiano funzione e diventano centri industriali per il ricondizionamento delle auto usate. Il… L'articolo Dal nuovo alle auto ricondizionate: c’è una seconda vita per l’a...",
+      "date": "2026-11-27T21:44:23.0000000Z"
+    },
     {
       "id": "hdmotori:e3c811afb942",
       "sourceId": "hdmotori",
@@ -171,18 +195,6 @@
       "date": "2026-11-27T16:00:51.0000000Z"
     },
     {
-      "id": "motor1:eba99c2f41ac",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Arval, il noleggio che si è trasformato in un ecosistema di servizi",
-      "url": "https://it.motor1.com/features/817062/arval-servizi-noleggio/",
-      "image": "https://cdn.motor1.com/images/mgl/eoWmkP/s3/arval-servizi-e-proattivita-nel-futuro-del-noleggio.jpg",
-      "summary": "Da società di noleggio a fornitore di mobilità a 360°: ecco come funzionano i servizi Arval, uno per uno, per privati e aziende",
-      "date": "2026-11-27T16:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:ebd4261fa129",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -192,6 +204,18 @@
       "url": "https://insideevs.it/news/817026/auto-elettriche-europa-quote-co2/",
       "image": "https://cdn.motor1.com/images/mgl/vx7bKQ/s3/auto-elettriche-francia-e-germania-volano-l-italia-resta-ferma-all-8.jpg",
       "summary": "La quota elettrica sale al 32% in Francia e al 29% in Germania. L'Italia cresce di tre punti, ma rimane molto lontana dalle due potenze",
+      "date": "2026-11-27T16:00:00.0000000Z"
+    },
+    {
+      "id": "motor1:eba99c2f41ac",
+      "sourceId": "motor1",
+      "source": "Motor1 Italia",
+      "platform": "rss",
+      "category": "motori",
+      "title": "Arval, il noleggio che si è trasformato in un ecosistema di servizi",
+      "url": "https://it.motor1.com/features/817062/arval-servizi-noleggio/",
+      "image": "https://cdn.motor1.com/images/mgl/eoWmkP/s3/arval-servizi-e-proattivita-nel-futuro-del-noleggio.jpg",
+      "summary": "Da società di noleggio a fornitore di mobilità a 360°: ecco come funzionano i servizi Arval, uno per uno, per privati e aziende",
       "date": "2026-11-27T16:00:00.0000000Z"
     },
     {
@@ -363,18 +387,6 @@
       "date": "2026-11-27T11:00:00.0000000Z"
     },
     {
-      "id": "motor1:19ddce9fc1aa",
-      "sourceId": "motor1",
-      "source": "Motor1 Italia",
-      "platform": "rss",
-      "category": "motori",
-      "title": "La Shelby di Fuori in 60 Secondi ritorna con un restomod",
-      "url": "https://it.motor1.com/news/816963/vintage-modern-mustang-restomod-eleanor/",
-      "image": "https://cdn.motor1.com/images/mgl/Znl9jK/s3/vintage-modern-eleanor-tribute-s650-mustang.jpg",
-      "summary": "La Vintage Fastback è un tributo a Eleanor. Ha un V8 che può raggiungere gli 852 CV e...non costa poco",
-      "date": "2026-11-27T11:00:00.0000000Z"
-    },
-    {
       "id": "insideevs:7e55b0fc0aed",
       "sourceId": "insideevs",
       "source": "InsideEVs Italia",
@@ -505,18 +517,6 @@
       "image": "https://cdn.motor1.com/images/mgl/L36b4R/s3/autonomia-residua-al-freddo-la-classifica-2026.jpg",
       "summary": "Tutte le auto perdono autonomia quando la temperatura scende sotto zero, ma alcune EV lo gestiscono meglio di altre.",
       "date": "2026-11-26T12:00:00.0000000Z"
-    },
-    {
-      "id": "vaielettrico:fe736d37b163",
-      "sourceId": "vaielettrico",
-      "source": "Vaielettrico",
-      "platform": "rss",
-      "category": "motori",
-      "title": "Torna la Suzuki Ignis, ma questa volta è 100% elettrica",
-      "url": "https://www.vaielettrico.it/torna-la-suzuki-ignis-ma-questa-volta-e-100-elettrica/",
-      "image": null,
-      "summary": "Torna la Suzuki Ignis, ma con un’identità del tutto nuova. Derivata dalla kei-car giapponese e-Sky, arriverà sui mercati… L'articolo Torna la Suzuki Ignis, ma questa volta è 100% elettrica proviene da Vaielettrico .",
-      "date": "2026-11-26T11:32:11.0000000Z"
     },
     {
       "id": "insideevs:d5213464725a",
